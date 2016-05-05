@@ -1,3 +1,5 @@
+# City of Boston Starter
+
 This is a basic Jekyll starter project. It uses Gulp for building everything, so that we can more easily incorporate things like BrowserSync, Stylus and any necessary plugins.
 
 To get up and running, download (or fork) this repo. Then in your project run:
