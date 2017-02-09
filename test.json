@@ -1,12 +1,14 @@
-{
-  "id": 1,
-  "nm": "Jim Fisk",
-  "pp": "None, Federalist",
-  "tm": "1789-1797"
-},
-{
-  "id": 2,
-  "nm": "TEST",
-  "pp": "Federalist",
-  "tm": "1797-1801"
-},
+[
+  {
+    "id": 1,
+    "nm": "Jim Fisk",
+    "pp": "None, Federalist",
+    "tm": "1789-1797"
+  },
+  {
+    "id": 2,
+    "nm": "TEST",
+    "pp": "Federalist",
+    "tm": "1797-1801"
+  }
+]
