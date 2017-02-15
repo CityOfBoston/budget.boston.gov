@@ -2,14 +2,16 @@
 layout: bos_wrapper
 ---
 {% include hero.html %}
-{% if page.title && page.breadcrumbs %}
+{% if page.title and page.breadcrumbs and page.published %}
   {% include breadcrumbs.html %}
 {% endif %}
-{% if page.title && page.short_desc && page.description %}
+{% if page.title and page.short_desc and page.description %}
   {% include intro.html %}
 {% endif %}
 
-<div class="sh">
+<br />
+
+<div class="sh desktop-100">
   <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
     Introduction
   </h2>

@@ -1,3 +1,7 @@
+{% if page.sidebar_menu %}
+  <div class="column mobile-100 desktop-66-left">
+{% endif %}
+
 <h1 class="title">{{ page.title }}</h1>
 <div class="intro-text supporting-text squiggle-border-bottom">
   <p>{{ page.short_desc }}</p>
@@ -6,3 +10,8 @@
 <div class="body">
   {{ page.description }}
 </div>
+
+{% if page.sidebar_menu %}
+  </div>
+  {% include sidebar_menu.html %}
+{% endif %}
