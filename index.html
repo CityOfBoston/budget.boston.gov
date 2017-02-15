@@ -2,28 +2,36 @@
 layout: bos_wrapper
 ---
 
-<div class="hero-image fullwidth">
-  <div class="hero-image-wrapper hero-image-wrapper--no-overlay">
-    <img src="/sites/all/themes/custom/boston_public/dist/img/default-hero-image.svg" />
-<div><a url="report-type-1" href="http://mysafeinfo.com/api/data?list=presidents&format=json" class="report">Remote</a></div>
-<div><a url="report-type-2" href="http://localhost:3000/test.json" class="report">Local</a></div>
+<div class="node-type-tabbed-content">
+  <div class="main">
+    <div class="container">
+      <section class="main-content" id="content" role="main">
+
+        <div class="hero-image fullwidth">
+          <div class="hero-image-wrapper hero-image-wrapper--no-overlay">
+            <img src="/sites/all/themes/custom/boston_public/dist/img/default-hero-image.svg" />
+          </div>
+        </div>
+
+        <div class="title-wrapper">
+          <div class="title-inner-wrapper">
+            <h1 class="title-with-hero">Fiscal Year 2018 Recommended Budget</h1>
+          </div>
+        </div>
+
+        <ul class="tabs content-section-tabs">
+          <li data-tab="remote" class="tabs__tab">
+            <a href="http://mysafeinfo.com/api/data?list=presidents&format=json" class="tabs__tab-link report">Remote</a>
+          </li>
+          <li data-tab="local" class="tabs__tab">
+            <a href="http://localhost:3000/test.json" class="tabs__tab-link report">Local</a>
+          </li>
+        </ul>
+
+      </section>
+    </div>
   </div>
 </div>
-
-<div class="title-wrapper">
-  <div class="title-inner-wrapper">
-    <h1 class="title-with-hero">Welcome to the City of Boston!</h1>
-  </div>
-</div>
-
-<ul class="tabs content-section-tabs">
-  <li data-tab="remote" class="tabs__tab">
-    <a href="http://mysafeinfo.com/api/data?list=presidents&format=json" class="tabs__tab-link report">Remote</a>
-  </li>
-  <li data-tab="local" class="tabs__tab">
-    <a href="http://localhost:3000/test.json" class="tabs__tab-link report">Local</a>
-  </li>
-</ul>
 
 <table class="responsive-table responsive-table--horizontal">
   <thead>
