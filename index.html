@@ -22,4 +22,25 @@ description: >
   The City's data-driven managerial approach was recently 
   validated by the affirmation of Boston's triple A bond rating.
 sidebar_menu: true
+js_table:
+  - title: Remote JSON
+    json_source_url: "http://mysafeinfo.com/api/data?list=presidents&format=json"
+    columns:
+      - column_name: Name
+        json_key: nm
+      - column_name: Party
+        json:key: pp
+      - column_name: Term
+        json_key: tm
+  - title: Local JSON
+    json_source_url: "http://localhost:3000/test.json"
+    columns:
+      - column_name: Name
+        json_key: nm
+      - column_name: Party
+        json:key: pp
+      - column_name: Term
+        json_key: tm
+      - column_name: Custom
+        json_key: custom
 ---

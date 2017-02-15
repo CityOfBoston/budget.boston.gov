@@ -3,12 +3,14 @@
     "id": 1,
     "nm": "Jim Fisk",
     "pp": "None, Federalist",
-    "tm": "1789-1797"
+    "tm": "1789-1797",
+    "custom": "It Worked!"
   },
   {
     "id": 2,
     "nm": "TEST",
     "pp": "Federalist",
-    "tm": "1797-1801"
+    "tm": "1797-1801",
+    "custom": "this row too.."
   }
 ]

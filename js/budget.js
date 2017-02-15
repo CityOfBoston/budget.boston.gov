@@ -20,9 +20,10 @@ function getJSONObject(path) {
   }
 }
 
-$('.report').click(function(event) {
+$('.js-table-link').click(function(event) {
   event.preventDefault();
   getJSONObject($(this).attr('href'));
+  $('.js-table-title').html($(this).html());
 });
 
 function JSONObjCallback(obj) {
