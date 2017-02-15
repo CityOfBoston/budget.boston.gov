@@ -27,13 +27,30 @@ $('.js-table-link').click(function(event) {
 });
 
 function JSONObjCallback(obj) {
-  $('table tbody').empty();
+  //var table = document.createElement('table');
+  //table.setAttribute("class","responsive-table responsive-table--horizontal");
+  //var thead = document.createElement('thead');
+  //var tbody = document.createElement('tbody');
+  //table.appendChild(thead);
+  //table.appendChild(tbody);
+  //$('.js-table-result').append(table);
+  $('table.js-table tbody').empty();
+  //var th;
+  //th.append("<th>Name</th>");
+  //th.append("<th>Party</th>");
+  //th.append("<th>Term</th>");
+  //$('table.js-table').append(th);
   var tr;
+  tr = $('<tr/>');
+  tr.append("<th>Name</th>");
+  tr.append("<th>Party</th>");
+  tr.append("<th>Term</th>");
+  $('table.js-table').append(tr);
   for (var i = 0; i < obj.length; i++) {
     tr = $('<tr/>');
     tr.append("<td>" + obj[i].nm + "</td>");
     tr.append("<td>" + obj[i].pp + "</td>");
     tr.append("<td>" + obj[i].tm + "</td>");
-    $('table').append(tr);
+    $('table.js-table').append(tr);
   }
 }
