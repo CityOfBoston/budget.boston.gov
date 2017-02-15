@@ -1,0 +1,90 @@
+---
+layout: bos_wrapper
+---
+
+<div class="node-type-tabbed-content">
+  <div class="main">
+    <div class="container">
+      <section class="main-content" id="content" role="main">
+
+        <div class="hero-image fullwidth">
+          <div class="hero-image-wrapper hero-image-wrapper--no-overlay">
+            <img src="/sites/all/themes/custom/boston_public/dist/img/default-hero-image.svg" />
+          </div>
+        </div>
+
+        <div class="title-wrapper">
+          <div class="title-inner-wrapper">
+            <h1 class="title-with-hero">{{ site.title }}</h1>
+            <div class="title-body supporting-text">
+              <p>{{ site.description }}</p>
+            </div>
+          </div>
+        </div>
+
+        <ul class="tabs content-section-tabs">
+          <li data-tab="remote" class="tabs__tab">
+            <a href="http://mysafeinfo.com/api/data?list=presidents&format=json" class="tabs__tab-link report">Executive Summary</a>
+          </li>
+          <li data-tab="local" class="tabs__tab">
+            <a href="http://localhost:3000/test.json" class="tabs__tab-link report">Featured Analysis</a>
+          </li>
+          <li data-tab="remote" class="tabs__tab">
+            <a href="http://mysafeinfo.com/api/data?list=presidents&format=json" class="tabs__tab-link report">Capital Projects</a>
+          </li>
+          <li data-tab="local" class="tabs__tab">
+            <a href="http://localhost:3000/test.json" class="tabs__tab-link report">Spending</a>
+          </li>
+        </ul>
+
+      </section>
+    </div>
+  </div>
+</div>
+
+<div class="breadcrumb">
+  <a href="/">Home</a>
+  <span class="crumbs-separator"> &gt; </span>
+  <a href="/departments">Departments</a>
+  <span class="crumbs-separator"> &gt; </span>
+  <a href="/departments/parking-clerk">Parking Clerk</a>
+  <span class="crumbs-separator"> &gt; </span>
+  How to pay a parking ticket
+</div>
+<div class="breadcrumb-last-updated">
+  Last updated:
+  <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2016-04-21T00:00:00-04:00">4/21/16</span>
+</div>
+
+<h1 class="title">{{ page.title }}</h1>
+<div class="intro-text supporting-text squiggle-border-bottom">
+  <p>{{ page.short_desc }}</p>
+</div>
+
+<div class="body">
+  {{ page.description }}
+</div>
+
+<div class="sh">
+  <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
+    Introduction
+  </h2>
+</div>
+
+<br />
+
+<table class="responsive-table responsive-table--horizontal">
+  <thead>
+    <th>Name</th>
+    <th>Party</th>
+    <th>Term</th>
+  </thead>
+  <tbody>
+  </tbody>
+</table>
+<div id="result"></div>
+
+<br />
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="http://localhost:3000/js/budget.js" type="text/javascript"></script>
