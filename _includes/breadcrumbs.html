@@ -1,0 +1,10 @@
+<div class="breadcrumb">
+{% for breadcrumb in page.breadcrumbs %}
+  <a href="{{ breadcrumb.url }}">{{ breadcrumb.title }}</a>
+  <span class="crumbs-separator"> &gt; </span>
+{% endfor %}
+  {{ page.title }}
+</div>
+<div class="breadcrumb-last-updated">
+  Last updated: {{ page.published }}
+</div>
