@@ -1,3 +1,15 @@
+/**
+ * Click event that determines which JSON table gets created
+ */
+$('.js-table-link').click(function(event) {
+  event.preventDefault();
+  getJSONObject($(this).attr('href'), $(this).attr('data-js-table-th'), $(this).attr('data-js-table-td'));
+  $('.js-table-title').html($(this).html());
+});
+
+/**
+ * Gets the JSON and puts it into an object
+ */
 function getJSONObject(path, th, td) {
   var req = new XMLHttpRequest();
   // Feature detection for CORS
@@ -12,10 +24,6 @@ function getJSONObject(path, th, td) {
           var thJSONObj = JSON.parse(thObj);
           var tdObj = (this, td);
           var tdJSONObj = JSON.parse(tdObj);
-          //console.log(thObj);
-          //console.log(thJSONObj);
-          //console.log(tdObj);
-          //console.log(tdJSONObj);
           JSONObjCallback(jsonObj, thJSONObj, tdJSONObj);
           } else {
             // Handle error case
@@ -26,27 +34,25 @@ function getJSONObject(path, th, td) {
   }
 }
 
-$('.js-table-link').click(function(event) {
-  event.preventDefault();
-  getJSONObject($(this).attr('href'), $(this).attr('data-js-table-th'), $(this).attr('data-js-table-td'));
-  $('.js-table-title').html($(this).html());
-});
-
+/**
+ * Build the actual table that's displayed to the page
+ */
 function JSONObjCallback(obj, th, td) {
   $('table.js-table tbody').empty();
   var tr;
   tr = $('<tr/>');
   for (var i = 0; i < Object.keys(th[0]).length; i++) {
-    console.log(th);
     var j = i + 1;
     tr.append("<th>" + th[0][j] + "</th>");
     $('table.js-table').append(tr);
   }
   for (var i = 0; i < obj.length; i++) {
     tr = $('<tr/>');
-    tr.append("<td>" + obj[i].nm + "</td>");
-    tr.append("<td>" + obj[i].pp + "</td>");
-    tr.append("<td>" + obj[i].tm + "</td>");
+    for (var j = 0; j < Object.keys(td[0]).length; j++) {
+      var k = j + 1;
+      var key = td[0][k];
+      tr.append("<td>" + obj[i][key] + "</td>");
+    }
     $('table.js-table').append(tr);
   }
 }
