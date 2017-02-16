@@ -10,7 +10,10 @@
             <div class="grid-link">
               <div class="link-wrapper internal-link separated-link">
                 <div class="link-item">
-                  <a href="{{ table.json_source_url }}" title="View table information for {{ table.title }}" class="js-table-link">
+                  <a href="{{ table.json_source_url }}" title="View table information for {{ table.title }}" class="js-table-link"
+                                                                                                             data-js-table-th='[{ {% for column in table.columns %}"{{ forloop.index }}":"{{ column.column_name }}"{% if forloop.last == false %},{% endif %}{% endfor %} }]'
+                                                                                                             data-js-table-td='[{ {% for column in table.columns %}"{{ forloop.index }}":"{{ column.json_key }}"{% if forloop.last == false %},{% endif %}{% endfor %} }]'
+                  >
                     {{ table.title }}
                   </a>
                 </div>
