@@ -19,7 +19,6 @@ To create custom pages, you can simply add reusable components to markdown files
 
 Here's a short list of some common components you can use:
 
-<pre>
 **Breadcrumbs**
 ![Screenshot of breadcrumb page navigation](/images/breadcrumbs.png "Breadcrumbs Screenshot")
 ```
@@ -31,9 +30,9 @@ breadcrumbs:
  - current: Executive Summary
  - published: 2/15/17
 ```
-</pre>
 
-<pre>
+---
+
 **Intro**
 ![Screenshot of page introductory section](/images/intro.png "Intro Screenshot")
 
@@ -58,9 +57,9 @@ intro:
      validated by the affirmation of Boston's triple A bond rating.
    sidebar_menu: true
 ```
-</pre>
 
-<pre>
+---
+
 **Text Block**
 ![Screenshot of a block of text component](/images/text_block.png "Text Block Screenshot")
 
@@ -79,4 +78,3 @@ text_block:
       to address areas needing renewed attention.
     right_image: http://tomakeawebsite.net/wp-content/uploads/2015/03/Google-charts-plugin.jpg
 ```
-</pre>
