@@ -78,3 +78,58 @@ text_block:
       to address areas needing renewed attention.
     right_image: http://tomakeawebsite.net/wp-content/uploads/2015/03/Google-charts-plugin.jpg
 ```
+
+---
+
+**Spanning Image**
+![Screenshot of an image that spans the full screen](/images/spanning_image.png "Spanning Image Screenshot")
+```
+spanning_image:
+  - title: Lorem ipsum title
+    desc: This is the description for the spanning image
+    link:
+      - text: Click Here
+        url: https://google.com
+    src: https://www.boston.gov/sites/default/files/styles/resp_wide_2000x800custom_boston_wide_1x/public/winter_swimming_10.jpg?itok=W91jOE5G&timestamp=1452037695
+    alt: Placeholder alt text
+    title: Placeholder image title
+```
+---
+
+**JS Table**
+![Screenshot of a table that pulls data from a JSON source](/images/js_table.png "JS Table Screenshot")
+
+```
+js_table:
+  - title: Remote JSON
+    json_source_url: "http://mysafeinfo.com/api/data?list=presidents&format=json"
+    columns:
+      - column_name: Name
+        json_key: nm
+      - column_name: Party
+        json_key: pp
+      - column_name: Term
+        json_key: tm
+  - title: Local JSON
+    json_source_url: "http://localhost:3000/test.json"
+    columns:
+      - column_name: Name
+        json_key: nm
+      - column_name: Party
+        json_key: pp
+      - column_name: Term
+        json_key: tm
+      - column_name: Custom
+        json_key: custom
+  - title: 2nd Local test
+    json_source_url: "http://localhost:3000/test2.json"
+    columns:
+      - column_name: New title
+        json_key: this thing
+      - column_name: Name
+        json_key: nombre
+      - column_name: Other
+        json_key: other thing
+      - column_name: Last Col
+        json_key: custom
+```
