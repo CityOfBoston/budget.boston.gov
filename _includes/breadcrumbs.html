@@ -4,13 +4,13 @@
     <a href="{{ breadcrumb.url }}">{{ breadcrumb.title }}</a>
     <span class="crumbs-separator"> &gt; </span>
   {% endif %}
-{% endfor %}
-  {{ page.title }}
-</div>
-<div class="breadcrumb-last-updated">
-{% for breadcrumb in include.arg[1] %}
+  {% if breadcrumb.current %}
+    {{ breadcrumb.current }}
+  {% endif %}
   {% if breadcrumb.published %}
-    Last updated: {{ breadcrumb.published }}
+</div>
+    <div class="breadcrumb-last-updated">
+      Last updated: {{ breadcrumb.published }}
   {% endif %}
 {% endfor %}
 </div>
