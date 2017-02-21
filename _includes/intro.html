@@ -1,17 +1,17 @@
-{% if page.sidebar_menu %}
+{% if include.arg[1][0].sidebar_menu %}
   <div class="column mobile-100 desktop-66-left">
 {% endif %}
 
-<h1 class="title">{{ page.title }}</h1>
+<h1 class="title">{{ include.arg[1][0].title }}</h1>
 <div class="intro-text supporting-text squiggle-border-bottom">
-  <p>{{ page.short_desc }}</p>
+  <p>{{ include.arg[1][0].short_desc }}</p>
 </div>
 
 <div class="body">
-  {{ page.description }}
+  {{ include.arg[1][0].description }}
 </div>
 
-{% if page.sidebar_menu %}
+{% if include.arg[1][0].sidebar_menu %}
   </div>
   {% include sidebar_menu.html %}
 {% endif %}
