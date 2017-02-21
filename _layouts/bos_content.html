@@ -12,6 +12,10 @@ layout: bos_wrapper
     {% include breadcrumbs.html arg=component %}
   {% endif %}
 
+  {% if i == "intro" %}
+    {% include intro.html arg=component %}
+  {% endif %}
+
   {% if i == "text_block" %}
     {% include text_block.html arg=component %}
   {% endif %}
@@ -19,10 +23,6 @@ layout: bos_wrapper
 {% endfor %}
 
 {% comment %}
-
-  {% if page.title and page.breadcrumbs and page.published %}
-    {% include breadcrumbs.html %}
-  {% endif %}
 
   {% if page.title and page.short_desc and page.description %}
     {% include intro.html %}
