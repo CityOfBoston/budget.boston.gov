@@ -7,28 +7,16 @@ layout: bos_wrapper
 {% for component in page %}
 
   {% assign i = (component[0] | replace: '+','') %}
+
+  {% if i == "breadcrumbs" %}
+    {% include breadcrumbs.html arg=component %}
+  {% endif %}
+
   {% if i == "text_block" %}
-    {% include text_block.html foo=component %}
+    {% include text_block.html arg=component %}
   {% endif %}
 
 {% endfor %}
-
-{% comment %}
-  {{ component[0] | replace: '+','' }}
-  {{ forloop.index }}
-  {% assign i = (component[0] | replace: '+','') %}
-  {% if i == "text_block" %}
-  {% endif %}
-  {% endfor %}
-
-  {% if component[0] == "breadcrumbs" %}
-    {% include breadcrumbs.html %}
-  {% endif %}
-
-  {% if component[0] == "text_block" %}
-    {% include text_block.html %}
-  {% endif %}
-{% endcomment %}
 
 {% comment %}
 
