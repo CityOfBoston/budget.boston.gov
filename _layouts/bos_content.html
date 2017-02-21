@@ -4,22 +4,52 @@ layout: bos_wrapper
 
 {% include hero.html %}
 
-{% if page.title and page.breadcrumbs and page.published %}
-  {% include breadcrumbs.html %}
-{% endif %}
+{% for component in page %}
 
-{% if page.title and page.short_desc and page.description %}
-  {% include intro.html %}
-{% endif %}
+  {% assign i = (component[0] | replace: '+','') %}
+  {% if i == "text_block" %}
+    {% include text_block.html foo=component %}
+  {% endif %}
 
-<div class="sh desktop-100">
-  <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
-    Introduction
-  </h2>
-</div>
+{% endfor %}
 
-<br />
+{% comment %}
+  {{ component[0] | replace: '+','' }}
+  {{ forloop.index }}
+  {% assign i = (component[0] | replace: '+','') %}
+  {% if i == "text_block" %}
+  {% endif %}
+  {% endfor %}
 
-{% if page.js_table %}
-  {% include js_table.html %}
-{% endif %}
+  {% if component[0] == "breadcrumbs" %}
+    {% include breadcrumbs.html %}
+  {% endif %}
+
+  {% if component[0] == "text_block" %}
+    {% include text_block.html %}
+  {% endif %}
+{% endcomment %}
+
+{% comment %}
+
+  {% if page.title and page.breadcrumbs and page.published %}
+    {% include breadcrumbs.html %}
+  {% endif %}
+
+  {% if page.title and page.short_desc and page.description %}
+    {% include intro.html %}
+  {% endif %}
+
+  {% if page.text_block %}
+    {% include text_block.html %}
+  {% endif %}
+
+  {% if page.spanning_image %}
+    {% include spanning_image.html %}
+  {% endif %}
+
+  {% if page.js_table %}
+    {% include js_table.html %}
+  {% endif %}
+
+{% endcomment %}

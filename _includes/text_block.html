@@ -1,0 +1,20 @@
+<div class="sh desktop-100">
+  <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
+    {{ page.text_block[0].title }}
+    {{ include.foo[1][0].title }}
+  </h2>
+</div>
+{% if page.text_block[0].right_image %}
+<div class="desktop-66-left">
+{% else %}
+<div class="desktop-100">
+{% endif %}
+  <p class="supporting-text">
+  {{ page.text_block[0].body }}
+  </p>
+</div>
+{% if page.text_block[0].right_image %}
+<div class="desktop-33">
+  <img src="{{ page.text_block[0].right_image }}" />
+</div>
+{% endif %}

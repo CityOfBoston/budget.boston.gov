@@ -1,4 +1,9 @@
 /**
+ * Load table for the first .js-table-link found on page
+ */
+getJSONObject($('.js-table-link').attr('href'), $('.js-table-link').attr('data-js-table-th'), $('.js-table-link').attr('data-js-table-td'));
+
+/**
  * Click event that determines which JSON table gets created
  */
 $('.js-table-link').click(function(event) {
