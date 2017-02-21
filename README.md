@@ -33,6 +33,7 @@ breadcrumbs:
 
 **Intro**
 > Set sidebar_menu to false in order to have full spanning title, short description, and description sections
+
 ![Screenshot of page introductory section](/images/intro.png "Intro Screenshot")
 ```
 intro:
@@ -55,6 +56,7 @@ intro:
 ```
 **Text Block**
 > Omit the right_image key to have the text span the full screen
+
 ![Screenshot of a block of text component](/images/text_block.png "Text Block Screenshot")
 ```
 text_block:
