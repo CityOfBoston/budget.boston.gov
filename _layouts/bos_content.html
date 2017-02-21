@@ -28,4 +28,8 @@ layout: bos_wrapper
     {% include js_table.html arg=component %}
   {% endif %}
 
+  {% if i == "grid" %}
+    {% include grid.html arg=component %}
+  {% endif %}
+
 {% endfor %}

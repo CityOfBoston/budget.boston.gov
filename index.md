@@ -94,4 +94,26 @@ spanning_image+:
     src: https://central.wordcamp.org/files/2013/04/boston-skyline-for-banner1.jpg
     alt: Placeholder alt text
     title: Placeholder image title
+grid:
+  - title: Boston Common
+    subtitle: Downtown
+    body: >
+      Two centuries separate the creation of the Boston Common and the Public Garden, 
+      and what a difference that period made.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: https://boston.gov
+  - title: Another Title
+    subtitle: Subtitle
+    body: >
+      Two centuries separate the creation of the Boston Common and the Public Garden, 
+      and what a difference that period made.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
+    link: https://google.com
+  - title: Test
+    subtitle: test
+    body: >
+      Two centuries separate the creation of the Boston Common and the Public Garden, 
+      and what a difference that period made.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
+    link: /
 ---
