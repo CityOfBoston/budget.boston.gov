@@ -1,0 +1,25 @@
+{
+  "name": "CoBStaticStarter",
+  "description": "A starting point for any static HTML sites",
+  "version": "0.0.1",
+  "repository": "git@github.com:CityOfBoston/static-starter.git",
+  "private": true,
+  "dependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-download-stream": "0.0.13",
+    "gulp-rucksack": "^0.1.3",
+    "gulp-stylus": "^2.3.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "require-dir": "^0.3.0"
+  },
+  "engines": {
+    "node": ">= 5.0.0"
+  },
+  "devDependencies": {
+    "poststylus": "^0.2.3"
+  }
+}

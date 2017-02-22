@@ -1,0 +1,30 @@
+[
+  {
+    "this thing": "... tst",
+    "nombre": "Jim Fisk",
+    "other thing": "More info",
+    "level": "6",
+    "custom": "Still works ~"
+  },
+  {
+    "this thing": "Test",
+    "nombre": "TEST",
+    "other thing": "Additional info",
+    "level": "17",
+    "custom": "this row too.."
+  },
+  {
+    "this thing": "3rd",
+    "nombre": "TEST",
+    "other thing": "info",
+    "level": "1",
+    "custom": "lorem"
+  },
+  {
+    "this thing": "4th",
+    "nombre": "TEST",
+    "other thing": "Additional info",
+    "level": "288",
+    "custom": "custom content"
+  }
+]

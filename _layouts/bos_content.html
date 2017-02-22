@@ -1,0 +1,35 @@
+---
+layout: bos_wrapper
+---
+
+{% include hero.html %}
+
+{% for component in page %}
+
+  {% assign i = (component[0] | replace: '+','') %}
+
+  {% if i == "breadcrumbs" %}
+    {% include breadcrumbs.html arg=component %}
+  {% endif %}
+
+  {% if i == "intro" %}
+    {% include intro.html arg=component %}
+  {% endif %}
+
+  {% if i == "text_block" %}
+    {% include text_block.html arg=component %}
+  {% endif %}
+
+  {% if i == "spanning_image" %}
+    {% include spanning_image.html arg=component %}
+  {% endif %}
+
+  {% if i == "js_table" %}
+    {% include js_table.html arg=component %}
+  {% endif %}
+
+  {% if i == "grid" %}
+    {% include grid.html arg=component %}
+  {% endif %}
+
+{% endfor %}

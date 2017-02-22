@@ -1,0 +1,40 @@
+<div class="sh desktop-100">
+  <h2 data-short-title="{{ page.js_table.title }}" class="sh-title js-table-title">{{ page.js_table[0].title }}</h2>
+</div>
+<div class="entity entity-paragraphs-item paragraphs-item-group-of-links-mini-grid component-section clearfix" about="" typeof="">
+  <div class="content">
+    <div class="links-grid-field-grid-links links-grid-field-mini-grid-links mobile-100 clearfix">
+      <div class="paragraphs-items paragraphs-items-field-links paragraphs-items-field-links-separated-title paragraphs-items-separated-title">
+        {% for table in include.arg[1] %}
+          <div class="field-grid-links clearfix desktop-3-col clearfix tablet-2-col">
+            <div class="grid-link">
+              <div class="link-wrapper internal-link separated-link">
+                <div class="link-item">
+                  <a href="{{ table.json_source_url }}" title="View table information for {{ table.title }}" class="js-table-link"
+                                                                                                             data-js-table-th='[{ {% for column in table.columns %}"{{ forloop.index }}":"{{ column.column_name }}"{% if forloop.last == false %},{% endif %}{% endfor %} }]'
+                                                                                                             data-js-table-td='[{ {% for column in table.columns %}"{{ forloop.index }}":"{{ column.json_key }}"{% if forloop.last == false %},{% endif %}{% endfor %} }]'
+                  >
+                    {{ table.title }}
+                  </a>
+                </div>
+                {{ table.title }}
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
+
+<table class="js-table responsive-table responsive-table--horizontal">
+  <thead>
+  </thead>
+  <tbody>
+  </tbody>
+</table>
+
+<br />
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="http://localhost:3000/js/budget.js" type="text/javascript"></script>
