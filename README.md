@@ -133,3 +133,32 @@ js_table:
       - column_name: Last Col
         json_key: custom
 ```
+
+**Grid**
+![Screenshot of a grid of items](/images/grid.png "Grid Screenshot")
+
+```
+grid:
+  - grid_title: General
+  - title: Boston Common
+    subtitle: Downtown
+    body: >
+      Two centuries separate the creation of the Boston Common and the Public Garden, 
+      and what a difference that period made.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: https://boston.gov
+  - title: Another Title
+    subtitle: Subtitle
+    body: >
+      New Two centuries separate the creation of the Boston Common and the Public Garden, 
+      and what a difference that period made.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
+    link: https://google.com
+  - title: Test
+    subtitle: test
+    body: >
+      NEW New Two centuries separate the creation of the Boston Common and the Public Garden, 
+      and what a difference that period made.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
+    link: /
+```

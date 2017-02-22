@@ -1,17 +1,28 @@
 <div class="view-places">
-<div class="view-content">
-<div class="grid-card desktop-3-col tablet-2-col mobile-1-col">
-  <a href="/neighborhood/allston">
-    <div class="grid-card__image"> 
-      <img typeof="foaf:Image" src="https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6" width="720" height="300" alt="allston" title="allston">
+  <div class="view-content">
+    {% if include.arg[1][0].grid_title %}
+    <br />
+    <div class="sh desktop-100">
+      <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">{{ include.arg[1][0].grid_title }}</h2>
     </div>
-    <div class="grid-card__text">
-      <h3 class="grid-card__title">Allston</h3>
-      <div class="grid-card__description">
-        <div class="intro-text">Learn more about one of Boston’s most diverse and active neighborhoods.</div>
+    <br />
+    {% endif %}
+    {% for item in include.arg[1] %}
+      {% if item.title and item.img and item.body %}
+      <div class="grid-card desktop-3-col tablet-2-col mobile-1-col">
+        <a href="{{ item.link }}">
+          <div class="grid-card__image"> 
+            <img typeof="foaf:Image" src="{{ item.img }}" width="720" height="300" alt="{{ item.title }}" title="{{ item.title }}">
+          </div>
+          <div class="grid-card__text">
+            <h3 class="grid-card__title">{{ item.title }}</h3>
+            <div class="grid-card__description">
+              <div class="intro-text">{{ item.body }}</div>
+            </div>
+          </div>
+        </a>
       </div>
-    </div>
-  </a>
-</div>
-</div>
+      {% endif %}
+    {% endfor %}
+  </div>
 </div>
