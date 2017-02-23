@@ -1,5 +1,6 @@
 ---
 layout: bos_content
+title: COOL PAGE
 breadcrumbs:
  - title: Home
    url: "/"
