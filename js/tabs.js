@@ -10,14 +10,8 @@ for (var i = 0; i < tabs.length; i++) {
   }
 }
 
-
-// Remove is-active class from link that was added by boston.gov
-//document.getElementById("front").className = "";
-//for (var i = 0; i < tabs.length; i++) {
-//  var tabLink = "a[href='" + tabs[i].href + "']";
-//  var tabObj = document.querySelectorAll(tabLink);
-//  tabObj[0].className = 'tabs__tab-link';
-//}
+// Hide the first tab that is used only to trick boston js
+//document.getElementById("decoy").style.display = 'none';
 
 // Add is-active class to tab link
 for (var i = 0; i < tabs.length; i++) {
@@ -27,13 +21,6 @@ for (var i = 0; i < tabs.length; i++) {
     tabObj[0].className += ' is-active';
   }
 }
-
-// Remove is-active class from li that was added by boston.gov
-//for (var i = 0; i < liTabs.length; i++) {
-//  var tabID = "li[id='" + liTabs[i].id + "']";
-//  var tabObj = document.querySelectorAll(tabID);
-//  tabObj[0].className = 'tabs__tab';
-//}
 
 // Add is-active class to tab li
 var relPath = window.location.pathname+window.location.search;
