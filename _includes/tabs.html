@@ -2,12 +2,8 @@
   <li data-tab="remote" class="tabs__tab">
     <a href="{{ site.url }}/" class="tabs__tab-link">Executive Summary</a>
   </li>
-  <li data-tab="local" class="tabs__tab {% if page.url == site.url | append: '/featured_analysis' %}is-active{% endif %}">
-    <a href="{{ site.url }}/featured_analysis" class="tabs__tab-link
-      {% if page.url == site.url'/featured_analysis' %}
-        is-active
-      {% endif %}
-    ">Featured Analysis</a>
+  <li data-tab="local" class="tabs__tab">
+    <a href="{{ site.url }}/featured_analysis" class="tabs__tab-link">Featured Analysis</a>
   </li>
   <li data-tab="remote" class="tabs__tab">
     <a href="{{ site.url }}/capital_projects" class="tabs__tab-link">Capital Projects</a>
@@ -17,5 +13,4 @@
   </li>
 </ul>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <script src="{{ site.url }}/js/tabs.js" type="text/javascript"></script>
