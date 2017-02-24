@@ -1,3 +1,3 @@
 var gulp   = require('gulp');
 
-gulp.task('default', ['build', 'watch', 'browser-sync', 'stylus']);
+gulp.task('default', ['download', 'build', 'watch', 'browser-sync', 'stylus']);
