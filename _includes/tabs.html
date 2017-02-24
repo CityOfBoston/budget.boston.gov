@@ -1,14 +1,17 @@
 <ul class="tabs content-section-tabs">
   <li data-tab="remote" class="tabs__tab">
-    <a href="/" class="tabs__tab-link">Executive Summary</a>
+    <a href="{{ site.url }}/" class="tabs__tab-link">Executive Summary</a>
   </li>
   <li data-tab="local" class="tabs__tab">
-    <a href="/featured_analysis" class="tabs__tab-link">Featured Analysis</a>
+    <a href="{{ site.url }}/featured_analysis" class="tabs__tab-link">Featured Analysis</a>
   </li>
   <li data-tab="remote" class="tabs__tab">
-    <a href="/capital_projects" class="tabs__tab-link">Capital Projects</a>
+    <a href="{{ site.url }}/capital_projects" class="tabs__tab-link">Capital Projects</a>
   </li>
   <li data-tab="local" class="tabs__tab">
-    <a href="/spending" class="tabs__tab-link">Spending</a>
+    <a href="{{ site.url }}/spending" class="tabs__tab-link">Spending</a>
   </li>
 </ul>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="{{ site.url }}/js/tabs.js" type="text/javascript"></script>

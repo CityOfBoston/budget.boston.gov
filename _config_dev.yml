@@ -11,7 +11,7 @@ email: digital@boston.gov
 description: > # this means to ignore newlines until "baseurl:"
   Beginning July 1, 2017 and ending June 30, 2018
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://budget.boston.gov" # the base hostname & protocol for your site
+url: "http://127.0.0.1:4000"
 twitter_username: CityOfBoston
 github_username:  CityOfBoston
 

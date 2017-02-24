@@ -10,8 +10,14 @@ gulp.task('download', function (done) {
   })
   .pipe(streamify(injectElement({
         uses: 'dom',
-        find: ['.base', 'title'],
-        injectStrings: ['<base>NEW</base>', '<title>{{ page.title }} | {{ site.title }}</title>']
+        find: [
+          //'base', 
+          'title'
+        ],
+        injectStrings: [
+          //'<base href="{{ site.url }}">', 
+          '<title>{{ page.title }} | {{ site.title }}</title>'
+        ]
       }))
   )
   .pipe(gulp.dest("_layouts/"));

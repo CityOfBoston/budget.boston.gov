@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-title: COOL PAGE
+title: Executive Summary
 breadcrumbs:
  - title: Home
    url: "/"

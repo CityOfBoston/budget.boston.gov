@@ -14,6 +14,14 @@ At this point, you should be able to visit `https://0.0.0.0:3000`.
 
 ---
 
+In order to prevent breaking relative links from the boston.gov wrapper and serve the appropriate assets (like images, css, and js) from boston.gov, we need to preserve its base_url (found in the `<head` as `<base href="https://www.boston.gov">`). We also need to be able to use relative links and assets specific to the budget app when runing this site locally and in production. We accomplish this with the `url` directive in `_config.yml`. We also needed to create a config file with a url specifically for local dev. In order to run this site locally using that config file, run:
+```
+bundle exec jekyll serve --config _config_dev.yml
+```
+This will make the site available at http://127.0.0.1:4000/
+
+---
+
 To create custom pages, you can simply add reusable components to markdown files. 
 > If you need to use the same component multiple times in the same file, you need to append the plus "+" character to the end of the key. An additional "+" needs to be added for each repeating component (e.g. to add a 3rd text_box use `text_box++:`).
 
