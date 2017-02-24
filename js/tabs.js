@@ -10,6 +10,7 @@ for (var i = 0; i < tabs.length; i++) {
   }
 }
 
+/*
 // Add is-active class to tab link
 for (var i = 0; i < tabs.length; i++) {
   if (tabs[i].href == window.location.href) {
@@ -36,3 +37,4 @@ for (var i = 0; i < liTabs.length; i++) {
     tabObj[0].className += ' is-active';
   }
 }
+*/
