@@ -10,9 +10,6 @@ for (var i = 0; i < tabs.length; i++) {
   }
 }
 
-// Hide the first tab that is used only to trick boston js
-//document.getElementById("decoy").style.display = 'none';
-
 // Add is-active class to tab link
 for (var i = 0; i < tabs.length; i++) {
   if (tabs[i].href == window.location.href) {
