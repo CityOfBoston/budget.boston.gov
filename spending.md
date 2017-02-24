@@ -2,8 +2,6 @@
 layout: bos_content
 permalink: /spending
 title: City Spending
-layout: bos_content
-title: Executive Summary
 breadcrumbs:
  - title: Home
    url: "/"
