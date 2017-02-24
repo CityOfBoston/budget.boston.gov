@@ -1,11 +1,12 @@
 ---
 layout: bos_content
+title: Featured Analysis
 breadcrumbs:
  - title: Home
    url: "/"
- - title: Dept
-   url: "/departments"
- - current: Executive Summary
+ - title: Budget
+   url: "/budget"
+ - current: Featured Analysis
  - published: 2/15/17
 intro:
  - title: Featured Analysis
