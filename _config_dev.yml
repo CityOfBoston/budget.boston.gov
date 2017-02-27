@@ -15,6 +15,12 @@ url: "http://127.0.0.1:4000"
 twitter_username: CityOfBoston
 github_username:  CityOfBoston
 
+# Collection settings
+collections:
+  cabinets:
+    output: true
+    permalink: "/:collection/:path/"
+
 # Build settings
 markdown: kramdown
 
@@ -23,11 +29,15 @@ keep_files: [assets]
 permalink: '/:collection/:title/'
 
 defaults:
-  -
-    scope:
+  - scope:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
+  - scope:
+      path: "" # empty string for all files
+      type: "cabinets"
+    values:
+      layout: "cabinets"
 
 test:
   post:

@@ -1,0 +1,21 @@
+---
+layout: bos_wrapper
+---
+{% for cabinet in site.cabinets %}
+  {{ cabinet }}
+{% endfor %}
+
+
+{% comment %}
+start
+{% for col in site.collections %}
+  {{ col }}
+  {{ col.key }}
+{% endfor %}
+end
+
+{% for cabinet in site.data.cabinets %}
+  <h1>{{ cabinet[1].name }}</h1>
+{{ cabinet }}
+{% endfor %}
+{% endcomment %}
