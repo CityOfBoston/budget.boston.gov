@@ -1,22 +1,32 @@
 ---
 layout: bos_wrapper
 ---
-<h1>{{ page.name }}</h1>
-{% for cabinet in site.cabinets %}
-  {{ cabinet.name }}
-{% endfor %}
 
+<div class="intro clearfix">
+  <div class="column mobile-100 desktop-66-left">
+    <h1 class="title">{{ page.name }}</h1>
+    <div class="intro-text supporting-text squiggle-border-bottom">
+      <p>The {{ page.name }} Cabinet is increasing by X.X% in FY18. The Cainet is made up of the </p>
+    </div>
+    <div class="body">
+      {{ page.mission }}
+    </div>
+  </div>
+  {% include sidebar_menu.html %}
+</div>
 
-{% comment %}
-start
-{% for col in site.collections %}
-  {{ col }}
-  {{ col.key }}
-{% endfor %}
-end
-
-{% for cabinet in site.data.cabinets %}
-  <h1>{{ cabinet[1].name }}</h1>
-{{ cabinet }}
-{% endfor %}
-{% endcomment %}
+<div class="sh desktop-100">
+  <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
+    {{ page.name }} - APPROPRAITIONS
+  </h2>
+</div>
+<div class="desktop-100">
+  <p class="supporting-text">
+    {{ page.mission }}
+    <br />
+    <b><span> {{ page.head_name }},</span></b>
+    <b><span>{{ page.head_title }}</span></b>
+  </p>
+    <p class="supporting-text">
+    </p>
+</div>
