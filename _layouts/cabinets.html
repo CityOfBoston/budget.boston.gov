@@ -6,10 +6,18 @@ layout: bos_wrapper
   <div class="column mobile-100 desktop-66-left">
     <h1 class="title">{{ page.name }}</h1>
     <div class="intro-text supporting-text squiggle-border-bottom">
-      <p>The {{ page.name }} Cabinet is increasing by X.X% in FY18. The Cainet is made up of the </p>
+      <p>The {{ page.name }} Cabinet is increasing by X.X% in FY18. The Cainet is made up of the 
+      {% for row in page.tables_summary[0].table_summary[0].data %}
+        {% if row.department %}
+          {% assign i = forloop.length | minus: 1 %}
+          {{ row.department }}{% if forloop.index != i %},{% endif %}
+        {% endif %}
+      {% endfor %}
+      departments.
+      </p>
     </div>
     <div class="body">
-      {{ page.mission }}
+      {{ page.overview }}
     </div>
   </div>
   {% include sidebar_menu.html %}
