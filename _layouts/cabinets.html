@@ -53,7 +53,7 @@ layout: bos_wrapper
         {% if row.total %}
           <td><strong>{{ row.total }}</strong></td>
         {% else %}
-        <td><a href="{{ site.url }}/{{ page.name | slugify }}/{{ row.department | slugify }}">{{ row.department }}</a></td>
+        <td><a href="{{ site.url }}/spending/cabinets/{{ page.name | slugify }}/{{ row.department | slugify }}">{{ row.department }}</a></td>
         {% endif %}
           {% assign i = row.fy-2 | money %}
         <td>{{ row.fy-2 | append: 0 |append:0 | money }}</td>

@@ -19,7 +19,13 @@ github_username:  CityOfBoston
 collections:
   cabinets:
     output: true
-    permalink: "/:collection/:path/"
+    permalink: "/spending/:collection/:path/"
+  departments:
+    output: true
+    permalink: "/spending/cabinets/:path/"
+  programs:
+    output: true
+    permalink: "/spending/cabinets/:path/"
 
 # Build settings
 markdown: kramdown
@@ -38,6 +44,16 @@ defaults:
       type: "cabinets"
     values:
       layout: "cabinets"
+  - scope:
+      path: "" # empty string for all files
+      type: "departments"
+    values:
+      layout: "departments"
+  - scope:
+      path: "" # empty string for all files
+      type: "programs"
+    values:
+      layout: "programs"
 
 test:
   post:
