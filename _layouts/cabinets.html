@@ -55,10 +55,11 @@ layout: bos_wrapper
         {% else %}
           <td>{{ row.department }}</td>
         {% endif %}
-        <td>{{ row.fy-2 }}</td>
-        <td>{{ row.fy-1 }}</td>
-        <td>{{ row.fy-0 }}</td>
-        <td>{{ row["fy+1"] }}</td>
+          {% assign i = row.fy-2 | money %}
+        <td>{{ row.fy-2 | append: 0 |append:0 | money }}</td>
+        <td>{{ row.fy-1 | append: 0 |append:0 | money }}</td>
+        <td>{{ row.fy-0 | append: 0 |append:0 | money }}</td>
+        <td>{{ row["fy+1"] | append: 0 |append:0 | money }}</td>
       </tr>
     {% endfor %}
   </tbody>

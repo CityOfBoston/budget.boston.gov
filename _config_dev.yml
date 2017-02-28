@@ -42,3 +42,6 @@ defaults:
 test:
   post:
     - rake test
+
+gems:
+    - jekyll-money
