@@ -35,6 +35,32 @@ layout: bos_wrapper
     <b><span> {{ page.head_name }},</span></b>
     <b><span>{{ page.head_title }}</span></b>
   </p>
-    <p class="supporting-text">
-    </p>
 </div>
+
+<table class="js-table responsive-table responsive-table--horizontal">
+  <thead>
+    <tr>
+      <th>{{ page.tables_summary[0].table_summary[0].table_header[0]["Program Name"] }}</th>
+      <th>{{ page.tables_summary[0].table_summary[0].table_header[0].fy-2 }}</th>
+      <th>{{ page.tables_summary[0].table_summary[0].table_header[0].fy-1 }}</th>
+      <th>{{ page.tables_summary[0].table_summary[0].table_header[0].fy-0 }}</th>
+      <th>{{ page.tables_summary[0].table_summary[0].table_header[0]["fy+1"] }}</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for row in page.tables_summary[0].table_summary[0].data %}
+      <tr>
+        {% if row.total %}
+          <td><strong>{{ row.total }}</strong></td>
+        {% else %}
+          <td>{{ row.department }}</td>
+        {% endif %}
+        <td>{{ row.fy-2 }}</td>
+        <td>{{ row.fy-1 }}</td>
+        <td>{{ row.fy-0 }}</td>
+        <td>{{ row["fy+1"] }}</td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
+<br />
