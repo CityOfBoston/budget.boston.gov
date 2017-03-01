@@ -1,3 +1,9 @@
+{% assign args = page.url | split: '/' %}
+{% for arg in args %}
+  {% if forloop.index == 2 %}
+    {% assign first_arg = arg | append: "/" | prepend: "/" %}
+  {% endif %}
+{% endfor %}
 <ul class="tabs content-section-tabs">
   <li id="decoy" data-tab="remote" style="display:none;" class="tabs__tab">
     <a href="#" class="tabs__tab-link"></a>
@@ -5,14 +11,14 @@
   <li id="front" data-tab="local" class="tabs__tab {% if page.url == '/' %}is-active{% endif %}">
     <a href="{{ site.url }}/" class="tabs__tab-link {% if page.url == '/' %}is-active{% endif %}">Executive Summary</a>
   </li>
-  <li id="featured_analysis" data-tab="local" class="tabs__tab {% if page.url == '/featured_analysis/' %}is-active{% endif %}">
-    <a href="{{ site.url }}/featured_analysis" class="tabs__tab-link {% if page.url == '/featured_analysis' %}is-active{% endif %}">Featured Analysis</a>
+  <li id="featured_analysis" data-tab="local" class="tabs__tab {% if first_arg == '/featured_analysis/' %}is-active{% endif %}">
+    <a href="{{ site.url }}/featured_analysis" class="tabs__tab-link {% if first_arg == '/featured_analysis/' %}is-active{% endif %}">Featured Analysis</a>
   </li>
-  <li id="capital_projects" data-tab="local" class="tabs__tab {% if page.url == '/capital_projects/' %}is-active{% endif %}">
-    <a href="{{ site.url }}/capital_projects" class="tabs__tab-link {% if page.url == '/capital_projects' %}is-active{% endif %}">Capital Projects</a>
+  <li id="capital_projects" data-tab="local" class="tabs__tab {% if first_arg == '/capital_projects/' %}is-active{% endif %}">
+    <a href="{{ site.url }}/capital_projects" class="tabs__tab-link {% if first_arg == '/capital_projects/' %}is-active{% endif %}">Capital Projects</a>
   </li>
-  <li id="spending" data-tab="local" class="tabs__tab {% if page.url == '/spending/' %}is-active{% endif %}">
-    <a href="{{ site.url }}/spending" class="tabs__tab-link {% if page.url == '/spending' %}is-active{% endif %}">Spending</a>
+  <li id="spending" data-tab="local" class="tabs__tab {% if first_arg == '/spending/' %}is-active{% endif %}">
+    <a href="{{ site.url }}/spending" class="tabs__tab-link {% if first_arg == '/spending/' %}is-active{% endif %}">Spending</a>
   </li>
 </ul>
 
