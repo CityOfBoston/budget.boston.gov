@@ -14,7 +14,11 @@
     {% for row in include.arg[1][0].columns %}
       <tr>
         {% for column in row %}
-          <td>{{ column[1] }}</td>
+          {% if column[1].name and column[1].link %}
+            <td><a href="{{ site.url }}{{ column[1].link }}">{{ column[1].name }}</a></td>
+          {% else %}
+            <td>{{ column[1] }}</td>
+          {% endif %}
         {% endfor %}
       </tr>
     {% endfor %}

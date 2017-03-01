@@ -29,17 +29,24 @@ intro:
 table:
   - title: Expenditure Categories
     columns:
-      - "Category": Boston Public Schools
+      - "Category": <a href="#">Boston Public Schools</a>
         "FY15 Actual": 345
         "FY16 Actual": 44
         "FY17 Budget": 90
         "FY18 Budget": 6565
-      - "Category": All City
+      - "Category": <a href="#">All City</a>
         "FY15 Actual": 344573
         "FY16 Actual": 757
         "FY17 Budget": 554
         "FY18 Budget": 6565
-      - "Category": Another
+      - "Category": <a href="#">Another</a>
+        "FY15 Actual": 111
+        "FY16 Actual": 542
+        "FY17 Budget": 275
+        "FY18 Budget": 50000
+      - "Category": 
+         name: Streets
+         link: /spending/cabinets/streets
         "FY15 Actual": 111
         "FY16 Actual": 542
         "FY17 Budget": 275
