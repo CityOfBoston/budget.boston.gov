@@ -30,7 +30,9 @@ table:
   - title: Expenditure Categories
     columns:
       - "Category": <a href="#">Boston Public Schools</a>
-        "FY15 Actual": 345
+        "FY15 Actual": 
+           name: 345
+           link: /test
         "FY16 Actual": 44
         "FY17 Budget": 90
         "FY18 Budget": 6565
