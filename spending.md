@@ -28,14 +28,18 @@ intro:
    sidebar_menu: true
 table:
   - title: Expenditure Categories
-    json_source_url: "http://mysafeinfo.com/api/data?list=presidents&format=json"
+    json_source_url: "/spending-expenditure-categories.json"
     columns:
-      - column_name: Name
-        json_key: nm
-      - column_name: Party
-        json_key: pp
-      - column_name: Term
-        json_key: tm
+      - column_name: Category
+        json_key: category
+      - column_name: FY15 Actual
+        json_key: fy-2
+      - column_name: FY16 Actual
+        json_key: fy-1
+      - column_name: FY17 Budget
+        json_key: fy-0
+      - column_name: FY18 Budget
+        json_key: fy--1
 text_block:
   - title: Overview
     body: >
