@@ -28,7 +28,6 @@ intro:
    sidebar_menu: true
 table:
   - title: Expenditure Categories
-    json_source_url: "/spending-expenditure-categories.json"
     columns:
       - "Category": Boston Public Schools
         "FY15 Actual": 345
@@ -36,10 +35,15 @@ table:
         "FY17 Budget": 90
         "FY18 Budget": 6565
       - "Category": All City
-        "FY15 Actual": 345
-        "FY16 Actual": 44
-        "FY17 Budget": 90
+        "FY15 Actual": 344573
+        "FY16 Actual": 757
+        "FY17 Budget": 554
         "FY18 Budget": 6565
+      - "Category": Another
+        "FY15 Actual": 111
+        "FY16 Actual": 542
+        "FY17 Budget": 275
+        "FY18 Budget": 50000
 text_block:
   - title: Overview
     body: >

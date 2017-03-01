@@ -11,6 +11,13 @@
     </tr>
   </thead>
   <tbody>
+    {% for row in include.arg[1][0].columns %}
+      <tr>
+        {% for column in row %}
+          <td>{{ column[1] }}</td>
+        {% endfor %}
+      </tr>
+    {% endfor %}
   </tbody>
 </table>
 
