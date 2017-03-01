@@ -5,8 +5,8 @@
 <table class="js-table responsive-table responsive-table--horizontal">
   <thead>
     <tr>
-      {% for key in include.arg[1][0].columns %}
-        <th>{{ key.column_name }}</th>
+      {% for key in include.arg[1][0].columns[0] %}
+        <th>{{ key[0] }}</th>
       {% endfor %}
     </tr>
   </thead>
