@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /capital_projects
+permalink: /capital_projects/
 title: Capital Projects
 breadcrumbs:
  - title: Home
