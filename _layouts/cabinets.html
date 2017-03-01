@@ -2,6 +2,22 @@
 layout: bos_wrapper
 ---
 
+<div class="breadcrumb">
+  <a href="/">Home</a>
+  <span class="crumbs-separator"> &gt; </span>
+  <a href="{{ site.url }}">Budget</a>
+  <span class="crumbs-separator"> &gt; </span>
+  <a href="{{ site.url }}/spending">Spending</a>
+  <span class="crumbs-separator"> &gt; </span>
+  <a href="{{ site.url }}/spending/cabinets">Cabinets</a>
+  <span class="crumbs-separator"> &gt; </span>
+  {{ page.name }}
+</div>
+<div class="breadcrumb-last-updated">
+  Last updated:
+  <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2016-04-21T00:00:00-04:00">4/21/16</span>
+</div>
+
 <div class="intro clearfix">
   <div class="column mobile-100 desktop-66-left">
     <h1 class="title">{{ page.name }}</h1>
@@ -25,7 +41,7 @@ layout: bos_wrapper
 
 <div class="sh desktop-100">
   <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
-    {{ page.name }} - APPROPRAITIONS
+    {{ page.name }} - APPROPRIATIONS
   </h2>
 </div>
 <div class="desktop-100">
@@ -37,6 +53,12 @@ layout: bos_wrapper
   </p>
 </div>
 
+<div class="sh desktop-100">
+  <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
+    APPROPRIATIONS BY DEPARTMENT
+  </h2><a href="{{ site.url }}/cabinets">Back to Cabinets</a>
+</div>
+<br />
 <table class="js-table responsive-table responsive-table--horizontal">
   <thead>
     <tr>
@@ -53,7 +75,7 @@ layout: bos_wrapper
         {% if row.total %}
           <td><strong>{{ row.total }}</strong></td>
         {% else %}
-        <td><a href="{{ site.url }}/spending/cabinets/{{ page.name | slugify }}/{{ row.department | slugify }}">{{ row.department }}</a></td>
+        <td><a href="{{ site.url }}/cabinets/{{ page.name | slugify }}/{{ row.department | slugify }}">{{ row.department }}</a></td>
         {% endif %}
           {% assign i = row.fy-2 | money %}
         <td>{{ row.fy-2 | append: 0 |append:0 | money }}</td>
@@ -64,4 +86,11 @@ layout: bos_wrapper
     {% endfor %}
   </tbody>
 </table>
+<br />
+
+<div class="sh desktop-100">
+  <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
+    GRAPHS SHOWING TRENDS
+  </h2>
+</div>
 <br />

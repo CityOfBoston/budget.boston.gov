@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /spending
+permalink: /spending/
 title: City Spending
 breadcrumbs:
  - title: Home

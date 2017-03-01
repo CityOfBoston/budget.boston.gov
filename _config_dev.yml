@@ -22,10 +22,10 @@ collections:
     permalink: "/spending/:collection/:path/"
   departments:
     output: true
-    permalink: "/spending/cabinets/:path/"
+    permalink: "/cabinets/:path/"
   programs:
     output: true
-    permalink: "/spending/cabinets/:path/"
+    permalink: "/cabinets/:path/"
 
 # Build settings
 markdown: kramdown
