@@ -1,5 +1,14 @@
 <div class="sh desktop-100">
   <h2 data-short-title="{{ page.table.title }}" class="sh-title table-title">{{ page.table[0].title }}</h2>
+  {% if include.arg[1][0].right_text %}
+    <div class="sh-contact">
+      {% if include.arg[1][0].right_text.name and include.arg[1][0].right_text.link %}
+      <a href="{{ site.url }}{{ include.arg[1][0].right_text.link }}">{{ include.arg[1][0].right_text.name }}</a>
+      {% else %}
+        {{ include.arg[1][0].right_text }}
+      {% endif %}
+    </div>
+  {% endif %}
 </div>
 <br />
 <table class="js-table responsive-table responsive-table--horizontal">

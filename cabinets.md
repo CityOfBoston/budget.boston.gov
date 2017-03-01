@@ -30,7 +30,7 @@ intro:
      validated by the affirmation of Boston's triple A bond rating.
    sidebar_menu: true
 text_block:
-  - title: CABINET APPROPRIATIONS
+  - title: Cabinet Appropriations
     body: >
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur suscipit id 
       felis sed iaculis. Sed ac nisl eu lacus porta pharetra. Suspendisse a tortor vel 
@@ -39,7 +39,10 @@ text_block:
       amet est sed luctus. Suspendisse massa turpis, iaculis at fermentum placerat, 
       scelerisque ultricies est. Nulla facilisi. In scelerisque ornare tincidunt.
 table:
-  - title: Expenditure Categories
+  - title: Appropriations by Cabinet
+    right_text:
+      name: Back to all spending
+      link: /spending
     columns:
       - "Cabinet": 
            name: Cabinet 1
