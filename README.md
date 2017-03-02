@@ -102,45 +102,8 @@ spanning_image:
     alt: Placeholder alt text
     title: Placeholder image title
 ```
+
 ---
-
-**JS Table**
-![Screenshot of a table that pulls data from a JSON source](/images/js_table.png "JS Table Screenshot")
-
-```
-js_table:
-  - title: Remote JSON
-    json_source_url: "http://mysafeinfo.com/api/data?list=presidents&format=json"
-    columns:
-      - column_name: Name
-        json_key: nm
-      - column_name: Party
-        json_key: pp
-      - column_name: Term
-        json_key: tm
-  - title: Local JSON
-    json_source_url: "http://localhost:3000/test.json"
-    columns:
-      - column_name: Name
-        json_key: nm
-      - column_name: Party
-        json_key: pp
-      - column_name: Term
-        json_key: tm
-      - column_name: Custom
-        json_key: custom
-  - title: 2nd Local test
-    json_source_url: "http://localhost:3000/test2.json"
-    columns:
-      - column_name: New title
-        json_key: this thing
-      - column_name: Name
-        json_key: nombre
-      - column_name: Other
-        json_key: other thing
-      - column_name: Last Col
-        json_key: custom
-```
 
 **Grid**
 ![Screenshot of a grid of items](/images/grid.png "Grid Screenshot")
@@ -170,6 +133,8 @@ grid:
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
     link: /
 ```
+
+---
 
 **Table**
 ![Screenshot of a simple table component](/images/table.png "Table Screenshot")
@@ -213,4 +178,44 @@ table:
         "FY16 Actual": 542
         "FY17 Budget": 275
         "FY18 Budget": 50000
+```
+
+---
+
+**JS Table**
+![Screenshot of a table that pulls data from a JSON source](/images/js_table.png "JS Table Screenshot")
+
+```
+js_table:
+  - title: Remote JSON
+    json_source_url: "http://mysafeinfo.com/api/data?list=presidents&format=json"
+    columns:
+      - column_name: Name
+        json_key: nm
+      - column_name: Party
+        json_key: pp
+      - column_name: Term
+        json_key: tm
+  - title: Local JSON
+    json_source_url: "http://localhost:3000/test.json"
+    columns:
+      - column_name: Name
+        json_key: nm
+      - column_name: Party
+        json_key: pp
+      - column_name: Term
+        json_key: tm
+      - column_name: Custom
+        json_key: custom
+  - title: 2nd Local test
+    json_source_url: "http://localhost:3000/test2.json"
+    columns:
+      - column_name: New title
+        json_key: this thing
+      - column_name: Name
+        json_key: nombre
+      - column_name: Other
+        json_key: other thing
+      - column_name: Last Col
+        json_key: custom
 ```
