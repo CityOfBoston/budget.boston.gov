@@ -15,6 +15,8 @@ layout: bos_wrapper
   <span class="crumbs-separator"> &gt; </span>
   <a href="{{ site.url }}/spending/cabinets/{{ page.cabinet | replace: "'","" | slugify }}">{{ page.cabinet }}</a>
   <span class="crumbs-separator"> &gt; </span>
+  <a href="{{ site.url }}/spending/cabinets/{{ page.cabinet | replace: "'","" | slugify }}/{{ page.department | replace: "'","" | slugify }}">{{ page.department }}</a>
+  <span class="crumbs-separator"> &gt; </span>
   {{ page.name }}
 </div>
 <div class="breadcrumb-last-updated">
@@ -80,7 +82,7 @@ layout: bos_wrapper
         {% if row.line_type == 'total' %}
           <td><strong>{{ row.line_title }}</strong></td>
         {% else %}
-        <td><a href="{{ site.url }}/spending/cabinets/{{ page.cabinet | slugify }}/{{ page.name | replace: "'","" | slugify }}/{{ row.line_title | replace: "'","" | slugify }}">{{ row.line_title }}</a></td>
+        <td><a href="{{ site.url }}/cabinets/{{ page.cabinet | slugify }}/{{ page.name | replace: "'","" | slugify }}/{{ row.line_title | replace: "'","" | slugify }}">{{ row.line_title }}</a></td>
         {% endif %}
           {% assign i = row.fy-2 | money %}
         <td>{{ row.fy-2_actual | append: 0 |append:0 | money }}</td>
