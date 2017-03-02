@@ -40,7 +40,7 @@ text_block:
       scelerisque ultricies est. Nulla facilisi. In scelerisque ornare tincidunt.
 table:
   - title: Appropriations by Cabinet
-    right_text:
+    right_text: 
       name: Back to all spending
       link: /spending
     columns:

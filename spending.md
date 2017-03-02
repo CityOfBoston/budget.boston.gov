@@ -51,6 +51,13 @@ table:
         "FY17 Budget": 275
         "FY18 Budget": 50000
       - "Category": 
+           name: All Cabinets
+           link: /spending/cabinets
+        "FY15 Actual": 111
+        "FY16 Actual": 542
+        "FY17 Budget": 275
+        "FY18 Budget": 50000
+      - "Category": 
          name: Streets
          link: /spending/cabinets/streets
         "FY15 Actual": 111
