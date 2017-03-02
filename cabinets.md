@@ -52,28 +52,56 @@ table:
           filter: money
         "FY16 Actual":
           value: 44
-          filter: percent
-        "FY17 Budget": 90
-        "FY18 Budget": 6565
+          filter: money
+        "FY17 Budget":
+          value: 90
+          filter: money
+        "FY18 Budget":
+          value: 6565
+          filter: money
       - "Cabinet":
-           name: Cabinet 2
-           link: /
-        "FY15 Actual": 344573
-        "FY16 Actual": 757
-        "FY17 Budget": 554
-        "FY18 Budget": 6565
-      - "Cabinet": 
-           name: Cabinet 3
-           link: /
-        "FY15 Actual": 111
-        "FY16 Actual": 542
-        "FY17 Budget": 275
-        "FY18 Budget": 50000
-      - "Cabinet": 
+          name: Cabinet 2
+          link: /
+        "FY15 Actual":
+          value: 344573
+          filter: money
+        "FY16 Actual":
+          value: 757
+          filter: money
+        "FY17 Budget":
+          value: 554
+          filter: money
+        "FY18 Budget":
+          value: 6565
+          filter: money
+      - "Cabinet":
+          name: Cabinet 3
+          link: /
+        "FY15 Actual":
+          value: 111
+          filter: money
+        "FY16 Actual":
+          value: 542
+          filter: money
+        "FY17 Budget":
+          value: 275
+          filter: money
+        "FY18 Budget":
+          value: 50000
+          filter: money
+      - "Cabinet":
          name: Streets
          link: /spending/cabinets/streets
-        "FY15 Actual": 111
-        "FY16 Actual": 542
-        "FY17 Budget": 275
-        "FY18 Budget": 50000
+        "FY15 Actual":
+         value: 111
+         filter: money
+        "FY16 Actual":
+         value: 542
+         filter: money
+        "FY17 Budget":
+         value: 275
+         filter: money
+        "FY18 Budget":
+         value: 50000
+         filter: money
 ---
