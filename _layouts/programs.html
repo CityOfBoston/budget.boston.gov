@@ -28,18 +28,10 @@ layout: bos_wrapper
   <div class="column mobile-100 desktop-66-left">
     <h1 class="title">{{ page.name }}</h1>
     <div class="intro-text supporting-text squiggle-border-bottom">
-      <p>The {{ page.name }} Department is increasing by X.X% in FY18. This Department is made up of the 
-      {% for row in page.tables_summary[0].data %}
-        {% if row.line_title %}
-          {% assign i = forloop.length | minus: 1 %}
-          {{ row.line_title }}{% if forloop.index != i %},{% endif %}
-        {% endif %}
-      {% endfor %}
-      programs.
+      <p>
+        <div>{{ page.description }}</div>
+        <div><b><span>{{ page.head_name }}</span>, <span>{{ page.head_title }}</span>, <span>{{ page.appropriation_code }}</b></div>
       </p>
-    </div>
-    <div class="body">
-      {{ page.overview }}
     </div>
   </div>
   {% include sidebar_menu.html %}
@@ -47,33 +39,58 @@ layout: bos_wrapper
 
 <div class="sh desktop-100">
   <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
-    {{ page.name }} - PERFORMANCE STRATEGIES
+    {{ page.name }} - PERFORMANCE
   </h2>
 </div>
 <div class="desktop-100">
   <p class="supporting-text">
-    {{ page.mission }}
-    <br />
-    <b><span> {{ page.head_name }},</span></b>
-    <b><span>{{ page.head_title }}</span></b>
+    {{ page.performance_strategies[0].strategy }}
   </p>
 </div>
+<table class="js-table responsive-table responsive-table--horizontal">
+  <thead>
+    <tr>
+      <th>{{ page.performance_strategies[0].performance_measures[0].table_header[0].name }}</th>
+      <th>{{ page.performance_strategies[0].performance_measures[0].table_header[0].fy-2_actual }}</th>
+      <th>{{ page.performance_strategies[0].performance_measures[0].table_header[0].fy-1_actual }}</th>
+      <th>{{ page.performance_strategies[0].performance_measures[0].table_header[0].fy-0_budget }}</th>
+      <th>{{ page.performance_strategies[0].performance_measures[0].table_header[0]["fy+1_budget"] }}</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for row in page.performance_strategies[0].performance_measures[0].data %}
+      <tr>
+        {% if row.line_type == 'total' %}
+          <td><strong>{{ row.line_data }}</strong></td>
+        {% else %}
+        <td>{{ row.line_data }}</td>
+        {% endif %}
+          {% assign i = row.fy-2 | money %}
+        <td>{{ row.fy-2_actual | append: 0 |append:0 | money }}</td>
+        <td>{{ row.fy-1_actual | append: 0 |append:0 | money }}</td>
+        <td>{{ row.fy-0_budget | append: 0 |append:0 | money }}</td>
+        <td>{{ row["fy+1_budget"] | append: 0 |append:0 | money }}</td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
+<br />
 
 <div class="sh desktop-100">
   <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
-    APPROPRAITIONS BY PROGRAM
+    {{ page.name }} - APPROPRAITIONS
   </h2>
-  <div class="sh-contact"><a href="{{ site.url }}/spending/cabinets/{{ page.cabinet | replace: "'","" | slugify }}">Back to {{ page.cabinet }}</a></div>
+  <div class="sh-contact"><a href="{{ site.url }}/spending/cabinets/{{ page.cabinet | replace: "'","" | slugify }}/{{ page.department | replace: "'","" | slugify }}">Back to {{ page.department }}</a></div>
 </div>
 <br />
 <table class="js-table responsive-table responsive-table--horizontal">
   <thead>
     <tr>
-      <th>{{ page.tables_summary[0].table_header[0].Name }}</th>
-      <th>{{ page.tables_summary[0].table_header[0].fy-2_actual }}</th>
-      <th>{{ page.tables_summary[0].table_header[0].fy-1_actual }}</th>
-      <th>{{ page.tables_summary[0].table_header[0].fy-0_budget }}</th>
-      <th>{{ page.tables_summary[0].table_header[0]["fy+1_budget"] }}</th>
+      <th>{{ page.operating_budget_categories[0].table_header[0].name }}</th>
+      <th>{{ page.operating_budget_categories[0].table_header[0].fy-2_actual }}</th>
+      <th>{{ page.operating_budget_categories[0].table_header[0].fy-1_actual }}</th>
+      <th>{{ page.operating_budget_categories[0].table_header[0].fy-0_budget }}</th>
+      <th>{{ page.operating_budget_categories[0].table_header[0]["fy+1_budget"] }}</th>
     </tr>
   </thead>
   <tbody>

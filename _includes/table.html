@@ -25,6 +25,10 @@
         {% for column in row %}
           {% if column[1].name and column[1].link %}
             <td><a href="{{ site.url }}{{ column[1].link }}">{{ column[1].name }}</a></td>
+          {% elsif column[1].filter == 'money' %}
+            <td>{{ column[1].value | append: 0 | append: 0 | money }}</td>
+          {% elsif column[1].filter == 'percent' %}
+            <td>{{ column[1].value | append: "%" }}</td>
           {% else %}
             <td>{{ column[1] }}</td>
           {% endif %}

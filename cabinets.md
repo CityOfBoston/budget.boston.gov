@@ -47,8 +47,12 @@ table:
       - "Cabinet": 
            name: Cabinet 1
            link: /
-        "FY15 Actual": 345
-        "FY16 Actual": 44
+        "FY15 Actual":
+          value: 345
+          filter: money
+        "FY16 Actual":
+          value: 44
+          filter: percent
         "FY17 Budget": 90
         "FY18 Budget": 6565
       - "Cabinet":
