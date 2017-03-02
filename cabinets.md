@@ -7,7 +7,7 @@ breadcrumbs:
    url: "/"
  - title: Budget
    url: "/budget"
- - title: City Spending
+ - title: Spending
    url: "/spending/"
    local: true
  - current: Cabinets

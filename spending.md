@@ -7,7 +7,7 @@ breadcrumbs:
    url: "/"
  - title: Budget
    url: "/budget"
- - current: City Spending
+ - current: Spending
  - published: 2/15/17
 intro:
  - title: City Spending
