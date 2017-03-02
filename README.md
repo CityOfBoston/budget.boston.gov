@@ -170,3 +170,47 @@ grid:
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
     link: /
 ```
+
+**Table**
+![Screenshot of a simple table component](/images/table.png "Table Screenshot")
+
+```
+table:
+  - title: Appropriations by Cabinet
+    right_text: 
+      name: Back to all spending
+      link: /spending
+    columns:
+      - "Cabinet": 
+           name: Cabinet 1
+           link: /
+        "FY15 Actual":
+          value: 345
+          filter: money
+        "FY16 Actual":
+          value: 44
+          filter: percent
+        "FY17 Budget": 90
+        "FY18 Budget": 6565
+      - "Cabinet":
+           name: Cabinet 2
+           link: /
+        "FY15 Actual": 344573
+        "FY16 Actual": 757
+        "FY17 Budget": 554
+        "FY18 Budget": 6565
+      - "Cabinet": 
+           name: Cabinet 3
+           link: /
+        "FY15 Actual": 111
+        "FY16 Actual": 542
+        "FY17 Budget": 275
+        "FY18 Budget": 50000
+      - "Cabinet": 
+         name: Streets
+         link: /spending/cabinets/streets
+        "FY15 Actual": 111
+        "FY16 Actual": 542
+        "FY17 Budget": 275
+        "FY18 Budget": 50000
+```
