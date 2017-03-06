@@ -1,8 +1,13 @@
 var ctx = document.getElementById("myChart").getContext("2d");
 var chartLabelsString = document.getElementById("chart-labels").getAttribute("data");
-//var chartLabels = JSON.parse("[" + chartLabelsString + "]");
 var chartLabels = chartLabelsString.split(",");
-console.log(typeof chartLabels);
+var chartDataString = document.getElementById("chart-data").getAttribute("data");
+var chartData = JSON.parse(chartDataString);
+console.log(chartData);
+for (var i in chartData) {
+  console.log(i);
+  console.log(chartData[i]);
+}
 var myChart = new Chart(ctx, {
   type: 'line',
   data: {
