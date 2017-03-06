@@ -1,8 +1,13 @@
 var ctx = document.getElementById("myChart").getContext("2d");
+var chartLabelsString = document.getElementById("chart-labels").getAttribute("data");
+//var chartLabels = JSON.parse("[" + chartLabelsString + "]");
+var chartLabels = chartLabelsString.split(",");
+console.log(typeof chartLabels);
 var myChart = new Chart(ctx, {
   type: 'line',
   data: {
-    labels: ["FY14", "FY15", "FY16", "FY18"],
+    //labels: ["FY14", "FY15", "FY16", "FY18"],
+    labels: chartLabels,
     datasets: [
     {
       label: 'Central Fleet Management',
