@@ -3,52 +3,26 @@ var chartLabelsString = document.getElementById("chart-labels").getAttribute("da
 var chartLabels = chartLabelsString.split(",");
 var chartDataString = document.getElementById("chart-data").getAttribute("data");
 var chartData = JSON.parse(chartDataString);
-console.log(chartData);
 var chartDatasets = new Array();
+//var chartColors = ['#091F2F','#FCB61A','#288BE4','#FB4D42','#F3F3F3']
+var chartColors = ['rgba(9,31,47, 0.2)','rgba(252,182,26, 0.2)','rgba(40,139,228, 0.2)','rgba(251,77,66, 0.2)','rgba(243,243,243, 0.2)']
+var chartBorderColors = ['rgba(9,31,47, 1)','rgba(252,182,26, 1)','rgba(40,139,228, 1)','rgba(251,77,66, 1)','rgba(243,243,243, 1)']
+var k = 0;
 for (var i in chartData) {
-  console.log(i);
-  console.log(chartData[i]);
   chartDatasets.push({
     label: i,
     data: chartData[i],
-    backgroundColor: ['rgba(255, 99, 132, 0.2)',],
-    borderColor: ['rgba(255,99,132,1)',],
+    backgroundColor: chartColors[k], //['rgba(255, 99, 132, 0.2)',],
+    borderColor: chartBorderColors[k], //['rgba(255,99,132,1)',],
     borderWidth: 1
   });
+  k++;
 }
-console.log(chartDatasets);
 var myChart = new Chart(ctx, {
   type: 'line',
   data: {
-    //labels: ["FY14", "FY15", "FY16", "FY18"],
     labels: chartLabels,
     datasets: chartDatasets, 
-/*
-      [
-    {
-      label: ['Central Fleet Management', 'other'],
-      data: [2429952, 2672446, 2557755, 2590424],
-      backgroundColor: [
-        'rgba(255, 99, 132, 0.2)',
-      ],
-      borderColor: [
-        'rgba(255,99,132,1)',
-      ],
-      borderWidth: 1
-    },
-    {
-      label: 'Office of Streets',
-      data: [1264046, 1360422, 1822681, 1973144],
-      backgroundColor: [
-        'rgba(0, 99, 132, 0.2)',
-      ],
-      borderColor: [
-        'rgba(0,99,132,1)',
-      ],
-      borderWidth: 1
-    }
-    ]
-*/
   },
   options: ""
 });
