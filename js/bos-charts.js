@@ -4,18 +4,29 @@ var chartLabels = chartLabelsString.split(",");
 var chartDataString = document.getElementById("chart-data").getAttribute("data");
 var chartData = JSON.parse(chartDataString);
 console.log(chartData);
+var chartDatasets = new Array();
 for (var i in chartData) {
   console.log(i);
   console.log(chartData[i]);
+  chartDatasets.push({
+    label: i,
+    data: chartData[i],
+    backgroundColor: ['rgba(255, 99, 132, 0.2)',],
+    borderColor: ['rgba(255,99,132,1)',],
+    borderWidth: 1
+  });
 }
+console.log(chartDatasets);
 var myChart = new Chart(ctx, {
   type: 'line',
   data: {
     //labels: ["FY14", "FY15", "FY16", "FY18"],
     labels: chartLabels,
-    datasets: [
+    datasets: chartDatasets, 
+/*
+      [
     {
-      label: 'Central Fleet Management',
+      label: ['Central Fleet Management', 'other'],
       data: [2429952, 2672446, 2557755, 2590424],
       backgroundColor: [
         'rgba(255, 99, 132, 0.2)',
@@ -37,6 +48,7 @@ var myChart = new Chart(ctx, {
       borderWidth: 1
     }
     ]
+*/
   },
   options: ""
 });
