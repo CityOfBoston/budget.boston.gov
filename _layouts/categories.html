@@ -57,25 +57,27 @@ layout: bos_wrapper
   <thead>
     <tr>
       <th>{{ page.category_departments_capital.table_summary.table_header.line_title }}</th>
-      <th>{{ page.tables_summary[0].table_summary[0].table_header[0].fy-2 }}</th>
-      <th>{{ page.tables_summary[0].table_summary[0].table_header[0].fy-1 }}</th>
-      <th>{{ page.tables_summary[0].table_summary[0].table_header[0].fy-0 }}</th>
-      <th>{{ page.tables_summary[0].table_summary[0].table_header[0]["fy+1"] }}</th>
+      <th>{{ page.category_departments_capital.table_summary.table_header.fy-0 }}</th>
+      <th>{{ page.category_departments_capital.table_summary.table_header["fy+1"] }}</th>
+      <th>{{ page.category_departments_capital.table_summary.table_header["fy+2-5"] }}</th>
+      <th>{{ page.category_departments_capital.table_summary.table_header.non-capital }}</th>
+      <th>{{ page.category_departments_capital.table_summary.table_header.total }}</th>
     </tr>
   </thead>
   <tbody>
-    {% for row in page.tables_summary[0].table_summary[0].data %}
+    {% for row in page.category_departments_capital.table_summary.data %}
       <tr>
-        {% if row.total %}
-          <td><strong>{{ row.total }}</strong></td>
+        {% if row.line_type == 'total' %}
+          <td><b>{{ row.line_title }}</b></td>
         {% else %}
-        <td><a href="{{ site.url }}/spending/cabinets/{{ page.name | replace: "'","" | slugify }}/{{ row.department | replace: "'","" | slugify }}">{{ row.department }}</a></td>
+          <td><a href="{{ site.url }}/capital_projects/{{ page.name | replace: "'","" | slugify }}/{{ row.line_title | replace: "'","" | slugify }}">{{ row.line_title }}</a></td>
         {% endif %}
           {% assign i = row.fy-2 | money %}
-        <td>{{ row.fy-2 | append: 0 |append:0 | money }}</td>
-        <td>{{ row.fy-1 | append: 0 |append:0 | money }}</td>
         <td>{{ row.fy-0 | append: 0 |append:0 | money }}</td>
         <td>{{ row["fy+1"] | append: 0 |append:0 | money }}</td>
+        <td>{{ row["fy+2-5"] | append: 0 |append:0 | money }}</td>
+        <td>{{ row.non-capital | append: 0 |append:0 | money }}</td>
+        <td>{{ row.total | append: 0 |append:0 | money }}</td>
       </tr>
     {% endfor %}
   </tbody>
