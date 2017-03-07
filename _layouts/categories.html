@@ -92,8 +92,22 @@ layout: bos_wrapper
 <br />
 
 <canvas id="myChart" width="400" height="200"></canvas>
-<div id="chart-labels" data='{% for column in page.tables_summary[0].table_summary[0].table_header[0] %}{% if forloop.index > 1 %}{{ column[1] }}{% if forloop.last == false %},{% endif %}{% endif %}{% endfor %}'></div>
-<div id="chart-data" data='{ {% for row in page.tables_summary[0].table_summary[0].data %}{% if row.department %}"{{ row.department }}":[{% for column in row %}{% if column[0] != 'department' %}{{ column[1] }}{% if forloop.last == false %}, {% endif %}{% endif %}{% endfor %}]{% assign i = forloop.length | minus: 1 %}{% if forloop.index != i %}, {% endif %}{% endif %}{% endfor %} }'></div>
+<div id="chart-labels" data='{% for column in page.category_departments_capital.table_summary.table_header %}{% if forloop.index > 1 %}{{ column[1] }}{% if forloop.last == false %},{% endif %}{% endif %}{% endfor %}'></div>
+<div id="chart-data" data='{
+  {% for row in page.category_departments_capital.table_summary.data %}
+    "{{ row.line_title }}":
+    [
+      {% for column in row %}
+        {% if column[0] != "line_type" and column[0] != "line_title" and column[0] != "line_data_type" %}
+          {{ column[1] }}
+          {% if forloop.last == false %}, {% endif %}
+        {% endif %}
+      {% endfor %}
+    ]
+      {% if forloop.last == false %}, {% endif %}
+  {% endfor %}
+}'>
+</div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.bundle.min.js"></script>
 <script src="{{ site.url }}/js/bos-charts.js" type="text/javascript"></script>
