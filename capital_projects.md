@@ -137,6 +137,27 @@ table:
         "Total":
           value: 6565
           filter: money
+      - "Category":
+         name: Open Space
+         link: /capital_projects/open-space
+        "Through 3/1/17":
+          value: 345
+          filter: money
+        "FY17 Budget":
+          value: 44
+          filter: money
+        "FY18 Budget":
+          value: 90
+          filter: money
+        "FY19-22 Budget":
+          value: 6565
+          filter: money
+        "Non-Capital Fund":
+          value: 6565
+          filter: money
+        "Total":
+          value: 6565
+          filter: money
 text_block++:
   - title: FY17 Expenditures Allocation
     body: >

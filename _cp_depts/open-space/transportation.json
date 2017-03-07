@@ -1,0 +1,86 @@
+---
+{
+  "category": "Open Space",
+  "section_type": "",
+  "section_type-short": "",
+  "section_link_id": "",
+  "md5_id": "",
+  "name": "Transportation",
+  "intro-copy": [
+    "This is copy to be written by Budget folks still. Lomo vape locavore, art party tacos unicorn typewriter single-origin coffee kickstarter meggings small batch. 90's cronut narwhal la croix, kombucha skateboard paleo deep v craft beer hell of +1 austin hella kogi everyday carry. Yuccie snackwave chillwave meh humblebrag, organic echo park hammock vaporware. Tumeric try-hard gastropub pok pok dreamcatcher. Hexagon semiotics four dollar toast jean shorts, organic chia tbh typewriter vinyl pickled. Ugh viral fingerstache, ethical YOLO wayfarers fap pour-over street art jean shorts. Irony squid unicorn four loko jianbing.", {
+      "highlights": [
+        " In FY17, the City is investing $3.1 million in Vision Zero – an initiative focused on improving safety eliminating serious injuries and fatalities for cyclists and pedestrians through improved roadway design and public education; and the Walkable Streets program which takes a holistic look at pedestrian access by reconstructing long sidewalk sections.",
+        "Through ongoing annual programs the Public Works Department will reconstruct five lane-miles of roadway and resurface 40 lane-miles of roadway, install 10 miles of bike lanes and 800 ADA/MAABcompliant pedestrian ramps, and continue the replacement of existing street light fixtures with LED fixtures. In FY17 the capital plan provides increased funding for roadway resurfacing, sidewalk repairs, and improvements to the Freedom Trail. The reconstruction program includes several large-scale, significant projects, including the $29 million Connect Historic Boston program, funded in part with a federal grant; Quincy Street as part of the Choice Neighborhood in Roxbury; and a redesigned Central Square in East Boston."
+      ]
+    }
+  ],
+  "category_departments_capital": {
+    "table_summary": {
+      "table_type": "departments_capital_by_category",
+      "table_title": "Capital by department",
+      "table_header": {
+        "line_type": "header",
+        "line_title": "Department",
+        "line_data_type": "string",
+        "column-2": "Through 3/1/17",
+        "fy-0": "FY17 Budget",
+        "fy+1": "FY18 Budget",
+        "column-5": "FY19-22 Budget",
+        "column-6": "Non-capital fund",
+        "total": "Total"
+      },
+      "data": [{
+        "line_type": "data",
+        "line_title": "Transportation",
+        "line_data_type": "number",
+        "column-2": 12345,
+        "fy-0": 0,
+        "fy+1": 432212,
+        "column-5": 60000000,
+        "column-6": 2000,
+        "total": 900000000
+      }, {
+        "line_type": "data",
+        "line_title": "Public Works",
+        "line_data_type": "number",
+        "column-2": 12345,
+        "fy-0": 0,
+        "fy+1": 432212,
+        "column-5": 60000000,
+        "column-6": 2000,
+        "total": 900000000
+      }, {
+        "line_type": "data",
+        "line_title": "Police Department",
+        "line_data_type": "number",
+        "column-2": 12345,
+        "fy-0": 0,
+        "fy+1": 432212,
+        "column-5": 60000000,
+        "column-6": 2000,
+        "total": 900000000
+      }, {
+        "line_type": "data",
+        "line_title": "Schools",
+        "line_data_type": "number",
+        "column-2": 12345,
+        "fy-0": 0,
+        "fy+1": 432212,
+        "column-5": 60000000,
+        "column-6": 2000,
+        "total": 900000000
+      }, {
+        "line_type": "total",
+        "line_title": "Totals",
+        "line_data_type": "number",
+        "column-2": 12345,
+        "fy-0": 0,
+        "fy+1": 432212,
+        "column-5": 60000000,
+        "column-6": 2000,
+        "total": 900000000
+      }]
+    }
+  }
+}
+---
