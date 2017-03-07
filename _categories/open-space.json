@@ -1,0 +1,87 @@
+---
+{
+  "category": "Open Space",
+  "section_type": "????",
+  "section_type-short": "R",
+  "section_link_id": 5,
+  "md5_id": "E1B8054C9CDD622C9EEECFE71F26054A",
+  "name": "Open Space",
+  "intro-copy": [
+    "This is copy to be written by Budget folks still. Lomo vape locavore, art party tacos unicorn typewriter single-origin coffee kickstarter meggings small batch. 90's cronut narwhal la croix, kombucha skateboard paleo deep v craft beer hell of +1 austin hella kogi everyday carry. Yuccie snackwave chillwave meh humblebrag, organic echo park hammock vaporware. Tumeric try-hard gastropub pok pok dreamcatcher."
+  ],
+  "highlights": [
+    "New investments in this plan allow for the launch of Parks First, a comprehensive initiative ensuring that Boston’s open spaces are among the most accessible and equitable. Franklin Park, Boston’s largest open space, will see $5 million in pathway and entrance improvements over the next two years. The improved pathways will enable more people to enjoy this Emerald Necklace Park.",
+    "Ninety-seven percent of Bostonians live within a 10-minute walk of a park, but those spaces are only equitable if they serve the diverse needs of the City’s residents. Inclusive design and a comprehensive whole park approach are needed for many of our open spaces. Major investments are proposed at Smith Playground in Allston, Noyes Park in East Boston, and Garvey Playground in Dorchester.",
+    "This year the first phase of a comprehensive redesign of the 45-acre Harambee Park will begin. The renovation will include environmental improvements, pedestrian pathways, field renovations and entrance improvements that will transform Harambee into a premier example of community-led comprehensive planning.",
+    "Other new projects include Ramsay Park in the South End, a project that resulted out of the advocacy of dedicated young people; Martin’s Park in South Boston, a new park in honor of Martin Richard that will feature an inclusive playground. Funds for the park will be  provided through City, state, and private sources. Park projects that are currently underway or will be in construction this year include Marcella Playground, Parkman Playground, Roberts Playground, Allandale Woods, Winthrop Square, John Harvard Mall, Rachael Revere Square, and Boston Common Parkman Plaza"
+  ],
+  "category_departments_capital": {
+    "table_summary": {
+      "table_type": "departments_capital_by_category",
+      "table_title": "Capital by department",
+      "table_header": {
+        "line_type": "header",
+        "line_title": "Department",
+        "line_data_type": "string",
+        "through": "Through 3/1/17",
+        "fy-0": "FY17 Budget",
+        "fy+1": "FY18 Budget",
+        "fy+2-5": "FY19-22 Budget",
+        "non-capital": "Non-capital fund",
+        "total": "Total"
+      },
+      "data": [{
+        "line_type": "data",
+        "line_title": "Parks",
+        "line_data_type": "number",
+        "through": 12345,
+        "fy-0": 0,
+        "fy+1": 4234212,
+        "fy+2-5": 5000000,
+        "non-capital": 2000,
+        "total": 805300000
+      }, {
+        "line_type": "data",
+        "line_title": "BCYF",
+        "line_data_type": "number",
+        "through": 12345,
+        "fy-0": 0,
+        "fy+1": 432212,
+        "fy+2-5": 5400000,
+        "non-capital": 2000,
+        "total": 234500000
+      }, {
+        "line_type": "data",
+        "line_title": "Transportation",
+        "line_data_type": "number",
+        "through": 12345,
+        "fy-0": 0,
+        "fy+1": 432212,
+        "fy+2-5": 677000000,
+        "non-capital": 7000,
+        "total": 90045000
+      }, {
+        "line_type": "data",
+        "line_title": "Schools",
+        "line_data_type": "number",
+        "through": 12345,
+        "fy-0": 0,
+        "fy+1": 432212,
+        "fy+2-5": 4500000,
+        "non-capital": 2900,
+        "total": 9067000000
+      }, {
+        "line_type": "total",
+        "line_title": "Totals",
+        "line_data_type": "number",
+        "through": 12345,
+        "fy-0": 0,
+        "fy+1": 432212,
+        "fy+2-5": 2300000,
+        "non-capital": 5000,
+        "total": 90645000000
+      }]
+    }
+  }
+}
+---

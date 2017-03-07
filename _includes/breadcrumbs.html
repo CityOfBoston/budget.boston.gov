@@ -1,7 +1,7 @@
 <div class="breadcrumb">
 {% for breadcrumb in include.arg[1] %}
   {% if breadcrumb.url and breadcrumb.title %}
-    <a href="{{ breadcrumb.url }}">{{ breadcrumb.title }}</a>
+  <a href="{% if breadcrumb.local %}{{ site.url }}{% endif %}{{ breadcrumb.url }}">{{ breadcrumb.title }}</a>
     <span class="crumbs-separator"> &gt; </span>
   {% endif %}
   {% if breadcrumb.current %}

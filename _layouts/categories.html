@@ -1,0 +1,111 @@
+---
+layout: bos_wrapper
+---
+
+{% include hero.html %}
+
+<div class="breadcrumb">
+  <a href="/">Home</a>
+  <span class="crumbs-separator"> &gt; </span>
+  <a href="/budget">Budget</a>
+  <span class="crumbs-separator"> &gt; </span>
+  <a href="{{ site.url }}/capital_projects">Capital Projects</a>
+  <span class="crumbs-separator"> &gt; </span>
+  {{ page.name }}
+</div>
+<div class="breadcrumb-last-updated">
+  Last updated:
+  <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2016-04-21T00:00:00-04:00">4/21/16</span>
+</div>
+
+<div class="intro clearfix">
+  <div class="column mobile-100 desktop-66-left">
+    <h1 class="title">{{ page.name }}</h1>
+    <div class="intro-text supporting-text squiggle-border-bottom">
+      <p>{{ page.intro-copy }}</p>
+    </div>
+    <div class="body">
+      {{ page.overview }}
+    </div>
+  </div>
+  {% include sidebar_menu.html %}
+</div>
+
+<div class="sh desktop-100">
+  <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
+    {{ page.name }} - Highlights
+  </h2>
+</div>
+<div class="desktop-100">
+  {% for highlight in page.highlights %}
+  <p class="supporting-text">
+    {{ highlight }}
+  </p>
+  {% endfor %}
+</div>
+
+<div class="sh desktop-100">
+  <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
+    Capital by Department through FY22
+  </h2>
+  <div class="sh-contact"><a href="{{ site.url }}/capital_projects">Back to all categories</a></div>
+</div>
+<br />
+<table class="js-table responsive-table responsive-table--horizontal">
+  <thead>
+    <tr>
+      <th>{{ page.category_departments_capital.table_summary.table_header.line_title }}</th>
+      <th>{{ page.category_departments_capital.table_summary.table_header.fy-0 }}</th>
+      <th>{{ page.category_departments_capital.table_summary.table_header["fy+1"] }}</th>
+      <th>{{ page.category_departments_capital.table_summary.table_header["fy+2-5"] }}</th>
+      <th>{{ page.category_departments_capital.table_summary.table_header.non-capital }}</th>
+      <th>{{ page.category_departments_capital.table_summary.table_header.total }}</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for row in page.category_departments_capital.table_summary.data %}
+      <tr>
+        {% if row.line_type == 'total' %}
+          <td><b>{{ row.line_title }}</b></td>
+        {% else %}
+          <td><a href="{{ site.url }}/capital_projects/{{ page.name | replace: "'","" | slugify }}/{{ row.line_title | replace: "'","" | slugify }}">{{ row.line_title }}</a></td>
+        {% endif %}
+          {% assign i = row.fy-2 | money %}
+        <td>{{ row.fy-0 | append: 0 |append:0 | money }}</td>
+        <td>{{ row["fy+1"] | append: 0 |append:0 | money }}</td>
+        <td>{{ row["fy+2-5"] | append: 0 |append:0 | money }}</td>
+        <td>{{ row.non-capital | append: 0 |append:0 | money }}</td>
+        <td>{{ row.total | append: 0 |append:0 | money }}</td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
+<br />
+
+<div class="sh desktop-100">
+  <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
+    GRAPHS SHOWING TRENDS
+  </h2>
+</div>
+<br />
+
+<canvas id="myChart" width="400" height="200"></canvas>
+<div id="chart-labels" data='{% for column in page.category_departments_capital.table_summary.table_header %}{% if forloop.index > 1 %}{{ column[1] }}{% if forloop.last == false %},{% endif %}{% endif %}{% endfor %}'></div>
+<div id="chart-data" data='{
+  {% for row in page.category_departments_capital.table_summary.data %}
+    "{{ row.line_title }}":
+    [
+      {% for column in row %}
+        {% if column[0] != "line_type" and column[0] != "line_title" and column[0] != "line_data_type" %}
+          {{ column[1] }}
+          {% if forloop.last == false %}, {% endif %}
+        {% endif %}
+      {% endfor %}
+    ]
+      {% if forloop.last == false %}, {% endif %}
+  {% endfor %}
+}'>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.bundle.min.js"></script>
+<script src="{{ site.url }}/js/bos-charts.js" type="text/javascript"></script>

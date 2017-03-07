@@ -1,0 +1,41 @@
+<div class="sh desktop-100">
+  <h2 data-short-title="{{ page.table.title }}" class="sh-title table-title">{{ page.table[0].title }}</h2>
+  {% if include.arg[1][0].right_text %}
+    <div class="sh-contact">
+      {% if include.arg[1][0].right_text.name and include.arg[1][0].right_text.link %}
+      <a href="{{ site.url }}{{ include.arg[1][0].right_text.link }}">{{ include.arg[1][0].right_text.name }}</a>
+      {% else %}
+        {{ include.arg[1][0].right_text }}
+      {% endif %}
+    </div>
+  {% endif %}
+</div>
+<br />
+<table class="js-table responsive-table responsive-table--horizontal">
+  <thead>
+    <tr>
+      {% for key in include.arg[1][0].columns[0] %}
+        <th>{{ key[0] }}</th>
+      {% endfor %}
+    </tr>
+  </thead>
+  <tbody>
+    {% for row in include.arg[1][0].columns %}
+      <tr>
+        {% for column in row %}
+          {% if column[1].name and column[1].link %}
+            <td><a href="{{ site.url }}{{ column[1].link }}">{{ column[1].name }}</a></td>
+          {% elsif column[1].filter == 'money' %}
+            <td>{{ column[1].value | append: 0 | append: 0 | money }}</td>
+          {% elsif column[1].filter == 'percent' %}
+            <td>{{ column[1].value | append: "%" }}</td>
+          {% else %}
+            <td>{{ column[1] }}</td>
+          {% endif %}
+        {% endfor %}
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+<br />

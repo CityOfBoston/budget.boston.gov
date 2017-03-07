@@ -18,6 +18,11 @@ github_username:  CityOfBoston
 # Build settings
 markdown: kramdown
 
+# Collection settings
+collections:
+  cookies:
+    output: true
+
 exclude: [node_modules, package.json, Gulpfile, Gemfile, Gemfile.lock, vendor]
 keep_files: [assets]
 permalink: '/:collection/:title/'
