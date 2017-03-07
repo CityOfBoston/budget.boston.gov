@@ -118,7 +118,7 @@ table:
           filter: money
       - "Category":
          name: Government Infrastructure
-         link: /
+         link: /capital_projects/categories/government-infrastructure
         "Through 3/1/17":
           value: 345
           filter: money

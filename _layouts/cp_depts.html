@@ -1,0 +1,94 @@
+---
+layout: bos_wrapper
+---
+
+{% include hero.html %}
+
+<div class="breadcrumb">
+  <a href="/">Home</a>
+  <span class="crumbs-separator"> &gt; </span>
+  <a href="/budget">Budget</a>
+  <span class="crumbs-separator"> &gt; </span>
+  <a href="{{ site.url }}/spending">Spending</a>
+  <span class="crumbs-separator"> &gt; </span>
+  <a href="{{ site.url }}/spending/cabinets">Cabinets</a>
+  <span class="crumbs-separator"> &gt; </span>
+  <a href="{{ site.url }}/spending/cabinets/{{ page.cabinet | replace: "'","" | slugify }}">{{ page.cabinet }}</a>
+  <span class="crumbs-separator"> &gt; </span>
+  {{ page.name }}
+</div>
+<div class="breadcrumb-last-updated">
+  Last updated:
+  <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2016-04-21T00:00:00-04:00">4/21/16</span>
+</div>
+
+<div class="intro clearfix">
+  <div class="column mobile-100 desktop-66-left">
+    <h1 class="title">{{ page.name }}</h1>
+    <div class="intro-text supporting-text squiggle-border-bottom">
+      <p>The {{ page.name }} Department is increasing by X.X% in FY18. This Department is made up of the 
+      {% for row in page.tables_summary[0].data %}
+        {% if row.line_title %}
+          {% assign i = forloop.length | minus: 1 %}
+          {{ row.line_title }}{% if forloop.index != i %},{% endif %}
+        {% endif %}
+      {% endfor %}
+      programs.
+      </p>
+    </div>
+    <div class="body">
+      {{ page.overview }}
+    </div>
+  </div>
+  {% include sidebar_menu.html %}
+</div>
+
+<div class="sh desktop-100">
+  <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
+    {{ page.name }} - PERFORMANCE STRATEGIES
+  </h2>
+</div>
+<div class="desktop-100">
+  <p class="supporting-text">
+    {{ page.mission }}
+    <br />
+    <b><span> {{ page.head_name }},</span></b>
+    <b><span>{{ page.head_title }}</span></b>
+  </p>
+</div>
+
+<div class="sh desktop-100">
+  <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
+    APPROPRAITIONS BY PROGRAM
+  </h2>
+  <div class="sh-contact"><a href="{{ site.url }}/spending/cabinets/{{ page.cabinet | replace: "'","" | slugify }}">Back to {{ page.cabinet }}</a></div>
+</div>
+<br />
+<table class="js-table responsive-table responsive-table--horizontal">
+  <thead>
+    <tr>
+      <th>{{ page.tables_summary[0].table_header[0].Name }}</th>
+      <th>{{ page.tables_summary[0].table_header[0].fy-2_actual }}</th>
+      <th>{{ page.tables_summary[0].table_header[0].fy-1_actual }}</th>
+      <th>{{ page.tables_summary[0].table_header[0].fy-0_budget }}</th>
+      <th>{{ page.tables_summary[0].table_header[0]["fy+1_budget"] }}</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for row in page.tables_summary[0].data %}
+      <tr>
+        {% if row.line_type == 'total' %}
+          <td><strong>{{ row.line_title }}</strong></td>
+        {% else %}
+        <td><a href="{{ site.url }}/spending/cabinets/{{ page.cabinet | slugify }}/{{ page.name | replace: "'","" | slugify }}/{{ row.line_title | replace: "'","" | slugify }}">{{ row.line_title }}</a></td>
+        {% endif %}
+          {% assign i = row.fy-2 | money %}
+        <td>{{ row.fy-2_actual | append: 0 |append:0 | money }}</td>
+        <td>{{ row.fy-1_actual | append: 0 |append:0 | money }}</td>
+        <td>{{ row.fy-0_budget | append: 0 |append:0 | money }}</td>
+        <td>{{ row["fy+1_budget"] | append: 0 |append:0 | money }}</td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
+<br />

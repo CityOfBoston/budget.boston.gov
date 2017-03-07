@@ -26,6 +26,12 @@ collections:
   programs:
     output: true
     permalink: "/spending/cabinets/:path/"
+  categories:
+    output: true
+    permalink: "/capital_projects/:collection/:path/"
+  cp_depts:
+    output: true
+    permalink: "/capital_projects/categories/:path/"
 
 # Build settings
 markdown: kramdown
@@ -54,6 +60,16 @@ defaults:
       type: "programs"
     values:
       layout: "programs"
+  - scope:
+      path: "" # empty string for all files
+      type: "categories"
+    values:
+      layout: "categories"
+  - scope:
+      path: "" # empty string for all files
+      type: "cp_depts"
+    values:
+      layout: "cp_depts"
 
 test:
   post:
