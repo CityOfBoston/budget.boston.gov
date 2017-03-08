@@ -41,8 +41,8 @@ text_block:
 table:
   - title: Appropriations by Cabinet
     right_text: 
-      name: Back to all spending
-      link: /spending
+      name: Back to Operating Budget
+      link: /operating-budget
     columns:
       - "Cabinet": 
            name: Cabinet 1
