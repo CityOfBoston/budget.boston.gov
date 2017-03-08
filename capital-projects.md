@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /capital_projects/
+permalink: /capital-projects/
 title: Capital Projects
 breadcrumbs:
  - title: Home
@@ -118,7 +118,7 @@ table:
           filter: money
       - "Category":
          name: Government Infrastructure
-         link: /capital_projects/categories/government-infrastructure
+         link: /capital-projects/categories/government-infrastructure
         "Through 3/1/17":
           value: 345
           filter: money
@@ -139,7 +139,7 @@ table:
           filter: money
       - "Category":
          name: Open Space
-         link: /capital_projects/open-space
+         link: /capital-projects/open-space
         "Through 3/1/17":
           value: 345
           filter: money

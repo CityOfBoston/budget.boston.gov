@@ -28,10 +28,10 @@ collections:
     permalink: "/operating-budget/cabinets/:path/"
   categories:
     output: true
-    permalink: "/capital_projects/:path/"
+    permalink: "/capital-projects/:path/"
   cp_depts:
     output: true
-    permalink: "/capital_projects/:path/"
+    permalink: "/capital-projects/:path/"
 
 # Build settings
 markdown: kramdown
