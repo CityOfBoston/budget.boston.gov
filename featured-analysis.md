@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured_analysis/
+permalink: /featured-analysis/
 title: Featured Analysis
 breadcrumbs:
  - title: Home
