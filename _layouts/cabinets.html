@@ -9,9 +9,9 @@ layout: bos_wrapper
   <span class="crumbs-separator"> &gt; </span>
   <a href="/budget">Budget</a>
   <span class="crumbs-separator"> &gt; </span>
-  <a href="{{ site.url }}/spending">Spending</a>
+  <a href="{{ site.url }}/operating-budget">Operating Budget</a>
   <span class="crumbs-separator"> &gt; </span>
-  <a href="{{ site.url }}/spending/cabinets">Cabinets</a>
+  <a href="{{ site.url }}/operating-budget/cabinets">Cabinets</a>
   <span class="crumbs-separator"> &gt; </span>
   {{ page.name }}
 </div>
@@ -77,7 +77,7 @@ layout: bos_wrapper
         {% if row.total %}
           <td><strong>{{ row.total }}</strong></td>
         {% else %}
-        <td><a href="{{ site.url }}/spending/cabinets/{{ page.name | replace: "'","" | slugify }}/{{ row.department | replace: "'","" | slugify }}">{{ row.department }}</a></td>
+        <td><a href="{{ site.url }}/operating-budget/cabinets/{{ page.name | replace: "'","" | slugify }}/{{ row.department | replace: "'","" | slugify }}">{{ row.department }}</a></td>
         {% endif %}
           {% assign i = row.fy-2 | money %}
         <td>{{ row.fy-2 | append: 0 |append:0 | money }}</td>

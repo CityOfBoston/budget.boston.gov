@@ -1,16 +1,16 @@
 ---
 layout: bos_content
-permalink: /spending/
-title: City Spending
+permalink: /operating-budget/
+title: Operating Budget
 breadcrumbs:
  - title: Home
    url: "/"
  - title: Budget
    url: "/budget"
- - current: Spending
+ - current: Operating Budget
  - published: 2/15/17
 intro:
- - title: City Spending
+ - title: Operating Budget
    short_desc: >
      <div>"This budget is a manifestation of my vision for a
      Thriving, Healthy, and Innovative Boston."</div>
@@ -52,14 +52,14 @@ table:
         "FY18 Budget": 50000
       - "Category": 
            name: All Cabinets
-           link: /spending/cabinets
+           link: /operating-budget/cabinets
         "FY15 Actual": 111
         "FY16 Actual": 542
         "FY17 Budget": 275
         "FY18 Budget": 50000
       - "Category": 
          name: Streets
-         link: /spending/cabinets/streets
+         link: /operating-budget/cabinets/streets
         "FY15 Actual": 111
         "FY16 Actual": 542
         "FY17 Budget": 275

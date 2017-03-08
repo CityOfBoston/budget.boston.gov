@@ -1,14 +1,14 @@
 ---
 layout: bos_content
-permalink: /spending/cabinets/
+permalink: /operating-budget/cabinets/
 title: Cabinets
 breadcrumbs:
  - title: Home
    url: "/"
  - title: Budget
    url: "/budget"
- - title: Spending
-   url: "/spending/"
+ - title: Operating Budget
+   url: "/operating-budget/"
    local: true
  - current: Cabinets
  - published: 2/15/17
@@ -91,7 +91,7 @@ table:
           filter: money
       - "Cabinet":
          name: Streets
-         link: /spending/cabinets/streets
+         link: /operating-budget/cabinets/streets
         "FY15 Actual":
          value: 111
          filter: money

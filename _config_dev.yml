@@ -19,13 +19,13 @@ github_username:  CityOfBoston
 collections:
   cabinets:
     output: true
-    permalink: "/spending/:collection/:path/"
+    permalink: "/operating-budget/:collection/:path/"
   departments:
     output: true
-    permalink: "/spending/cabinets/:path/"
+    permalink: "/operating-budget/cabinets/:path/"
   programs:
     output: true
-    permalink: "/spending/cabinets/:path/"
+    permalink: "/operating-budget/cabinets/:path/"
   categories:
     output: true
     permalink: "/capital_projects/:path/"
