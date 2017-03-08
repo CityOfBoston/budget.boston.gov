@@ -92,3 +92,22 @@ layout: bos_wrapper
   </tbody>
 </table>
 <br />
+
+<div class="sh desktop-100">
+  <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
+  {{ page.name }} - External Funds Projects
+  </h2>
+</div>
+{% for fund in page.external_funds %}
+<p>{{ fund }}</p>
+{% endfor %}
+<br />
+
+<div class="sh desktop-100">
+  <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
+  {{ page.name }} - Authorizing Statutes
+  </h2>
+</div>
+{% for statute in page.statutes %}
+<p>{{ statute }}</p>
+{% endfor %}
