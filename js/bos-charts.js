@@ -1,5 +1,6 @@
 var ctx = document.getElementById("myChart").getContext("2d");
 var chartLabelsString = document.getElementById("chart-labels").getAttribute("data");
+console.log(chartLabelsString);
 var chartLabels = chartLabelsString.split(",");
 var chartDataString = document.getElementById("chart-data").getAttribute("data");
 console.log(chartDataString);

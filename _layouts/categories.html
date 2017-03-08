@@ -90,15 +90,24 @@ layout: bos_wrapper
 <br />
 
 <canvas id="myChart" width="400" height="200"></canvas>
-<div id="chart-labels" data='{% for column in page.category_departments_capital.table_summary.table_header %}{% if forloop.index > 1 %}{{ column[1] }}{% if forloop.last == false %},{% endif %}{% endif %}{% endfor %}'></div>
+<div id="chart-labels" data='
+  {% for column in page.category_departments_capital.table_summary.table_header %}
+    {% if column[0] != 'line_type' and column[0] !=  'line_title' and column[0] != 'line_data_type'  and column[0] != 'total' and column[0] != 'through' %}
+      {{ column[1] }}
+      {% assign i = forloop.length | minus: 1 %}
+      {% if forloop.index != i %}, {% endif %}
+    {% endif %}
+  {% endfor %}
+'></div>
 <div id="chart-data" data='{
   {% for row in page.category_departments_capital.table_summary.data %}
     "{{ row.line_title }}":
     [
       {% for column in row %}
-        {% if column[0] != "line_type" and column[0] != "line_title" and column[0] != "line_data_type" %}
+        {% if column[0] != "line_type" and column[0] != "line_title" and column[0] != "line_data_type" and column[0] != "total" and column[0] != "through" %}
           {{ column[1] }}
-          {% if forloop.last == false %}, {% endif %}
+          {% assign i = forloop.length | minus: 1 %}
+          {% if forloop.index != i %}, {% endif %}
         {% endif %}
       {% endfor %}
     ]
