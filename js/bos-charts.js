@@ -17,7 +17,11 @@ for (var i in chartData) {
     borderColor: chartBorderColors[k],
     borderWidth: 2
   });
-  k++;
+  if (k == chartColors.length -1) {
+    k = 0;
+  } else {
+    k++;
+  }
 }
 var myChart = new Chart(ctx, {
   type: 'line',
