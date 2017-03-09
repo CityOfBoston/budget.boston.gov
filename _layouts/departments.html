@@ -98,7 +98,12 @@ layout: bos_wrapper
     Graphs Showing Trends
   </h2>
 </div>
-<canvas id="myChart" width="400" height="200"></canvas>
+<div class="desktop-50">
+<canvas id="myChart" width="200" height="200"></canvas>
+</div>
+<div class="desktop-50">
+<canvas id="bosBarChart" width="200" height="200"></canvas>
+</div>
 <div id="chart-labels" data="
   {% for column in page.tables_summary[0].table_header[0] %}
     {% if column[0] != 'Name' %}

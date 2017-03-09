@@ -1,4 +1,5 @@
 var ctx = document.getElementById("myChart").getContext("2d");
+var ctx2 = document.getElementById("bosBarChart").getContext("2d");
 var chartLabelsString = document.getElementById("chart-labels").getAttribute("data");
 console.log(chartLabelsString);
 var chartLabels = chartLabelsString.split(",");
@@ -25,6 +26,14 @@ for (var i in chartData) {
 }
 var myChart = new Chart(ctx, {
   type: 'line',
+  data: {
+    labels: chartLabels,
+    datasets: chartDatasets, 
+  },
+  options: ""
+});
+var myChart = new Chart(ctx2, {
+  type: 'bar',
   data: {
     labels: chartLabels,
     datasets: chartDatasets, 
