@@ -75,7 +75,7 @@ text_block+:
       through investments in education, public safety,
       parks, transportation, and community spaces. 
 table:
-  - title: Capital Spending through FY22
+  - title: Investment category
     columns:
       - "Category": 
            name: Education
@@ -164,6 +164,25 @@ table:
       - "Category":
          name: Open Space
          link: /capital-projects/open-space
+        "Through 3/1/17":
+          value: 345
+          filter: money
+        "FY17 Budget":
+          value: 44
+          filter: money
+        "FY18 Budget":
+          value: 90
+          filter: money
+        "FY19-22 Budget":
+          value: 6565
+          filter: money
+        "Non-Capital Fund":
+          value: 6565
+          filter: money
+        "Total":
+          value: 6565
+          filter: money
+      - "Category": <b>Totals</b>
         "Through 3/1/17":
           value: 345
           filter: money
