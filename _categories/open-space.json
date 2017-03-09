@@ -24,7 +24,7 @@
         "line_title": "Department",
         "line_data_type": "string",
         "through": "Through 3/1/17",
-        "fy-0": "FY17 Budget",
+        "fy-0": "FY17 Forecast",
         "fy+1": "FY18 Budget",
         "fy+2-5": "FY19-22 Budget",
         "non-capital": "Non-capital fund",
