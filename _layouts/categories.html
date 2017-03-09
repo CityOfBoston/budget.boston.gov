@@ -55,6 +55,7 @@ layout: bos_wrapper
   <thead>
     <tr>
       <th>{{ page.category_departments_capital.table_summary.table_header.line_title }}</th>
+      <th>{{ page.category_departments_capital.table_summary.table_header.through }}</th>
       <th>{{ page.category_departments_capital.table_summary.table_header.fy-0 }}</th>
       <th>{{ page.category_departments_capital.table_summary.table_header["fy+1"] }}</th>
       <th>{{ page.category_departments_capital.table_summary.table_header["fy+2-5"] }}</th>
@@ -70,7 +71,7 @@ layout: bos_wrapper
         {% else %}
           <td><a href="{{ site.url }}/capital-projects/{{ page.name | replace: "'","" | slugify }}/{{ row.line_title | replace: "'","" | slugify }}">{{ row.line_title }}</a></td>
         {% endif %}
-          {% assign i = row.fy-2 | money %}
+        <td>{{ row.through | append: 0 |append:0 | money }}</td>
         <td>{{ row.fy-0 | append: 0 |append:0 | money }}</td>
         <td>{{ row["fy+1"] | append: 0 |append:0 | money }}</td>
         <td>{{ row["fy+2-5"] | append: 0 |append:0 | money }}</td>
