@@ -37,13 +37,14 @@ text_block+:
       Imagine Boston 2030, the City’s first comprehensive
       planning process in fifty years is underway. Four goals
       have emerged that will help guide Boston’s growth:
-      <br /><br />
-      • Provide quality of life in accessible
-      neighborhoods.<br />
-      • Drive inclusive economic growth.<br />
-      • Invest in infrastructure, open space and
-      culture.<br />
-      • Promote a healthy environment and adapt to climate changes.<br />
+      <ul>
+      <li>Provide quality of life in accessible
+      neighborhoods.</li>
+      <li>Drive inclusive economic growth.</li>
+      <li>Invest in infrastructure, open space and
+      culture.</li>
+      <li>Promote a healthy environment and adapt to climate changes.</li>
+      </ul>
       <br />
       The City’s capital plan is an important tool in realizing
       the goals and vision of Boston 2030. As an investment

@@ -27,43 +27,93 @@ intro:
      validated by the affirmation of Boston's triple A bond rating.
    sidebar_menu: true
 table:
-  - title: Expenditure Categories
+  - title: Appropriations By Cabinet
+    right_text: (numbers in millions)
     columns:
-      - "Category": 
+      - "Cabinet":
            name: Boston Public Schools
-           link: /
-        "FY15 Actual": 345
-        "FY16 Actual": 44
-        "FY17 Budget": 90
-        "FY18 Budget": 6565
-      - "Category":
-           name: All City
-           link: /
-        "FY15 Actual": 344573
-        "FY16 Actual": 757
-        "FY17 Budget": 554
-        "FY18 Budget": 6565
-      - "Category": 
-           name: Another
-           link: /
-        "FY15 Actual": 111
-        "FY16 Actual": 542
-        "FY17 Budget": 275
-        "FY18 Budget": 50000
-      - "Category": 
-           name: All Cabinets
+           link: /operating-budget/cabinets/boston-public-schools
+        "FY15 Actual": $937.95
+        "FY16 Actual": $974.93
+        "FY17 Budget": $1,016.28
+        "FY18 Budget": $1,031.68
+      - "Cabinet":
+           name: Charter School Tuition
+           link: /operating-budget/cabinets/charter-school-tuition
+        "FY15 Actual": $110.66
+        "FY16 Actual": $125.81
+        "FY17 Budget": $146.86
+        "FY18 Budget": $156.81
+      - "Cabinet":
+           name: City Appropriations
            link: /operating-budget/cabinets
-        "FY15 Actual": 111
-        "FY16 Actual": 542
-        "FY17 Budget": 275
-        "FY18 Budget": 50000
-      - "Category": 
-         name: Streets
-         link: /operating-budget/cabinets/streets
-        "FY15 Actual": 111
-        "FY16 Actual": 542
-        "FY17 Budget": 275
-        "FY18 Budget": 50000
+        "FY15 Actual": $1,105.40
+        "FY16 Actual": $1,139.43
+        "FY17 Budget": $1,140.82
+        "FY18 Budget": $1,195.18
+      - "Cabinet":
+           name: Debt Services
+           link: /operating-budget/cabinets/debt-services
+        "FY15 Actual": $137.84
+        "FY16 Actual": $148.01
+        "FY17 Budget": $162.87
+        "FY18 Budget": $177.85
+      - "Cabinet":
+           name: MBTA
+           link: /operating-budget/cabinets/mbta
+        "FY15 Actual": $79.15
+        "FY16 Actual": $81.27
+        "FY17 Budget": $83.00
+        "FY18 Budget": $83.82
+      - "Cabinet":
+           name: Other Post Employment Benefits
+           link: /operating-budget/cabinets/other-post-employment-benefits
+        "FY15 Actual": $40.00
+        "FY16 Actual": $40.00
+        "FY17 Budget": $40.00
+        "FY18 Budget": $40.00
+      - "Cabinet":
+           name: Other State Assessments
+           link: /operating-budget/cabinets/other-state-assessments
+        "FY15 Actual": $4.25
+        "FY16 Actual": $4.58
+        "FY17 Budget": $4.65
+        "FY18 Budget": $4.72
+      - "Cabinet":
+           name: Pensions
+           link: /operating-budget/cabinets/pensions
+        "FY15 Actual": $152.91
+        "FY16 Actual": $169.62
+        "FY17 Budget": $184.55
+        "FY18 Budget": $189.88
+      - "Cabinet":
+           name: Public Health Commission
+           link: /operating-budget/cabinets/public-health-commission
+        "FY15 Actual": $66.76
+        "FY16 Actual": $73.83
+        "FY17 Budget": $73.95
+        "FY18 Budget": $77.27
+      - "Cabinet":
+           name: Reserve
+           link: /operating-budget/cabinets/reserve
+        "FY15 Actual": $0.43
+        "FY16 Actual": $0.92
+        "FY17 Budget": $0.21
+        "FY18 Budget": $0.74
+      - "Cabinet":
+           name: Reserve for Collective Bargaining
+           link: /operating-budget/cabinets/reserve-for-collective-bargaining
+        "FY15 Actual": $5.64
+        "FY16 Actual": $10.79
+        "FY17 Budget": $0.02
+        "FY18 Budget": $13.30
+      - "Cabinet":
+           name: Suffolk County Sheriff Dept
+           link: /operating-budget/cabinets/suffolk-county-sheriff-dept
+        "FY15 Actual": $3.87
+        "FY16 Actual": $3.87
+        "FY17 Budget": $3.87
+        "FY18 Budget": $3.87
 text_block:
   - title: Overview
     body: >
