@@ -12,19 +12,26 @@ breadcrumbs:
 intro:
  - title: Operating Budget
    short_desc: >
-     <div>"This budget is a manifestation of my vision for a
-     Thriving, Healthy, and Innovative Boston."</div>
-     <div>- Martin J. Walsh, Mayor</div>
+      The FY17 Adopted Operating Budget totals $2.98
+      billion and represents an increase of $118 million or
+      4.1% over FY16. The FY17 budget continues the City’s
+      strong fiscal management record, implements
+      thoughtful reforms that achieve savings and
+      modernize processes, and reinvests those savings in
+      targeted initiatives toward achieving a thriving,
+      healthy and innovative City.
    description: >
-     Mayor Walsh presented a balanced budget that maintains 
-     high levels of support in critical areas such as education 
-     and public safety, makes limited strategic investments,
-     continues the City's commitment to addressing its long-term
-     liabilities, and builds on the Administration's record of 
-     strong fiscal management. This is made possible by the 
-     Administration's achievement of efficiencies and savings. 
-     The City's data-driven managerial approach was recently 
-     validated by the affirmation of Boston's triple A bond rating.
+      On the expenditure side, the FY17 budget reflects an
+      increase of $118 million or 4.1% over the FY16 budget
+      and $95.4 million (3.3%) over FY16 estimated
+      expenditures. Of that growth, City Departments,
+      Boston Public Schools (BPS) and the Public Health
+      Commission (PHC) (net health insurance and pension
+      costs) are growing by $29.3 million or 1.5% over FY16
+      estimated expenditures. These departmental
+      increases are low relative to other years due to the
+      expiration of nearly all of collective bargaining
+      agreements by early in the fiscal year. 
    sidebar_menu: true
 table:
   - title: Appropriations By Cabinet
@@ -117,19 +124,90 @@ table:
 text_block:
   - title: Overview
     body: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur suscipit id 
-      felis sed iaculis. Sed ac nisl eu lacus porta pharetra. Suspendisse a tortor vel 
-      velit egestas porttitor et a mi. Nam nunc ipsum, elementum a nisi nec, scelerisque 
-      blandit orci. Ut in sollicitudin turpis, non malesuada leo. Morbi vehicula sit 
-      amet est sed luctus. Suspendisse massa turpis, iaculis at fermentum placerat, 
-      scelerisque ultricies est. Nulla facilisi. In scelerisque ornare tincidunt.
+      On the expenditure side of the budget, total
+      appropriations increase by $83.2 million or 3.7% and
+      fixed costs increase by $31.5 million or 5.4%. Selected
+      FY17 budgeted appropriations compare with FY16
+      budgeted appropriations as follows: City
+      Appropriations increase $55.2 million or 4.8%, the
+      Boston Public Health Commission increases by $3.3
+      million or 4.5%, and the School Department increases
+      $13.5 million or 1.3%. Within City Appropriations,
+      actual City Departments are increasing by $18.7
+      million or 2.0% over FY16 estimated spending. These
+      departmental increases are low relative to other years
+      due to the expiration of nearly all of collective
+      bargaining agreements, except for the firefighters
+      union, by early in the fiscal year. This
+      recommendation fully budgets for public safety
+      overtime accounting for $20.6 million of the increase
+      over FY16 budget, where public safety budget is
+      underfunded. Also contained within City
+      Appropriations are 11 central appropriations including
+      large appropriations for Health Insurance of $206.2
+      million and Medicare of $10 million that collectively
+      are increasing by $15.9 million or 7.3%
+      <br /><br />
+      FY17 budgeted fixed costs compare with FY16
+      budgeted fixed costs as follows: Pensions increase $5.3
+      million or 2.9%; Debt Service increases $13.4 million or
+      8.1%; Charter School Tuition state assessment
+      increases $11.4 million or 7.8%; MBTA state
+      assessment increases by $0.8 million or 1.0%; and
+      other state assessments increases $69 thousand or
+      1.5%.
 text_block+:
   - title: Expenditures
     body: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur suscipit id 
-      felis sed iaculis. Sed ac nisl eu lacus porta pharetra. Suspendisse a tortor vel 
-      velit egestas porttitor et a mi. Nam nunc ipsum, elementum a nisi nec, scelerisque 
-      blandit orci. Ut in sollicitudin turpis, non malesuada leo. Morbi vehicula sit 
-      amet est sed luctus. Suspendisse massa turpis, iaculis at fermentum placerat, 
-      scelerisque ultricies est. Nulla facilisi. In scelerisque ornare tincidunt.
+      Expenditures are broken down into two primary
+      groups: (1) appropriations directly related to
+      departmental services and (2) fixed and mandated
+      costs. FY17 appropriations are subdivided into three
+      subgroups as follows:
+      <ul>
+      <li>City Appropriations, which includes all
+      operating department appropriations,
+      centrally budgeted costs such as health
+      insurance and Medicare, a risk retention
+      reserve and a set-aside for tax title and
+      annual audit expenses;</li>
+      <li>Boston Public Health Commission (PHC),
+      the City appropriation for the quasiindependent
+      authority and successor to the
+      Department of Health and Hospitals;</li>
+      <li>and School Department, the City
+      appropriation for the Boston Public Schools
+      (BPS).</li>
+      </ul>
+      Appropriations are also presented by expenditure
+      category across the three subgroups. (Figure 6)
+      <br /><br />
+      Personnel Services include salaries, overtime,
+      unemployment compensation and workers’
+      compensation, and a collective bargaining reserve for
+      estimated wage increases for union employees whose
+      agreements are not settled. Almost all of the City’s
+      collective bargaining agreements will expire in FY17.
+      <br /><br />
+      The Health Benefits category includes the cost of
+      health, dental and life insurance for City, BPS and
+      PHC employees and retirees, employer Medicare payroll
+      taxes, and the appropriation for Other PostEmployment
+      Benefits (OPEB).
+      <br /><br />
+      The Contractual Services category includes
+      expenditures for communications, repairs and service
+      to buildings, equipment and vehicles, transportation,
+      trash collection and disposal, as well as outside legal,
+      advertising, and printing expenses.
+      <br /><br />
+      Included in the “Other” category are supplies and
+      materials such as gasoline, uniform allowances, office
+      supplies, workers’ compensation medical expenses,
+      medical indemnification in the Fire and Police
+      Departments, legal liabilities, and aid to veterans. Also
+      included in the “Other” category are appropriations for
+      equipment, vehicles, a risk retention reserve, the
+      Housing Trust Fund, tax title, and funding for the
+      City’s outside audit. 
 ---
