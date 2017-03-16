@@ -1,6 +1,12 @@
 if (document.getElementById("myChart")) {
   var ctx = document.getElementById("myChart").getContext("2d");
 }
+if (document.getElementById("totalLineChart")) {
+  var totalLineChart = document.getElementById("totalLineChart").getContext("2d");
+}
+if (document.getElementById("aggregateBarChart")) {
+  var aggregateBarChart = document.getElementById("aggregateBarChart").getContext("2d");
+}
 if (document.getElementById("bosBarChart")) {
   var ctx2 = document.getElementById("bosBarChart").getContext("2d");
 }
@@ -21,8 +27,8 @@ for (var i in chartData) {
     backgroundColor: chartColors[k],
     borderColor: chartBorderColors[k],
     borderWidth: 2,
-    pointBackgroundColor: 'red',
-    pointBorderColor: 'red'
+    pointBackgroundColor: '#232323',
+    pointBorderColor: '#232323'
   });
   if (k == chartColors.length -1) {
     k = 0;
@@ -33,6 +39,26 @@ for (var i in chartData) {
 if (ctx) {
   var myChart = new Chart(ctx, {
     type: 'line',
+    data: {
+      labels: chartLabels,
+      datasets: chartDatasets
+    },
+    options: ""
+  });
+}
+if (totalLineChart) {
+  var myChart = new Chart(totalLineChart, {
+    type: 'line',
+    data: {
+      labels: chartLabels,
+      datasets: chartDatasets
+    },
+    options: ""
+  });
+}
+if (aggregateBarChart) {
+  var myChart = new Chart(aggregateBarChart, {
+    type: 'bar',
     data: {
       labels: chartLabels,
       datasets: chartDatasets
