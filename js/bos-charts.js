@@ -20,7 +20,9 @@ for (var i in chartData) {
     data: chartData[i],
     backgroundColor: chartColors[k],
     borderColor: chartBorderColors[k],
-    borderWidth: 2
+    borderWidth: 2,
+    pointBackgroundColor: 'red',
+    pointBorderColor: 'red'
   });
   if (k == chartColors.length -1) {
     k = 0;
@@ -33,11 +35,12 @@ if (ctx) {
     type: 'line',
     data: {
       labels: chartLabels,
-      datasets: chartDatasets, 
+      datasets: chartDatasets
     },
     options: ""
   });
 }
+
 if (ctx2) {
   var myChart = new Chart(ctx2, {
     type: 'bar',
@@ -48,3 +51,5 @@ if (ctx2) {
     options: ""
   });
 }
+
+document.getElementById("myChart").style.backgroundColor = '#F2F2F2';
