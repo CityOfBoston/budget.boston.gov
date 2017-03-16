@@ -11,10 +11,10 @@ if (document.getElementById("bosBarChart")) {
   var ctx2 = document.getElementById("bosBarChart").getContext("2d");
 }
 var chartLabelsString = document.getElementById("chart-labels").getAttribute("data");
-console.log(chartLabelsString);
+//console.log(chartLabelsString);
 var chartLabels = chartLabelsString.split(",");
 var chartDataString = document.getElementById("chart-data").getAttribute("data");
-console.log(chartDataString);
+//console.log(chartDataString);
 var chartData = JSON.parse(chartDataString);
 var chartDatasets = new Array();
 var chartColors = ['rgba(9,31,47, .5)','rgba(252,182,26, .5)','rgba(40,139,228, .5)','rgba(251,77,66, .5)','rgba(183,183,183, .5)'];
@@ -46,19 +46,23 @@ if (ctx) {
     options: ""
   });
 }
+
 if (totalLineChart) {
+  var cabinetName = document.getElementById("totalLineChart").getAttribute("data-title");
   var myChart = new Chart(totalLineChart, {
     type: 'line',
     data: {
       labels: chartLabels,
       datasets: [{
-        label: 'test',
+        label: 'All ' + cabinetName + ' Departments',
         data: [2429952, 2672446, 2557755, 2590424],
         backgroundColor: 'transparent',
         borderColor: '#4A7EBB',
         borderWidth: 2,
         pointBackgroundColor: '#232323',
-        pointBorderColor: '#232323'
+        pointBorderColor: '#232323',
+        pointRadius: 6,
+        pointHoverRadius: 10
       }]
     },
     options: {
