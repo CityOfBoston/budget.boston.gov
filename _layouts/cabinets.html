@@ -98,10 +98,25 @@ layout: bos_wrapper
 <br />
 
 <div class="desktop-50">
-  <table class="responsive-table"><th>{{ page.tables_summary[0].table_summary[0].data[-1].total }} {{ page.name }} Operating Budget</th></table>
-  <canvas id="totalLineChart" width="200" height="200" data-title="{{ page.name }}"></canvas>
+  <div id="totalLineChart-wrapper">
+    <table class="responsive-table"><th>{{ page.tables_summary[0].table_summary[0].data[-1].total }} {{ page.name }} Operating Budget</th></table>
+    <canvas
+      id="totalLineChart"
+      width="200"
+      height="200"
+      data-title="{{ page.name }}"
+      data="
+        {% for i in page.tables_summary[0].table_summary[0].data[-1] %}
+          {% if i[0] != 'total' %}
+          {{ i[1] }}{% unless forloop.last %},{% endunless %}
+          {% endif %}
+        {% endfor %}
+      "
+    ></canvas>
+  </div>
 </div>
 <div class="desktop-50">
+  <table class="responsive-table"><th>{{ page.name }} Operating Budget by Department</th></table>
   <canvas id="aggregateBarChart" width="200" height="200"></canvas>
 </div>
 <canvas id="myChart" width="400" height="200"></canvas>

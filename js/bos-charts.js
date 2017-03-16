@@ -49,13 +49,16 @@ if (ctx) {
 
 if (totalLineChart) {
   var cabinetName = document.getElementById("totalLineChart").getAttribute("data-title");
+  var cabinetDataString = document.getElementById("totalLineChart").getAttribute("data");
+  var cabinetData = cabinetDataString.split(",");
+  console.log(cabinetData);
   var myChart = new Chart(totalLineChart, {
     type: 'line',
     data: {
       labels: chartLabels,
       datasets: [{
         label: 'All ' + cabinetName + ' Departments',
-        data: [2429952, 2672446, 2557755, 2590424],
+        data: cabinetData,//[2429952, 2672446, 2557755, 2590424],
         backgroundColor: 'transparent',
         borderColor: '#4A7EBB',
         borderWidth: 2,
@@ -97,3 +100,4 @@ if (ctx2) {
 document.getElementById("myChart").style.backgroundColor = '#F2F2F2';
 document.getElementById("totalLineChart").style.backgroundColor = '#F2F2F2';
 document.getElementById("totalLineChart").style.padding = '20px';
+document.getElementById("totalLineChart-wrapper").style.margin = '0 10px 0 0';
