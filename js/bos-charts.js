@@ -10,10 +10,14 @@ if (document.getElementById("aggregateBarChart")) {
 if (document.getElementById("bosBarChart")) {
   var ctx2 = document.getElementById("bosBarChart").getContext("2d");
 }
-var chartLabelsString = document.getElementById("chart-labels").getAttribute("data");
+var chartLabelsString = document.getElementById("aggregateBarChart").getAttribute("data-labels");
+//var chartLabelsString = document.getElementById("chart-labels").getAttribute("data");
 //console.log(chartLabelsString);
-var chartLabels = chartLabelsString.split(",");
-var chartDataString = document.getElementById("chart-data").getAttribute("data");
+//var chartLabels = chartLabelsString.split(",");
+var chartLabels = chartLabelsString.replace(/^\s+|\s+$/g,"").split(/\s*,\s*/);
+console.log(chartLabels);
+//var chartDataString = document.getElementById("chart-data").getAttribute("data");
+var chartDataString = document.getElementById("aggregateBarChart").getAttribute("data");
 //console.log(chartDataString);
 var chartData = JSON.parse(chartDataString);
 var chartDatasets = new Array();
@@ -53,7 +57,7 @@ if (totalLineChart) {
   var cabinetName = document.getElementById("totalLineChart").getAttribute("data-title");
   var cabinetDataString = document.getElementById("totalLineChart").getAttribute("data");
   var cabinetData = cabinetDataString.split(",");
-  console.log(cabinetData);
+  //console.log(cabinetData);
   var myChart = new Chart(totalLineChart, {
     type: 'line',
     data: {

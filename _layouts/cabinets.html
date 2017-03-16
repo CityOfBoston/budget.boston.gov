@@ -119,7 +119,33 @@ layout: bos_wrapper
 <div class="desktop-50">
   <div id="aggregateBarChart-wrapper">
     <table class="responsive-table"><th>{{ page.name }} Operating Budget by Department</th></table>
-    <canvas id="aggregateBarChart" width="200" height="200"></canvas>
+    <canvas
+      id="aggregateBarChart"
+      width="200"
+      height="200"
+      data-labels='
+        {% for column in page.tables_summary[0].table_summary[0].table_header[0] %}
+          {% if forloop.index > 1 %}
+            {{ column[1] }}
+            {% if forloop.last == false %},{% endif %}
+          {% endif %}
+        {% endfor %}'
+      data='{
+        {% for row in page.tables_summary[0].table_summary[0].data %}
+          {% if row.department %}
+            "{{ row.department }}":[
+            {% for column in row %}
+              {% if column[0] != 'department' %}
+                {{ column[1] }}
+                {% if forloop.last == false %}, {% endif %}
+              {% endif %}
+            {% endfor %}]
+            {% assign i = forloop.length | minus: 1 %}
+            {% if forloop.index != i %}, {% endif %}
+          {% endif %}
+        {% endfor %}
+      }'
+    ></canvas>
   </div>
 </div>
 </div>
