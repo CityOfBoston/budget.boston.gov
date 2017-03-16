@@ -97,6 +97,7 @@ layout: bos_wrapper
 </div>
 <br />
 
+<div class="desktop-100 clearfix">
 <div class="desktop-50">
   <div id="totalLineChart-wrapper">
     <table class="responsive-table"><th>{{ page.tables_summary[0].table_summary[0].data[-1].total }} {{ page.name }} Operating Budget</th></table>
@@ -116,10 +117,13 @@ layout: bos_wrapper
   </div>
 </div>
 <div class="desktop-50">
-  <table class="responsive-table"><th>{{ page.name }} Operating Budget by Department</th></table>
-  <canvas id="aggregateBarChart" width="200" height="200"></canvas>
+  <div id="aggregateBarChart-wrapper">
+    <table class="responsive-table"><th>{{ page.name }} Operating Budget by Department</th></table>
+    <canvas id="aggregateBarChart" width="200" height="200"></canvas>
+  </div>
 </div>
-<canvas id="myChart" width="400" height="200"></canvas>
+</div>
+<br />
 <div id="chart-labels" data='{% for column in page.tables_summary[0].table_summary[0].table_header[0] %}{% if forloop.index > 1 %}{{ column[1] }}{% if forloop.last == false %},{% endif %}{% endif %}{% endfor %}'></div>
 <div id="chart-data" data='{ {% for row in page.tables_summary[0].table_summary[0].data %}{% if row.department %}"{{ row.department }}":[{% for column in row %}{% if column[0] != 'department' %}{{ column[1] }}{% if forloop.last == false %}, {% endif %}{% endif %}{% endfor %}]{% assign i = forloop.length | minus: 1 %}{% if forloop.index != i %}, {% endif %}{% endif %}{% endfor %} }'></div>
 

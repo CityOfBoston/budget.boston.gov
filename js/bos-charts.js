@@ -17,8 +17,10 @@ var chartDataString = document.getElementById("chart-data").getAttribute("data")
 //console.log(chartDataString);
 var chartData = JSON.parse(chartDataString);
 var chartDatasets = new Array();
-var chartColors = ['rgba(9,31,47, .5)','rgba(252,182,26, .5)','rgba(40,139,228, .5)','rgba(251,77,66, .5)','rgba(183,183,183, .5)'];
-var chartBorderColors = ['rgba(9,31,47, 1)','rgba(252,182,26, 1)','rgba(40,139,228, 1)','rgba(251,77,66, 1)','rgba(183,183,183, 1)'];
+//var chartColors = ['rgba(9,31,47, .5)','rgba(252,182,26, .5)','rgba(40,139,228, .5)','rgba(251,77,66, .5)','rgba(183,183,183, .5)'];
+//var chartBorderColors = ['rgba(9,31,47, 1)','rgba(252,182,26, 1)','rgba(40,139,228, 1)','rgba(251,77,66, 1)','rgba(183,183,183, 1)'];
+var chartColors = ['rgba(9,31,47, 1)','rgba(25,69,91, 1)','rgba(69,120,156, 1)','rgba(150,196,224, 1)'];
+var chartBorderColors = ['rgba(9,31,47, 1)','rgba(25,69,91, 1)','rgba(69,120,156, 1)','rgba(150,196,224, 1)'];
 var k = 0;
 for (var i in chartData) {
   chartDatasets.push({
@@ -58,7 +60,7 @@ if (totalLineChart) {
       labels: chartLabels,
       datasets: [{
         label: 'All ' + cabinetName + ' Departments',
-        data: cabinetData,//[2429952, 2672446, 2557755, 2590424],
+        data: cabinetData,
         backgroundColor: 'transparent',
         borderColor: '#4A7EBB',
         borderWidth: 2,
@@ -97,7 +99,9 @@ if (ctx2) {
   });
 }
 
-document.getElementById("myChart").style.backgroundColor = '#F2F2F2';
 document.getElementById("totalLineChart").style.backgroundColor = '#F2F2F2';
 document.getElementById("totalLineChart").style.padding = '20px';
 document.getElementById("totalLineChart-wrapper").style.margin = '0 10px 0 0';
+document.getElementById("aggregateBarChart").style.backgroundColor = '#F2F2F2';
+document.getElementById("aggregateBarChart").style.padding = '20px';
+document.getElementById("aggregateBarChart-wrapper").style.margin = '0 0 0 10px';
