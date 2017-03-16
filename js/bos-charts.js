@@ -51,9 +51,21 @@ if (totalLineChart) {
     type: 'line',
     data: {
       labels: chartLabels,
-      datasets: chartDatasets
+      datasets: [{
+        label: 'test',
+        data: [2429952, 2672446, 2557755, 2590424],
+        backgroundColor: 'transparent',
+        borderColor: '#4A7EBB',
+        borderWidth: 2,
+        pointBackgroundColor: '#232323',
+        pointBorderColor: '#232323'
+      }]
     },
-    options: ""
+    options: {
+      legend: {
+        display: false
+      },
+    }
   });
 }
 if (aggregateBarChart) {
@@ -79,3 +91,5 @@ if (ctx2) {
 }
 
 document.getElementById("myChart").style.backgroundColor = '#F2F2F2';
+document.getElementById("totalLineChart").style.backgroundColor = '#F2F2F2';
+document.getElementById("totalLineChart").style.padding = '20px';
