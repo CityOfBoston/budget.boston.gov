@@ -161,6 +161,14 @@ layout: bos_wrapper
         width="200"
         height="200"
         data-title="{{ row.department }}"
+        data-labels="
+          {% for label in page.tables_summary[0].table_summary[0].table_header[0] %}
+            {{ label.fy-2 }},
+            {{ label.fy-1 }},
+            {{ label.fy-0 }},
+            {{ label.['fy+1'] }}
+          {% endfor %}
+        "
         data="{{ row.fy-2 }}, {{ row.fy-1 }}, {{ row.fy-0 }}, {{ row['fy+1'] }}"
       ></canvas>
     </div>
