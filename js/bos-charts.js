@@ -2,7 +2,7 @@ if (document.getElementById("totalLineChart")) {
   var totalLineChart = document.getElementById("totalLineChart").getContext("2d");
 }
 if (document.getElementById("lineChart")) {
-  var lineChart = document.getElementById("lineChart").getContext("2d");
+  //var lineChart = document.getElementById("lineChart").getContext("2d");
   var lineCharts = document.getElementsByClassName("lineChart");
   for (var i = 0, len = lineCharts.length; i < len; i++) {
     //console.log(lineCharts[i].getContext("2d"));
@@ -20,7 +20,8 @@ if (document.getElementById("lineChart")) {
     var myChart = new Chart(lineChart, {
       type: 'line',
       data: {
-        labels: chartLabels,
+        //labels: chartLabels,
+        labels: ['FY16', 'FY17', 'FY', 'FY'],
         datasets: [{
           label: lineChartTitle,
           //label: 'All ' + cabinetName + ' Departments',
