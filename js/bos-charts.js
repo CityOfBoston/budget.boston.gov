@@ -1,6 +1,9 @@
 if (document.getElementById("totalLineChart")) {
   var totalLineChart = document.getElementById("totalLineChart").getContext("2d");
 }
+if (document.getElementById("lineChart")) {
+  var lineChart = document.getElementById("lineChart").getContext("2d");
+}
 if (document.getElementById("aggregateBarChart")) {
   var aggregateBarChart = document.getElementById("aggregateBarChart").getContext("2d");
 }
@@ -38,6 +41,34 @@ if (totalLineChart) {
   var cabinetData = cabinetDataString.split(",");
   //console.log(cabinetData);
   var myChart = new Chart(totalLineChart, {
+    type: 'line',
+    data: {
+      labels: chartLabels,
+      datasets: [{
+        label: 'All ' + cabinetName + ' Departments',
+        data: cabinetData,
+        backgroundColor: 'transparent',
+        borderColor: '#4A7EBB',
+        borderWidth: 2,
+        pointBackgroundColor: '#232323',
+        pointBorderColor: '#232323',
+        pointRadius: 6,
+        pointHoverRadius: 10
+      }]
+    },
+    options: {
+      legend: {
+        display: false
+      },
+    }
+  });
+}
+if (lineChart) {
+  var cabinetName = document.getElementById("lineChart").getAttribute("data-title");
+  var cabinetDataString = document.getElementById("lineChart").getAttribute("data");
+  var cabinetData = cabinetDataString.split(",");
+  //console.log(cabinetData);
+  var myChart = new Chart(lineChart, {
     type: 'line',
     data: {
       labels: chartLabels,
