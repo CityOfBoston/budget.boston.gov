@@ -11,11 +11,14 @@
    "head_title":"Commissioner",
    "appropriation_code":"Appropriation 311",
    "external_funds": [
-     "Wolf normcore chicharrones, yr pinterest vinyl authentic banjo organic swag. Bitters irony salvia twee normcore typewriter cold-pressed. Ennui 3 wolf moon organic shoreditch, chicharrones man bun slow-carb vexillologist letterpress kickstarter cardigan dreamcatcher neutra lomo subway tile. Four loko craft beer tacos thundercats ugh humblebrag. Flannel lyft yr, twee hashtag messenger bag +1 thundercats trust fund bushwick. ",
-     "Wolf normcore chicharrones, yr pinterest vinyl authentic banjo organic swag. Bitters irony salvia twee normcore typewriter cold-pressed. Ennui 3 wolf moon organic shoreditch, chicharrones man bun slow-carb vexillologist letterpress kickstarter cardigan dreamcatcher neutra lomo subway tile. Four loko craft beer tacos thundercats ugh humblebrag. Flannel lyft yr, twee hashtag messenger bag +1 thundercats trust fund bushwick. "
-   ],
-   "statutes": [
-     "Wolf normcore chicharrones, yr pinterest vinyl authentic banjo organic swag. Bitters irony salvia twee normcore typewriter cold-pressed. Ennui 3 wolf moon organic shoreditch, chicharrones man bun slow-carb vexillologist letterpress kickstarter cardigan dreamcatcher neutra lomo subway tile. Four loko craft beer tacos thundercats ugh humblebrag. Flannel lyft yr, twee hashtag messenger bag +1 thundercats trust fund bushwick. "
+     {
+       "project_name": "Home Composting",
+       "project_mission":"This revolving account was started with a grant from the State Department of Environmental Protection and uses yard waste materials from community gardens to create compost. The compost is sold and the proceeds were used to buy compost bins, which are also sold to residential gardeners, along with compost."
+     },
+     {
+       "project_name": "MRIP (Municipal Recycling Incentive Program)",
+       "project_mission":"MRIP is a program of the DEP. The goal of the program is to increase municipal recycling, safely dispose of universal wastes (such as CRT's, mercury, paint and auto supplies) and develop a way to recover and reuse materials such as paper, cardboard and leaf and yard waste."
+     }
    ],
    "mission":[
       "The mission of the Public Works Department is to provide a quality environment for the City of Boston and ensure that the City's roadways, streets and bridge infrastructures are safe, clean and attractive. The Public Works Department also maintains street lights, traffic signals, provides snow removal and garbage collection and disposal as well as curbside recycling."
@@ -55,10 +58,10 @@
          "table_header":[
             {
                "Name":"Program Name",
-               "fy-2_actual":"Total Actual '",
-               "fy-1_actual":"Total Actual '",
-               "fy-0_budget":"Total Approp '",
-               "fy+1_budget":"Total Budget '"
+               "fy-2_actual":"FY14 Actual",
+               "fy-1_actual":"FY15 Actual",
+               "fy-0_budget":"FY16 Budget",
+               "fy+1_budget":"FY17 Budget"
             }
          ],
          "data":[
@@ -219,6 +222,85 @@
                "fy-1_actual":82178496,
                "fy-0_budget":81989744,
                "fy+1_budget":81989710
+            }
+         ]
+      },
+      {
+         "table_type":"Department Budget By Account",
+         "table_title":"Department Budget By Account",
+         "table_header":[
+            {
+               "Name":"Account",
+               "fy-2_actual":"FY14 Expenditure",
+               "fy-1_actual":"FY15 Expenditure",
+               "fy-0_budget":"FY16 Appropriation",
+               "fy+1_budget":"FY17 Adopted",
+               "diff":"Inc/Dec 16 vs 17"
+            }
+         ],
+         "data":[
+            {
+               "line_title":"Personnel Services",
+               "line_type":"data",
+               "fy-2_actual":19754304,
+               "fy-1_actual":21918266,
+               "fy-0_budget":21769017,
+               "fy+1_budget":22226300,
+               "diff": 457283
+            },
+            {
+               "line_title":"Contractual Services",
+               "line_type":"data",
+               "fy-2_actual":19754304,
+               "fy-1_actual":21918266,
+               "fy-0_budget":21769017,
+               "fy+1_budget":22226300,
+               "diff": 457283
+            },
+            {
+               "line_title":"Supplies and Materials",
+               "line_type":"data",
+               "fy-2_actual":19754304,
+               "fy-1_actual":21918266,
+               "fy-0_budget":21769017,
+               "fy+1_budget":22226300,
+               "diff": 457283
+            },
+            {
+               "line_title":"Current Charges and Obligations",
+               "line_type":"data",
+               "fy-2_actual":19754304,
+               "fy-1_actual":21918266,
+               "fy-0_budget":21769017,
+               "fy+1_budget":22226300,
+               "diff": 457283
+            },
+            {
+               "line_title":"Equipment",
+               "line_type":"data",
+               "fy-2_actual":19754304,
+               "fy-1_actual":21918266,
+               "fy-0_budget":21769017,
+               "fy+1_budget":22226300,
+               "diff": 457283
+            },
+            {
+               "line_title":"Other",
+               "line_type":"data",
+               "fy-2_actual":19754304,
+               "fy-1_actual":21918266,
+               "fy-0_budget":21769017,
+               "fy+1_budget":22226300,
+               "diff": 457283
+            },
+            {
+               "line_title":"Total",
+               "line_type":"total",
+               "fy-2_actual":85820850,
+               "fy-1_actual":82178496,
+               "fy-0_budget":81989744,
+               "fy+1_budget":81989710,
+               "diff":-34
             }
          ]
       }

@@ -24,34 +24,20 @@ layout: bos_wrapper
   <div class="column mobile-100 desktop-66-left">
     <h1 class="title">{{ page.name }}</h1>
     <div class="intro-text supporting-text squiggle-border-bottom">
-      <p>The {{ page.name }} Cabinet is increasing by X.X% in FY18. The Cainet is made up of
-      {% for row in page.tables_summary[0].table_summary[0].data %}
-        {% if row.department %}
-          {% assign i = forloop.length | minus: 1 %}
-          {% if forloop.index == i %} and {% endif %}{{ row.department }}{% if forloop.index != i %},{% else %}.{% endif %}
-        {% endif %}
-      {% endfor %}
+      <p>
+        {{ page.mission }}
+        <br />
+        <b><span> {{ page.head_name }},</span></b>
+        <b><span>{{ page.head_title }}</span></b>
       </p>
     </div>
     <div class="body">
-      {{ page.overview }}
+      {% for paragraph in page.overview %}
+        <p>{{ paragraph }}</p>
+      {% endfor %}
     </div>
   </div>
   {% include sidebar_menu.html %}
-</div>
-
-<div class="sh desktop-100">
-  <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
-    {{ page.name }} - APPROPRIATIONS
-  </h2>
-</div>
-<div class="desktop-100">
-  <p class="supporting-text">
-    {{ page.mission }}
-    <br />
-    <b><span> {{ page.head_name }},</span></b>
-    <b><span>{{ page.head_title }}</span></b>
-  </p>
 </div>
 
 <div class="sh desktop-100">
@@ -64,15 +50,15 @@ layout: bos_wrapper
 <table class="js-table responsive-table responsive-table--horizontal">
   <thead>
     <tr>
-      <th>{{ page.tables_summary[0].table_summary[0].table_header[0]["Program Name"] }}</th>
-      <th>{{ page.tables_summary[0].table_summary[0].table_header[0].fy-2 }}</th>
-      <th>{{ page.tables_summary[0].table_summary[0].table_header[0].fy-1 }}</th>
-      <th>{{ page.tables_summary[0].table_summary[0].table_header[0].fy-0 }}</th>
-      <th>{{ page.tables_summary[0].table_summary[0].table_header[0]["fy+1"] }}</th>
+      <th>{{ page.operating_budget_tables[0].table_summary[0].table_header[0]["Program Name"] }}</th>
+      <th>{{ page.operating_budget_tables[0].table_summary[0].table_header[0].fy-2 }}</th>
+      <th>{{ page.operating_budget_tables[0].table_summary[0].table_header[0].fy-1 }}</th>
+      <th>{{ page.operating_budget_tables[0].table_summary[0].table_header[0].fy-0 }}</th>
+      <th>{{ page.operating_budget_tables[0].table_summary[0].table_header[0]["fy+1"] }}</th>
     </tr>
   </thead>
   <tbody>
-    {% for row in page.tables_summary[0].table_summary[0].data %}
+    {% for row in page.operating_budget_tables[0].table_summary[0].data %}
       <tr>
         {% if row.total %}
           <td><strong>{{ row.total }}</strong></td>
@@ -100,14 +86,14 @@ layout: bos_wrapper
 <div class="desktop-100 clearfix">
 <div class="desktop-50">
   <div id="totalLineChart-wrapper">
-    <table class="responsive-table"><th>{{ page.tables_summary[0].table_summary[0].data[-1].total }} {{ page.name }} Operating Budget</th></table>
+    <table class="responsive-table"><th>{{ page.operating_budget_tables[0].table_summary[0].data[-1].total }} {{ page.name }} Operating Budget</th></table>
     <canvas
       id="totalLineChart"
       width="200"
       height="200"
       data-title="{{ page.name }}"
       data="
-        {% for i in page.tables_summary[0].table_summary[0].data[-1] %}
+        {% for i in page.operating_budget_tables[0].table_summary[0].data[-1] %}
           {% if i[0] != 'total' %}
           {{ i[1] }}{% unless forloop.last %},{% endunless %}
           {% endif %}
@@ -124,14 +110,14 @@ layout: bos_wrapper
       width="200"
       height="200"
       data-labels='
-        {% for column in page.tables_summary[0].table_summary[0].table_header[0] %}
+        {% for column in page.operating_budget_tables[0].table_summary[0].table_header[0] %}
           {% if forloop.index > 1 %}
             {{ column[1] }}
             {% if forloop.last == false %},{% endif %}
           {% endif %}
         {% endfor %}'
       data='{
-        {% for row in page.tables_summary[0].table_summary[0].data %}
+        {% for row in page.operating_budget_tables[0].table_summary[0].data %}
           {% if row.department %}
             "{{ row.department }}":[
             {% for column in row %}
@@ -151,7 +137,7 @@ layout: bos_wrapper
 </div>
 
 <div class="g">
-{% for row in page.tables_summary[0].table_summary[0].data %}
+{% for row in page.operating_budget_tables[0].table_summary[0].data %}
   {% if row.department %}
     <div class="wi g--4">
       <table class="responsive-table"><th>{{ row.department }}</th></table>
@@ -162,7 +148,7 @@ layout: bos_wrapper
         height="200"
         data-title="{{ row.department }}"
         data-labels="
-          {% for label in page.tables_summary[0].table_summary[0].table_header[0] %}
+          {% for label in page.operating_budget_tables[0].table_summary[0].table_header[0] %}
             {{ label.fy-2 }},
             {{ label.fy-1 }},
             {{ label.fy-0 }},
@@ -175,6 +161,41 @@ layout: bos_wrapper
   {% endif %}
 {% endfor %}
 </div>
+<br />
+
+<div class="sh desktop-100">
+  <h2 class="sh-title createNavItem-processed">
+    External Funds By Department
+  </h2>
+</div>
+<br />
+<table class="js-table responsive-table responsive-table--horizontal">
+  <thead>
+    <tr>
+      <th>{{ page.external_funds_tables[0].table_summary[0].table_header[0]["Program Name"] }}</th>
+      <th>{{ page.external_funds_tables[0].table_summary[0].table_header[0].fy-2 }}</th>
+      <th>{{ page.external_funds_tables[0].table_summary[0].table_header[0].fy-1 }}</th>
+      <th>{{ page.external_funds_tables[0].table_summary[0].table_header[0].fy-0 }}</th>
+      <th>{{ page.external_funds_tables[0].table_summary[0].table_header[0]["fy+1"] }}</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for row in page.external_funds_tables[0].table_summary[0].data %}
+      <tr>
+        {% if row.total %}
+          <td><strong>{{ row.total }}</strong></td>
+        {% else %}
+        <td><a href="{{ site.url }}/operating-budget/cabinets/{{ page.name | replace: "'","" | slugify }}/{{ row.department | replace: "'","" | slugify }}">{{ row.department }}</a></td>
+        {% endif %}
+          {% assign i = row.fy-2 | money %}
+        <td>{{ row.fy-2 | append: 0 |append:0 | money }}</td>
+        <td>{{ row.fy-1 | append: 0 |append:0 | money }}</td>
+        <td>{{ row.fy-0 | append: 0 |append:0 | money }}</td>
+        <td>{{ row["fy+1"] | append: 0 |append:0 | money }}</td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
 <br />
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.bundle.min.js"></script>

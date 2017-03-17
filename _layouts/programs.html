@@ -43,42 +43,44 @@ layout: bos_wrapper
   </h2>
 </div>
 <div class="desktop-100">
-  <p class="supporting-text">
-    {{ page.performance_strategies[0].strategy }}
-  </p>
+  {% for strategy in page.performance_strategies %}
+    <p class="supporting-text">
+      {{ strategy.strategy }}
+    </p>
+    <table class="js-table responsive-table responsive-table--horizontal">
+      <thead>
+        <tr>
+          <th>{{ strategy.performance_measures[0].table_header[0].name }}</th>
+          <th>{{ strategy.performance_measures[0].table_header[0].fy-2_actual }}</th>
+          <th>{{ strategy.performance_measures[0].table_header[0].fy-1_actual }}</th>
+          <th>{{ strategy.performance_measures[0].table_header[0].fy-0_budget }}</th>
+          <th>{{ strategy.performance_measures[0].table_header[0]["fy+1_budget"] }}</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for row in strategy.performance_measures[0].data %}
+          <tr>
+            {% if row.line_type == 'total' %}
+              <td><strong>{{ row.line_data }}</strong></td>
+            {% else %}
+            <td>{{ row.line_data }}</td>
+            {% endif %}
+              {% assign i = row.fy-2 | money %}
+            <td>{{ row.fy-2_actual | append: 0 |append:0 | money }}</td>
+            <td>{{ row.fy-1_actual | append: 0 |append:0 | money }}</td>
+            <td>{{ row.fy-0_budget | append: 0 |append:0 | money }}</td>
+            <td>{{ row["fy+1_budget"] | append: 0 |append:0 | money }}</td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+    <br />
+  {% endfor %}
 </div>
-<table class="js-table responsive-table responsive-table--horizontal">
-  <thead>
-    <tr>
-      <th>{{ page.performance_strategies[0].performance_measures[0].table_header[0].name }}</th>
-      <th>{{ page.performance_strategies[0].performance_measures[0].table_header[0].fy-2_actual }}</th>
-      <th>{{ page.performance_strategies[0].performance_measures[0].table_header[0].fy-1_actual }}</th>
-      <th>{{ page.performance_strategies[0].performance_measures[0].table_header[0].fy-0_budget }}</th>
-      <th>{{ page.performance_strategies[0].performance_measures[0].table_header[0]["fy+1_budget"] }}</th>
-    </tr>
-  </thead>
-  <tbody>
-    {% for row in page.performance_strategies[0].performance_measures[0].data %}
-      <tr>
-        {% if row.line_type == 'total' %}
-          <td><strong>{{ row.line_data }}</strong></td>
-        {% else %}
-        <td>{{ row.line_data }}</td>
-        {% endif %}
-          {% assign i = row.fy-2 | money %}
-        <td>{{ row.fy-2_actual | append: 0 |append:0 | money }}</td>
-        <td>{{ row.fy-1_actual | append: 0 |append:0 | money }}</td>
-        <td>{{ row.fy-0_budget | append: 0 |append:0 | money }}</td>
-        <td>{{ row["fy+1_budget"] | append: 0 |append:0 | money }}</td>
-      </tr>
-    {% endfor %}
-  </tbody>
-</table>
-<br />
 
 <div class="sh desktop-100">
   <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
-    {{ page.name }} - APPROPRAITIONS
+    {{ page.name }} - Appropriations
   </h2>
   <div class="sh-contact"><a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | replace: "'","" | slugify }}/{{ page.department | replace: "'","" | slugify }}">Back to {{ page.department }}</a></div>
 </div>
@@ -86,11 +88,13 @@ layout: bos_wrapper
 <table class="js-table responsive-table responsive-table--horizontal">
   <thead>
     <tr>
-      <th>{{ page.operating_budget_categories[0].table_header[0].name }}</th>
-      <th>{{ page.operating_budget_categories[0].table_header[0].fy-2_actual }}</th>
-      <th>{{ page.operating_budget_categories[0].table_header[0].fy-1_actual }}</th>
-      <th>{{ page.operating_budget_categories[0].table_header[0].fy-0_budget }}</th>
-      <th>{{ page.operating_budget_categories[0].table_header[0]["fy+1_budget"] }}</th>
+      <th>{{ page.tables_summary[0].table_header[0].Name }}</th>
+      <th>{{ page.tables_summary[0].table_header[0].account_code }}</th>
+      <th>{{ page.tables_summary[0].table_header[0].fy-2_actual }}</th>
+      <th>{{ page.tables_summary[0].table_header[0].fy-1_actual }}</th>
+      <th>{{ page.tables_summary[0].table_header[0].fy-0_budget }}</th>
+      <th>{{ page.tables_summary[0].table_header[0]['fy+1_budget'] }}</th>
+      <th>{{ page.tables_summary[0].table_header[0].diff }}</th>
     </tr>
   </thead>
   <tbody>
@@ -102,10 +106,12 @@ layout: bos_wrapper
         <td><a href="{{ site.url }}/cabinets/{{ page.cabinet | slugify }}/{{ page.name | replace: "'","" | slugify }}/{{ row.line_title | replace: "'","" | slugify }}">{{ row.line_title }}</a></td>
         {% endif %}
           {% assign i = row.fy-2 | money %}
+        <td>{{ row.account_code }}</td>
         <td>{{ row.fy-2_actual | append: 0 |append:0 | money }}</td>
         <td>{{ row.fy-1_actual | append: 0 |append:0 | money }}</td>
         <td>{{ row.fy-0_budget | append: 0 |append:0 | money }}</td>
         <td>{{ row["fy+1_budget"] | append: 0 |append:0 | money }}</td>
+        <td>{{ row.diff | append: 0 |append:0 | money }}</td>
       </tr>
     {% endfor %}
   </tbody>
