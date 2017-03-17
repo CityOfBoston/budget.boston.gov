@@ -152,16 +152,18 @@ layout: bos_wrapper
 
 <div class="g">
 {% for row in page.tables_summary[0].table_summary[0].data %}
-  <div class="wi g--4">
-    <table class="responsive-table"><th>{{ row.department }}</th></table>
-    <canvas
-      id="lineChart"
-      width="200"
-      height="200"
-      data-title="{{ row.department }}"
-      data="{{ row.fy-2 }}, {{ row.fy-1 }}, {{ row.fy-0 }}, {{ row['fy+1'] }}"
-    ></canvas>
-  </div>
+  {% if row.department %}
+    <div class="wi g--4">
+      <table class="responsive-table"><th>{{ row.department }}</th></table>
+      <canvas
+        id="lineChart"
+        width="200"
+        height="200"
+        data-title="{{ row.department }}"
+        data="{{ row.fy-2 }}, {{ row.fy-1 }}, {{ row.fy-0 }}, {{ row['fy+1'] }}"
+      ></canvas>
+    </div>
+  {% endif %}
 {% endfor %}
 </div>
 <br />
