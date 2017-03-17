@@ -1,14 +1,14 @@
 ---
 layout: bos_content
-permalink: /spending/cabinets/
+permalink: /operating-budget/cabinets/
 title: Cabinets
 breadcrumbs:
  - title: Home
    url: "/"
  - title: Budget
    url: "/budget"
- - title: Spending
-   url: "/spending/"
+ - title: Operating Budget
+   url: "/operating-budget/"
    local: true
  - current: Cabinets
  - published: 2/15/17
@@ -41,8 +41,8 @@ text_block:
 table:
   - title: Appropriations by Cabinet
     right_text: 
-      name: Back to all spending
-      link: /spending
+      name: Back to Operating Budget
+      link: /operating-budget
     columns:
       - "Cabinet": 
            name: Cabinet 1
@@ -91,7 +91,7 @@ table:
           filter: money
       - "Cabinet":
          name: Streets
-         link: /spending/cabinets/streets
+         link: /operating-budget/cabinets/streets
         "FY15 Actual":
          value: 111
          filter: money
