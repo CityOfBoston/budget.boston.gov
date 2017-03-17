@@ -1,3 +1,4 @@
+---
 {
    "parent_id":"EA8EA3BFAA27CF4C2F61470447C87EEA",
    "cabinet":"Streets",
@@ -6,12 +7,12 @@
    "section_type_short":"P",
    "section_id":147,
    "section_md5_id":"E98AAA3D95020A940E56353D01C6CEB7",
-   "name":"Commissioner's Office",
-   "head_name":"Gina Fiandaca",
-   "head_title":"Commissioner",
-   "appropriation_code":"Organization 251100",
+   "name":"Street Lights",
+   "head_name":"Michael Brohel",
+   "head_title":"Manager",
+   "appropriation_code":"Organization 311700",
    "description":[
-      "The Commissioner's Office is responsible for establishing and managing a wide variety of programs to enhance transportation throughout Boston. The office advocates for alternative financing for the administration of transportation programs including federal and state grants as well as public/private partnerships."
+     "The Street Lights program is responsible for the maintenance of streetlights. The program provides modern, cost efficient and effective street lighting services to protect the safety of the general and traveling public on Boston's streets and in the City's parks and playgrounds."
    ],
    "operating_budget_categories":[
       {
@@ -56,7 +57,7 @@
    "performance_strategies":[
       {
          "section_name":"Performance",
-         "straegy":[
+         "strategy":[
             "To improve the flow of vehicles and pedestrians on arterial streets by making traffic signal timing adjustments to our computerized signal system."
          ],
          "performance_measures":[
@@ -65,10 +66,56 @@
                   {
                      "name":"Performance Measures",
                      "line_type":"header",
-                     "fy-2_actual":"Actual '",
-                     "fy-1_actual":"Actual '",
-                     "fy-0_budget":"Approp '",
-                     "fy+1_budget":"Budget '"
+                     "fy-2_actual":"FY14 Actual",
+                     "fy-1_actual":"FY15 Actual",
+                     "fy-0_budget":"FY16 Projected",
+                     "fy+1_budget":"FY17 Target"
+                  }
+               ],
+               "data":[
+                  {
+                     "line_type":"data",
+                     "line_data":"# of traffic monitoring cameras operational",
+                     "fy-2_actual":176,
+                     "fy-1_actual":180,
+                     "fy-0_budget":217,
+                     "fy+1_budget":200
+                  },
+                  {
+                     "line_type":"data",
+                     "line_data":"% of development project impact reports, construction management plans and site plans reviewed on time",
+                     "fy-2_actual":"75%",
+                     "fy-1_actual":"74%",
+                     "fy-0_budget":"75%",
+                     "fy+1_budget":"80%"
+                  },
+                  {
+                     "line_type":"total",
+                     "line_data":"% of traffic signals on-line",
+                     "fy-2_actual":"90%",
+                     "fy-1_actual":"91%",
+                     "fy-0_budget":"87%",
+                     "fy+1_budget":"90%"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "section_name":"Performance",
+         "strategy":[
+            "To improve the flow of vehicles and pedestrians on arterial streets by making traffic signal timing adjustments to our computerized signal system."
+         ],
+         "performance_measures":[
+            {
+               "table_header":[
+                  {
+                     "name":"Performance Measures",
+                     "line_type":"header",
+                     "fy-2_actual":"FY14 Actual",
+                     "fy-1_actual":"FY15 Actual",
+                     "fy-0_budget":"FY16 Projected",
+                     "fy+1_budget":"FY17 Target"
                   }
                ],
                "data":[
@@ -100,5 +147,95 @@
             }
          ]
       }
+   ],
+   "tables_summary":[
+      {
+         "table_type":"Department Budget By Account",
+         "table_title":"Department Budget By Account",
+         "table_header":[
+            {
+               "Name":"Category",
+               "account_code":"Account",
+               "fy-2_actual":"FY14 Expenditure",
+               "fy-1_actual":"FY15 Expenditure",
+               "fy-0_budget":"FY16 Appropriation",
+               "fy+1_budget":"FY17 Adopted",
+               "diff":"Inc/Dec 16 vs 17"
+            }
+         ],
+         "data":[
+            {
+               "line_title":"Personnel Services",
+               "line_type":"data",
+               "account_code":51000,
+               "fy-2_actual":19754304,
+               "fy-1_actual":21918266,
+               "fy-0_budget":21769017,
+               "fy+1_budget":22226300,
+               "diff": 457283
+            },
+            {
+               "line_title":"Contractual Services",
+               "line_type":"data",
+               "account_code":52000,
+               "fy-2_actual":19754304,
+               "fy-1_actual":21918266,
+               "fy-0_budget":21769017,
+               "fy+1_budget":22226300,
+               "diff": 457283
+            },
+            {
+               "line_title":"Supplies and Materials",
+               "line_type":"data",
+               "account_code":51000,
+               "fy-2_actual":19754304,
+               "fy-1_actual":21918266,
+               "fy-0_budget":21769017,
+               "fy+1_budget":22226300,
+               "diff": 457283
+            },
+            {
+               "line_title":"Current Charges and Obligations",
+               "line_type":"data",
+               "account_code":51000,
+               "fy-2_actual":19754304,
+               "fy-1_actual":21918266,
+               "fy-0_budget":21769017,
+               "fy+1_budget":22226300,
+               "diff": 457283
+            },
+            {
+               "line_title":"Equipment",
+               "line_type":"data",
+               "account_code":51000,
+               "fy-2_actual":19754304,
+               "fy-1_actual":21918266,
+               "fy-0_budget":21769017,
+               "fy+1_budget":22226300,
+               "diff": 457283
+            },
+            {
+               "line_title":"Other",
+               "line_type":"data",
+               "account_code":51000,
+               "fy-2_actual":19754304,
+               "fy-1_actual":21918266,
+               "fy-0_budget":21769017,
+               "fy+1_budget":22226300,
+               "diff": 457283
+            },
+            {
+               "line_title":"Total",
+               "line_type":"total",
+               "account_code": null,
+               "fy-2_actual":85820850,
+               "fy-1_actual":82178496,
+               "fy-0_budget":81989744,
+               "fy+1_budget":81989710,
+               "diff":-34
+            }
+         ]
+      }
    ]
 }
+---
