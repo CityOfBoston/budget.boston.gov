@@ -76,6 +76,15 @@ js_table:
         json_key: pp
       - column_name: Term
         json_key: tm
+  - title: Test
+    json_source_url: "https://spreadsheets.google.com/feeds/list/17BxE2iSmejr7iJKoudYjqIe52c4z3bjqsjb2boDh8yw/od6/public/values?alt=json"
+    columns:
+      - column_name: Test HEY
+        json_key: gsx$test
+      - column_name: THINGY
+        json_key: gsx$thing
+      - column_name: Other Thing!
+        json_key: gsx$otherthing
 spanning_image+:
   - title: Lorem ipsum title
     desc: This is the description for the spanning image

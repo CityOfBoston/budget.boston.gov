@@ -24,9 +24,7 @@ function getJSONObject(path, th, td) {
       if (req.readyState === 4) {
         if (req.status >= 200 && req.status < 400) {
           var jsonString = req.responseText;
-          //console.log(jsonString);
           var jsonObj = JSON.parse(jsonString);
-          //console.log(jsonObj.feed.entry[0]);
           var thObj = (this, th);
           var thJSONObj = JSON.parse(thObj);
           var tdObj = (this, td);
@@ -62,8 +60,6 @@ function JSONObjCallback(obj, th, td) {
     for (var j = 0; j < Object.keys(td[0]).length; j++) {
       var k = j + 1;
       var key = td[0][k];
-      console.log(obj[i]);
-      console.log(key);
       if (obj[i][key]["$t"] != undefined) {
         tr.append("<td>" + obj[i][key]["$t"] + "</td>");
       } else {
