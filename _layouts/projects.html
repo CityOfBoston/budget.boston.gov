@@ -29,89 +29,83 @@ layout: bos_wrapper
     <h1 class="title">{{ page.name }}</h1>
     <div class="intro-text supporting-text squiggle-border-bottom">
       <p>
-        <div>{{ page.description }}</div>
-        <div><b><span>{{ page.head_name }}</span>, <span>{{ page.head_title }}</span>, <span>{{ page.appropriation_code }}</b></div>
+        {{ page.mission }}
+        <br />
+        <b>{{ page.category }}:</b>
+        {{ page.category_desc }}
       </p>
     </div>
   </div>
   {% include sidebar_menu.html %}
 </div>
 
-<div class="sh desktop-100">
-  <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
-    {{ page.name }} - PERFORMANCE
-  </h2>
-</div>
-<div class="desktop-100">
-  {% for strategy in page.performance_strategies %}
-    <p class="supporting-text">
-      {{ strategy.strategy }}
-    </p>
-    <table class="js-table responsive-table responsive-table--horizontal">
-      <thead>
-        <tr>
-          <th>{{ strategy.performance_measures[0].table_header[0].name }}</th>
-          <th>{{ strategy.performance_measures[0].table_header[0].fy-2_actual }}</th>
-          <th>{{ strategy.performance_measures[0].table_header[0].fy-1_actual }}</th>
-          <th>{{ strategy.performance_measures[0].table_header[0].fy-0_budget }}</th>
-          <th>{{ strategy.performance_measures[0].table_header[0]["fy+1_budget"] }}</th>
-        </tr>
-      </thead>
-      <tbody>
-        {% for row in strategy.performance_measures[0].data %}
-          <tr>
-            {% if row.line_type == 'total' %}
-              <td><strong>{{ row.line_data }}</strong></td>
-            {% else %}
-            <td>{{ row.line_data }}</td>
-            {% endif %}
-              {% assign i = row.fy-2 | money %}
-            <td>{{ row.fy-2_actual | append: 0 |append:0 | money }}</td>
-            <td>{{ row.fy-1_actual | append: 0 |append:0 | money }}</td>
-            <td>{{ row.fy-0_budget | append: 0 |append:0 | money }}</td>
-            <td>{{ row["fy+1_budget"] | append: 0 |append:0 | money }}</td>
-          </tr>
-        {% endfor %}
-      </tbody>
-    </table>
-    <br />
-  {% endfor %}
+<div>
+Location: {{ page.location }}<br />
+Status: {{ page.status }}<br />
+Managing Department: {{ page.managing_department }}<br />
+Operating Impact: {{ page.operating_impact }}
 </div>
 
 <div class="sh desktop-100">
   <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
-    {{ page.name }} - Appropriations
+    Expenditures (Actual & Planned)
   </h2>
   <div class="sh-contact"><a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | replace: "'","" | slugify }}/{{ page.department | replace: "'","" | slugify }}">Back to {{ page.department }}</a></div>
 </div>
 <br />
-<table class="js-table responsive-table responsive-table--horizontal">
+<table class="responsive-table responsive-table--horizontal">
   <thead>
     <tr>
-      <th>{{ page.tables_summary[0].table_header[0].Name }}</th>
-      <th>{{ page.tables_summary[0].table_header[0].account_code }}</th>
-      <th>{{ page.tables_summary[0].table_header[0].fy-2_actual }}</th>
-      <th>{{ page.tables_summary[0].table_header[0].fy-1_actual }}</th>
-      <th>{{ page.tables_summary[0].table_header[0].fy-0_budget }}</th>
-      <th>{{ page.tables_summary[0].table_header[0]['fy+1_budget'] }}</th>
-      <th>{{ page.tables_summary[0].table_header[0].diff }}</th>
+      <th>{{ page.expenditures_detail[0].table_header[0].source }}</th>
+      <th>{{ page.expenditures_detail[0].table_header[0].past_spending }}</th>
+      <th>{{ page.expenditures_detail[0].table_header[0].fy-1_budget }}</th>
+      <th>{{ page.expenditures_detail[0].table_header[0].fy-0_budget }}</th>
+      <th>{{ page.expenditures_detail[0].table_header[0]["fy+1-3_budget"] }}</th>
+      <th>{{ page.expenditures_detail[0].table_header[0].total }}</th>
     </tr>
   </thead>
   <tbody>
-    {% for row in page.tables_summary[0].data %}
+    {% for row in page.expenditures_detail[0].data %}
       <tr>
-        {% if row.line_type == 'total' %}
-          <td><strong>{{ row.line_title }}</strong></td>
-        {% else %}
-        <td><a href="{{ site.url }}/cabinets/{{ page.cabinet | slugify }}/{{ page.name | replace: "'","" | slugify }}/{{ row.line_title | replace: "'","" | slugify }}">{{ row.line_title }}</a></td>
-        {% endif %}
-          {% assign i = row.fy-2 | money %}
-        <td>{{ row.account_code }}</td>
-        <td>{{ row.fy-2_actual | append: 0 |append:0 | money }}</td>
-        <td>{{ row.fy-1_actual | append: 0 |append:0 | money }}</td>
-        <td>{{ row.fy-0_budget | append: 0 |append:0 | money }}</td>
-        <td>{{ row["fy+1_budget"] | append: 0 |append:0 | money }}</td>
-        <td>{{ row.diff | append: 0 |append:0 | money }}</td>
+        <td>{{ row.source }}</td>
+        <td>{{ row.past_spending }}</td>
+        <td>{{ row.fy-1_budget }}</td>
+        <td>{{ row.fy-0_budget }}</td>
+        <td>{{ row["fy+1-3_budget"] }}</td>
+        <td>{{ row.total }}</td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
+<br />
+
+<div class="sh desktop-100">
+  <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
+   Authorizations 
+  </h2>
+  <div class="sh-contact"><a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | replace: "'","" | slugify }}/{{ page.department | replace: "'","" | slugify }}">Back to {{ page.department }}</a></div>
+</div>
+<br />
+<table class="responsive-table responsive-table--horizontal">
+  <thead>
+    <tr>
+      <th>{{ page.authorizations_table[0].table_header[0].source }}</th>
+      <th>{{ page.authorizations_table[0].table_header[0].existing }}</th>
+      <th>{{ page.authorizations_table[0].table_header[0].fy-0 }}</th>
+      <th>{{ page.authorizations_table[0].table_header[0]["fy-0++"] }}</th>
+      <th>{{ page.authorizations_table[0].table_header[0].other }}</th>
+      <th>{{ page.authorizations_table[0].table_header[0].total }}</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for row in page.authorizations_table[0].data %}
+      <tr>
+        <td>{{ row.source }}</td>
+        <td>{{ row.existing }}</td>
+        <td>{{ row.fy-0 }}</td>
+        <td>{{ row["fy-0++"] }}</td>
+        <td>{{ row.other }}</td>
+        <td>{{ row.total }}</td>
       </tr>
     {% endfor %}
   </tbody>

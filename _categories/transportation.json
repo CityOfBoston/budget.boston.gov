@@ -2,23 +2,17 @@
 {
    "file-format":0.03,
    "parent_id":"EA8EA3BFAA27CF4C2F61470447C87EEA",
-   "cabinet":"Streets",
-   "name":"Public Works Department",
+   "name":"Transportation",
    "section_type":"Capital Budget",
    "section_type-short":"L",
    "section_link_id":5,
    "md5_id":"25D6C78AA672AD5603FB0B7DA416F90A",
    "source_version":"Approved",
    "source_year":"17",
-   "head_name":"Michael Dennehy",
-   "head_title":"Commissioner",
-   "appropriation_code":"Appropriation 311",
-   "mission":[
-      "The mission of the Public Works Department is to provide a quality environment for the City of Boston and ensure that the City's roadways, streets and bridge infrastructures are safe, clean and attractive. The Public Works Department also maintains street lights, traffic signals, provides snow removal and garbage collection and disposal as well as curbside recycling."
+   "description":[
+     "Initiatives to support an accessible multimodal transportation system that gets Bostonians where they need to go reliably and safely."
    ],
-   "description_of_services":[
-      "The Public Works Department directs the general construction, maintenance, and cleaning of approximately 802 miles of roadways throughout the City. It also provides snow and ice control for all City streets. In addition, it operates two major drawbridges, maintains 68,055 City-owned street lights, and supervises contracts for the removal and disposal of approximately 260,000 tons of solid waste. The Department also operates the City's recycling program with an annual diversion of approximately 50,000 tons."
-   ],
+   "vol1_category_copy":"In FY17, the City is investing $3.1 million in Vision Zero – an initiative focused on improving safety, eliminating serious injuries and fatalities for cyclists and pedestrians through improved roadway design and public education; and the Walkable Streets program which takes a holistic look at pedestrian access by reconstructing long sidewalk sections. Through ongoing annual programs the Public Works Department will reconstruct five lane-miles of roadway and resurface 40 lane-miles of roadway, install 10 miles of bike lanes and 800 ADA/MAAB compliant pedestrian ramps, and continue the replacement of existing street light fixtures with LED fixtures. In FY17 the capital plan provides increased funding for roadway resurfacing, sidewalk repairs, and improvements to the Freedom Trail. The reconstruction program includes several large-scale, significant projects, including the $29 million Connect Historic Boston program, funded in part with a federal grant; Quincy Street as part of the Choice Neighborhood in Roxbury; and a redesigned Central Square in East Boston.",
    "selected_performance_strategies":[
       {
          "program":"Construction Management",

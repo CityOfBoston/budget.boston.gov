@@ -76,8 +76,29 @@ text_block+:
       through investments in education, public safety,
       parks, transportation, and community spaces. 
 table:
-  - title: Investment category
+  - title: Spending By Investment Category
     columns:
+      - "Category": 
+           name: Transportation
+           link: /capital-projects/transportation
+        "Through 3/1/17":
+          value: 345
+          filter: money
+        "FY17 Budget":
+          value: 44
+          filter: money
+        "FY18 Budget":
+          value: 90
+          filter: money
+        "FY19-22 Budget":
+          value: 6565
+          filter: money
+        "Non-Capital Fund":
+          value: 6565
+          filter: money
+        "Total":
+          value: 6565
+          filter: money
       - "Category": 
            name: Education
            link: /
@@ -184,6 +205,133 @@ table:
           value: 6565
           filter: money
       - "Category": <b>Totals</b>
+        "Through 3/1/17":
+          value: 345
+          filter: money
+        "FY17 Budget":
+          value: 44
+          filter: money
+        "FY18 Budget":
+          value: 90
+          filter: money
+        "FY19-22 Budget":
+          value: 6565
+          filter: money
+        "Non-Capital Fund":
+          value: 6565
+          filter: money
+        "Total":
+          value: 6565
+          filter: money
+table+:
+  - title: Spending By Department
+    columns:
+      - "Department": 
+           name: Public Works Department
+           link: /capital-projects/public-works-department
+        "Through 3/1/17":
+          value: 345
+          filter: money
+        "FY17 Budget":
+          value: 44
+          filter: money
+        "FY18 Budget":
+          value: 90
+          filter: money
+        "FY19-22 Budget":
+          value: 6565
+          filter: money
+        "Non-Capital Fund":
+          value: 6565
+          filter: money
+        "Total":
+          value: 6565
+          filter: money
+      - "Department":
+          name: Housing
+          link: /
+        "Through 3/1/17":
+          value: 345
+          filter: money
+        "FY17 Budget":
+          value: 44
+          filter: money
+        "FY18 Budget":
+          value: 90
+          filter: money
+        "FY19-22 Budget":
+          value: 6565
+          filter: money
+        "Non-Capital Fund":
+          value: 6565
+          filter: money
+        "Total":
+          value: 6565
+          filter: money
+      - "Department":
+          name: Mobilization
+          link: /
+        "Through 3/1/17":
+          value: 345
+          filter: money
+        "FY17 Budget":
+          value: 44
+          filter: money
+        "FY18 Budget":
+          value: 90
+          filter: money
+        "FY19-22 Budget":
+          value: 6565
+          filter: money
+        "Non-Capital Fund":
+          value: 6565
+          filter: money
+        "Total":
+          value: 6565
+          filter: money
+      - "Department":
+         name: Government Infrastructure
+         link: /capital-projects/categories/government-infrastructure
+        "Through 3/1/17":
+          value: 345
+          filter: money
+        "FY17 Budget":
+          value: 44
+          filter: money
+        "FY18 Budget":
+          value: 90
+          filter: money
+        "FY19-22 Budget":
+          value: 6565
+          filter: money
+        "Non-Capital Fund":
+          value: 6565
+          filter: money
+        "Total":
+          value: 6565
+          filter: money
+      - "Department":
+         name: Open Space
+         link: /capital-projects/open-space
+        "Through 3/1/17":
+          value: 345
+          filter: money
+        "FY17 Budget":
+          value: 44
+          filter: money
+        "FY18 Budget":
+          value: 90
+          filter: money
+        "FY19-22 Budget":
+          value: 6565
+          filter: money
+        "Non-Capital Fund":
+          value: 6565
+          filter: money
+        "Total":
+          value: 6565
+          filter: money
+      - "Department": <b>Totals</b>
         "Through 3/1/17":
           value: 345
           filter: money

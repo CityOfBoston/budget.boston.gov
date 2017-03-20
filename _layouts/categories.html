@@ -22,61 +22,44 @@ layout: bos_wrapper
   <div class="column mobile-100 desktop-66-left">
     <h1 class="title">{{ page.name }}</h1>
     <div class="intro-text supporting-text squiggle-border-bottom">
-      <p>{{ page.intro-copy }}</p>
-    </div>
-    <div class="body">
-      {{ page.overview }}
+      <p>{{ page.description }}</p>
     </div>
   </div>
   {% include sidebar_menu.html %}
 </div>
 
-<div class="sh desktop-100">
-  <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
-    {{ page.name }} - Highlights
-  </h2>
-</div>
-<div class="desktop-100">
-  {% for highlight in page.highlights %}
-  <p class="supporting-text">
-    {{ highlight }}
-  </p>
-  {% endfor %}
-</div>
+<p>
+  <div class="body">
+    {{ page.vol1_category_copy }}
+  </div>
+</p>
 
 <div class="sh desktop-100">
   <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
-    Investments By Department
+    {{ page.name }} - Active Projects
   </h2>
-  <div class="sh-contact"><a href="{{ site.url }}/capital-projects">Back to all categories</a></div>
 </div>
 <br />
-<table class="js-table responsive-table responsive-table--horizontal">
+<table class="responsive-table responsive-table--horizontal">
   <thead>
     <tr>
-      <th>{{ page.category_departments_capital.table_summary.table_header.line_title }}</th>
-      <th>{{ page.category_departments_capital.table_summary.table_header.through }}</th>
-      <th>{{ page.category_departments_capital.table_summary.table_header.fy-0 }}</th>
-      <th>{{ page.category_departments_capital.table_summary.table_header["fy+1"] }}</th>
-      <th>{{ page.category_departments_capital.table_summary.table_header["fy+2-5"] }}</th>
-      <th>{{ page.category_departments_capital.table_summary.table_header.non-capital }}</th>
-      <th>{{ page.category_departments_capital.table_summary.table_header.total }}</th>
+      <th>Department</th>
+      <th>Project</th>
+      <th>Location</th>
+      <th>Status</th>
+      <th>FY17 Budget</th>
+      <th>Total</th>
     </tr>
   </thead>
   <tbody>
-    {% for row in page.category_departments_capital.table_summary.data %}
+    {% for project in page.projects %}
       <tr>
-        {% if row.line_type == 'total' %}
-          <td><b>{{ row.line_title }}</b></td>
-        {% else %}
-          <td><a href="{{ site.url }}/capital-projects/{{ page.name | replace: "'","" | slugify }}/{{ row.line_title | replace: "'","" | slugify }}">{{ row.line_title }}</a></td>
-        {% endif %}
-        <td>{{ row.through | append: 0 |append:0 | money }}</td>
-        <td>{{ row.fy-0 | append: 0 |append:0 | money }}</td>
-        <td>{{ row["fy+1"] | append: 0 |append:0 | money }}</td>
-        <td>{{ row["fy+2-5"] | append: 0 |append:0 | money }}</td>
-        <td>{{ row.non-capital | append: 0 |append:0 | money }}</td>
-        <td>{{ row.total | append: 0 |append:0 | money }}</td>
+        <td><a href="{{ site.url }}/capital-projects/{{ project.managing_department | replace: "'","" | slugify }}">{{ project.managing_department }}</a></td>
+        <td><a href="{{ site.url }}/capital-projects/{{ project.managing_department | replace: "'","" | slugify }}/{{ project.name | replace: "'","" | slugify }}">{{ project.name }}</a></td>
+        <td>{{ project.location }}</td>
+        <td>{{ project.status }}</td>
+        <td>{{ project.expenditures_summary.fy-0 }}</td>
+        <td>{{ project.expenditures_summary.total }}</td>
       </tr>
     {% endfor %}
   </tbody>
