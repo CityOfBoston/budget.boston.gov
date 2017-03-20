@@ -32,6 +32,9 @@ collections:
   cp_depts:
     output: true
     permalink: "/capital-projects/:path/"
+  projects:
+    output: true
+    permalink: "/capital-projects/:path/"
 
 # Build settings
 markdown: kramdown
@@ -70,6 +73,11 @@ defaults:
       type: "cp_depts"
     values:
       layout: "cp_depts"
+  - scope:
+      path: "" # empty string for all files
+      type: "projects"
+    values:
+      layout: "projects"
 
 test:
   post:

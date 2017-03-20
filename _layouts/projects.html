@@ -1,0 +1,113 @@
+---
+layout: bos_wrapper
+---
+
+{% include hero.html %}
+
+<div class="breadcrumb">
+  <a href="/">Home</a>
+  <span class="crumbs-separator"> &gt; </span>
+  <a href="/budget">Budget</a>
+  <span class="crumbs-separator"> &gt; </span>
+  <a href="{{ site.url }}/operating-budget">Operating Budget</a>
+  <span class="crumbs-separator"> &gt; </span>
+  <a href="{{ site.url }}/operating-budget/cabinets">Cabinets</a>
+  <span class="crumbs-separator"> &gt; </span>
+  <a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | replace: "'","" | slugify }}">{{ page.cabinet }}</a>
+  <span class="crumbs-separator"> &gt; </span>
+  <a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | replace: "'","" | slugify }}/{{ page.department | replace: "'","" | slugify }}">{{ page.department }}</a>
+  <span class="crumbs-separator"> &gt; </span>
+  {{ page.name }}
+</div>
+<div class="breadcrumb-last-updated">
+  Last updated:
+  <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2016-04-21T00:00:00-04:00">4/21/16</span>
+</div>
+
+<div class="intro clearfix">
+  <div class="column mobile-100 desktop-66-left">
+    <h1 class="title">{{ page.name }}</h1>
+    <div class="intro-text supporting-text squiggle-border-bottom">
+      <p>
+        {{ page.mission }}
+        <br />
+        <b>{{ page.category }}:</b>
+        {{ page.category_desc }}
+      </p>
+    </div>
+  </div>
+  {% include sidebar_menu.html %}
+</div>
+
+<div>
+Location: {{ page.location }}<br />
+Status: {{ page.status }}<br />
+Managing Department: {{ page.managing_department }}<br />
+Operating Impact: {{ page.operating_impact }}
+</div>
+
+<div class="sh desktop-100">
+  <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
+    Expenditures (Actual & Planned)
+  </h2>
+  <div class="sh-contact"><a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | replace: "'","" | slugify }}/{{ page.department | replace: "'","" | slugify }}">Back to {{ page.department }}</a></div>
+</div>
+<br />
+<table class="responsive-table responsive-table--horizontal">
+  <thead>
+    <tr>
+      <th>{{ page.expenditures_detail[0].table_header[0].source }}</th>
+      <th>{{ page.expenditures_detail[0].table_header[0].past_spending }}</th>
+      <th>{{ page.expenditures_detail[0].table_header[0].fy-1_budget }}</th>
+      <th>{{ page.expenditures_detail[0].table_header[0].fy-0_budget }}</th>
+      <th>{{ page.expenditures_detail[0].table_header[0]["fy+1-3_budget"] }}</th>
+      <th>{{ page.expenditures_detail[0].table_header[0].total }}</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for row in page.expenditures_detail[0].data %}
+      <tr>
+        <td>{{ row.source }}</td>
+        <td>{{ row.past_spending }}</td>
+        <td>{{ row.fy-1_budget }}</td>
+        <td>{{ row.fy-0_budget }}</td>
+        <td>{{ row["fy+1-3_budget"] }}</td>
+        <td>{{ row.total }}</td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
+<br />
+
+<div class="sh desktop-100">
+  <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
+   Authorizations 
+  </h2>
+  <div class="sh-contact"><a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | replace: "'","" | slugify }}/{{ page.department | replace: "'","" | slugify }}">Back to {{ page.department }}</a></div>
+</div>
+<br />
+<table class="responsive-table responsive-table--horizontal">
+  <thead>
+    <tr>
+      <th>{{ page.authorizations_table[0].table_header[0].source }}</th>
+      <th>{{ page.authorizations_table[0].table_header[0].existing }}</th>
+      <th>{{ page.authorizations_table[0].table_header[0].fy-0 }}</th>
+      <th>{{ page.authorizations_table[0].table_header[0]["fy-0++"] }}</th>
+      <th>{{ page.authorizations_table[0].table_header[0].other }}</th>
+      <th>{{ page.authorizations_table[0].table_header[0].total }}</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for row in page.authorizations_table[0].data %}
+      <tr>
+        <td>{{ row.source }}</td>
+        <td>{{ row.existing }}</td>
+        <td>{{ row.fy-0 }}</td>
+        <td>{{ row["fy-0++"] }}</td>
+        <td>{{ row.other }}</td>
+        <td>{{ row.total }}</td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
+<br />
