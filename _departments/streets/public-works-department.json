@@ -231,6 +231,7 @@
          "table_header":[
             {
                "Name":"Account",
+               "account_code":"Account",
                "fy-2_actual":"FY14 Expenditure",
                "fy-1_actual":"FY15 Expenditure",
                "fy-0_budget":"FY16 Appropriation",
@@ -242,6 +243,7 @@
             {
                "line_title":"Personnel Services",
                "line_type":"data",
+               "account_code":51,
                "fy-2_actual":19754304,
                "fy-1_actual":21918266,
                "fy-0_budget":21769017,
@@ -251,51 +253,57 @@
             {
                "line_title":"Contractual Services",
                "line_type":"data",
-               "fy-2_actual":19754304,
-               "fy-1_actual":21918266,
-               "fy-0_budget":21769017,
-               "fy+1_budget":22226300,
-               "diff": 457283
+               "account_code":52,
+               "fy-2_actual":60866996,
+               "fy-1_actual":54472025,
+               "fy-0_budget":54680783,
+               "fy+1_budget":54134119,
+               "diff":-546664
             },
             {
                "line_title":"Supplies and Materials",
                "line_type":"data",
-               "fy-2_actual":19754304,
-               "fy-1_actual":21918266,
-               "fy-0_budget":21769017,
-               "fy+1_budget":22226300,
-               "diff": 457283
+               "account_code":53,
+               "fy-2_actual":2500214,
+               "fy-1_actual":2592589,
+               "fy-0_budget":1695586,
+               "fy+1_budget":1881746,
+               "diff":186160
             },
             {
                "line_title":"Current Charges and Obligations",
                "line_type":"data",
-               "fy-2_actual":19754304,
-               "fy-1_actual":21918266,
-               "fy-0_budget":21769017,
-               "fy+1_budget":22226300,
-               "diff": 457283
+               "account_code":54,
+               "fy-2_actual":530034,
+               "fy-1_actual":695847,
+               "fy-0_budget":636950,
+               "fy+1_budget":505600,
+               "diff":-131350
             },
             {
                "line_title":"Equipment",
                "line_type":"data",
-               "fy-2_actual":19754304,
-               "fy-1_actual":21918266,
-               "fy-0_budget":21769017,
-               "fy+1_budget":22226300,
-               "diff": 457283
+               "account_code":55,
+               "fy-2_actual":1836477,
+               "fy-1_actual":2150194,
+               "fy-0_budget":2807408,
+               "fy+1_budget":2941945,
+               "diff":134537
             },
             {
                "line_title":"Other",
                "line_type":"data",
-               "fy-2_actual":19754304,
-               "fy-1_actual":21918266,
-               "fy-0_budget":21769017,
-               "fy+1_budget":22226300,
-               "diff": 457283
+               "account_code":"56-58",
+               "fy-2_actual":332825,
+               "fy-1_actual":349575,
+               "fy-0_budget":400000,
+               "fy+1_budget":300000,
+               "diff":-100000
             },
             {
                "line_title":"Total",
                "line_type":"total",
+               "account_code":null,
                "fy-2_actual":85820850,
                "fy-1_actual":82178496,
                "fy-0_budget":81989744,

@@ -29,7 +29,11 @@ function getJSONObject(path, th, td) {
           var thJSONObj = JSON.parse(thObj);
           var tdObj = (this, td);
           var tdJSONObj = JSON.parse(tdObj);
-          JSONObjCallback(jsonObj, thJSONObj, tdJSONObj);
+          if (jsonObj.feed != undefined ) {
+            JSONObjCallback(jsonObj.feed.entry, thJSONObj, tdJSONObj);
+          } else {
+            JSONObjCallback(jsonObj, thJSONObj, tdJSONObj);
+          }
           } else {
             // Handle error case
           }
@@ -56,7 +60,11 @@ function JSONObjCallback(obj, th, td) {
     for (var j = 0; j < Object.keys(td[0]).length; j++) {
       var k = j + 1;
       var key = td[0][k];
-      tr.append("<td>" + obj[i][key] + "</td>");
+      if (obj[i][key]["$t"] != undefined) {
+        tr.append("<td>" + obj[i][key]["$t"] + "</td>");
+      } else {
+        tr.append("<td>" + obj[i][key] + "</td>");
+      }
     }
     $('table.js-table').append(tr);
   }

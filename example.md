@@ -54,6 +54,19 @@ text_block+:
       amet est sed luctus. Suspendisse massa turpis, iaculis at fermentum placerat, 
       scelerisque ultricies est. Nulla facilisi. In scelerisque ornare tincidunt.
 js_table:
+  - title: NERD
+    json_source_url: "https://spreadsheets.google.com/feeds/list/1mfGnwQDsx5Am-_VDvcYiRUzuKsUjlhkx4hVjUOjl2Rc/od6/public/values?alt=json"
+    columns:
+      - column_name: Session Name
+        json_key: gsx$title
+      - column_name: Presenter
+        json_key: gsx$presenter
+      - column_name: Description
+        json_key: gsx$description
+      - column_name: Day
+        json_key: gsx$day
+      - column_name: Time
+        json_key: gsx$time
   - title: Remote JSON
     json_source_url: "http://mysafeinfo.com/api/data?list=presidents&format=json"
     columns:
@@ -63,28 +76,15 @@ js_table:
         json_key: pp
       - column_name: Term
         json_key: tm
-  - title: Local JSON
-    json_source_url: "http://localhost:3000/test.json"
+  - title: Test
+    json_source_url: "https://spreadsheets.google.com/feeds/list/17BxE2iSmejr7iJKoudYjqIe52c4z3bjqsjb2boDh8yw/od6/public/values?alt=json"
     columns:
-      - column_name: Name
-        json_key: nm
-      - column_name: Party
-        json_key: pp
-      - column_name: Term
-        json_key: tm
-      - column_name: Custom
-        json_key: custom
-  - title: 2nd Local test
-    json_source_url: "http://localhost:3000/test2.json"
-    columns:
-      - column_name: New title
-        json_key: this thing
-      - column_name: Name
-        json_key: nombre
-      - column_name: Other
-        json_key: other thing
-      - column_name: Last Col
-        json_key: custom
+      - column_name: Test HEY
+        json_key: gsx$test
+      - column_name: THINGY
+        json_key: gsx$thing
+      - column_name: Other Thing!
+        json_key: gsx$otherthing
 spanning_image+:
   - title: Lorem ipsum title
     desc: This is the description for the spanning image
