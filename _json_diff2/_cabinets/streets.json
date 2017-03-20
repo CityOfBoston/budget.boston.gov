@@ -1,24 +1,20 @@
 ---
 {
-   "file-format":0.03,
    "parent":"root",
    "section_type":"cabinet",
    "section_type_short":"C",
-   "section_link_id":15,
+   "section_liink_id":15,
    "section_md5_id":"93650D3186BB77BDA672094DA1B439BD",
-   "source_version":"Approved",
-   "source_year":"2017",
    "name":"Streets",
-   "file_name":"streets",
    "head_name":"Chris Osgood",
    "head_title":"Chief of Streets",
-   "overview":[
-      "Wolf normcore chicharrones, yr pinterest vinyl authentic banjo organic swag. Bitters irony salvia twee normcore typewriter cold-pressed. Ennui 3 wolf moon organic shoreditch, chicharrones man bun slow-carb vexillologist letterpress kickstarter cardigan dreamcatcher neutra lomo subway tile. Four loko craft beer tacos thundercats ugh humblebrag. Flannel lyft yr, twee hashtag messenger bag +1 thundercats trust fund bushwick. Cred poutine four dollar toast cardigan locavore, YOLO butcher actually keytar pok pok raclette. PBR&B thundercats pork belly, distillery vape cliche blog asymmetrical activated charcoal meh organic roof party flannel."
+   "overview": [
+     "The Streets Cabinet will increase by 0.1% in FY17.  The Office of Streets will grow by 8.3% as the Chief of Streets, newly appointed in FY16, works to strengthen coordination, innovation and strategy across the Public Works and Transportation departments. The FY17 budget includes funding for a plan to reform the moving permit process.",
+     "The Public Works Department’s FY17 appropriation is level with FY16.  The department has realized savings from reduced waste disposal tonnage, eliminated long-term vacant positions, and has committed to reducing overtime hours by 5%.  In FY17 Public Works is looking for alternative uses for the latex paint collected at annual paint drops.  An investment in GPS survey equipment will allow the engineering program to more efficiently measure survey points.",
+     "In FY17 the Transportation Department will see a decrease of 0.1%.  The department eliminated long-term vacant positions and budgeted for a 5% reduction in overtime hours. In FY17 the department will release the GoBoston 2030 action plan which will specify next steps in creating a more sustainable, equitable and efficient transportation network. The budget continues to support the Boston Bike program and community bicycle activities."
    ],
-   "mission":[
-      "The mission of the Streets Cabinet is to innovate, develop, implement, support and manage all programs, projects and policies that enhance clean, well-lit, attractive and efficient infrastructure that moves vehicular and pedestrian traffic safely."
-   ],
-   "tables_summary":[
+   "mission":["The mission of the Streets Cabinet is to innovate, develop, implement, support and manage all programs, projects and policies that enhance clean, well-lit, attractive and efficient infrastructure that moves vehicular and pedestrian traffic safely."],
+   "operating_budget_tables":[
       {
          "table_summary":[
             {
@@ -26,69 +22,104 @@
                "table_title":"Operating Budget",
                "table_header":[
                   {
-                     "line_type":"header",
-                     "line_title":"Program Name",
-                     "line_data_type":"string",
-                     "fy-2":"FY15 Actual",
-                     "fy-1":"FY16 Actual",
-                     "fy-0":"FY17 Approp",
-                     "fy+1":"FY18 Budget"
+                     "Program Name":"Department",
+                     "fy-2":"FY14 Actual",
+                     "fy-1":"FY15 Actual",
+                     "fy-0":"FY16 Budget",
+                     "fy+1":"FY17 Budget"
                   }
                ],
                "data":[
                   {
-                     "line_type":"data",
-                     "line_title":"Central Fleet Management",
-                     "line_data_type":"number",
+                     "department":"Central Fleet Management",
                      "fy-2":2429952,
                      "fy-1":2672446,
                      "fy-0":2557755,
                      "fy+1":2590424
                   },
                   {
-                     "line_type":"data",
-                     "line_title":"Office of Streets",
-                     "line_data_type":"number",
+                     "department":"Office of Streets",
                      "fy-2":1264046,
                      "fy-1":1360422,
                      "fy-0":1822681,
                      "fy+1":1973144
                   },
                   {
-                     "line_type":"data",
-                     "line_title":"Public Works Department",
-                     "line_data_type":"number",
+                     "department":"Public Works Department",
                      "fy-2":85820856,
                      "fy-1":82178496,
                      "fy-0":81989744,
                      "fy+1":81989710
                   },
                   {
-                     "line_type":"data",
-                     "line_title":"Snow Removal",
-                     "line_data_type":"number",
+                     "department":"Snow Removal",
                      "fy-2":23100164,
                      "fy-1":38453034,
                      "fy-0":22563964,
                      "fy+1":22563964
                   },
                   {
-                     "line_type":"data",
-                     "line_title":"Transportation Department",
-                     "line_data_type":"number",
+                     "department":"Transportation Department",
                      "fy-2":31369983,
                      "fy-1":31257044,
                      "fy-0":33208119,
                      "fy+1":33174525
                   },
                   {
-                     "line_type":"total",
-                     "line_title":"Total",
-                     "line_data_type":"number",
+                     "total":"Total",
                      "fy-2":143985001,
                      "fy-1":155921442,
                      "fy-0":142142263,
                      "fy+1":142291767
+                  }
+               ]
+            }
+         ]
+      }
+   ],
+   "external_funds_tables":[
+      {
+         "table_summary":[
+            {
+               "table_type":"operating_departments",
+               "table_title":"Operating Budget",
+               "table_header":[
+                  {
+                     "Program Name":"Department",
+                     "fy-2":"FY14 Actual",
+                     "fy-1":"FY15 Actual",
+                     "fy-0":"FY16 Budget",
+                     "fy+1":"FY17 Budget"
+                  }
+               ],
+               "data":[
+                  {
+                     "department":"Central Fleet Management",
+                     "fy-2":0,
+                     "fy-1":0,
+                     "fy-0":0,
+                     "fy+1":350000
+                  },
+                  {
+                     "department":"Public Works Department",
+                     "fy-2":40873,
+                     "fy-1":28036,
+                     "fy-0":20000,
+                     "fy+1":20000
+                  },
+                  {
+                     "department":"Transportation Department",
+                     "fy-2":2530422,
+                     "fy-1":1776723,
+                     "fy-0":2154863,
+                     "fy+1":2071925
+                  },
+                  {
+                     "total":"Total",
+                     "fy-2":2571295,
+                     "fy-1":1804759,
+                     "fy-0":2174863,
+                     "fy+1":2441925
                   }
                ]
             }
