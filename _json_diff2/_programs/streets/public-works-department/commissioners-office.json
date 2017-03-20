@@ -1,0 +1,118 @@
+---
+{
+   "file-format":0.03,
+   "parent_id":"EA8EA3BFAA27CF4C2F61470447C87EEA",
+   "cabinet":"Streets",
+   "department":"Public Works Department",
+   "section_type":"Program",
+   "section_type_short":"P",
+   "section_id":147,
+   "section_md5_id":"E98AAA3D95020A940E56353D01C6CEB7",
+   "source_version":"Approved",
+   "source_year":"2017",
+   "name":"Commissioner's Office",
+   "file_name":"commissioners-office",
+   "head_name":"Gina Fiandaca",
+   "head_title":"Commissioner",
+   "appropriation_code":"Organization 251100",
+   "description":[
+      "The Commissioner's Office is responsible for establishing and managing a wide variety of programs to enhance transportation throughout Boston. The office advocates for alternative financing for the administration of transportation programs including federal and state grants as well as public/private partnerships."
+   ],
+   "operating_categories":[
+      {
+         "table_header":[
+            {
+               "line_type":"header",
+               "line_title":"Operating Budget",
+               "line_data_type":"string",
+               "fy-2":"FY15 Actual",
+               "fy-1":"FY16 Actual",
+               "fy-0":"FY17 Approp",
+               "fy+1":"FY18 Budget '"
+            }
+         ],
+         "data":[
+            {
+               "line_title":"Personnel Services",
+               "line_type":"data",
+               "line_data_type":"number",
+               "fy-2":1539399,
+               "fy-1":1524618,
+               "fy-0":1314093,
+               "fy+1":778309
+            },
+            {
+               "line_title":"Non Personnel",
+               "line_type":"data",
+               "line_data_type":"number",
+               "fy-2":1539399,
+               "fy-1":1524618,
+               "fy-0":1314093,
+               "fy+1":778309
+            },
+            {
+               "line_title":"Total",
+               "line_type":"total",
+               "line_data_type":"number",
+               "fy-2":2137566,
+               "fy-1":2185410,
+               "fy-0":1881440,
+               "fy+1":1090456
+            }
+         ]
+      }
+   ],
+   "performance_strategies":[
+      {
+         "section_name":"Performance",
+         "straegy":[
+            "To improve the flow of vehicles and pedestrians on arterial streets by making traffic signal timing adjustments to our computerized signal system."
+         ],
+         "performance_measures":[
+            {
+               "table_header":[
+                  {
+                     "line_type":"header",
+                     "line_title":"Performance Measures",
+                     "line_data_type":"string",
+                     "fy-2":"FY15 Actual",
+                     "fy-1":"FY16 Actual",
+                     "fy-0":"FY17 Approp",
+                     "fy+1":"FY18 Budget"
+                  }
+               ],
+               "data":[
+                  {
+                     "line_type":"data",
+                     "line_title":"# of traffic monitoring cameras operational",
+                     "line_data_type":"number",
+                     "fy-2":176,
+                     "fy-1":180,
+                     "fy-0":217,
+                     "fy+1":200
+                  },
+                  {
+                     "line_type":"data",
+                     "line_title":"% of development project impact reports, construction management plans and site plans reviewed on time",
+                     "line_data_type":"percent",
+                     "fy-2":75,
+                     "fy-1":74,
+                     "fy-0":75,
+                     "fy+1":80
+                  },
+                  {
+                     "line_type":"data",
+                     "line_title":"% of traffic signals on-line",
+                     "line_data_type":"percent",
+                     "fy-2":90,
+                     "fy-1":91,
+                     "fy-0":87,
+                     "fy+1":90
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}
+---

@@ -1,0 +1,70 @@
+---
+{
+   "file-format":0.03,
+   "parent_id":"EA8EA3BFAA27CF4C2F61470447C87EEA",
+   "cabinet":"Streets",
+   "department":"Public Works Department",
+   "section_type":"Project Profiles",
+   "section_type-short":"R",
+   "section_link_id":5,
+   "md5_id":"E1B8054C9CDD622C9EEECFE71F26054A",
+   "source_version":"Approved",
+   "source_year":"2017",
+   "name":"Public Works Department Project Profiles",
+   "file_name":"public-works-department-project-profiles",
+   "projects":[
+      {
+         "name":"ADA / AAB Pedestrian Ramps",
+         "mission":"Install or reconstruct pedestrian ramps to conform to current Americans With Disabilities Act and Architectural Access Board regulations.",
+         "managing_department":"Public Works Department",
+         "status":"Annual Program",
+         "location":"Citywide",
+         "operating_impact":"No",
+         "expenditures":[
+            {
+               "line_type":"data",
+               "line_title":"City Capital",
+               "line_data_type":"number",
+               "fy_past":0,
+               "fy-0":1600000,
+               "total":8000000
+            },
+            {
+               "line_type":"data",
+               "line_title":"Grants / Other",
+               "line_data_type":"number",
+               "fy_past":null,
+               "fy-0":null,
+               "total":null
+            }
+         ]
+      },
+      {
+         "name":"Central Maintenance Facility Complex",
+         "mission":"Continued renovations to the building, garage and grounds.",
+         "managing_department":"Public Facilities Department",
+         "status":"In Design",
+         "location":"South End",
+         "operating_impact":"No",
+         "expenditures":[
+            {
+               "line_type":"data",
+               "line_title":"City Capital",
+               "line_data_type":"number",
+               "fy_past":8578118,
+               "fy-0":50000,
+               "total":14060000
+            },
+            {
+               "line_type":"data",
+               "line_title":"Grants / Other",
+               "line_data_type":"number",
+               "fy_past":78932,
+               "fy-0":0,
+               "total":100673
+            }
+         ]
+      }
+   ]
+}
+---

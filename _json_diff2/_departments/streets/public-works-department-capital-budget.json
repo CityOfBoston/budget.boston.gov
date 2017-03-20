@@ -1,0 +1,54 @@
+---
+{
+   "file-format":0.03,
+   "parent_id":"EA8EA3BFAA27CF4C2F61470447C87EEA",
+   "cabinet":"Streets",
+   "department":"Public Works Department",
+   "section_type":"Capital Budget",
+   "section_type-short":"L",
+   "section_link_id":5,
+   "md5_id":"25D6C78AA672AD5603FB0B7DA416F90A",
+   "source_version":"Approved",
+   "source_year":"2017",
+   "name":"Public Works Department Capital Budget",
+   "file_name":"public-works-department-capital-budget",
+   "capital":{
+      "overview":"Public Works is committed to implementing capital projects that will result in safe, well-functioning and attractive roadways, sidewalks, bridges and street lights.",
+      "fy_major_initiatives":[
+         "Public Works will continue construction on the Connect Historic Boston project, leveraging a $15.5m Transportation Infrastructure Generating Economic Recovery (TIGER) grant from the Federal Department of Transportation.",
+         "The City will begin the sixth year of the citywide project to convert mercury and sodium vapor streetlights to LEDs, leveraging outside funds from EverSource to complete the project.",
+         "A pilot program to install igniters into gas lamps will continue to expand, allowing the lights to be turned off during day light hours. Incentive funds from National Grid will be utilized.",
+         "The reconstruction and installation of pedestrian ramps on sidewalks will continue throughout the City, to improve accessibility.",
+         "Walkable Streets will focus on longer, contiguous sections of sidewalks to improve overall mobility.",
+         "Design processes with community input for major neighborhood improvements at North Square in the North End, and Commonwealth Avenue Phase 3 & 4 in Brighton will continue."
+      ],
+      "table_summary":[
+         {
+            "table_title":"Capital Budget Expenditures",
+            "table_header":[
+               {
+                  "line_type":"header",
+                  "line_title":null,
+                  "line_data_type":"string",
+                  "fy-2":"FY15 Actual",
+                  "fy-1":"FY16 Actual",
+                  "fy-0":"FY17 Estimated",
+                  "fy+1":"FY18 Total"
+               }
+            ],
+            "data":[
+               {
+                  "line_type":"total",
+                  "line_title":"Total Department",
+                  "line_data_type":"number",
+                  "fy-2":85820850,
+                  "fy-1":82178496,
+                  "fy-0":81989744,
+                  "fy+1":81989710
+               }
+            ]
+         }
+      ]
+   }
+}
+---
