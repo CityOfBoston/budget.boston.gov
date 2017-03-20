@@ -1,0 +1,140 @@
+---
+{
+   "file-format":0.03,
+   "parent_id":"EA8EA3BFAA27CF4C2F61470447C87EEA",
+   "cabinet":"Streets",
+   "name":"Public Works Department",
+   "section_type":"Capital Budget",
+   "section_type-short":"L",
+   "section_link_id":5,
+   "md5_id":"25D6C78AA672AD5603FB0B7DA416F90A",
+   "source_version":"Approved",
+   "source_year":"2017",
+   "head_name":"Michael Dennehy",
+   "head_title":"Commissioner",
+   "appropriation_code":"Appropriation 311",
+   "mission":[
+      "The mission of the Public Works Department is to provide a quality environment for the City of Boston and ensure that the City's roadways, streets and bridge infrastructures are safe, clean and attractive. The Public Works Department also maintains street lights, traffic signals, provides snow removal and garbage collection and disposal as well as curbside recycling."
+   ],
+   "selected_performance_strategies":[
+      {
+         "program":"Construction Management",
+         "strategies":[
+            "To reconstruct and resurface the City's roadways and sidewalks to ensure a safe and passable right of way."
+         ]
+      },
+      {
+         "program":"Highway Field Operations",
+         "strategies":[
+            "To maintain clean City streets."
+         ]
+      },
+      {
+         "program":"Street Lights",
+         "strategies":[
+            "To efficiently maintain street lights."
+         ]
+      },
+      {
+         "program":"Waste Reduction",
+         "strategies":[
+            "To collect and dispose of residential solid waste and recyclable materials in a cost-effective and efficient manner.",
+            "To increase the diversion rate of recycling through the Recycling Program.",
+            "To respond to cleanliness and environmental safety complaints within 48 hours."
+         ]
+      }
+   ],
+   "capital":{
+      "overview":"Public Works is committed to implementing capital projects that will result in safe, well-functioning and attractive roadways, sidewalks, bridges and street lights.",
+      "fy_major_initiatives":[
+         "Public Works will continue construction on the Connect Historic Boston project, leveraging a $15.5m Transportation Infrastructure Generating Economic Recovery (TIGER) grant from the Federal Department of Transportation.",
+         "The City will begin the sixth year of the citywide project to convert mercury and sodium vapor streetlights to LEDs, leveraging outside funds from EverSource to complete the project.",
+         "A pilot program to install igniters into gas lamps will continue to expand, allowing the lights to be turned off during day light hours. Incentive funds from National Grid will be utilized.",
+         "The reconstruction and installation of pedestrian ramps on sidewalks will continue throughout the City, to improve accessibility.",
+         "Walkable Streets will focus on longer, contiguous sections of sidewalks to improve overall mobility.",
+         "Design processes with community input for major neighborhood improvements at North Square in the North End, and Commonwealth Avenue Phase 3 & 4 in Brighton will continue."
+      ],
+      "table_summary":[
+         {
+            "table_title":"Capital Budget Expenditures",
+            "table_header":[
+               {
+                  "line_type":"header",
+                  "line_title":null,
+                  "line_data_type":"string",
+                  "fy-2":"FY15 Actual",
+                  "fy-1":"FY16 Actual",
+                  "fy-0":"FY17 Estimated",
+                  "fy+1":"FY18 Total"
+               }
+            ],
+            "data":[
+               {
+                  "line_type":"total",
+                  "line_title":"Total Department",
+                  "line_data_type":"number",
+                  "fy-2":85820850,
+                  "fy-1":82178496,
+                  "fy-0":81989744,
+                  "fy+1":81989710
+               }
+            ]
+         }
+      ]
+   },
+   "projects":[
+      {
+         "name":"ADA / AAB Pedestrian Ramps",
+         "mission":"Install or reconstruct pedestrian ramps to conform to current Americans With Disabilities Act and Architectural Access Board regulations.",
+         "managing_department":"Public Works Department",
+         "status":"Annual Program",
+         "location":"Citywide",
+         "operating_impact":"No",
+         "expenditures":[
+            {
+               "line_type":"data",
+               "line_title":"City Capital",
+               "line_data_type":"number",
+               "fy_past":0,
+               "fy-0":1600000,
+               "total":8000000
+            },
+            {
+               "line_type":"data",
+               "line_title":"Grants / Other",
+               "line_data_type":"number",
+               "fy_past":null,
+               "fy-0":null,
+               "total":null
+            }
+         ]
+      },
+      {
+         "name":"Central Maintenance Facility Complex",
+         "mission":"Continued renovations to the building, garage and grounds.",
+         "managing_department":"Public Facilities Department",
+         "status":"In Design",
+         "location":"South End",
+         "operating_impact":"No",
+         "expenditures":[
+            {
+               "line_type":"data",
+               "line_title":"City Capital",
+               "line_data_type":"number",
+               "fy_past":8578118,
+               "fy-0":50000,
+               "total":14060000
+            },
+            {
+               "line_type":"data",
+               "line_title":"Grants / Other",
+               "line_data_type":"number",
+               "fy_past":78932,
+               "fy-0":0,
+               "total":100673
+            }
+         ]
+      }
+   ]
+}
+---
