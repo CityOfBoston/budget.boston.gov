@@ -31,13 +31,14 @@ layout: bos_wrapper
         <b><span>{{ page.head_title }}</span></b>
       </p>
     </div>
-    <div class="body">
-      {% for paragraph in page.overview %}
-        <p>{{ paragraph }}</p>
-      {% endfor %}
-    </div>
   </div>
   {% include sidebar_menu.html %}
+</div>
+
+<div class="body">
+  {% for paragraph in page.overview %}
+    <p>{{ paragraph }}</p>
+  {% endfor %}
 </div>
 
 <div class="sh desktop-100">
