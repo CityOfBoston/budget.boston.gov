@@ -15,15 +15,13 @@
     "gulp-stylus": "^2.3.0",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
-    "require-dir": "^0.3.0"
-  },
-  "engines": {
-    "node": ">= 5.0.0"
-  },
-  "devDependencies": {
+    "require-dir": "^0.3.0",
     "gulp-inject-element": "^2.0.2",
     "gulp-streamify": "^1.0.2",
     "poststylus": "^0.2.3"
+  },
+  "engines": {
+    "node": ">= 5.0.0"
   },
   "scripts": {
     "postinstall" : "gulp build"
