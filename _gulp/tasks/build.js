@@ -5,7 +5,7 @@ var messages = {
   jekyllBuild: '<span style="color: grey">Running:</span> $ jekyll build'
 };
 
-gulp.task('build', function (done) {
+gulp.task('build', ['stylus'], function (done) {
   browserSync.notify(messages.jekyllBuild);
   return cp.spawn('jekyll', ['build'], {stdio: 'inherit'}).on('close', done);
 });
