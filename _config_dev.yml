@@ -38,6 +38,7 @@ collections:
 
 # Build settings
 markdown: kramdown
+encoding: utf-8
 
 exclude: [node_modules, package.json, Gulpfile, Gemfile, Gemfile.lock, vendor]
 keep_files: [assets]
