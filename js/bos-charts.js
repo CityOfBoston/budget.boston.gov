@@ -1,32 +1,21 @@
-if (document.getElementById("totalLineChart")) {
-  var totalLineChart = document.getElementById("totalLineChart").getContext("2d");
-}
 if (document.getElementById("lineChart")) {
-  //var lineChart = document.getElementById("lineChart").getContext("2d");
   var lineCharts = document.getElementsByClassName("lineChart");
   for (var i = 0, len = lineCharts.length; i < len; i++) {
-    //console.log(lineCharts[i].getContext("2d"));
+    var lineChartLabelsString = lineCharts[i].getAttribute("data-labels");
+    var lineChartLabels = lineChartLabelsString.replace(/^\s+|\s+$/g,"").split(/\s*,\s*/);
     var lineChart = lineCharts[i].getContext("2d");
     var lineChartTitle = lineCharts[i].getAttribute("data-title");
-    //var cabinetName = document.getElementById("lineChart").getAttribute("data-title");
     var lineChartDataString = lineCharts[i].getAttribute("data");
-    //var cabinetDataString = document.getElementById("lineChart").getAttribute("data");
     var lineChartData = lineChartDataString.split(",");
-    console.log(lineChartData);
-    //var cabinetData = cabinetDataString.split(",");
-    //console.log(cabinetData);
     lineCharts[i].style.backgroundColor = '#F2F2F2';
     lineCharts[i].style.padding = '20px';
     var myChart = new Chart(lineChart, {
       type: 'line',
       data: {
-        //labels: chartLabels,
-        labels: ['FY16', 'FY17', 'FY', 'FY'],
+        labels: lineChartLabels,
         datasets: [{
           label: lineChartTitle,
-          //label: 'All ' + cabinetName + ' Departments',
           data: lineChartData,
-          //data: cabinetData,
           backgroundColor: 'transparent',
           borderColor: '#4A7EBB',
           borderWidth: 2,
@@ -75,64 +64,6 @@ for (var i in chartData) {
   }
 }
 
-if (totalLineChart) {
-  var cabinetName = document.getElementById("totalLineChart").getAttribute("data-title");
-  var cabinetDataString = document.getElementById("totalLineChart").getAttribute("data");
-  var cabinetData = cabinetDataString.split(",");
-  //console.log(cabinetData);
-  var myChart = new Chart(totalLineChart, {
-    type: 'line',
-    data: {
-      labels: chartLabels,
-      datasets: [{
-        label: 'All ' + cabinetName + ' Departments',
-        data: cabinetData,
-        backgroundColor: 'transparent',
-        borderColor: '#4A7EBB',
-        borderWidth: 2,
-        pointBackgroundColor: '#232323',
-        pointBorderColor: '#232323',
-        pointRadius: 6,
-        pointHoverRadius: 10
-      }]
-    },
-    options: {
-      legend: {
-        display: false
-      },
-    }
-  });
-}
-/*
-if (lineChart) {
-  var cabinetName = document.getElementById("lineChart").getAttribute("data-title");
-  var cabinetDataString = document.getElementById("lineChart").getAttribute("data");
-  var cabinetData = cabinetDataString.split(",");
-  //console.log(cabinetData);
-  var myChart = new Chart(lineChart, {
-    type: 'line',
-    data: {
-      labels: chartLabels,
-      datasets: [{
-        label: 'All ' + cabinetName + ' Departments',
-        data: cabinetData,
-        backgroundColor: 'transparent',
-        borderColor: '#4A7EBB',
-        borderWidth: 2,
-        pointBackgroundColor: '#232323',
-        pointBorderColor: '#232323',
-        pointRadius: 6,
-        pointHoverRadius: 10
-      }]
-    },
-    options: {
-      legend: {
-        display: false
-      },
-    }
-  });
-}
-*/
 if (aggregateBarChart) {
   var myChart = new Chart(aggregateBarChart, {
     type: 'bar',
@@ -155,9 +86,6 @@ if (ctx2) {
   });
 }
 
-document.getElementById("totalLineChart").style.backgroundColor = '#F2F2F2';
-document.getElementById("totalLineChart").style.padding = '20px';
-document.getElementById("totalLineChart-wrapper").style.margin = '0 10px 0 0';
 document.getElementById("aggregateBarChart").style.backgroundColor = '#F2F2F2';
 document.getElementById("aggregateBarChart").style.padding = '20px';
 document.getElementById("aggregateBarChart-wrapper").style.margin = '0 0 0 10px';

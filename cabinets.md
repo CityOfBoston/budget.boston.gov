@@ -45,8 +45,8 @@ table:
       link: /operating-budget
     columns:
       - "Cabinet": 
-           name: Cabinet 1
-           link: /
+           name: Administration and Finance
+           link: /operating-budget/cabinets/administration-and-finance
         "FY15 Actual":
           value: 345
           filter: money
