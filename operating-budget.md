@@ -31,7 +31,7 @@ intro:
       estimated expenditures. These departmental
       increases are low relative to other years due to the
       expiration of nearly all of collective bargaining
-      agreements by early in the fiscal year. 
+      agreements by early in the fiscal year.
    sidebar_menu: true
 table:
   - title: Budget summary
@@ -325,5 +325,5 @@ text_block+:
       included in the “Other” category are appropriations for
       equipment, vehicles, a risk retention reserve, the
       Housing Trust Fund, tax title, and funding for the
-      City’s outside audit. 
+      City’s outside audit.
 ---
