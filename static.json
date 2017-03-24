@@ -1,6 +1,7 @@
 {
   "root": "_site/",
   "https_only": true,
+  "basic_auth": true,
   "headers": {
     "/": {
       "Cache-Control": "no-store, no-cache"
