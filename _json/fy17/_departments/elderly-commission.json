@@ -1,0 +1,360 @@
+{
+  "parent_id":"3c59dc048e8850243be8079a5c74d079",
+  "section_type":"department",
+  "section_type_short":"D",
+  "section_id":39,
+  "section_md5_id":"d67d8ab4f4c10bf22aa353e27879133c",
+  "name":"Elderly Commission",
+  "parent":"Civic Engagement",
+  "cabinet":"Civic Engagement",
+  "department":"Elderly Commission",
+  "head_name":"Emily Shea",
+  "head_title":"Commissioner",
+  "appropriation_code":"Appropriation 387",
+  "mission":"The mission of the Elderly Commission is to enhance the quality of life for Boston's senior citizens through developing, planning, coordinating, implementing, and monitoring the delivery of programs and services to the elderly in an efficient and effective manner. These activities are provided in collaboration with various federal, state, and City agencies, along with neighborhood service providers and senior citizen groups.",
+  "selected_performance_strategies":{
+    "program":"Program Services",
+    "strategies":[
+      "To assess and address the needs of Boston's Seniors.",
+      "To improve awareness of government benefits and services.",
+      "To monitor the provision of meals to elders."
+    ]
+  },
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "Program Name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+2":"FY18 Budget"
+    },
+    "data":[
+      {
+        "line_title":"Elderly Administration",
+        "line_type":"data",
+        "fy-2":"752149",
+        "fy-1":"717725",
+        "fy-0":"721954",
+        "fy+2":"1083273"
+      },
+      {
+        "line_title":"Community Relations",
+        "line_type":"data",
+        "fy-2":"356280",
+        "fy-1":"443576",
+        "fy-0":"496159",
+        "fy+2":"470669"
+      },
+      {
+        "line_title":"Elderly Transportation",
+        "line_type":"data",
+        "fy-2":"1439809",
+        "fy-1":"1387659",
+        "fy-0":"1487722",
+        "fy+2":"1475859"
+      },
+      {
+        "line_title":"Program Services",
+        "line_type":"data",
+        "fy-2":"546854",
+        "fy-1":"522930",
+        "fy-0":"527915",
+        "fy+2":"141882"
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":"3095092",
+        "fy-1":"3071890",
+        "fy-0":"3233750",
+        "fy+2":"3171683"
+      }
+    ]
+  },
+  "external_funds_budget":{
+    "table_type":"External Funds",
+    "table_title":"External Funds Budget",
+    "table_header":{
+      "name":"Fund Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+2":"FY18 Budget"
+    },
+    "data":[
+      {
+        "line_title":"Area Agency On Aging (AAA)",
+        "line_type":"data",
+        "fy-2":"3563144",
+        "fy-1":"3890312",
+        "fy-0":"3716837",
+        "fy+2":"3994248"
+      },
+      {
+        "line_title":"Elderly Universal Fund",
+        "line_type":"data",
+        "fy-2":"53325",
+        "fy-1":"53667",
+        "fy-0":"82000",
+        "fy+2":"85000"
+      },
+      {
+        "line_title":"EOEA Formula Grant",
+        "line_type":"data",
+        "fy-2":"705298",
+        "fy-1":"580116",
+        "fy-0":"793010",
+        "fy+2":"843533"
+      },
+      {
+        "line_title":"Nutrition Services Incentive Program",
+        "line_type":"data",
+        "fy-2":"892966",
+        "fy-1":"360975",
+        "fy-0":"497123",
+        "fy+2":"440000"
+      },
+      {
+        "line_title":"Prevention Wellness Trust Fund",
+        "line_type":"data",
+        "fy-2":"57724",
+        "fy-1":"108541",
+        "fy-0":"391625",
+        "fy+2":"8049"
+      },
+      {
+        "line_title":"Retired Senior Volunteers Program",
+        "line_type":"data",
+        "fy-2":"104980",
+        "fy-1":"128867",
+        "fy-0":"130254",
+        "fy+2":"76005"
+      },
+      {
+        "line_title":"Senior Companion Program",
+        "line_type":"data",
+        "fy-2":"216627",
+        "fy-1":"253374",
+        "fy-0":"250250",
+        "fy+2":"250392"
+      },
+      {
+        "line_title":"State Elder Lunch Program",
+        "line_type":"data",
+        "fy-2":"1052867",
+        "fy-1":"1539404",
+        "fy-0":"1354928",
+        "fy+2":"1363864"
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":"6646931",
+        "fy-1":"6915256",
+        "fy-0":"7216027",
+        "fy+2":"7061091"
+      }
+    ]
+  },
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Enabling Legislation, CBC Ord. § 12-3.1.",
+    "Powers and Duties, CBC Ord. § 12-3.2."
+  ],
+  "description_of_services":[
+    "Those services which are developed, planned, coordinated, and delivered by the Elderly Commission include assistance in applying for government benefits and community-based services, discount programs, health screening programs, housing programs, transportation, advocacy, employment and volunteer programs, counseling services and information and referrals. The Commission also coordinates and monitors neighborhood-based nutrition, legal, health, transportation and other elderly services, and senior centers."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":2623941,
+        "fy-1":2597094,
+        "fy-0":2708686,
+        "fy+1":2685761,
+        "diff":-22925
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":2830734,
+        "fy-1":2763284,
+        "fy-0":2924720,
+        "fy+1":2868306,
+        "diff":-56414
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":2976928,
+        "fy-1":2920958,
+        "fy-0":3115903,
+        "fy+1":3053278,
+        "diff":-62625
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":3045398,
+        "fy-1":2987537,
+        "fy-0":3177045,
+        "fy+1":3114978,
+        "diff":-62067
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":3095092,
+        "fy-1":3071890,
+        "fy-0":3233750,
+        "fy+1":3171683,
+        "diff":-62067
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":3095092,
+        "fy-1":3071890,
+        "fy-0":3233750,
+        "fy+1":3171683,
+        "diff":-62067
+      }
+    ]
+  },
+  "programs":[
+    {
+      "parent":"Elderly Commission",
+      "program_number":1,
+      "program_name":"Elderly Administration",
+      "head":"Francis Thomas",
+      "program_description":"The Administration Program provides fiscal supervision of all Commission programs, and procures resources to ensure that all programs perform their mission on time and on budget. The program provides data management, purchasing, staff training, program evaluation and analysis. The Administration Program maintains a close relationship with senior citizen groups, and service providers through administrating and monitoring providers supported by Area Agency on Aging grants. Administration staff is responsible for initiating systems that increase productivity and community outreach. Administration is also responsible for financially preparing the Commission to serve the growing needs of our multicultural and linguistically diverse clients and staff and the eventual boom in the elder population."
+    },
+    {
+      "parent":"Elderly Commission",
+      "program_number":2,
+      "program_name":"Community Relations",
+      "head":"Karine Querido",
+      "program_description":"The Community Relations Program provides seniors, caregivers, and the general public with essential information that helps to improve the quality and safety of seniors’ lives. The monthly newspaper and web site offer articles and information of special interest to seniors. The Commission produces television shows for Boston Neighborhood Network and the Boston cable channel. The Community Relations program creates and manages internal and external relationships aimed at developing and maintaining staff, city, neighborhood, public, media and business relationships. This program promotes employment and volunteer opportunities for seniors and helps to develop, coordinate and support intergenerational and multicultural activities. It also coordinates special fundraising, recreation, health and fitness events to reduce isolation and encourage community involvement of seniors."
+    },
+    {
+      "parent":"Elderly Commission",
+      "program_number":3,
+      "program_name":"Elderly Transportation",
+      "head":"Michael Killoran",
+      "program_description":"Through the Senior Shuttle, the Transportation Program provides curb-to-curb transportation to Boston’s elderly. The shuttle operates scheduled trips within Boston with medical appointments receiving highest priority, followed by grocery shopping. Social and recreational activities are provided based on availability. The Transportation Program also oversees the Taxi Discount Coupon Program and develops and maintains collaborations with other senior transportation providers, elder service organizations and city agencies to provide access to other transportation services and to help educate our seniors on pedestrian safety and safe driver issues."
+    },
+    {
+      "parent":"Elderly Commission",
+      "program_number":4,
+      "program_name":"Program Services",
+      "head":"Melissa Carlson",
+      "program_description":"The Program Services unit is where the Elderly Commission’s community service advocates provide face-to-face assistance to seniors to identify government benefits and programs that promote healthy and independent living. The advocates also provide information and referral services to Boston’s older adults and their caregivers. The Advocacy and Planning unit develops and implements strategies related to emerging issues and concerns of seniors. This includes regularly assessing the needs of Boston’s older adults and creating Boston’s Area Plan for people over 60."
+    }
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":544304,
+      "fy-1":520505,
+      "fy-0":525965,
+      "fy+2":139882
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":2550,
+      "fy-1":2425,
+      "fy-0":1950,
+      "fy+1":2000
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":546854,
+      "fy-1":522930,
+      "fy-0":527915,
+      "fy+1":141882
+    }
+  ],
+  "external_funds":[
+    {
+      "project":"Area Agency on Aging",
+      "project_mission":[
+        "As Boston's Area Agency on Aging (AAA), the Elderly Commission is a sub-grantee of federal Title III funding through the Massachusetts Executive Office of Elder Affairs. The federal funding source of this annual grant is the Administration on Aging, an agency of the Department of Health and Human Services. The AAA plans and coordinates public, private and voluntary programs to provide the best possible service for Boston’s older citizens. The AAA also provides direct funding for elderly-related services throughout Boston. The AAA Unit of the Elderly Commission monitors the agencies providing services and provides technical assistance as needed."
+      ]
+    },
+    {
+      "project":"EOEA Formula Award",
+      "project_mission":[
+        "As Boston’s Council on Aging, the Elderly Commission receives the formula grant from the Massachusetts Executive Office of Elder Affairs. The annual grant provides for direct services including the community service advocates. The grant also provides resources to the housing unit which provides information, referral and direct assistance to Boston’s elder tenants and homeowners."
+      ]
+    },
+    {
+      "project":"Elderly Universal Fund",
+      "project_mission":[
+        "The Universal Fund is the repository for funds donated to the Commission on Affairs of the Elderly to support events and services provided by the Commission for the seniors of Boston."
+      ]
+    },
+    {
+      "project":"Nutrition Services Incentive Program",
+      "project_mission":[
+        "The Nutrition Services Incentive Program (NSIP) was formerly called the USDA Elder Lunch Program. The Elderly Commission receives federal funding for the NSIP through the Massachusetts Executive Office of Elder Affairs. The federal funding source of this annual grant is the Agency on Aging within the U.S. Department of Health and Human Services. The NSIP program provides direct funding to nutritional service providers."
+      ]
+    },
+    {
+      "project":"Prevention and Wellness Trust",
+      "project_mission":[
+        "This annual grant is provided by the Boston Public Health Commission, a body politic and corporate and political subdivision of the Commonwealth of Massachusetts, to the Commission and sub-grantees for the continued operation of prevention and wellness programs to the elderly of Boston."
+      ]
+    },
+    {
+      "project":"Retired Senior Volunteers Program",
+      "project_mission":[
+        "The federal funding for the Retired Senior Volunteer Program (RSVP) comes from the Corporation for National and Community Service. The purpose of RSVP is to develop a recognized role in the community and a meaningful life in retirement for older adults through significant volunteer services. RSVP recruits and places approximately 500 senior volunteers in opportunities allowing them to use their skills, acquire new skills and/or explore new interests. Volunteers are partially reimbursed for meals and transportation and receive insurance coverage. Volunteers must be at least 55 years old to participate."
+      ]
+    },
+    {
+      "project":"Senior Companion Program",
+      "project_mission":[
+        "The Elderly Commission receives federal funding for the Senior Companion Program annually from the Corporation for National and Community Service. The Senior Companion Program offers part-time stipendiary community service opportunities for low-income persons who are 55 years and older. Volunteers provide assistance to adults with exceptional needs, development and disabilities, or other special needs throughout Boston’s neighborhoods. These volunteers work 20 hours weekly and receive accident insurance in addition to a meal and travel allowance."
+      ]
+    },
+    {
+      "project":"State Elder Lunch Program",
+      "project_mission":[
+        "This annual grant is provided by the Massachusetts Executive Office of Elder Affairs for the purpose of providing direct funding to nutritional service providers."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "parent_id":"a87ff679a2f3e71d9181a67b7542122c",
+  "section_type":"department",
+  "section_type_short":"D",
+  "section_id":91,
+  "section_md5_id":"54229abfcfa5649e7003b83dd4755294",
+  "name":"Budget Management",
+  "parent":"Administration and Finance",
+  "cabinet":"Administration and Finance",
+  "department":"Budget Management",
+  "head_name":"Katie Hammer",
+  "head_title":"Director",
+  "appropriation_code":"Appropriation 141",
+  "mission":"The Office of Budget Management (OBM) promotes the high quality delivery of services to Boston’s residents in a cost effective way. OBM evaluates City programs and then uses analysis to build, present, and manage the Mayor's operating budget. OBM also creates the capital plan. The capital plan is a strategic document that shows how the City's investment in its infrastructure, such as bridges and roads, contributes to Boston's future. The City also uses the plan to make smart spending decisions and protect its assets.",
+  "selected_performance_strategies":{
+    "program":"Risk Management",
+    "strategies":[
+      "To develop and implement a city-wide risk financing strategy."
+    ]
+  },
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "Program Name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+2":"FY18 Budget"
+    },
+    "data":[
+      {
+        "line_title":"Budget Administration",
+        "line_type":"data",
+        "fy-2":"1170876",
+        "fy-1":"1327635",
+        "fy-0":"1516020",
+        "fy+2":"1401218"
+      },
+      {
+        "line_title":"Budget & Management",
+        "line_type":"data",
+        "fy-2":"531594",
+        "fy-1":"551482",
+        "fy-0":"810690",
+        "fy+2":"842389"
+      },
+      {
+        "line_title":"Revenue Monitoring",
+        "line_type":"data",
+        "fy-2":"225956",
+        "fy-1":"193686",
+        "fy-0":"193368",
+        "fy+2":"216648"
+      },
+      {
+        "line_title":"Capital Budgeting",
+        "line_type":"data",
+        "fy-2":"483707",
+        "fy-1":"473233",
+        "fy-0":"490356",
+        "fy+2":"503146"
+      },
+      {
+        "line_title":"Risk Management",
+        "line_type":"data",
+        "fy-2":"172924",
+        "fy-1":"176751",
+        "fy-0":"189542",
+        "fy+2":"191357"
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":"2585057",
+        "fy-1":"2722787",
+        "fy-0":"3199976",
+        "fy+2":"3154758"
+      }
+    ]
+  },
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Annual Appropriation Process, Tregor, 1982 Mass. Acts ch. 190 § 15; 1986 Mass. Acts ch. 701, § 2.",
+    "Reserve Fund, 1986 Mass. Acts ch. 701, §7.",
+    "Budget Allotment Process and Reallocations, Tregor, 1982 Mass. Acts ch. 190 § 18; 1986 Mass. Acts ch. 701, § 8-9.",
+    "Duties of Supervisor of Budgets, CBC Ord. § 5-1.5.",
+    "Transfer of Appropriations, Tregor, 1982 Mass. Acts ch. 190 § 23; 1986 Mass. Acts ch. 701, § 3.",
+    "Penalty for Overspending Budget, Tregor, 1982 Mass. Acts ch. 190, § 17."
+  ],
+  "description_of_services":[
+    "The Office of Budget Management coordinates the analysis and presentation of the Mayor's operating budget and capital plan. The Office also assembles, analyzes and presents data with respect to revenue and debt management. In addition, the Office assists line departments to evaluate programs and to establish and use performance measures to improve the quality, effectiveness, and efficiency of City services while minimizing the cost of program delivery."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":2075679,
+        "fy-1":2162003,
+        "fy-0":2284345,
+        "fy+1":2320888,
+        "diff":36543
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":2431597,
+        "fy-1":2562434,
+        "fy-0":2991601,
+        "fy+1":3028983,
+        "diff":37382
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":2434644,
+        "fy-1":2565359,
+        "fy-0":2997201,
+        "fy+1":3034583,
+        "diff":37382
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":2585057,
+        "fy-1":2718257,
+        "fy-0":3199976,
+        "fy+1":3152358,
+        "diff":-47618
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":2585057,
+        "fy-1":2722787,
+        "fy-0":3199976,
+        "fy+1":3154758,
+        "diff":-45218
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":2585057,
+        "fy-1":2722787,
+        "fy-0":3199976,
+        "fy+1":3154758,
+        "diff":-45218
+      }
+    ]
+  },
+  "programs":[
+    {
+      "parent":"Budget Management",
+      "program_number":1,
+      "program_name":"Budget Administration",
+      "head":"Katie Hammer",
+      "program_description":"The Administration Program provides both overall direction and management to the Department, and support services such as internal budget preparation, personnel administration, IT support and training, and internal report production."
+    },
+    {
+      "parent":"Budget Management",
+      "program_number":2,
+      "program_name":"Budget and Management",
+      "head":"James M. Williamson",
+      "program_description":"The Budget and Management Program is responsible for the development and implementation of the City's operating budget. Program staff analyze program and fiscal management issues throughout City government."
+    },
+    {
+      "parent":"Budget Management",
+      "program_number":3,
+      "program_name":"Revenue Monitoring",
+      "head":"Sheila Lee",
+      "program_description":"The Revenue Monitoring and Fiscal Analysis Program works to improve Boston's ability to deliver services by maximizing its revenue. The program also provides economic and fiscal analyses as an aid in fiscal decision-making by the Mayor, the Chief Financial Officer, and the Budget Director."
+    },
+    {
+      "parent":"Budget Management",
+      "program_number":4,
+      "program_name":"Improving Management Project",
+      "head":"*NULL NO DATA*",
+      "program_description":"The primary mission of the Improving Management Project is evaluating City programs and services to inform the allocation of resources. This program encourages organizational changes or operational improvements that increase the effectiveness or productivity of City departments. The program provides reliable, objective, and independent information to City managers about department performance and operations, assists in reviewing the effectiveness of service delivery, and identifies the extent to which programs overlap or duplicate one another. In addition, we assist departments and cabinets in establishing performance standards to determine the effectiveness of programs. The program also invests in department personnel through training."
+    },
+    {
+      "parent":"Budget Management",
+      "program_number":5,
+      "program_name":"Capital Budgeting",
+      "head":"John Hanlon",
+      "program_description":"The Capital Budgeting Program manages the capital plan of the City. It prepares a multi-year capital plan, oversees capital construction projects, equipment acquisitions, and contracts, and manages all capital fund appropriations and related revenue including bonds and grants."
+    },
+    {
+      "parent":"Budget Management",
+      "program_number":6,
+      "program_name":"Risk Management",
+      "head":"Lynda Fraley",
+      "program_description":"The Risk Management Program develops and implements the City’s integrated risk financing program, which includes self-insurance and commercial policies. The program also assists other City departments in their efforts to minimize costs related to property losses and legal injury and medical claims."
+    }
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":112749,
+      "fy-1":116451,
+      "fy-0":115987,
+      "fy+2":117802
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":60175,
+      "fy-1":60300,
+      "fy-0":73555,
+      "fy+1":73555
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":172924,
+      "fy-1":176751,
+      "fy-0":189542,
+      "fy+1":191357
+    }
+  ]
+}

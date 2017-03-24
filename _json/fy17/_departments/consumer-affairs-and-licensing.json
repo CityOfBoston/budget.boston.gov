@@ -1,0 +1,253 @@
+{
+  "parent_id":"c9f0f895fb98ab9159f51fd0297e236d",
+  "section_type":"department",
+  "section_type_short":"D",
+  "section_id":7,
+  "section_md5_id":"8f14e45fceea167a5a36dedd4bea2543",
+  "name":"Consumer Affairs and Licensing",
+  "parent":"Economic Development",
+  "cabinet":"Economic Development",
+  "department":"Consumer Affairs and Licensing",
+  "head_name":"Christine Pulgini",
+  "head_title":"Director",
+  "appropriation_code":"Appropriation 114",
+  "mission":"The Consumer Affairs and Licensing Department contributes to the overall mission of improving the quality of life in the City of Boston by maintaining safety and order in the restaurant community through the licensing of entertainment activities and monitoring compliance with relevant laws. The office also educates and mediates on behalf of Boston area consumers in order to facilitate successful resolution of consumer related complaints. The Licensing Board grants and regulates various types of alcohol, food licenses and other licenses for restaurants, nightclubs, private clubs, liquor stores. The Licensing Board consists of 3 Commissioners appointed by the Mayor. Boston Police officers support the office and report violations of the alcoholic and other laws of the Commonwealth. The Licensing Board holds hearings on these violations and issues penalties.",
+  "selected_performance_strategies":{
+    "program":"Licensing Board",
+    "strategies":[
+      "To renew all licenses on an annual basis and collect the appropriate fees."
+    ]
+  },
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "Program Name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+2":"FY18 Budget"
+    },
+    "data":[
+      {
+        "line_title":"Consumer Licensing",
+        "line_type":"data",
+        "fy-2":"375410",
+        "fy-1":"292666",
+        "fy-0":"362462",
+        "fy+2":"358993"
+      },
+      {
+        "line_title":"Consumer Affairs",
+        "line_type":"data",
+        "fy-2":"84520",
+        "fy-1":"86606",
+        "fy-0":"101075",
+        "fy+2":"100571"
+      },
+      {
+        "line_title":"Licensing Board",
+        "line_type":"data",
+        "fy-2":"0",
+        "fy-1":"0",
+        "fy-0":"713490",
+        "fy+2":"653664"
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":"459930",
+        "fy-1":"379272",
+        "fy-0":"1177027",
+        "fy+2":"1113228"
+      }
+    ]
+  },
+  "external_funds_budget":{
+    "table_type":"External Funds",
+    "table_title":"External Funds Budget",
+    "table_header":{
+      "name":"Fund Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+2":"FY18 Budget"
+    },
+    "data":[
+      {
+        "line_title":"Local Consumer Aid Fund",
+        "line_type":"data",
+        "fy-2":"54437",
+        "fy-1":"51916",
+        "fy-0":"52000",
+        "fy+2":"59641"
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":"54437",
+        "fy-1":"51916",
+        "fy-0":"52000",
+        "fy+2":"59641"
+      }
+    ]
+  },
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Enabling Legislation, CBC Ord. §§ 15-5.1-15-5.2.",
+    "Dancing Halls, M.G.L.A. c. 136, § 4.",
+    "Commonly Used Provisions, M.G.L.A. c.140, §§ 177A, 181, 183A, 185H.",
+    "Theatrical Exhibitions and Public Amusements, CBC Ord. §§ 17-13.1-17-13.5.",
+    "Consumer Protection, M.G.L.A. c.93A, § 9.",
+    "2014 Mass. Acts ch. 287 ss. 71-75B, 84-85, 119,128,130-132 (Gives Mayor appointing authority) 2014 Mass. Acts ch. 287 ss. 71-75B, 84-85, 119,128,130-132 (Gives Mayor appointing authority).",
+    "2014 Mass. Acts ch. 312 ss. 1-2.",
+    "2015 Mass. Acts ch. 119 ss. 18-19,32-33.",
+    "M.G.L.A. c. 138 ss. 12,14,15,17,23,34,64 67.",
+    "M.G.L.A. c. 140 ss. 1-7,9-12,22-32,177, 185I."
+  ],
+  "description_of_services":[
+    "The Consumer Affairs and Licensing Department is responsible for licensing and regulating all forms of entertainment, alcohol and food within Boston. The Office processes new applications and renewals, inspects premises, and holds hearings on licensing requests and violations. The Office also educates and mediates on behalf of Boston area consumers."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":444221,
+        "fy-1":366428,
+        "fy-0":1124766,
+        "fy+1":1068185,
+        "diff":-56581
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":452264,
+        "fy-1":370377,
+        "fy-0":1145566,
+        "fy+1":1083165,
+        "diff":-62401
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":459095,
+        "fy-1":378763,
+        "fy-0":1165491,
+        "fy+1":1101715,
+        "diff":-63776
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":459930,
+        "fy-1":379272,
+        "fy-0":1177027,
+        "fy+1":1113228,
+        "diff":-63799
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":459930,
+        "fy-1":379272,
+        "fy-0":1177027,
+        "fy+1":1113228,
+        "diff":-63799
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":459930,
+        "fy-1":379272,
+        "fy-0":1177027,
+        "fy+1":1113228,
+        "diff":-63799
+      }
+    ]
+  },
+  "programs":[
+    {
+      "parent":"Consumer Affairs and Licensing",
+      "program_number":1,
+      "program_name":"Consumer Licensing",
+      "head":"Christine Pulgini",
+      "program_description":"The Licensing Program maintains safety and order throughout the City neighborhoods by licensing entertainment activities and maintaining compliance with relevant laws. The Licensing Division processes new applications and renewals, inspects premises and holds hearings on licensing requests and violations. The Licensing Division works closely with the Boston Police Department and neighborhood organizations."
+    },
+    {
+      "parent":"Consumer Affairs and Licensing",
+      "program_number":2,
+      "program_name":"Consumer Affairs",
+      "head":"Christine Pulgini",
+      "program_description":"The Consumer Affairs Program educates, advocates and mediates on behalf of Boston consumers. The office monitors businesses to deter unfair and deceptive business practices affecting consumers and serves as a resource to the Mayor's Office on consumer issues. The office works closely with the Office of the Attorney General."
+    },
+    {
+      "parent":"Consumer Affairs and Licensing",
+      "program_number":3,
+      "program_name":"Licensing Board",
+      "head":"Christine Pulgini",
+      "program_description":"The Licensing Program regulates all licenses for retail sales of alcoholic and non-alcoholic beverages, restaurant food, and lodgings. The Licensing Board conducts business hearings, disciplinary hearings, and public meetings. This program performs outreach to the community to inform citizens of the work of the Licensing Board."
+    }
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":679390,
+      "fy+2":621814
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":34100,
+      "fy+1":31850
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":713490,
+      "fy+1":653664
+    }
+  ],
+  "external_funds":[
+    {
+      "project":"Local Consumer Aid Fund Grant",
+      "project_mission":[
+        "This grant from the Massachusetts Attorney General’s Office is issued annually to the Mayor’s Office of Consumer Affairs and Licensing for mediation and resolution of consumer complaints for residents of the City of Boston."
+      ]
+    }
+  ]
+}

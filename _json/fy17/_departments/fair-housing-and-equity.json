@@ -1,0 +1,285 @@
+{
+  "parent_id":"45c48cce2e2d7fbdea1afc51c7c6ad26",
+  "section_type":"department",
+  "section_type_short":"D",
+  "section_id":41,
+  "section_md5_id":"3416a75f4cea9109507cacd8e2f2aefc",
+  "name":"Fair Housing and Equity",
+  "parent":"Health and Human Services",
+  "cabinet":"Health and Human Services",
+  "department":"Fair Housing and Equity",
+  "head_name":"Janine Anzalota",
+  "head_title":"Director",
+  "appropriation_code":"Appropriation 403",
+  "mission":"The mission of the Fair Housing and Equity Department is to eliminate discrimination and ensure fair and equal access to housing, public services, accommodations and participation in activities. The Office strives to reduce procedural, attitudinal and communication barriers for persons living and working in the City of Boston.",
+  "selected_performance_strategies":{
+    "program":"Fair Housing Commission",
+    "strategies":[
+      "Increase access to housing opportunities through enforcement.",
+      "Increase equity of opportunity through outreach and education.",
+      "To facilitate access to housing opportunities.",
+      "To provide equitable access to city assisted housing development."
+    ]
+  },
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "Program Name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+2":"FY18 Budget"
+    },
+    "data":[
+      {
+        "line_title":"Fair Housing Commission",
+        "line_type":"data",
+        "fy-2":"130776",
+        "fy-1":"151260",
+        "fy-0":"185959",
+        "fy+2":"185723"
+      },
+      {
+        "line_title":"Human Rights Commission",
+        "line_type":"data",
+        "fy-2":"92251",
+        "fy-1":"9170",
+        "fy-0":"96871",
+        "fy+2":"93004"
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":"223027",
+        "fy-1":"160430",
+        "fy-0":"282830",
+        "fy+2":"278727"
+      }
+    ]
+  },
+  "external_funds_budget":{
+    "table_type":"External Funds",
+    "table_title":"External Funds Budget",
+    "table_header":{
+      "name":"Fund Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+2":"FY18 Budget"
+    },
+    "data":[
+      {
+        "line_title":"CDBG",
+        "line_type":"data",
+        "fy-2":"432943",
+        "fy-1":"400350",
+        "fy-0":"603742",
+        "fy+2":"373110"
+      },
+      {
+        "line_title":"Fair Housing Asst Prog",
+        "line_type":"data",
+        "fy-2":"147589",
+        "fy-1":"267834",
+        "fy-0":"134000",
+        "fy+2":"210500"
+      },
+      {
+        "line_title":"Housing Choice Program",
+        "line_type":"data",
+        "fy-2":"81692",
+        "fy-1":"87720",
+        "fy-0":"20511",
+        "fy+2":"0"
+      },
+      {
+        "line_title":"Immigrant Integration & Empowerment",
+        "line_type":"data",
+        "fy-2":"0",
+        "fy-1":"0",
+        "fy-0":"0",
+        "fy+2":"15059"
+      },
+      {
+        "line_title":"Regional Opportunity Counseling Program",
+        "line_type":"data",
+        "fy-2":"84118",
+        "fy-1":"184281",
+        "fy-0":"125789",
+        "fy+2":"106662"
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":"746342",
+        "fy-1":"940185",
+        "fy-0":"884042",
+        "fy+2":"705331"
+      }
+    ]
+  },
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Enabling Legislation, CBC Ord. §§ 10-3.1-10-3.6.",
+    "Enabling Legislation, CBC Ord. §§ 12-9.1-12-9.15.",
+    "Powers and Duties of Executive Director, CBC Ord. §§ 12-9.1-12-9.15.",
+    "Procedures, CBC Ord. §§ 12-9.1-12-9.15."
+  ],
+  "description_of_services":[
+    "The Department is responsible for investigating and enforcing anti-discrimination laws, providing information and referral services, advocating in support of civil rights issues, conducting education and outreach to constituents, and coordinating the City’s compliance with the Americans with Disabilities Act (ADA)."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":197679,
+        "fy-1":144446,
+        "fy-0":266330,
+        "fy+1":262027,
+        "diff":-4303
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":208030,
+        "fy-1":153462,
+        "fy-0":273830,
+        "fy+1":269727,
+        "diff":-4103
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":215690,
+        "fy-1":158714,
+        "fy-0":281830,
+        "fy+1":277727,
+        "diff":-4103
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":218315,
+        "fy-1":160430,
+        "fy-0":282830,
+        "fy+1":278727,
+        "diff":-4103
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":223027,
+        "fy-1":160430,
+        "fy-0":282830,
+        "fy+1":278727,
+        "diff":-4103
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":223027,
+        "fy-1":160430,
+        "fy-0":282830,
+        "fy+1":278727,
+        "diff":-4103
+      }
+    ]
+  },
+  "programs":[
+    {
+      "parent":"Fair Housing and Equity",
+      "program_number":1,
+      "program_name":"Fair Housing Commission",
+      "head":"Janine Anzalota",
+      "program_description":"The Fair Housing Commission works to eliminate discrimination and increase access to housing in Boston through investigation and enforcement, affirmative marketing, and interagency coordination. The Fair Housing Commission also manages a computerized listing service of available housing opportunities in an effort to provide low-income households increased access to housing in 106 cities and towns in metropolitan Boston."
+    },
+    {
+      "parent":"Fair Housing and Equity",
+      "program_number":2,
+      "program_name":"Human Rights Commission",
+      "head":"Janine Anzalota",
+      "program_description":"The Boston Human Rights Commission works to ensure full and equal access to public services and accommodations. The Commission receives and investigates complaints, resolves cases through mediation and adjudicatory hearings, and advocates in support of human rights issues in partnership with state and federal agencies."
+    }
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":87102,
+      "fy-1":9170,
+      "fy-0":96871,
+      "fy+2":93004
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":5149,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":92251,
+      "fy-1":9170,
+      "fy-0":96871,
+      "fy+1":93004
+    }
+  ],
+  "external_funds":[
+    {
+      "project":"Community Development Block Grant",
+      "project_mission":[
+        "The Fair Housing Program works to eliminate discrimination and increase access to housing in Boston through investigation and enforcement, education and outreach, affirmative marketing, and interagency coordination. The Boston Fair Housing Commission (BFHC) provides low income households with increased access to housing opportunities throughout the Boston Metropolitan Area (106 cities and towns)."
+      ]
+    },
+    {
+      "project":"Fair Housing Assistance Program (FHAP)",
+      "project_mission":[
+        "The Fair Housing Commission (BFHC) under an Interim Agreement with the US Department of Housing and Urban Development (HUD) will build administrative capacity to handle and process housing discrimination complaints filed under the Fair Housing Act and the fair housing law enforced by the BFHC."
+      ]
+    },
+    {
+      "project":"Housing Choice Program",
+      "project_mission":[
+        "The Housing Choice Counseling Program is designed to promote housing choice and to increase housing access for recipients of Section 8 vouchers awarded as a result of a consent decree."
+      ]
+    },
+    {
+      "project":"Regional Opportunity Counseling Program (ROC)",
+      "project_mission":[
+        "The ROC program provides housing and counseling to clients. These services include housing search counseling and referral to local agencies which provide resources for maintaining existing housing or locating new housing."
+      ]
+    }
+  ]
+}
