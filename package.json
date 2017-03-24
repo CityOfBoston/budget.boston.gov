@@ -21,6 +21,7 @@
     "node": ">= 5.0.0"
   },
   "devDependencies": {
+    "gulp-convert-encoding": "^1.0.0",
     "gulp-inject-element": "^2.0.2",
     "gulp-streamify": "^1.0.2",
     "poststylus": "^0.2.3"
