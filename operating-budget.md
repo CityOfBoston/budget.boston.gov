@@ -34,6 +34,27 @@ intro:
       agreements by early in the fiscal year. 
    sidebar_menu: true
 table:
+  - title: Budget summary
+    columns:
+      - "":
+          name: Total revenues
+        "FY14 Actual": $2,654.35
+        "FY15 Actual": $2,780.42
+        "FY16 Budget": $2,857.10
+        "FY17 Budget": $2,975.13
+      - "":
+          name: Total expenditures
+        "FY14 Actual": $2,644.88
+        "FY15 Actual": $2,773.06
+        "FY16 Budget": $2,875.10
+        "FY17 Budget": $2,975.13
+      - "":
+          name: Surplus (Deficit)
+        "FY14 Actual": $9.47
+        "FY15 Actual": $7.36
+        "FY16 Budget": $0.00
+        "FY17 Budget": $0.00
+table:
   - title: Revenues
     right_text: (dollars in millions)
     columns:
@@ -120,20 +141,6 @@ table:
     right_text: (dollars in millions)
     columns:
       - "Expenditure":
-           name: Boston Public Schools
-           link: /operating-budget/cabinets/boston-public-schools
-        "FY14 Actual": $937.95
-        "FY15 Actual": $974.93
-        "FY17 Budget": $1,016.28
-        "FY18 Budget": $1,031.68
-      - "Expenditure":
-           name: Charter School Tuition
-           link: /operating-budget/cabinets/charter-school-tuition
-        "FY14 Actual": $110.66
-        "FY15 Actual": $125.81
-        "FY17 Budget": $146.86
-        "FY18 Budget": $156.81
-      - "Expenditure":
            name: City Appropriations
            link: /operating-budget/cabinets
         "FY14 Actual": $1,105.40
@@ -141,19 +148,33 @@ table:
         "FY16 Budget": $1,140.82
         "FY17 Budget": $1,195.18
       - "Expenditure":
-           name: Debt Services
-           link: /operating-budget/cabinets/debt-services
-        "FY14 Actual": $137.84
-        "FY15 Actual": $148.01
-        "FY16 Budget": $162.87
-        "FY17 Budget": $177.85
+           name: Public Health Commission
+           link: /operating-budget/cabinets/public-health-commission
+        "FY14 Actual": $66.76
+        "FY15 Actual": $73.83
+        "FY16 Budget": $73.95
+        "FY17 Budget": $77.27
+      - "Expenditure":     
+           name: Boston Public Schools
+           link: /operating-budget/cabinets/boston-public-schools
+        "FY14 Actual": $937.95
+        "FY15 Actual": $974.93
+        "FY17 Budget": $1,016.28
+        "FY18 Budget": $1,031.68
       - "Expenditure":
-           name: MBTA
-           link: /operating-budget/cabinets/mbta
-        "FY14 Actual": $79.15
-        "FY15 Actual": $81.27
-        "FY16 Budget": $83.00
-        "FY17 Budget": $83.82
+           name: BPS Reserve for Collective Bargaining
+           link: /operating-budget/cabinets/reserve-for-collective-bargaining
+        "FY14 Actual": $
+        "FY15 Actual": $
+        "FY16 Budget": $
+        "FY17 Budget": $
+      - "Expenditure":
+           name: Non-BPS Reserve for Collective Bargaining
+           link: /operating-budget/cabinets/reserve-for-collective-bargaining
+        "FY14 Actual": $
+        "FY15 Actual": $
+        "FY16 Budget": $
+        "FY17 Budget": $
       - "Expenditure":
            name: Other Post Employment Benefits
            link: /operating-budget/cabinets/other-post-employment-benefits
@@ -162,6 +183,34 @@ table:
         "FY16 Budget": $40.00
         "FY17 Budget": $40.00
       - "Expenditure":
+           name: Pensions
+           link: /operating-budget/cabinets/pensions
+        "FY14 Actual": $152.91
+        "FY15 Actual": $169.62
+        "FY16 Budget": $184.55
+        "FY17 Budget": $189.88      
+      - "Expenditure":
+           name: Debt Service
+           link: /operating-budget/cabinets/debt-service
+        "FY14 Actual": $137.84
+        "FY15 Actual": $148.01
+        "FY16 Budget": $162.87
+        "FY17 Budget": $177.85      
+      - "Expenditure":
+           name: Charter School Tuition
+           link: /operating-budget/cabinets/charter-school-tuition
+        "FY14 Actual": $110.66
+        "FY15 Actual": $125.81
+        "FY17 Budget": $146.86
+        "FY18 Budget": $156.81
+      - "Expenditure":
+           name: MBTA
+           link: /operating-budget/cabinets/mbta
+        "FY14 Actual": $79.15
+        "FY15 Actual": $81.27
+        "FY16 Budget": $83.00
+        "FY17 Budget": $83.82
+      - "Expenditure":
            name: Other State Assessments
            link: /operating-budget/cabinets/other-state-assessments
         "FY14 Actual": $4.25
@@ -169,19 +218,12 @@ table:
         "FY16 Budget": $4.65
         "FY17 Budget": $4.72
       - "Expenditure":
-           name: Pensions
-           link: /operating-budget/cabinets/pensions
-        "FY14 Actual": $152.91
-        "FY15 Actual": $169.62
-        "FY16 Budget": $184.55
-        "FY17 Budget": $189.88
-      - "Expenditure":
-           name: Public Health Commission
-           link: /operating-budget/cabinets/public-health-commission
-        "FY14 Actual": $66.76
-        "FY15 Actual": $73.83
-        "FY16 Budget": $73.95
-        "FY17 Budget": $77.27
+           name: Suffolk County Sheriff Dept
+           link: /operating-budget/cabinets/suffolk-county-sheriff-dept
+        "FY14 Actual": $3.87
+        "FY15 Actual": $3.87
+        "FY16 Budget": $3.87
+        "FY17 Budget": $3.87
       - "Expenditure":
            name: Reserve
            link: /operating-budget/cabinets/reserve
@@ -190,19 +232,11 @@ table:
         "FY16 Budget": $0.21
         "FY17 Budget": $0.74
       - "Expenditure":
-           name: Reserve for Collective Bargaining
-           link: /operating-budget/cabinets/reserve-for-collective-bargaining
-        "FY14 Actual": $5.64
-        "FY15 Actual": $10.79
-        "FY16 Budget": $0.02
-        "FY17 Budget": $13.30
-      - "Expenditure":
-           name: Suffolk County Sheriff Dept
-           link: /operating-budget/cabinets/suffolk-county-sheriff-dept
-        "FY14 Actual": $3.87
-        "FY15 Actual": $3.87
-        "FY16 Budget": $3.87
-        "FY17 Budget": $3.87
+           name: Totals:
+        "FY14 Actual": $2,644.88
+        "FY15 Actual": $2,773.06
+        "FY16 Budget": $2,875.10
+        "FY17 Budget": $2,975.13
 text_block:
   - title: Overview
     body: >
