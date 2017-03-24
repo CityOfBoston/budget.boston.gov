@@ -31,90 +31,8 @@ intro:
       estimated expenditures. These departmental
       increases are low relative to other years due to the
       expiration of nearly all of collective bargaining
-      agreements by early in the fiscal year. 
+      agreements by early in the fiscal year.
    sidebar_menu: true
-table:
-  - title: Revenues
-    right_text: (dollars in millions)
-    columns:
-      - "Source":
-           name: Property Tax
-        "FY14 Actual": $1,779.78
-        "FY15 Actual": $1,875.15
-        "FY16 Budget": $1,961.48
-        "FY17 Budget": $2,055.33
-      - "Source":
-           name: Property Tax Overlay
-        "FY14 Actual": ($34.88)
-        "FY15 Actual": ($35.87)
-        "FY16 Budget": ($38.05)
-        "FY17 Budget": ($38.32)
-      - "Source":
-           name: Excises
-        "FY14 Actual": $187.23
-        "FY15 Actual": $192.62
-        "FY16 Budget": $179.35
-        "FY17 Budget": $190.67
-      - "Source":
-           name: Fines
-        "FY14 Actual": $59.87
-        "FY15 Actual": $60.65
-        "FY16 Budget": $60.36
-        "FY17 Budget": $60.36
-      - "Source":
-           name: Interest on Investments
-        "FY14 Actual": $0.06
-        "FY15 Actual": $0.06
-        "FY16 Budget": $0.05
-        "FY17 Budget": $2.84
-      - "Source":
-           name: Payments in Lieu of Taxes
-        "FY14 Actual": $43.41
-        "FY15 Actual": $49.41
-        "FY16 Budget": $44.11
-        "FY17 Budget": $44.47
-      - "Source":
-           name: Urban Redev Ch. 121A
-        "FY14 Actual": $62.06
-        "FY15 Actual": $55.62
-        "FY16 Budget": $47.55
-        "FY17 Budget": $43.80
-       - "Source":
-           name: Department Revenue
-        "FY14 Actual": $64.86
-        "FY15 Actual": $64.73
-        "FY16 Budget": $54.58
-        "FY17 Budget": $55.11
-      - "Source":
-           name: Licenses and Permits
-        "FY14 Actual": $59.16
-        "FY15 Actual": $72.54
-        "FY16 Budget": $52.33
-        "FY17 Budget": $54.71
-      - "Source":
-           name: Penalties and Interest
-        "FY14 Actual": $10.40
-        "FY15 Actual": $13.08
-        "FY16 Budget": $9.86
-        "FY17 Budget": $10.16
-      - "Source":
-           name: Available Funds
-        "FY14 Actual": $0.00
-        "FY15 Actual": $19.00
-        "FY16 Budget": $21.45
-        "FY17 Budget": $23.45
-      - "Source":
-           name: State Aid
-        "FY14 Actual": $422.4
-        "FY15 Actual": $413.43
-        "FY16 Budget": $424.03
-        "FY17 Budget": $432.57
-      - "Source":
-           name: Totals
-        "FY14 Actual": $2,654.35
-        "FY15 Actual": $2,780.42
-        "FY16 Budget": $2,817.10
-        "FY17 Budget": $2,935.13
 table:
   - title: Expenditures
     right_text: (dollars in millions)
@@ -291,5 +209,5 @@ text_block+:
       included in the “Other” category are appropriations for
       equipment, vehicles, a risk retention reserve, the
       Housing Trust Fund, tax title, and funding for the
-      City’s outside audit. 
+      City’s outside audit.
 ---
