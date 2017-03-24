@@ -24,6 +24,6 @@
     "node": ">= 5.0.0"
   },
   "scripts": {
-    "postinstall" : ""
+    "postinstall" : "gulp build"
   }
 }
