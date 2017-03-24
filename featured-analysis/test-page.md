@@ -1,4 +1,0 @@
----
-layout: bos_content
-
----

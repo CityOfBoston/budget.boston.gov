@@ -85,3 +85,5 @@ test:
 
 gems:
     - jekyll-money
+
+include: ['_pages']
