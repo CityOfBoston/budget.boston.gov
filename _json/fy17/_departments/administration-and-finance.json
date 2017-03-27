@@ -1,0 +1,168 @@
+{
+  "parent_id":"a87ff679a2f3e71d9181a67b7542122c",
+  "section_type":"department",
+  "section_type_short":"D",
+  "section_id":56,
+  "section_md5_id":"9f61408e3afb633e50cdf1b20de6f466",
+  "name":"Administration and Finance",
+  "parent":"Administration and Finance",
+  "cabinet":"Administration and Finance",
+  "department":"Administration and Finance",
+  "head_name":"David Sweeney",
+  "head_title":"Chief Financial Office and Collector Treasurer",
+  "appropriation_code":"Appropriation 144",
+  "mission":"The Office of Finance and Budget supports the long-term growth and stability of the City through sound fiscal stewardship and results driven management of the City’s human and financial resources.",
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "Program Name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+2":"FY18 Budget"
+    },
+    "data":[
+      {
+        "line_title":"A & F",
+        "line_type":"data",
+        "fy-2":"934781",
+        "fy-1":"888235",
+        "fy-0":"1071275",
+        "fy+2":"958251"
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":"934781",
+        "fy-1":"888235",
+        "fy-0":"1071275",
+        "fy+2":"958251"
+      }
+    ]
+  },
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[],
+  "description_of_services":[
+    "The Office of Finance and Budget, by working with all departments of the City, works to implement the Mayor’s strategic goals, increase organizational performance and manage the City’s overall fiscal health."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":678910,
+        "fy-1":754643,
+        "fy-0":865675,
+        "fy+1":752651,
+        "diff":-113024
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":927360,
+        "fy-1":885587,
+        "fy-0":1065875,
+        "fy+1":952851,
+        "diff":-113024
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":930490,
+        "fy-1":886627,
+        "fy-0":1069375,
+        "fy+1":956351,
+        "diff":-113024
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":932765,
+        "fy-1":888235,
+        "fy-0":1071275,
+        "fy+1":958251,
+        "diff":-113024
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":934781,
+        "fy-1":888235,
+        "fy-0":1071275,
+        "fy+1":958251,
+        "diff":-113024
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":934781,
+        "fy-1":888235,
+        "fy-0":1071275,
+        "fy+1":958251,
+        "diff":-113024
+      }
+    ]
+  },
+  "programs":[
+    {
+      "parent":"Administration and Finance",
+      "program_number":1,
+      "program_name":"A and F",
+      "head":"David Sweeney",
+      "program_description":"The Finance and Budget Program assists in supporting the City’s long-term growth and stability by working with all departments to strengthen and improve the City’s financial and administrative resources."
+    }
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":678910,
+      "fy-1":754643,
+      "fy-0":865675,
+      "fy+2":752651
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":255871,
+      "fy-1":133592,
+      "fy-0":205600,
+      "fy+1":205600
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":934781,
+      "fy-1":888235,
+      "fy-0":1071275,
+      "fy+1":958251
+    }
+  ]
+}

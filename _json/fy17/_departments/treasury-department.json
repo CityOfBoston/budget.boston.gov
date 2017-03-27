@@ -1,0 +1,315 @@
+{
+  "parent_id":"a87ff679a2f3e71d9181a67b7542122c",
+  "section_type":"department",
+  "section_type_short":"D",
+  "section_id":21,
+  "section_md5_id":"3c59dc048e8850243be8079a5c74d079",
+  "Program Name":"Division",
+  "fy-2":"FY15 Actual",
+  "fy-1":"FY16 Actual",
+  "fy-0":"FY17 Budget",
+  "fy+2":"FY18 Budget",
+  "operating_department":[
+    {
+      "table_type":"operating_department",
+      "table_title":"Operating Budget",
+      "table_header":{
+        "Program Name":"Department",
+        "line_type":"title",
+        "fy-2":"15 Actual",
+        "fy-1":"16 Actual",
+        "fy-0":"17 Budget",
+        "fy+2":"18 Budget"
+      },
+      "data":[
+        {
+          "line_title":"Collecting Division",
+          "line_type":"data",
+          "fy-2":"2615690",
+          "fy-1":"2831311",
+          "fy-0":"2434612",
+          "fy+1":"2408663"
+        },
+        {
+          "line_title":"Treasury Division",
+          "line_type":"data",
+          "fy-2":"1909110",
+          "fy-1":"1913480",
+          "fy-0":"1951023",
+          "fy+1":"1869797"
+        },
+        {
+          "line_title":"Total",
+          "line_type":"total",
+          "fy-2":"4524800",
+          "fy-1":"4744791",
+          "fy-0":"4385635",
+          "fy+1":"4278460"
+        }
+      ]
+    }
+  ],
+  "authorizing_statutes":[
+    "Bonding Requirements, M.G.L.A. c. 41, § 35.",
+    "Deposit on Funds, M.G.L.A. c. 40, § 35; M.G.L.A. c. 41, § 46; M.G.L.A. c. 44, §§ 53-55; M.G.L.A. c. 94C, § 47.",
+    "Custody and Safekeeping of Municipal Funds, M.G.L.A. c. 40, § 5B; M.G.L.A. c. 41, §§ 36, 44, 46; M.G.L.A. c. 44, §§ 53-55.",
+    "Payment of Bills, Payrolls, Withholding, M.G.L.A. c. 41, §§ 35, 41-43, 52, 56, 65-67; M.G.L.A. c.71, § 37B; M.G.L.A. c.149, §§ 148, 178B; M.G.L.A. c. 62B, § 2; M.G.L.A. c. 62, § 10; M.G.L.A. c. 32, § 22; M.G.L.A. c. 32B, § 7; M.G.L.A. c.154, § 8; M.G.L.A. c.175, §§ 138A, 193R; M.G.L.A. c. 180, § 17; 26 U.S.C. §§ 3401-3403, 3405-3406.",
+    "Reporting of Indebtedness, M.G.L.A. c. 41, § 59; M.G.L.A. c.44, §§ 22-28.",
+    "Appropriated Expenditures, M.G.L.A. c. 44, §§ 31, 53, 62-63.",
+    "Tax Title Responsibilities, M.G.L.A. c. 60, §§ 61-63, 76-77, 79-80.",
+    "Tax Rate Determination/Classification, M.G.L.A. c. 59, §§ 23, 38, 43, 53-55.",
+    "Tax Abatements, M.G.L.A. c.58, § 8; M.G.L.A. c.59, §§ 5, 59, 63, 69.",
+    "Collection of Local Taxes, M.G.L.A. c. 60, §§ 61-63, 76-77, 79-80.",
+    "General Authorizing Statutes, 1943 Mass. Acts ch. 434, § 7.",
+    "Motor Vehicle Excise Tax, M.G.L.A. c. 60A.",
+    "Gifts and Grants, M.G.L.A. c. 44, § 53A.",
+    "Municipal Indebtedness, M.G.L.A. c. 44, §§ 11,20.",
+    "Sale/Disposal of Realty/Public Land, M.G.L.A. c. 44, §§ 63-63A.",
+    "Excise on Boats, Ships and Vessels in Lieu of Local Property Taxes, M.G.L.A. c. 60B."
+  ],
+  "description_of_services":[
+    "The Treasury Department receives, deposits, and invests funds and pays all warrants, drafts, and orders. The Department issues, redeems, and pays interest on all bonds and notes and maintains custody of all trusts and bequests left to the City. Additionally, the Department issues payroll and required federal and state tax forms. The Department issues and collects all current and delinquent tax billings and departmental revenue. The Department also prepares petitions for land court proceedings and municipal liens and processes abatements and refunds. Additionally, the Department prepares tax certifications and tax takings, and researches tax problems."
+  ],
+  "programs":[
+    {
+      "parent":"Treasury Department",
+      "program_number":1,
+      "program_name":"Treasury Administration",
+      "head":"Vivian M. Leo",
+      "program_description":"The Administration Program hires, trains, and manages all Treasury Division personnel and ensures overall effective and efficient fund management."
+    },
+    {
+      "parent":"Treasury Department",
+      "program_number":2,
+      "program_name":"General ServicePayroll",
+      "head":"Chinele Velazquez",
+      "program_description":"The program is responsible for the processing and distribution of all payroll, payroll deductions, garnishment payments, accounts payable, issuance of refund payments for real estate tax overpayments and tax title payments. In addition, the program is responsible for the distribution of retirement benefit payments. The program maintains schedules for principal and interest on City borrowings."
+    },
+    {
+      "parent":"Treasury Department",
+      "program_number":3,
+      "program_name":"Treasury Accounting",
+      "head":"Marirose Graham",
+      "program_description":"The Accounting Program records and reconciles on a daily basis the cash and investment balances of the City. It reports daily on all financial transactions. Additionally, the program prepares and files federal and state forms and ensures payment of withholding taxes to state and federal agencies. The program is also responsible for ensuring the timely reconciliation of bank statements and city records."
+    },
+    {
+      "parent":"Treasury Department",
+      "program_number":4,
+      "program_name":"Accounts Receivable",
+      "head":"Maureen Garceau",
+      "program_description":"The Accounts Receivable Program is responsible for establishing policies and procedures, monitoring compliance, and providing a central resource to revenue generating departments that utilize the accounts receivable and billing systems."
+    },
+    {
+      "parent":"Treasury Department",
+      "program_number":5,
+      "program_name":"Trust",
+      "head":"Angela Chandler",
+      "program_description":"The Trust Program is charged with the responsibility of providing technical assistance to the City's various boards of trustees in the oversight of the investment programs for the more than 250 testamentary trust funds that have been entrusted to the City while ensuring that all beneficiary distributions are made in accordance with each benefactor's instructions."
+    },
+    {
+      "parent":"Treasury Department",
+      "program_number":1,
+      "program_name":"General Management",
+      "head":"Celia M. Barton",
+      "program_description":"The General Management Program is responsible for hiring, training, and supervising Collection Division staff and systems."
+    },
+    {
+      "parent":"Treasury Department",
+      "program_number":2,
+      "program_name":"Special Collections",
+      "head":"Michael Hutchinson",
+      "program_description":"The Special Collections Program is responsible for collecting delinquent real estate, personal property and motor vehicle excise taxes. It manages City's recording of its legal title to properties with delinquent and actions involving each account up through and including foreclosure or payment of the tax liability."
+    },
+    {
+      "parent":"Treasury Department",
+      "program_number":3,
+      "program_name":"Payment Services",
+      "head":"Nancy Cincotti",
+      "program_description":"The Payment Services Program processes all funds received by the City from taxpayers and City departments. It mails all current tax notices, resolves questions from taxpayers and financial institutions, provides duplicate tax bills, and processes all refunds and abatements."
+    },
+    {
+      "parent":"Treasury Department",
+      "program_number":4,
+      "program_name":"AccountingQuality Control",
+      "head":"Robinson Butterworth",
+      "program_description":"The Accounting/Special Assessments Program is responsible for maintaining the books of the Collecting Division, as well as managing the database used for controlling Collecting Division activities."
+    }
+  ],
+  "name":"Collecting Division",
+  "cabinet":"Administration and Finance",
+  "department":"Collecting Division",
+  "head_name":"Celia M. Barton",
+  "head_title":"First Assistant Collector-Treasurer",
+  "appropriation_code":"Appropriation137",
+  "parent":"Administration and Finance",
+  "mission":"The Collecting Division collects property taxes and all other monies due to the City while serving taxpayers in a professional, courteous manner. The Division strives to achieve the highest property collection rate possible and pursues all collection remedies allowed under statute.",
+  "selected_performance_strategies":{
+    "program":"Payment Services",
+    "strategies":[
+      "To issue tax bills in compliance with statutory requirements."
+    ]
+  },
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "Program Name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+2":"FY18 Budget"
+    },
+    "data":[
+      {
+        "line_title":"General Management",
+        "line_type":"data",
+        "fy-2":"657346",
+        "fy-1":"707688",
+        "fy-0":"579511",
+        "fy+2":"553697"
+      },
+      {
+        "line_title":"Special Collections",
+        "line_type":"data",
+        "fy-2":"723780",
+        "fy-1":"512653",
+        "fy-0":"562765",
+        "fy+2":"563068"
+      },
+      {
+        "line_title":"Payment Services",
+        "line_type":"data",
+        "fy-2":"890801",
+        "fy-1":"1236455",
+        "fy-0":"927381",
+        "fy+2":"923869"
+      },
+      {
+        "line_title":"Accounting/Quality Control",
+        "line_type":"data",
+        "fy-2":"343763",
+        "fy-1":"374515",
+        "fy-0":"364955",
+        "fy+2":"368029"
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":"2615690",
+        "fy-1":"2831311",
+        "fy-0":"2434612",
+        "fy+2":"2408663"
+      }
+    ]
+  },
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":1614643,
+        "fy-1":1681439,
+        "fy-0":1836063,
+        "fy+1":1810114,
+        "diff":-25949
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":1691049,
+        "fy-1":1751058,
+        "fy-0":1903474,
+        "fy+1":1877525,
+        "diff":-25949
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":2166935,
+        "fy-1":2232435,
+        "fy-0":2405393,
+        "fy+1":2388663,
+        "diff":-16730
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":2178960,
+        "fy-1":2241370,
+        "fy-0":2414612,
+        "fy+1":2388663,
+        "diff":-25949
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":2196819,
+        "fy-1":2255924,
+        "fy-0":2434612,
+        "fy+1":2408663,
+        "diff":-25949
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":2615690,
+        "fy-1":2831311,
+        "fy-0":2434612,
+        "fy+1":2408663,
+        "diff":-25949
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":343288,
+      "fy-1":373915,
+      "fy-0":363672,
+      "fy+2":366746
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":475,
+      "fy-1":600,
+      "fy-0":1283,
+      "fy+1":1283
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":343763,
+      "fy-1":374515,
+      "fy-0":364955,
+      "fy+1":368029
+    }
+  ]
+}

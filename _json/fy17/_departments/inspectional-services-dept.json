@@ -1,0 +1,299 @@
+{
+  "parent_id":"d3d9446802a44259755d38e6d163e820",
+  "section_type":"department",
+  "section_type_short":"D",
+  "section_id":45,
+  "section_md5_id":"6c8349cc7260ae62e3b1396831a8398f",
+  "name":"Inspectional Services Dept",
+  "parent":"Environment, Energy and Open Space",
+  "cabinet":"Environment, Energy and Open Space",
+  "department":"Inspectional Services Dept",
+  "head_name":"William Christopher",
+  "head_title":"Commissioner",
+  "appropriation_code":"Appropriation 260",
+  "mission":"The mission of the Inspectional Services Department (ISD) is to serve the public by protecting the health, safety, and environmental stability of Boston's business and residential communities. To this end, ISD effectively administers and consistently enforces building, housing, and environmental regulations within the City of Boston. The department will continue to use its resources to protect and improve the quality of life in Boston’s neighborhoods by providing public information, education, and enforcement.",
+  "selected_performance_strategies":{
+    "program":"Field Services",
+    "strategies":[
+      "To conduct compliance inspections annually for auto body and repair shops.",
+      "To direct the cleaning of all vacant lots deemed to pose public health concerns.",
+      "To ensure that all dogs are licensed in accordance with the law.",
+      "To ensure that tenants are provided with rental units which comply with building and sanitary codes.",
+      "To respond to housing \"no heat\" complaints within 24 hours."
+    ]
+  },
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "Program Name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+2":"FY18 Budget"
+    },
+    "data":[
+      {
+        "line_title":"ISD Commissioner's Office",
+        "line_type":"data",
+        "fy-2":"802695",
+        "fy-1":"1109917",
+        "fy-0":"990718",
+        "fy+2":"1166752"
+      },
+      {
+        "line_title":"ISD Administration & Finance",
+        "line_type":"data",
+        "fy-2":"3552570",
+        "fy-1":"3399462",
+        "fy-0":"3598182",
+        "fy+2":"3487909"
+      },
+      {
+        "line_title":"Buildings & Structures",
+        "line_type":"data",
+        "fy-2":"6038443",
+        "fy-1":"6360690",
+        "fy-0":"6370123",
+        "fy+2":"6171154"
+      },
+      {
+        "line_title":"Field Services",
+        "line_type":"data",
+        "fy-2":"6307644",
+        "fy-1":"7362854",
+        "fy-0":"7853667",
+        "fy+2":"7628714"
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":"16701352",
+        "fy-1":"18232923",
+        "fy-0":"18812690",
+        "fy+2":"18454529"
+      }
+    ]
+  },
+  "external_funds_budget":{
+    "table_type":"External Funds",
+    "table_title":"External Funds Budget",
+    "table_header":{
+      "name":"Fund Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+2":"FY18 Budget"
+    },
+    "data":[
+      {
+        "line_title":"Animal Control Fund",
+        "line_type":"data",
+        "fy-2":"196807",
+        "fy-1":"331604",
+        "fy-0":"278461",
+        "fy+2":"233420"
+      },
+      {
+        "line_title":"Foreclosure Fund",
+        "line_type":"data",
+        "fy-2":"169660",
+        "fy-1":"154485",
+        "fy-0":"72312",
+        "fy+2":"15700"
+      },
+      {
+        "line_title":"Weights & Measures",
+        "line_type":"data",
+        "fy-2":"78439",
+        "fy-1":"109869",
+        "fy-0":"22551",
+        "fy+2":"19500"
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":"444906",
+        "fy-1":"595958",
+        "fy-0":"373324",
+        "fy+2":"268620"
+      }
+    ]
+  },
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Establishment, CBC Ord. §§ 9-9.1, 9-9.5-9-9.7.",
+    "Building and Structural Regulation; Swimming Pool; Elderly/Handicapped, State Building Code, 780 CMR; CBC St. 9 § 207; CBC Ord. § 9-9.10; CBC Ord. §§ 9-9.11.1-9-9.11.6.",
+    "Housing Inspection, CBC Ord. 9, s. 1-2; State Sanitary Code, 5 CMR 400-419; Ord. 1984, c. 26, 39.",
+    "Health Inspection, State Sanitary Code, 5 CMR 590-595.",
+    "Weights and Measures; Transient Vendors and Hawkers; Inspection and Sale of Food, Drugs, Various Articles, 1817 Mass. Acts ch. 50, §§ 1-6; CBC St.9 § 10; CBC Ord. § 9-2.1; M.G.L.A. cc. 6, 94, 101; M.G.L.A. c. 98, § 56.",
+    "Rodent Control, State Sanitary Code, 105 CMR 550.",
+    "Board of Appeals, CBC St. 9 §§ 150-152; CBC Ord. §§ 9-4.1-9-4.2, 9-9.5.",
+    "Board of Examiners, CBC St.9 §§ 150-152; CBC Ord. §§ 9-8.1-9-8.2, 9-9.5.",
+    "Animal Control/Dog Registration and Licensing, M.G.L.A. c. 140, §§ 137, 141, 151a; CBC Ord. §§ 7-9.1-7-9.3; CBC Ord. §§ 16-1.9-16-1.9E(15), 16-1.10-16-1.10A."
+  ],
+  "description_of_services":[
+    "The Inspectional Services Department provides a broad range of regulatory services that include the inspection of buildings for compliance with building and public safety regulations, general housing inspections, and retail food establishment inspections for compliance with public health regulations. The Department provides services to victims of serious incidents such as fire, building collapse, power failure, etc., by providing coordination and assistance with building board-ups, hazard waste removal, short term make-safe repair activities and counseling. The Department works in cooperation with other public safety, human service, and law enforcement agencies to investigate and prosecute fraudulent contractors, environmental violators and others engaged in illegal activities that could have a negative impact on the quality of life. The Inspectional Services Department continues to develop and implement public information programs about the services and activities available through this agency. Inspectional Services also administers the Animal Care and Control unit which enforces regulations pertaining to public safety of both residents and animals."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":14053246,
+        "fy-1":15425147,
+        "fy-0":16099047,
+        "fy+1":15854970,
+        "diff":-244077
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":15511645,
+        "fy-1":17010361,
+        "fy-0":17637282,
+        "fy+1":17345716,
+        "diff":-291566
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":15663699,
+        "fy-1":17253419,
+        "fy-0":17885884,
+        "fy+1":17587686,
+        "diff":-298198
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":16566022,
+        "fy-1":18077870,
+        "fy-0":18685919,
+        "fy+1":18370626,
+        "diff":-315293
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":16701352,
+        "fy-1":18232923,
+        "fy-0":18812690,
+        "fy+1":18454529,
+        "diff":-358161
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":16701352,
+        "fy-1":18232923,
+        "fy-0":18812690,
+        "fy+1":18454529,
+        "diff":-358161
+      }
+    ]
+  },
+  "programs":[
+    {
+      "parent":"Inspectional Services Dept",
+      "program_number":1,
+      "program_name":"ISD Commissioners Office",
+      "head":"William Christopher",
+      "program_description":"The Commissioner's Office is responsible for overseeing daily departmental operations, including the development and implementation of an Automated Permitting and Inspection System (APIS). This system will provide for full online permitting and centralize the intake and scheduling of service requests and response to complaints. The permitting software solution will also be the framework for a permit management system involving all city agencies participating in the building permitting. This system will also enable ISD to share information among divisions by means of a centralized data management system.The Commissioner's Office coordinates all policy and planning functions, as well as focusing the Department's efforts to disseminate information in an understandable and timely manner. The Inspectional Services Department (ISD) is comprised of six regulatory divisions, namely, Building and Structures, Housing, Health, Environmental Services, Weights and Measures and Animal Care and Control, with the aim to protect and improve the quality of life for all City of Boston residents by effectively administering and enforcing regulations mandated by City and State governments."
+    },
+    {
+      "parent":"Inspectional Services Dept",
+      "program_number":2,
+      "program_name":"ISD Administration and Finance",
+      "head":"William Christopher",
+      "program_description":"The Administration and Finance program provides direction and supervision for Human Resources, Budget Management, Information Technology, and Legal Services. Human Resources directs the administration of all employee services, payroll, and labor relations. Budget provides fiscal oversight for the responsible management of the departmental non-personnel operating budget, in addition to asset/fleet management. Information Technology is responsible for maintaining the department’s local area network, web page materials and Microsoft exchange server. Legal works with departmental field inspection divisions in enforcing State Building, Housing and Sanitary Codes, in addition to addressing distressed properties and processing property liens. Constituent Services holds Zoning Board of Appeal hearings and responds to non-emergency complaints from the public."
+    },
+    {
+      "parent":"Inspectional Services Dept",
+      "program_number":3,
+      "program_name":"Buildings and Structures",
+      "head":"Gary P. Moccia",
+      "program_description":"The Inspector of Buildings oversees all building permit application processing, plans and zoning reviews, field inspections, and the investigative and regulatory enforcement activities administered by the Department. The Buildings and Structures management staff is responsible for issuing building permits for repair and installation, certificates of occupancy, building licenses, and inspecting buildings for safety and compliance with the allowable uses and applicable laws and codes. The Plans and Zoning staff responds to all permit applications and reviews building plans for zoning compliance. Zoning Materials and Zoning Clinics are available at 1010 Massachusetts Avenue and neighborhood libraries to assist individuals and businesses. Building, Electrical and Mechanical inspectors inspect all construction or renovation work to ensure that proper safety standards are followed. Inspectors respond to all community complaints about non-permitted work and zoning violations, including the use of land and structures beyond the allowable use and occupancy."
+    },
+    {
+      "parent":"Inspectional Services Dept",
+      "program_number":4,
+      "program_name":"Field Services",
+      "head":"William Christopher",
+      "program_description":"The Field Services program consists of four divisions: Health, Housing, Environmental Services and Weights and Measures. The Health Division's role is to protect the public health by permitting and inspecting food establishments, restaurants, caterers, health clubs, massage practitioners, and recreational camps. The Housing Division's role is to ensure the availability of clean, safe living conditions as required by the State Sanitary Code. The Environmental Services Division is responsible for the abatement and prevention of rodent infestation, the implementation of the City's site cleanliness ordinance, the boarding and securing of abandoned properties, and the coordination of the vacant lot maintenance program. The Weights and Measures Division is charged with protecting consumers by ensuring accuracy in retail establishment pricing and proper readings on gas pumps, taxi meters, scales and fuel truck meters. Animal Care and Control issues dog licenses, protects the public from dangerous animals and holds clinics on rabies awareness."
+    }
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":5915002,
+      "fy-1":6863102,
+      "fy-0":7332269,
+      "fy+2":7140606
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":392642,
+      "fy-1":499752,
+      "fy-0":521398,
+      "fy+1":488108
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":6307644,
+      "fy-1":7362854,
+      "fy-0":7853667,
+      "fy+1":7628714
+    }
+  ],
+  "external_funds":[
+    {
+      "project":"Animal Control Fund",
+      "project_mission":[
+        "The Animal Control Fund authorized by (Chapter 44, Section 53E ½) generates monies derived from dog licenses and animal violations. The revolving fund is used to defer and supplement the costs of the animal control program such as veterinary care, animal food, spay and neuter services, and public service television programming."
+      ]
+    },
+    {
+      "project":"Foreclosure Fund",
+      "project_mission":[
+        "The Foreclosure Fund was created in 2008 in compliance with the M.G.L. c.59, s57D, M.G.L. c,,156D, s5.02 and the 950CMR 113,20 requirement to register vacant or foreclosed properties. The fund allows Inspectional Services to charge an annual $100 fee for the registration of each foreclosed property. Monies collected are to be used to offset costs to track and secure foreclosed properties."
+      ]
+    },
+    {
+      "project":"Weights and Measures Enforcement Fund",
+      "project_mission":[
+        "The fund was created in 1998 in order to be in compliance with MGL c. 98 s. 29A, which was amended in 1998 to allow local weights and measures departments to issue civil citations (fines). The amended law specifically required that the revenue collected from said fines be retained and expended only for the purposes of enforcing “item pricing” and weights and measures laws."
+      ]
+    }
+  ]
+}

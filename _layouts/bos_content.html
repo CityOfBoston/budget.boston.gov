@@ -36,4 +36,12 @@ layout: bos_wrapper
     {% include grid.html arg=component %}
   {% endif %}
 
+  {% if i == "text_col_3" %}
+    {% include text_col_3.html arg=component %}
+  {% endif %}
+
+  {% if i == "text_col_2" %}
+    {% include text_col_2.html arg=component %}
+  {% endif %}
+
 {% endfor %}

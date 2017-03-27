@@ -1,0 +1,313 @@
+{
+  "parent_id":"98f13708210194c475687be6106a3b84",
+  "section_type":"department",
+  "section_type_short":"D",
+  "section_id":98,
+  "section_md5_id":"ed3d2c21991e3bef5e069713af9fa6ca",
+  "name":"Office of Arts and Culture",
+  "parent":"Arts and Culture",
+  "cabinet":"Arts and Culture",
+  "department":"Office of Arts and Culture",
+  "head_name":"Julie Burros",
+  "head_title":"Director",
+  "appropriation_code":"Appropriation 414",
+  "mission":"The mission of the Office of Arts and Culture is to foster the growth of the cultural community and promote participation in the arts.",
+  "selected_performance_strategies":{
+    "program":"Arts and Culture",
+    "strategies":[
+      "To support access to the Arts in every community."
+    ]
+  },
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "Program Name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+2":"FY18 Budget"
+    },
+    "data":[
+      {
+        "line_title":"Arts & Culture",
+        "line_type":"data",
+        "fy-2":"975519",
+        "fy-1":"1274583",
+        "fy-0":"1349436",
+        "fy+2":"1333855"
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":"975519",
+        "fy-1":"1274583",
+        "fy-0":"1349436",
+        "fy+2":"1333855"
+      }
+    ]
+  },
+  "external_funds_budget":{
+    "table_type":"External Funds",
+    "table_title":"External Funds Budget",
+    "table_header":{
+      "name":"Fund Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+2":"FY18 Budget"
+    },
+    "data":[
+      {
+        "line_title":"Americans For The Arts",
+        "line_type":"data",
+        "fy-2":"0",
+        "fy-1":"75",
+        "fy-0":"0",
+        "fy+2":"0"
+      },
+      {
+        "line_title":"Artist Resource Desk",
+        "line_type":"data",
+        "fy-2":"0",
+        "fy-1":"0",
+        "fy-0":"100000",
+        "fy+2":"0"
+      },
+      {
+        "line_title":"Boston AIR Program",
+        "line_type":"data",
+        "fy-2":"0",
+        "fy-1":"0",
+        "fy-0":"500000",
+        "fy+2":"0"
+      },
+      {
+        "line_title":"Boston Artists in Residence",
+        "line_type":"data",
+        "fy-2":"0",
+        "fy-1":"64375",
+        "fy-0":"0",
+        "fy+2":"0"
+      },
+      {
+        "line_title":"Boston Cultural Council",
+        "line_type":"data",
+        "fy-2":"77982",
+        "fy-1":"362328",
+        "fy-0":"563080",
+        "fy+2":"579000"
+      },
+      {
+        "line_title":"Communications Staff Grant",
+        "line_type":"data",
+        "fy-2":"0",
+        "fy-1":"0",
+        "fy-0":"0",
+        "fy+2":"80481"
+      },
+      {
+        "line_title":"Cultural District Initiative",
+        "line_type":"data",
+        "fy-2":"0",
+        "fy-1":"10000",
+        "fy-0":"0",
+        "fy+2":"0"
+      },
+      {
+        "line_title":"Emerging Artists Program",
+        "line_type":"data",
+        "fy-2":"0",
+        "fy-1":"5000",
+        "fy-0":"0",
+        "fy+2":"5000"
+      },
+      {
+        "line_title":"Public Art Fund",
+        "line_type":"data",
+        "fy-2":"25107",
+        "fy-1":"42604",
+        "fy-0":"25000",
+        "fy+2":"50000"
+      },
+      {
+        "line_title":"Strand Theatre",
+        "line_type":"data",
+        "fy-2":"0",
+        "fy-1":"0",
+        "fy-0":"150000",
+        "fy+2":"67654"
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":"103089",
+        "fy-1":"484382",
+        "fy-0":"1338080",
+        "fy+2":"782135"
+      }
+    ]
+  },
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "\tEnabling Legislation, CBC Ord. §§ 15-3.1-15-3.2.",
+    "\tBoston Arts Lottery Council, CBC Ord. §§ 5-9.1-5-9.10.",
+    "\tArt Commission Enabling Legislation, 1890 Mass. Acts ch. 122, §§ 1-4.",
+    "\tEstablishing Arts and Humanities Division, CBC Ord. §§ 15-9.1-15-9.5."
+  ],
+  "description_of_services":[
+    "The Office of Arts and Culture enhances the quality of life, the economy, and the design of the city through the arts. The role of the arts in all aspects of life in Boston is reinforced via equitable access to arts and culture in every community, its public institutions, and public places. Key areas of work include support to the cultural sector through grants and programs such as the arts festival, open studios, and the poet laureate; as well as the production and permitting of art in public places via exhibitions, temporary installations, the stewardship of the City’s collection of permanent sculpture, memorials and monuments, and the management of the Strand Theater. The mission is articulated in a cultural plan for Boston and is carried out via the implementation of this plan which will foster further investment in the arts community deepen intergovernmental collaborations, address cultural facility development and the support of cultural districts."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":659259,
+        "fy-1":734345,
+        "fy-0":813107,
+        "fy+1":805095,
+        "diff":-8012
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":799782,
+        "fy-1":1246356,
+        "fy-0":1320311,
+        "fy+1":1304730,
+        "diff":-15581
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":814177,
+        "fy-1":1267818,
+        "fy-0":1345333,
+        "fy+1":1329752,
+        "diff":-15581
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":815589,
+        "fy-1":1268979,
+        "fy-0":1346348,
+        "fy+1":1330767,
+        "diff":-15581
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":825519,
+        "fy-1":1274583,
+        "fy-0":1349436,
+        "fy+1":1333855,
+        "diff":-15581
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":975519,
+        "fy-1":1274583,
+        "fy-0":1349436,
+        "fy+1":1333855,
+        "diff":-15581
+      }
+    ]
+  },
+  "programs":[
+    {
+      "parent":"Office of Arts and Culture",
+      "program_number":1,
+      "program_name":"Arts and Culture",
+      "head":"Julie Burros",
+      "program_description":"The Arts and Culture program oversees the City’s efforts to support artists, the arts and outreach to new audiences in Boston and beyond."
+    }
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":659259,
+      "fy-1":734345,
+      "fy-0":813107,
+      "fy+2":805095
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":316260,
+      "fy-1":540238,
+      "fy-0":536329,
+      "fy+1":528760
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":975519,
+      "fy-1":1274583,
+      "fy-0":1349436,
+      "fy+1":1333855
+    }
+  ],
+  "external_funds":[
+    {
+      "project":"Boston Artists in Residence",
+      "project_mission":[
+        "Funded by Our Town award from the National Endowment for the Arts, the Artists in Residency program will work to directly connect local artists with city departments and the municipal planning process, informing policy around civic practice and the role of artists in government and community work."
+      ]
+    },
+    {
+      "project":"Boston Cultural Council",
+      "project_mission":[
+        "The Boston Cultural Council allocates funds from the Massachusetts Cultural Council annually to Boston to be regranted to non-profit arts organizations in the City. This year, the Office of Arts and Culture will receive funds to distribute to the non-profit cultural industry."
+      ]
+    },
+    {
+      "project":"Boston Public Art Fund",
+      "project_mission":[
+        "The purpose of this fund is to purchase goods and services to support public art throughout the City of Boston. Funding is received by receipts from easements granted by the Public Improvement Commission per G.L.c44, §53E ½."
+      ]
+    },
+    {
+      "project":"Local Artists Resource",
+      "project_mission":[
+        "The award will fund an expanded Boston AIR (Artists in Residence) program; grant funding to individual artists, and the new Artist Resource Desk website. The award was funded as part of the public benefit obligation of the Russia Wharf Redevelopment Project."
+      ]
+    },
+    {
+      "project":"Strand Theatre Revolving Fund",
+      "project_mission":[
+        "The purpose of the fund authorized by (Chapter 44, Section 53E ½) is to pay for expenses related to the operations of the Strand Theatre. This revolving fund is funded from rental fees that are paid when the theater is rented."
+      ]
+    }
+  ]
+}

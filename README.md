@@ -29,12 +29,16 @@ Here's a short list of some common components you can use:
 
 **Breadcrumbs**
 ![Screenshot of breadcrumb page navigation](/images/breadcrumbs.png "Breadcrumbs Screenshot")
+
+> Set local key to true in order to use app domain (e.g. budget.boston.gov) instead of wrapper base domain (e.g. boston.gov)
+
 ```
 breadcrumbs:
  - title: Home
    url: "/"
  - title: Dept
    url: "/departments"
+   local: true
  - current: Executive Summary
  - published: 2/15/17
 ```
@@ -218,4 +222,56 @@ js_table:
         json_key: other thing
       - column_name: Last Col
         json_key: custom
+```
+
+---
+
+**2 Column Text Block**
+![Screenshot of two columns of text](/images/text_col_2.png "Text Col 2")
+
+```
+text_col_2:
+  -col_1: >
+    <p>First Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non turpis nibh.
+    Sed eleifend orci pretium magna tempus vehicula. </p>
+    <ol>
+    <li>Donec sodales massa vel leo porttitor</li>
+    <li>condimentum. Ut condimentum commodo quam.</li>
+    <li>Phasellus sed metus eu velit pellentesque</li>
+    </ol>
+  -col_2: >
+    Second Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non turpis nibh.
+    Sed eleifend orci pretium magna tempus vehicula.
+    <blockquote>Donec sodales massa vel leo porttitor. Ut condimentum commodo quam.</blockquote>
+    condimentum. Ut condimentum commodo quam. Phasellus sed metus eu velit pellentesque
+    porta. Suspendisse iaculis feugiat accumsan.
+```
+
+---
+
+**3 Column Text Block**
+![Screenshot of three columns of text](/images/text_col_3.png "Text Col 3")
+
+```
+text_col_3:
+  -col_1: >
+    <p>Fisrt Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non turpis nibh.
+    Sed eleifend orci pretium magna tempus vehicula. </p>
+    <p>Donec sodales massa vel leo porttitor
+    condimentum. Ut condimentum commodo quam. Phasellus sed metus eu velit pellentesque
+    porta. Suspendisse iaculis feugiat accumsan.</p>
+  -col_2: >
+    Second Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non turpis nibh.
+    Sed eleifend orci pretium magna tempus vehicula.
+    <blockquote>Donec sodales massa vel leo porttitor</blockquote>
+    condimentum. Ut condimentum commodo quam. Phasellus sed metus eu velit pellentesque
+    porta.
+  -col_3: >
+    Third Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non turpis nibh.
+    <ul>
+    <li>Sed eleifend orci pretium magna tempus vehicula.</li>
+    <li>Donec sodales massa vel leo porttitor</li>
+    </ul>
+    condimentum. Ut condimentum commodo quam. Phasellus sed metus eu velit pellentesque
+    Sed eleifend orci.
 ```
