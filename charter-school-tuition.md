@@ -1,7 +1,7 @@
 ---
 layout: bos_content
 layout: bos_content
-permalink: /operating-budget/cabinets/
+permalink: /operating-budget/cabinets/charter-school-tuition/
 title: Cabinets
 breadcrumbs:
  - title: Home

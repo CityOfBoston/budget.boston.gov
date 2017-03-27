@@ -1,7 +1,7 @@
 ---
 layout: bos_content
 layout: bos_content
-permalink: /operating-budget/cabinets/
+permalink: /operating-budget/cabinets/suffolk-county-sheriff-dept
 title: Cabinets
 breadcrumbs:
  - title: Home

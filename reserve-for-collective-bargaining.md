@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /operating-budget/cabinets/
+permalink: /operating-budget/cabinets/reserve-for-collective-bargaining
 title: Reserve for collective bargaining
 breadcrumbs:
  - title: Home
@@ -15,7 +15,7 @@ breadcrumbs:
 intro:
  - title:
    short_desc: >
-   Collective bargaining is The process of negotiations between the City administration and bargaining units (unions) regarding the salary and fringe benefits of city employees.
+     Collective bargaining is The process of negotiations between the City administration and bargaining units (unions) regarding the salary and fringe benefits of city employees.
    description: >
      Most union contracts in City departments expire at the end of FY16 or shortly thereafter. Salary increases in these agreements will have a direct impact on dollars available in FY17 and in the coming years. The FY17 collective bargaining reserve includes limited funding for successor agreements for those unions.
    sidebar_menu: true
