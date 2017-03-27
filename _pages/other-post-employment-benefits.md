@@ -1,34 +1,32 @@
 ---
 layout: bos_content
-layout: bos_content
-permalink: /operating-budget/cabinets/other-post-employment-benefits
-title: Cabinets
+permalink: /operating-budget/other-post-employment-benefits/
+title: Other post employment benefits
 breadcrumbs:
  - title: Home
    url: "/"
  - title: Budget
    url: "/budget"
+   local: true
  - title: Operating Budget
    url: "/operating-budget/"
    local: true
- - current: Cabinets
+ - current: Other post employment benefits
  - published: 2/15/17
 intro:
- - title: Cabinets
+ - title: Other post employment benefits
    short_desc: >
-     <div>"This budget is a manifestation of my vision for a
-     Thriving, Healthy, and Innovative Boston."</div>
-     <div>- Martin J. Walsh, Mayor</div>
+    Similar to pensions, employees earn post-employment health care and life insurance benefits (OPEB) over their years of active service, which are received during retirement.
    description: >
-     Mayor Walsh presented a balanced budget that maintains
-     high levels of support in critical areas such as education
-     and public safety, makes limited strategic investments,
-     continues the City's commitment to addressing its long-term
-     liabilities, and builds on the Administration's record of
-     strong fiscal management. This is made possible by the
-     Administration's achievement of efficiencies and savings.
-     The City's data-driven managerial approach was recently
-     validated by the affirmation of Boston's triple A bond rating.
+    The City, including the Boston Public Health Commission (BPHC), has an unfunded liability for these benefits of $2.26 billion, as of the most recent independent actuarial valuation on June 30, 2015. The size of this liability is largely influenced by changes to retiree health benefits, the City’s annual additional contribution to fund the liability, and the discount rate used. The June 2015 estimate increased 5.6% over the previous valuation primarily due to a lower discount rate assumption.
+
+    While the City is required by law to make an annual contribution toward reducing its unfunded pension liability, there is no such requirement for retiree health and life insurance benefits. This budget again dedicates $40 million toward reducing the City’s long term other post-employment benefits (OPEB) liability. These fiscally responsible actions are critical to the Walsh Administration’s prudent financial management policies, which have contributed to the recent affirmation of Boston’s triple A bond rating.
+
+    In FY08, the City followed new Governmental Accounting Standards Board (GASB) requirements to identify and disclose this estimated liability, and also began voluntary annual allocations to fund the liability. Annual allocations are retained in an irrevocable Trust Fund, authorized through the City’s acceptance of M.G.L. Chapter 32B section 20. As of December 31, 2015 the Fund had a balance of $369 million.
+
+    The Annual Required Contribution (ARC) for the City to significantly reduce the OPEB liability over a 30 year period is projected at $178.4 million in FY17, as shown in Table 4. $163.8 million (92%) of this amount will be funded through a combination of pay-as-you-go benefit payments for current retirees (included in health care costs discussed in previous section), a $40 million FY17 allocation by the City to the Trust, and an additional $2.25 million deposit by the BPHC into the Trust.
+
+    As discussed further below, after the City fully funds its pension liability in 2025, annual contributions previously directed to reducing the pension liability will be redirected to reducing the unfunded OPEB liability. In 2026, total contributions to OPEB will exceed the annual required contribution, accelerating progress toward the goal of fully funding the OPEB liability in 30 years.
    sidebar_menu: true
 text_block:
   - title: Cabinet Appropriations
@@ -40,71 +38,27 @@ text_block:
       amet est sed luctus. Suspendisse massa turpis, iaculis at fermentum placerat,
       scelerisque ultricies est. Nulla facilisi. In scelerisque ornare tincidunt.
 table:
-  - title: Appropriations by Cabinet
-    right_text:
-      name: Back to Operating Budget
-      link: /operating-budget
+  - title: Reducing OPEB liability over 30 years
+    right_text: (numbers in millions)
     columns:
-      - "Cabinet":
-           name: Cabinet 1
-           link: /
-        "FY15 Actual":
-          value: 345
-          filter: money
-        "FY16 Actual":
-          value: 44
-          filter: money
-        "FY17 Budget":
-          value: 90
-          filter: money
-        "FY18 Budget":
-          value: 6565
-          filter: money
-      - "Cabinet":
-          name: Cabinet 2
-          link: /
-        "FY15 Actual":
-          value: 344573
-          filter: money
-        "FY16 Actual":
-          value: 757
-          filter: money
-        "FY17 Budget":
-          value: 554
-          filter: money
-        "FY18 Budget":
-          value: 6565
-          filter: money
-      - "Cabinet":
-          name: Cabinet 3
-          link: /
-        "FY15 Actual":
-          value: 111
-          filter: money
-        "FY16 Actual":
-          value: 542
-          filter: money
-        "FY17 Budget":
-          value: 275
-          filter: money
-        "FY18 Budget":
-          value: 50000
-          filter: money
-      - "Cabinet":
-         name: Streets
-         link: /operating-budget/cabinets/streets
-        "FY15 Actual":
-         value: 111
-         filter: money
-        "FY16 Actual":
-         value: 542
-         filter: money
-        "FY17 Budget":
-         value: 275
-         filter: money
-        "FY18 Budget":
-         value: 50000
-         filter: money
+      - "":
+           name: Projected benefit payments
+        "": $121.50
+        "% of ARC)":
+      - "":
+           name: FY17 annual allocation
+        "": $42.30
+        "% of ARC)":
+      - "":
+           name: Total FY17 payments
+        "": $163.80
+        "% of ARC)": 92%
+      - "":
+           name: Total annual required contribution (ARC)
+        "": $178.40
+        "% of ARC)":
+      - "":
+           name: Difference
+        "": -$14.62
+        "% of ARC)":
 ---
-
-Other post employment benefits

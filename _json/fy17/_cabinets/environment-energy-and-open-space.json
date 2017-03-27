@@ -1,9 +1,13 @@
+---
 {
-  "parent_id":"d3d9446802a44259755d38e6d163e820",
+  "file_version":"0.10",
+  "parent_id":"NEED TO GET THIS",
+  "section_id":4,
+  "section_md5_id":"A87FF679A2F3E71D9181A67B7542122C",
   "section_type":"department",
   "section_type_short":"D",
-  "section_id":4,
-  "section_md5_id":"a87ff679a2f3e71d9181a67b7542122c",
+  "source_version":"Recommended",
+  "source_year":"18",
   "name":"Parks and Recreation Department",
   "parent":"Environment, Energy and Open Space",
   "cabinet":"Environment, Energy and Open Space",
@@ -44,7 +48,7 @@
         "fy-2":"11722777",
         "fy-1":"11916104",
         "fy-0":"12649992",
-        "fy+2":"13008500"
+        "fy+2":"13274760"
       },
       {
         "line_title":"Citywide Recreation",
@@ -76,7 +80,7 @@
         "fy-2":"18397998",
         "fy-1":"23648127",
         "fy-0":"20981058",
-        "fy+2":"21710288"
+        "fy+2":"21976548"
       }
     ]
   },
@@ -96,7 +100,7 @@
         "line_title":"Fund for Parks and Recreation",
         "line_type":"data",
         "fy-2":"3807887",
-        "fy-1":"0",
+        "fy-1":"6320497",
         "fy-0":"4533282",
         "fy+2":"4371187"
       },
@@ -104,9 +108,9 @@
         "line_title":"George W. Parkman Trust Fund",
         "line_type":"data",
         "fy-2":"1265109",
-        "fy-1":"0",
-        "fy-0":"1100000",
-        "fy+2":"1166336"
+        "fy-1":"978173",
+        "fy-0":"1200000",
+        "fy+2":"1200001"
       },
       {
         "line_title":"Park Floodlighting Fees",
@@ -120,7 +124,7 @@
         "line_title":"The Ryder Cup Trust Fund",
         "line_type":"data",
         "fy-2":"44084",
-        "fy-1":"0",
+        "fy-1":"14194",
         "fy-0":"28000",
         "fy+2":"27600"
       },
@@ -128,12 +132,46 @@
         "line_title":"Total",
         "line_type":"total",
         "fy-2":"5344084",
-        "fy-1":"279203",
-        "fy-0":"5901282",
-        "fy+2":"5765123"
+        "fy-1":"7592067",
+        "fy-0":"6001282",
+        "fy+2":"5798788"
       }
     ]
   },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":11274854,
+      "fy-1":13217546,
+      "fy-0":13004639,
+      "fy+2":13697859
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":7123144,
+      "fy-1":10430581,
+      "fy-0":7976419,
+      "fy+1":8278689
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":18397998,
+      "fy-1":23648127,
+      "fy-0":20981058,
+      "fy+1":21976548
+    }
+  ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
   "authorizing_statutes":[
     "Care of Public Parks and Playgrounds, CBC St. 7 §§ 100-106.",
@@ -164,8 +202,8 @@
         "fy-2":11274854,
         "fy-1":13217546,
         "fy-0":13004639,
-        "fy+1":13616599,
-        "diff":611960
+        "fy+1":13697859,
+        "diff":693220
       },
       {
         "line_title":"Contractual Services",
@@ -174,8 +212,8 @@
         "fy-2":15343199,
         "fy-1":20418666,
         "fy-0":17466156,
-        "fy+1":18204979,
-        "diff":738823
+        "fy+1":18386239,
+        "diff":920083
       },
       {
         "line_title":"Supplies & Materials",
@@ -184,8 +222,8 @@
         "fy-2":16224810,
         "fy-1":21239668,
         "fy-0":18400812,
-        "fy+1":19099819,
-        "diff":699007
+        "fy+1":19281079,
+        "diff":880267
       },
       {
         "line_title":"Current Chgs & Oblig",
@@ -194,8 +232,8 @@
         "fy-2":16763105,
         "fy-1":21853460,
         "fy-0":18980033,
-        "fy+1":19671097,
-        "diff":691064
+        "fy+1":19852357,
+        "diff":872324
       },
       {
         "line_title":"Equipment",
@@ -204,8 +242,8 @@
         "fy-2":17527869,
         "fy-1":22528605,
         "fy-0":19530975,
-        "fy+1":20272283,
-        "diff":741308
+        "fy+1":20453543,
+        "diff":922568
       },
       {
         "line_title":"Other",
@@ -214,82 +252,11 @@
         "fy-2":18397998,
         "fy-1":23648127,
         "fy-0":20981058,
-        "fy+1":21710288,
-        "diff":729230
+        "fy+1":21976548,
+        "diff":995490
       }
     ]
   },
-  "programs":[
-    {
-      "parent":"Parks and Recreation Department",
-      "program_number":1,
-      "program_name":"Parks and Recreation Administration",
-      "head":"Christopher Cook",
-      "program_description":"The Administration Program provides administrative, financial, and personnel support for all departmental units. This program is also responsible for monitoring MOAs, contractual arrangements, licensing of major park facilities, coordination of community-based organizations, solicitation of corporate sponsorship, and communication with the public."
-    },
-    {
-      "parent":"Parks and Recreation Department",
-      "program_number":2,
-      "program_name":"Parks Operations",
-      "head":"James Sheehan",
-      "program_description":"The Operations Program provides clean, hazard-free, and physically attractive areas for public use. This includes the Maintenance Division that maintains the grounds and equipment in squares, parks, all City athletic fields and playgrounds and the Park Ranger Unit that patrols parks to ensure public safety and park protection."
-    },
-    {
-      "parent":"Parks and Recreation Department",
-      "program_number":3,
-      "program_name":"Citywide Recreation",
-      "head":"Michael Devlin",
-      "program_description":"The Citywide Recreation Program offers youth athletic programs, clinics, and camps in neighborhood parks citywide, as well as local community centers in partnership with Boston Centers for Youth and Families. The program offers a variety of healthy activities and events including golf lessons, the All Girls Sports Festival, Sox Talks with Boston Red Sox players and coaches, Boston Neighborhood Basketball League games, Mayor’s Cup baseball, cross country, golf, hockey, soccer, and softball tournaments, and much more.*The Citywide Recreation Program was included in Boston Centers for Youth and Families’ budget prior to FY16."
-    },
-    {
-      "parent":"Parks and Recreation Department",
-      "program_number":4,
-      "program_name":"Parks Design and Construction",
-      "head":"Robert  Rottenbucher, P.E.",
-      "program_description":"The Design and Construction Program works to develop and revitalize the full potential of Boston's physical park system by designing, contracting, and monitoring capital improvement projects. The planning process analyzes active and passive park opportunities, restores park lands, and promotes open space that is safe and accessible as well as functional and aesthetically pleasing. Improvements must be sensitive to community needs, budget limitations, appropriate environmental and horticultural values, and maintenance requirements."
-    },
-    {
-      "parent":"Parks and Recreation Department",
-      "program_number":5,
-      "program_name":"Cemetery",
-      "head":"Thomas A. Sullivan",
-      "program_description":"The Cemetery Program provides grounds maintenance for the City's three active cemeteries and sixteen historic cemeteries ensuring that they are physically attractive and well-manicured. Special efforts are undertaken in preparation for Memorial Day, Veterans' Day, and other holidays. This program is also responsible for completing all burials requested during the year. Preparation involves identifying and preparing grave sites, escorting the funeral service, and securing the burial plot upon completion of service."
-    }
-  ],
-  "selected_service_indicators":[
-    {
-      "line_title":"Operating Budget",
-      "line_type":"title",
-      "fy-2":"15Actual",
-      "fy-1":"16Actual",
-      "fy-0":"17Budget",
-      "fy+2":"18Budget"
-    },
-    {
-      "line_title":"Personnel Services",
-      "line_type":"data",
-      "fy-2":1708566,
-      "fy-1":1805441,
-      "fy-0":1883533,
-      "fy+2":1849180
-    },
-    {
-      "line_title":"Non Personnel",
-      "line_type":"data",
-      "fy-2":474367,
-      "fy-1":471906,
-      "fy-0":535899,
-      "fy+1":537000
-    },
-    {
-      "line_title":"Total",
-      "line_type":"total",
-      "fy-2":2182933,
-      "fy-1":2277347,
-      "fy-0":2419432,
-      "fy+1":2386180
-    }
-  ],
   "external_funds":[
     {
       "project":"Fund for Parks and Recreation",
@@ -315,5 +282,16 @@
         "The Ryder Cup/Youth Endowment Fund was formed from the proceeds of tickets to the 1999 Ryder Cup matches. The tickets were donated by the Country Club of Brookline to the City of Boston. The income from the Fund is used to support youth golf programming and other youth recreation activities."
       ]
     }
+  ],
+  "fy_major_initiatives":[
+    "Phase II of the Franklin Park Pathways Improvement project will improve park access and expand recreation for park users.",
+    "Repave the Jamaica Pond Pathways.",
+    "Complete construction on the Martin Richard Park in South Boston.",
+    "Complete construction of Ramsey Playground in the South End.",
+    "Begin construction to improve sidewalks near Boston Common Parkman Plaza.",
+    "Begin construction of the Paul Revere Mall.",
+    "Begin construction of major park renovation projects at Smith Playground in Allston.",
+    "Begin design for projects at Ryan Playground in Charlestown, Mary Hannon Playground in Roxbury, and Reservation Road Park in Hyde Park."
   ]
 }
+---

@@ -1,9 +1,13 @@
+---
 {
-  "parent_id":"6512bd43d9caa6e02c990b0a82652dca",
+  "file_version":"0.10",
+  "parent_id":"NEED TO GET THIS",
+  "section_id":51,
+  "section_md5_id":"2838023A778DFAECDC212708F721B788",
   "section_type":"department",
   "section_type_short":"D",
-  "section_id":51,
-  "section_md5_id":"2838023a778dfaecdc212708f721b788",
+  "source_version":"Recommended",
+  "source_year":"18",
   "name":"Finance Commission",
   "parent":"Non-Mayoral Departments",
   "cabinet":"Non-Mayoral Departments",
@@ -49,6 +53,40 @@
       }
     ]
   },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":230906,
+      "fy-1":255258,
+      "fy-0":260774,
+      "fy+2":263575
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":2568,
+      "fy-1":1686,
+      "fy-0":7700,
+      "fy+1":7700
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":233474,
+      "fy-1":256944,
+      "fy-0":268474,
+      "fy+1":271275
+    }
+  ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
   "authorizing_statutes":[
     "Finance Commission, 1908 Mass. Acts ch. 562; 1909 Mass. Acts ch. 486, § 17.",
@@ -135,48 +173,6 @@
         "diff":2801
       }
     ]
-  },
-  "programs":[
-    {
-      "parent":"Finance Commission",
-      "program_number":1,
-      "program_name":"Finance Commission",
-      "head":"Matt Cahill",
-      "program_description":"The Finance Commission investigates matters relating to appropriations, loans, expenditures, accounts, and methods of administration affecting the City of Boston or Suffolk County, or any department thereof which the Commission determines requires investigation. The Commission reports its findings to the Mayor, the City Council, and the general public."
-    }
-  ],
-  "selected_service_indicators":[
-    {
-      "line_title":"Operating Budget",
-      "line_type":"title",
-      "fy-2":"15Actual",
-      "fy-1":"16Actual",
-      "fy-0":"17Budget",
-      "fy+2":"18Budget"
-    },
-    {
-      "line_title":"Personnel Services",
-      "line_type":"data",
-      "fy-2":230906,
-      "fy-1":255258,
-      "fy-0":260774,
-      "fy+2":263575
-    },
-    {
-      "line_title":"Non Personnel",
-      "line_type":"data",
-      "fy-2":2568,
-      "fy-1":1686,
-      "fy-0":7700,
-      "fy+1":7700
-    },
-    {
-      "line_title":"Total",
-      "line_type":"total",
-      "fy-2":233474,
-      "fy-1":256944,
-      "fy-0":268474,
-      "fy+1":271275
-    }
-  ]
+  }
 }
+---

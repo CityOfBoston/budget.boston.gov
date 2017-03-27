@@ -1,7 +1,7 @@
 var gulp = require('gulp');
 
 gulp.task('create_collections', function (done) {
-  gulp.src(['_json/fy17/_cabinets/**'])
+  return gulp.src(['_json/fy17/_cabinets/**'])
     .pipe(gulp.dest('_cabinets'))
   gulp.src(['_json/fy17/_departments/**'])
     .pipe(gulp.dest('_departments'))
@@ -12,5 +12,5 @@ gulp.task('create_collections', function (done) {
   gulp.src(['_json/fy17/_cp_depts/**'])
     .pipe(gulp.dest('_cp_depts'))
   gulp.src(['_json/fy17/_projects/**'])
-    .pipe(gulp.dest('_projects'))
+    .pipe(gulp.dest('_projects'));
 });

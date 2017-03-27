@@ -1,9 +1,13 @@
+---
 {
-  "parent_id":"98f13708210194c475687be6106a3b84",
+  "file_version":"0.10",
+  "parent_id":"NEED TO GET THIS",
+  "section_id":3,
+  "section_md5_id":"ECCBC87E4B5CE2FE28308FD9F2A7BAF3",
   "section_type":"department",
   "section_type_short":"D",
-  "section_id":3,
-  "section_md5_id":"eccbc87e4b5ce2fe28308fd9f2a7baf3",
+  "source_version":"Recommended",
+  "source_year":"18",
   "name":"Library Department",
   "parent":"Arts and Culture",
   "cabinet":"Arts and Culture",
@@ -11,12 +15,11 @@
   "head_name":"David Leonard",
   "head_title":"President",
   "appropriation_code":"Appropriation 110",
-  "mission":"The Boston Public Library’s mission is to preserve and provide access to the historical record of our society, and to serve the cultural, educational, and informational needs of the City and the Commonwealth.",
+  "mission":"The Boston Public Library&rsquo;s mission is to preserve and provide access to the historical record of our society, and to serve the cultural, educational, and informational needs of the City and the Commonwealth.",
   "selected_performance_strategies":{
     "program":"Research Services",
     "strategies":[
-      "To implement recommendations of a system-wide preservation team created to ensure ongoing preservation of irreplaceable materials from the library collection.",
-      "To provide and preserve access to information and collections by supporting the acquisition, maintenance, preservation, and access to materials and information in all fields of knowledge."
+      "To provide improved access to programs, services and collections."
     ]
   },
   "operating_budget":{
@@ -37,7 +40,7 @@
         "fy-2":"17644624",
         "fy-1":"18709845",
         "fy-0":"17260122",
-        "fy+2":"18116761"
+        "fy+2":"18584106"
       },
       {
         "line_title":"Community Library Services",
@@ -45,7 +48,7 @@
         "fy-2":"13683174",
         "fy-1":"14425177",
         "fy-0":"15069249",
-        "fy+2":"15415135"
+        "fy+2":"15743358"
       },
       {
         "line_title":"Research Services",
@@ -61,7 +64,7 @@
         "fy-2":"33290974",
         "fy-1":"34862518",
         "fy-0":"34501736",
-        "fy+2":"35234919"
+        "fy+2":"36030487"
       }
     ]
   },
@@ -98,7 +101,7 @@
         "line_type":"data",
         "fy-2":"2501881",
         "fy-1":"2501882",
-        "fy-0":"2601882",
+        "fy-0":"2501882",
         "fy+2":"2501883"
       },
       {
@@ -115,7 +118,7 @@
         "fy-2":"553733",
         "fy-1":"782792",
         "fy-0":"679275",
-        "fy+2":"679275"
+        "fy+2":"678874"
       },
       {
         "line_title":"Trust Fund Income",
@@ -130,11 +133,45 @@
         "line_type":"total",
         "fy-2":"7945099",
         "fy-1":"9617646",
-        "fy-0":"9073729",
-        "fy+2":"8843741"
+        "fy-0":"8973729",
+        "fy+2":"8843340"
       }
     ]
   },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":22962590,
+      "fy-1":23164561,
+      "fy-0":24155430,
+      "fy+2":24656573
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":10328384,
+      "fy-1":11697957,
+      "fy-0":10346306,
+      "fy+1":11373914
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":33290974,
+      "fy-1":34862518,
+      "fy-0":34501736,
+      "fy+1":36030487
+    }
+  ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
   "authorizing_statutes":[
     "Power of City to Establish and Maintain a Library, 1848 Mass. Acts ch. 52, §1.",
@@ -146,7 +183,7 @@
     "Authority of Corporation to Take and Hold Property; Limitation, 1878 Mass. Acts ch. 114 §2."
   ],
   "description_of_services":[
-    "The Boston Public Library system consists of the Central Library at Copley Square, including the Kirstein Business Library, branch libraries located throughout Boston’s neighborhoods and one remote storage facility. Library staff assists users in locating and using resources, and provides public programming, exhibits, and outreach. Internet, wireless, and online technology resources connect people to informational resources aimed at enriching individuals, organizations, and the entire community."
+    "The Boston Public Library system consists of the Central Library at Copley Square, including the Kirstein Business Library, branch libraries located throughout Boston&rsquo;s neighborhoods and one remote storage facility. Library staff assists users in locating and using resources, and provides public programming, exhibits, and outreach. Internet, wireless, and online technology resources connect people to informational resources aimed at enriching individuals, organizations, and the entire community."
   ],
   "department_history_by_account":{
     "table_title":"Department Budget By Account",
@@ -168,8 +205,8 @@
         "fy-2":22962590,
         "fy-1":23164561,
         "fy-0":24155430,
-        "fy+1":24375068,
-        "diff":219638
+        "fy+1":24656573,
+        "diff":501143
       },
       {
         "line_title":"Contractual Services",
@@ -178,8 +215,8 @@
         "fy-2":29921587,
         "fy-1":31551394,
         "fy-0":31413795,
-        "fy+1":31985623,
-        "diff":571828
+        "fy+1":32602351,
+        "diff":1188556
       },
       {
         "line_title":"Supplies & Materials",
@@ -188,8 +225,8 @@
         "fy-2":32643504,
         "fy-1":34386976,
         "fy-0":34044963,
-        "fy+1":34616791,
-        "diff":571828
+        "fy+1":35412359,
+        "diff":1367396
       },
       {
         "line_title":"Current Chgs & Oblig",
@@ -198,8 +235,8 @@
         "fy-2":32859474,
         "fy-1":34566531,
         "fy-0":34241629,
-        "fy+1":34940434,
-        "diff":698805
+        "fy+1":35736002,
+        "diff":1494373
       },
       {
         "line_title":"Equipment",
@@ -208,8 +245,8 @@
         "fy-2":33129297,
         "fy-1":34830992,
         "fy-0":34476736,
-        "fy+1":35199919,
-        "diff":723183
+        "fy+1":35995487,
+        "diff":1518751
       },
       {
         "line_title":"Other",
@@ -218,79 +255,22 @@
         "fy-2":33290974,
         "fy-1":34862518,
         "fy-0":34501736,
-        "fy+1":35234919,
-        "diff":733183
+        "fy+1":36030487,
+        "diff":1528751
       }
     ]
   },
-  "programs":[
-    {
-      "parent":"Library Department",
-      "program_number":1,
-      "program_name":"Library Administration",
-      "head":"David Leonard",
-      "program_description":"The Administration Program proposes goals and objectives to the Board of Trustees, manages the library to continuously improve service to the public, and provides centralized functional support for the library. The program functions through the centralized offices of the President, Human Resources, Finance, Facilities, Systems, Technical Services, and Communications and Community Affairs."
-    },
-    {
-      "parent":"Library Department",
-      "program_number":2,
-      "program_name":"Community Library Services",
-      "head":"David Leonard",
-      "program_description":"The Community Library Services Program supports the strategic goal of the library being a center for, and facilitator of, lifelong learning. Its objective is to assist people of various ages, backgrounds, and stages of learning through the development of a variety of materials and programs, including those designed to teach information literacy. Support for the ReadBoston and WriteBoston initiatives is also included."
-    },
-    {
-      "parent":"Library Department",
-      "program_number":3,
-      "program_name":"Research Services",
-      "head":"David Leonard",
-      "program_description":"The Research Services Program provides and preserves access to information and collections in all fields of knowledge for users at the local, state, and national levels through the assistance of professionally skilled staff. The program also provides Internet use and wireless access to the Internet."
-    }
-  ],
-  "selected_service_indicators":[
-    {
-      "line_title":"Operating Budget",
-      "line_type":"title",
-      "fy-2":"15Actual",
-      "fy-1":"16Actual",
-      "fy-0":"17Budget",
-      "fy+2":"18Budget"
-    },
-    {
-      "line_title":"Personnel Services",
-      "line_type":"data",
-      "fy-2":1957589,
-      "fy-1":1722906,
-      "fy-0":2172365,
-      "fy+2":1703023
-    },
-    {
-      "line_title":"Non Personnel",
-      "line_type":"data",
-      "fy-2":5587,
-      "fy-1":4590,
-      "fy-0":0,
-      "fy+1":0
-    },
-    {
-      "line_title":"Total",
-      "line_type":"total",
-      "fy-2":1963176,
-      "fy-1":1727496,
-      "fy-0":2172365,
-      "fy+1":1703023
-    }
-  ],
   "external_funds":[
     {
       "project":"Boston Public Library Affiliates",
       "project_mission":[
-        "Represents funding received through the Library’s fundraising partners, including the Boston Public Library Foundation, the Associates of the Boston Public Library, the Boston Public Library’s City-wide Friends group, and Boston Public Library branch Friends’ groups."
+        "Represents funding received through the Library&rsquo;s fundraising partners, including the Boston Public Library Foundation, the Associates of the Boston Public Library, the Boston Public Library&rsquo;s City-wide Friends group, and Boston Public Library branch Friends&rsquo; groups."
       ]
     },
     {
       "project":"InterLibrary Loan Grant",
       "project_mission":[
-        "Interlibrary loan (ILL) is a service through which a user of one library can borrow materials or receive electronic copies of documents (usually journal or magazine articles) that are owned by another library. Massachusetts Library System contracts with the Boston Public Library to supply copies of documents electronically to all Massachusetts Library System members. These documents come either from the Boston Public Library’s own collection or BPL’s ILL staff will locate and request documents fromlibraries around the world. BPL is uniquely suited to provide documents to the state because of BPL’s large and diverse collection that is second in size only to the Library of Congress."
+        "Interlibrary loan (ILL) is a service through which a user of one library can borrow materials or receive electronic copies of documents (usually journal or magazine articles) that are owned by another library. Massachusetts Library System contracts with the Boston Public Library to supply copies of documents electronically to all Massachusetts Library System members. These documents come either from the Boston Public Library&rsquo;s own collection or BPL&rsquo;s ILL staff will locate and request documents fromlibraries around the world. BPL is uniquely suited to provide documents to the state because of BPL&rsquo;s large and diverse collection that is second in size only to the Library of Congress."
       ]
     },
     {
@@ -317,5 +297,13 @@
         "Represents gifts received from individuals, corporations, and other private donors. Donations made via trusts are held in accordance with the intention of the donor, and the principle is invested in securities that generate an annual income. This income is used to purchase library materials, support specific library positions, and enhance library programming."
       ]
     }
+  ],
+  "fy_major_initiatives":[
+    "The design for a new Adams Branch Library will begin to address program and facility needs.",
+    "The design for a renovation project at the Central Library in Copley Square will begin, to enhance preservation of historic special collections of rare books and manuscripts.",
+    "The City will launch a new Upham&rsquo;s Corner Branch Library project.",
+    "Construction for a comprehensive building renovation will begin at the Dudley Branch Library.",
+    "Design work will begin on a renovation of the Roslindale Branch library."
   ]
 }
+---

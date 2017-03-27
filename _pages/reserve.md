@@ -1,7 +1,7 @@
 ---
 layout: bos_content
-permalink: /operating-budget/cabinets/reserve
-title: Cabinets
+permalink: /operating-budget/reserve/
+title: Reserve
 breadcrumbs:
  - title: Home
    url: "/"
@@ -10,24 +10,14 @@ breadcrumbs:
  - title: Operating Budget
    url: "/operating-budget/"
    local: true
- - current: Cabinets
+ - current: Reserve
  - published: 2/15/17
 intro:
- - title: Cabinets
+ - title: Reserve
    short_desc: >
-     <div>"This budget is a manifestation of my vision for a
-     Thriving, Healthy, and Innovative Boston."</div>
-     <div>- Martin J. Walsh, Mayor</div>
+     The reserve is a "just in case" fund.
    description: >
-     Mayor Walsh presented a balanced budget that maintains
-     high levels of support in critical areas such as education
-     and public safety, makes limited strategic investments,
-     continues the City's commitment to addressing its long-term
-     liabilities, and builds on the Administration's record of
-     strong fiscal management. This is made possible by the
-     Administration's achievement of efficiencies and savings.
-     The City's data-driven managerial approach was recently
-     validated by the affirmation of Boston's triple A bond rating.
+   The Reserve budget is a fixed cost stipulated by state law and requires the City of Boston to maintain a reserve on its balance sheet of 2.5% of the prior year appropriations, not including the School Department. The current balance of this reserve is $30.6 million and the City is required to budget $740,000 in FY17 to meet reserve requirements. The reserve can be used to provide for extraordinary and unforeseen expenditures and the Mayor may make drafts or transfers against this fund with City Council approval after June first of each fiscal year. Since the establishment of this reserve, the City has yet to make any drafts or transfers from the reserve.
    sidebar_menu: true
 text_block:
   - title: Cabinet Appropriations
@@ -39,70 +29,12 @@ text_block:
       amet est sed luctus. Suspendisse massa turpis, iaculis at fermentum placerat,
       scelerisque ultricies est. Nulla facilisi. In scelerisque ornare tincidunt.
 table:
-  - title: Appropriations by Cabinet
-    right_text:
-      name: Back to Operating Budget
-      link: /operating-budget
+  - title: Reserve
+    right_text: (numbers in millions)
     columns:
-      - "Cabinet":
-           name: Cabinet 1
-           link: /
-        "FY15 Actual":
-          value: 345
-          filter: money
-        "FY16 Actual":
-          value: 44
-          filter: money
-        "FY17 Budget":
-          value: 90
-          filter: money
-        "FY18 Budget":
-          value: 6565
-          filter: money
-      - "Cabinet":
-          name: Cabinet 2
-          link: /
-        "FY15 Actual":
-          value: 344573
-          filter: money
-        "FY16 Actual":
-          value: 757
-          filter: money
-        "FY17 Budget":
-          value: 554
-          filter: money
-        "FY18 Budget":
-          value: 6565
-          filter: money
-      - "Cabinet":
-          name: Cabinet 3
-          link: /
-        "FY15 Actual":
-          value: 111
-          filter: money
-        "FY16 Actual":
-          value: 542
-          filter: money
-        "FY17 Budget":
-          value: 275
-          filter: money
-        "FY18 Budget":
-          value: 50000
-          filter: money
-      - "Cabinet":
-         name: Streets
-         link: /operating-budget/cabinets/streets
-        "FY15 Actual":
-         value: 111
-         filter: money
-        "FY16 Actual":
-         value: 542
-         filter: money
-        "FY17 Budget":
-         value: 275
-         filter: money
-        "FY18 Budget":
-         value: 50000
-         filter: money
-
+      - "": Reserve
+        "FY15 Actual": $0.43
+        "FY16 Actual": $0.92
+        "FY17 Budget": $0.21
+        "FY18 Budget": $0.74
 ---

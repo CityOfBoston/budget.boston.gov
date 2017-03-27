@@ -1,9 +1,13 @@
+---
 {
-  "parent_id":"8f14e45fceea167a5a36dedd4bea2543",
+  "file_version":"0.10",
+  "parent_id":"NEED TO GET THIS",
+  "section_id":30,
+  "section_md5_id":"34173CB38F07F89DDBEBC2AC9128303F",
   "section_type":"department",
   "section_type_short":"D",
-  "section_id":30,
-  "section_md5_id":"34173cb38f07f89ddbebc2ac9128303f",
+  "source_version":"Recommended",
+  "source_year":"18",
   "name":"Boston Public Schools",
   "parent":"Education",
   "cabinet":"Education",
@@ -37,7 +41,7 @@
         "fy-2":"974925118",
         "fy-1":"1016278853",
         "fy-0":"1031684005",
-        "fy+2":"1060932788"
+        "fy+2":"1060932786"
       },
       {
         "line_title":"Total",
@@ -45,7 +49,7 @@
         "fy-2":"974925118",
         "fy-1":"1016278853",
         "fy-0":"1031684005",
-        "fy+2":"1060932788"
+        "fy+2":"1060932786"
       }
     ]
   },
@@ -283,7 +287,7 @@
         "fy-2":"2372618",
         "fy-1":"1484708",
         "fy-0":"1800000",
-        "fy+2":"0"
+        "fy+2":"2600000"
       },
       {
         "line_title":"Farm to School Initiative",
@@ -299,7 +303,7 @@
         "fy-2":"733206",
         "fy-1":"722080",
         "fy-0":"0",
-        "fy+2":"1079450"
+        "fy+2":"1925930"
       },
       {
         "line_title":"Full Service Community School",
@@ -331,7 +335,7 @@
         "fy-2":"17528787",
         "fy-1":"16412751",
         "fy-0":"17219684",
-        "fy+2":"17863106"
+        "fy+2":"18090048"
       },
       {
         "line_title":"Improving Teacher Quality",
@@ -547,7 +551,7 @@
         "fy-2":"151447",
         "fy-1":"1049744",
         "fy-0":"766627",
-        "fy+2":"1565641"
+        "fy+2":"2089641"
       },
       {
         "line_title":"School Lunch - Food Services",
@@ -555,7 +559,7 @@
         "fy-2":"35067799",
         "fy-1":"33230610",
         "fy-0":"34284766",
-        "fy+2":"35393782"
+        "fy+2":"64370948"
       },
       {
         "line_title":"Small Learning Communities",
@@ -619,7 +623,15 @@
         "fy-2":"1120197",
         "fy-1":"1054544",
         "fy-0":"1317441",
-        "fy+2":"1317441"
+        "fy+2":"2474705"
+      },
+      {
+        "line_title":"Supporting Chemistry Teachers",
+        "line_type":"data",
+        "fy-2":"0",
+        "fy-1":"0",
+        "fy-0":"0",
+        "fy+2":"256567"
       },
       {
         "line_title":"Supporting Family Literacy",
@@ -651,7 +663,7 @@
         "fy-2":"90561",
         "fy-1":"26696",
         "fy-0":"1500000",
-        "fy+2":"0"
+        "fy+2":"1500000"
       },
       {
         "line_title":"Teen Pregnancy Prevention",
@@ -675,7 +687,7 @@
         "fy-2":"35612110",
         "fy-1":"31145744",
         "fy-0":"29463856",
-        "fy+2":"36178520"
+        "fy+2":"38041506"
       },
       {
         "line_title":"Title I - School Support",
@@ -723,7 +735,7 @@
         "fy-2":"123617",
         "fy-1":"19495",
         "fy-0":"125000",
-        "fy+2":"0"
+        "fy+2":"125000"
       },
       {
         "line_title":"Turnaround Sustainability Grant",
@@ -739,10 +751,44 @@
         "fy-2":"130471162",
         "fy-1":"125871487",
         "fy-0":"135341294",
-        "fy+2":"128724678"
+        "fy+2":"166801083"
       }
     ]
   },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":762246787,
+      "fy-1":790986551,
+      "fy-0":804031628,
+      "fy+2":827392443
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":204437980,
+      "fy-1":217843904,
+      "fy-0":220694076,
+      "fy+1":225730728
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":966684767,
+      "fy-1":1008830455,
+      "fy-0":1024725704,
+      "fy+1":1053123171
+    }
+  ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
   "authorizing_statutes":[
     "Rev. St. 1647, ch. 23, § 10 Rev. St.",
@@ -776,8 +822,8 @@
         "fy-2":769986506,
         "fy-1":798232565,
         "fy-0":810916788,
-        "fy+1":828926003,
-        "diff":18009215
+        "fy+1":835104392,
+        "diff":24187604
       },
       {
         "line_title":"Contractual Services",
@@ -786,8 +832,8 @@
         "fy-2":948404489,
         "fy-1":989770311,
         "fy-0":983087747,
-        "fy+1":1010305057,
-        "diff":27217310
+        "fy+1":1014100844,
+        "diff":31013097
       },
       {
         "line_title":"Supplies & Materials",
@@ -796,8 +842,8 @@
         "fy-2":957812934,
         "fy-1":997181804,
         "fy-0":990874682,
-        "fy+1":1017529255,
-        "diff":26654573
+        "fy+1":1021098834,
+        "diff":30224152
       },
       {
         "line_title":"Current Chgs & Oblig",
@@ -806,8 +852,8 @@
         "fy-2":963231250,
         "fy-1":1002767346,
         "fy-0":1018611316,
-        "fy+1":1049437945,
-        "diff":30826629
+        "fy+1":1049404596,
+        "diff":30793280
       },
       {
         "line_title":"Equipment",
@@ -816,8 +862,8 @@
         "fy-2":973690314,
         "fy-1":1015553192,
         "fy-0":1030798439,
-        "fy+1":1060046712,
-        "diff":29248273
+        "fy+1":1060046710,
+        "diff":29248271
       },
       {
         "line_title":"Other",
@@ -826,117 +872,11 @@
         "fy-2":974925118,
         "fy-1":1015553192,
         "fy-0":1031684005,
-        "fy+1":1060046712,
-        "diff":28362707
+        "fy+1":1060932786,
+        "diff":29248781
       }
     ]
   },
-  "programs":[
-    {
-      "parent":"Boston Public Schools",
-      "program_number":1,
-      "program_name":"General School Purposes",
-      "head":"Dr. Tommy Chang",
-      "program_description":"BPS strives to promote ongoing improvement in teaching and learning at each and every Boston Public School and in each and every classroom within these schools."
-    },
-    {
-      "parent":"Boston Public Schools",
-      "program_number":2,
-      "program_name":"General School Purposes",
-      "head":"Dr. Tommy Chang",
-      "program_description":"BPS strives to promote ongoing improvement in teaching and learning at each and every Boston Public School and in each and every classroom within these schools."
-    },
-    {
-      "parent":"Boston Public Schools",
-      "program_number":3,
-      "program_name":"General School Purposes",
-      "head":"Dr. Tommy Chang",
-      "program_description":"BPS strives to promote ongoing improvement in teaching and learning at each and every Boston Public School and in each and every classroom within these schools."
-    },
-    {
-      "parent":"Boston Public Schools",
-      "program_number":4,
-      "program_name":"General School Purposes",
-      "head":"Dr. Tommy Chang",
-      "program_description":"BPS strives to promote ongoing improvement in teaching and learning at each and every Boston Public School and in each and every classroom within these schools."
-    },
-    {
-      "parent":"Boston Public Schools",
-      "program_number":5,
-      "program_name":"General School Purposes",
-      "head":"Dr. Tommy Chang",
-      "program_description":"BPS strives to promote ongoing improvement in teaching and learning at each and every Boston Public School and in each and every classroom within these schools."
-    },
-    {
-      "parent":"Boston Public Schools",
-      "program_number":6,
-      "program_name":"General School Purposes",
-      "head":"Dr. Tommy Chang",
-      "program_description":"BPS strives to promote ongoing improvement in teaching and learning at each and every Boston Public School and in each and every classroom within these schools."
-    },
-    {
-      "parent":"Boston Public Schools",
-      "program_number":7,
-      "program_name":"General School Purposes",
-      "head":"Dr. Tommy Chang",
-      "program_description":"BPS strives to promote ongoing improvement in teaching and learning at each and every Boston Public School and in each and every classroom within these schools."
-    },
-    {
-      "parent":"Boston Public Schools",
-      "program_number":8,
-      "program_name":"General School Purposes",
-      "head":"Dr. Tommy Chang",
-      "program_description":"BPS strives to promote ongoing improvement in teaching and learning at each and every Boston Public School and in each and every classroom within these schools."
-    },
-    {
-      "parent":"Boston Public Schools",
-      "program_number":9,
-      "program_name":"General School Purposes",
-      "head":"Dr. Tommy Chang",
-      "program_description":"BPS strives to promote ongoing improvement in teaching and learning at each and every Boston Public School and in each and every classroom within these schools."
-    },
-    {
-      "parent":"Boston Public Schools",
-      "program_number":10,
-      "program_name":"General School Purposes",
-      "head":"Dr. Tommy Chang",
-      "program_description":"BPS strives to promote ongoing improvement in teaching and learning at each and every Boston Public School and in each and every classroom within these schools."
-    }
-  ],
-  "selected_service_indicators":[
-    {
-      "line_title":"Operating Budget",
-      "line_type":"title",
-      "fy-2":"15Actual",
-      "fy-1":"16Actual",
-      "fy-0":"17Budget",
-      "fy+2":"18Budget"
-    },
-    {
-      "line_title":"Personnel Services",
-      "line_type":"data",
-      "fy-2":762246787,
-      "fy-1":790986551,
-      "fy-0":804031628,
-      "fy+2":821275209
-    },
-    {
-      "line_title":"Non Personnel",
-      "line_type":"data",
-      "fy-2":204437980,
-      "fy-1":217843904,
-      "fy-0":220694076,
-      "fy+1":231992163
-    },
-    {
-      "line_title":"Total",
-      "line_type":"total",
-      "fy-2":966684767,
-      "fy-1":1008830455,
-      "fy-0":1024725704,
-      "fy+1":1053267372
-    }
-  ],
   "external_funds":[
     {
       "project":"Formula Grants",
@@ -953,7 +893,7 @@
     {
       "project":"Reimbursements",
       "project_mission":[
-        "Reimbursement funds are resources received by the local school districts as compensation for costs incurred by certain programs. Reimbursement programs include the Department of Agriculture’s School Lunch Program and Summer Food Program."
+        "Reimbursement funds are resources received by the local school districts as compensation for costs incurred by certain programs. Reimbursement programs include the Department of Agriculture&rsquo;s School Lunch Program and Summer Food Program."
       ]
     },
     {
@@ -962,5 +902,14 @@
         "Additional resources are received through revolving funds and other grants. These include funds raised through the Boston Education Development Foundation, and the Homeless Student Initiative."
       ]
     }
+  ],
+  "fy_major_initiatives":[
+    "Through the BuildBPS 21st Century Fund, every school will choose from among new technology and comfortable, moveable furniture options that promote learner-centric programs, and provide greater flexibility in current and future learning spaces.",
+    "Construction will be completed on the new $73 million Dearborn STEM 6-12 Academy by mid-year. The school will open to students in September 2018. The City and District have partnered with the MSBA in the development and funding of this new school.",
+    "This summer, 3,000 windows will be replaced at seven schools. This $29 million project is funded in partnership with the MSBA.",
+    "The City will submit a preferred option to the MSBA this year for the Boston Arts Academy project and, if accepted, will begin final design on the selected option.",
+    "The Mattapan Early Elementary School will open in September. The building will be refurbished this summer in advance of the opening.",
+    "BPS will continue the 5 year plan to upgrade technology infrastructure across the District in support of 21st century learning."
   ]
 }
+---

@@ -1,9 +1,13 @@
+---
 {
-  "parent_id":"eccbc87e4b5ce2fe28308fd9f2a7baf3",
+  "file_version":"0.10",
+  "parent_id":"NEED TO GET THIS",
+  "section_id":44,
+  "section_md5_id":"F7177163C833DFF4B38FC8D2872F1EC6",
   "section_type":"department",
   "section_type_short":"D",
-  "section_id":44,
-  "section_md5_id":"f7177163c833dff4b38fc8d2872f1ec6",
+  "source_version":"Recommended",
+  "source_year":"18",
   "name":"Womens Advancement",
   "parent":"Mayors Office",
   "cabinet":"Mayors Office",
@@ -11,11 +15,11 @@
   "head_name":"Megan Costello",
   "head_title":"Executive Director",
   "appropriation_code":"Appropriation 417",
-  "mission":"The mission of the Mayor's Office of Women’s Advancement is to advocate for equal opportunity for women in all arenas of our city. The Office provides educational opportunities for women that emphasize economic equality, child care, programs for young girls and the health and safety of all women.",
+  "mission":"The mission of the Mayor's Office of Women&rsquo;s Advancement is to advocate for equal opportunity for women in all arenas of our city. The Office provides educational opportunities for women that emphasize economic equality, child care, programs for young girls and the health and safety of all women.",
   "selected_performance_strategies":{
     "program":"Womens Advancement",
     "strategies":[
-      "Promote leadership development and women's networking."
+      "Decrease the wage gap for women in Boston."
     ]
   },
   "operating_budget":{
@@ -48,6 +52,40 @@
       }
     ]
   },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":190051,
+      "fy-1":209796,
+      "fy-0":230046,
+      "fy+2":222994
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":931,
+      "fy-1":2310,
+      "fy-0":3569,
+      "fy+1":2525
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":190982,
+      "fy-1":212106,
+      "fy-0":233615,
+      "fy+1":225519
+    }
+  ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
   "authorizing_statutes":[],
   "description_of_services":[
@@ -127,48 +165,6 @@
         "diff":-8096
       }
     ]
-  },
-  "programs":[
-    {
-      "parent":"Womens Advancement",
-      "program_number":1,
-      "program_name":"Womens Advancement",
-      "head":"Megan Costello",
-      "program_description":"The Women’s Advancement program provides information and referrals, advocacy, and policy changes for women in the City of Boston. The program emphasizes economic and gender equality for women and girls. This program collaborates with every city department, Suffolk county, state and federal government, nonprofit organizations and private partners to advance women’s issues."
-    }
-  ],
-  "selected_service_indicators":[
-    {
-      "line_title":"Operating Budget",
-      "line_type":"title",
-      "fy-2":"15Actual",
-      "fy-1":"16Actual",
-      "fy-0":"17Budget",
-      "fy+2":"18Budget"
-    },
-    {
-      "line_title":"Personnel Services",
-      "line_type":"data",
-      "fy-2":190051,
-      "fy-1":209796,
-      "fy-0":230046,
-      "fy+2":222994
-    },
-    {
-      "line_title":"Non Personnel",
-      "line_type":"data",
-      "fy-2":931,
-      "fy-1":2310,
-      "fy-0":3569,
-      "fy+1":2525
-    },
-    {
-      "line_title":"Total",
-      "line_type":"total",
-      "fy-2":190982,
-      "fy-1":212106,
-      "fy-0":233615,
-      "fy+1":225519
-    }
-  ]
+  }
 }
+---
