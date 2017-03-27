@@ -1,9 +1,13 @@
+---
 {
-  "parent_id":"3c59dc048e8850243be8079a5c74d079",
+  "file_version":"0.10",
+  "parent_id":"NEED TO GET THIS",
+  "section_id":43,
+  "section_md5_id":"17E62166FC8586DFA4D1BC0E1742C08B",
   "section_type":"department",
   "section_type_short":"D",
-  "section_id":43,
-  "section_md5_id":"17e62166fc8586dfa4d1bc0e1742c08b",
+  "source_version":"Recommended",
+  "source_year":"18",
   "name":"Neighborhood Services",
   "parent":"Civic Engagement",
   "cabinet":"Civic Engagement",
@@ -11,12 +15,11 @@
   "head_name":"Jerome Smith",
   "head_title":"Chief of Civic Engagement",
   "appropriation_code":"Appropriation 412",
-  "mission":"The Mayor's Office of Neighborhood Services (ONS) encourages, facilitates and maximizes citizen input and participation in all aspects of government through service requests, neighborhood meetings, mailings, and emergency responses. Also included in ONS is the Mobile City Hall to Go truck that visits Boston’s neighborhoods offering a select menu of services directly to constituents. The Boston 311 Program provides a wide-ranging information and referral function as well as coordinates emergency response after business hours. The program also responds to citizens’ requests for service through direct interaction with City departments.",
+  "mission":"The Mayor's Office of Neighborhood Services (ONS) encourages, facilitates and maximizes citizen input and participation in all aspects of government through service requests, neighborhood meetings, mailings, and emergency responses. Also included in ONS is the Mobile City Hall to Go truck that visits Boston&rsquo;s neighborhoods offering a select menu of services directly to constituents. The Boston 311 Program provides a wide-ranging information and referral function as well as coordinates emergency response after business hours. The program also responds to citizens&rsquo; requests for service through direct interaction with City departments.",
   "selected_performance_strategies":{
     "program":"Boston 311",
     "strategies":[
-      "To ensure that constituents can always reach a responsive city government with any non-emergency question or concern at any hour by managing a 24-hour hotline, a self-service menu on the City's website and the City’s Citizens Connect mobile application.",
-      "To identify trends in constituent concerns and operational improvements to address those trends; hold departments accountable for responsiveness to constituent requests on behalf of the Mayor."
+      "Maintain a high level of constituent service."
     ]
   },
   "operating_budget":{
@@ -61,7 +64,7 @@
         "fy-2":"0",
         "fy-1":"879467",
         "fy-0":"1224227",
-        "fy+2":"1171599"
+        "fy+2":"1345061"
       },
       {
         "line_title":"Total",
@@ -69,7 +72,7 @@
         "fy-2":"1421970",
         "fy-1":"2524900",
         "fy-0":"3194730",
-        "fy+2":"3114151"
+        "fy+2":"3287613"
       }
     ]
   },
@@ -90,8 +93,8 @@
         "line_type":"data",
         "fy-2":"0",
         "fy-1":"13608",
-        "fy-0":"70000",
-        "fy+2":"70000"
+        "fy-0":"0",
+        "fy+2":"0"
       },
       {
         "line_title":"Love Your Block",
@@ -99,22 +102,56 @@
         "fy-2":"0",
         "fy-1":"11392",
         "fy-0":"10000",
-        "fy+2":"10000"
+        "fy+2":"75000"
       },
       {
         "line_title":"Total",
         "line_type":"total",
         "fy-2":"0",
         "fy-1":"25000",
-        "fy-0":"80000",
-        "fy+2":"80000"
+        "fy-0":"10000",
+        "fy+2":"75000"
       }
     ]
   },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":1369690,
+      "fy-1":2375934,
+      "fy-0":2904146,
+      "fy+2":3019386
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":52280,
+      "fy-1":148966,
+      "fy-0":290584,
+      "fy+1":268227
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1421970,
+      "fy-1":2524900,
+      "fy-0":3194730,
+      "fy+1":3287613
+    }
+  ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
   "authorizing_statutes":[],
   "description_of_services":[
-    "The Office of Neighborhood Services invites community involvement in municipal government across the wide spectrum of its programs. Neighborhood Services provides a forum for both groups and individuals to express concerns, request services, and extend opinions, while serving to disseminate information and facilitate delivery of City services. The City Hall to Go truck offers a select menu of city services to all Boston’s neighborhoods. The Boston 311 Program provides a wide-ranging information and referral function as well as coordinates emergency response after business hours. The program also responds to citizens’ requests for service through direct interaction with City departments."
+    "The Office of Neighborhood Services invites community involvement in municipal government across the wide spectrum of its programs. Neighborhood Services provides a forum for both groups and individuals to express concerns, request services, and extend opinions, while serving to disseminate information and facilitate delivery of City services. The City Hall to Go truck offers a select menu of city services to all Boston&rsquo;s neighborhoods. The Boston 311 Program provides a wide-ranging information and referral function as well as coordinates emergency response after business hours. The program also responds to citizens&rsquo; requests for service through direct interaction with City departments."
   ],
   "department_history_by_account":{
     "table_title":"Department Budget By Account",
@@ -136,8 +173,8 @@
         "fy-2":1369690,
         "fy-1":2375934,
         "fy-0":2904146,
-        "fy+1":2845924,
-        "diff":-58222
+        "fy+1":3019386,
+        "diff":115240
       },
       {
         "line_title":"Contractual Services",
@@ -146,8 +183,8 @@
         "fy-2":1411929,
         "fy-1":2484082,
         "fy-0":3174194,
-        "fy+1":3095972,
-        "diff":-78222
+        "fy+1":3269434,
+        "diff":95240
       },
       {
         "line_title":"Supplies & Materials",
@@ -156,8 +193,8 @@
         "fy-2":1418237,
         "fy-1":2495334,
         "fy-0":3185994,
-        "fy+1":3107772,
-        "diff":-78222
+        "fy+1":3281234,
+        "diff":95240
       },
       {
         "line_title":"Current Chgs & Oblig",
@@ -166,8 +203,8 @@
         "fy-2":1418685,
         "fy-1":2503987,
         "fy-0":3190773,
-        "fy+1":3112551,
-        "diff":-78222
+        "fy+1":3286013,
+        "diff":95240
       },
       {
         "line_title":"Equipment",
@@ -176,8 +213,8 @@
         "fy-2":1421970,
         "fy-1":2524900,
         "fy-0":3194730,
-        "fy+1":3114151,
-        "diff":-80579
+        "fy+1":3287613,
+        "diff":92883
       },
       {
         "line_title":"Other",
@@ -186,73 +223,18 @@
         "fy-2":1421970,
         "fy-1":2524900,
         "fy-0":3194730,
-        "fy+1":3114151,
-        "diff":-80579
+        "fy+1":3287613,
+        "diff":92883
       }
     ]
   },
-  "programs":[
+  "external_funds":[
     {
-      "parent":"Neighborhood Services",
-      "program_number":1,
-      "program_name":"ONS Administration",
-      "head":"Jerome Smith",
-      "program_description":"The Administration Program notifies local groups, community leaders, media and elected officials of pending regulatory decisions, available City services, programs and meetings on a timely basis. Program staff also facilitate the training, development and coordination of departmental activities."
-    },
-    {
-      "parent":"Neighborhood Services",
-      "program_number":2,
-      "program_name":"Neighborhood Serv",
-      "head":"Jerome Smith",
-      "program_description":"The Neighborhood Services Program improves interdepartmental coordination of the delivery of basic City services and promotes the involvement of neighborhood residents and civic groups in neighborhood events, activities and neighborhood development including the permitting and licensing processes. Program staff coordinates and attends neighborhood meetings, facilitates the delivery of basic services, and represents the neighborhood related to development issues and testifying at zoning and licensing hearings."
-    },
-    {
-      "parent":"Neighborhood Services",
-      "program_number":3,
-      "program_name":"City Hall to Go",
-      "head":"Ben Vainer",
-      "program_description":"The first of its kind in the nation, City Hall to Go visits every neighborhood in Boston to provide city services. The vehicle is available five days a week, including on nights and weekends. The program director creates a monthly schedule of visits and coordinates with city departments on upcoming initiatives, events, and services available. Program staff coordinates with the press office to create a communications plan for neighborhood outreach and promotion, and assists other city leaders in launching similar programs."
-    },
-    {
-      "parent":"Neighborhood Services",
-      "program_number":4,
-      "program_name":"Boston 311",
-      "head":"Niall M. Murphy",
-      "program_description":"The Boston311 Program provides a wide-ranging information and referral function as well as coordinates emergency response after business hours. The program also responds to citizens’ requests for service through direct interaction with City departments."
-    }
-  ],
-  "selected_service_indicators":[
-    {
-      "line_title":"Operating Budget",
-      "line_type":"title",
-      "fy-2":"15Actual",
-      "fy-1":"16Actual",
-      "fy-0":"17Budget",
-      "fy+2":"18Budget"
-    },
-    {
-      "line_title":"Personnel Services",
-      "line_type":"data",
-      "fy-2":0,
-      "fy-1":821889,
-      "fy-0":1036827,
-      "fy+2":984199
-    },
-    {
-      "line_title":"Non Personnel",
-      "line_type":"data",
-      "fy-2":0,
-      "fy-1":57578,
-      "fy-0":187400,
-      "fy+1":187400
-    },
-    {
-      "line_title":"Total",
-      "line_type":"total",
-      "fy-2":0,
-      "fy-1":879467,
-      "fy-0":1224227,
-      "fy+1":1171599
+      "project":"Love Your Block/Boston Shines",
+      "project_mission":[
+        "Love Your Block's funding source originated in 2015 as a result of an external grant from Cities of Service for 30,000 to be used over 3 years ending in 2018. The purpose is to create and implement a mini grant program for Neighborhood Beautification projects. Love Your Block going forward in FY18 will also include Boston Shines, a spring clean up initiative that is funded by external donations. As a result the funding sources from here on out are external donations for the entire Love Your Block account. This is an annual fund. For FY17 Love your Block account will be used for mini grants only and is projected to spend 10,500."
+      ]
     }
   ]
 }
+---

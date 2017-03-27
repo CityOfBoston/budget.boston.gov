@@ -1,9 +1,13 @@
+---
 {
-  "parent_id":"c51ce410c124a10e0db5e4b97fc2af39",
+  "file_version":"0.10",
+  "parent_id":"NEED TO GET THIS",
+  "section_id":31,
+  "section_md5_id":"C16A5320FA475530D9583C34FD356EF5",
   "section_type":"department",
   "section_type_short":"D",
-  "section_id":31,
-  "section_md5_id":"c16a5320fa475530d9583c34fd356ef5",
+  "source_version":"Recommended",
+  "source_year":"18",
   "name":"Neighborhood Development",
   "parent":"Housing and Neighborhood Development",
   "cabinet":"Housing and Neighborhood Development",
@@ -11,11 +15,11 @@
   "head_name":"Sheila Dillon",
   "head_title":"Chief of Housing and Neighborhood Development",
   "appropriation_code":"Appropriation 188",
-  "mission":"The Cabinet is committed to making Boston the most livable city in the nation by working with its many communities to build strong neighborhoods through the strategic investment of public resources. In 2014, Mayor Walsh announced his Boston 2030 plan which outlines a new comprehensive approach to accommodating Boston's complex housing needs over the next 15 years. Funding committed for the new plan has been renamed the “Housing 2030 Fund” which is included in the Neighborhood Development Operating Budget in “Program 3. Housing Development and Services.”.",
+  "mission":"The Cabinet is committed to making Boston the most livable city in the nation by working with its many communities to build strong neighborhoods through the strategic investment of public resources. In 2014, Mayor Walsh announced his Boston 2030 plan which outlines a new comprehensive approach to accommodating Boston's complex housing needs over the next 15 years. Funding committed for the new plan has been renamed the &ldquo;Housing 2030 Fund&ldquo;; which is included in the Neighborhood Development Operating Budget in &ldquo;Program 3. Housing Development and Services.&ldquo;;.",
   "selected_performance_strategies":{
     "program":"Housing Development and Services",
     "strategies":[
-      "To help homeowners improve their homes and communities."
+      "Provide assistance towards ending homelessness in Boston."
     ]
   },
   "operating_budget":{
@@ -36,7 +40,7 @@
         "fy-2":"1913600",
         "fy-1":"1234445",
         "fy-0":"1620680",
-        "fy+2":"1611551"
+        "fy+2":"1711502"
       },
       {
         "line_title":"Real Estate Management & Sales",
@@ -44,7 +48,7 @@
         "fy-2":"1775390",
         "fy-1":"1782889",
         "fy-0":"1554227",
-        "fy+2":"1593855"
+        "fy+2":"1616592"
       },
       {
         "line_title":"Housing Development & Services",
@@ -52,7 +56,7 @@
         "fy-2":"716906",
         "fy-1":"7846242",
         "fy-0":"9788275",
-        "fy+2":"9679005"
+        "fy+2":"9797521"
       },
       {
         "line_title":"Business Services",
@@ -68,7 +72,7 @@
         "fy-2":"4968262",
         "fy-1":"11544055",
         "fy-0":"12963182",
-        "fy+2":"12884411"
+        "fy+2":"13125615"
       }
     ]
   },
@@ -105,7 +109,7 @@
         "line_type":"data",
         "fy-2":"2866357",
         "fy-1":"0",
-        "fy-0":"0",
+        "fy-0":"412832",
         "fy+2":"0"
       },
       {
@@ -122,13 +126,13 @@
         "fy-2":"17159535",
         "fy-1":"22349852",
         "fy-0":"45542099",
-        "fy+2":"18622782"
+        "fy+2":"18578341"
       },
       {
         "line_title":"Choice Neighborhood Implementation Grant",
         "line_type":"data",
         "fy-2":"1589852",
-        "fy-1":"2895047",
+        "fy-1":"3067674",
         "fy-0":"1103999",
         "fy+2":"0"
       },
@@ -144,7 +148,7 @@
         "line_title":"Continuum of Care",
         "line_type":"data",
         "fy-2":"20830905",
-        "fy-1":"20579850",
+        "fy-1":"21550104",
         "fy-0":"25353135",
         "fy+2":"24243260"
       },
@@ -189,6 +193,14 @@
         "fy+2":"2019112"
       },
       {
+        "line_title":"Housing 2030",
+        "line_type":"data",
+        "fy-2":"0",
+        "fy-1":"2472088",
+        "fy-0":"0",
+        "fy+2":"0"
+      },
+      {
         "line_title":"Inclusionary Development Fund",
         "line_type":"data",
         "fy-2":"2838679",
@@ -209,7 +221,7 @@
         "line_type":"data",
         "fy-2":"670920",
         "fy-1":"0",
-        "fy-0":"0",
+        "fy-0":"1429000",
         "fy+2":"0"
       },
       {
@@ -233,7 +245,7 @@
         "line_type":"data",
         "fy-2":"33451",
         "fy-1":"118810",
-        "fy-0":"0",
+        "fy-0":"145353",
         "fy+2":"0"
       },
       {
@@ -253,14 +265,6 @@
         "fy+2":"0"
       },
       {
-        "line_title":"Section 108 Unrestricted Fund",
-        "line_type":"data",
-        "fy-2":"0",
-        "fy-1":"0",
-        "fy-0":"67025",
-        "fy+2":"0"
-      },
-      {
         "line_title":"Triple Decker Initiative",
         "line_type":"data",
         "fy-2":"166573",
@@ -272,12 +276,46 @@
         "line_title":"Total",
         "line_type":"total",
         "fy-2":"56693592",
-        "fy-1":"61895658",
-        "fy-0":"92915779",
-        "fy+2":"62067148"
+        "fy-1":"65510627",
+        "fy-0":"94835939",
+        "fy+2":"62022707"
       }
     ]
   },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":2872153,
+      "fy-1":2966584,
+      "fy-0":3101834,
+      "fy+2":3066799
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":2096109,
+      "fy-1":8577471,
+      "fy-0":9861348,
+      "fy+1":10058816
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":4968262,
+      "fy-1":11544055,
+      "fy-0":12963182,
+      "fy+1":13125615
+    }
+  ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
   "authorizing_statutes":[
     "Enabling Legislation, 1961 Mass. Acts ch. 642, §§ 1-3.",
@@ -315,8 +353,8 @@
         "fy-2":2872153,
         "fy-1":2966584,
         "fy-0":3101834,
-        "fy+1":3071574,
-        "diff":-30260
+        "fy+1":3066799,
+        "diff":-35035
       },
       {
         "line_title":"Contractual Services",
@@ -325,8 +363,8 @@
         "fy-2":4210379,
         "fy-1":4117186,
         "fy-0":4233568,
-        "fy+1":4159531,
-        "diff":-74037
+        "fy+1":4400735,
+        "diff":167167
       },
       {
         "line_title":"Supplies & Materials",
@@ -335,8 +373,8 @@
         "fy-2":4248800,
         "fy-1":4149603,
         "fy-0":4273562,
-        "fy+1":4198575,
-        "diff":-74987
+        "fy+1":4439779,
+        "diff":166217
       },
       {
         "line_title":"Current Chgs & Oblig",
@@ -345,8 +383,8 @@
         "fy-2":4360393,
         "fy-1":4277781,
         "fy-0":4400493,
-        "fy+1":4325656,
-        "diff":-74837
+        "fy+1":4566860,
+        "diff":166367
       },
       {
         "line_title":"Equipment",
@@ -355,8 +393,8 @@
         "fy-2":4368262,
         "fy-1":4294055,
         "fy-0":4413182,
-        "fy+1":4334411,
-        "diff":-78771
+        "fy+1":4575615,
+        "diff":162433
       },
       {
         "line_title":"Other",
@@ -365,92 +403,28 @@
         "fy-2":4968262,
         "fy-1":11544055,
         "fy-0":12963182,
-        "fy+1":12884411,
-        "diff":-78771
+        "fy+1":13125615,
+        "diff":162433
       }
     ]
   },
-  "programs":[
-    {
-      "parent":"Neighborhood Development",
-      "program_number":1,
-      "program_name":"Neighborhood Development Administration",
-      "head":"Robert Conley",
-      "program_description":"The Administration Program enforces Department policies and procedures and provides support services to all Neighborhood Development programs to ensure the effective completion of departmental goals in compliance with City, State and Federal laws and regulations."
-    },
-    {
-      "parent":"Neighborhood Development",
-      "program_number":2,
-      "program_name":"Real Estate Management and Sales",
-      "head":"Donald Wright",
-      "program_description":"The Real Estate Management and Sales Program works to manage disposal of foreclosed land parcels and foreclosed buildings as quickly as possible, and in a manner that generates revenue for the City and provides benefits to the community."
-    },
-    {
-      "parent":"Neighborhood Development",
-      "program_number":3,
-      "program_name":"Housing Development and Services",
-      "head":"Robert Consalvo, Theresa Gallagher,Elizabeth Doyle",
-      "program_description":"DND's Housing Development and Services programs support a wide range of housing creation and support activities that strive to make Boston the most livable city in the nation. This is accomplished through the work of the Boston Home Center (BHC), Neighborhood Housing Development (NHD), and the Supportive Housing (SH) divisions. BHC is designed to help Boston residents obtain, retain, and improve their homes. NHD works with non-profit and for-profit partners to develop and preserve affordable housing. SH provides funding for housing and supportive services for Boston’s homeless and those at risk of homelessness.In 2014, Mayor Walsh announced his Boston 2030 plan which outlines a new comprehensive approach to accommodating Boston's complex housing needs over the next 15 years. Funding committed for the new plan has been renamed the “Housing 2030 Fund” which is included in the Neighborhood Development Operating Budget in “Program 3. Housing Development and Services.”."
-    },
-    {
-      "parent":"Neighborhood Development",
-      "program_number":4,
-      "program_name":"Business Services",
-      "head":"*NULL NO DATA*",
-      "program_description":"The Business Services Program will be transferred to the Economic Development Department in FY17."
-    }
-  ],
-  "selected_service_indicators":[
-    {
-      "line_title":"Operating Budget",
-      "line_type":"title",
-      "fy-2":"15Actual",
-      "fy-1":"16Actual",
-      "fy-0":"17Budget",
-      "fy+2":"18Budget"
-    },
-    {
-      "line_title":"Personnel Services",
-      "line_type":"data",
-      "fy-2":192565,
-      "fy-1":289672,
-      "fy-0":0,
-      "fy+2":0
-    },
-    {
-      "line_title":"Non Personnel",
-      "line_type":"data",
-      "fy-2":369801,
-      "fy-1":390807,
-      "fy-0":0,
-      "fy+1":0
-    },
-    {
-      "line_title":"Total",
-      "line_type":"total",
-      "fy-2":562366,
-      "fy-1":680479,
-      "fy-0":0,
-      "fy+1":0
-    }
-  ],
   "external_funds":[
     {
       "project":"Abandoned Property Rehab Grant",
       "project_mission":[
-        "Abandoned Property Rehab Grant was a three year grant from the Commonwealth of Massachusetts’ Attorney General’s Office targeted to promote the rehabilitation of distressed/abandoned properties in high-foreclosure areas of Boston that cannot be rehabilitated through other means being implemented by the City. This was a multi-year grant totaling $150,000 that started on 1/4/2010 and ended on 12/31/2014."
+        "Abandoned Property Rehab Grant was a three year grant from the Commonwealth of Massachusetts&rsquo; Attorney General&rsquo;s Office targeted to promote the rehabilitation of distressed/abandoned properties in high-foreclosure areas of Boston that cannot be rehabilitated through other means being implemented by the City. This was a multi-year grant totaling $150,000 that started on 1/4/2010 and ended on 12/31/2014."
       ]
     },
     {
       "project":"ARRA – Neighborhood Stabilization Program",
       "project_mission":[
-        "The ARRA Neighborhood Stabilization Program grant was made available to Boston and several other direct grant communities on a competitive basis from the US Department of Housing and Urban Development. The NSP initiative was created as part of the \"Housing and Economic Recovery Act of 2009\" designed to boost local economies through the provision of resources to purchase and rehab foreclosed homes. This was the second round of NSP funding in the amount of $13.6M for the purpose of expanding the City’s existing strategies of foreclosure prevention and reclamation efforts. Specifically, this funding allowed the City to support responsible redevelopment of foreclosed homes in those neighborhoods most burdened by Boston's bank-owned properties, namely Dorchester, East Boston, Roxbury, Hyde Park, and Mattapan. ARRA NSP was a three year grant totaling $13,610,343 that started on 2/11/2010 and ended 2/10/2013, however any program income received may continue to be expended."
+        "The ARRA Neighborhood Stabilization Program grant was made available to Boston and several other direct grant communities on a competitive basis from the US Department of Housing and Urban Development. The NSP initiative was created as part of the \"Housing and Economic Recovery Act of 2009\" designed to boost local economies through the provision of resources to purchase and rehab foreclosed homes. This was the second round of NSP funding in the amount of $13.6M for the purpose of expanding the City&rsquo;s existing strategies of foreclosure prevention and reclamation efforts. Specifically, this funding allowed the City to support responsible redevelopment of foreclosed homes in those neighborhoods most burdened by Boston's bank-owned properties, namely Dorchester, East Boston, Roxbury, Hyde Park, and Mattapan. ARRA NSP was a three year grant totaling $13,610,343 that started on 2/11/2010 and ended 2/10/2013, however any program income received may continue to be expended."
       ]
     },
     {
       "project":"BRA/HODAG Program Income",
       "project_mission":[
-        "The BRA/HODAG Program is program income generated from a HODAG loan the BRA made to the Douglas Housing Plaza Phase I Development. The funds totaling $4,297,327 were used to fund the City’s housing development pipeline in FY15 and FY16."
+        "The BRA/HODAG Program is program income generated from a HODAG loan the BRA made to the Douglas Housing Plaza Phase I Development. The funds totaling $4,297,327 were used to support the construction of affordable housing development projects in the City."
       ]
     },
     {
@@ -462,7 +436,7 @@
     {
       "project":"Choice Neighborhoods Implementation Grant",
       "project_mission":[
-        "The Choice Neighborhood Implementation Grant is a competitive grant from the US Department of Housing and Urban Development. The grant is being used to redevelop the Woodledge/Morrant Bay Apartments and revitalize Dorchester’s Quincy Street Corridor. The grant also aims to link affordable housing with quality schools, public transportation, good jobs, and safe streets thus totally transforming the neighborhood. The grant totaling $20,500,000 started on 1/12/2012 and ends on 9/30/2017."
+        "The Choice Neighborhood Implementation Grant is a competitive grant from the US Department of Housing and Urban Development. The grant is being used to redevelop the Woodledge/Morrant Bay Apartments and revitalize Dorchester&rsquo;s Quincy Street Corridor. The grant also aims to link affordable housing with quality schools, public transportation, good jobs, and safe streets thus totally transforming the neighborhood. The grant totaling $20,500,000 started on 1/12/2012 and ends on 9/30/2017."
       ]
     },
     {
@@ -474,19 +448,19 @@
     {
       "project":"Community Development Block Grant",
       "project_mission":[
-        "The Community Development Block Grant (CDBG) is an annual entitlement grant from the U.S. Department of Housing and Urban Development to the City of Boston designed to fund a variety of neighborhood development activities. At least 70 percent of CDBG funds must be used to benefit low- and moderate-income households. CDBG funds are used to produce and preserve affordable housing, revitalize neighborhood commercial districts, assist the renovation of non-profit facilities, improve vacant lots, promote and monitor fair housing activities, and assist non-profit organizations in the operation of emergency shelters, health care, child care, youth and adult literacy programs. CDBG funds cannot be used for general government services or to replace funding cuts from existing public service activities. The CDBG awards for FY14, FY15 and FY16 were $16,834,371, $16,390,443, and $16,101,121respectively. The FY17 award is $15,958,081."
+        "The Community Development Block Grant (CDBG) is an annual entitlement grant from the U.S. Department of Housing and Urban Development to the City of Boston designed to fund a variety of neighborhood development activities. At least 70 percent of CDBG funds must be used to benefit low- and moderate-income households. CDBG funds are used to produce and preserve affordable housing, revitalize neighborhood commercial districts, assist the renovation of non-profit facilities, improve vacant lots, promote and monitor fair housing activities, and assist non-profit organizations in the operation of emergency shelters, health care, child care, youth and adult literacy programs. CDBG funds cannot be used for general government services or to replace funding cuts from existing public service activities. The CDBG awards for FY14, FY15 and FY16 were $16,834,371, $16,390,443, and $16,101,121 respectively. The FY17 and FY18 awards are $15,958,081 each."
       ]
     },
     {
       "project":"Continuum of Care",
       "project_mission":[
-        "The Continuum of Care (CoC) program combines the previously standalone Supportive Housing and Shelter Plus Care programs into one annual competitive grant program from the US Department of Housing and Urban Development (HUD). The purpose of the program is to assist individuals and families experiencing homelessness and to provide the services needed to help such individuals move into transitional and permanent housing, with the goal of long term stability. Specifically, the program helps develop housing and related supportive services for people moving from homelessness to independent living. The program provides rental assistance that, when combined with social services, provides supportive housing for homeless people with disabilities and their families. The CoC award for FY14, FY15, and FY16 were $24,278,700, $23,543,999, and $24,163,154 respectively. The FY17 Tier I award is $21,454,135. The FY17 Tier II is $1,210,052."
+        "The Continuum of Care (CoC) program combines the previously standalone Supportive Housing and Shelter Plus Care programs into one annual competitive grant program from the US Department of Housing and Urban Development (HUD). The purpose of the program is to assist individuals and families experiencing homelessness and to provide the services needed to help such individuals move into transitional and permanent housing, with the goal of long term stability. Specifically, the program helps develop housing and related supportive services for people moving from homelessness to independent living. The program provides rental assistance that, when combined with social services, provides supportive housing for homeless people with disabilities and their families. The CoC award for FY14, FY15, and FY16 were $24,278,700, $23,543,999, and $24,163,154 respectively. The FY17 Tier I award is $21,454,135. The FY17 Tier II is $1,210,052. The FY18 award is $24,243,260."
       ]
     },
     {
       "project":"Emergency Solutions Grant",
       "project_mission":[
-        "Formerly the Emergency Shelter Grant, the Emergency Solutions Grant (ESG) is an annual entitlement grant to the City of Boston from the U.S. Department of Housing and Urban Development. It is used to assist individuals and families to quickly regain stability in permanent housing after experiencing a crisis or homelessness. The ESG awards for FY14, FY15, and FY16 were $1,161,878, $1,367,603, and $1,460,989 respectively. The FY17 award is $1,449,423."
+        "Formerly the Emergency Shelter Grant, the Emergency Solutions Grant (ESG) is an annual entitlement grant to the City of Boston from the U.S. Department of Housing and Urban Development. It is used to assist individuals and families to quickly regain stability in permanent housing after experiencing a crisis or homelessness. The ESG awards for FY14, FY15, and FY16 were $1,161,878, $1,367,603, and $1,460,989 respectively. The FY17 award is $1,449,423 and the FY18 award is estimated to be the same."
       ]
     },
     {
@@ -498,37 +472,31 @@
     {
       "project":"Home Investment Partnership (HOME)",
       "project_mission":[
-        "The HOME Partnership Program is an annual entitlement grant from the U.S. Department of Housing and Urban Development (HUD) to the City of Boston to support the development of affordable housing. Eligible activities include new construction or rehabilitation of housing, tenant-based rental assistance for up to two years, and assistance to first-time homebuyers. All HOME funds must be used to benefit low and moderate income households. Fifteen percent of HOME funds are set aside for Community Housing Development Organizations. HOME grants are four years in duration. The Home awards in FY14, FY15, and FY16 were; $4,418,285, $4,524,340, $$3,998,161 respectively. The FY17 award is $4,143,556."
+        "The HOME Partnership Program is an annual entitlement grant from the U.S. Department of Housing and Urban Development (HUD) to the City of Boston to support the development of affordable housing. Eligible activities include new construction or rehabilitation of housing, tenant-based rental assistance for up to two years, and assistance to first-time homebuyers. All HOME funds must be used to benefit low and moderate income households. Fifteen percent of HOME funds are set aside for Community Housing Development Organizations. HOME grants are four years in duration. The Home awards in FY14, FY15, and FY16 were; $4,418,285, $4,524,340, $$3,998,161 respectively. The FY17 and FY18 awards are both $4,143,556."
       ]
     },
     {
       "project":"HomeCorp",
       "project_mission":[
-        "Homecorp were grants from the Commonwealth of Massachusetts Attorney General’s Office. The purpose of the funding was to help the City mitigate the impact of the foreclosure crisis, revitalize distressed neighborhoods that suffered the impact of foreclosure clusters, and to promote homeownership and affordable housing. The HomeCorp awards began on 9/21/2012 and ended 12/31/2014."
+        "Homecorp were grants from the Commonwealth of Massachusetts Attorney General&rsquo;s Office. The purpose of the funding was to help the City mitigate the impact of the foreclosure crisis, revitalize distressed neighborhoods that suffered the impact of foreclosure clusters, and to promote homeownership and affordable housing. The HomeCorp awards began on 9/21/2012 and ended 12/31/2014."
       ]
     },
     {
       "project":"HOPWA",
       "project_mission":[
-        "The Housing Opportunities for People with AIDS (HOPWA) Program is a three year grant awarded annually from the U.S. Department of Housing and Urban Development to the City of Boston. The program is designed to provide affordable, appropriate housing for people with AIDS (PWAs) in the metropolitan Boston area. Eligible activities include housing, counseling, housing development, rental assistance, technical assistance, homelessness prevention, operating costs including support services, and housing-related costs. DND will be directing these funds to three primary activities: metropolitan-area housing counseling to help PWAs find/retain affordable housing, technical assistance to developers of housing for PWAs, and emergency assistance payments to help PWAs retain their existing housing. The HOPWA awards in FY14, FY15, and FY16 were; $2,087,647, $2,245,485, and $2,715,215 respectively. The FY17 award is $2,005,609."
+        "The Housing Opportunities for People with AIDS (HOPWA) Program is a three year grant awarded annually from the U.S. Department of Housing and Urban Development to the City of Boston. The program is designed to provide affordable, appropriate housing for people with AIDS (PWAs) in the metropolitan Boston area. Eligible activities include housing, counseling, housing development, rental assistance, technical assistance, homelessness prevention, operating costs including support services, and housing-related costs. DND will be directing these funds to three primary activities: metropolitan-area housing counseling to help PWAs find/retain affordable housing, technical assistance to developers of housing for PWAs, and emergency assistance payments to help PWAs retain their existing housing. The HOPWA awards in FY14, FY15, and FY16 were; $2,087,647, $2,245,485, and $2,715,215 respectively. The FY17 award is $2,005,609 and the FY18 award is estimated to be the same."
       ]
     },
     {
       "project":"Inclusionary Development Fund",
       "project_mission":[
-        "The Inclusionary Development (IDP) fund is managed jointly by the Boston Redevelopment Authority and the Department of Neighborhood Development. The fund is capitalized through fees paid by private developers in lieu of building onsite inclusionary affordable housing. In FY17, IDP will be used to fund the department’s affordable housing production pipeline."
+        "The Inclusionary Development (IDP) fund is managed jointly by the Boston Redevelopment Authority and the Department of Neighborhood Development. The fund is capitalized through fees paid by private developers in lieu of building onsite inclusionary affordable housing. In FY17 and FY18, IDP will be used to fund the department&rsquo;s affordable housing production pipeline."
       ]
     },
     {
       "project":"Lead Paint Abatement",
       "project_mission":[
-        "The Lead Paint Abatement grant is a competitive 36-month grant from the U.S. Department of Housing and Urban Development’s Office of Healthy Homes and Lead Hazard Control to the City of Boston. The purpose of the grant is to reduce the exposure of young children to lead-based paint hazards in their homes through intensive services consisting of counseling, outreach and abatement in the high-risk target areas of Dorchester, Roxbury and Mattapan and to provide financing services citywide. Activities include abatement, inspections, risk assessments, and temporary relocations. The grant awarded in FY14 totaling $2,500,000 started on 8/1/2013 and ends 10/31/2016. The grant awarded in FY16 totaling $3,231,610 started on 11/2/15 and ends on 11/1/18."
-      ]
-    },
-    {
-      "project":"MassWorks",
-      "project_mission":[
-        "This funding, received through the Commonwealth of Massachusetts Executive Office of Housing and Economic Development’s MassWorks program, was used in collaboration with Dorchester Bay Economic Development Corporation to rehabilitate a long-vacant 36,000 square foot former meat processing facility into a food production business center. The project will maximize business and job opportunities for residents of Dorchester, Roxbury and Mattapan. The total award was $1,500,000."
+        "The Lead Paint Abatement grant is a competitive 36-month grant from the U.S. Department of Housing and Urban Development&rsquo;s Office of Healthy Homes and Lead Hazard Control to the City of Boston. The purpose of the grant is to reduce the exposure of young children to lead-based paint hazards in their homes through intensive services consisting of counseling, outreach and abatement in the high-risk target areas of Dorchester, Roxbury and Mattapan and to provide financing services citywide. Activities include abatement, inspections, risk assessments, and temporary relocations. The grant awarded in FY14 totaling $2,500,000 started on 8/1/2013 and ends 10/31/2016. The grant awarded in FY16 totaling $3,231,610 started on 11/2/15 and ends on 11/1/18."
       ]
     },
     {
@@ -538,15 +506,15 @@
       ]
     },
     {
-      "project":"Neighborhood Stabilization Program (Federal Funds)",
+      "project":"Neighborhood Stabilization Program (State Funds)",
       "project_mission":[
-        "Neighborhood Stabilization Program (NSP) was a non-competitive grant awarded to eligible cities from the US Department of Housing and Urban Development. Funds were used to establish financial mechanisms for purchase and redevelopment of foreclosed homes and residential properties. Such mechanisms included soft-seconds, loan loss reserves, and shared-equity loans for low and moderate income homebuyers; purchase and rehabilitation of homes and residential properties that were abandoned or foreclosed upon in order to sell, rent, or redevelop such homes as properties; establish land banks for homes that were foreclosed upon; demolish blighted structures; and redevelop demolished or vacant properties. NSP funds were to be committed within 18 months of the grant start date and all funds had to be spent within three years. The grant totaled $4,230,191."
+        "Neighborhood Stabilization Program grants were made available to Boston and several other direct grant communities on a non-competitive basis from the Massachusetts Department of Housing and Community Development. The Commonwealth of Massachusetts agreed to match Boston&rsquo;s HUD NSP funds $1-$1 and NSP admin funds $0.50-$1. Funds were used to establish financial mechanisms for purchase and redevelopment of foreclosed homes and residential properties. Such mechanisms included soft-seconds, loan loss reserves, and shared-equity loans for low and moderate income homebuyers; purchase and rehabilitation of homes and residential properties that were abandoned or foreclosed upon in order to sell, rent, or redevelop such homes as properties; establish land banks for homes that were foreclosed upon; demolish blighted structures; and redevelop demolished or vacant properties. The first NSP State grant totaled $4,020,500. A second NSP State grant totaled $999,999."
       ]
     },
     {
-      "project":"Neighborhood Stabilization Program (State Funds)",
+      "project":"OBD/EDI",
       "project_mission":[
-        "Neighborhood Stabilization Program grants were made available to Boston and several other direct grant communities on a non-competitive basis from the Massachusetts Department of Housing and Community Development. The Commonwealth of Massachusetts agreed to match Boston’s HUD NSP funds $1-$1 and NSP admin funds $0.50-$1. Funds were used to establish financial mechanisms for purchase and redevelopment of foreclosed homes and residential properties. Such mechanisms included soft-seconds, loan loss reserves, and shared-equity loans for low and moderate income homebuyers; purchase and rehabilitation of homes and residential properties that were abandoned or foreclosed upon in order to sell, rent, or redevelop such homes as properties; establish land banks for homes that were foreclosed upon; demolish blighted structures; and redevelop demolished or vacant properties. The first NSP State grant totaled $4,020,500. A second NSP State grant totaled $999,999."
+        "The Economic Development Initiative (EDI) Program is a special HUD program that makes available grants to cities to spur economic opportunity by creating jobs, attracting private partnerships, and training residents for new job opportunities; to promote community development through a long-term economic development strategy; to establish community-based partnerships; and to develop a plan for responding to community needs by integrating economic, physical, human, and other strategies. EDI must be used in conjunction with loans guaranteed under the Section 108 Program to enhance the feasibility of economic development and revitalization projects financed with Section 108 Loan Guarantee funds."
       ]
     },
     {
@@ -556,15 +524,9 @@
       ]
     },
     {
-      "project":"Regional Network Innovations to End Homelessness",
-      "project_mission":[
-        "The Regional Network Innovations to End Homelessness grants were made available to the Boston Regional Network from the Massachusetts Interagency Council on Housing and Homelessness through the Department of Housing and Community Development on a competitive basis. Grant funds were used for implementing innovative strategies that inform new and emerging statewide housing approaches to ending homelessness. The grant totaled $1,746,898."
-      ]
-    },
-    {
       "project":"Section 108 Loan Guarantee Programs/Section 108 Unrestricted",
       "project_mission":[
-        "Section 108 funds are available to eligible cities from the U.S. Department of Housing and Urban Development (HUD) on an application basis. Section 108 funds are secured by the City through a pledge of its current and future CDBG grant awards. These funds are used for economic development projects. The Boston Invests in Growth Loan Fund is a $40 million HUD Section 108 funded loan pool designed to jumpstart well-financed construction projects, create jobs, and strengthen Boston’s economy. This program is designed for large commercial projects in Boston that have both permanent financing and equity in place. Boston Invests will finance the gap that remains between the financing and equity and the total project cost, known as mezzanine financing. In addition, up to 10% of the loan pool will be set aside for smaller neighborhood based projects of at least 5,000 square feet, the underwriting criteria for which will be the same as for the larger loans but the interest rate charged as well as the additional interest paid at the end will be lower. Additionally, $2.5 million HUD Section 108 funded loan pool will be used for energy efficiency and to promote job creation. The Section 108 Spread Unrestricted Fund is income earned as a result of the interest spread between Section 108 loan repayments owed to DND by its borrowers and Section 108 repayments DND owes to HUD."
+        "Section 108 funds are available to eligible cities from the U.S. Department of Housing and Urban Development (HUD) on an application basis. Section 108 funds are secured by the City through a pledge of its current and future CDBG grant awards. These funds are used for economic development projects. The Boston Invests in Growth Loan Fund is a $40 million HUD Section 108 funded loan pool designed to jumpstart well-financed construction projects, create jobs, and strengthen Boston&rsquo;s economy. This program is designed for large commercial projects in Boston that have both permanent financing and equity in place. Boston Invests will finance the gap that remains between the financing and equity and the total project cost, known as mezzanine financing. In addition, up to 10% of the loan pool will be set aside for smaller neighborhood based projects of at least 5,000 square feet, the underwriting criteria for which will be the same as for the larger loans but the interest rate charged as well as the additional interest paid at the end will be lower. Additionally, $2.5 million HUD Section 108 funded loan pool will be used for energy efficiency and to promote job creation. The Section 108 Spread Unrestricted Fund is income earned as a result of the interest spread between Section 108 loan repayments owed to DND by its borrowers and Section 108 repayments DND owes to HUD."
       ]
     },
     {
@@ -572,12 +534,10 @@
       "project_mission":[
         "The Triple-Decker Initiative was supported by funds from the Boston Redevelopment Authority. The program funds Neighborhood Development's 3D HELP program which supports the renovation and energy retrofitting of owner-occupied triple-deckers. The Triple Decker awards from the BRA totaled $900,000 between FY13 and FY15."
       ]
-    },
-    {
-      "project":"Urban Agenda Grant",
-      "project_mission":[
-        "The Urban Agenda Housing Program, a state grant, seeks to increase the supply of multi-family housing across the Commonwealth of Massachusetts for a range of incomes. Funds will be used to advance the redevelopment of the Indigo Block, an under-utilized city-owned parcel in Uphams Corner. The grant supports the schematic design and development of design documents central to the development process and the Phase I Environmental Review."
-      ]
     }
+  ],
+  "fy_major_initiatives":[
+    "Work at the Strand Theatre will continue, with access improvements throughout the building."
   ]
 }
+---

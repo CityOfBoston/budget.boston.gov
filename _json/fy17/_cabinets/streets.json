@@ -1,9 +1,13 @@
+---
 {
-  "parent_id":"9bf31c7ff062936a96d3c8bd1f8f2ff3",
+  "file_version":"0.10",
+  "parent_id":"NEED TO GET THIS",
+  "section_id":46,
+  "section_md5_id":"D9D4F495E875A2E075A1A4A6E1B9770F",
   "section_type":"department",
   "section_type_short":"D",
-  "section_id":46,
-  "section_md5_id":"d9d4f495e875a2e075a1a4a6e1b9770f",
+  "source_version":"Recommended",
+  "source_year":"18",
   "Program Name":"Division",
   "fy-2":"FY15 Actual",
   "fy-1":"FY16 Actual",
@@ -28,7 +32,7 @@
           "fy-2":"7751878",
           "fy-1":"7916535",
           "fy-0":"8342323",
-          "fy+1":"8508528"
+          "fy+1":"8473171"
         },
         {
           "line_title":"Traffic Division",
@@ -36,7 +40,7 @@
           "fy-2":"23505166",
           "fy-1":"24875498",
           "fy-0":"24832202",
-          "fy+1":"24849006"
+          "fy+1":"25631788"
         },
         {
           "line_title":"Total",
@@ -44,7 +48,7 @@
           "fy-2":"31257044",
           "fy-1":"32792033",
           "fy-0":"33174525",
-          "fy+1":"33357534"
+          "fy+1":"34104959"
         }
       ]
     }
@@ -67,7 +71,7 @@
         "fy-2":"609653",
         "fy-1":"862846",
         "fy-0":"1575084",
-        "fy+2":"0"
+        "fy+2":"1575084"
       },
       {
         "line_title":"Boston Mobility Action Plan",
@@ -83,7 +87,7 @@
         "fy-2":"737542",
         "fy-1":"365290",
         "fy-0":"263500",
-        "fy+2":"0"
+        "fy+2":"263500"
       },
       {
         "line_title":"Partnerships/Community Health",
@@ -107,7 +111,7 @@
         "fy-2":"1776723",
         "fy-1":"1691386",
         "fy-0":"2071925",
-        "fy+2":"311576"
+        "fy+2":"2150160"
       }
     ]
   },
@@ -121,57 +125,12 @@
   "description_of_services":[
     "The Transportation Department regulates traffic and parking for 802 miles of roadway and 3,708 public streets. In order to ensure an efficient yet safe flow of traffic and to balance competing demands for parking resources, the Department enforces 42 parking regulations, maintains and collects from the City's 7,100 parking meters, and annually replaces or repairs several thousand of the City's 300,000 street and traffic signs. The Department also continually responds to the changing transportation needs of the City and its neighborhoods by re-evaluating traffic patterns, increasing parking enforcement in response to neighborhood requests, incorporating the City's interests into state and federal roadway developments, and working to promote alternative modes of transportation for commuters."
   ],
-  "programs":[
-    {
-      "parent":"Transportation Department",
-      "program_number":1,
-      "program_name":"Traffic Commissioners Office",
-      "head":"Gina Fiandaca",
-      "program_description":"The Commissioner's Office is responsible for establishing and managing a wide variety of programs to enhance transportation throughout Boston. The office advocates for alternative financing for the administration of transportation programs including federal and state grants as well as public/private partnerships."
-    },
-    {
-      "parent":"Transportation Department",
-      "program_number":2,
-      "program_name":"Traffic Management and Engineering",
-      "head":"John DeBenedictis",
-      "program_description":"The Traffic Management and Engineering Program manages Boston’s transportation network to provide safe, efficient travel throughout the City. This is accomplished through maintenance of traffic signal timings using the City’s computerized traffic signal system; design and review of new/upgraded traffic signal installations; review of proposed roadway and transit projects, review and approval of private development plans; licensing of on-street construction; permitting of special events; review and modification of existing parking rules and regulations; and working with neighborhood groups to improve traffic and pedestrian safety on residential streets."
-    },
-    {
-      "parent":"Transportation Department",
-      "program_number":3,
-      "program_name":"Policy and Planning",
-      "head":"Vineet Gupta",
-      "program_description":"The Policy and Planning Division provides planning services leading to more effective engineering, construction and management of the city’s transportation networks and initiates new projects to support the department’s mission. Through extensive community process and coordination with city and state agencies, the division encourages the use of alternative modes, enhances pedestrian safety, addresses neighborhood traffic and parking concerns, reviews new development projects and proposes long-term strategies. The division also includes bicycle programs."
-    },
-    {
-      "parent":"Transportation Department",
-      "program_number":4,
-      "program_name":"Traffic Enforcement",
-      "head":"Gregory Rooney",
-      "program_description":"The Enforcement Program enhances public safety, improves traffic flow, and promotes parking opportunities and curbside access by encouraging compliance with the City's rules and regulations through issuance of citations and towing of illegally parked vehicles."
-    },
-    {
-      "parent":"Transportation Department",
-      "program_number":5,
-      "program_name":"Traffic Operations",
-      "head":"Nancy Cincotti",
-      "program_description":"The Payment Services Program processes all funds received by the City from taxpayers and City departments. It mails all current tax notices, resolves questions from taxpayers and financial institutions, provides duplicate tax bills, and processes all refunds and abatements."
-    },
-    {
-      "parent":"Transportation Department",
-      "program_number":6,
-      "program_name":"Traffic Operations",
-      "head":"Stephen Passacantilli",
-      "program_description":"The Operations Program promotes public safety through the maintenance of and regulatory signage and traffic signals on City roadways, and coordination of special events effecting traffic and parking in the City. Operations also supports economic development in the City by encouraging efficient use of short-term on-street parking through the maintenance of parking meters."
-    },
-    {
-      "parent":"Transportation Department",
-      "program_number":1,
-      "program_name":"Parking Clerk",
-      "head":"Stephen McGuire",
-      "program_description":"The Office of the Parking Clerk is responsible for the oversight and management of the City's comprehensive Parking Violation and Parking Management Information Services System, the administration of the issuance program for Resident Parking Permits, and adjudication related to the issuance of parking citations and the abandoned vehicle program."
-    }
-  ],
+  "selected_performance_strategies":{
+    "program":"Traffic Enforcement",
+    "strategies":[
+      "Design, construct, and maintain streetscapes that prioritize moving people safely."
+    ]
+  },
   "name":"Parking Clerk",
   "cabinet":"Streets",
   "department":"Parking Clerk",
@@ -180,13 +139,6 @@
   "appropriation_code":"Appropriation253",
   "parent":"Streets",
   "mission":"The Office of the Parking Clerk's primary mission is to respond effectively to public inquiries about parking tickets, resolve any disagreements through an adjudication process, and to deter illegal parking by successfully collecting parking violation fines. The Office is also responsible for adjudicating and collecting fines on abandoned vehicles and for administering resident parking permits.",
-  "selected_performance_strategies":{
-    "program":"Parking Clerk",
-    "strategies":[
-      "To operate an effective fine collection program.",
-      "To respond to customer inquiries in the most efficient and effective manner."
-    ]
-  },
   "operating_budget":{
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
@@ -205,7 +157,7 @@
         "fy-2":"7751878",
         "fy-1":"7916535",
         "fy-0":"8342323",
-        "fy+2":"8508528"
+        "fy+2":"8473171"
       },
       {
         "line_title":"Total",
@@ -213,10 +165,44 @@
         "fy-2":"7751878",
         "fy-1":"7916535",
         "fy-0":"8342323",
-        "fy+2":"8508528"
+        "fy+2":"8473171"
       }
     ]
   },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":2819918,
+      "fy-1":2737077,
+      "fy-0":2787023,
+      "fy+2":2787527
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":4931960,
+      "fy-1":5179458,
+      "fy-0":5555300,
+      "fy+1":5685644
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":7751878,
+      "fy-1":7916535,
+      "fy-0":8342323,
+      "fy+1":8473171
+    }
+  ],
   "department_history_by_account":{
     "table_title":"Department Budget By Account",
     "table_header":{
@@ -237,8 +223,8 @@
         "fy-2":2819918,
         "fy-1":2737077,
         "fy-0":2787023,
-        "fy+1":2822884,
-        "diff":35861
+        "fy+1":2787527,
+        "diff":504
       },
       {
         "line_title":"Contractual Services",
@@ -247,8 +233,8 @@
         "fy-2":7520949,
         "fy-1":7576076,
         "fy-0":8099823,
-        "fy+1":8236028,
-        "diff":136205
+        "fy+1":8200671,
+        "diff":100848
       },
       {
         "line_title":"Supplies & Materials",
@@ -257,8 +243,8 @@
         "fy-2":7748094,
         "fy-1":7905066,
         "fy-0":8332823,
-        "fy+1":8499028,
-        "diff":166205
+        "fy+1":8463671,
+        "diff":130848
       },
       {
         "line_title":"Current Chgs & Oblig",
@@ -267,8 +253,8 @@
         "fy-2":7750308,
         "fy-1":7911711,
         "fy-0":8336323,
-        "fy+1":8502528,
-        "diff":166205
+        "fy+1":8467171,
+        "diff":130848
       },
       {
         "line_title":"Equipment",
@@ -277,8 +263,8 @@
         "fy-2":7751878,
         "fy-1":7916535,
         "fy-0":8342323,
-        "fy+1":8508528,
-        "diff":166205
+        "fy+1":8473171,
+        "diff":130848
       },
       {
         "line_title":"Other",
@@ -287,50 +273,16 @@
         "fy-2":7751878,
         "fy-1":7916535,
         "fy-0":8342323,
-        "fy+1":8508528,
-        "diff":166205
+        "fy+1":8473171,
+        "diff":130848
       }
     ]
   },
-  "selected_service_indicators":[
-    {
-      "line_title":"Operating Budget",
-      "line_type":"title",
-      "fy-2":"15Actual",
-      "fy-1":"16Actual",
-      "fy-0":"17Budget",
-      "fy+2":"18Budget"
-    },
-    {
-      "line_title":"Personnel Services",
-      "line_type":"data",
-      "fy-2":2819918,
-      "fy-1":2737077,
-      "fy-0":2787023,
-      "fy+2":2822884
-    },
-    {
-      "line_title":"Non Personnel",
-      "line_type":"data",
-      "fy-2":4931960,
-      "fy-1":5179458,
-      "fy-0":5555300,
-      "fy+1":5685644
-    },
-    {
-      "line_title":"Total",
-      "line_type":"total",
-      "fy-2":7751878,
-      "fy-1":7916535,
-      "fy-0":8342323,
-      "fy+1":8508528
-    }
-  ],
   "external_funds":[
     {
       "project":"Boston Bike Share",
       "project_mission":[
-        "Various funding sources will support the Boston Bike Share program, including grants from the Federal Transit Authority, sponsorship donations, funds from the Boston Public Health Commission’s ARRA grant, the BARR Foundation and other state funding sources. The program began in FY12 and has 1,092 bicycles at publically accessible stations for member use."
+        "Various funding sources will support the Boston Bike Share program, including grants from the Federal Transit Authority, sponsorship donations, funds from the Boston Public Health Commission&rsquo;s ARRA grant, the BARR Foundation and other state funding sources. The program began in FY12 and has 1,092 bicycles at publically accessible stations for member use."
       ]
     },
     {
@@ -363,5 +315,15 @@
         "The Traffic Management Center grant will provide new financial resources to expand operational coverage in order to fully utilize existing technology and help monitor and improve the flow of traffic through the City. Funding has been provided thru FY18 by the Federal Highway Administration and Massachusetts Executive Office of Transportation and Construction."
       ]
     }
+  ],
+  "fy_major_initiatives":[
+    "Vision Zero will continue to deliver safety on Boston&rsquo;s streets. Programs include Priority Corridors and Safe Crossings.",
+    "Implement Neighborhood Slow Streets projects in Stonybrook (Jamaica Plain) and the Talbot Norfolk Triangle (Dorchester).",
+    "The reconstruction of Central Square in East Boston will be completed. This project will improve multimodal transportation flows as well as storm water runoff.",
+    "Design of the reconstruction of Melnea Cass Boulevard will continue.",
+    "\tNew traffic safety improvements are scheduled at Father Hart Bridge and Wolcott Square in Hyde Park.",
+    "Installation of new traffic signals at American Legion at Plaza Driveway, Newbury Street at Fairfield, Geneva Ave. at Olney, and Blue Hill Ave. at Castlegate Rd.",
+    "A multi-year effort begins that will renew all painted crosswalks, lane markings, and bike lanes."
   ]
 }
+---

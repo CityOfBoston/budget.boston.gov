@@ -1,9 +1,13 @@
+---
 {
-  "parent_id":"1f0e3dad99908345f7439f8ffabdffc4",
+  "file_version":"0.10",
+  "parent_id":"NEED TO GET THIS",
+  "section_id":111,
+  "section_md5_id":"698D51A19D8A121CE581499D7B701668",
   "section_type":"department",
   "section_type_short":"D",
-  "section_id":111,
-  "section_md5_id":"698d51a19d8a121ce581499d7b701668",
+  "source_version":"Recommended",
+  "source_year":"18",
   "name":"Public Facilities Department",
   "parent":"Operations",
   "cabinet":"Operations",
@@ -15,7 +19,9 @@
   "selected_performance_strategies":{
     "program":"PFD Capital Construction",
     "strategies":[
-      "To design durable, architecturally appropriate capital projects and to complete them on time and within budget."
+      "Accelerate front end administration of projects, thereby helping projects stay on schedule.",
+      "Accurately estimate construction costs and yearly escalation.",
+      "Keep change order costs under control, keeping projects on budget."
     ]
   },
   "operating_budget":{
@@ -36,7 +42,7 @@
         "fy-2":"0",
         "fy-1":"0",
         "fy-0":"5625883",
-        "fy+2":"5549282"
+        "fy+2":"5724455"
       },
       {
         "line_title":"Total",
@@ -44,10 +50,44 @@
         "fy-2":"0",
         "fy-1":"0",
         "fy-0":"5625883",
-        "fy+2":"5549282"
+        "fy+2":"5724455"
       }
     ]
   },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":5400485,
+      "fy+2":5407707
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":225398,
+      "fy+1":316748
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":5625883,
+      "fy+1":5724455
+    }
+  ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
   "authorizing_statutes":[
     "Enabling Legislation, 1966. Mass Acts Ch 642."
@@ -75,8 +115,8 @@
         "fy-2":0,
         "fy-1":0,
         "fy-0":5400485,
-        "fy+1":5307534,
-        "diff":-92951
+        "fy+1":5407707,
+        "diff":7222
       },
       {
         "line_title":"Contractual Services",
@@ -85,8 +125,8 @@
         "fy-2":0,
         "fy-1":0,
         "fy-0":5566997,
-        "fy+1":5484319,
-        "diff":-82678
+        "fy+1":5659492,
+        "diff":92495
       },
       {
         "line_title":"Supplies & Materials",
@@ -95,8 +135,8 @@
         "fy-2":0,
         "fy-1":0,
         "fy-0":5597702,
-        "fy+1":5525044,
-        "diff":-72658
+        "fy+1":5700217,
+        "diff":102515
       },
       {
         "line_title":"Current Chgs & Oblig",
@@ -105,8 +145,8 @@
         "fy-2":0,
         "fy-1":0,
         "fy-0":5609622,
-        "fy+1":5542044,
-        "diff":-67578
+        "fy+1":5717217,
+        "diff":107595
       },
       {
         "line_title":"Equipment",
@@ -115,8 +155,8 @@
         "fy-2":0,
         "fy-1":0,
         "fy-0":5625883,
-        "fy+1":5549282,
-        "diff":-76601
+        "fy+1":5724455,
+        "diff":98572
       },
       {
         "line_title":"Other",
@@ -125,52 +165,10 @@
         "fy-2":0,
         "fy-1":0,
         "fy-0":5625883,
-        "fy+1":5549282,
-        "diff":-76601
+        "fy+1":5724455,
+        "diff":98572
       }
     ]
-  },
-  "programs":[
-    {
-      "parent":"Public Facilities Department",
-      "program_number":1,
-      "program_name":"PFD Capital Construction",
-      "head":"Patricia M. Lyons",
-      "program_description":"The Capital Construction program is responsible for the renovation, repair and new construction of City-owned facilities. The program provides professional planning, design and construction management services for capital funded projects at 370 City facilities."
-    }
-  ],
-  "selected_service_indicators":[
-    {
-      "line_title":"Operating Budget",
-      "line_type":"title",
-      "fy-2":"15Actual",
-      "fy-1":"16Actual",
-      "fy-0":"17Budget",
-      "fy+2":"18Budget"
-    },
-    {
-      "line_title":"Personnel Services",
-      "line_type":"data",
-      "fy-2":0,
-      "fy-1":0,
-      "fy-0":5400485,
-      "fy+2":5307534
-    },
-    {
-      "line_title":"Non Personnel",
-      "line_type":"data",
-      "fy-2":0,
-      "fy-1":0,
-      "fy-0":225398,
-      "fy+1":241748
-    },
-    {
-      "line_title":"Total",
-      "line_type":"total",
-      "fy-2":0,
-      "fy-1":0,
-      "fy-0":5625883,
-      "fy+1":5549282
-    }
-  ]
+  }
 }
+---

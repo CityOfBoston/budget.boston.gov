@@ -1,9 +1,13 @@
+---
 {
-  "parent_id":"1679091c5a880faf6fb5e6087eb1b2dc",
+  "file_version":"0.10",
+  "parent_id":"NEED TO GET THIS",
+  "section_id":29,
+  "section_md5_id":"6EA9AB1BAA0EFB9E19094440C317E21B",
   "section_type":"department",
   "section_type_short":"D",
-  "section_id":29,
-  "section_md5_id":"6ea9ab1baa0efb9e19094440c317e21b",
+  "source_version":"Recommended",
+  "source_year":"18",
   "name":"Police Department",
   "parent":"Public Safety",
   "cabinet":"Public Safety",
@@ -15,9 +19,7 @@
   "selected_performance_strategies":{
     "program":"Bureau of Investigative Services",
     "strategies":[
-      "To maximize the number of incidents cleared.",
-      "To provide investigative expertise, support, and technical assistance in responding to and conducting investigations that contribute to the identification, apprehension, and prosecution of criminal offenders.",
-      "To reduce firearm violence."
+      "Timely and efficient response to crime and calls for service."
     ]
   },
   "operating_budget":{
@@ -37,8 +39,8 @@
         "line_type":"data",
         "fy-2":"8444527",
         "fy-1":"8621069",
-        "fy-0":"7175158",
-        "fy+2":"7331083"
+        "fy-0":"7214089",
+        "fy+2":"7914616"
       },
       {
         "line_title":"BAT-Operations",
@@ -46,63 +48,63 @@
         "fy-2":"19645566",
         "fy-1":"19483314",
         "fy-0":"22061791",
-        "fy+2":"20834913"
+        "fy+2":"20818913"
       },
       {
         "line_title":"BAT-Admin & Technology",
         "line_type":"data",
         "fy-2":"45857879",
         "fy-1":"45643618",
-        "fy-0":"48751967",
-        "fy+2":"50211555"
+        "fy-0":"49277277",
+        "fy+2":"51683475"
       },
       {
         "line_title":"Bureau of Professional Development",
         "line_type":"data",
         "fy-2":"7954912",
         "fy-1":"8056091",
-        "fy-0":"6957056",
-        "fy+2":"6899840"
+        "fy-0":"7232606",
+        "fy+2":"7391955"
       },
       {
         "line_title":"Bureau of Field Services",
         "line_type":"data",
         "fy-2":"183019618",
         "fy-1":"185672652",
-        "fy-0":"201666369",
-        "fy+2":"204202458"
+        "fy-0":"208099334",
+        "fy+2":"215600302"
       },
       {
         "line_title":"Bureau of Professional Standards",
         "line_type":"data",
         "fy-2":"8001451",
         "fy-1":"8465414",
-        "fy-0":"7374317",
-        "fy+2":"7353367"
+        "fy-0":"7504188",
+        "fy+2":"7586349"
       },
       {
         "line_title":"Bureau of Investigative Services",
         "line_type":"data",
         "fy-2":"61083835",
         "fy-1":"69615348",
-        "fy-0":"59250833",
-        "fy+2":"58993201"
+        "fy-0":"59577578",
+        "fy+2":"59425903"
       },
       {
         "line_title":"Bureau of Intelligence & Analysis",
         "line_type":"data",
         "fy-2":"3303107",
         "fy-1":"3330338",
-        "fy-0":"3103702",
-        "fy+2":"2938086"
+        "fy-0":"3120630",
+        "fy+2":"2958678"
       },
       {
         "line_title":"Total",
         "line_type":"total",
         "fy-2":"337310895",
         "fy-1":"348887844",
-        "fy-0":"356341193",
-        "fy+2":"358764503"
+        "fy-0":"364087493",
+        "fy+2":"373380191"
       }
     ]
   },
@@ -132,7 +134,7 @@
         "fy-2":"36320",
         "fy-1":"86897",
         "fy-0":"65000",
-        "fy+2":"65000"
+        "fy+2":"100000"
       },
       {
         "line_title":"Boston Multi-Cultural Advocacy Support",
@@ -148,7 +150,7 @@
         "fy-2":"979673",
         "fy-1":"1112055",
         "fy-0":"671335",
-        "fy+2":"55720"
+        "fy+2":"0"
       },
       {
         "line_title":"Bullet Proof Vests Program",
@@ -172,7 +174,7 @@
         "fy-2":"26197",
         "fy-1":"39999",
         "fy-0":"50000",
-        "fy+2":"50000"
+        "fy+2":"75000"
       },
       {
         "line_title":"Cold Case Project",
@@ -260,7 +262,7 @@
         "fy-2":"38206",
         "fy-1":"74806",
         "fy-0":"37550",
-        "fy+2":"37550"
+        "fy+2":"100000"
       },
       {
         "line_title":"Injury Surveillance Project",
@@ -364,7 +366,7 @@
         "fy-2":"0",
         "fy-1":"167275",
         "fy-0":"187232",
-        "fy+2":"120206"
+        "fy+2":"250000"
       },
       {
         "line_title":"Port Security",
@@ -460,10 +462,44 @@
         "fy-2":"8937180",
         "fy-1":"9562319",
         "fy-0":"10498013",
-        "fy+2":"9505396"
+        "fy+2":"9701920"
       }
     ]
   },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":307420986,
+      "fy-1":319608659,
+      "fy-0":328452783,
+      "fy+2":338019660
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":29889909,
+      "fy-1":29279185,
+      "fy-0":35634710,
+      "fy+1":35360531
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":337310895,
+      "fy-1":348887844,
+      "fy-0":364087493,
+      "fy+1":373380191
+    }
+  ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
   "authorizing_statutes":[
     "Police Commissioner, CBC St. 11 § 1; 1962 Mass. Acts ch. 322.",
@@ -496,9 +532,9 @@
         "account_code":51,
         "fy-2":307420986,
         "fy-1":319608659,
-        "fy-0":320706483,
-        "fy+1":324068972,
-        "diff":3362489
+        "fy-0":328452783,
+        "fy+1":338019660,
+        "diff":9566877
       },
       {
         "line_title":"Contractual Services",
@@ -506,9 +542,9 @@
         "account_code":52,
         "fy-2":318858070,
         "fy-1":330896691,
-        "fy-0":335434263,
-        "fy+1":338006041,
-        "diff":2571778
+        "fy-0":343180563,
+        "fy+1":352313624,
+        "diff":9133061
       },
       {
         "line_title":"Supplies & Materials",
@@ -516,9 +552,9 @@
         "account_code":53,
         "fy-2":326518880,
         "fy-1":338110861,
-        "fy-0":343990467,
-        "fy+1":345812859,
-        "diff":1822392
+        "fy-0":351736767,
+        "fy+1":359880435,
+        "diff":8143668
       },
       {
         "line_title":"Current Chgs & Oblig",
@@ -526,9 +562,9 @@
         "account_code":54,
         "fy-2":330900785,
         "fy-1":342823684,
-        "fy-0":348952945,
-        "fy+1":351137529,
-        "diff":2184584
+        "fy-0":356699245,
+        "fy+1":365205105,
+        "diff":8505860
       },
       {
         "line_title":"Equipment",
@@ -536,9 +572,9 @@
         "account_code":55,
         "fy-2":336456037,
         "fy-1":348887844,
-        "fy-0":356341193,
-        "fy+1":358764503,
-        "diff":2423310
+        "fy-0":364087493,
+        "fy+1":373380191,
+        "diff":9292698
       },
       {
         "line_title":"Other",
@@ -546,104 +582,12 @@
         "account_code":58,
         "fy-2":337310895,
         "fy-1":348887844,
-        "fy-0":356341193,
-        "fy+1":358764503,
-        "diff":2423310
+        "fy-0":364087493,
+        "fy+1":373380191,
+        "diff":9292698
       }
     ]
   },
-  "programs":[
-    {
-      "parent":"Police Department",
-      "program_number":1,
-      "program_name":"Police Commissioners Office",
-      "head":"William B. Evans",
-      "program_description":"The Office of the Police Commissioner sets the priorities and direction of the Police Department. Units located under the Commissioner are responsible for monitoring the performance of the department and its personnel, planning for its future, and providing information to the public and other law enforcement agencies. Included in this program are the Office of Administrative Hearings, Office of the Legal Advisor, Office of Labor Relations, and the Office of Strategic Planning and Research."
-    },
-    {
-      "parent":"Police Department",
-      "program_number":2,
-      "program_name":"BAT-Operations",
-      "head":"Edward Callahan",
-      "program_description":"The Bureau of Administration and Technology Operations Program provides logistic support and maintenance in the areas of fleet management, communications and building maintenance."
-    },
-    {
-      "parent":"Police Department",
-      "program_number":3,
-      "program_name":"BAT-Admin and Technology",
-      "head":"Edward Callahan",
-      "program_description":"The Bureau of Administration and Technology Program is responsible for the effective utilization of departmental funds, equipment and informational systems in support of department operations. Division sections include Human Resources, Finance, Central Supply, Licensing, Support Services, Information Technology, and the Operations Division."
-    },
-    {
-      "parent":"Police Department",
-      "program_number":4,
-      "program_name":"Bureau of Professional Development",
-      "head":"Lisa R. Holmes",
-      "program_description":"The Bureau of Professional Development is responsible for providing professional development courses for departmental employees. The Bureau of Professional Development is comprised of 2 units, the Academy and Range. The program delivers training courses for all levels of the department ranging from entry-level training to Executive Development training. The training offered at each level will support the overall priorities of the Boston Police Department."
-    },
-    {
-      "parent":"Police Department",
-      "program_number":5,
-      "program_name":"Bureau of Field Services",
-      "head":"Bernard P. ORourke",
-      "program_description":"The Bureau of Field Services has primary responsibility for the delivery of police services throughout the City of Boston. The program includes all personnel assigned to the eleven police districts, Special Operations Division, Field Support Division, Special Events Management, and Emergency Preparedness. Also assigned to this program are the Neighborhood Crime Watch Program, Officer Friendly Program, Senior Service Officer, and the Paid Details Assignment Unit."
-    },
-    {
-      "parent":"Police Department",
-      "program_number":6,
-      "program_name":"Bureau of Professional Standards",
-      "head":"Frank A. Mancini",
-      "program_description":"The Bureau of Professional Standards is responsible for the administrative investigation of all police misconduct, including violations of law, additionally completing background investigations on all new employees to the department, and internally auditing the various units and departments within the Boston Police. The Bureau is also responsible for handling corruption prevention programs within the City of Boston as well as proactive and reactive investigations. The Bureau of Professional Standards is comprised of the Internal Affairs Division and the Anti-Corruption Division. The Internal Affairs Division houses the Internal Investigations Unit, the Audit and Review Unit and the Recruit Investigations Unit."
-    },
-    {
-      "parent":"Police Department",
-      "program_number":7,
-      "program_name":"Bureau of Investigative Services",
-      "head":"Gregory Long",
-      "program_description":"The Bureau of Investigative Services is responsible for providing investigative and forensic technical support to all victims, witnesses and crime prevention units of the department. The Bureau of Investigative Services will be comprised of the Major Case Division and the Criminal Investigative Division. The program coordinates all specialized units (e.g. homicide, sexual assault, drug control, domestic violence district detectives), and the general investigative units (e.g. auto theft, fugitive, fraud and missing person/exploited children and also includes the Community Disorders Unit)."
-    },
-    {
-      "parent":"Police Department",
-      "program_number":8,
-      "program_name":"Bureau of Intelligence and Analysis",
-      "head":"Paul A. Fitzgerald",
-      "program_description":"It is the mission of the Bureau of Intelligence and Analysis, through the Boston Regional Intelligence Center, to gather information from all sources in a manner consistent with the law and to analyze that information to provide tactical and/or strategic intelligence on the existence, identities, and capabilities of criminal suspects and enterprises generally and, in particular, to further crime prevention and enforcement objectives/priorities identified by the Boston Police Department as well as the communities comprising the Urban Area Security Initiative (UASI): Brookline, Somerville, Quincy, Revere, Chelsea, Winthrop, Cambridge, and Everett. The Bureau of Intelligence and Analysis is comprised of two Divisions, the Homeland Security Division and the Criminal Intelligence and Analysis Division; with an overarching coordination responsibility of being the Boston Regional Intelligence Center and the Department of Homeland Security designated urban fusion center for the Boston UASI region."
-    }
-  ],
-  "selected_service_indicators":[
-    {
-      "line_title":"Operating Budget",
-      "line_type":"title",
-      "fy-2":"15Actual",
-      "fy-1":"16Actual",
-      "fy-0":"17Budget",
-      "fy+2":"18Budget"
-    },
-    {
-      "line_title":"Personnel Services",
-      "line_type":"data",
-      "fy-2":3285640,
-      "fy-1":3315013,
-      "fy-0":3103702,
-      "fy+2":2938086
-    },
-    {
-      "line_title":"Non Personnel",
-      "line_type":"data",
-      "fy-2":17467,
-      "fy-1":15325,
-      "fy-0":0,
-      "fy+1":0
-    },
-    {
-      "line_title":"Total",
-      "line_type":"total",
-      "fy-2":3303107,
-      "fy-1":3330338,
-      "fy-0":3103702,
-      "fy+1":2938086
-    }
-  ],
   "external_funds":[
     {
       "project":"Abekam Foundation",
@@ -684,7 +628,7 @@
     {
       "project":"Cold Case Project",
       "project_mission":[
-        "Funds are provided by the U.S. Department of Justice, National Institute of Justice. This funding will allow the department to significantly increase the number of unsolved cold homicide cases identified and reviewed for DNA evidence, enhance the Crime Lab’s capacity to analyze cold case evidence through a cold case analyst, and will improve the department’s ability to pursue cold case investigations to prosecution."
+        "Funds are provided by the U.S. Department of Justice, National Institute of Justice. This funding will allow the department to significantly increase the number of unsolved cold homicide cases identified and reviewed for DNA evidence, enhance the Crime Lab&rsquo;s capacity to analyze cold case evidence through a cold case analyst, and will improve the department&rsquo;s ability to pursue cold case investigations to prosecution."
       ]
     },
     {
@@ -708,7 +652,7 @@
     {
       "project":"DNA Laboratory Initiative",
       "project_mission":[
-        "The project is funded by the U.S. Department of Justice, National Institute of Justice. This grant is intended to focus resources on solving old homicide and sexual assault cases where there is no suspect identified - “cold cases”. Funds are being used for overtime for detectives to further investigate these cases, and for criminalists to process evidence (DNA testing, etc.). Funds are also used to purchase supplies necessary for DNA testing of evidence in these cases."
+        "The project is funded by the U.S. Department of Justice, National Institute of Justice. This grant is intended to focus resources on solving old homicide and sexual assault cases where there is no suspect identified - &ldquo;cold cases&ldquo;;. Funds are being used for overtime for detectives to further investigate these cases, and for criminalists to process evidence (DNA testing, etc.). Funds are also used to purchase supplies necessary for DNA testing of evidence in these cases."
       ]
     },
     {
@@ -738,7 +682,7 @@
     {
       "project":"First Responder Naloxone Grant",
       "project_mission":[
-        "As part of the Commonwealth’s comprehensive strategy to address the opioid overdose epidemic in Massachusetts, the Department of Public Health awarded funds for the Boston Police Department to carry and administer naloxone, an opioid overdose antidote. The funds will be utilized to purchase naloxone and related costs."
+        "As part of the Commonwealth&rsquo;s comprehensive strategy to address the opioid overdose epidemic in Massachusetts, the Department of Public Health awarded funds for the Boston Police Department to carry and administer naloxone, an opioid overdose antidote. The funds will be utilized to purchase naloxone and related costs."
       ]
     },
     {
@@ -774,7 +718,7 @@
     {
       "project":"National Forum Capacity Building Demonstration",
       "project_mission":[
-        "Funding by the U.S. Department of Justice, Office of Juvenile Justice Delinquency Prevention. This funding will be used for the enhancement and implementation of Boston’s Youth Violence Prevention Forum and the Boston Public Schools PBIS."
+        "Funding by the U.S. Department of Justice, Office of Juvenile Justice Delinquency Prevention. This funding will be used for the enhancement and implementation of Boston&rsquo;s Youth Violence Prevention Forum and the Boston Public Schools PBIS."
       ]
     },
     {
@@ -828,7 +772,7 @@
     {
       "project":"Port Security Grant",
       "project_mission":[
-        "Funded by the U.S. Department of Homeland Security, this grant supports the security of Boston’s waterfront through the acquisition of new engines for two Boston Police Department Harbor Patrol vessels (the Guardian and the Protector) and ensure proper maintenance of these new engines as well as the Harbor Patrol’s SAFE boat over the course of the grant period. FY17 expenses include a donation from the Boston Police Foundation as local matching funds."
+        "Funded by the U.S. Department of Homeland Security, this grant supports the security of Boston&rsquo;s waterfront through the acquisition of new engines for two Boston Police Department Harbor Patrol vessels (the Guardian and the Protector) and ensure proper maintenance of these new engines as well as the Harbor Patrol&rsquo;s SAFE boat over the course of the grant period. FY17 expenses include a donation from the Boston Police Foundation as local matching funds."
       ]
     },
     {
@@ -840,7 +784,7 @@
     {
       "project":"Safe and Successful Youth Initiative",
       "project_mission":[
-        "The Massachusetts’ Executive Office of Health and Human Services has awarded the Boston Police Department funds, with the Boston Public Health Commission as the Lead Community Based Agency, to administer and coordinate programming that will serve high risk young men and women most likely to be involving in gun violence in a wide range of areas, i.e. case management, physical and mental health services, education, job training, etc."
+        "The Massachusetts&rsquo; Executive Office of Health and Human Services has awarded the Boston Police Department funds, with the Boston Public Health Commission as the Lead Community Based Agency, to administer and coordinate programming that will serve high risk young men and women most likely to be involving in gun violence in a wide range of areas, i.e. case management, physical and mental health services, education, job training, etc."
       ]
     },
     {
@@ -891,5 +835,12 @@
         "Walk Boston awarded the Boston Police Department's Academy funds in FY16 to produce a pedestrian safety e-learning video for law enforcement."
       ]
     }
+  ],
+  "fy_major_initiatives":[
+    "Design will begin on a new East Boston Police Station.",
+    "Construction will complete on a new training facility at Moon Island Gun Range.",
+    "The project to upgrade the Police Department&rsquo;s communications infrastructure will continue into its third year.",
+    "Several studies will help evaluate needs at both central facilities and district stations."
   ]
 }
+---
