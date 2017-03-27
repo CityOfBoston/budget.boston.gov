@@ -29,12 +29,16 @@ Here's a short list of some common components you can use:
 
 **Breadcrumbs**
 ![Screenshot of breadcrumb page navigation](/images/breadcrumbs.png "Breadcrumbs Screenshot")
+
+> Set local key to true in order to use app domain (e.g. budget.boston.gov) instead of wrapper base domain (e.g. boston.gov)
+
 ```
 breadcrumbs:
  - title: Home
    url: "/"
  - title: Dept
    url: "/departments"
+   local: true
  - current: Executive Summary
  - published: 2/15/17
 ```
