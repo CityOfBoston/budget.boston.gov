@@ -41,24 +41,19 @@ table:
   - title: Reducing OPEB liability over 30 years
     right_text: (numbers in millions)
     columns:
-      - "":
-           name: Projected benefit payments
-        "": $121.50
-        "% of ARC)":
-      - "":
-           name: FY17 annual allocation
-        "": $42.30
-        "% of ARC)":
-      - "":
-           name: Total FY17 payments
-        "": $163.80
-        "% of ARC)": 92%
-      - "":
-           name: Total annual required contribution (ARC)
-        "": $178.40
-        "% of ARC)":
-      - "":
-           name: Difference
-        "": -$14.62
-        "% of ARC)":
+      - "": Projected benefit payments
+        "Dollars": $121.50
+        "% of ARC": ""
+      - "": FY17 annual allocation
+        "Dollars": $42.30
+        "% of ARC": ""
+      - "": Total FY17 payments
+        "Dollars": $163.80
+        "% of ARC": 92%
+      - "": Total annual required contribution (ARC)
+        "Dollars": $178.40
+        "% of ARC": ""
+      - "": Difference
+        "Dollars": -$14.62
+        "% of ARC": ""
 ---

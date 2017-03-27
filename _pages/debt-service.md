@@ -79,7 +79,7 @@ table:
         "FY16 Actual": $
         "FY17 Budget": $
         "FY18 Budget": $
-      - "Category": Totals:
+      - "Category": Totals
         "FY15 Actual": $137.84
         "FY16 Actual": $148.01
         "FY17 Budget": $162.87

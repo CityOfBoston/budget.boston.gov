@@ -44,8 +44,7 @@ table:
       name: Back to all expenditures
       link: /operating-budget
     columns:
-      - "Cabinet":
-           name: Charter School Tuition
+      - "Cabinet": Charter School Tuition
         "FY15 Actual": $110.66
         "FY16 Actual": $125.81
         "FY17 Budget": $146.86
