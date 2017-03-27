@@ -1,8 +1,7 @@
 ---
 layout: bos_content
-layout: bos_content
-permalink: /operating-budget/cabinets/other-state-assessments
-title: Cabinets
+permalink: /operating-budget/other-state-assessments/
+title: Other State assessments
 breadcrumbs:
  - title: Home
    url: "/"
@@ -11,10 +10,10 @@ breadcrumbs:
  - title: Operating Budget
    url: "/operating-budget/"
    local: true
- - current: Cabinets
+ - current: Other State assessments
  - published: 2/15/17
 intro:
- - title: Cabinets
+ - title: Other State assessments
    short_desc: >
      <div>"This budget is a manifestation of my vision for a
      Thriving, Healthy, and Innovative Boston."</div>
@@ -40,71 +39,59 @@ text_block:
       amet est sed luctus. Suspendisse massa turpis, iaculis at fermentum placerat,
       scelerisque ultricies est. Nulla facilisi. In scelerisque ornare tincidunt.
 table:
-  - title: Appropriations by Cabinet
+  - title: Other State assessments
     right_text:
-      name: Back to Operating Budget
+      name: Back to all expenditures
       link: /operating-budget
     columns:
-      - "Cabinet":
-           name: Cabinet 1
-           link: /
-        "FY15 Actual":
-          value: 345
-          filter: money
-        "FY16 Actual":
-          value: 44
-          filter: money
-        "FY17 Budget":
-          value: 90
-          filter: money
-        "FY18 Budget":
-          value: 6565
-          filter: money
-      - "Cabinet":
-          name: Cabinet 2
-          link: /
-        "FY15 Actual":
-          value: 344573
-          filter: money
-        "FY16 Actual":
-          value: 757
-          filter: money
-        "FY17 Budget":
-          value: 554
-          filter: money
-        "FY18 Budget":
-          value: 6565
-          filter: money
-      - "Cabinet":
-          name: Cabinet 3
-          link: /
-        "FY15 Actual":
-          value: 111
-          filter: money
-        "FY16 Actual":
-          value: 542
-          filter: money
-        "FY17 Budget":
-          value: 275
-          filter: money
-        "FY18 Budget":
-          value: 50000
-          filter: money
-      - "Cabinet":
-         name: Streets
-         link: /operating-budget/cabinets/streets
-        "FY15 Actual":
-         value: 111
-         filter: money
-        "FY16 Actual":
-         value: 542
-         filter: money
-        "FY17 Budget":
-         value: 275
-         filter: money
-        "FY18 Budget":
-         value: 50000
-         filter: money
+      - "Assessment": Retired employees health insurance
+        "FY15 Actual": $
+        "FY16 Actual": $
+        "FY17 Budget": $
+        "FY18 Budget": $
+      - "Assessment": RMV Non renewal surcharge
+        "FY15 Actual": $
+        "FY16 Actual": $
+        "FY17 Budget": $
+        "FY18 Budget": $
+      - "Assessment": Mosquito control project
+        "FY15 Actual": $
+        "FY16 Actual": $
+        "FY17 Budget": $
+        "FY18 Budget": $
+      - "Assessment": Special education
+        "FY15 Actual": $
+        "FY16 Actual": $
+        "FY17 Budget": $
+        "FY18 Budget": $
+      - "Assessment": Metropolitan air pollution districts
+        "FY15 Actual": $
+        "FY16 Actual": $
+        "FY17 Budget": $
+        "FY18 Budget": $
+      - "Assessment": Metropolitan Area Planning Council
+        "FY15 Actual": $
+        "FY16 Actual": $
+        "FY17 Budget": $
+        "FY18 Budget": $
+      - "Assessment": Boston Metro Transit District
+        "FY15 Actual": $
+        "FY16 Actual": $
+        "FY17 Budget": $
+        "FY18 Budget": $
+      - "Assessment": School choice
+        "FY15 Actual": $
+        "FY16 Actual": $
+        "FY17 Budget": $
+        "FY18 Budget": $
+      - "Assessment": Essex County Tch Inst. Snd. Tuit.
+        "FY15 Actual": $
+        "FY16 Actual": $
+        "FY17 Budget": $
+        "FY18 Budget": $
+      - "Assessment": Totals:
+        "FY15 Actual": $4.25
+        "FY16 Actual": $4.58
+        "FY17 Budget": $4.65
+        "FY18 Budget": $4.72
 ---
-
-Other State assessments

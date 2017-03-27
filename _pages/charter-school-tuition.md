@@ -1,8 +1,7 @@
 ---
 layout: bos_content
-layout: bos_content
-permalink: /operating-budget/cabinets/charter-school-tuition/
-title: Cabinets
+permalink: /operating-budget/charter-school-tuition/
+title: Charter School tuition
 breadcrumbs:
  - title: Home
    url: "/"
@@ -11,7 +10,7 @@ breadcrumbs:
  - title: Operating Budget
    url: "/operating-budget/"
    local: true
- - current: Cabinets
+ - current: Charter School tuition
  - published: 2/15/17
 intro:
  - title: Cabinets
@@ -40,71 +39,15 @@ text_block:
       amet est sed luctus. Suspendisse massa turpis, iaculis at fermentum placerat,
       scelerisque ultricies est. Nulla facilisi. In scelerisque ornare tincidunt.
 table:
-  - title: Appropriations by Cabinet
+  - title: Charter School tuition
     right_text:
-      name: Back to Operating Budget
+      name: Back to all expenditures
       link: /operating-budget
     columns:
       - "Cabinet":
-           name: Cabinet 1
-           link: /
-        "FY15 Actual":
-          value: 345
-          filter: money
-        "FY16 Actual":
-          value: 44
-          filter: money
-        "FY17 Budget":
-          value: 90
-          filter: money
-        "FY18 Budget":
-          value: 6565
-          filter: money
-      - "Cabinet":
-          name: Cabinet 2
-          link: /
-        "FY15 Actual":
-          value: 344573
-          filter: money
-        "FY16 Actual":
-          value: 757
-          filter: money
-        "FY17 Budget":
-          value: 554
-          filter: money
-        "FY18 Budget":
-          value: 6565
-          filter: money
-      - "Cabinet":
-          name: Cabinet 3
-          link: /
-        "FY15 Actual":
-          value: 111
-          filter: money
-        "FY16 Actual":
-          value: 542
-          filter: money
-        "FY17 Budget":
-          value: 275
-          filter: money
-        "FY18 Budget":
-          value: 50000
-          filter: money
-      - "Cabinet":
-         name: Streets
-         link: /operating-budget/cabinets/streets
-        "FY15 Actual":
-         value: 111
-         filter: money
-        "FY16 Actual":
-         value: 542
-         filter: money
-        "FY17 Budget":
-         value: 275
-         filter: money
-        "FY18 Budget":
-         value: 50000
-         filter: money
+           name: Charter School Tuition
+        "FY15 Actual": $110.66
+        "FY16 Actual": $125.81
+        "FY17 Budget": $146.86
+        "FY18 Budget": $156.81
 ---
-
-Charter School tuition

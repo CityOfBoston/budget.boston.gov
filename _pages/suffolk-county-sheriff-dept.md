@@ -1,8 +1,7 @@
 ---
 layout: bos_content
-layout: bos_content
-permalink: /operating-budget/cabinets/suffolk-county-sheriff-dept
-title: Cabinets
+permalink: /operating-budget/suffolk-county-sheriff-dept/
+title: Suffolk County Sheriff Department
 breadcrumbs:
  - title: Home
    url: "/"
@@ -11,24 +10,14 @@ breadcrumbs:
  - title: Operating Budget
    url: "/operating-budget/"
    local: true
- - current: Cabinets
+ - current: Suffolk County Sheriff Department
  - published: 2/15/17
 intro:
- - title: Cabinets
+ - title: Suffolk County Sheriff Department
    short_desc: >
-     <div>"This budget is a manifestation of my vision for a
-     Thriving, Healthy, and Innovative Boston."</div>
-     <div>- Martin J. Walsh, Mayor</div>
+     The Suffolk County budget is a fixed cost mandated by state legislation, budgeted at $3.9 million in FY17.
    description: >
-     Mayor Walsh presented a balanced budget that maintains
-     high levels of support in critical areas such as education
-     and public safety, makes limited strategic investments,
-     continues the City's commitment to addressing its long-term
-     liabilities, and builds on the Administration's record of
-     strong fiscal management. This is made possible by the
-     Administration's achievement of efficiencies and savings.
-     The City's data-driven managerial approach was recently
-     validated by the affirmation of Boston's triple A bond rating.
+     State legislation converted all existing and future Suffolk County Sheriff employees to state employees effective January 1, 2010. The State charges the City for Suffolk County through an assessment based on the residual unfunded pension liability for former Sherriff employees who retired prior to January 1, 2010. Once the unfunded pension liability is fully extinguished, the budget for Suffolk County will no longer be necessary.
    sidebar_menu: true
 text_block:
   - title: Cabinet Appropriations
@@ -40,71 +29,14 @@ text_block:
       amet est sed luctus. Suspendisse massa turpis, iaculis at fermentum placerat,
       scelerisque ultricies est. Nulla facilisi. In scelerisque ornare tincidunt.
 table:
-  - title: Appropriations by Cabinet
+  - title: Suffolk County Sheriff Department
     right_text:
-      name: Back to Operating Budget
+      name: Back to all expenditures
       link: /operating-budget
     columns:
-      - "Cabinet":
-           name: Cabinet 1
-           link: /
-        "FY15 Actual":
-          value: 345
-          filter: money
-        "FY16 Actual":
-          value: 44
-          filter: money
-        "FY17 Budget":
-          value: 90
-          filter: money
-        "FY18 Budget":
-          value: 6565
-          filter: money
-      - "Cabinet":
-          name: Cabinet 2
-          link: /
-        "FY15 Actual":
-          value: 344573
-          filter: money
-        "FY16 Actual":
-          value: 757
-          filter: money
-        "FY17 Budget":
-          value: 554
-          filter: money
-        "FY18 Budget":
-          value: 6565
-          filter: money
-      - "Cabinet":
-          name: Cabinet 3
-          link: /
-        "FY15 Actual":
-          value: 111
-          filter: money
-        "FY16 Actual":
-          value: 542
-          filter: money
-        "FY17 Budget":
-          value: 275
-          filter: money
-        "FY18 Budget":
-          value: 50000
-          filter: money
-      - "Cabinet":
-         name: Streets
-         link: /operating-budget/cabinets/streets
-        "FY15 Actual":
-         value: 111
-         filter: money
-        "FY16 Actual":
-         value: 542
-         filter: money
-        "FY17 Budget":
-         value: 275
-         filter: money
-        "FY18 Budget":
-         value: 50000
-         filter: money
+      - "": Suffolk County Sheriff Dept
+        "FY15 Actual": $3.87
+        "FY16 Actual": $3.87
+        "FY17 Budget": $3.87
+        "FY18 Budget": $3.87
 ---
-
-Suffolk County Sheriff Dept

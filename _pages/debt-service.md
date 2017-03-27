@@ -1,8 +1,7 @@
 ---
 layout: bos_content
-layout: bos_content
-permalink: /operating-budget/cabinets/debt-service
-title: Cabinets
+permalink: /operating-budget/debt-service/
+title: Debt service
 breadcrumbs:
  - title: Home
    url: "/"
@@ -11,24 +10,14 @@ breadcrumbs:
  - title: Operating Budget
    url: "/operating-budget/"
    local: true
- - current: Cabinets
+ - current: Debt service
  - published: 2/15/17
 intro:
- - title: Cabinets
+ - title: Debt service
    short_desc: >
-     <div>"This budget is a manifestation of my vision for a
-     Thriving, Healthy, and Innovative Boston."</div>
-     <div>- Martin J. Walsh, Mayor</div>
+     The debt service is the annual amount of money necessary to pay the interest and principal on the City's outstanding debt.
    description: >
-     Mayor Walsh presented a balanced budget that maintains
-     high levels of support in critical areas such as education
-     and public safety, makes limited strategic investments,
-     continues the City's commitment to addressing its long-term
-     liabilities, and builds on the Administration's record of
-     strong fiscal management. This is made possible by the
-     Administration's achievement of efficiencies and savings.
-     The City's data-driven managerial approach was recently
-     validated by the affirmation of Boston's triple A bond rating.
+     The Debt Service budget is a fixed cost in the operating budget that supports the borrowing to finance the City’s capital plan. The City benefits from its strong financial policies and practices and have been recently affirmed with a triple A bond ratings issued by Moody’s and Standard and Poor’s. Strong bond ratings are an assessment of the City’s long-term financial stability but also help by lowering the cost of borrowing. In FY17 the Debt Service is budgeted at $177.8 million.
    sidebar_menu: true
 text_block:
   - title: Cabinet Appropriations
@@ -40,71 +29,59 @@ text_block:
       amet est sed luctus. Suspendisse massa turpis, iaculis at fermentum placerat,
       scelerisque ultricies est. Nulla facilisi. In scelerisque ornare tincidunt.
 table:
-  - title: Appropriations by Cabinet
+  - title: Debt service
     right_text:
-      name: Back to Operating Budget
+      name: Back to all expenditures
       link: /operating-budget
     columns:
-      - "Cabinet":
-           name: Cabinet 1
-           link: /
-        "FY15 Actual":
-          value: 345
-          filter: money
-        "FY16 Actual":
-          value: 44
-          filter: money
-        "FY17 Budget":
-          value: 90
-          filter: money
-        "FY18 Budget":
-          value: 6565
-          filter: money
-      - "Cabinet":
-          name: Cabinet 2
-          link: /
-        "FY15 Actual":
-          value: 344573
-          filter: money
-        "FY16 Actual":
-          value: 757
-          filter: money
-        "FY17 Budget":
-          value: 554
-          filter: money
-        "FY18 Budget":
-          value: 6565
-          filter: money
-      - "Cabinet":
-          name: Cabinet 3
-          link: /
-        "FY15 Actual":
-          value: 111
-          filter: money
-        "FY16 Actual":
-          value: 542
-          filter: money
-        "FY17 Budget":
-          value: 275
-          filter: money
-        "FY18 Budget":
-          value: 50000
-          filter: money
-      - "Cabinet":
-         name: Streets
-         link: /operating-budget/cabinets/streets
-        "FY15 Actual":
-         value: 111
-         filter: money
-        "FY16 Actual":
-         value: 542
-         filter: money
-        "FY17 Budget":
-         value: 275
-         filter: money
-        "FY18 Budget":
-         value: 50000
-         filter: money
+      - "Category": Redemption of City loans
+        "FY15 Actual": $
+        "FY16 Actual": $
+        "FY17 Budget": $
+        "FY18 Budget": $
+      - "Category": Interest payments
+        "FY15 Actual": $
+        "FY16 Actual": $
+        "FY17 Budget": $
+        "FY18 Budget": $
+      - "Category": Temporary notes - RANs
+        "FY15 Actual": $
+        "FY16 Actual": $
+        "FY17 Budget": $
+        "FY18 Budget": $
+      - "Category": Cost of issuance - RANs
+        "FY15 Actual": $
+        "FY16 Actual": $
+        "FY17 Budget": $
+        "FY18 Budget": $
+      - "Category": MWPAT principal
+        "FY15 Actual": $
+        "FY16 Actual": $
+        "FY17 Budget": $
+        "FY18 Budget": $
+      - "Category": MWPAT interest
+        "FY15 Actual": $
+        "FY16 Actual": $
+        "FY17 Budget": $
+        "FY18 Budget": $
+      - "Category": Section 108 - Dudley Sq. Modern
+        "FY15 Actual": $
+        "FY16 Actual": $
+        "FY17 Budget": $
+        "FY18 Budget": $
+      - "Category": Debt service sinking funds
+        "FY15 Actual": $
+        "FY16 Actual": $
+        "FY17 Budget": $
+        "FY18 Budget": $
+      - "Category": COB lease pmt. - Bolling Muni. Bldg.
+        "FY15 Actual": $
+        "FY16 Actual": $
+        "FY17 Budget": $
+        "FY18 Budget": $
+      - "Category": Totals:
+        "FY15 Actual": $137.84
+        "FY16 Actual": $148.01
+        "FY17 Budget": $162.87
+        "FY18 Budget": $177.85
 ---
-
-Debt service
