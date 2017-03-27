@@ -1,5 +1,6 @@
 ---
 layout: bos_content
+permalink: /example
 breadcrumbs:
  - title: Home
    url: "/"
@@ -94,6 +95,21 @@ spanning_image+:
     src: https://central.wordcamp.org/files/2013/04/boston-skyline-for-banner1.jpg
     alt: Placeholder alt text
     title: Placeholder image title
+text_col_2:
+  -col_1: >
+    <p>First Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non turpis nibh.
+    Sed eleifend orci pretium magna tempus vehicula. </p>
+    <ol>
+    <li>Donec sodales massa vel leo porttitor</li>
+    <li>condimentum. Ut condimentum commodo quam.</li>
+    <li>Phasellus sed metus eu velit pellentesque</li>
+    </ol>
+  -col_2: >
+    Second Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non turpis nibh.
+    Sed eleifend orci pretium magna tempus vehicula.
+    <blockquote>Donec sodales massa vel leo porttitor. Ut condimentum commodo quam.</blockquote>
+    condimentum. Ut condimentum commodo quam. Phasellus sed metus eu velit pellentesque
+    porta. Suspendisse iaculis feugiat accumsan.
 grid:
   - grid_title: General
   - title: Boston Common
@@ -117,6 +133,27 @@ grid:
       and what a difference that period made.
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
     link: /
+text_col_3:
+  -col_1: >
+    <p>Fisrt Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non turpis nibh.
+    Sed eleifend orci pretium magna tempus vehicula. </p>
+    <p>Donec sodales massa vel leo porttitor
+    condimentum. Ut condimentum commodo quam. Phasellus sed metus eu velit pellentesque
+    porta. Suspendisse iaculis feugiat accumsan.</p>
+  -col_2: >
+    Second Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non turpis nibh.
+    Sed eleifend orci pretium magna tempus vehicula.
+    <blockquote>Donec sodales massa vel leo porttitor</blockquote>
+    condimentum. Ut condimentum commodo quam. Phasellus sed metus eu velit pellentesque
+    porta.
+  -col_3: >
+    Third Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non turpis nibh.
+    <ul>
+    <li>Sed eleifend orci pretium magna tempus vehicula.</li>
+    <li>Donec sodales massa vel leo porttitor</li>
+    </ul>
+    condimentum. Ut condimentum commodo quam. Phasellus sed metus eu velit pellentesque
+    Sed eleifend orci.
 grid+:
   - grid_title: Revene
   - title: Something Else
