@@ -1,3 +1,6 @@
+/**
+ * Line chart
+ */
 if (document.getElementById("lineChart")) {
   var lineCharts = document.getElementsByClassName("lineChart");
   for (var i = 0, len = lineCharts.length; i < len; i++) {
@@ -33,38 +36,38 @@ if (document.getElementById("lineChart")) {
     });
   }
 }
-if (document.getElementById("aggregateBarChart")) {
-  var aggregateBarChart = document.getElementById("aggregateBarChart").getContext("2d");
-}
-if (document.getElementById("bosBarChart")) {
-  var ctx2 = document.getElementById("bosBarChart").getContext("2d");
-}
-var chartLabelsString = document.getElementById("aggregateBarChart").getAttribute("data-labels");
-var chartLabels = chartLabelsString.replace(/^\s+|\s+$/g,"").split(/\s*,\s*/);
-var chartDataString = document.getElementById("aggregateBarChart").getAttribute("data");
-var chartData = JSON.parse(chartDataString);
-var chartDatasets = new Array();
-var chartColors = ['rgba(9,31,47, 1)','rgba(25,69,91, 1)','rgba(69,120,156, 1)','rgba(150,196,224, 1)'];
-var chartBorderColors = ['rgba(9,31,47, 1)','rgba(25,69,91, 1)','rgba(69,120,156, 1)','rgba(150,196,224, 1)'];
-var k = 0;
-for (var i in chartData) {
-  chartDatasets.push({
-    label: i,
-    data: chartData[i],
-    backgroundColor: chartColors[k],
-    borderColor: chartBorderColors[k],
-    borderWidth: 2,
-    pointBackgroundColor: '#232323',
-    pointBorderColor: '#232323'
-  });
-  if (k == chartColors.length -1) {
-    k = 0;
-  } else {
-    k++;
-  }
-}
 
-if (aggregateBarChart) {
+/**
+ * Bar chart
+ */
+if (document.getElementById("aggregateBarChart")) {
+  var barCharts = document.getElementsByClassName("lineChart");
+  var aggregateBarChart = document.getElementById("aggregateBarChart").getContext("2d");
+  var chartLabelsString = document.getElementById("aggregateBarChart").getAttribute("data-labels");
+  var chartLabels = chartLabelsString.replace(/^\s+|\s+$/g,"").split(/\s*,\s*/);
+  var chartDataString = document.getElementById("aggregateBarChart").getAttribute("data");
+  console.log(chartDataString);
+  var chartData = JSON.parse(chartDataString);
+  var chartDatasets = new Array();
+  var chartColors = ['rgba(9,31,47, 1)','rgba(25,69,91, 1)','rgba(69,120,156, 1)','rgba(150,196,224, 1)'];
+  var chartBorderColors = ['rgba(9,31,47, 1)','rgba(25,69,91, 1)','rgba(69,120,156, 1)','rgba(150,196,224, 1)'];
+  var k = 0;
+  for (var i in chartData) {
+    chartDatasets.push({
+      label: i,
+      data: chartData[i],
+      backgroundColor: chartColors[k],
+      borderColor: chartBorderColors[k],
+      borderWidth: 2,
+      pointBackgroundColor: '#232323',
+      pointBorderColor: '#232323'
+    });
+    if (k == chartColors.length -1) {
+      k = 0;
+    } else {
+      k++;
+    }
+  }
   var myChart = new Chart(aggregateBarChart, {
     type: 'bar',
     data: {
@@ -75,17 +78,6 @@ if (aggregateBarChart) {
   });
 }
 
-if (ctx2) {
-  var myChart = new Chart(ctx2, {
-    type: 'bar',
-    data: {
-      labels: chartLabels,
-      datasets: chartDatasets, 
-    },
-    options: ""
-  });
-}
-
-document.getElementById("aggregateBarChart").style.backgroundColor = '#F2F2F2';
-document.getElementById("aggregateBarChart").style.padding = '20px';
-document.getElementById("aggregateBarChart-wrapper").style.margin = '0 0 0 10px';
+//document.getElementById("aggregateBarChart").style.backgroundColor = '#F2F2F2';
+//document.getElementById("aggregateBarChart").style.padding = '20px';
+//document.getElementById("aggregateBarChart-wrapper").style.margin = '0 0 0 10px';

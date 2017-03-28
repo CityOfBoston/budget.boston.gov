@@ -135,23 +135,12 @@ layout: bos_wrapper
         {% for row in page.operating_budget.data %}
           {% if row.line_type == "data" %}
             "{{ row.line_title | remove: "'" }}":[
-            {% for column in row %}
-              {% if column[0] != "line_title" and column[0] != "line_type" %}
-                {{ column[1] }}{% unless forloop.last %}, {% endunless %}
-              {% endif %}
-            {% endfor %}
-            ]
-          {% endif %}
-          {% if row.department %}
-            "{{ row.department }}":[
-            {% for column in row %}
-              {% if column[0] != 'department' %}
-                {{ column[1] }}
-                {% if forloop.last == false %}, {% endif %}
-              {% endif %}
-            {% endfor %}]
-            {% assign i = forloop.length | minus: 1 %}
-            {% if forloop.index != i %}, {% endif %}
+              {% for column in row %}
+                {% if column[0] != "line_title" and column[0] != "line_type" %}
+                  {{ column[1] }}{% unless forloop.last %}, {% endunless %}
+                {% endif %}
+              {% endfor %}
+            ]{% assign i = forloop.length | minus: 1 %}{% unless forloop.index == i %}, {% endunless %}
           {% endif %}
         {% endfor %}
       }'
