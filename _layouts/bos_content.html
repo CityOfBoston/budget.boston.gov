@@ -4,44 +4,42 @@ layout: bos_wrapper
 
 {% include hero.html %}
 
-{% for component in page %}
+{% for component in page.components %}
 
-  {% assign i = (component[0] | replace: '+','') %}
-
-  {% if i == "breadcrumbs" %}
-    {% include breadcrumbs.html arg=component %}
+  {% if component.breadcrumbs %}
+    {% include breadcrumbs.html arg=component.breadcrumbs %}
   {% endif %}
 
-  {% if i == "intro" %}
-    {% include intro.html arg=component %}
+  {% if component.intro %}
+    {% include intro.html arg=component.intro %}
   {% endif %}
 
-  {% if i == "text_block" %}
-    {% include text_block.html arg=component %}
+  {% if component.text_block %}
+    {% include text_block.html arg=component.text_block %}
   {% endif %}
 
-  {% if i == "spanning_image" %}
-    {% include spanning_image.html arg=component %}
+  {% if component.spanning_image %}
+    {% include spanning_image.html arg=component.spanning_image %}
   {% endif %}
 
-  {% if i == "js_table" %}
-    {% include js_table.html arg=component %}
+  {% if component.js_table %}
+    {% include js_table.html arg=component.js_table %}
   {% endif %}
 
-  {% if i == "table" %}
-    {% include table.html arg=component %}
+  {% if component.table %}
+    {% include table.html arg=component.table %}
   {% endif %}
 
-  {% if i == "grid" %}
-    {% include grid.html arg=component %}
+  {% if component.grid %}
+    {% include grid.html arg=component.grid %}
   {% endif %}
 
-  {% if i == "text_col_3" %}
-    {% include text_col_3.html arg=component %}
+  {% if component.text_col_3 %}
+    {% include text_col_3.html arg=component.text_col_3 %}
   {% endif %}
 
-  {% if i == "text_col_2" %}
-    {% include text_col_2.html arg=component %}
+  {% if component.text_col_2 %}
+    {% include text_col_2.html arg=component.text_col_2 %}
   {% endif %}
 
 {% endfor %}

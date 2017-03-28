@@ -2,19 +2,20 @@
 layout: bos_content
 permalink: /capital-projects/
 title: Capital Projects
-breadcrumbs:
- - title: Home
-   url: "/"
- - title: Budget
-   url: "/budget"
- - current: Capital Projects
- - published: 2/24/17
-intro:
- - title: Capital Projects
-   short_desc: >
-     <iframe width="100%" height="400px" src="http://app01.cityofboston.gov/BudgetFY17_21/"></iframe>
-   sidebar_menu: true
-text_block:
+components:
+- breadcrumbs:
+  - title: Home
+    url: "/"
+  - title: Budget
+    url: "/budget"
+  - current: Capital Projects
+  - published: 2/24/17
+- intro:
+  - title: Capital Projects
+    short_desc: >
+      <iframe width="100%" height="400px" src="http://app01.cityofboston.gov/BudgetFY17_21/"></iframe>
+    sidebar_menu: true
+- text_block:
   - title: What Are "Capital" Projects?
     body: >
       The City is responsible for maintaining a large
@@ -31,7 +32,7 @@ text_block:
       capital plan is primarily funded by borrowing through
       the issuance of bonds within the City’s fiscally
       responsible debt affordability limits. 
-text_block+:
+- text_block:
   - title: Imagine Boston 2030
     body: >
       Imagine Boston 2030, the City’s first comprehensive
@@ -75,7 +76,7 @@ text_block+:
       will keep Boston healthy, thriving, and innovative
       through investments in education, public safety,
       parks, transportation, and community spaces. 
-table:
+- table:
   - title: Spending By Investment Category
     columns:
       - "Category": 
@@ -223,7 +224,7 @@ table:
         "Total":
           value: 6565
           filter: money
-table+:
+- table:
   - title: Spending By Department
     columns:
       - "Department": 
@@ -350,7 +351,7 @@ table+:
         "Total":
           value: 6565
           filter: money
-text_block++:
+- text_block:
   - title: FY17 Expenditures Allocation
     body: >
       The City estimates FY17 capital expenditures will total

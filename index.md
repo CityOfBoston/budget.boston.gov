@@ -1,31 +1,32 @@
 ---
 layout: bos_content
 title: Executive Summary
-breadcrumbs:
- - title: Home
-   url: "/"
- - title: Budget
-   url: "/budget"
- - current: Executive Summary
- - published: 2/15/17
-intro:
- - title: Executive Summary
-   short_desc: >
-     <div>"This budget is a manifestation of my vision for a
-     Thriving, Healthy, and Innovative Boston."</div>
-     <div>- Martin J. Walsh, Mayor</div>
-   description: >
-     Mayor Walsh presented a balanced budget that maintains 
-     high levels of support in critical areas such as education 
-     and public safety, makes limited strategic investments,
-     continues the City's commitment to addressing its long-term
-     liabilities, and builds on the Administration's record of 
-     strong fiscal management. This is made possible by the 
-     Administration's achievement of efficiencies and savings. 
-     The City's data-driven managerial approach was recently 
-     validated by the affirmation of Boston's triple A bond rating.
-   sidebar_menu: true
-text_block:
+components:
+- breadcrumbs:
+  - title: Home
+    url: "/"
+  - title: Budget
+    url: "/budget"
+  - current: Executive Summary
+  - published: 2/15/17
+- intro:
+  - title: Executive Summary
+    short_desc: >
+      <div>"This budget is a manifestation of my vision for a
+      Thriving, Healthy, and Innovative Boston."</div>
+      <div>- Martin J. Walsh, Mayor</div>
+    description: >
+      Mayor Walsh presented a balanced budget that maintains 
+      high levels of support in critical areas such as education 
+      and public safety, makes limited strategic investments,
+      continues the City's commitment to addressing its long-term
+      liabilities, and builds on the Administration's record of 
+      strong fiscal management. This is made possible by the 
+      Administration's achievement of efficiencies and savings. 
+      The City's data-driven managerial approach was recently 
+      validated by the affirmation of Boston's triple A bond rating.
+    sidebar_menu: true
+- text_block:
   - title: Introduction
     body: >
       At the time Mayor Walsh took office, the City of Boston had successfully 
@@ -36,7 +37,7 @@ text_block:
       and other planning efforts aimed at making government more efficient in order 
       to address areas needing renewed attention.
     right_image: http://tomakeawebsite.net/wp-content/uploads/2015/03/Google-charts-plugin.jpg
-spanning_image:
+- spanning_image:
   - title: Lorem ipsum title
     desc: This is the description for the spanning image
     link:
@@ -45,7 +46,7 @@ spanning_image:
     src: https://www.boston.gov/sites/default/files/styles/resp_wide_2000x800custom_boston_wide_1x/public/winter_swimming_10.jpg?itok=W91jOE5G&timestamp=1452037695    
     alt: Placeholder alt text
     title: Placeholder image title
-text_block+:
+- text_block:
   - title: Revenue
     body: >
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur suscipit id 

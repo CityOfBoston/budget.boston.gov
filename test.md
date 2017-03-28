@@ -1,5 +1,5 @@
 ---
-layout: test
+layout: bos_content
 title: Executive Summary
 components:
 - breadcrumbs:
