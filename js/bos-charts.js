@@ -41,8 +41,10 @@ if (document.getElementById("lineChart")) {
  * Bar chart
  */
 if (document.getElementById("aggregateBarChart")) {
-  var barCharts = document.getElementsByClassName("lineChart");
-  var aggregateBarChart = document.getElementById("aggregateBarChart").getContext("2d");
+  var aggregateBarChart = document.getElementById("aggregateBarChart");
+  aggregateBarChart.style.backgroundColor = '#F2F2F2';
+  aggregateBarChart.style.padding = '20px';
+  var aggregateBarChartContext = aggregateBarChart.getContext("2d");
   var chartLabelsString = document.getElementById("aggregateBarChart").getAttribute("data-labels");
   var chartLabels = chartLabelsString.replace(/^\s+|\s+$/g,"").split(/\s*,\s*/);
   var chartDataString = document.getElementById("aggregateBarChart").getAttribute("data");
@@ -68,7 +70,7 @@ if (document.getElementById("aggregateBarChart")) {
       k++;
     }
   }
-  var myChart = new Chart(aggregateBarChart, {
+  var myChart = new Chart(aggregateBarChartContext, {
     type: 'bar',
     data: {
       labels: chartLabels,
@@ -78,6 +80,5 @@ if (document.getElementById("aggregateBarChart")) {
   });
 }
 
-//document.getElementById("aggregateBarChart").style.backgroundColor = '#F2F2F2';
-//document.getElementById("aggregateBarChart").style.padding = '20px';
-//document.getElementById("aggregateBarChart-wrapper").style.margin = '0 0 0 10px';
+document.getElementById("aggregateBarChart-wrapper").style.margin = '0 0 0 15px';
+document.getElementById("totalLineChart-wrapper").style.margin = '0 15px 0 0';
