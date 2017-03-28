@@ -64,7 +64,7 @@ layout: bos_wrapper
         {% if row.total %}
         <td data-label="All Departments"><strong>{{ row.total }}</strong></td>
         {% else %}
-        <td data-label="Department"><a href="{{ site.url }}/operating-budget/cabinets/{{ page.name | replace: "'","" | slugify }}/{{ row.department | replace: "'","" | slugify }}">{{ row.line_title }}</a></td>
+        <td data-label="Department"><a href="{{ site.url }}/operating-budget/cabinets/{{ page.name | replace: "'","" | slugify }}/{{ row.line_title | replace: "'","" | slugify }}">{{ row.line_title }}</a></td>
         {% endif %}
           <td data-label="{{ page.operating_budget_tables[0].table_summary[0].table_header[0].fy-2 }}">
             {{ row.fy-2 | append: 0 |append:0 | money }}
@@ -84,7 +84,7 @@ layout: bos_wrapper
 
 <div class="sh desktop-100">
   <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
-    GRAPHS SHOWING TRENDS
+    Graphs Showing Trends
   </h2>
 </div>
 <br />

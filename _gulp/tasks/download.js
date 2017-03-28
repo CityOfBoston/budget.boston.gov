@@ -16,7 +16,7 @@ gulp.task('download', function (done) {
         ],
         injectStrings: [
           //'<base href="{{ site.url }}">', 
-          '<title>{{ page.title }} | {{ site.title }}</title>'
+          '<title>{{ page.title }} | {{ site.title }}</title><link rel="stylesheet" href="{{ site.url }}/assets/css/main.css">'
         ]
       }))
   )

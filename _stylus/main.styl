@@ -1,3 +1,39 @@
 /*
   YOUR CSS, POWERED BY STYLUS, GOES HERE
 */
+
+.responsive-table {
+  thead {
+    tr {
+      th {
+        &:first-of-type { text-align: left; }
+        text-align: right;
+        padding: 10px;
+      }
+    }
+  }
+  th {
+    line-height: 1.5;
+    padding: 5px;
+  }
+  tbody {
+    color: #091F2F;
+    tr {
+      &:nth-child(odd) {
+        background-color: #F2F2F2;
+      }
+      &:last-of-type {
+        background-color: #091F2F;
+        color: white;
+      }
+      td {
+        &:first-of-type {
+          text-align: left;
+          font-style: italic;
+        }
+        border: none;
+        text-align: right;
+      }
+    }
+  }
+}
