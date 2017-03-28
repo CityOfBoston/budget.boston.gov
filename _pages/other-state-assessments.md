@@ -89,7 +89,7 @@ table:
         "FY16 Actual": $
         "FY17 Budget": $
         "FY18 Budget": $
-      - "Assessment": Totals:
+      - "Assessment": Totals
         "FY15 Actual": $4.25
         "FY16 Actual": $4.58
         "FY17 Budget": $4.65
