@@ -1,4 +1,45 @@
 ---
 layout: bos_wrapper
 ---
-{{ content }}
+
+{% include hero.html %}
+
+{% for component in page.components %}
+
+  {% if component.breadcrumbs %}
+    {% include breadcrumbs.html arg=component.breadcrumbs %}
+  {% endif %}
+
+  {% if component.intro %}
+    {% include intro.html arg=component.intro %}
+  {% endif %}
+
+  {% if component.text_block %}
+    {% include text_block.html arg=component.text_block %}
+  {% endif %}
+
+  {% if component.spanning_image %}
+    {% include spanning_image.html arg=component.spanning_image %}
+  {% endif %}
+
+  {% if component.js_table %}
+    {% include js_table.html arg=component.js_table %}
+  {% endif %}
+
+  {% if component.table %}
+    {% include table.html arg=component.table %}
+  {% endif %}
+
+  {% if component.grid %}
+    {% include grid.html arg=component.grid %}
+  {% endif %}
+
+  {% if component.text_col_3 %}
+    {% include text_col_3.html arg=component.text_col_3 %}
+  {% endif %}
+
+  {% if component.text_col_2 %}
+    {% include text_col_2.html arg=component.text_col_2 %}
+  {% endif %}
+
+{% endfor %}
