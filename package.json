@@ -26,6 +26,7 @@
   },
   "devDependencies": {
     "gulp-convert-encoding": "^1.0.0",
+    "gulp-entity-convert": "0.0.2",
     "gulp-inject-element": "^2.0.2",
     "gulp-insert": "^0.5.0",
     "gulp-replace": "^0.5.4",
