@@ -1,7 +1,8 @@
 var gulp = require('gulp');
+var argv = require('yargs').argv;
 
 gulp.task('create_collections', function (done) {
-  return gulp.src(['_json/fy17/_cabinets/**'])
+  return gulp.src(['_json/'+ argv.source  + '/_cabinets/**'])
     .pipe(gulp.dest('_cabinets'))
   gulp.src(['_json/fy17/_departments/**'])
     .pipe(gulp.dest('_departments'))
