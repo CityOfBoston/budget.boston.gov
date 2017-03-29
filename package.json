@@ -28,7 +28,6 @@
     "gulp-entity-convert": "0.0.2",
     "gulp-inject-element": "^2.0.2",
     "gulp-insert": "^0.5.0",
-    "gulp-replace": "^0.5.4",
     "gulp-streamify": "^1.0.2",
     "poststylus": "^0.2.3",
     "yargs": "^7.0.2"
