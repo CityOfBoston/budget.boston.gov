@@ -64,7 +64,7 @@ layout: bos_wrapper
         {% if row.total %}
         <td data-label="All Departments"><strong>{{ row.total }}</strong></td>
         {% else %}
-        <td data-label="Department"><a href="{{ site.url }}/operating-budget/cabinets/{{ page.name | replace: "'","" | slugify }}/{{ row.department | replace: "'","" | slugify }}">{{ row.line_title }}</a></td>
+        <td data-label="Department"><a href="{{ site.url }}/operating-budget/cabinets/{{ page.name | replace: "'","" | slugify }}/{{ row.line_title | replace: "'","" | slugify }}">{{ row.line_title }}</a></td>
         {% endif %}
           <td data-label="{{ page.operating_budget_tables[0].table_summary[0].table_header[0].fy-2 }}">
             {{ row.fy-2 | append: 0 |append:0 | money }}
@@ -84,7 +84,7 @@ layout: bos_wrapper
 
 <div class="sh desktop-100">
   <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
-    GRAPHS SHOWING TRENDS
+    Graphs Showing Trends
   </h2>
 </div>
 <br />
@@ -121,6 +121,7 @@ layout: bos_wrapper
     <table class="responsive-table"><th>{{ page.name }} Operating Budget by Department</th></table>
     <canvas
       id="aggregateBarChart"
+      class="barChart"
       width="200"
       height="200"
       data-labels='
@@ -135,23 +136,12 @@ layout: bos_wrapper
         {% for row in page.operating_budget.data %}
           {% if row.line_type == "data" %}
             "{{ row.line_title | remove: "'" }}":[
-            {% for column in row %}
-              {% if column[0] != "line_title" and column[0] != "line_type" %}
-                {{ column[1] }}{% unless forloop.last %}, {% endunless %}
-              {% endif %}
-            {% endfor %}
-            ]
-          {% endif %}
-          {% if row.department %}
-            "{{ row.department }}":[
-            {% for column in row %}
-              {% if column[0] != 'department' %}
-                {{ column[1] }}
-                {% if forloop.last == false %}, {% endif %}
-              {% endif %}
-            {% endfor %}]
-            {% assign i = forloop.length | minus: 1 %}
-            {% if forloop.index != i %}, {% endif %}
+              {% for column in row %}
+                {% if column[0] != "line_title" and column[0] != "line_type" %}
+                  {{ column[1] }}{% unless forloop.last %}, {% endunless %}
+                {% endif %}
+              {% endfor %}
+            ]{% assign i = forloop.length | minus: 1 %}{% unless forloop.index == i %}, {% endunless %}
           {% endif %}
         {% endfor %}
       }'

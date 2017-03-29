@@ -1,0 +1,55 @@
+---
+{
+  "cabinet":"Operations",
+  "department":"Property Management",
+  "file_version":"0.10",
+  "head_name":"Bob Slade",
+  "head_title":"Manager",
+  "name":"Security Systems",
+  "parent":"Property Management",
+  "parent_id":"1679091C5A880FAF6FB5E6087EB1B2DC",
+  "section_id":142,
+  "section_md5_id":"A8BAA56554F96369AB93E4F3BB068C22",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 180500",
+  "description":"The Security Systems Program monitors public buildings for safety and security violations, coordinates an effective response by the Municipal Protective Services Division (MPSD) as well as other public safety agencies of the City of Boston, installs, maintains, and monitors fire and intrusion alarms in public buildings, and installs and monitors temporary alarm systems to protect various projects.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":912500,
+      "fy-1":755258,
+      "fy-0":847654,
+      "fy+2":762275
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":489776,
+      "fy-1":34388,
+      "fy-0":114428,
+      "fy+1":73694
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1402276,
+      "fy-1":789646,
+      "fy-0":962082,
+      "fy+1":835969
+    }
+  ],
+  "performance_strategies":[]
+}
+---

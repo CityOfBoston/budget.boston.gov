@@ -1,0 +1,131 @@
+---
+{
+  "cabinet":"Housing and Neighborhood Development",
+  "department":"Neighborhood Development",
+  "file_version":"0.10",
+  "head_name":"Rick Wilson",
+  "head_title":"Deputy Director",
+  "name":"Neighborhood Development",
+  "parent":"Neighborhood Development",
+  "parent_id":"C16A5320FA475530D9583C34FD356EF5",
+  "section_id":55,
+  "section_md5_id":"B53B3A3D6AB90CE0268229151C9BDE11",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 188100",
+  "description":"The Administration Program enforces Department policies and  procedures and provides support services to all Neighborhood Development  programs to ensure the effective completion of departmental goals  in compliance with City, State and Federal laws and regulations.",
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15 Actual",
+      "fy-1":"16 Actual",
+      "fy-0":"17 Budget",
+      "fy+2":"18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":994301,
+      "fy-1":919668,
+      "fy-0":1228163,
+      "fy+2":1318526
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":919299,
+      "fy-1":314777,
+      "fy-0":392517,
+      "fy+1":392976
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1913600,
+      "fy-1":1234445,
+      "fy-0":1620680,
+      "fy+1":1711502
+    }
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":994301,
+        "fy-1":919668,
+        "fy-0":1228163,
+        "fy+1":1318526,
+        "diff":90363
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":1194551,
+        "fy-1":1098222,
+        "fy-0":1479616,
+        "fy+1":1575172,
+        "diff":95556
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":1225244,
+        "fy-1":1123832,
+        "fy-0":1512710,
+        "fy+1":1607316,
+        "diff":94606
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":1305731,
+        "fy-1":1218171,
+        "fy-0":1607991,
+        "fy+1":1702747,
+        "diff":94756
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":1313600,
+        "fy-1":1234445,
+        "fy-0":1620680,
+        "fy+1":1711502,
+        "diff":90822
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":1913600,
+        "fy-1":1234445,
+        "fy-0":1620680,
+        "fy+1":1711502,
+        "diff":90822
+      }
+    ]
+  },
+  "performance_strategies":[]
+}
+---

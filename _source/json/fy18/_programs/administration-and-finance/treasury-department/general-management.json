@@ -1,0 +1,131 @@
+---
+{
+  "cabinet":"Administration and Finance",
+  "department":"Treasury Department",
+  "file_version":"0.10",
+  "head_name":"Celia M. Barton",
+  "head_title":"Manager",
+  "name":"Treasury Department",
+  "parent":"Treasury Department",
+  "parent_id":"3C59DC048E8850243BE8079A5C74D079",
+  "section_id":168,
+  "section_md5_id":"006F52E9102A8D3BE2FE5614F42BA989",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 137100",
+  "description":"The General Management Program is responsible for hiring, training, and supervising Collection Division staff and systems",
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15 Actual",
+      "fy-1":"16 Actual",
+      "fy-0":"17 Budget",
+      "fy+2":"18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":444108,
+      "fy-1":467343,
+      "fy-0":498292,
+      "fy+2":472478
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":213238,
+      "fy-1":240345,
+      "fy-0":81219,
+      "fy+1":81219
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":657346,
+      "fy-1":707688,
+      "fy-0":579511,
+      "fy+1":553697
+    }
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":444108,
+        "fy-1":467343,
+        "fy-0":498292,
+        "fy+1":472478,
+        "diff":-25814
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":479700,
+        "fy-1":517177,
+        "fy-0":554292,
+        "fy+1":528478,
+        "diff":-25814
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":556454,
+        "fy-1":593554,
+        "fy-0":570292,
+        "fy+1":553697,
+        "diff":-16595
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":567626,
+        "fy-1":602489,
+        "fy-0":579511,
+        "fy+1":553697,
+        "diff":-25814
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":585485,
+        "fy-1":617043,
+        "fy-0":579511,
+        "fy+1":553697,
+        "diff":-25814
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":657346,
+        "fy-1":707688,
+        "fy-0":579511,
+        "fy+1":553697,
+        "diff":-25814
+      }
+    ]
+  },
+  "performance_strategies":[]
+}
+---

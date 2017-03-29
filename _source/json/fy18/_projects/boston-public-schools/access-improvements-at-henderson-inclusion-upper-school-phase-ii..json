@@ -1,0 +1,41 @@
+---
+{
+  "debug":"JCD",
+  "name":"East Boston High School Windows.",
+  "mission":"Replace windows at East Boston High School.",
+  "managing_department":"School Department.",
+  "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+  "status":"In Construction",
+  "location":"East Boston",
+  "operating_impact":"Yes",
+  "expenditures_summary":[
+    {
+      "line_type":"data",
+      "line_title":"City Capital",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":58000000,
+      "row_total":58000000
+    },
+    {
+      "line_type":"data",
+      "line_title":"Grants/Other",
+      "fy-2":503740,
+      "fy-1":1075493,
+      "fy-0":1170767,
+      "fy+1":64250000,
+      "row_total":67000000
+    },
+    {
+      "line_type":"total",
+      "line_title":"Total",
+      "fy-2":503740,
+      "fy-1":1075493,
+      "fy-0":1170767,
+      "fy+1":122250000,
+      "row_total":125000000
+    }
+  ]
+}
+---

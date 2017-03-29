@@ -1,0 +1,478 @@
+---
+{
+  "cabinet":"Education",
+  "department":"Boston Public Schools.",
+  "file_version":"0.10",
+  "head_name":null,
+  "head_title":null,
+  "name":"Boston Public Schools.",
+  "parent":"Boston Public Schools.",
+  "parent_id":"34173CB38F07F89DDBEBC2AC9128303F",
+  "section_id":30,
+  "section_md5_id":"34173CB38F07F89DDBEBC2AC9128303F",
+  "section_type":"projects",
+  "section_type_short":"R",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "description":"Boston Public Schools is taking the first steps in realizing the vision of BuildBPS, the District&rsquo;s 10-year educational and facilities master plan. BuildBPS will transform the way the District and the City plan, build, and renovate school facilities.",
+  "vol1_category_copy":"NEED SOURCE LOCATION FOR THIS DATA",
+  "selected_performance_strategies":[
+    {
+      "program":"NEED SOURCE LOCATION FOR THIS DATA",
+      "strategies":[
+        "NEED SOURCE LOCATION FOR THIS DATA"
+      ]
+    }
+  ],
+  "overview":"Boston Public Schools is taking the first steps in realizing the vision of BuildBPS, the District&rsquo;s 10-year educational and facilities master plan. BuildBPS will transform the way the District and the City plan, build, and renovate school facilities.",
+  "capital_budget_expenditures":[
+    {
+      "table_type":"capital_budget_expenditures",
+      "table_title":"Capital Budget Expenditures",
+      "table_header":{
+        "Program Name":"Capital Budget Expenditures",
+        "fy-2":"15 Actual",
+        "fy-1":"16 Actual",
+        "fy-0":"17 Estimated",
+        "fy+2":"18 Projected"
+      },
+      "data":[
+        {
+          "department":"Boston Public Schools",
+          "fy-2":"51490890",
+          "fy-1":"38290691",
+          "fy-0":"65676408",
+          "fy+1":"110104285"
+        },
+        {
+          "total":"Total",
+          "fy-2":"51490890",
+          "fy-1":"38290691",
+          "fy-0":"65676408",
+          "fy+1":"110104285"
+        }
+      ]
+    }
+  ],
+  "projects":[
+    {
+      "name":"Dearborn 6-12 STEM / Early College Academy.",
+      "mission":"Design and construct a new STEM (Science, Technology, Engineering and Mathematics) school for grades 6 through 12 on the site of the current Dearborn School. The MSBA will partner with the City in the development and funding of this new school.",
+      "managing_department":"Public Facilities Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"In Construction",
+      "location":"Roxbury",
+      "operating_impact":"",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":168812,
+          "fy-1":5831188,
+          "fy-0":3000000,
+          "fy+1":12000000,
+          "row_total":21000000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":168812,
+          "fy-1":5831188,
+          "fy-0":3000000,
+          "fy+1":12000000,
+          "row_total":21000000
+        }
+      ]
+    },
+    {
+      "name":"Boston Arts Academy.",
+      "mission":"Conduct a feasibility study and develop schematic design plans in conjunction with the Massachusetts School Building Authority that results in the construction or renovation of a facility that supports the requirements of the Boston Arts Academy.",
+      "managing_department":"Public Facilities Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"Study Underway",
+      "location":"Fenway/Kenmore",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":500000,
+          "fy+1":2000000,
+          "row_total":2500000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":500000,
+          "fy+1":2000000,
+          "row_total":2500000
+        }
+      ]
+    },
+    {
+      "name":"East Boston High School Windows.",
+      "mission":"Replace windows at East Boston High School.",
+      "managing_department":"School Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"In Construction",
+      "location":"East Boston",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":58000000,
+          "row_total":58000000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":503740,
+          "fy-1":1075493,
+          "fy-0":1170767,
+          "fy+1":64250000,
+          "row_total":67000000
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":503740,
+          "fy-1":1075493,
+          "fy-0":1170767,
+          "fy+1":122250000,
+          "row_total":125000000
+        }
+      ]
+    },
+    {
+      "name":"Access Improvements at Henderson Inclusion Upper School Phase II.",
+      "mission":"Accessibility renovations including bathroom and fire system upgrades.",
+      "managing_department":"Public Facilities Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"In Design",
+      "location":"Dorchester",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":140986,
+          "fy-1":1526646,
+          "fy-0":11911513,
+          "fy+1":0,
+          "row_total":13579145
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":208227,
+          "fy-1":840251,
+          "fy-0":15315540,
+          "fy+1":0,
+          "row_total":16364018
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":349213,
+          "fy-1":2366897,
+          "fy-0":27227053,
+          "fy+1":0,
+          "row_total":29943163
+        }
+      ]
+    },
+    {
+      "name":"ACC at E. Greenwood.",
+      "mission":"Interior renovation of the E. Greenwood facility for Another Course to College.",
+      "managing_department":"School Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"In Construction",
+      "location":"Hyde Park",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":0,
+          "fy-1":207180,
+          "fy-0":3180132,
+          "fy+1":0,
+          "row_total":3387312
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":141543,
+          "fy-0":6273326,
+          "fy+1":0,
+          "row_total":6414869
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":0,
+          "fy-1":348723,
+          "fy-0":9453458,
+          "fy+1":0,
+          "row_total":9802181
+        }
+      ]
+    },
+    {
+      "name":"Hernandez School Yard and Site Improvements.",
+      "mission":"Design and construct a new school yard including a synthetic turf field. General site improvements including permeable paving that will reduce the volume of storm water run-off. The BWSC is funding a portion of this project.",
+      "managing_department":"School Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"In Design",
+      "location":"Roxbury",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":2000000,
+          "fy+1":7330000,
+          "row_total":9330000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":2000000,
+          "fy+1":7330000,
+          "row_total":9330000
+        }
+      ]
+    },
+    {
+      "name":"Carter Development Center.",
+      "mission":"Design and construct a building addition that will include appropriate and dedicated spaces for beneficial and critical instructional activities including aquatic, physical, creative arts and multi-sensory therapies.",
+      "managing_department":"Public Facilities Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"To Be Scheduled",
+      "location":"South End",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":40000,
+          "fy+1":782000,
+          "row_total":822000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":40000,
+          "fy+1":782000,
+          "row_total":822000
+        }
+      ]
+    },
+    {
+      "name":"Madison Park Complex Building #4 Locker Rooms.",
+      "mission":"Renovate women's locker rooms for Madison Park Technical Vocational High School and the O'Bryant School of Mathematics and Science.",
+      "managing_department":"Public Facilities Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"New Project",
+      "location":"Roxbury",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":1200000,
+          "fy+1":0,
+          "row_total":1200000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":1200000,
+          "fy+1":0,
+          "row_total":1200000
+        }
+      ]
+    },
+    {
+      "name":"BuildBPS: 21st Century Schools Fund.",
+      "mission":"Acquire new school furniture and technology to promote 21st Century Learning.",
+      "managing_department":"School Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"New Project",
+      "location":"Citywide",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":7000000,
+          "fy+1":37250000,
+          "row_total":44250000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":7000000,
+          "fy+1":37250000,
+          "row_total":44250000
+        }
+      ]
+    },
+    {
+      "name":"Security Related Improvements at Various Schools.",
+      "mission":"Install intercom and clock systems, re-key doors, expand card access, replace smoke doors, install motion detectors and other security related improvements.",
+      "managing_department":"School Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"Annual Program",
+      "location":"Various neighborhoods",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":1695178,
+          "fy-1":745070,
+          "fy-0":9917270,
+          "fy+1":12292482,
+          "row_total":24650000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":15800000,
+          "row_total":15800000
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":1695178,
+          "fy-1":745070,
+          "fy-0":9917270,
+          "fy+1":28092482,
+          "row_total":40450000
+        }
+      ]
+    },
+    {
+      "name":"BPS School Yard Improvements.",
+      "mission":"Design and construction of school yard improvements at the Murphy.",
+      "managing_department":"Public Facilities Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"New Project",
+      "location":"Citywide",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":23987919,
+          "row_total":23987919
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":2400000,
+          "fy-0":0,
+          "fy+1":36639559,
+          "row_total":39039559
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":0,
+          "fy-1":2400000,
+          "fy-0":0,
+          "fy+1":60627478,
+          "row_total":63027478
+        }
+      ]
+    }
+  ]
+}
+---

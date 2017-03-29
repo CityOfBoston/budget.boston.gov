@@ -1,0 +1,209 @@
+---
+{
+  "file_version":"0.10",
+  "parent_id":"NEED TO GET THIS",
+  "section_id":91,
+  "section_md5_id":"54229ABFCFA5649E7003B83DD4755294",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "name":"Budget Management",
+  "parent":"Administration and Finance",
+  "cabinet":"Administration and Finance",
+  "department":"Budget Management",
+  "head_name":"Katie Hammer",
+  "head_title":"Director",
+  "appropriation_code":"Appropriation 141",
+  "mission":"The Office of Budget Management (OBM) promotes the high quality delivery of services to Boston&rsquo;s residents in a cost effective way. OBM evaluates City programs and then uses analysis to build, present, and manage the Mayor's operating budget. OBM also creates the capital plan. The capital plan is a strategic document that shows how the City's investment in its infrastructure, such as bridges and roads, contributes to Boston's future. The City also uses the plan to make smart spending decisions and protect its assets.",
+  "selected_performance_strategies":{
+    "program":"Risk Management",
+    "strategies":[
+      "Ensure long-term financial stability."
+    ]
+  },
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "Program Name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+2":"FY18 Budget"
+    },
+    "data":[
+      {
+        "line_title":"Budget Administration",
+        "line_type":"data",
+        "fy-2":"1170876",
+        "fy-1":"1327635",
+        "fy-0":"1516020",
+        "fy+2":"1001218"
+      },
+      {
+        "line_title":"Budget & Management",
+        "line_type":"data",
+        "fy-2":"531594",
+        "fy-1":"551482",
+        "fy-0":"810690",
+        "fy+2":"842389"
+      },
+      {
+        "line_title":"Revenue Monitoring",
+        "line_type":"data",
+        "fy-2":"225956",
+        "fy-1":"193686",
+        "fy-0":"193368",
+        "fy+2":"866648"
+      },
+      {
+        "line_title":"Capital Budgeting",
+        "line_type":"data",
+        "fy-2":"483707",
+        "fy-1":"473233",
+        "fy-0":"490356",
+        "fy+2":"503146"
+      },
+      {
+        "line_title":"Risk Management",
+        "line_type":"data",
+        "fy-2":"172924",
+        "fy-1":"176751",
+        "fy-0":"189542",
+        "fy+2":"191357"
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":"2585057",
+        "fy-1":"2722787",
+        "fy-0":"3199976",
+        "fy+2":"3404758"
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":2075679,
+      "fy-1":2162003,
+      "fy-0":2284345,
+      "fy+2":2320888
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":509378,
+      "fy-1":560784,
+      "fy-0":915631,
+      "fy+1":1083870
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":2585057,
+      "fy-1":2722787,
+      "fy-0":3199976,
+      "fy+1":3404758
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Annual Appropriation Process, Tregor, 1982 Mass. Acts ch. 190 § 15; 1986 Mass. Acts ch. 701, § 2.",
+    "Reserve Fund, 1986 Mass. Acts ch. 701, §7.",
+    "Budget Allotment Process and Reallocations, Tregor, 1982 Mass. Acts ch. 190 § 18; 1986 Mass. Acts ch. 701, § 8-9.",
+    "Duties of Supervisor of Budgets, CBC Ord. § 5-1.5.",
+    "Transfer of Appropriations, Tregor, 1982 Mass. Acts ch. 190 § 23; 1986 Mass. Acts ch. 701, § 3.",
+    "Penalty for Overspending Budget, Tregor, 1982 Mass. Acts ch. 190, § 17."
+  ],
+  "description_of_services":[
+    "The Office of Budget Management coordinates the analysis and presentation of the Mayor's operating budget and capital plan. The Office also assembles, analyzes and presents data with respect to revenue and debt management. In addition, the Office assists line departments to evaluate programs and to establish and use performance measures to improve the quality, effectiveness, and efficiency of City services while minimizing the cost of program delivery."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":2075679,
+        "fy-1":2162003,
+        "fy-0":2284345,
+        "fy+1":2320888,
+        "diff":36543
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":2431597,
+        "fy-1":2562434,
+        "fy-0":2991601,
+        "fy+1":3278983,
+        "diff":287382
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":2434644,
+        "fy-1":2565359,
+        "fy-0":2997201,
+        "fy+1":3284583,
+        "diff":287382
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":2585057,
+        "fy-1":2718257,
+        "fy-0":3199976,
+        "fy+1":3402358,
+        "diff":202382
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":2585057,
+        "fy-1":2722787,
+        "fy-0":3199976,
+        "fy+1":3404758,
+        "diff":204782
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":2585057,
+        "fy-1":2722787,
+        "fy-0":3199976,
+        "fy+1":3404758,
+        "diff":204782
+      }
+    ]
+  }
+}
+---

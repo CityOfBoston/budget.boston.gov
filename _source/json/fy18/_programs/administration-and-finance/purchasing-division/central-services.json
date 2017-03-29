@@ -1,0 +1,131 @@
+---
+{
+  "cabinet":"Administration and Finance",
+  "department":"Purchasing Division",
+  "file_version":"0.10",
+  "head_name":"Kevin Coyne",
+  "head_title":"Manager",
+  "name":"Purchasing Division",
+  "parent":"Purchasing Division",
+  "parent_id":"98F13708210194C475687BE6106A3B84",
+  "section_id":146,
+  "section_md5_id":"A5E00132373A7031000FD987A3C9F87B",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 143300",
+  "description":"The Central Services Program provides mail service, disposal of surplus property, and publishing of the City Record.  This program is responsible for handling all incoming and outgoing mail for departments within City Hall.  The Surplus Property Unit ensures the efficient and economical disposal of all the City's surplus property excluding land and buildings.  This program is responsible for publishing, distribution, billing, and marketing of the City Record.",
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15 Actual",
+      "fy-1":"16 Actual",
+      "fy-0":"17 Budget",
+      "fy+2":"18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":192847,
+      "fy-1":195426,
+      "fy-0":186104,
+      "fy+2":189283
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":25250,
+      "fy-1":80665,
+      "fy-0":110834,
+      "fy+1":25588
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":218097,
+      "fy-1":276091,
+      "fy-0":296938,
+      "fy+1":214871
+    }
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":192847,
+        "fy-1":195426,
+        "fy-0":186104,
+        "fy+1":189283,
+        "diff":3179
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":206095,
+        "fy-1":227629,
+        "fy-0":207952,
+        "fy+1":211131,
+        "diff":3179
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":206135,
+        "fy-1":228292,
+        "fy-0":210952,
+        "fy+1":214131,
+        "diff":3179
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":206294,
+        "fy-1":228562,
+        "fy-0":211692,
+        "fy+1":214871,
+        "diff":3179
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":219080,
+        "fy-1":271185,
+        "fy-0":296938,
+        "fy+1":214871,
+        "diff":-82067
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":218097,
+        "fy-1":276091,
+        "fy-0":296938,
+        "fy+1":214871,
+        "diff":-82067
+      }
+    ]
+  },
+  "performance_strategies":[]
+}
+---

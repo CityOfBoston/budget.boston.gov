@@ -1,3 +1,3 @@
 var gulp   = require('gulp');
 
-gulp.task('default', ['download', 'create_collections', 'encode_json', 'build', 'watch', 'browser-sync', 'stylus']);
+gulp.task('default', ['download_wrapper', 'clean_project', 'create_collections', 'convert_unicode', 'build', 'watch', 'browser-sync', 'stylus']);

@@ -1,0 +1,84 @@
+---
+{
+  "cabinet":"Public Safety",
+  "department":"Police Department",
+  "file_version":"0.10",
+  "head_name":"Vacant",
+  "head_title":"Manager",
+  "name":"BAT-Admin & Technology",
+  "parent":"Police Department",
+  "parent_id":"6EA9AB1BAA0EFB9E19094440C317E21B",
+  "section_id":40,
+  "section_md5_id":"D645920E395FEDAD7BBBED0ECA3FE2E0",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 211300",
+  "description":"The Bureau of Administration and Technology Program is responsible for the effective utilization of departmental funds, equipment and informational systems in support of department operations.  Division sections include Human Resources, Finance, Central Supply, Licensing, Support Services,  Information Technology, and the Operations Division.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":32303431,
+      "fy-1":33059249,
+      "fy-0":33615118,
+      "fy+2":35111318
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":13554448,
+      "fy-1":12584369,
+      "fy-0":15662159,
+      "fy+1":16572157
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":45857879,
+      "fy-1":45643618,
+      "fy-0":49277277,
+      "fy+1":51683475
+    }
+  ],
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Effectively manage overtime"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Number of overtime hours",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":900000,
+              "fy-1":900000
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

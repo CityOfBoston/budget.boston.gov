@@ -1,0 +1,55 @@
+---
+{
+  "cabinet":"Economic Development",
+  "department":"Office of Economic Development",
+  "file_version":"0.10",
+  "head_name":"John Barros",
+  "head_title":"Manager",
+  "name":"Economic Development",
+  "parent":"Office of Economic Development",
+  "parent_id":"182BE0C5CDCD5072BB1864CDEE4D3D6E",
+  "section_id":260,
+  "section_md5_id":"A4F23670E1833F3FDB077CA70BBD5D66",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 182100",
+  "description":"The Economic Development Program will focus on fostering economic development in all of Boston&rsquo;s neighborhoods through marketing Boston on a national and international scale; ensuring access to employment, pathways to careers, and strong job growth; streamlining licensing and permitting processes; and supporting small businesses.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":513996,
+      "fy-1":599713,
+      "fy-0":531732,
+      "fy+2":692490
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":52888,
+      "fy-1":80830,
+      "fy-0":94064,
+      "fy+1":119125
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":566884,
+      "fy-1":680543,
+      "fy-0":625796,
+      "fy+1":811615
+    }
+  ],
+  "performance_strategies":[]
+}
+---

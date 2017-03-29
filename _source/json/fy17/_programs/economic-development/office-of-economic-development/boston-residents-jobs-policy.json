@@ -1,0 +1,100 @@
+---
+{
+  "cabinet":"Economic Development",
+  "department":"Office of Economic Development",
+  "file_version":"0.10",
+  "head_name":"Karilyn Crockett",
+  "head_title":"Manager",
+  "name":"Boston Residents Jobs Policy",
+  "parent":"Office of Economic Development",
+  "parent_id":"182BE0C5CDCD5072BB1864CDEE4D3D6E",
+  "section_id":49,
+  "section_md5_id":"F457C545A9DED88F18ECEE47145A72C0",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 182200",
+  "description":"The mission of the Boston Residents Jobs Policy is to increase the employment opportunities for Boston&rsquo;s residents, minorities, and women. The Boston Residents Jobs Ordinance sets goals on construction-related projects funded by or approved by the City. The ordinance stated goals aim to have 51% of the work hours performed by Boston residents, 40% by people of color, and 12% by women on a trade-by-trade basis.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":424303,
+      "fy-1":403841,
+      "fy-0":619058,
+      "fy+2":632518
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":8573,
+      "fy-1":2333,
+      "fy-0":5595,
+      "fy+1":7025
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":432876,
+      "fy-1":406174,
+      "fy-0":624653,
+      "fy+1":639543
+    }
+  ],
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To monitor construction contracts, both public and Developmental Impact Projects (DIPs), for compliance with the BRJ Ordinance."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of work hours performed by Boston residents",
+              "fy-4":"41%",
+              "fy-3":"38%",
+              "fy-2":"51%",
+              "fy-1":"51%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"% of work hours performed by people of color",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"40%",
+              "fy-1":"40%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"% of work hours performed by women",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"12%",
+              "fy-1":"12%"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

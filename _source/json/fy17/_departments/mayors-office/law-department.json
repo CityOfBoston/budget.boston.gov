@@ -1,0 +1,236 @@
+---
+{
+  "file_version":"0.10",
+  "parent_id":"NEED TO GET THIS",
+  "section_id":12,
+  "section_md5_id":"C20AD4D76FE97759AA27A0C99BFF6710",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "name":"Law Department",
+  "parent":"Mayors Office",
+  "cabinet":"Mayors Office",
+  "department":"Law Department",
+  "head_name":"Eugene L. OFlaherty",
+  "head_title":"Corporation Counsel",
+  "appropriation_code":"Appropriation 151",
+  "mission":"The mission of the Law Department is to provide a high level of professional legal services to its clients, the Mayor, City Council and City departments, supporting all official capacities within City government, in a timely and cost effective manner. Law Department personnel are committed to upholding the highest ethical standards and to assuming a professional and caring attitude toward their clients, and among themselves.",
+  "selected_performance_strategies":{
+    "program":"Government services",
+    "strategies":[
+      "To maximize the recovery of funds to the City, including deliquent taxes.",
+      "To provide consultation services that include rendering legal opinions, drafting and approving legal instruments such as contracts, agreements, licensing and indemnity agreements, zoning issues, public record requests and subpoena responses."
+    ]
+  },
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "Program Name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+2":"FY18 Budget"
+    },
+    "data":[
+      {
+        "line_title":"Law Operations",
+        "line_type":"data",
+        "fy-2":"1926683",
+        "fy-1":"1806057",
+        "fy-0":"1696635",
+        "fy+2":"1220489"
+      },
+      {
+        "line_title":"Litigation",
+        "line_type":"data",
+        "fy-2":"2894424",
+        "fy-1":"1921743",
+        "fy-0":"2222309",
+        "fy+2":"2580041"
+      },
+      {
+        "line_title":"Government Services",
+        "line_type":"data",
+        "fy-2":"1162282",
+        "fy-1":"1301992",
+        "fy-0":"1866260",
+        "fy+2":"2049372"
+      },
+      {
+        "line_title":"Office of Gaming & Accountability",
+        "line_type":"data",
+        "fy-2":"9173",
+        "fy-1":"722987",
+        "fy-0":"87240",
+        "fy+2":"0"
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":"5992562",
+        "fy-1":"5752779",
+        "fy-0":"5872444",
+        "fy+2":"5849902"
+      }
+    ]
+  },
+  "external_funds_budget":{
+    "table_type":"External Funds",
+    "table_title":"External Funds Budget",
+    "table_header":{
+      "name":"Fund Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+2":"FY18 Budget"
+    },
+    "data":[
+      {
+        "line_title":"Third Party Property Damages",
+        "line_type":"data",
+        "fy-2":"0",
+        "fy-1":"27014",
+        "fy-0":"500000",
+        "fy+2":"500000"
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":"0",
+        "fy-1":"27014",
+        "fy-0":"500000",
+        "fy+2":"500000"
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":3734496,
+      "fy-1":3398720,
+      "fy-0":3783462,
+      "fy+2":3764570
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":2258066,
+      "fy-1":2354059,
+      "fy-0":2088982,
+      "fy+1":2085332
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":5992562,
+      "fy-1":5752779,
+      "fy-0":5872444,
+      "fy+1":5849902
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "General Responsibilities of Law Department and Corporation Counsel, CBC Ord. C.5, s. 8.1.",
+    "Appointment of Corporation Counsel, CBC Ord. C.2, s. 7.1."
+  ],
+  "description_of_services":[
+    "The Law Department supervises approximately 60 attorneys citywide. The Department also directly supervises approximately 25 support staff employees who work with the legal staff. The Department is responsible for handling court litigation, administrative hearings, appellate reviews, advisory opinions/memoranda, drafting and approving legal instruments, drafting and analyzing legislation, and providing general legal counsel."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":3734496,
+        "fy-1":3398720,
+        "fy-0":3783462,
+        "fy+1":3764570,
+        "diff":-18892
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":5898692,
+        "fy-1":5638285,
+        "fy-0":5755262,
+        "fy+1":5741129,
+        "diff":-14133
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":5912546,
+        "fy-1":5649285,
+        "fy-0":5773642,
+        "fy+1":5757037,
+        "diff":-16605
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":5988062,
+        "fy-1":5747602,
+        "fy-0":5872444,
+        "fy+1":5849902,
+        "diff":-22542
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":5992562,
+        "fy-1":5752779,
+        "fy-0":5872444,
+        "fy+1":5849902,
+        "diff":-22542
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":5992562,
+        "fy-1":5752779,
+        "fy-0":5872444,
+        "fy+1":5849902,
+        "diff":-22542
+      }
+    ]
+  },
+  "external_funds":[
+    {
+      "project":"Third Party Property Damages",
+      "project_mission":[
+        "A revolving fund authorized by (Chapter 44, Section 53E ½) for purchasing goods and services to pay for repairs to city property from receipts from recoveries for damages to city property caused by third parties."
+      ]
+    }
+  ]
+}
+---

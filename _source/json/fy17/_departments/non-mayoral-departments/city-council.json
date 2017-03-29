@@ -1,0 +1,191 @@
+---
+{
+  "file_version":"0.10",
+  "parent_id":"NEED TO GET THIS",
+  "section_id":49,
+  "section_md5_id":"F457C545A9DED88F18ECEE47145A72C0",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "name":"City Council",
+  "parent":"Non-Mayoral Departments",
+  "cabinet":"Non-Mayoral Departments",
+  "department":"City Council",
+  "head_name":"Michelle Wu",
+  "head_title":"Council President",
+  "appropriation_code":"Appropriation 112",
+  "mission":"As the Legislative body of the City, the City Council serves as a link between the citizens of Boston and their municipal government. Through the filing of legislation, the enactment of orders, ordinances and resolutions, the Council actively represents the diverse interests of Bostonians while ensuring the efficient and cost effective delivery of services. The Council fulfills its obligation as the appropriating authority by analyzing appropriations and loan orders.",
+  "selected_performance_strategies":{
+    "program":"City Councilors",
+    "strategies":[
+      "To ensure the sustainable and efficient delivery of city services for Boston residents.",
+      "To maximize opportunities for citizen input into the Council's legislative process.",
+      "To review, create and/or strengthen policies and laws that address the current and future needs of Boston residents, businesses and organizations."
+    ]
+  },
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "Program Name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+2":"FY18 Budget"
+    },
+    "data":[
+      {
+        "line_title":"City Council Administration",
+        "line_type":"data",
+        "fy-2":"362745",
+        "fy-1":"338734",
+        "fy-0":"354426",
+        "fy+2":"358664"
+      },
+      {
+        "line_title":"City Councilors",
+        "line_type":"data",
+        "fy-2":"4176754",
+        "fy-1":"4323562",
+        "fy-0":"4422396",
+        "fy+2":"4418092"
+      },
+      {
+        "line_title":"Legislative/Financial Support",
+        "line_type":"data",
+        "fy-2":"521777",
+        "fy-1":"544154",
+        "fy-0":"563955",
+        "fy+2":"564021"
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":"5061276",
+        "fy-1":"5206450",
+        "fy-0":"5340777",
+        "fy+2":"5340777"
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":4841047,
+      "fy-1":5021729,
+      "fy-0":5079217,
+      "fy+2":5073513
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":220229,
+      "fy-1":184721,
+      "fy-0":261560,
+      "fy+1":267264
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":5061276,
+      "fy-1":5206450,
+      "fy-0":5340777,
+      "fy+1":5340777
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Structure of City Council, 1948 Mass. Acts ch. 452, as amended.",
+    "District Representation, 1982 Mass. Acts ch. 605; 1991 Mass. Acts ch. 108; 1986 Mass. Acts ch. 343."
+  ],
+  "description_of_services":[
+    "Members draft and file legislation on a wide range of public affairs in Boston designed to improve the quality of life for its citizens. Each year the Council conducts an extensive series of public hearings to review the Mayor's appropriation request for the subsequent fiscal year. After a thorough analysis and determination that the request is fiscally sound, the Council approves an appropriation. Constituent needs are served as directed by each individual councilor."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":4841047,
+        "fy-1":5021729,
+        "fy-0":5079217,
+        "fy+1":5073513,
+        "diff":-5704
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":4978774,
+        "fy-1":5137766,
+        "fy-0":5249677,
+        "fy+1":5244453,
+        "diff":-5224
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":5011657,
+        "fy-1":5168011,
+        "fy-0":5287677,
+        "fy+1":5286677,
+        "diff":-1000
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":5028756,
+        "fy-1":5181109,
+        "fy-0":5309777,
+        "fy+1":5309777,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":5061276,
+        "fy-1":5206450,
+        "fy-0":5340777,
+        "fy+1":5340777,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":5061276,
+        "fy-1":5206450,
+        "fy-0":5340777,
+        "fy+1":5340777,
+        "diff":0
+      }
+    ]
+  }
+}
+---

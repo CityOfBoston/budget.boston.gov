@@ -1,0 +1,92 @@
+---
+{
+  "cabinet":"Economic Development",
+  "department":"Consumer Affairs & Licensing",
+  "file_version":"0.10",
+  "head_name":"Christine Pulgini",
+  "head_title":"Director",
+  "name":"Licensing Board",
+  "parent":"Consumer Affairs & Licensing",
+  "parent_id":"8F14E45FCEEA167A5A36DEDD4BEA2543",
+  "section_id":279,
+  "section_md5_id":"D395771085AAB05244A4FB8FD91BF4EE",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 114300",
+  "description":"The Licensing Program regulates all licenses for retail sales of alcoholic and non-alcoholic beverages, restaurant food, and lodgings.  The Licensing Board conducts business hearings, disciplinary hearings, and public meetings.  This program performs outreach to the community to inform citizens of the work of the Licensing Board.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":679390,
+      "fy+2":621814
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":34100,
+      "fy+1":31850
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":713490,
+      "fy+1":653664
+    }
+  ],
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To process applications and issue alcoholic beverage licenses or other licenses."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% non live entertainment licenses granted in 14 days from application",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":""
+            },
+            {
+              "line_type":"data",
+              "line_data":"% of live entertainment licenses granted in statutory time",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

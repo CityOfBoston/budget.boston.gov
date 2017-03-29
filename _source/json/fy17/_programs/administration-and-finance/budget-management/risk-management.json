@@ -1,0 +1,84 @@
+---
+{
+  "cabinet":"Administration and Finance",
+  "department":"Budget Management",
+  "file_version":"0.10",
+  "head_name":"Lynda Fraley",
+  "head_title":"Manager",
+  "name":"Risk Management",
+  "parent":"Budget Management",
+  "parent_id":"54229ABFCFA5649E7003B83DD4755294",
+  "section_id":245,
+  "section_md5_id":"0266E33D3F546CB5436A10798E657D97",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 141600",
+  "description":"The Risk Management Program develops and implements the City&rsquo;s integrated risk financing program, which includes self-insurance and commercial policies. The program also assists other City departments in their efforts to minimize costs related to property losses and legal injury and medical claims.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":112749,
+      "fy-1":116451,
+      "fy-0":115987,
+      "fy+2":117802
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":60175,
+      "fy-1":60300,
+      "fy-0":73555,
+      "fy+1":73555
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":172924,
+      "fy-1":176751,
+      "fy-0":189542,
+      "fy+1":191357
+    }
+  ],
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Ensure long-term financial stability."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of risk financing strategy implemented",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

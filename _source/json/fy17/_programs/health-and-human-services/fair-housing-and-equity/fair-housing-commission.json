@@ -1,0 +1,180 @@
+---
+{
+  "cabinet":"Health and Human Services",
+  "department":"Fair Housing & Equity",
+  "file_version":"0.10",
+  "head_name":"Janine Anzalota",
+  "head_title":"Manager",
+  "name":"Fair Housing Commission",
+  "parent":"Fair Housing & Equity",
+  "parent_id":"3416A75F4CEA9109507CACD8E2F2AEFC",
+  "section_id":91,
+  "section_md5_id":"54229ABFCFA5649E7003B83DD4755294",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 403100",
+  "description":"The Fair Housing Commission works to eliminate discrimination and increase access to housing in Boston through investigation and enforcement, affirmative marketing, and interagency coordination. The Fair Housing Commission also manages a computerized listing service of available housing opportunities in an effort to provide low-income households increased access to housing in 106 cities and towns in metropolitan Boston.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":110577,
+      "fy-1":135276,
+      "fy-0":169459,
+      "fy+2":169023
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":20199,
+      "fy-1":15984,
+      "fy-0":16500,
+      "fy+1":16700
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":130776,
+      "fy-1":151260,
+      "fy-0":185959,
+      "fy+1":185723
+    }
+  ],
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Increase access to housing opportunities through enforcement"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# Discrimination inquiries/intakes",
+              "fy-4":618,
+              "fy-3":676,
+              "fy-2":900,
+              "fy-1":900
+            },
+            {
+              "line_type":"data",
+              "line_data":"% Housing discrimination complaints moved to investigations in 30 days (was intakes processed in 30 days)",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":""
+            },
+            {
+              "line_type":"data",
+              "line_data":"Increase # of Dual Filed investigations completion by 36% from FY16",
+              "fy-4":15,
+              "fy-3":11,
+              "fy-2":15,
+              "fy-1":20
+            },
+            {
+              "line_type":"data",
+              "line_data":"Reduce the average age of open case inventory by 30% to bring our case age average down to no greater than 200 days.",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":250
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Increase access to housing opportunity through community engagement"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# community members engaged and reached at events, meetings and workshops",
+              "fy-4":3992,
+              "fy-3":3328,
+              "fy-2":1000,
+              "fy-1":1000
+            },
+            {
+              "line_type":"data",
+              "line_data":"% Current year cases investigated within 200 days",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Increase equitable access to City assisted housing development"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of City and Community programs collaboration on affirmative marketing",
+              "fy-4":48,
+              "fy-3":48,
+              "fy-2":48,
+              "fy-1":48
+            },
+            {
+              "line_type":"data",
+              "line_data":"Affirmative Marketing plans evaluated within 15 days",
+              "fy-4":22,
+              "fy-3":24,
+              "fy-2":25,
+              "fy-1":25
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

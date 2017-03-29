@@ -1,0 +1,922 @@
+---
+{
+  "file_version":"0.10",
+  "parent_id":"NEED TO GET THIS",
+  "section_id":30,
+  "section_md5_id":"34173CB38F07F89DDBEBC2AC9128303F",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "name":"Boston Public Schools",
+  "parent":"Education",
+  "cabinet":"Education",
+  "department":"Boston Public Schools",
+  "head_name":"Dr. Tommy Chang",
+  "head_title":"Superintendent",
+  "appropriation_code":"Appropriation 101",
+  "mission":"We welcome the children of this city into the Boston Public Schools, where effective teaching and learning prepare all of our students to achieve at high levels, and where the entire community works together to focus on children.",
+  "selected_performance_strategies":{
+    "program":"General School Purposes",
+    "strategies":[
+      "BPS will provide rigorous, effective, and engaging curriculum, instruction, and enrichment.",
+      "To graduate all students from high schoolprepared for college and career success."
+    ]
+  },
+  "operating_budget":{
+    "debug":"JPTR",
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "Program Name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+2":"FY18 Budget"
+    },
+    "data":[
+      {
+        "line_title":"General School Purposes",
+        "line_type":"data",
+        "fy-2":974925118,
+        "fy-1":1016278853,
+        "fy-0":1031684005,
+        "fy+2":1060932786
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":974925118,
+        "fy-1":1016278853,
+        "fy-0":1031684005,
+        "fy+2":1060932786
+      }
+    ]
+  },
+  "external_funds_budget":{
+    "debug":"JPTR",
+    "table_type":"External Funds",
+    "table_title":"External Funds Budget",
+    "table_header":{
+      "name":"Fund Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+2":"FY18 Budget"
+    },
+    "data":[
+      {
+        "line_title":"21st Century Community Learn",
+        "line_type":"data",
+        "fy-2":1075392,
+        "fy-1":1062531,
+        "fy-0":989663,
+        "fy+2":949490
+      },
+      {
+        "line_title":"Academic Support",
+        "line_type":"data",
+        "fy-2":613404,
+        "fy-1":210194,
+        "fy-0":347801,
+        "fy+2":0
+      },
+      {
+        "line_title":"Adult Career Pathways",
+        "line_type":"data",
+        "fy-2":109940,
+        "fy-1":107730,
+        "fy-0":104925,
+        "fy+2":104295
+      },
+      {
+        "line_title":"Adult Education Fund",
+        "line_type":"data",
+        "fy-2":182779,
+        "fy-1":160766,
+        "fy-0":180100,
+        "fy+2":0
+      },
+      {
+        "line_title":"Adult Education Learning Center",
+        "line_type":"data",
+        "fy-2":16963,
+        "fy-1":1548,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"Advanced Placement Incentives",
+        "line_type":"data",
+        "fy-2":12992,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"ARABIC Summer Academy",
+        "line_type":"data",
+        "fy-2":95317,
+        "fy-1":59312,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"ARRA - School Improvement",
+        "line_type":"data",
+        "fy-2":1916714,
+        "fy-1":2632184,
+        "fy-0":801933,
+        "fy+2":7602
+      },
+      {
+        "line_title":"ARRA - Title I School Improvement",
+        "line_type":"data",
+        "fy-2":709,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"Athletics Revolving Fund",
+        "line_type":"data",
+        "fy-2":1460,
+        "fy-1":7616,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"Boston Adult High School",
+        "line_type":"data",
+        "fy-2":3274,
+        "fy-1":1232,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"Boston Energy in Science Teaching",
+        "line_type":"data",
+        "fy-2":5131,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"Boston Marathon Bombing Behavioral Response",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":213442,
+        "fy-0":1036995,
+        "fy+2":98936
+      },
+      {
+        "line_title":"Boston Public School Energy",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":400000,
+        "fy+2":0
+      },
+      {
+        "line_title":"Children's Pilot Funds",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":206341,
+        "fy-0":172270,
+        "fy+2":200000
+      },
+      {
+        "line_title":"Choice Neighborhood Grant",
+        "line_type":"data",
+        "fy-2":71997,
+        "fy-1":79947,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"Class2003 - Support",
+        "line_type":"data",
+        "fy-2":10000,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"Community Partnership Program",
+        "line_type":"data",
+        "fy-2":1179081,
+        "fy-1":1216240,
+        "fy-0":334837,
+        "fy+2":334837
+      },
+      {
+        "line_title":"Comprehensive Behavorial Health Model Initiative",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+2":100000
+      },
+      {
+        "line_title":"Construct Trades Voc Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":35541,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"Coordinated Family & Community Engagement",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":799476,
+        "fy+2":837699
+      },
+      {
+        "line_title":"DOJ Youth Forum Cities",
+        "line_type":"data",
+        "fy-2":91432,
+        "fy-1":8867,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"Early Literacy Intervention",
+        "line_type":"data",
+        "fy-2":162032,
+        "fy-1":79138,
+        "fy-0":47000,
+        "fy+2":0
+      },
+      {
+        "line_title":"Empowering Teens thru Health",
+        "line_type":"data",
+        "fy-2":447287,
+        "fy-1":437332,
+        "fy-0":369999,
+        "fy+2":275000
+      },
+      {
+        "line_title":"English for New Bostonians",
+        "line_type":"data",
+        "fy-2":24956,
+        "fy-1":20545,
+        "fy-0":18231,
+        "fy+2":0
+      },
+      {
+        "line_title":"Expanded Learning Time",
+        "line_type":"data",
+        "fy-2":1998114,
+        "fy-1":1766349,
+        "fy-0":773467,
+        "fy+2":1369053
+      },
+      {
+        "line_title":"External Diploma",
+        "line_type":"data",
+        "fy-2":117065,
+        "fy-1":105108,
+        "fy-0":108700,
+        "fy+2":103001
+      },
+      {
+        "line_title":"Facilities Fund",
+        "line_type":"data",
+        "fy-2":2372618,
+        "fy-1":1484708,
+        "fy-0":1800000,
+        "fy+2":2600000
+      },
+      {
+        "line_title":"Farm to School Initiative",
+        "line_type":"data",
+        "fy-2":2500,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"Fresh Fruit & Vegetable Program",
+        "line_type":"data",
+        "fy-2":733206,
+        "fy-1":722080,
+        "fy-0":0,
+        "fy+2":1925930
+      },
+      {
+        "line_title":"Full Service Community School",
+        "line_type":"data",
+        "fy-2":448477,
+        "fy-1":197102,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"GED Test Score",
+        "line_type":"data",
+        "fy-2":6146,
+        "fy-1":4739,
+        "fy-0":4000,
+        "fy+2":5000
+      },
+      {
+        "line_title":"High Needs Support Grant",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"IDEA",
+        "line_type":"data",
+        "fy-2":17528787,
+        "fy-1":16412751,
+        "fy-0":17219684,
+        "fy+2":18090048
+      },
+      {
+        "line_title":"Improving Teacher Quality",
+        "line_type":"data",
+        "fy-2":40078,
+        "fy-1":8095,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"Indirect",
+        "line_type":"data",
+        "fy-2":2477109,
+        "fy-1":3154182,
+        "fy-0":2141386,
+        "fy+2":0
+      },
+      {
+        "line_title":"Innovation School Planning",
+        "line_type":"data",
+        "fy-2":61847,
+        "fy-1":10441,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"Institute for Education Science",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":59662,
+        "fy-0":176634,
+        "fy+2":0
+      },
+      {
+        "line_title":"Instrument Rental Account",
+        "line_type":"data",
+        "fy-2":949,
+        "fy-1":39171,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"Juvenile Accountability",
+        "line_type":"data",
+        "fy-2":96820,
+        "fy-1":22875,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"LEP - Summer Support",
+        "line_type":"data",
+        "fy-2":78018,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"Magnet Schools Assistance",
+        "line_type":"data",
+        "fy-2":-4601,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"MassGrad Implemenation",
+        "line_type":"data",
+        "fy-2":185472,
+        "fy-1":132191,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"McKinney Homeless",
+        "line_type":"data",
+        "fy-2":38884,
+        "fy-1":42937,
+        "fy-0":49999,
+        "fy+2":60000
+      },
+      {
+        "line_title":"National Endowment for the Arts",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":50000,
+        "fy+2":70000
+      },
+      {
+        "line_title":"Nutrition Summer Start Up",
+        "line_type":"data",
+        "fy-2":67617,
+        "fy-1":50303,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"Ocean Communities in Education",
+        "line_type":"data",
+        "fy-2":8702,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"Partnership to Improve Community Health - Safe Routes to School",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":102961,
+        "fy-0":180000,
+        "fy+2":191464
+      },
+      {
+        "line_title":"Pathway to Support At-Risk Students",
+        "line_type":"data",
+        "fy-2":21320,
+        "fy-1":17308,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"Perkins Vocational Education",
+        "line_type":"data",
+        "fy-2":1203452,
+        "fy-1":1275399,
+        "fy-0":1234767,
+        "fy+2":1541899
+      },
+      {
+        "line_title":"PICH Safe Routes to School",
+        "line_type":"data",
+        "fy-2":1200,
+        "fy-1":164291,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"Preschool Expansion Grant",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":3372728,
+        "fy-0":3879986,
+        "fy+2":3877986
+      },
+      {
+        "line_title":"Quality Full-Day Kindergarten",
+        "line_type":"data",
+        "fy-2":1879759,
+        "fy-1":1628676,
+        "fy-0":1790607,
+        "fy+2":0
+      },
+      {
+        "line_title":"Race To The Top",
+        "line_type":"data",
+        "fy-2":757769,
+        "fy-1":1707,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"Reading First",
+        "line_type":"data",
+        "fy-2":65630,
+        "fy-1":472,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"Reimbursable",
+        "line_type":"data",
+        "fy-2":172079,
+        "fy-1":4630092,
+        "fy-0":8054442,
+        "fy+2":0
+      },
+      {
+        "line_title":"ROTC",
+        "line_type":"data",
+        "fy-2":847033,
+        "fy-1":849347,
+        "fy-0":870000,
+        "fy+2":845000
+      },
+      {
+        "line_title":"Safe Schools",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"Scale Proj Int Math & Sci",
+        "line_type":"data",
+        "fy-2":42560,
+        "fy-1":58695,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"School Achievement",
+        "line_type":"data",
+        "fy-2":-1112,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"School Improvement",
+        "line_type":"data",
+        "fy-2":151447,
+        "fy-1":1049744,
+        "fy-0":766627,
+        "fy+2":2089641
+      },
+      {
+        "line_title":"School Lunch - Food Services",
+        "line_type":"data",
+        "fy-2":35067799,
+        "fy-1":33230610,
+        "fy-0":34284766,
+        "fy+2":64370948
+      },
+      {
+        "line_title":"Small Learning Communities",
+        "line_type":"data",
+        "fy-2":-5213,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"Special Education / Professional Dev",
+        "line_type":"data",
+        "fy-2":217101,
+        "fy-1":226530,
+        "fy-0":173784,
+        "fy+2":173784
+      },
+      {
+        "line_title":"Special Education 188 Early Childhood",
+        "line_type":"data",
+        "fy-2":419513,
+        "fy-1":362707,
+        "fy-0":484467,
+        "fy+2":480204
+      },
+      {
+        "line_title":"Special Education Circuit Breaker",
+        "line_type":"data",
+        "fy-2":11329574,
+        "fy-1":8041636,
+        "fy-0":15173004,
+        "fy+2":15628194
+      },
+      {
+        "line_title":"STEM - Early College HS",
+        "line_type":"data",
+        "fy-2":26000,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"Strategic Support for U/P School",
+        "line_type":"data",
+        "fy-2":57024,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"Summer Enhancement Program",
+        "line_type":"data",
+        "fy-2":20000,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"Summer Food Program",
+        "line_type":"data",
+        "fy-2":1120197,
+        "fy-1":1054544,
+        "fy-0":1317441,
+        "fy+2":2474705
+      },
+      {
+        "line_title":"Supporting Chemistry Teachers",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+2":256567
+      },
+      {
+        "line_title":"Supporting Family Literacy",
+        "line_type":"data",
+        "fy-2":9319,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"Sustainable Materials Recovery",
+        "line_type":"data",
+        "fy-2":18940,
+        "fy-1":254,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"Tech Enhancement Options",
+        "line_type":"data",
+        "fy-2":12500,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"Technology Fund",
+        "line_type":"data",
+        "fy-2":90561,
+        "fy-1":26696,
+        "fy-0":1500000,
+        "fy+2":1500000
+      },
+      {
+        "line_title":"Teen Pregnancy Prevention",
+        "line_type":"data",
+        "fy-2":88076,
+        "fy-1":111956,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"TILT - Turnaround with Inc Learn Time",
+        "line_type":"data",
+        "fy-2":1027389,
+        "fy-1":135699,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"Title I",
+        "line_type":"data",
+        "fy-2":35612110,
+        "fy-1":31145744,
+        "fy-0":29463856,
+        "fy+2":38041506
+      },
+      {
+        "line_title":"Title I - School Support",
+        "line_type":"data",
+        "fy-2":464686,
+        "fy-1":133695,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"Title I - Supplemental Support",
+        "line_type":"data",
+        "fy-2":5010,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"Title II - Teacher Quality",
+        "line_type":"data",
+        "fy-2":4535259,
+        "fy-1":5834059,
+        "fy-0":5512475,
+        "fy+2":5668189
+      },
+      {
+        "line_title":"Title III - Bilingual Lang Acq",
+        "line_type":"data",
+        "fy-2":2811964,
+        "fy-1":1560979,
+        "fy-0":2501686,
+        "fy+2":2335228
+      },
+      {
+        "line_title":"Title III - Summer Grant",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":82263,
+        "fy-0":101286,
+        "fy+2":69877
+      },
+      {
+        "line_title":"Transportation Fund",
+        "line_type":"data",
+        "fy-2":123617,
+        "fy-1":19495,
+        "fy-0":125000,
+        "fy+2":125000
+      },
+      {
+        "line_title":"Turnaround Sustainability Grant",
+        "line_type":"data",
+        "fy-2":-69,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+2":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":130471162,
+        "fy-1":125871487,
+        "fy-0":135341294,
+        "fy+2":166801083
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15 Actual",
+      "fy-1":"16 Actual",
+      "fy-0":"17 Budget",
+      "fy+2":"18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":762246787,
+      "fy-1":790986551,
+      "fy-0":804031628,
+      "fy+2":827392443
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":204437980,
+      "fy-1":217843904,
+      "fy-0":220694076,
+      "fy+1":225730728
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":966684767,
+      "fy-1":1008830455,
+      "fy-0":1024725704,
+      "fy+1":1053123171
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Rev. St. 1647, ch. 23, § 10 Rev. St.",
+    "General Laws and Liberties of the Massachusetts Colony (1672).",
+    "Massachusetts Constitution, Mass. Const. part II ch. 5, § 2.",
+    "Boston City Charter, 1821 Mass. Acts ch. 110, §19.",
+    "1987 Mass. Acts ch. 613.",
+    "1991 Mass. Acts ch. 108.",
+    "Education Reform Act, 1993 Mass. Acts ch. 71, as amended."
+  ],
+  "description_of_services":[
+    "."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":769986506,
+        "fy-1":798232565,
+        "fy-0":810916788,
+        "fy+1":835104392,
+        "diff":24187604
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":948404489,
+        "fy-1":989770311,
+        "fy-0":983087747,
+        "fy+1":1014100844,
+        "diff":31013097
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":957812934,
+        "fy-1":997181804,
+        "fy-0":990874682,
+        "fy+1":1021098834,
+        "diff":30224152
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":963231250,
+        "fy-1":1002767346,
+        "fy-0":1018611316,
+        "fy+1":1049404596,
+        "diff":30793280
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":973690314,
+        "fy-1":1015553192,
+        "fy-0":1030798439,
+        "fy+1":1060046710,
+        "diff":29248271
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":974925118,
+        "fy-1":1015553192,
+        "fy-0":1031684005,
+        "fy+1":1060932786,
+        "diff":29248781
+      }
+    ]
+  },
+  "external_funds":[
+    {
+      "debug":"JEFP",
+      "project":"Formula Grants",
+      "project_mission":[
+        "Formula grants are funds received through federal or state programs that provide assistance for educational services for low income, minority, and special needs students. Levels of funding are established through a predetermined formula that considers the amount of legislative appropriation and the number of students eligible for the program. Federal formula grants include the Title I, Title II, and IDEA grants. MCAS supportAcademic support is a state formula grant."
+      ]
+    },
+    {
+      "debug":"JEFP",
+      "project":"Competitive Grants",
+      "project_mission":[
+        "Competitive grants are funds received through open competition with other school districts and non-profit organizations. The grant providers establish the levels of funding. The use of these funds is determined through local planning, which typically aims to advance local priorities while meeting the funding requirements."
+      ]
+    },
+    {
+      "debug":"JEFP",
+      "project":"Reimbursements",
+      "project_mission":[
+        "Reimbursement funds are resources received by the local school districts as compensation for costs incurred by certain programs. Reimbursement programs include the Department of Agriculture&rsquo;s School Lunch Program and Summer Food Program."
+      ]
+    },
+    {
+      "debug":"JEFP",
+      "project":"Revolving Funds and Other Grants",
+      "project_mission":[
+        "Additional resources are received through revolving funds and other grants. These include funds raised through the Boston Education Development Foundation, and the Homeless Student Initiative."
+      ]
+    }
+  ],
+  "fy_major_initiatives":[
+    "Through the BuildBPS 21st Century Fund, every school will choose from among new technology and comfortable, moveable furniture options that promote learner-centric programs, and provide greater flexibility in current and future learning spaces.",
+    "Construction will be completed on the new $73 million Dearborn STEM 6-12 Academy by mid-year. The school will open to students in September 2018. The City and District have partnered with the MSBA in the development and funding of this new school.",
+    "This summer, 3,000 windows will be replaced at seven schools. This $29 million project is funded in partnership with the MSBA.",
+    "The City will submit a preferred option to the MSBA this year for the Boston Arts Academy project and, if accepted, will begin final design on the selected option.",
+    "The Mattapan Early Elementary School will open in September. The building will be refurbished this summer in advance of the opening.",
+    "BPS will continue the 5 year plan to upgrade technology infrastructure across the District in support of 21st century learning."
+  ]
+}
+---

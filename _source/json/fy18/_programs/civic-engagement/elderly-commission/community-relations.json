@@ -1,0 +1,131 @@
+---
+{
+  "cabinet":"Civic Engagement",
+  "department":"Elderly Commission",
+  "file_version":"0.10",
+  "head_name":"Karine Querido",
+  "head_title":"Manager",
+  "name":"Elderly Commission",
+  "parent":"Elderly Commission",
+  "parent_id":"D67D8AB4F4C10BF22AA353E27879133C",
+  "section_id":86,
+  "section_md5_id":"93DB85ED909C13838FF95CCFA94CEBD9",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 387200",
+  "description":"The Community Relations Program provides seniors, caregivers, and the general public with essential information that helps to improve the quality and safety of seniors&rsquo; lives.  The monthly newspaper and web site offer articles and information of special interest to seniors. The Commission produces television shows for Boston Neighborhood Network and the Boston cable channel.  The Community Relations program creates and manages internal and external relationships aimed at developing and maintaining staff, city, neighborhood, public, media and business relationships.  This program promotes employment and volunteer opportunities for seniors and helps to develop, coordinate and support intergenerational and multicultural activities. It also coordinates special fundraising, recreation, health and fitness events to reduce isolation and encourage community involvement of seniors.",
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15 Actual",
+      "fy-1":"16 Actual",
+      "fy-0":"17 Budget",
+      "fy+2":"18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":183051,
+      "fy-1":209735,
+      "fy-0":259077,
+      "fy+2":515854
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":173229,
+      "fy-1":233841,
+      "fy-0":237082,
+      "fy+1":216660
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":356280,
+      "fy-1":443576,
+      "fy-0":496159,
+      "fy+1":732514
+    }
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":183051,
+        "fy-1":209735,
+        "fy-0":259077,
+        "fy+1":515854,
+        "diff":256777
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":248865,
+        "fy-1":259502,
+        "fy-0":362931,
+        "fy+1":577944,
+        "diff":215013
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":307317,
+        "fy-1":343385,
+        "fy-0":450159,
+        "fy+1":682514,
+        "diff":232355
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":356280,
+        "fy-1":387576,
+        "fy-0":496159,
+        "fy+1":732514,
+        "diff":236355
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":356280,
+        "fy-1":443576,
+        "fy-0":496159,
+        "fy+1":732514,
+        "diff":236355
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":356280,
+        "fy-1":443576,
+        "fy-0":496159,
+        "fy+1":732514,
+        "diff":236355
+      }
+    ]
+  },
+  "performance_strategies":[]
+}
+---

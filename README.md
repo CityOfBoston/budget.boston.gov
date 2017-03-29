@@ -1,20 +1,32 @@
 # budget.boston.gov
 
-This is a basic Jekyll starter project. It uses Gulp for building everything, so that we can more easily incorporate things like BrowserSync, Stylus and any necessary plugins.
+This Jekyll implementation creates static archives of the City of Boston's fiscal budgets. It uses Gulp for building everything, so that we can more easily incorporate things like BrowserSync, Stylus and any necessary plugins.
 
 To get up and running, download (or fork) this repo. Then in your project run:
 
 ``` sh
 bundle install
 npm install
-gulp
 ```
 
-At this point, you should be able to visit `https://0.0.0.0:3000`.
+Now use gulp to build the site.
+REQUIRED: Set a "source" in order to build the project using data from a specific fiscal year, for example:
+
+```
+gulp --source fy17
+```
+
+For local development pass the "local" flag:
+
+```
+gulp --local --source fy17
+```
+
+At this point, you should be able to visit your site at `http://127.0.0.1:4000`.
 
 ---
 
-In order to prevent breaking relative links from the boston.gov wrapper and serve the appropriate assets (like images, css, and js) from boston.gov, we need to preserve its base_url (found in the `<head` as `<base href="https://www.boston.gov">`). We also need to be able to use relative links and assets specific to the budget app when runing this site locally and in production. We accomplish this with the `url` directive in `_config.yml`. We also needed to create a config file with a url specifically for local dev. In order to run this site locally using that config file, run:
+In order to prevent breaking relative links from the boston.gov wrapper and serve the appropriate assets (like images, css, and js) from boston.gov, we need to preserve its base_url (found in the `<head` as `<base href="https://www.boston.gov">`). We also need to be able to use relative links and assets specific to the budget app when runing this site locally and in production. We accomplish this with the `url` directive in `_config.yml`. We also needed to create a config file with a url specifically for local dev. If you've already built the site with gulp, you can run it locally using that config file:
 ```
 bundle exec jekyll serve --config _config_dev.yml
 ```
@@ -23,7 +35,7 @@ This will make the site available at http://127.0.0.1:4000/
 ---
 
 To create custom pages, you can simply add reusable components to markdown files. 
-> If you need to use the same component multiple times in the same file, you need to append the plus "+" character to the end of the key. An additional "+" needs to be added for each repeating component (e.g. to add a 3rd text_box use `text_box++:`).
+> IMPORTANT: Before adding any components you must add the "components:" key.
 
 Here's a short list of some common components you can use:
 
@@ -33,14 +45,16 @@ Here's a short list of some common components you can use:
 > Set local key to true in order to use app domain (e.g. budget.boston.gov) instead of wrapper base domain (e.g. boston.gov)
 
 ```
-breadcrumbs:
- - title: Home
-   url: "/"
- - title: Dept
-   url: "/departments"
-   local: true
- - current: Executive Summary
- - published: 2/15/17
+- breadcrumbs:
+  - title: Home
+    url: "/"
+  - title: Budget
+    url: "/budget"
+  - title: Operating Budget
+    url: "/operating-budget"
+    local: true
+  - current: Cabinets
+  - published: 3/28/17
 ```
 
 ---
@@ -51,23 +65,23 @@ breadcrumbs:
 > Set sidebar_menu to false in order to have full spanning title, short description, and description sections
 
 ```
-intro:
- - title: Executive Summary
-   short_desc: >
-     <div>"This budget is a manifestation of my vision for a
-     Thriving, Healthy, and Innovative Boston."</div>
-     <div>- Martin J. Walsh, Mayor</div>
-   description: >
-     Mayor Walsh presented a balanced budget that maintains 
-     high levels of support in critical areas such as education 
-     and public safety, makes limited strategic investments,
-     continues the City's commitment to addressing its long-term
-     liabilities, and builds on the Administration's record of 
-     strong fiscal management. This is made possible by the 
-     Administration's achievement of efficiencies and savings. 
-     The City's data-driven managerial approach was recently 
-     validated by the affirmation of Boston's triple A bond rating.
-   sidebar_menu: true
+- intro:
+  - title: Executive Summary
+    short_desc: >
+      <div>"This budget is a manifestation of my vision for a
+      Thriving, Healthy, and Innovative Boston."</div>
+      <div>- Martin J. Walsh, Mayor</div>
+    description: >
+      Mayor Walsh presented a balanced budget that maintains 
+      high levels of support in critical areas such as education 
+      and public safety, makes limited strategic investments,
+      continues the City's commitment to addressing its long-term
+      liabilities, and builds on the Administration's record of 
+      strong fiscal management. This is made possible by the 
+      Administration's achievement of efficiencies and savings. 
+      The City's data-driven managerial approach was recently 
+      validated by the affirmation of Boston's triple A bond rating.
+    sidebar_menu: true
 ```
 
 ---
@@ -78,7 +92,7 @@ intro:
 > Omit the right_image key to have the text span the full screen
 
 ```
-text_block:
+- text_block:
   - title: Introduction
     body: >
       At the time Mayor Walsh took office, the City of Boston had successfully 
@@ -113,7 +127,7 @@ spanning_image:
 ![Screenshot of a grid of items](/images/grid.png "Grid Screenshot")
 
 ```
-grid:
+- grid:
   - grid_title: General
   - title: Boston Common
     subtitle: Downtown
@@ -144,44 +158,31 @@ grid:
 ![Screenshot of a simple table component](/images/table.png "Table Screenshot")
 
 ```
-table:
-  - title: Appropriations by Cabinet
-    right_text: 
-      name: Back to all spending
-      link: /spending
+- table:
+  - title: Budget summary
     columns:
-      - "Cabinet": 
-           name: Cabinet 1
-           link: /
-        "FY15 Actual":
-          value: 345
-          filter: money
-        "FY16 Actual":
-          value: 44
-          filter: percent
-        "FY17 Budget": 90
-        "FY18 Budget": 6565
-      - "Cabinet":
-           name: Cabinet 2
-           link: /
-        "FY15 Actual": 344573
-        "FY16 Actual": 757
-        "FY17 Budget": 554
-        "FY18 Budget": 6565
-      - "Cabinet": 
-           name: Cabinet 3
-           link: /
-        "FY15 Actual": 111
-        "FY16 Actual": 542
-        "FY17 Budget": 275
-        "FY18 Budget": 50000
-      - "Cabinet": 
-         name: Streets
-         link: /spending/cabinets/streets
-        "FY15 Actual": 111
-        "FY16 Actual": 542
-        "FY17 Budget": 275
-        "FY18 Budget": 50000
+      - "Category": Total revenues
+        "FY14 Actual": $2,654.35
+        "FY15 Actual": $2,780.42
+        "FY16 Budget": $2,857.10
+        "FY17 Budget": $2,975.13
+      - "Category": Total expenditures
+        "FY14 Actual": $2,644.88
+        "FY15 Actual": $2,773.06
+        "FY16 Budget": $2,875.10
+        "FY17 Budget": $2,975.13
+      - "Category":
+          name: Test Link
+          link: /path
+        "FY14 Actual": $9.47
+        "FY15 Actual": $7.36
+        "FY16 Budget": $0.00
+        "FY17 Budget": $0.00
+      - "": Surplus (Deficit)
+        "FY14 Actual": $9.47
+        "FY15 Actual": $7.36
+        "FY16 Budget": $0.00
+        "FY17 Budget": $0.00
 ```
 
 ---
@@ -190,7 +191,20 @@ table:
 ![Screenshot of a table that pulls data from a JSON source](/images/js_table.png "JS Table Screenshot")
 
 ```
-js_table:
+- js_table:
+  - title: NERD
+    json_source_url: "https://spreadsheets.google.com/feeds/list/1mfGnwQDsx5Am-_VDvcYiRUzuKsUjlhkx4hVjUOjl2Rc/od6/public/values?alt=json"
+    columns:
+      - column_name: Session Name
+        json_key: gsx$title
+      - column_name: Presenter
+        json_key: gsx$presenter
+      - column_name: Description
+        json_key: gsx$description
+      - column_name: Day
+        json_key: gsx$day
+      - column_name: Time
+        json_key: gsx$time
   - title: Remote JSON
     json_source_url: "http://mysafeinfo.com/api/data?list=presidents&format=json"
     columns:
@@ -200,28 +214,15 @@ js_table:
         json_key: pp
       - column_name: Term
         json_key: tm
-  - title: Local JSON
-    json_source_url: "http://localhost:3000/test.json"
+  - title: Test
+    json_source_url: "https://spreadsheets.google.com/feeds/list/17BxE2iSmejr7iJKoudYjqIe52c4z3bjqsjb2boDh8yw/od6/public/values?alt=json"
     columns:
-      - column_name: Name
-        json_key: nm
-      - column_name: Party
-        json_key: pp
-      - column_name: Term
-        json_key: tm
-      - column_name: Custom
-        json_key: custom
-  - title: 2nd Local test
-    json_source_url: "http://localhost:3000/test2.json"
-    columns:
-      - column_name: New title
-        json_key: this thing
-      - column_name: Name
-        json_key: nombre
-      - column_name: Other
-        json_key: other thing
-      - column_name: Last Col
-        json_key: custom
+      - column_name: Test HEY
+        json_key: gsx$test
+      - column_name: THINGY
+        json_key: gsx$thing
+      - column_name: Other Thing!
+        json_key: gsx$otherthing
 ```
 
 ---
@@ -230,21 +231,21 @@ js_table:
 ![Screenshot of two columns of text](/images/text_col_2.png "Text Col 2")
 
 ```
-text_col_2:
-  -col_1: >
-    <p>First Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non turpis nibh.
-    Sed eleifend orci pretium magna tempus vehicula. </p>
-    <ol>
-    <li>Donec sodales massa vel leo porttitor</li>
-    <li>condimentum. Ut condimentum commodo quam.</li>
-    <li>Phasellus sed metus eu velit pellentesque</li>
-    </ol>
-  -col_2: >
-    Second Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non turpis nibh.
-    Sed eleifend orci pretium magna tempus vehicula.
-    <blockquote>Donec sodales massa vel leo porttitor. Ut condimentum commodo quam.</blockquote>
-    condimentum. Ut condimentum commodo quam. Phasellus sed metus eu velit pellentesque
-    porta. Suspendisse iaculis feugiat accumsan.
+- text_col_2:
+  - col: >
+      <p>First Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non turpis nibh.
+      Sed eleifend orci pretium magna tempus vehicula. </p>
+      <ol>
+      <li>Donec sodales massa vel leo porttitor</li>
+      <li>condimentum. Ut condimentum commodo quam.</li>
+      <li>Phasellus sed metus eu velit pellentesque</li>
+      </ol>
+  - col: >
+      Second Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non turpis nibh.
+      Sed eleifend orci pretium magna tempus vehicula.
+      <blockquote>Donec sodales massa vel leo porttitor. Ut condimentum commodo quam.</blockquote>
+      condimentum. Ut condimentum commodo quam. Phasellus sed metus eu velit pellentesque
+      porta. Suspendisse iaculis feugiat accumsan.
 ```
 
 ---
@@ -253,25 +254,25 @@ text_col_2:
 ![Screenshot of three columns of text](/images/text_col_3.png "Text Col 3")
 
 ```
-text_col_3:
-  -col_1: >
-    <p>Fisrt Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non turpis nibh.
-    Sed eleifend orci pretium magna tempus vehicula. </p>
-    <p>Donec sodales massa vel leo porttitor
-    condimentum. Ut condimentum commodo quam. Phasellus sed metus eu velit pellentesque
-    porta. Suspendisse iaculis feugiat accumsan.</p>
-  -col_2: >
-    Second Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non turpis nibh.
-    Sed eleifend orci pretium magna tempus vehicula.
-    <blockquote>Donec sodales massa vel leo porttitor</blockquote>
-    condimentum. Ut condimentum commodo quam. Phasellus sed metus eu velit pellentesque
-    porta.
-  -col_3: >
-    Third Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non turpis nibh.
-    <ul>
-    <li>Sed eleifend orci pretium magna tempus vehicula.</li>
-    <li>Donec sodales massa vel leo porttitor</li>
-    </ul>
-    condimentum. Ut condimentum commodo quam. Phasellus sed metus eu velit pellentesque
-    Sed eleifend orci.
+- text_col_3:
+  - col: >
+      <p>Fisrt Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non turpis nibh.
+      Sed eleifend orci pretium magna tempus vehicula. </p>
+      <p>Donec sodales massa vel leo porttitor
+      condimentum. Ut condimentum commodo quam. Phasellus sed metus eu velit pellentesque
+      porta. Suspendisse iaculis feugiat accumsan.</p>
+  - col: >
+      Second Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non turpis nibh.
+      Sed eleifend orci pretium magna tempus vehicula.
+      <blockquote>Donec sodales massa vel leo porttitor</blockquote>
+      condimentum. Ut condimentum commodo quam. Phasellus sed metus eu velit pellentesque
+      porta.
+  - col: >
+      Third Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non turpis nibh.
+      <ul>
+      <li>Sed eleifend orci pretium magna tempus vehicula.</li>
+      <li>Donec sodales massa vel leo porttitor</li>
+      </ul>
+      condimentum. Ut condimentum commodo quam. Phasellus sed metus eu velit pellentesque
+      Sed eleifend orci.
 ```

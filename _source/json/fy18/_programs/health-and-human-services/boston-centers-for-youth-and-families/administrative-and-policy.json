@@ -1,0 +1,209 @@
+---
+{
+  "cabinet":"Health and Human Services",
+  "department":"Boston Centers for Youth & Families",
+  "file_version":"0.10",
+  "head_name":"William Morales",
+  "head_title":"Manager",
+  "name":"Boston Centers for Youth & Families",
+  "parent":"Boston Centers for Youth & Families",
+  "parent_id":"68D30A9594728BC39AA24BE94B319D21",
+  "section_id":220,
+  "section_md5_id":"EC8CE6ABB3E952A85B8551BA726A1227",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 385100",
+  "description":"The Administrative Services Division is responsible for the overall operation of BCYF and includes budget and finance, human resources, facilities management, public relations, planning and development and information technology. The division is responsible for ensuring the fiscal integrity and effectiveness of BCYF, training BCYF staff and leveraging additional resources. The division also includes Chief of Health and Human Services and food policy program.   The division works with community centers to build their capacity to serve as neighborhood hubs for services, resources and programming and supports community outreach and partnership development, including the development of local community center site councils.",
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15 Actual",
+      "fy-1":"16 Actual",
+      "fy-0":"17 Budget",
+      "fy+2":"18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":11192431,
+      "fy-1":11759703,
+      "fy-0":11107115,
+      "fy+2":11344707
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":2240124,
+      "fy-1":2930746,
+      "fy-0":3474341,
+      "fy+1":3340188
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":13432555,
+      "fy-1":14690449,
+      "fy-0":14581456,
+      "fy+1":14684895
+    }
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":11192431,
+        "fy-1":11759703,
+        "fy-0":11107115,
+        "fy+1":11344707,
+        "diff":237592
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":12997556,
+        "fy-1":14193953,
+        "fy-0":14144508,
+        "fy+1":14205699,
+        "diff":61191
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":13070074,
+        "fy-1":14417970,
+        "fy-0":14373707,
+        "fy+1":14429195,
+        "diff":55488
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":13184043,
+        "fy-1":14530881,
+        "fy-0":14476807,
+        "fy+1":14582195,
+        "diff":105388
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":13432555,
+        "fy-1":14690449,
+        "fy-0":14581456,
+        "fy+1":14684895,
+        "diff":103439
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":13432555,
+        "fy-1":14690449,
+        "fy-0":14581456,
+        "fy+1":14684895,
+        "diff":103439
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To support health and wellness through community center sports, fitness, and recreation programming."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "debug":"JPM",
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of Communuity Center Visits",
+              "fy-4":null,
+              "fy-3":null,
+              "fy-2":1000000,
+              "fy-1":975000
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of Program participants",
+              "fy-4":null,
+              "fy-3":null,
+              "fy-2":85000,
+              "fy-1":87500
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of Programs offered",
+              "fy-4":null,
+              "fy-3":null,
+              "fy-2":4425,
+              "fy-1":4500
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of Teen visits",
+              "fy-4":null,
+              "fy-3":null,
+              "fy-2":null,
+              "fy-1":32000
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of unique community center visitors",
+              "fy-4":null,
+              "fy-3":null,
+              "fy-2":null,
+              "fy-1":150000
+            },
+            {
+              "line_type":"data",
+              "line_data":"% increase in evening visits",
+              "fy-4":null,
+              "fy-3":null,
+              "fy-2":null,
+              "fy-1":null
+            },
+            {
+              "line_type":"data",
+              "line_data":"% increase in weekend visits",
+              "fy-4":null,
+              "fy-3":null,
+              "fy-2":null,
+              "fy-1":null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

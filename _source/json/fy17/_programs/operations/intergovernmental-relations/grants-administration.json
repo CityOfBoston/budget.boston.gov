@@ -1,0 +1,92 @@
+---
+{
+  "cabinet":"Operations",
+  "department":"Intergovernmental Relations",
+  "file_version":"0.10",
+  "head_name":"Inez Foster",
+  "head_title":"Manager",
+  "name":"Grants Administration",
+  "parent":"Intergovernmental Relations",
+  "parent_id":"C51CE410C124A10E0DB5E4B97FC2AF39",
+  "section_id":197,
+  "section_md5_id":"85D8CE590AD8981CA2C8286F79F59954",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 150200",
+  "description":"The IGR office provides City departments with professional assistance in resource development.  As a champion for the City, the Office will prioritize and maximize coordinated and collaborative grant application resources to address the Mayor&rsquo;s strategic goals.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":91721,
+      "fy-1":98044,
+      "fy-0":97764,
+      "fy+2":99264
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":175,
+      "fy-1":300,
+      "fy-0":800,
+      "fy+1":330
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":91896,
+      "fy-1":98344,
+      "fy-0":98564,
+      "fy+1":99594
+    }
+  ],
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To improve communication to the Mayor, City Council, City departments, and community-based organizations about resource development opportunities."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Funding Update subscribers",
+              "fy-4":5060,
+              "fy-3":5100,
+              "fy-2":5070,
+              "fy-1":""
+            },
+            {
+              "line_type":"data",
+              "line_data":"Grant opportunities identified in the Funding Update",
+              "fy-4":1121,
+              "fy-3":1290,
+              "fy-2":1200,
+              "fy-1":""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

@@ -1,0 +1,131 @@
+---
+{
+  "cabinet":"Administration and Finance",
+  "department":"Budget Management",
+  "file_version":"0.10",
+  "head_name":Null,
+  "head_title":"Manager",
+  "name":"Budget Management",
+  "parent":"Budget Management",
+  "parent_id":"54229ABFCFA5649E7003B83DD4755294",
+  "section_id":243,
+  "section_md5_id":"CB70AB375662576BD1AC5AAF16B3FCA4",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 141400",
+  "description":"The primary mission of the Improving Management Project is evaluating City programs and services to inform the allocation of resources.  This program encourages organizational changes or operational improvements that increase the effectiveness or productivity of City departments.  The program provides reliable, objective, and independent information to City managers about department performance and operations, assists in reviewing the effectiveness of service delivery, and identifies the extent to which programs overlap or duplicate one another.  In addition, we assist departments and cabinets in establishing performance standards to determine the effectiveness of programs.  The program also invests in department personnel through training.",
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15 Actual",
+      "fy-1":"16 Actual",
+      "fy-0":"17 Budget",
+      "fy+2":"18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+2":0
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0
+    }
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      }
+    ]
+  },
+  "performance_strategies":[]
+}
+---

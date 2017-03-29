@@ -1,0 +1,176 @@
+---
+{
+  "cabinet":"NEED TO GET CABINET",
+  "department":null,
+  "file_version":"0.10",
+  "head_name":"Felix Arroyo",
+  "head_title":"Chief of Human Services",
+  "name":"Health and Human Services",
+  "parent":"root",
+  "parent_id":"45C48CCE2E2D7FBDEA1AFC51C7C6AD26",
+  "section_id":9,
+  "section_md5_id":"45C48CCE2E2D7FBDEA1AFC51C7C6AD26",
+  "section_type":"cabinet",
+  "section_type_short":"C",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "mission":[
+    "The Health and Human Services Cabinet is committed to promoting the health and well-being of the City's residents particularly the most vulnerable. The provision of social, recreational, health and support services to city residents, particularly the homeless, persons with disabilities, women, the elderly, youth, immigrants and veterans, will be coordinated and made available in a customer-friendly and culturally sensitive manner. The Cabinet enforces all antidiscrimination laws and protections under the jurisdiction of the City, and advocates for the advancement of policies and legislation to address the needs of individuals and groups, supports disease and injury prevention, delivers emergency health services and health education and promotion services within the City."
+  ],
+  "operating_department":{
+    "table_type":"operating_department",
+    "debug":"JCB",
+    "table_title":"Operating Budget",
+    "Program Name":"Department",
+    "line_type":"title",
+    "fy-2":"15 Actual",
+    "fy-1":"16 Actual",
+    "fy-0":"17 Budget",
+    "fy+2":"18 Budget",
+    "data":[
+      {
+        "department":"Boston Centers for Youth and Families",
+        "line_type":"data",
+        "fy-2":24129637,
+        "fy-1":24917747,
+        "fy-0":25259048,
+        "fy+1":25529784
+      },
+      {
+        "department":"Boston VETS",
+        "line_type":"data",
+        "fy-2":4442074,
+        "fy-1":3948303,
+        "fy-0":4677730,
+        "fy+1":4708453
+      },
+      {
+        "department":"Commission for Persons With Disabilities",
+        "line_type":"data",
+        "fy-2":364997,
+        "fy-1":287325,
+        "fy-0":418195,
+        "fy+1":426618
+      },
+      {
+        "department":"Fair Housing and Equity",
+        "line_type":"data",
+        "fy-2":223027,
+        "fy-1":160430,
+        "fy-0":282830,
+        "fy+1":278727
+      },
+      {
+        "department":"Office for Immigrant Advancement",
+        "line_type":"data",
+        "fy-2":362790,
+        "fy-1":381363,
+        "fy-0":425021,
+        "fy+1":439937
+      },
+      {
+        "department":"Youth Engagement and Employment",
+        "line_type":"data",
+        "fy-2":4989679,
+        "fy-1":5759934,
+        "fy-0":6058544,
+        "fy+1":6331229
+      },
+      {
+        "total":"Total",
+        "line_type":"total",
+        "fy-2":34512204,
+        "fy-1":35455102,
+        "fy-0":37121368,
+        "fy+1":37714748
+      }
+    ],
+    "capital_budget_expenditures":[
+      {
+        "debug":"JCCD",
+        "table_type":"capital_budget_expenditures",
+        "table_title":"Capital Budget Expenditures",
+        "table_header":{
+          "Program Name":"Capital Budget Expenditures",
+          "fy-2":"15 Actual",
+          "fy-1":"16 Actual",
+          "fy-0":"17 Estimated",
+          "fy+2":"18 Projected"
+        },
+        "data":[
+          {
+            "department":"Boston Centers for Youth and Families",
+            "fy-2":2746410,
+            "fy-1":2631712,
+            "fy-0":8360000,
+            "fy+1":10483248
+          },
+          {
+            "department":"Public Health Commission",
+            "fy-2":8238989,
+            "fy-1":13212794,
+            "fy-0":1015000,
+            "fy+1":1016115
+          },
+          {
+            "total":"Total",
+            "fy-2":10985399,
+            "fy-1":15844506,
+            "fy-0":9375000,
+            "fy+1":11499363
+          }
+        ]
+      }
+    ]
+  },
+  "external_funds_tables":{
+    "debug":"JCEXFT",
+    "table_type":"operating_departments",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "Program Name":"Department",
+      "fy-2":"15 Actual",
+      "fy-1":"16 Actual",
+      "fy-0":"17 Estimated",
+      "fy+2":"18 Projected"
+    },
+    "data":[
+      {
+        "total":"Boston Centers for Youth and Families",
+        "fy-2":1215257,
+        "fy-1":1978788,
+        "fy-0":2389516,
+        "fy+1":2012783
+      },
+      {
+        "total":"Fair Housing and Equity",
+        "fy-2":746342,
+        "fy-1":940185,
+        "fy-0":582171,
+        "fy+1":690272
+      },
+      {
+        "total":"Office for Immigrant Advancement",
+        "fy-2":489649,
+        "fy-1":573519,
+        "fy-0":340476,
+        "fy+1":485823
+      },
+      {
+        "total":"Youth Engagement and Employment",
+        "fy-2":1008139,
+        "fy-1":995382,
+        "fy-0":1032851,
+        "fy+1":1171155
+      },
+      {
+        "total":"Total Cabinet",
+        "fy-2":3459387,
+        "fy-1":4487874,
+        "fy-0":4345014,
+        "fy+1":4360033
+      }
+    ]
+  }
+}
+---

@@ -1,0 +1,84 @@
+---
+{
+  "cabinet":"Public Safety",
+  "department":"Fire Department",
+  "file_version":"0.10",
+  "head_name":"Gregory J. Mackin",
+  "head_title":"Manager",
+  "name":"Firefighter Safety, Health and Wellness",
+  "parent":"Fire Department",
+  "parent_id":"33E75FF09DD601BBE69F351039152189",
+  "section_id":268,
+  "section_md5_id":"8F121CE07D74717E0B1F21D122E04521",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 221800",
+  "description":"The Firefighter Safety, Health and Wellness program works to protect and promote the well-being of Firefighters as they perform physically challenging responsibilities.  The program includes creating awareness through fitness and medical evaluations, encouraging physical fitness and healthy eating and living, improving personal protective equipment, and providing safe driver training.  Firefighters who are more physically fit, in addition to benefiting from general wellness benefits, encounter fewer workplace injuries from physically challenging repetitive situations.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":703944,
+      "fy-0":760094,
+      "fy+2":754213
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":40664,
+      "fy-0":67250,
+      "fy+1":72800
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":0,
+      "fy-1":744608,
+      "fy-0":827344,
+      "fy+1":827013
+    }
+  ],
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To protect City of Boston constituents and to ensure the safety, health and wellness of the fire fighters by preventing exposure to carcinogenic toxins and avoiding injuries."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Firefighters attending resiliency, health and safety symposiums.",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":720,
+              "fy-1":720
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

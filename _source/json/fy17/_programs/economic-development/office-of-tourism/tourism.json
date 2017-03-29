@@ -1,0 +1,55 @@
+---
+{
+  "cabinet":"Economic Development",
+  "department":"Office of Tourism",
+  "file_version":"0.10",
+  "head_name":"Amy B. Yandle",
+  "head_title":"Manager",
+  "name":"Tourism",
+  "parent":"Office of Tourism",
+  "parent_id":"7647966B7343C29048673252E490F736",
+  "section_id":237,
+  "section_md5_id":"539FD53B59E3BB12D203F45A912EEAF2",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 416400",
+  "description":"The Tourism program oversees the departments's promotional efforts, its sponsorships and its international relations.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":62001,
+      "fy-1":93396,
+      "fy-0":98714,
+      "fy+2":45205
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":30089,
+      "fy-1":39023,
+      "fy-0":235915,
+      "fy+1":31500
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":92090,
+      "fy-1":132419,
+      "fy-0":334629,
+      "fy+1":76705
+    }
+  ],
+  "performance_strategies":[]
+}
+---

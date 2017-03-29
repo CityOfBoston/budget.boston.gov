@@ -1,0 +1,55 @@
+---
+{
+  "cabinet":"Economic Development",
+  "department":"Office of Tourism",
+  "file_version":"0.10",
+  "head_name":"Catherine Davis",
+  "head_title":"Manager",
+  "name":"MOATSE Administration",
+  "parent":"Office of Tourism",
+  "parent_id":"7647966B7343C29048673252E490F736",
+  "section_id":233,
+  "section_md5_id":"E165421110BA03099A1C0393373C5B43",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 416100",
+  "description":"The Administration Program provides administrative, financial, and personnel support for the department.  The Program builds partnerships to support and strengthen the City&rsquo;s cultural life.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":298773,
+      "fy-1":336847,
+      "fy-0":362282,
+      "fy+2":355967
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":53860,
+      "fy-1":66456,
+      "fy-0":45853,
+      "fy+1":48625
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":352633,
+      "fy-1":403303,
+      "fy-0":408135,
+      "fy+1":404592
+    }
+  ],
+  "performance_strategies":[]
+}
+---

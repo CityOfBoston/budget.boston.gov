@@ -1,0 +1,124 @@
+---
+{
+  "cabinet":"Administration and Finance",
+  "department":"Traffic Division",
+  "file_version":"0.10",
+  "head_name":"Nancy Cincotti",
+  "head_title":"Manager",
+  "name":"Traffic Operations",
+  "parent":"Traffic Division",
+  "parent_id":"3C59DC048E8850243BE8079A5C74D079",
+  "section_id":170,
+  "section_md5_id":"149E9677A5989FD342AE44213DF68868",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 251500",
+  "description":"The Payment Services Program processes all funds received by the City from taxpayers and City departments. It mails all current tax notices, resolves questions from taxpayers and financial institutions, provides duplicate tax bills, and processes all refunds and abatements.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":2958687,
+      "fy-1":3784756,
+      "fy-0":3640216,
+      "fy+2":3644868
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":1541750,
+      "fy-1":2446986,
+      "fy-0":2613789,
+      "fy+1":3340512
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":4500437,
+      "fy-1":6231742,
+      "fy-0":6254005,
+      "fy+1":6985380
+    }
+  ],
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To efficiently maintain traffic signs and parking meters throughout the city."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of missing sign requests completed on time",
+              "fy-4":"72%",
+              "fy-3":"80%",
+              "fy-2":"80%",
+              "fy-1":"80%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"% of parking meter repair requests completed on time",
+              "fy-4":"81%",
+              "fy-3":"80%",
+              "fy-2":"80%",
+              "fy-1":"80%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"% of sign repair requests completed on time",
+              "fy-4":"82%",
+              "fy-3":"80%",
+              "fy-2":"80%",
+              "fy-1":"80%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Average time to complete a missing sign request (Days)",
+              "fy-4":17,
+              "fy-3":10,
+              "fy-2":10,
+              "fy-1":10
+            },
+            {
+              "line_type":"data",
+              "line_data":"Average time to complete a parking meter repair request (Days)",
+              "fy-4":13,
+              "fy-3":10,
+              "fy-2":10,
+              "fy-1":10
+            },
+            {
+              "line_type":"data",
+              "line_data":"Average time to complete a sign repair request (Days)",
+              "fy-4":10,
+              "fy-3":10,
+              "fy-2":10,
+              "fy-1":10
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

@@ -1,0 +1,92 @@
+---
+{
+  "cabinet":"Administration and Finance",
+  "department":"Auditing Department",
+  "file_version":"0.10",
+  "head_name":"Kelli Lazar",
+  "head_title":"Manager",
+  "name":"Grants Monitoring",
+  "parent":"Auditing Department",
+  "parent_id":"C7E1249FFC03EB9DED908C236BD1996D",
+  "section_id":229,
+  "section_md5_id":"57AEEE35C98205091E18D1140E9F38CF",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 131400",
+  "description":"The primary responsibility of the Grants Monitoring Program is to establish and monitor Special Revenue for all City departments and to provide technical assistance in the process. The program also oversees and coordinates the City's Annual Single Audit for Federal Financial Assistance Programs and also produces the City's Cost Allocation Plan.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":264166,
+      "fy-1":270298,
+      "fy-0":155708,
+      "fy+2":150957
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":3024,
+      "fy-1":4350,
+      "fy-0":5159,
+      "fy+1":4119
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":267190,
+      "fy-1":274648,
+      "fy-0":160867,
+      "fy+1":155076
+    }
+  ],
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Ensure Stability of Financial Reporting"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of Single Audit Completion",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":""
+            },
+            {
+              "line_type":"data",
+              "line_data":"% of Single Audit Work Completed",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

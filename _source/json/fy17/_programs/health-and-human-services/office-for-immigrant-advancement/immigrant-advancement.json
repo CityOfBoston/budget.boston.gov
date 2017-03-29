@@ -1,0 +1,324 @@
+---
+{
+  "cabinet":"Health and Human Services",
+  "department":"Office for Immigrant Advancement",
+  "file_version":"0.10",
+  "head_name":"Alejandra St. Guillen",
+  "head_title":"Manager",
+  "name":"Immigrant Advancement",
+  "parent":"Office for Immigrant Advancement",
+  "parent_id":"093F65E080A295F8076B1C5722A46AA2",
+  "section_id":195,
+  "section_md5_id":"0336DCBAB05B9D5AD24F4333C7658A0E",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 113100",
+  "description":"The Office for Immigrant Advancement aims at building partnerships with immigrant communities, assisting immigrants to participate in city government, providing cultural competence support for city departments so that they can better serve diverse linguistic and cultural constituents, increasing access to city services for immigrants, and developing leadership among Boston immigrant communities.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":335265,
+      "fy-1":366514,
+      "fy-0":408891,
+      "fy+2":406737
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":27525,
+      "fy-1":14849,
+      "fy-0":16130,
+      "fy+1":33200
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":362790,
+      "fy-1":381363,
+      "fy-0":425021,
+      "fy+1":439937
+    }
+  ],
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Empowerment-develop resources to build and strengthen immigrant organizations capacity; Engagement-Provide access to immigration information and community resources "
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of programs developed in communities",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":24,
+              "fy-1":24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Engagement-Provide access to immigration information and community resources"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of community partners (community-based organizations, faith-based, higher ed, grantees, businesses, labor etc.) engaged and reached @ MOIA initiatives",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":60,
+              "fy-1":60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Engagement-Provide access to immigration information and community resources; Promote diversity and inclusiveness"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of community members engaged and reached at events/meetings/education workshops",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":500,
+              "fy-1":550
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of constituents reached via MOIA newsletter and website",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":2500,
+              "fy-1":2000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Engagement-Provide access to immigration information and community resources; Promote diversity and inclusiveness  "
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of events/meetings/education workshops/presentations hosted by MOIA",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":75,
+              "fy-1":75
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Engagement-Provide access to immigration information and community resources; Promote diversity and inclusiveness"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of materials distributed @ city departments, community events, immigrant information corners, immigration clinincs, presentations etc.",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":1200,
+              "fy-1":1200
+            },
+            {
+              "line_type":"data",
+              "line_data":"Change in average # of community members engaged and reached at events/meetings/education workshops",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Immigrant integration - Collaboration with city departments to improve access to city services"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"growth in # of collaborations with city departments",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Immigrant integration -Collaboration with city departments to improve access to city services"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of collaborations with city departments",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":150,
+              "fy-1":165
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Empowerment-develop resources to build and strengthen immigrant organizations capacity"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of constituents served with MOIA- facilitated grants (ENB, MOIA mini-grants, external funds)",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":1500,
+              "fy-1":1500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Engagement-Provide access to immigration information and community resources; Empowerment-develop resources to build and strengthen immigrant organizations capacity;  Promote diversity and inclusiveness  "
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of immigrants served @ twice-monthly immigration clinics, annual citizenship day, and citywide screening clinics",
+              "fy-4":908,
+              "fy-3":694,
+              "fy-2":800,
+              "fy-1":800
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

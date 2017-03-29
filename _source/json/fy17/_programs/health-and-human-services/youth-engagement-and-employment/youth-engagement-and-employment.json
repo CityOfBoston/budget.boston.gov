@@ -1,0 +1,100 @@
+---
+{
+  "cabinet":"Health and Human Services",
+  "department":"Youth Engagement & Employment",
+  "file_version":"0.10",
+  "head_name":"Rashad Cope",
+  "head_title":"Manager",
+  "name":"Youth Engagement & Employment",
+  "parent":"Youth Engagement & Employment",
+  "parent_id":"D3D9446802A44259755D38E6D163E820",
+  "section_id":147,
+  "section_md5_id":"8D5E957F297893487BD98FA830FA6413",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 448100",
+  "description":"The Youth Engagement & Employment Program manages partnerships with community based organizations to provide employment, events, activities, resources, and other services for Boston's youth. This includes the summer employment program, school year employment program, Mayor's Youth Council, career development workshops, and Youth Lead the Change Participatory Budgeting.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":4312751,
+      "fy-1":5094169,
+      "fy-0":5361364,
+      "fy+2":5634049
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":676928,
+      "fy-1":665765,
+      "fy-0":697180,
+      "fy+1":697180
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":4989679,
+      "fy-1":5759934,
+      "fy-0":6058544,
+      "fy+1":6331229
+    }
+  ],
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To hire the maximum number of young residents."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% Youth Enrichment Day participants",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":""
+            },
+            {
+              "line_type":"data",
+              "line_data":"Percentage of school-year youth jobs accepted",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":""
+            },
+            {
+              "line_type":"data",
+              "line_data":"Percentage of summer youth jobs accepted",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

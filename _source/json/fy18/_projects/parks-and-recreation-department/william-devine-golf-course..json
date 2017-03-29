@@ -1,0 +1,41 @@
+---
+{
+  "debug":"JCD",
+  "name":"General Parks Improvements.",
+  "mission":"Replace fencing, pavement, court lighting, and other infrastructure improvements needed.",
+  "managing_department":"Parks and Recreation Department.",
+  "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+  "status":"Annual Program",
+  "location":"Citywide",
+  "operating_impact":"Yes",
+  "expenditures_summary":[
+    {
+      "line_type":"data",
+      "line_title":"City Capital",
+      "fy-2":1543881,
+      "fy-1":220000,
+      "fy-0":200000,
+      "fy+1":800000,
+      "row_total":2763881
+    },
+    {
+      "line_type":"data",
+      "line_title":"Grants/Other",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":5605,
+      "row_total":5605
+    },
+    {
+      "line_type":"total",
+      "line_title":"Total",
+      "fy-2":1543881,
+      "fy-1":220000,
+      "fy-0":200000,
+      "fy+1":805605,
+      "row_total":2769486
+    }
+  ]
+}
+---

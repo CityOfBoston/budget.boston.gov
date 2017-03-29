@@ -1,0 +1,1181 @@
+---
+{
+  "cabinet":"Environment, Energy and Open Space",
+  "department":"Parks and Recreation Department.",
+  "file_version":"0.10",
+  "head_name":null,
+  "head_title":null,
+  "name":"Parks and Recreation Department.",
+  "parent":"Parks and Recreation Department.",
+  "parent_id":"A87FF679A2F3E71D9181A67B7542122C",
+  "section_id":4,
+  "section_md5_id":"A87FF679A2F3E71D9181A67B7542122C",
+  "section_type":"projects",
+  "section_type_short":"R",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "description":"Boston&rsquo;s parks and open spaces provide environmental, recreational, social and economic benefits to the City&rsquo;s residents and visitors. The City will make a robust new investment in urban signature parks projects reflecting the Walsh Administration&rsquo;s priority focus in this area. Many of these investments tackle environmental justice issues and have the ability to stabilize neighborhoods. Ongoing capital investment in parks, playgrounds, and other recreational areas utilized by the City&rsquo;s visitors, youth and families, help to protect and enrich a park system that is among the nation&rsquo;s best.",
+  "vol1_category_copy":"NEED SOURCE LOCATION FOR THIS DATA",
+  "selected_performance_strategies":[
+    {
+      "program":"NEED SOURCE LOCATION FOR THIS DATA",
+      "strategies":[
+        "NEED SOURCE LOCATION FOR THIS DATA"
+      ]
+    }
+  ],
+  "overview":"Boston&rsquo;s parks and open spaces provide environmental, recreational, social and economic benefits to the City&rsquo;s residents and visitors. The City will make a robust new investment in urban signature parks projects reflecting the Walsh Administration&rsquo;s priority focus in this area. Many of these investments tackle environmental justice issues and have the ability to stabilize neighborhoods. Ongoing capital investment in parks, playgrounds, and other recreational areas utilized by the City&rsquo;s visitors, youth and families, help to protect and enrich a park system that is among the nation&rsquo;s best.",
+  "projects":[
+    {
+      "name":"Urban Wilds Renovations.",
+      "mission":"Renovation of walls, walkways, and signage within urban wilds owned by Environment and Parks Department.",
+      "managing_department":"Parks and Recreation Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"Annual Program",
+      "location":"Citywide",
+      "operating_impact":"",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":2272141,
+          "fy-1":14180,
+          "fy-0":500000,
+          "fy+1":7566179,
+          "row_total":10352500
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":952773,
+          "fy-1":0,
+          "fy-0":110000,
+          "fy+1":214313,
+          "row_total":1277086
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":3224914,
+          "fy-1":14180,
+          "fy-0":610000,
+          "fy+1":7780492,
+          "row_total":11629586
+        }
+      ]
+    },
+    {
+      "name":"Historic Cemeteries.",
+      "mission":"Ongoing program of repairs in designated historic cemeteries located throughout the City.",
+      "managing_department":"Parks and Recreation Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"Annual Program",
+      "location":"Citywide",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":3676081,
+          "fy-1":650000,
+          "fy-0":650000,
+          "fy+1":2600000,
+          "row_total":7576081
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":3676081,
+          "fy-1":650000,
+          "fy-0":650000,
+          "fy+1":2600000,
+          "row_total":7576081
+        }
+      ]
+    },
+    {
+      "name":"General Parks Improvements.",
+      "mission":"Replace fencing, pavement, court lighting, and other infrastructure improvements needed.",
+      "managing_department":"Parks and Recreation Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"Annual Program",
+      "location":"Citywide",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":1543881,
+          "fy-1":220000,
+          "fy-0":200000,
+          "fy+1":800000,
+          "row_total":2763881
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":5605,
+          "row_total":5605
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":1543881,
+          "fy-1":220000,
+          "fy-0":200000,
+          "fy+1":805605,
+          "row_total":2769486
+        }
+      ]
+    },
+    {
+      "name":"William Devine Golf Course.",
+      "mission":"Improve drainage, paving, and other miscellaneous items.",
+      "managing_department":"Parks and Recreation Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"Annual Program",
+      "location":"Roxbury",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":3680692,
+          "fy-1":700000,
+          "fy-0":700000,
+          "fy+1":2800000,
+          "row_total":7880692
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":3680692,
+          "fy-1":700000,
+          "fy-0":700000,
+          "fy+1":2800000,
+          "row_total":7880692
+        }
+      ]
+    },
+    {
+      "name":"Public Garden Pathways.",
+      "mission":"Repair and upgrade existing pathways.",
+      "managing_department":"Parks and Recreation Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"To Be Scheduled",
+      "location":"Beacon Hill",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":24200,
+          "fy-1":0,
+          "fy-0":125800,
+          "fy+1":0,
+          "row_total":150000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":24200,
+          "fy-1":0,
+          "fy-0":125800,
+          "fy+1":0,
+          "row_total":150000
+        }
+      ]
+    },
+    {
+      "name":"Public Garden Lagoon.",
+      "mission":"Repair and backfill missing, destroyed, and leaking granite coping surrounding the lagoon.",
+      "managing_department":"Parks and Recreation Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"To Be Scheduled",
+      "location":"Beacon Hill",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":0,
+          "fy-1":28100,
+          "fy-0":115900,
+          "fy+1":0,
+          "row_total":144000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":0,
+          "fy-1":28100,
+          "fy-0":115900,
+          "fy+1":0,
+          "row_total":144000
+        }
+      ]
+    },
+    {
+      "name":"Downer Avenue Park.",
+      "mission":"Overall park and play lot refurbishment including basketball court, pathways, playground, and possible water spray play feature.",
+      "managing_department":"Parks and Recreation Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"In Construction",
+      "location":"Dorchester",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":0,
+          "fy-1":36500,
+          "fy-0":1183500,
+          "fy+1":0,
+          "row_total":1220000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":0,
+          "fy-1":36500,
+          "fy-0":1183500,
+          "fy+1":0,
+          "row_total":1220000
+        }
+      ]
+    },
+    {
+      "name":"Cassidy Field Master Plan Implementation.",
+      "mission":"Comprehensive park renovation to include ballfields, courts, passive areas, pathways, utilities and landscaping.",
+      "managing_department":"Parks and Recreation Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"In Design",
+      "location":"Allston/Brighton",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":14280,
+          "fy-1":32955,
+          "fy-0":104765,
+          "fy+1":0,
+          "row_total":152000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":14280,
+          "fy-1":32955,
+          "fy-0":104765,
+          "fy+1":0,
+          "row_total":152000
+        }
+      ]
+    },
+    {
+      "name":"Kelleher Rose Garden.",
+      "mission":"Perimeter restoration of historic rose garden.",
+      "managing_department":"Parks and Recreation Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"In Construction",
+      "location":"Fenway/Kenmore",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":32383,
+          "fy-1":50000,
+          "fy-0":50000,
+          "fy+1":200000,
+          "row_total":332383
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":32383,
+          "fy-1":50000,
+          "fy-0":50000,
+          "fy+1":200000,
+          "row_total":332383
+        }
+      ]
+    },
+    {
+      "name":"Boston Common Parkman Plaza.",
+      "mission":"Renovate Parkman Plaza at the Visitor Information Center in the Boston Common and the sidewalk from the VIC towards the Boylston Street T Station.",
+      "managing_department":"Parks and Recreation Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"In Construction",
+      "location":"Beacon Hill",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":75000,
+          "fy+1":0,
+          "row_total":75000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":75000,
+          "fy+1":0,
+          "row_total":75000
+        }
+      ]
+    },
+    {
+      "name":"Frog Pond Master Plan Study.",
+      "mission":"Study to determine the future redesign of the Frog Pond Ice Facility and the accompanying building.",
+      "managing_department":"Public Facilities Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"In Design",
+      "location":"Beacon Hill",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":5460000,
+          "row_total":5460000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":5460000,
+          "row_total":5460000
+        }
+      ]
+    },
+    {
+      "name":"Boston Common Utility Study.",
+      "mission":"Study to determine utility needs (electric and drainage) of the Boston Common in advance of needed utility upgrades and future pathway paving.",
+      "managing_department":"Parks and Recreation Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"Study Underway",
+      "location":"Beacon Hill",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":0,
+          "fy-1":193757,
+          "fy-0":471243,
+          "fy+1":0,
+          "row_total":665000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":0,
+          "fy-1":193757,
+          "fy-0":471243,
+          "fy+1":0,
+          "row_total":665000
+        }
+      ]
+    },
+    {
+      "name":"Bussey Brook Wall.",
+      "mission":"Rebuild portions of stone walls adjacent to roadways and near Bussey Brook.",
+      "managing_department":"Parks and Recreation Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"In Construction",
+      "location":"Jamaica Plain",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":0,
+          "fy-1":33000,
+          "fy-0":500000,
+          "fy+1":287000,
+          "row_total":820000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":0,
+          "fy-1":33000,
+          "fy-0":500000,
+          "fy+1":287000,
+          "row_total":820000
+        }
+      ]
+    },
+    {
+      "name":"Parkman Playground.",
+      "mission":"To revitalize playground, pavilion, entrance and perimeter.",
+      "managing_department":"Parks and Recreation Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"In Construction",
+      "location":"Roslindale",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":346649,
+          "fy-1":297341,
+          "fy-0":510000,
+          "fy+1":856010,
+          "row_total":2010000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":346649,
+          "fy-1":297341,
+          "fy-0":510000,
+          "fy+1":856010,
+          "row_total":2010000
+        }
+      ]
+    },
+    {
+      "name":"Noyes Park.",
+      "mission":"Park rehabilitation, including updating the play lot, courts, fields and lighting.",
+      "managing_department":"Parks and Recreation Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"In Design",
+      "location":"East Boston",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":0,
+          "fy-1":247000,
+          "fy-0":1193000,
+          "fy+1":2250000,
+          "row_total":3690000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":0,
+          "fy-1":247000,
+          "fy-0":1193000,
+          "fy+1":2250000,
+          "row_total":3690000
+        }
+      ]
+    },
+    {
+      "name":"Dudley Town Common.",
+      "mission":"Improvements to Dudley Town Common to support the use of this neighborhood \"Common\" for gathering and civic uses.",
+      "managing_department":"Parks and Recreation Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"To Be Scheduled",
+      "location":"Roxbury",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":0,
+          "fy-1":150000,
+          "fy-0":110000,
+          "fy+1":0,
+          "row_total":260000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":0,
+          "fy-1":150000,
+          "fy-0":110000,
+          "fy+1":0,
+          "row_total":260000
+        }
+      ]
+    },
+    {
+      "name":"Olmsted Park Landscape Restoration.",
+      "mission":"Landscape rehabilitation including woodlands restoration, stair stabilization, and landscape improvements.",
+      "managing_department":"Parks and Recreation Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"In Construction",
+      "location":"Jamaica Plain",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":0,
+          "fy-1":90000,
+          "fy-0":1000000,
+          "fy+1":599358,
+          "row_total":1689358
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":0,
+          "fy-1":90000,
+          "fy-0":1000000,
+          "fy+1":599358,
+          "row_total":1689358
+        }
+      ]
+    },
+    {
+      "name":"George Wright Clubhouse Study.",
+      "mission":"Programming study to identify re-configuring/reprogramming opportunities for the clubhouse.",
+      "managing_department":"Property Management Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"Study Underway",
+      "location":"Hyde Park",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":0,
+          "fy-1":1000000,
+          "fy-0":500000,
+          "fy+1":0,
+          "row_total":1500000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":0,
+          "fy-1":1000000,
+          "fy-0":500000,
+          "fy+1":0,
+          "row_total":1500000
+        }
+      ]
+    },
+    {
+      "name":"Moakley Park Master Plan.",
+      "mission":"Develop a master plan for the optimal use of space within the entire park.",
+      "managing_department":"Parks and Recreation Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"Study Underway",
+      "location":"South Boston",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":1568000,
+          "fy+1":452000,
+          "row_total":2020000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":1568000,
+          "fy+1":452000,
+          "row_total":2020000
+        }
+      ]
+    },
+    {
+      "name":"Titus Sparrow Park.",
+      "mission":"To improve the playground, tennis and basketball courts.",
+      "managing_department":"Parks and Recreation Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"To Be Scheduled",
+      "location":"South End",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":1650000,
+          "row_total":1650000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":1650000,
+          "row_total":1650000
+        }
+      ]
+    },
+    {
+      "name":"Flaherty Park.",
+      "mission":"Renovation of park, including play lot, pathways, and passive areas.",
+      "managing_department":"Parks and Recreation Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"In Construction",
+      "location":"South Boston",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":0,
+          "fy-1":50000,
+          "fy-0":50000,
+          "fy+1":0,
+          "row_total":100000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":0,
+          "fy-1":50000,
+          "fy-0":50000,
+          "fy+1":0,
+          "row_total":100000
+        }
+      ]
+    },
+    {
+      "name":"Parcel Priority Plan.",
+      "mission":"Analyze and identify lands of recreational, habitat, connectivity, or ecological value in the City of Boston that should be protected as open space.",
+      "managing_department":"Parks and Recreation Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"To Be Scheduled",
+      "location":"Citywide",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":0,
+          "fy-1":250000,
+          "fy-0":2285000,
+          "fy+1":1165000,
+          "row_total":3700000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":0,
+          "fy-1":250000,
+          "fy-0":2285000,
+          "fy+1":1165000,
+          "row_total":3700000
+        }
+      ]
+    },
+    {
+      "name":"Mt. Hope Street Parcel.",
+      "mission":"Study and implement strategies that will transform the DND parcel into a park.",
+      "managing_department":"Parks and Recreation Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"To Be Scheduled",
+      "location":"Roslindale",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":350000,
+          "fy+1":1050000,
+          "row_total":1400000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":350000,
+          "fy+1":1050000,
+          "row_total":1400000
+        }
+      ]
+    },
+    {
+      "name":"Garvey Playground.",
+      "mission":"Park renovation including play lot, field improvements, lighting, pathways, and court upgrades.",
+      "managing_department":"Parks and Recreation Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"In Design",
+      "location":"Dorchester",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":0,
+          "fy-1":100000,
+          "fy-0":400000,
+          "fy+1":0,
+          "row_total":500000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":0,
+          "fy-1":100000,
+          "fy-0":400000,
+          "fy+1":0,
+          "row_total":500000
+        }
+      ]
+    },
+    {
+      "name":"South End Library Park.",
+      "mission":"Passive park renovation including pathways and landscape improvements.",
+      "managing_department":"Parks and Recreation Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"In Design",
+      "location":"South End",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":100000,
+          "fy+1":0,
+          "row_total":100000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":2000000,
+          "fy-0":2900000,
+          "fy+1":0,
+          "row_total":4900000
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":0,
+          "fy-1":2000000,
+          "fy-0":3000000,
+          "fy+1":0,
+          "row_total":5000000
+        }
+      ]
+    },
+    {
+      "name":"Jamaica Pond Pathways and Perimeter Improvements.",
+      "mission":"Repaving the pathways around Jamaica Pond.",
+      "managing_department":"Parks and Recreation Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"New Project",
+      "location":"Jamaica Plain",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":200000,
+          "fy+1":3760000,
+          "row_total":3960000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":200000,
+          "fy+1":3760000,
+          "row_total":3960000
+        }
+      ]
+    },
+    {
+      "name":"Edwards Playground.",
+      "mission":"Renovations to the playground including safety surfacing; passive park improvements including site furnishings, upgraded utilities and pathways.",
+      "managing_department":"Parks and Recreation Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"In Design",
+      "location":"Charlestown",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":50000,
+          "fy+1":846000,
+          "row_total":896000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":50000,
+          "fy+1":846000,
+          "row_total":896000
+        }
+      ]
+    },
+    {
+      "name":"Boston Common Tadpole Play Lot.",
+      "mission":"Revitalize the Boston Common playground including new play equipment, safety surfacing and site furnishings.",
+      "managing_department":"Parks and Recreation Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"New Project",
+      "location":"Beacon Hill",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":50000,
+          "fy+1":0,
+          "row_total":50000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":50000,
+          "fy+1":0,
+          "row_total":50000
+        }
+      ]
+    },
+    {
+      "name":"Peter's Park.",
+      "mission":"Improvements to pathways and passive areas.",
+      "managing_department":"Parks and Recreation Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"New Project",
+      "location":"South End",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":300000,
+          "fy+1":1379362,
+          "row_total":1679362
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":300000,
+          "fy+1":1379362,
+          "row_total":1679362
+        }
+      ]
+    },
+    {
+      "name":"Smith Playground.",
+      "mission":"Comprehensive project that includes improvements to playground, new water spray feature, amphitheater, passive community space, and Western Avenue street improvements.",
+      "managing_department":"Parks and Recreation Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"In Design",
+      "location":"Allston/Brighton",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":100000,
+          "fy-0":1200000,
+          "fy+1":600000,
+          "row_total":1900000
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":0,
+          "fy-1":100000,
+          "fy-0":1200000,
+          "fy+1":600000,
+          "row_total":1900000
+        }
+      ]
+    },
+    {
+      "name":"Sherrin Woods Urban Wild.",
+      "mission":"Trail improvement and wetland restoration project, seeking to improve public accessibility.",
+      "managing_department":"Parks and Recreation Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"In Construction",
+      "location":"Hyde Park",
+      "operating_impact":"Yes",
+      "expenditures_summary":[]
+    }
+  ]
+}
+---

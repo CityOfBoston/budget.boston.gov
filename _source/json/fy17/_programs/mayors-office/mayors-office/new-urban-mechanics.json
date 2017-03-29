@@ -1,0 +1,55 @@
+---
+{
+  "cabinet":"Mayors Office",
+  "department":"Mayor's Office",
+  "file_version":"0.10",
+  "head_name":"Kristopher Carter",
+  "head_title":"Manager",
+  "name":"New Urban Mechanics",
+  "parent":"Mayor's Office",
+  "parent_id":"6512BD43D9CAA6E02C990B0A82652DCA",
+  "section_id":256,
+  "section_md5_id":"F718499C1C8CEF6730F9FD03C8125CAB",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 111400",
+  "description":"New Urban Mechanics is an approach to civic innovation focused on delivering transformative City services to Boston&rsquo;s residents.  The principles of New Urban Mechanics involves collaborating with constituents, focusing on the basics of government, and pushing for bolder ideas.  The office focuses on a broad range of areas from increasing civic participation, to improving City streets, to boosting educational outcomes.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":271977,
+      "fy-1":255203,
+      "fy-0":334581,
+      "fy+2":348736
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":6001,
+      "fy-1":25500,
+      "fy-0":34800,
+      "fy+1":45800
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":277978,
+      "fy-1":280703,
+      "fy-0":369381,
+      "fy+1":394536
+    }
+  ],
+  "performance_strategies":[]
+}
+---

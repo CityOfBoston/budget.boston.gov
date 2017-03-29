@@ -2,16 +2,17 @@
 layout: bos_content
 permalink: /operating-budget/
 title: Operating Budget
-breadcrumbs:
- - title: Home
-   url: "/"
- - title: Budget
-   url: "/budget"
- - current: Operating Budget
- - published: 2/15/17
-intro:
- - title: Operating Budget
-   short_desc: >
+components:
+- breadcrumbs:
+  - title: Home
+    url: "/"
+  - title: Budget
+    url: "/budget"
+  - current: Operating Budget
+  - published: 2/15/17
+- intro:
+  - title: Operating Budget
+    short_desc: >
       The FY17 Adopted Operating Budget totals $2.98
       billion and represents an increase of $118 million or
       4.1% over FY16. The FY17 budget continues the City’s
@@ -20,7 +21,7 @@ intro:
       modernize processes, and reinvests those savings in
       targeted initiatives toward achieving a thriving,
       healthy and innovative City.
-   description: >
+    description: >
       On the expenditure side, the FY17 budget reflects an
       increase of $118 million or 4.1% over the FY16 budget
       and $95.4 million (3.3%) over FY16 estimated
@@ -32,8 +33,8 @@ intro:
       increases are low relative to other years due to the
       expiration of nearly all of collective bargaining
       agreements by early in the fiscal year.
-   sidebar_menu: true
-table:
+    sidebar_menu: true
+- table:
   - title: Budget summary
     columns:
       - "": Total revenues
@@ -51,7 +52,7 @@ table:
         "FY15 Actual": $7.36
         "FY16 Budget": $0.00
         "FY17 Budget": $0.00
-table+:
+- table:
   - title: Revenues
     right_text: (dollars in millions)
     columns:
@@ -120,7 +121,7 @@ table+:
       "FY15 Actual": $2,780.42
       "FY16 Budget": $2,817.10
       "FY17 Budget": $2,935.13
-table++:
+- table:
   - title: Expenditures
     right_text: (dollars in millions)
     columns:
@@ -220,7 +221,7 @@ table++:
       "FY15 Actual": $2,773.06
       "FY16 Budget": $2,875.10
       "FY17 Budget": $2,975.13
-text_block:
+- text_block:
   - title: Overview
     body: >
       On the expenditure side of the budget, total
@@ -255,7 +256,7 @@ text_block:
       assessment increases by $0.8 million or 1.0%; and
       other state assessments increases $69 thousand or
       1.5%.
-text_block+:
+- text_block:
   - title: Expenditures
     body: >
       Expenditures are broken down into two primary

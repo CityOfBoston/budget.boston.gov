@@ -2,9 +2,9 @@
   <div class="paragraphs-items paragraphs-items-field-text-blocks paragraphs-items-field-text-blocks-full paragraphs-items-full clearfix">
     <div class="entity entity-paragraphs-item paragraphs-item-text-two-column component-section col_half" about="" typeof="">
       <div class="content">
-        {% for column in include.arg[1] | limit: 3 %}
+        {% for column in include.arg | limit: 3 %}
           <div class="field field-name-field-left-column field-type-text-long field-label-hidden">
-            {{ column[1] }}
+            {{ column.col }}
           </div>
         {% endfor %}
       </div>

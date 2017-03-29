@@ -1,0 +1,55 @@
+---
+{
+  "cabinet":"Streets",
+  "department":"Public Works Department",
+  "file_version":"0.10",
+  "head_name":"Chris Osgood",
+  "head_title":"Interim Commissioner",
+  "name":"PWD Commissioner's Office",
+  "parent":"Public Works Department",
+  "parent_id":"E4DA3B7FBBCE2345D7772B0674A318D5",
+  "section_id":2,
+  "section_md5_id":"C81E728D9D4C2F636F067F89CC14862C",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 311100",
+  "description":"The Commissioner's Office defines long-term policy and direction, and works to enhance service delivery throughout the Department.  The office is also responsible for issuing permits for street openings and street occupancy.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":2327533,
+      "fy-1":1697981,
+      "fy-0":1652118,
+      "fy+2":1582691
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":1243533,
+      "fy-1":1143773,
+      "fy-0":1090649,
+      "fy+1":1157449
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":3571066,
+      "fy-1":2841754,
+      "fy-0":2742767,
+      "fy+1":2740140
+    }
+  ],
+  "performance_strategies":[]
+}
+---

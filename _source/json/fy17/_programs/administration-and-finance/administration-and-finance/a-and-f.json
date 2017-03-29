@@ -1,0 +1,55 @@
+---
+{
+  "cabinet":"Administration and Finance",
+  "department":"Administration & Finance",
+  "file_version":"0.10",
+  "head_name":"David Sweeney",
+  "head_title":"Chief Financial Office & Collector Treasurer",
+  "name":"A & F",
+  "parent":"Administration & Finance",
+  "parent_id":"9F61408E3AFB633E50CDF1B20DE6F466",
+  "section_id":11,
+  "section_md5_id":"6512BD43D9CAA6E02C990B0A82652DCA",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 144100",
+  "description":"The Finance & Budget Program assists in supporting the City&rsquo;s long-term growth and stability by working with all departments to strengthen and improve the City&rsquo;s financial and administrative resources.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":678910,
+      "fy-1":754643,
+      "fy-0":865675,
+      "fy+2":729710
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":255871,
+      "fy-1":133592,
+      "fy-0":205600,
+      "fy+1":335600
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":934781,
+      "fy-1":888235,
+      "fy-0":1071275,
+      "fy+1":1065310
+    }
+  ],
+  "performance_strategies":[]
+}
+---

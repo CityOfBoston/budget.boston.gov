@@ -1,0 +1,41 @@
+---
+{
+  "debug":"JCD",
+  "name":"City Hall ADA Restroom.",
+  "mission":"Install a fully ADA compliant restroom in City Hall.",
+  "managing_department":"Public Facilities Department.",
+  "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+  "status":"In Design",
+  "location":"Government Center/Faneuil Hall",
+  "operating_impact":"Yes",
+  "expenditures_summary":[
+    {
+      "line_type":"data",
+      "line_title":"City Capital",
+      "fy-2":0,
+      "fy-1":25000,
+      "fy-0":300500,
+      "fy+1":1624500,
+      "row_total":1950000
+    },
+    {
+      "line_type":"data",
+      "line_title":"Grants/Other",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0,
+      "row_total":0
+    },
+    {
+      "line_type":"total",
+      "line_title":"Total",
+      "fy-2":0,
+      "fy-1":25000,
+      "fy-0":300500,
+      "fy+1":1624500,
+      "row_total":1950000
+    }
+  ]
+}
+---
