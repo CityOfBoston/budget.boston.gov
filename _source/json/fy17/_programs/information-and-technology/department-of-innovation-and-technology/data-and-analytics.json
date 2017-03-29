@@ -1,0 +1,92 @@
+---
+{
+  "cabinet":"Information and Technology",
+  "department":"Department of Innovation & Technology",
+  "file_version":"0.10",
+  "head_name":"Andrew Therriault",
+  "head_title":"Manager",
+  "name":"Data & Analytics",
+  "parent":"Department of Innovation & Technology",
+  "parent_id":"70EFDF2EC9B086079795C442636B55FB",
+  "section_id":132,
+  "section_md5_id":"65DED5353C5EE48D0B7D48C591B8F430",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 149500",
+  "description":"Use data and analytics to improve quality of life and the effectiveness of government operations. By providing technology and business support, we aim to create a modern, data-driven, responsive City government. We have worked on a variety initiatives to improve performance and accountability (CityScore, BFD shift swap dashboard) and deliver services more effectively (signal timing optimization, moving day trash collection).",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":1691274,
+      "fy-1":1729746,
+      "fy-0":648928,
+      "fy+2":1159627
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":94245,
+      "fy-1":72709,
+      "fy-0":150000,
+      "fy+1":75000
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1785519,
+      "fy-1":1802455,
+      "fy-0":798928,
+      "fy+1":1234627
+    }
+  ],
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Using data to improve government services"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of Departments with published performance reports",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":""
+            },
+            {
+              "line_type":"data",
+              "line_data":"Usage rates of publicly available open datasets",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":100,
+              "fy-1":100
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

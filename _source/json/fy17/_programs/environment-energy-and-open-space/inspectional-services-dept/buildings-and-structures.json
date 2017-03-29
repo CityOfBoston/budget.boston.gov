@@ -1,0 +1,100 @@
+---
+{
+  "cabinet":"Environment, Energy and Open Space",
+  "department":"Inspectional Services Dept",
+  "file_version":"0.10",
+  "head_name":"Gary P. Moccia",
+  "head_title":"Manager",
+  "name":"Buildings & Structures",
+  "parent":"Inspectional Services Dept",
+  "parent_id":"6C8349CC7260AE62E3B1396831A8398F",
+  "section_id":75,
+  "section_md5_id":"D09BF41544A3365A46C9077EBB5E35C3",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 260300",
+  "description":"The Inspector of Buildings oversees all building permit application processing, plans and zoning reviews, field inspections, and the investigative and regulatory enforcement activities administered by the Department.  The Buildings and Structures management staff is responsible for issuing building permits for repair and installation, certificates of occupancy, building licenses, and inspecting buildings for safety and compliance with the allowable uses and applicable laws and codes. \r\n \r\nThe Plans and Zoning staff responds to all permit applications and reviews building plans for zoning compliance.  Zoning Materials and Zoning Clinics are available at 1010 Massachusetts Avenue and neighborhood libraries to assist individuals and businesses.  \r\n\r\nBuilding, Electrical and Mechanical inspectors inspect all construction or renovation work to ensure that proper safety standards are followed.  Inspectors respond to all community complaints about non-permitted work and zoning violations, including the use of land and structures beyond the allowable use and occupancy.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":5733170,
+      "fy-1":5903178,
+      "fy-0":5890166,
+      "fy+2":5744945
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":305273,
+      "fy-1":457512,
+      "fy-0":479957,
+      "fy+1":426209
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":6038443,
+      "fy-1":6360690,
+      "fy-0":6370123,
+      "fy+1":6171154
+    }
+  ],
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To ensure the safety of buildings by tracking their compliance with codes by means of scheduled inspections."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# long form permits issued",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":4800,
+              "fy-1":5000
+            },
+            {
+              "line_type":"data",
+              "line_data":"Average days Permit review time",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":30,
+              "fy-1":30
+            },
+            {
+              "line_type":"data",
+              "line_data":"Violations issued",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":1100,
+              "fy-1":1300
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

@@ -1,0 +1,55 @@
+---
+{
+  "cabinet":"Operations",
+  "department":"Property Management",
+  "file_version":"0.10",
+  "head_name":"William G. Joyce",
+  "head_title":"Manager",
+  "name":"Enforcement",
+  "parent":"Property Management",
+  "parent_id":"1679091C5A880FAF6FB5E6087EB1B2DC",
+  "section_id":140,
+  "section_md5_id":"1385974ED5904A438616FF7BDB3F7439",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 180400",
+  "description":"The Municipal Protective Services Division (MPSD) protects City property from vandalism, arson, and theft in City buildings.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":3588961,
+      "fy-1":3719683,
+      "fy-0":3298472,
+      "fy+2":2108300
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":212137,
+      "fy-1":331651,
+      "fy-0":301974,
+      "fy+1":279399
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":3801098,
+      "fy-1":4051334,
+      "fy-0":3600446,
+      "fy+1":2387699
+    }
+  ],
+  "performance_strategies":[]
+}
+---

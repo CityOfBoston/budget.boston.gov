@@ -1,0 +1,55 @@
+---
+{
+  "cabinet":"Streets",
+  "department":"Parking Clerk",
+  "file_version":"0.10",
+  "head_name":"Stephen McGuire",
+  "head_title":"Manager",
+  "name":"Parking Clerk",
+  "parent":"Parking Clerk",
+  "parent_id":"D9D4F495E875A2E075A1A4A6E1B9770F",
+  "section_id":180,
+  "section_md5_id":"045117B0E0A11A242B9765E79CBF113F",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 253100",
+  "description":"The Office of the Parking Clerk is responsible for the oversight and management of the City's comprehensive Parking Violation and Parking Management Information Services System, the administration of the issuance program for Resident Parking Permits, and adjudication related to the issuance of parking citations and the abandoned vehicle program.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":2819918,
+      "fy-1":2737077,
+      "fy-0":2787023,
+      "fy+2":2787527
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":4931960,
+      "fy-1":5179458,
+      "fy-0":5555300,
+      "fy+1":5685644
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":7751878,
+      "fy-1":7916535,
+      "fy-0":8342323,
+      "fy+1":8473171
+    }
+  ],
+  "performance_strategies":[]
+}
+---

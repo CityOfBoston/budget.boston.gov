@@ -1,0 +1,41 @@
+---
+{
+  "cabinet":"Mayors Office",
+  "department":"Mayor's Office.",
+  "file_version":"0.10",
+  "head_name":null,
+  "head_title":null,
+  "name":"Mayor's Office.",
+  "parent":"Mayor's Office.",
+  "parent_id":"6512BD43D9CAA6E02C990B0A82652DCA",
+  "section_id":11,
+  "section_md5_id":"6512BD43D9CAA6E02C990B0A82652DCA",
+  "section_type":"projects",
+  "section_type_short":"R",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "description":"The Mayor&rsquo;s Office of New Urban Mechanics is charged with supporting innovation across all cabinets and departments and which focus on creating experiences for residents that are engaging, smart, and transparent.",
+  "vol1_category_copy":"NEED SOURCE LOCATION FOR THIS DATA",
+  "selected_performance_strategies":[
+    {
+      "program":"NEED SOURCE LOCATION FOR THIS DATA",
+      "strategies":[
+        "NEED SOURCE LOCATION FOR THIS DATA"
+      ]
+    }
+  ],
+  "overview":"The Mayor&rsquo;s Office of New Urban Mechanics is charged with supporting innovation across all cabinets and departments and which focus on creating experiences for residents that are engaging, smart, and transparent.",
+  "projects":[
+    {
+      "name":"Innovation Fund.",
+      "mission":"Work across departments to deploy innovative improvements on streets, online, and in schools using technology and cutting edge design.",
+      "managing_department":"Office of New Urban Mechanics.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"Implementation Underway",
+      "location":"Various neighborhoods",
+      "operating_impact":"",
+      "expenditures_summary":[]
+    }
+  ]
+}
+---

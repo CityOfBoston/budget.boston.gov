@@ -1,0 +1,55 @@
+---
+{
+  "cabinet":"Public Safety",
+  "department":"Fire Department",
+  "file_version":"0.10",
+  "head_name":"Peter Clifford",
+  "head_title":"Manager",
+  "name":"Fire Alarm",
+  "parent":"Fire Department",
+  "parent_id":"33E75FF09DD601BBE69F351039152189",
+  "section_id":31,
+  "section_md5_id":"C16A5320FA475530D9583C34FD356EF5",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 221300",
+  "description":"The Fire Alarm Program is responsible for receiving alarms, dispatching apparatus, and control and movement of appropriate personnel and equipment.  The program also monitors the status of all firefighting companies and is responsible for all communications, radios, electrical equipment, and appliances in the department.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":6961226,
+      "fy-1":7122497,
+      "fy-0":7996720,
+      "fy+2":7910325
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":1427226,
+      "fy-1":1937572,
+      "fy-0":1989897,
+      "fy+1":2137757
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":8388452,
+      "fy-1":9060069,
+      "fy-0":9986617,
+      "fy+1":10048082
+    }
+  ],
+  "performance_strategies":[]
+}
+---

@@ -1,0 +1,55 @@
+---
+{
+  "cabinet":"Civic Engagement",
+  "department":"Elderly Commission",
+  "file_version":"0.10",
+  "head_name":"Francis Thomas",
+  "head_title":"Manager",
+  "name":"Elderly Administration",
+  "parent":"Elderly Commission",
+  "parent_id":"D67D8AB4F4C10BF22AA353E27879133C",
+  "section_id":85,
+  "section_md5_id":"3EF815416F775098FE977004015C6193",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 387100",
+  "description":"The Administration Program provides fiscal supervision of all Commission programs,  and procures resources to ensure that all programs perform their mission on time and on budget.  The program provides data management, purchasing, staff training, program evaluation and analysis.  The Administration Program maintains a close relationship with senior citizen groups, and service providers through administrating and monitoring providers supported by Area Agency on Aging grants.  Administration staff is responsible for initiating systems that increase productivity and community outreach.  Administration is also responsible for financially preparing the Commission to serve the growing needs of our multicultural and linguistically diverse clients and staff and the eventual boom in the elder population.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":684705,
+      "fy-1":653254,
+      "fy-0":677874,
+      "fy+2":784416
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":67444,
+      "fy-1":64471,
+      "fy-0":44080,
+      "fy+1":43300
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":752149,
+      "fy-1":717725,
+      "fy-0":721954,
+      "fy+1":827716
+    }
+  ],
+  "performance_strategies":[]
+}
+---

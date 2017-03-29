@@ -1,0 +1,55 @@
+---
+{
+  "cabinet":"Administration and Finance",
+  "department":"Purchasing Division",
+  "file_version":"0.10",
+  "head_name":"Kevin Coyne",
+  "head_title":"Manager",
+  "name":"Central Services",
+  "parent":"Purchasing Division",
+  "parent_id":"98F13708210194C475687BE6106A3B84",
+  "section_id":146,
+  "section_md5_id":"A5E00132373A7031000FD987A3C9F87B",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 143300",
+  "description":"The Central Services Program provides mail service, disposal of surplus property, and publishing of the City Record.  This program is responsible for handling all incoming and outgoing mail for departments within City Hall.  The Surplus Property Unit ensures the efficient and economical disposal of all the City's surplus property excluding land and buildings.  This program is responsible for publishing, distribution, billing, and marketing of the City Record.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":192847,
+      "fy-1":195426,
+      "fy-0":186104,
+      "fy+2":189283
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":25250,
+      "fy-1":80665,
+      "fy-0":110834,
+      "fy+1":25588
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":218097,
+      "fy-1":276091,
+      "fy-0":296938,
+      "fy+1":214871
+    }
+  ],
+  "performance_strategies":[]
+}
+---

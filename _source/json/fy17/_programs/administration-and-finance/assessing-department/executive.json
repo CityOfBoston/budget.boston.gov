@@ -1,0 +1,108 @@
+---
+{
+  "cabinet":"Administration and Finance",
+  "department":"Assessing Department",
+  "file_version":"0.10",
+  "head_name":"Ronald W. Rakow",
+  "head_title":"Commissioner",
+  "name":"Executive",
+  "parent":"Assessing Department",
+  "parent_id":"37693CFC748049E45D87B8C7D8B9AACD",
+  "section_id":14,
+  "section_md5_id":"AAB3238922BCC25A6F606EB525FFDC56",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 136300",
+  "description":"The Executive program provides support services to the Commissioner, including tax policy and information coordination and dissemination.  In addition, both the Board of Review and Litigation units handle rulings on all abatement applications and representation at the state's Appellate Tax Board regarding these applications.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":1051579,
+      "fy-1":992746,
+      "fy-0":1054269,
+      "fy+2":1093601
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":77617,
+      "fy-1":399245,
+      "fy-0":202800,
+      "fy+1":202300
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1129196,
+      "fy-1":1391991,
+      "fy-0":1257069,
+      "fy+1":1295901
+    }
+  ],
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To resolve taxpayer inquiries responsively and quickly."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of calls to the Taxpayer Referral and Assistance Center (TRAC)",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":2500,
+              "fy-1":2500
+            },
+            {
+              "line_type":"data",
+              "line_data":"% of calls to TRAC answered within 3 minutes",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"100%",
+              "fy-1":"100%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"% of public requests to Commissioner's office addressed within 2 days",
+              "fy-4":"100%",
+              "fy-3":"100%",
+              "fy-2":"100%",
+              "fy-1":"100%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Public request received",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":40,
+              "fy-1":40
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

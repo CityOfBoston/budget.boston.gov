@@ -1,0 +1,84 @@
+---
+{
+  "cabinet":"Health and Human Services",
+  "department":"Boston Centers for Youth & Families",
+  "file_version":"0.10",
+  "head_name":"Christopher Byner",
+  "head_title":"Manager",
+  "name":"Youth & Family Services",
+  "parent":"Boston Centers for Youth & Families",
+  "parent_id":"68D30A9594728BC39AA24BE94B319D21",
+  "section_id":217,
+  "section_md5_id":"63DC7ED1010D3C3B8269FAF0BA7491D4",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 385300",
+  "description":"The Youth Development and Family Services Division is responsible for providing resources and access to educational and skill development programming for youth and adults.  The division oversees adult education and youth leadership.  The division also includes the Streetworker outreach and intervention program.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":3518324,
+      "fy-1":3524724,
+      "fy-0":3840648,
+      "fy+2":3805759
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":114735,
+      "fy-1":51324,
+      "fy-0":0,
+      "fy+1":0
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":3633059,
+      "fy-1":3576048,
+      "fy-0":3840648,
+      "fy+1":3805759
+    }
+  ],
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To provide outreach, intervention, support, and referral services for youth."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of mediations conducted by streetworkers",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":400,
+              "fy-1":450
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

@@ -1,0 +1,112 @@
+---
+{
+  "cabinet":"Education",
+  "department":"Boston Public Schools",
+  "file_version":"0.10",
+  "head_name":"Dr. Tommy Chang",
+  "head_title":"Superintendent",
+  "name":"General School Purposes",
+  "parent":"Boston Public Schools",
+  "parent_id":"34173CB38F07F89DDBEBC2AC9128303F",
+  "section_id":221,
+  "section_md5_id":"060AD92489947D410D897474079C1477",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 101900",
+  "description":"BPS strives to promote ongoing improvement in teaching and learning at each and every Boston Public School and in each and every classroom within these schools.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":762246787,
+      "fy-1":790986551,
+      "fy-0":804031628,
+      "fy+2":827392443
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":204437980,
+      "fy-1":217843904,
+      "fy-0":220694076,
+      "fy+1":225730728
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":966684767,
+      "fy-1":1008830455,
+      "fy-0":1024725704,
+      "fy+1":1053123171
+    }
+  ],
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "BPS will provide rigorous, effective, and engaging curriculum, instruction, and enrichment."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"4 year unadjusted graduation rate",
+              "fy-4":71,
+              "fy-3":72,
+              "fy-2":"",
+              "fy-1":""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To graduate all students from high school\r\nprepared for college and career success."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Annual dropout rate % - High School",
+              "fy-4":4,
+              "fy-3":6,
+              "fy-2":"",
+              "fy-1":""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

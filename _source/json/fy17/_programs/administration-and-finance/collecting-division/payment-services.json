@@ -1,0 +1,55 @@
+---
+{
+  "cabinet":"Administration and Finance",
+  "department":"Collecting Division",
+  "file_version":"0.10",
+  "head_name":"Nancy Cincotti",
+  "head_title":"Manager",
+  "name":"Payment Services",
+  "parent":"Collecting Division",
+  "parent_id":"3C59DC048E8850243BE8079A5C74D079",
+  "section_id":170,
+  "section_md5_id":"149E9677A5989FD342AE44213DF68868",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 137300",
+  "description":"The Payment Services Program processes all funds received by the City from taxpayers and City departments. It mails all current tax notices, resolves questions from taxpayers and financial institutions, provides duplicate tax bills, and processes all refunds and abatements.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":309134,
+      "fy-1":329103,
+      "fy-0":417011,
+      "fy+2":413499
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":581667,
+      "fy-1":907352,
+      "fy-0":510370,
+      "fy+1":510370
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":890801,
+      "fy-1":1236455,
+      "fy-0":927381,
+      "fy+1":923869
+    }
+  ],
+  "performance_strategies":[]
+}
+---

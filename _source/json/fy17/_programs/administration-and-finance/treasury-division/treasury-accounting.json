@@ -1,0 +1,55 @@
+---
+{
+  "cabinet":"Administration and Finance",
+  "department":"Treasury Division",
+  "file_version":"0.10",
+  "head_name":"Marirose Graham",
+  "head_title":"Manager",
+  "name":"Treasury Accounting",
+  "parent":"Treasury Division",
+  "parent_id":"3C59DC048E8850243BE8079A5C74D079",
+  "section_id":167,
+  "section_md5_id":"5878A7AB84FB43402106C575658472FA",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 138400",
+  "description":"The Accounting Program records and reconciles on a daily basis the cash and investment balances of the City.  It reports daily on all financial transactions.  Additionally, the program prepares and files federal and state forms and ensures payment of withholding taxes to state and federal agencies.  The program is also responsible for ensuring the timely reconciliation of bank statements and city records.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":162814,
+      "fy-1":150791,
+      "fy-0":168252,
+      "fy+2":168252
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":775,
+      "fy-1":4750,
+      "fy-0":4600,
+      "fy+1":4600
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":163589,
+      "fy-1":155541,
+      "fy-0":172852,
+      "fy+1":172852
+    }
+  ],
+  "performance_strategies":[]
+}
+---

@@ -1,0 +1,55 @@
+---
+{
+  "cabinet":"Mayors Office",
+  "department":"Mayor's Office",
+  "file_version":"0.10",
+  "head_name":"Daniel Koh",
+  "head_title":"Chief of Staff",
+  "name":"Mayor's Administration",
+  "parent":"Mayor's Office",
+  "parent_id":"6512BD43D9CAA6E02C990B0A82652DCA",
+  "section_id":18,
+  "section_md5_id":"6F4922F45568161A8CDF4AD2299F6D23",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 111100",
+  "description":"The Administration Program provides administrative services and support to allow the Mayor&rsquo;s Office to operate efficiently and cost effectively.  This includes scheduling, correspondence and reception of visitors and callers.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":1078144,
+      "fy-1":904063,
+      "fy-0":977390,
+      "fy+2":1020850
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":144837,
+      "fy-1":152100,
+      "fy-0":134368,
+      "fy+1":155730
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1222981,
+      "fy-1":1056163,
+      "fy-0":1111758,
+      "fy+1":1176580
+    }
+  ],
+  "performance_strategies":[]
+}
+---

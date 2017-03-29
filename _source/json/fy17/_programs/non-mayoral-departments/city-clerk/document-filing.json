@@ -1,0 +1,128 @@
+---
+{
+  "cabinet":"Non-Mayoral Departments",
+  "department":"City Clerk",
+  "file_version":"0.10",
+  "head_name":"Maureen Feeney",
+  "head_title":"Manager",
+  "name":"Document Filing",
+  "parent":"City Clerk",
+  "parent_id":"C0C7C76D30BD3DCAEFC96F40275BDC0A",
+  "section_id":107,
+  "section_md5_id":"A97DA629B098B75C294DFFDC3E463904",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 161200",
+  "description":"The City Clerk is the supervisor of records and the filing agency for the City.  The Office of the City Clerk is required to record, file, and maintain indices of public documents.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":390722,
+      "fy-1":410773,
+      "fy-0":399320,
+      "fy+2":490345
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":8769,
+      "fy-1":5899,
+      "fy-0":16525,
+      "fy+1":14260
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":399491,
+      "fy-1":416672,
+      "fy-0":415845,
+      "fy+1":504605
+    }
+  ],
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "City Council meeting arecreated,update , upload and published on the City of Boston website."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Records Digitized",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":24000,
+              "fy-1":24000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To receive and record statuory filings as required by law"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Business Certificate received and processed ,Physican Certificate received and processed, Claims,",
+              "fy-4":"",
+              "fy-3":6151,
+              "fy-2":8500,
+              "fy-1":9000
+            },
+            {
+              "line_type":"data",
+              "line_data":"Other Statutory Document filing . Public Hearing Notice,",
+              "fy-4":"",
+              "fy-3":2703,
+              "fy-2":2700,
+              "fy-1":3000
+            },
+            {
+              "line_type":"data",
+              "line_data":"Statment of Financial interest, University Accountability Report",
+              "fy-4":146,
+              "fy-3":74,
+              "fy-2":89,
+              "fy-1":89
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

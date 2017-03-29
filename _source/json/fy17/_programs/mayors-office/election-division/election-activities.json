@@ -1,0 +1,55 @@
+---
+{
+  "cabinet":"Mayors Office",
+  "department":"Election Division",
+  "file_version":"0.10",
+  "head_name":"Dion Irish",
+  "head_title":"Manager",
+  "name":"Election Activities",
+  "parent":"Election Division",
+  "parent_id":"C9F0F895FB98AB9159F51FD0297E236D",
+  "section_id":162,
+  "section_md5_id":"82AA4B0AF34C2313A562076992E50AA3",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 121400",
+  "description":"The Election Activities Program manages all activities related to the conduct of elections in the City of Boston, certifies nomination papers, provides all material for polling locations, trains election day officials, conducts the absentee ballot process, tabulates and certifies election results, registers voters, and responds to inquiries regarding voter status. The Election Activities Program is also responsible for equipping election sites with the proper equipment.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":1546612,
+      "fy-1":1532173,
+      "fy-0":1926013,
+      "fy+2":1658911
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":263490,
+      "fy-1":707774,
+      "fy-0":810500,
+      "fy+1":918200
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1810102,
+      "fy-1":2239947,
+      "fy-0":2736513,
+      "fy+1":2577111
+    }
+  ],
+  "performance_strategies":[]
+}
+---

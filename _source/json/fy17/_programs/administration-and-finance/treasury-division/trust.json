@@ -1,0 +1,55 @@
+---
+{
+  "cabinet":"Administration and Finance",
+  "department":"Treasury Division",
+  "file_version":"0.10",
+  "head_name":"Richard DePiano",
+  "head_title":"Manager",
+  "name":"Trust",
+  "parent":"Treasury Division",
+  "parent_id":"3C59DC048E8850243BE8079A5C74D079",
+  "section_id":198,
+  "section_md5_id":"0E65972DCE68DAD4D52D063967F0A705",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 138600",
+  "description":"The Trust Program is charged with the responsibility of providing technical assistance to the City's various boards of trustees in the oversight of the investment programs for the more than 250 testamentary trust funds that have been entrusted to the City while ensuring that all beneficiary distributions are made in accordance with each benefactor's instructions.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":184,
+      "fy-0":0,
+      "fy+2":0
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":0,
+      "fy-1":184,
+      "fy-0":0,
+      "fy+1":0
+    }
+  ],
+  "performance_strategies":[]
+}
+---
