@@ -1,4 +1,6 @@
-grid:
+---
+components:
+- grid:
   - grid_title: Back to the budget
   - title: Executive Summary
     body: >
@@ -15,3 +17,4 @@ grid:
       Describes how programs within City departments distribute their resources in terms of personnel, facilities, goods, and services.
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
     link: https://budget.boston.gov/fy17_adopted/operating-budget/
+---

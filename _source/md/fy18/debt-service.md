@@ -2,24 +2,25 @@
 layout: bos_content
 permalink: /operating-budget/debt-service/
 title: Debt service
-breadcrumbs:
- - title: Home
-   url: "/"
- - title: Budget
-   url: "/budget"
- - title: Operating Budget
-   url: "/operating-budget/"
-   local: true
- - current: Debt service
- - published: 2/15/17
-intro:
- - title: Debt service
-   short_desc: >
-     The debt service is the annual amount of money necessary to pay the interest and principal on the City's outstanding debt.
-   description: >
-     The Debt Service budget is a fixed cost in the operating budget that supports the borrowing to finance the City’s capital plan. The City benefits from its strong financial policies and practices and have been recently affirmed with a triple A bond ratings issued by Moody’s and Standard and Poor’s. Strong bond ratings are an assessment of the City’s long-term financial stability but also help by lowering the cost of borrowing. In FY17 the Debt Service is budgeted at $177.8 million.
-   sidebar_menu: true
-text_block:
+components:
+- breadcrumbs:
+  - title: Home
+    url: "/"
+  - title: Budget
+    url: "/budget"
+  - title: Operating Budget
+    url: "/operating-budget/"
+    local: true
+  - current: Debt service
+  - published: 2/15/17
+- intro:
+  - title: Debt service
+    short_desc: >
+      The debt service is the annual amount of money necessary to pay the interest and principal on the City's outstanding debt.
+    description: >
+      The Debt Service budget is a fixed cost in the operating budget that supports the borrowing to finance the City’s capital plan. The City benefits from its strong financial policies and practices and have been recently affirmed with a triple A bond ratings issued by Moody’s and Standard and Poor’s. Strong bond ratings are an assessment of the City’s long-term financial stability but also help by lowering the cost of borrowing. In FY17 the Debt Service is budgeted at $177.8 million.
+    sidebar_menu: true
+- text_block:
   - title: Cabinet Appropriations
     body: >
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur suscipit id
@@ -28,7 +29,7 @@ text_block:
       blandit orci. Ut in sollicitudin turpis, non malesuada leo. Morbi vehicula sit
       amet est sed luctus. Suspendisse massa turpis, iaculis at fermentum placerat,
       scelerisque ultricies est. Nulla facilisi. In scelerisque ornare tincidunt.
-table:
+- table:
   - title: Debt service
     right_text:
       name: Back to all expenditures
