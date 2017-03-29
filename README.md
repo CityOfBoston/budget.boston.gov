@@ -1,20 +1,32 @@
 # budget.boston.gov
 
-This is a basic Jekyll starter project. It uses Gulp for building everything, so that we can more easily incorporate things like BrowserSync, Stylus and any necessary plugins.
+This Jekyll implementation creates static archives of the City of Boston's fiscal budgets. It uses Gulp for building everything, so that we can more easily incorporate things like BrowserSync, Stylus and any necessary plugins.
 
 To get up and running, download (or fork) this repo. Then in your project run:
 
 ``` sh
 bundle install
 npm install
-gulp
 ```
 
-At this point, you should be able to visit `https://0.0.0.0:3000`.
+Now use gulp to build the site.
+REQUIRED: Set a "source" in order to build the project using data from a specific fiscal year, for example:
+
+```
+gulp --source fy17
+```
+
+For local development pass the "local" flag:
+
+```
+gulp --local --source fy17
+```
+
+At this point, you should be able to visit your site at `http://127.0.0.1:4000`.
 
 ---
 
-In order to prevent breaking relative links from the boston.gov wrapper and serve the appropriate assets (like images, css, and js) from boston.gov, we need to preserve its base_url (found in the `<head` as `<base href="https://www.boston.gov">`). We also need to be able to use relative links and assets specific to the budget app when runing this site locally and in production. We accomplish this with the `url` directive in `_config.yml`. We also needed to create a config file with a url specifically for local dev. In order to run this site locally using that config file, run:
+In order to prevent breaking relative links from the boston.gov wrapper and serve the appropriate assets (like images, css, and js) from boston.gov, we need to preserve its base_url (found in the `<head` as `<base href="https://www.boston.gov">`). We also need to be able to use relative links and assets specific to the budget app when runing this site locally and in production. We accomplish this with the `url` directive in `_config.yml`. We also needed to create a config file with a url specifically for local dev. If you've already built the site with gulp, you can run it locally using that config file:
 ```
 bundle exec jekyll serve --config _config_dev.yml
 ```
@@ -23,7 +35,7 @@ This will make the site available at http://127.0.0.1:4000/
 ---
 
 To create custom pages, you can simply add reusable components to markdown files. 
-> IMPORTANT: Before adding any components you must add "components:"
+> IMPORTANT: Before adding any components you must add the "components:" key.
 
 Here's a short list of some common components you can use:
 
