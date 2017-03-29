@@ -1,0 +1,41 @@
+---
+{
+  "debug":"JCD",
+  "name":"Youth Budget Round 1.",
+  "mission":"Implement projects from the first round of \"Youth Lead the Change\" participatory budgeting. Winning projects include a playground renovation in Franklin Park, art walls, Chrome Books for three high schools, and a skate park feasibility study.",
+  "managing_department":"Boston Center for Youth and Families.",
+  "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+  "status":"Implementation Underway",
+  "location":"Citywide",
+  "operating_impact":"Yes",
+  "expenditures_summary":[
+    {
+      "line_type":"data",
+      "line_title":"City Capital",
+      "fy-2":0,
+      "fy-1":81000,
+      "fy-0":790000,
+      "fy+1":79000,
+      "row_total":950000
+    },
+    {
+      "line_type":"data",
+      "line_title":"Grants/Other",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0,
+      "row_total":0
+    },
+    {
+      "line_type":"total",
+      "line_title":"Total",
+      "fy-2":0,
+      "fy-1":81000,
+      "fy-0":790000,
+      "fy+1":79000,
+      "row_total":950000
+    }
+  ]
+}
+---

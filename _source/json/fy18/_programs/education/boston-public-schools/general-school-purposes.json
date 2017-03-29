@@ -1,0 +1,190 @@
+---
+{
+  "cabinet":"Education",
+  "department":"Boston Public Schools",
+  "file_version":"0.10",
+  "head_name":"Dr. Tommy Chang",
+  "head_title":"Superintendent",
+  "name":"Boston Public Schools",
+  "parent":"Boston Public Schools",
+  "parent_id":"34173CB38F07F89DDBEBC2AC9128303F",
+  "section_id":221,
+  "section_md5_id":"060AD92489947D410D897474079C1477",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 101900",
+  "description":"BPS strives to promote ongoing improvement in teaching and learning at each and every Boston Public School and in each and every classroom within these schools.",
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15 Actual",
+      "fy-1":"16 Actual",
+      "fy-0":"17 Budget",
+      "fy+2":"18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":762246787,
+      "fy-1":790986551,
+      "fy-0":804031628,
+      "fy+2":827392443
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":204437980,
+      "fy-1":217843904,
+      "fy-0":220694076,
+      "fy+1":225730728
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":966684767,
+      "fy-1":1008830455,
+      "fy-0":1024725704,
+      "fy+1":1053123171
+    }
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":639638879,
+        "fy-1":657247281,
+        "fy-0":666069004,
+        "fy+1":685190882,
+        "diff":19121878
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":790346593,
+        "fy-1":817203603,
+        "fy-0":813786379,
+        "fy+1":839620534,
+        "diff":25834155
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":799755038,
+        "fy-1":824615096,
+        "fy-0":821573314,
+        "fy+1":846618524,
+        "diff":25045210
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":804698622,
+        "fy-1":830200638,
+        "fy-0":827046883,
+        "fy+1":853114521,
+        "diff":26067638
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":815157686,
+        "fy-1":842986484,
+        "fy-0":839234006,
+        "fy+1":863756635,
+        "diff":24522629
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":816392490,
+        "fy-1":842986484,
+        "fy-0":840119572,
+        "fy+1":864642711,
+        "diff":24523139
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "BPS will provide rigorous, effective, and engaging curriculum, instruction, and enrichment."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "debug":"JPM",
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"4 year unadjusted graduation rate",
+              "fy-4":71,
+              "fy-3":72,
+              "fy-2":null,
+              "fy-1":null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To graduate all students from high school\r\nprepared for college and career success."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "debug":"JPM",
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Annual dropout rate % - High School",
+              "fy-4":4,
+              "fy-3":6,
+              "fy-2":null,
+              "fy-1":null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

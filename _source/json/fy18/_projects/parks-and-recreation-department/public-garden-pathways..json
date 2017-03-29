@@ -1,0 +1,41 @@
+---
+{
+  "debug":"JCD",
+  "name":"William Devine Golf Course.",
+  "mission":"Improve drainage, paving, and other miscellaneous items.",
+  "managing_department":"Parks and Recreation Department.",
+  "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+  "status":"Annual Program",
+  "location":"Roxbury",
+  "operating_impact":"Yes",
+  "expenditures_summary":[
+    {
+      "line_type":"data",
+      "line_title":"City Capital",
+      "fy-2":3680692,
+      "fy-1":700000,
+      "fy-0":700000,
+      "fy+1":2800000,
+      "row_total":7880692
+    },
+    {
+      "line_type":"data",
+      "line_title":"Grants/Other",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0,
+      "row_total":0
+    },
+    {
+      "line_type":"total",
+      "line_title":"Total",
+      "fy-2":3680692,
+      "fy-1":700000,
+      "fy-0":700000,
+      "fy+1":2800000,
+      "row_total":7880692
+    }
+  ]
+}
+---

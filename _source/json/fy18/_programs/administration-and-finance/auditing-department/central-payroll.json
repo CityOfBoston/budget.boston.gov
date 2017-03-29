@@ -1,0 +1,161 @@
+---
+{
+  "cabinet":"Administration and Finance",
+  "department":"Auditing Department",
+  "file_version":"0.10",
+  "head_name":"Michael O&rsquo;Keefe",
+  "head_title":"Manager",
+  "name":"Auditing Department",
+  "parent":"Auditing Department",
+  "parent_id":"C7E1249FFC03EB9DED908C236BD1996D",
+  "section_id":228,
+  "section_md5_id":"74DB120F0A8E5646EF5A30154E9F6DEB",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 131300",
+  "description":"The primary responsibility of the Central Payroll Program is the timely and accurate processing of wages for all employees for both pay frequencies in compliance with all local, state, and federal laws, and in conformity with the City&rsquo;s collective bargaining agreements.",
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15 Actual",
+      "fy-1":"16 Actual",
+      "fy-0":"17 Budget",
+      "fy+2":"18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":441048,
+      "fy-1":402984,
+      "fy-0":520883,
+      "fy+2":551951
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":5006,
+      "fy-1":4017,
+      "fy-0":7770,
+      "fy+1":5714
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":446054,
+      "fy-1":407001,
+      "fy-0":528653,
+      "fy+1":557665
+    }
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":441048,
+        "fy-1":402984,
+        "fy-0":520883,
+        "fy+1":551951,
+        "diff":31068
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":443989,
+        "fy-1":405154,
+        "fy-0":526538,
+        "fy+1":555352,
+        "diff":28814
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":445370,
+        "fy-1":405912,
+        "fy-0":527958,
+        "fy+1":556990,
+        "diff":29032
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":446028,
+        "fy-1":405921,
+        "fy-0":528653,
+        "fy+1":557665,
+        "diff":29012
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":446054,
+        "fy-1":407001,
+        "fy-0":528653,
+        "fy+1":557665,
+        "diff":29012
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":446054,
+        "fy-1":407001,
+        "fy-0":528653,
+        "fy+1":557665,
+        "diff":29012
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Improvement through the use of technology & resources to manage the City's Payroll"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "debug":"JPM",
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of EmployeeManager Use of Self Service",
+              "fy-4":null,
+              "fy-3":null,
+              "fy-2":null,
+              "fy-1":null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

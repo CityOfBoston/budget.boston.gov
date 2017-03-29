@@ -1,0 +1,131 @@
+---
+{
+  "cabinet":"Non-Mayoral Departments",
+  "department":"City Council",
+  "file_version":"0.10",
+  "head_name":"Daisy De La Rosa",
+  "head_title":"Manager",
+  "name":"City Council",
+  "parent":"City Council",
+  "parent_id":"F457C545A9DED88F18ECEE47145A72C0",
+  "section_id":111,
+  "section_md5_id":"698D51A19D8A121CE581499D7B701668",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 112300",
+  "description":"The mission of the Legislative/Financial Support Program is to provide research and draft legislation to be filed by City Councilors and provide analysis of legislation introduced by the Mayor.  The program also provides a comprehensive analysis of the operating and capital budgets.  The program maintains the Council's municipal reference library, furnishing City departments and the general public with information on municipal government.",
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15 Actual",
+      "fy-1":"16 Actual",
+      "fy-0":"17 Budget",
+      "fy+2":"18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":498326,
+      "fy-1":540417,
+      "fy-0":526355,
+      "fy+2":525521
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":23451,
+      "fy-1":3737,
+      "fy-0":37600,
+      "fy+1":38500
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":521777,
+      "fy-1":544154,
+      "fy-0":563955,
+      "fy+1":564021
+    }
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":498326,
+        "fy-1":540417,
+        "fy-0":526355,
+        "fy+1":525521,
+        "diff":-834
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":498326,
+        "fy-1":540591,
+        "fy-0":531855,
+        "fy+1":531021,
+        "diff":-834
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":498897,
+        "fy-1":540591,
+        "fy-0":532355,
+        "fy+1":531521,
+        "diff":-834
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":502909,
+        "fy-1":543919,
+        "fy-0":548955,
+        "fy+1":549021,
+        "diff":66
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":521777,
+        "fy-1":544154,
+        "fy-0":563955,
+        "fy+1":564021,
+        "diff":66
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":521777,
+        "fy-1":544154,
+        "fy-0":563955,
+        "fy+1":564021,
+        "diff":66
+      }
+    ]
+  },
+  "performance_strategies":[]
+}
+---

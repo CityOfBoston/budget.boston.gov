@@ -1,0 +1,42 @@
+---
+{
+  "cabinet":"Mayors Office",
+  "department":"Emergency Management.",
+  "file_version":"0.10",
+  "head_name":null,
+  "head_title":null,
+  "name":"Emergency Management.",
+  "parent":"Emergency Management.",
+  "parent_id":"2A38A4A9316C49E5A833517C45D31070",
+  "section_id":88,
+  "section_md5_id":"2A38A4A9316C49E5A833517C45D31070",
+  "section_type":"projects",
+  "section_type_short":"R",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "description":"The capital plan for the Office of Emergency Management works to provide OEM a space that is flexible, sustainable, secure, strategically located, and fully interoperable.",
+  "vol1_category_copy":"NEED SOURCE LOCATION FOR THIS DATA",
+  "selected_performance_strategies":[
+    {
+      "program":"NEED SOURCE LOCATION FOR THIS DATA",
+      "strategies":[
+        "NEED SOURCE LOCATION FOR THIS DATA"
+      ]
+    }
+  ],
+  "overview":"The capital plan for the Office of Emergency Management works to provide OEM a space that is flexible, sustainable, secure, strategically located, and fully interoperable.",
+  "projects":[
+    {
+      "debug":"JCD",
+      "name":"Emergency Operations Center.",
+      "mission":"Site, design, and build a new Emergency Operations Center.",
+      "managing_department":"Public Facilities Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"To Be Scheduled",
+      "location":"N/A",
+      "operating_impact":"",
+      "expenditures_summary":[]
+    }
+  ]
+}
+---

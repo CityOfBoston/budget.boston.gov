@@ -1,0 +1,41 @@
+---
+{
+  "debug":"JCD",
+  "name":"Archives Preservation Needs.",
+  "mission":"Prepare a long-range preservation plan to address the storage requirements of the Citys Archives and Records Management permanent collections including lighting controls, fire suppression, and temperature and humidity controls.",
+  "managing_department":"Public Facilities Department.",
+  "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+  "status":"Study Underway",
+  "location":"West Roxbury",
+  "operating_impact":"Yes",
+  "expenditures_summary":[
+    {
+      "line_type":"data",
+      "line_title":"City Capital",
+      "fy-2":1163397,
+      "fy-1":1100229,
+      "fy-0":1700000,
+      "fy+1":24281932,
+      "row_total":28245558
+    },
+    {
+      "line_type":"data",
+      "line_title":"Grants/Other",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0,
+      "row_total":0
+    },
+    {
+      "line_type":"total",
+      "line_title":"Total",
+      "fy-2":1163397,
+      "fy-1":1100229,
+      "fy-0":1700000,
+      "fy+1":24281932,
+      "row_total":28245558
+    }
+  ]
+}
+---

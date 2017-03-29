@@ -1,0 +1,161 @@
+---
+{
+  "cabinet":"Operations",
+  "department":"Property Management",
+  "file_version":"0.10",
+  "head_name":"Carlene Laurent",
+  "head_title":"Manager",
+  "name":"Property Management",
+  "parent":"Property Management",
+  "parent_id":"1679091C5A880FAF6FB5E6087EB1B2DC",
+  "section_id":139,
+  "section_md5_id":"E00DA03B685A0DD18FB6A08AF0923DE0",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 180300",
+  "description":"The Alterations and Repair Program performs and oversees non-capital alterations and repairs to City-owned facilities to meet the needs of building occupants, responds to emergency repair and hazardous waste removal needs, and ensures that all systems are functioning and that the facilities are environmentally safe.  The program also preserves the useful life of City facilities and reduces operating costs by developing and implementing preventive maintenance programs.",
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15 Actual",
+      "fy-1":"16 Actual",
+      "fy-0":"17 Budget",
+      "fy+2":"18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":648802,
+      "fy-1":588199,
+      "fy-0":628663,
+      "fy+2":606541
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":1256289,
+      "fy-1":1048845,
+      "fy-0":1065334,
+      "fy+1":948165
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1905091,
+      "fy-1":1637044,
+      "fy-0":1693997,
+      "fy+1":1554706
+    }
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":648802,
+        "fy-1":588199,
+        "fy-0":628663,
+        "fy+1":606541,
+        "diff":-22122
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":1587861,
+        "fy-1":1532997,
+        "fy-0":1620657,
+        "fy+1":1477241,
+        "diff":-143416
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":1857746,
+        "fy-1":1600538,
+        "fy-0":1693997,
+        "fy+1":1554706,
+        "diff":-139291
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":1901116,
+        "fy-1":1632855,
+        "fy-0":1693997,
+        "fy+1":1554706,
+        "diff":-139291
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":1905091,
+        "fy-1":1637044,
+        "fy-0":1693997,
+        "fy+1":1554706,
+        "diff":-139291
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":1905091,
+        "fy-1":1637044,
+        "fy-0":1693997,
+        "fy+1":1554706,
+        "diff":-139291
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To improve and maintain the operational condition of managed city-owned facilities."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "debug":"JPM",
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of maintenance repairs and requests handled internally or by vendor.",
+              "fy-4":null,
+              "fy-3":null,
+              "fy-2":null,
+              "fy-1":null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

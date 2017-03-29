@@ -1,0 +1,131 @@
+---
+{
+  "cabinet":"Non-Mayoral Departments",
+  "department":"City Council",
+  "file_version":"0.10",
+  "head_name":"Daisy De La Rosa",
+  "head_title":"Manager",
+  "name":"City Council",
+  "parent":"City Council",
+  "parent_id":"F457C545A9DED88F18ECEE47145A72C0",
+  "section_id":109,
+  "section_md5_id":"2723D092B63885E0D7C260CC007E8B9D",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 112100",
+  "description":"The Administration Program is responsible for providing staff resources and administrative direction to City Council programs.  It also oversees budgeting, purchasing, information systems, and personnel matters for the City Council.",
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15 Actual",
+      "fy-1":"16 Actual",
+      "fy-0":"17 Budget",
+      "fy+2":"18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":264485,
+      "fy-1":271768,
+      "fy-0":278426,
+      "fy+2":278440
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":98260,
+      "fy-1":66966,
+      "fy-0":76000,
+      "fy+1":80224
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":362745,
+      "fy-1":338734,
+      "fy-0":354426,
+      "fy+1":358664
+    }
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":264485,
+        "fy-1":271768,
+        "fy-0":278426,
+        "fy+1":278440,
+        "diff":14
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":345551,
+        "fy-1":337704,
+        "fy-0":316926,
+        "fy+1":316940,
+        "diff":14
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":354508,
+        "fy-1":338734,
+        "fy-0":354426,
+        "fy+1":358664,
+        "diff":4238
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":362745,
+        "fy-1":338734,
+        "fy-0":354426,
+        "fy+1":358664,
+        "diff":4238
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":362745,
+        "fy-1":338734,
+        "fy-0":354426,
+        "fy+1":358664,
+        "diff":4238
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":362745,
+        "fy-1":338734,
+        "fy-0":354426,
+        "fy+1":358664,
+        "diff":4238
+      }
+    ]
+  },
+  "performance_strategies":[]
+}
+---

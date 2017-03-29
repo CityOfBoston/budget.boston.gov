@@ -1,0 +1,198 @@
+---
+{
+  "cabinet":"Information and Technology",
+  "department":"Department of Innovation and Technology.",
+  "file_version":"0.10",
+  "head_name":null,
+  "head_title":null,
+  "name":"Department of Innovation and Technology.",
+  "parent":"Department of Innovation and Technology.",
+  "parent_id":"70EFDF2EC9B086079795C442636B55FB",
+  "section_id":17,
+  "section_md5_id":"70EFDF2EC9B086079795C442636B55FB",
+  "section_type":"projects",
+  "section_type_short":"R",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "description":"Capital investment in technology enables the City to work more efficiently at a lower cost; to be more responsive to citizens; and to provide convenience for Boston&rsquo;s residents, businesses and visitors. Ongoing and new initiatives will build upon this progress, ensuring the City remains competitive and coordinated in computer information and communication technology.",
+  "vol1_category_copy":"NEED SOURCE LOCATION FOR THIS DATA",
+  "selected_performance_strategies":[
+    {
+      "program":"NEED SOURCE LOCATION FOR THIS DATA",
+      "strategies":[
+        "NEED SOURCE LOCATION FOR THIS DATA"
+      ]
+    }
+  ],
+  "overview":"Capital investment in technology enables the City to work more efficiently at a lower cost; to be more responsive to citizens; and to provide convenience for Boston&rsquo;s residents, businesses and visitors. Ongoing and new initiatives will build upon this progress, ensuring the City remains competitive and coordinated in computer information and communication technology.",
+  "projects":[
+    {
+      "debug":"JCD",
+      "name":"Computer Aided Dispatch.",
+      "mission":"Procure and implement a new computer aided dispatch system for Fire, Police and Emergency Medical Services. The project also includes the implementation of technology solutions for their record management systems requirements.",
+      "managing_department":"Police Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"Implementation Underway",
+      "location":"Citywide",
+      "operating_impact":"",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":2536649,
+          "fy-1":349875,
+          "fy-0":113476,
+          "fy+1":0,
+          "row_total":3000000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":2536649,
+          "fy-1":349875,
+          "fy-0":113476,
+          "fy+1":0,
+          "row_total":3000000
+        }
+      ]
+    },
+    {
+      "debug":"JCD",
+      "name":"Fiber Network Expansion.",
+      "mission":"Investment in BoNet infrastructure, including extending the fiber network reach to 100 BPS schools and providing public WiFi opportunities.",
+      "managing_department":"DoIT.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"Implementation Underway",
+      "location":"Various neighborhoods",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":821064,
+          "fy-1":1539232,
+          "fy-0":600000,
+          "fy+1":5473000,
+          "row_total":8433296
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":821064,
+          "fy-1":1539232,
+          "fy-0":600000,
+          "fy+1":5473000,
+          "row_total":8433296
+        }
+      ]
+    },
+    {
+      "debug":"JCD",
+      "name":"Cyber Security and Resiliency.",
+      "mission":"Implement solutions to manage and mitigate cybersecurity risks.",
+      "managing_department":"DoIT.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"Annual Program",
+      "location":"Various neighborhoods",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":267685,
+          "fy-1":1147831,
+          "fy-0":350000,
+          "fy+1":2500000,
+          "row_total":4265516
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":267685,
+          "fy-1":1147831,
+          "fy-0":350000,
+          "fy+1":2500000,
+          "row_total":4265516
+        }
+      ]
+    },
+    {
+      "debug":"JCD",
+      "name":"Core Technology Infrastructure.",
+      "mission":"Install hardware platforms to run applications supporting City business. Scope includes data center consolidation, server virtualization, business interruption planning, enterprise storage, network management, VoIP deployment, and information security.",
+      "managing_department":"DoIT.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"Annual Program",
+      "location":"Citywide",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":6947439,
+          "fy-1":1708902,
+          "fy-0":5558477,
+          "fy+1":19480999,
+          "row_total":33695817
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":6947439,
+          "fy-1":1708902,
+          "fy-0":5558477,
+          "fy+1":19480999,
+          "row_total":33695817
+        }
+      ]
+    },
+    {
+      "debug":"JCD",
+      "name":"City-wide Radio System Study.",
+      "mission":"Conduct a feasibility study to determine the most cost effective and efficient way to expand and sustain the infrastructure that supports the radio systems of multiple City Departments.",
+      "managing_department":"DoIT.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"New Project",
+      "location":"Citywide",
+      "operating_impact":"Yes",
+      "expenditures_summary":[]
+    }
+  ]
+}
+---

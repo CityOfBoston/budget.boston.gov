@@ -1,0 +1,169 @@
+---
+{
+  "cabinet":"Operations",
+  "department":"Intergovernmental Relations",
+  "file_version":"0.10",
+  "head_name":"Kathleen King",
+  "head_title":"Manager",
+  "name":"Intergovernmental Relations",
+  "parent":"Intergovernmental Relations",
+  "parent_id":"C51CE410C124A10E0DB5E4B97FC2AF39",
+  "section_id":9,
+  "section_md5_id":"45C48CCE2E2D7FBDEA1AFC51C7C6AD26",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 150100",
+  "description":"The department tracks legislation and policy initiatives that concern the City directly, or urban and regional affairs more generally.  It arranges for testimony by the Mayor, or on behalf of the Mayor, at legislative hearings of special concern.  It maintains liaison with and coordinates the City&rsquo;s participation in national, state and municipal organizations and further coordinates with all the departments of the city on policy and budget issues.",
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15 Actual",
+      "fy-1":"16 Actual",
+      "fy-0":"17 Budget",
+      "fy+2":"18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":751006,
+      "fy-1":781511,
+      "fy-0":728141,
+      "fy+2":704690
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":394484,
+      "fy-1":395209,
+      "fy-0":358464,
+      "fy+1":361336
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1145490,
+      "fy-1":1176720,
+      "fy-0":1086605,
+      "fy+1":1066026
+    }
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":751006,
+        "fy-1":781511,
+        "fy-0":728141,
+        "fy+1":704690,
+        "diff":-23451
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":975662,
+        "fy-1":987354,
+        "fy-0":896174,
+        "fy+1":873213,
+        "diff":-22961
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":982322,
+        "fy-1":990316,
+        "fy-0":902374,
+        "fy+1":879413,
+        "diff":-22961
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":1145490,
+        "fy-1":1175431,
+        "fy-0":1086605,
+        "fy+1":1066026,
+        "diff":-20579
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":1145490,
+        "fy-1":1176720,
+        "fy-0":1086605,
+        "fy+1":1066026,
+        "diff":-20579
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":1145490,
+        "fy-1":1176720,
+        "fy-0":1086605,
+        "fy+1":1066026,
+        "diff":-20579
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To advocate on behalf of the City at the federal, state, and local level on matters of legislation."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "debug":"JPM",
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"City policy provisions passed",
+              "fy-4":269,
+              "fy-3":271,
+              "fy-2":265,
+              "fy-1":null
+            },
+            {
+              "line_type":"data",
+              "line_data":"State legislative items passed",
+              "fy-4":112,
+              "fy-3":62,
+              "fy-2":60,
+              "fy-1":null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

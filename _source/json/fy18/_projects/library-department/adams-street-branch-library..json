@@ -1,0 +1,41 @@
+---
+{
+  "debug":"JCD",
+  "name":"Roslindale Branch Library Renovation.",
+  "mission":"A comprehensive building renovation will enrich library services and visitor experience through improved spatial definition, a fully accessible facility, improve signage and increase energy efficiency.",
+  "managing_department":"Public Facilities Department.",
+  "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+  "status":"In Design",
+  "location":"Roslindale",
+  "operating_impact":"Yes",
+  "expenditures_summary":[
+    {
+      "line_type":"data",
+      "line_title":"City Capital",
+      "fy-2":0,
+      "fy-1":50000,
+      "fy-0":50000,
+      "fy+1":0,
+      "row_total":100000
+    },
+    {
+      "line_type":"data",
+      "line_title":"Grants/Other",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0,
+      "row_total":0
+    },
+    {
+      "line_type":"total",
+      "line_title":"Total",
+      "fy-2":0,
+      "fy-1":50000,
+      "fy-0":50000,
+      "fy+1":0,
+      "row_total":100000
+    }
+  ]
+}
+---

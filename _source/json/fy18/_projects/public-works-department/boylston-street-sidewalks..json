@@ -1,0 +1,41 @@
+---
+{
+  "debug":"JCD",
+  "name":"Central Maintenance Facility Complex.",
+  "mission":"Continued renovations to the building, garage, and grounds. The current phase includes elevator repairreplacement and water main replacement.",
+  "managing_department":"Public Facilities Department.",
+  "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+  "status":"To Be Scheduled",
+  "location":"South End",
+  "operating_impact":"Yes",
+  "expenditures_summary":[
+    {
+      "line_type":"data",
+      "line_title":"City Capital",
+      "fy-2":21055342,
+      "fy-1":265006,
+      "fy-0":0,
+      "fy+1":6679652,
+      "row_total":28000000
+    },
+    {
+      "line_type":"data",
+      "line_title":"Grants/Other",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":4379436,
+      "row_total":4379436
+    },
+    {
+      "line_type":"total",
+      "line_title":"Total",
+      "fy-2":21055342,
+      "fy-1":265006,
+      "fy-0":0,
+      "fy+1":11059088,
+      "row_total":32379436
+    }
+  ]
+}
+---

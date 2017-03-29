@@ -1,0 +1,41 @@
+---
+{
+  "debug":"JCD",
+  "name":"Access Improvements at Henderson Inclusion Upper School Phase II.",
+  "mission":"Accessibility renovations including bathroom and fire system upgrades.",
+  "managing_department":"Public Facilities Department.",
+  "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+  "status":"In Design",
+  "location":"Dorchester",
+  "operating_impact":"Yes",
+  "expenditures_summary":[
+    {
+      "line_type":"data",
+      "line_title":"City Capital",
+      "fy-2":140986,
+      "fy-1":1526646,
+      "fy-0":11911513,
+      "fy+1":0,
+      "row_total":13579145
+    },
+    {
+      "line_type":"data",
+      "line_title":"Grants/Other",
+      "fy-2":208227,
+      "fy-1":840251,
+      "fy-0":15315540,
+      "fy+1":0,
+      "row_total":16364018
+    },
+    {
+      "line_type":"total",
+      "line_title":"Total",
+      "fy-2":349213,
+      "fy-1":2366897,
+      "fy-0":27227053,
+      "fy+1":0,
+      "row_total":29943163
+    }
+  ]
+}
+---

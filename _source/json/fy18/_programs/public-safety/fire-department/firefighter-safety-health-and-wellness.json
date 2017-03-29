@@ -1,0 +1,161 @@
+---
+{
+  "cabinet":"Public Safety",
+  "department":"Fire Department",
+  "file_version":"0.10",
+  "head_name":"Gregory J. Mackin",
+  "head_title":"Manager",
+  "name":"Fire Department",
+  "parent":"Fire Department",
+  "parent_id":"33E75FF09DD601BBE69F351039152189",
+  "section_id":268,
+  "section_md5_id":"8F121CE07D74717E0B1F21D122E04521",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 221800",
+  "description":"The Firefighter Safety, Health and Wellness program works to protect and promote the well-being of Firefighters as they perform physically challenging responsibilities.  The program includes creating awareness through fitness and medical evaluations, encouraging physical fitness and healthy eating and living, improving personal protective equipment, and providing safe driver training.  Firefighters who are more physically fit, in addition to benefiting from general wellness benefits, encounter fewer workplace injuries from physically challenging repetitive situations.",
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15 Actual",
+      "fy-1":"16 Actual",
+      "fy-0":"17 Budget",
+      "fy+2":"18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":703944,
+      "fy-0":760094,
+      "fy+2":754213
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":40664,
+      "fy-0":67250,
+      "fy+1":72800
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":0,
+      "fy-1":744608,
+      "fy-0":827344,
+      "fy+1":827013
+    }
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":0,
+        "fy-1":703944,
+        "fy-0":760094,
+        "fy+1":754213,
+        "diff":-5881
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":0,
+        "fy-1":726062,
+        "fy-0":795094,
+        "fy+1":794213,
+        "diff":-881
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":0,
+        "fy-1":737476,
+        "fy-0":811744,
+        "fy+1":811413,
+        "diff":-331
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":0,
+        "fy-1":737476,
+        "fy-0":812344,
+        "fy+1":812013,
+        "diff":-331
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":0,
+        "fy-1":744608,
+        "fy-0":827344,
+        "fy+1":827013,
+        "diff":-331
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":0,
+        "fy-1":744608,
+        "fy-0":827344,
+        "fy+1":827013,
+        "diff":-331
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To protect City of Boston constituents and to ensure the safety, health and wellness of the fire fighters by preventing exposure to carcinogenic toxins and avoiding injuries."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "debug":"JPM",
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Firefighters attending resiliency, health and safety symposiums.",
+              "fy-4":null,
+              "fy-3":null,
+              "fy-2":720,
+              "fy-1":720
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---
