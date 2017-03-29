@@ -1,8 +1,18 @@
-language: ruby
+language: node_js
+node_js:
+  - 6.0.0
 dist: trusty
 group: edge
-rvm:
-- 2.4.0
+
+before_install:
+  - rvm install 2.4.0
+
+install:
+  # run whatever you have to do here. I have a Makefile that lets you install
+  # all Node.js-related or Ruby-related dependencies as one step.
+  - bundle install
+  - npm install
+  - gulp
 
 
 deploy:
