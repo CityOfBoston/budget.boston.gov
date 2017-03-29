@@ -4,6 +4,7 @@ group: edge
 rvm:
 - 2.4.0
 
+
 deploy:
   provider: heroku
   app:
@@ -11,6 +12,7 @@ deploy:
     develop: cob-budget-staging
   api_key:
     secure: "TBF3Rw9ED1KMwr6vFsxYW+G362bJmXxBwZuUW2lYu7Ni33vbLXNs4baMXJrSlZiW9V0AyPrlUHxqUn/EEVmDUiTTPUSix2bhkVHCigcQZ36Y/Hswq9oQb86MFGJyunHtBl8Yo3Skxbzum6ZAkJ+iy1VOorsSgldguqQeEs1xMXEKc9S38Ig1/UX4RmNmHDEkfpt5Lxvwcrdj9KZRLMSmcxnCmyri6NLtlacjEQq6XstJA1+ct76F0aIrVMl6QAgTG32N7uAYDdGk7SSPtJbm5Bez0Dg0iLrIydN6NbY5Zur3surLDlqnfAkKeQtDGkyobrwV/vfv9Ne5hHplDU3b3DfrnrJIoodPrVcy7Eoc1NlCzbXqfNG23YPKrXdp0SNoxldN1BeNvCqKG+tf1kZjqcpSv0uEHKR/c+02ZPTR+14cy+bqb3WPef1PVRraCVuXFvzQw+V7vyoD+sDKmjlgSONTQIOv/3VQHp37wMBFP9+3HLohDMlJHza10gwHp32axIyeQ2Rwfu5T6S2n8WagF426z6umK2iSJRt3Uj8+m4/nGNtF4y4nxWen6qQRAeAEdN/eq68bdqUhuVtDG/3YOm+KApO2NpBSHl+3f21Gn5Tkyuw6SQ6WsmmJ2CMH9j43BwHtHymjCknVPLYBSv2Atwk7BdQdGxlo2C1bXEPivjs="
+
 
 notifications:
   slack:
