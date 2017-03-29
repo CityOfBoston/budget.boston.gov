@@ -1,7 +1,7 @@
 var gulp = require('gulp');
 var argv = require('yargs').argv;
 
-gulp.task('create_collections', function (done) {
+gulp.task('create_content', function (done) {
   gulp.src(['_source/json/' + argv.source + '/_cabinets/**'])
     .pipe(gulp.dest('_cabinets'));
   gulp.src(['_source/json/' + argv.source + '/_departments/**'])
@@ -14,5 +14,7 @@ gulp.task('create_collections', function (done) {
     .pipe(gulp.dest('_cp_depts'));
   gulp.src(['_source/json/' + argv.source + '/_projects/**'])
     .pipe(gulp.dest('_projects'));
+  gulp.src(['_source/md/' + argv.source + '/**'])
+    .pipe(gulp.dest('_pages'));
   done();
 });
