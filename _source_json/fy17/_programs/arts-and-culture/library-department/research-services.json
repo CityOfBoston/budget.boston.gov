@@ -1,0 +1,84 @@
+---
+{
+  "cabinet":"Arts and Culture",
+  "department":"Library Department",
+  "file_version":"0.10",
+  "head_name":"David Leonard",
+  "head_title":"President",
+  "name":"Research Services",
+  "parent":"Library Department",
+  "parent_id":"ECCBC87E4B5CE2FE28308FD9F2A7BAF3",
+  "section_id":66,
+  "section_md5_id":"3295C76ACBF4CAAED33C36B1B5FC2CB1",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 110300",
+  "description":"The Research Services Program provides and preserves access to information and collections in all fields of knowledge for users at the local, state, and national levels through the assistance of professionally skilled staff.  The program also provides Internet use and wireless access to the Internet.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":1957589,
+      "fy-1":1722906,
+      "fy-0":2172365,
+      "fy+2":1703023
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":5587,
+      "fy-1":4590,
+      "fy-0":0,
+      "fy+1":0
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1963176,
+      "fy-1":1727496,
+      "fy-0":2172365,
+      "fy+1":1703023
+    }
+  ],
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To provide improved access to programs, services and collections."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Special Collections items in inventory",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":200000
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

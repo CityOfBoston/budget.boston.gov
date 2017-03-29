@@ -1,0 +1,55 @@
+---
+{
+  "cabinet":"Administration and Finance",
+  "department":"Treasury Division",
+  "file_version":"0.10",
+  "head_name":"Maureen Garceau",
+  "head_title":"Manager",
+  "name":"Accounts Receivable",
+  "parent":"Treasury Division",
+  "parent_id":"3C59DC048E8850243BE8079A5C74D079",
+  "section_id":190,
+  "section_md5_id":"CFECDB276F634854F3EF915E2E980C31",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 138500",
+  "description":"The Accounts Receivable Program is responsible for establishing policies and procedures, monitoring compliance, and providing a central resource to revenue generating departments that utilize the accounts receivable and billing systems.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":291220,
+      "fy-1":300104,
+      "fy-0":307037,
+      "fy+2":363442
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":350,
+      "fy-1":12600,
+      "fy-0":12600,
+      "fy+1":15600
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":291570,
+      "fy-1":312704,
+      "fy-0":319637,
+      "fy+1":379042
+    }
+  ],
+  "performance_strategies":[]
+}
+---

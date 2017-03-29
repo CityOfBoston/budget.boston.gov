@@ -1,0 +1,40 @@
+---
+{
+  "name":"Gun Range at Moon Island.",
+  "mission":"Design and construct a facility to support administrative and training requirements including appropriate environmental mitigation.",
+  "managing_department":"Public Facilities Department.",
+  "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+  "status":"In Construction",
+  "location":"Harbor Islands",
+  "operating_impact":"",
+  "expenditures_summary":[
+    {
+      "line_type":"data",
+      "line_title":"City Capital",
+      "fy-2":0,
+      "fy-1":20000,
+      "fy-0":100000,
+      "fy+1":240000,
+      "row_total":360000
+    },
+    {
+      "line_type":"data",
+      "line_title":"Grants/Other",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0,
+      "row_total":0
+    },
+    {
+      "line_type":"total",
+      "line_title":"Total",
+      "fy-2":0,
+      "fy-1":20000,
+      "fy-0":100000,
+      "fy+1":240000,
+      "row_total":360000
+    }
+  ]
+}
+---

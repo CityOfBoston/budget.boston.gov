@@ -1,0 +1,55 @@
+---
+{
+  "cabinet":"Civic Engagement",
+  "department":"Neighborhood Services",
+  "file_version":"0.10",
+  "head_name":"Jerome Smith",
+  "head_title":"Manager",
+  "name":"Neighborhood Serv",
+  "parent":"Neighborhood Services",
+  "parent_id":"17E62166FC8586DFA4D1BC0E1742C08B",
+  "section_id":23,
+  "section_md5_id":"37693CFC748049E45D87B8C7D8B9AACD",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 412200",
+  "description":"The Neighborhood Services Program improves interdepartmental coordination of the delivery of basic City services and promotes the involvement of neighborhood residents and civic groups in neighborhood events, activities and neighborhood development including the permitting and licensing processes. Program staff coordinates and attends neighborhood meetings, facilitates the delivery of basic services, and represents the neighborhood related to development issues and testifying at zoning and licensing hearings.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":921526,
+      "fy-1":1008195,
+      "fy-0":1156357,
+      "fy+2":1160225
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":991,
+      "fy-1":1541,
+      "fy-0":20700,
+      "fy+1":20700
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":922517,
+      "fy-1":1009736,
+      "fy-0":1177057,
+      "fy+1":1180925
+    }
+  ],
+  "performance_strategies":[]
+}
+---

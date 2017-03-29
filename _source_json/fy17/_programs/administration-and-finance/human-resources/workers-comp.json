@@ -1,0 +1,55 @@
+---
+{
+  "cabinet":"Administration and Finance",
+  "department":"Human Resources",
+  "file_version":"0.10",
+  "head_name":"Vivian Leonard",
+  "head_title":"Manager",
+  "name":"Workers Comp",
+  "parent":"Human Resources",
+  "parent_id":"C74D97B01EAE257E44AA9D5BADE97BAF",
+  "section_id":62,
+  "section_md5_id":"44F683A84163B3523AFE57C2E008BC8C",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 142500",
+  "description":"The Workers' Compensation Program implements all procedures for the processing of workers' compensation claims and approved medical and related bills.  It also distributes workers' compensation information and statistics to City departments and works with the Law Department to develop legal strategies to resolve workers' compensation cases in an appropriate manner.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":869986,
+      "fy-1":881158,
+      "fy-0":964997,
+      "fy+2":772158
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":53361,
+      "fy-1":43824,
+      "fy-0":54350,
+      "fy+1":56013
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":923347,
+      "fy-1":924982,
+      "fy-0":1019347,
+      "fy+1":828171
+    }
+  ],
+  "performance_strategies":[]
+}
+---

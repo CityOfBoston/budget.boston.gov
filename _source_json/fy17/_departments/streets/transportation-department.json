@@ -1,0 +1,329 @@
+---
+{
+  "file_version":"0.10",
+  "parent_id":"NEED TO GET THIS",
+  "section_id":46,
+  "section_md5_id":"D9D4F495E875A2E075A1A4A6E1B9770F",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "Program Name":"Division",
+  "fy-2":"FY15 Actual",
+  "fy-1":"FY16 Actual",
+  "fy-0":"FY17 Budget",
+  "fy+2":"FY18 Budget",
+  "operating_department":[
+    {
+      "table_type":"operating_department",
+      "table_title":"Operating Budget",
+      "table_header":{
+        "Program Name":"Department",
+        "line_type":"title",
+        "fy-2":"15 Actual",
+        "fy-1":"16 Actual",
+        "fy-0":"17 Budget",
+        "fy+2":"18 Budget"
+      },
+      "data":[
+        {
+          "line_title":"Parking Clerk",
+          "line_type":"data",
+          "fy-2":"7751878",
+          "fy-1":"7916535",
+          "fy-0":"8342323",
+          "fy+1":"8473171"
+        },
+        {
+          "line_title":"Traffic Division",
+          "line_type":"data",
+          "fy-2":"23505166",
+          "fy-1":"24875498",
+          "fy-0":"24832202",
+          "fy+1":"25631788"
+        },
+        {
+          "line_title":"Total",
+          "line_type":"total",
+          "fy-2":"31257044",
+          "fy-1":"32792033",
+          "fy-0":"33174525",
+          "fy+1":"34104959"
+        }
+      ]
+    }
+  ],
+  "external_funds_budget":{
+    "table_type":"External Funds",
+    "table_title":"External Funds Budget",
+    "table_header":{
+      "name":"Fund Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+2":"FY18 Budget"
+    },
+    "data":[
+      {
+        "line_title":"Boston Bike Share",
+        "line_type":"data",
+        "fy-2":"609653",
+        "fy-1":"862846",
+        "fy-0":"1575084",
+        "fy+2":"1575084"
+      },
+      {
+        "line_title":"Boston Mobility Action Plan",
+        "line_type":"data",
+        "fy-2":"66082",
+        "fy-1":"88995",
+        "fy-0":"55039",
+        "fy+2":"82446"
+      },
+      {
+        "line_title":"Parking Facilities Fund",
+        "line_type":"data",
+        "fy-2":"737542",
+        "fy-1":"365290",
+        "fy-0":"263500",
+        "fy+2":"263500"
+      },
+      {
+        "line_title":"Partnerships/Community Health",
+        "line_type":"data",
+        "fy-2":"0",
+        "fy-1":"103001",
+        "fy-0":"0",
+        "fy+2":"0"
+      },
+      {
+        "line_title":"Traffic Management Center",
+        "line_type":"data",
+        "fy-2":"363446",
+        "fy-1":"271254",
+        "fy-0":"178302",
+        "fy+2":"229130"
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":"1776723",
+        "fy-1":"1691386",
+        "fy-0":"2071925",
+        "fy+2":"2150160"
+      }
+    ]
+  },
+  "authorizing_statutes":[
+    "Establishing Boston Traffic Commission: Power and Duties, 1929 Mass. Acts ch. 263, §§ 1-2, as amended; 1957 Mass. Acts ch. 253, § 1, as amended.",
+    "Powers and Duties of Commissioner of Traffic and Parking, CBC St.7 § 201.",
+    "Off-Street Parking, Parades, Loading Zones, CBC St.7 §§ 206, 207, 214.",
+    "Violation of Parking Rules in the City of Boston, M.G.L.A. c. 90, § 20A 1/2.",
+    "Abandoned Motor Vehicles, M.G.L.A. c. 90 § 22C; 1988 Mass. Acts ch. 212."
+  ],
+  "description_of_services":[
+    "The Transportation Department regulates traffic and parking for 802 miles of roadway and 3,708 public streets. In order to ensure an efficient yet safe flow of traffic and to balance competing demands for parking resources, the Department enforces 42 parking regulations, maintains and collects from the City's 7,100 parking meters, and annually replaces or repairs several thousand of the City's 300,000 street and traffic signs. The Department also continually responds to the changing transportation needs of the City and its neighborhoods by re-evaluating traffic patterns, increasing parking enforcement in response to neighborhood requests, incorporating the City's interests into state and federal roadway developments, and working to promote alternative modes of transportation for commuters."
+  ],
+  "selected_performance_strategies":{
+    "program":"Traffic Enforcement",
+    "strategies":[
+      "Design, construct, and maintain streetscapes that prioritize moving people safely."
+    ]
+  },
+  "name":"Parking Clerk",
+  "cabinet":"Streets",
+  "department":"Parking Clerk",
+  "head_name":"Stephen McGuire",
+  "head_title":"Interim Assistant Parking Clerk",
+  "appropriation_code":"Appropriation253",
+  "parent":"Streets",
+  "mission":"The Office of the Parking Clerk's primary mission is to respond effectively to public inquiries about parking tickets, resolve any disagreements through an adjudication process, and to deter illegal parking by successfully collecting parking violation fines. The Office is also responsible for adjudicating and collecting fines on abandoned vehicles and for administering resident parking permits.",
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "Program Name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+2":"FY18 Budget"
+    },
+    "data":[
+      {
+        "line_title":"Parking Clerk",
+        "line_type":"data",
+        "fy-2":"7751878",
+        "fy-1":"7916535",
+        "fy-0":"8342323",
+        "fy+2":"8473171"
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":"7751878",
+        "fy-1":"7916535",
+        "fy-0":"8342323",
+        "fy+2":"8473171"
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":2819918,
+      "fy-1":2737077,
+      "fy-0":2787023,
+      "fy+2":2787527
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":4931960,
+      "fy-1":5179458,
+      "fy-0":5555300,
+      "fy+1":5685644
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":7751878,
+      "fy-1":7916535,
+      "fy-0":8342323,
+      "fy+1":8473171
+    }
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":2819918,
+        "fy-1":2737077,
+        "fy-0":2787023,
+        "fy+1":2787527,
+        "diff":504
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":7520949,
+        "fy-1":7576076,
+        "fy-0":8099823,
+        "fy+1":8200671,
+        "diff":100848
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":7748094,
+        "fy-1":7905066,
+        "fy-0":8332823,
+        "fy+1":8463671,
+        "diff":130848
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":7750308,
+        "fy-1":7911711,
+        "fy-0":8336323,
+        "fy+1":8467171,
+        "diff":130848
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":7751878,
+        "fy-1":7916535,
+        "fy-0":8342323,
+        "fy+1":8473171,
+        "diff":130848
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":7751878,
+        "fy-1":7916535,
+        "fy-0":8342323,
+        "fy+1":8473171,
+        "diff":130848
+      }
+    ]
+  },
+  "external_funds":[
+    {
+      "project":"Boston Bike Share",
+      "project_mission":[
+        "Various funding sources will support the Boston Bike Share program, including grants from the Federal Transit Authority, sponsorship donations, funds from the Boston Public Health Commission&rsquo;s ARRA grant, the BARR Foundation and other state funding sources. The program began in FY12 and has 1,092 bicycles at publically accessible stations for member use."
+      ]
+    },
+    {
+      "project":"Boston Mobility Action Plan",
+      "project_mission":[
+        "The Mobility Plan will develop a long term vision to guide transportation policy and investments coupled with an action plan of projects. BARR funding supports a full time position for 2 years starting in FY15 to manage an ongoing capital program. The grant ends in Fy17."
+      ]
+    },
+    {
+      "project":"Central Artery/Third Harbor Tunnel",
+      "project_mission":[
+        "The Central Artery/Third Harbor Tunnel (CA/THT) Project Team mission was to coordinate project-related activities performed by the City in conjunction with the Massachusetts Highway Department. The project team coordinated the provision of City services for the construction of the CA/THT including planning and engineering, regulatory permitting and inspections, emergency services, public safety, and other projects support. Final expenditures occurred through FY14."
+      ]
+    },
+    {
+      "project":"Connect Historic Boston",
+      "project_mission":[
+        "The National Park Service funded the creation of an intermodal design plan to connect visitors from regional transportation systems and existing bicycle and pedestrian paths to National Park sites and the Boston Harbor Islands. The design was completed in FY14."
+      ]
+    },
+    {
+      "project":"Parking Facilities Fund",
+      "project_mission":[
+        "The City owns and operates several revenue producing parking lots. The resulting revenue from these lots goes into the fund to support their non-personnel operating expenses. This is an ongoing revolving account."
+      ]
+    },
+    {
+      "project":"Traffic Management Center",
+      "project_mission":[
+        "The Traffic Management Center grant will provide new financial resources to expand operational coverage in order to fully utilize existing technology and help monitor and improve the flow of traffic through the City. Funding has been provided thru FY18 by the Federal Highway Administration and Massachusetts Executive Office of Transportation and Construction."
+      ]
+    }
+  ],
+  "fy_major_initiatives":[
+    "Vision Zero will continue to deliver safety on Boston&rsquo;s streets. Programs include Priority Corridors and Safe Crossings.",
+    "Implement Neighborhood Slow Streets projects in Stonybrook (Jamaica Plain) and the Talbot Norfolk Triangle (Dorchester).",
+    "The reconstruction of Central Square in East Boston will be completed. This project will improve multimodal transportation flows as well as storm water runoff.",
+    "Design of the reconstruction of Melnea Cass Boulevard will continue.",
+    "\tNew traffic safety improvements are scheduled at Father Hart Bridge and Wolcott Square in Hyde Park.",
+    "Installation of new traffic signals at American Legion at Plaza Driveway, Newbury Street at Fairfield, Geneva Ave. at Olney, and Blue Hill Ave. at Castlegate Rd.",
+    "A multi-year effort begins that will renew all painted crosswalks, lane markings, and bike lanes."
+  ]
+}
+---

@@ -1,0 +1,40 @@
+---
+{
+  "name":"ACC at E. Greenwood.",
+  "mission":"Interior renovation of the E. Greenwood facility for Another Course to College.",
+  "managing_department":"School Department.",
+  "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+  "status":"In Construction",
+  "location":"Hyde Park",
+  "operating_impact":"Yes",
+  "expenditures_summary":[
+    {
+      "line_type":"data",
+      "line_title":"City Capital",
+      "fy-2":0,
+      "fy-1":207180,
+      "fy-0":3180132,
+      "fy+1":0,
+      "row_total":3387312
+    },
+    {
+      "line_type":"data",
+      "line_title":"Grants/Other",
+      "fy-2":0,
+      "fy-1":141543,
+      "fy-0":6273326,
+      "fy+1":0,
+      "row_total":6414869
+    },
+    {
+      "line_type":"total",
+      "line_title":"Total",
+      "fy-2":0,
+      "fy-1":348723,
+      "fy-0":9453458,
+      "fy+1":0,
+      "row_total":9802181
+    }
+  ]
+}
+---

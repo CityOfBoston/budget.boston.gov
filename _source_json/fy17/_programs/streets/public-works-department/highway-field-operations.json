@@ -1,0 +1,160 @@
+---
+{
+  "cabinet":"Streets",
+  "department":"Public Works Department",
+  "file_version":"0.10",
+  "head_name":"Michael Brohel",
+  "head_title":"Manager",
+  "name":"Highway Field Operations",
+  "parent":"Public Works Department",
+  "parent_id":"E4DA3B7FBBCE2345D7772B0674A318D5",
+  "section_id":120,
+  "section_md5_id":"DA4FB5C6E93E74D3DF8527599FA62642",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 311500",
+  "description":"The Highway Field Operations Program is responsible for cleaning all city streets from curb to curb, with special emphasis on high litter areas and neighborhoods with posted street cleaning times.  The program maintains and empties litter receptacles in busier areas of the city, clears snow from the streets during winter, makes temporary repairs to streets and sidewalks and provides assistance to the Recycling Program.  The program also provides graffiti services and cleans and maintains the Boston Freedom Trail.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":9053234,
+      "fy-1":9570201,
+      "fy-0":9505223,
+      "fy+2":9800276
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":8963064,
+      "fy-1":11490311,
+      "fy-0":10232092,
+      "fy+1":9935913
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":18016298,
+      "fy-1":21060512,
+      "fy-0":19737315,
+      "fy+1":19736189
+    }
+  ],
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Effectively control and manage Boston's public space.   "
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of Code Enforcement Collection cases responded to on time",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":"100%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Average personnel hours on a hokey route (hand cleaning streets/sidewalks)",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":1000
+            },
+            {
+              "line_type":"data",
+              "line_data":"Number of snow-related roadway complaints per storm",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":80
+            },
+            {
+              "line_type":"data",
+              "line_data":"Public Space (litter baskets) recycling diversion rate",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Ensure that Boston&rsquo;s streets, sidewalks, and bridges are safe, clean and attractive.         "
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of pothole repair requests received",
+              "fy-4":3161,
+              "fy-3":2344,
+              "fy-2":2300,
+              "fy-1":2300
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of snow plowing requests received",
+              "fy-4":30462,
+              "fy-3":4469,
+              "fy-2":5000,
+              "fy-1":5000
+            },
+            {
+              "line_type":"data",
+              "line_data":"% of pothole repair requests completed on time",
+              "fy-4":"52%",
+              "fy-3":"75%",
+              "fy-2":"80%",
+              "fy-1":"80%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Average time to complete a pothole repair request",
+              "fy-4":5,
+              "fy-3":2,
+              "fy-2":2,
+              "fy-1":2
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

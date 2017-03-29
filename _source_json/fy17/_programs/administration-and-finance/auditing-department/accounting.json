@@ -1,0 +1,100 @@
+---
+{
+  "cabinet":"Administration and Finance",
+  "department":"Auditing Department",
+  "file_version":"0.10",
+  "head_name":"Paul F. Waple",
+  "head_title":"Manager",
+  "name":"Accounting",
+  "parent":"Auditing Department",
+  "parent_id":"C7E1249FFC03EB9DED908C236BD1996D",
+  "section_id":227,
+  "section_md5_id":"705F2172834666788607EFBFCA35AFB3",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 131200",
+  "description":"The primary responsibility of the Accounting Program is to provide accurate and complete financial data and technical assistance to all City departments.  The Program also oversees the coordination of the City's Annual Financial Audit and the publication of the Comprehensive Annual Financial Report (CAFR).",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":614663,
+      "fy-1":684495,
+      "fy-0":685982,
+      "fy+2":676703
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":9641,
+      "fy-1":13907,
+      "fy-0":19597,
+      "fy+1":28456
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":624304,
+      "fy-1":698402,
+      "fy-0":705579,
+      "fy+1":705159
+    }
+  ],
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Ensure Stability of Financial Reporting"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of Financial Audit Work Completed",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":""
+            },
+            {
+              "line_type":"data",
+              "line_data":"% of New GASB Standards Implemented",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":""
+            },
+            {
+              "line_type":"data",
+              "line_data":"Financial Audit Completion",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

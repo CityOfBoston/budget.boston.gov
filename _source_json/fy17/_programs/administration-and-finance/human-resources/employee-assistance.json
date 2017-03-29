@@ -1,0 +1,92 @@
+---
+{
+  "cabinet":"Administration and Finance",
+  "department":"Human Resources",
+  "file_version":"0.10",
+  "head_name":"Vivian Leonard",
+  "head_title":"Director",
+  "name":"Employee Assistance",
+  "parent":"Human Resources",
+  "parent_id":"C74D97B01EAE257E44AA9D5BADE97BAF",
+  "section_id":119,
+  "section_md5_id":"07E1CD7DCA89A1678042477183B7AC3F",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 142400",
+  "description":"The Employee Assistance Program (EAP) is designed to attract and assist employees who experience personal problems.  The program will assist employees in the identification and resolution of productivity problems associated with employees impaired by personal concerns including but not limited to: health, marital, financial, alcohol, drug, emotional stress and other personal concerns which may adversely affect job performance.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":80730,
+      "fy-1":174328,
+      "fy-0":86456,
+      "fy+2":18927
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":80730,
+      "fy-1":174328,
+      "fy-0":86456,
+      "fy+1":18927
+    }
+  ],
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Continued Expansion of Scope of EAP Services"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% Complete - EAP Service Delivery Model during Times of Crisis",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":""
+            },
+            {
+              "line_type":"data",
+              "line_data":"% Complete - EAP Training Program for Front Line Supervisors - Developed and Delivered",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

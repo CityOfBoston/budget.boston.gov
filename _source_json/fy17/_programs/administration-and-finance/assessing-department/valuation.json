@@ -1,0 +1,192 @@
+---
+{
+  "cabinet":"Administration and Finance",
+  "department":"Assessing Department",
+  "file_version":"0.10",
+  "head_name":"Gayle Willett",
+  "head_title":"Manager",
+  "name":"Valuation",
+  "parent":"Assessing Department",
+  "parent_id":"37693CFC748049E45D87B8C7D8B9AACD",
+  "section_id":12,
+  "section_md5_id":"C20AD4D76FE97759AA27A0C99BFF6710",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 136200",
+  "description":"The Valuation program establishes and records the full and fair cash value of all real and personal property in the City of Boston as of January 1st of each year.  Program staff also conducts research to develop sales models and valuation standards to produce market-based assessments.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":3066134,
+      "fy-1":3369935,
+      "fy-0":3546363,
+      "fy+2":3605925
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":218974,
+      "fy-1":258329,
+      "fy-0":255250,
+      "fy+1":259560
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":3285108,
+      "fy-1":3628264,
+      "fy-0":3801613,
+      "fy+1":3865485
+    }
+  ],
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Resolve Abatement appeal cases."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of residential and condo abatement applications filed",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":502,
+              "fy-1":1000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Resolve abatement appeal cases."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of residential and condo abatement applications reviewed within 90 days",
+              "fy-4":"100%",
+              "fy-3":"100%",
+              "fy-2":"100%",
+              "fy-1":"100%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To ensure quality Assessment data."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of maintenance parcels on file for the fiscal year",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":3500,
+              "fy-1":2800
+            },
+            {
+              "line_type":"data",
+              "line_data":"% of maintenance parcels inspected",
+              "fy-4":"100%",
+              "fy-3":"100%",
+              "fy-2":"100%",
+              "fy-1":"100%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To review abatement applications in a timely manner."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of abatememt appeals on file",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":422
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of abatement appeals Settled",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":126
+            },
+            {
+              "line_type":"data",
+              "line_data":"% of abatement appeals settled",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":"30%"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

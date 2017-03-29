@@ -1,0 +1,40 @@
+---
+{
+  "name":"Boston Arts Academy.",
+  "mission":"Conduct a feasibility study and develop schematic design plans in conjunction with the Massachusetts School Building Authority that results in the construction or renovation of a facility that supports the requirements of the Boston Arts Academy.",
+  "managing_department":"Public Facilities Department.",
+  "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+  "status":"Study Underway",
+  "location":"Fenway/Kenmore",
+  "operating_impact":"Yes",
+  "expenditures_summary":[
+    {
+      "line_type":"data",
+      "line_title":"City Capital",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":500000,
+      "fy+1":2000000,
+      "row_total":2500000
+    },
+    {
+      "line_type":"data",
+      "line_title":"Grants/Other",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0,
+      "row_total":0
+    },
+    {
+      "line_type":"total",
+      "line_title":"Total",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":500000,
+      "fy+1":2000000,
+      "row_total":2500000
+    }
+  ]
+}
+---

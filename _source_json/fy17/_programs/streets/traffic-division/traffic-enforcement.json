@@ -1,0 +1,92 @@
+---
+{
+  "cabinet":"Streets",
+  "department":"Traffic Division",
+  "file_version":"0.10",
+  "head_name":"Bradley Gerratt",
+  "head_title":"Manager",
+  "name":"Traffic Enforcement",
+  "parent":"Traffic Division",
+  "parent_id":"D9D4F495E875A2E075A1A4A6E1B9770F",
+  "section_id":178,
+  "section_md5_id":"8F85517967795EEEF66C225F7883BDCB",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 251400",
+  "description":"The Enforcement Program enhances public safety, improves traffic flow, and promotes parking opportunities and curbside access by encouraging compliance with the City's rules and regulations through issuance of citations and towing of illegally parked vehicles.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":11652918,
+      "fy-1":11777641,
+      "fy-0":12889814,
+      "fy+2":12915999
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":1708632,
+      "fy-1":2085001,
+      "fy-0":1632120,
+      "fy+1":1614450
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":13361550,
+      "fy-1":13862642,
+      "fy-0":14521934,
+      "fy+1":14530449
+    }
+  ],
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Design, construct, and maintain streetscapes that prioritize moving people safely"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of abandoned vehicle requests completed on time",
+              "fy-4":"95%",
+              "fy-3":"80%",
+              "fy-2":"80%",
+              "fy-1":"80%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Average time to complete an abandoned vehicle request (Days)",
+              "fy-4":13,
+              "fy-3":12,
+              "fy-2":12,
+              "fy-1":12
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

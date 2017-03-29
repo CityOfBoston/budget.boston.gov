@@ -1,0 +1,84 @@
+---
+{
+  "cabinet":"Economic Development",
+  "department":"Consumer Affairs & Licensing",
+  "file_version":"0.10",
+  "head_name":"Christine Pulgini",
+  "head_title":"Director",
+  "name":"Consumer Licensing",
+  "parent":"Consumer Affairs & Licensing",
+  "parent_id":"8F14E45FCEEA167A5A36DEDD4BEA2543",
+  "section_id":8,
+  "section_md5_id":"C9F0F895FB98AB9159F51FD0297E236D",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 114100",
+  "description":"The Licensing Program maintains safety and order throughout the City neighborhoods by  licensing  entertainment activities and maintaining compliance with relevant laws.  The Licensing Division processes new applications and renewals, inspects premises and holds hearings on licensing requests and violations.  The Licensing Division works closely with the Boston Police Department and neighborhood organizations.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":359701,
+      "fy-1":279891,
+      "fy-0":347901,
+      "fy+2":346700
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":15709,
+      "fy-1":12775,
+      "fy-0":14561,
+      "fy+1":15793
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":375410,
+      "fy-1":292666,
+      "fy-0":362462,
+      "fy+1":362493
+    }
+  ],
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To track the amount of refunded monies to consumers"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Money refunded to consumers through CAL mediation",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":200000,
+              "fy-1":240000
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

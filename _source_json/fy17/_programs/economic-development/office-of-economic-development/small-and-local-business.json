@@ -1,0 +1,176 @@
+---
+{
+  "cabinet":"Economic Development",
+  "department":"Office of Economic Development",
+  "file_version":"0.10",
+  "head_name":"Karilyn Crockett",
+  "head_title":"Manager",
+  "name":"Small & Local Business",
+  "parent":"Office of Economic Development",
+  "parent_id":"182BE0C5CDCD5072BB1864CDEE4D3D6E",
+  "section_id":67,
+  "section_md5_id":"735B90B4568125ED6C3F678819B6E058",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 182300",
+  "description":"The Small and Local Business Program  encourages, assists, and provides opportunities for minority and women-owned businesses and small and Boston-based businesses to participate in the City&rsquo;s contracting arena as well as in the broader Boston area economy.  The program assists City departments to increase both the number of City contracts and the dollars awarded to those businesses on goods and services contracts and construction contracts.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":538508,
+      "fy-1":466136,
+      "fy-0":761858,
+      "fy+2":578126
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":14426,
+      "fy-1":6928,
+      "fy-0":448306,
+      "fy+1":444108
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":552934,
+      "fy-1":473064,
+      "fy-0":1210164,
+      "fy+1":1022234
+    }
+  ],
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "The amount of money the City of Boston currently spends on contracted services performed by businesses owned by either women or people of color"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"City of Boston $ spent with MWBE contracts",
+              "fy-4":17189115,
+              "fy-3":7530936,
+              "fy-2":"",
+              "fy-1":""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "The number of companies owned by women or people of color that have contracts with the City of Boston"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of MWBE companies with the City of Boston",
+              "fy-4":29,
+              "fy-3":52,
+              "fy-2":"",
+              "fy-1":60
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "The number of veteran owned businesses certified by the Mayor's Office of Economic Development in the past month"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"VBE firms certified",
+              "fy-4":4,
+              "fy-3":4,
+              "fy-2":2,
+              "fy-1":2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To increase the proportion of small, local, minority, and women owned businesses that receive City contracts."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"MBE firms certified",
+              "fy-4":9,
+              "fy-3":5,
+              "fy-2":10,
+              "fy-1":10
+            },
+            {
+              "line_type":"data",
+              "line_data":"WBE firms certified",
+              "fy-4":8,
+              "fy-3":8,
+              "fy-2":15,
+              "fy-1":15
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

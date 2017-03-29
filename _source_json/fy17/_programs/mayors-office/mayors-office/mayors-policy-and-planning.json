@@ -1,0 +1,55 @@
+---
+{
+  "cabinet":"Mayors Office",
+  "department":"Mayor's Office",
+  "file_version":"0.10",
+  "head_name":"Joyce Linehan",
+  "head_title":"Director",
+  "name":"Mayor's Policy & Planning",
+  "parent":"Mayor's Office",
+  "parent_id":"6512BD43D9CAA6E02C990B0A82652DCA",
+  "section_id":20,
+  "section_md5_id":"98F13708210194C475687BE6106A3B84",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 111300",
+  "description":"The Policy and Planning Program supports the Mayor in setting priorities in conjunction with Cabinet officers and line departments. In addition, the Policy and Planning Program is responsible for the overall implementation of the Mayor&rsquo;s initiatives.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":477957,
+      "fy-1":956922,
+      "fy-0":1305711,
+      "fy+2":1225055
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":2282,
+      "fy-0":169000,
+      "fy+1":214000
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":477957,
+      "fy-1":959204,
+      "fy-0":1474711,
+      "fy+1":1439055
+    }
+  ],
+  "performance_strategies":[]
+}
+---

@@ -1,0 +1,55 @@
+---
+{
+  "cabinet":"Administration and Finance",
+  "department":"Collecting Division",
+  "file_version":"0.10",
+  "head_name":"Celia M. Barton",
+  "head_title":"Manager",
+  "name":"General Management",
+  "parent":"Collecting Division",
+  "parent_id":"3C59DC048E8850243BE8079A5C74D079",
+  "section_id":168,
+  "section_md5_id":"006F52E9102A8D3BE2FE5614F42BA989",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 137100",
+  "description":"The General Management Program is responsible for hiring, training, and supervising Collection Division staff and systems",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":444108,
+      "fy-1":467343,
+      "fy-0":498292,
+      "fy+2":472478
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":213238,
+      "fy-1":240345,
+      "fy-0":81219,
+      "fy+1":81219
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":657346,
+      "fy-1":707688,
+      "fy-0":579511,
+      "fy+1":553697
+    }
+  ],
+  "performance_strategies":[]
+}
+---

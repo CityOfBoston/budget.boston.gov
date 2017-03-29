@@ -1,0 +1,55 @@
+---
+{
+  "cabinet":"Administration and Finance",
+  "department":"Registry Division",
+  "file_version":"0.10",
+  "head_name":"Jessica Joyce",
+  "head_title":"Manager",
+  "name":"Depositions",
+  "parent":"Registry Division",
+  "parent_id":"45C48CCE2E2D7FBDEA1AFC51C7C6AD26",
+  "section_id":127,
+  "section_md5_id":"EC5DECCA5ED3D6B8079E2E7E7BACC9F2",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 163300",
+  "description":"The Depositions Program is responsible for correcting and amending records in accordance with Massachusetts General Laws.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":93117,
+      "fy-1":86071,
+      "fy-0":110216,
+      "fy+2":133688
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":200,
+      "fy-1":206,
+      "fy-0":360,
+      "fy+1":450
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":93317,
+      "fy-1":86277,
+      "fy-0":110576,
+      "fy+1":134138
+    }
+  ],
+  "performance_strategies":[]
+}
+---

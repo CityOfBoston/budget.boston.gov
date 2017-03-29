@@ -1,0 +1,84 @@
+---
+{
+  "cabinet":"Administration and Finance",
+  "department":"Labor Relations",
+  "file_version":"0.10",
+  "head_name":"Alexis Finneran-Tkachuk",
+  "head_title":"Manager",
+  "name":"Labor Relations",
+  "parent":"Labor Relations",
+  "parent_id":"02E74F10E0327AD868D138F2B4FDD6F0",
+  "section_id":141,
+  "section_md5_id":"0F28B5D49B3020AFEECD95B4009ADF4C",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 147100",
+  "description":"The Office of Labor Relations represents the Mayor and City departments in all labor relations litigation matters before state and federal courts, state administrative agencies, and in various other forums.  The Office also advises City managers/department heads on all labor and employment related matters.  The attorneys in the Office of Labor Relations serve as chief negotiators for collective bargaining negotiations and handle all interim bargaining matters.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":757866,
+      "fy-1":724732,
+      "fy-0":826611,
+      "fy+2":839954
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":606311,
+      "fy-1":585875,
+      "fy-0":597466,
+      "fy+1":599052
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1364177,
+      "fy-1":1310607,
+      "fy-0":1424077,
+      "fy+1":1439006
+    }
+  ],
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To negotiate labor contracts and meet other bargaining obligations with the City's labor unions."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of city collective bargaining contracts settled",
+              "fy-4":"95%",
+              "fy-3":"45%",
+              "fy-2":"100%",
+              "fy-1":"100%"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

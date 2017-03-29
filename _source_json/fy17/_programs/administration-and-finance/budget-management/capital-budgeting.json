@@ -1,0 +1,120 @@
+---
+{
+  "cabinet":"Administration and Finance",
+  "department":"Budget Management",
+  "file_version":"0.10",
+  "head_name":"John Hanlon",
+  "head_title":"Manager",
+  "name":"Capital Budgeting",
+  "parent":"Budget Management",
+  "parent_id":"54229ABFCFA5649E7003B83DD4755294",
+  "section_id":242,
+  "section_md5_id":"E4A6222CDB5B34375400904F03D8E6A5",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 141500",
+  "description":"The Capital Budgeting Program manages the capital plan of the City.  It prepares a multi-year capital plan, oversees capital construction projects, equipment acquisitions, and contracts, and manages all capital fund appropriations and related revenue including bonds and grants.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":459587,
+      "fy-1":425786,
+      "fy-0":451816,
+      "fy+2":499606
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":24120,
+      "fy-1":47447,
+      "fy-0":38540,
+      "fy+1":3540
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":483707,
+      "fy-1":473233,
+      "fy-0":490356,
+      "fy+1":503146
+    }
+  ],
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Ensure long-term financial stability."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Debt service costs as a % of operating expenditures",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Improve use of limited city resources."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of capital expenditures associated with City planning efforts",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":""
+            },
+            {
+              "line_type":"data",
+              "line_data":"% of capital plan associated with City planning efforts (Imagine Boston, Build BPS, Go Boston 2030, City Hall)",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

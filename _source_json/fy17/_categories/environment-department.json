@@ -1,0 +1,79 @@
+---
+{
+  "cabinet":"Environment, Energy and Open Space",
+  "department":"Environment Department.",
+  "file_version":"0.10",
+  "head_name":null,
+  "head_title":null,
+  "name":"Environment Department.",
+  "parent":"Environment Department.",
+  "parent_id":"67C6A1E7CE56D3D6FA748AB6D9AF3FD7",
+  "section_id":47,
+  "section_md5_id":"67C6A1E7CE56D3D6FA748AB6D9AF3FD7",
+  "section_type":"projects",
+  "section_type_short":"R",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "description":"The City will expand on recent success in retrofitting facilities to reduce energy consumption by launching projects under the Renew Boston Trust program. The Renew Boston Trust program aims to reduce energy consumption at City facilities and achieve annual savings to support the initial investment in energy efficiency projects.",
+  "vol1_category_copy":"NEED SOURCE LOCATION FOR THIS DATA",
+  "selected_performance_strategies":[
+    {
+      "program":"NEED SOURCE LOCATION FOR THIS DATA",
+      "strategies":[
+        "NEED SOURCE LOCATION FOR THIS DATA"
+      ]
+    }
+  ],
+  "overview":"The City will expand on recent success in retrofitting facilities to reduce energy consumption by launching projects under the Renew Boston Trust program. The Renew Boston Trust program aims to reduce energy consumption at City facilities and achieve annual savings to support the initial investment in energy efficiency projects.",
+  "projects":[
+    {
+      "name":"Renew Boston Trust.",
+      "mission":"Identify energy retrofit project opportunities in City owned buildings that are self-financed by future energy savings. The City will implement the program through contracts with Energy Service Companies (ESCOs) that will guarantee the energy savings.",
+      "managing_department":"Environment Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"Implementation Underway",
+      "location":"Citywide",
+      "operating_impact":"",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":0,
+          "fy-1":38400,
+          "fy-0":386600,
+          "fy+1":0,
+          "row_total":425000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":0,
+          "fy-1":38400,
+          "fy-0":386600,
+          "fy+1":0,
+          "row_total":425000
+        }
+      ]
+    },
+    {
+      "name":"Climate Ready Boston.",
+      "mission":"Climate resilience planning for (i) E. Boston-Jeffries Pt., (ii) Charlestown near Charles River Dam, (iii) Seaport and Fort Point Channel, (iv) downtown waterfront near Aquarium, (v) Dorchester Bay-Moakley Park, and (vi) E. Boston-Porzio Park.",
+      "managing_department":"Environment Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"New Project",
+      "location":"Citywide",
+      "operating_impact":"Yes",
+      "expenditures_summary":[]
+    }
+  ]
+}
+---

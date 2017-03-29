@@ -1,0 +1,55 @@
+---
+{
+  "cabinet":"Environment, Energy and Open Space",
+  "department":"Parks & Recreation Department",
+  "file_version":"0.10",
+  "head_name":"Thomas A. Sullivan",
+  "head_title":"Manager",
+  "name":"Cemetery",
+  "parent":"Parks & Recreation Department",
+  "parent_id":"A87FF679A2F3E71D9181A67B7542122C",
+  "section_id":101,
+  "section_md5_id":"38B3EFF8BAF56627478EC76A704E9B52",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 400100",
+  "description":"The Cemetery Program provides grounds maintenance for the City's three active cemeteries and sixteen historic cemeteries ensuring that they are physically attractive and well-manicured.  Special efforts are undertaken in preparation for Memorial Day, Veterans' Day, and other holidays.  This program is also responsible for completing all burials requested during the year.  Preparation involves identifying and preparing grave sites, escorting the funeral service, and securing the burial plot upon completion of service.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":1708566,
+      "fy-1":1805441,
+      "fy-0":1883533,
+      "fy+2":1849180
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":474367,
+      "fy-1":471906,
+      "fy-0":535899,
+      "fy+1":537000
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":2182933,
+      "fy-1":2277347,
+      "fy-0":2419432,
+      "fy+1":2386180
+    }
+  ],
+  "performance_strategies":[]
+}
+---
