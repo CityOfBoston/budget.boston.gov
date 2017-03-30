@@ -83,7 +83,9 @@ layout: bos_wrapper
           <td data-label="{{ page.operating_department.fy-0 }}">
             {{ row.fy-0 | append: 0 |append:0 | money }}
           </td>
-          <td data-label="{{ page.operating_department['fy+2'] }}">{{ row["fy+1"] | append: 0 |append:0 | money }}</td>
+          <td data-label="{{ page.operating_department['fy+2'] }}">
+            {{ row["fy+1"] | append: 0 |append:0 | money }}
+          </td>
       </tr>
     {% endfor %}
   </tbody>
@@ -100,7 +102,11 @@ layout: bos_wrapper
 <div class="desktop-100 clearfix">
 <div class="desktop-50">
   <div id="totalLineChart-wrapper">
-    <table class="responsive-table"><th>{{ page.external_funds_tables.data[-1].total }} {{ page.name }} Operating Budget</th></table>
+    <table class="responsive-table">
+      <th>
+        {{ page.external_funds_tables.data[-1].total }} {{ page.name }} Operating Budget
+      </th>
+    </table>
     <canvas
       id="lineChart"
       class="lineChart"
@@ -108,15 +114,14 @@ layout: bos_wrapper
       height="200"
       data-title="{{ page.name }}"
       data-labels="
-        {% for i in page.operating_budget.table_header %}
-          {% if i[0] != 'Program Name' and i[0] != 'line_type' %}
-          {{ i[1] }}{% unless forloop.last %},{% endunless %}
-          {% endif %}
-        {% endfor %}
+        {{ page.operating_department.fy-2 }},
+        {{ page.operating_department.fy-1 }},
+        {{ page.operating_department.fy-0 }},
+        {{ page.operating_department['fy+2'] }}
       "
       data="
-        {% for i in page.operating_budget.data[-1] %}
-          {% if i[0] != 'line_type' and i[0] != 'line_title' %}
+        {% for i in page.operating_department.data[-1] %}
+          {% if i[0] != 'line_type' and i[0] != 'total' %}
           {{ i[1] }}{% unless forloop.last %},{% endunless %}
           {% endif %}
         {% endfor %}
@@ -133,19 +138,17 @@ layout: bos_wrapper
       width="200"
       height="200"
       data-labels='
-        {% for column in page.operating_budget.table_header %}
-          {% if column[0] != "Program Name" and column[0] != "line_type" %}
-            {{ column[1] }}
-            {% unless forloop.last %},{% endunless %}
-          {% endif %}
-        {% endfor %}
+        {{ page.operating_department.fy-2 }},
+        {{ page.operating_department.fy-1 }},
+        {{ page.operating_department.fy-0 }},
+        {{ page.operating_department["fy+2"] }}
       '
       data='{
-        {% for row in page.operating_budget.data %}
+        {% for row in page.operating_department.data %}
           {% if row.line_type == "data" %}
-            "{{ row.line_title | remove: "'" }}":[
+            "{{ row.department | remove: "'" }}":[
               {% for column in row %}
-                {% if column[0] != "line_title" and column[0] != "line_type" %}
+                {% if column[0] != "department" and column[0] != "line_type" %}
                   {{ column[1] }}{% unless forloop.last %}, {% endunless %}
                 {% endif %}
               {% endfor %}
