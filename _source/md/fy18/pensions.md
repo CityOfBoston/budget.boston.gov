@@ -2,6 +2,7 @@
 layout: bos_content
 permalink: /operating-budget/pensions/
 title: Cabinets
+components:
 - breadcrumbs:
   - title: Home
     url: "/"
