@@ -162,23 +162,23 @@ layout: bos_wrapper
 </div>
 
 <div class="g">
-{% for row in page.operating_budget.data %}
+{% for row in page.operating_department.data %}
   {% if row.line_type == 'data' %}
     <div class="wi g--4">
-      <table class="responsive-table"><th>{{ row.line_title }}</th></table>
+      <table class="responsive-table"><th>{{ row.department }}</th></table>
       <canvas
         id="lineChart"
         class="lineChart"
         width="200"
         height="200"
-        data-title="{{ row.line_title }}"
+        data-title=""
         data-labels="
-          {{ page.operating_budget.table_header.fy-2 }},
-          {{ page.operating_budget.table_header.fy-1 }},
-          {{ page.operating_budget.table_header.fy-0 }},
-          {{ page.operating_budget.table_header['fy+2'] }}
+          {{ page.operating_department.fy-2 }},
+          {{ page.operating_department.fy-1 }},
+          {{ page.operating_department.fy-0 }},
+          {{ page.operating_department['fy+2'] }}
         "
-        data="{{ row.fy-2 }}, {{ row.fy-1 }}, {{ row.fy-0 }}, {{ row['fy+2'] }}"
+        data="{{ row.fy-2 }}, {{ row.fy-1 }}, {{ row.fy-0 }}, {{ row['fy+1'] }}"
       ></canvas>
     </div>
   {% endif %}
