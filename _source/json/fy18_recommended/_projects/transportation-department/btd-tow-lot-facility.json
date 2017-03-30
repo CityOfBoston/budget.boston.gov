@@ -1,0 +1,119 @@
+---
+{
+  "category":"NEED SOURCE FOR THIS",
+  "category_desc":"NEED SOURCE FOR THIS",
+  "department":"Transportation Department",
+  "file_version":"0.10",
+  "location":"South Boston",
+  "managing_department":"Public Facilities Department",
+  "mission":"Repairs and upgrades to building envelope and tow lot.",
+  "name":"BTD Tow Lot Facility",
+  "operating_impact":"No",
+  "section_id":"CTD23937",
+  "section_type":"projects",
+  "section_type_short":"R",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "status":"In Construction",
+  "expenditures_detail":{
+    "debug":"JCP",
+    "table_title":"Expenditures (Actual and Planned)",
+    "table_header":{
+      "line_type":"header",
+      "line_ttitle":null,
+      "line_data_type":"string",
+      "source":"Source",
+      "past_spending":"Through 6/30/16",
+      "fy-1":"FY17 Budget",
+      "fy-0":"FY18 Budget",
+      "fy+1-3":"FY19-21 Budget",
+      "total":"Total"
+    },
+    "data":[
+      {
+        "line_type":"data",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"City Capital",
+        "fy-2":549503,
+        "fy-1":1570313,
+        "fy-0":1680184,
+        "fy+1":0,
+        "total":3800000
+      },
+      {
+        "line_type":"data",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"Grants/Other",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "total":0
+      },
+      {
+        "line_type":"total",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"Totals",
+        "fy-2":549503,
+        "fy-1":1570313,
+        "fy-0":1680184,
+        "fy+1":0,
+        "total":3800000
+      }
+    ],
+    "authorizations_table":{
+      "debug":"JCP",
+      "table_title":"Authorizations",
+      "table_header":{
+        "line_type":"header",
+        "line_ttitle":null,
+        "line_data_type":"string",
+        "source":"Source",
+        "existing":"Existing",
+        "fy-0":"FY18",
+        "fy-0++":"Future",
+        "other":"Non-Capital Fund",
+        "total":"Total"
+      },
+      "data":[
+        {
+          "line_type":"data",
+          "line_title":null,
+          "line_data_type":"number",
+          "source":"City Capital",
+          "existing":3800000,
+          "fy-0":0,
+          "fy-0++":0,
+          "other":0,
+          "total":3800000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "line_data_type":"number",
+          "source":"Grants/Other",
+          "existing":0,
+          "fy-0":0,
+          "fy-0++":0,
+          "other":0,
+          "total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Totals",
+          "line_data_type":"number",
+          "source":"Totals",
+          "existing":3800000,
+          "fy-0":0,
+          "fy-0++":0,
+          "other":0,
+          "total":3800000
+        }
+      ]
+    }
+  }
+}
+---

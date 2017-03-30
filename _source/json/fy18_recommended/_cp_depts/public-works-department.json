@@ -1,0 +1,893 @@
+---
+{
+  "cabinet":"Streets",
+  "debug":"JBDCP",
+  "department":"Public Works Department",
+  "file_version":"0.10",
+  "head_name":"Chris Osgood",
+  "head_title":"Interim Commissioner",
+  "name":"Public Works Department",
+  "parent":"Streets",
+  "section_id":5,
+  "section_md5_id":"E4DA3B7FBBCE2345D7772B0674A318D5",
+  "section_type":"capital_budget",
+  "section_type_short":"L",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "mission":[
+    "The mission of the Public Works Department is to provide a quality environment for the City of Boston and ensure that the City's roadways, streets and bridge infrastructures are safe, clean and attractive. The Public Works Department also maintains street"
+  ],
+  "description_of_services":[
+    "The Public Works Department directs the general construction, maintenance, and cleaning of approximately 802 miles of roadways throughout the City. It also provides snow and ice control for all City streets. In addition, it operates two major drawbridges, maintains 68,055 City-owned street lights, and supervises contracts for the removal and disposal of approximately 260,000 tons of solid waste. The Department also operates the City's recycling program with an annual diversion of approximately 50,000 tons."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Waste Reduction",
+      "strategies":[
+        "Effectively control and manage Boston's public space.",
+        "Efficiently deliver services."
+      ]
+    }
+  ],
+  "overview":[
+    "The Public Works Department will focus on three strategic categories – Vision Zero, Great Streets, and State of Good Repair. Each category is informed by Go Boston 2030&rsquo;s primary themes -- expanding access, improving safety, and ensuring reliability."
+  ],
+  "fy_major_initiatives":[
+    "Walkable Streets will focus on longer, contiguous sections of sidewalks to improve overall mobility.",
+    "Construction will begin in Hyde Square to reconstruct Centre Street with wider sidewalks, new lighting, pedestrian safety improvements and the installation of public art.",
+    "Construction will begin on the streets and sidewalks in and around North Square.",
+    "Construction will be completed on the multi-year Connect Historic Boston project.",
+    "The reconstruction and installation of pedestrian ramps on sidewalks will continue throughout the City, to improve accessibility.",
+    "Design processes with community input for major neighborhood improvements at Commonwealth Avenue Phase 3 and 4 in Brighton will continue.",
+    "Whittier Street housing redevelopment roadways supporting recent $30 million HUD grant to the Boston Housing Authority to revitalize the housing development and surrounding neighborhood.",
+    "Elevator improvements are planned at the Central Maintenance Facility as well as improved water service.",
+    "Construction is expected to begin on a new North Washington Street Bridge.",
+    "Ongoing roadway reconstruction, resurfacing, and sidewalk repairs are planned throughout the City."
+  ],
+  "capital_budget_expenditures":[
+    {
+      "debug":"JBDCPCBE",
+      "table_type":"capital_budget_expenditures",
+      "table_title":"Capital Budget Expenditures",
+      "table_header":{
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "fy-2":"FY15 Actual",
+        "fy-1":"FY16 Actual",
+        "fy-0":"FY17 Estimated",
+        "fy+2":"FY18 Projected"
+      },
+      "data":{
+        "line_type":"total",
+        "line_title":"Total Department",
+        "line_data_type":"total",
+        "fy-2":79108290,
+        "fy-1":52826257,
+        "fy-0":84717890,
+        "fy+1":69134494
+      }
+    }
+  ],
+  "projects":[
+    {
+      "category":"NEED SOURCE FOR THIS",
+      "category_desc":"NEED SOURCE FOR THIS",
+      "department":"Public Works Department",
+      "file_version":"0.10",
+      "location":"Back Bay",
+      "managing_department":"Public Works Department",
+      "name":"Massachusetts Avenue Bridge at Commonwealth Avenue",
+      "section_id":"CPW20554",
+      "section_type":"projects",
+      "section_type_short":"R",
+      "source_version":"Recommended",
+      "source_year":"18",
+      "status":"In Construction",
+      "operating_impact":"No",
+      "mission":[
+        "Replace existing bridge structure. State and federal construction funding anticipated."
+      ],
+      "expenditures_summary":{
+        "debug":"JBDCPES",
+        "fy-0":182572,
+        "total":1768974
+      }
+    },
+    {
+      "category":"NEED SOURCE FOR THIS",
+      "category_desc":"NEED SOURCE FOR THIS",
+      "department":"Public Works Department",
+      "file_version":"0.10",
+      "location":"South Boston",
+      "managing_department":"Public Works Department",
+      "name":"Northern Avenue Bridge",
+      "section_id":"CPW21751",
+      "section_type":"projects",
+      "section_type_short":"R",
+      "source_version":"Recommended",
+      "source_year":"18",
+      "status":"In Design",
+      "operating_impact":"No",
+      "mission":[
+        "Design and engineering services and ongoing repairs to the bridge."
+      ],
+      "expenditures_summary":{
+        "debug":"JBDCPES",
+        "fy-0":1500000,
+        "total":44209765
+      }
+    },
+    {
+      "category":"NEED SOURCE FOR THIS",
+      "category_desc":"NEED SOURCE FOR THIS",
+      "department":"Public Works Department",
+      "file_version":"0.10",
+      "location":"Charlestown",
+      "managing_department":"Public Works Department",
+      "name":"Alford Street Bridge",
+      "section_id":"CPW21955",
+      "section_type":"projects",
+      "section_type_short":"R",
+      "source_version":"Recommended",
+      "source_year":"18",
+      "status":"In Construction",
+      "operating_impact":"No",
+      "mission":[
+        "Replace the bridge. State and federal construction funding awarded."
+      ],
+      "expenditures_summary":{
+        "debug":"JBDCPES",
+        "fy-0":400000,
+        "total":6402307
+      }
+    },
+    {
+      "category":"NEED SOURCE FOR THIS",
+      "category_desc":"NEED SOURCE FOR THIS",
+      "department":"Public Works Department",
+      "file_version":"0.10",
+      "location":"Citywide",
+      "managing_department":"Public Works Department",
+      "name":"Street Lighting Installation",
+      "section_id":"CPW22562",
+      "section_type":"projects",
+      "section_type_short":"R",
+      "source_version":"Recommended",
+      "source_year":"18",
+      "status":"Annual Program",
+      "operating_impact":"No",
+      "mission":[
+        "Installation of street lights in various locations."
+      ],
+      "expenditures_summary":{
+        "debug":"JBDCPES",
+        "fy-0":1020487,
+        "total":20147167
+      }
+    },
+    {
+      "category":"NEED SOURCE FOR THIS",
+      "category_desc":"NEED SOURCE FOR THIS",
+      "department":"Public Works Department",
+      "file_version":"0.10",
+      "location":"Charlestown",
+      "managing_department":"Transportation Department",
+      "name":"Sullivan Square / Rutherford Avenue",
+      "section_id":"CPW22629",
+      "section_type":"projects",
+      "section_type_short":"R",
+      "source_version":"Recommended",
+      "source_year":"18",
+      "status":"In Design",
+      "operating_impact":"No",
+      "mission":[
+        "Engineering and design services to provide for corridor wide transportation improvements. State and federal funding anticipated."
+      ],
+      "expenditures_summary":{
+        "debug":"JBDCPES",
+        "fy-0":953768,
+        "total":4759403
+      }
+    },
+    {
+      "category":"NEED SOURCE FOR THIS",
+      "category_desc":"NEED SOURCE FOR THIS",
+      "department":"Public Works Department",
+      "file_version":"0.10",
+      "location":"Citywide",
+      "managing_department":"Public Works Department",
+      "name":"Retaining Walls",
+      "section_id":"CPW23414",
+      "section_type":"projects",
+      "section_type_short":"R",
+      "source_version":"Recommended",
+      "source_year":"18",
+      "status":"Annual Program",
+      "operating_impact":"No",
+      "mission":[
+        "Construction funds to support a multi-year capital improvement program to repair and maintain retaining walls in the public right-of-way."
+      ],
+      "expenditures_summary":{
+        "debug":"JBDCPES",
+        "fy-0":200000,
+        "total":1200000
+      }
+    },
+    {
+      "category":"NEED SOURCE FOR THIS",
+      "category_desc":"NEED SOURCE FOR THIS",
+      "department":"Public Works Department",
+      "file_version":"0.10",
+      "location":"Citywide",
+      "managing_department":"Public Works Department",
+      "name":"Street Light LED Conversion",
+      "section_id":"CPW23416",
+      "section_type":"projects",
+      "section_type_short":"R",
+      "source_version":"Recommended",
+      "source_year":"18",
+      "status":"Annual Program",
+      "operating_impact":"No",
+      "mission":[
+        "A City-wide project to convert mercury and sodium vapor streetlights to light emitting diode (LED) lights."
+      ],
+      "expenditures_summary":{
+        "debug":"JBDCPES",
+        "fy-0":0,
+        "total":24013182
+      }
+    },
+    {
+      "category":"NEED SOURCE FOR THIS",
+      "category_desc":"NEED SOURCE FOR THIS",
+      "department":"Public Works Department",
+      "file_version":"0.10",
+      "location":"Roxbury",
+      "managing_department":"Public Works Department",
+      "name":"Choice Neighborhood",
+      "section_id":"CPW23637",
+      "section_type":"projects",
+      "section_type_short":"R",
+      "source_version":"Recommended",
+      "source_year":"18",
+      "status":"In Design",
+      "operating_impact":"No",
+      "mission":[
+        "Reconstruction of Quincy Street roadway and sidewalks, adhering to Complete Street guidelines."
+      ],
+      "expenditures_summary":{
+        "debug":"JBDCPES",
+        "fy-0":1500000,
+        "total":2605000
+      }
+    },
+    {
+      "category":"NEED SOURCE FOR THIS",
+      "category_desc":"NEED SOURCE FOR THIS",
+      "department":"Public Works Department",
+      "file_version":"0.10",
+      "location":"Allston/Brighton",
+      "managing_department":"Public Works Department",
+      "name":"Commonwealth Avenue Phase 3 and 4",
+      "section_id":"CPW23783",
+      "section_type":"projects",
+      "section_type_short":"R",
+      "source_version":"Recommended",
+      "source_year":"18",
+      "status":"In Design",
+      "operating_impact":"No",
+      "mission":[
+        "Design and reconstruct Commonwealth Avenue from Packard&rsquo;s Corner to Kelton Street, with the addition of a cycle track. State construction funding anticipated."
+      ],
+      "expenditures_summary":{
+        "debug":"JBDCPES",
+        "fy-0":200000,
+        "total":2900000
+      }
+    },
+    {
+      "category":"NEED SOURCE FOR THIS",
+      "category_desc":"NEED SOURCE FOR THIS",
+      "department":"Public Works Department",
+      "file_version":"0.10",
+      "location":"North End",
+      "managing_department":"Public Works Department",
+      "name":"North Square",
+      "section_id":"CPW23787",
+      "section_type":"projects",
+      "section_type_short":"R",
+      "source_version":"Recommended",
+      "source_year":"18",
+      "status":"In Design",
+      "operating_impact":"No",
+      "mission":[
+        "Redesign the key junction of North Street, Sun Court, Moon Street, Garden Court and Prince Street; installation of public art."
+      ],
+      "expenditures_summary":{
+        "debug":"JBDCPES",
+        "fy-0":1400000,
+        "total":2500000
+      }
+    },
+    {
+      "category":"NEED SOURCE FOR THIS",
+      "category_desc":"NEED SOURCE FOR THIS",
+      "department":"Public Works Department",
+      "file_version":"0.10",
+      "location":"Various neighborhoods",
+      "managing_department":"Public Works Department",
+      "name":"Connect Historic Boston",
+      "section_id":"CPW23925",
+      "section_type":"projects",
+      "section_type_short":"R",
+      "source_version":"Recommended",
+      "source_year":"18",
+      "status":"In Construction",
+      "operating_impact":"No",
+      "mission":[
+        "Federal Grant (TIGER) supported roadway and sidewalk reconstruction project, including improvements to Constitution Road, Joy Street, Blackstone Block, as well as a bike trail/cycle track connecting Commercial, Causeway and Staniford Streets."
+      ],
+      "expenditures_summary":{
+        "debug":"JBDCPES",
+        "fy-0":11544783,
+        "total":30006896
+      }
+    },
+    {
+      "category":"NEED SOURCE FOR THIS",
+      "category_desc":"NEED SOURCE FOR THIS",
+      "department":"Public Works Department",
+      "file_version":"0.10",
+      "location":"Roxbury",
+      "managing_department":"Public Works Department",
+      "name":"Madison Park Village",
+      "section_id":"CPW23996",
+      "section_type":"projects",
+      "section_type_short":"R",
+      "source_version":"Recommended",
+      "source_year":"18",
+      "status":"In Design",
+      "operating_impact":"No",
+      "mission":[
+        "Reconstruction of various streets in the Madison Park Village of Roxbury, bounded by Melnea Cass Boulevard and Tremont Street."
+      ],
+      "expenditures_summary":{
+        "debug":"JBDCPES",
+        "fy-0":1500000,
+        "total":3050000
+      }
+    },
+    {
+      "category":"NEED SOURCE FOR THIS",
+      "category_desc":"NEED SOURCE FOR THIS",
+      "department":"Public Works Department",
+      "file_version":"0.10",
+      "location":"Various neighborhoods",
+      "managing_department":"Public Works Department",
+      "name":"Street Light Gas Lamps",
+      "section_id":"CPW23999",
+      "section_type":"projects",
+      "section_type_short":"R",
+      "source_version":"Recommended",
+      "source_year":"18",
+      "status":"Annual Program",
+      "operating_impact":"No",
+      "mission":[
+        "Using utility subsidies, this program is designed to retrofit solar powered timers to activate gas lamp street lights."
+      ],
+      "expenditures_summary":{
+        "debug":"JBDCPES",
+        "fy-0":150000,
+        "total":1137500
+      }
+    },
+    {
+      "category":"NEED SOURCE FOR THIS",
+      "category_desc":"NEED SOURCE FOR THIS",
+      "department":"Public Works Department",
+      "file_version":"0.10",
+      "location":"Various neighborhoods",
+      "managing_department":"Public Works Department",
+      "name":"Walkable Streets",
+      "section_id":"CPW24182",
+      "section_type":"projects",
+      "section_type_short":"R",
+      "source_version":"Recommended",
+      "source_year":"18",
+      "status":"In Construction",
+      "operating_impact":"No",
+      "mission":[
+        "Sidewalk improvement program designed to target key neighborhood streets and corridors by reconstructing longer, contiguous sidewalk sections."
+      ],
+      "expenditures_summary":{
+        "debug":"JBDCPES",
+        "fy-0":1000000,
+        "total":6000000
+      }
+    },
+    {
+      "category":"NEED SOURCE FOR THIS",
+      "category_desc":"NEED SOURCE FOR THIS",
+      "department":"Public Works Department",
+      "file_version":"0.10",
+      "location":"Allston/Brighton",
+      "managing_department":"Transportation Department",
+      "name":"Commonwealth Avenue Phase 2A",
+      "section_id":"CPW24330",
+      "section_type":"projects",
+      "section_type_short":"R",
+      "source_version":"Recommended",
+      "source_year":"18",
+      "status":"In Construction",
+      "operating_impact":"No",
+      "mission":[
+        "Improve roadway between Amory Street and Alcorn Street by upgrading pavement and drainage conditions, improving facilities for bikes and pedestrians and widening the MBTA reservation. State and federal construction funds are anticipated."
+      ],
+      "expenditures_summary":{
+        "debug":"JBDCPES",
+        "fy-0":470173,
+        "total":800000
+      }
+    },
+    {
+      "category":"NEED SOURCE FOR THIS",
+      "category_desc":"NEED SOURCE FOR THIS",
+      "department":"Public Works Department",
+      "file_version":"0.10",
+      "location":"Citywide",
+      "managing_department":"Public Works Department",
+      "name":"Sidewalk Reconstruction",
+      "section_id":"CPW24534",
+      "section_type":"projects",
+      "section_type_short":"R",
+      "source_version":"Recommended",
+      "source_year":"18",
+      "status":"Annual Program",
+      "operating_impact":"No",
+      "mission":[
+        "Various sidewalk and pedestrian ramp repairs and reconstruction."
+      ],
+      "expenditures_summary":{
+        "debug":"JBDCPES",
+        "fy-0":5075000,
+        "total":31050000
+      }
+    },
+    {
+      "category":"NEED SOURCE FOR THIS",
+      "category_desc":"NEED SOURCE FOR THIS",
+      "department":"Public Works Department",
+      "file_version":"0.10",
+      "location":"Citywide",
+      "managing_department":"Public Works Department",
+      "name":"Bridge Repairs",
+      "section_id":"CPW24539",
+      "section_type":"projects",
+      "section_type_short":"R",
+      "source_version":"Recommended",
+      "source_year":"18",
+      "status":"Annual Program",
+      "operating_impact":"No",
+      "mission":[
+        "Ongoing repairs at various City-owned bridges as needed to bring the portfolio of 40 bridges to a state of good repair."
+      ],
+      "expenditures_summary":{
+        "debug":"JBDCPES",
+        "fy-0":2000000,
+        "total":15000000
+      }
+    },
+    {
+      "category":"NEED SOURCE FOR THIS",
+      "category_desc":"NEED SOURCE FOR THIS",
+      "department":"Public Works Department",
+      "file_version":"0.10",
+      "location":"Citywide",
+      "managing_department":"Public Works Department",
+      "name":"ADA/AAB Pedestrian Ramps",
+      "section_id":"CPW24540",
+      "section_type":"projects",
+      "section_type_short":"R",
+      "source_version":"Recommended",
+      "source_year":"18",
+      "status":"Annual Program",
+      "operating_impact":"No",
+      "mission":[
+        "Install or reconstruct pedestrian ramps to conform to current Americans With Disabilities Act and Architectural Access Board regulations."
+      ],
+      "expenditures_summary":{
+        "debug":"JBDCPES",
+        "fy-0":1600000,
+        "total":9600000
+      }
+    },
+    {
+      "category":"NEED SOURCE FOR THIS",
+      "category_desc":"NEED SOURCE FOR THIS",
+      "department":"Public Works Department",
+      "file_version":"0.10",
+      "location":"Jamaica Plain",
+      "managing_department":"Public Works Department",
+      "name":"Hyde Square",
+      "section_id":"CPW24623",
+      "section_type":"projects",
+      "section_type_short":"R",
+      "source_version":"Recommended",
+      "source_year":"18",
+      "status":"In Construction",
+      "operating_impact":"No",
+      "mission":[
+        "Reconstruction of Centre Street to include increased sidewalk space, traffic and pedestrian safety improvements, new lighting, landscaping, and the installation of public art."
+      ],
+      "expenditures_summary":{
+        "debug":"JBDCPES",
+        "fy-0":700000,
+        "total":1250000
+      }
+    },
+    {
+      "category":"NEED SOURCE FOR THIS",
+      "category_desc":"NEED SOURCE FOR THIS",
+      "department":"Public Works Department",
+      "file_version":"0.10",
+      "location":"South End",
+      "managing_department":"Public Works Department",
+      "name":"Harrison Avenue Improvements",
+      "section_id":"CPW24703",
+      "section_type":"projects",
+      "section_type_short":"R",
+      "source_version":"Recommended",
+      "source_year":"18",
+      "status":"In Design",
+      "operating_impact":"No",
+      "mission":[
+        "Road reconstruction improvements to Harrison Avenue between East Berkeley Street and Herald Street."
+      ],
+      "expenditures_summary":{
+        "debug":"JBDCPES",
+        "fy-0":2320000,
+        "total":3820000
+      }
+    },
+    {
+      "category":"NEED SOURCE FOR THIS",
+      "category_desc":"NEED SOURCE FOR THIS",
+      "department":"Public Works Department",
+      "file_version":"0.10",
+      "location":"Charlestown",
+      "managing_department":"Public Works Department",
+      "name":"Cambridge Street Bridge",
+      "section_id":"CPW20586",
+      "section_type":"projects",
+      "section_type_short":"R",
+      "source_version":"Recommended",
+      "source_year":"18",
+      "status":"To Be Scheduled",
+      "operating_impact":"No",
+      "mission":[
+        "Rehabilitate bridge, performing repairs as needed."
+      ],
+      "expenditures_summary":{
+        "debug":"JBDCPES",
+        "fy-0":100000,
+        "total":2750000
+      }
+    },
+    {
+      "category":"NEED SOURCE FOR THIS",
+      "category_desc":"NEED SOURCE FOR THIS",
+      "department":"Public Works Department",
+      "file_version":"0.10",
+      "location":"Charlestown",
+      "managing_department":"Public Works Department",
+      "name":"North Washington Street Bridge",
+      "section_id":"CPW22494",
+      "section_type":"projects",
+      "section_type_short":"R",
+      "source_version":"Recommended",
+      "source_year":"18",
+      "status":"In Design",
+      "operating_impact":"No",
+      "mission":[
+        "Design and construction of a new bridge that will replace the existing structure. State and federal construction funds anticipated."
+      ],
+      "expenditures_summary":{
+        "debug":"JBDCPES",
+        "fy-0":2000000,
+        "total":30067844
+      }
+    },
+    {
+      "category":"NEED SOURCE FOR THIS",
+      "category_desc":"NEED SOURCE FOR THIS",
+      "department":"Public Works Department",
+      "file_version":"0.10",
+      "location":"South End",
+      "managing_department":"Public Facilities Department",
+      "name":"Central Maintenance Facility Complex",
+      "section_id":"CPW23454",
+      "section_type":"projects",
+      "section_type_short":"R",
+      "source_version":"Recommended",
+      "source_year":"18",
+      "status":"To Be Scheduled",
+      "operating_impact":"No",
+      "mission":[
+        "Continued renovations to the building, garage, and grounds. The current phase includes elevator repair/replacement and water main replacement."
+      ],
+      "expenditures_summary":{
+        "debug":"JBDCPES",
+        "fy-0":1500000,
+        "total":18160673
+      }
+    },
+    {
+      "category":"NEED SOURCE FOR THIS",
+      "category_desc":"NEED SOURCE FOR THIS",
+      "department":"Public Works Department",
+      "file_version":"0.10",
+      "location":"Harbor Islands",
+      "managing_department":"Public Works Department",
+      "name":"Long Island Bridge Replacement",
+      "section_id":"CPW24057",
+      "section_type":"projects",
+      "section_type_short":"R",
+      "source_version":"Recommended",
+      "source_year":"18",
+      "status":"In Design",
+      "operating_impact":"No",
+      "mission":[
+        "Design and construction of a new bridge and the removal of the current bridge."
+      ],
+      "expenditures_summary":{
+        "debug":"JBDCPES",
+        "fy-0":0,
+        "total":32379436
+      }
+    },
+    {
+      "category":"NEED SOURCE FOR THIS",
+      "category_desc":"NEED SOURCE FOR THIS",
+      "department":"Public Works Department",
+      "file_version":"0.10",
+      "location":"Back Bay",
+      "managing_department":"Public Works Department",
+      "name":"Boylston Street Sidewalks",
+      "section_id":"CPW24564",
+      "section_type":"projects",
+      "section_type_short":"R",
+      "source_version":"Recommended",
+      "source_year":"18",
+      "status":"New Project",
+      "operating_impact":"No",
+      "mission":[
+        "Study, design, and construction of sidewalk and/or streetscape improvements on Boylston Street. Phasing will begin with the Dartmouth Street to Exeter Street block."
+      ],
+      "expenditures_summary":{
+        "debug":"JBDCPES",
+        "fy-0":560000,
+        "total":2261000
+      }
+    },
+    {
+      "category":"NEED SOURCE FOR THIS",
+      "category_desc":"NEED SOURCE FOR THIS",
+      "department":"Public Works Department",
+      "file_version":"0.10",
+      "location":"East Boston",
+      "managing_department":"Public Works Department",
+      "name":"McArdle Bridge",
+      "section_id":"CPW24616",
+      "section_type":"projects",
+      "section_type_short":"R",
+      "source_version":"Recommended",
+      "source_year":"18",
+      "status":"In Design",
+      "operating_impact":"No",
+      "mission":[
+        "Rehabilitate bridge structure."
+      ],
+      "expenditures_summary":{
+        "debug":"JBDCPES",
+        "fy-0":0,
+        "total":3000000
+      }
+    },
+    {
+      "category":"NEED SOURCE FOR THIS",
+      "category_desc":"NEED SOURCE FOR THIS",
+      "department":"Public Works Department",
+      "file_version":"0.10",
+      "location":"Back Bay",
+      "managing_department":"Public Works Department",
+      "name":"Dalton Street Bridge",
+      "section_id":"CPW24619",
+      "section_type":"projects",
+      "section_type_short":"R",
+      "source_version":"Recommended",
+      "source_year":"18",
+      "status":"New Project",
+      "operating_impact":"No",
+      "mission":[
+        "Design and Construction phase services funds to support the rehabilitation of structurally deficient bridge. State and Federal funding anticipated."
+      ],
+      "expenditures_summary":{
+        "debug":"JBDCPES",
+        "fy-0":0,
+        "total":600000
+      }
+    },
+    {
+      "category":"NEED SOURCE FOR THIS",
+      "category_desc":"NEED SOURCE FOR THIS",
+      "department":"Public Works Department",
+      "file_version":"0.10",
+      "location":"South Boston",
+      "managing_department":"Public Works Department",
+      "name":"Summer Street",
+      "section_id":"CPW24626",
+      "section_type":"projects",
+      "section_type_short":"R",
+      "source_version":"Recommended",
+      "source_year":"18",
+      "status":"In Design",
+      "operating_impact":"No",
+      "mission":[
+        "Continuation of Crossroads Initiative at Summer Street to improve roadway, sidewalks, street lighting, and bicyclist safety. Phase 1 scope included area from Fort Point Channel to Boston Wharf Road. Phase 2 will extend from BCEC towards South Boston."
+      ],
+      "expenditures_summary":{
+        "debug":"JBDCPES",
+        "fy-0":200000,
+        "total":1400000
+      }
+    },
+    {
+      "category":"NEED SOURCE FOR THIS",
+      "category_desc":"NEED SOURCE FOR THIS",
+      "department":"Public Works Department",
+      "file_version":"0.10",
+      "location":"Financial District/Downtown",
+      "managing_department":"Public Works Department",
+      "name":"Beach Street",
+      "section_id":"CPW24696",
+      "section_type":"projects",
+      "section_type_short":"R",
+      "source_version":"Recommended",
+      "source_year":"18",
+      "status":"In Design",
+      "operating_impact":"No",
+      "mission":[
+        "Reconstruct the street/corridor from Atlantic Avenue to JFK Surface Road, to Complete Street standards where applicable, in order to provide safe, livable and multi-modal city streets, including new sidewalks, street lights, trees, and street furniture."
+      ],
+      "expenditures_summary":{
+        "debug":"JBDCPES",
+        "fy-0":500000,
+        "total":1250000
+      }
+    },
+    {
+      "category":"NEED SOURCE FOR THIS",
+      "category_desc":"NEED SOURCE FOR THIS",
+      "department":"Public Works Department",
+      "file_version":"0.10",
+      "location":"Roxbury",
+      "managing_department":"Public Works Department",
+      "name":"Whittier Street Housing Development Roadways",
+      "section_id":"CPW24699",
+      "section_type":"projects",
+      "section_type_short":"R",
+      "source_version":"Recommended",
+      "source_year":"18",
+      "status":"New Project",
+      "operating_impact":"No",
+      "mission":[
+        "Reconstruction of roads and sidewalks in the Whittier Street housing development in conjunction with a $30M HUD grant to revitalize the development and surrounding neighborhood."
+      ],
+      "expenditures_summary":{
+        "debug":"JBDCPES",
+        "fy-0":200000,
+        "total":1000000
+      }
+    },
+    {
+      "category":"NEED SOURCE FOR THIS",
+      "category_desc":"NEED SOURCE FOR THIS",
+      "department":"Public Works Department",
+      "file_version":"0.10",
+      "location":"South Boston",
+      "managing_department":"Public Works Department",
+      "name":"Congress Street",
+      "section_id":"CPW24704",
+      "section_type":"projects",
+      "section_type_short":"R",
+      "source_version":"Recommended",
+      "source_year":"18",
+      "status":"New Project",
+      "operating_impact":"No",
+      "mission":[
+        "Reconstruct Congress Street from the Fort Point Channel to West Service Road, to Complete Streets standards where applicable, in order to provide safe, livable and multi-modal city streets, including new sidewalks, street lights, trees and street furnitur"
+      ],
+      "expenditures_summary":{
+        "debug":"JBDCPES",
+        "fy-0":0,
+        "total":250000
+      }
+    },
+    {
+      "category":"NEED SOURCE FOR THIS",
+      "category_desc":"NEED SOURCE FOR THIS",
+      "department":"Public Works Department",
+      "file_version":"0.10",
+      "location":"South End",
+      "managing_department":"Public Works Department",
+      "name":"Ruggles Street",
+      "section_id":"CPW24707",
+      "section_type":"projects",
+      "section_type_short":"R",
+      "source_version":"Recommended",
+      "source_year":"18",
+      "status":"New Project",
+      "operating_impact":"No",
+      "mission":[
+        "Design and build a context sensitive Ruggles Street, between Tremont and Shawmut Streets, adhering to Complete Street guidelines."
+      ],
+      "expenditures_summary":{
+        "debug":"JBDCPES",
+        "fy-0":0,
+        "total":1800000
+      }
+    },
+    {
+      "category":"NEED SOURCE FOR THIS",
+      "category_desc":"NEED SOURCE FOR THIS",
+      "department":"Public Works Department",
+      "file_version":"0.10",
+      "location":"South End",
+      "managing_department":"Public Works Department",
+      "name":"Washington Street / Traveler Street",
+      "section_id":"CPW24708",
+      "section_type":"projects",
+      "section_type_short":"R",
+      "source_version":"Recommended",
+      "source_year":"18",
+      "status":"In Design",
+      "operating_impact":"No",
+      "mission":[
+        "Roadway improvements to Washington Street from East Berkeley Street to Herald Street, and Traveler Street between Washington Street and Harrison Avenue. Improvements include resurfacing, pavement markings, and new traffic signals."
+      ],
+      "expenditures_summary":{
+        "debug":"JBDCPES",
+        "fy-0":200000,
+        "total":1750000
+      }
+    },
+    {
+      "category":"NEED SOURCE FOR THIS",
+      "category_desc":"NEED SOURCE FOR THIS",
+      "department":"Public Works Department",
+      "file_version":"0.10",
+      "location":"Citywide",
+      "managing_department":"Public Works Department",
+      "name":"Roadway Reconstruction and Resurfacing",
+      "section_id":"CPW24709",
+      "section_type":"projects",
+      "section_type_short":"R",
+      "source_version":"Recommended",
+      "source_year":"18",
+      "status":"Annual Program",
+      "operating_impact":"No",
+      "mission":[
+        "Includes road reconstruction, roadway resurfacing, sidewalk reconstruction, and traffic signal replacement where appropriate."
+      ],
+      "expenditures_summary":{
+        "debug":"JBDCPES",
+        "fy-0":9000000,
+        "total":45000000
+      }
+    }
+  ],
+  "fy-0":47976783,
+  "total":353889147
+}
+---
