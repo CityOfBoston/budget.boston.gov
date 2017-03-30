@@ -40,7 +40,7 @@ To create custom pages, you can simply add reusable components to markdown files
 Here's a short list of some common components you can use:
 
 **Breadcrumbs**
-![Screenshot of breadcrumb page navigation](/images/breadcrumbs.png "Breadcrumbs Screenshot")
+![Screenshot of breadcrumb page navigation](/readme_images/breadcrumbs.png "Breadcrumbs Screenshot")
 
 > Set local key to true in order to use app domain (e.g. budget.boston.gov) instead of wrapper base domain (e.g. boston.gov)
 
@@ -60,7 +60,7 @@ Here's a short list of some common components you can use:
 ---
 
 **Intro**
-![Screenshot of page introductory section](/images/intro.png "Intro Screenshot")
+![Screenshot of page introductory section](/readme_images/intro.png "Intro Screenshot")
 
 > Set sidebar_menu to false in order to have full spanning title, short description, and description sections
 
@@ -87,7 +87,7 @@ Here's a short list of some common components you can use:
 ---
 
 **Text Block**
-![Screenshot of a block of text component](/images/text_block.png "Text Block Screenshot")
+![Screenshot of a block of text component](/readme_images/text_block.png "Text Block Screenshot")
 
 > Omit the right_image key to have the text span the full screen
 
@@ -108,7 +108,7 @@ Here's a short list of some common components you can use:
 ---
 
 **Spanning Image**
-![Screenshot of an image that spans the full screen](/images/spanning_image.png "Spanning Image Screenshot")
+![Screenshot of an image that spans the full screen](/readme_images/spanning_image.png "Spanning Image Screenshot")
 ```
 spanning_image:
   - title: Lorem ipsum title
@@ -124,7 +124,7 @@ spanning_image:
 ---
 
 **Grid**
-![Screenshot of a grid of items](/images/grid.png "Grid Screenshot")
+![Screenshot of a grid of items](/readme_images/grid.png "Grid Screenshot")
 
 ```
 - grid:
@@ -155,7 +155,7 @@ spanning_image:
 ---
 
 **Table**
-![Screenshot of a simple table component](/images/table.png "Table Screenshot")
+![Screenshot of a simple table component](/readme_images/table.png "Table Screenshot")
 
 ```
 - table:
@@ -188,7 +188,7 @@ spanning_image:
 ---
 
 **JS Table**
-![Screenshot of a table that pulls data from a JSON source](/images/js_table.png "JS Table Screenshot")
+![Screenshot of a table that pulls data from a JSON source](/readme_images/js_table.png "JS Table Screenshot")
 
 ```
 - js_table:
@@ -228,7 +228,7 @@ spanning_image:
 ---
 
 **2 Column Text Block**
-![Screenshot of two columns of text](/images/text_col_2.png "Text Col 2")
+![Screenshot of two columns of text](/readme_images/text_col_2.png "Text Col 2")
 
 ```
 - text_col_2:
@@ -251,7 +251,7 @@ spanning_image:
 ---
 
 **3 Column Text Block**
-![Screenshot of three columns of text](/images/text_col_3.png "Text Col 3")
+![Screenshot of three columns of text](/readme_images/text_col_3.png "Text Col 3")
 
 ```
 - text_col_3:
