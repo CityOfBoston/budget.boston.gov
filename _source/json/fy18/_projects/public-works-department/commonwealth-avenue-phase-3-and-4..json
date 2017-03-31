@@ -1,0 +1,41 @@
+---
+{
+  "debug":"JCD",
+  "name":"Street Light LED Conversion.",
+  "mission":"A City-wide project to convert mercury and sodium vapor streetlights to light emitting diode (LED) lights.",
+  "managing_department":"Public Works Department.",
+  "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+  "status":"Annual Program",
+  "location":"Citywide",
+  "operating_impact":"Yes",
+  "expenditures_summary":[
+    {
+      "line_type":"data",
+      "line_title":"City Capital",
+      "fy-2":75169,
+      "fy-1":229831,
+      "fy-0":0,
+      "fy+1":0,
+      "row_total":305000
+    },
+    {
+      "line_type":"data",
+      "line_title":"Grants/Other",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":1500000,
+      "fy+1":800000,
+      "row_total":2300000
+    },
+    {
+      "line_type":"total",
+      "line_title":"Total",
+      "fy-2":75169,
+      "fy-1":229831,
+      "fy-0":1500000,
+      "fy+1":800000,
+      "row_total":2605000
+    }
+  ]
+}
+---

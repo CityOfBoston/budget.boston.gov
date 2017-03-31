@@ -1,0 +1,55 @@
+---
+{
+  "cabinet":"Public Safety",
+  "department":"Police Department",
+  "file_version":"0.10",
+  "head_name":"Frank A. Mancini",
+  "head_title":"Manager",
+  "name":"Bureau of Professional Standards",
+  "parent":"Police Department",
+  "parent_id":"6EA9AB1BAA0EFB9E19094440C317E21B",
+  "section_id":43,
+  "section_md5_id":"17E62166FC8586DFA4D1BC0E1742C08B",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 211600",
+  "description":"The Bureau of Professional Standards is responsible for the administrative investigation of all police misconduct, including violations of law, additionally completing background investigations on all new employees to the department, and internally auditing the various units and departments within the Boston Police.  The Bureau is also responsible for handling corruption prevention programs within the City of Boston as well as proactive and reactive investigations.  The Bureau of Professional Standards is comprised of the Internal Affairs Division and the Anti-Corruption Division.  The Internal Affairs Division houses the Internal Investigations Unit, the Audit and Review Unit and the Recruit Investigations Unit.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":7843530,
+      "fy-1":8308440,
+      "fy-0":7388848,
+      "fy+2":7471009
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":157921,
+      "fy-1":156974,
+      "fy-0":115340,
+      "fy+1":115340
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":8001451,
+      "fy-1":8465414,
+      "fy-0":7504188,
+      "fy+1":7586349
+    }
+  ],
+  "performance_strategies":[]
+}
+---

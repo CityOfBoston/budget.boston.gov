@@ -1,0 +1,55 @@
+---
+{
+  "cabinet":"Mayors Office",
+  "department":"Law Department",
+  "file_version":"0.10",
+  "head_name":"Vacant",
+  "head_title":"Manager",
+  "name":"Office of Gaming & Accountability",
+  "parent":"Law Department",
+  "parent_id":"C20AD4D76FE97759AA27A0C99BFF6710",
+  "section_id":259,
+  "section_md5_id":"CFA0860E83A4C3A763A7E62D825349F7",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 151500",
+  "description":"The Office of Gaming and Accountability is responsible for representing the City of Boston pursuant to the terms of the Massachusetts Expanded Gaming Act, 2011, Massachusetts Acts Chapter 194.  Staff in this program is charged with protecting the interests of the public and ensuring the integrity of legalized gaming and managing the impacts to the residents of Boston.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":9173,
+      "fy-1":58987,
+      "fy-0":87240,
+      "fy+2":0
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":664000,
+      "fy-0":0,
+      "fy+1":0
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":9173,
+      "fy-1":722987,
+      "fy-0":87240,
+      "fy+1":0
+    }
+  ],
+  "performance_strategies":[]
+}
+---

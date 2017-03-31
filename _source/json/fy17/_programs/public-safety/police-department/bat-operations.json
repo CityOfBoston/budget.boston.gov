@@ -1,0 +1,84 @@
+---
+{
+  "cabinet":"Public Safety",
+  "department":"Police Department",
+  "file_version":"0.10",
+  "head_name":"Vacant",
+  "head_title":"Manager",
+  "name":"BAT-Operations",
+  "parent":"Police Department",
+  "parent_id":"6EA9AB1BAA0EFB9E19094440C317E21B",
+  "section_id":39,
+  "section_md5_id":"D67D8AB4F4C10BF22AA353E27879133C",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 211200",
+  "description":"The  Bureau of Administration and Technology Operations Program provides logistic support and  maintenance in the areas of fleet management, communications and  building maintenance.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":7811623,
+      "fy-1":7215118,
+      "fy-0":7108100,
+      "fy+2":7106479
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":11833943,
+      "fy-1":12268196,
+      "fy-0":14953691,
+      "fy+1":13712434
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":19645566,
+      "fy-1":19483314,
+      "fy-0":22061791,
+      "fy+1":20818913
+    }
+  ],
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Timely and efficient response to crime and calls for service"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Median Response Time Priority One Calls: Receipt to arrival (mins)",
+              "fy-4":8,
+              "fy-3":9,
+              "fy-2":9,
+              "fy-1":7
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

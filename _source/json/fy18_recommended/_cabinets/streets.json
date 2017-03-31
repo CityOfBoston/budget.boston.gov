@@ -1,0 +1,169 @@
+---
+{
+  "cabinet":"Streets",
+  "department":null,
+  "file_version":"0.10",
+  "head_name":"Chris Osgood",
+  "head_title":"Chief of Streets",
+  "name":"Streets",
+  "parent":"root",
+  "section_id":15,
+  "section_md5_id":"9BF31C7FF062936A96D3C8BD1F8F2FF3",
+  "section_type":"cabinet",
+  "section_type_short":"C",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "mission":[
+    "The mission of the Streets Cabinet is to innovate, develop, implement, support and manage all programs, projects and policies that enhance clean, well-lit, attractive and efficient infrastructure that moves vehicular and pedestrian traffic safely."
+  ],
+  "operating_department":{
+    "table_type":"operating_department",
+    "debug":"JCB",
+    "table_title":"Operating Budget",
+    "Program Name":"Department",
+    "line_type":"title",
+    "fy-2":"FY15 Actual",
+    "fy-1":"FY16 Actual",
+    "fy-0":"FY17 Budget",
+    "fy+2":"FY18 Budget",
+    "data":[
+      {
+        "department":"Central Fleet Management",
+        "line_type":"data",
+        "fy-2":2672446,
+        "fy-1":2148719,
+        "fy-0":2590424,
+        "fy+1":2707429
+      },
+      {
+        "department":"Office of Streets",
+        "line_type":"data",
+        "fy-2":1360422,
+        "fy-1":1649756,
+        "fy-0":1973144,
+        "fy+1":1962522
+      },
+      {
+        "department":"Public Works Department",
+        "line_type":"data",
+        "fy-2":82178496,
+        "fy-1":85054754,
+        "fy-0":81989710,
+        "fy+1":83775848
+      },
+      {
+        "department":"Snow Removal",
+        "line_type":"data",
+        "fy-2":38453034,
+        "fy-1":14785551,
+        "fy-0":22563964,
+        "fy+1":22563964
+      },
+      {
+        "department":"Transportation Department",
+        "line_type":"data",
+        "fy-2":31257044,
+        "fy-1":32792033,
+        "fy-0":33174525,
+        "fy+1":34104959
+      },
+      {
+        "total":"Total",
+        "line_type":"total",
+        "fy-2":155921442,
+        "fy-1":136430813,
+        "fy-0":142291767,
+        "fy+1":145114722
+      }
+    ],
+    "capital_budget_expenditures":[
+      {
+        "debug":"JCCD",
+        "table_type":"capital_budget_expenditures",
+        "table_title":"Capital Budget Expenditures",
+        "table_header":{
+          "title":"Capital Budget Expenditures",
+          "line_type":"header",
+          "fy-2":"FY15 Actual",
+          "fy-1":"FY16 Actual",
+          "fy-0":"FY17 Estimated",
+          "fy+2":"FY18 Projected"
+        },
+        "data":[
+          {
+            "title":"Public Works Department",
+            "line_type":"data",
+            "fy-2":75920128,
+            "fy-1":45313639,
+            "fy-0":69118056,
+            "fy+1":47976783
+          },
+          {
+            "title":"Transportation Department",
+            "line_type":"data",
+            "fy-2":3188162,
+            "fy-1":7512618,
+            "fy-0":15599834,
+            "fy+1":21157711
+          },
+          {
+            "title":"Total",
+            "line_type":"total",
+            "fy-2":79108290,
+            "fy-1":52826257,
+            "fy-0":84717890,
+            "fy+1":69134494
+          }
+        ]
+      }
+    ]
+  },
+  "external_funds_tables":{
+    "debug":"JCEXFT",
+    "table_type":"external_funds",
+    "table_title":"external_funds",
+    "table_header":{
+      "title":"Department",
+      "line_type":"header",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Estimated",
+      "fy+2":"FY18 Projected"
+    },
+    "data":[
+      {
+        "title":"Central Fleet Management",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":58758,
+        "fy-0":0,
+        "fy+1":0
+      },
+      {
+        "title":"Public Works Department",
+        "line_type":"data",
+        "fy-2":28036,
+        "fy-1":215565,
+        "fy-0":20000,
+        "fy+1":20000
+      },
+      {
+        "title":"Transportation Department",
+        "line_type":"data",
+        "fy-2":1776723,
+        "fy-1":1691386,
+        "fy-0":2071925,
+        "fy+1":2150160
+      },
+      {
+        "total":"Total Cabinet",
+        "line_type":"total",
+        "fy-2":1804759,
+        "fy-1":1965709,
+        "fy-0":2091925,
+        "fy+1":2170160
+      }
+    ]
+  }
+}
+---

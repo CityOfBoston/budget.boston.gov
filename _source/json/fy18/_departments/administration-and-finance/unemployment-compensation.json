@@ -1,0 +1,86 @@
+---
+{
+  "file_version":"0.10",
+  "parent_id":"NEED TO GET THIS",
+  "section_id":66,
+  "section_md5_id":"3295C76ACBF4CAAED33C36B1B5FC2CB1",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "name":"Unemployment Compensation",
+  "parent":"Administration and Finance",
+  "cabinet":"Administration and Finance",
+  "department":"Unemployment Compensation",
+  "head_name":"*NULL NO DATA*",
+  "head_title":"*NULL NO DATA*",
+  "appropriation_code":"Appropriation 199",
+  "mission":"The Unemployment Compensation appropriation provides funds to carry out provisions of the Massachusetts Unemployment Security Law, MGLA c. 151A, as it pertains to former City and County employees. The appropriation facilitates payment of unemployment claims.",
+  "operating_budget":{
+    "debug":"JPTR",
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "Program Name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+2":"FY18 Budget"
+    },
+    "data":[
+      {
+        "line_title":"Unemployment Compensation",
+        "line_type":"data",
+        "fy-2":34251,
+        "fy-1":0,
+        "fy-0":350000,
+        "fy+2":350000
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":34251,
+        "fy-1":0,
+        "fy-0":350000,
+        "fy+2":350000
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15 Actual",
+      "fy-1":"16 Actual",
+      "fy-0":"17 Budget",
+      "fy+2":"18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":34251,
+      "fy-1":0,
+      "fy-0":350000,
+      "fy+2":350000
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":34251,
+      "fy-1":0,
+      "fy-0":350000,
+      "fy+1":350000
+    }
+  ]
+}
+---

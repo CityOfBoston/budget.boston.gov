@@ -1,0 +1,92 @@
+---
+{
+  "cabinet":"Economic Development",
+  "department":"Consumer Affairs & Licensing",
+  "file_version":"0.10",
+  "head_name":"Christine Pulgini",
+  "head_title":"Director",
+  "name":"Consumer Affairs",
+  "parent":"Consumer Affairs & Licensing",
+  "parent_id":"8F14E45FCEEA167A5A36DEDD4BEA2543",
+  "section_id":7,
+  "section_md5_id":"8F14E45FCEEA167A5A36DEDD4BEA2543",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 114200",
+  "description":"The Consumer Affairs Program educates, advocates and mediates on behalf of Boston consumers.  The office monitors businesses to deter unfair and deceptive business practices affecting consumers and serves as a resource to the Mayor's Office on consumer issues.  The office works closely with the Office of the Attorney General.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":84520,
+      "fy-1":86537,
+      "fy-0":97475,
+      "fy+2":99671
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":69,
+      "fy-0":3600,
+      "fy+1":900
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":84520,
+      "fy-1":86606,
+      "fy-0":101075,
+      "fy+1":100571
+    }
+  ],
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To track the number of cases closed"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Consumer cases closed",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":""
+            },
+            {
+              "line_type":"data",
+              "line_data":"Consumer cases closed",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

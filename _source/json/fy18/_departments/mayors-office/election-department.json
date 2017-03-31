@@ -1,0 +1,202 @@
+---
+{
+  "file_version":"0.10",
+  "parent_id":"NEED TO GET THIS",
+  "section_id":8,
+  "section_md5_id":"C9F0F895FB98AB9159F51FD0297E236D",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "name":"Election Department",
+  "parent":"Mayors Office",
+  "cabinet":"Mayors Office",
+  "department":"Election Department",
+  "head_name":"Dion Irish",
+  "head_title":"Commissioner",
+  "appropriation_code":"Appropriation 121",
+  "mission":"The mission of the Election Department is to ensure that all municipal, state and federal elections conducted within the City of Boston are properly managed in accordance with City, state and federal laws. The Department also seeks to ensure that all eligible citizens are registered to vote and that a comprehensive juror list is provided to the State Jury Commissioner.",
+  "selected_performance_strategies":{
+    "program":"Voter Registration",
+    "strategies":[
+      "Encourage and facilitate the registration of eligible voters, with an emphasis on increasing electronic voter registrations."
+    ]
+  },
+  "operating_budget":{
+    "debug":"JPTR",
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "Program Name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+2":"FY18 Budget"
+    },
+    "data":[
+      {
+        "line_title":"Annual Listing",
+        "line_type":"data",
+        "fy-2":540870,
+        "fy-1":506691,
+        "fy-0":510551,
+        "fy+2":534712
+      },
+      {
+        "line_title":"Election Administration",
+        "line_type":"data",
+        "fy-2":703866,
+        "fy-1":698418,
+        "fy-0":730869,
+        "fy+2":779455
+      },
+      {
+        "line_title":"Voter Registration",
+        "line_type":"data",
+        "fy-2":277896,
+        "fy-1":329741,
+        "fy-0":351409,
+        "fy+2":354637
+      },
+      {
+        "line_title":"Election Activities",
+        "line_type":"data",
+        "fy-2":1810102,
+        "fy-1":2239947,
+        "fy-0":2736513,
+        "fy+2":2577111
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":3332734,
+        "fy-1":3774797,
+        "fy-0":4329342,
+        "fy+2":4245915
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15 Actual",
+      "fy-1":"16 Actual",
+      "fy-0":"17 Budget",
+      "fy+2":"18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":2623377,
+      "fy-1":2673127,
+      "fy-0":3094855,
+      "fy+2":2987480
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":709357,
+      "fy-1":1101670,
+      "fy-0":1234487,
+      "fy+1":1258435
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":3332734,
+      "fy-1":3774797,
+      "fy-0":4329342,
+      "fy+1":4245915
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Enabling Legislation, 1895 Mass. Acts ch. 449.",
+    "Primaries and Elections, M.G.L.A. cc. 50-57; 1913 Mass. Acts ch. 835, as amended.",
+    "Listing Board, 1938 Mass. Acts ch. 287.",
+    "Election EmployeesCivil Service, 1920 Mass. Acts ch. 305.",
+    "\"Juries Obligation to Serve, and Lists,\" M.G.L.A. c. 234A, §§ 4-6, CBC St. 2 §§ 200-245."
+  ],
+  "description_of_services":[
+    "The Election Department provides for voter registration, maintenance of election equipment, arrangement for and operation of polling places, certification of nomination papers and referendum petitions, tabulations and certification of election results, operation of a public service counter in Boston City Hall, and mailings to residents on voter registration and Election Day activities. The Department also conducts a census of Boston residents ages 17 years and older."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":2623377,
+        "fy-1":2673127,
+        "fy-0":3094855,
+        "fy+1":2987480,
+        "diff":-107375
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":2956069,
+        "fy-1":3362869,
+        "fy-0":3698872,
+        "fy+1":3701330,
+        "diff":2458
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":3270576,
+        "fy-1":3646659,
+        "fy-0":4160722,
+        "fy+1":4107192,
+        "diff":-53530
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":3280760,
+        "fy-1":3697933,
+        "fy-0":4303355,
+        "fy+1":4233442,
+        "diff":-69913
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":3332734,
+        "fy-1":3774797,
+        "fy-0":4329342,
+        "fy+1":4245915,
+        "diff":-83427
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":3332734,
+        "fy-1":3774797,
+        "fy-0":4329342,
+        "fy+1":4245915,
+        "diff":-83427
+      }
+    ]
+  }
+}
+---

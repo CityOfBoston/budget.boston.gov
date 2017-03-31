@@ -1,0 +1,84 @@
+---
+{
+  "cabinet":"Operations",
+  "department":"Property Management",
+  "file_version":"0.10",
+  "head_name":"James Hughes",
+  "head_title":"Manager",
+  "name":"Building Maintenance",
+  "parent":"Property Management",
+  "parent_id":"1679091C5A880FAF6FB5E6087EB1B2DC",
+  "section_id":138,
+  "section_md5_id":"013D407166EC4FA56EB1E1F8CBE183B9",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 180200",
+  "description":"The Building Maintenance Program provides for the care and custody of Boston City Hall, municipal buildings, and historic structures.  The Program is also responsible for graffiti removal from public and private property in the City of Boston.  The program also provides maintenance support for special events and celebrations held in municipal buildings managed by the Department.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":1255390,
+      "fy-1":1320255,
+      "fy-0":1400009,
+      "fy+2":1278717
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":5421452,
+      "fy-1":5828175,
+      "fy-0":6977451,
+      "fy+1":6724980
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":6676842,
+      "fy-1":7148430,
+      "fy-0":8377460,
+      "fy+1":8003697
+    }
+  ],
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To improve and maintain the operational condition of managed city-owned facilities."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Data on how quickly requests are responded to. In the beginning we will focus on 2 failure codes.",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

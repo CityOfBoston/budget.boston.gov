@@ -1,0 +1,41 @@
+---
+{
+  "debug":"JCD",
+  "name":"Egleston Square Branch Library.",
+  "mission":"Assess the existing interior and exterior physical conditions and systems according to how ably the branch can accomplish the Compass principles; develop and implement an improvement plan.",
+  "managing_department":"Public Facilities Department.",
+  "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+  "status":"To Be Scheduled",
+  "location":"Roxbury",
+  "operating_impact":"Yes",
+  "expenditures_summary":[
+    {
+      "line_type":"data",
+      "line_title":"City Capital",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":100000,
+      "fy+1":12000000,
+      "row_total":12100000
+    },
+    {
+      "line_type":"data",
+      "line_title":"Grants/Other",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0,
+      "row_total":0
+    },
+    {
+      "line_type":"total",
+      "line_title":"Total",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":100000,
+      "fy+1":12000000,
+      "row_total":12100000
+    }
+  ]
+}
+---

@@ -1,0 +1,197 @@
+---
+{
+  "file_version":"0.10",
+  "parent_id":"NEED TO GET THIS",
+  "section_id":20,
+  "section_md5_id":"98F13708210194C475687BE6106A3B84",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "name":"Purchasing Division",
+  "parent":"Administration and Finance",
+  "cabinet":"Administration and Finance",
+  "department":"Purchasing Division",
+  "head_name":"Kevin Coyne",
+  "head_title":"Purchasing Agent",
+  "appropriation_code":"Appropriation 143",
+  "mission":"The mission of the Purchasing Department is to purchase the best quality products at the lowest possible price and to deliver those products to City departments promptly. The department is also responsible for surplus property, processing mail, providing copier service and publishing the City Record.",
+  "selected_performance_strategies":{
+    "program":"Procurement",
+    "strategies":[
+      "The Procurement Office in the City of Boston uses a 100% electronic format. Creating a contract should be a seamless and relatively quick process. This is achieved by continiously monitoring and reviewing this process.",
+      "To display the percentage of savings the departments is able to achieve from request to the time of order.",
+      "To measure the amount of time that it takes to produce a purchase order (should be less than seven days). There are certain cases where need to be publically bid it will be longer.",
+      "To simplyfy conducting business with the City of Boston. To provide an expetional expierence and a superior level of customer service for all vendors. To supply support to vendors at all stages of procurement.",
+      "Verifying and validating department requests that are being bid using sound business practices, to ensure the best product at the appropriate cost is purchased."
+    ]
+  },
+  "operating_budget":{
+    "debug":"JPTR",
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "Program Name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+2":"FY18 Budget"
+    },
+    "data":[
+      {
+        "line_title":"Purchasing Administration",
+        "line_type":"data",
+        "fy-2":290972,
+        "fy-1":385461,
+        "fy-0":575079,
+        "fy+2":660118
+      },
+      {
+        "line_title":"Procurement",
+        "line_type":"data",
+        "fy-2":1036133,
+        "fy-1":1110016,
+        "fy-0":960352,
+        "fy+2":900378
+      },
+      {
+        "line_title":"Central Services",
+        "line_type":"data",
+        "fy-2":218097,
+        "fy-1":276091,
+        "fy-0":296938,
+        "fy+2":214871
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":1545202,
+        "fy-1":1771568,
+        "fy-0":1832369,
+        "fy+2":1775367
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15 Actual",
+      "fy-1":"16 Actual",
+      "fy-0":"17 Budget",
+      "fy+2":"18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":1457810,
+      "fy-1":1649445,
+      "fy-0":1688953,
+      "fy+2":1633651
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":87392,
+      "fy-1":122123,
+      "fy-0":143416,
+      "fy+1":141716
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1545202,
+      "fy-1":1771568,
+      "fy-0":1832369,
+      "fy+1":1775367
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Enabling Legislation, M.G.L.A. c.41, § 103.",
+    "Duties of the Purchasing Agent, CBC Ord. § 5-1.8.",
+    "Content and Sale, CBC St. 2 § 650.",
+    "Uniform Procurement Act, M.G.L.A. c. 30B."
+  ],
+  "description_of_services":[
+    "The Purchasing Department procures all supplies, materials, and equipment for City departments. The department selects vendors through public bidding and processes purchase orders and contracts. The Central Services Unit ensures the efficient and economical disposal of all surplus City property excluding land and buildings, and processes and posts all outgoing, inter-office, and incoming mail. This unit also produces the City Record and operates the Copy Center."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":1457810,
+        "fy-1":1649445,
+        "fy-0":1688953,
+        "fy+1":1633651,
+        "diff":-55302
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":1492009,
+        "fy-1":1702804,
+        "fy-0":1734458,
+        "fy+1":1677656,
+        "diff":-56802
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":1498924,
+        "fy-1":1708155,
+        "fy-0":1741658,
+        "fy+1":1685856,
+        "diff":-55802
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":1499724,
+        "fy-1":1711332,
+        "fy-0":1747123,
+        "fy+1":1690121,
+        "diff":-57002
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":1517399,
+        "fy-1":1754862,
+        "fy-0":1832369,
+        "fy+1":1775367,
+        "diff":-57002
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":1545202,
+        "fy-1":1771568,
+        "fy-0":1832369,
+        "fy+1":1775367,
+        "diff":-57002
+      }
+    ]
+  }
+}
+---

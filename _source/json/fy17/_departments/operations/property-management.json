@@ -1,0 +1,236 @@
+---
+{
+  "file_version":"0.10",
+  "parent_id":"NEED TO GET THIS",
+  "section_id":6,
+  "section_md5_id":"1679091C5A880FAF6FB5E6087EB1B2DC",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "name":"Property Management",
+  "parent":"Operations",
+  "cabinet":"Operations",
+  "department":"Property Management",
+  "head_name":"Gregory Rooney",
+  "head_title":"Commissioner",
+  "appropriation_code":"Appropriation 180",
+  "mission":"The mission of the Property Management Department is to manage, maintain, repair and provide security for the City's municipal buildings including City Hall and Faneuil Hall; to preserve the useful life of City facilities and reduce operating costs through effective preventive maintenance measures.",
+  "selected_performance_strategies":{
+    "program":"Building Systems",
+    "strategies":[
+      "Maintain heating ventilation and air condition (HVAC) system in proper working order."
+    ]
+  },
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "Program Name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+2":"FY18 Budget"
+    },
+    "data":[
+      {
+        "line_title":"PM Administration",
+        "line_type":"data",
+        "fy-2":"2085565",
+        "fy-1":"1877245",
+        "fy-0":"1677692",
+        "fy+2":"1915883"
+      },
+      {
+        "line_title":"Building Maintenance",
+        "line_type":"data",
+        "fy-2":"6676842",
+        "fy-1":"7148430",
+        "fy-0":"8377460",
+        "fy+2":"8003697"
+      },
+      {
+        "line_title":"Alterations & Repair",
+        "line_type":"data",
+        "fy-2":"1905091",
+        "fy-1":"1637044",
+        "fy-0":"1693997",
+        "fy+2":"1554706"
+      },
+      {
+        "line_title":"Enforcement",
+        "line_type":"data",
+        "fy-2":"3801098",
+        "fy-1":"4051334",
+        "fy-0":"3600446",
+        "fy+2":"2387699"
+      },
+      {
+        "line_title":"Security Systems",
+        "line_type":"data",
+        "fy-2":"1402276",
+        "fy-1":"789646",
+        "fy-0":"962082",
+        "fy+2":"835969"
+      },
+      {
+        "line_title":"Animal Control",
+        "line_type":"data",
+        "fy-2":"1142746",
+        "fy-1":"150",
+        "fy-0":"0",
+        "fy+2":"0"
+      },
+      {
+        "line_title":"Building Systems",
+        "line_type":"data",
+        "fy-2":"1615077",
+        "fy-1":"1762822",
+        "fy-0":"2029137",
+        "fy+2":"2397560"
+      },
+      {
+        "line_title":"Capital Construction",
+        "line_type":"data",
+        "fy-2":"5067482",
+        "fy-1":"6630153",
+        "fy-0":"0",
+        "fy+2":"0"
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":"23696177",
+        "fy-1":"23896824",
+        "fy-0":"18340814",
+        "fy+2":"17095514"
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":14461897,
+      "fy-1":13474424,
+      "fy-0":8478834,
+      "fy+2":7296691
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":9234280,
+      "fy-1":10422400,
+      "fy-0":9861980,
+      "fy+1":9798823
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":23696177,
+      "fy-1":23896824,
+      "fy-0":18340814,
+      "fy+1":17095514
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Property Management Board: Powers and Duties, CBC Ord. §§ 11-7.1-11-7.2; 1943 Mass. Acts ch. 1943, as amended; 1946 Mass. Acts ch. 474, as amended.",
+    "Powers and Duties of Commissioner of Real Property, CBC Ord. § 11-7.3; 1943 Mass. Acts ch. 1943, as amended; 1946 Mass. Acts ch. 474, as amended.",
+    "Powers and Duties of Assistant Commissioner of Real Property, CBC Ord. §§ 11-7.4-11-7.10."
+  ],
+  "description_of_services":[
+    "The Property Management Department is responsible for the management, maintenance, security, and repair of the City's municipal buildings including City Hall, Faneuil Hall, and the Old State House. Property Management is responsible for facility layout and space planning analysis for City departments, building security, and events management."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":14461897,
+        "fy-1":13474424,
+        "fy-0":8478834,
+        "fy+1":7296691,
+        "diff":-1182143
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":22034604,
+        "fy-1":23141340,
+        "fy-0":17744341,
+        "fy+1":16480943,
+        "diff":-1263398
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":22645233,
+        "fy-1":23567101,
+        "fy-0":18152466,
+        "fy+1":16902706,
+        "diff":-1249760
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":22719829,
+        "fy-1":23648331,
+        "fy-0":18214211,
+        "fy+1":16980962,
+        "diff":-1233249
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":23619752,
+        "fy-1":23896824,
+        "fy-0":18340814,
+        "fy+1":17095514,
+        "diff":-1245300
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":23696177,
+        "fy-1":23896824,
+        "fy-0":18340814,
+        "fy+1":17095514,
+        "diff":-1245300
+      }
+    ]
+  },
+  "fy_major_initiatives":[
+    "Early action items identified from the City Hall Master Plan will begin implementation, including the City Council Chamber floor accessibility improvements.",
+    "An upgrade to the elevator, boiler and chiller at Faneuil Hall will begin construction.",
+    "Brownstone, historic doors and window repairs will begin at Faneuil Hall.",
+    "Energy efficiency projects, including an upgrade of the HVAC system, will proceed. at City Hall."
+  ]
+}
+---

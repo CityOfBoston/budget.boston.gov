@@ -1,0 +1,41 @@
+---
+{
+  "debug":"JCD",
+  "name":"Boston Common Utility Study.",
+  "mission":"Study to determine utility needs (electric and drainage) of the Boston Common in advance of needed utility upgrades and future pathway paving.",
+  "managing_department":"Parks and Recreation Department.",
+  "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+  "status":"Study Underway",
+  "location":"Beacon Hill",
+  "operating_impact":"Yes",
+  "expenditures_summary":[
+    {
+      "line_type":"data",
+      "line_title":"City Capital",
+      "fy-2":0,
+      "fy-1":193757,
+      "fy-0":471243,
+      "fy+1":0,
+      "row_total":665000
+    },
+    {
+      "line_type":"data",
+      "line_title":"Grants/Other",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0,
+      "row_total":0
+    },
+    {
+      "line_type":"total",
+      "line_title":"Total",
+      "fy-2":0,
+      "fy-1":193757,
+      "fy-0":471243,
+      "fy+1":0,
+      "row_total":665000
+    }
+  ]
+}
+---

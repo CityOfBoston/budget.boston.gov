@@ -1,0 +1,55 @@
+---
+{
+  "cabinet":"Public Safety",
+  "department":"Fire Department",
+  "file_version":"0.10",
+  "head_name":"Gerard Fontana",
+  "head_title":"Manager",
+  "name":"Boston Fire Suppression",
+  "parent":"Fire Department",
+  "parent_id":"33E75FF09DD601BBE69F351039152189",
+  "section_id":30,
+  "section_md5_id":"34173CB38F07F89DDBEBC2AC9128303F",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 221200",
+  "description":"The Fire Suppression Program is responsible for extinguishing all fires and protecting life and property in emergencies for the citizens of Boston, and for surrounding communities on a mutual aid basis.  The Fire Suppression Program force responds to hazardous material incidents as well as man-made and natural disasters.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":157392203,
+      "fy-1":161440689,
+      "fy-0":162014320,
+      "fy+2":170018634
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":4159399,
+      "fy-1":4372403,
+      "fy-0":6893534,
+      "fy+1":7712211
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":161551602,
+      "fy-1":165813092,
+      "fy-0":168907854,
+      "fy+1":177730845
+    }
+  ],
+  "performance_strategies":[]
+}
+---

@@ -1,0 +1,206 @@
+---
+{
+  "cabinet":"Information and Technology",
+  "department":"Department of Innovation & Technology",
+  "file_version":"0.10",
+  "head_name":"Michael Lynch",
+  "head_title":"Manager",
+  "name":"Department of Innovation & Technology",
+  "parent":"Department of Innovation & Technology",
+  "parent_id":"70EFDF2EC9B086079795C442636B55FB",
+  "section_id":277,
+  "section_md5_id":"20F07591C6FCB220FFE637CDA29BB3F6",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 149600",
+  "description":"Work towards a future where every resident and business has access to affordable broadband internet, and the skills and equipment to make use of it. We support a variety of digital equity and public access initiatives, and work to provide both regulatory oversight for our cable TV providers and to lower the barriers to entry in Boston&rsquo;s broadband market.",
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15 Actual",
+      "fy-1":"16 Actual",
+      "fy-0":"17 Budget",
+      "fy+2":"18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":397138,
+      "fy+2":406467
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":35000
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":397138,
+      "fy+1":441467
+    }
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":397138,
+        "fy+1":406467,
+        "diff":9329
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":397138,
+        "fy+1":441467,
+        "diff":44329
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":397138,
+        "fy+1":441467,
+        "diff":44329
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":397138,
+        "fy+1":441467,
+        "diff":44329
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":397138,
+        "fy+1":441467,
+        "diff":44329
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":397138,
+        "fy+1":441467,
+        "diff":44329
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Closing the digital equity gap"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "debug":"JPM",
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Broadband adoption by families (i.e. households with children under 18)",
+              "fy-4":null,
+              "fy-3":null,
+              "fy-2":null,
+              "fy-1":null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Improving broadband services"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "debug":"JPM",
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% Bostonians with 2 or more options for high speed internet",
+              "fy-4":null,
+              "fy-3":null,
+              "fy-2":null,
+              "fy-1":null
+            },
+            {
+              "line_type":"data",
+              "line_data":"Percent of employees with access to high-quality wifi",
+              "fy-4":null,
+              "fy-3":null,
+              "fy-2":null,
+              "fy-1":null
+            },
+            {
+              "line_type":"data",
+              "line_data":"Wicked free wifi customer satisfaction rate (out of 5)",
+              "fy-4":null,
+              "fy-3":null,
+              "fy-2":5,
+              "fy-1":5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

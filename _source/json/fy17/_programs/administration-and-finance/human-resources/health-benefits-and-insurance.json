@@ -1,0 +1,92 @@
+---
+{
+  "cabinet":"Administration and Finance",
+  "department":"Human Resources",
+  "file_version":"0.10",
+  "head_name":"Vivian Leonard",
+  "head_title":"Manager",
+  "name":"Health Benefits & Insurance",
+  "parent":"Human Resources",
+  "parent_id":"C74D97B01EAE257E44AA9D5BADE97BAF",
+  "section_id":118,
+  "section_md5_id":"5EF059938BA799AAA845E1C2E8A762BD",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 142300",
+  "description":"The Health Benefits and Insurance Program is responsible for providing life insurance, dental and vision care, and a variety of health insurance plans to active and retired employees of the City of Boston as efficiently and economically as possible within the guidelines of MGL Chapter 32B.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":529024,
+      "fy-1":543981,
+      "fy-0":640165,
+      "fy+2":713382
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":61886,
+      "fy-1":49542,
+      "fy-0":82200,
+      "fy+1":80550
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":590910,
+      "fy-1":593523,
+      "fy-0":722365,
+      "fy+1":793932
+    }
+  ],
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Enhanced Employee Experience"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of Benefits Information and Education Sessions Held",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":8
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of Visits on Health Benefits Webpages",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":3600
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

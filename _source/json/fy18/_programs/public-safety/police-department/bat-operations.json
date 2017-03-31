@@ -1,0 +1,161 @@
+---
+{
+  "cabinet":"Public Safety",
+  "department":"Police Department",
+  "file_version":"0.10",
+  "head_name":"Vacant",
+  "head_title":"Manager",
+  "name":"Police Department",
+  "parent":"Police Department",
+  "parent_id":"6EA9AB1BAA0EFB9E19094440C317E21B",
+  "section_id":39,
+  "section_md5_id":"D67D8AB4F4C10BF22AA353E27879133C",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 211200",
+  "description":"The  Bureau of Administration and Technology Operations Program provides logistic support and  maintenance in the areas of fleet management, communications and  building maintenance.",
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15 Actual",
+      "fy-1":"16 Actual",
+      "fy-0":"17 Budget",
+      "fy+2":"18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":7811623,
+      "fy-1":7215118,
+      "fy-0":7108100,
+      "fy+2":7106479
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":11833943,
+      "fy-1":12268196,
+      "fy-0":14953691,
+      "fy+1":13712434
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":19645566,
+      "fy-1":19483314,
+      "fy-0":22061791,
+      "fy+1":20818913
+    }
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":7811623,
+        "fy-1":7215118,
+        "fy-0":7108100,
+        "fy+1":7106479,
+        "diff":-1621
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":10746448,
+        "fy-1":10849663,
+        "fy-0":11199627,
+        "fy+1":10224902,
+        "diff":-974725
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":14998886,
+        "fy-1":14612577,
+        "fy-0":16175044,
+        "fy+1":14116081,
+        "diff":-2058963
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":15337664,
+        "fy-1":14924324,
+        "fy-0":16535928,
+        "fy+1":14534844,
+        "diff":-2001084
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":19645566,
+        "fy-1":19483314,
+        "fy-0":22061791,
+        "fy+1":20818913,
+        "diff":-1242878
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":19645566,
+        "fy-1":19483314,
+        "fy-0":22061791,
+        "fy+1":20818913,
+        "diff":-1242878
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Timely and efficient response to crime and calls for service"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "debug":"JPM",
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Median Response Time Priority One Calls Receipt to arrival (mins)",
+              "fy-4":8,
+              "fy-3":9,
+              "fy-2":9,
+              "fy-1":7
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

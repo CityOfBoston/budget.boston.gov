@@ -3,23 +3,23 @@
     <div class="photo-wrapper">
       <picture>
         <!--[if IE 9]><video style="display: none;"><![endif]-->
-        <source srcset="{{ include.arg[1][0].src }} 1x" media="(min-width: 1440px)">
-        <source srcset="{{ include.arg[1][0].src }} 1x, {{ include.arg[1][0].src }} 2x" media="(min-width: 768px)">
-        <source srcset="{{ include.arg[1][0].src }} 1x, {{ include.arg[1][0].src }} 2x" media="(min-width: 480px)">
-        <source srcset="{{ include.arg[1][0].src }} 1x, {{ include.arg[1][0].src }} 2x" media="(min-width: 0px)">
+        <source srcset="{{ include.arg[0].src }} 1x" media="(min-width: 1440px)">
+        <source srcset="{{ include.arg[0].src }} 1x, {{ include.arg[0].src }} 2x" media="(min-width: 768px)">
+        <source srcset="{{ include.arg[0].src }} 1x, {{ include.arg[0].src }} 2x" media="(min-width: 480px)">
+        <source srcset="{{ include.arg[0].src }} 1x, {{ include.arg[0].src }} 2x" media="(min-width: 0px)">
         <!--[if IE 9]></video><![endif]-->
-        <img src="{{ include.arg[1][0].src }}" alt="{{ include.arg[1][0].alt }}" title="{{ include.arg[1][0].title }}">
+        <img src="{{ include.arg[0].src }}" alt="{{ include.arg[0].alt }}" title="{{ include.arg[0].title }}">
       </picture>
     </div>
     <div class="photo-details">
-      <h2 data-short-title="" class="sh-title createNavItem-processed">{{ include.arg[1][0].title }}</h2>
+      <h2 data-short-title="" class="sh-title createNavItem-processed">{{ include.arg[0].title }}</h2>
       <div class="photo-caption-wrapper">
-        <p>{{ include.arg[1][0].desc }}</p>
+        <p>{{ include.arg[0].desc }}</p>
       </div>
       <div class="call-to-action">
         <div class="paragraphs-items paragraphs-items-field-link paragraphs-items-field-link-full paragraphs-items-full">
           <div class="link-wrapper internal-link">
-            <a href="{{ include.arg[1][0].link[0].url }}" title="Go to BCYF Community Centers">{{ include.arg[1][0].link[0].text }}</a>
+            <a href="{{ include.arg[0].link[0].url }}" title="Go to BCYF Community Centers">{{ include.arg[0].link[0].text }}</a>
           </div>
         </div>
       </div>

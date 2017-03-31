@@ -1,0 +1,161 @@
+---
+{
+  "cabinet":"Housing and Neighborhood Development",
+  "department":"Neighborhood Development",
+  "file_version":"0.10",
+  "head_name":"Donald Wright",
+  "head_title":"Deputy Director",
+  "name":"Neighborhood Development",
+  "parent":"Neighborhood Development",
+  "parent_id":"C16A5320FA475530D9583C34FD356EF5",
+  "section_id":193,
+  "section_md5_id":"BD686FD640BE98EFAAE0091FA301E613",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 188200",
+  "description":"The Real Estate Management & Sales Program works to manage disposal of foreclosed land parcels and foreclosed buildings as quickly as possible, and  in a manner that generates revenue for the City and provides benefits to the community.",
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15 Actual",
+      "fy-1":"16 Actual",
+      "fy-0":"17 Budget",
+      "fy+2":"18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":979291,
+      "fy-1":1173232,
+      "fy-0":1011757,
+      "fy+2":883347
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":796099,
+      "fy-1":609657,
+      "fy-0":542470,
+      "fy+1":733245
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1775390,
+      "fy-1":1782889,
+      "fy-0":1554227,
+      "fy+1":1616592
+    }
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":979291,
+        "fy-1":1173232,
+        "fy-0":1011757,
+        "fy+1":883347,
+        "diff":-128410
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":1736737,
+        "fy-1":1748592,
+        "fy-0":1516577,
+        "fy+1":1578942,
+        "diff":62365
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":1744465,
+        "fy-1":1755399,
+        "fy-0":1522577,
+        "fy+1":1584942,
+        "diff":62365
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":1775390,
+        "fy-1":1782889,
+        "fy-0":1554227,
+        "fy+1":1616592,
+        "diff":62365
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":1775390,
+        "fy-1":1782889,
+        "fy-0":1554227,
+        "fy+1":1616592,
+        "diff":62365
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":1775390,
+        "fy-1":1782889,
+        "fy-0":1554227,
+        "fy+1":1616592,
+        "diff":62365
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Dispose of tax-foreclosed and surplus property"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "debug":"JPM",
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of land parcels and buildings sold or transferred for development and open space",
+              "fy-4":null,
+              "fy-3":null,
+              "fy-2":null,
+              "fy-1":57
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

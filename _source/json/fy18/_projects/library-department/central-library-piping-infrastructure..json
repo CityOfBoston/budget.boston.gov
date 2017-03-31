@@ -1,0 +1,41 @@
+---
+{
+  "debug":"JCD",
+  "name":"Parker Hill Library.",
+  "mission":"Exterior required maintenance to replace windows, repoint masonry walls, and repair stairs. Minor interior improvements are also planned.",
+  "managing_department":"Public Facilities Department.",
+  "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+  "status":"In Design",
+  "location":"Mission Hill",
+  "operating_impact":"Yes",
+  "expenditures_summary":[
+    {
+      "line_type":"data",
+      "line_title":"City Capital",
+      "fy-2":4224071,
+      "fy-1":4972527,
+      "fy-0":803402,
+      "fy+1":0,
+      "row_total":10000000
+    },
+    {
+      "line_type":"data",
+      "line_title":"Grants/Other",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0,
+      "row_total":0
+    },
+    {
+      "line_type":"total",
+      "line_title":"Total",
+      "fy-2":4224071,
+      "fy-1":4972527,
+      "fy-0":803402,
+      "fy+1":0,
+      "row_total":10000000
+    }
+  ]
+}
+---

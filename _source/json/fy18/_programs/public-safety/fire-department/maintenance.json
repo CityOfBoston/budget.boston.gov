@@ -1,0 +1,161 @@
+---
+{
+  "cabinet":"Public Safety",
+  "department":"Fire Department",
+  "file_version":"0.10",
+  "head_name":"John F. Walsh",
+  "head_title":"Manager",
+  "name":"Fire Department",
+  "parent":"Fire Department",
+  "parent_id":"33E75FF09DD601BBE69F351039152189",
+  "section_id":34,
+  "section_md5_id":"E369853DF766FA44E1ED0FF613F563BD",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 221500",
+  "description":"The Maintenance Program is responsible for repair and evaluation of all apparatus and other vehicles assigned to the Fire Department.  The program also evaluates, repairs, and provides supplies for the department's facilities.",
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15 Actual",
+      "fy-1":"16 Actual",
+      "fy-0":"17 Budget",
+      "fy+2":"18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":2650335,
+      "fy-1":2641369,
+      "fy-0":3061892,
+      "fy+2":3700421
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":4955912,
+      "fy-1":6496663,
+      "fy-0":4939695,
+      "fy+1":5651362
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":7606247,
+      "fy-1":9138032,
+      "fy-0":8001587,
+      "fy+1":9351783
+    }
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":2650335,
+        "fy-1":2641369,
+        "fy-0":3061892,
+        "fy+1":3700421,
+        "diff":638529
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":4378200,
+        "fy-1":5466473,
+        "fy-0":5737842,
+        "fy+1":7099146,
+        "diff":1361304
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":6939160,
+        "fy-1":8046684,
+        "fy-0":7180917,
+        "fy+1":8561221,
+        "diff":1380304
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":6941740,
+        "fy-1":8051079,
+        "fy-0":7188392,
+        "fy+1":8568766,
+        "diff":1380374
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":7606247,
+        "fy-1":9125907,
+        "fy-0":7981587,
+        "fy+1":9331783,
+        "diff":1350196
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":7606247,
+        "fy-1":9138032,
+        "fy-0":8001587,
+        "fy+1":9351783,
+        "diff":1350196
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To ensure City of Boston citizens are safe and protected from all emergencies with adequate fire fighting capacity in the field."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "debug":"JPM",
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Apparatus purchased by fiscal year.",
+              "fy-4":null,
+              "fy-3":null,
+              "fy-2":16,
+              "fy-1":13
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

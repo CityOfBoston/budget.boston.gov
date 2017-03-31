@@ -1,0 +1,251 @@
+---
+{
+  "cabinet":"Arts and Culture",
+  "department":"Library Department",
+  "file_version":"0.10",
+  "head_name":"David Leonard",
+  "head_title":"President",
+  "name":"Library Department",
+  "parent":"Library Department",
+  "parent_id":"ECCBC87E4B5CE2FE28308FD9F2A7BAF3",
+  "section_id":65,
+  "section_md5_id":"FC490CA45C00B1249BBE3554A4FDF6FB",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 110200",
+  "description":"The Community Library Services Program supports the strategic goal of the library being a center for, and facilitator of, lifelong learning.  Its objective is to assist people of various ages, backgrounds, and stages of learning through the development of a variety of materials and programs, including those designed to teach information literacy.  Support for the ReadBoston and WriteBoston initiatives is also included.",
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15 Actual",
+      "fy-1":"16 Actual",
+      "fy-0":"17 Budget",
+      "fy+2":"18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":13649655,
+      "fy-1":14076911,
+      "fy-0":14754249,
+      "fy+2":15626782
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":33519,
+      "fy-1":348266,
+      "fy-0":315000,
+      "fy+1":116576
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":13683174,
+      "fy-1":14425177,
+      "fy-0":15069249,
+      "fy+1":15743358
+    }
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":13649655,
+        "fy-1":14076911,
+        "fy-0":14754249,
+        "fy+1":15626782,
+        "diff":872533
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":13683174,
+        "fy-1":14425177,
+        "fy-0":15069249,
+        "fy+1":15724518,
+        "diff":655269
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":13683174,
+        "fy-1":14425177,
+        "fy-0":15069249,
+        "fy+1":15743358,
+        "diff":674109
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":13683174,
+        "fy-1":14425177,
+        "fy-0":15069249,
+        "fy+1":15743358,
+        "diff":674109
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":13683174,
+        "fy-1":14425177,
+        "fy-0":15069249,
+        "fy+1":15743358,
+        "diff":674109
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":13683174,
+        "fy-1":14425177,
+        "fy-0":15069249,
+        "fy+1":15743358,
+        "diff":674109
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To provide customer satisfaction through daily operations, program events, and special collection events."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "debug":"JPM",
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Average number of EBook holds",
+              "fy-4":null,
+              "fy-3":null,
+              "fy-2":null,
+              "fy-1":null
+            },
+            {
+              "line_type":"data",
+              "line_data":"Avg. rating on customer surveys (Scale- 1 to 5, 3-5 favorable)",
+              "fy-4":null,
+              "fy-3":null,
+              "fy-2":null,
+              "fy-1":3
+            },
+            {
+              "line_type":"data",
+              "line_data":"Avg. rating on program exit surveys (Scale- 1 to 5, 3-5 favorable)",
+              "fy-4":null,
+              "fy-3":null,
+              "fy-2":null,
+              "fy-1":3
+            },
+            {
+              "line_type":"data",
+              "line_data":"Library Card Daily Usage",
+              "fy-4":2559569,
+              "fy-3":3142901,
+              "fy-2":3300000,
+              "fy-1":3400000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To provide improved access to programs, services and collections."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "debug":"JPM",
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Library Reach",
+              "fy-4":null,
+              "fy-3":null,
+              "fy-2":10000000,
+              "fy-1":10000000
+            },
+            {
+              "line_type":"data",
+              "line_data":"Locations renovated in the past 10 years",
+              "fy-4":null,
+              "fy-3":null,
+              "fy-2":5,
+              "fy-1":8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To support improved youth literacy."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "debug":"JPM",
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Participants in Early Literacy Program",
+              "fy-4":null,
+              "fy-3":null,
+              "fy-2":null,
+              "fy-1":null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

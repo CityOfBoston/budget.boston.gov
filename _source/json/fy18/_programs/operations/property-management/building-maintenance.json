@@ -1,0 +1,161 @@
+---
+{
+  "cabinet":"Operations",
+  "department":"Property Management",
+  "file_version":"0.10",
+  "head_name":"James Hughes",
+  "head_title":"Manager",
+  "name":"Property Management",
+  "parent":"Property Management",
+  "parent_id":"1679091C5A880FAF6FB5E6087EB1B2DC",
+  "section_id":138,
+  "section_md5_id":"013D407166EC4FA56EB1E1F8CBE183B9",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 180200",
+  "description":"The Building Maintenance Program provides for the care and custody of Boston City Hall, municipal buildings, and historic structures.  The Program is also responsible for graffiti removal from public and private property in the City of Boston.  The program also provides maintenance support for special events and celebrations held in municipal buildings managed by the Department.",
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15 Actual",
+      "fy-1":"16 Actual",
+      "fy-0":"17 Budget",
+      "fy+2":"18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":1255390,
+      "fy-1":1320255,
+      "fy-0":1400009,
+      "fy+2":1278717
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":5421452,
+      "fy-1":5828175,
+      "fy-0":6977451,
+      "fy+1":6724980
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":6676842,
+      "fy-1":7148430,
+      "fy-0":8377460,
+      "fy+1":8003697
+    }
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":1255390,
+        "fy-1":1320255,
+        "fy-0":1400009,
+        "fy+1":1278717,
+        "diff":-121292
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":6288231,
+        "fy-1":6907288,
+        "fy-0":8167978,
+        "fy+1":7790087,
+        "diff":-377891
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":6419993,
+        "fy-1":7081686,
+        "fy-0":8343135,
+        "fy+1":7975145,
+        "diff":-367990
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":6427108,
+        "fy-1":7088856,
+        "fy-0":8355935,
+        "fy+1":7983395,
+        "diff":-372540
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":6676842,
+        "fy-1":7148430,
+        "fy-0":8377460,
+        "fy+1":8003697,
+        "diff":-373763
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":6676842,
+        "fy-1":7148430,
+        "fy-0":8377460,
+        "fy+1":8003697,
+        "diff":-373763
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To improve and maintain the operational condition of managed city-owned facilities."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "debug":"JPM",
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Data on how quickly requests are responded to. In the beginning we will focus on 2 failure codes.",
+              "fy-4":null,
+              "fy-3":null,
+              "fy-2":null,
+              "fy-1":null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

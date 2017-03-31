@@ -1,0 +1,84 @@
+---
+{
+  "cabinet":"Housing and Neighborhood Development",
+  "department":"Neighborhood Development",
+  "file_version":"0.10",
+  "head_name":"Donald Wright",
+  "head_title":"Deputy Director",
+  "name":"Real Estate Management & Sales",
+  "parent":"Neighborhood Development",
+  "parent_id":"C16A5320FA475530D9583C34FD356EF5",
+  "section_id":193,
+  "section_md5_id":"BD686FD640BE98EFAAE0091FA301E613",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 188200",
+  "description":"The Real Estate Management & Sales Program works to manage disposal of foreclosed land parcels and foreclosed buildings as quickly as possible, and  in a manner that generates revenue for the City and provides benefits to the community.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":979291,
+      "fy-1":1173232,
+      "fy-0":1011757,
+      "fy+2":883347
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":796099,
+      "fy-1":609657,
+      "fy-0":542470,
+      "fy+1":733245
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1775390,
+      "fy-1":1782889,
+      "fy-0":1554227,
+      "fy+1":1616592
+    }
+  ],
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Dispose of tax-foreclosed and surplus property"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of land parcels and buildings sold or transferred for development and open space",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":57
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

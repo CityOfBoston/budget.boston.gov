@@ -1,0 +1,41 @@
+---
+{
+  "debug":"JCD",
+  "name":"Massachusetts Avenue Bridge at Commonwealth Avenue.",
+  "mission":"Replace existing bridge structure. State and federal construction funding anticipated.",
+  "managing_department":"Public Works Department.",
+  "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+  "status":"In Construction",
+  "location":"Back Bay",
+  "operating_impact":"",
+  "expenditures_summary":[
+    {
+      "line_type":"data",
+      "line_title":"City Capital",
+      "fy-2":3239873,
+      "fy-1":40828,
+      "fy-0":0,
+      "fy+1":24896498,
+      "row_total":28177199
+    },
+    {
+      "line_type":"data",
+      "line_title":"Grants/Other",
+      "fy-2":22965,
+      "fy-1":0,
+      "fy-0":1500000,
+      "fy+1":14509601,
+      "row_total":16032566
+    },
+    {
+      "line_type":"total",
+      "line_title":"Total",
+      "fy-2":3262838,
+      "fy-1":40828,
+      "fy-0":1500000,
+      "fy+1":39406099,
+      "row_total":44209765
+    }
+  ]
+}
+---

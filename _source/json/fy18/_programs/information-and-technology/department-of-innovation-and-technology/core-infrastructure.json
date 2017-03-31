@@ -1,0 +1,214 @@
+---
+{
+  "cabinet":"Information and Technology",
+  "department":"Department of Innovation & Technology",
+  "file_version":"0.10",
+  "head_name":"Daniel Rothman",
+  "head_title":"Manager",
+  "name":"Department of Innovation & Technology",
+  "parent":"Department of Innovation & Technology",
+  "parent_id":"70EFDF2EC9B086079795C442636B55FB",
+  "section_id":131,
+  "section_md5_id":"1AFA34A7F984EEABDBB0A7D494132EE5",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 149400",
+  "description":"Core Infrastructure is responsible for the development and maintenance of City technology systems, data storage, and networks. Functional areas include server and mainframe technology, network and telecommunications, security, and electronic communication services.",
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15 Actual",
+      "fy-1":"16 Actual",
+      "fy-0":"17 Budget",
+      "fy+2":"18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":2775167,
+      "fy-1":3003560,
+      "fy-0":4471049,
+      "fy+2":4211201
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":8406453,
+      "fy-1":10279654,
+      "fy-0":7747873,
+      "fy+1":8923358
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":11181620,
+      "fy-1":13283214,
+      "fy-0":12218922,
+      "fy+1":13134559
+    }
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":2775167,
+        "fy-1":3003560,
+        "fy-0":4471049,
+        "fy+1":4211201,
+        "diff":-259848
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":4842835,
+        "fy-1":5838021,
+        "fy-0":6816049,
+        "fy+1":6309361,
+        "diff":-506688
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":4869444,
+        "fy-1":5934193,
+        "fy-0":6843049,
+        "fy+1":6309361,
+        "diff":-533688
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":8825186,
+        "fy-1":11459012,
+        "fy-0":10748049,
+        "fy+1":11809361,
+        "diff":1061312
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":11181620,
+        "fy-1":13283214,
+        "fy-0":12218922,
+        "fy+1":13134559,
+        "diff":915637
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":11181620,
+        "fy-1":13283214,
+        "fy-0":12218922,
+        "fy+1":13134559,
+        "diff":915637
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Modernizing our IT infrastructure"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "debug":"JPM",
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of non-VOIP phones",
+              "fy-4":null,
+              "fy-3":null,
+              "fy-2":null,
+              "fy-1":null
+            },
+            {
+              "line_type":"data",
+              "line_data":"% of City buildings with a \"class 1\" BoNET connection",
+              "fy-4":null,
+              "fy-3":null,
+              "fy-2":null,
+              "fy-1":null
+            },
+            {
+              "line_type":"data",
+              "line_data":"Desktop computer age",
+              "fy-4":null,
+              "fy-3":null,
+              "fy-2":5,
+              "fy-1":5
+            },
+            {
+              "line_type":"data",
+              "line_data":"IT equipment age",
+              "fy-4":null,
+              "fy-3":null,
+              "fy-2":5,
+              "fy-1":5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To provide City Hall employees with the IT tools to effectively execute their jobs"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "debug":"JPM",
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Overall customer satisfaction with IT tools and support (including equipmentsoftware available, support, wifi, phones, etc.) (out of 5)",
+              "fy-4":null,
+              "fy-3":null,
+              "fy-2":5,
+              "fy-1":5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

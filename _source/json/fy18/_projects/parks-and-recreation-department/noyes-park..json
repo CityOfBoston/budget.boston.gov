@@ -1,0 +1,41 @@
+---
+{
+  "debug":"JCD",
+  "name":"Parkman Playground.",
+  "mission":"To revitalize playground, pavilion, entrance and perimeter.",
+  "managing_department":"Parks and Recreation Department.",
+  "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+  "status":"In Construction",
+  "location":"Roslindale",
+  "operating_impact":"Yes",
+  "expenditures_summary":[
+    {
+      "line_type":"data",
+      "line_title":"City Capital",
+      "fy-2":346649,
+      "fy-1":297341,
+      "fy-0":510000,
+      "fy+1":856010,
+      "row_total":2010000
+    },
+    {
+      "line_type":"data",
+      "line_title":"Grants/Other",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0,
+      "row_total":0
+    },
+    {
+      "line_type":"total",
+      "line_title":"Total",
+      "fy-2":346649,
+      "fy-1":297341,
+      "fy-0":510000,
+      "fy+1":856010,
+      "row_total":2010000
+    }
+  ]
+}
+---

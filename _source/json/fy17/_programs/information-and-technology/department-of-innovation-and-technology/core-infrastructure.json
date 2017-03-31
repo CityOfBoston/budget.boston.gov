@@ -1,0 +1,136 @@
+---
+{
+  "cabinet":"Information and Technology",
+  "department":"Department of Innovation & Technology",
+  "file_version":"0.10",
+  "head_name":"Daniel Rothman",
+  "head_title":"Manager",
+  "name":"Core Infrastructure",
+  "parent":"Department of Innovation & Technology",
+  "parent_id":"70EFDF2EC9B086079795C442636B55FB",
+  "section_id":131,
+  "section_md5_id":"1AFA34A7F984EEABDBB0A7D494132EE5",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 149400",
+  "description":"Core Infrastructure is responsible for the development and maintenance of City technology systems, data storage, and networks. Functional areas include server and mainframe technology, network and telecommunications, security, and electronic communication services.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":2775167,
+      "fy-1":3003560,
+      "fy-0":4471049,
+      "fy+2":4211201
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":8406453,
+      "fy-1":10279654,
+      "fy-0":7747873,
+      "fy+1":8923358
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":11181620,
+      "fy-1":13283214,
+      "fy-0":12218922,
+      "fy+1":13134559
+    }
+  ],
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Modernizing our IT infrastructure"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of non-VOIP phones",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":""
+            },
+            {
+              "line_type":"data",
+              "line_data":"% of City buildings with a \"class 1\" BoNET connection",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":""
+            },
+            {
+              "line_type":"data",
+              "line_data":"Desktop computer age",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":5,
+              "fy-1":5
+            },
+            {
+              "line_type":"data",
+              "line_data":"IT equipment age",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":5,
+              "fy-1":5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To provide City Hall employees with the IT tools to effectively execute their jobs"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Overall customer satisfaction with IT tools and support (including equipment/software available, support, wifi, phones, etc.) (out of 5)",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":5,
+              "fy-1":5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

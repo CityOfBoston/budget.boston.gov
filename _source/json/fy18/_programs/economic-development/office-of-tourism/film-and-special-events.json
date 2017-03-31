@@ -1,0 +1,131 @@
+---
+{
+  "cabinet":"Economic Development",
+  "department":"Office of Tourism",
+  "file_version":"0.10",
+  "head_name":"Patricia A. Papa",
+  "head_title":"Manager",
+  "name":"Office of Tourism",
+  "parent":"Office of Tourism",
+  "parent_id":"7647966B7343C29048673252E490F736",
+  "section_id":236,
+  "section_md5_id":"01161AAA0B6D1345DD8FE4E481144D84",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 416300",
+  "description":"The Film and Special Events  program oversees the annual production of special events and public celebrations that celebrate and promote the City&rsquo;s cultural and ethnic diversity along with Boston&rsquo;s rich history and promotes Boston as a location for film and video productions by supporting the film and television industry&rsquo;s work in the City.",
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15 Actual",
+      "fy-1":"16 Actual",
+      "fy-0":"17 Budget",
+      "fy+2":"18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":320599,
+      "fy-1":313827,
+      "fy-0":368423,
+      "fy+2":370566
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":246237,
+      "fy-1":243400,
+      "fy-0":288522,
+      "fy+1":474299
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":566836,
+      "fy-1":557227,
+      "fy-0":656945,
+      "fy+1":844865
+    }
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":320599,
+        "fy-1":313827,
+        "fy-0":368423,
+        "fy+1":370566,
+        "diff":2143
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":327162,
+        "fy-1":313848,
+        "fy-0":370673,
+        "fy+1":572816,
+        "diff":202143
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":328166,
+        "fy-1":314616,
+        "fy-0":374381,
+        "fy+1":572816,
+        "diff":198435
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":369867,
+        "fy-1":350015,
+        "fy-0":436381,
+        "fy+1":634816,
+        "diff":198435
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":380381,
+        "fy-1":371044,
+        "fy-0":457410,
+        "fy+1":645330,
+        "diff":187920
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":566836,
+        "fy-1":557227,
+        "fy-0":656945,
+        "fy+1":844865,
+        "diff":187920
+      }
+    ]
+  },
+  "performance_strategies":[]
+}
+---

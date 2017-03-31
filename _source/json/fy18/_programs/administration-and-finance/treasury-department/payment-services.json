@@ -1,0 +1,131 @@
+---
+{
+  "cabinet":"Administration and Finance",
+  "department":"Treasury Department",
+  "file_version":"0.10",
+  "head_name":"Nancy Cincotti",
+  "head_title":"Manager",
+  "name":"Treasury Department",
+  "parent":"Treasury Department",
+  "parent_id":"3C59DC048E8850243BE8079A5C74D079",
+  "section_id":170,
+  "section_md5_id":"149E9677A5989FD342AE44213DF68868",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 137300",
+  "description":"The Payment Services Program processes all funds received by the City from taxpayers and City departments. It mails all current tax notices, resolves questions from taxpayers and financial institutions, provides duplicate tax bills, and processes all refunds and abatements.",
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15 Actual",
+      "fy-1":"16 Actual",
+      "fy-0":"17 Budget",
+      "fy+2":"18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":309134,
+      "fy-1":329103,
+      "fy-0":417011,
+      "fy+2":413499
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":581667,
+      "fy-1":907352,
+      "fy-0":510370,
+      "fy+1":510370
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":890801,
+      "fy-1":1236455,
+      "fy-0":927381,
+      "fy+1":923869
+    }
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":309134,
+        "fy-1":329103,
+        "fy-0":417011,
+        "fy+1":413499,
+        "diff":-3512
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":347798,
+        "fy-1":346713,
+        "fy-0":421462,
+        "fy+1":417950,
+        "diff":-3512
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":746930,
+        "fy-1":751713,
+        "fy-0":907381,
+        "fy+1":903869,
+        "diff":-3512
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":746930,
+        "fy-1":751713,
+        "fy-0":907381,
+        "fy+1":903869,
+        "diff":-3512
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":746930,
+        "fy-1":751713,
+        "fy-0":927381,
+        "fy+1":923869,
+        "diff":-3512
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":890801,
+        "fy-1":1236455,
+        "fy-0":927381,
+        "fy+1":923869,
+        "diff":-3512
+      }
+    ]
+  },
+  "performance_strategies":[]
+}
+---

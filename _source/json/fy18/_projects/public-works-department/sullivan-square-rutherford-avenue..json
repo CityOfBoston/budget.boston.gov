@@ -1,0 +1,41 @@
+---
+{
+  "debug":"JCD",
+  "name":"Alford Street Bridge.",
+  "mission":"Replace the bridge. State and federal construction funding awarded.",
+  "managing_department":"Public Works Department.",
+  "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+  "status":"In Construction",
+  "location":"Charlestown",
+  "operating_impact":"Yes",
+  "expenditures_summary":[
+    {
+      "line_type":"data",
+      "line_title":"City Capital",
+      "fy-2":13620351,
+      "fy-1":1500000,
+      "fy-0":1000000,
+      "fy+1":4000000,
+      "row_total":20120351
+    },
+    {
+      "line_type":"data",
+      "line_title":"Grants/Other",
+      "fy-2":6329,
+      "fy-1":0,
+      "fy-0":20487,
+      "fy+1":0,
+      "row_total":26816
+    },
+    {
+      "line_type":"total",
+      "line_title":"Total",
+      "fy-2":13626680,
+      "fy-1":1500000,
+      "fy-0":1020487,
+      "fy+1":4000000,
+      "row_total":20147167
+    }
+  ]
+}
+---

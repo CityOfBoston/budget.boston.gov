@@ -1,0 +1,112 @@
+---
+{
+  "cabinet":"Mayors Office",
+  "department":"Emergency Management",
+  "file_version":"0.10",
+  "head_name":"Rene Fielding",
+  "head_title":"Director",
+  "name":"Homeland Security",
+  "parent":"Emergency Management",
+  "parent_id":"2A38A4A9316C49E5A833517C45D31070",
+  "section_id":238,
+  "section_md5_id":"AC1DD209CBCC5E5D1C6E28598E8CBBE8",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 231800",
+  "description":"The Homeland Security Program advances the City&rsquo;s capability to effectively prevent, respond to and recover from incidents of terrorism and other emergency incidents, by coordinating and directing Boston&rsquo;s inter-departmental and multi-jurisdictional homeland security activities, advising the Mayor on issues, and obtaining and managing outside funding.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":260949,
+      "fy-1":119153,
+      "fy-0":121721,
+      "fy+2":129766
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":203700,
+      "fy-1":531775,
+      "fy-0":516001,
+      "fy+1":507443
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":464649,
+      "fy-1":650928,
+      "fy-0":637722,
+      "fy+1":637209
+    }
+  ],
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To have the ability to shelter 5,000 Residents."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of cots available for Mass Care Sheltering",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":2900,
+              "fy-1":5000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To provide professional development training for first responders."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of Threat and Hazard Based Trainings",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":12,
+              "fy-1":12
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

@@ -1,13 +1,13 @@
 <div class="view-places">
   <div class="view-content">
-    {% if include.arg[1][0].grid_title %}
+    {% if include.arg[0].grid_title %}
     <br />
     <div class="sh desktop-100">
-      <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">{{ include.arg[1][0].grid_title }}</h2>
+      <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">{{ include.arg[0].grid_title }}</h2>
     </div>
     <br />
     {% endif %}
-    {% for item in include.arg[1] %}
+    {% for item in include.arg %}
       {% if item.title and item.img and item.body %}
       <div class="grid-card desktop-3-col tablet-2-col mobile-1-col">
         <a href="{{ item.link }}">

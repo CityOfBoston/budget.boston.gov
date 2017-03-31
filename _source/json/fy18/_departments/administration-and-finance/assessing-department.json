@@ -1,0 +1,196 @@
+---
+{
+  "file_version":"0.10",
+  "parent_id":"NEED TO GET THIS",
+  "section_id":23,
+  "section_md5_id":"37693CFC748049E45D87B8C7D8B9AACD",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "name":"Assessing Department",
+  "parent":"Administration and Finance",
+  "cabinet":"Administration and Finance",
+  "department":"Assessing Department",
+  "head_name":"Ronald W. Rakow",
+  "head_title":"Commissioner",
+  "appropriation_code":"Appropriation 136",
+  "mission":"The mission of the Assessing Department is to accurately assess property and provide prompt and courteous responses to requests for service from the public.",
+  "selected_performance_strategies":{
+    "program":"Executive",
+    "strategies":[
+      "To resolve taxpayer inquiries responsively and quickly."
+    ]
+  },
+  "operating_budget":{
+    "debug":"JPTR",
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "Program Name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+2":"FY18 Budget"
+    },
+    "data":[
+      {
+        "line_title":"Assessing Operations",
+        "line_type":"data",
+        "fy-2":1932134,
+        "fy-1":2083229,
+        "fy-0":2141195,
+        "fy+2":2031298
+      },
+      {
+        "line_title":"Valuation",
+        "line_type":"data",
+        "fy-2":3285108,
+        "fy-1":3628264,
+        "fy-0":3801613,
+        "fy+2":3865485
+      },
+      {
+        "line_title":"Executive",
+        "line_type":"data",
+        "fy-2":1129196,
+        "fy-1":1391991,
+        "fy-0":1257069,
+        "fy+2":1295901
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":6346438,
+        "fy-1":7103484,
+        "fy-0":7199877,
+        "fy+2":7192684
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15 Actual",
+      "fy-1":"16 Actual",
+      "fy-0":"17 Budget",
+      "fy+2":"18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":5910905,
+      "fy-1":6220572,
+      "fy-0":6588411,
+      "fy+2":6579204
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":435533,
+      "fy-1":882912,
+      "fy-0":611466,
+      "fy+1":613480
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":6346438,
+      "fy-1":7103484,
+      "fy-0":7199877,
+      "fy+1":7192684
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Organizations, CBC St. 6 §§ 100-107; CBC Ord. §§ 6-2.1-6-2.5.",
+    "Taxation, M.G.L.A. cc. 59, 60A-B, 61A-B, 121A.",
+    "Abatement of Back Taxes, M.G.L.A. c. 58, § 8.",
+    "Classification, M.G.L.A. c.59, § 2A; M.G.L.A. c. 40, § 56.",
+    "Annual Assessment, M.G.L.A. c. 59 § 21C.",
+    "Proposition 2 12, M.G.L.A. c. 59 § 21C.",
+    "Cherry Sheets - State Aid, M.G.L.A. c. 58, §§ 18B, 18C, 18F, 20A, 25, 25A; M.G.L.A. c. 29, §§ 2O, 71."
+  ],
+  "description_of_services":[
+    "The Assessing Department is responsible for the valuation and assessment of all real and personal property in the City of Boston for the purpose of taxation. Assessment records are reviewed annually to reflect new construction, fire damage, and changes in ownership. The department conducts a revaluation program every three years. The department conducts research on assessment practices and provides the necessary accounting control and other related clerical support to properly assess real and personal property. The department maintains official maps, records of assessment and ownership, abatements and related property description data."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":5910905,
+        "fy-1":6220572,
+        "fy-0":6588411,
+        "fy+1":6579204,
+        "diff":-9207
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":6186290,
+        "fy-1":6859272,
+        "fy-0":7037511,
+        "fy+1":7025564,
+        "diff":-11947
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":6230808,
+        "fy-1":6984239,
+        "fy-0":7086227,
+        "fy+1":7072284,
+        "diff":-13943
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":6335016,
+        "fy-1":7103484,
+        "fy-0":7199877,
+        "fy+1":7192684,
+        "diff":-7193
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":6346438,
+        "fy-1":7103484,
+        "fy-0":7199877,
+        "fy+1":7192684,
+        "diff":-7193
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":6346438,
+        "fy-1":7103484,
+        "fy-0":7199877,
+        "fy+1":7192684,
+        "diff":-7193
+      }
+    ]
+  }
+}
+---

@@ -1,0 +1,393 @@
+---
+{
+  "cabinet":"Arts and Culture",
+  "department":"Library Department.",
+  "file_version":"0.10",
+  "head_name":null,
+  "head_title":null,
+  "name":"Library Department.",
+  "parent":"Library Department.",
+  "parent_id":"ECCBC87E4B5CE2FE28308FD9F2A7BAF3",
+  "section_id":3,
+  "section_md5_id":"ECCBC87E4B5CE2FE28308FD9F2A7BAF3",
+  "section_type":"projects",
+  "section_type_short":"R",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "description":"The City is committed to investing in reinvigorating its branch libraries, an important cultural attraction in neighborhoods across the city. Fiscal year 2018 capital investments will further enhance the Boston Public Library by continuing to preserve existing buildings and build new library spaces to provide better services for all.",
+  "vol1_category_copy":"NEED SOURCE LOCATION FOR THIS DATA",
+  "selected_performance_strategies":[
+    {
+      "program":"NEED SOURCE LOCATION FOR THIS DATA",
+      "strategies":[
+        "NEED SOURCE LOCATION FOR THIS DATA"
+      ]
+    }
+  ],
+  "overview":"The City is committed to investing in reinvigorating its branch libraries, an important cultural attraction in neighborhoods across the city. Fiscal year 2018 capital investments will further enhance the Boston Public Library by continuing to preserve existing buildings and build new library spaces to provide better services for all.",
+  "projects":[
+    {
+      "debug":"JCD",
+      "name":"Uphams Corner Library.",
+      "mission":"Site acquisition, design, construction, and furnishings for the development of a new branch library.",
+      "managing_department":"Public Facilities Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"To Be Scheduled",
+      "location":"Dorchester",
+      "operating_impact":"",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":8373,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":12616627,
+          "row_total":12625000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":8373,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":12616627,
+          "row_total":12625000
+        }
+      ]
+    },
+    {
+      "debug":"JCD",
+      "name":"Parker Hill Library.",
+      "mission":"Exterior required maintenance to replace windows, repoint masonry walls, and repair stairs. Minor interior improvements are also planned.",
+      "managing_department":"Public Facilities Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"In Design",
+      "location":"Mission Hill",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":4224071,
+          "fy-1":4972527,
+          "fy-0":803402,
+          "fy+1":0,
+          "row_total":10000000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":4224071,
+          "fy-1":4972527,
+          "fy-0":803402,
+          "fy+1":0,
+          "row_total":10000000
+        }
+      ]
+    },
+    {
+      "debug":"JCD",
+      "name":"Central Library Piping Infrastructure.",
+      "mission":"Replace and update piping infrastructure including small diameter hot water piping, chilled water, steam and condensate return piping and related valves in the Johnson and McKim buildings.",
+      "managing_department":"Public Facilities Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"To Be Scheduled",
+      "location":"Back Bay",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":0,
+          "fy-1":250000,
+          "fy-0":6296250,
+          "fy+1":8171750,
+          "row_total":14718000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":0,
+          "fy-1":250000,
+          "fy-0":6296250,
+          "fy+1":8171750,
+          "row_total":14718000
+        }
+      ]
+    },
+    {
+      "debug":"JCD",
+      "name":"Central Library Johnson Roof Replacement.",
+      "mission":"Replace all low sloped roofing and flashing, repair or replace existing slate roofing material, and replace pyramid style skylights.",
+      "managing_department":"Public Facilities Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"To Be Scheduled",
+      "location":"Back Bay",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":0,
+          "fy-1":50000,
+          "fy-0":25000,
+          "fy+1":0,
+          "row_total":75000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":0,
+          "fy-1":50000,
+          "fy-0":25000,
+          "fy+1":0,
+          "row_total":75000
+        }
+      ]
+    },
+    {
+      "debug":"JCD",
+      "name":"Roslindale Branch Library Renovation.",
+      "mission":"A comprehensive building renovation will enrich library services and visitor experience through improved spatial definition, a fully accessible facility, improve signage and increase energy efficiency.",
+      "managing_department":"Public Facilities Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"In Design",
+      "location":"Roslindale",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":0,
+          "fy-1":50000,
+          "fy-0":50000,
+          "fy+1":0,
+          "row_total":100000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":0,
+          "fy-1":50000,
+          "fy-0":50000,
+          "fy+1":0,
+          "row_total":100000
+        }
+      ]
+    },
+    {
+      "debug":"JCD",
+      "name":"Adams Street Branch Library.",
+      "mission":"Design and construct a new branch library. Develop a building program that reflects the Boston Public Librarys Compass Principles and supports the needs of the neighborhood.",
+      "managing_department":"Public Facilities Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"Study Underway",
+      "location":"Dorchester",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":4183,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":1470817,
+          "row_total":1475000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":4183,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":1470817,
+          "row_total":1475000
+        }
+      ]
+    },
+    {
+      "debug":"JCD",
+      "name":"Egleston Square Branch Library.",
+      "mission":"Assess the existing interior and exterior physical conditions and systems according to how ably the branch can accomplish the Compass principles; develop and implement an improvement plan.",
+      "managing_department":"Public Facilities Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"To Be Scheduled",
+      "location":"Roxbury",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":100000,
+          "fy+1":12000000,
+          "row_total":12100000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":100000,
+          "fy+1":12000000,
+          "row_total":12100000
+        }
+      ]
+    },
+    {
+      "debug":"JCD",
+      "name":"Central Library Rare Books and Manuscripts Department.",
+      "mission":"A renovation project at the Central Library in Copley Square to help preserve its historic special collections in Rare Books and Manuscripts.",
+      "managing_department":"Public Facilities Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"New Project",
+      "location":"Back Bay",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":132000,
+          "fy+1":0,
+          "row_total":132000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":132000,
+          "fy+1":0,
+          "row_total":132000
+        }
+      ]
+    },
+    {
+      "debug":"JCD",
+      "name":"Lower Mills Branch Library Improvements.",
+      "mission":"An interior reconfiguration project which will include major electrical and telecommunications data upgrades, paint, carpet, and circulation upgrades.",
+      "managing_department":"Library Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"New Project",
+      "location":"Dorchester",
+      "operating_impact":"Yes",
+      "expenditures_summary":[
+        {
+          "line_type":"data",
+          "line_title":"City Capital",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":99000,
+          "fy+1":0,
+          "row_total":99000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":0,
+          "fy+1":0,
+          "row_total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Total",
+          "fy-2":0,
+          "fy-1":0,
+          "fy-0":99000,
+          "fy+1":0,
+          "row_total":99000
+        }
+      ]
+    },
+    {
+      "debug":"JCD",
+      "name":"West Roxbury Branch Library Improvements.",
+      "mission":"An interior reconfiguration project which will include carpet, paint, furniture and minor telecommunications and electrical upgrades.  The project will also leverage private funding for remodeling the meeting room.",
+      "managing_department":"Library Department.",
+      "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+      "status":"New Project",
+      "location":"West Roxbury",
+      "operating_impact":"Yes",
+      "expenditures_summary":[]
+    }
+  ]
+}
+---

@@ -1,0 +1,40 @@
+---
+{
+  "name":"Dudley Street.",
+  "mission":"Roadway improvements from Shawmut Avenue to Harrison Avenue including six key Dudley Square intersections. The scope of work includes geometric changes, new traffic signal equipment and timing, bike lanes, and streetscape improvements.",
+  "managing_department":"Transportation Department.",
+  "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+  "status":"In Design",
+  "location":"Roxbury",
+  "operating_impact":"Yes",
+  "expenditures_summary":[
+    {
+      "line_type":"data",
+      "line_title":"City Capital",
+      "fy-2":440199,
+      "fy-1":319802,
+      "fy-0":0,
+      "fy+1":0,
+      "row_total":760000
+    },
+    {
+      "line_type":"data",
+      "line_title":"Grants/Other",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":700000,
+      "fy+1":640000,
+      "row_total":1340000
+    },
+    {
+      "line_type":"total",
+      "line_title":"Total",
+      "fy-2":440199,
+      "fy-1":319802,
+      "fy-0":700000,
+      "fy+1":640000,
+      "row_total":2100000
+    }
+  ]
+}
+---

@@ -1,0 +1,100 @@
+---
+{
+  "cabinet":"Administration and Finance",
+  "department":"Budget Management",
+  "file_version":"0.10",
+  "head_name":"James M. Williamson",
+  "head_title":"Manager",
+  "name":"Budget & Management",
+  "parent":"Budget Management",
+  "parent_id":"54229ABFCFA5649E7003B83DD4755294",
+  "section_id":241,
+  "section_md5_id":"F340F1B1F65B6DF5B5E3F94D95B11DAF",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 141200",
+  "description":"The Budget & Management Program is responsible for the development and implementation of the City's operating budget.  Program staff analyze program and fiscal management issues throughout City government.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":530794,
+      "fy-1":550182,
+      "fy-0":607790,
+      "fy+2":577489
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":800,
+      "fy-1":1300,
+      "fy-0":202900,
+      "fy+1":264900
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":531594,
+      "fy-1":551482,
+      "fy-0":810690,
+      "fy+1":842389
+    }
+  ],
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Improve use of limited city resources."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% achieved of savings identified in budget process",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":""
+            },
+            {
+              "line_type":"data",
+              "line_data":"% of new investments implemented",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":""
+            },
+            {
+              "line_type":"data",
+              "line_data":"New healthcare savings achieved through the Public Employee Committee (PEC)",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

@@ -1,0 +1,41 @@
+---
+{
+  "debug":"JCD",
+  "name":"RFLMP Black Falcon Avenue and Terminal Street.",
+  "mission":"Resurface Black Falcon Avenue and Terminal Street. Replace sidewalk and improve street lighting.",
+  "managing_department":"BPDA.",
+  "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+  "status":"To Be Scheduled",
+  "location":"South Boston",
+  "operating_impact":"",
+  "expenditures_summary":[
+    {
+      "line_type":"data",
+      "line_title":"City Capital",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":250000,
+      "fy+1":0,
+      "row_total":250000
+    },
+    {
+      "line_type":"data",
+      "line_title":"Grants/Other",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0,
+      "row_total":0
+    },
+    {
+      "line_type":"total",
+      "line_title":"Total",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":250000,
+      "fy+1":0,
+      "row_total":250000
+    }
+  ]
+}
+---

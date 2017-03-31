@@ -1,0 +1,41 @@
+---
+{
+  "debug":"JCD",
+  "name":"Cambridge Street Bridge.",
+  "mission":"Rehabilitate bridge, performing repairs as needed.",
+  "managing_department":"Public Works Department.",
+  "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+  "status":"To Be Scheduled",
+  "location":"Charlestown",
+  "operating_impact":"Yes",
+  "expenditures_summary":[
+    {
+      "line_type":"data",
+      "line_title":"City Capital",
+      "fy-2":1126203,
+      "fy-1":2039407,
+      "fy-0":0,
+      "fy+1":302633,
+      "row_total":3468243
+    },
+    {
+      "line_type":"data",
+      "line_title":"Grants/Other",
+      "fy-2":1498448,
+      "fy-1":2101153,
+      "fy-0":2000000,
+      "fy+1":21000000,
+      "row_total":26599601
+    },
+    {
+      "line_type":"total",
+      "line_title":"Total",
+      "fy-2":2624651,
+      "fy-1":4140560,
+      "fy-0":2000000,
+      "fy+1":21302633,
+      "row_total":30067844
+    }
+  ]
+}
+---

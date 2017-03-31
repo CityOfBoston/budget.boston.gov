@@ -1,0 +1,167 @@
+---
+{
+  "file_version":"0.10",
+  "parent_id":"NEED TO GET THIS",
+  "section_id":71,
+  "section_md5_id":"E2C420D928D4BF8CE0FF2EC19B371514",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "name":"Snow Removal",
+  "parent":"Streets",
+  "cabinet":"Streets",
+  "department":"Snow Removal",
+  "head_name":"*NULL NO DATA*",
+  "head_title":"*NULL NO DATA*",
+  "appropriation_code":"Appropriation 331",
+  "mission":"The Snow Removal appropriation supports the City of Bostons efforts to clear ice and snow from Boston streets and property. Snow removal is done by City personnel supplemented and assisted by private contractors.",
+  "operating_budget":{
+    "debug":"JPTR",
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "Program Name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+2":"FY18 Budget"
+    },
+    "data":[
+      {
+        "line_title":"Removal of Snow",
+        "line_type":"data",
+        "fy-2":38453034,
+        "fy-1":14785551,
+        "fy-0":22563964,
+        "fy+2":22563964
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":38453034,
+        "fy-1":14785551,
+        "fy-0":22563964,
+        "fy+2":22563964
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15 Actual",
+      "fy-1":"16 Actual",
+      "fy-0":"17 Budget",
+      "fy+2":"18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+2":0
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":38453034,
+      "fy-1":14785551,
+      "fy-0":22563964,
+      "fy+1":22563964
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":38453034,
+      "fy-1":14785551,
+      "fy-0":22563964,
+      "fy+1":22563964
+    }
+  ],
+  "authorizing_statutes":[
+    "Vehicles Interfering with the Removal of Snow, CBC Ord. § 11-6.43."
+  ],
+  "description_of_services":[
+    "The appropriation provides for the purchase of salt and sand, plowing and hauling of snow by contractors, purchase and repair of snow removal equipment, and financing for regular City personnel engaged in snow removal operations after normal working hours."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":38257391,
+        "fy-1":14688846,
+        "fy-0":22119592,
+        "fy+1":22178292,
+        "diff":58700
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":38257391,
+        "fy-1":14688846,
+        "fy-0":22119592,
+        "fy+1":22230292,
+        "diff":110700
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":38257391,
+        "fy-1":14688846,
+        "fy-0":22119592,
+        "fy+1":22230292,
+        "diff":110700
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":38453034,
+        "fy-1":14785551,
+        "fy-0":22563964,
+        "fy+1":22563964,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":38453034,
+        "fy-1":14785551,
+        "fy-0":22563964,
+        "fy+1":22563964,
+        "diff":0
+      }
+    ]
+  }
+}
+---

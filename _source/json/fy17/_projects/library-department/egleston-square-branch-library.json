@@ -1,0 +1,40 @@
+---
+{
+  "name":"Adams Street Branch Library.",
+  "mission":"Design and construct a new branch library. Develop a building program that reflects the Boston Public Library's Compass Principles and supports the needs of the neighborhood.",
+  "managing_department":"Public Facilities Department.",
+  "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+  "status":"Study Underway",
+  "location":"Dorchester",
+  "operating_impact":"Yes",
+  "expenditures_summary":[
+    {
+      "line_type":"data",
+      "line_title":"City Capital",
+      "fy-2":4183,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":1470817,
+      "row_total":1475000
+    },
+    {
+      "line_type":"data",
+      "line_title":"Grants/Other",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0,
+      "row_total":0
+    },
+    {
+      "line_type":"total",
+      "line_title":"Total",
+      "fy-2":4183,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":1470817,
+      "row_total":1475000
+    }
+  ]
+}
+---

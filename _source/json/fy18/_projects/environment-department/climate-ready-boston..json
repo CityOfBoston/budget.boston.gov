@@ -1,0 +1,41 @@
+---
+{
+  "debug":"JCD",
+  "name":"Renew Boston Trust.",
+  "mission":"Identify energy retrofit project opportunities in City owned buildings that are self-financed by future energy savings. The City will implement the program through contracts with Energy Service Companies (ESCOs) that will guarantee the energy savings.",
+  "managing_department":"Environment Department.",
+  "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+  "status":"Implementation Underway",
+  "location":"Citywide",
+  "operating_impact":"",
+  "expenditures_summary":[
+    {
+      "line_type":"data",
+      "line_title":"City Capital",
+      "fy-2":0,
+      "fy-1":38400,
+      "fy-0":386600,
+      "fy+1":0,
+      "row_total":425000
+    },
+    {
+      "line_type":"data",
+      "line_title":"Grants/Other",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0,
+      "row_total":0
+    },
+    {
+      "line_type":"total",
+      "line_title":"Total",
+      "fy-2":0,
+      "fy-1":38400,
+      "fy-0":386600,
+      "fy+1":0,
+      "row_total":425000
+    }
+  ]
+}
+---

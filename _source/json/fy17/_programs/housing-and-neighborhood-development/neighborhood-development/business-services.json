@@ -1,0 +1,55 @@
+---
+{
+  "cabinet":"Housing and Neighborhood Development",
+  "department":"Neighborhood Development",
+  "file_version":"0.10",
+  "head_name":Null,
+  "head_title":Null,
+  "name":"Business Services",
+  "parent":"Neighborhood Development",
+  "parent_id":"C16A5320FA475530D9583C34FD356EF5",
+  "section_id":199,
+  "section_md5_id":"84D9EE44E457DDEF7F2C4F25DC8FA865",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 188500",
+  "description":"The Business Services Program will be transferred to the Economic Development Department in FY17.",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":192565,
+      "fy-1":289672,
+      "fy-0":0,
+      "fy+2":0
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":369801,
+      "fy-1":390807,
+      "fy-0":0,
+      "fy+1":0
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":562366,
+      "fy-1":680479,
+      "fy-0":0,
+      "fy+1":0
+    }
+  ],
+  "performance_strategies":[]
+}
+---

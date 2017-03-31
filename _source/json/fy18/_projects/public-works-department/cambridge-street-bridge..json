@@ -1,0 +1,41 @@
+---
+{
+  "debug":"JCD",
+  "name":"Hyde Square.",
+  "mission":"Reconstruction of Centre Street to include increased sidewalk space, traffic and pedestrian safety improvements, new lighting, landscaping, and the installation of public art.",
+  "managing_department":"Public Works Department.",
+  "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+  "status":"In Construction",
+  "location":"Jamaica Plain",
+  "operating_impact":"Yes",
+  "expenditures_summary":[
+    {
+      "line_type":"data",
+      "line_title":"City Capital",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0,
+      "row_total":0
+    },
+    {
+      "line_type":"data",
+      "line_title":"Grants/Other",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":2320000,
+      "fy+1":1500000,
+      "row_total":3820000
+    },
+    {
+      "line_type":"total",
+      "line_title":"Total",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":2320000,
+      "fy+1":1500000,
+      "row_total":3820000
+    }
+  ]
+}
+---

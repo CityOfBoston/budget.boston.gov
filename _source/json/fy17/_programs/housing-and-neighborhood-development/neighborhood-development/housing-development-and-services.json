@@ -1,0 +1,256 @@
+---
+{
+  "cabinet":"Housing and Neighborhood Development",
+  "department":"Neighborhood Development",
+  "file_version":"0.10",
+  "head_name":"Elizabeth Doyle, Theresa Gallagher, Lydia Edwards",
+  "head_title":"Deputy Directors",
+  "name":"Housing Development & Services",
+  "parent":"Neighborhood Development",
+  "parent_id":"C16A5320FA475530D9583C34FD356EF5",
+  "section_id":57,
+  "section_md5_id":"72B32A1F754BA1C09B3695E0CB6CDE7F",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 188300",
+  "description":"DND's Housing Development and Services programs support a wide range of housing creation and support activities that strive to make Boston the most livable city in the nation. This is accomplished through the work of the Boston Home Center (BHC), Neighborhood Housing Development (NHD), and the Supportive Housing (SH) divisions.  BHC is designed to help Boston residents obtain, retain, and improve their homes.  NHD works with non-profit and for-profit partners to develop and preserve affordable housing.  SH provides funding for housing and supportive services for Boston&rsquo;s homeless and those at risk of homelessness.\r\nIn 2014, Mayor Walsh announced his Boston 2030 plan which outlines a new comprehensive approach to accommodating Boston's complex housing needs over the next 15 years.   Funding committed for the new plan has been renamed the &ldquo;Housing 2030 Fund&ldquo;; which is included in the Neighborhood Development Operating Budget in &ldquo;Program 3. Housing Development and Services.&ldquo;;",
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":705996,
+      "fy-1":584012,
+      "fy-0":861914,
+      "fy+2":864926
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":10910,
+      "fy-1":7262230,
+      "fy-0":8926361,
+      "fy+1":8932595
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":716906,
+      "fy-1":7846242,
+      "fy-0":9788275,
+      "fy+1":9797521
+    }
+  ],
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Assist existing homeowners in retaining their homes"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of homeowners assisted with foreclosure prevention counseling",
+              "fy-4":304,
+              "fy-3":256,
+              "fy-2":262,
+              "fy-1":300
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Assist tenants and landlords to preserve their tenancies"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of housing-insecure households placed in permanent housing",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":200
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of potential evictions averted",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Ensure growth and affordability in Boston's Housing Market"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of low income housing units permitted (Deed restricted and IDP)",
+              "fy-4":"",
+              "fy-3":"",
+              "fy-2":"",
+              "fy-1":325
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of middle income housing units permitted (Deed restricted and market)",
+              "fy-4":"",
+              "fy-3":1100,
+              "fy-2":1000,
+              "fy-1":1000
+            },
+            {
+              "line_type":"data",
+              "line_data":"Total # of net new housing units permitted",
+              "fy-4":"",
+              "fy-3":3195,
+              "fy-2":2650,
+              "fy-1":2650
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Foster Homeownership in Boston Neighborhoods"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of homebuyers assisted with down payment assistance",
+              "fy-4":76,
+              "fy-3":85,
+              "fy-2":100,
+              "fy-1":110
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Help Homeowners Improve their Homes and Communities"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of homeowners assisted through the home repair and rehab program",
+              "fy-4":2188,
+              "fy-3":1976,
+              "fy-2":2050,
+              "fy-1":1920
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Provide assistance towards ending homelessness in Boston"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-4":"15 Actual",
+            "fy-3":"16 Actual",
+            "fy-2":"17 Projected",
+            "fy-1":"18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of chronically homeless individuals placed in permanent housing",
+              "fy-4":97,
+              "fy-3":100,
+              "fy-2":204,
+              "fy-1":200
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of homeless veterans placed in permanent housing",
+              "fy-4":184,
+              "fy-3":254,
+              "fy-2":210,
+              "fy-1":200
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

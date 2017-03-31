@@ -1,0 +1,131 @@
+---
+{
+  "cabinet":"Environment, Energy and Open Space",
+  "department":"Parks & Recreation Department",
+  "file_version":"0.10",
+  "head_name":"Michael Devlin",
+  "head_title":"Manager",
+  "name":"Parks & Recreation Department",
+  "parent":"Parks & Recreation Department",
+  "parent_id":"A87FF679A2F3E71D9181A67B7542122C",
+  "section_id":270,
+  "section_md5_id":"39059724F73A9969845DFE4146C5660E",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 300300",
+  "description":"The Citywide Recreation Program offers youth athletic programs, clinics, and camps in neighborhood parks citywide, as well as local community centers in partnership with Boston Centers for Youth & Families. The program offers a variety of healthy activities and events including golf lessons, the All Girls Sports Festival, Sox Talks with Boston Red Sox players and coaches, Boston Neighborhood Basketball League games, Mayor&rsquo;s Cup baseball, cross country, golf, hockey, soccer, and softball tournaments, and much more.\r\n\r\n*The Citywide Recreation Program was included in Boston Centers for Youth and Families&rsquo; budget prior to FY16.",
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15 Actual",
+      "fy-1":"16 Actual",
+      "fy-0":"17 Budget",
+      "fy+2":"18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":780632,
+      "fy-0":785192,
+      "fy+2":802545
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":209629,
+      "fy-0":230240,
+      "fy+1":223468
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":0,
+      "fy-1":990261,
+      "fy-0":1015432,
+      "fy+1":1026013
+    }
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":0,
+        "fy-1":780632,
+        "fy-0":785192,
+        "fy+1":802545,
+        "diff":17353
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":0,
+        "fy-1":848563,
+        "fy-0":870206,
+        "fy+1":840831,
+        "diff":-29375
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":0,
+        "fy-1":876314,
+        "fy-0":886706,
+        "fy+1":897331,
+        "diff":10625
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":0,
+        "fy-1":985272,
+        "fy-0":1002122,
+        "fy+1":1004412,
+        "diff":2290
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":0,
+        "fy-1":990261,
+        "fy-0":1015432,
+        "fy+1":1026013,
+        "diff":10581
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":0,
+        "fy-1":990261,
+        "fy-0":1015432,
+        "fy+1":1026013,
+        "diff":10581
+      }
+    ]
+  },
+  "performance_strategies":[]
+}
+---

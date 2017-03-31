@@ -1,0 +1,174 @@
+---
+{
+  "file_version":"0.10",
+  "parent_id":"NEED TO GET THIS",
+  "section_id":27,
+  "section_md5_id":"02E74F10E0327AD868D138F2B4FDD6F0",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "name":"Labor Relations",
+  "parent":"Administration and Finance",
+  "cabinet":"Administration and Finance",
+  "department":"Labor Relations",
+  "head_name":"Alexis Finneran-Tkachuk",
+  "head_title":"Director",
+  "appropriation_code":"Appropriation 147",
+  "mission":"The mission of the Office of Labor Relations is to create and promote a productive work environment that fosters an efficient and effective relationship between labor and management.",
+  "selected_performance_strategies":{
+    "program":"Labor Relations",
+    "strategies":[
+      "To negotiate labor contracts and meet other bargaining obligations with the Citys labor unions."
+    ]
+  },
+  "operating_budget":{
+    "debug":"JPTR",
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "Program Name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+2":"FY18 Budget"
+    },
+    "data":[
+      {
+        "line_title":"Labor Relations",
+        "line_type":"data",
+        "fy-2":1364177,
+        "fy-1":1310607,
+        "fy-0":1424077,
+        "fy+2":1439006
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":1364177,
+        "fy-1":1310607,
+        "fy-0":1424077,
+        "fy+2":1439006
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15 Actual",
+      "fy-1":"16 Actual",
+      "fy-0":"17 Budget",
+      "fy+2":"18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":757866,
+      "fy-1":724732,
+      "fy-0":826611,
+      "fy+2":839954
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":606311,
+      "fy-1":585875,
+      "fy-0":597466,
+      "fy+1":599052
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1364177,
+      "fy-1":1310607,
+      "fy-0":1424077,
+      "fy+1":1439006
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Duties of Supervisor of Labor Relations, CBC Ord. 5, s. 4."
+  ],
+  "description_of_services":[
+    "The Office of Labor Relations represents the Mayor and City departments in all labor relations matters before state and federal courts, state agencies, and in various other forums. The Office is responsible for negotiating and administering collective bargaining agreements with approximately 19 unions covering 7,200 employees. Additionally, the Office advises City managers and supervisors on labor matters regarding policy issues."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":757866,
+        "fy-1":724732,
+        "fy-0":826611,
+        "fy+1":839954,
+        "diff":13343
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":1326887,
+        "fy-1":1274158,
+        "fy-0":1386784,
+        "fy+1":1401713,
+        "diff":14929
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":1330135,
+        "fy-1":1278144,
+        "fy-0":1391134,
+        "fy+1":1406063,
+        "diff":14929
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":1356694,
+        "fy-1":1305319,
+        "fy-0":1424077,
+        "fy+1":1439006,
+        "diff":14929
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":1364177,
+        "fy-1":1310607,
+        "fy-0":1424077,
+        "fy+1":1439006,
+        "diff":14929
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":1364177,
+        "fy-1":1310607,
+        "fy-0":1424077,
+        "fy+1":1439006,
+        "diff":14929
+      }
+    ]
+  }
+}
+---

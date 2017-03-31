@@ -1,0 +1,40 @@
+---
+{
+  "name":"Commonwealth Avenue Phase 2A.",
+  "mission":"Improve roadway between Amory Street and Alcorn Street by upgrading pavement and drainage conditions, improving facilities for bikes and pedestrians and widening the MBTA reservation. State and federal construction funds are anticipated.",
+  "managing_department":"Transportation Department.",
+  "investment_category":"NEED SOURCE LOCATION FOR THIS DATA",
+  "status":"In Construction",
+  "location":"Allston/Brighton",
+  "operating_impact":"Yes",
+  "expenditures_summary":[
+    {
+      "line_type":"data",
+      "line_title":"City Capital",
+      "fy-2":0,
+      "fy-1":1975000,
+      "fy-0":575000,
+      "fy+1":0,
+      "row_total":2550000
+    },
+    {
+      "line_type":"data",
+      "line_title":"Grants/Other",
+      "fy-2":441922,
+      "fy-1":5558078,
+      "fy-0":4500000,
+      "fy+1":18000000,
+      "row_total":28500000
+    },
+    {
+      "line_type":"total",
+      "line_title":"Total",
+      "fy-2":441922,
+      "fy-1":7533078,
+      "fy-0":5075000,
+      "fy+1":18000000,
+      "row_total":31050000
+    }
+  ]
+}
+---
