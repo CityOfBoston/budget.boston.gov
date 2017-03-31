@@ -15,7 +15,7 @@
   "source_version":"Recommended",
   "source_year":"18",
   "mission":[
-    "The mission of the Public Works Department is to provide a quality environment for the City of Boston and ensure that the City's roadways, streets and bridge infrastructures are safe, clean and attractive. The Public Works Department also maintains street"
+    "This Capital Plan invests deeply in the core goals of Go Boston 2030: streets that are safer for all users of our roads and sidewalks, particularly pedestrians and cyclists; travel that is more reliable and predictable, and quality transportation choices"
   ],
   "description_of_services":[
     "The Public Works Department directs the general construction, maintenance, and cleaning of approximately 802 miles of roadways throughout the City. It also provides snow and ice control for all City streets. In addition, it operates two major drawbridges, maintains 68,055 City-owned street lights, and supervises contracts for the removal and disposal of approximately 260,000 tons of solid waste. The Department also operates the City's recycling program with an annual diversion of approximately 50,000 tons."
@@ -55,8 +55,8 @@
         "line_data_type":"string",
         "fy-2":"FY15 Actual",
         "fy-1":"FY16 Actual",
-        "fy-0":"FY17 Estimated",
-        "fy+2":"FY18 Projected"
+        "fy-0":"FY17 Budget",
+        "fy+1":"FY18 Budget"
       },
       "data":{
         "line_type":"total",

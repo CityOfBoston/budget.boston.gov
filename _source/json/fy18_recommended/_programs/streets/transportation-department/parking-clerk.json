@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Streets",
-  "department":"Transportation Department",
+  "department":"transportation-department",
   "file_version":"0.10",
   "head_name":"Stephen McGuire",
   "head_title":"Manager",
   "name":"Parking Clerk",
-  "parent":"Transportation Department",
+  "parent":"transportation-department",
   "section_id":180,
   "section_md5_id":"045117B0E0A11A242B9765E79CBF113F",
   "section_type":"program",
@@ -25,7 +25,7 @@
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
       "fy-0":"FY17 Budget",
-      "fy+2":"FY18 Budget"
+      "fy+1":"FY18 Budget"
     },
     {
       "line_title":"Personnel Services",
@@ -33,7 +33,7 @@
       "fy-2":2819918,
       "fy-1":2737077,
       "fy-0":2787023,
-      "fy+2":2787527
+      "fy+1":2787527
     },
     {
       "line_title":"Non Personnel",
@@ -57,7 +57,7 @@
     "table_header":{
       "line_type":"title",
       "fy-2":"FY15 Expenditure",
-      "fy-1":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",
       "fy+1":"FY18 Recommended",
       "diff":"Inc/Dec 17 vs 18"
@@ -82,7 +82,7 @@
         "diff":100344
       },
       {
-        "line_title":"Supplies & Materials",
+        "line_title":"Supplies and Materials",
         "line_type":"data",
         "fy-2":227145,
         "fy-1":328990,
@@ -91,7 +91,7 @@
         "diff":30000
       },
       {
-        "line_title":"Current Chgs & Oblig",
+        "line_title":"Current Chgs and Oblig",
         "line_type":"data",
         "fy-2":2214,
         "fy-1":6645,

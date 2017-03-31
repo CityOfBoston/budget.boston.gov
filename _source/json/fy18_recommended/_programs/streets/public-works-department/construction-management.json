@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Streets",
-  "department":"Public Works Department",
+  "department":"public-works-department",
   "file_version":"0.10",
   "head_name":"Katie Choe",
   "head_title":"Manager",
   "name":"Construction Management",
-  "parent":"Public Works Department",
+  "parent":"public-works-department",
   "section_id":6,
   "section_md5_id":"1679091C5A880FAF6FB5E6087EB1B2DC",
   "section_type":"program",
@@ -25,7 +25,7 @@
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
       "fy-0":"FY17 Budget",
-      "fy+2":"FY18 Budget"
+      "fy+1":"FY18 Budget"
     },
     {
       "line_title":"Personnel Services",
@@ -33,7 +33,7 @@
       "fy-2":1963030,
       "fy-1":2352743,
       "fy-0":2633452,
-      "fy+2":2789747
+      "fy+1":2789747
     },
     {
       "line_title":"Non Personnel",
@@ -57,7 +57,7 @@
     "table_header":{
       "line_type":"title",
       "fy-2":"FY15 Expenditure",
-      "fy-1":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",
       "fy+1":"FY18 Recommended",
       "diff":"Inc/Dec 17 vs 18"
@@ -82,7 +82,7 @@
         "diff":10500
       },
       {
-        "line_title":"Supplies & Materials",
+        "line_title":"Supplies and Materials",
         "line_type":"data",
         "fy-2":15323,
         "fy-1":12772,
@@ -91,7 +91,7 @@
         "diff":-2340
       },
       {
-        "line_title":"Current Chgs & Oblig",
+        "line_title":"Current Chgs and Oblig",
         "line_type":"data",
         "fy-2":2584,
         "fy-1":3576,
@@ -132,7 +132,7 @@
     {
       "section_name":"Performance",
       "strategy":[
-        "Ensure that Boston&rsquo;s streets, sidewalks, and bridges are safe, clean and attractive.         "
+        "Ensure that Boston&rsquo;s streets, sidewalks, and bridges are safe, clean and attractive."
       ],
       "performance_measures":[
         {
@@ -140,10 +140,10 @@
             "debug":"JPM",
             "Program Name":"Performance Measures",
             "line_type":"header",
-            "fy-4":"FY15 Actual",
-            "fy-3":"FY16 Actual",
-            "fy-2":"FY17 Projected",
-            "fy-1":"FY18 Target"
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Budget",
+            "fy+1":"FY18 Target"
           },
           "data":[
             {
@@ -156,7 +156,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Average PCI of the Roads being resurfacing.",
+              "line_data":"Average PCI of the Roads being resurfaced.",
               "fy-4":null,
               "fy-3":null,
               "fy-2":34,

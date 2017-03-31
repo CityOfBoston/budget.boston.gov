@@ -15,7 +15,7 @@
   "head_title":"Interim Commissioner",
   "appropriation_code":"Appropriation 311",
   "mission":[
-    "The mission of the Public Works Department is to provide a quality environment for the City of Boston and ensure that the City's roadways, streets and bridge infrastructures are safe, clean and attractive. The Public Works Department also maintains street lights, traffic signals, provides snow removal and garbage collection and disposal as well as curbside recycling."
+    "This Capital Plan invests deeply in the core goals of Go Boston 2030: streets that are safer for all users of our roads and sidewalks, particularly pedestrians and cyclists; travel that is more reliable and predictable, and quality transportation choices that improve access to interconnect Boston neighborhoods for all modes of travel."
   ],
   "selected_performance_strategies":[
     {
@@ -36,7 +36,7 @@
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
       "fy-0":"FY17 Budget",
-      "fy+2":"FY18 Budget"
+      "fy+1":"FY18 Budget"
     },
     "data":[
       {
@@ -45,7 +45,7 @@
         "fy-2":3571066,
         "fy-1":2841754,
         "fy-0":2742767,
-        "fy+2":2740140
+        "fy+1":2740140
       },
       {
         "line_title":"Building/Facility Maintenance",
@@ -53,7 +53,7 @@
         "fy-2":3349142,
         "fy-1":2286572,
         "fy-0":2815781,
-        "fy+2":2757333
+        "fy+1":2757333
       },
       {
         "line_title":"Engineering",
@@ -61,7 +61,7 @@
         "fy-2":2293508,
         "fy-1":1670878,
         "fy-0":1488506,
-        "fy+2":1501277
+        "fy+1":1501277
       },
       {
         "line_title":"Construction Management",
@@ -69,7 +69,7 @@
         "fy-2":2324772,
         "fy-1":4690789,
         "fy-0":2816164,
-        "fy+2":2914503
+        "fy+1":2914503
       },
       {
         "line_title":"Highway Field Operations",
@@ -77,7 +77,7 @@
         "fy-2":18016298,
         "fy-1":21060512,
         "fy-0":19737315,
-        "fy+2":19736189
+        "fy+1":19736189
       },
       {
         "line_title":"Bridge Operations/Maintenance",
@@ -85,7 +85,7 @@
         "fy-2":1972448,
         "fy-1":2713515,
         "fy-0":1773567,
-        "fy+2":1818082
+        "fy+1":1818082
       },
       {
         "line_title":"Street Lights",
@@ -93,7 +93,7 @@
         "fy-2":12147672,
         "fy-1":10712131,
         "fy-0":10702914,
-        "fy+2":11502749
+        "fy+1":11502749
       },
       {
         "line_title":"Waste Reduction",
@@ -101,7 +101,7 @@
         "fy-2":38503590,
         "fy-1":39078603,
         "fy-0":39912696,
-        "fy+2":40805575
+        "fy+1":40805575
       },
       {
         "line_title":"Total",
@@ -109,7 +109,7 @@
         "fy-2":82178496,
         "fy-1":85054754,
         "fy-0":81989710,
-        "fy+2":83775848
+        "fy+1":83775848
       }
     ]
   },
@@ -123,7 +123,7 @@
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
       "fy-0":"FY17 Budget",
-      "fy+2":"FY18 Budget"
+      "fy+1":"FY18 Budget"
     },
     "data":[
       {
@@ -132,7 +132,7 @@
         "fy-2":14910,
         "fy-1":5565,
         "fy-0":10000,
-        "fy+2":10000
+        "fy+1":10000
       },
       {
         "line_title":"Municipal Recycling",
@@ -140,7 +140,7 @@
         "fy-2":13126,
         "fy-1":0,
         "fy-0":10000,
-        "fy+2":10000
+        "fy+1":10000
       },
       {
         "line_title":"Spectacle Island",
@@ -148,7 +148,7 @@
         "fy-2":0,
         "fy-1":210000,
         "fy-0":0,
-        "fy+2":0
+        "fy+1":0
       },
       {
         "line_title":"Total",
@@ -156,7 +156,7 @@
         "fy-2":28036,
         "fy-1":215565,
         "fy-0":20000,
-        "fy+2":20000
+        "fy+1":20000
       }
     ]
   },
@@ -168,7 +168,7 @@
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
       "fy-0":"FY17 Budget",
-      "fy+2":"FY18 Budget"
+      "fy+1":"FY18 Budget"
     },
     {
       "line_title":"Personnel Services",
@@ -176,7 +176,7 @@
       "fy-2":21918266,
       "fy-1":21905405,
       "fy-0":22226300,
-      "fy+2":22575787
+      "fy+1":22575787
     },
     {
       "line_title":"Non Personnel",
@@ -205,14 +205,14 @@
     "Establishing a Comprehensive Recycling Program for City of Boston, CBC Ord. &sect;&sect; 7-13.1-7-13.11."
   ],
   "description_of_services":[
-    "The Public Works Department directs the general construction, maintenance, and cleaning of approximately 802 miles of roadways throughout the City. It also provides snow and ice control for all City streets. In addition, it operates two major drawbridges, maintains 68,055 City-owned street lights, and supervises contracts for the removal and disposal of approximately 260,000 tons of solid waste. The Department also operates the City's recycling program with an annual diversion of approximately 50,000 tons."
+    "The Public Works Department directs the general construction, maintenance, and cleaning of approximately 802 miles of roadways throughout the City. It also provides snow and ice control for all City streets. In addition, it operates two major drawbridge."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
       "fy-2":"FY15 Expenditure",
-      "fy-1":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",
       "fy+1":"FY18 Recommended",
       "diff":"Inc/Dec 17 vs 18"
@@ -237,7 +237,7 @@
         "diff":1594601
       },
       {
-        "line_title":"Supplies & Materials",
+        "line_title":"Supplies and Materials",
         "line_type":"data",
         "fy-2":2592589,
         "fy-1":2034025,
@@ -246,7 +246,7 @@
         "diff":-191822
       },
       {
-        "line_title":"Current Chgs & Oblig",
+        "line_title":"Current Chgs and Oblig",
         "line_type":"data",
         "fy-2":695847,
         "fy-1":667658,

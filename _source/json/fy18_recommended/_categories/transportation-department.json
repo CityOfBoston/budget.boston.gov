@@ -22,7 +22,7 @@
   ],
   "overview":[
     "FIND OVERVIEW CHECK IF THESE ARE OK",
-    "The Transportation Department will focus on four strategic categories – Vision Zero, Great Streets, Smart Streets, and State of Good Repair. Each category is informed by Go Boston 2030&rsquo;s primary themes -- expanding access, improving safety, and ensuring reliability."
+    "This Capital Plan invests deeply in the core goals of Go Boston 2030: streets that are safer for all users of our roads and sidewalks, particularly pedestrians and cyclists; travel that is more reliable and predictable, and quality transportation choices that improve access to interconnect Boston neighborhoods for all modes of travel."
   ],
   "fy_major_initiatives":[
     "Vision Zero will continue to deliver safety on Boston&rsquo;s streets. Programs include Priority Corridors and Safe Crossings.",
@@ -44,8 +44,8 @@
         "line_data_type":"string",
         "fy-2":"FY15 Actual",
         "fy-1":"FY16 Actual",
-        "fy-0":"FY17 Estimated",
-        "fy+2":"FY18 Projected"
+        "fy-0":"FY17 Budget",
+        "fy+1":"FY18 Budget"
       },
       "data":{
         "line_type":"total",

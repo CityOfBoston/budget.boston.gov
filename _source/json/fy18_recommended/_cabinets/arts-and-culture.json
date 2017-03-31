@@ -1,5 +1,6 @@
 ---
 {
+  "debug":"JCB",
   "cabinet":"Arts and Culture",
   "department":null,
   "file_version":"0.10",
@@ -16,6 +17,9 @@
   "mission":[
     "The mission of the Arts & Culture Cabinet is to foster the growth and well-being of the cultural community and promote participation in the arts. Recognizing the importance of creativity across all policy areas, the cabinet seeks to promote access to arts and culture to all the City&rsquo;s residents, and to make Boston a municipal arts leader."
   ],
+  "overview":[
+    "OVERVIEW FROM VOLUME 1"
+  ],
   "operating_department":{
     "table_type":"operating_department",
     "debug":"JCB",
@@ -25,7 +29,7 @@
     "fy-2":"FY15 Actual",
     "fy-1":"FY16 Actual",
     "fy-0":"FY17 Budget",
-    "fy+2":"FY18 Budget",
+    "fy+1":"FY18 Budget",
     "data":[
       {
         "department":"Office of Arts and Culture",
@@ -62,8 +66,8 @@
           "line_type":"header",
           "fy-2":"FY15 Actual",
           "fy-1":"FY16 Actual",
-          "fy-0":"FY17 Estimated",
-          "fy+2":"FY18 Projected"
+          "fy-0":"FY17 Budget",
+          "fy+1":"FY18 Budget"
         },
         "data":[
           {
@@ -95,8 +99,8 @@
       "line_type":"header",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Estimated",
-      "fy+2":"FY18 Projected"
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
     },
     "data":[
       {
