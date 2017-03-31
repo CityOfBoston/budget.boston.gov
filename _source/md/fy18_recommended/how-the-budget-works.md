@@ -1,7 +1,7 @@
 ---
 layout: bos_content
 title: How the budget works
-permalink: /
+permalink: /how-the-budget-works/
 components:
 - breadcrumbs:
   - title: Home

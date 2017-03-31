@@ -1,7 +1,7 @@
 ---
 layout: bos_content
 title: Financial management
-permalink: /
+permalink: /financial-management/
 components:
 - breadcrumbs:
   - title: Home

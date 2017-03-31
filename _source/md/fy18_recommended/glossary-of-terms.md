@@ -1,7 +1,7 @@
 ---
 layout: bos_content
 title: Glossary of terms
-permalink: /
+permalink: /glossary-of-terms/
 components:
 - breadcrumbs:
   - title: Home
