@@ -78,10 +78,7 @@ layout: bos_wrapper
             </td>
         {% else %}
           <tr>
-            <td>
-              <a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | slugify }}/{{ page.name | replace: "'","" | slugify }}/{{ row.line_title | replace: "'","" | slugify }}">{{ row.line_title }}
-              </a>
-            </td>
+            <td>{{ row.line_title }}</td>
           {% endif %}
           <td>{{ row.fy-2 | append: 0 |append:0 | money }}</td>
           <td>{{ row.fy-1 | append: 0 |append:0 | money }}</td>
