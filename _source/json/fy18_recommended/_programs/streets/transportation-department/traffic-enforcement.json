@@ -142,25 +142,25 @@
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Budget",
+            "fy-0":"FY17 Target",
             "fy+1":"FY18 Target"
           },
           "data":[
             {
               "line_type":"data",
               "line_data":"% of abandoned vehicle requests completed on time.",
-              "fy-4":"95%",
-              "fy-3":"80%",
-              "fy-2":"80%",
-              "fy-1":"80%"
+              "fy-2":"95%",
+              "fy-1":"80%",
+              "fy-0":"80%",
+              "fy+1":"80%"
             },
             {
               "line_type":"data",
               "line_data":"Average time to complete an abandoned vehicle request (Days).",
-              "fy-4":13,
-              "fy-3":12,
-              "fy-2":12,
-              "fy-1":12
+              "fy-2":"13",
+              "fy-1":"12",
+              "fy-0":"12",
+              "fy+1":"12"
             }
           ]
         }

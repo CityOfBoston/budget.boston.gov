@@ -142,41 +142,41 @@
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Budget",
+            "fy-0":"FY17 Target",
             "fy+1":"FY18 Target"
           },
           "data":[
             {
               "line_type":"data",
               "line_data":"% of Code Enforcement Collection cases responded to on time.",
-              "fy-4":null,
-              "fy-3":null,
-              "fy-2":"100%",
-              "fy-1":"100%"
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"100%",
+              "fy+1":"100%"
             },
             {
               "line_type":"data",
               "line_data":"Average personnel hours on a hokey route (hand cleaning streets/sidewalks).",
-              "fy-4":null,
-              "fy-3":null,
-              "fy-2":1000,
-              "fy-1":1000
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"1000",
+              "fy+1":"1000"
             },
             {
               "line_type":"data",
               "line_data":"Number of snow-related roadway complaints per storm.",
-              "fy-4":null,
-              "fy-3":null,
-              "fy-2":80,
-              "fy-1":80
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"80",
+              "fy+1":"80"
             },
             {
               "line_type":"data",
               "line_data":"Public Space (litter baskets) recycling diversion rate.",
-              "fy-4":null,
-              "fy-3":null,
-              "fy-2":25,
-              "fy-1":null
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"25",
+              "fy+1":""
             }
           ]
         }
@@ -195,41 +195,41 @@
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Budget",
+            "fy-0":"FY17 Target",
             "fy+1":"FY18 Target"
           },
           "data":[
             {
               "line_type":"data",
               "line_data":"# of pothole repair requests received.",
-              "fy-4":3161,
-              "fy-3":2344,
-              "fy-2":2300,
-              "fy-1":2300
+              "fy-2":"3161",
+              "fy-1":"2344",
+              "fy-0":"2300",
+              "fy+1":"2300"
             },
             {
               "line_type":"data",
               "line_data":"# of snow plowing requests received.",
-              "fy-4":30462,
-              "fy-3":4469,
-              "fy-2":5000,
-              "fy-1":5000
+              "fy-2":"30462",
+              "fy-1":"4469",
+              "fy-0":"5000",
+              "fy+1":"5000"
             },
             {
               "line_type":"data",
               "line_data":"% of pothole repair requests completed on time.",
-              "fy-4":"52%",
-              "fy-3":"75%",
-              "fy-2":"80%",
-              "fy-1":"80%"
+              "fy-2":"52%",
+              "fy-1":"75%",
+              "fy-0":"80%",
+              "fy+1":"80%"
             },
             {
               "line_type":"data",
               "line_data":"Average days to complete a pothole repair request.",
-              "fy-4":5,
-              "fy-3":2,
-              "fy-2":2,
-              "fy-1":2
+              "fy-2":"5",
+              "fy-1":"2",
+              "fy-0":"2",
+              "fy+1":"2"
             }
           ]
         }

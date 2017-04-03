@@ -142,49 +142,49 @@
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Budget",
+            "fy-0":"FY17 Target",
             "fy+1":"FY18 Target"
           },
           "data":[
             {
               "line_type":"data",
               "line_data":"# Accessible Pedestrian Signals Installed.",
-              "fy-4":null,
-              "fy-3":null,
-              "fy-2":null,
-              "fy-1":null
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":""
             },
             {
               "line_type":"data",
               "line_data":"# of traffic monitoring cameras operational.",
-              "fy-4":180,
-              "fy-3":190,
-              "fy-2":200,
-              "fy-1":200
+              "fy-2":"180",
+              "fy-1":"190",
+              "fy-0":"200",
+              "fy+1":"200"
             },
             {
               "line_type":"data",
               "line_data":"% of development project impact reports, construction management plans and site plans reviewed on time.",
-              "fy-4":"74%",
-              "fy-3":"80%",
-              "fy-2":"75%",
-              "fy-1":"75%"
+              "fy-2":"74%",
+              "fy-1":"80%",
+              "fy-0":"75%",
+              "fy+1":"75%"
             },
             {
               "line_type":"data",
               "line_data":"% of engineering service requests completed and responded to on time.",
-              "fy-4":"76%",
-              "fy-3":"80%",
-              "fy-2":"75%",
-              "fy-1":"75%"
+              "fy-2":"76%",
+              "fy-1":"80%",
+              "fy-0":"75%",
+              "fy+1":"75%"
             },
             {
               "line_type":"data",
               "line_data":"% of traffic signals on-line.",
-              "fy-4":"91%",
-              "fy-3":"88%",
-              "fy-2":"90%",
-              "fy-1":"90%"
+              "fy-2":"91%",
+              "fy-1":"88%",
+              "fy-0":"90%",
+              "fy+1":"90%"
             }
           ]
         }
@@ -203,17 +203,17 @@
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Budget",
+            "fy-0":"FY17 Target",
             "fy+1":"FY18 Target"
           },
           "data":[
             {
               "line_type":"data",
               "line_data":"Average parking vacany rate.",
-              "fy-4":null,
-              "fy-3":null,
-              "fy-2":null,
-              "fy-1":null
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":""
             }
           ]
         }
@@ -232,17 +232,17 @@
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Budget",
+            "fy-0":"FY17 Target",
             "fy+1":"FY18 Target"
           },
           "data":[
             {
               "line_type":"data",
               "line_data":"% of traffic signals on line.",
-              "fy-4":null,
-              "fy-3":null,
-              "fy-2":null,
-              "fy-1":null
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":""
             }
           ]
         }

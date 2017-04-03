@@ -142,25 +142,25 @@
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Budget",
+            "fy-0":"FY17 Target",
             "fy+1":"FY18 Target"
           },
           "data":[
             {
               "line_type":"data",
               "line_data":"Average Annual PCI Rating of Boston's Roads.",
-              "fy-4":null,
-              "fy-3":null,
-              "fy-2":67,
-              "fy-1":66
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"67",
+              "fy+1":"66"
             },
             {
               "line_type":"data",
               "line_data":"Average PCI of the Roads being resurfaced.",
-              "fy-4":null,
-              "fy-3":null,
-              "fy-2":34,
-              "fy-1":33
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"34",
+              "fy+1":"33"
             }
           ]
         }

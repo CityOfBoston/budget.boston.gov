@@ -1,5 +1,6 @@
 ---
 {
+  "debug":"JBD",
   "file_version":"0.10",
   "section_id":5,
   "section_md5_id":"E4DA3B7FBBCE2345D7772B0674A318D5",
@@ -15,11 +16,35 @@
   "head_title":"Interim Commissioner",
   "appropriation_code":"Appropriation 311",
   "mission":[
-    "This Capital Plan invests deeply in the core goals of Go Boston 2030: streets that are safer for all users of our roads and sidewalks, particularly pedestrians and cyclists; travel that is more reliable and predictable, and quality transportation choices that improve access to interconnect Boston neighborhoods for all modes of travel."
+    "The mission of the Public Works Department is to provide a quality environment for the City of Boston and ensure that the City's roadways, streets and bridge infrastructures are safe, clean and attractive. The Public Works Department also maintains street lights, traffic signals, provides snow removal and garbage collection and disposal as well as curbside recycling."
   ],
   "selected_performance_strategies":[
     {
+      "program":"Construction Management",
+      "debug":"JCO",
+      "strategies":[
+        "Ensure that Boston&rsquo;s streets, sidewalks, and bridges are safe, clean and attractive."
+      ]
+    },
+    {
+      "program":"Highway Field Operations",
+      "debug":"JCO",
+      "strategies":[
+        "Effectively control and manage Boston's public space.",
+        "Ensure that Boston&rsquo;s streets, sidewalks, and bridges are safe, clean and attractive."
+      ]
+    },
+    {
+      "program":"Street Lights",
+      "debug":"JCO",
+      "strategies":[
+        "Efficiently deliver services.",
+        "Improve neighborhood quality of life."
+      ]
+    },
+    {
       "program":"Waste Reduction",
+      "debug":"JCO",
       "strategies":[
         "Effectively control and manage Boston's public space.",
         "Efficiently deliver services."

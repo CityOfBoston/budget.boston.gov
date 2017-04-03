@@ -22,6 +22,22 @@
   ],
   "selected_performance_strategies":[
     {
+      "program":"Traffic Management and Engineering",
+      "strategies":[
+        "Design, construct, and maintain streetscapes that prioritize moving people safely.",
+        "Design, construct, and maintain streetscapes that prioritize moving people safely.",
+        "Encourage multimodal, active transportation.",
+        "Enhance Boston's walkability and neighborhood interconnectedness."
+      ]
+    },
+    {
+      "program":"Policy and Planning",
+      "strategies":[
+        "Design, construct, and maintain streetscapes that prioritize moving people safely.",
+        "Encourage multimodal, active transportation."
+      ]
+    },
+    {
       "program":"Traffic Enforcement",
       "strategies":[
         "Design, construct, and maintain streetscapes that prioritize moving people safely."
@@ -51,8 +67,8 @@
         "line_data_type":"string",
         "fy-2":"FY15 Actual",
         "fy-1":"FY16 Actual",
-        "fy-0":"FY17 Budget",
-        "fy+1":"FY18 Budget"
+        "fy-0":"FY17 Estimated",
+        "fy+1":"FY18 Projected"
       },
       "data":{
         "line_type":"total",
@@ -67,508 +83,278 @@
   ],
   "projects":[
     {
-      "category":"NEED SOURCE FOR THIS",
-      "category_desc":"NEED SOURCE FOR THIS",
-      "department":"Transportation Department",
-      "file_version":"0.10",
-      "location":"Citywide",
-      "managing_department":"Transportation Department",
-      "name":"Transportation Planning",
-      "section_id":"CTD23177",
-      "section_type":"projects",
-      "section_type_short":"R",
-      "source_version":"Recommended",
-      "source_year":"18",
-      "status":"Annual Program",
-      "operating_impact":"No",
-      "mission":[
-        "Develop neighborhood or strategic transportation action plans including traffic flow, major arterials, pedestrian safety, parking, bicycle access and regional project plans."
-      ],
-      "expenditures_summary":{
-        "debug":"JBDCPES",
-        "fy-0":300000,
-        "total":2698849
-      }
-    },
-    {
-      "category":"NEED SOURCE FOR THIS",
-      "category_desc":"NEED SOURCE FOR THIS",
-      "department":"Transportation Department",
-      "file_version":"0.10",
-      "location":"East Boston",
-      "managing_department":"Public Works Department",
-      "name":"Central Square",
-      "section_id":"CTD23216",
-      "section_type":"projects",
-      "section_type_short":"R",
-      "source_version":"Recommended",
-      "source_year":"18",
-      "status":"In Construction",
-      "operating_impact":"No",
-      "mission":[
-        "Urban redesign and improvements for Central Square including the intersections at Meridian and Saratoga Streets, and Porter and Bennington Streets."
-      ],
-      "expenditures_summary":{
-        "debug":"JBDCPES",
-        "fy-0":2862460,
-        "total":7850000
-      }
-    },
-    {
-      "category":"NEED SOURCE FOR THIS",
-      "category_desc":"NEED SOURCE FOR THIS",
-      "department":"Transportation Department",
-      "file_version":"0.10",
-      "location":"Roxbury",
-      "managing_department":"Transportation Department",
-      "name":"Dudley Street",
-      "section_id":"CTD23218",
-      "section_type":"projects",
-      "section_type_short":"R",
-      "source_version":"Recommended",
-      "source_year":"18",
-      "status":"In Design",
-      "operating_impact":"No",
-      "mission":[
-        "Roadway improvements from Shawmut Avenue to Harrison Avenue including six key Dudley Square intersections. The scope of work includes geometric changes, new traffic signal equipment and timing, bike lanes, and streetscape improvements."
-      ],
-      "expenditures_summary":{
-        "debug":"JBDCPES",
-        "fy-0":800000,
-        "total":9000000
-      }
-    },
-    {
-      "category":"NEED SOURCE FOR THIS",
-      "category_desc":"NEED SOURCE FOR THIS",
-      "department":"Transportation Department",
-      "file_version":"0.10",
-      "location":"Roxbury",
-      "managing_department":"Transportation Department",
-      "name":"Melnea Cass Boulevard",
-      "section_id":"CTD23219",
-      "section_type":"projects",
-      "section_type_short":"R",
-      "source_version":"Recommended",
-      "source_year":"18",
-      "status":"In Design",
-      "operating_impact":"No",
-      "mission":[
-        "Reconstruct Melnea Cass Blvd. in conjunction with the South Bay Harbor Trail project. State and federal construction funding anticipated."
-      ],
-      "expenditures_summary":{
-        "debug":"JBDCPES",
-        "fy-0":700000,
-        "total":2100000
-      }
-    },
-    {
-      "category":"NEED SOURCE FOR THIS",
-      "category_desc":"NEED SOURCE FOR THIS",
-      "department":"Transportation Department",
-      "file_version":"0.10",
-      "location":"Roxbury",
-      "managing_department":"Transportation Department",
-      "name":"Warren Street and Blue Hill Avenue",
-      "section_id":"CTD23225",
-      "section_type":"projects",
-      "section_type_short":"R",
-      "source_version":"Recommended",
-      "source_year":"18",
-      "status":"In Design",
-      "operating_impact":"No",
-      "mission":[
-        "Reconstruct Warren Street and Blue Hill Avenue (Dudley Square to Talbot Avenue) to improve connections to Grove Hall. State and federal construction funding anticipated."
-      ],
-      "expenditures_summary":{
-        "debug":"JBDCPES",
-        "fy-0":248270,
-        "total":600000
-      }
-    },
-    {
-      "category":"NEED SOURCE FOR THIS",
-      "category_desc":"NEED SOURCE FOR THIS",
-      "department":"Transportation Department",
-      "file_version":"0.10",
-      "location":"South End",
-      "managing_department":"Transportation Department",
-      "name":"South Bay Harbor Trail",
-      "section_id":"CTD23314",
-      "section_type":"projects",
-      "section_type_short":"R",
-      "source_version":"Recommended",
-      "source_year":"18",
-      "status":"In Design",
-      "operating_impact":"No",
-      "mission":[
-        "Design and construct an important link in the City's Greenway, connecting trails from the Fenway, the Southwest Corridor, Charles River Park, Broadway Bridge, and the Central Artery parks."
-      ],
-      "expenditures_summary":{
-        "debug":"JBDCPES",
-        "fy-0":233000,
-        "total":863000
-      }
-    },
-    {
-      "category":"NEED SOURCE FOR THIS",
-      "category_desc":"NEED SOURCE FOR THIS",
-      "department":"Transportation Department",
-      "file_version":"0.10",
-      "location":"Jamaica Plain",
-      "managing_department":"Transportation Department",
-      "name":"Centre Street / South Street",
-      "section_id":"CTD23406",
-      "section_type":"projects",
-      "section_type_short":"R",
-      "source_version":"Recommended",
-      "source_year":"18",
-      "status":"In Design",
-      "operating_impact":"No",
-      "mission":[
-        "Redesign portions of Centre Street and South Street in Jamaica Plain using a Complete Streets approach."
-      ],
-      "expenditures_summary":{
-        "debug":"JBDCPES",
-        "fy-0":0,
-        "total":400000
-      }
-    },
-    {
-      "category":"NEED SOURCE FOR THIS",
-      "category_desc":"NEED SOURCE FOR THIS",
-      "department":"Transportation Department",
-      "file_version":"0.10",
-      "location":"Various neighborhoods",
-      "managing_department":"Transportation Department",
-      "name":"Traffic Signals at 9 Locations",
-      "section_id":"CTD23451",
-      "section_type":"projects",
-      "section_type_short":"R",
-      "source_version":"Recommended",
-      "source_year":"18",
-      "status":"In Design",
-      "operating_impact":"No",
-      "mission":[
-        "Upgrade five traffic control signal locations and install new traffic control signals at four locations. Some locations require minor geometric changes to improve safety and operations. Accessible pedestrian ramps will be reconstructed as needed."
-      ],
-      "expenditures_summary":{
-        "debug":"JBDCPES",
-        "fy-0":0,
-        "total":450907
-      }
-    },
-    {
-      "category":"NEED SOURCE FOR THIS",
-      "category_desc":"NEED SOURCE FOR THIS",
-      "department":"Transportation Department",
-      "file_version":"0.10",
-      "location":"Citywide",
-      "managing_department":"Transportation Department",
-      "name":"Municipal Parking Lots",
-      "section_id":"CTD23584",
-      "section_type":"projects",
-      "section_type_short":"R",
-      "source_version":"Recommended",
-      "source_year":"18",
-      "status":"Annual Program",
-      "operating_impact":"No",
-      "mission":[
-        "Lighting, paving, re-striping, and other upgrades to municipal parking lots citywide."
-      ],
-      "expenditures_summary":{
-        "debug":"JBDCPES",
-        "fy-0":250000,
-        "total":2856226
-      }
-    },
-    {
-      "category":"NEED SOURCE FOR THIS",
-      "category_desc":"NEED SOURCE FOR THIS",
-      "department":"Transportation Department",
-      "file_version":"0.10",
-      "location":"Citywide",
-      "managing_department":"Transportation Department",
-      "name":"Accessible Pedestrian Signals",
-      "section_id":"CTD23607",
-      "section_type":"projects",
-      "section_type_short":"R",
-      "source_version":"Recommended",
-      "source_year":"18",
-      "status":"Annual Program",
-      "operating_impact":"No",
-      "mission":[
-        "Purchase and install APS devices for new construction, major reconstructions, and by request as outlined in the City's response to the federal mandate."
-      ],
-      "expenditures_summary":{
-        "debug":"JBDCPES",
-        "fy-0":250000,
-        "total":1831088
-      }
-    },
-    {
-      "category":"NEED SOURCE FOR THIS",
-      "category_desc":"NEED SOURCE FOR THIS",
-      "department":"Transportation Department",
-      "file_version":"0.10",
-      "location":"South Boston",
-      "managing_department":"Public Facilities Department",
-      "name":"BTD Tow Lot Facility",
-      "section_id":"CTD23937",
-      "section_type":"projects",
-      "section_type_short":"R",
-      "source_version":"Recommended",
-      "source_year":"18",
-      "status":"In Construction",
-      "operating_impact":"No",
-      "mission":[
-        "Repairs and upgrades to building envelope and tow lot."
-      ],
-      "expenditures_summary":{
-        "debug":"JBDCPES",
-        "fy-0":1680184,
-        "total":3800000
-      }
-    },
-    {
-      "category":"NEED SOURCE FOR THIS",
-      "category_desc":"NEED SOURCE FOR THIS",
-      "department":"Transportation Department",
-      "file_version":"0.10",
-      "location":"South Boston",
-      "managing_department":"Public Facilities Department",
-      "name":"300 Frontage Road Improvements",
-      "section_id":"CTD24146",
-      "section_type":"projects",
-      "section_type_short":"R",
-      "source_version":"Recommended",
-      "source_year":"18",
-      "status":"In Design",
-      "operating_impact":"No",
-      "mission":[
-        "Interior and exterior renovations to accommodate Boston Transportation Department operations."
-      ],
-      "expenditures_summary":{
-        "debug":"JBDCPES",
-        "fy-0":433797,
-        "total":463807
-      }
-    },
-    {
-      "category":"NEED SOURCE FOR THIS",
-      "category_desc":"NEED SOURCE FOR THIS",
-      "department":"Transportation Department",
-      "file_version":"0.10",
-      "location":"Various neighborhoods",
-      "managing_department":"Transportation Department",
-      "name":"Vision Zero",
-      "section_id":"CTD24299",
-      "section_type":"projects",
-      "section_type_short":"R",
-      "source_version":"Recommended",
-      "source_year":"18",
-      "status":"Implementation Underway",
-      "operating_impact":"No",
-      "mission":[
-        "Implement roadway design changes to reduce speeds, control movements and improve visibility of vulnerable users."
-      ],
-      "expenditures_summary":{
-        "debug":"JBDCPES",
-        "fy-0":3100000,
-        "total":17922192
-      }
-    },
-    {
-      "category":"NEED SOURCE FOR THIS",
-      "category_desc":"NEED SOURCE FOR THIS",
-      "department":"Transportation Department",
-      "file_version":"0.10",
-      "location":"Dorchester",
-      "managing_department":"Transportation Department",
-      "name":"Bowdoin Street/Geneva Avenue Study",
-      "section_id":"CTD24555",
-      "section_type":"projects",
-      "section_type_short":"R",
-      "source_version":"Recommended",
-      "source_year":"18",
-      "status":"To Be Scheduled",
-      "operating_impact":"No",
-      "mission":[
-        "A transportation study of the Bowdoin Street and Geneva Avenue area in Dorchester."
-      ],
-      "expenditures_summary":{
-        "debug":"JBDCPES",
-        "fy-0":50000,
-        "total":100000
-      }
-    },
-    {
-      "category":"NEED SOURCE FOR THIS",
-      "category_desc":"NEED SOURCE FOR THIS",
-      "department":"Transportation Department",
-      "file_version":"0.10",
-      "location":"Various neighborhoods",
-      "managing_department":"Transportation Department",
-      "name":"Traffic Signal Construction at 4 Intersections",
-      "section_id":"CTD24561",
-      "section_type":"projects",
-      "section_type_short":"R",
-      "source_version":"Recommended",
-      "source_year":"18",
-      "status":"In Construction",
-      "operating_impact":"No",
-      "mission":[
-        "Install new traffic signals and controls, detection and monitoring equipment and systems at American Legion at Plaza Driveway, Newbury St. at Fairfield, Geneva Ave. at Olney, Blue Hill Ave. at Castlegate. Partially funded through Vision Zero."
-      ],
-      "expenditures_summary":{
-        "debug":"JBDCPES",
-        "fy-0":400000,
-        "total":800000
-      }
-    },
-    {
-      "category":"NEED SOURCE FOR THIS",
-      "category_desc":"NEED SOURCE FOR THIS",
-      "department":"Transportation Department",
-      "file_version":"0.10",
-      "location":"Citywide",
-      "managing_department":"Transportation Department",
-      "name":"Traffic Signals",
-      "section_id":"CTD24700",
-      "section_type":"projects",
-      "section_type_short":"R",
-      "source_version":"Recommended",
-      "source_year":"18",
-      "status":"Annual Program",
-      "operating_impact":"No",
-      "mission":[
-        "Provide traffic signal design services, install or upgrade existing traffic signals and controls, install new control boxes and battery backup equipment."
-      ],
-      "expenditures_summary":{
-        "debug":"JBDCPES",
-        "fy-0":2500000,
-        "total":12500000
-      }
-    },
-    {
-      "category":"NEED SOURCE FOR THIS",
-      "category_desc":"NEED SOURCE FOR THIS",
-      "department":"Transportation Department",
-      "file_version":"0.10",
-      "location":"Citywide",
-      "managing_department":"Transportation Department",
-      "name":"Strategic Bicycle Network Project",
-      "section_id":"CTD24701",
-      "section_type":"projects",
-      "section_type_short":"R",
-      "source_version":"Recommended",
-      "source_year":"18",
-      "status":"Annual Program",
-      "operating_impact":"No",
-      "mission":[
-        "Maximize usage in existing high volume bike lanes via construction of bike lane extensions and connections with citywide key bike corridors."
-      ],
-      "expenditures_summary":{
-        "debug":"JBDCPES",
-        "fy-0":900000,
-        "total":4500000
-      }
-    },
-    {
-      "category":"NEED SOURCE FOR THIS",
-      "category_desc":"NEED SOURCE FOR THIS",
-      "department":"Transportation Department",
-      "file_version":"0.10",
-      "location":"Hyde Park",
-      "managing_department":"Transportation Department",
-      "name":"Father Hart Bridge Traffic Improvements",
-      "section_id":"CTD24695",
-      "section_type":"projects",
-      "section_type_short":"R",
-      "source_version":"Recommended",
-      "source_year":"18",
-      "status":"New Project",
-      "operating_impact":"No",
-      "mission":[
-        "Install new traffic signals at the intersections of Milton St. at Neponset Valley Parkway, Milton St. at Hyde Park Ave. and Neponset Valley Parkway and Hyde Park Ave. at Wolcott Square. Install wheelchair ramps, new crosswalks and bicycle accommodations."
-      ],
-      "expenditures_summary":{
-        "debug":"JBDCPES",
-        "fy-0":1300000,
-        "total":1375000
-      }
-    },
-    {
-      "category":"NEED SOURCE FOR THIS",
-      "category_desc":"NEED SOURCE FOR THIS",
-      "department":"Transportation Department",
-      "file_version":"0.10",
-      "location":"Fenway/Kenmore",
-      "managing_department":"Public Works Department",
-      "name":"Fenway Longwood Kenmore Improvements",
-      "section_id":"CTD23354",
-      "section_type":"projects",
-      "section_type_short":"R",
-      "source_version":"Recommended",
-      "source_year":"18",
-      "status":"In Construction",
-      "operating_impact":"No",
-      "mission":[
-        "Infrastructure improvements for Boylston Street and Audubon Circle. Develop a bicycle and pedestrian path connecting the Riverway with Fenway and Yawkey Stations."
-      ],
-      "expenditures_summary":{
-        "debug":"JBDCPES",
-        "fy-0":3500000,
-        "total":7987722
-      }
-    },
-    {
-      "category":"NEED SOURCE FOR THIS",
-      "category_desc":"NEED SOURCE FOR THIS",
-      "department":"Transportation Department",
-      "file_version":"0.10",
-      "location":"N/A",
-      "managing_department":"Transportation Department",
-      "name":"Street Rule Book",
-      "section_id":"CTD24321",
-      "section_type":"projects",
-      "section_type_short":"R",
-      "source_version":"Recommended",
-      "source_year":"18",
-      "status":"Implementation Underway",
-      "operating_impact":"No",
-      "mission":[
-        "Compile an electronic rulebook of citywide curbside parking regulations."
-      ],
-      "expenditures_summary":{
-        "debug":"JBDCPES",
-        "fy-0":210000,
-        "total":500000
-      }
-    },
-    {
-      "category":"NEED SOURCE FOR THIS",
-      "category_desc":"NEED SOURCE FOR THIS",
-      "department":"Transportation Department",
-      "file_version":"0.10",
-      "location":"Citywide",
-      "managing_department":"Transportation Department",
-      "name":"Crosswalk and Lane Marking Revitalization",
-      "section_id":"CTD24718",
-      "section_type":"projects",
-      "section_type_short":"R",
-      "source_version":"Recommended",
-      "source_year":"18",
-      "status":"New Project",
-      "operating_impact":"No",
-      "mission":[
-        "Provide additional crosswalk and lane markings."
-      ],
-      "expenditures_summary":{
-        "debug":"JBDCPES",
-        "fy-0":1640000,
-        "total":4650000
-      }
+      "table_type":"capital_projects_by_category",
+      "table_title":"Capital Projects by Category",
+      "header":{
+        "debug":"JBDCPDP",
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "category":"Category",
+        "name":"Project",
+        "location":"Location",
+        "status":"Status",
+        "fy-0":"FY18 Projected",
+        "project_title":"Total"
+      },
+      "projects_data":[
+        {
+          "Transportation":[
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Transportation",
+              "name":"300 Frontage Road Improvements",
+              "location":"South Boston",
+              "section_id":"CTD24146",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":433797,
+              "project_total":463807
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Transportation",
+              "name":"Central Square",
+              "location":"East Boston",
+              "section_id":"CTD23216",
+              "status":"In Construction",
+              "operating_impact":"No",
+              "fy-0":2862460,
+              "project_total":7850000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Transportation",
+              "name":"Dudley Street",
+              "location":"Roxbury",
+              "section_id":"CTD23218",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":800000,
+              "project_total":9000000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Transportation",
+              "name":"Melnea Cass Boulevard",
+              "location":"Roxbury",
+              "section_id":"CTD23219",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":700000,
+              "project_total":2100000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Transportation",
+              "name":"Warren Street and Blue Hill Avenue",
+              "location":"Roxbury",
+              "section_id":"CTD23225",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":248270,
+              "project_total":600000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Transportation",
+              "name":"South Bay Harbor Trail",
+              "location":"South End",
+              "section_id":"CTD23314",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":233000,
+              "project_total":863000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Transportation",
+              "name":"Centre Street / South Street",
+              "location":"Jamaica Plain",
+              "section_id":"CTD23406",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":0,
+              "project_total":400000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Transportation",
+              "name":"Traffic Signals at 9 Locations",
+              "location":"Various neighborhoods",
+              "section_id":"CTD23451",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":0,
+              "project_total":450907
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Transportation",
+              "name":"Municipal Parking Lots",
+              "location":"Citywide",
+              "section_id":"CTD23584",
+              "status":"Annual Program",
+              "operating_impact":"No",
+              "fy-0":250000,
+              "project_total":2856226
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Transportation",
+              "name":"Transportation Planning",
+              "location":"Citywide",
+              "section_id":"CTD23177",
+              "status":"Annual Program",
+              "operating_impact":"No",
+              "fy-0":300000,
+              "project_total":2698849
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Transportation",
+              "name":"BTD Tow Lot Facility",
+              "location":"South Boston",
+              "section_id":"CTD23937",
+              "status":"In Construction",
+              "operating_impact":"No",
+              "fy-0":1680184,
+              "project_total":3800000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Transportation",
+              "name":"Crosswalk and Lane Marking Revitalization",
+              "location":"Citywide",
+              "section_id":"CTD24718",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":1640000,
+              "project_total":4650000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Transportation",
+              "name":"Vision Zero",
+              "location":"Various neighborhoods",
+              "section_id":"CTD24299",
+              "status":"Implementation Underway",
+              "operating_impact":"No",
+              "fy-0":3100000,
+              "project_total":17922192
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Transportation",
+              "name":"Bowdoin Street/Geneva Avenue Study",
+              "location":"Dorchester",
+              "section_id":"CTD24555",
+              "status":"To Be Scheduled",
+              "operating_impact":"No",
+              "fy-0":50000,
+              "project_total":100000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Transportation",
+              "name":"Traffic Signal Construction at 4 Intersections",
+              "location":"Various neighborhoods",
+              "section_id":"CTD24561",
+              "status":"In Construction",
+              "operating_impact":"No",
+              "fy-0":400000,
+              "project_total":800000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Transportation",
+              "name":"Traffic Signals",
+              "location":"Citywide",
+              "section_id":"CTD24700",
+              "status":"Annual Program",
+              "operating_impact":"No",
+              "fy-0":2500000,
+              "project_total":12500000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Transportation",
+              "name":"Strategic Bicycle Network Project",
+              "location":"Citywide",
+              "section_id":"CTD24701",
+              "status":"Annual Program",
+              "operating_impact":"No",
+              "fy-0":900000,
+              "project_total":4500000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Transportation",
+              "name":"Father Hart Bridge Traffic Improvements",
+              "location":"Hyde Park",
+              "section_id":"CTD24695",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":1300000,
+              "project_total":1375000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Transportation",
+              "name":"Fenway Longwood Kenmore Improvements",
+              "location":"Fenway/Kenmore",
+              "section_id":"CTD23354",
+              "status":"In Construction",
+              "operating_impact":"No",
+              "fy-0":3500000,
+              "project_total":7987722
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Transportation",
+              "name":"Street Rule Book",
+              "location":"N/A",
+              "section_id":"CTD24321",
+              "status":"Implementation Underway",
+              "operating_impact":"No",
+              "fy-0":210000,
+              "project_total":500000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Transportation",
+              "name":"Accessible Pedestrian Signals",
+              "location":"Citywide",
+              "section_id":"CTD23607",
+              "status":"Annual Program",
+              "operating_impact":"No",
+              "fy-0":250000,
+              "project_total":1831088
+            }
+          ]
+        }
+      ]
     }
   ],
   "fy-0":21357711,

@@ -142,17 +142,17 @@
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Budget",
+            "fy-0":"FY17 Target",
             "fy+1":"FY18 Target"
           },
           "data":[
             {
               "line_type":"data",
               "line_data":"% of code enforcement complaints responded to within 24 hours.",
-              "fy-4":"84%",
-              "fy-3":"98%",
-              "fy-2":"98%",
-              "fy-1":"99%"
+              "fy-2":"84%",
+              "fy-1":"98%",
+              "fy-0":"98%",
+              "fy+1":"99%"
             }
           ]
         }
@@ -171,33 +171,33 @@
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Budget",
+            "fy-0":"FY17 Target",
             "fy+1":"FY18 Target"
           },
           "data":[
             {
               "line_type":"data",
               "line_data":"# of missed trash requests received.",
-              "fy-4":15127,
-              "fy-3":11332,
-              "fy-2":12000,
-              "fy-1":1200
+              "fy-2":"15127",
+              "fy-1":"11332",
+              "fy-0":"12000",
+              "fy+1":"1200"
             },
             {
               "line_type":"data",
               "line_data":"% of missed trash requests completed on time.",
-              "fy-4":"92%",
-              "fy-3":"97%",
-              "fy-2":"96%",
-              "fy-1":"96%"
+              "fy-2":"92%",
+              "fy-1":"97%",
+              "fy-0":"96%",
+              "fy+1":"96%"
             },
             {
               "line_type":"data",
               "line_data":"Average time to complete a missed trash request.",
-              "fy-4":1,
-              "fy-3":1,
-              "fy-2":1,
-              "fy-1":1
+              "fy-2":"1",
+              "fy-1":"1",
+              "fy-0":"1",
+              "fy+1":"1"
             }
           ]
         }

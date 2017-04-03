@@ -142,25 +142,25 @@
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Budget",
+            "fy-0":"FY17 Target",
             "fy+1":"FY18 Target"
           },
           "data":[
             {
               "line_type":"data",
               "line_data":"Average monthly collisons that cause fatality or injury.",
-              "fy-4":null,
-              "fy-3":null,
-              "fy-2":null,
-              "fy-1":null
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":""
             },
             {
               "line_type":"data",
               "line_data":"Average monthly vehicle collisions.",
-              "fy-4":null,
-              "fy-3":null,
-              "fy-2":null,
-              "fy-1":null
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":""
             }
           ]
         }
@@ -179,33 +179,33 @@
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Budget",
+            "fy-0":"FY17 Target",
             "fy+1":"FY18 Target"
           },
           "data":[
             {
               "line_type":"data",
               "line_data":"Average meter session time.",
-              "fy-4":null,
-              "fy-3":null,
-              "fy-2":null,
-              "fy-1":null
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":""
             },
             {
               "line_type":"data",
               "line_data":"Traffic Congestion Index (AM).",
-              "fy-4":null,
-              "fy-3":null,
-              "fy-2":null,
-              "fy-1":2
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":"2"
             },
             {
               "line_type":"data",
               "line_data":"Traffic Congestion Index (PM).",
-              "fy-4":null,
-              "fy-3":null,
-              "fy-2":null,
-              "fy-1":2
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":"2"
             }
           ]
         }

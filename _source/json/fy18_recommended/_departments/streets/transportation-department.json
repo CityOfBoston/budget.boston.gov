@@ -1,5 +1,6 @@
 ---
 {
+  "debug":"JBD",
   "file_version":"0.10",
   "section_id":46,
   "section_md5_id":"D9D4F495E875A2E075A1A4A6E1B9770F",
@@ -19,7 +20,26 @@
   ],
   "selected_performance_strategies":[
     {
+      "program":"Traffic Management and Engineering",
+      "debug":"JCO",
+      "strategies":[
+        "Design, construct, and maintain streetscapes that prioritize moving people safely.",
+        "Design, construct, and maintain streetscapes that prioritize moving people safely.",
+        "Encourage multimodal, active transportation.",
+        "Enhance Boston's walkability and neighborhood interconnectedness."
+      ]
+    },
+    {
+      "program":"Policy and Planning",
+      "debug":"JCO",
+      "strategies":[
+        "Design, construct, and maintain streetscapes that prioritize moving people safely.",
+        "Encourage multimodal, active transportation."
+      ]
+    },
+    {
       "program":"Traffic Enforcement",
+      "debug":"JCO",
       "strategies":[
         "Design, construct, and maintain streetscapes that prioritize moving people safely."
       ]
@@ -219,46 +239,46 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":20919099,
-        "fy-1":21729242,
-        "fy-0":22549682,
-        "fy+1":22648916,
-        "diff":99234
+        "fy-2":18099181,
+        "fy-1":18992165,
+        "fy-0":19762659,
+        "fy+1":19861389,
+        "diff":98730
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":8098871,
-        "fy-1":8607274,
-        "fy-0":8068643,
-        "fy+1":8885615,
-        "diff":816972
+        "fy-2":3397840,
+        "fy-1":3768275,
+        "fy-0":2755843,
+        "fy+1":3472471,
+        "diff":716628
       },
       {
         "line_title":"Supplies and Materials",
         "line_type":"data",
-        "fy-2":1137753,
-        "fy-1":1405587,
-        "fy-0":1545917,
-        "fy+1":1474334,
-        "diff":-71583
+        "fy-2":910608,
+        "fy-1":1076597,
+        "fy-0":1312917,
+        "fy+1":1211334,
+        "diff":-101583
       },
       {
         "line_title":"Current Chgs and Oblig",
         "line_type":"data",
-        "fy-2":419204,
-        "fy-1":401751,
-        "fy-0":324112,
-        "fy+1":319112,
+        "fy-2":416990,
+        "fy-1":395106,
+        "fy-0":320612,
+        "fy+1":315612,
         "diff":-5000
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":682117,
-        "fy-1":648179,
-        "fy-0":686171,
-        "fy+1":776982,
+        "fy-2":680547,
+        "fy-1":643355,
+        "fy-0":680171,
+        "fy+1":770982,
         "diff":90811
       },
       {
@@ -273,11 +293,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":31257044,
-        "fy-1":32792033,
-        "fy-0":33174525,
-        "fy+1":34104959,
-        "diff":930434
+        "fy-2":23505166,
+        "fy-1":24875498,
+        "fy-0":24832202,
+        "fy+1":25631788,
+        "diff":799586
       }
     ]
   },

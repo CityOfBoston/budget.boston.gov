@@ -142,57 +142,57 @@
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Budget",
+            "fy-0":"FY17 Target",
             "fy+1":"FY18 Target"
           },
           "data":[
             {
               "line_type":"data",
               "line_data":"% of missing sign requests completed on time.",
-              "fy-4":"72%",
-              "fy-3":"80%",
-              "fy-2":"80%",
-              "fy-1":"80%"
+              "fy-2":"72%",
+              "fy-1":"80%",
+              "fy-0":"80%",
+              "fy+1":"80%"
             },
             {
               "line_type":"data",
               "line_data":"% of parking meter repair requests completed on time.",
-              "fy-4":"81%",
-              "fy-3":"80%",
-              "fy-2":"80%",
-              "fy-1":"80%"
+              "fy-2":"81%",
+              "fy-1":"80%",
+              "fy-0":"80%",
+              "fy+1":"80%"
             },
             {
               "line_type":"data",
               "line_data":"% of sign repair requests completed on time.",
-              "fy-4":"82%",
-              "fy-3":"80%",
-              "fy-2":"80%",
-              "fy-1":"80%"
+              "fy-2":"82%",
+              "fy-1":"80%",
+              "fy-0":"80%",
+              "fy+1":"80%"
             },
             {
               "line_type":"data",
               "line_data":"Average time to complete a missing sign request (Days).",
-              "fy-4":17,
-              "fy-3":10,
-              "fy-2":10,
-              "fy-1":10
+              "fy-2":"17",
+              "fy-1":"10",
+              "fy-0":"10",
+              "fy+1":"10"
             },
             {
               "line_type":"data",
               "line_data":"Average time to complete a parking meter repair request (Days).",
-              "fy-4":13,
-              "fy-3":10,
-              "fy-2":10,
-              "fy-1":10
+              "fy-2":"13",
+              "fy-1":"10",
+              "fy-0":"10",
+              "fy+1":"10"
             },
             {
               "line_type":"data",
               "line_data":"Average time to complete a sign repair request (Days).",
-              "fy-4":10,
-              "fy-3":10,
-              "fy-2":10,
-              "fy-1":10
+              "fy-2":"10",
+              "fy-1":"10",
+              "fy-0":"10",
+              "fy+1":"10"
             }
           ]
         }
