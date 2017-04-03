@@ -43,20 +43,12 @@ if (document.getElementById("lineChart")) {
 if (document.getElementById("aggregateBarChart")) {
   var barCharts = document.getElementsByClassName("barChart");
   for (var i = 0, len = barCharts.length; i < len; i++) {
-    //var aggregateBarChart = document.getElementById("aggregateBarChart");
-    //aggregateBarChart.style.backgroundColor = '#F2F2F2';
-    //aggregateBarChart.style.padding = '20px';
     barCharts[i].style.backgroundColor = '#F2F2F2';
     barCharts[i].style.padding = '20px';
-    //var aggregateBarChartContext = aggregateBarChart.getContext("2d");
     var barChartContext = barCharts[i].getContext("2d");
-    //var chartLabelsString = document.getElementById("aggregateBarChart").getAttribute("data-labels");
     var chartLabelsString = barCharts[i].getAttribute("data-labels");
     var chartLabels = chartLabelsString.replace(/^\s+|\s+$/g,"").split(/\s*,\s*/);
-    console.log(chartLabels);
-    //var chartDataString = document.getElementById("aggregateBarChart").getAttribute("data");
     var chartDataString = barCharts[i].getAttribute("data");
-    console.log(chartDataString);
     var chartData = JSON.parse(chartDataString);
     var chartDatasets = new Array();
     var chartColors = ['rgba(9,31,47, 1)','rgba(25,69,91, 1)','rgba(69,120,156, 1)','rgba(150,196,224, 1)'];
@@ -78,7 +70,6 @@ if (document.getElementById("aggregateBarChart")) {
         k++;
       }
     }
-    //var myChart = new Chart(aggregateBarChartContext, {
     var myChart = new Chart(barChartContext, {
       type: 'bar',
       data: {
