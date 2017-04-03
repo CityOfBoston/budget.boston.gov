@@ -12,7 +12,7 @@ install:
   # all Node.js-related or Ruby-related dependencies as one step.
   - bundle install
   - npm install
-  - gulp
+  - gulp build --source fy18-recommended
 
 
 deploy:
