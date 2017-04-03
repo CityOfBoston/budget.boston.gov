@@ -15,25 +15,75 @@ url: "https://budget.boston.gov" # the base hostname & protocol for your site
 twitter_username: CityOfBoston
 github_username:  CityOfBoston
 
-# Build settings
-markdown: kramdown
-
 # Collection settings
 collections:
-  cookies:
+  cabinets:
     output: true
+    permalink: "/operating-budget/:collection/:path/"
+  departments:
+    output: true
+    permalink: "/operating-budget/cabinets/:path/"
+  programs:
+    output: true
+    permalink: "/operating-budget/cabinets/:path/"
+  categories:
+    output: true
+    permalink: "/capital-projects/:path/"
+  cp_depts:
+    output: true
+    permalink: "/capital-projects/:path/"
+  projects:
+    output: true
+    permalink: "/capital-projects/:path/"
+
+# Build settings
+markdown: kramdown
 
 exclude: [node_modules, package.json, Gulpfile, Gemfile, Gemfile.lock, vendor]
 keep_files: [assets]
 permalink: '/:collection/:title/'
 
 defaults:
-  -
-    scope:
+  - scope:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
+  - scope:
+      path: "" # empty string for all files
+      type: "cabinets"
+    values:
+      layout: "cabinets"
+  - scope:
+      path: "" # empty string for all files
+      type: "departments"
+    values:
+      layout: "departments"
+  - scope:
+      path: "" # empty string for all files
+      type: "programs"
+    values:
+      layout: "programs"
+  - scope:
+      path: "" # empty string for all files
+      type: "categories"
+    values:
+      layout: "categories"
+  - scope:
+      path: "" # empty string for all files
+      type: "cp_depts"
+    values:
+      layout: "cp_depts"
+  - scope:
+      path: "" # empty string for all files
+      type: "projects"
+    values:
+      layout: "projects"
 
 test:
   post:
     - rake test
+
+gems:
+    - jekyll-money
+
+include: ['_pages']

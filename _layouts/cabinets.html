@@ -51,31 +51,41 @@ layout: bos_wrapper
 <table class="js-table responsive-table responsive-table--horizontal">
   <thead>
     <tr>
-      <th>{{ page.operating_budget.table_header["Program Name"] }}</th>
-      <th>{{ page.operating_budget.table_header.fy-2 }}</th>
-      <th>{{ page.operating_budget.table_header.fy-1 }}</th>
-      <th>{{ page.operating_budget.table_header.fy-0 }}</th>
-      <th>{{ page.operating_budget.table_header["fy+2"] }}</th>
+      <th>{{ page.operating_department["Program Name"] }}</th>
+      <th>{{ page.operating_department.fy-2 }}</th>
+      <th>{{ page.operating_department.fy-1 }}</th>
+      <th>{{ page.operating_department.fy-0 }}</th>
+      <th>{{ page.operating_department["fy+2"] }}</th>
     </tr>
   </thead>
   <tbody>
-    {% for row in page.operating_budget.data %}
+    {% for row in page.operating_department.data %}
       <tr>
         {% if row.total %}
-        <td data-label="All Departments"><strong>{{ row.total }}</strong></td>
+          <td data-label="All Departments">
+            <strong>
+              {{ row.total }}
+            </strong>
+          </td>
         {% else %}
-        <td data-label="Department"><a href="{{ site.url }}/operating-budget/cabinets/{{ page.name | replace: "'","" | slugify }}/{{ row.line_title | replace: "'","" | slugify }}">{{ row.line_title }}</a></td>
+          <td data-label="Department">
+            <a href="{{ site.url }}/operating-budget/cabinets/{{ page.name | replace: "'","" | slugify }}/{{ row.department | replace: "'","" | slugify }}">
+              {{ row.department }}
+            </a>
+          </td>
         {% endif %}
-          <td data-label="{{ page.operating_budget_tables[0].table_summary[0].table_header[0].fy-2 }}">
+          <td data-label="{{ page.operating_department.fy-2 }}">
             {{ row.fy-2 | append: 0 |append:0 | money }}
           </td>
-          <td data-label="{{ page.operating_budget_tables[0].table_summary[0].table_header[0].fy-1 }}">
+          <td data-label="{{ page.operating_department.fy-1 }}">
             {{ row.fy-1 | append: 0 |append:0 | money }}
           </td>
-          <td data-label="{{ page.operating_budget_tables[0].table_summary[0].table_header[0].fy-0 }}">
+          <td data-label="{{ page.operating_department.fy-0 }}">
             {{ row.fy-0 | append: 0 |append:0 | money }}
           </td>
-          <td data-label="{{ page.operating_budget_tables[0].table_summary[0].table_header[0]['fy+1'] }}">{{ row["fy+1"] | append: 0 |append:0 | money }}</td>
+          <td data-label="{{ page.operating_department['fy+2'] }}">
+            {{ row["fy+1"] | append: 0 |append:0 | money }}
+          </td>
       </tr>
     {% endfor %}
   </tbody>
@@ -92,7 +102,11 @@ layout: bos_wrapper
 <div class="desktop-100 clearfix">
 <div class="desktop-50">
   <div id="totalLineChart-wrapper">
-    <table class="responsive-table"><th>{{ page.tables_summary[0].table_summary[0].table_header.data[-1].total }} {{ page.name }} Operating Budget</th></table>
+    <table class="responsive-table">
+      <th>
+        {{ page.external_funds_tables.data[-1].total }} {{ page.name }} Operating Budget
+      </th>
+    </table>
     <canvas
       id="lineChart"
       class="lineChart"
@@ -100,15 +114,14 @@ layout: bos_wrapper
       height="200"
       data-title="{{ page.name }}"
       data-labels="
-        {% for i in page.operating_budget.table_header %}
-          {% if i[0] != 'Program Name' and i[0] != 'line_type' %}
-          {{ i[1] }}{% unless forloop.last %},{% endunless %}
-          {% endif %}
-        {% endfor %}
+        {{ page.operating_department.fy-2 }},
+        {{ page.operating_department.fy-1 }},
+        {{ page.operating_department.fy-0 }},
+        {{ page.operating_department['fy+2'] }}
       "
       data="
-        {% for i in page.operating_budget.data[-1] %}
-          {% if i[0] != 'line_type' and i[0] != 'line_title' %}
+        {% for i in page.operating_department.data[-1] %}
+          {% if i[0] != 'line_type' and i[0] != 'total' %}
           {{ i[1] }}{% unless forloop.last %},{% endunless %}
           {% endif %}
         {% endfor %}
@@ -125,19 +138,17 @@ layout: bos_wrapper
       width="200"
       height="200"
       data-labels='
-        {% for column in page.operating_budget.table_header %}
-          {% if column[0] != "Program Name" and column[0] != "line_type" %}
-            {{ column[1] }}
-            {% unless forloop.last %},{% endunless %}
-          {% endif %}
-        {% endfor %}
+        {{ page.operating_department.fy-2 }},
+        {{ page.operating_department.fy-1 }},
+        {{ page.operating_department.fy-0 }},
+        {{ page.operating_department["fy+2"] }}
       '
       data='{
-        {% for row in page.operating_budget.data %}
+        {% for row in page.operating_department.data %}
           {% if row.line_type == "data" %}
-            "{{ row.line_title | remove: "'" }}":[
+            "{{ row.department | remove: "'" }}":[
               {% for column in row %}
-                {% if column[0] != "line_title" and column[0] != "line_type" %}
+                {% if column[0] != "department" and column[0] != "line_type" %}
                   {{ column[1] }}{% unless forloop.last %}, {% endunless %}
                 {% endif %}
               {% endfor %}
@@ -151,23 +162,23 @@ layout: bos_wrapper
 </div>
 
 <div class="g">
-{% for row in page.operating_budget.data %}
+{% for row in page.operating_department.data %}
   {% if row.line_type == 'data' %}
     <div class="wi g--4">
-      <table class="responsive-table"><th>{{ row.line_title }}</th></table>
+      <table class="responsive-table"><th>{{ row.department }}</th></table>
       <canvas
         id="lineChart"
         class="lineChart"
         width="200"
         height="200"
-        data-title="{{ row.line_title }}"
+        data-title=""
         data-labels="
-          {{ page.operating_budget.table_header.fy-2 }},
-          {{ page.operating_budget.table_header.fy-1 }},
-          {{ page.operating_budget.table_header.fy-0 }},
-          {{ page.operating_budget.table_header['fy+2'] }}
+          {{ page.operating_department.fy-2 }},
+          {{ page.operating_department.fy-1 }},
+          {{ page.operating_department.fy-0 }},
+          {{ page.operating_department['fy+2'] }}
         "
-        data="{{ row.fy-2 }}, {{ row.fy-1 }}, {{ row.fy-0 }}, {{ row['fy+2'] }}"
+        data="{{ row.fy-2 }}, {{ row.fy-1 }}, {{ row.fy-0 }}, {{ row['fy+1'] }}"
       ></canvas>
     </div>
   {% endif %}
@@ -175,48 +186,48 @@ layout: bos_wrapper
 </div>
 <br />
 
-{% if page.external_funds_budget %}
-<div class="sh desktop-100">
-  <h2 class="sh-title createNavItem-processed">
-    External Funds By Department
-  </h2>
-</div>
-<br />
-<table class="js-table responsive-table responsive-table--horizontal">
-  <thead>
-    <tr>
-      <th>{{ page.external_funds_tables[0].table_summary[0].table_header[0]["Program Name"] }}</th>
-      <th>{{ page.external_funds_tables[0].table_summary[0].table_header[0].fy-2 }}</th>
-      <th>{{ page.external_funds_tables[0].table_summary[0].table_header[0].fy-1 }}</th>
-      <th>{{ page.external_funds_tables[0].table_summary[0].table_header[0].fy-0 }}</th>
-      <th>{{ page.external_funds_tables[0].table_summary[0].table_header[0]["fy+1"] }}</th>
-    </tr>
-  </thead>
-  <tbody>
-    {% for row in page.external_funds_tables[0].table_summary[0].data %}
+{% if page.external_funds_tables %}
+  <div class="sh desktop-100">
+    <h2 class="sh-title createNavItem-processed">
+      External Funds By Department
+    </h2>
+  </div>
+  <br />
+  <table class="js-table responsive-table responsive-table--horizontal">
+    <thead>
       <tr>
-        {% if row.total %}
-          <td data-label="All Departments"><strong>{{ row.total }}</strong></td>
-        {% else %}
-          <td data-label="Department"><a href="{{ site.url }}/operating-budget/cabinets/{{ page.name | replace: "'","" | slugify }}/{{ row.department | replace: "'","" | slugify }}">{{ row.department }}</a></td>
-        {% endif %}
-        <td data-label="{{ page.external_funds_tables[0].table_summary[0].table_header[0].fy-2 }}">
-          {{ row.fy-2 | append: 0 |append:0 | money }}
-        </td>
-        <td data-label="{{ page.external_funds_tables[0].table_summary[0].table_header[0].fy-1 }}">
-          {{ row.fy-1 | append: 0 |append:0 | money }}
-        </td>
-        <td data-label="{{ page.external_funds_tables[0].table_summary[0].table_header[0].fy-0 }}">
-          {{ row.fy-0 | append: 0 |append:0 | money }}
-        </td>
-        <td data-label="{{ page.external_funds_tables[0].table_summary[0].table_header[0]['fy+1'] }}">
-          {{ row["fy+1"] | append: 0 |append:0 | money }}
-        </td>
+        <th>{{ page.external_funds_tables.table_header.title }}</th>
+        <th>{{ page.external_funds_tables.table_header.fy-2 }}</th>
+        <th>{{ page.external_funds_tables.table_header.fy-1 }}</th>
+        <th>{{ page.external_funds_tables.table_header.fy-0 }}</th>
+        <th>{{ page.external_funds_tables.table_header["fy+2"] }}</th>
       </tr>
-    {% endfor %}
-  </tbody>
-</table>
-<br />
+    </thead>
+    <tbody>
+      {% for row in page.external_funds_tables.data %}
+        <tr>
+          {% if row.total %}
+            <td data-label="All Departments"><strong>{{ row.total }}</strong></td>
+          {% else %}
+            <td data-label="Department"><a href="{{ site.url }}/operating-budget/cabinets/{{ page.name | replace: "'","" | slugify }}/{{ row.title | replace: "'","" | slugify }}">{{ row.title }}</a></td>
+          {% endif %}
+          <td data-label="{{ page.external_funds.tables_header.fy-2 }}">
+            {{ row.fy-2 | append: 0 |append:0 | money }}
+          </td>
+          <td data-label="{{ page.external_funds_tables.table_header.fy-1 }}">
+            {{ row.fy-1 | append: 0 |append:0 | money }}
+          </td>
+          <td data-label="{{ page.external_funds_tables.table_header.fy-0 }}">
+            {{ row.fy-0 | append: 0 |append:0 | money }}
+          </td>
+          <td data-label="{{ page.external_funds_tables.table_header['fy+2'] }}">
+            {{ row["fy+1"] | append: 0 |append:0 | money }}
+          </td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  <br />
 {% endif %}
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.bundle.min.js"></script>
