@@ -60,20 +60,21 @@ layout: bos_wrapper
   </thead>
   <tbody>
     {% for row in page.operating_department.data %}
-      <tr>
-        {% if row.total %}
+      {% if row.total %}
+        <tr class="total">
           <td data-label="All Departments">
             <strong>
               {{ row.total }}
             </strong>
           </td>
-        {% else %}
+      {% else %}
+        <tr>
           <td data-label="Department">
             <a href="{{ site.url }}/operating-budget/cabinets/{{ page.name | replace: "'","" | slugify }}/{{ row.department | replace: "'","" | slugify }}">
               {{ row.department }}
             </a>
           </td>
-        {% endif %}
+      {% endif %}
           <td data-label="{{ page.operating_department.fy-2 }}">
             {{ row.fy-2 | append: 0 |append:0 | money }}
           </td>
@@ -205,10 +206,11 @@ layout: bos_wrapper
     </thead>
     <tbody>
       {% for row in page.external_funds_tables.data %}
-        <tr>
-          {% if row.total %}
+        {% if row.total %}
+          <tr class="total">
             <td data-label="All Departments"><strong>{{ row.total }}</strong></td>
-          {% else %}
+        {% else %}
+          <tr>
             <td data-label="Department"><a href="{{ site.url }}/operating-budget/cabinets/{{ page.name | replace: "'","" | slugify }}/{{ row.title | replace: "'","" | slugify }}">{{ row.title }}</a></td>
           {% endif %}
           <td data-label="{{ page.external_funds.tables_header.fy-2 }}">

@@ -99,11 +99,16 @@ layout: bos_wrapper
   </thead>
   <tbody>
     {% for row in page.program_history_by_account.data %}
-      <tr>
         {% if row.line_type == 'total' %}
+        <tr class="total">
           <td><strong>{{ row.line_title }}</strong></td>
         {% else %}
-        <td><a href="{{ site.url }}/cabinets/{{ page.cabinet | slugify }}/{{ page.name | replace: "'","" | slugify }}/{{ row.line_title | replace: "'","" | slugify }}">{{ row.line_title }}</a></td>
+        <tr>
+          <td>
+            <a href="{{ site.url }}/cabinets/{{ page.cabinet | slugify }}/{{ page.name | replace: "'","" | slugify }}/{{ row.line_title | replace: "'","" | slugify }}">
+              {{ row.line_title }}
+            </a>
+          </td>
         {% endif %}
         <td>{{ row.fy-2 | append: 0 |append:0 | money }}</td>
         <td>{{ row.fy-1 | append: 0 |append:0 | money }}</td>

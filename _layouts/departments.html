@@ -69,14 +69,15 @@ layout: bos_wrapper
     </thead>
     <tbody>
       {% for row in page.department_history_by_account.data %}
-        <tr>
-          {% if row.line_type == 'total' %}
+        {% if row.line_type == 'total' %}
+          <tr class="total">
             <td>
               <strong>
                 {{ row.line_title }}
               </strong>
             </td>
-          {% else %}
+        {% else %}
+          <tr>
             <td>
               <a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | slugify }}/{{ page.name | replace: "'","" | slugify }}/{{ row.line_title | replace: "'","" | slugify }}">{{ row.line_title }}
               </a>
@@ -218,16 +219,17 @@ layout: bos_wrapper
     </thead>
     <tbody>
       {% for row in page.operating_budget.data %}
-        <tr>
-          {% if row.line_type == 'total' %}
+        {% if row.line_type == 'total' %}
+          <tr class="total">
             <td><strong>{{ row.line_title }}</strong></td>
-          {% else %}
+        {% else %}
+          <tr>
             <td>
               <a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | slugify }}/{{ page.name | replace: "'","" | slugify }}/{{ row.line_title | replace: "'","" | slugify }}">
                 {{ row.line_title }}
               </a>
             </td>
-          {% endif %}
+        {% endif %}
           <td>{{ row.fy-2 | append: 0 |append:0 | money }}</td>
           <td>{{ row.fy-1 | append: 0 |append:0 | money }}</td>
           <td>{{ row.fy-0 | append: 0 |append:0 | money }}</td>
