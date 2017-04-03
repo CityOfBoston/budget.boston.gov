@@ -166,10 +166,10 @@ layout: bos_wrapper
   </div>
   </div>
   <div class="g">
-  {% for row in page.operating_department.data %}
+  {% for row in page.department_history_by_account.data %}
     {% if row.line_type == 'data' %}
       <div class="wi g--4">
-        <table class="responsive-table"><th>{{ row.department }}</th></table>
+        <table class="responsive-table"><th>{{ row.line_title }}</th></table>
         <canvas
           id="lineChart"
           class="lineChart"
