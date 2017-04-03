@@ -1,0 +1,192 @@
+---
+{
+  "cabinet":"Administration and Finance",
+  "department":"budget-management",
+  "file_version":"0.10",
+  "head_name":"Mary McCoy",
+  "head_title":"Manager",
+  "name":"Revenue Monitoring",
+  "parent":"budget-management",
+  "section_id":244,
+  "section_md5_id":"9188905E74C28E489B44E954EC0B9BCA",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 141300",
+  "description":[
+    "The Revenue Monitoring and Fiscal Analysis Program works to improve Boston's ability to deliver services by maximizing its revenue.  The program also provides economic and fiscal analyses as an aid in fiscal decision-making by the Mayor, the Chief Financial Officer, and the Budget Director."
+  ],
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":225781,
+      "fy-1":193411,
+      "fy-0":191568,
+      "fy+1":214848
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":175,
+      "fy-1":275,
+      "fy-0":1800,
+      "fy+1":651800
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":225956,
+      "fy-1":193686,
+      "fy-0":193368,
+      "fy+1":866648
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":225781,
+        "fy-1":193411,
+        "fy-0":191568,
+        "fy+1":214848,
+        "diff":23280
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":175,
+        "fy-1":275,
+        "fy-0":1800,
+        "fy+1":651800,
+        "diff":650000
+      },
+      {
+        "line_title":"Supplies and Materials",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs and Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":225956,
+        "fy-1":193686,
+        "fy-0":193368,
+        "fy+1":866648,
+        "diff":673280
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Ensure long-term financial stability."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "debug":"JPM",
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% by which actual revenues exceed actual expenditures.",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Maximize current and future revenues."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "debug":"JPM",
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% achieved of new revenue identified in budget process.",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

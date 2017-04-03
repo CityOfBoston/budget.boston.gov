@@ -1,0 +1,133 @@
+---
+{
+  "cabinet":"Public Safety",
+  "department":"police-department",
+  "file_version":"0.10",
+  "head_name":"Lisa R. Holmes",
+  "head_title":"Manager",
+  "name":"Bureau of Professional Development",
+  "parent":"police-department",
+  "section_id":41,
+  "section_md5_id":"3416A75F4CEA9109507CACD8E2F2AEFC",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 211400",
+  "description":[
+    "The Bureau of Professional Development is responsible for providing professional development courses for departmental employees. The Bureau of Professional Development is comprised of 2 units, the Academy and Range. The program delivers training courses for all levels of the department ranging from entry-level training to Executive Development training. The training offered at each level will support the overall priorities of the Boston Police Department."
+  ],
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":7600159,
+      "fy-1":7632766,
+      "fy-0":6747701,
+      "fy+1":6982385
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":354753,
+      "fy-1":423325,
+      "fy-0":484905,
+      "fy+1":409570
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":7954912,
+      "fy-1":8056091,
+      "fy-0":7232606,
+      "fy+1":7391955
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":7600159,
+        "fy-1":7632766,
+        "fy-0":6747701,
+        "fy+1":6982385,
+        "diff":234684
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":83618,
+        "fy-1":63949,
+        "fy-0":187355,
+        "fy+1":134355,
+        "diff":-53000
+      },
+      {
+        "line_title":"Supplies and Materials",
+        "line_type":"data",
+        "fy-2":245308,
+        "fy-1":297743,
+        "fy-0":233500,
+        "fy+1":236165,
+        "diff":2665
+      },
+      {
+        "line_title":"Current Chgs and Oblig",
+        "line_type":"data",
+        "fy-2":10853,
+        "fy-1":43530,
+        "fy-0":34950,
+        "fy+1":9950,
+        "diff":-25000
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":14974,
+        "fy-1":18103,
+        "fy-0":29100,
+        "fy+1":29100,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":7954912,
+        "fy-1":8056091,
+        "fy-0":7232606,
+        "fy+1":7391955,
+        "diff":159349
+      }
+    ]
+  },
+  "performance_strategies":[]
+}
+---

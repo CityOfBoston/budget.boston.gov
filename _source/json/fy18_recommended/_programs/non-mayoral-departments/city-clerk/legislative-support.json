@@ -1,0 +1,229 @@
+---
+{
+  "cabinet":"Non-Mayoral Departments",
+  "department":"City Clerk",
+  "file_version":"0.10",
+  "head_name":"Maureen Feeney",
+  "head_title":"Manager",
+  "name":"Legislative Support",
+  "parent":"City Clerk",
+  "section_id":106,
+  "section_md5_id":"F0935E4CD5920AA6C7C996A5EE53A70F",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 161100",
+  "description":[
+    "The Legislative Support Program carries out government functions required by state and local law and manages and maintains the City Council document system database.  The program also administers oaths of office and maintains records relative to the appointment or election of City officers.  The program maintains and updates the City of Boston Code, advises City officials on the Commonwealth's open meeting law, and maintains copies of City of Boston official reports."
+  ],
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":338012,
+      "fy-1":345642,
+      "fy-0":355501,
+      "fy+1":258640
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":22307,
+      "fy-1":26936,
+      "fy-0":21100,
+      "fy+1":21193
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":360319,
+      "fy-1":372578,
+      "fy-0":376601,
+      "fy+1":279833
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":338012,
+        "fy-1":345642,
+        "fy-0":355501,
+        "fy+1":258640,
+        "diff":-96861
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":13883,
+        "fy-1":14830,
+        "fy-0":12800,
+        "fy+1":12748,
+        "diff":-52
+      },
+      {
+        "line_title":"Supplies and Materials",
+        "line_type":"data",
+        "fy-2":5259,
+        "fy-1":5437,
+        "fy-0":4500,
+        "fy+1":4500,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs and Oblig",
+        "line_type":"data",
+        "fy-2":3165,
+        "fy-1":4021,
+        "fy-0":3800,
+        "fy+1":3945,
+        "diff":145
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":2648,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":360319,
+        "fy-1":372578,
+        "fy-0":376601,
+        "fy+1":279833,
+        "diff":-96768
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To distribute copies of the Municipal Code and Annual Supplements"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "debug":"JPM",
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Codes and Supplements distributed.",
+              "fy-2":"66",
+              "fy-1":"291",
+              "fy-0":"255",
+              "fy+1":"255"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To receive, prepare, record and distribute financial ansd legislative documents"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "debug":"JPM",
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Distribution of financial and legislative documents.",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"1570",
+              "fy+1":"1570"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Processing Hours.",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"1680",
+              "fy+1":"1680"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To Update the Ordinance section of the Municipal Code and distribute supplements"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "debug":"JPM",
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Annual Code Supplement and CD produced in April.",
+              "fy-2":"1",
+              "fy-1":"1",
+              "fy-0":"1",
+              "fy+1":"1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

@@ -1,0 +1,157 @@
+---
+{
+  "debug":"JCB",
+  "cabinet":"Mayor's Office",
+  "department":null,
+  "file_version":"0.10",
+  "head_name":Null,
+  "head_title":Null,
+  "name":"Mayor's Office",
+  "parent":"root",
+  "section_id":3,
+  "section_md5_id":"ECCBC87E4B5CE2FE28308FD9F2A7BAF3",
+  "section_type":"cabinet",
+  "section_type_short":"C",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "mission":[
+    "The agencies reporting to the Mayor's Office represent the Mayor and the City in legal matters, public relations, and elections. The Mayor's vision for the future of the City is reflected in the policies and directions carried forward by the staff of these offices."
+  ],
+  "overview":[
+    "OVERVIEW FROM VOLUME 1"
+  ],
+  "operating_department":{
+    "table_type":"operating_department",
+    "debug":"JCB",
+    "table_title":"Operating Budget",
+    "Program Name":"Department",
+    "line_type":"title",
+    "fy-2":"FY15 Actual",
+    "fy-1":"FY16 Actual",
+    "fy-0":"FY17 Budget",
+    "fy+1":"FY18 Budget",
+    "data":[
+      {
+        "department":"Mayor's Office",
+        "line_type":"data",
+        "fy-2":2500499,
+        "fy-1":3233710,
+        "fy-0":4042281,
+        "fy+1":4159940
+      },
+      {
+        "department":"Election Department",
+        "line_type":"data",
+        "fy-2":3332734,
+        "fy-1":3774797,
+        "fy-0":4329342,
+        "fy+1":4245915
+      },
+      {
+        "department":"Law Department",
+        "line_type":"data",
+        "fy-2":5992562,
+        "fy-1":5752779,
+        "fy-0":5872444,
+        "fy+1":5849902
+      },
+      {
+        "department":"Public Information",
+        "line_type":"data",
+        "fy-2":1190248,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0
+      },
+      {
+        "department":"Women's Advancement",
+        "line_type":"data",
+        "fy-2":190982,
+        "fy-1":212106,
+        "fy-0":233615,
+        "fy+1":225519
+      },
+      {
+        "total":"Total",
+        "line_type":"total",
+        "fy-2":13207025,
+        "fy-1":12973392,
+        "fy-0":14477682,
+        "fy+1":14481276
+      }
+    ],
+    "capital_budget_expenditures":[
+      {
+        "debug":"JCCD",
+        "table_type":"capital_budget_expenditures",
+        "table_title":"Capital Budget Expenditures",
+        "table_header":{
+          "title":"Capital Budget Expenditures",
+          "line_type":"header",
+          "fy-2":"FY15 Actual",
+          "fy-1":"FY16 Actual",
+          "fy-0":"FY17 Estimated",
+          "fy+1":"FY18 Projected"
+        },
+        "data":[
+          {
+            "title":"Mayor's Office",
+            "line_type":"data",
+            "fy-2":0,
+            "fy-1":0,
+            "fy-0":100000,
+            "fy+1":100000
+          },
+          {
+            "title":"Total",
+            "line_type":"total",
+            "fy-2":0,
+            "fy-1":0,
+            "fy-0":100000,
+            "fy+1":100000
+          }
+        ]
+      }
+    ]
+  },
+  "external_funds_tables":{
+    "debug":"JCEXFT",
+    "table_type":"external_funds",
+    "table_title":"external_funds",
+    "table_header":{
+      "title":"Department",
+      "line_type":"header",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "title":"Law Department",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":27014,
+        "fy-0":500000,
+        "fy+1":500000
+      },
+      {
+        "title":"Mayor's Office",
+        "line_type":"data",
+        "fy-2":95958,
+        "fy-1":600072,
+        "fy-0":927136,
+        "fy+1":1100398
+      },
+      {
+        "total":"Total Cabinet",
+        "line_type":"total",
+        "fy-2":95958,
+        "fy-1":627086,
+        "fy-0":1427136,
+        "fy+1":1600398
+      }
+    ]
+  }
+}
+---

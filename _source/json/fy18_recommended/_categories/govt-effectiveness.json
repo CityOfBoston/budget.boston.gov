@@ -1,0 +1,612 @@
+---
+{
+  "file_version":"0.10",
+  "name":"Gov't Effectiveness",
+  "section_type":"Capital Budget",
+  "section_type_short":"L",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "description":[
+    "NEED CATEGORY DESCRIPTION"
+  ],
+  "vol1_category_copy":[
+    "NEED TO READ THIS FROM VOLUME ONE"
+  ],
+  "projects":[
+    {
+      "table_type":"capital_projects_by_department",
+      "table_title":"Capital Projects by Department",
+      "header":{
+        "debug":"JCCPBYD",
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "category":"Department",
+        "name":"Project",
+        "location":"Location",
+        "status":"Status",
+        "fy-0":"FY18 Projected",
+        "project_title":"Total"
+      },
+      "projects_data":[
+        {
+          "Boston Centers for Youth & Families":[
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":150000,
+              "category":"Gov't Effectiveness",
+              "name":"BCYF Curley Community Center",
+              "location":"South Boston",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":475000,
+              "category":"Gov't Effectiveness",
+              "name":"BCYF Mattahunt Community Center Exterior Lighting",
+              "location":"Mattapan",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":0,
+              "category":"Gov't Effectiveness",
+              "name":"Youth Budget Round 1",
+              "location":"Citywide",
+              "status":"Implementation Underway",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":400000,
+              "category":"Gov't Effectiveness",
+              "name":"Youth Budget Round 2",
+              "location":"Citywide",
+              "status":"Implementation Underway",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":300000,
+              "category":"Gov't Effectiveness",
+              "name":"Youth Budget Round 3",
+              "location":"Citywide",
+              "status":"Implementation Underway",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":0,
+              "category":"Gov't Effectiveness",
+              "name":"Youth Budget Round 4",
+              "location":"Citywide",
+              "status":"Implementation Underway",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":0,
+              "category":"Gov't Effectiveness",
+              "name":"Youth Budget Round 5",
+              "location":"Citywide",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"totalDeptCat",
+              "title":null,
+              "total1":1325000,
+              "category":"Gov't Effectiveness",
+              "department":"Boston Centers for Youth and Families"
+            }
+          ]
+        },
+        {
+          "Boston Planning and Development Agency":[
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":250000,
+              "category":"Gov't Effectiveness",
+              "name":"Long Wharf",
+              "location":"Financial District/Downtown",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":250000,
+              "category":"Gov't Effectiveness",
+              "name":"RLFMP: Dry-dock 4",
+              "location":"South Boston",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":400000,
+              "category":"Gov't Effectiveness",
+              "name":"RLFMP: Pier 6",
+              "location":"South Boston",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"totalDeptCat",
+              "title":null,
+              "total1":900000,
+              "category":"Gov't Effectiveness",
+              "department":"Boston Planning and Development Agency"
+            }
+          ]
+        },
+        {
+          "Department of Innovation & Technology":[
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":1200000,
+              "category":"Gov't Effectiveness",
+              "name":"Cyber Security and Resiliency",
+              "location":"Various neighborhoods",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":350000,
+              "category":"Gov't Effectiveness",
+              "name":"Data Analytics",
+              "location":"N/A",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":600000,
+              "category":"Gov't Effectiveness",
+              "name":"Digital Service Delivery and Engagement",
+              "location":"Various neighborhoods",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":5558477,
+              "category":"Gov't Effectiveness",
+              "name":"Enterprise Applications",
+              "location":"N/A",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":113476,
+              "category":"Gov't Effectiveness",
+              "name":"Tax Billing and Collecting System",
+              "location":"N/A",
+              "status":"Implementation Underway",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"totalDeptCat",
+              "title":null,
+              "total1":7821953,
+              "category":"Gov't Effectiveness",
+              "department":"Department of Innovation and Technology"
+            }
+          ]
+        },
+        {
+          "Emergency Management":[
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":50000,
+              "category":"Gov't Effectiveness",
+              "name":"Emergency Operations Center",
+              "location":"N/A",
+              "status":"To Be Scheduled",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"totalDeptCat",
+              "title":null,
+              "total1":50000,
+              "category":"Gov't Effectiveness",
+              "department":"Emergency Management"
+            }
+          ]
+        },
+        {
+          "Fire Department":[
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":0,
+              "category":"Gov't Effectiveness",
+              "name":"Building Envelope Repairs at Various Stations",
+              "location":"Citywide",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":200000,
+              "category":"Gov't Effectiveness",
+              "name":"Engine 17",
+              "location":"Dorchester",
+              "status":"To Be Scheduled",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":0,
+              "category":"Gov't Effectiveness",
+              "name":"Engine 33",
+              "location":"Back Bay",
+              "status":"To Be Scheduled",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":750000,
+              "category":"Gov't Effectiveness",
+              "name":"Engine 42",
+              "location":"Roxbury",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":1520290,
+              "category":"Gov't Effectiveness",
+              "name":"Engine 5",
+              "location":"East Boston",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":1300000,
+              "category":"Gov't Effectiveness",
+              "name":"Engine 50",
+              "location":"Charlestown",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":5250000,
+              "category":"Gov't Effectiveness",
+              "name":"Fire Equipment FY18",
+              "location":"Citywide",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":0,
+              "category":"Gov't Effectiveness",
+              "name":"Fire Equipment FY19-FY22",
+              "location":"Citywide",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":350000,
+              "category":"Gov't Effectiveness",
+              "name":"HVAC / Boiler Replacement at Various Stations",
+              "location":"Various neighborhoods",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":750000,
+              "category":"Gov't Effectiveness",
+              "name":"Roof and Masonry Repairs at Engine 4, 14 and 55",
+              "location":"Various neighborhoods",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"totalDeptCat",
+              "title":null,
+              "total1":10120290,
+              "category":"Gov't Effectiveness",
+              "department":"Fire Department"
+            }
+          ]
+        },
+        {
+          "Mayor's Office":[
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":100000,
+              "category":"Gov't Effectiveness",
+              "name":"Innovation Fund",
+              "location":"Various neighborhoods",
+              "status":"Implementation Underway",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"totalDeptCat",
+              "title":null,
+              "total1":100000,
+              "category":"Gov't Effectiveness",
+              "department":"Mayor's Office"
+            }
+          ]
+        },
+        {
+          "Police Department":[
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":430000,
+              "category":"Gov't Effectiveness",
+              "name":"Area A-1 and Area D-4 Stations",
+              "location":"Various neighborhoods",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":100000,
+              "category":"Gov't Effectiveness",
+              "name":"Area B-3 Roof Replacement",
+              "location":"Mattapan",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":100000,
+              "category":"Gov't Effectiveness",
+              "name":"Area D-14 Station",
+              "location":"Allston/Brighton",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":100000,
+              "category":"Gov't Effectiveness",
+              "name":"Area E-5 Roof Replacement",
+              "location":"West Roxbury",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":100000,
+              "category":"Gov't Effectiveness",
+              "name":"Area E-5 Station",
+              "location":"West Roxbury",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":13000000,
+              "category":"Gov't Effectiveness",
+              "name":"Communications Infrastructure Upgrades",
+              "location":"Citywide",
+              "status":"Implementation Underway",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":2650000,
+              "category":"Gov't Effectiveness",
+              "name":"East Boston Police Station",
+              "location":"East Boston",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":50000,
+              "category":"Gov't Effectiveness",
+              "name":"Emergency 9-1-1 Backup Study",
+              "location":"Various neighborhoods",
+              "status":"To Be Scheduled",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":100000,
+              "category":"Gov't Effectiveness",
+              "name":"Garage for Specialized Vehicles",
+              "location":"N/A",
+              "status":"To Be Scheduled",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":2054860,
+              "category":"Gov't Effectiveness",
+              "name":"Gun Range at Moon Island",
+              "location":"Harbor Islands",
+              "status":"In Construction",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"totalDeptCat",
+              "title":null,
+              "total1":18684860,
+              "category":"Gov't Effectiveness",
+              "department":"Police Department"
+            }
+          ]
+        },
+        {
+          "Property Management":[
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":500000,
+              "category":"Gov't Effectiveness",
+              "name":"1010 Mass. Ave. Renovation",
+              "location":"Roxbury",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":1700000,
+              "category":"Gov't Effectiveness",
+              "name":"26 Court Street Renovation",
+              "location":"Financial District/Downtown",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":3189000,
+              "category":"Gov't Effectiveness",
+              "name":"City Hall",
+              "location":"Government Center/Faneuil Hall",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":5117,
+              "category":"Gov't Effectiveness",
+              "name":"City Hall ADA Restroom",
+              "location":"Government Center/Faneuil Hall",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":600000,
+              "category":"Gov't Effectiveness",
+              "name":"City Hall Plaza",
+              "location":"Government Center/Faneuil Hall",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":0,
+              "category":"Gov't Effectiveness",
+              "name":"Family Justice Center Elevator",
+              "location":"Allston/Brighton",
+              "status":"To Be Scheduled",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":2500000,
+              "category":"Gov't Effectiveness",
+              "name":"Faneuil Hall HVAC",
+              "location":"Government Center/Faneuil Hall",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":392958,
+              "category":"Gov't Effectiveness",
+              "name":"Veronica Smith Center Bathrooms and Flooring",
+              "location":"Allston/Brighton",
+              "status":"In Construction",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"totalDeptCat",
+              "title":null,
+              "total1":8887075,
+              "category":"Gov't Effectiveness",
+              "department":"Property Management"
+            }
+          ]
+        },
+        {
+          "Public Health Commission":[
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":200000,
+              "category":"Gov't Effectiveness",
+              "name":"BPHC Budget Software",
+              "location":"Citywide",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":50000,
+              "category":"Gov't Effectiveness",
+              "name":"EMS Training Academy Study",
+              "location":"N/A",
+              "status":"Study Underway",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"totalDeptCat",
+              "title":null,
+              "total1":250000,
+              "category":"Gov't Effectiveness",
+              "department":"Public Health Commission"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "line_type":"totalCat",
+      "title":null,
+      "fy-0":0,
+      "total":48139178,
+      "category":"Gov't Effectiveness"
+    }
+  ]
+}
+---

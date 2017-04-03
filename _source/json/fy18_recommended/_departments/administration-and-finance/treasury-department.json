@@ -1,0 +1,251 @@
+---
+{
+  "debug":"JBD",
+  "file_version":"0.10",
+  "section_id":21,
+  "section_md5_id":"3C59DC048E8850243BE8079A5C74D079",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "name":"Treasury Department",
+  "parent":"Administration and Finance",
+  "cabinet":"Administration and Finance",
+  "department":"Treasury Department",
+  "head_name":"David Sweeney",
+  "head_title":"Chief Financial Officer and Collector-Treasurer",
+  "appropriation_code":"Appropriation 137",
+  "mission":[
+    "The mission of the Treasury Department is to collect and transfer all funds due to the City. The Department also deposits and invests City funds, manages the City's borrowings, and makes all disbursements."
+  ],
+  "selected_performance_strategies":[],
+  "operating_budget":{
+    "debug":"JPTR",
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "Program Name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "line_title":"General Management",
+        "line_type":"data",
+        "fy-2":657346,
+        "fy-1":707688,
+        "fy-0":579511,
+        "fy+1":553697
+      },
+      {
+        "line_title":"Treasury Administration",
+        "line_type":"data",
+        "fy-2":758290,
+        "fy-1":751850,
+        "fy-0":742511,
+        "fy+1":711383
+      },
+      {
+        "line_title":"General Service/Payroll",
+        "line_type":"data",
+        "fy-2":695661,
+        "fy-1":693201,
+        "fy-0":716023,
+        "fy+1":662237
+      },
+      {
+        "line_title":"Special Collections",
+        "line_type":"data",
+        "fy-2":723780,
+        "fy-1":512653,
+        "fy-0":562765,
+        "fy+1":563068
+      },
+      {
+        "line_title":"Payment Services",
+        "line_type":"data",
+        "fy-2":890801,
+        "fy-1":1236455,
+        "fy-0":927381,
+        "fy+1":923869
+      },
+      {
+        "line_title":"Accounting/Quality Control",
+        "line_type":"data",
+        "fy-2":343763,
+        "fy-1":374515,
+        "fy-0":364955,
+        "fy+1":368029
+      },
+      {
+        "line_title":"Treasury Accounting",
+        "line_type":"data",
+        "fy-2":163589,
+        "fy-1":155541,
+        "fy-0":172852,
+        "fy+1":172852
+      },
+      {
+        "line_title":"Accounts Receivable",
+        "line_type":"data",
+        "fy-2":291570,
+        "fy-1":312704,
+        "fy-0":319637,
+        "fy+1":379042
+      },
+      {
+        "line_title":"Trust",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":184,
+        "fy-0":0,
+        "fy+1":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":4524800,
+        "fy-1":4744791,
+        "fy-0":4385635,
+        "fy+1":4334177
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":3064476,
+      "fy-1":3181844,
+      "fy-0":3360206,
+      "fy+1":3296478
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":1460324,
+      "fy-1":1562947,
+      "fy-0":1025429,
+      "fy+1":1037699
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":4524800,
+      "fy-1":4744791,
+      "fy-0":4385635,
+      "fy+1":4334177
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Bonding Requirements, M.G.L.A. c. 41, &sect; 35.",
+    "Deposit on Funds, M.G.L.A. c. 40, &sect; 35; M.G.L.A. c. 41, &sect; 46; M.G.L.A. c. 44, &sect;&sect; 53-55; M.G.L.A. c. 94C, &sect; 47.",
+    "Custody and Safekeeping of Municipal Funds, M.G.L.A. c. 40, &sect; 5B; M.G.L.A. c. 41, &sect;&sect; 36, 44, 46; M.G.L.A. c. 44, &sect;&sect; 53-55.",
+    "Payment of Bills, Payrolls, Withholding, M.G.L.A. c. 41, &sect;&sect; 35, 41-43, 52, 56, 65-67; M.G.L.A. c.71, &sect; 37B; M.G.L.A. c.149, &sect;&sect; 148, 178B; M.G.L.A. c. 62B, &sect; 2; M.G.L.A. c. 62, &sect; 10; M.G.L.A. c. 32, &sect; 22; M.G.L.A. c. 32B, &sect; 7; M.G.L.A. c.154, &sect; 8; M.G.L.A. c.175, &sect;&sect; 138A, 193R; M.G.L.A. c. 180, &sect; 17; 26 U.S.C. &sect;&sect; 3401-3403, 3405-3406.",
+    "Reporting of Indebtedness, M.G.L.A. c. 41, &sect; 59; M.G.L.A. c.44, &sect;&sect; 22-28.",
+    "Appropriated Expenditures, M.G.L.A. c. 44, &sect;&sect; 31, 53, 62-63.",
+    "Tax Title Responsibilities, M.G.L.A. c. 60, &sect;&sect; 61-63, 76-77, 79-80.",
+    "Tax Rate Determination/Classification, M.G.L.A. c. 59, &sect;&sect; 23, 38, 43, 53-55.",
+    "Tax Abatements, M.G.L.A. c.58, &sect; 8; M.G.L.A. c.59, &sect;&sect; 5, 59, 63, 69.",
+    "Collection of Local Taxes, M.G.L.A. c. 60, &sect;&sect; 61-63, 76-77, 79-80.",
+    "General Authorizing Statutes, 1943 Mass. Acts ch. 434, &sect; 7.",
+    "Motor Vehicle Excise Tax, M.G.L.A. c. 60A.",
+    "Gifts and Grants, M.G.L.A. c. 44, &sect; 53A.",
+    "Municipal Indebtedness, M.G.L.A. c. 44, &sect;&sect; 11,20.",
+    "Sale/Disposal of Realty/Public Land, M.G.L.A. c. 44, &sect;&sect; 63-63A.",
+    "Excise on Boats, Ships and Vessels in Lieu of Local Property Taxes, M.G.L.A. c. 60B."
+  ],
+  "description_of_services":[
+    "The Treasury Department receives, deposits, and invests funds and pays all warrants, drafts, and orders. The Department issues, redeems, and pays interest on all bonds and notes and maintains custody of all trusts and bequests left to the City. Addition."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":1614643,
+        "fy-1":1681439,
+        "fy-0":1836063,
+        "fy+1":1810114,
+        "diff":-25949
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":76406,
+        "fy-1":69619,
+        "fy-0":67411,
+        "fy+1":67411,
+        "diff":0
+      },
+      {
+        "line_title":"Supplies and Materials",
+        "line_type":"data",
+        "fy-2":475886,
+        "fy-1":481377,
+        "fy-0":501919,
+        "fy+1":511138,
+        "diff":9219
+      },
+      {
+        "line_title":"Current Chgs and Oblig",
+        "line_type":"data",
+        "fy-2":12025,
+        "fy-1":8935,
+        "fy-0":9219,
+        "fy+1":0,
+        "diff":-9219
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":17859,
+        "fy-1":14554,
+        "fy-0":20000,
+        "fy+1":20000,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":418871,
+        "fy-1":575387,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":2615690,
+        "fy-1":2831311,
+        "fy-0":2434612,
+        "fy+1":2408663,
+        "diff":-25949
+      }
+    ]
+  }
+}
+---

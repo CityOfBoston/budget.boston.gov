@@ -1,0 +1,185 @@
+---
+{
+  "debug":"JBD",
+  "file_version":"0.10",
+  "section_id":42,
+  "section_md5_id":"A1D0C6E83F027327D8461063F4AC58A6",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "name":"Boston VETS",
+  "parent":"Health and Human Services",
+  "cabinet":"Health and Human Services",
+  "department":"Boston VETS",
+  "head_name":"Giselle Sterling",
+  "head_title":"Commissioner",
+  "appropriation_code":"Appropriation 741",
+  "mission":[
+    "The mission of the Boston Office of Veterans Engagement, Transition, and Services (Boston VETS) is to provide benefits to veterans and their dependents residing in Boston and eligible under M.G.L. c. 115 and 108 CMR; pay the funeral and burial expenses for indigent veterans under prescribed regulations; assist all veterans with obtaining federal, state, or local benefits to which they may be entitled; oversee the decoration of veterans graves and hero squares on Memorial Day; and carry out commemorative activities related to Boston veterans."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Veterans' Services",
+      "debug":"JCO",
+      "strategies":[
+        "Advocate-To support events, pannels, legislation and summits aimed at meeting the needs of local veterans.",
+        "Engage-To reach out to all 22,000 veterans that call Boston their home through meaningful community engagement.",
+        "Recognize- to recognize the services of veterans who have died in service to their country and to assist with burial costs as needed.",
+        "Serve-To serve our (600+) homeless and low income veterans through a financial assistance program aimed to increase the housing stability of veterans and their families based on household need."
+      ]
+    }
+  ],
+  "operating_budget":{
+    "debug":"JPTR",
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "Program Name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "line_title":"Veterans' Services",
+        "line_type":"data",
+        "fy-2":4442074,
+        "fy-1":3948303,
+        "fy-0":4677730,
+        "fy+1":4708453
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":4442074,
+        "fy-1":3948303,
+        "fy-0":4677730,
+        "fy+1":4708453
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":662599,
+      "fy-1":687442,
+      "fy-0":896795,
+      "fy+1":921308
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":3779475,
+      "fy-1":3260861,
+      "fy-0":3780935,
+      "fy+1":3787145
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":4442074,
+      "fy-1":3948303,
+      "fy-0":4677730,
+      "fy+1":4708453
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Enabling Legislation, CBC Ord. &sect;&sect; 12-2.1-12-2.3.",
+    "Veterans' Benefits, M.G.L.A. c. 115, as amended.",
+    "Appropriation for Grave Decoration, M.G.L.A. c. 115, &sect; 9."
+  ],
+  "description_of_services":[
+    "The Boston Office of Veterans Engagement, Transition, and Services (Boston VETS) assists Boston veterans in need of financial, medical, or other support services. The Department also coordinates with federal, state, and local agencies to help refer veter."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":662599,
+        "fy-1":687442,
+        "fy-0":896795,
+        "fy+1":921308,
+        "diff":24513
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":91360,
+        "fy-1":111478,
+        "fy-0":101932,
+        "fy+1":101932,
+        "diff":0
+      },
+      {
+        "line_title":"Supplies and Materials",
+        "line_type":"data",
+        "fy-2":61986,
+        "fy-1":57207,
+        "fy-0":63650,
+        "fy+1":69650,
+        "diff":6000
+      },
+      {
+        "line_title":"Current Chgs and Oblig",
+        "line_type":"data",
+        "fy-2":3614335,
+        "fy-1":3088708,
+        "fy-0":3615353,
+        "fy+1":3615563,
+        "diff":210
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":11794,
+        "fy-1":3468,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":4442074,
+        "fy-1":3948303,
+        "fy-0":4677730,
+        "fy+1":4708453,
+        "diff":30723
+      }
+    ]
+  }
+}
+---

@@ -1,0 +1,208 @@
+---
+{
+  "cabinet":"Civic Engagement",
+  "department":"elderly-commission",
+  "file_version":"0.10",
+  "head_name":"Melissa Carlson",
+  "head_title":"Manager",
+  "name":"Programs & Partnerships",
+  "parent":"elderly-commission",
+  "section_id":88,
+  "section_md5_id":"2A38A4A9316C49E5A833517C45D31070",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 387400",
+  "description":[
+    "The Programs & Partnerships unit is where the Elderly Commission&rsquo;s community service advocates provide face-to-face assistance to seniors to identify government benefits and programs that promote healthy and independent living.  The advocates also provide information and referral services to Boston&rsquo;s older adults and their caregivers.  The Advocacy and Planning unit develops and implements strategies related to emerging issues and concerns of seniors.  This includes regularly assessing the needs of Boston&rsquo;s older adults and creating Boston&rsquo;s Area Plan for people over 60."
+  ],
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":544304,
+      "fy-1":520505,
+      "fy-0":525965,
+      "fy+1":140010
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":2550,
+      "fy-1":2425,
+      "fy-0":1950,
+      "fy+1":2000
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":546854,
+      "fy-1":522930,
+      "fy-0":527915,
+      "fy+1":142010
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":544304,
+        "fy-1":520505,
+        "fy-0":525965,
+        "fy+1":140010,
+        "diff":-385955
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":2100,
+        "fy-1":1975,
+        "fy-0":1950,
+        "fy+1":2000,
+        "diff":50
+      },
+      {
+        "line_title":"Supplies and Materials",
+        "line_type":"data",
+        "fy-2":450,
+        "fy-1":450,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs and Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":546854,
+        "fy-1":522930,
+        "fy-0":527915,
+        "fy+1":142010,
+        "diff":-385905
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Promote meaningful volunteer engagement opportunities to Boston's older adults"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "debug":"JPM",
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Avg. Number of Older Adult Volunteers.",
+              "fy-2":"306",
+              "fy-1":"411",
+              "fy-0":"412",
+              "fy+1":"500"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Hours completed by Older Adult Volunteers.",
+              "fy-2":"105933",
+              "fy-1":"107203",
+              "fy-0":"103000",
+              "fy+1":"85000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Set course for successful aging programs, policies and practices in Boston"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "debug":"JPM",
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Age-Friendly Boston Action Items Completed.",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":"8"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Number of Older Adults Served by Grantees.",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":"10500"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

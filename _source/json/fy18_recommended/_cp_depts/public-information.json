@@ -1,0 +1,49 @@
+---
+{
+  "cabinet":"Mayor's Office",
+  "debug":"JBDCP",
+  "department":"Public Information",
+  "file_version":"0.10",
+  "head_name":"Laura Oggeri",
+  "head_title":"Press Secretary",
+  "name":"Public Information",
+  "parent":"Mayor's Office",
+  "section_id":57,
+  "section_md5_id":"72B32A1F754BA1C09B3695E0CB6CDE7F",
+  "section_type":"capital_budget",
+  "section_type_short":"L",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "mission":[
+    "In FY16, the Public Information Communication Program will be in the Mayor&rsquo;s Office and the 24 Hour/Constituent Engagement Program will be moved to Neighborhood Services."
+  ],
+  "description_of_services":[
+    "The Office of Public Information responds to media requests for information relative to City government, arranges interviews with the Mayor and other City officials, keeps City officials abreast of issues important to the public and assists in the scheduling of public events. In addition, the Office of Public Information handles constituent requests by providing general information, referring citizens to appropriate outlets of service, acting directly with City departments as well as coordinating emergency responses to individual constituent needs."
+  ],
+  "capital_budget_expenditures":[
+    {
+      "debug":"JBDCPCBE",
+      "table_type":"capital_budget_expenditures",
+      "table_title":"Capital Budget Expenditures",
+      "table_header":{
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "fy-2":"FY15 Actual",
+        "fy-1":"FY16 Actual",
+        "fy-0":"FY17 Estimated",
+        "fy+1":"FY18 Projected"
+      },
+      "data":{
+        "line_type":"total",
+        "line_title":"Total Department",
+        "line_data_type":"total",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":100000,
+        "fy+1":100000
+      }
+    }
+  ]
+}
+---
