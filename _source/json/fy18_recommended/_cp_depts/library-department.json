@@ -177,13 +177,13 @@
               "line_type":"data",
               "title":null,
               "category":"Arts and Culture",
-              "name":"Web Site and Online Services Redevelopment",
-              "location":"Citywide",
-              "section_id":"CLD24207",
-              "status":"Implementation Underway",
+              "name":"Roslindale Branch Library Renovation",
+              "location":"Roslindale",
+              "section_id":"CLD24197",
+              "status":"In Design",
               "operating_impact":"No",
-              "fy-0":50000,
-              "project_total":100000
+              "fy-0":700000,
+              "project_total":6700000
             },
             {
               "line_type":"data",
@@ -280,18 +280,22 @@
               "operating_impact":"No",
               "fy-0":99000,
               "project_total":99000
-            },
+            }
+          ]
+        },
+        {
+          "Technology":[
             {
               "line_type":"data",
               "title":null,
-              "category":"Arts and Culture",
-              "name":"Roslindale Branch Library Renovation",
-              "location":"Roslindale",
-              "section_id":"CLD24197",
-              "status":"In Design",
+              "category":"Technology",
+              "name":"Web Site and Online Services Redevelopment",
+              "location":"Citywide",
+              "section_id":"CLD24207",
+              "status":"Implementation Underway",
               "operating_impact":"No",
-              "fy-0":700000,
-              "project_total":6700000
+              "fy-0":50000,
+              "project_total":100000
             }
           ]
         }

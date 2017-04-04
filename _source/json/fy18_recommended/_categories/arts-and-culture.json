@@ -225,16 +225,6 @@
             {
               "line_type":"data",
               "title":null,
-              "fy-0":50000,
-              "category":"Arts and Culture",
-              "name":"Web Site and Online Services Redevelopment",
-              "location":"Citywide",
-              "status":"Implementation Underway",
-              "operating_impact":"No"
-            },
-            {
-              "line_type":"data",
-              "title":null,
               "fy-0":100000,
               "category":"Arts and Culture",
               "name":"West Roxbury Branch Library Improvements",
@@ -245,7 +235,7 @@
             {
               "line_type":"totalDeptCat",
               "title":null,
-              "total1":13768352,
+              "total1":13718352,
               "category":"Arts and Culture",
               "department":"Library Department"
             }
@@ -299,7 +289,7 @@
       "line_type":"totalCat",
       "title":null,
       "fy-0":0,
-      "total":17953292,
+      "total":17903292,
       "category":"Arts and Culture"
     }
   ]

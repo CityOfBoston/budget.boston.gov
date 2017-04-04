@@ -99,6 +99,22 @@
       },
       "projects_data":[
         {
+          "Economy":[
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Economy",
+              "name":"Dudley Street",
+              "location":"Roxbury",
+              "section_id":"CTD23218",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":800000,
+              "project_total":9000000
+            }
+          ]
+        },
+        {
           "Transportation":[
             {
               "line_type":"data",
@@ -123,18 +139,6 @@
               "operating_impact":"No",
               "fy-0":2862460,
               "project_total":7850000
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Transportation",
-              "name":"Dudley Street",
-              "location":"Roxbury",
-              "section_id":"CTD23218",
-              "status":"In Design",
-              "operating_impact":"No",
-              "fy-0":800000,
-              "project_total":9000000
             },
             {
               "line_type":"data",

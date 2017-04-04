@@ -111,47 +111,6 @@
           ]
         },
         {
-          "Boston Planning and Development Agency":[
-            {
-              "line_type":"data",
-              "title":null,
-              "fy-0":250000,
-              "category":"Gov't Effectiveness",
-              "name":"Long Wharf",
-              "location":"Financial District/Downtown",
-              "status":"New Project",
-              "operating_impact":"No"
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "fy-0":250000,
-              "category":"Gov't Effectiveness",
-              "name":"RLFMP: Dry-dock 4",
-              "location":"South Boston",
-              "status":"New Project",
-              "operating_impact":"No"
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "fy-0":400000,
-              "category":"Gov't Effectiveness",
-              "name":"RLFMP: Pier 6",
-              "location":"South Boston",
-              "status":"New Project",
-              "operating_impact":"No"
-            },
-            {
-              "line_type":"totalDeptCat",
-              "title":null,
-              "total1":900000,
-              "category":"Gov't Effectiveness",
-              "department":"Boston Planning and Development Agency"
-            }
-          ]
-        },
-        {
           "Department of Innovation & Technology":[
             {
               "line_type":"data",
@@ -318,16 +277,6 @@
             {
               "line_type":"data",
               "title":null,
-              "fy-0":350000,
-              "category":"Gov't Effectiveness",
-              "name":"HVAC / Boiler Replacement at Various Stations",
-              "location":"Various neighborhoods",
-              "status":"Annual Program",
-              "operating_impact":"No"
-            },
-            {
-              "line_type":"data",
-              "title":null,
               "fy-0":750000,
               "category":"Gov't Effectiveness",
               "name":"Roof and Masonry Repairs at Engine 4, 14 and 55",
@@ -338,7 +287,7 @@
             {
               "line_type":"totalDeptCat",
               "title":null,
-              "total1":10120290,
+              "total1":9770290,
               "category":"Gov't Effectiveness",
               "department":"Fire Department"
             }
@@ -604,7 +553,7 @@
       "line_type":"totalCat",
       "title":null,
       "fy-0":0,
-      "total":48139178,
+      "total":46889178,
       "category":"Gov't Effectiveness"
     }
   ]

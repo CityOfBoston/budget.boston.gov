@@ -34,6 +34,16 @@
             {
               "line_type":"data",
               "title":null,
+              "fy-0":1500000,
+              "category":"Housing",
+              "name":"Madison Park Village",
+              "location":"Roxbury",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
               "fy-0":200000,
               "category":"Housing",
               "name":"Whittier Street Housing Development Roadways",
@@ -44,7 +54,7 @@
             {
               "line_type":"totalDeptCat",
               "title":null,
-              "total1":200000,
+              "total1":1700000,
               "category":"Housing",
               "department":"Public Works Department"
             }
@@ -56,7 +66,7 @@
       "line_type":"totalCat",
       "title":null,
       "fy-0":0,
-      "total":546998,
+      "total":2046998,
       "category":"Housing"
     }
   ]

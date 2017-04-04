@@ -71,11 +71,11 @@
       },
       "projects_data":[
         {
-          "Gov't Effectiveness":[
+          "Economy":[
             {
               "line_type":"data",
               "title":null,
-              "category":"Gov't Effectiveness",
+              "category":"Economy",
               "name":"RLFMP: Pier 6",
               "location":"South Boston",
               "section_id":"CBR24673",
@@ -87,19 +87,7 @@
             {
               "line_type":"data",
               "title":null,
-              "category":"Gov't Effectiveness",
-              "name":"Long Wharf",
-              "location":"Financial District/Downtown",
-              "section_id":"CBR24672",
-              "status":"New Project",
-              "operating_impact":"No",
-              "fy-0":250000,
-              "project_total":300000
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Gov't Effectiveness",
+              "category":"Economy",
               "name":"RLFMP: Dry-dock 4",
               "location":"South Boston",
               "section_id":"CBR24671",
@@ -107,6 +95,22 @@
               "operating_impact":"No",
               "fy-0":250000,
               "project_total":250000
+            }
+          ]
+        },
+        {
+          "Energy & Environment":[
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Energy and Environment",
+              "name":"Long Wharf",
+              "location":"Financial District/Downtown",
+              "section_id":"CBR24672",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":250000,
+              "project_total":300000
             }
           ]
         },

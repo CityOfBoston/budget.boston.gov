@@ -99,6 +99,22 @@
       },
       "projects_data":[
         {
+          "Energy & Environment":[
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Energy and Environment",
+              "name":"HVAC / Boiler Replacement at Various Stations",
+              "location":"Various neighborhoods",
+              "section_id":"CFD23144",
+              "status":"Annual Program",
+              "operating_impact":"No",
+              "fy-0":350000,
+              "project_total":3260856
+            }
+          ]
+        },
+        {
           "Gov't Effectiveness":[
             {
               "line_type":"data",
@@ -207,18 +223,6 @@
               "operating_impact":"No",
               "fy-0":1300000,
               "project_total":3810000
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Gov't Effectiveness",
-              "name":"HVAC / Boiler Replacement at Various Stations",
-              "location":"Various neighborhoods",
-              "section_id":"CFD23144",
-              "status":"Annual Program",
-              "operating_impact":"No",
-              "fy-0":350000,
-              "project_total":3260856
             }
           ]
         }
