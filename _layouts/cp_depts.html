@@ -27,9 +27,9 @@ layout: bos_wrapper
       </p>
     </div>
     <div>
-      <b><span> {{ page.head_name }},</span></b>
-      <b><span>{{ page.head_title }},</span></b>
-      <b><span>{{ page.appropriation_code }}</span></b>
+      <strong><span>{{ page.head_name }},</span></strong>
+      <strong><span>{{ page.head_title }},</span></strong>
+      <strong><span>{{ page.appropriation_code }}</span></strong>
     </div>
   </div>
   {% include sidebar_menu.html %}
@@ -46,7 +46,7 @@ layout: bos_wrapper
   </h2>
 </div>
 <div class="desktop-100">
-  <p class="supporting-text">
+  <p>
       <ul>
       {% for initiative in page.fy_major_initiatives %}
       <li>{{ initiative }}</li>
@@ -106,14 +106,12 @@ layout: bos_wrapper
   </h2>
 </div>
 <div class="desktop-100">
-    {% for program in page.selected_performance_strategies %}
-  <p class="supporting-text">
-      {{ program.program }}
-      <ul>
-      {% for strategy in program.strategies %}
-      <li>{{ strategy }}</li>
-      {% endfor %}
-      </ul>
-  </p>
+  {% for program in page.selected_performance_strategies %}
+    <h5>{{ program.program }}</h5>
+    <ul>
+    {% for strategy in program.strategies %}
+    <li>{{ strategy }}</li>
     {% endfor %}
+    </ul>
+  {% endfor %}
 </div>

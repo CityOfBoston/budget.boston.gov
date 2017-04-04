@@ -26,21 +26,23 @@ layout: bos_wrapper
     <div class="intro-text supporting-text squiggle-border-bottom">
       <p>
         {{ page.mission }}
-        <br />
-        <b>{{ page.category }}:</b>
-        {{ page.category_desc }}
       </p>
+    </div>
+    <div>
+      <strong>{{ page.category }}:</strong>
+      {{ page.category_desc }}
     </div>
   </div>
   {% include sidebar_menu.html %}
 </div>
 
 <div>
-Location: {{ page.location }}<br />
-Status: {{ page.status }}<br />
-Managing Department: {{ page.managing_department }}<br />
-Operating Impact: {{ page.operating_impact }}
+<strong>Location:</strong> {{ page.location }}<br />
+<strong>Status:</strong> {{ page.status }}<br />
+<strong>Managing Department:</strong> {{ page.managing_department }}<br />
+<strong>Operating Impact:</strong> {{ page.operating_impact }}
 </div>
+<br />
 
 <div class="sh desktop-100">
   <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
