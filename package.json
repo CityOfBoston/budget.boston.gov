@@ -31,6 +31,6 @@
     "node": ">= 5.0.0"
   },
   "scripts": {
-    "postinstall": "gulp download_wrapper; gulp create_content; gulp jekyll --source=fy18_recommended; gulp stylus"
+    "postinstall": "gulp download_wrapper; gulp create_content --source=fy18_recommended; gulp jekyll --source=fy18_recommended; gulp stylus"
   }
 }
