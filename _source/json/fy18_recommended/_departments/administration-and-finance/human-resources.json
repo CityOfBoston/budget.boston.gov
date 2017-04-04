@@ -1,0 +1,252 @@
+---
+{
+  "debug":"JBD",
+  "file_version":"0.10",
+  "section_id":16,
+  "section_md5_id":"C74D97B01EAE257E44AA9D5BADE97BAF",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "name":"Human Resources",
+  "parent":"Administration and Finance",
+  "cabinet":"Administration and Finance",
+  "department":"Human Resources",
+  "head_name":"Vivian Leonard",
+  "head_title":"Director",
+  "appropriation_code":"Appropriation 142",
+  "mission":[
+    "The mission of the Office of Human Resources is to help departments attract, motivate, retain, manage, and develop qualified and productive employees. The Office also provides unemployment benefits where necessary, as well as health and life insurance and workers' compensation benefits."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Personnel",
+      "debug":"JCO",
+      "strategies":[
+        "Enhanced Employee Experience.",
+        "Improved Recruitment Process to Better Meet Needs of COB Departments."
+      ]
+    },
+    {
+      "program":"Affirmative Action",
+      "debug":"JCO",
+      "strategies":[
+        "Increase Diversity in COB Workforce."
+      ]
+    },
+    {
+      "program":"Health Benefits and Insurance",
+      "debug":"JCO",
+      "strategies":[
+        "Enhanced Employee Experience."
+      ]
+    },
+    {
+      "program":"Employee Assistance",
+      "debug":"JCO",
+      "strategies":[
+        "Continued Expansion of Scope of EAP Services."
+      ]
+    },
+    {
+      "program":"Workers Comp",
+      "debug":"JCO",
+      "strategies":[
+        "Adoption of Case Management Approach in Workers Comp Unit."
+      ]
+    }
+  ],
+  "operating_budget":{
+    "debug":"JPTR",
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "Program Name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "line_title":"Personnel",
+        "line_type":"data",
+        "fy-2":1813038,
+        "fy-1":1750447,
+        "fy-0":2232258,
+        "fy+1":2265403
+      },
+      {
+        "line_title":"Affirmative Action",
+        "line_type":"data",
+        "fy-2":77197,
+        "fy-1":53743,
+        "fy-0":72407,
+        "fy+1":30500
+      },
+      {
+        "line_title":"Health Benefits and Insurance",
+        "line_type":"data",
+        "fy-2":590910,
+        "fy-1":593523,
+        "fy-0":722365,
+        "fy+1":793932
+      },
+      {
+        "line_title":"Employee Assistance",
+        "line_type":"data",
+        "fy-2":80730,
+        "fy-1":174328,
+        "fy-0":86456,
+        "fy+1":18927
+      },
+      {
+        "line_title":"Workers Comp",
+        "line_type":"data",
+        "fy-2":923347,
+        "fy-1":924982,
+        "fy-0":1019347,
+        "fy+1":828171
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":3485222,
+        "fy-1":3497023,
+        "fy-0":4132833,
+        "fy+1":3936933
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":3132304,
+      "fy-1":3179511,
+      "fy-0":3722593,
+      "fy+1":3480335
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":352918,
+      "fy-1":317512,
+      "fy-0":410240,
+      "fy+1":456598
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":3485222,
+      "fy-1":3497023,
+      "fy-0":4132833,
+      "fy+1":3936933
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Civil Service, M.G.L.A. c. 31.",
+    "Collective Bargaining, M.G.L.A. C. 150E.",
+    "Compensation of Employees; CBC Ord. &sect; 5-5.18; M.G.L.A. c. 41, &sect; 41.",
+    "Employees Subject to Civil Service Laws, CBC St. 5 &sect; 110.",
+    "Duties of Supervisor of Personnel, CBC Ord. &sect; 5-1.6.",
+    "Generally, M.G.L.A. c. 152.",
+    "County Employees Salary Classification, M.G.L.A. c. 35, &sect; 56.",
+    "Third Parties; Subrogation, M.G.L.A. c. 152, &sect; 15.",
+    "Group Insurance Plan to Municipalities, M.G.L.A. c. 32B, &sect;&sect; 1-19.",
+    "Operation As Self-Insurer, M.G.L.A. c. 152, &sect; 25.",
+    "Second Injury Reimbursement, M.G.L.A. c. 152, &sect; 37.",
+    "Special Fund; Trust Fund; Assessment Base and Rates; Payments; Reports; Audits, M.G.L.A. c. 152, &sect; 65."
+  ],
+  "description_of_services":[
+    "Human Resources supplies departments with systems with which to manage hiring, compensation, and promotion. It pursues good labor relations, monitors unemployment benefits, and conducts affirmative action and recruitment programs as well as a full range."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":3132304,
+        "fy-1":3179511,
+        "fy-0":3722593,
+        "fy+1":3480335,
+        "diff":-242258
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":110188,
+        "fy-1":93457,
+        "fy-0":144950,
+        "fy+1":203300,
+        "diff":58350
+      },
+      {
+        "line_title":"Supplies and Materials",
+        "line_type":"data",
+        "fy-2":50963,
+        "fy-1":56050,
+        "fy-0":72200,
+        "fy+1":71566,
+        "diff":-634
+      },
+      {
+        "line_title":"Current Chgs and Oblig",
+        "line_type":"data",
+        "fy-2":181948,
+        "fy-1":166812,
+        "fy-0":193090,
+        "fy+1":181732,
+        "diff":-11358
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":9819,
+        "fy-1":1193,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":3485222,
+        "fy-1":3497023,
+        "fy-0":4132833,
+        "fy+1":3936933,
+        "diff":-195900
+      }
+    ]
+  }
+}
+---

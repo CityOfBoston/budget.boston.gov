@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Streets",
-  "department":"Public Works Department",
+  "department":"public-works-department",
   "file_version":"0.10",
   "head_name":"Michael Brohel",
   "head_title":"Manager",
   "name":"Highway Field Operations",
-  "parent":"Public Works Department",
+  "parent":"public-works-department",
   "section_id":120,
   "section_md5_id":"DA4FB5C6E93E74D3DF8527599FA62642",
   "section_type":"program",
@@ -25,7 +25,7 @@
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
       "fy-0":"FY17 Budget",
-      "fy+2":"FY18 Budget"
+      "fy+1":"FY18 Budget"
     },
     {
       "line_title":"Personnel Services",
@@ -33,7 +33,7 @@
       "fy-2":9053234,
       "fy-1":9570201,
       "fy-0":9505223,
-      "fy+2":9800276
+      "fy+1":9800276
     },
     {
       "line_title":"Non Personnel",
@@ -57,7 +57,7 @@
     "table_header":{
       "line_type":"title",
       "fy-2":"FY15 Expenditure",
-      "fy-1":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",
       "fy+1":"FY18 Recommended",
       "diff":"Inc/Dec 17 vs 18"
@@ -82,7 +82,7 @@
         "diff":30482
       },
       {
-        "line_title":"Supplies & Materials",
+        "line_title":"Supplies and Materials",
         "line_type":"data",
         "fy-2":1127337,
         "fy-1":1590170,
@@ -91,7 +91,7 @@
         "diff":-162780
       },
       {
-        "line_title":"Current Chgs & Oblig",
+        "line_title":"Current Chgs and Oblig",
         "line_type":"data",
         "fy-2":30264,
         "fy-1":42914,
@@ -132,7 +132,7 @@
     {
       "section_name":"Performance",
       "strategy":[
-        "Effectively control and manage Boston's public space.   "
+        "Effectively control and manage Boston's public space."
       ],
       "performance_measures":[
         {
@@ -140,43 +140,43 @@
             "debug":"JPM",
             "Program Name":"Performance Measures",
             "line_type":"header",
-            "fy-4":"FY15 Actual",
-            "fy-3":"FY16 Actual",
-            "fy-2":"FY17 Projected",
-            "fy-1":"FY18 Target"
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
           },
           "data":[
             {
               "line_type":"data",
               "line_data":"% of Code Enforcement Collection cases responded to on time.",
-              "fy-4":null,
-              "fy-3":null,
-              "fy-2":null,
-              "fy-1":"100%"
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"100%",
+              "fy+1":"100%"
             },
             {
               "line_type":"data",
               "line_data":"Average personnel hours on a hokey route (hand cleaning streets/sidewalks).",
-              "fy-4":null,
-              "fy-3":null,
-              "fy-2":null,
-              "fy-1":1000
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"1000",
+              "fy+1":"1000"
             },
             {
               "line_type":"data",
               "line_data":"Number of snow-related roadway complaints per storm.",
-              "fy-4":null,
-              "fy-3":null,
-              "fy-2":null,
-              "fy-1":80
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"80",
+              "fy+1":"80"
             },
             {
               "line_type":"data",
               "line_data":"Public Space (litter baskets) recycling diversion rate.",
-              "fy-4":null,
-              "fy-3":null,
-              "fy-2":null,
-              "fy-1":null
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"25",
+              "fy+1":""
             }
           ]
         }
@@ -185,7 +185,7 @@
     {
       "section_name":"Performance",
       "strategy":[
-        "Ensure that Boston&rsquo;s streets, sidewalks, and bridges are safe, clean and attractive.         "
+        "Ensure that Boston&rsquo;s streets, sidewalks, and bridges are safe, clean and attractive."
       ],
       "performance_measures":[
         {
@@ -193,43 +193,43 @@
             "debug":"JPM",
             "Program Name":"Performance Measures",
             "line_type":"header",
-            "fy-4":"FY15 Actual",
-            "fy-3":"FY16 Actual",
-            "fy-2":"FY17 Projected",
-            "fy-1":"FY18 Target"
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
           },
           "data":[
             {
               "line_type":"data",
               "line_data":"# of pothole repair requests received.",
-              "fy-4":3161,
-              "fy-3":2344,
-              "fy-2":2300,
-              "fy-1":2300
+              "fy-2":"3161",
+              "fy-1":"2344",
+              "fy-0":"2300",
+              "fy+1":"2300"
             },
             {
               "line_type":"data",
               "line_data":"# of snow plowing requests received.",
-              "fy-4":30462,
-              "fy-3":4469,
-              "fy-2":5000,
-              "fy-1":5000
+              "fy-2":"30462",
+              "fy-1":"4469",
+              "fy-0":"5000",
+              "fy+1":"5000"
             },
             {
               "line_type":"data",
               "line_data":"% of pothole repair requests completed on time.",
-              "fy-4":"52%",
-              "fy-3":"75%",
-              "fy-2":"80%",
-              "fy-1":"80%"
+              "fy-2":"52%",
+              "fy-1":"75%",
+              "fy-0":"80%",
+              "fy+1":"80%"
             },
             {
               "line_type":"data",
-              "line_data":"Average time to complete a pothole repair request.",
-              "fy-4":5,
-              "fy-3":2,
-              "fy-2":2,
-              "fy-1":2
+              "line_data":"Average days to complete a pothole repair request.",
+              "fy-2":"5",
+              "fy-1":"2",
+              "fy-0":"2",
+              "fy+1":"2"
             }
           ]
         }

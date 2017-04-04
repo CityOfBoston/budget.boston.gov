@@ -1,0 +1,45 @@
+---
+{
+  "cabinet":"Civic Engagement",
+  "debug":"JBDCP",
+  "department":"Elderly Commission",
+  "file_version":"0.10",
+  "head_name":"Emily Shea",
+  "head_title":"Commissioner",
+  "name":"Elderly Commission",
+  "parent":"Civic Engagement",
+  "section_id":39,
+  "section_md5_id":"D67D8AB4F4C10BF22AA353E27879133C",
+  "section_type":"capital_budget",
+  "section_type_short":"L",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "mission":[
+    "The mission of the Elderly Commission is to enhance the quality of life for Boston's senior citizens through developing, planning, coordinating, implementing, and monitoring the delivery of programs and services to the elderly in an efficient and effectiv"
+  ],
+  "description_of_services":[
+    "Those services which are developed, planned, coordinated, and delivered by the Elderly Commission include assistance in applying for government benefits and community-based services, discount programs, health screening programs, housing programs, transportation, advocacy, employment and volunteer programs, counseling services and information and referrals. The Commission also coordinates and monitors neighborhood-based nutrition, legal, health, transportation and other elderly services, and senior centers."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Operations",
+      "strategies":[
+        "Keep older adults engaged, informed and connected to resources, services, and programs."
+      ]
+    },
+    {
+      "program":"Elderly Transportation",
+      "strategies":[
+        "Provide accessible, reliable, discounted and free transportation options to Boston's older adults."
+      ]
+    },
+    {
+      "program":"Programs and Partnerships",
+      "strategies":[
+        "Promote meaningful volunteer engagement opportunities to Boston's older adults.",
+        "Set course for successful aging programs, policies and practices in Boston."
+      ]
+    }
+  ]
+}
+---

@@ -25,7 +25,7 @@
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
       "fy-0":"FY17 Budget",
-      "fy+2":"FY18 Budget"
+      "fy+1":"FY18 Budget"
     },
     {
       "line_title":"Personnel Services",
@@ -33,7 +33,7 @@
       "fy-2":1524618,
       "fy-1":1270143,
       "fy-0":778309,
-      "fy+2":785118
+      "fy+1":785118
     },
     {
       "line_title":"Non Personnel",
@@ -57,7 +57,7 @@
     "table_header":{
       "line_type":"title",
       "fy-2":"FY15 Expenditure",
-      "fy-1":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",
       "fy+1":"FY18 Recommended",
       "diff":"Inc/Dec 17 vs 18"
@@ -82,7 +82,7 @@
         "diff":0
       },
       {
-        "line_title":"Supplies & Materials",
+        "line_title":"Supplies and Materials",
         "line_type":"data",
         "fy-2":39766,
         "fy-1":29043,
@@ -91,7 +91,7 @@
         "diff":0
       },
       {
-        "line_title":"Current Chgs & Oblig",
+        "line_title":"Current Chgs and Oblig",
         "line_type":"data",
         "fy-2":133683,
         "fy-1":95532,

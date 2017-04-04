@@ -26,10 +26,11 @@ layout: bos_wrapper
     <div class="intro-text supporting-text squiggle-border-bottom">
       <p>
         {{ page.mission }}
-        <br />
+      </p>
+    </div>
+    <div>
         <b><span> {{ page.head_name }},</span></b>
         <b><span>{{ page.head_title }}</span></b>
-      </p>
     </div>
   </div>
   {% include sidebar_menu.html %}
@@ -55,25 +56,26 @@ layout: bos_wrapper
       <th>{{ page.operating_department.fy-2 }}</th>
       <th>{{ page.operating_department.fy-1 }}</th>
       <th>{{ page.operating_department.fy-0 }}</th>
-      <th>{{ page.operating_department["fy+2"] }}</th>
+      <th>{{ page.operating_department["fy+1"] }}</th>
     </tr>
   </thead>
   <tbody>
     {% for row in page.operating_department.data %}
-      <tr>
-        {% if row.total %}
+      {% if row.total %}
+        <tr class="total">
           <td data-label="All Departments">
             <strong>
               {{ row.total }}
             </strong>
           </td>
-        {% else %}
+      {% else %}
+        <tr>
           <td data-label="Department">
             <a href="{{ site.url }}/operating-budget/cabinets/{{ page.name | replace: "'","" | slugify }}/{{ row.department | replace: "'","" | slugify }}">
               {{ row.department }}
             </a>
           </td>
-        {% endif %}
+      {% endif %}
           <td data-label="{{ page.operating_department.fy-2 }}">
             {{ row.fy-2 | append: 0 |append:0 | money }}
           </td>
@@ -83,7 +85,7 @@ layout: bos_wrapper
           <td data-label="{{ page.operating_department.fy-0 }}">
             {{ row.fy-0 | append: 0 |append:0 | money }}
           </td>
-          <td data-label="{{ page.operating_department['fy+2'] }}">
+          <td data-label="{{ page.operating_department['fy+1'] }}">
             {{ row["fy+1"] | append: 0 |append:0 | money }}
           </td>
       </tr>
@@ -117,7 +119,7 @@ layout: bos_wrapper
         {{ page.operating_department.fy-2 }},
         {{ page.operating_department.fy-1 }},
         {{ page.operating_department.fy-0 }},
-        {{ page.operating_department['fy+2'] }}
+        {{ page.operating_department['fy+1'] }}
       "
       data="
         {% for i in page.operating_department.data[-1] %}
@@ -141,7 +143,7 @@ layout: bos_wrapper
         {{ page.operating_department.fy-2 }},
         {{ page.operating_department.fy-1 }},
         {{ page.operating_department.fy-0 }},
-        {{ page.operating_department["fy+2"] }}
+        {{ page.operating_department["fy+1"] }}
       '
       data='{
         {% for row in page.operating_department.data %}
@@ -176,7 +178,7 @@ layout: bos_wrapper
           {{ page.operating_department.fy-2 }},
           {{ page.operating_department.fy-1 }},
           {{ page.operating_department.fy-0 }},
-          {{ page.operating_department['fy+2'] }}
+          {{ page.operating_department['fy+1'] }}
         "
         data="{{ row.fy-2 }}, {{ row.fy-1 }}, {{ row.fy-0 }}, {{ row['fy+1'] }}"
       ></canvas>
@@ -200,15 +202,16 @@ layout: bos_wrapper
         <th>{{ page.external_funds_tables.table_header.fy-2 }}</th>
         <th>{{ page.external_funds_tables.table_header.fy-1 }}</th>
         <th>{{ page.external_funds_tables.table_header.fy-0 }}</th>
-        <th>{{ page.external_funds_tables.table_header["fy+2"] }}</th>
+        <th>{{ page.external_funds_tables.table_header["fy+1"] }}</th>
       </tr>
     </thead>
     <tbody>
       {% for row in page.external_funds_tables.data %}
-        <tr>
-          {% if row.total %}
+        {% if row.total %}
+          <tr class="total">
             <td data-label="All Departments"><strong>{{ row.total }}</strong></td>
-          {% else %}
+        {% else %}
+          <tr>
             <td data-label="Department"><a href="{{ site.url }}/operating-budget/cabinets/{{ page.name | replace: "'","" | slugify }}/{{ row.title | replace: "'","" | slugify }}">{{ row.title }}</a></td>
           {% endif %}
           <td data-label="{{ page.external_funds.tables_header.fy-2 }}">
@@ -220,7 +223,7 @@ layout: bos_wrapper
           <td data-label="{{ page.external_funds_tables.table_header.fy-0 }}">
             {{ row.fy-0 | append: 0 |append:0 | money }}
           </td>
-          <td data-label="{{ page.external_funds_tables.table_header['fy+2'] }}">
+          <td data-label="{{ page.external_funds_tables.table_header['fy+1'] }}">
             {{ row["fy+1"] | append: 0 |append:0 | money }}
           </td>
         </tr>

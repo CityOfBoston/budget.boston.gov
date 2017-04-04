@@ -1,0 +1,133 @@
+---
+{
+  "cabinet":"Streets",
+  "department":"Office of Streets",
+  "file_version":"0.10",
+  "head_name":"Chris Osgood",
+  "head_title":"Manager",
+  "name":"Admin & Finance",
+  "parent":"Office of Streets",
+  "section_id":239,
+  "section_md5_id":"555D6702C950ECB729A966504AF0A635",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 310100",
+  "description":[
+    "The Administration and Finance program provides financial, personnel, technological as well as public information services for the entire cabinet."
+  ],
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":1320208,
+      "fy-1":1593588,
+      "fy-0":1918134,
+      "fy+1":1931176
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":40214,
+      "fy-1":56168,
+      "fy-0":55010,
+      "fy+1":31346
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1360422,
+      "fy-1":1649756,
+      "fy-0":1973144,
+      "fy+1":1962522
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":1320208,
+        "fy-1":1593588,
+        "fy-0":1918134,
+        "fy+1":1931176,
+        "diff":13042
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":8574,
+        "fy-1":20795,
+        "fy-0":23038,
+        "fy+1":9638,
+        "diff":-13400
+      },
+      {
+        "line_title":"Supplies and Materials",
+        "line_type":"data",
+        "fy-2":5006,
+        "fy-1":7697,
+        "fy-0":8858,
+        "fy+1":7922,
+        "diff":-936
+      },
+      {
+        "line_title":"Current Chgs and Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":580,
+        "fy-0":1610,
+        "fy+1":1610,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":26634,
+        "fy-1":27096,
+        "fy-0":21504,
+        "fy+1":12176,
+        "diff":-9328
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":1360422,
+        "fy-1":1649756,
+        "fy-0":1973144,
+        "fy+1":1962522,
+        "diff":-10622
+      }
+    ]
+  },
+  "performance_strategies":[]
+}
+---

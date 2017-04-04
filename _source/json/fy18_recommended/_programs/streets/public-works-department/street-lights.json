@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Streets",
-  "department":"Public Works Department",
+  "department":"public-works-department",
   "file_version":"0.10",
   "head_name":"John Yetman",
   "head_title":"Manager",
   "name":"Street Lights",
-  "parent":"Public Works Department",
+  "parent":"public-works-department",
   "section_id":122,
   "section_md5_id":"A0A080F42E6F13B3A2DF133F073095DD",
   "section_type":"program",
@@ -25,7 +25,7 @@
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
       "fy-0":"FY17 Budget",
-      "fy+2":"FY18 Budget"
+      "fy+1":"FY18 Budget"
     },
     {
       "line_title":"Personnel Services",
@@ -33,7 +33,7 @@
       "fy-2":3579504,
       "fy-1":2905879,
       "fy-0":3021534,
-      "fy+2":2940899
+      "fy+1":2940899
     },
     {
       "line_title":"Non Personnel",
@@ -57,7 +57,7 @@
     "table_header":{
       "line_type":"title",
       "fy-2":"FY15 Expenditure",
-      "fy-1":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",
       "fy+1":"FY18 Recommended",
       "diff":"Inc/Dec 17 vs 18"
@@ -82,7 +82,7 @@
         "diff":637363
       },
       {
-        "line_title":"Supplies & Materials",
+        "line_title":"Supplies and Materials",
         "line_type":"data",
         "fy-2":1086532,
         "fy-1":98651,
@@ -91,7 +91,7 @@
         "diff":-16850
       },
       {
-        "line_title":"Current Chgs & Oblig",
+        "line_title":"Current Chgs and Oblig",
         "line_type":"data",
         "fy-2":1697,
         "fy-1":3493,
@@ -140,19 +140,19 @@
             "debug":"JPM",
             "Program Name":"Performance Measures",
             "line_type":"header",
-            "fy-4":"FY15 Actual",
-            "fy-3":"FY16 Actual",
-            "fy-2":"FY17 Projected",
-            "fy-1":"FY18 Target"
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
           },
           "data":[
             {
               "line_type":"data",
               "line_data":"Average cost per streetlight.",
-              "fy-4":null,
-              "fy-3":null,
-              "fy-2":null,
-              "fy-1":160
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"162",
+              "fy+1":"160"
             }
           ]
         }
@@ -161,7 +161,7 @@
     {
       "section_name":"Performance",
       "strategy":[
-        "Improve neighborhood quality of life.   "
+        "Improve neighborhood quality of life."
       ],
       "performance_measures":[
         {
@@ -169,35 +169,35 @@
             "debug":"JPM",
             "Program Name":"Performance Measures",
             "line_type":"header",
-            "fy-4":"FY15 Actual",
-            "fy-3":"FY16 Actual",
-            "fy-2":"FY17 Projected",
-            "fy-1":"FY18 Target"
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
           },
           "data":[
             {
               "line_type":"data",
               "line_data":"# of street light outage constituent requests received.",
-              "fy-4":4726,
-              "fy-3":5000,
-              "fy-2":5000,
-              "fy-1":5000
+              "fy-2":"4726",
+              "fy-1":"5000",
+              "fy-0":"5000",
+              "fy+1":"5000"
             },
             {
               "line_type":"data",
               "line_data":"% of street light outages addressed on time.",
-              "fy-4":"70%",
-              "fy-3":"62%",
-              "fy-2":"80%",
-              "fy-1":"80%"
+              "fy-2":"70%",
+              "fy-1":"62%",
+              "fy-0":"80%",
+              "fy+1":"80%"
             },
             {
               "line_type":"data",
-              "line_data":"Average time to complete a street light outage request.",
-              "fy-4":40,
-              "fy-3":36,
-              "fy-2":10,
-              "fy-1":10
+              "line_data":"Average time to complete a street light outage request (days).",
+              "fy-2":"40",
+              "fy-1":"36",
+              "fy-0":"10",
+              "fy+1":"10"
             }
           ]
         }

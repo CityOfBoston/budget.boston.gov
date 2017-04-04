@@ -1,0 +1,98 @@
+---
+{
+  "debug":"JBD",
+  "file_version":"0.10",
+  "section_id":57,
+  "section_md5_id":"72B32A1F754BA1C09B3695E0CB6CDE7F",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "name":"Public Information",
+  "parent":"Mayor's Office",
+  "cabinet":"Mayor's Office",
+  "department":"Public Information",
+  "head_name":"Laura Oggeri",
+  "head_title":"Press Secretary",
+  "appropriation_code":"Appropriation 411",
+  "mission":[
+    "In FY16, the Public Information Communication Program will be in the Mayor&rsquo;s Office and the 24 Hour/Constituent Engagement Program will be moved to Neighborhood Services."
+  ],
+  "selected_performance_strategies":[],
+  "operating_budget":{
+    "debug":"JPTR",
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "Program Name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "line_title":"Public Information Communications",
+        "line_type":"data",
+        "fy-2":469837,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0
+      },
+      {
+        "line_title":"24 Hour/Constituent Engagement",
+        "line_type":"data",
+        "fy-2":720411,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":1190248,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":1147283,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":42965,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1190248,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0
+    }
+  ],
+  "authorizing_statutes":[]
+}
+---

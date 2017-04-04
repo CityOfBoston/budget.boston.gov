@@ -1,0 +1,94 @@
+---
+{
+  "file_version":"0.10",
+  "name":"Technology",
+  "section_type":"Capital Budget",
+  "section_type_short":"L",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "description":[
+    "NEED CATEGORY DESCRIPTION"
+  ],
+  "vol1_category_copy":[
+    "NEED TO READ THIS FROM VOLUME ONE"
+  ],
+  "projects":[
+    {
+      "table_type":"capital_projects_by_department",
+      "table_title":"Capital Projects by Department",
+      "header":{
+        "debug":"JCCPBYD",
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "category":"Department",
+        "name":"Project",
+        "location":"Location",
+        "status":"Status",
+        "fy-0":"FY18 Projected",
+        "project_title":"Total"
+      },
+      "projects_data":[
+        {
+          "Department of Innovation & Technology":[
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":250000,
+              "category":"Technology",
+              "name":"City-wide Radio System Study",
+              "location":"Citywide",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":784859,
+              "category":"Technology",
+              "name":"Computer Aided Dispatch",
+              "location":"Citywide",
+              "status":"Implementation Underway",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":600000,
+              "category":"Technology",
+              "name":"Core Technology Infrastructure",
+              "location":"Citywide",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":9600000,
+              "category":"Technology",
+              "name":"Fiber Network Expansion",
+              "location":"Various neighborhoods",
+              "status":"Implementation Underway",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"totalDeptCat",
+              "title":null,
+              "total1":11234859,
+              "category":"Technology",
+              "department":"Department of Innovation and Technology"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "line_type":"totalCat",
+      "title":null,
+      "fy-0":0,
+      "total":11234859,
+      "category":"Technology"
+    }
+  ]
+}
+---

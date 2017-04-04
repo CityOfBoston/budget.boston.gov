@@ -1,5 +1,6 @@
 ---
 {
+  "debug":"JCB",
   "cabinet":"Civic Engagement",
   "department":null,
   "file_version":"0.10",
@@ -16,6 +17,9 @@
   "mission":[
     "The Civic Engagement Cabinet seeks to improve the delivery of City Services as well as create opportunities for all Boston Residents to participate in local government."
   ],
+  "overview":[
+    "OVERVIEW FROM VOLUME 1"
+  ],
   "operating_department":{
     "table_type":"operating_department",
     "debug":"JCB",
@@ -25,7 +29,7 @@
     "fy-2":"FY15 Actual",
     "fy-1":"FY16 Actual",
     "fy-0":"FY17 Budget",
-    "fy+2":"FY18 Budget",
+    "fy+1":"FY18 Budget",
     "data":[
       {
         "department":"Elderly Commission",
@@ -62,8 +66,8 @@
       "line_type":"header",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Estimated",
-      "fy+2":"FY18 Projected"
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
     },
     "data":[
       {

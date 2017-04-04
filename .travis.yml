@@ -8,7 +8,7 @@ before_install:
 install:
 - bundle install
 - npm install
-- gulp build --source fy18-recommended
+- gulp build --source fy18_recommended
 deploy:
   provider: heroku
   app:

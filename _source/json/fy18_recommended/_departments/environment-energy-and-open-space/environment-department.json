@@ -1,0 +1,457 @@
+---
+{
+  "debug":"JBD",
+  "file_version":"0.10",
+  "section_id":47,
+  "section_md5_id":"67C6A1E7CE56D3D6FA748AB6D9AF3FD7",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "name":"Environment Department",
+  "parent":"Environment, Energy and Open Space",
+  "cabinet":"Environment, Energy and Open Space",
+  "department":"Environment Department",
+  "head_name":"Carl Spector",
+  "head_title":"Commissioner",
+  "appropriation_code":"Appropriation 303",
+  "mission":[
+    "The mission of the Environment Department is to enhance the quality of life in Boston by protecting air, water, climate and land resources, and by preserving and improving the integrity of Boston's architectural and historic resources."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Environment",
+      "debug":"JCO",
+      "strategies":[
+        "To promote conservation of the City's architectural resources through administration of local preservation district guidelines and through federal, state and local regulation and review.",
+        "To protect the public from air and noise pollution by enforcing Air Pollution Control Commission and other regulations."
+      ]
+    }
+  ],
+  "operating_budget":{
+    "debug":"JPTR",
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "Program Name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "line_title":"Environment",
+        "line_type":"data",
+        "fy-2":2018442,
+        "fy-1":1897415,
+        "fy-0":2232944,
+        "fy+1":2517729
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":2018442,
+        "fy-1":1897415,
+        "fy-0":2232944,
+        "fy+1":2517729
+      }
+    ]
+  },
+  "external_funds_budget":{
+    "debug":"JPTR",
+    "table_type":"External Funds",
+    "table_title":"External Funds Budget",
+    "table_header":{
+      "name":"Fund Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "line_title":"Archeology Fund",
+        "line_type":"data",
+        "fy-2":11611,
+        "fy-1":20709,
+        "fy-0":1200,
+        "fy+1":40095
+      },
+      {
+        "line_title":"BARR/BEDF Energy Efficiency Grant",
+        "line_type":"data",
+        "fy-2":38652,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0
+      },
+      {
+        "line_title":"Boston Pollution Abatement Fund",
+        "line_type":"data",
+        "fy-2":210309,
+        "fy-1":134671,
+        "fy-0":390980,
+        "fy+1":275298
+      },
+      {
+        "line_title":"Climate Action Plan Grant/ BARR Foundation",
+        "line_type":"data",
+        "fy-2":115689,
+        "fy-1":20399,
+        "fy-0":17000,
+        "fy+1":0
+      },
+      {
+        "line_title":"Climate Preparedness Grant",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":64187,
+        "fy-0":94346,
+        "fy+1":96488
+      },
+      {
+        "line_title":"Coastal Community Resilience",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":284900,
+        "fy-0":0,
+        "fy+1":292000
+      },
+      {
+        "line_title":"DOER Energy Manager Grant",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":50000,
+        "fy-0":0,
+        "fy+1":0
+      },
+      {
+        "line_title":"Greenovate Fellowships",
+        "line_type":"data",
+        "fy-2":137943,
+        "fy-1":53587,
+        "fy-0":30000,
+        "fy+1":42750
+      },
+      {
+        "line_title":"Ground Water Well System",
+        "line_type":"data",
+        "fy-2":35000,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0
+      },
+      {
+        "line_title":"Installation of Resiliency Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0
+      },
+      {
+        "line_title":"Multi-City Microgrids",
+        "line_type":"data",
+        "fy-2":57432,
+        "fy-1":22976,
+        "fy-0":0,
+        "fy+1":0
+      },
+      {
+        "line_title":"Municipal Waterway",
+        "line_type":"data",
+        "fy-2":36254,
+        "fy-1":121433,
+        "fy-0":100000,
+        "fy+1":200261
+      },
+      {
+        "line_title":"Renew Boston",
+        "line_type":"data",
+        "fy-2":150330,
+        "fy-1":214123,
+        "fy-0":157000,
+        "fy+1":194570
+      },
+      {
+        "line_title":"Solar Renewable Energy Certificates",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":21420,
+        "fy-0":100000,
+        "fy+1":100000
+      },
+      {
+        "line_title":"Survey & Planning Grant",
+        "line_type":"data",
+        "fy-2":42755,
+        "fy-1":34765,
+        "fy-0":0,
+        "fy+1":63640
+      },
+      {
+        "line_title":"The Roof Top Solar Challenge",
+        "line_type":"data",
+        "fy-2":40000,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0
+      },
+      {
+        "line_title":"Urban Agriculture Visioning Grant",
+        "line_type":"data",
+        "fy-2":19999,
+        "fy-1":5000,
+        "fy-0":0,
+        "fy+1":0
+      },
+      {
+        "line_title":"Waste Reduction",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":6650
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":895974,
+        "fy-1":1048170,
+        "fy-0":890526,
+        "fy+1":1311752
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":1508792,
+      "fy-1":1471276,
+      "fy-0":1802700,
+      "fy+1":1988560
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":509650,
+      "fy-1":426139,
+      "fy-0":430244,
+      "fy+1":529169
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":2018442,
+      "fy-1":1897415,
+      "fy-0":2232944,
+      "fy+1":2517729
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Archaeology, M.G.L.A. c.9, &sect;&sect; 26-27c; 1982 Mass. Acts ch. 152.",
+    "Environmental, CBC Ord. &sect; 5-2.1; CBC Ord. &sect; 7-1.1; M.G.L.A. c. 131, &sect; 40.",
+    "Administration, 1982 Mass. Acts ch. 624, &sect;&sect; 1-10.",
+    "Preservation, 36 CFR 60; M.G.L.A. c. 40C; CBC Ord. &sect; 7-3.1; 1955 Mass. Acts ch. 616, as amended; 1966 Mass. Acts ch. 625, as amended; 1975 Mass. Acts ch. 772.",
+    "Generally, CBC St. 5 &sect;&sect; 3-5, 9, 100, 102, 104, 113; CBC St. 2 &sect; 752; CBC St. 11 &sect;174; CBC St. 14 &sect; 170; CBC Ord. &sect; 5-2.1; M.G.L.A. c. 41, &sect;&sect; 82-84."
+  ],
+  "description_of_services":[
+    "The Environment Department reviews permit applications and development proposals, coordinates City policy on environmental issues and sustainability, conducts surveys of built and natural resources, provides public information and referrals on environment."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":1508792,
+        "fy-1":1471276,
+        "fy-0":1802700,
+        "fy+1":1988560,
+        "diff":185860
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":465724,
+        "fy-1":393807,
+        "fy-0":408129,
+        "fy+1":501329,
+        "diff":93200
+      },
+      {
+        "line_title":"Supplies and Materials",
+        "line_type":"data",
+        "fy-2":17626,
+        "fy-1":26367,
+        "fy-0":19500,
+        "fy+1":25225,
+        "diff":5725
+      },
+      {
+        "line_title":"Current Chgs and Oblig",
+        "line_type":"data",
+        "fy-2":8048,
+        "fy-1":3645,
+        "fy-0":2615,
+        "fy+1":2615,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":18252,
+        "fy-1":2320,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":2018442,
+        "fy-1":1897415,
+        "fy-0":2232944,
+        "fy+1":2517729,
+        "diff":284785
+      }
+    ]
+  },
+  "external_funds":[
+    {
+      "debug":"JEFP",
+      "project":"Archeology Fund",
+      "project_mission":[
+        "This revolving fund will accept and expend donations and honorariums. Expenses will include supplies in support of the field, laboratory, and museum activities of the City Archaeology Program."
+      ]
+    },
+    {
+      "debug":"JEFP",
+      "project":"BARR/BEDF Energy Efficiency Grant",
+      "project_mission":[
+        "This one time grant for $200,000 awarded in FY14 from the BARR Foundation, will support the creation of standardized construction documents for energy efficiency projects as well as other studies of how to improve energy efficiencies in school buildings. The Environment Department will work collaboratively with the Boston Public Schools."
+      ]
+    },
+    {
+      "debug":"JEFP",
+      "project":"Boston Pollution Abatement Fund",
+      "project_mission":[
+        "The Pollution Abatement Fund was established in 1984 to receive funds from environmental permits and fines which are to be expended by Air Pollution Control Commission in support of pollution abatement programs. The Fund has received permit fees from the South Boston Parking freeze and has been used to administer the Freeze and associated air pollution reduction efforts pursuant to 310CMR 7.33 and the Federal Clean Air Act. The fund provides grants for pollution abatements, vehicle retrofits, and air pollution research."
+      ]
+    },
+    {
+      "debug":"JEFP",
+      "project":"Climate Action Plan Update Grant/ BARR Foundation",
+      "project_mission":[
+        "This is a one-time grant for $170,000 given by the BARR Foundation, that will help update the city&rsquo;s 2014 Climate Action Plan in order to reduce greenhouse gas emissions and meet the City&rsquo;s Climate Action Goals. Spending will be complete in FY17."
+      ]
+    },
+    {
+      "debug":"JEFP",
+      "project":"Climate Preparedness Grant",
+      "project_mission":[
+        "This is a one-time grant for $170,000, given by the BARR Foundation, which will provide for a two-year Climate Preparedness Fellow to pursue implementation of the climate preparedness strategies and actions in the 2014 Climate Action Plan. Spending will be complete in FY17."
+      ]
+    },
+    {
+      "debug":"JEFP",
+      "project":"Greenovate Fellowships",
+      "project_mission":[
+        "The BARR Foundation donated $170,000 to support two fellowships. The Fellows have provided support to existing and new environmental policies expanded the media presence of the Greenovation agenda and promoted citywide participation in energy and other sustainability programs. The Fellowships expire in FY16."
+      ]
+    },
+    {
+      "debug":"JEFP",
+      "project":"Groundwater/Well System",
+      "project_mission":[
+        "This state funded grant has been used to test a new porous pavement technology, which will help reduce flooding, sewer overflows, and storm water pollution. Spending was completed in FY15."
+      ]
+    },
+    {
+      "debug":"JEFP",
+      "project":"Multi-City Microgrids",
+      "project_mission":[
+        "This funding enables USDN core members, associate members, and partners to explore together the potential benefits and various complexities of developing multi-user micro-grids with or without district energy in cities."
+      ]
+    },
+    {
+      "debug":"JEFP",
+      "project":"Municipal Waterways Account",
+      "project_mission":[
+        "This funding will support maintenance, dredging, cleaning and improvement of harbors, inland waters and great ponds of the commonwealth, the public access thereto, the breakwaters, retaining walls, piers, wharves and moorings thereof, and law enforcement and fire prevention."
+      ]
+    },
+    {
+      "debug":"JEFP",
+      "project":"Renew Boston",
+      "project_mission":[
+        "This ongoing fund will accept and expend utility funds and other donations in support of Renew Boston Programming. Funds will be spent on community-based outreach services to promote residential and small business energy efficiency and solar projects."
+      ]
+    },
+    {
+      "debug":"JEFP",
+      "project":"Solar Renewable Energy Certificates",
+      "project_mission":[
+        "A revolving fund authorized (by Chapter 44, Section 53E 1/2) to facilitate the sale of solar renewable energy certificates produced by the City's solar photovoltaic arrays at 201 Rivermoor Street and 400 Frontage Road, and to facilitate the purchase of offsets of greenhouse gas emissions to further \"green\" the City's electricity use."
+      ]
+    },
+    {
+      "debug":"JEFP",
+      "project":"Survey and Planning Grant",
+      "project_mission":[
+        "Survey and Planning is an annual grant from the Massachusetts Historical Commission. This survey and planning grant allows the Boston Landmarks Commission to support the third and final phase of a comprehensive survey of cultural resources in the North End neighborhood of the City of Boston."
+      ]
+    },
+    {
+      "debug":"JEFP",
+      "project":"The Roof Top Solar Challenge",
+      "project_mission":[
+        "The Roof Top Solar Challenge grant is provided by the Massachusetts Department of Energy Resources to assess the potential to install roof top solar on municipal buildings. This program was completed in FY15."
+      ]
+    },
+    {
+      "debug":"JEFP",
+      "project":"Urban Agriculture Visioning",
+      "project_mission":[
+        "This is a $25,000 planning grant to facilitate the creation of an urban agriculture action plan aimed at better aligning Boston's urban growing sector, and creating metrics and milestones for success in urban agriculture."
+      ]
+    }
+  ],
+  "fy_major_initiatives":[
+    "Launch the first round of self-financing energy efficiency projects in City buildings under the Renew Boston Trust program, to reduce climate impacts and achieve recurring energy savings.",
+    "Development of more detailed climate plans for Boston neighborhoods at risk for coastal flooding, as recommended by Climate Ready Boston.",
+    "Improve energy management and increase efficiency in City buildings through targeted capital design processes and building assignments."
+  ]
+}
+---

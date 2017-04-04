@@ -1,5 +1,6 @@
 ---
 {
+  "debug":"JCB",
   "cabinet":"Administration and Finance",
   "department":null,
   "file_version":"0.10",
@@ -16,6 +17,9 @@
   "mission":[
     "The Administration and Finance Cabinet ensures that city services are delivered with high quality, with high ethical standards, are financially prudent, are responsive to the needs of the citizens of Boston, and consistent with the laws and ordinances governing municipal government."
   ],
+  "overview":[
+    "OVERVIEW FROM VOLUME 1"
+  ],
   "operating_department":{
     "table_type":"operating_department",
     "debug":"JCB",
@@ -25,7 +29,7 @@
     "fy-2":"FY15 Actual",
     "fy-1":"FY16 Actual",
     "fy-0":"FY17 Budget",
-    "fy+2":"FY18 Budget",
+    "fy+1":"FY18 Budget",
     "data":[
       {
         "department":"Administration and Finance",
@@ -174,8 +178,8 @@
       "line_type":"header",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Estimated",
-      "fy+2":"FY18 Projected"
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
     },
     "data":[
       {

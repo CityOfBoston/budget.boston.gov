@@ -1,6 +1,6 @@
 ---
 {
-  "category":"NEED SOURCE FOR THIS",
+  "category":"Transportation",
   "category_desc":"NEED SOURCE FOR THIS",
   "department":"Public Works Department",
   "file_version":"0.10",
@@ -20,13 +20,13 @@
     "table_title":"Expenditures (Actual and Planned)",
     "table_header":{
       "line_type":"header",
-      "line_ttitle":null,
+      "line_title":null,
       "line_data_type":"string",
       "source":"Source",
       "past_spending":"Through 6/30/16",
       "fy-1":"FY17 Budget",
       "fy-0":"FY18 Budget",
-      "fy+1-3":"FY19-21 Budget",
+      "fy+1-4":"FY19-22 Budget",
       "total":"Total"
     },
     "data":[
@@ -35,10 +35,10 @@
         "line_title":null,
         "line_date_type":"number",
         "source":"City Capital",
-        "fy-2":3239873,
+        "past_spending":3239873,
         "fy-1":40828,
         "fy-0":0,
-        "fy+1":24896498,
+        "fy+1-4":24896498,
         "total":28177199
       },
       {
@@ -46,10 +46,10 @@
         "line_title":null,
         "line_date_type":"number",
         "source":"Grants/Other",
-        "fy-2":22965,
+        "past_spending":22965,
         "fy-1":0,
         "fy-0":1500000,
-        "fy+1":14509601,
+        "fy+1-4":14509601,
         "total":16032566
       },
       {
@@ -57,10 +57,10 @@
         "line_title":null,
         "line_date_type":"number",
         "source":"Totals",
-        "fy-2":3262838,
+        "past_spending":3262838,
         "fy-1":40828,
         "fy-0":1500000,
-        "fy+1":39406099,
+        "fy+1-4":39406099,
         "total":44209765
       }
     ],
@@ -69,13 +69,13 @@
       "table_title":"Authorizations",
       "table_header":{
         "line_type":"header",
-        "line_ttitle":null,
+        "line_title":null,
         "line_data_type":"string",
         "source":"Source",
         "existing":"Existing",
         "fy-0":"FY18",
         "fy-0++":"Future",
-        "other":"Non-Capital Fund",
+        "other":"Non Capital Fund",
         "total":"Total"
       },
       "data":[

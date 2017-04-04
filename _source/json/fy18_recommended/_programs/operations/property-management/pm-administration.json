@@ -1,0 +1,133 @@
+---
+{
+  "cabinet":"Operations",
+  "department":"Property Management",
+  "file_version":"0.10",
+  "head_name":"Joseph H. Callahan",
+  "head_title":"Manager",
+  "name":"PM Administration",
+  "parent":"Property Management",
+  "section_id":137,
+  "section_md5_id":"3988C7F88EBCB58C6CE932B957B6F332",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 180100",
+  "description":[
+    "The Administration Program provides centralized administrative, fiscal, and human resource support services for the Public Property Cabinet.  The program processes contracts, manages finances, implements human resource management policies and personnel paperwork, and monitors all budgetary actions through internal auditing of expenditures and revenue collections.  In addition, it assists in efforts to enhance the effectiveness and efficiency of the Department's programs and activities."
+  ],
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":1874874,
+      "fy-1":1735433,
+      "fy-0":1543334,
+      "fy+1":1758626
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":210691,
+      "fy-1":141812,
+      "fy-0":134358,
+      "fy+1":157257
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":2085565,
+      "fy-1":1877245,
+      "fy-0":1677692,
+      "fy+1":1915883
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":1874874,
+        "fy-1":1735433,
+        "fy-0":1543334,
+        "fy+1":1758626,
+        "diff":215292
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":90299,
+        "fy-1":97453,
+        "fy-0":79952,
+        "fy+1":84552,
+        "diff":4600
+      },
+      {
+        "line_title":"Supplies and Materials",
+        "line_type":"data",
+        "fy-2":33940,
+        "fy-1":30145,
+        "fy-0":11563,
+        "fy+1":15599,
+        "diff":4036
+      },
+      {
+        "line_title":"Current Chgs and Oblig",
+        "line_type":"data",
+        "fy-2":3441,
+        "fy-1":7628,
+        "fy-0":39550,
+        "fy+1":57106,
+        "diff":17556
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":6586,
+        "fy-1":6586,
+        "fy-0":3293,
+        "fy+1":0,
+        "diff":-3293
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":76425,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":2085565,
+        "fy-1":1877245,
+        "fy-0":1677692,
+        "fy+1":1915883,
+        "diff":238191
+      }
+    ]
+  },
+  "performance_strategies":[]
+}
+---

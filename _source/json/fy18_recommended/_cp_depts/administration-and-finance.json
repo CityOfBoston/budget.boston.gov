@@ -1,0 +1,24 @@
+---
+{
+  "cabinet":"Administration and Finance",
+  "debug":"JBDCP",
+  "department":"Administration and Finance",
+  "file_version":"0.10",
+  "head_name":"David Sweeney",
+  "head_title":"Chief Financial Office & Collector Treasurer",
+  "name":"Administration and Finance",
+  "parent":"Administration and Finance",
+  "section_id":56,
+  "section_md5_id":"9F61408E3AFB633E50CDF1B20DE6F466",
+  "section_type":"capital_budget",
+  "section_type_short":"L",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "mission":[
+    "The Office of Finance and Budget supports the long-term growth and stability of the City through sound fiscal stewardship and results driven management of the City&rsquo;s human and financial resources."
+  ],
+  "description_of_services":[
+    "The Office of Finance and Budget, by working with all departments of the City, works to implement the Mayor&rsquo;s strategic goals, increase organizational performance and manage the City&rsquo;s overall fiscal health."
+  ]
+}
+---
