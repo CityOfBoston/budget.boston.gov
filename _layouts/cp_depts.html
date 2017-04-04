@@ -11,8 +11,6 @@ layout: bos_wrapper
   <span class="crumbs-separator"> &gt; </span>
   <a href="{{ site.url }}/capital-projects">Capital Projects</a>
   <span class="crumbs-separator"> &gt; </span>
-  <a href="{{ site.url }}/capital-projects/{{ page.category | replace: "'","" | slugify }}">{{ page.category }}</a>
-  <span class="crumbs-separator"> &gt; </span>
   {{ page.name }}
 </div>
 <div class="breadcrumb-last-updated">
@@ -26,11 +24,12 @@ layout: bos_wrapper
     <div class="intro-text supporting-text squiggle-border-bottom">
       <p>
         {{ page.mission }}
-        <br />
-        <b><span> {{ page.head_name }},</span></b>
-        <b><span>{{ page.head_title }},</span></b>
-        <b><span>{{ page.appropriation_code }}</span></b>
       </p>
+    </div>
+    <div>
+      <b><span> {{ page.head_name }},</span></b>
+      <b><span>{{ page.head_title }},</span></b>
+      <b><span>{{ page.appropriation_code }}</span></b>
     </div>
   </div>
   {% include sidebar_menu.html %}
@@ -66,32 +65,36 @@ layout: bos_wrapper
 <table class="responsive-table responsive-table--horizontal">
   <thead>
     <tr>
-      <th>Category</th>
-      <th>Project</th>
-      <th>Location</th>
-      <th>Status</th>
-      <th>FY17 Budget</th>
-      <th>Total</th>
+      <th>{{ page.projects[0].header.category }}</th>
+      <th>{{ page.projects[0].header.name }}</th>
+      <th>{{ page.projects[0].header.location }}</th>
+      <th>{{ page.projects[0].header.status }}</th>
+      <th>{{ page.projects[0].header.fy-0 }}</th>
+      <th>{{ page.projects[0].header.project_title }}</th>
     </tr>
   </thead>
   <tbody>
-    {% for project in page.projects %}
-      <tr>
-        <td><a href="{{ site.url }}/capital-projects/{{ project.investment_category | replace: "'","" | slugify }}">{{ project.investment_category }}</a></td>
-        <td><a href="{{ site.url }}/capital-projects/{{ page.name | replace: "'","" | slugify }}/{{ project.name | slugify }}">{{ project.name }}</a></td>
-        <td>{{ project.location }}</td>
-        <td>{{ project.status }}</td>
-        <td>{{ project.expenditures_summary.fy-0 }}</td>
-        <td>{{ project.expenditures_summary.total }}</td>
-      </tr>
+    {% for data in page.projects[0].projects_data %}
+      {% for category in data %}
+        {% for project in category[1] %}
+          <tr>
+            <td><a href="{{ site.url }}/capital-projects/{{ category[0] | replace: "'","" | slugify }}">{{ category[0] }}</a></td>
+            <td><a href="{{ site.url }}/capital-projects/{{ page.name | replace: "'","" | slugify }}/{{ project.name | slugify }}">{{ project.name }}</a></td>
+            <td>{{ project.location }}</td>
+            <td>{{ project.status }}</td>
+            <td>{{ project.fy-0 | append: 0 | append: 0 | money }}</td>
+            <td>{{ project.project_total | append: 0 | append: 0 | money }}</td>
+          </tr>
+        {% endfor %}
+      {% endfor %}
     {% endfor %}
-      <tr>
+      <tr class="total">
         <td>Totals</td>
         <td></td>
         <td></td>
         <td></td>
-        <td>{{ page.projects_total.fy-0 }}</td>
-        <td>{{ page.projects_total.total }}</td>
+        <td>{{ page.fy-0 | append: 0 | append: 0 | money }}</td>
+        <td>{{ page.total | append: 0 | append: 0 | money }}</td>
       </tr>
   </tbody>
 </table>
