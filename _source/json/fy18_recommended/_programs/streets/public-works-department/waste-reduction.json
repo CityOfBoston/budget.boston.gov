@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Streets",
-  "department":"Public Works Department",
+  "department":"public-works-department",
   "file_version":"0.10",
   "head_name":"Robert DeRosa",
   "head_title":"Manager",
   "name":"Waste Reduction",
-  "parent":"Public Works Department",
+  "parent":"public-works-department",
   "section_id":123,
   "section_md5_id":"202CB962AC59075B964B07152D234B70",
   "section_type":"program",
@@ -25,7 +25,7 @@
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
       "fy-0":"FY17 Budget",
-      "fy+2":"FY18 Budget"
+      "fy+1":"FY18 Budget"
     },
     {
       "line_title":"Personnel Services",
@@ -33,7 +33,7 @@
       "fy-2":2076956,
       "fy-1":2273430,
       "fy-0":2250522,
-      "fy+2":2235383
+      "fy+1":2235383
     },
     {
       "line_title":"Non Personnel",
@@ -57,7 +57,7 @@
     "table_header":{
       "line_type":"title",
       "fy-2":"FY15 Expenditure",
-      "fy-1":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",
       "fy+1":"FY18 Recommended",
       "diff":"Inc/Dec 17 vs 18"
@@ -82,7 +82,7 @@
         "diff":935934
       },
       {
-        "line_title":"Supplies & Materials",
+        "line_title":"Supplies and Materials",
         "line_type":"data",
         "fy-2":227470,
         "fy-1":202037,
@@ -91,7 +91,7 @@
         "diff":-7800
       },
       {
-        "line_title":"Current Chgs & Oblig",
+        "line_title":"Current Chgs and Oblig",
         "line_type":"data",
         "fy-2":32,
         "fy-1":1689,
@@ -132,7 +132,7 @@
     {
       "section_name":"Performance",
       "strategy":[
-        "Effectively control and manage Boston's public space.   "
+        "Effectively control and manage Boston's public space."
       ],
       "performance_measures":[
         {
@@ -140,19 +140,19 @@
             "debug":"JPM",
             "Program Name":"Performance Measures",
             "line_type":"header",
-            "fy-4":"FY15 Actual",
-            "fy-3":"FY16 Actual",
-            "fy-2":"FY17 Projected",
-            "fy-1":"FY18 Target"
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
           },
           "data":[
             {
               "line_type":"data",
               "line_data":"% of code enforcement complaints responded to within 24 hours.",
-              "fy-4":"84%",
-              "fy-3":"98%",
-              "fy-2":"98%",
-              "fy-1":"99%"
+              "fy-2":"84%",
+              "fy-1":"98%",
+              "fy-0":"98%",
+              "fy+1":"99%"
             }
           ]
         }
@@ -169,35 +169,35 @@
             "debug":"JPM",
             "Program Name":"Performance Measures",
             "line_type":"header",
-            "fy-4":"FY15 Actual",
-            "fy-3":"FY16 Actual",
-            "fy-2":"FY17 Projected",
-            "fy-1":"FY18 Target"
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
           },
           "data":[
             {
               "line_type":"data",
               "line_data":"# of missed trash requests received.",
-              "fy-4":15127,
-              "fy-3":11332,
-              "fy-2":12000,
-              "fy-1":1200
+              "fy-2":"15127",
+              "fy-1":"11332",
+              "fy-0":"12000",
+              "fy+1":"1200"
             },
             {
               "line_type":"data",
               "line_data":"% of missed trash requests completed on time.",
-              "fy-4":"92%",
-              "fy-3":"97%",
-              "fy-2":"96%",
-              "fy-1":"96%"
+              "fy-2":"92%",
+              "fy-1":"97%",
+              "fy-0":"96%",
+              "fy+1":"96%"
             },
             {
               "line_type":"data",
               "line_data":"Average time to complete a missed trash request.",
-              "fy-4":1,
-              "fy-3":1,
-              "fy-2":1,
-              "fy-1":1
+              "fy-2":"1",
+              "fy-1":"1",
+              "fy-0":"1",
+              "fy+1":"1"
             }
           ]
         }

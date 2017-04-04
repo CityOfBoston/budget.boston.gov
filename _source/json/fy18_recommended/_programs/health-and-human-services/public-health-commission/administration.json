@@ -1,0 +1,163 @@
+---
+{
+  "cabinet":"Health and Human Services",
+  "department":"public-health-commission",
+  "file_version":"0.10",
+  "head_name":"Monica Valdes Lupi",
+  "head_title":" Executive Director",
+  "name":"Administration",
+  "parent":"public-health-commission",
+  "section_id":103,
+  "section_md5_id":"6974CE5AC660610B44D9B9FED0FF9548",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 620200",
+  "description":[
+    "The Boston Public Health Commission promotes the health of the people of Boston by protecting and fostering the three core functions of public health: assessment, assurance and policy development. It carries out these functions through a wide variety of activities including health promotion and disease prevention initiatives (such as neighborhood outreach and community education); provision of critical health services for vulnerable, under-served and at-risk populations (such as health and wellness clinical and education services for school aged children, emergency shelter and transitional housing and support services for the homeless, and substance abuse treatment for those suffering from addiction); emergency preparedness and response (such as pre-hospital emergency medical care and transport , infectious disease surveillance and outbreak control, and environmental hazards prevention and response); monitoring and reporting on the health status of the city&rsquo;s residents (such as city wide and disease specific health status reports); and development of public policy approaches that support positive health outcomes (such as tobacco control, banning the use of transfats in food establishments, regulating biological laboratories, and environmental health regulations)."
+  ],
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Supplies and Materials",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs and Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":10119485,
+        "fy-1":10824191,
+        "fy-0":11345671,
+        "fy+1":0,
+        "diff":-11345671
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":10119485,
+        "fy-1":10824191,
+        "fy-0":11345671,
+        "fy+1":0,
+        "diff":-11345671
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Expand crosstraining"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "debug":"JPM",
+            "Program Name":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"75% of staff competent in 2 areas.",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

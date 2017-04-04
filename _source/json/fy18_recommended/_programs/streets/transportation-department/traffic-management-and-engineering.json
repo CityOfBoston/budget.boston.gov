@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Streets",
-  "department":"Transportation Department",
+  "department":"transportation-department",
   "file_version":"0.10",
   "head_name":"John DeBenedictis",
   "head_title":"Manager",
   "name":"Traffic Management & Engineering",
-  "parent":"Transportation Department",
+  "parent":"transportation-department",
   "section_id":175,
   "section_md5_id":"82161242827B703E6ACF9C726942A1E4",
   "section_type":"program",
@@ -25,7 +25,7 @@
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
       "fy-0":"FY17 Budget",
-      "fy+2":"FY18 Budget"
+      "fy+1":"FY18 Budget"
     },
     {
       "line_title":"Personnel Services",
@@ -33,7 +33,7 @@
       "fy-2":1382278,
       "fy-1":1584347,
       "fy-0":1629389,
-      "fy+2":1655600
+      "fy+1":1655600
     },
     {
       "line_title":"Non Personnel",
@@ -57,7 +57,7 @@
     "table_header":{
       "line_type":"title",
       "fy-2":"FY15 Expenditure",
-      "fy-1":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",
       "fy+1":"FY18 Recommended",
       "diff":"Inc/Dec 17 vs 18"
@@ -82,7 +82,7 @@
         "diff":8115
       },
       {
-        "line_title":"Supplies & Materials",
+        "line_title":"Supplies and Materials",
         "line_type":"data",
         "fy-2":167082,
         "fy-1":0,
@@ -91,7 +91,7 @@
         "diff":0
       },
       {
-        "line_title":"Current Chgs & Oblig",
+        "line_title":"Current Chgs and Oblig",
         "line_type":"data",
         "fy-2":0,
         "fy-1":4842,
@@ -132,7 +132,7 @@
     {
       "section_name":"Performance",
       "strategy":[
-        "Design, construct, and maintain streetscapes that prioritize moving people safely"
+        "Design, construct, and maintain streetscapes that prioritize moving people safely"
       ],
       "performance_measures":[
         {
@@ -140,51 +140,51 @@
             "debug":"JPM",
             "Program Name":"Performance Measures",
             "line_type":"header",
-            "fy-4":"FY15 Actual",
-            "fy-3":"FY16 Actual",
-            "fy-2":"FY17 Projected",
-            "fy-1":"FY18 Target"
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
           },
           "data":[
             {
               "line_type":"data",
               "line_data":"# Accessible Pedestrian Signals Installed.",
-              "fy-4":null,
-              "fy-3":null,
-              "fy-2":null,
-              "fy-1":null
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":""
             },
             {
               "line_type":"data",
               "line_data":"# of traffic monitoring cameras operational.",
-              "fy-4":180,
-              "fy-3":190,
-              "fy-2":200,
-              "fy-1":200
+              "fy-2":"180",
+              "fy-1":"190",
+              "fy-0":"200",
+              "fy+1":"200"
             },
             {
               "line_type":"data",
               "line_data":"% of development project impact reports, construction management plans and site plans reviewed on time.",
-              "fy-4":"74%",
-              "fy-3":"80%",
-              "fy-2":"75%",
-              "fy-1":"75%"
+              "fy-2":"74%",
+              "fy-1":"80%",
+              "fy-0":"75%",
+              "fy+1":"75%"
             },
             {
               "line_type":"data",
               "line_data":"% of engineering service requests completed and responded to on time.",
-              "fy-4":"76%",
-              "fy-3":"80%",
-              "fy-2":"75%",
-              "fy-1":"75%"
+              "fy-2":"76%",
+              "fy-1":"80%",
+              "fy-0":"75%",
+              "fy+1":"75%"
             },
             {
               "line_type":"data",
               "line_data":"% of traffic signals on-line.",
-              "fy-4":"91%",
-              "fy-3":"88%",
-              "fy-2":"90%",
-              "fy-1":"90%"
+              "fy-2":"91%",
+              "fy-1":"88%",
+              "fy-0":"90%",
+              "fy+1":"90%"
             }
           ]
         }
@@ -201,19 +201,19 @@
             "debug":"JPM",
             "Program Name":"Performance Measures",
             "line_type":"header",
-            "fy-4":"FY15 Actual",
-            "fy-3":"FY16 Actual",
-            "fy-2":"FY17 Projected",
-            "fy-1":"FY18 Target"
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
           },
           "data":[
             {
               "line_type":"data",
               "line_data":"Average parking vacany rate.",
-              "fy-4":null,
-              "fy-3":null,
-              "fy-2":null,
-              "fy-1":null
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":""
             }
           ]
         }
@@ -230,19 +230,19 @@
             "debug":"JPM",
             "Program Name":"Performance Measures",
             "line_type":"header",
-            "fy-4":"FY15 Actual",
-            "fy-3":"FY16 Actual",
-            "fy-2":"FY17 Projected",
-            "fy-1":"FY18 Target"
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
           },
           "data":[
             {
               "line_type":"data",
               "line_data":"% of traffic signals on line.",
-              "fy-4":null,
-              "fy-3":null,
-              "fy-2":null,
-              "fy-1":null
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":""
             }
           ]
         }

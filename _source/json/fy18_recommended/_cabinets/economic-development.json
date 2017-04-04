@@ -1,0 +1,157 @@
+---
+{
+  "debug":"JCB",
+  "cabinet":"Economic Development",
+  "department":null,
+  "file_version":"0.10",
+  "head_name":"John Barros",
+  "head_title":"Chief of Economic Development",
+  "name":"Economic Development",
+  "parent":"root",
+  "section_id":8,
+  "section_md5_id":"C9F0F895FB98AB9159F51FD0297E236D",
+  "section_type":"cabinet",
+  "section_type_short":"C",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "mission":[
+    "The mission of the Economic Development Cabinet is to lead a broad effort to streamline and support areas of focus that contribute to Boston&rsquo;s economy including tourism, jobs and employment, business development, and real estate development.  The cabinet will concern itself with increasing transparency and promoting accessibility for all Bostonians - especially women- and minority-owned businesses and local businesses -to share in and benefit from the economic boom in Boston."
+  ],
+  "overview":[
+    "OVERVIEW FROM VOLUME 1"
+  ],
+  "operating_department":{
+    "table_type":"operating_department",
+    "debug":"JCB",
+    "table_title":"Operating Budget",
+    "Program Name":"Department",
+    "line_type":"title",
+    "fy-2":"FY15 Actual",
+    "fy-1":"FY16 Actual",
+    "fy-0":"FY17 Budget",
+    "fy+1":"FY18 Budget",
+    "data":[
+      {
+        "department":"Consumer Affairs and Licensing",
+        "line_type":"data",
+        "fy-2":459930,
+        "fy-1":379272,
+        "fy-0":1177027,
+        "fy+1":1116728
+      },
+      {
+        "department":"Licensing Board",
+        "line_type":"data",
+        "fy-2":704753,
+        "fy-1":637735,
+        "fy-0":0,
+        "fy+1":0
+      },
+      {
+        "department":"Office of Economic Development",
+        "line_type":"data",
+        "fy-2":1552694,
+        "fy-1":1559781,
+        "fy-0":2460613,
+        "fy+1":2473392
+      },
+      {
+        "department":"Office of Tourism",
+        "line_type":"data",
+        "fy-2":1011559,
+        "fy-1":1092949,
+        "fy-0":1399709,
+        "fy+1":1326162
+      },
+      {
+        "total":"Total",
+        "line_type":"total",
+        "fy-2":3728936,
+        "fy-1":3669737,
+        "fy-0":5037349,
+        "fy+1":4916282
+      }
+    ],
+    "capital_budget_expenditures":[
+      {
+        "debug":"JCCD",
+        "table_type":"capital_budget_expenditures",
+        "table_title":"Capital Budget Expenditures",
+        "table_header":{
+          "title":"Capital Budget Expenditures",
+          "line_type":"header",
+          "fy-2":"FY15 Actual",
+          "fy-1":"FY16 Actual",
+          "fy-0":"FY17 Estimated",
+          "fy+1":"FY18 Projected"
+        },
+        "data":[
+          {
+            "title":"Boston Planning and Development Agency",
+            "line_type":"data",
+            "fy-2":2312129,
+            "fy-1":1569354,
+            "fy-0":5823576,
+            "fy+1":1500000
+          },
+          {
+            "title":"Total",
+            "line_type":"total",
+            "fy-2":2312129,
+            "fy-1":1569354,
+            "fy-0":5823576,
+            "fy+1":1500000
+          }
+        ]
+      }
+    ]
+  },
+  "external_funds_tables":{
+    "debug":"JCEXFT",
+    "table_type":"external_funds",
+    "table_title":"external_funds",
+    "table_header":{
+      "title":"Department",
+      "line_type":"header",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "title":"Consumer Affairs and Licensing",
+        "line_type":"data",
+        "fy-2":54437,
+        "fy-1":51916,
+        "fy-0":52000,
+        "fy+1":52000
+      },
+      {
+        "title":"Office of Economic Development",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":3031,
+        "fy-0":4909363,
+        "fy+1":4434473
+      },
+      {
+        "title":"Office of Tourism",
+        "line_type":"data",
+        "fy-2":87768,
+        "fy-1":109440,
+        "fy-0":60000,
+        "fy+1":60000
+      },
+      {
+        "total":"Total Cabinet",
+        "line_type":"total",
+        "fy-2":142205,
+        "fy-1":164387,
+        "fy-0":5021363,
+        "fy+1":4546473
+      }
+    ]
+  }
+}
+---

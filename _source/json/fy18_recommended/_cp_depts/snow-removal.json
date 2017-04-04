@@ -1,0 +1,49 @@
+---
+{
+  "cabinet":"Streets",
+  "debug":"JBDCP",
+  "department":"Snow Removal",
+  "file_version":"0.10",
+  "head_name":Null,
+  "head_title":Null,
+  "name":"Snow Removal",
+  "parent":"Streets",
+  "section_id":71,
+  "section_md5_id":"E2C420D928D4BF8CE0FF2EC19B371514",
+  "section_type":"capital_budget",
+  "section_type_short":"L",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "mission":[
+    "The Snow Removal appropriation supports the City of Boston's efforts to clear ice and snow from Boston streets and property. Snow removal is done by City personnel supplemented and assisted by private contractors."
+  ],
+  "description_of_services":[
+    "The appropriation provides for the purchase of salt and sand, plowing and hauling of snow by contractors, purchase and repair of snow removal equipment, and financing for regular City personnel engaged in snow removal operations after normal working hours."
+  ],
+  "capital_budget_expenditures":[
+    {
+      "debug":"JBDCPCBE",
+      "table_type":"capital_budget_expenditures",
+      "table_title":"Capital Budget Expenditures",
+      "table_header":{
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "fy-2":"FY15 Actual",
+        "fy-1":"FY16 Actual",
+        "fy-0":"FY17 Estimated",
+        "fy+1":"FY18 Projected"
+      },
+      "data":{
+        "line_type":"total",
+        "line_title":"Total Department",
+        "line_data_type":"total",
+        "fy-2":79108290,
+        "fy-1":52826257,
+        "fy-0":84717890,
+        "fy+1":69134494
+      }
+    }
+  ]
+}
+---

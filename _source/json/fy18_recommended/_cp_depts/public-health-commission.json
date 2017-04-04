@@ -1,0 +1,138 @@
+---
+{
+  "cabinet":"Health and Human Services",
+  "debug":"JBDCP",
+  "department":"Public Health Commission",
+  "file_version":"0.10",
+  "head_name":"Monica Valdes Lupi",
+  "head_title":"Executive Director",
+  "name":"Public Health Commission",
+  "parent":"Health and Human Services",
+  "section_id":15,
+  "section_md5_id":"9BF31C7FF062936A96D3C8BD1F8F2FF3",
+  "section_type":"capital_budget",
+  "section_type_short":"L",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "mission":[
+    "The mission of the Boston Public Health Commission is to protect, preserve and promote the health and well being of Boston residents, particularly those who are most vulnerable."
+  ],
+  "description_of_services":[
+    "."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Public Health Services",
+      "strategies":[
+        "Advance Healthy Equity.",
+        "Increase health knowledge and healthy behavior.",
+        "Maintain fast, efficient response to emergency medical calls.",
+        "Respond to critical public health issues.",
+        "Stregthen Partnerships with healthcare."
+      ]
+    }
+  ],
+  "overview":[
+    "Capital investment in the facilities used by the Public Health Commission improves service delivery and enhances the administration of public health services provided by the City."
+  ],
+  "fy_major_initiatives":[
+    "Design and construction will begin on a partial renovation of the Woods-Mullen Homeless Shelter.",
+    "Improvements at the South End Fitness Center Pool will continue.",
+    "A programming and siting study for a new Emergency Medical Services (EMS) facility in the Innovation District will be completed;"
+  ],
+  "projects":[
+    {
+      "table_type":"capital_projects_by_category",
+      "table_title":"Capital Projects by Category",
+      "header":{
+        "debug":"JBDCPDP",
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "category":"Category",
+        "name":"Project",
+        "location":"Location",
+        "status":"Status",
+        "fy-0":"FY18 Projected",
+        "project_title":"Total"
+      },
+      "projects_data":[
+        {
+          "Gov't Effectiveness":[
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Gov't Effectiveness",
+              "name":"BPHC Budget Software",
+              "location":"Citywide",
+              "section_id":"CPH24654",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":200000,
+              "project_total":500000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Gov't Effectiveness",
+              "name":"EMS Training Academy Study",
+              "location":"N/A",
+              "section_id":"CPH24155",
+              "status":"Study Underway",
+              "operating_impact":"No",
+              "fy-0":50000,
+              "project_total":50000
+            }
+          ]
+        },
+        {
+          "Health":[
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Health",
+              "name":"South End Fitness Center Pool",
+              "location":"South End",
+              "section_id":"CPH23989",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":379117,
+              "project_total":1129000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Health",
+              "name":"EMS Station Study",
+              "location":"South Boston",
+              "section_id":"CPH23963",
+              "status":"Study Underway",
+              "operating_impact":"No",
+              "fy-0":40000,
+              "project_total":100000
+            }
+          ]
+        },
+        {
+          "Housing":[
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Housing",
+              "name":"Woods Mullen Shelter",
+              "location":"South End",
+              "section_id":"CPH24598",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":346998,
+              "project_total":1346998
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "fy-0":1016115,
+  "total":3125998
+}
+---

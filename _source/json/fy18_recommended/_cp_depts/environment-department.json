@@ -1,0 +1,103 @@
+---
+{
+  "cabinet":"Environment, Energy and Open Space",
+  "debug":"JBDCP",
+  "department":"Environment Department",
+  "file_version":"0.10",
+  "head_name":"Carl Spector",
+  "head_title":"Commissioner",
+  "name":"Environment Department",
+  "parent":"Environment, Energy and Open Space",
+  "section_id":47,
+  "section_md5_id":"67C6A1E7CE56D3D6FA748AB6D9AF3FD7",
+  "section_type":"capital_budget",
+  "section_type_short":"L",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "mission":[
+    "The mission of the Environment Department is to enhance the quality of life in Boston by protecting air, water, climate and land resources, and by preserving and improving the integrity of Boston's architectural and historic resources."
+  ],
+  "description_of_services":[
+    "The Environment Department reviews permit applications and development proposals, coordinates City policy on environmental issues and sustainability, conducts surveys of built and natural resources, provides public information and referrals on environmental and historic preservation issues, and develops City programs such as the preservation guidebook for homeowners. The department also provides support for the operations of the Groundwater Trust and the Boston Waterways Board."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Environment",
+      "strategies":[
+        "To promote conservation of the City's architectural resources through administration of local preservation district guidelines and through federal, state and local regulation and review.",
+        "To protect the public from air and noise pollution by enforcing Air Pollution Control Commission and other regulations."
+      ]
+    }
+  ],
+  "overview":[
+    "As part of Boston&rsquo;s implementation of Imagine Boston 2030 the city will reduce energy consumption and prepare for climate change."
+  ],
+  "fy_major_initiatives":[
+    "Launch the first round of self-financing energy efficiency projects in City buildings under the Renew Boston Trust program, to reduce climate impacts and achieve recurring energy savings.",
+    "Development of more detailed climate plans for Boston neighborhoods at risk for coastal flooding, as recommended by Climate Ready Boston.",
+    "Improve energy management and increase efficiency in City buildings through targeted capital design processes and building assignments."
+  ],
+  "projects":[
+    {
+      "table_type":"capital_projects_by_category",
+      "table_title":"Capital Projects by Category",
+      "header":{
+        "debug":"JBDCPDP",
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "category":"Category",
+        "name":"Project",
+        "location":"Location",
+        "status":"Status",
+        "fy-0":"FY18 Projected",
+        "project_title":"Total"
+      },
+      "projects_data":[
+        {
+          "Energy & Environment":[
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Energy and Environment",
+              "name":"Climate Ready Boston",
+              "location":"Citywide",
+              "section_id":"CED24661",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":286500,
+              "project_total":973000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Energy and Environment",
+              "name":"Energy Efficiency Design Services",
+              "location":"Citywide",
+              "section_id":"CED24211",
+              "status":"Annual Program",
+              "operating_impact":"No",
+              "fy-0":386600,
+              "project_total":425000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Energy and Environment",
+              "name":"Renew Boston Trust",
+              "location":"Citywide",
+              "section_id":"CED24553",
+              "status":"Implementation Underway",
+              "operating_impact":"No",
+              "fy-0":1000000,
+              "project_total":10000000
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "fy-0":1673100,
+  "total":11398000
+}
+---

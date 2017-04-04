@@ -1,6 +1,6 @@
 ---
 {
-  "category":"NEED SOURCE FOR THIS",
+  "category":"Transportation",
   "category_desc":"NEED SOURCE FOR THIS",
   "department":"Public Works Department",
   "file_version":"0.10",
@@ -20,13 +20,13 @@
     "table_title":"Expenditures (Actual and Planned)",
     "table_header":{
       "line_type":"header",
-      "line_ttitle":null,
+      "line_title":null,
       "line_data_type":"string",
       "source":"Source",
       "past_spending":"Through 6/30/16",
       "fy-1":"FY17 Budget",
       "fy-0":"FY18 Budget",
-      "fy+1-3":"FY19-21 Budget",
+      "fy+1-4":"FY19-22 Budget",
       "total":"Total"
     },
     "data":[
@@ -35,10 +35,10 @@
         "line_title":null,
         "line_date_type":"number",
         "source":"City Capital",
-        "fy-2":2465966,
+        "past_spending":2465966,
         "fy-1":2000000,
         "fy-0":3754034,
-        "fy+1":0,
+        "fy+1-4":0,
         "total":8220000
       },
       {
@@ -46,10 +46,10 @@
         "line_title":null,
         "line_date_type":"number",
         "source":"Grants/Other",
-        "fy-2":4918132,
+        "past_spending":4918132,
         "fy-1":9078015,
         "fy-0":7790749,
-        "fy+1":0,
+        "fy+1-4":0,
         "total":21786896
       },
       {
@@ -57,10 +57,10 @@
         "line_title":null,
         "line_date_type":"number",
         "source":"Totals",
-        "fy-2":7384098,
+        "past_spending":7384098,
         "fy-1":11078015,
         "fy-0":11544783,
-        "fy+1":0,
+        "fy+1-4":0,
         "total":30006896
       }
     ],
@@ -69,13 +69,13 @@
       "table_title":"Authorizations",
       "table_header":{
         "line_type":"header",
-        "line_ttitle":null,
+        "line_title":null,
         "line_data_type":"string",
         "source":"Source",
         "existing":"Existing",
         "fy-0":"FY18",
         "fy-0++":"Future",
-        "other":"Non-Capital Fund",
+        "other":"Non Capital Fund",
         "total":"Total"
       },
       "data":[

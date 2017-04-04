@@ -1,0 +1,265 @@
+---
+{
+  "debug":"JBD",
+  "file_version":"0.10",
+  "section_id":59,
+  "section_md5_id":"093F65E080A295F8076B1C5722A46AA2",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "name":"Office for Immigrant Advancement",
+  "parent":"Health and Human Services",
+  "cabinet":"Health and Human Services",
+  "department":"Office for Immigrant Advancement",
+  "head_name":"Alejandra St. Guillen",
+  "head_title":"Director",
+  "appropriation_code":"Appropriation 113",
+  "mission":[
+    "The mission of the Office for Immigrant Advancement is to strengthen the ability of immigrants, and the diverse cultural and linguistic communities of which they are a part, to fully participate in the economic, civic, social, and cultural life of the City of Boston, and to promote the commemoration and public understanding of the contributions of immigrants."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Immigrant Advancement",
+      "debug":"JCO",
+      "strategies":[
+        "Empowerment-develop resources to build and strengthen immigrant organizations capacity.",
+        "Engagement-Provide access to immigration information and community resources; Promote diversity and inclusiveness.",
+        "Immigrant integration - Collaboration with city departments to improve access to city services."
+      ]
+    }
+  ],
+  "operating_budget":{
+    "debug":"JPTR",
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "Program Name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "line_title":"Immigrant Advancement",
+        "line_type":"data",
+        "fy-2":362790,
+        "fy-1":381363,
+        "fy-0":425021,
+        "fy+1":439937
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":362790,
+        "fy-1":381363,
+        "fy-0":425021,
+        "fy+1":439937
+      }
+    ]
+  },
+  "external_funds_budget":{
+    "debug":"JPTR",
+    "table_type":"External Funds",
+    "table_title":"External Funds Budget",
+    "table_header":{
+      "name":"Fund Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "line_title":"DACA-DAPA Outreach Initiative",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":121851,
+        "fy-0":74809,
+        "fy+1":0
+      },
+      {
+        "line_title":"Immigrant Integration & Empowerment",
+        "line_type":"data",
+        "fy-2":43947,
+        "fy-1":115893,
+        "fy-0":59799,
+        "fy+1":78163
+      },
+      {
+        "line_title":"New Americans Library Corners",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":13193,
+        "fy-0":51868,
+        "fy+1":41660
+      },
+      {
+        "line_title":"New Bostonians Contributions",
+        "line_type":"data",
+        "fy-2":445702,
+        "fy-1":322582,
+        "fy-0":154000,
+        "fy+1":366000
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":489649,
+        "fy-1":573519,
+        "fy-0":340476,
+        "fy+1":485823
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":335265,
+      "fy-1":366514,
+      "fy-0":408891,
+      "fy+1":406737
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":27525,
+      "fy-1":14849,
+      "fy-0":16130,
+      "fy+1":33200
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":362790,
+      "fy-1":381363,
+      "fy-0":425021,
+      "fy+1":439937
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[],
+  "description_of_services":[
+    "The Office for Immigrant Advancement provides public education to inform immigrants about City services, information and referral to community services as well as information in conducting outreach to immigrant groups. The Office conducts on-going outrea."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":335265,
+        "fy-1":366514,
+        "fy-0":408891,
+        "fy+1":406737,
+        "diff":-2154
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":22516,
+        "fy-1":9053,
+        "fy-0":12270,
+        "fy+1":27600,
+        "diff":15330
+      },
+      {
+        "line_title":"Supplies and Materials",
+        "line_type":"data",
+        "fy-2":4875,
+        "fy-1":5281,
+        "fy-0":3600,
+        "fy+1":4700,
+        "diff":1100
+      },
+      {
+        "line_title":"Current Chgs and Oblig",
+        "line_type":"data",
+        "fy-2":134,
+        "fy-1":515,
+        "fy-0":260,
+        "fy+1":900,
+        "diff":640
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":362790,
+        "fy-1":381363,
+        "fy-0":425021,
+        "fy+1":439937,
+        "diff":14916
+      }
+    ]
+  },
+  "external_funds":[
+    {
+      "debug":"JEFP",
+      "project":"DACA-DAPA Outreach Initiative",
+      "project_mission":[
+        "Purpose of funding the Deferred Action for Childhood Arrivals (DACA) and Deferred Action for Parental Accountability (DAPA) Outreach Initiative to provide programs that enable New Bostonians to play an active role in the economic, civic, social and cultural life of the city of Boston."
+      ]
+    },
+    {
+      "debug":"JEFP",
+      "project":"Immigrant Integration & Empowerment",
+      "project_mission":[
+        "The Immigrant Integration and Empower Initiative seeks to develop a detailed action plan for all City Departments and launch a citywide media and public relations campaign in mainstream, ethnic, and local media outlets to change the rhetoric about immigrants and maximize engagement and participation, and partner with nonprofits to facilitate four annual &ldquo;Community Leadership Institutes&ldquo;; for immigrant communities that offer leadership training on taking a more active role on decision-making bodies and navigating city government services and resources. Funding is provided by the BARR Foundation that totals $262,500 over a time frame of 30 months."
+      ]
+    },
+    {
+      "debug":"JEFP",
+      "project":"New Americans Library Corners",
+      "project_mission":[
+        "New Americans Library Corners Initiative, to provide citizenship information, financial empowerment, and legal assistance information, and other crucial programs that enable New Bostonians to play an active role in the economic, civic, social and cultural life of the city of Boston."
+      ]
+    },
+    {
+      "debug":"JEFP",
+      "project":"New Bostonian Contributions",
+      "project_mission":[
+        "The New Bostonians Contribution Fund is funded by small, private donations from the public for the purpose of supporting programs at the Mayor&rsquo;s Office of New Bostonians. It is used to supplement and enhance existing programs that continue to link new city residents with services and opportunities."
+      ]
+    }
+  ]
+}
+---

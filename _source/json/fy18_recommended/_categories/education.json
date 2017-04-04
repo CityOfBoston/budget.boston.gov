@@ -1,0 +1,274 @@
+---
+{
+  "file_version":"0.10",
+  "name":"Education",
+  "section_type":"Capital Budget",
+  "section_type_short":"L",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "description":[
+    "NEED CATEGORY DESCRIPTION"
+  ],
+  "vol1_category_copy":[
+    "NEED TO READ THIS FROM VOLUME ONE"
+  ],
+  "projects":[
+    {
+      "table_type":"capital_projects_by_department",
+      "table_title":"Capital Projects by Department",
+      "header":{
+        "debug":"JCCPBYD",
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "category":"Department",
+        "name":"Project",
+        "location":"Location",
+        "status":"Status",
+        "fy-0":"FY18 Projected",
+        "project_title":"Total"
+      },
+      "projects_data":[
+        {
+          "Boston Public Schools":[
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":1733607,
+              "category":"Education",
+              "name":"ACC at E. Greenwood",
+              "location":"Hyde Park",
+              "status":"In Construction",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":3395059,
+              "category":"Education",
+              "name":"Access Improvements at Henderson Inclusion Upper School Phase II",
+              "location":"Dorchester",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":500000,
+              "category":"Education",
+              "name":"Accreditation Improvements at Various Schools",
+              "location":"Various neighborhoods",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":221003,
+              "category":"Education",
+              "name":"Boston Arts Academy",
+              "location":"Fenway/Kenmore",
+              "status":"Study Underway",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":2000000,
+              "category":"Education",
+              "name":"BuildBPS: Capital Maintenance",
+              "location":"Citywide",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":0,
+              "category":"Education",
+              "name":"BuildBPS: MSBA ARP Reserve",
+              "location":"Citywide",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":7000000,
+              "category":"Education",
+              "name":"BuildBPS: Reserve for Future Projects",
+              "location":"Citywide",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":13000000,
+              "category":"Education",
+              "name":"BuilldBPS: 21st Century Schools Fund",
+              "location":"Citywide",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":0,
+              "category":"Education",
+              "name":"Carter Development Center",
+              "location":"South End",
+              "status":"To Be Scheduled",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":25856068,
+              "category":"Education",
+              "name":"Dearborn 6-12 STEM / Early College Academy",
+              "location":"Roxbury",
+              "status":"In Construction",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":2750000,
+              "category":"Education",
+              "name":"East Boston High School Windows",
+              "location":"East Boston",
+              "status":"In Construction",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":9917270,
+              "category":"Education",
+              "name":"Eliot School at 585 Commercial Street",
+              "location":"North End",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":450000,
+              "category":"Education",
+              "name":"Hernandez School Yard and Site Improvements",
+              "location":"Roxbury",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":200000,
+              "category":"Education",
+              "name":"Madison Park Complex Building #4 Locker Rooms",
+              "location":"Roxbury",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":1200000,
+              "category":"Education",
+              "name":"Mattapan Early Elementary School",
+              "location":"Mattapan",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":1170767,
+              "category":"Education",
+              "name":"Quincy Upper Pilot School",
+              "location":"Bay Village",
+              "status":"Study Underway",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":9453458,
+              "category":"Education",
+              "name":"Roof or Boiler Replacements at 5 Schools",
+              "location":"Various neighborhoods",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":490000,
+              "category":"Education",
+              "name":"School Yard Improvements",
+              "location":"Citywide",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":40000,
+              "category":"Education",
+              "name":"School Yard Improvements at Sumner School",
+              "location":"Roslindale",
+              "status":"To Be Scheduled",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":500000,
+              "category":"Education",
+              "name":"Security Related Improvements at Various Schools",
+              "location":"Various neighborhoods",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":3000000,
+              "category":"Education",
+              "name":"Technology Infrastructure II",
+              "location":"Various neighborhoods",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":27227053,
+              "category":"Education",
+              "name":"Window Replacements at 7 Schools",
+              "location":"Various neighborhoods",
+              "status":"In Construction",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"totalDeptCat",
+              "title":null,
+              "total1":110104285,
+              "category":"Education",
+              "department":"Boston Public Schools"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "line_type":"totalCat",
+      "title":null,
+      "fy-0":0,
+      "total":110104285,
+      "category":"Education"
+    }
+  ]
+}
+---

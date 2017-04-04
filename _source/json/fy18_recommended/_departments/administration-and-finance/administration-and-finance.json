@@ -1,0 +1,170 @@
+---
+{
+  "debug":"JBD",
+  "file_version":"0.10",
+  "section_id":56,
+  "section_md5_id":"9F61408E3AFB633E50CDF1B20DE6F466",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "name":"Administration and Finance",
+  "parent":"Administration and Finance",
+  "cabinet":"Administration and Finance",
+  "department":"Administration and Finance",
+  "head_name":"David Sweeney",
+  "head_title":"Chief Financial Office and Collector Treasurer",
+  "appropriation_code":"Appropriation 144",
+  "mission":[
+    "The Office of Finance and Budget supports the long-term growth and stability of the City through sound fiscal stewardship and results driven management of the City&rsquo;s human and financial resources."
+  ],
+  "selected_performance_strategies":[],
+  "operating_budget":{
+    "debug":"JPTR",
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "Program Name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "line_title":"A and F",
+        "line_type":"data",
+        "fy-2":934781,
+        "fy-1":888235,
+        "fy-0":1071275,
+        "fy+1":1065310
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":934781,
+        "fy-1":888235,
+        "fy-0":1071275,
+        "fy+1":1065310
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":678910,
+      "fy-1":754643,
+      "fy-0":865675,
+      "fy+1":729710
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":255871,
+      "fy-1":133592,
+      "fy-0":205600,
+      "fy+1":335600
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":934781,
+      "fy-1":888235,
+      "fy-0":1071275,
+      "fy+1":1065310
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[],
+  "description_of_services":[
+    "The Office of Finance and Budget, by working with all departments of the City, works to implement the Mayor&rsquo;s strategic goals, increase organizational performance and manage the City&rsquo;s overall fiscal health."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Supplies and Materials",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs and Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      }
+    ]
+  }
+}
+---
