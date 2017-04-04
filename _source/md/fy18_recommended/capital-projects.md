@@ -80,8 +80,8 @@ components:
   - title: Spending By Investment Category
     columns:
       - "Category": 
-           name: Transportation
-           link: /capital-projects/transportation
+           name: Arts and Culture
+           link: /capital-projects/arts-and-culture
         "Through 3/1/17":
           value: 345
           filter: money
@@ -101,8 +101,8 @@ components:
           value: 6565
           filter: money
       - "Category": 
-           name: Education
-           link: /
+           name: Economy
+           link: /capital-projects/economy
         "Through 3/1/17":
           value: 345
           filter: money
@@ -122,8 +122,8 @@ components:
           value: 6565
           filter: money
       - "Category":
-          name: Housing
-          link: /
+          name: Education
+          link: /capital-projects/education
         "Through 3/1/17":
           value: 345
           filter: money
@@ -143,8 +143,8 @@ components:
           value: 6565
           filter: money
       - "Category":
-          name: Mobilization
-          link: /
+          name: Energy and Environment
+          link: /capital-projects/energy-environment
         "Through 3/1/17":
           value: 345
           filter: money
@@ -164,8 +164,50 @@ components:
           value: 6565
           filter: money
       - "Category":
-         name: Government Infrastructure
-         link: /capital-projects/categories/government-infrastructure
+         name: Government Effectiveness
+         link: /capital-projects/govt-effectiveness
+        "Through 3/1/17":
+          value: 345
+          filter: money
+        "FY17 Budget":
+          value: 44
+          filter: money
+        "FY18 Budget":
+          value: 90
+          filter: money
+        "FY19-22 Budget":
+          value: 6565
+          filter: money
+        "Non-Capital Fund":
+          value: 6565
+          filter: money
+        "Total":
+          value: 6565
+          filter: money
+      - "Category":
+         name: Health
+         link: /capital-projects/health
+        "Through 3/1/17":
+          value: 345
+          filter: money
+        "FY17 Budget":
+          value: 44
+          filter: money
+        "FY18 Budget":
+          value: 90
+          filter: money
+        "FY19-22 Budget":
+          value: 6565
+          filter: money
+        "Non-Capital Fund":
+          value: 6565
+          filter: money
+        "Total":
+          value: 6565
+          filter: money
+      - "Category":
+         name: Housing
+         link: /capital-projects/housing
         "Through 3/1/17":
           value: 345
           filter: money
@@ -187,6 +229,48 @@ components:
       - "Category":
          name: Open Space
          link: /capital-projects/open-space
+        "Through 3/1/17":
+          value: 345
+          filter: money
+        "FY17 Budget":
+          value: 44
+          filter: money
+        "FY18 Budget":
+          value: 90
+          filter: money
+        "FY19-22 Budget":
+          value: 6565
+          filter: money
+        "Non-Capital Fund":
+          value: 6565
+          filter: money
+        "Total":
+          value: 6565
+          filter: money
+      - "Category":
+         name: Technology
+         link: /capital-projects/technology
+        "Through 3/1/17":
+          value: 345
+          filter: money
+        "FY17 Budget":
+          value: 44
+          filter: money
+        "FY18 Budget":
+          value: 90
+          filter: money
+        "FY19-22 Budget":
+          value: 6565
+          filter: money
+        "Non-Capital Fund":
+          value: 6565
+          filter: money
+        "Total":
+          value: 6565
+          filter: money
+      - "Category":
+         name: Transporation
+         link: /capital-projects/transportation
         "Through 3/1/17":
           value: 345
           filter: money
