@@ -12,33 +12,20 @@ components:
     url: "/operating-budget/"
     local: true
   - current: Cabinets
-  - published: 2/15/17
+  - published: 4/13/17
 - intro:
   - title: Cabinets
     short_desc: > 
-      <div>"This budget is a manifestation of my vision for a
-      Thriving, Healthy, and Innovative Boston."</div>
-      <div>- Martin J. Walsh, Mayor</div>
+      Departmental appropriations can be viewed by cabinet, to better reflect the overall policy priorities and trends by service area. In FY18 some programs have transferred between departments. Details of these changes are described below in each of the cabinet sections.
     description: >
-      Mayor Walsh presented a balanced budget that maintains
-      high levels of support in critical areas such as education
-      and public safety, makes limited strategic investments,
-      continues the City's commitment to addressing its long-term
-      liabilities, and builds on the Administration's record of
-      strong fiscal management. This is made possible by the
-      Administration's achievement of efficiencies and savings.
-      The City's data-driven managerial approach was recently
-      validated by the affirmation of Boston's triple A bond rating.
+      The FY18 Recommended Budget continues and expands upon a number of savings initiatives launched under Mayor Walsh’s Administration such as health care cost containment reforms, reducing overtime, inactivating vacant positions, and reducing energy consumption. It is only through continued tightening within City departments that the City will be able to afford new and expanded investments after reserving for costs associated with collective bargaining, being assessed for its increasing charter school costs, funding its pension obligations, and paying its debt service.
     sidebar_menu: true
 - text_block:
   - title: Cabinet Appropriations
     body: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur suscipit id
-      felis sed iaculis. Sed ac nisl eu lacus porta pharetra. Suspendisse a tortor vel
-      velit egestas porttitor et a mi. Nam nunc ipsum, elementum a nisi nec, scelerisque
-      blandit orci. Ut in sollicitudin turpis, non malesuada leo. Morbi vehicula sit
-      amet est sed luctus. Suspendisse massa turpis, iaculis at fermentum placerat,
-      scelerisque ultricies est. Nulla facilisi. In scelerisque ornare tincidunt.
+      <p>The combined appropriations for City Departments, the Public Health Commission (PHC) and the School Department (BPS), and non-departmental appropriations as shown in the FY18 Budget Summary have increased by 4.0% from the FY17 appropriations.</p>
+      <p>Of that growth, Boston Public Schools is increasing by $40.3 million (3.9%) with a $1.061 billion appropriation and $20 million collective bargaining reserve. Boston’s total investment in education is growing by $57.8 million (4.8%), including BPS and the City’s Charter School Assessment.</p>
+      <p>City Services such as Police, Fire, Public Works, Housing and Public Health are projected to increase by a total of $54.0 million (4.3%), including funding reserved for collective bargaining. Public safety costs are rising by 3.5% in FY18. Streets cabinet departments, Public Health Commission and 37 other departments are increasing by an average of 1.5%. Twenty-three of these departments will see a reduction in their appropriation in FY18. Funding for City collective bargaining costs are centralized in a $27 million collective bargaining reserve. In addition, health insurance costs are projected to increase by $10.6 million (5.2%), even after achieving health care cost containment savings.</p>
 - table:
   - title: Appropriations by Cabinet
     right_text:
