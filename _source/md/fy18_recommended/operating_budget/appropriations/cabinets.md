@@ -36,210 +36,210 @@ components:
            name: Administration and Finance
            link: /operating-budget/cabinets/administration-and-finance
         "FY15 Actual":
-          value: 345
+          value: 227829602
           filter: money
         "FY16 Actual":
-          value: 44
+          value: 240714714
           filter: money
         "FY17 Budget":
-          value: 90
+          value: 256130020
           filter: money
         "FY18 Budget":
-          value: 6565
+          value: 266454487
           filter: money
       - "Cabinet":
           name: Arts and Culture
           link: /operating-budget/cabinets/arts-and-culture
         "FY15 Actual":
-          value: 344573
+          value: 34266493
           filter: money
         "FY16 Actual":
-          value: 757
+          value: 36137101
           filter: money
         "FY17 Budget":
-          value: 554
+          value: 35851172
           filter: money
         "FY18 Budget":
-          value: 6565
+          value: 37364417
           filter: money
       - "Cabinet":
           name: Civic Engagement
           link: /operating-budget/cabinets/civic-engagement
         "FY15 Actual":
-          value: 111
+          value: 4517062
           filter: money
         "FY16 Actual":
-          value: 542
+          value: 5596790
           filter: money
         "FY17 Budget":
-          value: 275
+          value: 6428480
           filter: money
         "FY18 Budget":
-          value: 50000
+          value: 6465712
           filter: money
       - "Cabinet":
           name: Economic Development
           link: /operating-budget/cabinets/economic-development
         "FY15 Actual":
-          value: 111
+          value: 3728936
           filter: money
         "FY16 Actual":
-          value: 542
+          value: 3669737
           filter: money
         "FY17 Budget":
-          value: 275
+          value: 5037349
           filter: money
         "FY18 Budget":
-          value: 50000
+          value: 4916282
           filter: money
       - "Cabinet":
           name: Education
           link: /operating-budget/cabinets/education
         "FY15 Actual":
-          value: 111
+          value: 974925124
           filter: money
         "FY16 Actual":
-          value: 542
+          value: 1016278855
           filter: money
         "FY17 Budget":
-          value: 275
+          value: 1031684000
           filter: money
         "FY18 Budget":
-          value: 50000
+          value: 1060932783
           filter: money
       - "Cabinet":
           name: Environment, Energy, and Open Space
           link: /operating-budget/cabinets/environment-energy-and-open-space
         "FY15 Actual":
-          value: 111
+          value: 37117792
           filter: money
         "FY16 Actual":
-          value: 542
+          value: 43778465
           filter: money
         "FY17 Budget":
-          value: 275
+          value: 42026692
           filter: money
         "FY18 Budget":
-          value: 50000
+          value: 43007806
           filter: money
       - "Cabinet":
           name: Health and Human Services
           link: /operating-budget/cabinets/health-and-human-services
         "FY15 Actual":
-          value: 111
+          value: 108339356
           filter: money
         "FY16 Actual":
-          value: 542
+          value: 111610573
           filter: money
         "FY17 Budget":
-          value: 275
+          value: 114388568
           filter: money
         "FY18 Budget":
-          value: 50000
+          value: 116791920
           filter: money
       - "Cabinet":
           name: Housing and Neighborhood Development
           link: /operating-budget/cabinets/housing-and-neighborhood-development
         "FY15 Actual":
-          value: 111
+          value: 10468262
           filter: money
         "FY16 Actual":
-          value: 542
+          value: 11544055
           filter: money
         "FY17 Budget":
-          value: 275
+          value: 12963182
           filter: money
         "FY18 Budget":
-          value: 50000
+          value: 13125615
           filter: money
       - "Cabinet":
           name: Information and Technology
           link: /operating-budget/cabinets/information-and-technology
         "FY15 Actual":
-          value: 111
+          value: 30614392
           filter: money
         "FY16 Actual":
-          value: 542
+          value: 32046766
           filter: money
         "FY17 Budget":
-          value: 275
+          value: 28523574
           filter: money
         "FY18 Budget":
-          value: 50000
+          value: 28891967
           filter: money
       - "Cabinet":
           name: Mayor's Office
           link: /operating-budget/cabinets/mayors-office
         "FY15 Actual":
-          value: 111
+          value: 13207025
           filter: money
         "FY16 Actual":
-          value: 542
+          value: 12973392
           filter: money
         "FY17 Budget":
-          value: 275
+          value: 14477682
           filter: money
         "FY18 Budget":
-          value: 50000
+          value: 14481276
           filter: money
       - "Cabinet":
           name: Non-Mayoral Departments
           link: /operating-budget/cabinets/non-mayoral-departments
         "FY15 Actual":
-          value: 111
+          value: 6368455
           filter: money
         "FY16 Actual":
-          value: 542
+          value: 6610436
           filter: money
         "FY17 Budget":
-          value: 275
+          value: 6829647
           filter: money
         "FY18 Budget":
-          value: 50000
+          value: 6826877
           filter: money
       - "Cabinet":
           name: Operations
           link: /operating-budget/cabinets/operations
         "FY15 Actual":
-          value: 111
+          value: 24933563
           filter: money
         "FY16 Actual":
-          value: 542
+          value: 25171888
           filter: money
         "FY17 Budget":
-          value: 275
+          value: 25151866
           filter: money
         "FY18 Budget":
-          value: 50000
+          value: 23985589
           filter: money
       - "Cabinet":
           name: Public Safety
           link: /operating-budget/cabinets/public-safety
         "FY15 Actual":
-          value: 111
+          value: 549010022
           filter: money
         "FY16 Actual":
-          value: 542
+          value: 566456629
           filter: money
         "FY17 Budget":
-          value: 275
+          value: 585715580
           filter: money
         "FY18 Budget":
-          value: 50000
+          value: 606203586
           filter: money
       - "Cabinet":
          name: Streets
          link: /operating-budget/cabinets/streets
         "FY15 Actual":
-         value: 111
+         value: 155921442
          filter: money
         "FY16 Actual":
-         value: 542
+         value: 136430813
          filter: money
         "FY17 Budget":
-         value: 275
+         value: 142291767
          filter: money
         "FY18 Budget":
-         value: 50000
+         value: 145114722
          filter: money
 ---
