@@ -7,7 +7,7 @@
   "source_version":"Recommended",
   "source_year":"18",
   "description":[
-    "NEED CATEGORY DESCRIPTION"
+    "Initiatives to strengthen education, job training, and career connections."
   ],
   "vol1_category_copy":[
     "NEED TO READ THIS FROM VOLUME ONE"
@@ -30,7 +30,7 @@
       },
       "projects_data":[
         {
-          "Boston Public Schools":[
+          "School Department":[
             {
               "line_type":"data",
               "title":null,
@@ -254,9 +254,9 @@
             {
               "line_type":"totalDeptCat",
               "title":null,
-              "total1":110104285,
+              "tota1":110104285,
               "category":"Education",
-              "department":"Boston Public Schools"
+              "department":"School Department"
             }
           ]
         }

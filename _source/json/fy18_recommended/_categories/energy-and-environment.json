@@ -7,7 +7,7 @@
   "source_version":"Recommended",
   "source_year":"18",
   "description":[
-    "NEED CATEGORY DESCRIPTION"
+    "Initiatives to support a healthy environment, reduce energy consumption and greenhouse gas emissions, and prepare for climate change."
   ],
   "vol1_category_copy":[
     "NEED TO READ THIS FROM VOLUME ONE"
@@ -30,7 +30,7 @@
       },
       "projects_data":[
         {
-          "Boston Planning and Development Agency":[
+          "Boston Redevelopment Authority":[
             {
               "line_type":"data",
               "title":null,
@@ -44,9 +44,9 @@
             {
               "line_type":"totalDeptCat",
               "title":null,
-              "total1":250000,
+              "tota1":250000,
               "category":"Energy and Environment",
-              "department":"Boston Planning and Development Agency"
+              "department":"Boston Redevelopment Authority"
             }
           ]
         },
@@ -85,7 +85,7 @@
             {
               "line_type":"totalDeptCat",
               "title":null,
-              "total1":1673100,
+              "tota1":1673100,
               "category":"Energy and Environment",
               "department":"Environment Department"
             }
@@ -106,7 +106,7 @@
             {
               "line_type":"totalDeptCat",
               "title":null,
-              "total1":350000,
+              "tota1":350000,
               "category":"Energy and Environment",
               "department":"Fire Department"
             }
@@ -127,14 +127,14 @@
             {
               "line_type":"totalDeptCat",
               "title":null,
-              "total1":50000,
+              "tota1":50000,
               "category":"Energy and Environment",
               "department":"Neighborhood Development"
             }
           ]
         },
         {
-          "Property Management":[
+          "Property Management Department":[
             {
               "line_type":"data",
               "title":null,
@@ -148,9 +148,9 @@
             {
               "line_type":"totalDeptCat",
               "title":null,
-              "total1":300500,
+              "tota1":300500,
               "category":"Energy and Environment",
-              "department":"Property Management"
+              "department":"Property Management Department"
             }
           ]
         },
@@ -179,7 +179,7 @@
             {
               "line_type":"totalDeptCat",
               "title":null,
-              "total1":150000,
+              "tota1":150000,
               "category":"Energy and Environment",
               "department":"Public Works Department"
             }

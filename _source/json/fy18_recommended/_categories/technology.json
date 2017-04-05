@@ -7,7 +7,7 @@
   "source_version":"Recommended",
   "source_year":"18",
   "description":[
-    "NEED CATEGORY DESCRIPTION"
+    "Initiatives to make Boston&rsquo;s infrastructure and services dynamic and responsive to residents' needs in real-time."
   ],
   "vol1_category_copy":[
     "NEED TO READ THIS FROM VOLUME ONE"
@@ -30,7 +30,7 @@
       },
       "projects_data":[
         {
-          "Department of Innovation & Technology":[
+          "Department of Innovation and Technology":[
             {
               "line_type":"data",
               "title":null,
@@ -74,7 +74,7 @@
             {
               "line_type":"totalDeptCat",
               "title":null,
-              "total1":11234859,
+              "tota1":11234859,
               "category":"Technology",
               "department":"Department of Innovation and Technology"
             }
@@ -95,7 +95,7 @@
             {
               "line_type":"totalDeptCat",
               "title":null,
-              "total1":50000,
+              "tota1":50000,
               "category":"Technology",
               "department":"Library Department"
             }

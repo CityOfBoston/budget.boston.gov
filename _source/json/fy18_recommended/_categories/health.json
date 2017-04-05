@@ -7,7 +7,7 @@
   "source_version":"Recommended",
   "source_year":"18",
   "description":[
-    "NEED CATEGORY DESCRIPTION"
+    "Initiatives to increase access to quality healthcare and improve public health."
   ],
   "vol1_category_copy":[
     "NEED TO READ THIS FROM VOLUME ONE"
@@ -30,7 +30,7 @@
       },
       "projects_data":[
         {
-          "Boston Centers for Youth & Families":[
+          "Boston Center for Youth and Families":[
             {
               "line_type":"data",
               "title":null,
@@ -124,9 +124,9 @@
             {
               "line_type":"totalDeptCat",
               "title":null,
-              "total1":9158248,
+              "tota1":9158248,
               "category":"Health",
-              "department":"Boston Centers for Youth and Families"
+              "department":"Boston Center for Youth and Families"
             }
           ]
         },
@@ -155,7 +155,7 @@
             {
               "line_type":"totalDeptCat",
               "title":null,
-              "total1":419117,
+              "tota1":419117,
               "category":"Health",
               "department":"Public Health Commission"
             }
