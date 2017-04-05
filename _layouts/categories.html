@@ -70,7 +70,7 @@ layout: bos_wrapper
         </td>
         <td>{{ project.location }}</td>
         <td>{{ project.status }}</td>
-        <td>{{ project.fy-0 | append: 0 | append: 0 | money }}</td>
+        <td>${{ project.fy-0 | thousands_separated }}</td>
         <td>{{ project.expenditures_summary.total }}</td>
       </tr>
         {% endfor %}

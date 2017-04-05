@@ -7,7 +7,7 @@
   "source_version":"Recommended",
   "source_year":"18",
   "description":[
-    "NEED CATEGORY DESCRIPTION"
+    "Initiatives to support an accessible multimodal transportation system that gets Bostonians where they need to go reliably and safely."
   ],
   "vol1_category_copy":[
     "NEED TO READ THIS FROM VOLUME ONE"
@@ -30,7 +30,7 @@
       },
       "projects_data":[
         {
-          "Boston Planning and Development Agency":[
+          "Boston Redevelopment Authority":[
             {
               "line_type":"data",
               "title":null,
@@ -54,9 +54,9 @@
             {
               "line_type":"totalDeptCat",
               "title":null,
-              "total1":600000,
+              "tota1":600000,
               "category":"Transportation",
-              "department":"Boston Planning and Development Agency"
+              "department":"Boston Redevelopment Authority"
             }
           ]
         },
@@ -345,7 +345,7 @@
             {
               "line_type":"totalDeptCat",
               "title":null,
-              "total1":43606783,
+              "tota1":43606783,
               "category":"Transportation",
               "department":"Public Works Department"
             }
@@ -556,7 +556,7 @@
             {
               "line_type":"totalDeptCat",
               "title":null,
-              "total1":20557711,
+              "tota1":20557711,
               "category":"Transportation",
               "department":"Transportation Department"
             }

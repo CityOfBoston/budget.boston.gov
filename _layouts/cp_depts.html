@@ -82,8 +82,8 @@ layout: bos_wrapper
             <td><a href="{{ site.url }}/capital-projects/{{ page.name | replace: "'","" | slugify }}/{{ project.name | slugify }}">{{ project.name }}</a></td>
             <td>{{ project.location }}</td>
             <td>{{ project.status }}</td>
-            <td>{{ project.fy-0 | append: 0 | append: 0 | money }}</td>
-            <td>{{ project.project_total | append: 0 | append: 0 | money }}</td>
+            <td>${{ project.fy-0 | thousands_separated }}</td>
+            <td>${{ project.project_total | thousands_separated }}</td>
           </tr>
         {% endfor %}
       {% endfor %}
@@ -93,8 +93,8 @@ layout: bos_wrapper
         <td></td>
         <td></td>
         <td></td>
-        <td>{{ page.fy-0 | append: 0 | append: 0 | money }}</td>
-        <td>{{ page.total | append: 0 | append: 0 | money }}</td>
+        <td>${{ page.fy-0 | thousands_separated }}</td>
+        <td>${{ page.total | thousands_separated }}</td>
       </tr>
   </tbody>
 </table>

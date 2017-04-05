@@ -7,7 +7,7 @@
   "source_version":"Recommended",
   "source_year":"18",
   "description":[
-    "NEED CATEGORY DESCRIPTION"
+    "Initiatives to encourage housing production, increase affordable housing options, and reduce displacement."
   ],
   "vol1_category_copy":[
     "NEED TO READ THIS FROM VOLUME ONE"
@@ -54,7 +54,7 @@
             {
               "line_type":"totalDeptCat",
               "title":null,
-              "total1":1700000,
+              "tota1":1700000,
               "category":"Housing",
               "department":"Public Works Department"
             }

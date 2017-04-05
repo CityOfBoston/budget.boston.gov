@@ -7,7 +7,7 @@
   "source_version":"Recommended",
   "source_year":"18",
   "description":[
-    "NEED CATEGORY DESCRIPTION"
+    "Initiative to maintain or enhance the efficiency of government operations."
   ],
   "vol1_category_copy":[
     "NEED TO READ THIS FROM VOLUME ONE"
@@ -30,7 +30,7 @@
       },
       "projects_data":[
         {
-          "Boston Centers for Youth & Families":[
+          "Boston Center for Youth and Families":[
             {
               "line_type":"data",
               "title":null,
@@ -104,14 +104,14 @@
             {
               "line_type":"totalDeptCat",
               "title":null,
-              "total1":1325000,
+              "tota1":1325000,
               "category":"Gov't Effectiveness",
-              "department":"Boston Centers for Youth and Families"
+              "department":"Boston Center for Youth and Families"
             }
           ]
         },
         {
-          "Department of Innovation & Technology":[
+          "Department of Innovation and Technology":[
             {
               "line_type":"data",
               "title":null,
@@ -165,7 +165,7 @@
             {
               "line_type":"totalDeptCat",
               "title":null,
-              "total1":7821953,
+              "tota1":7821953,
               "category":"Gov't Effectiveness",
               "department":"Department of Innovation and Technology"
             }
@@ -186,7 +186,7 @@
             {
               "line_type":"totalDeptCat",
               "title":null,
-              "total1":50000,
+              "tota1":50000,
               "category":"Gov't Effectiveness",
               "department":"Emergency Management"
             }
@@ -287,14 +287,14 @@
             {
               "line_type":"totalDeptCat",
               "title":null,
-              "total1":9770290,
+              "tota1":9770290,
               "category":"Gov't Effectiveness",
               "department":"Fire Department"
             }
           ]
         },
         {
-          "Mayor's Office":[
+          "Office of New Urban Mechanics":[
             {
               "line_type":"data",
               "title":null,
@@ -308,9 +308,9 @@
             {
               "line_type":"totalDeptCat",
               "title":null,
-              "total1":100000,
+              "tota1":100000,
               "category":"Gov't Effectiveness",
-              "department":"Mayor's Office"
+              "department":"Office of New Urban Mechanics"
             }
           ]
         },
@@ -419,14 +419,14 @@
             {
               "line_type":"totalDeptCat",
               "title":null,
-              "total1":18684860,
+              "tota1":18684860,
               "category":"Gov't Effectiveness",
               "department":"Police Department"
             }
           ]
         },
         {
-          "Property Management":[
+          "Property Management Department":[
             {
               "line_type":"data",
               "title":null,
@@ -510,9 +510,9 @@
             {
               "line_type":"totalDeptCat",
               "title":null,
-              "total1":8887075,
+              "tota1":8887075,
               "category":"Gov't Effectiveness",
-              "department":"Property Management"
+              "department":"Property Management Department"
             }
           ]
         },
@@ -541,7 +541,7 @@
             {
               "line_type":"totalDeptCat",
               "title":null,
-              "total1":250000,
+              "tota1":250000,
               "category":"Gov't Effectiveness",
               "department":"Public Health Commission"
             }

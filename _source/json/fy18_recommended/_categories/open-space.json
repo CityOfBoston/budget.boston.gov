@@ -7,7 +7,7 @@
   "source_version":"Recommended",
   "source_year":"18",
   "description":[
-    "NEED CATEGORY DESCRIPTION"
+    "Initiatives to strengthen our existing park system and invest in new open spaces."
   ],
   "vol1_category_copy":[
     "NEED TO READ THIS FROM VOLUME ONE"
@@ -30,7 +30,7 @@
       },
       "projects_data":[
         {
-          "Parks & Recreation Department":[
+          "Parks and Recreation Department":[
             {
               "line_type":"data",
               "title":null,
@@ -644,14 +644,14 @@
             {
               "line_type":"totalDeptCat",
               "title":null,
-              "total1":31285933,
+              "tota1":31285933,
               "category":"Open Space",
               "department":"Parks and Recreation Department"
             }
           ]
         },
         {
-          "Property Management":[
+          "Property Management Department":[
             {
               "line_type":"data",
               "title":null,
@@ -665,9 +665,9 @@
             {
               "line_type":"totalDeptCat",
               "title":null,
-              "total1":0,
+              "tota1":0,
               "category":"Open Space",
-              "department":"Property Management"
+              "department":"Property Management Department"
             }
           ]
         }
