@@ -26,22 +26,23 @@ components:
   - title: Unemployment and wages
 - text_col_2:
   - col: >
-    <h5>Boston unemployment rate</h5>
-    <p>The unemployment rate had been decreasing for both the State and City. The 
-    rate in Massachusetts has since fallen to 3.1% as of December 2016, which is still 
-    slightly higher than the 2.6% seen in the year 2000; however, this is due to 
-    growth in the labor force.</p>
-    <p>The state and local economies have regained all jobs lost during the recent 
-    recessions and have reached peaks. The City of Boston’s unemployment rate has 
-    steadily fallen to 2.7% as of December 2016.</p>
+      <h5>Boston unemployment rate</h5>
+      <p>The unemployment rate had been decreasing for both the State and City. The 
+      rate in Massachusetts has since fallen to 3.1% as of December 2016, which is still 
+      slightly higher than the 2.6% seen in the year 2000; however, this is due to 
+      growth in the labor force.</p>
+      <p>The state and local economies have regained all jobs lost during the recent 
+      recessions and have reached peaks. The City of Boston’s unemployment rate has 
+      steadily fallen to 2.7% as of December 2016.</p>
   - col: >
-    <h5>Wage growth</h5>
-    <p>Massachusetts wage and salary income in the fourth quarter of 2016 rose 4.3% 
-    over the same quarter 2016, continuing a trend of positive year-over-year quarterly 
-    growth rates since first quarter 2010. Earnings growth by industry grouping over the 
-    period of the last quarter in 2015 to 2016 was strongest in “Utilities” and “Durable 
-    Good and Manufacturing”, while “Forestry, fishing, and related activities” and “State 
-    and Local” showed the weakest growth during the same period. 
-    <blockquote>Massachusetts’ seasonally adjusted total personal income rose 4.1% from 
-    2015 to 2016, 12th out of the 50 states and DC in terms of growth and just above 
-    the national average of 3.5%.</blockquote></p>
+      <h5>Wage growth</h5>
+      <p>Massachusetts wage and salary income in the fourth quarter of 2016 rose 4.3% 
+      over the same quarter 2016, continuing a trend of positive year-over-year quarterly 
+      growth rates since first quarter 2010. Earnings growth by industry grouping over the 
+      period of the last quarter in 2015 to 2016 was strongest in “Utilities” and “Durable 
+      Good and Manufacturing”, while “Forestry, fishing, and related activities” and “State 
+      and Local” showed the weakest growth during the same period. 
+      <blockquote>Massachusetts’ seasonally adjusted total personal income rose 4.1% from 
+      2015 to 2016, 12th out of the 50 states and DC in terms of growth and just above 
+      the national average of 3.5%.</blockquote></p>
+---
