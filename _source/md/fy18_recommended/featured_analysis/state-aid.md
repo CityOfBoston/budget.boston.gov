@@ -15,22 +15,53 @@ components:
 - intro:
   - title: State aid
     short_desc: >
-      Through operational reviews...
+      State aid refers primarily to distributions from the Commonwealth to municipalities 
+      for Chapter 70 Education Aid, Unrestricted General Government Aid, Charter 
+      School Tuition Reimbursement along with other relatively small Commonwealth 
+      programs such as library aid and various reimbursements.
     description: >
-      Mayor Walsh presented...
+      State aid, as it is used here, excludes any grants to or offsets for direct expenditure 
+      by City departments. It also includes reimbursements from the Massachusetts School 
+      Building Authority (MSBA). <blockquote>The City received general fund gross state aid 
+      totaling $413.4 million in FY15 and $421.6 million in FY16. The City expects to receive 
+      $429.9 million in state aid in FY17 and has budgeted $440.5 million in gross state 
+      aid in FY18, 2.5% over FY17.</blockquote>
     sidebar_menu: true    
-text_block:
-  - title: City organizational structure
-    body: >
-      <p>The City’s cabinet form of government facilitates the execution of mayoral priorities and the day-to-day executive and administrative business of the City.</p>
-      <p>The Administration &amp; Finance Cabinet includes the following departments, each with a major role in providing a climate of fiscal discipline:</p>
-      <ul>
-      <li>Treasury Department</li>
-      <li>Auditing Department</li>
-      <li>Assessing Department</li>
-      <li>Office of Budget Management</li>
-      <li>Purchasing Department</li>
-      </ul>
-      <p>The Cabinet also includes the Office of Human Resources and the Office of Labor Relations. With employee compensation and health benefits comprising over three quarters of the City’s total appropriation, the management of these policy areas within a broader context promotes coordination and accountability across City government.</p>
-text_block:
-  - title: Stra
+- text_block:
+  - title: State aid overview
+- text_col_3:
+  - col: >
+      <h5>Municipal Charges</h5>
+      <p>“Municipal Charges”, also known as, “State Assessments” are charged by the 
+      Commonwealth to municipalities for items such as Charter School Tuition Reimbursement 
+      and MBTA service. State aid distributions are reduced by the amount of assessments 
+      charged to a municipality. The City paid $211.7 million in FY15 and $230.6 million 
+      in FY16. The City expects to pay $245.8 million in assessments in FY17 and is 
+      budgeting $264.9 million in FY18.</p>
+      <p>The largest assessments are those of the Charter School Tuition and MBTA. The former 
+      has rapidly increased since the enactment of the 2010 legislation that expanded the 
+      number of charter school seats.</p>
+  - col: >
+      <h5>Net state aid trending down</h5>
+      <p>Net state aid, which is gross state aid revenue minus state assessments, has been 
+      trending down steeply since FY02. The rapid annual increase in the Charter School 
+      Tuition Assessment, combined with reductions in education and general government aid, 
+      contributed to this trend. State aid has been reduced substantially over the course 
+      of the last two recessions. Since FY02, net state aid (defined as state aid revenues 
+      less state assessments) to the City has been reduced by over $252 million or 59%. The 
+      City lost approximately $79 million between FY03 and FY05, gained approximately $16
+      million between FY06 and FY08. <blockquote>With a decrease in net state aid for FY18, 
+      Boston is $189 million, or 52%, below its FY08 level of net state aid of $365 million. 
+      For FY18, net state aid is expected to decline by $8.4 million 
+      or 4.6% from FY17.</blockquote></p>
+  - col: >
+      <h5>Pressure on local revenue sources</h5>
+      <p>This loss of resources has put extraordinary pressure on the property tax and 
+      other local revenue sources as well as levels of expenditures. To mitigate some of 
+      this loss, the state expanded local option taxing authority and created savings 
+      opportunities, but their combined value does not offset the aggregate losses in 
+      net state aid.</p>
+      <p>Net state aid amounted to $201.8 million in FY15 and $191.0 million in FY16. 
+      FY17 budgeted net state aid totals $184.1 million and the FY18 Budget assumes a 
+      reduction to $175.7 million. The City’s FY18 state aid estimate is based on the 
+      Governor’s proposed budget released in January.</p>
