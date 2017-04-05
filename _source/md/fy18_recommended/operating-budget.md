@@ -51,69 +51,84 @@ components:
     columns:
     - "Source": Property Tax
       "FY15 Actual": $1,875.15
-      "FY16 Budget": $1,961.48
-      "FY17 Budget": $2,055.33
-      "FY18 Budget": $
+      "FY16 Actual": $1,963.09
+      "FY17 Budget": $2,086.68
+      "FY18 Budget": $2,189.02
     - "Source": Property Tax Overlay
       "FY15 Actual": ($35.87)
-      "FY16 Budget": ($38.05)
-      "FY17 Budget": ($38.32)
-      "FY18 Budget": $
+      "FY16 Actual": ($38.05)
+      "FY17 Budget": ($38.74)
+      "FY18 Budget": ($30.36)
     - "Source": Excises
       "FY15 Actual": $192.62
-      "FY16 Budget": $179.35
-      "FY17 Budget": $190.67
-      "FY18 Budget": $
+      "FY16 Actual": $223.82
+      "FY17 Budget": $188.32
+      "FY18 Budget": $189.04
     - "Source": Fines
       "FY15 Actual": $60.65
-      "FY16 Budget": $60.36
-      "FY17 Budget": $60.36
-      "FY18 Budget": $
+      "FY16 Actual": $61.05
+      "FY17 Budget": $59.71
+      "FY18 Budget": $63.85
     - "Source": Interest on Investments
       "FY15 Actual": $0.06
-      "FY16 Budget": $0.05
-      "FY17 Budget": $2.84
-      "FY18 Budget": $
+      "FY16 Actual": $0.18
+      "FY17 Budget": $0.20
+      "FY18 Budget": $2.00
     - "Source": Payments in Lieu of Taxes
       "FY15 Actual": $49.41
-      "FY16 Budget": $44.11
+      "FY16 Actual": $51.20
       "FY17 Budget": $44.47
-      "FY18 Budget": $
+      "FY18 Budget": $45.00
     - "Source": Urban Redev Ch. 121A
       "FY15 Actual": $55.62
-      "FY16 Budget": $47.55
-      "FY17 Budget": $43.80
-      "FY18 Budget": $
+      "FY16 Actual": $48.11
+      "FY17 Budget": $31.50
+      "FY18 Budget": $31.50
     - "Source": Department Revenue
       "FY15 Actual": $64.73
-      "FY16 Budget": $54.58
-      "FY17 Budget": $55.11
-      "FY18 Budget": $
+      "FY16 Actual": $63.09
+      "FY17 Budget": $55.70
+      "FY18 Budget": $65.37
     - "Source": Licenses and Permits
       "FY15 Actual": $72.54
-      "FY16 Budget": $52.33
-      "FY17 Budget": $54.71
-      "FY18 Budget": $
+      "FY16 Actual": $74.44
+      "FY17 Budget": $62.44
+      "FY18 Budget": $65.93
     - "Source": Penalties and Interest
       "FY15 Actual": $13.08
-      "FY16 Budget": $9.86
-      "FY17 Budget": $10.16
-      "FY18 Budget": $
+      "FY16 Actual": $14.48
+      "FY17 Budget": $8.51
+      "FY18 Budget": $14.46
     - "Source": Available Funds
       "FY15 Actual": $19.00
-      "FY16 Budget": $21.45
+      "FY16 Actual": $0.00
       "FY17 Budget": $23.45
-      "FY18 Budget": $
+      "FY18 Budget": $23.45
     - "Source": State Aid
       "FY15 Actual": $413.43
-      "FY16 Budget": $424.03
-      "FY17 Budget": $432.57
-      "FY18 Budget": $
-    - "Source": Totals
+      "FY16 Actual": $421.58
+      "FY17 Budget": $429.85
+      "FY18 Budget": $440.54
+    - "Source": Total recurring revenue
       "FY15 Actual": $2,780.42
-      "FY16 Budget": $2,817.10
-      "FY17 Budget": $2,935.13
-      "FY18 Budget": $
+      "FY16 Actual": $2,883.01
+      "FY17 Budget": $2,952.09
+      "FY18 Budget": $3,099.79
+    - "Source": Budgetary fund balance
+      "FY15 Actual": $0.00
+      "FY16 Actual": $0.00
+      "FY17 Budget": $4.00
+      "FY18 Budget": $0.00
+    - "Source": Surplus property fund
+      "FY15 Actual": $0.00
+      "FY16 Actual": $0.00
+      "FY17 Budget": $40.00
+      "FY18 Budget": $40.00
+    - "Source": Total revenues
+      "FY15 Actual": $2,780.42
+      "FY16 Actual": $2,883.01
+      "FY17 Budget": $2,996.09
+      "FY18 Budget": $3,139.79
 - table:
   - title: Expenditures
     right_text: (dollars in millions)
@@ -122,98 +137,109 @@ components:
         name: City Appropriations
         link: /operating-budget/cabinets
       "FY15 Actual": $1,139.43
-      "FY16 Budget": $1,140.82
-      "FY17 Budget": $1,195.18
-      "FY18 Budget": $
+      "FY16 Actual": $1,158.96
+      "FY17 Budget": $1,207.23
+      "FY18 Budget": $1,239.23
     - "Expenditure":
         name: Public Health Commission
-        link: /operating-budget/cabinets/public-health-commission
+        link: /operating-budget/cabinets/health-and-human-services/public-health-commission
       "FY15 Actual": $73.83
-      "FY16 Budget": $73.95
+      "FY16 Actual": $76.16
       "FY17 Budget": $77.27
-      "FY18 Budget": $
+      "FY18 Budget": $79.08
     - "Expenditure":
         name: Boston Public Schools
-        link: /operating-budget/cabinets/boston-public-schools
+        link: /operating-budget/cabinets/education/boston-public-schools
       "FY15 Actual": $974.93
-      "FY17 Budget": $1,016.28
+      "FY17 Actual": $1,016.28
       "FY18 Budget": $1,031.68
-      "FY18 Budget": $
+      "FY18 Budget": $1,060.93
+    - "Expenditure":
+        name: City Reserve for Collective Bargaining
+        link: /operating-budget/reserve-for-collective-bargaining
+      "FY15 Actual": $10.79
+      "FY16 Actual": $0.02
+      "FY17 Budget": $7.00
+      "FY18 Budget": $27.00
     - "Expenditure":
         name: BPS Reserve for Collective Bargaining
-        link: /operating-budget/cabinets/reserve-for-collective-bargaining
-      "FY15 Actual": $
-      "FY16 Budget": $
-      "FY17 Budget": $
-      "FY18 Budget": $
-    - "Expenditure":
-        name: Non-BPS Reserve for Collective Bargaining
-        link: /operating-budget/cabinets/reserve-for-collective-bargaining
-      "FY15 Actual": $
-      "FY16 Budget": $
-      "FY17 Budget": $
-      "FY18 Budget": $
+        link: /operating-budget/reserve-for-collective-bargaining
+      "FY15 Actual": $0.00
+      "FY16 Actual": $0.00
+      "FY17 Budget": $9.00
+      "FY18 Budget": $20.00
     - "Expenditure":
         name: Other Post Employment Benefits
-        link: /operating-budget/cabinets/other-post-employment-benefits
+        link: /operating-budget/other-post-employment-benefits
       "FY15 Actual": $40.00
-      "FY16 Budget": $40.00
+      "FY16 Actual": $40.00
       "FY17 Budget": $40.00
-      "FY18 Budget": $
+      "FY18 Budget": $40.00
+    - "Expenditure":
+        name: Total appropriations
+      "FY15 Actual": $2,238.97
+      "FY16 Actual": $2,291.41
+      "FY17 Budget": $2,372.18
+      "FY18 Budget": $2,466.24
     - "Expenditure":
         name: Pensions
-        link: /operating-budget/cabinets/pensions
+        link: /operating-budget/pensions
       "FY15 Actual": $169.62
-      "FY16 Budget": $184.55
-      "FY17 Budget": $189.88
-      "FY18 Budget": $
+      "FY16 Actual": $196.55
+      "FY17 Budget": $199.28
+      "FY18 Budget": $218.21
     - "Expenditure":
         name: Debt Service
-        link: /operating-budget/cabinets/debt-service
+        link: /operating-budget/debt-service
       "FY15 Actual": $148.01
-      "FY16 Budget": $162.87
-      "FY17 Budget": $177.85
-      "FY18 Budget": $
+      "FY16 Actual": $157.69
+      "FY17 Budget": $174.95
+      "FY18 Budget": $185.58
     - "Expenditure":
         name: Charter School Tuition
-        link: /operating-budget/cabinets/charter-school-tuition
+        link: /operating-budget/charter-school-tuition
       "FY15 Actual": $125.81
-      "FY17 Budget": $146.86
-      "FY18 Budget": $156.81
-      "FY18 Budget": $
+      "FY17 Actual": $157.69
+      "FY18 Budget": $174.95
+      "FY18 Budget": $185.58
     - "Expenditure":
         name: MBTA
-        link: /operating-budget/cabinets/mbta
+        link: /operating-budget/mbta
       "FY15 Actual": $81.27
-      "FY16 Budget": $83.00
+      "FY16 Actual": $83.00
       "FY17 Budget": $83.82
-      "FY18 Budget": $
+      "FY18 Budget": $85.81
     - "Expenditure":
         name: Other State Assessments
-        link: /operating-budget/cabinets/other-state-assessments
+        link: /operating-budget/other-state-assessments
       "FY15 Actual": $4.58
-      "FY16 Budget": $4.65
-      "FY17 Budget": $4.72
-      "FY18 Budget": $
+      "FY16 Actual": $4.79
+      "FY17 Budget": $5.15
+      "FY18 Budget": $4.71
     - "Expenditure":
         name: Suffolk County Sheriff Dept
-        link: /operating-budget/cabinets/suffolk-county-sheriff-dept
+        link: /operating-budget/suffolk-county-sheriff-dept
       "FY15 Actual": $3.87
-      "FY16 Budget": $3.87
+      "FY16 Actual": $3.87
       "FY17 Budget": $3.87
-      "FY18 Budget": $
+      "FY18 Budget": $3.87
     - "Expenditure":
         name: Reserve
-        link: /operating-budget/cabinets/reserve
+        link: /operating-budget/reserve
       "FY15 Actual": $0.92
-      "FY16 Budget": $0.21
-      "FY17 Budget": $0.74
-      "FY18 Budget": $
-    - "Expenditure": <b>Totals</b>
+      "FY16 Actual": $0.99
+      "FY17 Budget": $0.00
+      "FY18 Budget": $1.00
+    - "Expenditure": Total fixed costs
+      "FY15 Actual": $534.08
+      "FY16 Actual": $589.68
+      "FY17 Budget": $623.91
+      "FY18 Budget": $673.55
+    - "Expenditure": Totals
       "FY15 Actual": $2,773.06
-      "FY16 Budget": $2,875.10
-      "FY17 Budget": $2,975.13
-      "FY18 Budget": $
+      "FY16 Actual": $2,881.09
+      "FY17 Budget": $2,996.09
+      "FY18 Budget": $3,139.79
 - text_block:
   - title: Overview
     body: >
