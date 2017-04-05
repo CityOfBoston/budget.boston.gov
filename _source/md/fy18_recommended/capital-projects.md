@@ -9,7 +9,7 @@ components:
   - title: Budget
     url: "/budget"
   - current: Capital Projects
-  - published: 2/24/17
+  - published: 4/13/17
 - intro:
   - title: Capital Projects
     short_desc: >
