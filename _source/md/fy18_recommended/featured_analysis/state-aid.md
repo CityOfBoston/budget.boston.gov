@@ -65,3 +65,4 @@ components:
       FY17 budgeted net state aid totals $184.1 million and the FY18 Budget assumes a 
       reduction to $175.7 million. The City’s FY18 state aid estimate is based on the 
       Governor’s proposed budget released in January.</p>
+---
