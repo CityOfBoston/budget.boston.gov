@@ -49,7 +49,9 @@ components:
   - title: Revenues
     right_text: (dollars in millions)
     columns:
-    - "Source": Property Tax
+    - "Source": 
+        name: Property Tax
+        link: /featured-analysis/property-tax
       "FY15 Actual": $1,875.15
       "FY16 Actual": $1,963.09
       "FY17 Budget": $2,086.68
@@ -59,52 +61,72 @@ components:
       "FY16 Actual": ($38.05)
       "FY17 Budget": ($38.74)
       "FY18 Budget": ($30.36)
-    - "Source": Excises
+    - "Source": 
+        name: Excises
+        link: /featured-analysis/excise-taxes
       "FY15 Actual": $192.62
       "FY16 Actual": $223.82
       "FY17 Budget": $188.32
       "FY18 Budget": $189.04
-    - "Source": Fines
+    - "Source": 
+        name: Fines
+        link: /featured-analysis/parking-fines
       "FY15 Actual": $60.65
       "FY16 Actual": $61.05
       "FY17 Budget": $59.71
       "FY18 Budget": $63.85
-    - "Source": Interest on Investments
+    - "Source": 
+        name: Interest on Investments
+        link: /featured-analysis/interest-on-investments
       "FY15 Actual": $0.06
       "FY16 Actual": $0.18
       "FY17 Budget": $0.20
       "FY18 Budget": $2.00
-    - "Source": Payments in Lieu of Taxes
+    - "Source": 
+        name: Payments in Lieu of Taxes
+        link: /featured-analysis/payments-in-lieu-of-taxes
       "FY15 Actual": $49.41
       "FY16 Actual": $51.20
       "FY17 Budget": $44.47
       "FY18 Budget": $45.00
-    - "Source": Urban Redev Ch. 121A
+    - "Source": 
+        name: Urban Redev Ch. 121A
+        link: /featured-analysis/urban-redevelopment-ch-121a
       "FY15 Actual": $55.62
       "FY16 Actual": $48.11
       "FY17 Budget": $31.50
       "FY18 Budget": $31.50
-    - "Source": Department Revenue
+    - "Source": 
+        name: Department Revenue
+        link: /featured-analysis/misc-dept-revenue
       "FY15 Actual": $64.73
       "FY16 Actual": $63.09
       "FY17 Budget": $55.70
       "FY18 Budget": $65.37
-    - "Source": Licenses and Permits
+    - "Source": 
+        name: Licenses and Permits
+        link: /featured-analysis/licenses-and-permits
       "FY15 Actual": $72.54
       "FY16 Actual": $74.44
       "FY17 Budget": $62.44
       "FY18 Budget": $65.93
-    - "Source": Penalties and Interest
+    - "Source": 
+        name: Penalties and Interest
+        link: /featured-analysis/penalties-and-interest
       "FY15 Actual": $13.08
       "FY16 Actual": $14.48
       "FY17 Budget": $8.51
       "FY18 Budget": $14.46
-    - "Source": Available Funds
+    - "Source": 
+        name: Available Funds
+        link: /featured-analysis/available-funds
       "FY15 Actual": $19.00
       "FY16 Actual": $0.00
       "FY17 Budget": $23.45
       "FY18 Budget": $23.45
-    - "Source": State Aid
+    - "Source": 
+        name: State Aid
+        link: /featured-analysis/state-aid
       "FY15 Actual": $413.43
       "FY16 Actual": $421.58
       "FY17 Budget": $429.85
