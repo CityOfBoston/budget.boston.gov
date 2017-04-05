@@ -15,22 +15,16 @@ components:
 - intro:
   - title: Unrestricted general government aid (UGGA)
     short_desc: >
-      Through operational reviews...
+      For the FY10 budget and going forward, the Governor and the Legislature 
+      combined general government aid from Additional Assistance and Lottery 
+      into one account - UGGA.
     description: >
-      Mayor Walsh presented...
+      Revenue derived from the State’s lottery now accounts for nearly all funds 
+      dispersed through UGGA. The current distribution of UGGA is a weighted 
+      average of both Lottery and Additional Assistance distributions of the past. 
+      <blockquote>For Boston, the combined accounts totaled $168.6 million in FY15 
+      and $174.7 million in FY16. In FY17, the City will receive $182.2 million 
+      and has budgeted for an increase to $189.3 million for FY18, which is 
+      included in the Governor’s FY18 Budget.</blockquote>
     sidebar_menu: true    
-text_block:
-  - title: City organizational structure
-    body: >
-      <p>The City’s cabinet form of government facilitates the execution of mayoral priorities and the day-to-day executive and administrative business of the City.</p>
-      <p>The Administration &amp; Finance Cabinet includes the following departments, each with a major role in providing a climate of fiscal discipline:</p>
-      <ul>
-      <li>Treasury Department</li>
-      <li>Auditing Department</li>
-      <li>Assessing Department</li>
-      <li>Office of Budget Management</li>
-      <li>Purchasing Department</li>
-      </ul>
-      <p>The Cabinet also includes the Office of Human Resources and the Office of Labor Relations. With employee compensation and health benefits comprising over three quarters of the City’s total appropriation, the management of these policy areas within a broader context promotes coordination and accountability across City government.</p>
-text_block:
-  - title: Stra
+---
