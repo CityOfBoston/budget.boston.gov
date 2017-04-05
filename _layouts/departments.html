@@ -80,11 +80,11 @@ layout: bos_wrapper
           <tr>
             <td>{{ row.line_title }}</td>
           {% endif %}
-          <td>{{ row.fy-2 | append: 0 |append:0 | money }}</td>
-          <td>{{ row.fy-1 | append: 0 |append:0 | money }}</td>
-          <td>{{ row.fy-0 | append: 0 |append:0 | money }}</td>
-          <td>{{ row["fy+1"] | append: 0 |append:0 | money }}</td>
-          <td>{{ row.diff | append: 0 |append:0 | money }}</td>
+          <td>${{ row.fy-2 | thousands_separated }}</td>
+          <td>${{ row.fy-1 | thousands_separated }}</td>
+          <td>${{ row.fy-0 | thousands_separated }}</td>
+          <td>${{ row["fy+1"] | thousands_separated }}</td>
+          <td>${{ row.diff | thousands_separated }}</td>
         </tr>
       {% endfor %}
     </tbody>
@@ -166,10 +166,10 @@ layout: bos_wrapper
   </div>
   </div>
   <div class="g">
-  {% for row in page.operating_department.data %}
+  {% for row in page.department_history_by_account.data %}
     {% if row.line_type == 'data' %}
       <div class="wi g--4">
-        <table class="responsive-table"><th>{{ row.department }}</th></table>
+        <table class="responsive-table"><th>{{ row.line_title }}</th></table>
         <canvas
           id="lineChart"
           class="lineChart"
@@ -227,10 +227,10 @@ layout: bos_wrapper
               </a>
             </td>
         {% endif %}
-          <td>{{ row.fy-2 | append: 0 |append:0 | money }}</td>
-          <td>{{ row.fy-1 | append: 0 |append:0 | money }}</td>
-          <td>{{ row.fy-0 | append: 0 |append:0 | money }}</td>
-          <td>{{ row["fy+1"] | append: 0 |append:0 | money }}</td>
+          <td>${{ row.fy-2 | thousands_separated }}</td>
+          <td>${{ row.fy-1 | thousands_separated }}</td>
+          <td>${{ row.fy-0 | thousands_separated }}</td>
+          <td>${{ row["fy+1"] | thousands_separated }}</td>
         </tr>
       {% endfor %}
     </tbody>

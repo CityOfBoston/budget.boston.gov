@@ -7,7 +7,7 @@
   "source_version":"Recommended",
   "source_year":"18",
   "description":[
-    "NEED CATEGORY DESCRIPTION"
+    "Initiatives to make Boston&rsquo;s infrastructure and services dynamic and responsive to residents' needs in real-time."
   ],
   "vol1_category_copy":[
     "NEED TO READ THIS FROM VOLUME ONE"
@@ -30,7 +30,7 @@
       },
       "projects_data":[
         {
-          "Department of Innovation & Technology":[
+          "Department of Innovation and Technology":[
             {
               "line_type":"data",
               "title":null,
@@ -74,9 +74,30 @@
             {
               "line_type":"totalDeptCat",
               "title":null,
-              "total1":11234859,
+              "tota1":11234859,
               "category":"Technology",
               "department":"Department of Innovation and Technology"
+            }
+          ]
+        },
+        {
+          "Library Department":[
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":50000,
+              "category":"Technology",
+              "name":"Web Site and Online Services Redevelopment",
+              "location":"Citywide",
+              "status":"Implementation Underway",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"totalDeptCat",
+              "title":null,
+              "tota1":50000,
+              "category":"Technology",
+              "department":"Library Department"
             }
           ]
         }
@@ -86,7 +107,7 @@
       "line_type":"totalCat",
       "title":null,
       "fy-0":0,
-      "total":11234859,
+      "total":11284859,
       "category":"Technology"
     }
   ]

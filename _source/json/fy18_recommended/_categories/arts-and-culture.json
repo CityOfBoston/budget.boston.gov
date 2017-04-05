@@ -7,7 +7,7 @@
   "source_version":"Recommended",
   "source_year":"18",
   "description":[
-    "NEED CATEGORY DESCRIPTION"
+    "Initiatives to support a thriving, diverse arts and culture ecosystem throughout the city."
   ],
   "vol1_category_copy":[
     "NEED TO READ THIS FROM VOLUME ONE"
@@ -29,27 +29,6 @@
         "project_title":"Total"
       },
       "projects_data":[
-        {
-          "Finance Commission":[
-            {
-              "line_type":"data",
-              "title":null,
-              "fy-0":1700000,
-              "category":"Arts and Culture",
-              "name":"Percent for the Arts",
-              "location":"Citywide",
-              "status":"New Project",
-              "operating_impact":"No"
-            },
-            {
-              "line_type":"totalDeptCat",
-              "title":null,
-              "total1":1700000,
-              "category":"Arts and Culture",
-              "department":"Finance Commission"
-            }
-          ]
-        },
         {
           "Library Department":[
             {
@@ -225,16 +204,6 @@
             {
               "line_type":"data",
               "title":null,
-              "fy-0":50000,
-              "category":"Arts and Culture",
-              "name":"Web Site and Online Services Redevelopment",
-              "location":"Citywide",
-              "status":"Implementation Underway",
-              "operating_impact":"No"
-            },
-            {
-              "line_type":"data",
-              "title":null,
               "fy-0":100000,
               "category":"Arts and Culture",
               "name":"West Roxbury Branch Library Improvements",
@@ -245,7 +214,7 @@
             {
               "line_type":"totalDeptCat",
               "title":null,
-              "total1":13768352,
+              "tota1":13718352,
               "category":"Arts and Culture",
               "department":"Library Department"
             }
@@ -266,14 +235,35 @@
             {
               "line_type":"totalDeptCat",
               "title":null,
-              "total1":2284940,
+              "tota1":2284940,
               "category":"Arts and Culture",
               "department":"Neighborhood Development"
             }
           ]
         },
         {
-          "Property Management":[
+          "Office of Arts & Culture":[
+            {
+              "line_type":"data",
+              "title":null,
+              "fy-0":1700000,
+              "category":"Arts and Culture",
+              "name":"Percent for the Arts",
+              "location":"Citywide",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"totalDeptCat",
+              "title":null,
+              "tota1":1700000,
+              "category":"Arts and Culture",
+              "department":"Office of Arts and Culture"
+            }
+          ]
+        },
+        {
+          "Property Management Department":[
             {
               "line_type":"data",
               "title":null,
@@ -287,9 +277,9 @@
             {
               "line_type":"totalDeptCat",
               "title":null,
-              "total1":200000,
+              "tota1":200000,
               "category":"Arts and Culture",
-              "department":"Property Management"
+              "department":"Property Management Department"
             }
           ]
         }
@@ -299,7 +289,7 @@
       "line_type":"totalCat",
       "title":null,
       "fy-0":0,
-      "total":17953292,
+      "total":17903292,
       "category":"Arts and Culture"
     }
   ]

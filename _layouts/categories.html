@@ -45,24 +45,36 @@ layout: bos_wrapper
 <table class="responsive-table responsive-table--horizontal">
   <thead>
     <tr>
-      <th>Department</th>
-      <th>Project</th>
-      <th>Location</th>
-      <th>Status</th>
-      <th>FY17 Budget</th>
-      <th>Total</th>
+      <th>{{ page.projects[0].header.category }}</th>
+      <th>{{ page.projects[0].header.name }}</th>
+      <th>{{ page.projects[0].header.location }}</th>
+      <th>{{ page.projects[0].header.status }}</th>
+      <th>{{ page.projects[0].header.fy-0 }}</th>
+      <th>{{ page.projects[0].header.project_title }}</th>
     </tr>
   </thead>
   <tbody>
-    {% for project in page.projects %}
+    {% for data in page.projects[0].projects_data %}
+      {% for department in data %}
+        {% for project in department[1] %}
       <tr>
-        <td><a href="{{ site.url }}/capital-projects/{{ project.managing_department | replace: "'","" | slugify }}">{{ project.managing_department }}</a></td>
-        <td><a href="{{ site.url }}/capital-projects/{{ project.managing_department | replace: "'","" | slugify }}/{{ project.name | replace: "'","" | slugify }}">{{ project.name }}</a></td>
+        <td>
+          <a href="{{ site.url }}/capital-projects/{{ department[0] | replace: "'","" | slugify }}">
+            {{ department[0] }}
+          </a>
+        </td>
+        <td>
+          <a href="{{ site.url }}/capital-projects/{{ department[0] | replace: "'","" | slugify }}/{{ project.name | replace: "'","" | slugify }}">
+            {{ project.name }}
+          </a>
+        </td>
         <td>{{ project.location }}</td>
         <td>{{ project.status }}</td>
-        <td>{{ project.expenditures_summary.fy-0 }}</td>
+        <td>${{ project.fy-0 | thousands_separated }}</td>
         <td>{{ project.expenditures_summary.total }}</td>
       </tr>
+        {% endfor %}
+      {% endfor %}
     {% endfor %}
   </tbody>
 </table>

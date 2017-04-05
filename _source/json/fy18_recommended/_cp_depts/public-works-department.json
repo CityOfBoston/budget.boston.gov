@@ -107,6 +107,62 @@
       },
       "projects_data":[
         {
+          "Economy":[
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Economy",
+              "name":"Washington Street / Traveler Street",
+              "location":"South End",
+              "section_id":"CPW24708",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":200000,
+              "project_total":1750000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Economy",
+              "name":"Harrison Avenue Improvements",
+              "location":"South End",
+              "section_id":"CPW24703",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":2320000,
+              "project_total":3820000
+            }
+          ]
+        },
+        {
+          "Energy & Environment":[
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Energy and Environment",
+              "name":"Street Light LED Conversion",
+              "location":"Citywide",
+              "section_id":"CPW23416",
+              "status":"Annual Program",
+              "operating_impact":"No",
+              "fy-0":0,
+              "project_total":24013182
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Energy and Environment",
+              "name":"Street Light Gas Lamps",
+              "location":"Various neighborhoods",
+              "section_id":"CPW23999",
+              "status":"Annual Program",
+              "operating_impact":"No",
+              "fy-0":150000,
+              "project_total":1137500
+            }
+          ]
+        },
+        {
           "Housing":[
             {
               "line_type":"data",
@@ -119,35 +175,23 @@
               "operating_impact":"No",
               "fy-0":200000,
               "project_total":1000000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Housing",
+              "name":"Madison Park Village",
+              "location":"Roxbury",
+              "section_id":"CPW23996",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":1500000,
+              "project_total":3050000
             }
           ]
         },
         {
           "Transportation":[
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Transportation",
-              "name":"Street Light LED Conversion",
-              "location":"Citywide",
-              "section_id":"CPW23416",
-              "status":"Annual Program",
-              "operating_impact":"No",
-              "fy-0":0,
-              "project_total":24013182
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Transportation",
-              "name":"Commonwealth Avenue Phase 2A",
-              "location":"Allston/Brighton",
-              "section_id":"CPW24330",
-              "status":"In Construction",
-              "operating_impact":"No",
-              "fy-0":470173,
-              "project_total":800000
-            },
             {
               "line_type":"data",
               "title":null,
@@ -159,30 +203,6 @@
               "operating_impact":"No",
               "fy-0":1000000,
               "project_total":6000000
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Transportation",
-              "name":"Street Light Gas Lamps",
-              "location":"Various neighborhoods",
-              "section_id":"CPW23999",
-              "status":"Annual Program",
-              "operating_impact":"No",
-              "fy-0":150000,
-              "project_total":1137500
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Transportation",
-              "name":"Madison Park Village",
-              "location":"Roxbury",
-              "section_id":"CPW23996",
-              "status":"In Design",
-              "operating_impact":"No",
-              "fy-0":1500000,
-              "project_total":3050000
             },
             {
               "line_type":"data",
@@ -212,13 +232,13 @@
               "line_type":"data",
               "title":null,
               "category":"Transportation",
-              "name":"Massachusetts Avenue Bridge at Commonwealth Avenue",
-              "location":"Back Bay",
-              "section_id":"CPW20554",
+              "name":"Commonwealth Avenue Phase 2A",
+              "location":"Allston/Brighton",
+              "section_id":"CPW24330",
               "status":"In Construction",
               "operating_impact":"No",
-              "fy-0":182572,
-              "project_total":1768974
+              "fy-0":470173,
+              "project_total":800000
             },
             {
               "line_type":"data",
@@ -332,18 +352,6 @@
               "line_type":"data",
               "title":null,
               "category":"Transportation",
-              "name":"Washington Street / Traveler Street",
-              "location":"South End",
-              "section_id":"CPW24708",
-              "status":"In Design",
-              "operating_impact":"No",
-              "fy-0":200000,
-              "project_total":1750000
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Transportation",
               "name":"Ruggles Street",
               "location":"South End",
               "section_id":"CPW24707",
@@ -428,13 +436,13 @@
               "line_type":"data",
               "title":null,
               "category":"Transportation",
-              "name":"Bridge Repairs",
-              "location":"Citywide",
-              "section_id":"CPW24539",
-              "status":"Annual Program",
+              "name":"Massachusetts Avenue Bridge at Commonwealth Avenue",
+              "location":"Back Bay",
+              "section_id":"CPW20554",
+              "status":"In Construction",
               "operating_impact":"No",
-              "fy-0":2000000,
-              "project_total":15000000
+              "fy-0":182572,
+              "project_total":1768974
             },
             {
               "line_type":"data",
@@ -476,18 +484,6 @@
               "line_type":"data",
               "title":null,
               "category":"Transportation",
-              "name":"Harrison Avenue Improvements",
-              "location":"South End",
-              "section_id":"CPW24703",
-              "status":"In Design",
-              "operating_impact":"No",
-              "fy-0":2320000,
-              "project_total":3820000
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Transportation",
               "name":"Hyde Square",
               "location":"Jamaica Plain",
               "section_id":"CPW24623",
@@ -507,6 +503,18 @@
               "operating_impact":"No",
               "fy-0":9000000,
               "project_total":45000000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Transportation",
+              "name":"Bridge Repairs",
+              "location":"Citywide",
+              "section_id":"CPW24539",
+              "status":"Annual Program",
+              "operating_impact":"No",
+              "fy-0":2000000,
+              "project_total":15000000
             },
             {
               "line_type":"data",

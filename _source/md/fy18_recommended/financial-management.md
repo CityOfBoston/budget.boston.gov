@@ -10,18 +10,28 @@ components:
     url: "/budget"
   - current: Financial management
   - published: 4/13/17
-intro:
+- intro:
   - title: Financial Management
     short_desc: >
-      Strong financial management is the underpinning of City operations. Clear financial policies and practices provide a framework within which the City is able to safeguard the present, meet its obligations, and position itself for the future. <blockquote>The proven success of the City’s ability to keep itself on sound financial footing is the strength of its ... AAA bond rating. - Standard &amp; Poor's.</blockquote>
+      Strong financial management is the underpinning of City operations. 
+      Clear financial policies and practices provide a framework within 
+      which the City is able to safeguard the present, meet its obligations, 
+      and position itself for the future. <blockquote>The proven success of 
+      the City’s ability to keep itself on sound financial footing is the 
+      strength of its ... AAA bond rating. - Standard &amp; Poor's.</blockquote>
     description: >
-     The Mayor directs the City’s financial operations. As the City’s Chief Executive Officer, the Mayor has general supervision and control over the City’s cabinet officers, departments, boards, and commissions.
+      The Mayor directs the City’s financial operations. As the City’s Chief 
+      Executive Officer, the Mayor has general supervision and control over 
+      the City’s cabinet officers, departments, boards, and commissions.
     sidebar_menu: true
-text_block:
+- text_block:
   - title: City organizational structure
     body: >
-      <p>The City’s cabinet form of government facilitates the execution of mayoral priorities and the day-to-day executive and administrative business of the City.</p>
-      <p>The Administration &amp; Finance Cabinet includes the following departments, each with a major role in providing a climate of fiscal discipline:</p>
+      <p>The City’s cabinet form of government facilitates the execution of 
+      mayoral priorities and the day-to-day executive and administrative 
+      business of the City.</p><p>The Administration &amp; Finance Cabinet 
+      includes the following departments, each with a major role in providing 
+      a climate of fiscal discipline:</p>
       <ul>
       <li>Treasury Department</li>
       <li>Auditing Department</li>
@@ -29,42 +39,66 @@ text_block:
       <li>Office of Budget Management</li>
       <li>Purchasing Department</li>
       </ul>
-      <p>The Cabinet also includes the Office of Human Resources and the Office of Labor Relations. With employee compensation and health benefits comprising over three quarters of the City’s total appropriation, the management of these policy areas within a broader context promotes coordination and accountability across City government.</p>
-text_block:
+      <p>The Cabinet also includes the Office of Human Resources and the Office 
+      of Labor Relations. With employee compensation and health benefits 
+      comprising over three quarters of the City’s total appropriation, the 
+      management of these policy areas within a broader context promotes 
+      coordination and accountability across City government.</p>
+- text_block:
   - title: Strategic financial management
+    body: >
+      <p>Financial operations are managed to accommodate revenue fluctuations 
+      during economic downturns or uncertainties in the global economy. 
+      Strategic financial management aligns investments with City operations 
+      and allows departments to perform at an optimum level. The following 
+      reflects some of the work it takes:</p>
+- text_col_2:
   - col: >
-      <p>Financial operations are managed to accommodate revenue fluctuations during economic downturns or uncertainties in the global economy. Strategic financial management aligns investments with City operations and allows departments to perform at an optimum level. The following reflects some of the work it takes:</p>
-text_col_2:
+      <p><strong>Balanced budgets</strong></p>
+      <p>Maintaining a balanced budget that supports City services according 
+      to mayoral priorities requires careful planning and constant scrutiny. 
+      The Massachusetts Department of Revenue approves property tax rates during 
+      the tax certification process governed under Massachusetts General Laws 
+      (MGL) Ch.59, S.23, ensuring a balanced budget and a tax levy within the 
+      limits set by Proposition 2 &frac12; (<a href="#">see Revenue Estimates and 
+      Analysis section of Volume I for detail on Prop. 2 &frac12;</a>). Managing 
+      discretionary spending and controlling employee headcount are some of the 
+      tools used to address unexpected revenue or expense challenges.</p>
   - col: >
-  <p><strong>Balanced budgets</strong></p>
-  <p>Maintaining a balanced budget that supports City services according to mayoral priorities requires careful planning and constant scrutiny. The Massachusetts Department of Revenue approves property tax rates during the tax certification process governed under Massachusetts General Laws (MGL) Ch.59, S.23, ensuring a balanced budget and a tax levy within the limits set by Proposition 2 ½ (<a href="#">see Revenue Estimates and Analysis section of Volume I for detail on Prop. 2 ½</a>). Managing discretionary spending and controlling employee headcount are some of the tools used to address unexpected revenue or expense challenges.</p>
+      <p><strong>Stable revenue base</strong></p>
+      <p>Over eighty percent of recurring general fund revenue comes from the 
+      property tax and state aid. The continued net decline in state aid, the 
+      City’s second largest single source of revenue, highlights the risk of 
+      relying on any one source of revenue. The City protects and grows its 
+      revenue base through the expansion of current revenue sources and the 
+      pursuit of diversified revenue sources that fit well with its economic 
+      strengths.</p>
+      <blockquote>The City’s tax base has experienced significant growth. 
+      Based on assessed values as of January 1, 2016, Fiscal 2017 assessments 
+      totaled $143.9 billion, a 44% increase over Fiscal 2014 assessments.
+      </blockquote>
+- text_col_3:
   - col: >
-  <p><strong>Stable revenue base</strong></p>
-  <p>Over eighty percent of recurring general fund revenue comes from the property tax and state aid. The continued net decline in state aid, the City’s second largest single source of revenue, highlights the risk of relying on any one source of revenue. The City protects and grows its revenue base through the expansion of current revenue sources and the pursuit of diversified revenue sources that fit well with its economic strengths.</p>
-  <blockquote>The City’s tax base has experienced significant growth. Based on assessed values as of January 1, 2016, Fiscal 2017 assessments totaled $143.9 billion, a 44% increase over Fiscal 2014 assessments.</blockquote>
-text_col_3:
+      <p>Fisrt Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+      Aliquam non turpis nibh. Sed eleifend orci pretium magna tempus vehicula. </p>
+      <p>Donec sodales massa vel leo porttitor condimentum. Ut condimentum 
+      commodo quam. Phasellus sed metus eu velit pellentesque porta. Suspendisse 
+      iaculis feugiat accumsan.</p>
   - col: >
-      <p>Fisrt Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non turpis nibh.
-      Sed eleifend orci pretium magna tempus vehicula. </p>
-      <p>Donec sodales massa vel leo porttitor
-      condimentum. Ut condimentum commodo quam. Phasellus sed metus eu velit pellentesque
-      porta. Suspendisse iaculis feugiat accumsan.</p>
+      Second Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non 
+      turpis nibh. Sed eleifend orci pretium magna tempus vehicula.<blockquote>
+      Donec sodales massa vel leo porttitor</blockquote>condimentum. Ut condimentum 
+      commodo quam. Phasellus sed metus eu velit pellentesque porta.
   - col: >
-      Second Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non turpis nibh.
-      Sed eleifend orci pretium magna tempus vehicula.
-      <blockquote>Donec sodales massa vel leo porttitor</blockquote>
-      condimentum. Ut condimentum commodo quam. Phasellus sed metus eu velit pellentesque
-      porta.
-  - col: >
-      Third Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non turpis nibh.
+      Third Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non 
+      turpis nibh.
       <ul>
       <li>Sed eleifend orci pretium magna tempus vehicula.</li>
       <li>Donec sodales massa vel leo porttitor</li>
       </ul>
       condimentum. Ut condimentum commodo quam. Phasellus sed metus eu velit pellentesque
       Sed eleifend orci.
-
-
+---
 Multi-Year Planning
 The City develops a financial forecast as part of its yearly budget process. Preparing a multi-year planning horizon provides insight into policy decisions that may be necessary to maintain structural balance and time to make such adjustments. 
 Pension Management 
@@ -136,4 +170,3 @@ Other Post-Employment Benefits (OPEB) Liability Trust Fund
 Private Purpose Trust Funds. 
 
 The City’s operating and capital budgets are also supported by certain appropriations from other available funds. The City may appropriate parking meter revenues (Special Revenue Fund) to support the Transportation Department and capital projects related to traffic and parking.  Cemetery trust monies (Other Governmental Funds) support the City’s maintenance of its public cemeteries. 
----

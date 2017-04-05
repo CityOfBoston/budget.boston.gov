@@ -9,13 +9,9 @@ layout: bos_wrapper
   <span class="crumbs-separator"> &gt; </span>
   <a href="/budget">Budget</a>
   <span class="crumbs-separator"> &gt; </span>
-  <a href="{{ site.url }}/operating-budget">Operating Budget</a>
+  <a href="{{ site.url }}/capital-projects">Capital Projects</a>
   <span class="crumbs-separator"> &gt; </span>
-  <a href="{{ site.url }}/operating-budget/cabinets">Cabinets</a>
-  <span class="crumbs-separator"> &gt; </span>
-  <a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | replace: "'","" | slugify }}">{{ page.cabinet }}</a>
-  <span class="crumbs-separator"> &gt; </span>
-  <a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | replace: "'","" | slugify }}/{{ page.department | replace: "'","" | slugify }}">{{ page.department }}</a>
+  <a href="{{ site.url }}/capital-projects/{{ page.department | replace: "'","" | slugify }}">{{ page.department }}</a>
   <span class="crumbs-separator"> &gt; </span>
   {{ page.name }}
 </div>
@@ -30,49 +26,59 @@ layout: bos_wrapper
     <div class="intro-text supporting-text squiggle-border-bottom">
       <p>
         {{ page.mission }}
-        <br />
-        <b>{{ page.category }}:</b>
-        {{ page.category_desc }}
       </p>
+    </div>
+    <div>
+      <strong>{{ page.category }}:</strong>
+      {{ page.category_desc }}
     </div>
   </div>
   {% include sidebar_menu.html %}
 </div>
 
 <div>
-Location: {{ page.location }}<br />
-Status: {{ page.status }}<br />
-Managing Department: {{ page.managing_department }}<br />
-Operating Impact: {{ page.operating_impact }}
+<strong>Location:</strong> {{ page.location }}<br />
+<strong>Status:</strong> {{ page.status }}<br />
+<strong>Managing Department:</strong> {{ page.managing_department }}<br />
+<strong>Operating Impact:</strong> {{ page.operating_impact }}
 </div>
+<br />
 
 <div class="sh desktop-100">
   <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
     Expenditures (Actual & Planned)
   </h2>
-  <div class="sh-contact"><a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | replace: "'","" | slugify }}/{{ page.department | replace: "'","" | slugify }}">Back to {{ page.department }}</a></div>
+  <div class="sh-contact">
+    <a href="{{ site.url }}/capital-projects/{{ page.department | replace: "'","" | slugify }}">
+      Back to {{ page.department }}
+    </a>
+  </div>
 </div>
 <br />
 <table class="responsive-table responsive-table--horizontal">
   <thead>
     <tr>
-      <th>{{ page.expenditures_detail[0].table_header[0].source }}</th>
-      <th>{{ page.expenditures_detail[0].table_header[0].past_spending }}</th>
-      <th>{{ page.expenditures_detail[0].table_header[0].fy-1_budget }}</th>
-      <th>{{ page.expenditures_detail[0].table_header[0].fy-0_budget }}</th>
-      <th>{{ page.expenditures_detail[0].table_header[0]["fy+1-3_budget"] }}</th>
-      <th>{{ page.expenditures_detail[0].table_header[0].total }}</th>
+      <th>{{ page.expenditures_detail.table_header.source }}</th>
+      <th>{{ page.expenditures_detail.table_header.past_spending }}</th>
+      <th>{{ page.expenditures_detail.table_header.fy-1 }}</th>
+      <th>{{ page.expenditures_detail.table_header.fy-0 }}</th>
+      <th>{{ page.expenditures_detail.table_header["fy+1-4"] }}</th>
+      <th>{{ page.expenditures_detail.table_header.total }}</th>
     </tr>
   </thead>
   <tbody>
-    {% for row in page.expenditures_detail[0].data %}
+    {% for row in page.expenditures_detail.data %}
+      {% if row.line_type == "total" %}
+      <tr class="total">
+      {% else %}
       <tr>
+      {% endif %}
         <td>{{ row.source }}</td>
-        <td>{{ row.past_spending }}</td>
-        <td>{{ row.fy-1_budget }}</td>
-        <td>{{ row.fy-0_budget }}</td>
-        <td>{{ row["fy+1-3_budget"] }}</td>
-        <td>{{ row.total }}</td>
+        <td>${{ row.past_spending | thousands_separated }}</td>
+        <td>${{ row.fy-1 | thousands_separated }}</td>
+        <td>${{ row.fy-0 | thousands_separated }}</td>
+        <td>${{ row["fy+1-4"] | thousands_separated }}</td>
+        <td>${{ row.total | thousands_separated }}</td>
       </tr>
     {% endfor %}
   </tbody>
@@ -83,29 +89,37 @@ Operating Impact: {{ page.operating_impact }}
   <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
    Authorizations 
   </h2>
-  <div class="sh-contact"><a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | replace: "'","" | slugify }}/{{ page.department | replace: "'","" | slugify }}">Back to {{ page.department }}</a></div>
+  <div class="sh-contact">
+    <a href="{{ site.url }}/capital-projects/{{ page.category | replace: "'","" | slugify }}">
+      Back to {{ page.category }}
+    </a>
+  </div>
 </div>
 <br />
 <table class="responsive-table responsive-table--horizontal">
   <thead>
     <tr>
-      <th>{{ page.authorizations_table[0].table_header[0].source }}</th>
-      <th>{{ page.authorizations_table[0].table_header[0].existing }}</th>
-      <th>{{ page.authorizations_table[0].table_header[0].fy-0 }}</th>
-      <th>{{ page.authorizations_table[0].table_header[0]["fy-0++"] }}</th>
-      <th>{{ page.authorizations_table[0].table_header[0].other }}</th>
-      <th>{{ page.authorizations_table[0].table_header[0].total }}</th>
+      <th>{{ page.expenditures_detail.authorizations_table.table_header.source }}</th>
+      <th>{{ page.expenditures_detail.authorizations_table.table_header.existing }}</th>
+      <th>{{ page.expenditures_detail.authorizations_table.table_header.fy-0 }}</th>
+      <th>{{ page.expenditures_detail.authorizations_table.table_header["fy-0++"] }}</th>
+      <th>{{ page.expenditures_detail.authorizations_table.table_header.other }}</th>
+      <th>{{ page.expenditures_detail.authorizations_table.table_header.total }}</th>
     </tr>
   </thead>
   <tbody>
-    {% for row in page.authorizations_table[0].data %}
+    {% for row in page.expenditures_detail.authorizations_table.data %}
+      {% if row.line_type == "total" %}
+      <tr class="total">
+      {% else %}
       <tr>
+      {% endif %}
         <td>{{ row.source }}</td>
-        <td>{{ row.existing }}</td>
-        <td>{{ row.fy-0 }}</td>
-        <td>{{ row["fy-0++"] }}</td>
-        <td>{{ row.other }}</td>
-        <td>{{ row.total }}</td>
+        <td>${{ row.existing | thousands_separated }}</td>
+        <td>${{ row.fy-0 | thousands_separated }}</td>
+        <td>${{ row["fy-0++"] | thousands_separated }}</td>
+        <td>${{ row.other | thousands_separated }}</td>
+        <td>${{ row.total | thousands_separated }}</td>
       </tr>
     {% endfor %}
   </tbody>

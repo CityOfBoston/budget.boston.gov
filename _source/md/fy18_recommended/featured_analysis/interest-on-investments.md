@@ -15,22 +15,23 @@ components:
 - intro:
   - title: Interest on investments
     short_desc: >
-      Through operational reviews...
+      In general, the City’s level of investment income is a function of 
+      prevailing short-term interest rates and daily cash balances. Since 
+      2007, interest rates have been reduced in an effort to stimulate the 
+      economy.
     description: >
-      Mayor Walsh presented...
+      Given the very low interest earnings potential of recent years, the Treasury 
+      department had instead engaged in a compensating balance approach with banks, 
+      having fees paid through depositing minimum balances. <blockquote>Investment income 
+      totaled $61 thousand in FY15 and $184.3 thousand in FY16. The City projects interest 
+      income will exceed the $200 thousand budgeted in FY17.</blockquote>
     sidebar_menu: true    
-text_block:
-  - title: City organizational structure
+- text_block:
+  - title: Interest expected to increase
     body: >
-      <p>The City’s cabinet form of government facilitates the execution of mayoral priorities and the day-to-day executive and administrative business of the City.</p>
-      <p>The Administration &amp; Finance Cabinet includes the following departments, each with a major role in providing a climate of fiscal discipline:</p>
-      <ul>
-      <li>Treasury Department</li>
-      <li>Auditing Department</li>
-      <li>Assessing Department</li>
-      <li>Office of Budget Management</li>
-      <li>Purchasing Department</li>
-      </ul>
-      <p>The Cabinet also includes the Office of Human Resources and the Office of Labor Relations. With employee compensation and health benefits comprising over three quarters of the City’s total appropriation, the management of these policy areas within a broader context promotes coordination and accountability across City government.</p>
-text_block:
-  - title: Stra
+      <p>In FY18 the City will reduce the amount required to maintain a compensating 
+      balance (due to the need to offset credit card fees becoming unnecessary), and 
+      instead invest this money. By standardizing practices and adding fees to the 
+      cost of point of sale transactions, revenue from Interest on Investments is 
+      estimated to increase to $2 million.</p>
+---

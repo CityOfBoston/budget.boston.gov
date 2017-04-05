@@ -15,22 +15,24 @@ components:
 - intro:
   - title: Parking fines
     short_desc: >
-      Through operational reviews...
+      In FY16, the City issued over 1.3 million parking tickets and has 
+      maintained a 92% rate of collection on those tickets.
     description: >
-      Mayor Walsh presented...
-    sidebar_menu: true    
-text_block:
-  - title: City organizational structure
-    body: >
-      <p>The City’s cabinet form of government facilitates the execution of mayoral priorities and the day-to-day executive and administrative business of the City.</p>
-      <p>The Administration &amp; Finance Cabinet includes the following departments, each with a major role in providing a climate of fiscal discipline:</p>
+      The major factors contributing to the City’s successful collection rate include:
       <ul>
-      <li>Treasury Department</li>
-      <li>Auditing Department</li>
-      <li>Assessing Department</li>
-      <li>Office of Budget Management</li>
-      <li>Purchasing Department</li>
+        <li>non-renewal of violator’s registration and license by the Registry of Motor
+        Vehicles until penalties are paid</li>
+        <li>booting and towing of vehicles</li>
+        <li>increased ability to recover fine payments from rental agencies, and</li>
+        <li>systematic collection of fines for company cars and leased vehicles.</li>
       </ul>
-      <p>The Cabinet also includes the Office of Human Resources and the Office of Labor Relations. With employee compensation and health benefits comprising over three quarters of the City’s total appropriation, the management of these policy areas within a broader context promotes coordination and accountability across City government.</p>
-text_block:
-  - title: Stra
+      The City also contracts with a third-party vendor to collect delinquent fines 
+      from out of state vehicles and other hard to reach offenders.
+    sidebar_menu: true    
+- text_block:
+  - title: Parking fine revenue
+    body: >
+      <p>The City collected parking fine revenue of $57.1 million in FY15 and $57.8 
+      in FY16. Parking fine revenue is expected to exceed the $57.0 million budgeted 
+      in FY17 and reach $61.3 million in FY18.</p>
+---
