@@ -34,3 +34,4 @@ components:
       instead invest this money. By standardizing practices and adding fees to the 
       cost of point of sale transactions, revenue from Interest on Investments is 
       estimated to increase to $2 million.</p>
+---
