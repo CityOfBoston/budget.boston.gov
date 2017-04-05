@@ -15,28 +15,24 @@ components:
 - intro:
   - title: Licenses and permits
     short_desc: >
-      Through operational reviews...
+      This category is dominated by building permit revenue, from 
+      which the City received $51.7 million and $52.3 million in 
+      FY15 and FY16 respectively.
     description: >
-      Mayor Walsh presented...
+      Building permit revenue is expected to exceed the $42.7 million 
+      budgeted in FY17, and is projected to increase to $45.0 million 
+      in FY18. This estimate is a conservative estimate based on historical 
+      trends and analysis on real estate market and investment trends.
     sidebar_menu: true    
-- text_block:
-  - title: City organizational structure
-    body: >
-      <p>The City’s cabinet form of government facilitates the execution of mayoral 
-      priorities and the day-to-day executive and administrative business of the City.</p>
-      <p>The Administration &amp; Finance Cabinet includes the following departments, 
-      each with a major role in providing a climate of fiscal discipline:</p>
-      <ul>
-      <li>Treasury Department</li>
-      <li>Auditing Department</li>
-      <li>Assessing Department</li>
-      <li>Office of Budget Management</li>
-      <li>Purchasing Department</li>
-      </ul>
-      <p>The Cabinet also includes the Office of Human Resources and the Office of Labor 
-      Relations. With employee compensation and health benefits comprising over three 
-      quarters of the City’s total appropriation, the management of these policy areas 
-      within a broader context promotes coordination and accountability across City government.</p>
-- text_block:
-  - title: Stra
----
+- text_col_2:
+  - col: >
+      <h5>Cable television license</h5>
+      <p>The next largest license and permit revenue is the cable television 
+      license fee from which the City received $8.1 million in FY15 and $7.1 
+      million in FY16. The City has budgeted $6.5 million in FY17 and FY18.</p>
+  - col: >
+      <h5>Alcoholic beverage licenses</h5>
+      <p>Alcoholic beverage licensing is the only other revenue source in 
+      this category that regularly exceeds $4 million in annual revenue. 
+      Alcoholic beverage licenses are budgeted at $4.2 million FY17 and 
+      $4.5 million in FY18.</p>
