@@ -151,8 +151,8 @@ components:
         name: Boston Public Schools
         link: /operating-budget/cabinets/education/boston-public-schools
       "FY15 Actual": $974.93
-      "FY17 Actual": $1,016.28
-      "FY18 Budget": $1,031.68
+      "FY16 Actual": $1,016.28
+      "FY17 Budget": $1,031.68
       "FY18 Budget": $1,060.93
     - "Expenditure":
         name: City Reserve for Collective Bargaining
@@ -175,8 +175,7 @@ components:
       "FY16 Actual": $40.00
       "FY17 Budget": $40.00
       "FY18 Budget": $40.00
-    - "Expenditure":
-        name: Total appropriations
+    - "Expenditure": Total appropriations
       "FY15 Actual": $2,238.97
       "FY16 Actual": $2,291.41
       "FY17 Budget": $2,372.18
@@ -199,8 +198,8 @@ components:
         name: Charter School Tuition
         link: /operating-budget/charter-school-tuition
       "FY15 Actual": $125.81
-      "FY17 Actual": $157.69
-      "FY18 Budget": $174.95
+      "FY16 Actual": $157.69
+      "FY17 Budget": $174.95
       "FY18 Budget": $185.58
     - "Expenditure":
         name: MBTA
