@@ -1,0 +1,239 @@
+
+{
+  "file_version":"0.10",
+  "parent_id":"NEED TO GET THIS",
+  "section_id":43,
+  "section_md5_id":"17E62166FC8586DFA4D1BC0E1742C08B",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "name":"Neighborhood Services",
+  "parent":"Civic Engagement",
+  "cabinet":"Civic Engagement",
+  "department":"Neighborhood Services",
+  "head_name":"Jerome Smith",
+  "head_title":"Chief of Civic Engagement",
+  "appropriation_code":"Appropriation 412",
+  "mission":"The Mayor's Office of Neighborhood Services (ONS) encourages, facilitates and maximizes citizen input and participation in all aspects of government through service requests, neighborhood meetings, mailings, and emergency responses. Also included in ONS is the Mobile City Hall to Go truck that visits Boston&rsquo;s neighborhoods offering a select menu of services directly to constituents. The Boston 311 Program provides a wide-ranging information and referral function as well as coordinates emergency response after business hours. The program also responds to citizens&rsquo; requests for service through direct interaction with City departments.",
+  "selected_performance_strategies":{
+    "program":"Boston 311",
+    "strategies":[
+      "Maintain a high level of constituent service."
+    ]
+  },
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "Program Name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+2":"FY18 Budget"
+    },
+    "data":[
+      {
+        "line_title":"ONS Administration",
+        "line_type":"data",
+        "fy-2":"499453",
+        "fy-1":"506835",
+        "fy-0":"602016",
+        "fy+2":"585698"
+      },
+      {
+        "line_title":"Neighborhood Serv",
+        "line_type":"data",
+        "fy-2":"922517",
+        "fy-1":"1009736",
+        "fy-0":"1177057",
+        "fy+2":"1180925"
+      },
+      {
+        "line_title":"City Hall to Go",
+        "line_type":"data",
+        "fy-2":"0",
+        "fy-1":"128862",
+        "fy-0":"191430",
+        "fy+2":"175929"
+      },
+      {
+        "line_title":"Boston 311",
+        "line_type":"data",
+        "fy-2":"0",
+        "fy-1":"879467",
+        "fy-0":"1224227",
+        "fy+2":"1345061"
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":"1421970",
+        "fy-1":"2524900",
+        "fy-0":"3194730",
+        "fy+2":"3287613"
+      }
+    ]
+  },
+  "external_funds_budget":{
+    "table_type":"External Funds",
+    "table_title":"External Funds Budget",
+    "table_header":{
+      "name":"Fund Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+2":"FY18 Budget"
+    },
+    "data":[
+      {
+        "line_title":"Boston Shines",
+        "line_type":"data",
+        "fy-2":"0",
+        "fy-1":"13608",
+        "fy-0":"0",
+        "fy+2":"0"
+      },
+      {
+        "line_title":"Love Your Block",
+        "line_type":"data",
+        "fy-2":"0",
+        "fy-1":"11392",
+        "fy-0":"10000",
+        "fy+2":"75000"
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":"0",
+        "fy-1":"25000",
+        "fy-0":"10000",
+        "fy+2":"75000"
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"15Actual",
+      "fy-1":"16Actual",
+      "fy-0":"17Budget",
+      "fy+2":"18Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":1369690,
+      "fy-1":2375934,
+      "fy-0":2904146,
+      "fy+2":3019386
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":52280,
+      "fy-1":148966,
+      "fy-0":290584,
+      "fy+1":268227
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1421970,
+      "fy-1":2524900,
+      "fy-0":3194730,
+      "fy+1":3287613
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[],
+  "description_of_services":[
+    "The Office of Neighborhood Services invites community involvement in municipal government across the wide spectrum of its programs. Neighborhood Services provides a forum for both groups and individuals to express concerns, request services, and extend opinions, while serving to disseminate information and facilitate delivery of City services. The City Hall to Go truck offers a select menu of city services to all Boston&rsquo;s neighborhoods. The Boston 311 Program provides a wide-ranging information and referral function as well as coordinates emergency response after business hours. The program also responds to citizens&rsquo; requests for service through direct interaction with City departments."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department Budget By Account",
+    "table_header":{
+      "line_title":"Fund",
+      "line_type":"title",
+      "account_code":"Account",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY15 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "account_code":51,
+        "fy-2":1369690,
+        "fy-1":2375934,
+        "fy-0":2904146,
+        "fy+1":3019386,
+        "diff":115240
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "account_code":52,
+        "fy-2":1411929,
+        "fy-1":2484082,
+        "fy-0":3174194,
+        "fy+1":3269434,
+        "diff":95240
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "account_code":53,
+        "fy-2":1418237,
+        "fy-1":2495334,
+        "fy-0":3185994,
+        "fy+1":3281234,
+        "diff":95240
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "account_code":54,
+        "fy-2":1418685,
+        "fy-1":2503987,
+        "fy-0":3190773,
+        "fy+1":3286013,
+        "diff":95240
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "account_code":55,
+        "fy-2":1421970,
+        "fy-1":2524900,
+        "fy-0":3194730,
+        "fy+1":3287613,
+        "diff":92883
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "account_code":58,
+        "fy-2":1421970,
+        "fy-1":2524900,
+        "fy-0":3194730,
+        "fy+1":3287613,
+        "diff":92883
+      }
+    ]
+  },
+  "external_funds":[
+    {
+      "project":"Love Your Block/Boston Shines",
+      "project_mission":[
+        "Love Your Block's funding source originated in 2015 as a result of an external grant from Cities of Service for 30,000 to be used over 3 years ending in 2018. The purpose is to create and implement a mini grant program for Neighborhood Beautification projects. Love Your Block going forward in FY18 will also include Boston Shines, a spring clean up initiative that is funded by external donations. As a result the funding sources from here on out are external donations for the entire Love Your Block account. This is an annual fund. For FY17 Love your Block account will be used for mini grants only and is projected to spend 10,500."
+      ]
+    }
+  ]
+}
