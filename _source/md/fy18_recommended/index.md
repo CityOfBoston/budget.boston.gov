@@ -93,6 +93,52 @@ components:
     src: https://www.boston.gov/sites/default/files/styles/resp_wide_2000x800custom_boston_wide_1x/public/winter_swimming_10.jpg?itok=W91jOE5G&timestamp=1452037695    
     alt: Placeholder alt text
     title: Placeholder image title
+- text_col_3:
+  - col: >
+      <h5>City approach vs. federal approach</h5>
+      <p>The City’s data-driven investment and spending reform approach to budgeting 
+      illustrates an alternative to the type of budget being contemplated at the Federal 
+      level. The City’s spending approach continues to emphasize the preservation and 
+      expansion of offerings to our most vulnerable residents, made possible by the 
+      implementation of strategic reforms. <blockquote>In this budget, the City is avoiding 
+      $60 million in costs through reforms implemented since Mayor Walsh’s first 
+      budget.</blockquote> These strategic savings initiatives allow Boston to meet its 
+      fixed cost obligations and make targeted investments in a thriving, healthy, and 
+      innovative city. Conversely, the President’s proposed budget would eliminate valuable 
+      programs aiding some of our most vulnerable residents.</p>
+  - col: >
+      <h5>Effects of state and federal budget</h5>
+      <p>Boston faces increased uncertainty due to national and state level challenges. 
+      In addition to federal budget proposals to eliminate over $24 million in Community 
+      Development Block Grant funds flowing through the City of Boston, the President has 
+      signed an executive order aimed at cutting funding for “Sanctuary Cities,” and has 
+      supported health care legislation that would have created over a $1 billion hole in 
+      the Commonwealth of Massachusetts’ budget. Further federal divestment from its Public 
+      Housing Authority is also possible, and reduced federal education grants to serve 
+      students in poverty have been proposed.</p>
+      <p>At the state level, Boston continues to struggle with the Commonwealth’s underfunding 
+      of the Charter School Tuition Reimbursement, from which the City is projected to lose 
+      $25 million in FY18 alone.</p>
+  - col: >
+      <h5>Maintaining fiscal discipline</h5>
+      <p>Cities cannot afford to replace this level of funding cuts, and Massachusetts 
+      communities, with revenue tightly constrained by state law, will be particularly challenged 
+      in the event of federal or state divestment. This instability from the federal and state 
+      level requires increased stability and strong fiscal management at the City level. Mayor 
+      Walsh’s FY18 budget continues the fiscal discipline that was recently praised by 
+      rating agencies by:</p>
+        <ul>
+          <li>paying down the City’s long-term pension and OBEB obligations;</li>
+          <li>managing personnel and health costs;</li>
+          <li>continuing savings initiatives;</li>
+          <li>maintaining conservative fiscal management policies; and</li>
+          <li>maximizing revenue from local receipt sources.</li>
+        </ul>
+      <p>In their credit rating affirming Boston’s Aaa rating with a stable outlook, Moody’s 
+      wrote: "The Aaa rating reflects the city's strong fiscal management and stable 
+      financial position." Disciplined financial practices have better positioned Boston 
+      to manage through changes in state and federal policy and funding levels.</p>  
+
 - grid:
   - grid_title: Revenue
   - title: Revenue overview
