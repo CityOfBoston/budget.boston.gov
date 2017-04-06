@@ -50,3 +50,4 @@ components:
       payments of $26.3 million in FY15 and $29.7 million in FY16. The City expects 
       Section 6A collections to reach $15 million in both FY17 and 
       FY18.</blockquote></p>
+---

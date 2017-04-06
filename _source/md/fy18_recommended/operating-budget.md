@@ -139,13 +139,13 @@ components:
     - "Source": Budgetary fund balance
       "FY15 Actual": $0.00
       "FY16 Actual": $0.00
-      "FY17 Budget": $4.00
-      "FY18 Budget": $0.00
+      "FY17 Budget": $40.00
+      "FY18 Budget": $40.00
     - "Source": Surplus property fund
       "FY15 Actual": $0.00
       "FY16 Actual": $0.00
-      "FY17 Budget": $40.00
-      "FY18 Budget": $40.00
+      "FY17 Budget": $4.00
+      "FY18 Budget": $0.00
     - "Source": Total revenues
       "FY15 Actual": $2,780.42
       "FY16 Actual": $2,883.01
