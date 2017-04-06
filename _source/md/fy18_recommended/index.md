@@ -13,31 +13,77 @@ components:
 - intro:
   - title: Executive Summary
     short_desc: >
-      <div>"This budget is a manifestation of my vision for a
-      Thriving, Healthy, and Innovative Boston."</div>
-      <div>- Martin J. Walsh, Mayor</div>
+      "I am proud to put forth a budget that makes strategic 
+      investments to support Boston's neighborhoods, and builds 
+      on our strong record of fiscal management." - Mayor 
+      Martin J. Walsh
     description: >
-      Mayor Walsh presented a balanced budget that maintains 
-      high levels of support in critical areas such as education 
-      and public safety, makes limited strategic investments,
-      continues the City's commitment to addressing its long-term
-      liabilities, and builds on the Administration's record of 
-      strong fiscal management. This is made possible by the 
-      Administration's achievement of efficiencies and savings. 
-      The City's data-driven managerial approach was recently 
-      validated by the affirmation of Boston's triple A bond rating.
+      Mayor Martin J. Walsh today presented his Fiscal Year 2018 (FY18) budget 
+      proposal, a plan that balances sustainability and increases investments 
+      in key initiatives and more fully supports Boston's neighborhoods. The 
+      proposed budget:
+      <ul>
+       <li>builds on the Walsh Administration's strong fiscal 
+       management record;</li>
+       <li>maintains high levels of support for educating Boston's students 
+       and keeping the City of Boston safe;</li>
+       <li>expands upon strategic initiatives to achieve cost savings; and</li>
+       <li>positions the City to manage through instability at the national level.</li>
+      </ul>
     sidebar_menu: true
 - text_block:
   - title: Introduction
     body: >
-      At the time Mayor Walsh took office, the City of Boston had successfully 
-      weathered the storms of previous recessions. However, several major revenue
-      sources never fully recovered, cost pressures continued to grow, and deferred
-      investments persisted across City government. In its first two years, the 
-      administration has systematically engaged in independent operational reviews
-      and other planning efforts aimed at making government more efficient in order 
-      to address areas needing renewed attention.
-    right_image: http://tomakeawebsite.net/wp-content/uploads/2015/03/Google-charts-plugin.jpg
+      Mayor Martin J. Walsh’s proposed $3.14 billion Fiscal Year 2018 (FY18) budget 
+      balances sustainability, increased investment, and fiscal responsibility. Continuing 
+      trends seen in recent years, the Mayor’s proposed FY18 budget relies on growth in 
+      property tax and other local receipt revenue, but requires control of growth in 
+      departmental spending to offset weak state aid revenue and high fixed cost growth. 
+      Budgetary growth is maintained at a responsible level given the need to maintain 
+      flexibility in the face of continuing uncertainty at other levels of government. Despite 
+      these challenges, the budget makes strong statements about the City’s priorities, as is 
+      reflected in the proposed investments.
+- text-col_2:
+  - col: >
+      <h5>Expaning on savings</h5>
+      <p>Even with strong growth in locally derived revenues, it is only through continued 
+      tightening within City departments that the City will be able to afford new and expanded 
+      investments after reserving for costs associated with collective bargaining, being 
+      assessed for its increasing charter school costs, funding its pension obligations, 
+      and paying its debt service. <blockquote>The FY18 proposal builds off of past budgets by 
+      expanding savings initiatives, and allows for dollars to be used in high impact 
+      areas.</blockquote></p>
+      <h5>Federal challenges</h5>
+      <p>Mayor Walsh’s FY18 budget stands in contrast to national efforts to dismantle the 
+      urban safety net, as seen in the proposed Federal budget. The President has proposed 
+      to eliminate critical federal programs that support the production of affordable housing, 
+      revitalize Boston’s Main Streets, make heating bills affordable to 20,000 Boston
+      residents, and provide Boston students with valuable after-school programs.</p>
+  - col: >
+      <h5>Taking advantage of data</h5>
+      <p>In contrast, Mayor Walsh is proposing data-driven investments that meet the core 
+      needs of Bostonians, including:</p>
+        <ul>
+          <li>targeting research-backed education investments - including extending the 
+          school day for 15,000 students - to close achievement and opportunity gaps;</li>
+          <li>directing educational resources to students most in need, including 3,000 
+          BPS students experiencing homelessness;</li>
+          <li>building on early success from the Mayor’s homeless action plan implementation;</li>
+          <li>further extending access to addiction treatment services;</li>
+          <li>using data to change the way Boston deploys emergency services to Boston 
+          Common and Recovery Road;</li>
+          <li>making sure that city streets in every neighborhood are clean and safe with 
+          revitalized lane markings and crosswalks;</li>
+          <li>continuing efforts to diversify Boston’s Police force by adding police 
+          cadets;</li>
+          <li>ensuring that Boston’s open spaces are among the nation’s most equitable 
+          and accessible;</li>
+          <li>supporting local artists through grantmaking and residencies;</li>
+          <li>launching infrastructure projects driven by Imagine Boston 2030 and Go Boston 
+          2030, moving from engagement and planning to action; and</li>
+          <li>setting funding aside for future projects coming out of the BuildBPS engagement 
+          process and partnerships with the Massachusetts School Building Authority (MSBA).</li>
+        </ul>
 - spanning_image:
   - title: Lorem ipsum title
     desc: This is the description for the spanning image
