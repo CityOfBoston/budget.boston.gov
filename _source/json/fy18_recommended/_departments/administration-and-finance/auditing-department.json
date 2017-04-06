@@ -65,7 +65,7 @@
     },
     "data":[
       {
-        "line_title":"Auditing Administration",
+        "name":"Auditing Administration",
         "line_type":"data",
         "fy-2":412249,
         "fy-1":412250,
@@ -73,7 +73,7 @@
         "fy+1":506631
       },
       {
-        "line_title":"Accounting",
+        "name":"Accounting",
         "line_type":"data",
         "fy-2":624304,
         "fy-1":698402,
@@ -81,7 +81,7 @@
         "fy+1":705159
       },
       {
-        "line_title":"Central Payroll",
+        "name":"Central Payroll",
         "line_type":"data",
         "fy-2":446054,
         "fy-1":407001,
@@ -89,7 +89,7 @@
         "fy+1":557665
       },
       {
-        "line_title":"Grants Monitoring",
+        "name":"Grants Monitoring",
         "line_type":"data",
         "fy-2":267190,
         "fy-1":274648,
@@ -97,7 +97,7 @@
         "fy+1":155076
       },
       {
-        "line_title":"Accounts Payable",
+        "name":"Accounts Payable",
         "line_type":"data",
         "fy-2":743717,
         "fy-1":777960,
@@ -105,7 +105,7 @@
         "fy+1":762032
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":2493514,
         "fy-1":2570261,
@@ -128,7 +128,7 @@
     },
     "data":[
       {
-        "line_title":"BAIS Financials Upgrade",
+        "name":"BAIS Financials Upgrade",
         "line_type":"data",
         "fy-2":110966,
         "fy-1":279353,
@@ -136,7 +136,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Earned Indirect",
+        "name":"Earned Indirect",
         "line_type":"data",
         "fy-2":0,
         "fy-1":0,
@@ -144,7 +144,7 @@
         "fy+1":175679
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":110966,
         "fy-1":279353,
@@ -205,6 +205,7 @@
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",

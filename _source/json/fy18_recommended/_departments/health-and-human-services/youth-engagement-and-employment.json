@@ -33,7 +33,7 @@
     },
     "data":[
       {
-        "line_title":"Youth Engagement and Employment",
+        "name":"Youth Engagement and Employment",
         "line_type":"data",
         "fy-2":4989679,
         "fy-1":5759934,
@@ -41,7 +41,7 @@
         "fy+1":6331229
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":4989679,
         "fy-1":5759934,
@@ -64,7 +64,7 @@
     },
     "data":[
       {
-        "line_title":"Settlement Funds",
+        "name":"Settlement Funds",
         "line_type":"data",
         "fy-2":74702,
         "fy-1":0,
@@ -72,7 +72,7 @@
         "fy+1":313780
       },
       {
-        "line_title":"Youth at Risk",
+        "name":"Youth at Risk",
         "line_type":"data",
         "fy-2":797266,
         "fy-1":764561,
@@ -80,7 +80,7 @@
         "fy+1":857375
       },
       {
-        "line_title":"Youth Engagement & Employment Fund",
+        "name":"Youth Engagement & Employment Fund",
         "line_type":"data",
         "fy-2":136171,
         "fy-1":230821,
@@ -88,7 +88,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":1008139,
         "fy-1":995382,
@@ -141,6 +141,7 @@
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",

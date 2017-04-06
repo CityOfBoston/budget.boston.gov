@@ -55,7 +55,7 @@
     },
     "data":[
       {
-        "line_title":"ONS Administration",
+        "name":"ONS Administration",
         "line_type":"data",
         "fy-2":499453,
         "fy-1":506835,
@@ -63,7 +63,7 @@
         "fy+1":585698
       },
       {
-        "line_title":"Neighborhood Serv",
+        "name":"Neighborhood Serv",
         "line_type":"data",
         "fy-2":922517,
         "fy-1":1009736,
@@ -71,7 +71,7 @@
         "fy+1":1180925
       },
       {
-        "line_title":"City Hall to Go",
+        "name":"City Hall to Go",
         "line_type":"data",
         "fy-2":0,
         "fy-1":128862,
@@ -79,7 +79,7 @@
         "fy+1":175929
       },
       {
-        "line_title":"Boston 311",
+        "name":"Boston 311",
         "line_type":"data",
         "fy-2":0,
         "fy-1":879467,
@@ -87,7 +87,7 @@
         "fy+1":1345061
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":1421970,
         "fy-1":2524900,
@@ -110,7 +110,7 @@
     },
     "data":[
       {
-        "line_title":"Boston Shines",
+        "name":"Boston Shines",
         "line_type":"data",
         "fy-2":0,
         "fy-1":13608,
@@ -118,7 +118,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Love Your Block",
+        "name":"Love Your Block",
         "line_type":"data",
         "fy-2":0,
         "fy-1":11392,
@@ -126,7 +126,7 @@
         "fy+1":75000
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":0,
         "fy-1":25000,
@@ -179,6 +179,7 @@
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",

@@ -66,7 +66,7 @@
     },
     "data":[
       {
-        "line_title":"Legislative Support",
+        "name":"Legislative Support",
         "line_type":"data",
         "fy-2":360319,
         "fy-1":372578,
@@ -74,7 +74,7 @@
         "fy+1":279833
       },
       {
-        "line_title":"Document Filing",
+        "name":"Document Filing",
         "line_type":"data",
         "fy-2":399491,
         "fy-1":416672,
@@ -82,7 +82,7 @@
         "fy+1":504605
       },
       {
-        "line_title":"Archives",
+        "name":"Archives",
         "line_type":"data",
         "fy-2":313895,
         "fy-1":357792,
@@ -90,7 +90,7 @@
         "fy+1":430387
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":1073705,
         "fy-1":1147042,
@@ -113,7 +113,7 @@
     },
     "data":[
       {
-        "line_title":"National Historical Publications & Records Commission (NHPRC)",
+        "name":"National Historical Publications & Records Commission (NHPRC)",
         "line_type":"data",
         "fy-2":15319,
         "fy-1":0,
@@ -121,7 +121,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":15319,
         "fy-1":0,
@@ -178,6 +178,7 @@
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",

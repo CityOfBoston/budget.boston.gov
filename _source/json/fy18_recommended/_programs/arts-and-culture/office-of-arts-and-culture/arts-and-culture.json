@@ -56,6 +56,7 @@
     "table_title":"Program History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",
@@ -195,9 +196,9 @@
               "line_type":"data",
               "line_data":"Amount granted to the Office of Arts and Culture from external sources.",
               "fy-2":"",
-              "fy-1":"324000",
-              "fy-0":"250000",
-              "fy+1":"250000"
+              "fy-1":"324,000",
+              "fy-0":"250,000",
+              "fy+1":"250,000"
             },
             {
               "line_type":"data",

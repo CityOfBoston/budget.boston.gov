@@ -41,7 +41,7 @@
     },
     "data":[
       {
-        "line_title":"Labor Relations",
+        "name":"Labor Relations",
         "line_type":"data",
         "fy-2":1364177,
         "fy-1":1310607,
@@ -49,7 +49,7 @@
         "fy+1":1439006
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":1364177,
         "fy-1":1310607,
@@ -104,6 +104,7 @@
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",

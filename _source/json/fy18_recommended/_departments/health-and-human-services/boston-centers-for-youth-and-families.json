@@ -55,7 +55,7 @@
     },
     "data":[
       {
-        "line_title":"Administrative and Policy",
+        "name":"Administrative and Policy",
         "line_type":"data",
         "fy-2":13432555,
         "fy-1":14690449,
@@ -63,7 +63,7 @@
         "fy+1":14684895
       },
       {
-        "line_title":"Sports and Fitness",
+        "name":"Sports and Fitness",
         "line_type":"data",
         "fy-2":4623425,
         "fy-1":4245241,
@@ -71,7 +71,7 @@
         "fy+1":4616977
       },
       {
-        "line_title":"Youth and Family Services",
+        "name":"Youth and Family Services",
         "line_type":"data",
         "fy-2":3633059,
         "fy-1":3576048,
@@ -79,7 +79,7 @@
         "fy+1":3805759
       },
       {
-        "line_title":"Child Care and Out-of-School",
+        "name":"Child Care and Out-of-School",
         "line_type":"data",
         "fy-2":2440598,
         "fy-1":2406009,
@@ -87,7 +87,7 @@
         "fy+1":2422153
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":24129637,
         "fy-1":24917747,
@@ -110,7 +110,7 @@
     },
     "data":[
       {
-        "line_title":"Boston Food Policy Council",
+        "name":"Boston Food Policy Council",
         "line_type":"data",
         "fy-2":26048,
         "fy-1":652,
@@ -118,7 +118,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Can Share/Project Bread",
+        "name":"Can Share/Project Bread",
         "line_type":"data",
         "fy-2":70718,
         "fy-1":68076,
@@ -126,7 +126,7 @@
         "fy+1":150000
       },
       {
-        "line_title":"Center Based Daycare Program",
+        "name":"Center Based Daycare Program",
         "line_type":"data",
         "fy-2":0,
         "fy-1":7971,
@@ -134,7 +134,7 @@
         "fy+1":62034
       },
       {
-        "line_title":"Charles E Shannon Grant",
+        "name":"Charles E Shannon Grant",
         "line_type":"data",
         "fy-2":0,
         "fy-1":106661,
@@ -142,7 +142,7 @@
         "fy+1":100000
       },
       {
-        "line_title":"Child & Adult Care Food",
+        "name":"Child & Adult Care Food",
         "line_type":"data",
         "fy-2":2027,
         "fy-1":122,
@@ -150,7 +150,7 @@
         "fy+1":360
       },
       {
-        "line_title":"City Hall Child Care",
+        "name":"City Hall Child Care",
         "line_type":"data",
         "fy-2":523598,
         "fy-1":521147,
@@ -158,7 +158,7 @@
         "fy+1":750000
       },
       {
-        "line_title":"Community-Based Violence Prev2",
+        "name":"Community-Based Violence Prev2",
         "line_type":"data",
         "fy-2":0,
         "fy-1":49017,
@@ -166,7 +166,7 @@
         "fy+1":127212
       },
       {
-        "line_title":"Food Resilience Study",
+        "name":"Food Resilience Study",
         "line_type":"data",
         "fy-2":140000,
         "fy-1":0,
@@ -174,7 +174,7 @@
         "fy+1":0
       },
       {
-        "line_title":"James Curley Recreation Center",
+        "name":"James Curley Recreation Center",
         "line_type":"data",
         "fy-2":0,
         "fy-1":141105,
@@ -182,7 +182,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Mayor's Food Security Action Plan",
+        "name":"Mayor's Food Security Action Plan",
         "line_type":"data",
         "fy-2":0,
         "fy-1":6047,
@@ -190,7 +190,7 @@
         "fy+1":65001
       },
       {
-        "line_title":"Safe & Successful Youth Initiative Program",
+        "name":"Safe & Successful Youth Initiative Program",
         "line_type":"data",
         "fy-2":55052,
         "fy-1":0,
@@ -198,7 +198,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Street Safe Boston",
+        "name":"Street Safe Boston",
         "line_type":"data",
         "fy-2":314492,
         "fy-1":1007143,
@@ -206,7 +206,7 @@
         "fy+1":680609
       },
       {
-        "line_title":"Tiny Tots Program",
+        "name":"Tiny Tots Program",
         "line_type":"data",
         "fy-2":83322,
         "fy-1":70847,
@@ -214,7 +214,7 @@
         "fy+1":77567
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":1215257,
         "fy-1":1978788,
@@ -269,6 +269,7 @@
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",

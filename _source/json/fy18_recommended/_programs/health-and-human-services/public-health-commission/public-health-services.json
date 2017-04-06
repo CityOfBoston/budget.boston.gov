@@ -38,24 +38,25 @@
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":0,
-      "fy-1":0,
-      "fy-0":0,
-      "fy+1":0
+      "fy-2":61502575,
+      "fy-1":61576757,
+      "fy-0":62289011,
+      "fy+1":79077172
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":0,
-      "fy-1":0,
-      "fy-0":0,
-      "fy+1":0
+      "fy-2":61502575,
+      "fy-1":61576757,
+      "fy-0":62289011,
+      "fy+1":79077172
     }
   ],
   "program_history_by_account":{
     "table_title":"Program History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",
@@ -302,8 +303,8 @@
               "line_data":"Number of individuals placed in recovery services.",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"2400",
-              "fy+1":"2400"
+              "fy-0":"2,400",
+              "fy+1":"2,400"
             }
           ]
         }
@@ -331,8 +332,8 @@
               "line_data":"The number of individuals who become enrolled in a health insurance plan as a result of assistance received from the Mayor's Health Line.",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"1000",
-              "fy+1":"1000"
+              "fy-0":"1,000",
+              "fy+1":"1,000"
             }
           ]
         }

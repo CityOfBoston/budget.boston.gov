@@ -56,6 +56,7 @@
     "table_title":"Program History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",
@@ -152,7 +153,7 @@
               "fy-2":"",
               "fy-1":"",
               "fy-0":"502",
-              "fy+1":"1000"
+              "fy+1":"1,000"
             }
           ]
         }
@@ -209,8 +210,8 @@
               "line_data":"# of maintenance parcels on file for the fiscal year.",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"3500",
-              "fy+1":"2800"
+              "fy-0":"3,500",
+              "fy+1":"2,800"
             },
             {
               "line_type":"data",

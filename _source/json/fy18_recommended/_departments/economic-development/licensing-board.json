@@ -33,7 +33,7 @@
     },
     "data":[
       {
-        "line_title":"Licensing",
+        "name":"Licensing",
         "line_type":"data",
         "fy-2":704753,
         "fy-1":637735,
@@ -41,7 +41,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":704753,
         "fy-1":637735,

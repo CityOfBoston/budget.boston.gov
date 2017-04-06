@@ -56,6 +56,7 @@
     "table_title":"Program History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",
@@ -151,8 +152,8 @@
               "line_data":"# of calls to the Taxpayer Referral and Assistance Center (TRAC).",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"2500",
-              "fy+1":"2500"
+              "fy-0":"2,500",
+              "fy+1":"2,500"
             },
             {
               "line_type":"data",

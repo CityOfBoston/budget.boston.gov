@@ -56,6 +56,7 @@
     "table_title":"Program History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",
@@ -202,10 +203,10 @@
             {
               "line_type":"data",
               "line_data":"# community members engaged and reached at events, meetings and workshops.",
-              "fy-2":"3992",
-              "fy-1":"3328",
-              "fy-0":"1000",
-              "fy+1":"1000"
+              "fy-2":"3,992",
+              "fy-1":"3,328",
+              "fy-0":"1,000",
+              "fy+1":"1,000"
             },
             {
               "line_type":"data",

@@ -56,6 +56,7 @@
     "table_title":"Program History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",
@@ -157,10 +158,10 @@
             {
               "line_type":"data",
               "line_data":"Rides Provided to Older Adults.",
-              "fy-2":"35435",
-              "fy-1":"36481",
-              "fy-0":"37160",
-              "fy+1":"38000"
+              "fy-2":"35,435",
+              "fy-1":"36,481",
+              "fy-0":"37,160",
+              "fy+1":"38,000"
             }
           ]
         }

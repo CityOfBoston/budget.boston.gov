@@ -33,7 +33,7 @@
     },
     "data":[
       {
-        "line_title":"Public Information Communications",
+        "name":"Public Information Communications",
         "line_type":"data",
         "fy-2":469837,
         "fy-1":0,
@@ -41,7 +41,7 @@
         "fy+1":0
       },
       {
-        "line_title":"24 Hour/Constituent Engagement",
+        "name":"24 Hour/Constituent Engagement",
         "line_type":"data",
         "fy-2":720411,
         "fy-1":0,
@@ -49,7 +49,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":1190248,
         "fy-1":0,

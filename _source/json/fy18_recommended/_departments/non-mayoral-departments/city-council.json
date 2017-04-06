@@ -43,7 +43,7 @@
     },
     "data":[
       {
-        "line_title":"City Council Administration",
+        "name":"City Council Administration",
         "line_type":"data",
         "fy-2":362745,
         "fy-1":338734,
@@ -51,7 +51,7 @@
         "fy+1":358664
       },
       {
-        "line_title":"City Councilors",
+        "name":"City Councilors",
         "line_type":"data",
         "fy-2":4176754,
         "fy-1":4323562,
@@ -59,7 +59,7 @@
         "fy+1":4418092
       },
       {
-        "line_title":"Legislative/Financial Support",
+        "name":"Legislative/Financial Support",
         "line_type":"data",
         "fy-2":521777,
         "fy-1":544154,
@@ -67,7 +67,7 @@
         "fy+1":564021
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":5061276,
         "fy-1":5206450,
@@ -123,6 +123,7 @@
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",

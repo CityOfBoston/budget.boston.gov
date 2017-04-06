@@ -56,6 +56,7 @@
     "table_title":"Program History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",
@@ -151,8 +152,8 @@
               "line_data":"Mass Save and ABCD WAP work completed (insulation/air sealing, heating system replacement).",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"3200",
-              "fy+1":"3200"
+              "fy-0":"3,200",
+              "fy+1":"3,200"
             },
             {
               "line_type":"data",
@@ -204,8 +205,8 @@
               "line_data":"# of Boston Landmarks and # of historic districts.",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"",
-              "fy+1":""
+              "fy-0":"102",
+              "fy+1":"103"
             },
             {
               "line_type":"data",
@@ -337,7 +338,7 @@
               "fy-2":"47",
               "fy-1":"75",
               "fy-0":"75",
-              "fy+1":""
+              "fy+1":"75"
             },
             {
               "line_type":"data",

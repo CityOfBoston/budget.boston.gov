@@ -70,7 +70,7 @@
     },
     "data":[
       {
-        "line_title":"Personnel",
+        "name":"Personnel",
         "line_type":"data",
         "fy-2":1813038,
         "fy-1":1750447,
@@ -78,7 +78,7 @@
         "fy+1":2265403
       },
       {
-        "line_title":"Affirmative Action",
+        "name":"Affirmative Action",
         "line_type":"data",
         "fy-2":77197,
         "fy-1":53743,
@@ -86,7 +86,7 @@
         "fy+1":30500
       },
       {
-        "line_title":"Health Benefits and Insurance",
+        "name":"Health Benefits and Insurance",
         "line_type":"data",
         "fy-2":590910,
         "fy-1":593523,
@@ -94,7 +94,7 @@
         "fy+1":793932
       },
       {
-        "line_title":"Employee Assistance",
+        "name":"Employee Assistance",
         "line_type":"data",
         "fy-2":80730,
         "fy-1":174328,
@@ -102,7 +102,7 @@
         "fy+1":18927
       },
       {
-        "line_title":"Workers Comp",
+        "name":"Workers Comp",
         "line_type":"data",
         "fy-2":923347,
         "fy-1":924982,
@@ -110,7 +110,7 @@
         "fy+1":828171
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":3485222,
         "fy-1":3497023,
@@ -176,6 +176,7 @@
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",

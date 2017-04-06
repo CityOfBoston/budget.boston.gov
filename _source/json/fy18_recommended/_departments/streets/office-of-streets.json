@@ -33,7 +33,7 @@
     },
     "data":[
       {
-        "line_title":"Admin and Finance",
+        "name":"Admin and Finance",
         "line_type":"data",
         "fy-2":1360422,
         "fy-1":1649756,
@@ -41,7 +41,7 @@
         "fy+1":1962522
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":1360422,
         "fy-1":1649756,
@@ -94,6 +94,7 @@
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",

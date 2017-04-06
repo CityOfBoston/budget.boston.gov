@@ -48,7 +48,7 @@
     },
     "data":[
       {
-        "line_title":"Consumer Licensing",
+        "name":"Consumer Licensing",
         "line_type":"data",
         "fy-2":375410,
         "fy-1":292666,
@@ -56,7 +56,7 @@
         "fy+1":362493
       },
       {
-        "line_title":"Consumer Affairs",
+        "name":"Consumer Affairs",
         "line_type":"data",
         "fy-2":84520,
         "fy-1":86606,
@@ -64,7 +64,7 @@
         "fy+1":100571
       },
       {
-        "line_title":"Licensing Board",
+        "name":"Licensing Board",
         "line_type":"data",
         "fy-2":0,
         "fy-1":0,
@@ -72,7 +72,7 @@
         "fy+1":653664
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":459930,
         "fy-1":379272,
@@ -95,7 +95,7 @@
     },
     "data":[
       {
-        "line_title":"Local Consumer Aid Fund",
+        "name":"Local Consumer Aid Fund",
         "line_type":"data",
         "fy-2":54437,
         "fy-1":51916,
@@ -103,7 +103,7 @@
         "fy+1":52000
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":54437,
         "fy-1":51916,
@@ -167,6 +167,7 @@
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",

@@ -55,7 +55,7 @@
     },
     "data":[
       {
-        "line_title":"PM Administration",
+        "name":"PM Administration",
         "line_type":"data",
         "fy-2":2085565,
         "fy-1":1877245,
@@ -63,7 +63,7 @@
         "fy+1":1915883
       },
       {
-        "line_title":"Building Maintenance",
+        "name":"Building Maintenance",
         "line_type":"data",
         "fy-2":6676842,
         "fy-1":7148430,
@@ -71,7 +71,7 @@
         "fy+1":8003697
       },
       {
-        "line_title":"Alterations and Repair",
+        "name":"Alterations and Repair",
         "line_type":"data",
         "fy-2":1905091,
         "fy-1":1637044,
@@ -79,7 +79,7 @@
         "fy+1":1554706
       },
       {
-        "line_title":"Enforcement",
+        "name":"Enforcement",
         "line_type":"data",
         "fy-2":3801098,
         "fy-1":4051334,
@@ -87,7 +87,7 @@
         "fy+1":2387699
       },
       {
-        "line_title":"Security Systems",
+        "name":"Security Systems",
         "line_type":"data",
         "fy-2":1402276,
         "fy-1":789646,
@@ -95,7 +95,7 @@
         "fy+1":835969
       },
       {
-        "line_title":"Animal Control",
+        "name":"Animal Control",
         "line_type":"data",
         "fy-2":1142746,
         "fy-1":150,
@@ -103,7 +103,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Building Systems",
+        "name":"Building Systems",
         "line_type":"data",
         "fy-2":1615077,
         "fy-1":1762822,
@@ -111,7 +111,7 @@
         "fy+1":2397560
       },
       {
-        "line_title":"Capital Construction",
+        "name":"Capital Construction",
         "line_type":"data",
         "fy-2":5067482,
         "fy-1":6630153,
@@ -119,7 +119,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":23696177,
         "fy-1":23896824,
@@ -176,6 +176,7 @@
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",

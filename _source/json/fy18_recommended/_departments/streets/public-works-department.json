@@ -65,7 +65,7 @@
     },
     "data":[
       {
-        "line_title":"PWD Commissioner's Office",
+        "name":"PWD Commissioner's Office",
         "line_type":"data",
         "fy-2":3571066,
         "fy-1":2841754,
@@ -73,7 +73,7 @@
         "fy+1":2740140
       },
       {
-        "line_title":"Building/Facility Maintenance",
+        "name":"Building/Facility Maintenance",
         "line_type":"data",
         "fy-2":3349142,
         "fy-1":2286572,
@@ -81,7 +81,7 @@
         "fy+1":2757333
       },
       {
-        "line_title":"Engineering",
+        "name":"Engineering",
         "line_type":"data",
         "fy-2":2293508,
         "fy-1":1670878,
@@ -89,7 +89,7 @@
         "fy+1":1501277
       },
       {
-        "line_title":"Construction Management",
+        "name":"Construction Management",
         "line_type":"data",
         "fy-2":2324772,
         "fy-1":4690789,
@@ -97,7 +97,7 @@
         "fy+1":2914503
       },
       {
-        "line_title":"Highway Field Operations",
+        "name":"Highway Field Operations",
         "line_type":"data",
         "fy-2":18016298,
         "fy-1":21060512,
@@ -105,7 +105,7 @@
         "fy+1":19736189
       },
       {
-        "line_title":"Bridge Operations/Maintenance",
+        "name":"Bridge Operations/Maintenance",
         "line_type":"data",
         "fy-2":1972448,
         "fy-1":2713515,
@@ -113,7 +113,7 @@
         "fy+1":1818082
       },
       {
-        "line_title":"Street Lights",
+        "name":"Street Lights",
         "line_type":"data",
         "fy-2":12147672,
         "fy-1":10712131,
@@ -121,7 +121,7 @@
         "fy+1":11502749
       },
       {
-        "line_title":"Waste Reduction",
+        "name":"Waste Reduction",
         "line_type":"data",
         "fy-2":38503590,
         "fy-1":39078603,
@@ -129,7 +129,7 @@
         "fy+1":40805575
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":82178496,
         "fy-1":85054754,
@@ -152,7 +152,7 @@
     },
     "data":[
       {
-        "line_title":"Home Composting",
+        "name":"Home Composting",
         "line_type":"data",
         "fy-2":14910,
         "fy-1":5565,
@@ -160,7 +160,7 @@
         "fy+1":10000
       },
       {
-        "line_title":"Municipal Recycling",
+        "name":"Municipal Recycling",
         "line_type":"data",
         "fy-2":13126,
         "fy-1":0,
@@ -168,7 +168,7 @@
         "fy+1":10000
       },
       {
-        "line_title":"Spectacle Island",
+        "name":"Spectacle Island",
         "line_type":"data",
         "fy-2":0,
         "fy-1":210000,
@@ -176,7 +176,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":28036,
         "fy-1":215565,
@@ -236,6 +236,7 @@
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",

@@ -56,6 +56,7 @@
     "table_title":"Program History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",
@@ -178,10 +179,10 @@
             {
               "line_type":"data",
               "line_data":"# of missed trash requests received.",
-              "fy-2":"15127",
-              "fy-1":"11332",
-              "fy-0":"12000",
-              "fy+1":"1200"
+              "fy-2":"15,127",
+              "fy-1":"11,332",
+              "fy-0":"12,000",
+              "fy+1":"1,200"
             },
             {
               "line_type":"data",

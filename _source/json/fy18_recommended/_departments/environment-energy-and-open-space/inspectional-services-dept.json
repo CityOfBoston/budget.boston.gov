@@ -62,7 +62,7 @@
     },
     "data":[
       {
-        "line_title":"ISD Commissioner's Office",
+        "name":"ISD Commissioner's Office",
         "line_type":"data",
         "fy-2":802695,
         "fy-1":1109917,
@@ -70,7 +70,7 @@
         "fy+1":1225752
       },
       {
-        "line_title":"ISD Administration and Finance",
+        "name":"ISD Administration and Finance",
         "line_type":"data",
         "fy-2":3552570,
         "fy-1":3399462,
@@ -78,7 +78,7 @@
         "fy+1":3487909
       },
       {
-        "line_title":"Buildings and Structures",
+        "name":"Buildings and Structures",
         "line_type":"data",
         "fy-2":6038443,
         "fy-1":6360690,
@@ -86,7 +86,7 @@
         "fy+1":6171154
       },
       {
-        "line_title":"Field Services",
+        "name":"Field Services",
         "line_type":"data",
         "fy-2":6307644,
         "fy-1":7362854,
@@ -94,7 +94,7 @@
         "fy+1":7628714
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":16701352,
         "fy-1":18232923,
@@ -117,7 +117,7 @@
     },
     "data":[
       {
-        "line_title":"Animal Control Fund",
+        "name":"Animal Control Fund",
         "line_type":"data",
         "fy-2":196807,
         "fy-1":331604,
@@ -125,7 +125,7 @@
         "fy+1":300000
       },
       {
-        "line_title":"Foreclosure Fund",
+        "name":"Foreclosure Fund",
         "line_type":"data",
         "fy-2":169660,
         "fy-1":154485,
@@ -133,7 +133,7 @@
         "fy+1":15700
       },
       {
-        "line_title":"Weights & Measures",
+        "name":"Weights & Measures",
         "line_type":"data",
         "fy-2":78439,
         "fy-1":109869,
@@ -141,7 +141,7 @@
         "fy+1":89182
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":444906,
         "fy-1":595958,
@@ -204,6 +204,7 @@
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",

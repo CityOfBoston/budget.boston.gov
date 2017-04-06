@@ -56,6 +56,7 @@
     "table_title":"Program History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",
@@ -167,8 +168,8 @@
               "line_data":"New healthcare savings achieved through the Public Employee Committee (PEC).",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"2000000",
-              "fy+1":"3200000"
+              "fy-0":"2,000,000",
+              "fy+1":"3,200,000"
             }
           ]
         }

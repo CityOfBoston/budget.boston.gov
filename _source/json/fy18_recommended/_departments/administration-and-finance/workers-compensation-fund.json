@@ -32,7 +32,7 @@
     },
     "data":[
       {
-        "line_title":"Workers' Compensation Fund",
+        "name":"Workers' Compensation Fund",
         "line_type":"data",
         "fy-2":1865720,
         "fy-1":1328170,
@@ -40,7 +40,7 @@
         "fy+1":2200000
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":1865720,
         "fy-1":1328170,
@@ -70,16 +70,16 @@
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":1019072,
-      "fy-1":888861,
+      "fy-2":1865720,
+      "fy-1":1243739,
       "fy-0":2200000,
       "fy+1":0
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":1019072,
-      "fy-1":973292,
+      "fy-2":1865720,
+      "fy-1":1328170,
       "fy-0":2200000,
       "fy+1":2200000
     }

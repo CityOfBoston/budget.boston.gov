@@ -49,7 +49,7 @@
     },
     "data":[
       {
-        "line_title":"Housing and Neighborhood Preservation",
+        "name":"Housing and Neighborhood Preservation",
         "line_type":"data",
         "fy-2":5500000,
         "fy-1":0,
@@ -57,7 +57,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":5500000,
         "fy-1":0,

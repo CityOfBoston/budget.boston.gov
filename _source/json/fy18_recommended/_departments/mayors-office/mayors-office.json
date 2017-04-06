@@ -33,7 +33,7 @@
     },
     "data":[
       {
-        "line_title":"Mayor's Administration",
+        "name":"Mayor's Administration",
         "line_type":"data",
         "fy-2":1222981,
         "fy-1":1056163,
@@ -41,7 +41,7 @@
         "fy+1":1176580
       },
       {
-        "line_title":"Mayor's Executive",
+        "name":"Mayor's Executive",
         "line_type":"data",
         "fy-2":521583,
         "fy-1":333987,
@@ -49,7 +49,7 @@
         "fy+1":357465
       },
       {
-        "line_title":"Mayor's Policy and Planning",
+        "name":"Mayor's Policy and Planning",
         "line_type":"data",
         "fy-2":477957,
         "fy-1":959204,
@@ -57,7 +57,7 @@
         "fy+1":1439055
       },
       {
-        "line_title":"New Urban Mechanics",
+        "name":"New Urban Mechanics",
         "line_type":"data",
         "fy-2":277978,
         "fy-1":280703,
@@ -65,7 +65,7 @@
         "fy+1":394536
       },
       {
-        "line_title":"Mayor's Communications",
+        "name":"Mayor's Communications",
         "line_type":"data",
         "fy-2":0,
         "fy-1":603653,
@@ -73,7 +73,7 @@
         "fy+1":792304
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":2500499,
         "fy-1":3233710,
@@ -96,7 +96,7 @@
     },
     "data":[
       {
-        "line_title":"Chief Resilience Officer Grant",
+        "name":"Chief Resilience Officer Grant",
         "line_type":"data",
         "fy-2":0,
         "fy-1":105685,
@@ -104,7 +104,7 @@
         "fy+1":26740
       },
       {
-        "line_title":"Earned Indirect",
+        "name":"Earned Indirect",
         "line_type":"data",
         "fy-2":0,
         "fy-1":0,
@@ -112,7 +112,7 @@
         "fy+1":223516
       },
       {
-        "line_title":"Harvard Business School Service",
+        "name":"Harvard Business School Service",
         "line_type":"data",
         "fy-2":88912,
         "fy-1":83077,
@@ -120,7 +120,7 @@
         "fy+1":90247
       },
       {
-        "line_title":"Innovation Delivery Team",
+        "name":"Innovation Delivery Team",
         "line_type":"data",
         "fy-2":0,
         "fy-1":411310,
@@ -128,7 +128,7 @@
         "fy+1":709621
       },
       {
-        "line_title":"Innovations in American Government",
+        "name":"Innovations in American Government",
         "line_type":"data",
         "fy-2":7046,
         "fy-1":0,
@@ -136,7 +136,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Policy Research Grant",
+        "name":"Policy Research Grant",
         "line_type":"data",
         "fy-2":0,
         "fy-1":0,
@@ -144,7 +144,7 @@
         "fy+1":25137
       },
       {
-        "line_title":"Public Service Fellowship",
+        "name":"Public Service Fellowship",
         "line_type":"data",
         "fy-2":0,
         "fy-1":0,
@@ -152,7 +152,7 @@
         "fy+1":25137
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":95958,
         "fy-1":600072,
@@ -211,6 +211,7 @@
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",

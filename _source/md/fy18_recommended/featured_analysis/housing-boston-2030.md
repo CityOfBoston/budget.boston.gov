@@ -15,7 +15,7 @@ components:
 - intro:
   - title: Housing a changing City - Boston 2030
     short_desc: >
-      In 2014, Mayor Walsh released Housing a Changing City: Boston 2030, the
+      In 2014, Mayor Walsh released Housing a Changing City - Boston 2030, the
       Administration’s comprehensive plan to accommodate Boston's rapid growth 
       and stabilize the housing market over the next 15 years. 
     description: >

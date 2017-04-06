@@ -56,6 +56,7 @@
     "table_title":"Program History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",
@@ -267,8 +268,8 @@
               "line_data":"Requisition to Purchase Order savings in dollars.",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"30000",
-              "fy+1":"30000"
+              "fy-0":"30,000",
+              "fy+1":"30,000"
             }
           ]
         }

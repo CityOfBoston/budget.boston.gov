@@ -56,6 +56,7 @@
     "table_title":"Program History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",
@@ -178,10 +179,10 @@
             {
               "line_type":"data",
               "line_data":"# of street light outage constituent requests received.",
-              "fy-2":"4726",
-              "fy-1":"5000",
-              "fy-0":"5000",
-              "fy+1":"5000"
+              "fy-2":"4,726",
+              "fy-1":"5,000",
+              "fy-0":"5,000",
+              "fy+1":"5,000"
             },
             {
               "line_type":"data",

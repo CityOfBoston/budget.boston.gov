@@ -44,7 +44,7 @@
     },
     "data":[
       {
-        "line_title":"Veterans' Services",
+        "name":"Veterans' Services",
         "line_type":"data",
         "fy-2":4442074,
         "fy-1":3948303,
@@ -52,7 +52,7 @@
         "fy+1":4708453
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":4442074,
         "fy-1":3948303,
@@ -109,6 +109,7 @@
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",

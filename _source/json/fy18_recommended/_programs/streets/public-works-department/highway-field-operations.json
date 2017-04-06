@@ -56,6 +56,7 @@
     "table_title":"Program History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",
@@ -159,8 +160,8 @@
               "line_data":"Average personnel hours on a hokey route (hand cleaning streets/sidewalks).",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"1000",
-              "fy+1":"1000"
+              "fy-0":"1,000",
+              "fy+1":"1,000"
             },
             {
               "line_type":"data",
@@ -202,18 +203,18 @@
             {
               "line_type":"data",
               "line_data":"# of pothole repair requests received.",
-              "fy-2":"3161",
-              "fy-1":"2344",
-              "fy-0":"2300",
-              "fy+1":"2300"
+              "fy-2":"3,161",
+              "fy-1":"2,344",
+              "fy-0":"2,300",
+              "fy+1":"2,300"
             },
             {
               "line_type":"data",
               "line_data":"# of snow plowing requests received.",
-              "fy-2":"30462",
-              "fy-1":"4469",
-              "fy-0":"5000",
-              "fy+1":"5000"
+              "fy-2":"30,462",
+              "fy-1":"4,469",
+              "fy-0":"5,000",
+              "fy+1":"5,000"
             },
             {
               "line_type":"data",

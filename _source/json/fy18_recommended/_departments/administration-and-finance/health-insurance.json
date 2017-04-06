@@ -32,7 +32,7 @@
     },
     "data":[
       {
-        "line_title":"Health Insurance",
+        "name":"Health Insurance",
         "line_type":"data",
         "fy-2":180006658,
         "fy-1":191265768,
@@ -40,7 +40,7 @@
         "fy+1":216851225
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":180006658,
         "fy-1":191265768,

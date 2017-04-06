@@ -50,7 +50,7 @@
     },
     "data":[
       {
-        "line_title":"Law Operations",
+        "name":"Law Operations",
         "line_type":"data",
         "fy-2":1926683,
         "fy-1":1806057,
@@ -58,7 +58,7 @@
         "fy+1":1220489
       },
       {
-        "line_title":"Litigation",
+        "name":"Litigation",
         "line_type":"data",
         "fy-2":2894424,
         "fy-1":1921743,
@@ -66,7 +66,7 @@
         "fy+1":2580041
       },
       {
-        "line_title":"Government Services",
+        "name":"Government Services",
         "line_type":"data",
         "fy-2":1162282,
         "fy-1":1301992,
@@ -74,7 +74,7 @@
         "fy+1":2049372
       },
       {
-        "line_title":"Office of Gaming and Accountability",
+        "name":"Office of Gaming and Accountability",
         "line_type":"data",
         "fy-2":9173,
         "fy-1":722987,
@@ -82,7 +82,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":5992562,
         "fy-1":5752779,
@@ -105,7 +105,7 @@
     },
     "data":[
       {
-        "line_title":"Third Party Property Damages",
+        "name":"Third Party Property Damages",
         "line_type":"data",
         "fy-2":0,
         "fy-1":27014,
@@ -113,7 +113,7 @@
         "fy+1":500000
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":0,
         "fy-1":27014,
@@ -169,6 +169,7 @@
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",

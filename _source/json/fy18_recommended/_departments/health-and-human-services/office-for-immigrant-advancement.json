@@ -43,7 +43,7 @@
     },
     "data":[
       {
-        "line_title":"Immigrant Advancement",
+        "name":"Immigrant Advancement",
         "line_type":"data",
         "fy-2":362790,
         "fy-1":381363,
@@ -51,7 +51,7 @@
         "fy+1":439937
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":362790,
         "fy-1":381363,
@@ -74,7 +74,7 @@
     },
     "data":[
       {
-        "line_title":"DACA-DAPA Outreach Initiative",
+        "name":"DACA-DAPA Outreach Initiative",
         "line_type":"data",
         "fy-2":0,
         "fy-1":121851,
@@ -82,7 +82,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Immigrant Integration & Empowerment",
+        "name":"Immigrant Integration & Empowerment",
         "line_type":"data",
         "fy-2":43947,
         "fy-1":115893,
@@ -90,7 +90,7 @@
         "fy+1":78163
       },
       {
-        "line_title":"New Americans Library Corners",
+        "name":"New Americans Library Corners",
         "line_type":"data",
         "fy-2":0,
         "fy-1":13193,
@@ -98,7 +98,7 @@
         "fy+1":41660
       },
       {
-        "line_title":"New Bostonians Contributions",
+        "name":"New Bostonians Contributions",
         "line_type":"data",
         "fy-2":445702,
         "fy-1":322582,
@@ -106,7 +106,7 @@
         "fy+1":366000
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":489649,
         "fy-1":573519,
@@ -159,6 +159,7 @@
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",

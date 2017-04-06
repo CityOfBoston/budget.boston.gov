@@ -56,6 +56,7 @@
     "table_title":"Program History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",
@@ -178,10 +179,10 @@
             {
               "line_type":"data",
               "line_data":"Number of individuals following BPD Twitter feed.",
-              "fy-2":"302769",
-              "fy-1":"350995",
-              "fy-0":"450000",
-              "fy+1":"434000"
+              "fy-2":"302,769",
+              "fy-1":"350,995",
+              "fy-0":"450,000",
+              "fy+1":"434,000"
             }
           ]
         }
@@ -207,9 +208,9 @@
             {
               "line_type":"data",
               "line_data":"Part 1 Crimes - Total.",
-              "fy-2":"18064",
-              "fy-1":"18373",
-              "fy-0":"19310",
+              "fy-2":"18,064",
+              "fy-1":"18,373",
+              "fy-0":"19,310",
               "fy+1":""
             },
             {
@@ -223,9 +224,9 @@
             {
               "line_type":"data",
               "line_data":"Total arrests.",
-              "fy-2":"14958",
-              "fy-1":"12642",
-              "fy-0":"11600",
+              "fy-2":"14,958",
+              "fy-1":"12,642",
+              "fy-0":"11,600",
               "fy+1":""
             }
           ]

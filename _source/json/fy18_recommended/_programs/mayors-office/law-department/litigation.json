@@ -56,6 +56,7 @@
     "table_title":"Program History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",
@@ -157,10 +158,10 @@
             {
               "line_type":"data",
               "line_data":"New cases handled-Actual.",
-              "fy-2":"1798",
-              "fy-1":"1234",
-              "fy-0":"1992",
-              "fy+1":"1992"
+              "fy-2":"1,798",
+              "fy-1":"1,234",
+              "fy-0":"1,992",
+              "fy+1":"1,992"
             }
           ]
         }
@@ -186,10 +187,10 @@
             {
               "line_type":"data",
               "line_data":"Affirmative recovery judgments and settlements-Actual.",
-              "fy-2":"671076",
-              "fy-1":"722217",
-              "fy-0":"323700",
-              "fy+1":"323700"
+              "fy-2":"671,076",
+              "fy-1":"722,217",
+              "fy-0":"323,700",
+              "fy+1":"323,700"
             }
           ]
         }

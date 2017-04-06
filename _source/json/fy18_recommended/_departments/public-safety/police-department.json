@@ -73,7 +73,7 @@
     },
     "data":[
       {
-        "line_title":"Police Commissioner's Office",
+        "name":"Police Commissioner's Office",
         "line_type":"data",
         "fy-2":8444527,
         "fy-1":8621069,
@@ -81,7 +81,7 @@
         "fy+1":7914616
       },
       {
-        "line_title":"BAT-Operations",
+        "name":"BAT-Operations",
         "line_type":"data",
         "fy-2":19645566,
         "fy-1":19483314,
@@ -89,7 +89,7 @@
         "fy+1":20818913
       },
       {
-        "line_title":"BAT-Admin and Technology",
+        "name":"BAT-Admin and Technology",
         "line_type":"data",
         "fy-2":45857879,
         "fy-1":45643618,
@@ -97,7 +97,7 @@
         "fy+1":51683475
       },
       {
-        "line_title":"Bureau of Professional Development",
+        "name":"Bureau of Professional Development",
         "line_type":"data",
         "fy-2":7954912,
         "fy-1":8056091,
@@ -105,7 +105,7 @@
         "fy+1":7391955
       },
       {
-        "line_title":"Bureau of Field Services",
+        "name":"Bureau of Field Services",
         "line_type":"data",
         "fy-2":183019618,
         "fy-1":185672652,
@@ -113,7 +113,7 @@
         "fy+1":215600302
       },
       {
-        "line_title":"Bureau of Professional Standards",
+        "name":"Bureau of Professional Standards",
         "line_type":"data",
         "fy-2":8001451,
         "fy-1":8465414,
@@ -121,7 +121,7 @@
         "fy+1":7586349
       },
       {
-        "line_title":"Bureau of Investigative Services",
+        "name":"Bureau of Investigative Services",
         "line_type":"data",
         "fy-2":61083835,
         "fy-1":69615348,
@@ -129,7 +129,7 @@
         "fy+1":59425903
       },
       {
-        "line_title":"Bureau of Intelligence and Analysis",
+        "name":"Bureau of Intelligence and Analysis",
         "line_type":"data",
         "fy-2":3303107,
         "fy-1":3330338,
@@ -137,7 +137,7 @@
         "fy+1":2958678
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":337310895,
         "fy-1":348887844,
@@ -160,7 +160,7 @@
     },
     "data":[
       {
-        "line_title":"Abekam Foundation",
+        "name":"Abekam Foundation",
         "line_type":"data",
         "fy-2":5000,
         "fy-1":0,
@@ -168,7 +168,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Academy Revolving Fund",
+        "name":"Academy Revolving Fund",
         "line_type":"data",
         "fy-2":36320,
         "fy-1":86897,
@@ -176,7 +176,7 @@
         "fy+1":100000
       },
       {
-        "line_title":"Boston Multi-Cultural Advocacy Support",
+        "name":"Boston Multi-Cultural Advocacy Support",
         "line_type":"data",
         "fy-2":219150,
         "fy-1":209701,
@@ -184,7 +184,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Boston Reentry Initiative",
+        "name":"Boston Reentry Initiative",
         "line_type":"data",
         "fy-2":979673,
         "fy-1":1112055,
@@ -192,7 +192,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Bullet Proof Vests Program",
+        "name":"Bullet Proof Vests Program",
         "line_type":"data",
         "fy-2":8582,
         "fy-1":0,
@@ -200,7 +200,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Byrne JAG Reallocation",
+        "name":"Byrne JAG Reallocation",
         "line_type":"data",
         "fy-2":0,
         "fy-1":0,
@@ -208,7 +208,7 @@
         "fy+1":32478
       },
       {
-        "line_title":"Canine Revolving Fund",
+        "name":"Canine Revolving Fund",
         "line_type":"data",
         "fy-2":26197,
         "fy-1":39999,
@@ -216,7 +216,7 @@
         "fy+1":75000
       },
       {
-        "line_title":"Cold Case Project",
+        "name":"Cold Case Project",
         "line_type":"data",
         "fy-2":63169,
         "fy-1":0,
@@ -224,7 +224,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Community Based Violence Prevention",
+        "name":"Community Based Violence Prevention",
         "line_type":"data",
         "fy-2":622456,
         "fy-1":331874,
@@ -232,7 +232,7 @@
         "fy+1":398613
       },
       {
-        "line_title":"COPS Hiring Program (CHRP)",
+        "name":"COPS Hiring Program (CHRP)",
         "line_type":"data",
         "fy-2":1302861,
         "fy-1":747138,
@@ -240,7 +240,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Coverdell N.F.S.I.",
+        "name":"Coverdell N.F.S.I.",
         "line_type":"data",
         "fy-2":131105,
         "fy-1":96732,
@@ -248,7 +248,7 @@
         "fy+1":12500
       },
       {
-        "line_title":"DMH/Jail Diversion Program",
+        "name":"DMH/Jail Diversion Program",
         "line_type":"data",
         "fy-2":83748,
         "fy-1":66185,
@@ -256,7 +256,7 @@
         "fy+1":120000
       },
       {
-        "line_title":"DNA Laboratory Initiative",
+        "name":"DNA Laboratory Initiative",
         "line_type":"data",
         "fy-2":248166,
         "fy-1":175283,
@@ -264,7 +264,7 @@
         "fy+1":385128
       },
       {
-        "line_title":"Downtown Boston Business Improv",
+        "name":"Downtown Boston Business Improv",
         "line_type":"data",
         "fy-2":0,
         "fy-1":11701,
@@ -272,7 +272,7 @@
         "fy+1":150000
       },
       {
-        "line_title":"EOPSS BRIC Allocation",
+        "name":"EOPSS BRIC Allocation",
         "line_type":"data",
         "fy-2":0,
         "fy-1":0,
@@ -280,7 +280,7 @@
         "fy+1":396334
       },
       {
-        "line_title":"EOPSS JAG Youth Engagement",
+        "name":"EOPSS JAG Youth Engagement",
         "line_type":"data",
         "fy-2":0,
         "fy-1":42661,
@@ -288,7 +288,7 @@
         "fy+1":27996
       },
       {
-        "line_title":"First Responder Naloxone",
+        "name":"First Responder Naloxone",
         "line_type":"data",
         "fy-2":49624,
         "fy-1":0,
@@ -296,7 +296,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Hackney Revolving Fund",
+        "name":"Hackney Revolving Fund",
         "line_type":"data",
         "fy-2":38206,
         "fy-1":74806,
@@ -304,7 +304,7 @@
         "fy+1":100000
       },
       {
-        "line_title":"Injury Surveillance Project",
+        "name":"Injury Surveillance Project",
         "line_type":"data",
         "fy-2":4978,
         "fy-1":4511,
@@ -312,7 +312,7 @@
         "fy+1":0
       },
       {
-        "line_title":"JAG Equipment Grant",
+        "name":"JAG Equipment Grant",
         "line_type":"data",
         "fy-2":0,
         "fy-1":28203,
@@ -320,7 +320,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Justice & Mental Health Expansion Project",
+        "name":"Justice & Mental Health Expansion Project",
         "line_type":"data",
         "fy-2":92937,
         "fy-1":74140,
@@ -328,7 +328,7 @@
         "fy+1":114286
       },
       {
-        "line_title":"Justice Assistance Grant (JAG)",
+        "name":"Justice Assistance Grant (JAG)",
         "line_type":"data",
         "fy-2":591057,
         "fy-1":623517,
@@ -336,7 +336,7 @@
         "fy+1":732939
       },
       {
-        "line_title":"Massachusetts Office for Victims Assistance",
+        "name":"Massachusetts Office for Victims Assistance",
         "line_type":"data",
         "fy-2":0,
         "fy-1":105346,
@@ -344,7 +344,7 @@
         "fy+1":0
       },
       {
-        "line_title":"National Crime Statistics Exchange",
+        "name":"National Crime Statistics Exchange",
         "line_type":"data",
         "fy-2":0,
         "fy-1":0,
@@ -352,7 +352,7 @@
         "fy+1":1241441
       },
       {
-        "line_title":"National Forum Capacity Building Demonstration",
+        "name":"National Forum Capacity Building Demonstration",
         "line_type":"data",
         "fy-2":194475,
         "fy-1":239784,
@@ -360,7 +360,7 @@
         "fy+1":0
       },
       {
-        "line_title":"NEU ALERT- Active Shooter",
+        "name":"NEU ALERT- Active Shooter",
         "line_type":"data",
         "fy-2":0,
         "fy-1":62091,
@@ -368,7 +368,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Nuestra Comunidad Development Corp",
+        "name":"Nuestra Comunidad Development Corp",
         "line_type":"data",
         "fy-2":6825,
         "fy-1":905,
@@ -376,7 +376,7 @@
         "fy+1":0
       },
       {
-        "line_title":"OCEDTF: Fugitive Unit Vehicles",
+        "name":"OCEDTF: Fugitive Unit Vehicles",
         "line_type":"data",
         "fy-2":0,
         "fy-1":55173,
@@ -384,7 +384,7 @@
         "fy+1":0
       },
       {
-        "line_title":"OJJDP Yth Violence Prevention Enhancement Project",
+        "name":"OJJDP Yth Violence Prevention Enhancement Project",
         "line_type":"data",
         "fy-2":0,
         "fy-1":0,
@@ -392,7 +392,7 @@
         "fy+1":65787
       },
       {
-        "line_title":"Police Auction",
+        "name":"Police Auction",
         "line_type":"data",
         "fy-2":0,
         "fy-1":0,
@@ -400,7 +400,7 @@
         "fy+1":4007
       },
       {
-        "line_title":"Police Fitness Center Revolving Fund",
+        "name":"Police Fitness Center Revolving Fund",
         "line_type":"data",
         "fy-2":0,
         "fy-1":167275,
@@ -408,7 +408,7 @@
         "fy+1":250000
       },
       {
-        "line_title":"Port Security",
+        "name":"Port Security",
         "line_type":"data",
         "fy-2":2770,
         "fy-1":50589,
@@ -416,7 +416,7 @@
         "fy+1":39689
       },
       {
-        "line_title":"PSAP - Emergency",
+        "name":"PSAP - Emergency",
         "line_type":"data",
         "fy-2":2352763,
         "fy-1":3147889,
@@ -424,7 +424,7 @@
         "fy+1":2248440
       },
       {
-        "line_title":"Safe & Successful Youth Initiative",
+        "name":"Safe & Successful Youth Initiative",
         "line_type":"data",
         "fy-2":20703,
         "fy-1":0,
@@ -432,7 +432,7 @@
         "fy+1":851809
       },
       {
-        "line_title":"Shannon Community Safety",
+        "name":"Shannon Community Safety",
         "line_type":"data",
         "fy-2":1460743,
         "fy-1":1380195,
@@ -440,7 +440,7 @@
         "fy+1":1242494
       },
       {
-        "line_title":"Smart Policing",
+        "name":"Smart Policing",
         "line_type":"data",
         "fy-2":143062,
         "fy-1":165466,
@@ -448,7 +448,7 @@
         "fy+1":142092
       },
       {
-        "line_title":"Social Research in Forensic",
+        "name":"Social Research in Forensic",
         "line_type":"data",
         "fy-2":4353,
         "fy-1":4059,
@@ -456,7 +456,7 @@
         "fy+1":0
       },
       {
-        "line_title":"State 911 Training Grant",
+        "name":"State 911 Training Grant",
         "line_type":"data",
         "fy-2":62897,
         "fy-1":156192,
@@ -464,7 +464,7 @@
         "fy+1":750000
       },
       {
-        "line_title":"Sustained Traffic Enforcement-STEP",
+        "name":"Sustained Traffic Enforcement-STEP",
         "line_type":"data",
         "fy-2":123783,
         "fy-1":232528,
@@ -472,7 +472,7 @@
         "fy+1":204740
       },
       {
-        "line_title":"US Marshal's Vehicle Retrofit",
+        "name":"US Marshal's Vehicle Retrofit",
         "line_type":"data",
         "fy-2":14994,
         "fy-1":0,
@@ -480,7 +480,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Violence Against Women",
+        "name":"Violence Against Women",
         "line_type":"data",
         "fy-2":46583,
         "fy-1":54401,
@@ -488,7 +488,7 @@
         "fy+1":16147
       },
       {
-        "line_title":"Walk Boston",
+        "name":"Walk Boston",
         "line_type":"data",
         "fy-2":0,
         "fy-1":15023,
@@ -496,7 +496,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":8937180,
         "fy-1":9562319,
@@ -557,6 +557,7 @@
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",

@@ -42,7 +42,7 @@
     },
     "data":[
       {
-        "line_title":"Homeland Security",
+        "name":"Homeland Security",
         "line_type":"data",
         "fy-2":464649,
         "fy-1":650928,
@@ -50,7 +50,7 @@
         "fy+1":637209
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":464649,
         "fy-1":650928,
@@ -73,7 +73,7 @@
     },
     "data":[
       {
-        "line_title":"Emergency Management Performance Grant",
+        "name":"Emergency Management Performance Grant",
         "line_type":"data",
         "fy-2":59586,
         "fy-1":70814,
@@ -81,7 +81,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Regional Catastrophic Grant Program",
+        "name":"Regional Catastrophic Grant Program",
         "line_type":"data",
         "fy-2":2117758,
         "fy-1":87935,
@@ -89,7 +89,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Transit Security Grant",
+        "name":"Transit Security Grant",
         "line_type":"data",
         "fy-2":62675,
         "fy-1":0,
@@ -97,7 +97,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Urban Areas Security (UASI)",
+        "name":"Urban Areas Security (UASI)",
         "line_type":"data",
         "fy-2":19953220,
         "fy-1":7086503,
@@ -105,7 +105,7 @@
         "fy+1":11164466
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":22193239,
         "fy-1":7245252,
@@ -158,6 +158,7 @@
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",

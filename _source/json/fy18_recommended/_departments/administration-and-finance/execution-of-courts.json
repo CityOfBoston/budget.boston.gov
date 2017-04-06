@@ -32,7 +32,7 @@
     },
     "data":[
       {
-        "line_title":"Execution of Courts",
+        "name":"Execution of Courts",
         "line_type":"data",
         "fy-2":9698310,
         "fy-1":10454319,
@@ -40,7 +40,7 @@
         "fy+1":5000000
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":9698310,
         "fy-1":10454319,
@@ -70,16 +70,16 @@
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":6488522,
-      "fy-1":7747705,
+      "fy-2":9698310,
+      "fy-1":10454319,
       "fy-0":5000000,
       "fy+1":5000000
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":6488522,
-      "fy-1":7747705,
+      "fy-2":9698310,
+      "fy-1":10454319,
       "fy-0":5000000,
       "fy+1":5000000
     }

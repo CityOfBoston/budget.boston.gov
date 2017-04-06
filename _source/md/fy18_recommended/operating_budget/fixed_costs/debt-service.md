@@ -35,51 +35,6 @@ components:
       name: Back to all expenditures
       link: /operating-budget
     columns:
-      - "Category": Redemption of City loans
-        "FY15 Actual": $
-        "FY16 Actual": $
-        "FY17 Budget": $
-        "FY18 Budget": $
-      - "Category": Interest payments
-        "FY15 Actual": $
-        "FY16 Actual": $
-        "FY17 Budget": $
-        "FY18 Budget": $
-      - "Category": Temporary notes - RANs
-        "FY15 Actual": $
-        "FY16 Actual": $
-        "FY17 Budget": $
-        "FY18 Budget": $
-      - "Category": Cost of issuance - RANs
-        "FY15 Actual": $
-        "FY16 Actual": $
-        "FY17 Budget": $
-        "FY18 Budget": $
-      - "Category": MWPAT principal
-        "FY15 Actual": $
-        "FY16 Actual": $
-        "FY17 Budget": $
-        "FY18 Budget": $
-      - "Category": MWPAT interest
-        "FY15 Actual": $
-        "FY16 Actual": $
-        "FY17 Budget": $
-        "FY18 Budget": $
-      - "Category": Section 108 - Dudley Sq. Modern
-        "FY15 Actual": $
-        "FY16 Actual": $
-        "FY17 Budget": $
-        "FY18 Budget": $
-      - "Category": Debt service sinking funds
-        "FY15 Actual": $
-        "FY16 Actual": $
-        "FY17 Budget": $
-        "FY18 Budget": $
-      - "Category": COB lease pmt. - Bolling Muni. Bldg.
-        "FY15 Actual": $
-        "FY16 Actual": $
-        "FY17 Budget": $
-        "FY18 Budget": $
       - "Category": Totals
         "FY15 Actual": $137.84
         "FY16 Actual": $148.01

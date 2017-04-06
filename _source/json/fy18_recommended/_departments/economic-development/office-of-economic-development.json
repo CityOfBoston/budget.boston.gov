@@ -52,7 +52,7 @@
     },
     "data":[
       {
-        "line_title":"Economic Development",
+        "name":"Economic Development",
         "line_type":"data",
         "fy-2":566884,
         "fy-1":680543,
@@ -60,7 +60,7 @@
         "fy+1":811615
       },
       {
-        "line_title":"Boston Residents Jobs Policy",
+        "name":"Boston Residents Jobs Policy",
         "line_type":"data",
         "fy-2":432876,
         "fy-1":406174,
@@ -68,7 +68,7 @@
         "fy+1":639543
       },
       {
-        "line_title":"Small and Local Business",
+        "name":"Small and Local Business",
         "line_type":"data",
         "fy-2":552934,
         "fy-1":473064,
@@ -76,7 +76,7 @@
         "fy+1":1022234
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":1552694,
         "fy-1":1559781,
@@ -99,7 +99,7 @@
     },
     "data":[
       {
-        "line_title":"CDBG",
+        "name":"CDBG",
         "line_type":"data",
         "fy-2":0,
         "fy-1":0,
@@ -107,7 +107,7 @@
         "fy+1":3616973
       },
       {
-        "line_title":"Choice Neighborhood Implementation",
+        "name":"Choice Neighborhood Implementation",
         "line_type":"data",
         "fy-2":0,
         "fy-1":0,
@@ -115,7 +115,7 @@
         "fy+1":0
       },
       {
-        "line_title":"EDIC",
+        "name":"EDIC",
         "line_type":"data",
         "fy-2":0,
         "fy-1":3031,
@@ -123,7 +123,7 @@
         "fy+1":500000
       },
       {
-        "line_title":"Section 108 (Unrestricted)",
+        "name":"Section 108 (Unrestricted)",
         "line_type":"data",
         "fy-2":0,
         "fy-1":0,
@@ -131,7 +131,7 @@
         "fy+1":317500
       },
       {
-        "line_title":"Section 108 Unrestricted Fund",
+        "name":"Section 108 Unrestricted Fund",
         "line_type":"data",
         "fy-2":0,
         "fy-1":0,
@@ -139,7 +139,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":0,
         "fy-1":3031,
@@ -192,6 +192,7 @@
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",
