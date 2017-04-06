@@ -35,13 +35,10 @@ components:
       state of good repair. As Boston works to expand access to make Boston's neighborhoods 
       interconnected for all modes of travel, including driving, cycling, and walking, it is 
       important to ensure that our roadways are designed to maximize the safety of such modes 
-      of travel. Clear lane markings including:</p>
-      <ul>
-        <li>crosswalks;</li>
-        <li>"Don't Block the Box" markings at key intersections; and</li>
-        <li>well marked bike lanes with appropriate insignia all help to reduce collisions, 
-        making our roadways safer for all users.</li>
-      </ul>
+      of travel. Clear lane markings including crosswalks, "Don't Block the Box" markings 
+      at key intersections, and well marked bike lanes with appropriate insignia all help to 
+      reduce collisions, making our roadways safer for all users.
+      </p>
   - col: >
       <h5>Repairing sidewalks</h5>
       <p>This FY18 budget builds on past investments in basic city services that have improved 
