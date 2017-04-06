@@ -68,11 +68,10 @@ components:
       in costs.</p>
 - text_col_2:
   - col: >
-    <a href="http://placehold.it"><img src="http://placehold.it/300x400"></a>
-    <p><em>Figure 5 -  1.5% Average Growth for Other 42 Departments (Not Education or 
-    Public Safety)</em></p>
+      <a href="http://placehold.it"><img src="http://placehold.it/300x400"></a></p>
+      <p><em>Figure 5 -  1.5% Average Growth for Other 42 Departments (Not Education or 
+      Public Safety)</em></p>
   - col: >
-    <a href="http://placehold.it"><img src="http://placehold.it/300x400"></a>
-    <p><em>Figure 6 - FY18 Costs Avoided through Savings Initiatives</em></p>
-  
+      <a href="http://placehold.it"><img src="http://placehold.it/300x400"></a>
+      <p><em>Figure 6 - FY18 Costs Avoided through Savings Initiatives</em></p>
 ---

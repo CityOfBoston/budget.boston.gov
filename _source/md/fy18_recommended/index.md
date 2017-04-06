@@ -23,12 +23,12 @@ components:
       in key initiatives and more fully supports Boston's neighborhoods. The 
       proposed budget:
       <ul>
-       <li>builds on the Walsh Administration's strong fiscal 
-       management record;</li>
-       <li>maintains high levels of support for educating Boston's students 
-       and keeping the City of Boston safe;</li>
-       <li>expands upon strategic initiatives to achieve cost savings; and</li>
-       <li>positions the City to manage through instability at the national level.</li>
+      <li>builds on the Walsh Administration's strong fiscal 
+      management record;</li>
+      <li>maintains high levels of support for educating Boston's students 
+      and keeping the City of Boston safe;</li>
+      <li>expands upon strategic initiatives to achieve cost savings; and</li>
+      <li>positions the City to manage through instability at the national level.</li>
       </ul>
     sidebar_menu: true
 - text_block:
@@ -43,7 +43,7 @@ components:
       flexibility in the face of continuing uncertainty at other levels of government. Despite 
       these challenges, the budget makes strong statements about the City’s priorities, as is 
       reflected in the proposed investments.
-- text-col_2:
+- text_col_2:
   - col: >
       <h5>Expaning on savings</h5>
       <p>Even with strong growth in locally derived revenues, it is only through continued 
@@ -63,27 +63,27 @@ components:
       <h5>Taking advantage of data</h5>
       <p>In contrast, Mayor Walsh is proposing data-driven investments that meet the core 
       needs of Bostonians, including:</p>
-        <ul>
-          <li>targeting research-backed education investments - including extending the 
-          school day for 15,000 students - to close achievement and opportunity gaps;</li>
-          <li>directing educational resources to students most in need, including 3,000 
-          BPS students experiencing homelessness;</li>
-          <li>building on early success from the Mayor’s homeless action plan implementation;</li>
-          <li>further extending access to addiction treatment services;</li>
-          <li>using data to change the way Boston deploys emergency services to Boston 
-          Common and Recovery Road;</li>
-          <li>making sure that city streets in every neighborhood are clean and safe with 
-          revitalized lane markings and crosswalks;</li>
-          <li>continuing efforts to diversify Boston’s Police force by adding police 
-          cadets;</li>
-          <li>ensuring that Boston’s open spaces are among the nation’s most equitable 
-          and accessible;</li>
-          <li>supporting local artists through grantmaking and residencies;</li>
-          <li>launching infrastructure projects driven by Imagine Boston 2030 and Go Boston 
-          2030, moving from engagement and planning to action; and</li>
-          <li>setting funding aside for future projects coming out of the BuildBPS engagement 
-          process and partnerships with the Massachusetts School Building Authority (MSBA).</li>
-        </ul>
+      <ul>
+      <li>targeting research-backed education investments - including extending the 
+      school day for 15,000 students - to close achievement and opportunity gaps;</li>
+      <li>directing educational resources to students most in need, including 3,000 
+      BPS students experiencing homelessness;</li>
+      <li>building on early success from the Mayor’s homeless action plan implementation;</li>
+      <li>further extending access to addiction treatment services;</li>
+      <li>using data to change the way Boston deploys emergency services to Boston 
+      Common and Recovery Road;</li>
+      <li>making sure that city streets in every neighborhood are clean and safe with 
+      revitalized lane markings and crosswalks;</li>
+      <li>continuing efforts to diversify Boston’s Police force by adding police 
+      cadets;</li>
+      <li>ensuring that Boston’s open spaces are among the nation’s most equitable 
+      and accessible;</li>
+      <li>supporting local artists through grantmaking and residencies;</li>
+      <li>launching infrastructure projects driven by Imagine Boston 2030 and Go Boston 
+      2030, moving from engagement and planning to action; and</li>
+      <li>setting funding aside for future projects coming out of the BuildBPS engagement 
+      process and partnerships with the Massachusetts School Building Authority (MSBA).</li>
+      </ul>
 - spanning_image:
   - title: Lorem ipsum title
     desc: This is the description for the spanning image
@@ -127,18 +127,17 @@ components:
       level requires increased stability and strong fiscal management at the City level. Mayor 
       Walsh’s FY18 budget continues the fiscal discipline that was recently praised by 
       rating agencies by:</p>
-        <ul>
-          <li>paying down the City’s long-term pension and OBEB obligations;</li>
-          <li>managing personnel and health costs;</li>
-          <li>continuing savings initiatives;</li>
-          <li>maintaining conservative fiscal management policies; and</li>
-          <li>maximizing revenue from local receipt sources.</li>
-        </ul>
+      <ul>
+      <li>paying down the City’s long-term pension and OBEB obligations;</li>
+      <li>managing personnel and health costs;</li>
+      <li>continuing savings initiatives;</li>
+      <li>maintaining conservative fiscal management policies; and</li>
+      <li>maximizing revenue from local receipt sources.</li>
+      </ul>
       <p>In their credit rating affirming Boston’s Aaa rating with a stable outlook, Moody’s 
-      wrote: "The Aaa rating reflects the city's strong fiscal management and stable 
+      wrote: "The AAA rating reflects the city's strong fiscal management and stable 
       financial position." Disciplined financial practices have better positioned Boston 
       to manage through changes in state and federal policy and funding levels.</p>  
-
 - grid:
   - grid_title: Revenue
   - title: Revenue overview
@@ -162,25 +161,25 @@ components:
 - text_block:
   - title: Imagine Boston Capital Plan
     body: >
-      <p>Over 14,000 Boston voices shaped the Mayor’s vision for Boston in 2030. They envisioned a city 
+      Over 14,000 Boston voices shaped the Mayor’s vision for Boston in 2030. They envisioned a city 
       that will expand opportunity for all, support a dynamic economy, enhance quality of life, and 
-      prepare for climate change.</p>
+      prepare for climate change.
 - text_col_2:
   - col: >
       <h5>From idea to action</h5>
-       <p>Imagine Boston 2030 identifies key areas where Boston can take action to:</p>
-       <ul>
-         <li>enhance neighborhoods’ vitality;</li>
-         <li>encourage mixed-use job centers;</li>
-         <li>provide spaces for new housing and jobs as we grow;</li>
-         <li>create a waterfront for future generations; and</li>
-         <li>connect historically underserved neighborhoods to more opportunities.</li>
-       </ul>
-       <p>Mayor Walsh’s $2.08 billion FY18-FY22 Capital Plan moves Boston residents’
-       priorities from idea to action, and invests in creating the city Bostonians imagine 
-       for the future. Under the Imagine Boston 2030 umbrella, the City is investing deeply 
-       in the core goals of BuildBPS, Go Boston 2030, Boston Creates, and Climate 
-       Ready Boston.</p>
+      <p>Imagine Boston 2030 identifies key areas where Boston can take action to:</p>
+      <ul>
+      <li>enhance neighborhoods’ vitality;</li>
+      <li>encourage mixed-use job centers;</li>
+      <li>provide spaces for new housing and jobs as we grow;</li>
+      <li>create a waterfront for future generations; and</li>
+      <li>connect historically underserved neighborhoods to more opportunities.</li>
+      </ul>
+      <p>Mayor Walsh’s $2.08 billion FY18-FY22 Capital Plan moves Boston residents’
+      priorities from idea to action, and invests in creating the city Bostonians imagine 
+      for the future. Under the Imagine Boston 2030 umbrella, the City is investing deeply 
+      in the core goals of BuildBPS, Go Boston 2030, Boston Creates, and Climate 
+      Ready Boston.</p>
    - col:>
        <h5>Investing in core goals</h5>
        <p>Mayor Walsh’s $2.08 billion FY18-FY22 Capital Plan moves Boston residents’ priorities 
@@ -189,29 +188,29 @@ components:
        of BuildBPS, Go Boston 2030, Boston Creates, and Climate Ready Boston.</p>
 - text_block:
   - title: Projects part of City planning
-    body:>
+    body: >
       <p>An estimated 77% of projects in the FY18-22 Capital Plan are aligned with the 
-       City’s planning efforts:</p>
+      City’s planning efforts:</p>
 - text_col_2:
-  - col:>
+  - col: >
       <ul>
-        <li>Mayor Walsh committed $1 billion over ten years to bring Boston's school 
-        buildings into the 21st Century, and this Capital Plan launches that investment 
-        with funding for 21st Century Classrooms, MSBA Accelerated Repair Program 
-        partnerships, completion of projects in the pipeline, and reserves for future 
-        projects coming out of BuildBPS community engagement.</li>
-        <li>Boston will invest $343 million over the next five years in implementing the 
-        core initiatives outlined in Go Boston 2030: streets that are safer for all users 
-        of our roads and sidewalks, particularly pedestrians and cyclists; travel that 
-        is more reliable and predictable; and quality transportation choices that improve 
-        access to interconnect our neighborhoods for all modes of travel.</li>
-        <li>Through the use of Winthrop Square proceeds, City capital dollars, and 
-        leveraging external funds, Mayor Walsh plans to carry out early actions to implement 
-        Imagine Boston 2030’s Open Space goals, including investing in Franklin Park as a 
-        keystone park for the city, completing the Emerald Necklace, and restoring Boston 
-        Common to its full vibrancy.</li>
+      <li>Mayor Walsh committed $1 billion over ten years to bring Boston's school 
+      buildings into the 21st Century, and this Capital Plan launches that investment 
+      with funding for 21st Century Classrooms, MSBA Accelerated Repair Program 
+      partnerships, completion of projects in the pipeline, and reserves for future 
+      projects coming out of BuildBPS community engagement.</li>
+      <li>Boston will invest $343 million over the next five years in implementing the 
+      core initiatives outlined in Go Boston 2030: streets that are safer for all users 
+      of our roads and sidewalks, particularly pedestrians and cyclists; travel that 
+      is more reliable and predictable; and quality transportation choices that improve 
+      access to interconnect our neighborhoods for all modes of travel.</li>
+      <li>Through the use of Winthrop Square proceeds, City capital dollars, and 
+      leveraging external funds, Mayor Walsh plans to carry out early actions to implement 
+      Imagine Boston 2030’s Open Space goals, including investing in Franklin Park as a 
+      keystone park for the city, completing the Emerald Necklace, and restoring Boston 
+      Common to its full vibrancy.</li>
       </ul>
-   - col:>
+   - col: >
        <ul>
          <li>Boston will prepare for climate change by investing City dollars and outside 
          funding to develop more detailed climate plans for Boston neighborhoods, especially 
