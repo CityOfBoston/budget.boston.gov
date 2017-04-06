@@ -1,7 +1,7 @@
 ---
 layout: bos_content
 title: PDFs of the budget book
-permalink: /book-pdfs/
+permalink: /book-pdfs
 components:
 - breadcrumbs:
   - title: Home
