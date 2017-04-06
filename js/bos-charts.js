@@ -78,12 +78,16 @@ if (document.getElementById("aggregateBarChart")) {
       }
     }
     var myChart = new Chart(barChartContext, {
-      type: 'bar',
+      type: 'horizontalBar',
       data: {
         labels: chartLabels,
         datasets: chartDatasets
       },
-      options: ""
+      options: {
+        legend: {
+          display: false
+        },
+      }
     });
   }
 }
