@@ -47,13 +47,24 @@ components:
     src: https://www.boston.gov/sites/default/files/styles/resp_wide_2000x800custom_boston_wide_1x/public/winter_swimming_10.jpg?itok=W91jOE5G&timestamp=1452037695    
     alt: Placeholder alt text
     title: Placeholder image title
-- text_block:
-  - title: Revenue
+- grid:
+  - grid_title: Revenue
+  - title: Revenue overview
     body: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur suscipit id 
-      felis sed iaculis. Sed ac nisl eu lacus porta pharetra. Suspendisse a tortor vel 
-      velit egestas porttitor et a mi. Nam nunc ipsum, elementum a nisi nec, scelerisque 
-      blandit orci. Ut in sollicitudin turpis, non malesuada leo. Morbi vehicula sit 
-      amet est sed luctus. Suspendisse massa turpis, iaculis at fermentum placerat, 
-      scelerisque ultricies est. Nulla facilisi. In scelerisque ornare tincidunt.
+      Two centuries separate the creation of the Boston Common and the Public Garden, 
+      and what a difference that period made.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/revenue-overview
+  - title: Property tax
+    body: >
+      New Two centuries separate the creation of the Boston Common and the Public Garden, 
+      and what a difference that period made.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
+    link: /featured-analysis/property-tax
+  - title: State aid
+    body: >
+      NEW New Two centuries separate the creation of the Boston Common and the Public Garden, 
+      and what a difference that period made.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
+    link: /featured-analysis/state-aid
 ---
