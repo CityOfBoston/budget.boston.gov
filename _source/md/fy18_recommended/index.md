@@ -159,4 +159,70 @@ components:
       and what a difference that period made.
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
     link: /featured-analysis/state-aid
+- text_block:
+  - title: Imagine Boston Capital Plan
+    body: >
+      <p>Over 14,000 Boston voices shaped the Mayor’s vision for Boston in 2030. They envisioned a city 
+      that will expand opportunity for all, support a dynamic economy, enhance quality of life, and 
+      prepare for climate change.</p>
+- text_col_2:
+  - col: >
+      <h5>From idea to action</h5>
+       <p>Imagine Boston 2030 identifies key areas where Boston can take action to:</p>
+       <ul>
+         <li>enhance neighborhoods’ vitality;</li>
+         <li>encourage mixed-use job centers;</li>
+         <li>provide spaces for new housing and jobs as we grow;</li>
+         <li>create a waterfront for future generations; and</li>
+         <li>connect historically underserved neighborhoods to more opportunities.</li>
+       </ul>
+       <p>Mayor Walsh’s $2.08 billion FY18-FY22 Capital Plan moves Boston residents’
+       priorities from idea to action, and invests in creating the city Bostonians imagine 
+       for the future. Under the Imagine Boston 2030 umbrella, the City is investing deeply 
+       in the core goals of BuildBPS, Go Boston 2030, Boston Creates, and Climate 
+       Ready Boston.</p>
+   - col:>
+       <h5>Investing in core goals</h5>
+       <p>Mayor Walsh’s $2.08 billion FY18-FY22 Capital Plan moves Boston residents’ priorities 
+       from idea to action, and invests in creating the city Bostonians imagine for the future. 
+       Under the Imagine Boston 2030 umbrella, the City is investing deeply in the core goals 
+       of BuildBPS, Go Boston 2030, Boston Creates, and Climate Ready Boston.</p>
+- text_block:
+  - title: Projects part of City planning
+    body:>
+      <p>An estimated 77% of projects in the FY18-22 Capital Plan are aligned with the 
+       City’s planning efforts:</p>
+- text_col_2:
+  - col:>
+      <ul>
+        <li>Mayor Walsh committed $1 billion over ten years to bring Boston's school 
+        buildings into the 21st Century, and this Capital Plan launches that investment 
+        with funding for 21st Century Classrooms, MSBA Accelerated Repair Program 
+        partnerships, completion of projects in the pipeline, and reserves for future 
+        projects coming out of BuildBPS community engagement.</li>
+        <li>Boston will invest $343 million over the next five years in implementing the 
+        core initiatives outlined in Go Boston 2030: streets that are safer for all users 
+        of our roads and sidewalks, particularly pedestrians and cyclists; travel that 
+        is more reliable and predictable; and quality transportation choices that improve 
+        access to interconnect our neighborhoods for all modes of travel.</li>
+        <li>Through the use of Winthrop Square proceeds, City capital dollars, and 
+        leveraging external funds, Mayor Walsh plans to carry out early actions to implement 
+        Imagine Boston 2030’s Open Space goals, including investing in Franklin Park as a 
+        keystone park for the city, completing the Emerald Necklace, and restoring Boston 
+        Common to its full vibrancy.</li>
+      </ul>
+   - col:>
+       <ul>
+         <li>Boston will prepare for climate change by investing City dollars and outside 
+         funding to develop more detailed climate plans for Boston neighborhoods, especially 
+         those most at risk for coastal flooding, as recommended in Climate Ready Boston.</li>
+         <li>The Percent for Art Program, funded for the first time in this Capital Plan, 
+         demonstrates the City’s leadership and commitment to sustainable funding for the 
+         arts by setting aside one percent of the City’s annual capital borrowing for the 
+         commissioning of public art.</li>
+       </ul>
+       <p>With investments in roads, bridges, schools, libraries, parks, firehouses, and 
+       community centers, the Imagine Boston Capital Plan touches each neighborhood and shapes 
+       a City that over 14,000 voices told us they want to see.</p>
+
 ---
