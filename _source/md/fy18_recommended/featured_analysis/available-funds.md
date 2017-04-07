@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/available-funds
+permalink: /featured-analysis/available-funds/
 title: Available Funds
 components:
 - breadcrumbs:

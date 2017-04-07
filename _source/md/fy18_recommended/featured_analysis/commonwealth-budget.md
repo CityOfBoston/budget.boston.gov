@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/commonwealth-budget
+permalink: /featured-analysis/commonwealth-budget/
 title: Commonwealth Budget
 components:
 - breadcrumbs:

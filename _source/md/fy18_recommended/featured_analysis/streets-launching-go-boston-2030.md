@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/streets-launching-go-boston-2030
+permalink: /featured-analysis/streets-launching-go-boston-2030/
 title: Launching Go Boston 2030
 components:
 - breadcrumbs:

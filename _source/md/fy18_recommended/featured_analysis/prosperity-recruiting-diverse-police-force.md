@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/prosperity-recruiting-diverse-police-force
+permalink: /featured-analysis/prosperity-recruiting-diverse-police-force/
 title: Recruiting a Diverse Police Force
 components:
 - breadcrumbs:

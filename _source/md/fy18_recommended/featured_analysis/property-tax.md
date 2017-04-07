@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/property-tax
+permalink: /featured-analysis/property-tax/
 title: Property Tax
 components:
 - breadcrumbs:

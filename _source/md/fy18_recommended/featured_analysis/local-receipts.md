@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/local-receipts
+permalink: /featured-analysis/local-receipts/
 title: Local Receipts
 components:
 - breadcrumbs:

@@ -23,14 +23,17 @@ layout: bos_wrapper
 <div class="intro clearfix">
   <div class="column mobile-100 desktop-66-left">
     <h1 class="title">{{ page.name }}</h1>
-    <div class="intro-text supporting-text squiggle-border-bottom">
+    <div class="squiggle-border-bottom">
       <p>
         {{ page.mission }}
       </p>
+      <br />
     </div>
     <div>
-        <b><span> {{ page.head_name }},</span></b>
-        <b><span>{{ page.head_title }}</span></b>
+      <h5>
+        <span>{{ page.head_name }},</span>
+        <span>{{ page.head_title }}</span>
+      </h5>
     </div>
   </div>
   {% include sidebar_menu.html %}
@@ -92,7 +95,7 @@ layout: bos_wrapper
     {% endfor %}
   </tbody>
 </table>
-<br />
+<br /><br />
 
 <div class="sh desktop-100">
   <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
@@ -114,6 +117,7 @@ layout: bos_wrapper
       class="lineChart"
       width="200"
       height="200"
+      large=true
       data-title="{{ page.name }}"
       data-labels="
         {{ page.operating_department.fy-2 }},
@@ -140,9 +144,11 @@ layout: bos_wrapper
       width="200"
       height="200"
       data-labels='
+      {% comment %}
         {{ page.operating_department.fy-2 }},
         {{ page.operating_department.fy-1 }},
         {{ page.operating_department.fy-0 }},
+      {% endcomment %}
         {{ page.operating_department["fy+1"] }}
       '
       data='{
@@ -186,7 +192,7 @@ layout: bos_wrapper
   {% endif %}
 {% endfor %}
 </div>
-<br />
+<br /><br />
 
 {% if page.external_funds_tables %}
   <div class="sh desktop-100">
@@ -230,7 +236,7 @@ layout: bos_wrapper
       {% endfor %}
     </tbody>
   </table>
-  <br />
+  <br /><br />
 {% endif %}
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.bundle.min.js"></script>

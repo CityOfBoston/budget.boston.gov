@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/interest-on-investments
+permalink: /featured-analysis/interest-on-investments/
 title: Interest on Investments
 components:
 - breadcrumbs:

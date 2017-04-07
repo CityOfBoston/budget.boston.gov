@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/unrestricted-general-govt-aid
+permalink: /featured-analysis/unrestricted-general-govt-aid/
 title: Unrestricted General Government Aid (UGGA)
 components:
 - breadcrumbs:

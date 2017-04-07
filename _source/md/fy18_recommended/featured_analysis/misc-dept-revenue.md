@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/misc-dept-revenue
+permalink: /featured-analysis/misc-dept-revenue/
 title: Miscellaneous Department Revenue
 components:
 - breadcrumbs:

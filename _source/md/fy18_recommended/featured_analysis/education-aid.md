@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/education-aid
+permalink: /featured-analysis/education-aid/
 title: Education Aid
 components:
 - breadcrumbs:
