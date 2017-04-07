@@ -170,7 +170,7 @@
     {
       "section_name":"Performance",
       "strategy":[
-        "To efficiently maintain traffic signs and parking meters throughout the city."
+        "To efficiently maintain traffic signs and parking meters throughout the city"
       ],
       "performance_measures":[
         {
@@ -210,7 +210,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Average time to complete a missing sign request (Days).",
+              "line_data":"Average time to complete a missing sign request (days).",
               "fy-2":"17",
               "fy-1":"10",
               "fy-0":"10",
@@ -218,7 +218,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Average time to complete a parking meter repair request (Days).",
+              "line_data":"Average time to complete a parking meter repair request (days).",
               "fy-2":"13",
               "fy-1":"10",
               "fy-0":"10",
@@ -226,7 +226,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Average time to complete a sign repair request (Days).",
+              "line_data":"Average time to complete a sign repair request (days).",
               "fy-2":"10",
               "fy-1":"10",
               "fy-0":"10",

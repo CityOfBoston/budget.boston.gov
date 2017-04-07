@@ -142,18 +142,6 @@
               "operating_impact":"No",
               "fy-0":0,
               "project_total":1000000
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Gov't Effectiveness",
-              "name":"BCYF Curley Community Center",
-              "location":"South Boston",
-              "section_id":"CCC24592",
-              "status":"New Project",
-              "operating_impact":"No",
-              "fy-0":150000,
-              "project_total":15000000
             }
           ]
         },
@@ -218,6 +206,18 @@
               "operating_impact":"No",
               "fy-0":790000,
               "project_total":950000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Health",
+              "name":"BCYF Curley Community Center",
+              "location":"South Boston",
+              "section_id":"CCC24592",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":150000,
+              "project_total":15000000
             },
             {
               "line_type":"data",

@@ -157,6 +157,14 @@
             },
             {
               "line_type":"data",
+              "line_data":"# of constituents served with MOIA- facilitated grants (ENB, MOIA mini-grants, external funds).",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"1,500",
+              "fy+1":"1,500"
+            },
+            {
+              "line_type":"data",
               "line_data":"# of programs developed in communities.",
               "fy-2":"",
               "fy-1":"",
@@ -292,35 +300,6 @@
               "fy-1":"",
               "fy-0":"N/A",
               "fy+1":""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "section_name":"Performance",
-      "strategy":[
-        "Empowerment-develop resources to build and strengthen immigrant organizations capacity"
-      ],
-      "performance_measures":[
-        {
-          "table_header":{
-            "debug":"JPM",
-            "Performance Goals":"Performance Measures",
-            "line_type":"header",
-            "fy-2":"FY15 Actual",
-            "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Target",
-            "fy+1":"FY18 Target"
-          },
-          "data":[
-            {
-              "line_type":"data",
-              "line_data":"# of constituents served with MOIA- facilitated grants (ENB, MOIA mini-grants, external funds).",
-              "fy-2":"",
-              "fy-1":"",
-              "fy-0":"1,500",
-              "fy+1":"1,500"
             }
           ]
         }

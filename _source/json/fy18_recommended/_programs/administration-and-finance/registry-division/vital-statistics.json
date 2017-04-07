@@ -133,7 +133,7 @@
     {
       "section_name":"Performance",
       "strategy":[
-        "Online Death requests."
+        "Online Death requests"
       ],
       "performance_measures":[
         {
@@ -178,7 +178,7 @@
     {
       "section_name":"Performance",
       "strategy":[
-        "Register new records and issue certified copies."
+        "Register new records and issue certified copies"
       ],
       "performance_measures":[
         {

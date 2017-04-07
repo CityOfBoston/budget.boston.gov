@@ -157,27 +157,11 @@
             },
             {
               "line_type":"data",
-              "line_data":"Total adjusted emissions per annual inventory.",
-              "fy-2":"",
-              "fy-1":"",
-              "fy-0":"25% reduction by 2020",
-              "fy+1":"25% reduction by 2020"
-            },
-            {
-              "line_type":"data",
               "line_data":"Total capacity (Megawatts) of solar and combined heat and power systems.",
               "fy-2":"6",
               "fy-1":"6",
               "fy-0":"6",
               "fy+1":"8"
-            },
-            {
-              "line_type":"data",
-              "line_data":"Total emissions per annual inventory.",
-              "fy-2":"",
-              "fy-1":"",
-              "fy-0":"25% reduction by 2020",
-              "fy+1":"25% reduction by 2020"
             }
           ]
         }
@@ -250,8 +234,8 @@
               "line_data":"Mean level at MA DEP Harrison Avenue site (FRM).",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"6.1 (calendar year)",
-              "fy+1":"6 (calendar year)"
+              "fy-0":"6",
+              "fy+1":"6"
             }
           ]
         }
@@ -260,7 +244,7 @@
     {
       "section_name":"Performance",
       "strategy":[
-        "To protect the public from air and noise pollution by enforcing Air Pollution Control Commission and other regulations."
+        "To protect the public from air and noise pollution by enforcing Air Pollution Control Commission and other regulations"
       ],
       "performance_measures":[
         {
@@ -289,7 +273,7 @@
     {
       "section_name":"Performance",
       "strategy":[
-        "To protect wetlands and water quality through administration of the Massachusetts Wetlands Protection Act."
+        "To protect wetlands and water quality through administration of the Massachusetts Wetlands Protection Act"
       ],
       "performance_measures":[
         {
@@ -318,7 +302,7 @@
     {
       "section_name":"Performance",
       "strategy":[
-        "To protect the public from air and noise pollution by enforcing Air Pollution Control Commission and other regulations."
+        "To protect the public from air and noise pollution by enforcing Air Pollution Control Commission and other regulations"
       ],
       "performance_measures":[
         {
@@ -339,7 +323,28 @@
               "fy-1":"75",
               "fy-0":"75",
               "fy+1":"75"
-            },
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To protect the public from air and noise pollution by enforcing Air Pollution Control Commission and other regulations."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "debug":"JPM",
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
             {
               "line_type":"data",
               "line_data":"Noise level complaints responded to.",

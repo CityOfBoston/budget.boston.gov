@@ -133,7 +133,7 @@
     {
       "section_name":"Performance",
       "strategy":[
-        "Improve use of limited city resources."
+        "Improve use of limited city resources"
       ],
       "performance_measures":[
         {
@@ -168,8 +168,8 @@
               "line_data":"New healthcare savings achieved through the Public Employee Committee (PEC).",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"2,000,000",
-              "fy+1":"3,200,000"
+              "fy-0":"2M",
+              "fy+1":"3.2M"
             }
           ]
         }

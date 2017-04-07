@@ -186,11 +186,11 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"Average meter session time.",
+              "line_data":"Average meter session time (hour).",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"",
-              "fy+1":"1 Hour"
+              "fy+1":"1"
             },
             {
               "line_type":"data",

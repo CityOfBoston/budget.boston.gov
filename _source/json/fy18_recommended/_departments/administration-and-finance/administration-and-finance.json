@@ -63,26 +63,26 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":678910,
-      "fy-1":754643,
-      "fy-0":865675,
-      "fy+1":729710
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":255871,
-      "fy-1":133592,
-      "fy-0":205600,
-      "fy+1":335600
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":934781,
-      "fy-1":888235,
-      "fy-0":1071275,
-      "fy+1":1065310
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
@@ -105,43 +105,43 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":678910,
-        "fy-1":754643,
-        "fy-0":865675,
-        "fy+1":729710,
-        "diff":-135965
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":248450,
-        "fy-1":130944,
-        "fy-0":200200,
-        "fy+1":330200,
-        "diff":130000
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
       },
       {
         "line_title":"Supplies and Materials",
         "line_type":"data",
-        "fy-2":3130,
-        "fy-1":1040,
-        "fy-0":3500,
-        "fy+1":3500,
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
         "diff":0
       },
       {
         "line_title":"Current Chgs and Oblig",
         "line_type":"data",
-        "fy-2":2275,
-        "fy-1":1608,
-        "fy-0":1900,
-        "fy+1":1900,
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
         "diff":0
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":2016,
+        "fy-2":0,
         "fy-1":0,
         "fy-0":0,
         "fy+1":0,
@@ -159,11 +159,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":934781,
-        "fy-1":888235,
-        "fy-0":1071275,
-        "fy+1":1065310,
-        "diff":-5965
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
       }
     ]
   }
