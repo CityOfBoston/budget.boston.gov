@@ -222,7 +222,7 @@ layout: bos_wrapper
         {% else %}
           <tr>
             <td>
-              <a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | slugify }}/{{ page.name | replace: "'","" | slugify }}/{{ row.name | replace: "'","" | slugify }}">
+              <a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | replace: "'","" | slugify }}/{{ page.name | replace: "'","" | slugify }}/{{ row.name | replace: "'","" | slugify }}">
                 {{ row.name }}
               </a>
             </td>
