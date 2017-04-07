@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/urban-redevelopment-ch-121a
+permalink: /featured-analysis/urban-redevelopment-ch-121a/
 title: Urban Redevelopment Chapter 121A
 components:
 - breadcrumbs:

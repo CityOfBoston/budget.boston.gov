@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/arts-thriving-community-libraries
+permalink: /featured-analysis/arts-thriving-community-libraries/
 title: Building Thriving Community Libraries
 components:
 - breadcrumbs:

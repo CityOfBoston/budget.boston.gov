@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/housing-homeless-shelter-safety
+permalink: /featured-analysis/housing-homeless-shelter-safety/
 title: Improving Homeless Shelter Service and Safety
 components:
 - breadcrumbs:

@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/city-services
+permalink: /featured-analysis/city-services/
 title: City Services
 components:
 - breadcrumbs:

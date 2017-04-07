@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/housing-boston-2030
+permalink: /featured-analysis/housing-boston-2030/
 title: Housing a Changing City - Boston 2030
 components:
 - breadcrumbs:

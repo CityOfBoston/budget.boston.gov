@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/health-benefits
+permalink: /featured-analysis/health-benefits/
 title: Health Benefits
 components:
 - breadcrumbs:

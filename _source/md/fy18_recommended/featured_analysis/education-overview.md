@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/education-overview
+permalink: /featured-analysis/education-overview/
 title: Education Overview
 components:
 - breadcrumbs:

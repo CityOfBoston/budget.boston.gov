@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/revenue-overview
+permalink: /featured-analysis/revenue-overview/
 title: Revenue overview
 components:
 - breadcrumbs:

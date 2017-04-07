@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/technology-city-services-through-cityscore
+permalink: /featured-analysis/technology-city-services-through-cityscore/
 title: Improving City Services through CityScore
 components:
 - breadcrumbs:

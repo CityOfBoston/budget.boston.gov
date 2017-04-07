@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/arts-investing-in-the-arts
+permalink: /featured-analysis/arts-investing-in-the-arts/
 title: Investing in the Arts
 components:
 - breadcrumbs:

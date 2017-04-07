@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/payments-in-lieu-of-taxes
+permalink: /featured-analysis/payments-in-lieu-of-taxes/
 title: Payments in Lieu of Taxes
 components:
 - breadcrumbs:

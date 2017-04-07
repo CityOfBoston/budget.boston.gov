@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/arts-preserving-bpl-special-collections
+permalink: /featured-analysis/arts-preserving-bpl-special-collections/
 title: Preserving Boston Public Library's Special Collections
 components:
 - breadcrumbs:

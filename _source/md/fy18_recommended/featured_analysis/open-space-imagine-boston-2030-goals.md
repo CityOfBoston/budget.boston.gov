@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/open-space-imagine-boston-2030-goals.md
+permalink: /featured-analysis/open-space-imagine-boston-2030-goals/
 title: Implementing Imagine Boston 2030's Open Space Goals
 components:
 - breadcrumbs:

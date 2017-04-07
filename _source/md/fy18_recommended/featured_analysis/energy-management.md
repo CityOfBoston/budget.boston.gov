@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/energy-management
+permalink: /featured-analysis/energy-management/
 title: Energy Management
 components:
 - breadcrumbs:

@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/penalties-and-interest
+permalink: /featured-analysis/penalties-and-interest/
 title: Penalties and Interest
 components:
 - breadcrumbs:

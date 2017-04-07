@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/health-safety-firefighter-health-safety
+permalink: /featured-analysis/health-safety-firefighter-health-safety/
 title: Promoting Firefighter Health and Safety
 components:
 - breadcrumbs:

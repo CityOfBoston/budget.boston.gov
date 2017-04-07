@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/open-space-accessible-equitable-parks
+permalink: /featured-analysis/open-space-accessible-equitable-parks/
 title: Ensuring Accessible and Equitable Parks
 components:
 - breadcrumbs:

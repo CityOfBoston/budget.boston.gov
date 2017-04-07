@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/health-safety-proactive-agile-ems-through-data
+permalink: /featured-analysis/health-safety-proactive-agile-ems-through-data/
 title: Promoting a Proactive and Agile Boston EMS through Data
 components:
 - breadcrumbs:

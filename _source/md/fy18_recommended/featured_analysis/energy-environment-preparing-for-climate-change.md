@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/energy-environment-preparing-for-climate-change
+permalink: /featured-analysis/energy-environment-preparing-for-climate-change/
 title: Preparing for Climate Change
 components:
 - breadcrumbs:

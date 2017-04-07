@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/parking-fines
+permalink: /featured-analysis/parking-fines/
 title: Parking Fines
 components:
 - breadcrumbs:

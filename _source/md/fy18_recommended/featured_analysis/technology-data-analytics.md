@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/technology-data-analytics
+permalink: /featured-analysis/technology-data-analytics/
 title: Putting Data Analytics to Work
 components:
 - breadcrumbs:

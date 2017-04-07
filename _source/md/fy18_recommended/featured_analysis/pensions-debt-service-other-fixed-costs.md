@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/pensions-debt-service-other-fixed-costs
+permalink: /featured-analysis/pensions-debt-service-other-fixed-costs/
 title: Pensions, Debt Service, and Other Fixed Costs
 components:
 - breadcrumbs:
