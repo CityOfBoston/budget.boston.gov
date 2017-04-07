@@ -25,7 +25,7 @@ components:
     sidebar_menu: true
 - text_block:
   - title: Overview
-- text_col_3
+- text_col_3:
   - col: >
       <h5>Inclusionary Development Program</h5>  
       <p>To ensure all Bostonians benefit from Boston’s strong real estate market, 
@@ -58,17 +58,16 @@ components:
       Walsh introduced in FY16. Combining these general fund dollars with federal grants, 
       state grants, and developer fees allows the City to leverage a wide variety of sources 
       to invest in the creation and preservation of affordable housing citywide.</p>
-
   - col: >
       <h5>Middle-income housing</h5>
       <p>To solve the challenges of creating middle income housing in Boston, Mayor Walsh 
       created the Housing Innovation Lab in 2015, bringing design thinking and innovation 
       to solving these issues.  The lab’s work has led to:</p>
       <ul>
-        <li>the adoption of Boston’s first density bonus program, which will yield hundreds 
-        of privately financed affordable housing units;</li>
-        <li>the launch of a compact living development competition on City-owned vacant land; and</li>
-        <li>support for an accessory dwelling units policy.</li>
+      <li>the adoption of Boston’s first density bonus program, which will yield hundreds 
+      of privately financed affordable housing units;</li>
+      <li>the launch of a compact living development competition on City-owned vacant land; and</li>
+      <li>support for an accessory dwelling units policy.</li>
       </ul>
       <p>As grant funding for this program is exhausted, the City will invest $97,500 in general 
       funds to maintain the operation in FY18. The Lab will continue to serve as an internal 
@@ -76,14 +75,12 @@ components:
       Mayor Walsh’s housing plan.</p>
 - text_block:
   - title: Community Preservation Act
-      body: >
-        <p>On November 8th, Boston’s voters approved the adoption of the Community Preservation 
-        Act (CPA), a program created by the state of Massachusetts to enhance livability and 
-        quality of life in the cities and towns that vote to adopt it. A projected $20 million 
-        per year will be used to create affordable housing, preserve open space and historic 
-        sites, and develop outdoor recreational opportunities.</p>
-        <p>In FY18, a Community Preservation Committee will be established, and will be 
-        responsible for making recommendations on CPA projects to the City Council.</p>
-  
-  
+    body: >
+      <p>On November 8th, Boston’s voters approved the adoption of the Community Preservation 
+      Act (CPA), a program created by the state of Massachusetts to enhance livability and 
+      quality of life in the cities and towns that vote to adopt it. A projected $20 million 
+      per year will be used to create affordable housing, preserve open space and historic 
+      sites, and develop outdoor recreational opportunities.</p>
+      <p>In FY18, a Community Preservation Committee will be established, and will be 
+      responsible for making recommendations on CPA projects to the City Council.</p>
 ---

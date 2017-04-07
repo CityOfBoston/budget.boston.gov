@@ -74,11 +74,11 @@ layout: bos_wrapper
       <tr>
       {% endif %}
         <td>{{ row.source }}</td>
-        <td>${{ row.past_spending | thousands_separated }}</td>
-        <td>${{ row.fy-1 | thousands_separated }}</td>
-        <td>${{ row.fy-0 | thousands_separated }}</td>
-        <td>${{ row["fy+1-4"] | thousands_separated }}</td>
-        <td>${{ row.total | thousands_separated }}</td>
+        <td>{{ row.past_spending | thousands_separated }}</td>
+        <td>{{ row.fy-1 | thousands_separated }}</td>
+        <td>{{ row.fy-0 | thousands_separated }}</td>
+        <td>{{ row["fy+1-4"] | thousands_separated }}</td>
+        <td>{{ row.total | thousands_separated }}</td>
       </tr>
     {% endfor %}
   </tbody>
@@ -115,11 +115,11 @@ layout: bos_wrapper
       <tr>
       {% endif %}
         <td>{{ row.source }}</td>
-        <td>${{ row.existing | thousands_separated }}</td>
-        <td>${{ row.fy-0 | thousands_separated }}</td>
-        <td>${{ row["fy-0++"] | thousands_separated }}</td>
-        <td>${{ row.other | thousands_separated }}</td>
-        <td>${{ row.total | thousands_separated }}</td>
+        <td>{{ row.existing | thousands_separated }}</td>
+        <td>{{ row.fy-0 | thousands_separated }}</td>
+        <td>{{ row["fy-0++"] | thousands_separated }}</td>
+        <td>{{ row.other | thousands_separated }}</td>
+        <td>{{ row.total | thousands_separated }}</td>
       </tr>
     {% endfor %}
   </tbody>

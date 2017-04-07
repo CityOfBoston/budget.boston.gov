@@ -80,11 +80,11 @@ layout: bos_wrapper
           <tr>
             <td>{{ row.line_title }}</td>
           {% endif %}
-          <td>${{ row.fy-2 | thousands_separated }}</td>
-          <td>${{ row.fy-1 | thousands_separated }}</td>
-          <td>${{ row.fy-0 | thousands_separated }}</td>
-          <td>${{ row["fy+1"] | thousands_separated }}</td>
-          <td>${{ row.diff | thousands_separated }}</td>
+          <td>{{ row.fy-2 | thousands_separated }}</td>
+          <td>{{ row.fy-1 | thousands_separated }}</td>
+          <td>{{ row.fy-0 | thousands_separated }}</td>
+          <td>{{ row["fy+1"] | thousands_separated }}</td>
+          <td>{{ row.diff | thousands_separated }}</td>
         </tr>
       {% endfor %}
     </tbody>
@@ -227,10 +227,10 @@ layout: bos_wrapper
               </a>
             </td>
         {% endif %}
-          <td>${{ row.fy-2 | thousands_separated }}</td>
-          <td>${{ row.fy-1 | thousands_separated }}</td>
-          <td>${{ row.fy-0 | thousands_separated }}</td>
-          <td>${{ row["fy+1"] | thousands_separated }}</td>
+          <td>{{ row.fy-2 | thousands_separated }}</td>
+          <td>{{ row.fy-1 | thousands_separated }}</td>
+          <td>{{ row.fy-0 | thousands_separated }}</td>
+          <td>{{ row["fy+1"] | thousands_separated }}</td>
         </tr>
       {% endfor %}
     </tbody>
