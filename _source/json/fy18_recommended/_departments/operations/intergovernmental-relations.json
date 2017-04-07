@@ -24,7 +24,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -33,7 +33,7 @@
     },
     "data":[
       {
-        "line_title":"IGR",
+        "name":"IGR",
         "line_type":"data",
         "fy-2":1145490,
         "fy-1":1176720,
@@ -41,7 +41,7 @@
         "fy+1":1066026
       },
       {
-        "line_title":"Grants Administration",
+        "name":"Grants Administration",
         "line_type":"data",
         "fy-2":91896,
         "fy-1":98344,
@@ -49,7 +49,7 @@
         "fy+1":99594
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":1237386,
         "fy-1":1275064,
@@ -96,12 +96,13 @@
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
   "authorizing_statutes":[],
   "description_of_services":[
-    "The department tracks legislation and policy initiatives that concern the City directly, or urban and regional affairs more generally. It arranges for testimony by the Mayor, or on behalf of the Mayor, at legislative hearings of special concern. It mainta."
+    "The department tracks legislation and policy initiatives that concern the City directly, or urban and regional affairs more generally. It arranges for testimony by the Mayor, or on behalf of the Mayor, at legislative hearings of special concern. It maintains liaison with and coordinates the City&rsquo;s participation in national, state, and municipal organizations and further coordinates with all city departments on policy and budget issues. Intergovernmental Relations also coordinates the City's applications for federal and state grants, seeking out public and private grant opportunities and providing technical support to departments preparing grant applications."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",

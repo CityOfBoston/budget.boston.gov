@@ -72,6 +72,14 @@
         "fy+1":439937
       },
       {
+        "department":"Public Health Commission",
+        "line_type":"data",
+        "fy-2":73827152,
+        "fy-1":76155435,
+        "fy-0":77267200,
+        "fy+1":79077172
+      },
+      {
         "department":"Youth Engagement and Employment",
         "line_type":"data",
         "fy-2":4989679,
@@ -82,10 +90,10 @@
       {
         "total":"Total",
         "line_type":"total",
-        "fy-2":34512204,
-        "fy-1":35455102,
-        "fy-0":37121368,
-        "fy+1":37714748
+        "fy-2":108339356,
+        "fy-1":111610537,
+        "fy-0":114388568,
+        "fy+1":116791920
       }
     ],
     "capital_budget_expenditures":[
@@ -168,6 +176,14 @@
         "fy+1":485823
       },
       {
+        "title":"Public Health Commission",
+        "line_type":"data",
+        "fy-2":728951,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0
+      },
+      {
         "title":"Youth Engagement and Employment",
         "line_type":"data",
         "fy-2":1008139,
@@ -178,7 +194,7 @@
       {
         "total":"Total Cabinet",
         "line_type":"total",
-        "fy-2":3459387,
+        "fy-2":4188338,
         "fy-1":4487874,
         "fy-0":4345014,
         "fy+1":4360033

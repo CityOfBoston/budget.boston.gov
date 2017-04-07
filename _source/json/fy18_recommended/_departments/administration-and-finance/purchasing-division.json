@@ -36,7 +36,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -45,7 +45,7 @@
     },
     "data":[
       {
-        "line_title":"Purchasing Administration",
+        "name":"Purchasing Administration",
         "line_type":"data",
         "fy-2":290972,
         "fy-1":385461,
@@ -53,7 +53,7 @@
         "fy+1":660118
       },
       {
-        "line_title":"Procurement",
+        "name":"Procurement",
         "line_type":"data",
         "fy-2":1036133,
         "fy-1":1110016,
@@ -61,7 +61,7 @@
         "fy+1":900378
       },
       {
-        "line_title":"Central Services",
+        "name":"Central Services",
         "line_type":"data",
         "fy-2":218097,
         "fy-1":276091,
@@ -69,7 +69,7 @@
         "fy+1":214871
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":1545202,
         "fy-1":1771568,
@@ -121,12 +121,13 @@
     "Uniform Procurement Act, M.G.L.A. c. 30B."
   ],
   "description_of_services":[
-    "The Purchasing Department procures all supplies, materials, and equipment for City departments. The department selects vendors through public bidding and processes purchase orders and contracts. The Central Services Unit ensures the efficient and econo."
+    "The Purchasing Department procures all supplies, materials, and equipment for City departments. The department selects vendors through public bidding and processes purchase orders and contracts. The Central Services Unit ensures the efficient and economical disposal of all surplus City property excluding land and buildings, and processes and posts all outgoing, inter-office, and incoming mail. This unit also produces the City Record and operates the Copy Center."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",

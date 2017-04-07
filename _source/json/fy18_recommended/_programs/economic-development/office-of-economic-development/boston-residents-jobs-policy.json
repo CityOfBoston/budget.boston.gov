@@ -56,6 +56,7 @@
     "table_title":"Program History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",
@@ -138,7 +139,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
@@ -157,16 +158,16 @@
             {
               "line_type":"data",
               "line_data":"% of work hours performed by people of color.",
-              "fy-2":"",
-              "fy-1":"",
+              "fy-2":"29%",
+              "fy-1":"29%",
               "fy-0":"40%",
               "fy+1":"40%"
             },
             {
               "line_type":"data",
               "line_data":"% of work hours performed by women.",
-              "fy-2":"",
-              "fy-1":"",
+              "fy-2":"4%",
+              "fy-1":"5%",
               "fy-0":"12%",
               "fy+1":"12%"
             }

@@ -9,35 +9,81 @@ components:
   - title: Budget
     url: "/budget"
   - current: Executive Summary
-  - published: 2/15/17
+  - published: 4/13/17
 - intro:
   - title: Executive Summary
     short_desc: >
-      <div>"This budget is a manifestation of my vision for a
-      Thriving, Healthy, and Innovative Boston."</div>
-      <div>- Martin J. Walsh, Mayor</div>
+      "I am proud to put forth a budget that makes strategic 
+      investments to support Boston's neighborhoods, and builds 
+      on our strong record of fiscal management." - Mayor 
+      Martin J. Walsh
     description: >
-      Mayor Walsh presented a balanced budget that maintains 
-      high levels of support in critical areas such as education 
-      and public safety, makes limited strategic investments,
-      continues the City's commitment to addressing its long-term
-      liabilities, and builds on the Administration's record of 
-      strong fiscal management. This is made possible by the 
-      Administration's achievement of efficiencies and savings. 
-      The City's data-driven managerial approach was recently 
-      validated by the affirmation of Boston's triple A bond rating.
+      Mayor Martin J. Walsh today presented his Fiscal Year 2018 (FY18) budget 
+      proposal, a plan that balances sustainability and increases investments 
+      in key initiatives and more fully supports Boston's neighborhoods. The 
+      proposed budget:
+      <ul>
+      <li>builds on the Walsh Administration's strong fiscal 
+      management record;</li>
+      <li>maintains high levels of support for educating Boston's students 
+      and keeping the City of Boston safe;</li>
+      <li>expands upon strategic initiatives to achieve cost savings; and</li>
+      <li>positions the City to manage through instability at the national level.</li>
+      </ul>
     sidebar_menu: true
 - text_block:
   - title: Introduction
     body: >
-      At the time Mayor Walsh took office, the City of Boston had successfully 
-      weathered the storms of previous recessions. However, several major revenue
-      sources never fully recovered, cost pressures continued to grow, and deferred
-      investments persisted across City government. In its first two years, the 
-      administration has systematically engaged in independent operational reviews
-      and other planning efforts aimed at making government more efficient in order 
-      to address areas needing renewed attention.
-    right_image: http://tomakeawebsite.net/wp-content/uploads/2015/03/Google-charts-plugin.jpg
+      Mayor Martin J. Walsh’s proposed $3.14 billion Fiscal Year 2018 (FY18) budget 
+      balances sustainability, increased investment, and fiscal responsibility. Continuing 
+      trends seen in recent years, the Mayor’s proposed FY18 budget relies on growth in 
+      property tax and other local receipt revenue, but requires control of growth in 
+      departmental spending to offset weak state aid revenue and high fixed cost growth. 
+      Budgetary growth is maintained at a responsible level given the need to maintain 
+      flexibility in the face of continuing uncertainty at other levels of government. Despite 
+      these challenges, the budget makes strong statements about the City’s priorities, as is 
+      reflected in the proposed investments.
+- text_col_2:
+  - col: >
+      <h5>Expaning on savings</h5>
+      <p>Even with strong growth in locally derived revenues, it is only through continued 
+      tightening within City departments that the City will be able to afford new and expanded 
+      investments after reserving for costs associated with collective bargaining, being 
+      assessed for its increasing charter school costs, funding its pension obligations, 
+      and paying its debt service. <blockquote>The FY18 proposal builds off of past budgets by 
+      expanding savings initiatives, and allows for dollars to be used in high impact 
+      areas.</blockquote></p>
+      <h5>Federal challenges</h5>
+      <p>Mayor Walsh’s FY18 budget stands in contrast to national efforts to dismantle the 
+      urban safety net, as seen in the proposed Federal budget. The President has proposed 
+      to eliminate critical federal programs that support the production of affordable housing, 
+      revitalize Boston’s Main Streets, make heating bills affordable to 20,000 Boston
+      residents, and provide Boston students with valuable after-school programs.</p>
+  - col: >
+      <h5>Taking advantage of data</h5>
+      <p>In contrast, Mayor Walsh is proposing data-driven investments that meet the core 
+      needs of Bostonians, including:</p>
+      <ul>
+      <li>targeting research-backed education investments - including extending the 
+      school day for 15,000 students - to close achievement and opportunity gaps;</li>
+      <li>directing educational resources to students most in need, including 3,000 
+      BPS students experiencing homelessness;</li>
+      <li>building on early success from the Mayor’s homeless action plan implementation;</li>
+      <li>further extending access to addiction treatment services;</li>
+      <li>using data to change the way Boston deploys emergency services to Boston 
+      Common and Recovery Road;</li>
+      <li>making sure that city streets in every neighborhood are clean and safe with 
+      revitalized lane markings and crosswalks;</li>
+      <li>continuing efforts to diversify Boston’s Police force by adding police 
+      cadets;</li>
+      <li>ensuring that Boston’s open spaces are among the nation’s most equitable 
+      and accessible;</li>
+      <li>supporting local artists through grantmaking and residencies;</li>
+      <li>launching infrastructure projects driven by Imagine Boston 2030 and Go Boston 
+      2030, moving from engagement and planning to action; and</li>
+      <li>setting funding aside for future projects coming out of the BuildBPS engagement 
+      process and partnerships with the Massachusetts School Building Authority (MSBA).</li>
+      </ul>
 - spanning_image:
   - title: Lorem ipsum title
     desc: This is the description for the spanning image
@@ -47,98 +93,134 @@ components:
     src: https://www.boston.gov/sites/default/files/styles/resp_wide_2000x800custom_boston_wide_1x/public/winter_swimming_10.jpg?itok=W91jOE5G&timestamp=1452037695    
     alt: Placeholder alt text
     title: Placeholder image title
-- text_block:
-  - title: Revenue
+- text_col_3:
+  - col: >
+      <h5>City approach vs. federal approach</h5>
+      <p>The City’s data-driven investment and spending reform approach to budgeting 
+      illustrates an alternative to the type of budget being contemplated at the Federal 
+      level. The City’s spending approach continues to emphasize the preservation and 
+      expansion of offerings to our most vulnerable residents, made possible by the 
+      implementation of strategic reforms. <blockquote>In this budget, the City is avoiding 
+      $60 million in costs through reforms implemented since Mayor Walsh’s first 
+      budget.</blockquote> These strategic savings initiatives allow Boston to meet its 
+      fixed cost obligations and make targeted investments in a thriving, healthy, and 
+      innovative city. Conversely, the President’s proposed budget would eliminate valuable 
+      programs aiding some of our most vulnerable residents.</p>
+  - col: >
+      <h5>Effects of state and federal budget</h5>
+      <p>Boston faces increased uncertainty due to national and state level challenges. 
+      In addition to federal budget proposals to eliminate over $24 million in Community 
+      Development Block Grant funds flowing through the City of Boston, the President has 
+      signed an executive order aimed at cutting funding for “Sanctuary Cities,” and has 
+      supported health care legislation that would have created over a $1 billion hole in 
+      the Commonwealth of Massachusetts’ budget. Further federal divestment from its Public 
+      Housing Authority is also possible, and reduced federal education grants to serve 
+      students in poverty have been proposed.</p>
+      <p>At the state level, Boston continues to struggle with the Commonwealth’s underfunding 
+      of the Charter School Tuition Reimbursement, from which the City is projected to lose 
+      $25 million in FY18 alone.</p>
+  - col: >
+      <h5>Maintaining fiscal discipline</h5>
+      <p>Cities cannot afford to replace this level of funding cuts, and Massachusetts 
+      communities, with revenue tightly constrained by state law, will be particularly challenged 
+      in the event of federal or state divestment. This instability from the federal and state 
+      level requires increased stability and strong fiscal management at the City level. Mayor 
+      Walsh’s FY18 budget continues the fiscal discipline that was recently praised by 
+      rating agencies by:</p>
+      <ul>
+      <li>paying down the City’s long-term pension and OBEB obligations;</li>
+      <li>managing personnel and health costs;</li>
+      <li>continuing savings initiatives;</li>
+      <li>maintaining conservative fiscal management policies; and</li>
+      <li>maximizing revenue from local receipt sources.</li>
+      </ul>
+      <p>In their credit rating affirming Boston’s Aaa rating with a stable outlook, Moody’s 
+      wrote: "The AAA rating reflects the city's strong fiscal management and stable 
+      financial position." Disciplined financial practices have better positioned Boston 
+      to manage through changes in state and federal policy and funding levels.</p>  
+- grid:
+  - grid_title: Revenue
+  - title: Revenue overview
     body: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur suscipit id 
-      felis sed iaculis. Sed ac nisl eu lacus porta pharetra. Suspendisse a tortor vel 
-      velit egestas porttitor et a mi. Nam nunc ipsum, elementum a nisi nec, scelerisque 
-      blandit orci. Ut in sollicitudin turpis, non malesuada leo. Morbi vehicula sit 
-      amet est sed luctus. Suspendisse massa turpis, iaculis at fermentum placerat, 
-      scelerisque ultricies est. Nulla facilisi. In scelerisque ornare tincidunt.
-
-
-
-test_key: >
-
-    The AAA rating reflects the city's strong fiscal management and stable financial position...
-
-    MOODY'S INVESTORS SERVICE quote
-    At the time Mayor Walsh took office, the City of Boston had successfully weathered the storms of previous recessions.
-
-    However, several major revenue sources never fully recovered, cost pressures continued to grow, and deferred investments persisted across City government.
-
-    In its first two years, the administration has systematically engaged in independent operational reviews and other planning efforts aimed at making government more efficient in order to address areas needing renewed attention. 
-
-
-    GROWING FISCAL PRESSURE
-    After conducting operational reviews on the City’s largest departments and reviewing fiscal capacity, the Administration anticipates growing fiscal pressure, resulting from: 
-
-
-    Limited revenue tools beyond property tax “new growth” to address rising costs.
-    The Boston Public Schools’ facilities, operations, human resources, and transportation systems being designed for past generations of students, creating an inefficient cost structure in need of dramatic reform.
-    The City’s Charter School Tuition Assessment having risen by $100 million over the last ten years, while the Charter School Reimbursement Aid to municipalities has been dramatically underfunded, with Boston losing $28 million over the past two fiscal years. 
-    City funding for education (BPS and charter tuition) making up a growing portion of the City’s Budget, up to 40% in FY17, while state education aid has declined to 7.3% of the City’s revenue.
-    The Boston Police Patrolmen’s 2013 arbitration award creating an unsustainable precedent for public safety salary increases that come at the cost of other City spending.
-    The Police Department’s overtime costs having risen to excessive levels, despite higher staffing levels. 
-    Due to generations of underfunding the City’s pension obligations, the City’s pension schedule requiring an 8% increase in our payment each year.
-    Health insurance costs again increasing at a higher rate than other City costs despite successful health care cost containment reforms including the recent Public Employee Committee Agreement anticipating $45 million in new savings.
-
-    FY17 PRIORITIES DETAILS
-
-
-    Increasing access to quality early childhood education
-
-    Mayor Walsh is committed to ensuring that every child in Boston gets off to the right start in life. Currently, 90% of Boston’s 6,000 four year olds are enrolled in a preschool program, whether school or community-based. However, not all programs guarantee well-trained and well-compensated teachers, a high-quality curriculum, a safe and supportive environment and opportunities for family engagement. Mayor Walsh wants to make sure that every preschool option in Boston is high quality and that all four-year olds in the city are able to participate in the best early learning programming in America.
-
-    To achieve this goal:
-
-    Mayor Walsh established a Universal Pre-K (UPK) Advisory Committee to develop initial recommendations for the development of a comprehensive mixed delivery UPK system modeled after BPS’s rigorously tested K1 system. The City is currently exploring ways to initiate quality-improving investments in both school classrooms and community-provider settings;
-    The Mayor’s Office worked with Boston Public Schools to invest in 200 new K1 seats in BPS schools over the last two years. In FY17, the Mayor and Superintendent Chang will invest $3 million to expand BPS K1 programming by another 200 seats; and
-    The Mayor’s Education Cabinet collaborated with the Massachusetts Department of Early Education and Care and counterparts from Lowell, Holyoke, Lawrence and Springfield to secure a $15 million federal preschool expansion grant to improve quality in and expand access to community-based programs. $3.5 million of the grant supported the efforts of Boston-based providers in the current school year. The federal government announced a second year of funding for Boston and its partner cities this past fall.
-    Investing Thoughtfully in Special Education
-
-    BPS is planning to invest in special education in three critical areas: support teams to work directly in schools with teachers and school staff, a new data system that will give parents timely and accurate access to IEP information, and transition services for students as they prepare to move on from BPS. These three investments are part of a broader commitment to provide better, more inclusive special education services in the least restrictive setting and to help all students prepare for success after they leave BPS.
-
-    Launching Excellence for All
-
-    Through a $1.2 M investment in the FY17 Budget, BPS is launching Excellence for All. This initiative grew out of Superintendent Chang’s 100 Day Plan for the start of his tenure in Boston. The initiative is intended to expand access to rigorous curriculum and enrichment experiences for students in Boston Public Schools. During school year 2016-2017 the district will focus on 4th grade classrooms, some in Advanced Work Class (AWC) schools and some in non-AWC schools. As a result of this initiative, hundreds of additional 4th grade students will have access to rigorous academic and enrichment experiences.
-
-    INVESTMENTS OVERVIEW
-
-
-    CHALLENGES
-    Complicating the dual challenges of limited fiscal capacity and the rising expectations for the delivery of City services are two unknown cost drivers that will impact FY17 and beyond.
-
-    Almost all of the City’s collective bargaining agreements will expire in FY17. Salary increases in these agreements will have a direct impact on dollars available in FY17 and in the coming years.
-    In addition, the proposed charter school cap ballot initiative could have a devastating effect on the City’s future finances, unless the State acts to address the charter school cap and transition financing in a way that protects Boston. 
-    The Walsh Administration has been successful in beginning to address these challenges, and this budget builds on that success. But without changing the way we do business, growth in the City’s budget threatens to become unsustainable. For that reason, limited investments in this operating budget must be funded through the enactment of cost saving reforms.
-
-    In FY17, the Walsh Administration will make government work better for those who live and work here by implementing reforms to improve service and reduce costs, continuing fiscally sustainable practices that have been key to the City’s economic success, and taking steps to meet the population’s changing needs. This approach is critical to Boston’s success in growing as a thriving, healthy and innovative city. 
-
-    REVENUE
-
-    EXPENDITURES
-    On the expenditure side, the FY17 budget reflects a $95.4 million (3.3%) growth over FY16 estimated expenditures.
-    Of that growth, City Departments, Boston Public Schools (BPS) and the Public Health Commission (PHC) (net health insurance and pension costs) are growing by $32.0 million or 1.7% over FY16 estimated spending. These departmental increases are low relative to other years due to the expiration of nearly all collective bargaining agreements by early in the fiscal year.
-
-    Only Fire and Emergency Medical Services (EMS) have negotiated wage increases set for FY17, and their budgets reflect that difference.
-
-    To afford limited investments in FY17, the City has implemented a number of cost saving reforms in FY17. Notably, Public Safety and Streets departments will cut employee overtime hours in FY17, saving the City $11.6 million. This budget builds on the success the Police Department has had in FY16 in reducing overtime hours from FY15.
-
-    City departments are saving about $4.7 million by inactivating over 100 vacant positions without impacting service levels. The City is achieving nearly $1 million in utility savings from reduced usage and lower rates, and almost $400,000 in savings by tightening waste and other contracted services budgets. The Public Health Commission is saving $1.4 million through a number of budget tightening measures; and while their budget continues to grow by more than other departments, BPS has committed to reducing costs in several areas, including significant savings in their transportation budget.
-
-    PUBLIC SAFETY OVERTIME
-    The Walsh Administration is fully budgeting for public safety overtime for the first time in more than 15 years.
-
-
-    The School Committee approved a $1.032 billion budget for the Boston Public Schools. This brings total education spending (including district and charter schools) to 40% of the city budget. This budget represents a $15.4 million increase over the previous fiscal year, an amount that could go up when the next round of collective bargaining agreements are negotiated. 
-
-    Read more about how Boston invests in its education system using the links below.
-
-    FOCUS: EDUCATION
-
-    FY17 BUDGET PRIORITIES: THRIVING, HEALTHY, INNOVATIVE)
-
-
+      Two centuries separate the creation of the Boston Common and the Public Garden, 
+      and what a difference that period made.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/revenue-overview
+  - title: Property tax
+    body: >
+      New Two centuries separate the creation of the Boston Common and the Public Garden, 
+      and what a difference that period made.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
+    link: /featured-analysis/property-tax
+  - title: State aid
+    body: >
+      NEW New Two centuries separate the creation of the Boston Common and the Public Garden, 
+      and what a difference that period made.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
+    link: /featured-analysis/state-aid
+- text_block:
+  - title: Imagine Boston Capital Plan
+    body: >
+      Over 14,000 Boston voices shaped the Mayor’s vision for Boston in 2030. They envisioned a city 
+      that will expand opportunity for all, support a dynamic economy, enhance quality of life, and 
+      prepare for climate change.
+- text_col_2:
+   - col: >
+      <h5>From idea to action</h5>
+      <p>Imagine Boston 2030 identifies key areas where Boston can take action to:</p>
+      <ul>
+      <li>enhance neighborhoods’ vitality;</li>
+      <li>encourage mixed-use job centers;</li>
+      <li>provide spaces for new housing and jobs as we grow;</li>
+      <li>create a waterfront for future generations; and</li>
+      <li>connect historically underserved neighborhoods to more opportunities.</li>
+      </ul>
+      <p>Mayor Walsh’s $2.08 billion FY18-FY22 Capital Plan moves Boston residents’
+      priorities from idea to action, and invests in creating the city Bostonians imagine 
+      for the future. Under the Imagine Boston 2030 umbrella, the City is investing deeply 
+      in the core goals of BuildBPS, Go Boston 2030, Boston Creates, and Climate 
+      Ready Boston.</p>
+   - col:>
+       <h5>Investing in core goals</h5>
+       <p>Mayor Walsh’s $2.08 billion FY18-FY22 Capital Plan moves Boston residents’ priorities 
+       from idea to action, and invests in creating the city Bostonians imagine for the future. 
+       Under the Imagine Boston 2030 umbrella, the City is investing deeply in the core goals 
+       of BuildBPS, Go Boston 2030, Boston Creates, and Climate Ready Boston.</p>
+- text_block:
+  - title: Projects part of City planning
+    body: >
+      <p>An estimated 77% of projects in the FY18-22 Capital Plan are aligned with the 
+      City’s planning efforts:</p>
+- text_col_2:
+    - col: >
+        <ul>
+        <li>Mayor Walsh committed $1 billion over ten years to bring Boston's school 
+        buildings into the 21st Century, and this Capital Plan launches that investment 
+        with funding for 21st Century Classrooms, MSBA Accelerated Repair Program 
+        partnerships, completion of projects in the pipeline, and reserves for future 
+        projects coming out of BuildBPS community engagement.</li>
+        <li>Boston will invest $343 million over the next five years in implementing the 
+        core initiatives outlined in Go Boston 2030: streets that are safer for all users 
+        of our roads and sidewalks, particularly pedestrians and cyclists; travel that 
+        is more reliable and predictable; and quality transportation choices that improve 
+        access to interconnect our neighborhoods for all modes of travel.</li>
+        <li>Through the use of Winthrop Square proceeds, City capital dollars, and 
+        leveraging external funds, Mayor Walsh plans to carry out early actions to implement 
+        Imagine Boston 2030’s Open Space goals, including investing in Franklin Park as a 
+        keystone park for the city, completing the Emerald Necklace, and restoring Boston 
+        Common to its full vibrancy.</li>
+        </ul>
+    - col: >
+        <ul>
+        <li>Boston will prepare for climate change by investing City dollars and outside 
+        funding to develop more detailed climate plans for Boston neighborhoods, especially 
+        those most at risk for coastal flooding, as recommended in Climate Ready Boston.</li>
+        <li>The Percent for Art Program, funded for the first time in this Capital Plan, 
+        demonstrates the City’s leadership and commitment to sustainable funding for the 
+        arts by setting aside one percent of the City’s annual capital borrowing for the 
+        commissioning of public art.</li>
+        </ul>
+        <p>With investments in roads, bridges, schools, libraries, parks, firehouses, and 
+        community centers, the Imagine Boston Capital Plan touches each neighborhood and shapes 
+        a City that over 14,000 voices told us they want to see.</p>
 ---

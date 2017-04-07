@@ -24,7 +24,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -33,7 +33,7 @@
     },
     "data":[
       {
-        "line_title":"General Management",
+        "name":"General Management",
         "line_type":"data",
         "fy-2":657346,
         "fy-1":707688,
@@ -41,7 +41,7 @@
         "fy+1":553697
       },
       {
-        "line_title":"Treasury Administration",
+        "name":"Treasury Administration",
         "line_type":"data",
         "fy-2":758290,
         "fy-1":751850,
@@ -49,7 +49,7 @@
         "fy+1":711383
       },
       {
-        "line_title":"General Service/Payroll",
+        "name":"General Service/Payroll",
         "line_type":"data",
         "fy-2":695661,
         "fy-1":693201,
@@ -57,7 +57,7 @@
         "fy+1":662237
       },
       {
-        "line_title":"Special Collections",
+        "name":"Special Collections",
         "line_type":"data",
         "fy-2":723780,
         "fy-1":512653,
@@ -65,7 +65,7 @@
         "fy+1":563068
       },
       {
-        "line_title":"Payment Services",
+        "name":"Payment Services",
         "line_type":"data",
         "fy-2":890801,
         "fy-1":1236455,
@@ -73,7 +73,7 @@
         "fy+1":923869
       },
       {
-        "line_title":"Accounting/Quality Control",
+        "name":"Accounting/Quality Control",
         "line_type":"data",
         "fy-2":343763,
         "fy-1":374515,
@@ -81,7 +81,7 @@
         "fy+1":368029
       },
       {
-        "line_title":"Treasury Accounting",
+        "name":"Treasury Accounting",
         "line_type":"data",
         "fy-2":163589,
         "fy-1":155541,
@@ -89,7 +89,7 @@
         "fy+1":172852
       },
       {
-        "line_title":"Accounts Receivable",
+        "name":"Accounts Receivable",
         "line_type":"data",
         "fy-2":291570,
         "fy-1":312704,
@@ -97,7 +97,7 @@
         "fy+1":379042
       },
       {
-        "line_title":"Trust",
+        "name":"Trust",
         "line_type":"data",
         "fy-2":0,
         "fy-1":184,
@@ -105,7 +105,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":4524800,
         "fy-1":4744791,
@@ -127,26 +127,26 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":3064476,
-      "fy-1":3181844,
-      "fy-0":3360206,
-      "fy+1":3296478
+      "fy-2":1614643,
+      "fy-1":1681439,
+      "fy-0":1836063,
+      "fy+1":1810114
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":1460324,
-      "fy-1":1562947,
-      "fy-0":1025429,
-      "fy+1":1037699
+      "fy-2":1001047,
+      "fy-1":1149872,
+      "fy-0":598549,
+      "fy+1":598549
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":4524800,
-      "fy-1":4744791,
-      "fy-0":4385635,
-      "fy+1":4334177
+      "fy-2":2615690,
+      "fy-1":2831311,
+      "fy-0":2434612,
+      "fy+1":2408663
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
@@ -169,12 +169,13 @@
     "Excise on Boats, Ships and Vessels in Lieu of Local Property Taxes, M.G.L.A. c. 60B."
   ],
   "description_of_services":[
-    "The Treasury Department receives, deposits, and invests funds and pays all warrants, drafts, and orders. The Department issues, redeems, and pays interest on all bonds and notes and maintains custody of all trusts and bequests left to the City. Addition."
+    "The Treasury Department receives, deposits, and invests funds and pays all warrants, drafts, and orders. The Department issues, redeems, and pays interest on all bonds and notes and maintains custody of all trusts and bequests left to the City. Additionally, the Department issues payroll and required federal and state tax forms. The Department issues and collects all current and delinquent tax billings and departmental revenue. The Department also prepares petitions for land court proceedings and municipal liens and processes abatements and refunds. Additionally, the Department prepares tax certifications and tax takings, and researches tax problems."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",

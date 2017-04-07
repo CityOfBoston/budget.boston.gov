@@ -15,7 +15,7 @@
   "source_year":"18",
   "appropriation_code":"Organization 189200",
   "description":[
-    "The mission of this program was to house Boston&rsquo;s workforce through new production of market rate housing, opening up access to the market for moderate and-middle income homebuyers and to produce new affordable housing for lower-wage workers including new supportive housing for Boston&rsquo;s homeless. This program used City-controlled resources including its regulatory powers, real estate assets and funding to leverage significant public and private investments to achieve its goals.  Funding for activities in the Mayor's Boston 2030 plan are now included under the Neighborhood Development Operating Budget in &ldquo;Program 3: Housing Development and Services&ldquo;;."
+    "The mission of this program was to house Boston&rsquo;s workforce through new production of market rate housing, opening up access to the market for moderate and-middle income homebuyers and to produce new affordable housing for lower-wage workers including new supportive housing for Boston&rsquo;s homeless. This program used City-controlled resources including its regulatory powers, real estate assets and funding to leverage significant public and private investments to achieve its goals.  Funding for activities in the Mayor's Boston 2030 plan are now included under the Neighborhood Development Operating Budget in &ldquo;Program 3: Housing Development and Services&rdquo;."
   ],
   "selected_service_indicators":[
     {
@@ -56,6 +56,7 @@
     "table_title":"Program History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",
@@ -138,7 +139,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
@@ -149,7 +150,7 @@
             {
               "line_type":"data",
               "line_data":"Housing Units Permitted: Market-rate.",
-              "fy-2":"3500",
+              "fy-2":"3,500",
               "fy-1":"",
               "fy-0":"",
               "fy+1":""
@@ -167,7 +168,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",

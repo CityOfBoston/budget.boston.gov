@@ -46,7 +46,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -55,7 +55,7 @@
     },
     "data":[
       {
-        "line_title":"Annual Listing",
+        "name":"Annual Listing",
         "line_type":"data",
         "fy-2":540870,
         "fy-1":506691,
@@ -63,7 +63,7 @@
         "fy+1":534712
       },
       {
-        "line_title":"Election Administration",
+        "name":"Election Administration",
         "line_type":"data",
         "fy-2":703866,
         "fy-1":698418,
@@ -71,7 +71,7 @@
         "fy+1":779455
       },
       {
-        "line_title":"Voter Registration",
+        "name":"Voter Registration",
         "line_type":"data",
         "fy-2":277896,
         "fy-1":329741,
@@ -79,7 +79,7 @@
         "fy+1":354637
       },
       {
-        "line_title":"Election Activities",
+        "name":"Election Activities",
         "line_type":"data",
         "fy-2":1810102,
         "fy-1":2239947,
@@ -87,7 +87,7 @@
         "fy+1":2577111
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":3332734,
         "fy-1":3774797,
@@ -109,26 +109,26 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":2623377,
-      "fy-1":2673127,
-      "fy-0":3094855,
-      "fy+1":2987480
+      "fy-2":2316509,
+      "fy-1":2380547,
+      "fy-0":2788304,
+      "fy+1":2669018
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":709357,
-      "fy-1":1101670,
-      "fy-0":1234487,
-      "fy+1":1258435
+      "fy-2":475355,
+      "fy-1":887559,
+      "fy-0":1030487,
+      "fy+1":1042185
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":3332734,
-      "fy-1":3774797,
-      "fy-0":4329342,
-      "fy+1":4245915
+      "fy-2":2791864,
+      "fy-1":3268106,
+      "fy-0":3818791,
+      "fy+1":3711203
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
@@ -140,12 +140,13 @@
     "\"Juries Obligation to Serve, and Lists,\" M.G.L.A. c. 234A, &sect;&sect; 4-6, CBC St. 2 &sect;&sect; 200-245."
   ],
   "description_of_services":[
-    "The Election Department provides for voter registration, maintenance of election equipment, arrangement for and operation of polling places, certification of nomination papers and referendum petitions, tabulations and certification of election results, op."
+    "The Election Department provides for voter registration, maintenance of election equipment, arrangement for and operation of polling places, certification of nomination papers and referendum petitions, tabulations and certification of election results, operation of a public service counter in Boston City Hall, and mailings to residents on voter registration and Election Day activities. The Department also conducts a census of Boston residents ages 17 years and older."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",

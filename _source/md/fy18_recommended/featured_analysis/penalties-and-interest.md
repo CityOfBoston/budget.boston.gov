@@ -15,20 +15,13 @@ components:
 - intro:
   - title: Penalties and interest
     short_desc: >
-      Through operational reviews...
+      Taxpayers are assessed both a penalty and interest for late 
+      payments of property tax bills, motor vehicle excise bills 
+      and other payments.
     description: >
-      Mayor Walsh presented...
+      The City collected $13.1 million in such penalties and interest 
+      in FY15 and $14.5 million in FY16. Actual penalty and interest 
+      collections for FY17 will exceed the budget of $8.5 million and 
+      are projected to be $14.5 million in FY18.
     sidebar_menu: true    
-- text_block:
-  - title: City organizational structure
-    body: >
-      <ul>
-      <li>Treasury Department</li>
-      <li>Auditing Department</li>
-      <li>Assessing Department</li>
-      <li>Office of Budget Management</li>
-      <li>Purchasing Department</li>
-      </ul>
-- text_block:
-  - title: Stra
 ---

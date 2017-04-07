@@ -56,6 +56,7 @@
     "table_title":"Program History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",
@@ -138,7 +139,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
@@ -158,9 +159,9 @@
               "line_type":"data",
               "line_data":"City of Boston money spent with MWBE contracts.",
               "fy-2":"",
-              "fy-1":"7530936",
-              "fy-0":"7500000",
-              "fy+1":"4500000"
+              "fy-1":"7,530,936",
+              "fy-0":"7,500,000",
+              "fy+1":"4,500,000"
             }
           ]
         }
@@ -175,7 +176,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
@@ -186,8 +187,8 @@
             {
               "line_type":"data",
               "line_data":"City of Boston $ spent with MWBE contracts.",
-              "fy-2":"17189115",
-              "fy-1":"7530936",
+              "fy-2":"17,189,115",
+              "fy-1":"7,530,936",
               "fy-0":"",
               "fy+1":""
             }
@@ -204,7 +205,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
@@ -233,7 +234,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
@@ -262,7 +263,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",

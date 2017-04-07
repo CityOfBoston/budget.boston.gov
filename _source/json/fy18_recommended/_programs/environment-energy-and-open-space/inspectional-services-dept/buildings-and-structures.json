@@ -56,6 +56,7 @@
     "table_title":"Program History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",
@@ -138,7 +139,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
@@ -151,8 +152,8 @@
               "line_data":"# long form permits issued.",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"4800",
-              "fy+1":"5000"
+              "fy-0":"4,800",
+              "fy+1":"5,000"
             },
             {
               "line_type":"data",
@@ -167,8 +168,8 @@
               "line_data":"Violations issued.",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"1100",
-              "fy+1":"1300"
+              "fy-0":"1,100",
+              "fy+1":"1,300"
             }
           ]
         }

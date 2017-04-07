@@ -32,6 +32,13 @@ if (document.getElementById("lineChart")) {
         legend: {
           display: false
         },
+        scales: {
+          yAxes: [{
+            ticks: {
+              beginAtZero: true
+            }
+          }]
+        },
       }
     });
   }

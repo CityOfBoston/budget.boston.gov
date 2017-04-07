@@ -32,7 +32,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -41,7 +41,7 @@
     },
     "data":[
       {
-        "line_title":"Labor Relations",
+        "name":"Labor Relations",
         "line_type":"data",
         "fy-2":1364177,
         "fy-1":1310607,
@@ -49,7 +49,7 @@
         "fy+1":1439006
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":1364177,
         "fy-1":1310607,
@@ -98,12 +98,13 @@
     "Duties of Supervisor of Labor Relations, CBC Ord. 5, s. 4."
   ],
   "description_of_services":[
-    "The Office of Labor Relations represents the Mayor and City departments in all labor relations matters before state and federal courts, state agencies, and in various other forums. The Office is responsible for negotiating and administering collective ba."
+    "The Office of Labor Relations represents the Mayor and City departments in all labor relations matters before state and federal courts, state agencies, and in various other forums. The Office is responsible for negotiating and administering collective bargaining agreements with approximately 19 unions covering 7,200 employees. Additionally, the Office advises City managers and supervisors on labor matters regarding policy issues."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",

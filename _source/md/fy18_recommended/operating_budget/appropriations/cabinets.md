@@ -129,7 +129,7 @@ components:
           value: 108339356
           filter: money
         "FY16 Actual":
-          value: 111610573
+          value: 111610537
           filter: money
         "FY17 Budget":
           value: 114388568

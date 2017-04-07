@@ -73,12 +73,10 @@ components:
       the previous quarter, but not less than five cents per gallon. Increases in 
       fuel prices lead to increased jet fuel excise revenue. Jet fuel prices have 
       decreased sharply from their peak in FY12:</p>
-        <ul>
-          <li>Jet fuel excise revenue totaled $29.7 million in FY15 and $36.8 
-          million in FY16 due to a late payment from FY15.</li>
-          <li>The City budgeted $27.7 million in FY17 and the FY18 budget estimates 
-          a decrease to $22.0 million as low fuel prices are expected to continue.</li>
-        </ul>
+      <ul>
+      <li>Jet fuel excise revenue totaled $29.7 million in FY15 and $36.8 million in FY16 due to a late payment from FY15.</li>
+      <li>The City budgeted $27.7 million in FY17 and the FY18 budget estimates a decrease to $22.0 million as low fuel prices are expected to continue.</li>
+      </ul>
       <p>Estimates incorporate fuel price forecasts from the Energy Information 
       Administration (EIA) and air traffic volume from Logan International Airport.</p>
   - col: >

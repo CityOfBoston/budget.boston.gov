@@ -41,7 +41,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -50,7 +50,7 @@
     },
     "data":[
       {
-        "line_title":"Library Administration",
+        "name":"Library Administration",
         "line_type":"data",
         "fy-2":17644624,
         "fy-1":18709845,
@@ -58,7 +58,7 @@
         "fy+1":18584106
       },
       {
-        "line_title":"Community Library Services",
+        "name":"Community Library Services",
         "line_type":"data",
         "fy-2":13683174,
         "fy-1":14425177,
@@ -66,7 +66,7 @@
         "fy+1":15743358
       },
       {
-        "line_title":"Research Services",
+        "name":"Research Services",
         "line_type":"data",
         "fy-2":1963176,
         "fy-1":1727496,
@@ -74,7 +74,7 @@
         "fy+1":1703023
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":33290974,
         "fy-1":34862518,
@@ -97,7 +97,7 @@
     },
     "data":[
       {
-        "line_title":"Boston Public Library Affiliates",
+        "name":"Boston Public Library Affiliates",
         "line_type":"data",
         "fy-2":541207,
         "fy-1":618834,
@@ -105,7 +105,7 @@
         "fy+1":1021486
       },
       {
-        "line_title":"Inter-Library Loan Grant",
+        "name":"Inter-Library Loan Grant",
         "line_type":"data",
         "fy-2":100000,
         "fy-1":100000,
@@ -113,7 +113,7 @@
         "fy+1":100000
       },
       {
-        "line_title":"Library for the Commonwealth",
+        "name":"Library for the Commonwealth",
         "line_type":"data",
         "fy-2":2501881,
         "fy-1":2501882,
@@ -121,7 +121,7 @@
         "fy+1":2501883
       },
       {
-        "line_title":"Other Sources",
+        "name":"Other Sources",
         "line_type":"data",
         "fy-2":2217317,
         "fy-1":3354004,
@@ -129,7 +129,7 @@
         "fy+1":2580365
       },
       {
-        "line_title":"State Aid to Libraries",
+        "name":"State Aid to Libraries",
         "line_type":"data",
         "fy-2":553733,
         "fy-1":782792,
@@ -137,7 +137,7 @@
         "fy+1":678874
       },
       {
-        "line_title":"Trust Fund Income",
+        "name":"Trust Fund Income",
         "line_type":"data",
         "fy-2":2030961,
         "fy-1":2260134,
@@ -145,7 +145,7 @@
         "fy+1":1960732
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":7945099,
         "fy-1":9617646,
@@ -200,12 +200,13 @@
     "Authority of Corporation to Take and Hold Property; Limitation, 1878 Mass. Acts ch. 114 &sect;2."
   ],
   "description_of_services":[
-    "The Boston Public Library system consists of the Central Library at Copley Square, including the Kirstein Business Library, branch libraries located throughout Boston&rsquo;s neighborhoods and one remote storage facility. Library staff assists users in locating."
+    "The Boston Public Library system consists of the Central Library at Copley Square, including the Kirstein Business Library, branch libraries located throughout Boston&rsquo;s neighborhoods and one remote storage facility. Library staff assists users in locating and using resources, and provides public programming, exhibits, and outreach. Internet, wireless, and online technology resources connect people to informational resources aimed at enriching individuals, organizations, and the entire community."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",

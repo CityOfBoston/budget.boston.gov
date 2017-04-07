@@ -20,7 +20,7 @@
   ],
   "selected_performance_strategies":[
     {
-      "program":"Operations",
+      "program":"Elderly Operations",
       "debug":"JCO",
       "strategies":[
         "Keep older adults engaged, informed and connected to resources, services, and programs."
@@ -47,7 +47,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -56,7 +56,7 @@
     },
     "data":[
       {
-        "line_title":"Elderly Administration",
+        "name":"Elderly Administration",
         "line_type":"data",
         "fy-2":752149,
         "fy-1":717725,
@@ -64,7 +64,7 @@
         "fy+1":827716
       },
       {
-        "line_title":"Operations",
+        "name":"Elderly Operations",
         "line_type":"data",
         "fy-2":356280,
         "fy-1":443576,
@@ -72,7 +72,7 @@
         "fy+1":732514
       },
       {
-        "line_title":"Elderly Transportation",
+        "name":"Elderly Transportation",
         "line_type":"data",
         "fy-2":1439809,
         "fy-1":1387659,
@@ -80,7 +80,7 @@
         "fy+1":1475859
       },
       {
-        "line_title":"Programs and Partnerships",
+        "name":"Programs and Partnerships",
         "line_type":"data",
         "fy-2":546854,
         "fy-1":522930,
@@ -88,7 +88,7 @@
         "fy+1":142010
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":3095092,
         "fy-1":3071890,
@@ -111,7 +111,7 @@
     },
     "data":[
       {
-        "line_title":"Area Agency On Aging (AAA)",
+        "name":"Area Agency On Aging (AAA)",
         "line_type":"data",
         "fy-2":3563144,
         "fy-1":3890312,
@@ -119,7 +119,7 @@
         "fy+1":3886088
       },
       {
-        "line_title":"Elderly Universal Fund",
+        "name":"Elderly Universal Fund",
         "line_type":"data",
         "fy-2":53325,
         "fy-1":53667,
@@ -127,7 +127,7 @@
         "fy+1":85000
       },
       {
-        "line_title":"EOEA Formula Grant",
+        "name":"EOEA Formula Grant",
         "line_type":"data",
         "fy-2":705298,
         "fy-1":580116,
@@ -135,7 +135,7 @@
         "fy+1":880879
       },
       {
-        "line_title":"Nutrition Services Incentive Program",
+        "name":"Nutrition Services Incentive Program",
         "line_type":"data",
         "fy-2":892966,
         "fy-1":360975,
@@ -143,7 +143,7 @@
         "fy+1":440000
       },
       {
-        "line_title":"Prevention Wellness Trust Fund",
+        "name":"Prevention Wellness Trust Fund",
         "line_type":"data",
         "fy-2":57724,
         "fy-1":108541,
@@ -151,7 +151,7 @@
         "fy+1":11200
       },
       {
-        "line_title":"Retired Senior Volunteers Program",
+        "name":"Retired Senior Volunteers Program",
         "line_type":"data",
         "fy-2":104980,
         "fy-1":128867,
@@ -159,7 +159,7 @@
         "fy+1":130253
       },
       {
-        "line_title":"Senior Companion Program",
+        "name":"Senior Companion Program",
         "line_type":"data",
         "fy-2":216627,
         "fy-1":253374,
@@ -167,7 +167,7 @@
         "fy+1":250252
       },
       {
-        "line_title":"State Elder Lunch Program",
+        "name":"State Elder Lunch Program",
         "line_type":"data",
         "fy-2":1052867,
         "fy-1":1539404,
@@ -175,7 +175,7 @@
         "fy+1":1363864
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":6646931,
         "fy-1":6915256,
@@ -225,12 +225,13 @@
     "Powers and Duties, CBC Ord. &sect; 12-3.2."
   ],
   "description_of_services":[
-    "Those services which are developed, planned, coordinated, and delivered by the Elderly Commission include assistance in applying for government benefits and community-based services, discount programs, health screening programs, housing programs, transpor."
+    "Those services which are developed, planned, coordinated, and delivered by the Elderly Commission include assistance in applying for government benefits and community-based services, discount programs, health screening programs, housing programs, transportation, advocacy, employment and volunteer programs, counseling services and information and referrals. The Commission also coordinates and monitors neighborhood-based nutrition, legal, health, transportation and other elderly services, and senior centers."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",

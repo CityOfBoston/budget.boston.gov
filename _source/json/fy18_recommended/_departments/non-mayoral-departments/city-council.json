@@ -34,7 +34,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -43,7 +43,7 @@
     },
     "data":[
       {
-        "line_title":"City Council Administration",
+        "name":"City Council Administration",
         "line_type":"data",
         "fy-2":362745,
         "fy-1":338734,
@@ -51,7 +51,7 @@
         "fy+1":358664
       },
       {
-        "line_title":"City Councilors",
+        "name":"City Councilors",
         "line_type":"data",
         "fy-2":4176754,
         "fy-1":4323562,
@@ -59,7 +59,7 @@
         "fy+1":4418092
       },
       {
-        "line_title":"Legislative/Financial Support",
+        "name":"Legislative/Financial Support",
         "line_type":"data",
         "fy-2":521777,
         "fy-1":544154,
@@ -67,7 +67,7 @@
         "fy+1":564021
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":5061276,
         "fy-1":5206450,
@@ -117,12 +117,13 @@
     "District Representation, 1982 Mass. Acts ch. 605; 1991 Mass. Acts ch. 108; 1986 Mass. Acts ch. 343."
   ],
   "description_of_services":[
-    "Members draft and file legislation on a wide range of public affairs in Boston designed to improve the quality of life for its citizens. Each year the Council conducts an extensive series of public hearings to review the Mayor's appropriation request for."
+    "Members draft and file legislation on a wide range of public affairs in Boston designed to improve the quality of life for its citizens. Each year the Council conducts an extensive series of public hearings to review the Mayor's appropriation request for the subsequent fiscal year. After a thorough analysis and determination that the request is fiscally sound, the Council approves an appropriation. Constituent needs are served as directed by each individual councilor."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",

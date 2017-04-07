@@ -17,7 +17,7 @@ layout: bos_wrapper
 </div>
 <div class="breadcrumb-last-updated">
   Last updated:
-  <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2016-04-21T00:00:00-04:00">4/21/16</span>
+  <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2017-04-13T00:00:00-04:00">4/13/17</span>
 </div>
 
 <div class="intro clearfix">
@@ -77,16 +77,16 @@ layout: bos_wrapper
           </td>
       {% endif %}
           <td data-label="{{ page.operating_department.fy-2 }}">
-            ${{ row.fy-2 | thousands_separated }}
+            {{ row.fy-2 | thousands_separated }}
           </td>
           <td data-label="{{ page.operating_department.fy-1 }}">
-            ${{ row.fy-1 | thousands_separated }}
+            {{ row.fy-1 | thousands_separated }}
           </td>
           <td data-label="{{ page.operating_department.fy-0 }}">
-            ${{ row.fy-0 | thousands_separated }}
+            {{ row.fy-0 | thousands_separated }}
           </td>
           <td data-label="{{ page.operating_department['fy+1'] }}">
-            ${{ row["fy+1"] | thousands_separated }}
+            {{ row["fy+1"] | thousands_separated }}
           </td>
       </tr>
     {% endfor %}
@@ -215,16 +215,16 @@ layout: bos_wrapper
             <td data-label="Department"><a href="{{ site.url }}/operating-budget/cabinets/{{ page.name | replace: "'","" | slugify }}/{{ row.title | replace: "'","" | slugify }}">{{ row.title }}</a></td>
           {% endif %}
           <td data-label="{{ page.external_funds.tables_header.fy-2 }}">
-            ${{ row.fy-2 | thousands_separated }}
+            {{ row.fy-2 | thousands_separated }}
           </td>
           <td data-label="{{ page.external_funds_tables.table_header.fy-1 }}">
-            ${{ row.fy-1 | thousands_separated }}
+            {{ row.fy-1 | thousands_separated }}
           </td>
           <td data-label="{{ page.external_funds_tables.table_header.fy-0 }}">
-            ${{ row.fy-0 | thousands_separated }}
+            {{ row.fy-0 | thousands_separated }}
           </td>
           <td data-label="{{ page.external_funds_tables.table_header['fy+1'] }}">
-            ${{ row["fy+1"] | thousands_separated }}
+            {{ row["fy+1"] | thousands_separated }}
           </td>
         </tr>
       {% endfor %}

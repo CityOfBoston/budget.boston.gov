@@ -56,6 +56,7 @@
     "table_title":"Program History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",
@@ -132,13 +133,50 @@
     {
       "section_name":"Performance",
       "strategy":[
+        "Enhance Boston's walkability and neighborhood interconnectedness"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "debug":"JPM",
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of crosswalks in good repair.",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":"1 Hour%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"% of lane lines in good repair.",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"90%",
+              "fy+1":"90%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
         "To efficiently maintain traffic signs and parking meters throughout the city."
       ],
       "performance_measures":[
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",

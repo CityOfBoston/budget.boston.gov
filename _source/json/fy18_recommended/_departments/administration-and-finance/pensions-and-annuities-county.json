@@ -23,7 +23,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -32,7 +32,7 @@
     },
     "data":[
       {
-        "line_title":"Pensions and Annuities - County",
+        "name":"Pensions and Annuities - County",
         "line_type":"data",
         "fy-2":36114,
         "fy-1":36894,
@@ -40,7 +40,7 @@
         "fy+1":100000
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":36114,
         "fy-1":36894,

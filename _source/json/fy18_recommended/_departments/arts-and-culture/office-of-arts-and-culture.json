@@ -34,7 +34,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -43,7 +43,7 @@
     },
     "data":[
       {
-        "line_title":"Arts and Culture",
+        "name":"Arts and Culture",
         "line_type":"data",
         "fy-2":975519,
         "fy-1":1274583,
@@ -51,7 +51,7 @@
         "fy+1":1333930
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":975519,
         "fy-1":1274583,
@@ -74,7 +74,7 @@
     },
     "data":[
       {
-        "line_title":"Artist Resource Desk",
+        "name":"Artist Resource Desk",
         "line_type":"data",
         "fy-2":0,
         "fy-1":0,
@@ -82,7 +82,7 @@
         "fy+1":75513
       },
       {
-        "line_title":"Boston Artists in Residence Program",
+        "name":"Boston Artists in Residence Program",
         "line_type":"data",
         "fy-2":0,
         "fy-1":0,
@@ -90,7 +90,7 @@
         "fy+1":500000
       },
       {
-        "line_title":"Boston Cultural Council",
+        "name":"Boston Cultural Council",
         "line_type":"data",
         "fy-2":77982,
         "fy-1":362328,
@@ -98,7 +98,7 @@
         "fy+1":579000
       },
       {
-        "line_title":"Communications Staff Grant",
+        "name":"Communications Staff Grant",
         "line_type":"data",
         "fy-2":0,
         "fy-1":0,
@@ -106,7 +106,7 @@
         "fy+1":71256
       },
       {
-        "line_title":"Cultural District Initiative",
+        "name":"Cultural District Initiative",
         "line_type":"data",
         "fy-2":0,
         "fy-1":10000,
@@ -114,7 +114,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Emerging Artists Program",
+        "name":"Emerging Artists Program",
         "line_type":"data",
         "fy-2":0,
         "fy-1":5000,
@@ -122,7 +122,7 @@
         "fy+1":5000
       },
       {
-        "line_title":"Grants to Individual Artists",
+        "name":"Grants to Individual Artists",
         "line_type":"data",
         "fy-2":0,
         "fy-1":0,
@@ -130,7 +130,7 @@
         "fy+1":400000
       },
       {
-        "line_title":"N.E. Artists in Residence",
+        "name":"N.E. Artists in Residence",
         "line_type":"data",
         "fy-2":0,
         "fy-1":64375,
@@ -138,7 +138,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Public Art Fund",
+        "name":"Public Art Fund",
         "line_type":"data",
         "fy-2":25107,
         "fy-1":42604,
@@ -146,7 +146,7 @@
         "fy+1":50000
       },
       {
-        "line_title":"Strand Theatre",
+        "name":"Strand Theatre",
         "line_type":"data",
         "fy-2":0,
         "fy-1":0,
@@ -154,7 +154,7 @@
         "fy+1":67654
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":103089,
         "fy-1":484307,
@@ -206,12 +206,13 @@
     "\tEstablishing Arts and Humanities Division, CBC Ord. &sect;&sect; 15-9.1-15-9.5."
   ],
   "description_of_services":[
-    "The Office of Arts and Culture enhances the quality of life, the economy, and the design of the city through the arts. The role of the arts in all aspects of life in Boston is reinforced via equitable access to arts and culture in every community, its pub."
+    "The Office of Arts and Culture enhances the quality of life, the economy, and the design of the city through the arts. The role of the arts in all aspects of life in Boston is reinforced via equitable access to arts and culture in every community, its public institutions, and public places. Key areas of work include support to the cultural sector through grants and programs such as the arts festival, open studios, and the poet laureate; as well as the production and permitting of art in public places via exhibitions, temporary installations, the stewardship of the City&rsquo;s collection of permanent sculpture, memorials and monuments, and the management of the Strand Theater. The mission is articulated in a cultural plan for Boston and is carried out via the implementation of this plan which will foster further investment in the arts community deepen intergovernmental collaborations, address cultural facility development and the support of cultural districts."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",

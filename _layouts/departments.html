@@ -19,7 +19,7 @@ layout: bos_wrapper
 </div>
 <div class="breadcrumb-last-updated">
   Last updated:
-  <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2016-04-21T00:00:00-04:00">4/21/16</span>
+  <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2017-04-13T00:00:00-04:00">4/13/17</span>
 </div>
 
 <div class="intro clearfix">
@@ -80,11 +80,11 @@ layout: bos_wrapper
           <tr>
             <td>{{ row.line_title }}</td>
           {% endif %}
-          <td>${{ row.fy-2 | thousands_separated }}</td>
-          <td>${{ row.fy-1 | thousands_separated }}</td>
-          <td>${{ row.fy-0 | thousands_separated }}</td>
-          <td>${{ row["fy+1"] | thousands_separated }}</td>
-          <td>${{ row.diff | thousands_separated }}</td>
+          <td>{{ row.fy-2 | thousands_separated }}</td>
+          <td>{{ row.fy-1 | thousands_separated }}</td>
+          <td>{{ row.fy-0 | thousands_separated }}</td>
+          <td>{{ row["fy+1"] | thousands_separated }}</td>
+          <td>{{ row.diff | thousands_separated }}</td>
         </tr>
       {% endfor %}
     </tbody>
@@ -207,7 +207,7 @@ layout: bos_wrapper
   <table class="js-table responsive-table responsive-table--horizontal">
     <thead>
       <tr>
-        <th>{{ page.operating_budget.table_header["Program Name"] }}</th>
+        <th>{{ page.operating_budget.table_header.name }}</th>
         <th>{{ page.operating_budget.table_header.fy-2 }}</th>
         <th>{{ page.operating_budget.table_header.fy-1 }}</th>
         <th>{{ page.operating_budget.table_header.fy-0 }}</th>
@@ -218,19 +218,19 @@ layout: bos_wrapper
       {% for row in page.operating_budget.data %}
         {% if row.line_type == 'total' %}
           <tr class="total">
-            <td><strong>{{ row.line_title }}</strong></td>
+            <td><strong>{{ row.name }}</strong></td>
         {% else %}
           <tr>
             <td>
-              <a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | slugify }}/{{ page.name | replace: "'","" | slugify }}/{{ row.line_title | replace: "'","" | slugify }}">
-                {{ row.line_title }}
+              <a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | slugify }}/{{ page.name | replace: "'","" | slugify }}/{{ row.name | replace: "'","" | slugify }}">
+                {{ row.name }}
               </a>
             </td>
         {% endif %}
-          <td>${{ row.fy-2 | thousands_separated }}</td>
-          <td>${{ row.fy-1 | thousands_separated }}</td>
-          <td>${{ row.fy-0 | thousands_separated }}</td>
-          <td>${{ row["fy+1"] | thousands_separated }}</td>
+          <td>{{ row.fy-2 | thousands_separated }}</td>
+          <td>{{ row.fy-1 | thousands_separated }}</td>
+          <td>{{ row.fy-0 | thousands_separated }}</td>
+          <td>{{ row["fy+1"] | thousands_separated }}</td>
         </tr>
       {% endfor %}
     </tbody>
@@ -297,7 +297,7 @@ layout: bos_wrapper
         data='{
           {% for row in page.operating_budget.data %}
             {% if row.line_type == "data" %}
-              "{{ row.line_title | remove: "'" }}":[
+              "{{ row.name | remove: "'" }}":[
                 {{ row.fy-2 }},
                 {{ row.fy-1 }},
                 {{ row.fy-0 }},
@@ -339,7 +339,7 @@ layout: bos_wrapper
 {% if page.selected_performance_strategies %}
 <div class="sh desktop-100">
   <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
-    {{ page.name }} - Performance Strategies
+    {{ page.name }} - Performance Goals
   </h2>
 </div>
 <div class="desktop-100">

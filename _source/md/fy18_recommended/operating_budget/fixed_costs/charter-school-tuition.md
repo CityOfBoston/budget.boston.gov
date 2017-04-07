@@ -12,7 +12,7 @@ components:
     url: "/operating-budget/"
     local: true
   - current: Charter School tuition
-  - published: 2/15/17
+  - published: 4/13/17
 - intro:
   - title: Cabinets
     short_desc: >
