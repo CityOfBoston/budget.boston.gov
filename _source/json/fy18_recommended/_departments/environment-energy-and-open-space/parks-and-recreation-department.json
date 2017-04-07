@@ -46,7 +46,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -202,7 +202,7 @@
     "Generally, 1953 Mass. Acts ch. 473 &sect; 1; CBC Ord. &sect;&sect; 11-10.1-11-10.2(q)."
   ],
   "description_of_services":[
-    "The Department is responsible for 217 City parks, playgrounds and athletic fields, 2 golf courses, 65 squares, 17 fountains, 75 game courts, 16 historic and 3 active cemeteries, urban wilds, 4 High School Athletic Fields, and approximately 125,000 trees,."
+    "The Department is responsible for 217 City parks, playgrounds and athletic fields, 2 golf courses, 65 squares, 17 fountains, 75 game courts, 16 historic and 3 active cemeteries, urban wilds, 4 High School Athletic Fields, and approximately 125,000 trees, all covering 2,346 acres, 1,000 of which comprise the historic Emerald Necklace. In addition, the Parks Department is responsible for more than 35,000 street trees. The department annually beautifies these park and open space areas with ornamental plantings of trees, shrubs, and flowers. The department schedules events and programs for the participation and enjoyment of the public."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",

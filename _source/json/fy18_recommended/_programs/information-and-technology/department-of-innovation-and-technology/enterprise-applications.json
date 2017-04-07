@@ -139,7 +139,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
@@ -184,7 +184,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
@@ -197,8 +197,8 @@
               "line_data":"- % of total requests received over digital channels.",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"",
-              "fy+1":""
+              "fy-0":"1",
+              "fy+1":"1"
             }
           ]
         }
@@ -213,7 +213,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
@@ -226,8 +226,8 @@
               "line_data":"% of applications hosted in the cloud.",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"",
-              "fy+1":""
+              "fy-0":"75%",
+              "fy+1":"75%"
             }
           ]
         }

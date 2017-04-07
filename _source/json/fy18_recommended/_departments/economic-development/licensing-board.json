@@ -16,7 +16,8 @@
   "head_title":Null,
   "appropriation_code":"Appropriation 252",
   "mission":[
-    "The Board grants and regulates various types of alcohol and food licenses for restaurants, nightclubs, private clubs, package stores, hotels, inns, common victuallers (food only), bowling alleys, pool tables, lodging houses, dormitories (fraternities which are a category of dormitory licenses), and fortune tellers. The City of Boston Licensing Board consists of 3 Commissioners. The Commissioners are appointed by the Mayor and serve a 6 year term. The Boston Police officers act as agents of the Board, they report violations of the alcoholic and other laws of the Commonwealth to the Board. The Board holds hearings on these violations and issues penalties.*In FY17 the Licensing Board was added to the Consumer Affairs and Licensing budget."
+    "The Board grants and regulates various types of alcohol and food licenses for restaurants, nightclubs, private clubs, package stores, hotels, inns, common victuallers (food only), bowling alleys, pool tables, lodging houses, dormitories (fraternities which are a category of dormitory licenses), and fortune tellers. The City of Boston Licensing Board consists of 3 Commissioners. The Commissioners are appointed by the Mayor and serve a 6 year term. The Boston Police officers act as agents of the Board, they report violations of the alcoholic and other laws of the Commonwealth to the Board. The Board holds hearings on these violations and issues penalties.",
+    "*In FY17 the Licensing Board was added to the Consumer Affairs and Licensing budget."
   ],
   "selected_performance_strategies":[],
   "operating_budget":{
@@ -24,7 +25,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",

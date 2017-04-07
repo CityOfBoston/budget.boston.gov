@@ -139,7 +139,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
@@ -160,8 +160,8 @@
               "line_data":"% of City buildings with a \"class 1\" BoNET connection.",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"",
-              "fy+1":""
+              "fy-0":"100%",
+              "fy+1":"100%"
             },
             {
               "line_type":"data",
@@ -192,7 +192,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",

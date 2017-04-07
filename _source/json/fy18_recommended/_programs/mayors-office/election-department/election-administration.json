@@ -139,7 +139,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
@@ -153,15 +153,15 @@
               "fy-2":"",
               "fy-1":"",
               "fy-0":"",
-              "fy+1":""
+              "fy+1":"100%"
             },
             {
               "line_type":"data",
               "line_data":"% of mailed ballot requests (absentee and early voting) processed in 48 hours.",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"",
-              "fy+1":""
+              "fy-0":"100%",
+              "fy+1":"100%"
             },
             {
               "line_type":"data",
@@ -169,7 +169,7 @@
               "fy-2":"",
               "fy-1":"",
               "fy-0":"",
-              "fy+1":""
+              "fy+1":"5%"
             },
             {
               "line_type":"data",

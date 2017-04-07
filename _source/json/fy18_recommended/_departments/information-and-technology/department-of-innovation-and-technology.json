@@ -64,7 +64,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -215,7 +215,7 @@
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
   "authorizing_statutes":[],
   "description_of_services":[
-    "The Department of Innovation and Technology (DoIT) improves the delivery of government services to the public through the effective management of the City&rsquo;s existing and emerging technologies. DoIT introduces innovative technologies and processes designed."
+    "The Department of Innovation and Technology (DoIT) improves the delivery of government services to the public through the effective management of the City&rsquo;s existing and emerging technologies. DoIT introduces innovative technologies and processes designed to drive efficiency into government operations. DoIT also provides professional project management and business analysis services, in addition to maintaining the hardware and software platforms necessary to support the daily technical and communication operations of the City. Personnel skilled in programming, analysis, hardware and software support, training, communications, and general technology consulting work with user departments on enhancing and maintaining their information systems."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",

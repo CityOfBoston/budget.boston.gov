@@ -139,7 +139,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
@@ -152,16 +152,16 @@
               "line_data":"# of preventive maintenance/corrective maintenance.",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"",
-              "fy+1":""
+              "fy-0":"1",
+              "fy+1":"1"
             },
             {
               "line_type":"data",
               "line_data":"Data looking at how soon HVAC breakdowns are addressed and corrected.",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"",
-              "fy+1":""
+              "fy-0":"1",
+              "fy+1":"1"
             }
           ]
         }

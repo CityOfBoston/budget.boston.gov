@@ -33,7 +33,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -152,7 +152,7 @@
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
   "authorizing_statutes":[],
   "description_of_services":[
-    "The Mayor&rsquo;s Office of Emergency Management coordinates the City's comprehensive Emergency Management Program, supports line departments in their individual homeland security responsibilities, promotes regular communication across all departments and disci."
+    "The Mayor&rsquo;s Office of Emergency Management coordinates the City's comprehensive Emergency Management Program, supports line departments in their individual homeland security responsibilities, promotes regular communication across all departments and disciplines, and brings departments together to jointly implement a unified citywide strategy for emergency preparedness. The Office also bears primary responsibility for the resource development and management of state and federal funds that support the City&rsquo;s emergency preparedness strategy."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",

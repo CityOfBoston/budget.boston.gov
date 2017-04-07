@@ -34,7 +34,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -153,7 +153,7 @@
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
   "authorizing_statutes":[],
   "description_of_services":[
-    "The Office for Immigrant Advancement provides public education to inform immigrants about City services, information and referral to community services as well as information in conducting outreach to immigrant groups. The Office conducts on-going outrea."
+    "The Office for Immigrant Advancement provides public education to inform immigrants about City services, information and referral to community services as well as information in conducting outreach to immigrant groups. The Office conducts on-going outreach, including surveys to identify concerns and problems that immigrants face in Boston. The Office works with City departments to better reach and serve diverse cultural and linguistic communities and create a welcoming multicultural environment. The Office collaborates with other agencies to promote multiculturalism and understanding of immigrant history."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",
@@ -244,7 +244,7 @@
       "debug":"JEFP",
       "project":"Immigrant Integration & Empowerment",
       "project_mission":[
-        "The Immigrant Integration and Empower Initiative seeks to develop a detailed action plan for all City Departments and launch a citywide media and public relations campaign in mainstream, ethnic, and local media outlets to change the rhetoric about immigrants and maximize engagement and participation, and partner with nonprofits to facilitate four annual &ldquo;Community Leadership Institutes&ldquo;; for immigrant communities that offer leadership training on taking a more active role on decision-making bodies and navigating city government services and resources. Funding is provided by the BARR Foundation that totals $262,500 over a time frame of 30 months."
+        "The Immigrant Integration and Empower Initiative seeks to develop a detailed action plan for all City Departments and launch a citywide media and public relations campaign in mainstream, ethnic, and local media outlets to change the rhetoric about immigrants and maximize engagement and participation, and partner with nonprofits to facilitate four annual &ldquo;Community Leadership Institutes&rdquo; for immigrant communities that offer leadership training on taking a more active role on decision-making bodies and navigating city government services and resources. Funding is provided by the BARR Foundation that totals $262,500 over a time frame of 30 months."
       ]
     },
     {

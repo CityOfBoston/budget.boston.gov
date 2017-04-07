@@ -24,7 +24,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -205,7 +205,7 @@
     "Fiscal Powers and Duties, CBC St. 6 &sect;&sect; 251, 253; Tregor, 1982 Mass. Acts ch. 190, &sect;15; 1986 Mass. Acts ch. 701, &sect;2."
   ],
   "description_of_services":[
-    "The Office of the Mayor coordinates the activities of the Mayor, mayoral commissions, special assistants to the Mayor, and all City departments. Coordination of activities includes the Mayor&rsquo;s scheduling, advance office, speech writing, policy developmen."
+    "The Office of the Mayor coordinates the activities of the Mayor, mayoral commissions, special assistants to the Mayor, and all City departments. Coordination of activities includes the Mayor&rsquo;s scheduling, advance office, speech writing, policy development, communications, and twenty-four hour services. The Office of the Mayor is also charged with communicating mayoral directives and decisions to Cabinet officers and department heads, and coordinating implementation of those decisions."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",

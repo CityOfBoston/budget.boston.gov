@@ -24,7 +24,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -96,7 +96,7 @@
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
   "authorizing_statutes":[],
   "description_of_services":[
-    "The department tracks legislation and policy initiatives that concern the City directly, or urban and regional affairs more generally. It arranges for testimony by the Mayor, or on behalf of the Mayor, at legislative hearings of special concern. It mainta."
+    "The department tracks legislation and policy initiatives that concern the City directly, or urban and regional affairs more generally. It arranges for testimony by the Mayor, or on behalf of the Mayor, at legislative hearings of special concern. It maintains liaison with and coordinates the City&rsquo;s participation in national, state, and municipal organizations and further coordinates with all city departments on policy and budget issues. Intergovernmental Relations also coordinates the City's applications for federal and state grants, seeking out public and private grant opportunities and providing technical support to departments preparing grant applications."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",

@@ -32,7 +32,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -96,7 +96,7 @@
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
   "authorizing_statutes":[],
   "description_of_services":[
-    "Services provided by the Mayor's Office of Women's Advancement include outreach to individuals and groups, organizing working groups and task forces, and advocacy through support of legislative initiatives. The Office collaborates with state and city ag."
+    "Services provided by the Mayor's Office of Women's Advancement include outreach to individuals and groups, organizing working groups and task forces, and advocacy through support of legislative initiatives. The Office collaborates with state and city agencies and non-profit organizations on women's issues."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",

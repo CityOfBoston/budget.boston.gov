@@ -56,7 +56,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -230,7 +230,7 @@
     "Establishing a Comprehensive Recycling Program for City of Boston, CBC Ord. &sect;&sect; 7-13.1-7-13.11."
   ],
   "description_of_services":[
-    "The Public Works Department directs the general construction, maintenance, and cleaning of approximately 802 miles of roadways throughout the City. It also provides snow and ice control for all City streets. In addition, it operates two major drawbridge."
+    "The Public Works Department directs the general construction, maintenance, and cleaning of approximately 802 miles of roadways throughout the City. It also provides snow and ice control for all City streets. In addition, it operates two major drawbridges, maintains 68,055 City-owned street lights, and supervises contracts for the removal and disposal of approximately 260,000 tons of solid waste. The Department also operates the City's recycling program with an annual diversion of approximately 50,000 tons."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",

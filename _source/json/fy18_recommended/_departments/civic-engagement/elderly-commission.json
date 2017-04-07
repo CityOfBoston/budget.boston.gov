@@ -47,7 +47,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -225,7 +225,7 @@
     "Powers and Duties, CBC Ord. &sect; 12-3.2."
   ],
   "description_of_services":[
-    "Those services which are developed, planned, coordinated, and delivered by the Elderly Commission include assistance in applying for government benefits and community-based services, discount programs, health screening programs, housing programs, transpor."
+    "Those services which are developed, planned, coordinated, and delivered by the Elderly Commission include assistance in applying for government benefits and community-based services, discount programs, health screening programs, housing programs, transportation, advocacy, employment and volunteer programs, counseling services and information and referrals. The Commission also coordinates and monitors neighborhood-based nutrition, legal, health, transportation and other elderly services, and senior centers."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",

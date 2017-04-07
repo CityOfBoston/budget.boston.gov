@@ -34,7 +34,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -117,7 +117,7 @@
     "District Representation, 1982 Mass. Acts ch. 605; 1991 Mass. Acts ch. 108; 1986 Mass. Acts ch. 343."
   ],
   "description_of_services":[
-    "Members draft and file legislation on a wide range of public affairs in Boston designed to improve the quality of life for its citizens. Each year the Council conducts an extensive series of public hearings to review the Mayor's appropriation request for."
+    "Members draft and file legislation on a wide range of public affairs in Boston designed to improve the quality of life for its citizens. Each year the Council conducts an extensive series of public hearings to review the Mayor's appropriation request for the subsequent fiscal year. After a thorough analysis and determination that the request is fiscally sound, the Council approves an appropriation. Constituent needs are served as directed by each individual councilor."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",

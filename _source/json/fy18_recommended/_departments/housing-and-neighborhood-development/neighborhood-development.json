@@ -16,7 +16,8 @@
   "head_title":"Chief of Housing and Neighborhood Development",
   "appropriation_code":"Appropriation 188",
   "mission":[
-    "The Cabinet is committed to making Boston the most livable city in the nation by working with its many communities to build strong neighborhoods through the strategic investment of public resources. In 2014, Mayor Walsh announced his Boston 2030 plan which outlines a new comprehensive approach to accommodating Boston's complex housing needs over the next 15 years. Funding committed for the new plan has been renamed the &ldquo;Housing 2030 Fund&ldquo;; which is included in the Neighborhood Development Operating Budget in &ldquo;Program 3. Housing Development and Services.&ldquo;;."
+    "The Cabinet is committed to making Boston the most livable city in the nation by working with its many communities to build strong neighborhoods through the strategic investment of public resources.",
+    "In 2014, Mayor Walsh announced his Boston 2030 plan which outlines a new comprehensive approach to accommodating Boston's complex housing needs over the next 15 years. Funding committed for the new plan has been renamed the &ldquo;Housing 2030 Fund&rdquo; which is included in the Neighborhood Development Operating Budget in &ldquo;Program 3. Housing Development and Services.&rdquo;"
   ],
   "selected_performance_strategies":[
     {
@@ -51,7 +52,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -358,7 +359,7 @@
     "1994 Mass. Acts ch. 282; CBC Ord. &sect; 10-2.1."
   ],
   "description_of_services":[
-    "The Department provides services and assistance through a wide variety of programs that are designed to improve the current housing stock of existing homeowners, promote homeownership, develop and preserve affordable housing, and dispose of City-owned."
+    "The Department provides services and assistance through a wide variety of programs that are designed to improve the current housing stock of existing homeowners, promote homeownership, develop and preserve affordable housing, and dispose of City-owned tax foreclosed and surplus property in a responsible manner."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",

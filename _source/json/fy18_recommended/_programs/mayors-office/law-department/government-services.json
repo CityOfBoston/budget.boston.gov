@@ -139,7 +139,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
@@ -176,7 +176,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
@@ -187,10 +187,10 @@
             {
               "line_type":"data",
               "line_data":"% contract reviews completed within 14 days-Actual.",
-              "fy-2":"",
-              "fy-1":"",
-              "fy-0":"",
-              "fy+1":""
+              "fy-2":"95%",
+              "fy-1":"97%",
+              "fy-0":"90%",
+              "fy+1":"90%"
             },
             {
               "line_type":"data",

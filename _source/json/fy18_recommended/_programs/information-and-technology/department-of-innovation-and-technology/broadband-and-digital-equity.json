@@ -139,7 +139,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
@@ -152,8 +152,8 @@
               "line_data":"Broadband adoption by families (i.e. households with children under 18).",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"",
-              "fy+1":""
+              "fy-0":"1",
+              "fy+1":"1"
             }
           ]
         }
@@ -168,7 +168,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
@@ -181,16 +181,16 @@
               "line_data":"% Bostonians with 2 or more options for high speed internet.",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"",
-              "fy+1":""
+              "fy-0":"100%",
+              "fy+1":"100%"
             },
             {
               "line_type":"data",
               "line_data":"Percent of employees with access to high-quality wifi.",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"",
-              "fy+1":""
+              "fy-0":"1",
+              "fy+1":"1"
             },
             {
               "line_type":"data",

@@ -139,7 +139,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
@@ -160,8 +160,8 @@
               "line_data":"Total adjusted emissions per annual inventory.",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"",
-              "fy+1":""
+              "fy-0":"25% reduction by 2020",
+              "fy+1":"25% reduction by 2020"
             },
             {
               "line_type":"data",
@@ -176,8 +176,8 @@
               "line_data":"Total emissions per annual inventory.",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"",
-              "fy+1":""
+              "fy-0":"25% reduction by 2020",
+              "fy+1":"25% reduction by 2020"
             }
           ]
         }
@@ -192,7 +192,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
@@ -213,8 +213,8 @@
               "line_data":"% across all historic commissions.",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"",
-              "fy+1":""
+              "fy-0":"97%",
+              "fy+1":"97%"
             }
           ]
         }
@@ -229,7 +229,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
@@ -250,8 +250,8 @@
               "line_data":"Mean level at MA DEP Harrison Avenue site (FRM).",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"",
-              "fy+1":""
+              "fy-0":"6.1 (calendar year)",
+              "fy+1":"6 (calendar year)"
             }
           ]
         }
@@ -266,7 +266,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
@@ -277,8 +277,8 @@
             {
               "line_type":"data",
               "line_data":"Number of complaints submitted to APCC.",
-              "fy-2":"",
-              "fy-1":"",
+              "fy-2":"354 (calendar year)",
+              "fy-1":"495 (calendar year)",
               "fy-0":"425",
               "fy+1":"425"
             }
@@ -295,7 +295,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
@@ -324,7 +324,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",

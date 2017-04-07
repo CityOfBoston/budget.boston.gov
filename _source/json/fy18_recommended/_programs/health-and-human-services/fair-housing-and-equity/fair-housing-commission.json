@@ -139,7 +139,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
@@ -158,10 +158,10 @@
             {
               "line_type":"data",
               "line_data":"% Housing discrimination complaints moved to investigations in 30 days (was intakes processed in 30 days).",
-              "fy-2":"",
-              "fy-1":"",
-              "fy-0":"",
-              "fy+1":""
+              "fy-2":"100%",
+              "fy-1":"100%",
+              "fy-0":"100%",
+              "fy+1":"100%"
             },
             {
               "line_type":"data",
@@ -192,7 +192,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
@@ -211,10 +211,10 @@
             {
               "line_type":"data",
               "line_data":"% Current year cases investigated within 200 days.",
-              "fy-2":"",
-              "fy-1":"",
-              "fy-0":"",
-              "fy+1":""
+              "fy-2":"N/A%",
+              "fy-1":"N/A%",
+              "fy-0":"50%",
+              "fy+1":"45%"
             }
           ]
         }
@@ -229,7 +229,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",

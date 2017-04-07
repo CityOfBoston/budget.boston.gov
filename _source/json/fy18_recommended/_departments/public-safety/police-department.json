@@ -64,7 +64,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -551,7 +551,7 @@
     "Hackney Carriage, 1930 Mass. Acts ch. 392; 1931 Mass. Acts ch. 408 &sect; 7; 1933 Mass. Acts ch. 306; 1934 Mass. Acts ch. 280."
   ],
   "description_of_services":[
-    "The Department provides many services to protect and serve residents of and visitors to the City of Boston. The Department provides: a well trained force of patrol officers to solve problems and reduce crime, victimization, and fear; a well trained force."
+    "The Department provides many services to protect and serve residents of and visitors to the City of Boston. The Department provides: a well trained force of patrol officers to solve problems and reduce crime, victimization, and fear; a well trained force of detectives to investigate incidents of crime; a state-of-the-art Computer Aided Dispatch system; an administrative and management system to support the delivery of police services and an internal investigation function designed to ensure the integrity of all employees."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",
@@ -705,7 +705,7 @@
       "debug":"JEFP",
       "project":"DNA Laboratory Initiative",
       "project_mission":[
-        "The project is funded by the U.S. Department of Justice, National Institute of Justice. This grant is intended to focus resources on solving old homicide and sexual assault cases where there is no suspect identified - &ldquo;cold cases&ldquo;;. Funds are being used for overtime for detectives to further investigate these cases, and for criminalists to process evidence (DNA testing, etc.). Funds are also used to purchase supplies necessary for DNA testing of evidence in these cases."
+        "The project is funded by the U.S. Department of Justice, National Institute of Justice. This grant is intended to focus resources on solving old homicide and sexual assault cases where there is no suspect identified - &ldquo;cold cases&rdquo;. Funds are being used for overtime for detectives to further investigate these cases, and for criminalists to process evidence (DNA testing, etc.). Funds are also used to purchase supplies necessary for DNA testing of evidence in these cases."
       ]
     },
     {

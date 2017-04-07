@@ -41,7 +41,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -200,7 +200,7 @@
     "Authority of Corporation to Take and Hold Property; Limitation, 1878 Mass. Acts ch. 114 &sect;2."
   ],
   "description_of_services":[
-    "The Boston Public Library system consists of the Central Library at Copley Square, including the Kirstein Business Library, branch libraries located throughout Boston&rsquo;s neighborhoods and one remote storage facility. Library staff assists users in locating."
+    "The Boston Public Library system consists of the Central Library at Copley Square, including the Kirstein Business Library, branch libraries located throughout Boston&rsquo;s neighborhoods and one remote storage facility. Library staff assists users in locating and using resources, and provides public programming, exhibits, and outreach. Internet, wireless, and online technology resources connect people to informational resources aimed at enriching individuals, organizations, and the entire community."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",

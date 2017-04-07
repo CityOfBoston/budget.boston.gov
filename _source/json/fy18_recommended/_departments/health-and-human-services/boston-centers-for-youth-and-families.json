@@ -46,7 +46,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -263,7 +263,7 @@
     "Community School Program, CBC Ord. &sect;&sect; 8-1-8-1.4."
   ],
   "description_of_services":[
-    "Boston Centers for Youth and Families (BCYF) provides accessible programs, services and resources for Boston residents of all ages through its facilities, pools and one beach. BCYF community centers offer programming for all ages that includes childcare, a."
+    "Boston Centers for Youth and Families (BCYF) provides accessible programs, services and resources for Boston residents of all ages through its facilities, pools and one beach. BCYF community centers offer programming for all ages that includes childcare, after-school, computer instruction, preschool, youth leadership and skill development programs, adult education, senior programs, Camp Joy, sports, fitness and recreation and the Streetworker program. BCYF collaborates with other City departments and community partners, including community center local site councils, to enhance the provision of service and leverage additional resources to better serve Boston&rsquo;s children, youth and families."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",

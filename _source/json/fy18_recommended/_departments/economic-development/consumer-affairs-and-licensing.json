@@ -39,7 +39,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -161,7 +161,7 @@
     "M.G.L.A. c. 140 ss. 1-7,9-12,22-32,177, 185I."
   ],
   "description_of_services":[
-    "The Consumer Affairs and Licensing Department is responsible for licensing and regulating all forms of entertainment, alcohol and food within Boston. The Office processes new applications and renewals, inspects premises, and holds hearings on licensing re."
+    "The Consumer Affairs and Licensing Department is responsible for licensing and regulating all forms of entertainment, alcohol and food within Boston. The Office processes new applications and renewals, inspects premises, and holds hearings on licensing requests and violations. The Office also educates and mediates on behalf of Boston area consumers."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",

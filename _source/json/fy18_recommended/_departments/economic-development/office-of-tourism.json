@@ -24,7 +24,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -137,7 +137,7 @@
     "Enabling Legislation, CBC Ord. &sect;&sect; 15-3.1-15-3.2."
   ],
   "description_of_services":[
-    "The Office of Tourism serves Boston&rsquo;s residents, visitors, and the tourism industry in the following ways: producing year-round events including festivals, concerts, exhibitions, and public celebrations both downtown and in Boston&rsquo;s neighborhoods; support."
+    "The Office of Tourism serves Boston&rsquo;s residents, visitors, and the tourism industry in the following ways: producing year-round events including festivals, concerts, exhibitions, and public celebrations both downtown and in Boston&rsquo;s neighborhoods; supporting film and television production through Boston Film Bureau with permitting, location assistance, and coordination with local and state agencies; providing technical assistance to neighborhood based groups with event production; promoting Boston as a desirable destination for visitors, conventions, and family-oriented sporting events such as amateur collegiate, and Olympic tournaments; fostering international relations through its Sister City and Distinguished Guest Programs."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",

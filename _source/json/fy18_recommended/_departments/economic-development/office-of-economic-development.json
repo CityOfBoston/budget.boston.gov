@@ -43,7 +43,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -186,7 +186,7 @@
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
   "authorizing_statutes":[],
   "description_of_services":[
-    "The Office of Economic Development helps support new business development, ensures pathways to careers and seeks to streamline business permitting and licensing. The Office monitors compliance with the Boston Residents Jobs Policy (BRJP) to increase the."
+    "The Office of Economic Development helps support new business development, ensures pathways to careers and seeks to streamline business permitting and licensing. The Office monitors compliance with the Boston Residents Jobs Policy (BRJP) to increase the level of Boston residents working on construction projects. The Jobs Bank assists Boston residents, minorities and women who are seeking construction employment and contractors who are seeking to employ Boston residents, minorities and women on monitored projects. The Small and Local Business Enterprise program assists City departments to contract with minority and women-owned businesses and small and Boston-based businesses. The Office provides outreach to minority, women, small and local businesses and assistance to City departments. It also monitors the performance of City departments and produces quarterly and annual performance reports. The Office promotes MWBE and SLBE participation on all City of Boston construction projects."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",

@@ -139,7 +139,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
@@ -152,8 +152,8 @@
               "line_data":"% achieved of savings identified in budget process.",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"",
-              "fy+1":""
+              "fy-0":"100%",
+              "fy+1":"100%"
             },
             {
               "line_type":"data",
@@ -161,7 +161,7 @@
               "fy-2":"",
               "fy-1":"",
               "fy-0":"",
-              "fy+1":""
+              "fy+1":"100%"
             },
             {
               "line_type":"data",

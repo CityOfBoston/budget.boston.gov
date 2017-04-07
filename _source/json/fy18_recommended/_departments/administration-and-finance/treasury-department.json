@@ -24,7 +24,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -169,7 +169,7 @@
     "Excise on Boats, Ships and Vessels in Lieu of Local Property Taxes, M.G.L.A. c. 60B."
   ],
   "description_of_services":[
-    "The Treasury Department receives, deposits, and invests funds and pays all warrants, drafts, and orders. The Department issues, redeems, and pays interest on all bonds and notes and maintains custody of all trusts and bequests left to the City. Addition."
+    "The Treasury Department receives, deposits, and invests funds and pays all warrants, drafts, and orders. The Department issues, redeems, and pays interest on all bonds and notes and maintains custody of all trusts and bequests left to the City. Additionally, the Department issues payroll and required federal and state tax forms. The Department issues and collects all current and delinquent tax billings and departmental revenue. The Department also prepares petitions for land court proceedings and municipal liens and processes abatements and refunds. Additionally, the Department prepares tax certifications and tax takings, and researches tax problems."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",

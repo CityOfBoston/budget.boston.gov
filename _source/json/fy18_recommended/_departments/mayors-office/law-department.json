@@ -41,7 +41,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -163,7 +163,7 @@
     "Appointment of Corporation Counsel, CBC Ord. C.2, s. 7.1."
   ],
   "description_of_services":[
-    "The Law Department supervises approximately 60 attorneys citywide. The Department also directly supervises approximately 25 support staff employees who work with the legal staff. The Department is responsible for handling court litigation, administrati."
+    "The Law Department supervises approximately 60 attorneys citywide. The Department also directly supervises approximately 25 support staff employees who work with the legal staff. The Department is responsible for handling court litigation, administrative hearings, appellate reviews, advisory opinions/memoranda, drafting and approving legal instruments, drafting and analyzing legislation, and providing general legal counsel."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",

@@ -139,7 +139,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
@@ -168,7 +168,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
@@ -190,7 +190,7 @@
               "fy-2":"",
               "fy-1":"",
               "fy-0":"",
-              "fy+1":""
+              "fy+1":"100%"
             }
           ]
         }
@@ -205,7 +205,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
@@ -216,18 +216,18 @@
             {
               "line_type":"data",
               "line_data":"% of Graves decorated.",
-              "fy-2":"",
-              "fy-1":"",
-              "fy-0":"",
-              "fy+1":""
+              "fy-2":"100%",
+              "fy-1":"100%",
+              "fy-0":"100%",
+              "fy+1":"100%"
             },
             {
               "line_type":"data",
               "line_data":"% of Hero Squares decorated.",
-              "fy-2":"",
-              "fy-1":"",
-              "fy-0":"",
-              "fy+1":""
+              "fy-2":"100%",
+              "fy-1":"100%",
+              "fy-0":"100%",
+              "fy+1":"100%"
             }
           ]
         }
@@ -242,7 +242,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
@@ -261,10 +261,10 @@
             {
               "line_type":"data",
               "line_data":"% Reimbursment for Aid to Vet Rate.",
-              "fy-2":"",
-              "fy-1":"",
-              "fy-0":"",
-              "fy+1":""
+              "fy-2":"80.5%",
+              "fy-1":"75.5%",
+              "fy-0":"75%",
+              "fy+1":"75%"
             },
             {
               "line_type":"data",
