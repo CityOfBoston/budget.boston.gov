@@ -207,7 +207,7 @@ layout: bos_wrapper
   <table class="js-table responsive-table responsive-table--horizontal">
     <thead>
       <tr>
-        <th>{{ page.operating_budget.table_header["Program Name"] }}</th>
+        <th>{{ page.operating_budget.table_header.name }}</th>
         <th>{{ page.operating_budget.table_header.fy-2 }}</th>
         <th>{{ page.operating_budget.table_header.fy-1 }}</th>
         <th>{{ page.operating_budget.table_header.fy-0 }}</th>
@@ -218,12 +218,12 @@ layout: bos_wrapper
       {% for row in page.operating_budget.data %}
         {% if row.line_type == 'total' %}
           <tr class="total">
-            <td><strong>{{ row.line_title }}</strong></td>
+            <td><strong>{{ row.name }}</strong></td>
         {% else %}
           <tr>
             <td>
-              <a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | slugify }}/{{ page.name | replace: "'","" | slugify }}/{{ row.line_title | replace: "'","" | slugify }}">
-                {{ row.line_title }}
+              <a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | slugify }}/{{ page.name | replace: "'","" | slugify }}/{{ row.name | replace: "'","" | slugify }}">
+                {{ row.name }}
               </a>
             </td>
         {% endif %}
