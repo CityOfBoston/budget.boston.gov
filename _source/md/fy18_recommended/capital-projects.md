@@ -14,6 +14,8 @@ components:
   - title: Capital Projects
     short_desc: >
       <iframe width="100%" height="400px" src="http://app01.cityofboston.gov/BudgetFY17_21/"></iframe>
+      < br/>
+      <a href="http://app01.cityofboston.gov/BudgetFY17_21/" target="_blank">View the map in a new tab</a> 
     sidebar_menu: true
 - text_block:
   - title: What Are "Capital" Projects?
