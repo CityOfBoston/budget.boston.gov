@@ -26,18 +26,18 @@ components:
   - title: Diving into the calls
 - text_col_2:
   - col: >
-    <h5>Utilizing dispatch data</h5>
-    <p>Calls that don't end up requiring a transport result in a twofold 
-    challenge for Boston: not only do these calls tie-up ambulances for a 
-    low-acuity patients, but they prevent ambulances from responding to 
-    other calls. <blockquote>Utilizing dispatch data, EMS also found 
-    that these call types are clustered in certain areas of the city.</blockquote> 
-    The clustering of these incidents suggests that they warrant a different type of 
-    emergency medical care. As a result, the FY18 budget includes funding for a 
-    Community Assistance Team to pursue a more agile and proactive response 
-    to emergency services.</p> 
+      <h5>Utilizing dispatch data</h5>
+      <p>Calls that don't end up requiring a transport result in a twofold 
+      challenge for Boston: not only do these calls tie-up ambulances for a 
+      low-acuity patients, but they prevent ambulances from responding to 
+      other calls. <blockquote>Utilizing dispatch data, EMS also found 
+      that these call types are clustered in certain areas of the city.</blockquote> 
+      The clustering of these incidents suggests that they warrant a different type of 
+      emergency medical care. As a result, the FY18 budget includes funding for a 
+      Community Assistance Team to pursue a more agile and proactive response 
+      to emergency services.</p> 
   - col: >
-    <a href="http://placehold.it"><img src="http://placehold.it/300x400"></a>
+      <a href="http://placehold.it"><img src="http://placehold.it/300x400"></a>
 - text_col_3:
   - col: >
       <h5>Putting the funding to work</h5>

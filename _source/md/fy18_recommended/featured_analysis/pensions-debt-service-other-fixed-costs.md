@@ -37,5 +37,6 @@ components:
       <p>Even with the recent favorable borrowings, debt service costs are projected
       to increase by $10.6 million (6.1%) in FY18.</p> 
   - col: >
-    <a href="http://placehold.it"><img src="http://placehold.it/300x400"></a>
-    <p><em>Figure 7 - Pension Funding Schedule</em></p>
+      <a href="http://placehold.it"><img src="http://placehold.it/300x400"></a>
+      <p><em>Figure 7 - Pension Funding Schedule</em></p>
+---
