@@ -152,9 +152,11 @@ layout: bos_wrapper
         width="200"
         height="200"
         data-labels='
+        {% comment %}
           {{ page.department_history_by_account.table_header.fy-2 }},
           {{ page.department_history_by_account.table_header.fy-1 }},
           {{ page.department_history_by_account.table_header.fy-0 }},
+        {% endcomment %}
           {{ page.department_history_by_account.table_header["fy+1"] }}
         '
         data='{
@@ -299,9 +301,11 @@ layout: bos_wrapper
         width="200"
         height="200"
         data-labels='
+        {% comment %}
           {{ page.operating_budget.table_header.fy-2 }},
           {{ page.operating_budget.table_header.fy-1 }},
           {{ page.operating_budget.table_header.fy-0 }},
+        {% endcomment %}
           {{ page.operating_budget.table_header["fy+1"] }}
         '
         data='{
