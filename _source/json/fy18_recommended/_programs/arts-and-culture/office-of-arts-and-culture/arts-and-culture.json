@@ -133,7 +133,7 @@
     {
       "section_name":"Performance",
       "strategy":[
-        "To elevate the work of Boston's creatives."
+        "To elevate the work of Boston's creatives"
       ],
       "performance_measures":[
         {
@@ -178,7 +178,7 @@
     {
       "section_name":"Performance",
       "strategy":[
-        "To grow support for cultural community."
+        "To grow support for cultural community"
       ],
       "performance_measures":[
         {
@@ -192,6 +192,14 @@
             "fy+1":"FY18 Target"
           },
           "data":[
+            {
+              "line_type":"data",
+              "line_data":"% growth in grant dollars.",
+              "fy-2":"",
+              "fy-1":"116%",
+              "fy-0":"25%",
+              "fy+1":"25%"
+            },
             {
               "line_type":"data",
               "line_data":"Amount granted to the Office of Arts and Culture from external sources.",
@@ -215,14 +223,6 @@
               "fy-1":"179",
               "fy-0":"180",
               "fy+1":"180"
-            },
-            {
-              "line_type":"data",
-              "line_data":"Percent growth in grant dollars.",
-              "fy-2":"",
-              "fy-1":"116",
-              "fy-0":"25",
-              "fy+1":"25"
             }
           ]
         }
@@ -231,7 +231,7 @@
     {
       "section_name":"Performance",
       "strategy":[
-        "To support access to the Arts in every community."
+        "To support access to the Arts in every community"
       ],
       "performance_measures":[
         {
@@ -247,19 +247,19 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"Percent of all Boston zip codes receiving grant funding.",
+              "line_data":"% of all Boston zip codes receiving grant funding.",
               "fy-2":"",
-              "fy-1":"78",
-              "fy-0":"80",
-              "fy+1":"80"
+              "fy-1":"78%",
+              "fy-0":"80%",
+              "fy+1":"80%"
             },
             {
               "line_type":"data",
-              "line_data":"Percent of first time BCC organizational grant awardees.",
+              "line_data":"% of first time BCC organizational grant awardees.",
               "fy-2":"",
-              "fy-1":"40",
-              "fy-0":"10",
-              "fy+1":"10"
+              "fy-1":"40%",
+              "fy-0":"10%",
+              "fy+1":"10%"
             }
           ]
         }

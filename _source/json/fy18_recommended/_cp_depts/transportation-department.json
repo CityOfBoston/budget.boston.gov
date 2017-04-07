@@ -120,6 +120,58 @@
           ]
         },
         {
+          "Technology":[
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Technology",
+              "name":"Father Hart Bridge Traffic Improvements",
+              "location":"Hyde Park",
+              "section_id":"CTD24695",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":1300000,
+              "project_total":1375000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Technology",
+              "name":"Traffic Signals",
+              "location":"Citywide",
+              "section_id":"CTD24700",
+              "status":"Annual Program",
+              "operating_impact":"No",
+              "fy-0":2500000,
+              "project_total":12500000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Technology",
+              "name":"Traffic Signal Construction at 4 Intersections",
+              "location":"Various neighborhoods",
+              "section_id":"CTD24561",
+              "status":"In Construction",
+              "operating_impact":"No",
+              "fy-0":400000,
+              "project_total":800000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Technology",
+              "name":"Traffic Signals at 9 Locations",
+              "location":"Various neighborhoods",
+              "section_id":"CTD23451",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":0,
+              "project_total":450907
+            }
+          ]
+        },
+        {
           "Transportation":[
             {
               "line_type":"data",
@@ -197,18 +249,6 @@
               "line_type":"data",
               "title":null,
               "category":"Transportation",
-              "name":"Traffic Signals at 9 Locations",
-              "location":"Various neighborhoods",
-              "section_id":"CTD23451",
-              "status":"In Design",
-              "operating_impact":"No",
-              "fy-0":0,
-              "project_total":450907
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Transportation",
               "name":"Municipal Parking Lots",
               "location":"Citywide",
               "section_id":"CTD23584",
@@ -281,30 +321,6 @@
               "line_type":"data",
               "title":null,
               "category":"Transportation",
-              "name":"Traffic Signal Construction at 4 Intersections",
-              "location":"Various neighborhoods",
-              "section_id":"CTD24561",
-              "status":"In Construction",
-              "operating_impact":"No",
-              "fy-0":400000,
-              "project_total":800000
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Transportation",
-              "name":"Traffic Signals",
-              "location":"Citywide",
-              "section_id":"CTD24700",
-              "status":"Annual Program",
-              "operating_impact":"No",
-              "fy-0":2500000,
-              "project_total":12500000
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Transportation",
               "name":"Strategic Bicycle Network Project",
               "location":"Citywide",
               "section_id":"CTD24701",
@@ -312,18 +328,6 @@
               "operating_impact":"No",
               "fy-0":900000,
               "project_total":4500000
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Transportation",
-              "name":"Father Hart Bridge Traffic Improvements",
-              "location":"Hyde Park",
-              "section_id":"CTD24695",
-              "status":"New Project",
-              "operating_impact":"No",
-              "fy-0":1300000,
-              "project_total":1375000
             },
             {
               "line_type":"data",

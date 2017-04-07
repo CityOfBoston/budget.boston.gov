@@ -38,17 +38,17 @@
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":10119485,
-      "fy-1":10824191,
-      "fy-0":11345671,
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
       "fy+1":0
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":10119485,
-      "fy-1":10824191,
-      "fy-0":11345671,
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
       "fy+1":0
     }
   ],

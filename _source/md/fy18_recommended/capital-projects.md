@@ -14,6 +14,8 @@ components:
   - title: Capital Projects
     short_desc: >
       <iframe width="100%" height="400px" src="http://app01.cityofboston.gov/BudgetFY17_21/"></iframe>
+      < br/>
+      <a href="http://app01.cityofboston.gov/BudgetFY17_21/" target="_blank">View the map in a new tab</a> 
     sidebar_menu: true
 - text_block:
   - title: What Are "Capital" Projects?
@@ -491,4 +493,9 @@ components:
       modern fire stations, and planning money for the
       construction of a new North Washington Street bridge,
       which will help leverage state construction funds. 
+- text_block:
+  - title: More resources
+    body: >
+      Include links to PDF versions of the tables at the end of the capital chapter
+      Link to the all funds budget table PDF
 ---

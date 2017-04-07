@@ -133,7 +133,7 @@
     {
       "section_name":"Performance",
       "strategy":[
-        "City Council meeting are created,updated, and published on the City of Boston website."
+        "City Council meeting are created,updated, and published on the City of Boston website"
       ],
       "performance_measures":[
         {
@@ -162,6 +162,35 @@
     {
       "section_name":"Performance",
       "strategy":[
+        "Scanning and indexing documents"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "debug":"JPM",
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Records Digitized Hours.",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"19,200",
+              "fy+1":"21,600"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
         "Time used for processing documents"
       ],
       "performance_measures":[
@@ -181,8 +210,8 @@
               "line_data":"Processing Hours.",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"4,440",
-              "fy+1":"4,320"
+              "fy-0":"4,320",
+              "fy+1":"4,440"
             }
           ]
         }

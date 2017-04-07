@@ -332,4 +332,8 @@ components:
       and aid to veterans. Also included in the “Other” category are appropriations 
       for equipment, vehicles, a risk retention reserve, the Housing Trust Fund, 
       tax title, and funding for the City’s outside audit.
+- text_block:
+  - title: More resources
+    body: >
+      Add link to All Funds Budget PDF
 ---

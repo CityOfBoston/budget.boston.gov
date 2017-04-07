@@ -120,6 +120,22 @@
               "line_type":"data",
               "title":null,
               "category":"Gov't Effectiveness",
+              "name":"Building Envelope Repairs at Various Stations",
+              "location":"Citywide",
+              "section_id":"CFD24092",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":0,
+              "project_total":2017500
+            }
+          ]
+        },
+        {
+          "Public Safety":[
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Public Safety",
               "name":"Engine 42",
               "location":"Roxbury",
               "section_id":"CFD24126",
@@ -131,7 +147,7 @@
             {
               "line_type":"data",
               "title":null,
-              "category":"Gov't Effectiveness",
+              "category":"Public Safety",
               "name":"Engine 17",
               "location":"Dorchester",
               "section_id":"CFD24125",
@@ -143,19 +159,7 @@
             {
               "line_type":"data",
               "title":null,
-              "category":"Gov't Effectiveness",
-              "name":"Building Envelope Repairs at Various Stations",
-              "location":"Citywide",
-              "section_id":"CFD24092",
-              "status":"In Design",
-              "operating_impact":"No",
-              "fy-0":0,
-              "project_total":2017500
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Gov't Effectiveness",
+              "category":"Public Safety",
               "name":"Fire Equipment FY18",
               "location":"Citywide",
               "section_id":"CFD24691",
@@ -167,7 +171,7 @@
             {
               "line_type":"data",
               "title":null,
-              "category":"Gov't Effectiveness",
+              "category":"Public Safety",
               "name":"Fire Equipment FY19-FY22",
               "location":"Citywide",
               "section_id":"CFD24533",
@@ -179,7 +183,7 @@
             {
               "line_type":"data",
               "title":null,
-              "category":"Gov't Effectiveness",
+              "category":"Public Safety",
               "name":"Engine 33",
               "location":"Back Bay",
               "section_id":"CFD24128",
@@ -191,7 +195,7 @@
             {
               "line_type":"data",
               "title":null,
-              "category":"Gov't Effectiveness",
+              "category":"Public Safety",
               "name":"Roof and Masonry Repairs at Engine 4, 14 and 55",
               "location":"Various neighborhoods",
               "section_id":"CFD23843",
@@ -203,7 +207,7 @@
             {
               "line_type":"data",
               "title":null,
-              "category":"Gov't Effectiveness",
+              "category":"Public Safety",
               "name":"Engine 5",
               "location":"East Boston",
               "section_id":"CFD23484",
@@ -215,7 +219,7 @@
             {
               "line_type":"data",
               "title":null,
-              "category":"Gov't Effectiveness",
+              "category":"Public Safety",
               "name":"Engine 50",
               "location":"Charlestown",
               "section_id":"CFD23280",

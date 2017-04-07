@@ -133,7 +133,7 @@
     {
       "section_name":"Performance",
       "strategy":[
-        "Accelerate front end administration of projects, thereby helping projects stay on schedule."
+        "Accelerate front end administration of projects, thereby helping projects stay on schedule"
       ],
       "performance_measures":[
         {
@@ -162,7 +162,7 @@
     {
       "section_name":"Performance",
       "strategy":[
-        "Accurately estimate construction costs and yearly escalation."
+        "Accurately estimate construction costs and yearly escalation"
       ],
       "performance_measures":[
         {
@@ -178,11 +178,11 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"Percentage of bids awarded within 15% of estimate.",
+              "line_data":"% of bids awarded within 15% of estimate.",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"1",
-              "fy+1":"1"
+              "fy-0":"65%",
+              "fy+1":"65%"
             }
           ]
         }
@@ -191,7 +191,7 @@
     {
       "section_name":"Performance",
       "strategy":[
-        "Keep change order costs under control, keeping projects on budget."
+        "Keep change order costs under control, keeping projects on budget"
       ],
       "performance_measures":[
         {
@@ -207,11 +207,11 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"Percentage of contract change orders less than 10% of original contract price, including elective change orders.",
+              "line_data":"% of contract change orders less than 10% of original contract price, including elective change orders.",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"1",
-              "fy+1":"1"
+              "fy-0":"65%",
+              "fy+1":"65%"
             }
           ]
         }

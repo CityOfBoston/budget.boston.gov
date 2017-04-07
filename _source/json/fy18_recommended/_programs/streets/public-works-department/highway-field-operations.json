@@ -133,7 +133,7 @@
     {
       "section_name":"Performance",
       "strategy":[
-        "Effectively control and manage Boston's public space."
+        "Effectively control and manage Boston's public space"
       ],
       "performance_measures":[
         {
@@ -176,7 +176,7 @@
               "line_data":"Public Space (litter baskets) recycling diversion rate.",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"25",
+              "fy-0":"",
               "fy+1":""
             }
           ]
@@ -186,7 +186,7 @@
     {
       "section_name":"Performance",
       "strategy":[
-        "Ensure that Boston&rsquo;s streets, sidewalks, and bridges are safe, clean and attractive."
+        "Ensure that Boston&rsquo;s streets, sidewalks, and bridges are safe, clean and attractive"
       ],
       "performance_measures":[
         {
