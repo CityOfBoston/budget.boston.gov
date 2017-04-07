@@ -32,9 +32,9 @@ layout: bos_wrapper
     </div>
     <div class="body">
       <p>
-      <strong><span>{{ page.head_name }},</span></strong>
-      <strong><span>{{ page.head_title }},</span></strong>
-      <strong><span>{{ page.appropriation_code }}</span></strong>
+      {% if page.head_name %}<strong><span>{{ page.head_name }},</span></strong>{% endif %}
+      {% if page.head_title %}<strong><span>{{ page.head_title }},</span></strong>{% endif %}
+      {% if page.appropriation_code %}<strong><span>{{ page.appropriation_code }}</span></strong>{% endif %}
       <br />
       {{ page.description_of_services }}
       </p>
