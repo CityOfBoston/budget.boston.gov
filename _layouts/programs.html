@@ -34,9 +34,9 @@ layout: bos_wrapper
       </p>
     </div>
       <div class="intro-text supporting-text">
-        <b>
-          <span>{{ page.head_name }}</span>, <span>{{ page.head_title }}</span>, <span>{{ page.appropriation_code }}</span>
-        </b>
+        {% if page.head_name %}<strong><span>{{ page.head_name }}</span>, </strong>{% endif %}
+        {% if page.head_title %}<strong><span>{{ page.head_title }}</span>, </strong>{% endif %}
+        {% if page.appropriation_code %}<strong><span>{{ page.appropriation_code }}</span></strong>{% endif %}
       </div>
   </div>
   {% include sidebar_menu.html %}
