@@ -40,7 +40,7 @@ components:
       other treatment providers looking for information about, or access to, 
       addiction treatment services. <blockquote>Due to this investment, PAATHS has seen 
       a 50% increase in calls and a 74% increase in walk-ins, while the number of new 
-      patients accessing services has doubled.</blockquote> 
+      patients accessing services has doubled.</blockquote></p> 
       <h5>PAATHS program</h5>
       <p>In FY18, the City will build on the success of the PAATHS program and enable it 
       to expand services to evenings and weekends. This new investment, which includes 
