@@ -25,23 +25,26 @@ layout: bos_wrapper
 <div class="intro clearfix">
   <div class="column mobile-100 desktop-66-left">
     <h1 class="title">{{ page.name }}</h1>
-    <div class="intro-text supporting-text squiggle-border-bottom">
+    <div class="squiggle-border-bottom">
       <p>
         {{ page.mission }}
       </p>
+      <br />
     </div>
     <div class="body">
-      <p>
-      {% if page.head_name %}<strong><span>{{ page.head_name }},</span></strong>{% endif %}
-      {% if page.head_title %}<strong><span>{{ page.head_title }},</span></strong>{% endif %}
-      {% if page.appropriation_code %}<strong><span>{{ page.appropriation_code }}</span></strong>{% endif %}
-      <br />
-      {{ page.description_of_services }}
-      </p>
+      <h5>
+        {% if page.head_name %}<strong><span>{{ page.head_name }},</span></strong>{% endif %}
+        {% if page.head_title %}<strong><span>{{ page.head_title }},</span></strong>{% endif %}
+        {% if page.appropriation_code %}<strong><span>{{ page.appropriation_code }}</span></strong>{% endif %}
+      </h5>
     </div>
   </div>
   {% include sidebar_menu.html %}
 </div>
+<div>
+  {{ page.description_of_services }}
+</div>
+<br />
 
 {% if page.department_history_by_account %}
   {% comment %}
@@ -53,7 +56,11 @@ layout: bos_wrapper
     <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
       Department budget by account
     </h2>
-    <div class="sh-contact"><a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | replace: "'","" | slugify }}">Back to {{ page.cabinet }} Cabinet</a></div>
+    <div class="sh-contact">
+      <a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | replace: "'","" | slugify }}">
+        Back to {{ page.cabinet }} Cabinet
+      </a>
+    </div>
   </div>
   <br />
   <table class="js-table responsive-table responsive-table--horizontal">
@@ -89,7 +96,7 @@ layout: bos_wrapper
       {% endfor %}
     </tbody>
   </table>
-  <br />
+  <br /><br />
 
   {% comment %}
   **********************
@@ -178,10 +185,10 @@ layout: bos_wrapper
           height="200"
           data-title=""
           data-labels="
-            {{ page.operating_department.fy-2 }},
-            {{ page.operating_department.fy-1 }},
-            {{ page.operating_department.fy-0 }},
-            {{ page.operating_department['fy+1'] }}
+            {{ page.department_history_by_account.table_header.fy-2 }},
+            {{ page.department_history_by_account.table_header.fy-1 }},
+            {{ page.department_history_by_account.table_header.fy-0 }},
+            {{ page.department_history_by_account.table_header['fy+1'] }}
           "
           data="{{ row.fy-2 }}, {{ row.fy-1 }}, {{ row.fy-0 }}, {{ row['fy+1'] }}"
         ></canvas>
@@ -189,7 +196,7 @@ layout: bos_wrapper
     {% endif %}
   {% endfor %}
   </div>
-  <br />
+  <br /><br />
 {% endif %}
 
 {% if page.operating_budget %}
@@ -236,7 +243,7 @@ layout: bos_wrapper
       {% endfor %}
     </tbody>
   </table>
-  <br />
+  <br /><br />
 
   {% comment %}
   **********************
@@ -347,13 +354,13 @@ layout: bos_wrapper
 </div>
 <div class="desktop-100">
     {% for program in page.selected_performance_strategies %}
-  <p class="supporting-text">
-      {{ program.program }}
-      <ul>
+  <p>
+    <h5>{{ program.program }}</h5>
+    <ul>
       {% for strategy in program.strategies %}
       <li>{{ strategy }}</li>
       {% endfor %}
-      </ul>
+    </ul>
   </p>
     {% endfor %}
 </div>

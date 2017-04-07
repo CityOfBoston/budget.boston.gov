@@ -28,15 +28,18 @@ layout: bos_wrapper
   <div class="column mobile-100 desktop-66-left">
     <h1 class="title">{{ page.name }}</h1>
     <div class="squiggle-border-bottom"></div>
-    <div class="intro-text supporting-text squiggle-border-bottom">
+    <div class="squiggle-border-bottom">
       <p>
         <div>{{ page.description }}</div>
       </p>
+      <br />
     </div>
     <div>
-      {% if page.head_name %}<strong><span>{{ page.head_name }}</span>, </strong>{% endif %}
-      {% if page.head_title %}<strong><span>{{ page.head_title }}</span>, </strong>{% endif %}
-      {% if page.appropriation_code %}<strong><span>{{ page.appropriation_code }}</span></strong>{% endif %}
+      <h5>
+        {% if page.head_name %}<strong><span>{{ page.head_name }}</span>, </strong>{% endif %}
+        {% if page.head_title %}<strong><span>{{ page.head_title }}</span>, </strong>{% endif %}
+        {% if page.appropriation_code %}<strong><span>{{ page.appropriation_code }}</span></strong>{% endif %}
+      </h5>
     </div>
   </div>
   {% include sidebar_menu.html %}
@@ -50,13 +53,13 @@ layout: bos_wrapper
 </div>
   <div class="desktop-100">
     {% for strategy in page.performance_strategies %}
-      <p class="supporting-text">
-        {{ strategy.strategy }}
+      <p>
+        <h4>Goal: {{ strategy.strategy }}</h4>
       </p>
       <table class="js-table responsive-table responsive-table--horizontal">
         <thead>
           <tr>
-            <th>{{ strategy.performance_measures[0].table_header["Program Name"] }}</th>
+            <th>Measure</th>
             <th>{{ strategy.performance_measures[0].table_header.fy-2 }}</th>
             <th>{{ strategy.performance_measures[0].table_header.fy-1 }}</th>
             <th>{{ strategy.performance_measures[0].table_header.fy-0 }}</th>
@@ -79,7 +82,7 @@ layout: bos_wrapper
           {% endfor %}
         </tbody>
       </table>
-      <br />
+      <br /><br />
     {% endfor %}
   </div>
 {% endif %}
