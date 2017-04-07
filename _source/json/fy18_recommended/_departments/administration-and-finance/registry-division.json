@@ -40,7 +40,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -49,7 +49,7 @@
     },
     "data":[
       {
-        "line_title":"Administration",
+        "name":"Administration",
         "line_type":"data",
         "fy-2":266220,
         "fy-1":256946,
@@ -57,7 +57,7 @@
         "fy+1":235893
       },
       {
-        "line_title":"Vital Statistics",
+        "name":"Vital Statistics",
         "line_type":"data",
         "fy-2":635911,
         "fy-1":624833,
@@ -65,7 +65,7 @@
         "fy+1":648433
       },
       {
-        "line_title":"Depositions",
+        "name":"Depositions",
         "line_type":"data",
         "fy-2":93317,
         "fy-1":86277,
@@ -73,7 +73,7 @@
         "fy+1":134138
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":995448,
         "fy-1":968056,
@@ -130,6 +130,7 @@
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",

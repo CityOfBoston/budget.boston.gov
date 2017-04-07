@@ -56,6 +56,7 @@
     "table_title":"Program History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",
@@ -138,7 +139,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
@@ -151,8 +152,8 @@
               "line_data":"Records Digitized.",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"24000",
-              "fy+1":"24000"
+              "fy-0":"24,000",
+              "fy+1":"24,000"
             }
           ]
         }
@@ -167,7 +168,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
@@ -180,8 +181,8 @@
               "line_data":"Processing Hours.",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"4440",
-              "fy+1":"4320"
+              "fy-0":"4,440",
+              "fy+1":"4,320"
             }
           ]
         }
@@ -196,7 +197,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
@@ -208,17 +209,17 @@
               "line_type":"data",
               "line_data":"Business Certificate received and processed ,Physican Certificate received and processed, Claims,.",
               "fy-2":"",
-              "fy-1":"6151",
-              "fy-0":"8500",
-              "fy+1":"9000"
+              "fy-1":"6,151",
+              "fy-0":"8,500",
+              "fy+1":"9,000"
             },
             {
               "line_type":"data",
               "line_data":"Other Statutory Document filing, Public Hearing Notice,.",
               "fy-2":"",
-              "fy-1":"2703",
-              "fy-0":"2700",
-              "fy+1":"3000"
+              "fy-1":"2,703",
+              "fy-0":"2,700",
+              "fy+1":"3,000"
             },
             {
               "line_type":"data",

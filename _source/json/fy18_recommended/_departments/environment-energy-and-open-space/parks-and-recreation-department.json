@@ -46,7 +46,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -55,7 +55,7 @@
     },
     "data":[
       {
-        "line_title":"Parks and Recreation Administration",
+        "name":"Parks and Recreation Administration",
         "line_type":"data",
         "fy-2":2678196,
         "fy-1":3342090,
@@ -63,7 +63,7 @@
         "fy+1":3135293
       },
       {
-        "line_title":"Parks Operations",
+        "name":"Parks Operations",
         "line_type":"data",
         "fy-2":11722777,
         "fy-1":11916104,
@@ -71,7 +71,7 @@
         "fy+1":13274760
       },
       {
-        "line_title":"Citywide Recreation",
+        "name":"Citywide Recreation",
         "line_type":"data",
         "fy-2":0,
         "fy-1":990261,
@@ -79,7 +79,7 @@
         "fy+1":1026013
       },
       {
-        "line_title":"Parks Design and Construction",
+        "name":"Parks Design and Construction",
         "line_type":"data",
         "fy-2":1814092,
         "fy-1":5122325,
@@ -87,7 +87,7 @@
         "fy+1":2154302
       },
       {
-        "line_title":"Cemetery",
+        "name":"Cemetery",
         "line_type":"data",
         "fy-2":2182933,
         "fy-1":2277347,
@@ -95,7 +95,7 @@
         "fy+1":2386180
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":18397998,
         "fy-1":23648127,
@@ -118,7 +118,7 @@
     },
     "data":[
       {
-        "line_title":"Fund for Parks and Recreation",
+        "name":"Fund for Parks and Recreation",
         "line_type":"data",
         "fy-2":3807887,
         "fy-1":6320497,
@@ -126,7 +126,7 @@
         "fy+1":4371187
       },
       {
-        "line_title":"George W. Parkman Trust Fund",
+        "name":"George W. Parkman Trust Fund",
         "line_type":"data",
         "fy-2":1265109,
         "fy-1":978173,
@@ -134,7 +134,7 @@
         "fy+1":1200001
       },
       {
-        "line_title":"Park Floodlighting Fees",
+        "name":"Park Floodlighting Fees",
         "line_type":"data",
         "fy-2":227004,
         "fy-1":279203,
@@ -142,7 +142,7 @@
         "fy+1":200000
       },
       {
-        "line_title":"The Ryder Cup Trust Fund",
+        "name":"The Ryder Cup Trust Fund",
         "line_type":"data",
         "fy-2":44084,
         "fy-1":14194,
@@ -150,7 +150,7 @@
         "fy+1":27600
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":5344084,
         "fy-1":7592067,
@@ -172,26 +172,26 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":11274854,
-      "fy-1":13217546,
-      "fy-0":13004639,
-      "fy+1":13697859
+      "fy-2":9566288,
+      "fy-1":11412105,
+      "fy-0":11121106,
+      "fy+1":11848679
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":7123144,
-      "fy-1":10430581,
-      "fy-0":7976419,
-      "fy+1":8278689
+      "fy-2":6648777,
+      "fy-1":9958675,
+      "fy-0":7440520,
+      "fy+1":7741689
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":18397998,
-      "fy-1":23648127,
-      "fy-0":20981058,
-      "fy+1":21976548
+      "fy-2":16215065,
+      "fy-1":21370780,
+      "fy-0":18561626,
+      "fy+1":19590368
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
@@ -202,12 +202,13 @@
     "Generally, 1953 Mass. Acts ch. 473 &sect; 1; CBC Ord. &sect;&sect; 11-10.1-11-10.2(q)."
   ],
   "description_of_services":[
-    "The Department is responsible for 217 City parks, playgrounds and athletic fields, 2 golf courses, 65 squares, 17 fountains, 75 game courts, 16 historic and 3 active cemeteries, urban wilds, 4 High School Athletic Fields, and approximately 125,000 trees,."
+    "The Department is responsible for 217 City parks, playgrounds and athletic fields, 2 golf courses, 65 squares, 17 fountains, 75 game courts, 16 historic and 3 active cemeteries, urban wilds, 4 High School Athletic Fields, and approximately 125,000 trees, all covering 2,346 acres, 1,000 of which comprise the historic Emerald Necklace. In addition, the Parks Department is responsible for more than 35,000 street trees. The department annually beautifies these park and open space areas with ornamental plantings of trees, shrubs, and flowers. The department schedules events and programs for the participation and enjoyment of the public."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",

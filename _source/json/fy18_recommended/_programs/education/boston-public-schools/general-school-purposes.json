@@ -30,32 +30,33 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":762246787,
-      "fy-1":790986551,
-      "fy-0":804031628,
-      "fy+1":827392443
+      "fy-2":769555784,
+      "fy-1":799131752,
+      "fy-0":812922599,
+      "fy+1":837136506
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":204437980,
-      "fy-1":217843904,
-      "fy-0":220694076,
-      "fy+1":225730728
+      "fy-2":204465170,
+      "fy-1":217942055,
+      "fy-0":220786549,
+      "fy+1":225833964
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":966684767,
-      "fy-1":1008830455,
-      "fy-0":1024725704,
-      "fy+1":1053123171
+      "fy-2":974020954,
+      "fy-1":1017073807,
+      "fy-0":1033709148,
+      "fy+1":1062970470
     }
   ],
   "program_history_by_account":{
     "table_title":"Program History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",
@@ -112,7 +113,7 @@
         "line_title":"Other",
         "line_type":"data",
         "fy-2":1234804,
-        "fy-1":0,
+        "fy-1":725661,
         "fy-0":885566,
         "fy+1":886076,
         "diff":510
@@ -121,7 +122,7 @@
         "line_title":"Total",
         "line_type":"total",
         "fy-2":273582991,
-        "fy-1":277728585,
+        "fy-1":278454246,
         "fy-0":269367032,
         "fy+1":277020896,
         "diff":7653864
@@ -138,7 +139,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
@@ -167,7 +168,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",

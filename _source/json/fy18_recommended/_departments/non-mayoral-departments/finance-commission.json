@@ -33,7 +33,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -42,7 +42,7 @@
     },
     "data":[
       {
-        "line_title":"Finance Commission",
+        "name":"Finance Commission",
         "line_type":"data",
         "fy-2":233474,
         "fy-1":256944,
@@ -50,7 +50,7 @@
         "fy+1":271275
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":233474,
         "fy-1":256944,
@@ -104,12 +104,13 @@
     "Off-Street Parking Facilities, Eminent Domain, 1946 Mass. Acts ch. 474, &sect; 1a, as amended."
   ],
   "description_of_services":[
-    "The Finance Commission conducts investigations into all matters it deems appropriate. The Commission hires independent staff who conduct many of the investigations, with the Commission publishing and presenting all final reports. The Finance Commission."
+    "The Finance Commission conducts investigations into all matters it deems appropriate. The Commission hires independent staff who conduct many of the investigations, with the Commission publishing and presenting all final reports. The Finance Commission also reviews, and if necessary investigates, all contracts referred to it and reports its findings and recommendations to the Mayor."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",

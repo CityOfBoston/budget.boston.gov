@@ -61,7 +61,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -70,7 +70,7 @@
     },
     "data":[
       {
-        "line_title":"Personnel",
+        "name":"Personnel",
         "line_type":"data",
         "fy-2":1813038,
         "fy-1":1750447,
@@ -78,7 +78,7 @@
         "fy+1":2265403
       },
       {
-        "line_title":"Affirmative Action",
+        "name":"Affirmative Action",
         "line_type":"data",
         "fy-2":77197,
         "fy-1":53743,
@@ -86,7 +86,7 @@
         "fy+1":30500
       },
       {
-        "line_title":"Health Benefits and Insurance",
+        "name":"Health Benefits and Insurance",
         "line_type":"data",
         "fy-2":590910,
         "fy-1":593523,
@@ -94,7 +94,7 @@
         "fy+1":793932
       },
       {
-        "line_title":"Employee Assistance",
+        "name":"Employee Assistance",
         "line_type":"data",
         "fy-2":80730,
         "fy-1":174328,
@@ -102,7 +102,7 @@
         "fy+1":18927
       },
       {
-        "line_title":"Workers Comp",
+        "name":"Workers Comp",
         "line_type":"data",
         "fy-2":923347,
         "fy-1":924982,
@@ -110,7 +110,7 @@
         "fy+1":828171
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":3485222,
         "fy-1":3497023,
@@ -170,12 +170,13 @@
     "Special Fund; Trust Fund; Assessment Base and Rates; Payments; Reports; Audits, M.G.L.A. c. 152, &sect; 65."
   ],
   "description_of_services":[
-    "Human Resources supplies departments with systems with which to manage hiring, compensation, and promotion. It pursues good labor relations, monitors unemployment benefits, and conducts affirmative action and recruitment programs as well as a full range."
+    "Human Resources supplies departments with systems with which to manage hiring, compensation, and promotion. It pursues good labor relations, monitors unemployment benefits, and conducts affirmative action and recruitment programs as well as a full range of training programs. Additionally, the Department operates elements of the City's risk management program including employee assistance and managing attendance. As a direct service to both active and retired employees, the Department provides comprehensive and economical health insurance and life insurance, as well as access to all records."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",

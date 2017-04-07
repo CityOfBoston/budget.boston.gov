@@ -36,7 +36,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -45,7 +45,7 @@
     },
     "data":[
       {
-        "line_title":"Disabilities",
+        "name":"Disabilities",
         "line_type":"data",
         "fy-2":364997,
         "fy-1":287325,
@@ -53,7 +53,7 @@
         "fy+1":426618
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":364997,
         "fy-1":287325,
@@ -106,12 +106,13 @@
     "Issuance of Temporary Parking Permits, CBC Ord. &sect; 6-7.3."
   ],
   "description_of_services":[
-    "The Disabilities Commission is responsible for investigating and enforcing anti-discrimination laws, providing information and referral services, advocating the support of disabilities issues, conducting education and outreach to constituents, and coordin."
+    "The Disabilities Commission is responsible for investigating and enforcing anti-discrimination laws, providing information and referral services, advocating the support of disabilities issues, conducting education and outreach to constituents, and coordinating the City&rsquo;s compliance with the Americans with Disabilities Act (ADA)."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",

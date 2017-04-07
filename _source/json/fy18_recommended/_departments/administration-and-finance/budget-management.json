@@ -46,7 +46,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -55,7 +55,7 @@
     },
     "data":[
       {
-        "line_title":"Budget Administration",
+        "name":"Budget Administration",
         "line_type":"data",
         "fy-2":1170876,
         "fy-1":1327635,
@@ -63,7 +63,7 @@
         "fy+1":1001218
       },
       {
-        "line_title":"Budget and Management",
+        "name":"Budget and Management",
         "line_type":"data",
         "fy-2":531594,
         "fy-1":551482,
@@ -71,7 +71,7 @@
         "fy+1":842389
       },
       {
-        "line_title":"Revenue Monitoring",
+        "name":"Revenue Monitoring",
         "line_type":"data",
         "fy-2":225956,
         "fy-1":193686,
@@ -79,7 +79,7 @@
         "fy+1":866648
       },
       {
-        "line_title":"Capital Budgeting",
+        "name":"Capital Budgeting",
         "line_type":"data",
         "fy-2":483707,
         "fy-1":473233,
@@ -87,7 +87,7 @@
         "fy+1":503146
       },
       {
-        "line_title":"Risk Management",
+        "name":"Risk Management",
         "line_type":"data",
         "fy-2":172924,
         "fy-1":176751,
@@ -95,7 +95,7 @@
         "fy+1":191357
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":2585057,
         "fy-1":2722787,
@@ -149,12 +149,13 @@
     "Penalty for Overspending Budget, Tregor, 1982 Mass. Acts ch. 190, &sect; 17."
   ],
   "description_of_services":[
-    "The Office of Budget Management coordinates the analysis and presentation of the Mayor's operating budget and capital plan. The Office also assembles, analyzes and presents data with respect to revenue and debt management. In addition, the Office assist."
+    "The Office of Budget Management coordinates the analysis and presentation of the Mayor's operating budget and capital plan. The Office also assembles, analyzes and presents data with respect to revenue and debt management. In addition, the Office assists line departments to evaluate programs and to establish and use performance measures to improve the quality, effectiveness, and efficiency of City services while minimizing the cost of program delivery."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",

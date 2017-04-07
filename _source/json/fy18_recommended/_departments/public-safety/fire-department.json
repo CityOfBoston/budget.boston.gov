@@ -53,7 +53,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -62,7 +62,7 @@
     },
     "data":[
       {
-        "line_title":"BFD Administration",
+        "name":"BFD Administration",
         "line_type":"data",
         "fy-2":18732567,
         "fy-1":16075074,
@@ -70,7 +70,7 @@
         "fy+1":17005853
       },
       {
-        "line_title":"Boston Fire Suppression",
+        "name":"Boston Fire Suppression",
         "line_type":"data",
         "fy-2":161551602,
         "fy-1":165813092,
@@ -78,7 +78,7 @@
         "fy+1":177730845
       },
       {
-        "line_title":"Fire Alarm",
+        "name":"Fire Alarm",
         "line_type":"data",
         "fy-2":8388452,
         "fy-1":9060069,
@@ -86,7 +86,7 @@
         "fy+1":10048082
       },
       {
-        "line_title":"BFD Training",
+        "name":"BFD Training",
         "line_type":"data",
         "fy-2":4565225,
         "fy-1":4693957,
@@ -94,7 +94,7 @@
         "fy+1":5269509
       },
       {
-        "line_title":"Maintenance",
+        "name":"Maintenance",
         "line_type":"data",
         "fy-2":7606247,
         "fy-1":9138032,
@@ -102,7 +102,7 @@
         "fy+1":9351783
       },
       {
-        "line_title":"BFD Fire Prevention",
+        "name":"BFD Fire Prevention",
         "line_type":"data",
         "fy-2":10390385,
         "fy-1":11393025,
@@ -110,7 +110,7 @@
         "fy+1":11953101
       },
       {
-        "line_title":"Firefighter Safety, Health and Wellness",
+        "name":"Firefighter Safety, Health and Wellness",
         "line_type":"data",
         "fy-2":0,
         "fy-1":744608,
@@ -118,7 +118,7 @@
         "fy+1":827013
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":211234478,
         "fy-1":216917857,
@@ -141,7 +141,7 @@
     },
     "data":[
       {
-        "line_title":"Fire Alarm",
+        "name":"Fire Alarm",
         "line_type":"data",
         "fy-2":2535,
         "fy-1":0,
@@ -149,7 +149,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Fire Prevention and Education Fund",
+        "name":"Fire Prevention and Education Fund",
         "line_type":"data",
         "fy-2":0,
         "fy-1":0,
@@ -157,7 +157,7 @@
         "fy+1":20000
       },
       {
-        "line_title":"Hazardous Materials Response",
+        "name":"Hazardous Materials Response",
         "line_type":"data",
         "fy-2":168950,
         "fy-1":111843,
@@ -165,7 +165,7 @@
         "fy+1":237500
       },
       {
-        "line_title":"Hazmat Recovery Fund",
+        "name":"Hazmat Recovery Fund",
         "line_type":"data",
         "fy-2":23999,
         "fy-1":4158,
@@ -173,7 +173,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Hazmat Team Response",
+        "name":"Hazmat Team Response",
         "line_type":"data",
         "fy-2":14846,
         "fy-1":1470,
@@ -181,7 +181,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Mass Decontam Unit (MDU)",
+        "name":"Mass Decontam Unit (MDU)",
         "line_type":"data",
         "fy-2":17904,
         "fy-1":2340,
@@ -189,7 +189,7 @@
         "fy+1":40000
       },
       {
-        "line_title":"Port Security Program Grant",
+        "name":"Port Security Program Grant",
         "line_type":"data",
         "fy-2":4644,
         "fy-1":465957,
@@ -197,7 +197,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Safer Grant",
+        "name":"Safer Grant",
         "line_type":"data",
         "fy-2":0,
         "fy-1":4034422,
@@ -205,7 +205,7 @@
         "fy+1":1628205
       },
       {
-        "line_title":"Safety, Health and Wellness",
+        "name":"Safety, Health and Wellness",
         "line_type":"data",
         "fy-2":0,
         "fy-1":4387,
@@ -213,7 +213,7 @@
         "fy+1":20000
       },
       {
-        "line_title":"State Training Grant",
+        "name":"State Training Grant",
         "line_type":"data",
         "fy-2":1189059,
         "fy-1":2007176,
@@ -221,7 +221,7 @@
         "fy+1":2250000
       },
       {
-        "line_title":"The Last Call Foundation",
+        "name":"The Last Call Foundation",
         "line_type":"data",
         "fy-2":44731,
         "fy-1":165130,
@@ -229,7 +229,7 @@
         "fy+1":150000
       },
       {
-        "line_title":"Training Academy Revolving Fund",
+        "name":"Training Academy Revolving Fund",
         "line_type":"data",
         "fy-2":3450,
         "fy-1":0,
@@ -237,7 +237,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":1470118,
         "fy-1":6796883,
@@ -290,12 +290,13 @@
     "Fire Prevention Code, 1962 Mass. Acts ch. 314."
   ],
   "description_of_services":[
-    "The Fire Department provides fire and emergency protection to all Boston residents and to the hundreds of thousands of people who work, shop and visit the city. To provide this protection, the Fire Department deploys 33 engine companies (five of which are."
+    "The Fire Department provides fire and emergency protection to all Boston residents and to the hundreds of thousands of people who work, shop and visit the city. To provide this protection, the Fire Department deploys 33 engine companies (five of which are trained and staffed to respond to hazardous material, weapons of mass destruction and decontamination incidents), 19 ladder companies, one fire brigade, three tower ladder companies, two rescue companies, one marine unit (comprised of two vessels), a Safety Division, Six Special Operations Command Units which include a Hazardous Materials Operations Unit, a Mobile Decontamination Unit, a Decontamination Supply Unit, two Technical Rescue Support Units and a Collapse Unit. The Fire Department also operates a Special Unit that doubles as a lighting plant and backup Hazardous Materials Unit through a dispatching system maintained at the Fire Alarm Communications Center. The City&rsquo;s mutual aid agreement with surrounding areas continues to benefit the City and the involved communities. The Fire Prevention Program provides public education and inspections of residential and commercial properties, investigates suspected arson fires, and issues permits and licenses."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",
@@ -373,7 +374,7 @@
       "debug":"JEFP",
       "project":"Assistance to Firefighters Grant Program",
       "project_mission":[
-        "Funding provided from the US Department of Homeland Security, Preparedness Directorate&rsquo;s Office of Grants and Training, in cooperation with the United States Fire Administration under a competitive federal grant program. The program breaks down into three primary components: 1. the Assistance to Firefighters Grant (AFG) works to meet the firefighting and emergency response needs of fire departments and nonaffiliated emergency medical services organizations; 2. the Safer (Staffing for Adequate Fire and Emergency Response) Grant program provides funding directly to the fire department (Fire Prevention) in order to help increase the number of trained, &ldquo;front-line&ldquo;; firefighters available in the City; 3. the Fire Prevention and Safety Grants (FPandS) grants support projects that enhance the safety of the public and firefighters from fire and related hazards. The primary goal is to target high-risk populations, firefighter safety and mitigate high incidences of death and injury. Since FY2007, the department has been awarded six grants from these programs for the purchase of firefighting and personal protective equipment such as computer terminals, computer tablets, protective rescue boots, mobile portable radios and other communications equipment. In addition, for the first time in FY2009, the program funded a rear mounted aerial ladder truck for deployment in the department&rsquo;s fleet."
+        "Funding provided from the US Department of Homeland Security, Preparedness Directorate&rsquo;s Office of Grants and Training, in cooperation with the United States Fire Administration under a competitive federal grant program. The program breaks down into three primary components: 1. the Assistance to Firefighters Grant (AFG) works to meet the firefighting and emergency response needs of fire departments and nonaffiliated emergency medical services organizations; 2. the Safer (Staffing for Adequate Fire and Emergency Response) Grant program provides funding directly to the fire department (Fire Prevention) in order to help increase the number of trained, &ldquo;front-line&rdquo; firefighters available in the City; 3. the Fire Prevention and Safety Grants (FPandS) grants support projects that enhance the safety of the public and firefighters from fire and related hazards. The primary goal is to target high-risk populations, firefighter safety and mitigate high incidences of death and injury. Since FY2007, the department has been awarded six grants from these programs for the purchase of firefighting and personal protective equipment such as computer terminals, computer tablets, protective rescue boots, mobile portable radios and other communications equipment. In addition, for the first time in FY2009, the program funded a rear mounted aerial ladder truck for deployment in the department&rsquo;s fleet."
       ]
     },
     {

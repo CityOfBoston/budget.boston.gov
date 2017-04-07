@@ -34,7 +34,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -43,7 +43,7 @@
     },
     "data":[
       {
-        "line_title":"Immigrant Advancement",
+        "name":"Immigrant Advancement",
         "line_type":"data",
         "fy-2":362790,
         "fy-1":381363,
@@ -51,7 +51,7 @@
         "fy+1":439937
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":362790,
         "fy-1":381363,
@@ -74,7 +74,7 @@
     },
     "data":[
       {
-        "line_title":"DACA-DAPA Outreach Initiative",
+        "name":"DACA-DAPA Outreach Initiative",
         "line_type":"data",
         "fy-2":0,
         "fy-1":121851,
@@ -82,7 +82,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Immigrant Integration & Empowerment",
+        "name":"Immigrant Integration & Empowerment",
         "line_type":"data",
         "fy-2":43947,
         "fy-1":115893,
@@ -90,7 +90,7 @@
         "fy+1":78163
       },
       {
-        "line_title":"New Americans Library Corners",
+        "name":"New Americans Library Corners",
         "line_type":"data",
         "fy-2":0,
         "fy-1":13193,
@@ -98,7 +98,7 @@
         "fy+1":41660
       },
       {
-        "line_title":"New Bostonians Contributions",
+        "name":"New Bostonians Contributions",
         "line_type":"data",
         "fy-2":445702,
         "fy-1":322582,
@@ -106,7 +106,7 @@
         "fy+1":366000
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":489649,
         "fy-1":573519,
@@ -153,12 +153,13 @@
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
   "authorizing_statutes":[],
   "description_of_services":[
-    "The Office for Immigrant Advancement provides public education to inform immigrants about City services, information and referral to community services as well as information in conducting outreach to immigrant groups. The Office conducts on-going outrea."
+    "The Office for Immigrant Advancement provides public education to inform immigrants about City services, information and referral to community services as well as information in conducting outreach to immigrant groups. The Office conducts on-going outreach, including surveys to identify concerns and problems that immigrants face in Boston. The Office works with City departments to better reach and serve diverse cultural and linguistic communities and create a welcoming multicultural environment. The Office collaborates with other agencies to promote multiculturalism and understanding of immigrant history."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",
@@ -243,7 +244,7 @@
       "debug":"JEFP",
       "project":"Immigrant Integration & Empowerment",
       "project_mission":[
-        "The Immigrant Integration and Empower Initiative seeks to develop a detailed action plan for all City Departments and launch a citywide media and public relations campaign in mainstream, ethnic, and local media outlets to change the rhetoric about immigrants and maximize engagement and participation, and partner with nonprofits to facilitate four annual &ldquo;Community Leadership Institutes&ldquo;; for immigrant communities that offer leadership training on taking a more active role on decision-making bodies and navigating city government services and resources. Funding is provided by the BARR Foundation that totals $262,500 over a time frame of 30 months."
+        "The Immigrant Integration and Empower Initiative seeks to develop a detailed action plan for all City Departments and launch a citywide media and public relations campaign in mainstream, ethnic, and local media outlets to change the rhetoric about immigrants and maximize engagement and participation, and partner with nonprofits to facilitate four annual &ldquo;Community Leadership Institutes&rdquo; for immigrant communities that offer leadership training on taking a more active role on decision-making bodies and navigating city government services and resources. Funding is provided by the BARR Foundation that totals $262,500 over a time frame of 30 months."
       ]
     },
     {

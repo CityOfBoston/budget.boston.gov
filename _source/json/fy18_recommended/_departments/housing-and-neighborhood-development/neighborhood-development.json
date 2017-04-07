@@ -16,7 +16,8 @@
   "head_title":"Chief of Housing and Neighborhood Development",
   "appropriation_code":"Appropriation 188",
   "mission":[
-    "The Cabinet is committed to making Boston the most livable city in the nation by working with its many communities to build strong neighborhoods through the strategic investment of public resources. In 2014, Mayor Walsh announced his Boston 2030 plan which outlines a new comprehensive approach to accommodating Boston's complex housing needs over the next 15 years. Funding committed for the new plan has been renamed the &ldquo;Housing 2030 Fund&ldquo;; which is included in the Neighborhood Development Operating Budget in &ldquo;Program 3. Housing Development and Services.&ldquo;;."
+    "The Cabinet is committed to making Boston the most livable city in the nation by working with its many communities to build strong neighborhoods through the strategic investment of public resources.",
+    "In 2014, Mayor Walsh announced his Boston 2030 plan which outlines a new comprehensive approach to accommodating Boston's complex housing needs over the next 15 years. Funding committed for the new plan has been renamed the &ldquo;Housing 2030 Fund&rdquo; which is included in the Neighborhood Development Operating Budget in &ldquo;Program 3. Housing Development and Services.&rdquo;"
   ],
   "selected_performance_strategies":[
     {
@@ -51,7 +52,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -60,7 +61,7 @@
     },
     "data":[
       {
-        "line_title":"Neighborhood Development Administration",
+        "name":"Neighborhood Development Administration",
         "line_type":"data",
         "fy-2":1913600,
         "fy-1":1234445,
@@ -68,7 +69,7 @@
         "fy+1":1711502
       },
       {
-        "line_title":"Real Estate Management and Sales",
+        "name":"Real Estate Management and Sales",
         "line_type":"data",
         "fy-2":1775390,
         "fy-1":1782889,
@@ -76,7 +77,7 @@
         "fy+1":1616592
       },
       {
-        "line_title":"Housing Development and Services",
+        "name":"Housing Development and Services",
         "line_type":"data",
         "fy-2":716906,
         "fy-1":7846242,
@@ -84,7 +85,7 @@
         "fy+1":9797521
       },
       {
-        "line_title":"Business Services",
+        "name":"Business Services",
         "line_type":"data",
         "fy-2":562366,
         "fy-1":680479,
@@ -92,7 +93,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":4968262,
         "fy-1":11544055,
@@ -115,7 +116,7 @@
     },
     "data":[
       {
-        "line_title":"Abandoned Property Rehab Grant",
+        "name":"Abandoned Property Rehab Grant",
         "line_type":"data",
         "fy-2":1679,
         "fy-1":26000,
@@ -123,7 +124,7 @@
         "fy+1":0
       },
       {
-        "line_title":"ARRA - Neighborhood Stabilization Program",
+        "name":"ARRA - Neighborhood Stabilization Program",
         "line_type":"data",
         "fy-2":97101,
         "fy-1":340400,
@@ -131,7 +132,7 @@
         "fy+1":0
       },
       {
-        "line_title":"BRA/HODAG Program Income",
+        "name":"BRA/HODAG Program Income",
         "line_type":"data",
         "fy-2":2866357,
         "fy-1":0,
@@ -139,7 +140,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Brownfields Economic Development Initiative",
+        "name":"Brownfields Economic Development Initiative",
         "line_type":"data",
         "fy-2":157849,
         "fy-1":97145,
@@ -147,7 +148,7 @@
         "fy+1":50334
       },
       {
-        "line_title":"CDBG",
+        "name":"CDBG",
         "line_type":"data",
         "fy-2":17159535,
         "fy-1":22349852,
@@ -155,7 +156,7 @@
         "fy+1":18578341
       },
       {
-        "line_title":"Choice Neighborhood Implementation Grant",
+        "name":"Choice Neighborhood Implementation Grant",
         "line_type":"data",
         "fy-2":1589852,
         "fy-1":3067674,
@@ -163,7 +164,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Community Challenge Planning Grant",
+        "name":"Community Challenge Planning Grant",
         "line_type":"data",
         "fy-2":1041635,
         "fy-1":123340,
@@ -171,7 +172,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Continuum of Care",
+        "name":"Continuum of Care",
         "line_type":"data",
         "fy-2":20830905,
         "fy-1":21550104,
@@ -179,7 +180,7 @@
         "fy+1":24243260
       },
       {
-        "line_title":"Emergency Solutions Grant",
+        "name":"Emergency Solutions Grant",
         "line_type":"data",
         "fy-2":1194278,
         "fy-1":1413450,
@@ -187,7 +188,7 @@
         "fy+1":1434653
       },
       {
-        "line_title":"EPA/Brownfields",
+        "name":"EPA/Brownfields",
         "line_type":"data",
         "fy-2":194930,
         "fy-1":29852,
@@ -195,7 +196,7 @@
         "fy+1":133333
       },
       {
-        "line_title":"HOME",
+        "name":"HOME",
         "line_type":"data",
         "fy-2":3349572,
         "fy-1":3719181,
@@ -203,7 +204,7 @@
         "fy+1":4248201
       },
       {
-        "line_title":"HomeCorp",
+        "name":"HomeCorp",
         "line_type":"data",
         "fy-2":320330,
         "fy-1":0,
@@ -211,7 +212,7 @@
         "fy+1":0
       },
       {
-        "line_title":"HOPWA",
+        "name":"HOPWA",
         "line_type":"data",
         "fy-2":1791706,
         "fy-1":1915264,
@@ -219,7 +220,7 @@
         "fy+1":2019112
       },
       {
-        "line_title":"Housing 2030",
+        "name":"Housing 2030",
         "line_type":"data",
         "fy-2":0,
         "fy-1":2472088,
@@ -227,7 +228,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Inclusionary Development Fund",
+        "name":"Inclusionary Development Fund",
         "line_type":"data",
         "fy-2":2838679,
         "fy-1":6608256,
@@ -235,7 +236,7 @@
         "fy+1":10025000
       },
       {
-        "line_title":"Lead Paint Abatement",
+        "name":"Lead Paint Abatement",
         "line_type":"data",
         "fy-2":1250983,
         "fy-1":987552,
@@ -243,7 +244,7 @@
         "fy+1":1290473
       },
       {
-        "line_title":"Neighborhood Development Fund",
+        "name":"Neighborhood Development Fund",
         "line_type":"data",
         "fy-2":670920,
         "fy-1":0,
@@ -251,7 +252,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Neighborhood Stabilization Program (State)",
+        "name":"Neighborhood Stabilization Program (State)",
         "line_type":"data",
         "fy-2":297785,
         "fy-1":142629,
@@ -259,7 +260,7 @@
         "fy+1":0
       },
       {
-        "line_title":"OBD EDI EMP/Non EMP",
+        "name":"OBD EDI EMP/Non EMP",
         "line_type":"data",
         "fy-2":280000,
         "fy-1":11106,
@@ -267,7 +268,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Regional Foreclosure Education Grant (COM)",
+        "name":"Regional Foreclosure Education Grant (COM)",
         "line_type":"data",
         "fy-2":33451,
         "fy-1":118810,
@@ -275,7 +276,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Section 108 (Boston Invests in Growth II)",
+        "name":"Section 108 (Boston Invests in Growth II)",
         "line_type":"data",
         "fy-2":0,
         "fy-1":43664,
@@ -283,7 +284,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Section 108 (Unrestricted)",
+        "name":"Section 108 (Unrestricted)",
         "line_type":"data",
         "fy-2":559472,
         "fy-1":456023,
@@ -291,7 +292,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Triple Decker Initiative",
+        "name":"Triple Decker Initiative",
         "line_type":"data",
         "fy-2":166573,
         "fy-1":38237,
@@ -299,7 +300,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":56693592,
         "fy-1":65510627,
@@ -358,12 +359,13 @@
     "1994 Mass. Acts ch. 282; CBC Ord. &sect; 10-2.1."
   ],
   "description_of_services":[
-    "The Department provides services and assistance through a wide variety of programs that are designed to improve the current housing stock of existing homeowners, promote homeownership, develop and preserve affordable housing, and dispose of City-owned."
+    "The Department provides services and assistance through a wide variety of programs that are designed to improve the current housing stock of existing homeowners, promote homeownership, develop and preserve affordable housing, and dispose of City-owned tax foreclosed and surplus property in a responsible manner."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",

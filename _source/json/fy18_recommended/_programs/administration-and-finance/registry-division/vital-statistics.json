@@ -56,6 +56,7 @@
     "table_title":"Program History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",
@@ -138,7 +139,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
@@ -149,26 +150,26 @@
             {
               "line_type":"data",
               "line_data":"Death Certificate requests by mail.",
-              "fy-2":"18224",
-              "fy-1":"15816",
-              "fy-0":"16500",
-              "fy+1":"16000"
+              "fy-2":"18,224",
+              "fy-1":"15,816",
+              "fy-0":"16,500",
+              "fy+1":"16,000"
             },
             {
               "line_type":"data",
               "line_data":"Death Certificates requests at counter.",
-              "fy-2":"24708",
-              "fy-1":"20760",
-              "fy-0":"22350",
-              "fy+1":"21000"
+              "fy-2":"24,708",
+              "fy-1":"20,760",
+              "fy-0":"22,350",
+              "fy+1":"21,000"
             },
             {
               "line_type":"data",
               "line_data":"Deaths registered.",
-              "fy-2":"7438",
-              "fy-1":"7383",
-              "fy-0":"7400",
-              "fy+1":"7400"
+              "fy-2":"7,438",
+              "fy-1":"7,383",
+              "fy-0":"7,400",
+              "fy+1":"7,400"
             }
           ]
         }
@@ -183,7 +184,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
@@ -194,50 +195,50 @@
             {
               "line_type":"data",
               "line_data":"Birth Certificate requests at counter.",
-              "fy-2":"31135",
-              "fy-1":"33422",
-              "fy-0":"31700",
-              "fy+1":"31700"
+              "fy-2":"31,135",
+              "fy-1":"33,422",
+              "fy-0":"31,700",
+              "fy+1":"31,700"
             },
             {
               "line_type":"data",
               "line_data":"Birth Certificate requests by mail.",
-              "fy-2":"15755",
-              "fy-1":"14973",
-              "fy-0":"15525",
-              "fy+1":"15525"
+              "fy-2":"15,755",
+              "fy-1":"14,973",
+              "fy-0":"15,525",
+              "fy+1":"15,525"
             },
             {
               "line_type":"data",
               "line_data":"Birth Records registered from Hospitals.",
-              "fy-2":"18230",
-              "fy-1":"20968",
-              "fy-0":"21000",
-              "fy+1":"20200"
+              "fy-2":"18,230",
+              "fy-1":"20,968",
+              "fy-0":"21,000",
+              "fy+1":"20,200"
             },
             {
               "line_type":"data",
               "line_data":"Marriage Certificate requests at counter.",
-              "fy-2":"8258",
-              "fy-1":"9350",
-              "fy-0":"8950",
-              "fy+1":"9000"
+              "fy-2":"8,258",
+              "fy-1":"9,350",
+              "fy-0":"8,950",
+              "fy+1":"9,000"
             },
             {
               "line_type":"data",
               "line_data":"Marriage Certificate requests by mail.",
-              "fy-2":"3080",
-              "fy-1":"3188",
-              "fy-0":"2975",
-              "fy+1":"3000"
+              "fy-2":"3,080",
+              "fy-1":"3,188",
+              "fy-0":"2,975",
+              "fy+1":"3,000"
             },
             {
               "line_type":"data",
               "line_data":"Marriage Intentions Filed Electronically.",
-              "fy-2":"5040",
-              "fy-1":"5562",
-              "fy-0":"5500",
-              "fy+1":"5500"
+              "fy-2":"5,040",
+              "fy-1":"5,562",
+              "fy-0":"5,500",
+              "fy+1":"5,500"
             }
           ]
         }

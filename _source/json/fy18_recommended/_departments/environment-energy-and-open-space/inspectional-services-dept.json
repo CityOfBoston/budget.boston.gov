@@ -53,7 +53,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -62,7 +62,7 @@
     },
     "data":[
       {
-        "line_title":"ISD Commissioner's Office",
+        "name":"ISD Commissioner's Office",
         "line_type":"data",
         "fy-2":802695,
         "fy-1":1109917,
@@ -70,7 +70,7 @@
         "fy+1":1225752
       },
       {
-        "line_title":"ISD Administration and Finance",
+        "name":"ISD Administration and Finance",
         "line_type":"data",
         "fy-2":3552570,
         "fy-1":3399462,
@@ -78,7 +78,7 @@
         "fy+1":3487909
       },
       {
-        "line_title":"Buildings and Structures",
+        "name":"Buildings and Structures",
         "line_type":"data",
         "fy-2":6038443,
         "fy-1":6360690,
@@ -86,7 +86,7 @@
         "fy+1":6171154
       },
       {
-        "line_title":"Field Services",
+        "name":"Field Services",
         "line_type":"data",
         "fy-2":6307644,
         "fy-1":7362854,
@@ -94,7 +94,7 @@
         "fy+1":7628714
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":16701352,
         "fy-1":18232923,
@@ -117,7 +117,7 @@
     },
     "data":[
       {
-        "line_title":"Animal Control Fund",
+        "name":"Animal Control Fund",
         "line_type":"data",
         "fy-2":196807,
         "fy-1":331604,
@@ -125,7 +125,7 @@
         "fy+1":300000
       },
       {
-        "line_title":"Foreclosure Fund",
+        "name":"Foreclosure Fund",
         "line_type":"data",
         "fy-2":169660,
         "fy-1":154485,
@@ -133,7 +133,7 @@
         "fy+1":15700
       },
       {
-        "line_title":"Weights & Measures",
+        "name":"Weights & Measures",
         "line_type":"data",
         "fy-2":78439,
         "fy-1":109869,
@@ -141,7 +141,7 @@
         "fy+1":89182
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":444906,
         "fy-1":595958,
@@ -198,12 +198,13 @@
     "Animal Control/Dog Registration and Licensing, M.G.L.A. c. 140, &sect;&sect; 137, 141, 151a; CBC Ord. &sect;&sect; 7-9.1-7-9.3; CBC Ord. &sect;&sect; 16-1.9-16-1.9E(15), 16-1.10-16-1.10A."
   ],
   "description_of_services":[
-    "The Inspectional Services Department provides a broad range of regulatory services that include the inspection of buildings for compliance with building and public safety regulations, general housing inspections, and retail food establishment inspections."
+    "The Inspectional Services Department provides a broad range of regulatory services that include the inspection of buildings for compliance with building and public safety regulations, general housing inspections, and retail food establishment inspections for compliance with public health regulations. The Department provides services to victims of serious incidents such as fire, building collapse, power failure, etc., by providing coordination and assistance with building board-ups, hazard waste removal, short term make-safe repair activities and counseling. The Department works in cooperation with other public safety, human service, and law enforcement agencies to investigate and prosecute fraudulent contractors, environmental violators and others engaged in illegal activities that could have a negative impact on the quality of life. The Inspectional Services Department continues to develop and implement public information programs about the services and activities available through this agency. Inspectional Services also administers the Animal Care and Control unit which enforces regulations pertaining to public safety of both residents and animals."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",
@@ -295,7 +296,7 @@
       "debug":"JEFP",
       "project":"Weights and Measures Enforcement Fund",
       "project_mission":[
-        "The fund was created in 1998 in order to be in compliance with MGL c. 98 s. 29A, which was amended in 1998 to allow local weights and measures departments to issue civil citations (fines). The amended law specifically required that the revenue collected from said fines be retained and expended only for the purposes of enforcing &ldquo;item pricing&ldquo;; and weights and measures laws."
+        "The fund was created in 1998 in order to be in compliance with MGL c. 98 s. 29A, which was amended in 1998 to allow local weights and measures departments to issue civil citations (fines). The amended law specifically required that the revenue collected from said fines be retained and expended only for the purposes of enforcing &ldquo;item pricing&rdquo; and weights and measures laws."
       ]
     }
   ]

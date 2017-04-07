@@ -56,6 +56,7 @@
     "table_title":"Program History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",
@@ -138,7 +139,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
@@ -151,8 +152,8 @@
               "line_data":"# of constituents reached via MOIA newsletter and website.",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"2500",
-              "fy+1":"2000"
+              "fy-0":"2,500",
+              "fy+1":"2,000"
             },
             {
               "line_type":"data",
@@ -175,7 +176,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
@@ -204,8 +205,8 @@
               "line_data":"# of constituents contacts (emails, calls, walk-ins).",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"1000",
-              "fy+1":"1000"
+              "fy-0":"1,000",
+              "fy+1":"1,000"
             },
             {
               "line_type":"data",
@@ -228,16 +229,16 @@
               "line_data":"# of materials distributed @ city departments, community events, immigrant information corners, immigration clinincs, presentations etc.",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"1200",
-              "fy+1":"1200"
+              "fy-0":"1,200",
+              "fy+1":"1,200"
             },
             {
               "line_type":"data",
               "line_data":"# of social media hits (twitter and facebook).",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"150000",
-              "fy+1":"150000"
+              "fy-0":"150,000",
+              "fy+1":"150,000"
             },
             {
               "line_type":"data",
@@ -252,7 +253,7 @@
               "line_data":"Change in average # of community members engaged and reached at events/meetings/education workshops.",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"",
+              "fy-0":"N/A",
               "fy+1":""
             }
           ]
@@ -268,7 +269,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
@@ -289,7 +290,7 @@
               "line_data":"growth in # of collaborations with city departments.",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"",
+              "fy-0":"N/A",
               "fy+1":""
             }
           ]
@@ -305,7 +306,7 @@
         {
           "table_header":{
             "debug":"JPM",
-            "Program Name":"Performance Measures",
+            "Performance Goals":"Performance Measures",
             "line_type":"header",
             "fy-2":"FY15 Actual",
             "fy-1":"FY16 Actual",
@@ -318,8 +319,8 @@
               "line_data":"# of constituents served with MOIA- facilitated grants (ENB, MOIA mini-grants, external funds).",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"1500",
-              "fy+1":"1500"
+              "fy-0":"1,500",
+              "fy+1":"1,500"
             }
           ]
         }

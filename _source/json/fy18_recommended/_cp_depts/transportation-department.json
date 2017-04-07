@@ -25,7 +25,6 @@
       "program":"Traffic Management and Engineering",
       "strategies":[
         "Design, construct, and maintain streetscapes that prioritize moving people safely.",
-        "Design, construct, and maintain streetscapes that prioritize moving people safely.",
         "Encourage multimodal, active transportation.",
         "Enhance Boston's walkability and neighborhood interconnectedness."
       ]
@@ -41,6 +40,12 @@
       "program":"Traffic Enforcement",
       "strategies":[
         "Design, construct, and maintain streetscapes that prioritize moving people safely."
+      ]
+    },
+    {
+      "program":"Traffic Operations",
+      "strategies":[
+        "Enhance Boston's walkability and neighborhood interconnectedness."
       ]
     }
   ],

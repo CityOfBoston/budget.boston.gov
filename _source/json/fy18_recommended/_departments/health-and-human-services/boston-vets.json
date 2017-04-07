@@ -35,7 +35,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -44,7 +44,7 @@
     },
     "data":[
       {
-        "line_title":"Veterans' Services",
+        "name":"Veterans' Services",
         "line_type":"data",
         "fy-2":4442074,
         "fy-1":3948303,
@@ -52,7 +52,7 @@
         "fy+1":4708453
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":4442074,
         "fy-1":3948303,
@@ -103,12 +103,13 @@
     "Appropriation for Grave Decoration, M.G.L.A. c. 115, &sect; 9."
   ],
   "description_of_services":[
-    "The Boston Office of Veterans Engagement, Transition, and Services (Boston VETS) assists Boston veterans in need of financial, medical, or other support services. The Department also coordinates with federal, state, and local agencies to help refer veter."
+    "The Boston Office of Veterans Engagement, Transition, and Services (Boston VETS) assists Boston veterans in need of financial, medical, or other support services. The Department also coordinates with federal, state, and local agencies to help refer veterans suffering from Agent Orange exposure, Post-Traumatic Stress Disorder, or other issues to appropriate service providers. The Department provides financial assistance and pays medical expenses for eligible veterans and their dependents. In addition, the Department assists veterans with obtaining burial plots in cemeteries owned by the City of Boston and assists indigent veterans with funeral and burial expenses. The Department also oversees the decoration of veterans&rsquo; graves and hero squares on Memorial Day."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",

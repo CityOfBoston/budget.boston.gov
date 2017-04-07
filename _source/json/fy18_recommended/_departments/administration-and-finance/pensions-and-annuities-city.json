@@ -16,14 +16,14 @@
   "head_title":Null,
   "appropriation_code":"Appropriation 374",
   "mission":[
-    "The Pensions and Annuities appropriation funds City payments for retirees who are not members of the contributory retirement system. These include approximately 28 individuals who qualify under the Veteran's Retirement Law as being World War II veterans, having 30 years of service, and being employed prior to 1939, and approximately 25 Police and Fire members who received special legislation retirements due to extreme workplace injuries."
+    "The Pensions and Annuities appropriation funds City payments for retirees who are not members of the contributory retirement system. These include approximately 28 individuals who qualify under the Veteran's Retirement Law as being World War II veterans, having 30 years of service, and being employed prior to 1939, and approximately 25 Police and Fire members who received special legislation retirements due to extreme workplace injuries"
   ],
   "operating_budget":{
     "debug":"JPTR",
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -32,7 +32,7 @@
     },
     "data":[
       {
-        "line_title":"Pensions and Annuities - City",
+        "name":"Pensions and Annuities - City",
         "line_type":"data",
         "fy-2":3336691,
         "fy-1":4063355,
@@ -40,7 +40,7 @@
         "fy+1":4100000
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":3336691,
         "fy-1":4063355,

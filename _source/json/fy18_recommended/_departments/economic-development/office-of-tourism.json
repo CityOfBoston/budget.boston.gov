@@ -24,7 +24,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -33,7 +33,7 @@
     },
     "data":[
       {
-        "line_title":"MOATSE Administration",
+        "name":"MOATSE Administration",
         "line_type":"data",
         "fy-2":352633,
         "fy-1":403303,
@@ -41,7 +41,7 @@
         "fy+1":404592
       },
       {
-        "line_title":"Film and Special Events",
+        "name":"Film and Special Events",
         "line_type":"data",
         "fy-2":566836,
         "fy-1":557227,
@@ -49,7 +49,7 @@
         "fy+1":844865
       },
       {
-        "line_title":"Tourism",
+        "name":"Tourism",
         "line_type":"data",
         "fy-2":92090,
         "fy-1":132419,
@@ -57,7 +57,7 @@
         "fy+1":76705
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":1011559,
         "fy-1":1092949,
@@ -80,7 +80,7 @@
     },
     "data":[
       {
-        "line_title":"City Hall Plaza Fund",
+        "name":"City Hall Plaza Fund",
         "line_type":"data",
         "fy-2":87768,
         "fy-1":109440,
@@ -88,7 +88,7 @@
         "fy+1":60000
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":87768,
         "fy-1":109440,
@@ -137,12 +137,13 @@
     "Enabling Legislation, CBC Ord. &sect;&sect; 15-3.1-15-3.2."
   ],
   "description_of_services":[
-    "The Office of Tourism serves Boston&rsquo;s residents, visitors, and the tourism industry in the following ways: producing year-round events including festivals, concerts, exhibitions, and public celebrations both downtown and in Boston&rsquo;s neighborhoods; support."
+    "The Office of Tourism serves Boston&rsquo;s residents, visitors, and the tourism industry in the following ways: producing year-round events including festivals, concerts, exhibitions, and public celebrations both downtown and in Boston&rsquo;s neighborhoods; supporting film and television production through Boston Film Bureau with permitting, location assistance, and coordination with local and state agencies; providing technical assistance to neighborhood based groups with event production; promoting Boston as a desirable destination for visitors, conventions, and family-oriented sporting events such as amateur collegiate, and Olympic tournaments; fostering international relations through its Sister City and Distinguished Guest Programs."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",

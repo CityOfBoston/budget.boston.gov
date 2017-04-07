@@ -50,7 +50,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -59,7 +59,7 @@
     },
     "data":[
       {
-        "line_title":"Assessing Operations",
+        "name":"Assessing Operations",
         "line_type":"data",
         "fy-2":1932134,
         "fy-1":2083229,
@@ -67,7 +67,7 @@
         "fy+1":2031298
       },
       {
-        "line_title":"Valuation",
+        "name":"Valuation",
         "line_type":"data",
         "fy-2":3285108,
         "fy-1":3628264,
@@ -75,7 +75,7 @@
         "fy+1":3865485
       },
       {
-        "line_title":"Executive",
+        "name":"Executive",
         "line_type":"data",
         "fy-2":1129196,
         "fy-1":1391991,
@@ -83,7 +83,7 @@
         "fy+1":1295901
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":6346438,
         "fy-1":7103484,
@@ -138,12 +138,13 @@
     "Cherry Sheets - State Aid, M.G.L.A. c. 58, &sect;&sect; 18B, 18C, 18F, 20A, 25, 25A; M.G.L.A. c. 29, &sect;&sect; 2O, 71."
   ],
   "description_of_services":[
-    "The Assessing Department is responsible for the valuation and assessment of all real and personal property in the City of Boston for the purpose of taxation. Assessment records are reviewed annually to reflect new construction, fire damage, and changes i."
+    "The Assessing Department is responsible for the valuation and assessment of all real and personal property in the City of Boston for the purpose of taxation. Assessment records are reviewed annually to reflect new construction, fire damage, and changes in ownership. The department conducts a revaluation program every three years. The department conducts research on assessment practices and provides the necessary accounting control and other related clerical support to properly assess real and personal property. The department maintains official maps, records of assessment and ownership, abatements and related property description data."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",

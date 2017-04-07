@@ -34,7 +34,7 @@
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
-      "Program Name":"Program Name",
+      "name":"Program Name",
       "line_type":"title",
       "fy-2":"FY15 Actual",
       "fy-1":"FY16 Actual",
@@ -43,7 +43,7 @@
     },
     "data":[
       {
-        "line_title":"Fair Housing Commission",
+        "name":"Fair Housing Commission",
         "line_type":"data",
         "fy-2":130776,
         "fy-1":151260,
@@ -51,7 +51,7 @@
         "fy+1":185723
       },
       {
-        "line_title":"Human Rights Commission",
+        "name":"Human Rights Commission",
         "line_type":"data",
         "fy-2":92251,
         "fy-1":9170,
@@ -59,7 +59,7 @@
         "fy+1":93004
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":223027,
         "fy-1":160430,
@@ -82,7 +82,7 @@
     },
     "data":[
       {
-        "line_title":"CDBG",
+        "name":"CDBG",
         "line_type":"data",
         "fy-2":432943,
         "fy-1":400350,
@@ -90,7 +90,7 @@
         "fy+1":373110
       },
       {
-        "line_title":"Fair Housing Asst Prog",
+        "name":"Fair Housing Asst Prog",
         "line_type":"data",
         "fy-2":147589,
         "fy-1":267834,
@@ -98,7 +98,7 @@
         "fy+1":210500
       },
       {
-        "line_title":"Housing Choice Program",
+        "name":"Housing Choice Program",
         "line_type":"data",
         "fy-2":81692,
         "fy-1":87720,
@@ -106,7 +106,7 @@
         "fy+1":0
       },
       {
-        "line_title":"Regional Opportunity Counseling Program",
+        "name":"Regional Opportunity Counseling Program",
         "line_type":"data",
         "fy-2":84118,
         "fy-1":184281,
@@ -114,7 +114,7 @@
         "fy+1":106662
       },
       {
-        "line_title":"Total",
+        "name":"Total",
         "line_type":"total",
         "fy-2":746342,
         "fy-1":940185,
@@ -166,12 +166,13 @@
     "Procedures, CBC Ord. &sect;&sect; 12-9.1-12-9.15."
   ],
   "description_of_services":[
-    "The Department is responsible for investigating and enforcing anti-discrimination laws, providing information and referral services, advocating in support of civil rights issues, conducting education and outreach to constituents, and coordinating the City."
+    "The Department is responsible for investigating and enforcing anti-discrimination laws, providing information and referral services, advocating in support of civil rights issues, conducting education and outreach to constituents, and coordinating the City&rsquo;s compliance with the Americans with Disabilities Act (ADA)."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",

@@ -56,6 +56,7 @@
     "table_title":"Program History by Account",
     "table_header":{
       "line_type":"title",
+      "category":"Category",
       "fy-2":"FY15 Expenditure",
       "fy-1":"FY16 Expenditure",
       "fy-0":"FY17 Appropriation",
@@ -127,7 +128,6 @@
         "diff":-82067
       }
     ]
-  },
-  "performance_strategies":[]
+  }
 }
 ---
