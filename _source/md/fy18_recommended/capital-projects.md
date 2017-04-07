@@ -493,4 +493,9 @@ components:
       modern fire stations, and planning money for the
       construction of a new North Washington Street bridge,
       which will help leverage state construction funds. 
+- text_block:
+  - title: More resources
+    body: >
+      Include links to PDF versions of the tables at the end of the capital chapter
+      Link to the all funds budget table PDF
 ---
