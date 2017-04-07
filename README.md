@@ -240,12 +240,19 @@ spanning_image:
       <li>condimentum. Ut condimentum commodo quam.</li>
       <li>Phasellus sed metus eu velit pellentesque</li>
       </ol>
-  - col: >
-      Second Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non turpis nibh.
-      Sed eleifend orci pretium magna tempus vehicula.
-      <blockquote>Donec sodales massa vel leo porttitor. Ut condimentum commodo quam.</blockquote>
-      condimentum. Ut condimentum commodo quam. Phasellus sed metus eu velit pellentesque
-      porta. Suspendisse iaculis feugiat accumsan.
+      <p>Paragraph Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non turpis nibh.
+      Sed eleifend orci pretium magna tempus vehicula.</p>
+      <p>Paragraph Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non turpis nibh.
+      Sed eleifend orci pretium magna tempus vehicula.</p>
+  - col:
+    - blurb: >
+        Second Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non turpis nibh.
+        Sed eleifend orci pretium magna tempus vehicula.
+    - img: /img/mayor.jpg
+    - blurb: >
+        <blockquote>Donec sodales massa vel leo porttitor. Ut condimentum commodo quam.</blockquote>
+        condimentum. Ut condimentum commodo quam. Phasellus sed metus eu velit pellentesque
+        porta. Suspendisse iaculis feugiat accumsan.
 ```
 
 ---

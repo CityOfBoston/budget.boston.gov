@@ -4,7 +4,15 @@
       <div class="content">
         {% for column in include.arg | limit: 3 %}
           <div class="field field-name-field-left-column field-type-text-long field-label-hidden">
-            {{ column.col }}
+            {% for item in column.col %}
+              {% if item.blurb %}
+                {{ item.blurb }}
+              {% elsif item.img %}
+                <img src="{{ site.url }}/{{ item.img }}" />
+              {% else %}
+                {{ item }}
+              {% endif %}
+            {% endfor %}
           </div>
         {% endfor %}
       </div>

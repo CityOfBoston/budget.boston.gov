@@ -69,6 +69,7 @@ components:
       accounted for 60% of the new growth. New growth is expected to be approximately $50 
       million in FY18, which is very high compared to historical levels of new growth 
       seen prior to FY17.</p>
+  - col: >
       <h5>Property tax growth</h5>
       <p>Property tax growth from new growth has exceeded that from the allowable 2.5% 
       increase in 21 of the last 34 years. However, as was evident during the last 
