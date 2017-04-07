@@ -144,9 +144,11 @@ layout: bos_wrapper
       width="200"
       height="200"
       data-labels='
+      {% comment %}
         {{ page.operating_department.fy-2 }},
         {{ page.operating_department.fy-1 }},
         {{ page.operating_department.fy-0 }},
+      {% endcomment %}
         {{ page.operating_department["fy+1"] }}
       '
       data='{
