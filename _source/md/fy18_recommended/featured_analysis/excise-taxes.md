@@ -57,28 +57,34 @@ components:
       excise receipts are estimated based on air travel statistics from Logan 
       International Airport, leisure and hospitality employment numbers, and the 
       consumer price index for recreation for Boston.</p>
-  - col: >
-      <h5>Vehicle rental surcharges</h5>
-      <p>The vehicle rental surcharge is a revenue-sharing arrangement with the 
-      Commonwealth. Under this arrangement, all vehicle rental contracts originating 
-      in the City are subject to a $10 surcharge. The City receives $1 of 
-      this surcharge.</p>
-      <p>The City received $300 thousand in FY15 and $1.6 million in FY16. In FY17, 
-      the City expects to exceed the budgeted $1.3 million and the FY18 budget 
-      assumes an increase to $1.5 million.</p>
+  - col:
+    - blurb: >
+        <h5>Vehicle rental surcharges</h5>
+        <p>The vehicle rental surcharge is a revenue-sharing arrangement with the 
+        Commonwealth. Under this arrangement, all vehicle rental contracts originating 
+        in the City are subject to a $10 surcharge. The City receives $1 of 
+        this surcharge.</p>
+    - img: /img/mayor.jpg
+    - blurb: >
+        <p>The City received $300 thousand in FY15 and $1.6 million in FY16. In FY17, 
+        the City expects to exceed the budgeted $1.3 million and the FY18 budget 
+        assumes an increase to $1.5 million.</p>
 - text_col_2:
-  - col: >
-      <h5>Jet fuel excise revenue</h5>
-      <p>The excise on the sale of jet fuel is 5% of the average sales price of 
-      the previous quarter, but not less than five cents per gallon. Increases in 
-      fuel prices lead to increased jet fuel excise revenue. Jet fuel prices have 
-      decreased sharply from their peak in FY12:</p>
-      <ul>
-      <li>Jet fuel excise revenue totaled $29.7 million in FY15 and $36.8 million in FY16 due to a late payment from FY15.</li>
-      <li>The City budgeted $27.7 million in FY17 and the FY18 budget estimates a decrease to $22.0 million as low fuel prices are expected to continue.</li>
-      </ul>
-      <p>Estimates incorporate fuel price forecasts from the Energy Information 
-      Administration (EIA) and air traffic volume from Logan International Airport.</p>
+  - col:
+    - blurb: > 
+        <h5>Jet fuel excise revenue</h5>
+        <p>The excise on the sale of jet fuel is 5% of the average sales price of 
+        the previous quarter, but not less than five cents per gallon. Increases in 
+        fuel prices lead to increased jet fuel excise revenue. Jet fuel prices have 
+        decreased sharply from their peak in FY12:</p>
+    - img: /img/mayor.jpg
+    - blurb: > 
+        <ul>
+        <li>Jet fuel excise revenue totaled $29.7 million in FY15 and $36.8 million in FY16 due to a late payment from FY15.</li>
+        <li>The City budgeted $27.7 million in FY17 and the FY18 budget estimates a decrease to $22.0 million as low fuel prices are expected to continue.</li>
+        </ul>
+        <p>Estimates incorporate fuel price forecasts from the Energy Information 
+        Administration (EIA) and air traffic volume from Logan International Airport.</p>
   - col: >
       <h5>Transportation network companies</h5>
       <p>In August 2016, Governor Charlie Baker signed bipartisan legislation creating 
