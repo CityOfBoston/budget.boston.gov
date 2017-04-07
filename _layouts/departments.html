@@ -115,6 +115,7 @@ layout: bos_wrapper
         class="lineChart"
         width="200"
         height="200"
+        large=true
         data-title="{{ page.name }}"
         data-labels="
           {{ page.department_history_by_account.table_header.fy-2 }},
@@ -247,6 +248,7 @@ layout: bos_wrapper
       Department trends by program
     </h2>
   </div>
+  <br />
   <div class="desktop-100 clearfix">
   <div class="desktop-50">
     <div id="totalLineChart-wrapper">
@@ -260,6 +262,7 @@ layout: bos_wrapper
         class="lineChart"
         width="200"
         height="200"
+        large=true
         data-title="{{ page.name }}"
         data-labels="
           {{ page.operating_budget.table_header.fy-2 }},
@@ -311,10 +314,10 @@ layout: bos_wrapper
   </div>
   </div>
   <div class="g">
-  {% for row in page.operating_department.data %}
+  {% for row in page.operating_budget.data %}
     {% if row.line_type == 'data' %}
       <div class="wi g--4">
-        <table class="responsive-table"><th>{{ row.department }}</th></table>
+        <table class="responsive-table"><th>{{ row.name }}</th></table>
         <canvas
           id="lineChart"
           class="lineChart"
@@ -322,10 +325,10 @@ layout: bos_wrapper
           height="200"
           data-title=""
           data-labels="
-            {{ page.operating_department.fy-2 }},
-            {{ page.operating_department.fy-1 }},
-            {{ page.operating_department.fy-0 }},
-            {{ page.operating_department['fy+1'] }}
+            {{ page.operating_budget.table_header.fy-2 }},
+            {{ page.operating_budget.table_header.fy-1 }},
+            {{ page.operating_budget.table_header.fy-0 }},
+            {{ page.operating_budget.table_header['fy+1'] }}
           "
           data="{{ row.fy-2 }}, {{ row.fy-1 }}, {{ row.fy-0 }}, {{ row['fy+1'] }}"
         ></canvas>
