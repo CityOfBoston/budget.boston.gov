@@ -133,6 +133,43 @@
     {
       "section_name":"Performance",
       "strategy":[
+        "To hire the maximum number of young residents"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "debug":"JPM",
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of summer youth jobs accepted.",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"79%",
+              "fy+1":"95%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"% Youth Enrichment Day participants.",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"50%",
+              "fy+1":"75%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
         "To hire the maximum number of young residents."
       ],
       "performance_measures":[
@@ -149,27 +186,11 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"% Youth Enrichment Day participants.",
+              "line_data":"% of school-year youth jobs accepted.",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"50%",
-              "fy+1":"75%"
-            },
-            {
-              "line_type":"data",
-              "line_data":"Percentage of school-year youth jobs accepted.",
-              "fy-2":"",
-              "fy-1":"",
-              "fy-0":"1",
-              "fy+1":"1"
-            },
-            {
-              "line_type":"data",
-              "line_data":"Percentage of summer youth jobs accepted.",
-              "fy-2":"",
-              "fy-1":"",
-              "fy-0":"1",
-              "fy+1":"1"
+              "fy-0":"100%",
+              "fy+1":"100%"
             }
           ]
         }

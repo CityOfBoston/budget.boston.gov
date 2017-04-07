@@ -133,7 +133,7 @@
     {
       "section_name":"Performance",
       "strategy":[
-        "Effectively control and manage Boston's public space."
+        "Effectively control and manage Boston's public space"
       ],
       "performance_measures":[
         {
@@ -162,7 +162,7 @@
     {
       "section_name":"Performance",
       "strategy":[
-        "Efficiently deliver services."
+        "Efficiently deliver services"
       ],
       "performance_measures":[
         {
@@ -194,7 +194,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Average time to complete a missed trash request.",
+              "line_data":"Average time to complete a missed trash request (days).",
               "fy-2":"1",
               "fy-1":"1",
               "fy-0":"1",

@@ -133,35 +133,6 @@
     {
       "section_name":"Performance",
       "strategy":[
-        "Scanning and indexing documents"
-      ],
-      "performance_measures":[
-        {
-          "table_header":{
-            "debug":"JPM",
-            "Performance Goals":"Performance Measures",
-            "line_type":"header",
-            "fy-2":"FY15 Actual",
-            "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Target",
-            "fy+1":"FY18 Target"
-          },
-          "data":[
-            {
-              "line_type":"data",
-              "line_data":"Records Digitized Hours.",
-              "fy-2":"",
-              "fy-1":"",
-              "fy-0":"19,200",
-              "fy+1":"21,600"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "section_name":"Performance",
-      "strategy":[
         "To provide archives record center to City departments and the public; provide records disposition services to departments"
       ],
       "performance_measures":[

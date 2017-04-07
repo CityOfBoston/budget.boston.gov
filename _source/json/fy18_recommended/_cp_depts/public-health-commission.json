@@ -68,18 +68,6 @@
               "operating_impact":"No",
               "fy-0":200000,
               "project_total":500000
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Gov't Effectiveness",
-              "name":"EMS Training Academy Study",
-              "location":"N/A",
-              "section_id":"CPH24155",
-              "status":"Study Underway",
-              "operating_impact":"No",
-              "fy-0":50000,
-              "project_total":50000
             }
           ]
         },
@@ -124,6 +112,22 @@
               "operating_impact":"No",
               "fy-0":346998,
               "project_total":1346998
+            }
+          ]
+        },
+        {
+          "Public Safety":[
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Public Safety",
+              "name":"EMS Training Academy Study",
+              "location":"N/A",
+              "section_id":"CPH24155",
+              "status":"Study Underway",
+              "operating_impact":"No",
+              "fy-0":50000,
+              "project_total":50000
             }
           ]
         }

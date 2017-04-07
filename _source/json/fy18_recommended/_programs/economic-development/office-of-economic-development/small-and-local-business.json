@@ -150,7 +150,7 @@
             {
               "line_type":"data",
               "line_data":"# of MWBE companies with City of Boston Contracts.",
-              "fy-2":"",
+              "fy-2":"29",
               "fy-1":"52",
               "fy-0":"52",
               "fy+1":"60"
@@ -158,68 +158,10 @@
             {
               "line_type":"data",
               "line_data":"City of Boston money spent with MWBE contracts.",
-              "fy-2":"",
+              "fy-2":"17,189,115",
               "fy-1":"7,530,936",
               "fy-0":"7,500,000",
               "fy+1":"4,500,000"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "section_name":"Performance",
-      "strategy":[
-        "The amount of money the City of Boston currently spends on contracted services performed by businesses owned by either women or people of color"
-      ],
-      "performance_measures":[
-        {
-          "table_header":{
-            "debug":"JPM",
-            "Performance Goals":"Performance Measures",
-            "line_type":"header",
-            "fy-2":"FY15 Actual",
-            "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Target",
-            "fy+1":"FY18 Target"
-          },
-          "data":[
-            {
-              "line_type":"data",
-              "line_data":"City of Boston $ spent with MWBE contracts.",
-              "fy-2":"17,189,115",
-              "fy-1":"7,530,936",
-              "fy-0":"",
-              "fy+1":""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "section_name":"Performance",
-      "strategy":[
-        "The number of companies owned by women or people of color that have contracts with the City of Boston"
-      ],
-      "performance_measures":[
-        {
-          "table_header":{
-            "debug":"JPM",
-            "Performance Goals":"Performance Measures",
-            "line_type":"header",
-            "fy-2":"FY15 Actual",
-            "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Target",
-            "fy+1":"FY18 Target"
-          },
-          "data":[
-            {
-              "line_type":"data",
-              "line_data":"# of MWBE companies with the City of Boston.",
-              "fy-2":"29",
-              "fy-1":"52",
-              "fy-0":"52",
-              "fy+1":"60"
             }
           ]
         }
@@ -257,7 +199,7 @@
     {
       "section_name":"Performance",
       "strategy":[
-        "To increase the proportion of small, local, minority, and women owned businesses that receive City contracts."
+        "To increase the proportion of small, local, minority, and women owned businesses that receive City contracts"
       ],
       "performance_measures":[
         {

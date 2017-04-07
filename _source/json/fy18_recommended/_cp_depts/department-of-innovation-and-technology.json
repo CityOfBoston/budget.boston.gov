@@ -39,7 +39,7 @@
       "program":"Core Infrastructure",
       "strategies":[
         "Modernizing our IT infrastructure.",
-        "To provide City Hall employees with the IT tools to effectively execute their jobs."
+        "To provide City Hall employees with the IT tools to effectively execute their job."
       ]
     },
     {
@@ -83,70 +83,6 @@
       },
       "projects_data":[
         {
-          "Gov't Effectiveness":[
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Gov't Effectiveness",
-              "name":"Enterprise Applications",
-              "location":"N/A",
-              "section_id":"CMS23490",
-              "status":"Annual Program",
-              "operating_impact":"No",
-              "fy-0":5558477,
-              "project_total":33695817
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Gov't Effectiveness",
-              "name":"Data Analytics",
-              "location":"N/A",
-              "section_id":"CMS24178",
-              "status":"Annual Program",
-              "operating_impact":"No",
-              "fy-0":350000,
-              "project_total":4265516
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Gov't Effectiveness",
-              "name":"Cyber Security and Resiliency",
-              "location":"Various neighborhoods",
-              "section_id":"CMS24177",
-              "status":"Annual Program",
-              "operating_impact":"No",
-              "fy-0":1200000,
-              "project_total":3118979
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Gov't Effectiveness",
-              "name":"Digital Service Delivery and Engagement",
-              "location":"Various neighborhoods",
-              "section_id":"CMS24159",
-              "status":"Annual Program",
-              "operating_impact":"No",
-              "fy-0":600000,
-              "project_total":8433296
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Gov't Effectiveness",
-              "name":"Tax Billing and Collecting System",
-              "location":"N/A",
-              "section_id":"CMS23830",
-              "status":"Implementation Underway",
-              "operating_impact":"No",
-              "fy-0":113476,
-              "project_total":3000000
-            }
-          ]
-        },
-        {
           "Technology":[
             {
               "line_type":"data",
@@ -164,6 +100,18 @@
               "line_type":"data",
               "title":null,
               "category":"Technology",
+              "name":"Enterprise Applications",
+              "location":"N/A",
+              "section_id":"CMS23490",
+              "status":"Annual Program",
+              "operating_impact":"No",
+              "fy-0":5558477,
+              "project_total":33695817
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Technology",
               "name":"Core Technology Infrastructure",
               "location":"Citywide",
               "section_id":"CMS24556",
@@ -176,6 +124,42 @@
               "line_type":"data",
               "title":null,
               "category":"Technology",
+              "name":"Data Analytics",
+              "location":"N/A",
+              "section_id":"CMS24178",
+              "status":"Annual Program",
+              "operating_impact":"No",
+              "fy-0":350000,
+              "project_total":4265516
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Technology",
+              "name":"Cyber Security and Resiliency",
+              "location":"Various neighborhoods",
+              "section_id":"CMS24177",
+              "status":"Annual Program",
+              "operating_impact":"No",
+              "fy-0":1200000,
+              "project_total":3118979
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Technology",
+              "name":"Digital Service Delivery and Engagement",
+              "location":"Various neighborhoods",
+              "section_id":"CMS24159",
+              "status":"Annual Program",
+              "operating_impact":"No",
+              "fy-0":600000,
+              "project_total":8433296
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Technology",
               "name":"Fiber Network Expansion",
               "location":"Various neighborhoods",
               "section_id":"CMS24001",
@@ -183,6 +167,18 @@
               "operating_impact":"No",
               "fy-0":9600000,
               "project_total":12310690
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Technology",
+              "name":"Tax Billing and Collecting System",
+              "location":"N/A",
+              "section_id":"CMS23830",
+              "status":"Implementation Underway",
+              "operating_impact":"No",
+              "fy-0":113476,
+              "project_total":3000000
             },
             {
               "line_type":"data",
