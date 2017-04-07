@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/housing-homeless-action-plan
+permalink: /featured-analysis/housing-homeless-action-plan/
 title: Homeless Action Plan
 components:
 - breadcrumbs:

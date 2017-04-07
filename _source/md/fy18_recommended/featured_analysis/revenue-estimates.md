@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/revenue-estimates
+permalink: /featured-analysis/revenue-estimates/
 title: Revenue Estimates
 components:
 - breadcrumbs:

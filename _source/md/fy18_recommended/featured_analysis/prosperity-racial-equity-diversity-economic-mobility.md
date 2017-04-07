@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/prosperity-racial-equity-diversity-economic-mobility
+permalink: /featured-analysis/prosperity-racial-equity-diversity-economic-mobility/
 title: Advancing Racial Equity, Diversity, and Economic Mobility
 components:
 - breadcrumbs:

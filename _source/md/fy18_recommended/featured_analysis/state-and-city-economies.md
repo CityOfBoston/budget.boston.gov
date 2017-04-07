@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/state-and-city-economies
+permalink: /featured-analysis/state-and-city-economies/
 title: State and City Economies
 components:
 - breadcrumbs:

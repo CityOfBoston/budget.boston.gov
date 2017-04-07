@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/national-economy
+permalink: /featured-analysis/national-economy/
 title: National economy
 components:
 - breadcrumbs:

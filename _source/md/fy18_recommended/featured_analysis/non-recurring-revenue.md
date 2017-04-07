@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/non-recurring-revenue
+permalink: /featured-analysis/non-recurring-revenue/
 title: Non Recurring Revenue
 components:
 - breadcrumbs:

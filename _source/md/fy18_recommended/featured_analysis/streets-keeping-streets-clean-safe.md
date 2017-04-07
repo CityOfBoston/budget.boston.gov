@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/streets-keeping-streets-clean-safe
+permalink: /featured-analysis/streets-keeping-streets-clean-safe/
 title: Keeping Boston's Streets Clean and Safe
 components:
 - breadcrumbs:

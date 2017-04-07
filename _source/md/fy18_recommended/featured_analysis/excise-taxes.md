@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/excise-taxes
+permalink: /featured-analysis/excise-taxes/
 title: Excise Taxes
 components:
 - breadcrumbs:

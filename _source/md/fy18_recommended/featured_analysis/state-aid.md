@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/state-aid
+permalink: /featured-analysis/state-aid/
 title: State Aid
 components:
 - breadcrumbs:

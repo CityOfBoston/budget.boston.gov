@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/licenses-and-permits
+permalink: /featured-analysis/licenses-and-permits/
 title: Licenses and Permits
 components:
 - breadcrumbs:
