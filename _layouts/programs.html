@@ -13,11 +13,11 @@ layout: bos_wrapper
   <span class="crumbs-separator"> &gt; </span>
   <a href="{{ site.url }}/operating-budget/cabinets">Cabinets</a>
   <span class="crumbs-separator"> &gt; </span>
-  <a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | replace: "'","" | slugify }}">{{ page.cabinet }}</a>
+  <a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | replace: "'","" | slugify }}">{{ page.cabinet | truncate: 25 }}</a>
   <span class="crumbs-separator"> &gt; </span>
-  <a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | replace: "'","" | slugify }}/{{ page.department | replace: "'","" | slugify }}">{{ page.department }}</a>
+  <a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | replace: "'","" | slugify }}/{{ page.department | replace: "'","" | slugify }}">{{ page.department | truncate: 25 }}</a>
   <span class="crumbs-separator"> &gt; </span>
-  {{ page.name }}
+  {{ page.name | truncate: 25 }}
 </div>
 <div class="breadcrumb-last-updated">
   Last updated:
