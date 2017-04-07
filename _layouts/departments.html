@@ -297,7 +297,7 @@ layout: bos_wrapper
         data='{
           {% for row in page.operating_budget.data %}
             {% if row.line_type == "data" %}
-              "{{ row.line_title | remove: "'" }}":[
+              "{{ row.name | remove: "'" }}":[
                 {{ row.fy-2 }},
                 {{ row.fy-1 }},
                 {{ row.fy-0 }},
