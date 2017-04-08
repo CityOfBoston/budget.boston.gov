@@ -158,6 +158,26 @@ components:
       and what a difference that period made.
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
     link: /featured-analysis/state-aid
+- grid:
+  - grid_title: Expenditures
+  - title: Education overview
+    body: >
+      Two centuries separate the creation of the Boston Common and the Public Garden, 
+      and what a difference that period made.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/revenue-overview
+  - title: City services
+    body: >
+      New Two centuries separate the creation of the Boston Common and the Public Garden, 
+      and what a difference that period made.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
+    link: /featured-analysis/property-tax
+  - title: Pensions, debt service, and other fixed costs
+    body: >
+      NEW New Two centuries separate the creation of the Boston Common and the Public Garden, 
+      and what a difference that period made.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
+    link: /featured-analysis/state-aid
 - text_block:
   - title: Imagine Boston Capital Plan
     body: >
@@ -223,4 +243,15 @@ components:
         <p>With investments in roads, bridges, schools, libraries, parks, firehouses, and 
         community centers, the Imagine Boston Capital Plan touches each neighborhood and shapes 
         a City that over 14,000 voices told us they want to see.</p>
+- text_block:
+  - title: FY18 Budget Priorities
+    body: >
+      <p>Building on Mayor Walsh’s record of achieving improved outcomes across the City’s 
+      services - from education to housing, basic city services to the arts - the Mayor is 
+      proposing data-driven investments that are aimed at creating a thriving, healthy and 
+      innovative city. Operating budget investments are made possible due to the smart savings 
+      initiatives the City has pursued over the past four years. Through the Imagine Boston 
+      Capital Plan, the Mayor is making new capital investments in Boston’s schools, roads, 
+      bridges, parks, libraries, community centers, fire stations and other community assets 
+      to build the City that Bostonians imagined.</p>
 ---
