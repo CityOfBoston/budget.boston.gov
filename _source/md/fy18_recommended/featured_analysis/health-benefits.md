@@ -94,12 +94,14 @@ components:
       retirees who will be enrolling into Medicare plans.</p>
 - table:
   - title: Health Care Costs ($ Mil) Health, Life, Dental, Medicare Tax
-    {02 Summary Budget - Health Ins FY18 History and Trend Charts incl Med, Life and 
-    Dental.xlsx: Table 2 Total Health Care Costs:Table2}
+    body: > 
+      02 Summary Budget - Health Ins FY18 History and Trend Charts incl Med, Life and 
+      Dental.xlsx - Table 2 Total Health Care Costs-Table2
 - table:
   - title: Number Healthplan Subscribers Feb 2017
-  {02 Summary Budget - Health Ins FY18 History and Trend Charts incl Med, Life and 
-  Dental.xlsx: Table 3 Healthplan Subscribers:Table3}
+    body: >
+      02 Summary Budget - Health Ins FY18 History and Trend Charts incl Med, Life and 
+      Dental.xlsx - Table 3 Healthplan Subscribers - Table3
 - text_block:
   - title: City - Union Partnership
 - text_col_3:
@@ -132,7 +134,7 @@ components:
       to containing total costs for both the City and members, including:
 - text_col_2:
   - col: >
-    <ul>
+      <ul>
       <li>Competitive bidding and refinement of the City’s health plan options. After 
       the elimination of a costly indemnity plan in FY12 saving several million dollars 
       annually, non-Medicare health plan options were further reduced in FY16 to 
@@ -142,9 +144,9 @@ components:
       employees and the City. <blockquote>Also, effective July 1, 2017 the City’s most expensive 
       Medicare Plan, Master Medical, will be closed to new enrollment and ultimately replaced 
       with an alternative BCBS Medicare product.</blockquote></li>
-    </ul>
+      </ul>
   - col: >
-    <ul>
+      <ul>
       <li>The FY15 PEC agreement continued to prioritize funding of health care costs 
       through self-insurance wherever possible. In FY13 the City began self-insuring most 
       of its health plans, reducing total costs by over $10 million per year.</li>
@@ -155,18 +157,18 @@ components:
       the City $2.7 million per year when implemented. The City and PEC will also continue 
       to analyze options for carving out prescription drug management through a separate 
       contract, as well as rebidding of the City’s six Medicare plans.</li>
-    </ul>
+      </ul>
 - text_block:
   - title: Health Claims Trends
     body: >
-      Nationally, lower health claims costs contributed to lower premium increases from 
+      <p>Nationally, lower health claims costs contributed to lower premium increases from 
       FY11 – FY14, which were followed by higher premium increases in FY16 and FY17 largely 
       due to pharmaceutical costs. The City is limited in its ability to influence the 
       multiple causes behind health care cost swings, which can include:</p>
-        <ul>
-          <li>increasing medical provider charges;</li>
-          <li>an aging population;</li>
-          <li>overuse of certain services; and</li>
-          <li>high utilization of more expensive hospitals.;</li>
-        </ul>
+      <ul>
+      <li>increasing medical provider charges;</li>
+      <li>an aging population;</li>
+      <li>overuse of certain services; and</li>
+      <li>high utilization of more expensive hospitals.;</li>
+      </ul>
 ---

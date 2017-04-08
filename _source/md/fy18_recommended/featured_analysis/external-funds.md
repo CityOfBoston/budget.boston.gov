@@ -15,13 +15,13 @@ components:
 - intro:
   - title: External funds
     short_desc: >
-       The City’s $3.14 billion operating budget is supplemented by 
-       approximately $304.9 million in external funds. These funds consist 
-       mainly of federal, state, and private funding earmarked for specific 
-       purposes. 
+      The City’s $3.14 billion operating budget is supplemented by 
+      approximately $304.9 million in external funds. These funds consist 
+      mainly of federal, state, and private funding earmarked for specific 
+      purposes. 
     description: >
-       Education, housing, economic development, public health and public 
-       safety are some of the largest areas for which these funds are targeted.
+      Education, housing, economic development, public health and public 
+      safety are some of the largest areas for which these funds are targeted.
     sidebar_menu: true    
 - text_block:
   - title: Overview
@@ -32,19 +32,19 @@ components:
       or other forms of external funding in FY18. Over 93% of the City’s external 
       funds are found in eight of those twenty-six departments. These eight departments 
       are:</p>
-        <ul>
-          <li>Boston Public Schools;</li>
-          <li>Neighborhood Development;</li>
-          <li>Public Health Commission;</li>
-          <li>Emergency Management;</li>
-          <li>Police;</li>
-          <li>Library;</li>
-          <li>Elderly Commission; and</li>
-          <li>the Parks and Recreation Department.</li>
-        </ul>
-        <p>Other departments that also have significant grant funding are the Office 
-        of Economic Development and the Fire Department. Descriptions and amounts of 
-        grants by department can be found in Volumes II and III.</p>
+      <ul>
+      <li>Boston Public Schools;</li>
+      <li>Neighborhood Development;</li>
+      <li>Public Health Commission;</li>
+      <li>Emergency Management;</li>
+      <li>Police;</li>
+      <li>Library;</li>
+      <li>Elderly Commission; and</li>
+      <li>the Parks and Recreation Department.</li>
+      </ul>
+      <p>Other departments that also have significant grant funding are the Office 
+      of Economic Development and the Fire Department. Descriptions and amounts of 
+      grants by department can be found in Volumes II and III.</p>
   - col: >
       <h5>Federal grants</h5>
       <p>Federal grants have historically provided funding for key City priorities for 
