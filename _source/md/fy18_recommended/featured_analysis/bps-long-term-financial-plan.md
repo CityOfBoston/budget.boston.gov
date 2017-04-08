@@ -33,7 +33,7 @@ components:
       student need, and federal and state revenue. To combat these issues ten ideas 
       were outlined within the report. The ideas include methods to potentially decrease 
       costs as well as increase revenue:
-- text_col_2:
+- text_col_3:
   - col: >
       <ul>
        <li>Reduce long-distance BPS transportation by adjusting student assignment 
@@ -53,13 +53,13 @@ components:
         <li>Advocate to Realign State Education Formulas</li>
         <li>Advocate to Give Boston More Flexibility to Modify its Revenue Structure</li>
       </ul>
-- text_col_2:
   - col: >
+      <h5>Focus on efficiency</h5>
       <p>The City and BPS have already commenced implementation of operational efficiencies 
       based on the findings outlined in the Long Term Financial Plan report. These will be 
       highlighted later in the chapter. The District continues to engage with the community 
       and conduct additional analysis on the other ideas under discussion, which have 
       broader policy implications.</p>
-      <p>No significant potential policy changes outlined in the first Long Term 
-      report are in the FY18 proposal.</p>
+      <p>No significant potential policy changes outlined in 
+      the first Long Term report are in the FY18 proposal.</p>
 ---
