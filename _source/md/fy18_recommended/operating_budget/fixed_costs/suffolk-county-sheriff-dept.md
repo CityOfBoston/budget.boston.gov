@@ -16,19 +16,17 @@ components:
 - intro:
   - title: Suffolk County Sheriff Department
     short_desc: >
-      The Suffolk County budget is a fixed cost mandated by state legislation, budgeted at $3.9 million in FY17.
+      The Suffolk County budget is a fixed cost mandated by state legislation, 
+      budgeted at $3.9 million in FY18. State legislation converted all existing 
+      and future Suffolk County Sheriff employees to state employees effective 
+      January 1, 2010.
     description: >
-      State legislation converted all existing and future Suffolk County Sheriff employees to state employees effective January 1, 2010. The State charges the City for Suffolk County through an assessment based on the residual unfunded pension liability for former Sherriff employees who retired prior to January 1, 2010. Once the unfunded pension liability is fully extinguished, the budget for Suffolk County will no longer be necessary.
+      The State charges the City for Suffolk County through an assessment based 
+      on the residual unfunded pension liability for former Sherriff employees who 
+      retired prior to January 1, 2010. <blockquote>Once the unfunded pension liability is 
+      fully extinguished, the budget for Suffolk County will no longer be 
+      necessary.</blockquote>
     sidebar_menu: true
-- text_block:
-  - title: Cabinet Appropriations
-    body: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur suscipit id
-      felis sed iaculis. Sed ac nisl eu lacus porta pharetra. Suspendisse a tortor vel
-      velit egestas porttitor et a mi. Nam nunc ipsum, elementum a nisi nec, scelerisque
-      blandit orci. Ut in sollicitudin turpis, non malesuada leo. Morbi vehicula sit
-      amet est sed luctus. Suspendisse massa turpis, iaculis at fermentum placerat,
-      scelerisque ultricies est. Nulla facilisi. In scelerisque ornare tincidunt.
 - table:
   - title: Suffolk County Sheriff Department
     right_text:
