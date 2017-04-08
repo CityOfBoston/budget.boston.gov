@@ -1,7 +1,7 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/education-overview/
-title: Education Overview
+permalink: /featured-analysis/special-education/
+title: Special Education
 components:
 - breadcrumbs:
   - title: Home
@@ -10,10 +10,10 @@ components:
     url: "/budget"
   - title: Featured Analysis
     url: "/featured-analysis/"
-  - current: Education Overview
+  - current: Special Education
   - published: 4/13/17
 - intro:
-  - title: Education overview
+  - title: Special education
     short_desc: >
       
     description: >

@@ -1,7 +1,7 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/education-overview/
-title: Education Overview
+permalink: /featured-analysis/bilingual-education/
+title: Bilingual Education
 components:
 - breadcrumbs:
   - title: Home
@@ -10,10 +10,10 @@ components:
     url: "/budget"
   - title: Featured Analysis
     url: "/featured-analysis/"
-  - current: Education Overview
+  - current: Bilingual Education
   - published: 4/13/17
 - intro:
-  - title: Education overview
+  - title: Bilingual education
     short_desc: >
       
     description: >

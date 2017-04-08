@@ -1,7 +1,7 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/education-overview/
-title: Education Overview
+permalink: /featured-analysis/bps-operating-budget/
+title: BPS Operating Budget
 components:
 - breadcrumbs:
   - title: Home
@@ -10,10 +10,10 @@ components:
     url: "/budget"
   - title: Featured Analysis
     url: "/featured-analysis/"
-  - current: Education Overview
+  - current: BPS Operating Budget
   - published: 4/13/17
 - intro:
-  - title: Education overview
+  - title: BPS operating budget
     short_desc: >
       
     description: >

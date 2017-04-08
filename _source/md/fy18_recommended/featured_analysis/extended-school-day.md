@@ -1,7 +1,7 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/education-overview/
-title: Education Overview
+permalink: /featured-analysis/extended-school-day/
+title: Extended School Day
 components:
 - breadcrumbs:
   - title: Home
@@ -10,10 +10,10 @@ components:
     url: "/budget"
   - title: Featured Analysis
     url: "/featured-analysis/"
-  - current: Education Overview
+  - current: Extended School Day
   - published: 4/13/17
 - intro:
-  - title: Education overview
+  - title: Extended school day
     short_desc: >
       
     description: >

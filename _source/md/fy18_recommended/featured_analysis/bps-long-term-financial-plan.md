@@ -1,7 +1,7 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/education-overview/
-title: Education Overview
+permalink: /featured-analysis/bps-long-term-financial-plan/
+title: BPS Long Term Financial Plan
 components:
 - breadcrumbs:
   - title: Home
@@ -10,10 +10,10 @@ components:
     url: "/budget"
   - title: Featured Analysis
     url: "/featured-analysis/"
-  - current: Education Overview
+  - current: BPS Long Term Financial Plan
   - published: 4/13/17
 - intro:
-  - title: Education overview
+  - title: BPS long term financial Plan
     short_desc: >
       
     description: >

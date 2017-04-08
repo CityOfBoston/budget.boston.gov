@@ -1,7 +1,7 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/education-overview/
-title: Education Overview
+permalink: /featured-analysis/bps-external-funds/
+title: BPS External Funds
 components:
 - breadcrumbs:
   - title: Home
@@ -10,10 +10,10 @@ components:
     url: "/budget"
   - title: Featured Analysis
     url: "/featured-analysis/"
-  - current: Education Overview
+  - current: BPS External Funds
   - published: 4/13/17
 - intro:
-  - title: Education overview
+  - title: BPS external funds
     short_desc: >
       
     description: >

@@ -1,7 +1,7 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/education-overview/
-title: Education Overview
+permalink: /featured-analysis/bps-performance/
+title: BPS Performance
 components:
 - breadcrumbs:
   - title: Home
@@ -10,10 +10,10 @@ components:
     url: "/budget"
   - title: Featured Analysis
     url: "/featured-analysis/"
-  - current: Education Overview
+  - current: BPS Performance
   - published: 4/13/17
 - intro:
-  - title: Education overview
+  - title: BPS performance
     short_desc: >
       
     description: >
