@@ -158,8 +158,19 @@ components:
       and what a difference that period made.
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
     link: /featured-analysis/state-aid
+- text_block:
+  - title: Expenditures
+    body: >
+- text_col_2:
+  - col: >
+      <p>FY18 expenditures are increasing by $143.7 million (4.8%) over FY17 budgeted expenditures. This reflects 
+      4% appropriation growth and 8% fixed cost growth. Of that growth, 40% is dedicated to education 38% will 
+      go to all other City Services (such as Police, Fire, and Public Works) and the Public Health Commission, 
+      and the remaining 22% of growth will be consumed by pension, debt service and other fixed cost expenditures.</p>
+  - col:
+    - blurb: >
+    - img: http://placehold.it/300x400
 - grid:
-  - grid_title: Expenditures
   - title: Education overview
     body: >
       Two centuries separate the creation of the Boston Common and the Public Garden, 
@@ -254,4 +265,134 @@ components:
       Capital Plan, the Mayor is making new capital investments in Boston’s schools, roads, 
       bridges, parks, libraries, community centers, fire stations and other community assets 
       to build the City that Bostonians imagined.</p>
+- grid:
+  - grid_title: Education
+  - title: Education
+    body: >
+      Two centuries separate the creation of the Boston Common and the Public Garden, 
+      and what a difference that period made.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/revenue-overview
+  - title: City services
+    body: >
+      New Two centuries separate the creation of the Boston Common and the Public Garden, 
+      and what a difference that period made.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
+    link: /featured-analysis/property-tax
+  - title: Pensions, debt service, and other fixed costs
+    body: >
+      NEW New Two centuries separate the creation of the Boston Common and the Public Garden, 
+      and what a difference that period made.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
+    link: /featured-analysis/state-aid
+- grid:
+  - grid_title: Additional priorities
+  - title: Homelessness
+    body: >
+      Two centuries separate the creation of the Boston Common and the Public Garden, 
+      and what a difference that period made.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/revenue-overview
+  - title: Other homelessness
+    body: >
+      New Two centuries separate the creation of the Boston Common and the Public Garden, 
+      and what a difference that period made.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
+    link: /featured-analysis/property-tax
+  - title: Streets
+    body: >
+      NEW New Two centuries separate the creation of the Boston Common and the Public Garden, 
+      and what a difference that period made.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
+    link: /featured-analysis/state-aid
+  - title: Equity
+    body: >
+      Two centuries separate the creation of the Boston Common and the Public Garden, 
+      and what a difference that period made.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/revenue-overview
+  - title: Other analysis
+    body: >
+      New Two centuries separate the creation of the Boston Common and the Public Garden, 
+      and what a difference that period made.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
+    link: /featured-analysis/property-tax
+  - title: More analysis
+    body: >
+      NEW New Two centuries separate the creation of the Boston Common and the Public Garden, 
+      and what a difference that period made.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
+    link: /featured-analysis/state-aid
+  - title: Homelessness
+    body: >
+      Two centuries separate the creation of the Boston Common and the Public Garden, 
+      and what a difference that period made.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/revenue-overview
+  - title: Other homelessness
+    body: >
+      New Two centuries separate the creation of the Boston Common and the Public Garden, 
+      and what a difference that period made.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
+    link: /featured-analysis/property-tax
+  - title: Streets
+    body: >
+      NEW New Two centuries separate the creation of the Boston Common and the Public Garden, 
+      and what a difference that period made.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
+    link: /featured-analysis/state-aid
+  - title: Equity
+    body: >
+      Two centuries separate the creation of the Boston Common and the Public Garden, 
+      and what a difference that period made.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/revenue-overview
+  - title: Other analysis
+    body: >
+      New Two centuries separate the creation of the Boston Common and the Public Garden, 
+      and what a difference that period made.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
+    link: /featured-analysis/property-tax
+  - title: More analysis
+    body: >
+      NEW New Two centuries separate the creation of the Boston Common and the Public Garden, 
+      and what a difference that period made.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
+    link: /featured-analysis/state-aid
+  - title: Homelessness
+    body: >
+      Two centuries separate the creation of the Boston Common and the Public Garden, 
+      and what a difference that period made.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/revenue-overview
+  - title: Other homelessness
+    body: >
+      New Two centuries separate the creation of the Boston Common and the Public Garden, 
+      and what a difference that period made.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
+    link: /featured-analysis/property-tax
+  - title: Streets
+    body: >
+      NEW New Two centuries separate the creation of the Boston Common and the Public Garden, 
+      and what a difference that period made.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
+    link: /featured-analysis/state-aid
+  - title: Equity
+    body: >
+      Two centuries separate the creation of the Boston Common and the Public Garden, 
+      and what a difference that period made.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/revenue-overview
+  - title: Other analysis
+    body: >
+      New Two centuries separate the creation of the Boston Common and the Public Garden, 
+      and what a difference that period made.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
+    link: /featured-analysis/property-tax
+  - title: More analysis
+    body: >
+      NEW New Two centuries separate the creation of the Boston Common and the Public Garden, 
+      and what a difference that period made.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
+    link: /featured-analysis/state-aid
 ---
