@@ -24,7 +24,72 @@ components:
 - text_block:
   - title: Imagine Boston 2030
     body: >
-      
+      Mayor Walsh’s $2.08 billion FY18-22 Capital Plan will make critical 
+      investments in the City’s infrastructure in every Boston neighborhood, 
+      guided by Imagine Boston 2030 and the schools, streets, arts, climate 
+      and resilience plans under its umbrella. <blockquote>More than 14,000 residents 
+      have shaped Imagine Boston 2030 by articulating the challenges Boston faces, 
+      setting goals for the city in 2030, and generating ideas about policies and 
+      investments to help achieve these goals.</blockquote>
+- text_col_2:
+  - col: >
+      <h5>Ambitious initiatives</h5>
+      <p>An ambitious set of initiatives form the foundation of the Imagine Boston 2030 plan. Taken together, these initiatives will support Boston's dynamic economy and improve quality of life for residents by:
+        <ul>
+          <li>encouraging affordability;</li>
+          <li>increasing access to opportunity;</li>
+          <li>promoting a healthy environment; and</li>
+          <li>guiding investment in the public realm.</li>
+        </ul>
+      <h5>Imagine Boston Capital Plan</h5>
+      <p>In FY18, Mayor Walsh is launching the Imagine Boston Capital Plan to move 
+      Boston residents’ priorities from idea to action, and invest in creating the 
+      city Bostonians imagine for the future. Under the Imagine Boston 2030 umbrella, 
+      the City is investing deeply in the core goals of BuildBPS, Go Boston 2030, 
+      Boston Creates, and Climate Ready Boston. An estimated 77% of the investment 
+      in the FY18-22 Capital Plan is aligned with the City’s planning efforts:</p>
+- text_col_2:
+  - col: >
+      <h5>Moving into the 21st century</h5>
+      <p>Mayor Walsh committed $1 billion over ten years to bring Boston's school 
+      buildings into the 21st century, and this Capital Plan launches that investment 
+      with funding for:</p>
+        <ul>
+          <li>21st century classrooms;</li>
+          <li>MSBA Accelerated Repair Program partnerships;</li>
+          <li>completion of projects in the pipeline; and</li>
+          <li>reserves for future projects identified by BuildBPS community 
+          engagement.</li>
+        </ul>
+      <h5>Core initiatives</h5>
+      <p>Boston, in collaboration with State and Federal sources, will invest $709 
+      million over the next five years in implementing the core initiatives outlined 
+      in Go Boston 2030:</p>
+        <ul>
+          <li>streets that are safer for all users of our roads and sidewalks, 
+          particularly pedestrians and cyclists;</li>
+          <li>travel that is more reliable and predictable; and</li>
+          <li>quality transportation choices that improve access to interconnect our 
+          neighborhoods for all modes of travel.</li>
+        </ul>
+  - col: >
+      <h5>Open Space goals</h5>
+      <p>Through the use of Winthrop Square proceeds, City capital dollars, and leveraging 
+      external funds, Mayor Walsh plans to carry out early actions to implement Imagine 
+      Boston 2030’s Open Space goals, including investing in Franklin Park as a keystone 
+      park for the city, completing the Emerald Necklace, and restoring Boston Common to 
+      its full vibrancy.</p>
+      <h5>Preparing for climate change</h5>
+      <p>Boston will prepare for climate change by investing City dollars and outside funding 
+      to develop more detailed climate plans for Boston neighborhoods, especially those most 
+      at risk for coastal flooding, as recommended in Climate Ready Boston.</p>
+      <h5>Percent for Art Program</h5>
+      <p>The Percent for Art Program, funded for the first time in this Capital Plan, 
+      demonstrates the City’s leadership and commitment to sustainable funding for the arts 
+      by setting aside one percent of the City’s annual capital borrowing for the 
+      commissioning of public art.</p>
+
+
 - table:
   - title: Spending By Investment Category
     columns:
