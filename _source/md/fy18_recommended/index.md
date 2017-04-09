@@ -142,22 +142,19 @@ components:
   - grid_title: Revenue
   - title: Revenue overview
     body: >
-      Two centuries separate the creation of the Boston Common and the Public Garden, 
-      and what a difference that period made.
+      Get a broad understanding of where Boston's revenue comes from.
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/revenue-overview
+    link: /featured-analysis/revenue-overview/
   - title: Property tax
     body: >
-      New Two centuries separate the creation of the Boston Common and the Public Garden, 
-      and what a difference that period made.
+      Property taxes provide more than two-thirds of the City's revenue. See the details of this important revenue source.
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
-    link: /featured-analysis/property-tax
+    link: /featured-analysis/property-tax/
   - title: State aid
     body: >
-      NEW New Two centuries separate the creation of the Boston Common and the Public Garden, 
-      and what a difference that period made.
+      State aid to Boston never recovered after the Great Recession. Learn about the impacts.
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
-    link: /featured-analysis/state-aid
+    link: /featured-analysis/state-aid/
 - text_block:
   - title: Expenditures
     body: >
