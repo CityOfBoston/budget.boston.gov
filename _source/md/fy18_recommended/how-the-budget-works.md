@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-title: How the budget works
+title: How the Budget Works
 permalink: /how-the-budget-works/
 components:
 - breadcrumbs:
@@ -18,7 +18,7 @@ components:
       <iframe width="100%" height="400px" src="https://www.youtube.com/embed/NIkLbUEXIiM"></iframe>
 sidebar_menu: true
 - text_block:
-  - title: Who's in charge of the budget?
+  - title: Who makes decisions about the budget?
       body: >
         <p>The City of Boston’s budget process is governed by the City’s Charter* and practices designed to provide transparency and gather public feedback. The chief executive officer of the City is the Mayor. Martin J. Walsh, the Mayor of the City, was elected to serve his first term from January 2014 through January 2018. The Mayor has general supervision of and control over the City’s boards, commissions, officers, and departments. The portion of the budget covering appropriations for all departments and operations of the City, except the Boston Public Schools, is prepared under the direction of the Mayor. The Boston Public Schools follow a separate process which requires the Superintendent of Schools to propose a budget to the School Committee. The Superintendent submits the School Committee approved budget to the Mayor. The Mayor submits a recommended budget, including the Boston Public Schools budget, to the City Council.</p>
         <p>The legislative body of the City is the Boston City Council, which consists of thirteen members serving two-year terms. Four councilors are elected at-large and nine are elected from geographic districts. The City Council may enact ordinances and adopt orders that the Mayor may either approve or veto. Ordinances and orders, except orders for the borrowing or appropriation of money, may be enacted by the City Council over the Mayor’s veto by a two-thirds vote. The City Council may reject or reduce a budget submitted to it by the Mayor, but may not increase it.</p>
@@ -54,6 +54,104 @@ sidebar_menu: true
         "City Charter": No requirement
         "FY18 timeline": Prior to 90 days following adoption
 
+
+The City of Boston presents a fully integrated budget - including capital, operating, and external funds - to show the total funding available to departments to fulfill their missions. The operating budget funds personnel and nonpersonnel expenses to departments so that they may provide important city services. The capital budget funds new construction or renovations to existing city-owned facilities (e.g., police and fire stations, school buildings), infrastructure improvements (e.g., roads, sidewalks, lights), and major equipment purchases such as fire-fighting apparatus. The external funds budget describes the projects and programs that will be undertaken in the next fiscal year with funding received from the state, federal, or other non-general fund
+sources.
+
+Organization of the Budget
+The City of Boston’s program budget provides information related to City services and theirassociated costs. The operating and capital budgets present the recommended resource allocations in terms of personnel, facilities, goods, and services. The budget document also describes the services provided by each City department and the performance targets that have been set for FY17.
+
+The Operating and Capital Budget Document: Organization of the Volumes
+Volume I contains information on the FY17 budget and the context in which it is prepared. Sections include:
+• Mayoral Transmittal Letters
+• Executive Summary
+• Summary Budget
+• City Council Orders
+• Revenue Estimates and Analysis
+• Innovations in Education
+• Boston About Results – Performance Goals
+• Financial Management
+• Capital Planning
+• Statutes and Ordinances
+• Boston’s People and Economy
+• Budget Organization and Glossary
+In Volumes II and III, cabinet and departmental budgets are presented by cabinet. The cabinet presentation includes cabinet mission and initiatives, followed by a table displaying total operating, external, and capital budgets. The budget presents FY14 actual results through the FY17 budgets.
+
+Departmental Operating Budgets
+Activities and services of the City are grouped into programs for budgeting and management purposes. The operating budget for each department is presented by program. A “program” is defined as an organized group of activities directed toward attaining one or more related objectives, and the resources to execute them.
+A program can consist of direct services to the public and neighborhoods of the City (e.g. police patrol or tree maintenance), or traditional city staff functions (e.g. administrative services or engineering and design). Some City activities may not be defined as separate programs, even though they may be selfcontained operations. For example, a fire station is not a separate program, although for accounting purposes it is a cost center within the Fire Department’s Fire Suppression program. Program budgets serve as the basic building blocks of the budget. There are three additional organizational levels above the program level in the budget. The three levels are:
+• The Division Level for units within some departments.
+• The Department Level, which includes departments, commissions, and other offices.
+• The Cabinet Level, which includes functionallyrelated departments.
+
+Description of Organization and Definition of Categories
+
+This section outlines the information reported within each department and program in the budget.
+
+Department or Division Level
+Department Mission: The mission statement is a fundamental statement of purpose.
+
+Performance Strategies: These strategies reflect stated goals for which the department or division is held accountable.
+
+Description of Services: The description of services provides a general overview of the department and its responsibilities, and lists examples of major services provided. 
+
+Authorizing Statutes: This section lists statutes and ordinances that create departments as well as endow them with legal powers.
+
+Operating Budget: The operating budget presentation includes a table displaying total operating and external budgets by program beginning with FY14 actual expenses through the FY17 budget.
+
+Program Level
+Program Description: This section presents a general overview of the program, including its responsibilities and major services provided.
+
+Program Strategies: Each program identifies its strategies to further the department’s mission.
+
+Performance Measures: Performance measures demonstrate a program’s progress in implementing their strategies. Performance measures may gauge workload, effectiveness, efficiency, or productivity. Some performance measures also show the changing context in which programs are working.
+
+Financial Data
+The financial data tables identify the major groups and expenditure account codes (for example, Personnel Services/Overtime, Supplies and Materials/Office Supplies), historical expenditures in each, and the proposed appropriations in each group and account in FY17.
+
+Two financial data sheets are provided for the FY17 operating budget: Department History and Department Personnel.
+
+Department History
+Expenditure account codes are listed within six expenditure groups. Dollar amounts are shown for:
+• FY14 actual expenditures,
+• FY15 actual expenditures,
+• FY16 appropriations,
+• FY17 adopted budgets, and
+• The difference between the FY16 appropriation
+and the FY17 adopted appropriation.
+
+Department Personnel Data 
+Personnel data shows funding for permanent positions, including existing and proposed positions. All permanent positions are listed by union and salary grade within the department or division. The total salary request is listed for these positions.
+
+For each position shown, the following information
+is provided:
+
+Title: The civil service/personnel system job title for the position.
+
+Union Code and Grade: The union code (including exempt and CDH for department head) and code for the salary grade of the position.
+
+Position and Salary Requirement: These columns show the number of permanent positions for which funding is available and the total funding provided for that title for the upcoming fiscal year.
+
+Total Funding: The total funding for permanent employees, shown at the bottom right of the personnel sheet, reflects the amount of funding required to support personnel prior to adjustments. This figure may be adjusted by differential payments, other payments, chargebacks, and salary savings.
+
+Differential Payments: Employees who are serving temporary job titles or who are entitled to additional payments based on the shifts they work (e.g., night shifts) receive differential payments. This figure is added to the permanent employee line.
+
+Other: The permanent employee line contains other payments such as sick leave and vacation buybacks.
+
+Chargebacks: Some personnel costs are charged to another fund or appropriation. These costs or reimbursements are included in the permanent employee line.
+
+Salary Savings: This figure reflects savings due to vacancies. The amount is estimated based on experience in prior fiscal years and subtracted from the total salary requirements.
+
+External Funds
+The financial data identify the major groups and expenditure account codes for external funds expenditures. Historical expenditures and the proposed appropriations in these accounts in FY17 are shown. The personnel data show permanent positions, including existing and proposed positions, funded with external funds. All permanent positions are listed by union and grade within the department or division. The total salary request is listed for these positions by job title. The External Funds Projects page lists a description of each project’s mission.
+
+Capital Budget
+The capital budget section provides an overview of projects and major initiatives for departments charged with managing facilities and major equipment assets. Dollar amounts are shown for:
+• FY14 actual capital expenditures,
+• FY15 actual capital expenditures,
+• FY16 estimated capital expenditures,
+• FY17 projected capital expenditures
+Following this overview are capital project profiles, including descriptions of each project mission, the department managing the project, the status and location of each project, and if there are operating budget impacts. A table summarizes the total capital funds authorized for projected expenditures in FY17 and for future years, as well as whether the source is City authorization or other funding such as federal and state infrastructure grants or trust funds. A listing of actual and planned capital expenditures in comparison to authorized dollars is also provided. 
 
 
 ---
