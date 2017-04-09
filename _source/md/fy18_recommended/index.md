@@ -259,8 +259,8 @@ components:
     body: >
       <p>Building on Mayor Walsh’s record of achieving improved outcomes across the City’s 
       services - from education to housing, basic city services to the arts - the Mayor is 
-      proposing data-driven investments that are aimed at creating a thriving, healthy and 
-      innovative city. Operating budget investments are made possible due to the smart savings 
+      proposing data-driven investments that are aimed at creating a <strong>thriving, healthy and 
+      innovative city</strong>. Operating budget investments are made possible due to the smart savings 
       initiatives the City has pursued over the past four years. Through the Imagine Boston 
       Capital Plan, the Mayor is making new capital investments in Boston’s schools, roads, 
       bridges, parks, libraries, community centers, fire stations and other community assets 
