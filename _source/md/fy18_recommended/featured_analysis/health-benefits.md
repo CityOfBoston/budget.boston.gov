@@ -26,6 +26,7 @@ components:
       success, health care costs have continued to increase, since FY16, 
       at a rate higher than the overall budget, consistent with trends 
       in the broader Massachusetts market.</blockquote>
+      <a href="/operating-budget/cabinets/administration-and-finance/health-insurance/">View the Health Insurance department budget</a>
     sidebar_menu: true
 - text_block:
   - title: FY18 Budget
@@ -33,12 +34,12 @@ components:
       The FY18 budget includes $395 million for all health benefit related 
       costs for the City’s employees and retirees, comprising 12.6% of 
       total City expenditures – compared to 8% in 2001.
-        <ul>
-          <li>$42.25 million of these costs for future OPEB liabilities are 
-          discussed in more detail in the following section.</li>
-          <li>$353 million for current health, dental and life premiums 
-          and employer Medicare payroll taxes are addressed below.</li>
-        </ul>
+      <ul>
+      <li>$42.25 million of these costs for future OPEB liabilities are 
+      discussed in more detail in the following section.</li>
+      <li>$353 million for current health, dental and life premiums 
+      and employer Medicare payroll taxes are addressed below.</li>
+      </ul>
 - text_col_3:
   - col: >
       <h5>Growing costs</h5>
@@ -52,10 +53,10 @@ components:
   - col: >
       <h5>These factors include:</h5>
       <ul>
-        <li>state health reform legislation;</li>
-        <li>cooperative efforts by the City and its unions to reduce 
-        both the City’s share of costs and total costs; and</li>
-        <li>lower nationwide health care cost trends.</li>
+      <li>state health reform legislation;</li>
+      <li>cooperative efforts by the City and its unions to reduce 
+      both the City’s share of costs and total costs; and</li>
+      <li>lower nationwide health care cost trends.</li>
       </ul>
       <p>Beginning in FY16, higher health care claims costs led to higher 
       premium increases, which were mitigated by PEC agreement savings, 
