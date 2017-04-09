@@ -15,9 +15,19 @@ components:
 - intro:
   - title: Bilingual education
     short_desc: >
-      
+      The Bilingual/SEI budget totals $75.6 million in FY18, an increase of $0.8 
+      million or 1.1% from FY17 levels.
     description: >
-      
+      Approximately 30% of BPS students have an ELL designation. Currently, English 
+      Learning students within the District speak more than 71 different languages. 
+      In FY18, the City will make an $81 thousand investment to open new dual 
+      language classrooms. 
     sidebar_menu: true    
 - text_block:
+  - title: Further investments
+    body: > 
+      Additionally, BPS continues to make investments to expand ELL academic programs 
+      and teacher training. The number of Sheltered English Immersion programs in the 
+      district will be increased, as will the number of teachers with English as a 
+      Second Language (ESL) licenses.
 ---
