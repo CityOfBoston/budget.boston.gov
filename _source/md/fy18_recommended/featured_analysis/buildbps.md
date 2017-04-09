@@ -31,38 +31,38 @@ components:
   - title: BuildBPS overview
 - text_col_2:
     - col: >
-      <h5>Community involvement</h5>
-      <p>A robust community process will commence in FY18 and continue each year. The planning 
-      principles, data, and analysis outlined during the BuildBPS planning process will guide 
-      community workshops across the City. These workshops will be the vehicle in which the 
-      community can propose new projects and investments. The City and BPS will further analyze 
-      the proposed projects which will become the foundation of each year’s capital plan.</p>  
-      <h5>21st Century Schools Fund</h5>
-      <p>The $13 million BuildBPS 21st Century Schools Fund will provide schools with 21st 
-      century tools, including:</p>
+        <h5>Community involvement</h5>
+        <p>A robust community process will commence in FY18 and continue each year. The planning 
+        principles, data, and analysis outlined during the BuildBPS planning process will guide 
+        community workshops across the City. These workshops will be the vehicle in which the 
+        community can propose new projects and investments. The City and BPS will further analyze 
+        the proposed projects which will become the foundation of each year’s capital plan.</p>  
+        <h5>21st Century Schools Fund</h5>
+        <p>The $13 million BuildBPS 21st Century Schools Fund will provide schools with 21st 
+        century tools, including:</p>
         <ul>
-          <li>new technology and comfortable;</li>
-          <li>movable furniture to promote learner-centric programs;</li>
-          <li>benefit professional development; and</li>
-          <li>provide greater flexibility in current and future learning spaces.</li>
+        <li>new technology and comfortable;</li>
+        <li>movable furniture to promote learner-centric programs;</li>
+        <li>benefit professional development; and</li>
+        <li>provide greater flexibility in current and future learning spaces.</li>
         </ul>
-      <p>Relative to larger-scale building renovations and repairs, these upgrades can be 
-      done at lower cost and on an accelerated timeline. BPS will create a menu of 21st 
-      century packages that schools will be able to select from depending on their needs. 
-      BPS will work with school leaders to complete these upgrades in the 2017-18 school 
-      year.</p>
-      <h5>Accelerated Repair Program</h5>
-      <p>Boston has also successfully ramped up its efforts to leverage MSBA Accelerated 
-      Repair Program (ARP) dollars to provide much needed improvements to its schools. 
-      This summer, Boston will invest $13.6 million to unlock a $16.3 million grant from 
-      the MSBA to provide seven BPS schools with new windows. In addition, the MSBA has 
-      approved a $6.4 million grant, with Boston providing $3.4 million in matching funds, 
-      to replace roofs and boilers at five BPS schools. <blockquote>The Mayor’s Capital 
-      Plan sets aside an additional $24 million over five years to position Boston to 
-      further leverage MSBA ARP dollars in the future.</blockquote></p>
-- col: >
-    <h5>Other BPS projects</h5>
-      <ul>
+        <p>Relative to larger-scale building renovations and repairs, these upgrades can be 
+        done at lower cost and on an accelerated timeline. BPS will create a menu of 21st 
+        century packages that schools will be able to select from depending on their needs. 
+        BPS will work with school leaders to complete these upgrades in the 2017-18 school 
+        year.</p>
+        <h5>Accelerated Repair Program</h5>
+        <p>Boston has also successfully ramped up its efforts to leverage MSBA Accelerated 
+        Repair Program (ARP) dollars to provide much needed improvements to its schools. 
+        This summer, Boston will invest $13.6 million to unlock a $16.3 million grant from 
+        the MSBA to provide seven BPS schools with new windows. In addition, the MSBA has 
+        approved a $6.4 million grant, with Boston providing $3.4 million in matching funds, 
+        to replace roofs and boilers at five BPS schools. <blockquote>The Mayor’s Capital 
+        Plan sets aside an additional $24 million over five years to position Boston to 
+        further leverage MSBA ARP dollars in the future.</blockquote></p>
+    - col: >
+        <h5>Other BPS projects</h5>
+        <ul>
         <li>This Capital Plan allows Boston to invest in BPS projects already 
         in the pipeline: Slated to be completed in winter of 2017/2018, the $73 million 
         Dearborn STEM Academy will open for students in September 2018. The project,
@@ -79,10 +79,9 @@ components:
         projects with the Massachusetts School Building Authority (MSBA). BPS will 
         continue the 5 year plan to upgrade technology infrastructure across the district 
         in support of 21st century learning.</li>
-      </ul>
-      <p>In total, Boston will invest more than $312 million in BPS capital projects over 
-      the next five years, with an additional $418 million committed for the following five 
-      years. When combined with projected MSBA matching funds, Boston is committing the $1 
-      billion in BPS capital projects over ten years.</p>
-  
+        </ul>
+        <p>In total, Boston will invest more than $312 million in BPS capital projects over 
+        the next five years, with an additional $418 million committed for the following five 
+        years. When combined with projected MSBA matching funds, Boston is committing the $1 
+        billion in BPS capital projects over ten years.</p>
 ---
