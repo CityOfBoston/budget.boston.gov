@@ -160,29 +160,39 @@ spanning_image:
 ```
 - table:
   - title: Budget summary
+    right_text: 
+      name: To some page
+      link: /example
     columns:
       - "Category": Total revenues
-        "FY14 Actual": $2,654.35
-        "FY15 Actual": $2,780.42
-        "FY16 Budget": $2,857.10
-        "FY17 Budget": $2,975.13
+        "FY15 Actual": 2,780.42
+        "FY16 Actual": 2,883.01
+        "FY17 Budget": 2,996.09
+        "FY18 Budget": 3,139.79
       - "Category": Total expenditures
-        "FY14 Actual": $2,644.88
-        "FY15 Actual": $2,773.06
-        "FY16 Budget": $2,875.10
-        "FY17 Budget": $2,975.13
-      - "Category":
+        "FY15 Actual": 2,773.06
+        "FY16 Actual": 2,881.09
+        "FY17 Budget": 2,996.09
+        "FY18 Budget": 3,139.79
+      - "Category": 
           name: Test Link
-          link: /path
-        "FY14 Actual": $9.47
-        "FY15 Actual": $7.36
-        "FY16 Budget": $0.00
-        "FY17 Budget": $0.00
-      - "": Surplus (Deficit)
-        "FY14 Actual": $9.47
-        "FY15 Actual": $7.36
-        "FY16 Budget": $0.00
-        "FY17 Budget": $0.00
+          link: /example
+        "FY15 Actual": 
+          value: 2773
+          filter: money
+        "FY16 Actual": 
+          value: 288109
+          filter: delimiter
+        "FY17 Budget": 
+          value: 90
+          filter: percent
+        "FY18 Budget": 3,139.79
+      - "Category": Surplus (Deficit)
+        "total": true
+        "FY15 Actual": 7.36
+        "FY16 Actual": 1.92
+        "FY17 Budget": 0.00
+        "FY18 Budget": 0.00
 ```
 
 ---
