@@ -60,8 +60,9 @@ if (document.getElementById("aggregateBarChart")) {
     var chartLabelsString = barCharts[i].getAttribute("data-labels");
     var chartLabels = chartLabelsString.replace(/^\s+|\s+$/g,"").split(/\s*,\s*/);
     var chartDataString = barCharts[i].getAttribute("data");
-    var chartData = JSON.parse(chartDataString);
-    var chartDatasets = new Array();
+    var chartData = chartDataString.replace(/^\s+|\s+$/g,"").split(/\s*,\s*/);
+    //var chartData = JSON.parse(chartDataString);
+    //var chartDatasets = new Array();
     var chartColors = ['rgba(9,31,47, 1)','rgba(25,69,91, 1)','rgba(69,120,156, 1)','rgba(150,196,224, 1)'];
     var chartBorderColors = ['rgba(9,31,47, 1)','rgba(25,69,91, 1)','rgba(69,120,156, 1)','rgba(150,196,224, 1)'];
     var k = 0;
@@ -98,7 +99,7 @@ if (document.getElementById("aggregateBarChart")) {
         labels: chartLabels,
         datasets: [{
           label: chartLabels, //['hi', 'bye', 'tie'],
-          data: [2121,432,3535,324,235,574,2346,652],
+          data: chartData, //[2121,432,3535,324,235,574,2346,652],
           backgroundColor: fullColorList,//['rgba(9,31,47, 1)','rgba(25,69,91, 1)','rgba(69,120,156, 1)','rgba(150,196,224, 1)'],
           borderColors: fullColorList,//['rgba(9,31,47, 1)','rgba(25,69,91, 1)','rgba(69,120,156, 1)','rgba(150,196,224, 1)'],
         }]//chartDatasets
