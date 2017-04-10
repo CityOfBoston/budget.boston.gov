@@ -142,22 +142,43 @@ components:
   - grid_title: Revenue
   - title: Revenue overview
     body: >
-      Two centuries separate the creation of the Boston Common and the Public Garden, 
-      and what a difference that period made.
+      Get a broad understanding of where Boston's revenue comes from.
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/revenue-overview
+    link: /featured-analysis/revenue-overview/
   - title: Property tax
     body: >
-      New Two centuries separate the creation of the Boston Common and the Public Garden, 
-      and what a difference that period made.
+      Property taxes provide more than two-thirds of the City's revenue. See the details of this important revenue source.
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
-    link: /featured-analysis/property-tax
+    link: /featured-analysis/property-tax/
   - title: State aid
     body: >
-      NEW New Two centuries separate the creation of the Boston Common and the Public Garden, 
-      and what a difference that period made.
+      State aid to Boston never recovered after the Great Recession. Learn about the impacts.
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
-    link: /featured-analysis/state-aid
+    link: /featured-analysis/state-aid/
+- text_col_2:
+    - col: >
+        <p>FY18 expenditures are increasing by $143.7 million (4.8%) over FY17 budgeted expenditures. This reflects 
+        4% appropriation growth and 8% fixed cost growth. Of that growth, 40% is dedicated to education 38% will 
+        go to all other City Services (such as Police, Fire, and Public Works) and the Public Health Commission, 
+        and the remaining 22% of growth will be consumed by pension, debt service and other fixed cost expenditures.</p>
+    - col:
+      - img: http://placehold.it/300x400
+- grid:
+  - title: Education overview
+    body: >
+      At a $1.061 billion appropriation plus a $20 million collective bargaining reserve, this marks the largest Boston Public Schools budget in history. Start here to learn more.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/education-overview/
+  - title: City services
+    body: >
+      Boston budgets to improve services each year. Learn about the budgetary changes in services and how the City saved over $60 million through smart decisions about those services.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
+    link: /featured-analysis/city-services/
+  - title: Pensions, debt service, and other fixed costs
+    body: >
+      Get a better understanding of the City of Boston's annual budgetary obligations.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
+    link: /featured-analysis/pensions-debt-service-other-fixed-costs/
 - text_block:
   - title: Imagine Boston Capital Plan
     body: >
@@ -187,7 +208,6 @@ components:
        Under the Imagine Boston 2030 umbrella, the City is investing deeply in the core goals 
        of BuildBPS, Go Boston 2030, Boston Creates, and Climate Ready Boston.</p>
 - text_block:
-  - title: Projects part of City planning
     body: >
       <p>An estimated 77% of projects in the FY18-22 Capital Plan are aligned with the 
       City’s planning efforts:</p>
@@ -223,4 +243,142 @@ components:
         <p>With investments in roads, bridges, schools, libraries, parks, firehouses, and 
         community centers, the Imagine Boston Capital Plan touches each neighborhood and shapes 
         a City that over 14,000 voices told us they want to see.</p>
+        <p class="button">View the Capital Plan</p>
+- text_block:
+  - title: FY18 Budget Priorities
+    body: >
+      <p>Building on Mayor Walsh’s record of achieving improved outcomes across the City’s 
+      services - from education to housing, basic city services to the arts - the Mayor is 
+      proposing data-driven investments that are aimed at creating a <strong>thriving, healthy and 
+      innovative city</strong>. Operating budget investments are made possible due to the smart savings 
+      initiatives the City has pursued over the past four years. Through the Imagine Boston 
+      Capital Plan, the Mayor is making new capital investments in Boston’s schools, roads, 
+      bridges, parks, libraries, community centers, fire stations and other community assets 
+      to build the City that Bostonians imagined.</p>
+- grid:
+  - grid_title: Education
+  - title: Extending the school day
+    body: >
+      Insert copy
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/extended-school-day/
+  - title: Closing opportunity and achievement gaps
+    body: >
+      Insert copy
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
+    link: /featured-analysis/
+  - title: Supporting our students most in need
+    body: >
+      Insert copy
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
+    link: /featured-analysis/
+  - title: BuildBPS
+    body: >
+      Insert copy
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
+    link: /featured-analysis/buildbps/
+- text_col_2: 
+  - col: >
+      <p>This Capital Plan allows Boston to invest in BPS projects already in the pipeline:</p>
+      <ul>
+      <li>Slated to be completed in winter of 2017/2018, the $73 million Dearborn STEM Academy will open for students in September 2018. The project, which leverages a projected $37 million match from the MSBA, is designed based upon a project-based learning curriculum, with an emphasis on STEM education.</li>
+      <li>Over the next two years, the Eliot School construction projects will be completed. The new $23 million North Bennet Street building will welcome 5th to 8th graders this fall into a 21st century learning environment while this summer, the final phase of construction will begin at the Commercial Street building.</li>
+      </ul>
+  - col: >
+      <ul>
+      <li>The Capital Plan provides for Boston’s matching investment in the Josiah Quincy Upper School (JQUS) and Boston Arts Academy (BAA), which are collaborative projects with the Massachusetts School Building Authority (MSBA).</li>
+      </ul>
+      <p>In total, Boston will invest more than $312 million in BPS capital projects over the next five years, with an additional $418 million committed for the following five years. When combined with projected MSBA matching funds, Boston is committing the $1 billion in BPS capital projects over ten years.</p>
+- grid:
+  - grid_title: Additional priorities
+  - title: Implementing Boston’s Homeless Action Plan
+    body: >
+      Insert copy
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/housing-homeless-action-plan/
+  - title: Improving Homeless Shelter Service and Safety
+    body: >
+      Insert copy
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
+    link: /featured-analysis/housing-homeless-shelter-service-safety/
+  - title: Housing a Changing City - Boston 2030
+    body: >
+      Insert copy
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
+    link: /featured-analysis/housing-boston-2030/
+  - title: Advancing Racial Equity, Diversity and Economic Mobility
+    body: >
+      Insert copy
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/prosperity-racial-equity-diversity-economic-mobility/
+  - title: Recruiting a Diverse Police Force
+    body: >
+      Insert copy
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
+    link: /featured-analysis/prosperity-recruiting-diverse-police-force/
+  - title: Launching Go Boston 2030
+    body: >
+      Insert copy
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
+    link: /featured-analysis/streets-launching-go-boston-2030/
+  - title: Keeping Boston Streets Clean and Safe
+    body: >
+      Insert copy
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/streets-keeping-streets-clean-safe/
+  - title: Implementing Imagine Boston 2030’s Open Space Goals
+    body: >
+      Insert copy
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
+    link: /featured-analysis/open-space-imagine-boston-2030-goals/
+  - title: Ensuring Accessible and Equitable Parks
+    body: >
+      Insert copy
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
+    link: /featured-analysis/open-space-accessible-equitable-parks/
+  - title: Preparing for Climate Change
+    body: >
+      Insert copy
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/energy-environment-preparing-for-climate-change/
+  - title: Investing in the Arts
+    body: >
+      Insert copy
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
+    link: /featured-analysis/arts-investing-in-the-arts/
+  - title: Preserving Boston Public Library’s Special Collections
+    body: >
+      Insert copy
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
+    link: /featured-analysis/arts-preserving-bpl-special-collections/
+  - title: Building Thriving Community Libraries
+    body: >
+      Insert copy
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/arts-thriving-community-libraries/
+  - title: Improving and Expanding Addiction Services
+    body: >
+      Insert copy
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
+    link: /featured-analysis/health-safety-addiction-services/
+  - title: Promoting a Proactive and Agile Boston EMS through Data
+    body: >
+      Insert copy
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
+    link: /featured-analysis/health-safety-proactive-agile-ems-through-data/
+  - title: Promoting Firefighter Health and Safety
+    body: >
+      Insert copy
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/health-safety-firefighter-health-safety/
+  - title: Putting Data Analytics to Work
+    body: >
+      Insert copy
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
+    link: /featured-analysis/technology-data-analytics/
+  - title: Improving City Services through CityScore
+    body: >
+      Insert copy
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
+    link: /featured-analysis/technology-city-services-through-cityscore/
 ---

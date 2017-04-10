@@ -60,4 +60,21 @@ components:
       Thanks to Boston's investment in 20 EMTs in FY17, this year’s budget achieves a 10% 
       reduction in EMS overtime and an 8% increase in EMS third party billing revenue. 
       These changes generate a $4.1 million net savings for the City in FY18. </p>
+- grid:
+  - grid_title: More budget analysis
+  - title: Handy dandy title
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /#/
+  - title: This one's witty, too
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
+    link: /#/
+  - title: Rumple Stiltskin
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
+    link: /#/
 ---

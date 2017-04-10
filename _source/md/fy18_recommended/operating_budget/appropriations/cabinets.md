@@ -33,213 +33,106 @@ components:
       link: /operating-budget
     columns:
       - "Cabinet": 
-           name: Administration and Finance
-           link: /operating-budget/cabinets/administration-and-finance
-        "FY15 Actual":
-          value: 227829602
-          filter: money
-        "FY16 Actual":
-          value: 240714714
-          filter: money
-        "FY17 Budget":
-          value: 256130020
-          filter: money
-        "FY18 Budget":
-          value: 266454487
-          filter: money
+          name: Administration and Finance
+          link: /operating-budget/cabinets/administration-and-finance
+        "FY15 Actual": 227,829,602
+        "FY16 Actual": 240,714,714
+        "FY17 Budget": 256,130,020
+        "FY18 Budget": 266,454,487
       - "Cabinet":
           name: Arts and Culture
           link: /operating-budget/cabinets/arts-and-culture
-        "FY15 Actual":
-          value: 34266493
-          filter: money
-        "FY16 Actual":
-          value: 36137101
-          filter: money
-        "FY17 Budget":
-          value: 35851172
-          filter: money
-        "FY18 Budget":
-          value: 37364417
-          filter: money
+        "FY15 Actual": 34,266,493
+        "FY16 Actual": 36,137,101
+        "FY17 Budget": 35,851,172
+        "FY18 Budget": 37,364,417
       - "Cabinet":
           name: Civic Engagement
           link: /operating-budget/cabinets/civic-engagement
-        "FY15 Actual":
-          value: 4517062
-          filter: money
-        "FY16 Actual":
-          value: 5596790
-          filter: money
-        "FY17 Budget":
-          value: 6428480
-          filter: money
-        "FY18 Budget":
-          value: 6465712
-          filter: money
+        "FY15 Actual": 4,517,062
+        "FY16 Actual": 5,596,790
+        "FY17 Budget": 6,428,480
+        "FY18 Budget": 6,465,712
       - "Cabinet":
           name: Economic Development
           link: /operating-budget/cabinets/economic-development
-        "FY15 Actual":
-          value: 3728936
-          filter: money
-        "FY16 Actual":
-          value: 3669737
-          filter: money
-        "FY17 Budget":
-          value: 5037349
-          filter: money
-        "FY18 Budget":
-          value: 4916282
-          filter: money
+        "FY15 Actual": 3,728,936
+        "FY16 Actual": 3,669,737
+        "FY17 Budget": 5,037,349
+        "FY18 Budget": 4,916,282
       - "Cabinet":
           name: Education
           link: /operating-budget/cabinets/education
-        "FY15 Actual":
-          value: 974925124
-          filter: money
-        "FY16 Actual":
-          value: 1016278855
-          filter: money
-        "FY17 Budget":
-          value: 1031684000
-          filter: money
-        "FY18 Budget":
-          value: 1060932783
-          filter: money
+        "FY15 Actual": 974,925,124
+        "FY16 Actual": 1,016,278,855
+        "FY17 Budget": 1,031,684,000
+        "FY18 Budget": 1,060,932,783
       - "Cabinet":
           name: Environment, Energy, and Open Space
           link: /operating-budget/cabinets/environment-energy-and-open-space
-        "FY15 Actual":
-          value: 37117792
-          filter: money
-        "FY16 Actual":
-          value: 43778465
-          filter: money
-        "FY17 Budget":
-          value: 42026692
-          filter: money
-        "FY18 Budget":
-          value: 43007806
-          filter: money
+        "FY15 Actual": 37,117,792
+        "FY16 Actual": 43,778,465
+        "FY17 Budget": 42,026,692
+        "FY18 Budget": 43,007,806
       - "Cabinet":
           name: Health and Human Services
           link: /operating-budget/cabinets/health-and-human-services
-        "FY15 Actual":
-          value: 108339356
-          filter: money
-        "FY16 Actual":
-          value: 111610537
-          filter: money
-        "FY17 Budget":
-          value: 114388568
-          filter: money
-        "FY18 Budget":
-          value: 116791920
-          filter: money
+        "FY15 Actual": 108,339,356
+        "FY16 Actual": 111,610,537
+        "FY17 Budget": 114,388,568
+        "FY18 Budget": 116,791,920
       - "Cabinet":
           name: Housing and Neighborhood Development
           link: /operating-budget/cabinets/housing-and-neighborhood-development
-        "FY15 Actual":
-          value: 10468262
-          filter: money
-        "FY16 Actual":
-          value: 11544055
-          filter: money
-        "FY17 Budget":
-          value: 12963182
-          filter: money
-        "FY18 Budget":
-          value: 13125615
-          filter: money
+        "FY15 Actual": 10,468,262
+        "FY16 Actual": 11,544,055
+        "FY17 Budget": 12,963,182
+        "FY18 Budget": 13,125,615
       - "Cabinet":
           name: Information and Technology
           link: /operating-budget/cabinets/information-and-technology
-        "FY15 Actual":
-          value: 30614392
-          filter: money
-        "FY16 Actual":
-          value: 32046766
-          filter: money
-        "FY17 Budget":
-          value: 28523574
-          filter: money
-        "FY18 Budget":
-          value: 28891967
-          filter: money
+        "FY15 Actual": 30,614,392
+        "FY16 Actual": 32,046,766
+        "FY17 Budget": 28,523,574
+        "FY18 Budget": 28,891,967
       - "Cabinet":
           name: Mayor's Office
           link: /operating-budget/cabinets/mayors-office
-        "FY15 Actual":
-          value: 13207025
-          filter: money
-        "FY16 Actual":
-          value: 12973392
-          filter: money
-        "FY17 Budget":
-          value: 14477682
-          filter: money
-        "FY18 Budget":
-          value: 14481276
-          filter: money
+        "FY15 Actual": 13,207,025
+        "FY16 Actual": 12,973,392
+        "FY17 Budget": 14,477,682
+        "FY18 Budget": 14,481,276
       - "Cabinet":
           name: Non-Mayoral Departments
           link: /operating-budget/cabinets/non-mayoral-departments
-        "FY15 Actual":
-          value: 6368455
-          filter: money
-        "FY16 Actual":
-          value: 6610436
-          filter: money
-        "FY17 Budget":
-          value: 6829647
-          filter: money
-        "FY18 Budget":
-          value: 6826877
-          filter: money
+        "FY15 Actual": 6,368,455
+        "FY16 Actual": 6,610,436
+        "FY17 Budget": 6,829,647
+        "FY18 Budget": 6,826,877
       - "Cabinet":
           name: Operations
           link: /operating-budget/cabinets/operations
-        "FY15 Actual":
-          value: 24933563
-          filter: money
-        "FY16 Actual":
-          value: 25171888
-          filter: money
-        "FY17 Budget":
-          value: 25151866
-          filter: money
-        "FY18 Budget":
-          value: 23985589
-          filter: money
+        "FY15 Actual": 24,933,563
+        "FY16 Actual": 25,171,888
+        "FY17 Budget": 25,151,866
+        "FY18 Budget": 23,985,589
       - "Cabinet":
           name: Public Safety
           link: /operating-budget/cabinets/public-safety
-        "FY15 Actual":
-          value: 549010022
-          filter: money
-        "FY16 Actual":
-          value: 566456629
-          filter: money
-        "FY17 Budget":
-          value: 585715580
-          filter: money
-        "FY18 Budget":
-          value: 606203586
-          filter: money
+        "FY15 Actual": 549,010,022
+        "FY16 Actual": 566,456,629
+        "FY17 Budget": 585,715,580
+        "FY18 Budget": 606,203,586
       - "Cabinet":
-         name: Streets
-         link: /operating-budget/cabinets/streets
-        "FY15 Actual":
-         value: 155921442
-         filter: money
-        "FY16 Actual":
-         value: 136430813
-         filter: money
-        "FY17 Budget":
-         value: 142291767
-         filter: money
-        "FY18 Budget":
-         value: 145114722
-         filter: money
+          name: Streets
+          link: /operating-budget/cabinets/streets
+        "FY15 Actual": 155,921,442
+        "FY16 Actual": 136,430,813
+        "FY17 Budget": 142,291,767
+        "FY18 Budget": 145,114,722
+      - "Cabinet": Totals
+        "FY15 Actual": 
+        "FY16 Actual": 
+        "FY17 Budget": 
+        "FY18 Budget": 
 ---

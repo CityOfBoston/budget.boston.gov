@@ -16,29 +16,25 @@ components:
 - intro:
   - title: Cabinets
     short_desc: >
-      <div>"This budget is a manifestation of my vision for a
-      Thriving, Healthy, and Innovative Boston."</div>
-      <div>- Martin J. Walsh, Mayor</div>
+      Commonwealth charter schools, which are granted charters by the 
+      State Board of Education, are publicly funded schools administered 
+      independently from local school committee and district bargaining rules 
+      and regulations.
     description: >
-      Mayor Walsh presented a balanced budget that maintains
-      high levels of support in critical areas such as education
-      and public safety, makes limited strategic investments,
-      continues the City's commitment to addressing its long-term
-      liabilities, and builds on the Administration's record of
-      strong fiscal management. This is made possible by the
-      Administration's achievement of efficiencies and savings.
-      The City's data-driven managerial approach was recently
-      validated by the affirmation of Boston's triple A bond rating.
+      Commonwealth charter schools are primarily financed by the home districts 
+      of their students through a per pupil based charge. They are projected to 
+      educate 10,660 Boston students in FY18. Boston is assessed by 
+      the Commonwealth to fund charter schools on a per pupil basis, and Boston’s 
+      charter school tuition assessment is projected to increase by $17.5 million 
+      over the FY17 budget. <blockquote>Boston’s charter school assessment has risen 
+      by 155% since the enactment of the 2010 Achievement Gap Legislation.</blockquote>
     sidebar_menu: true
 - text_block:
-  - title: Cabinet Appropriations
+  - title: Total spending
     body: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur suscipit id
-      felis sed iaculis. Sed ac nisl eu lacus porta pharetra. Suspendisse a tortor vel
-      velit egestas porttitor et a mi. Nam nunc ipsum, elementum a nisi nec, scelerisque
-      blandit orci. Ut in sollicitudin turpis, non malesuada leo. Morbi vehicula sit
-      amet est sed luctus. Suspendisse massa turpis, iaculis at fermentum placerat,
-      scelerisque ultricies est. Nulla facilisi. In scelerisque ornare tincidunt.
+      In total, the City of Boston will spend $1.235 billion to support 
+      education-related programs – from prekindergarten to high school in the 
+      Boston Public School system as well as Commonwealth Charter Schools. 
 - table:
   - title: Charter School tuition
     right_text:

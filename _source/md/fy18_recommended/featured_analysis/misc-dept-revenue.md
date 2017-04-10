@@ -35,4 +35,21 @@ components:
       in FY15 and $8.2 million in FY16. <blockquote>Municipal Medicaid reimbursement 
       is expected to reach budget of $7 million in FY17 and increase to $7.25 
       million in FY18.</blockquote></p>
+- grid:
+  - grid_title: More budget analysis
+  - title: Handy dandy title
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /#/
+  - title: This one's witty, too
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
+    link: /#/
+  - title: Rumple Stiltskin
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
+    link: /#/
 ---

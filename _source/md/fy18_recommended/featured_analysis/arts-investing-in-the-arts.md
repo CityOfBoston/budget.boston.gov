@@ -19,12 +19,12 @@ components:
       Boston Creates, in 2016, calling for increased support to Boston’s arts and 
       culture ecosystem.
     description: >
-       The Percent for Art Program, included for the first time in the FY18-22 Capital 
-       Plan, is a critical policy outcome of this planning process. The Percent for Art 
-       Program demonstrates the City’s leadership and commitment to sustainable funding 
-       for the arts by setting aside one percent of the City’s annual capital borrowing 
-       for the commissioning of public art. <blockquote>Thanks to this commitment, the City will 
-       invest $1.7 million in public art projects in FY18.</blockquote>
+      The Percent for Art Program, included for the first time in the FY18-22 Capital 
+      Plan, is a critical policy outcome of this planning process. The Percent for Art 
+      Program demonstrates the City’s leadership and commitment to sustainable funding 
+      for the arts by setting aside one percent of the City’s annual capital borrowing 
+      for the commissioning of public art. <blockquote>Thanks to this commitment, the City will 
+      invest $1.7 million in public art projects in FY18.</blockquote>
     sidebar_menu: true    
 - text_block:
   - title: Key arts investments
@@ -42,26 +42,26 @@ components:
       <p>In FY17, Boston AIR artists were placed in ten neighborhood-based community 
       centers including:</p>
       <ul>
-        <li>South Boston;</li>
-        <li>Roslindale;</li>
-        <li>Mattapan;</li>
-        <li>Hyde Park;</li>
-        <li>Jamaica Plain;</li>
-        <li>South End;</li>
-        <li>Dorchester;</li>
-        <li>Mission Hill;</li>
-        <li>Chinatown; and</li>
-        <li>Roxbury.</li>
+      <li>South Boston;</li>
+      <li>Roslindale;</li>
+      <li>Mattapan;</li>
+      <li>Hyde Park;</li>
+      <li>Jamaica Plain;</li>
+      <li>South End;</li>
+      <li>Dorchester;</li>
+      <li>Mission Hill;</li>
+      <li>Chinatown; and</li>
+      <li>Roxbury.</li>
       </ul>
-  - col: 
+  - col: >
       <h5>Adding clarity to City services</h5>
       <p>In response to artists who felt disconnected from City Hall and sought clarity 
       on how to access City resources, the Artist Resource Manager provides staff support for:</p>
-        <ul>
-          <li>permitting, zoning, and other regulatory requirements for arts and culture uses;</li>
-          <li>communicating professional opportunities; and</li>
-          <li>navigating other municipal services.</li>
-        </ul>
+      <ul>
+      <li>permitting, zoning, and other regulatory requirements for arts and culture uses;</li>
+      <li>communicating professional opportunities; and</li>
+      <li>navigating other municipal services.</li>
+      </ul>
   - col: >
       <h5>New programs</h5>
       <p><a href="https://www.boston.gov/arts-and-culture/opportunity-fund">The Opportunity Fund</a> is 
@@ -74,4 +74,21 @@ components:
       feedback in the Boston Creates process that we identify new funding streams for 
       Boston artists. This fellowship will be aimed at supporting and elevating Boston 
       creatives.</p>
+- grid:
+  - grid_title: More budget analysis
+  - title: Handy dandy title
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /#/
+  - title: This one's witty, too
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
+    link: /#/
+  - title: Rumple Stiltskin
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
+    link: /#/
 ---

@@ -69,6 +69,7 @@ components:
       accounted for 60% of the new growth. New growth is expected to be approximately $50 
       million in FY18, which is very high compared to historical levels of new growth 
       seen prior to FY17.</p>
+  - col: >
       <h5>Property tax growth</h5>
       <p>Property tax growth from new growth has exceeded that from the allowable 2.5% 
       increase in 21 of the last 34 years. However, as was evident during the last 
@@ -115,4 +116,21 @@ components:
       title lien at the Registry of Deeds is the most effective tool available for payment 
       enforcement. The property tax collection rate was 99.3% of the FY16 gross 
       tax levy as of June 30, 2016.</p>
+- grid:
+  - grid_title: More budget analysis
+  - title: Handy dandy title
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /#/
+  - title: This one's witty, too
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
+    link: /#/
+  - title: Rumple Stiltskin
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
+    link: /#/
 ---

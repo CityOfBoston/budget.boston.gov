@@ -16,19 +16,24 @@ components:
 - intro:
   - title: Debt service
     short_desc: >
-      The debt service is the annual amount of money necessary to pay the interest and principal on the City's outstanding debt.
+      The Debt Service budget supports borrowing to finance the City’s 
+      capital plan. 
     description: >
-      The Debt Service budget is a fixed cost in the operating budget that supports the borrowing to finance the City’s capital plan. The City benefits from its strong financial policies and practices and have been recently affirmed with a triple A bond ratings issued by Moody’s and Standard and Poor’s. Strong bond ratings are an assessment of the City’s long-term financial stability but also help by lowering the cost of borrowing. In FY17 the Debt Service is budgeted at $177.8 million.
+      In FY18 Debt Service is budgeted at $185.6 million, a 6.1% increase 
+      over the previous year.
     sidebar_menu: true
 - text_block:
-  - title: Cabinet Appropriations
+  - title: Overview
     body: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur suscipit id
-      felis sed iaculis. Sed ac nisl eu lacus porta pharetra. Suspendisse a tortor vel
-      velit egestas porttitor et a mi. Nam nunc ipsum, elementum a nisi nec, scelerisque
-      blandit orci. Ut in sollicitudin turpis, non malesuada leo. Morbi vehicula sit
-      amet est sed luctus. Suspendisse massa turpis, iaculis at fermentum placerat,
-      scelerisque ultricies est. Nulla facilisi. In scelerisque ornare tincidunt.
+      The City benefits from its strong financial policies and practices 
+      and has recently been affirmed with triple A bond ratings from Moody’s 
+      and Standard and Poor’s. Strong bond ratings are an assessment of the City’s 
+      long-term financial stability and lower the cost of borrowing. <blockquote>As 
+      the City borrows more over ten years to support investments in its schools, 
+      debt service is projected to increase as well. In FY18 Debt Service is budgeted 
+      at $185.6 million, a 6.1% increase over the previous year. </blockquote> For 
+      further detail see the Capital Planning and Financial Management chapters of 
+      this volume.
 - table:
   - title: Debt service
     right_text:

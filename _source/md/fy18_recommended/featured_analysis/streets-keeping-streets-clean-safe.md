@@ -45,5 +45,21 @@ components:
       quality of life in Boston. As a result of accelerated resurfacing and sidewalk repair in 
       FY17, the percentage of requests for sidewalk repairs addressed on time (within 48 
       hours) increased from 66% in December 2015 to 85% in December 2016.</p>
-      
+- grid:
+  - grid_title: More budget analysis
+  - title: Handy dandy title
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /#/
+  - title: This one's witty, too
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
+    link: /#/
+  - title: Rumple Stiltskin
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
+    link: /#/
 ---
