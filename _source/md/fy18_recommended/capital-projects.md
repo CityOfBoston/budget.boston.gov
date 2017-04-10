@@ -434,6 +434,52 @@ components:
       construction funds on projects such as the new North Washington Street Bridge and the 
       South Bay Harbor Trail.</p>
 - text_block:
+  - title: FY18-FY22 Project Highlights
+- text_col_3:
+  - col: >
+      <ul>
+        <li>Education</li>
+        <li>BuildBPS: 21st Century Schools Fund</li>
+        <li>Dearborn STEM Academy</li>
+        <li>Transportation</li>
+        <li>Boylston Street Sidewalks</li>
+        <li>Vision Zero</li>
+        <li>Hyde Square</li>
+        <li>Technology</li>
+        <li>Digital Engagement Upgrades</li>
+        <li>Father Hart Bridge Traffic Improvements</li>
+        <li>Open Space</li>
+         <li>Jamaica Pond Pathways and Perimeter</li>
+      </ul>
+  - col: >
+      <ul>
+        <li>Martin’s Park</li>
+        <li>Energy and Environment</li>
+        <li>Climate Ready Boston</li>
+        <li>Renew Boston Trust</li>
+        <li>Health</li>
+        <li>BCYF Curley Community Center</li>
+        <li>BCYF Gallivan Community Center</li>
+        <li>Housing</li>
+        <li>Whittier Street Roadways</li>
+        <li>Madison Park Village</li>
+        <li>Arts and Culture</li>
+      </ul>
+  - col: >
+      <ul>
+        <li>Percent for Arts</li>
+        <li>Central Library: Rare Books Dept.</li>
+        <li>Economy</li>
+        <li>Harrison Avenue / Washington Street</li>
+        <li>Dudley Street</li>
+        <li>Public Safety</li>
+        <li>New East Boston Police Station</li>
+        <li>New Engine 42 Fire Station</li>
+        <li>Government Effectiveness</li>
+        <li>City Hall and Plaza Master Plan</li>
+        <li>Youth Fund</li>
+      </ul>
+- text_block:
   - title: More resources
     body: >
       Include links to PDF versions of the tables at the end of the capital chapter
