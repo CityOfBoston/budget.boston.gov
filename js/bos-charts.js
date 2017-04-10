@@ -60,32 +60,31 @@ if (document.getElementById("aggregateBarChart")) {
     var chartLabelsString = barCharts[i].getAttribute("data-labels");
     var chartLabels = chartLabelsString.replace(/^\s+|\s+$/g,"").split(/\s*,\s*/);
     var chartDataString = barCharts[i].getAttribute("data");
-    var chartData = JSON.parse(chartDataString);
-    var chartDatasets = new Array();
+    var chartData = chartDataString.replace(/^\s+|\s+$/g,"").split(/\s*,\s*/);
     var chartColors = ['rgba(9,31,47, 1)','rgba(25,69,91, 1)','rgba(69,120,156, 1)','rgba(150,196,224, 1)'];
     var chartBorderColors = ['rgba(9,31,47, 1)','rgba(25,69,91, 1)','rgba(69,120,156, 1)','rgba(150,196,224, 1)'];
     var k = 0;
+    var fullColorList = new Array();
     for (var j in chartData) {
-      chartDatasets.push({
-        label: j,
-        data: chartData[j],
-        backgroundColor: chartColors[k],
-        borderColor: chartBorderColors[k],
-        borderWidth: 2,
-        pointBackgroundColor: '#232323',
-        pointBorderColor: '#232323'
-      });
+      fullColorList.push(chartColors[k]);
       if (k == chartColors.length -1) {
         k = 0;
       } else {
         k++;
       }
     }
+    console.log(chartLabels);
+    console.log(chartData);
     var myChart = new Chart(barChartContext, {
       type: 'horizontalBar',
       data: {
         labels: chartLabels,
-        datasets: chartDatasets
+        datasets: [{
+          label: "",
+          data: chartData,
+          backgroundColor: fullColorList,
+          borderColors: fullColorList,
+        }]
       },
       options: {
         legend: {

@@ -36,7 +36,7 @@ components:
       unlocking a $1 billion investment in Boston schools over the next 10 years.</p>
       <p>Even with the recent favorable borrowings, debt service costs are projected
       to increase by $10.6 million (6.1%) in FY18.</p> 
-  - col: >
+  - col:
     - img: /img/placeholder-300x400.png
     - blurb: >
         Pension Funding Schedule
