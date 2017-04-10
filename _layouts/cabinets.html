@@ -107,7 +107,7 @@ layout: bos_wrapper
 <div class="desktop-100 clearfix">
 <div class="desktop-50">
   <div id="totalLineChart-wrapper">
-    <table class="responsive-table">
+    <table class="responsive-table chart-label">
       <th>
         {{ page.external_funds_tables.data[-1].total }} {{ page.name }} Operating Budget
       </th>
@@ -120,10 +120,10 @@ layout: bos_wrapper
       large=true
       data-title="{{ page.name }}"
       data-labels="
-        {{ page.operating_department.fy-2 }},
-        {{ page.operating_department.fy-1 }},
-        {{ page.operating_department.fy-0 }},
-        {{ page.operating_department['fy+1'] }}
+        {{ page.operating_department.fy-2 | truncate: 4, "" }},
+        {{ page.operating_department.fy-1 | truncate: 4, "" }},
+        {{ page.operating_department.fy-0 | truncate: 4, "" }},
+        {{ page.operating_department['fy+1'] | truncate: 4, "" }}
       "
       data="
         {% for i in page.operating_department.data[-1] %}
@@ -137,7 +137,9 @@ layout: bos_wrapper
 </div>
 <div class="desktop-50">
   <div id="aggregateBarChart-wrapper">
-    <table class="responsive-table"><th>{{ page.name }} Operating Budget by Department</th></table>
+    <table class="responsive-table chart-label">
+      <th>{{ page.name }} Operating Budget by Department</th>
+    </table>
     <canvas
       id="aggregateBarChart"
       class="barChart"
@@ -173,7 +175,9 @@ layout: bos_wrapper
 {% for row in page.operating_department.data %}
   {% if row.line_type == 'data' %}
     <div class="wi g--4">
-      <table class="responsive-table"><th>{{ row.department }}</th></table>
+      <table class="responsive-table chart-label">
+        <th>{{ row.department }}</th>
+      </table>
       <canvas
         id="lineChart"
         class="lineChart"
@@ -181,10 +185,10 @@ layout: bos_wrapper
         height="200"
         data-title=""
         data-labels="
-          {{ page.operating_department.fy-2 }},
-          {{ page.operating_department.fy-1 }},
-          {{ page.operating_department.fy-0 }},
-          {{ page.operating_department['fy+1'] }}
+          {{ page.operating_department.fy-2 | truncate: 4, "" }},
+          {{ page.operating_department.fy-1 | truncate: 4, "" }},
+          {{ page.operating_department.fy-0 | truncate: 4, "" }},
+          {{ page.operating_department['fy+1'] | truncate: 4, "" }}
         "
         data="{{ row.fy-2 }}, {{ row.fy-1 }}, {{ row.fy-0 }}, {{ row['fy+1'] }}"
       ></canvas>
@@ -238,7 +242,7 @@ layout: bos_wrapper
   </table>
   <br />
   <div class="body">
-    <a href="/featured-analysis/external-funds/" class="button">Learn more about external funds</a>
+    <a href="{{ site.url }}/featured-analysis/external-funds/" class="button">Learn more about external funds</a>
   </div>
   <br />
 {% endif %}

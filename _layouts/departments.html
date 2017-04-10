@@ -112,7 +112,7 @@ layout: bos_wrapper
   <div class="desktop-100 clearfix">
   <div class="desktop-50">
     <div id="totalLineChart-wrapper">
-      <table class="responsive-table">
+      <table class="responsive-table chart-label">
         <th>
           {{ page.name }} Operating Budget
         </th>
@@ -125,10 +125,10 @@ layout: bos_wrapper
         large=true
         data-title="{{ page.name }}"
         data-labels="
-          {{ page.department_history_by_account.table_header.fy-2 }},
-          {{ page.department_history_by_account.table_header.fy-1 }},
-          {{ page.department_history_by_account.table_header.fy-0 }},
-          {{ page.department_history_by_account.table_header["fy+1"] }}
+          {{ page.department_history_by_account.table_header.fy-2 | truncate: 4, "" }},
+          {{ page.department_history_by_account.table_header.fy-1 | truncate: 4, "" }},
+          {{ page.department_history_by_account.table_header.fy-0 | truncate: 4, "" }},
+          {{ page.department_history_by_account.table_header["fy+1"] | truncate: 4, "" }}
         "
         data="
           {% for row in page.department_history_by_account.data %}
@@ -145,7 +145,7 @@ layout: bos_wrapper
   </div>
   <div class="desktop-50">
     <div id="aggregateBarChart-wrapper">
-      <table class="responsive-table"><th>{{ page.name }} Operating Budget by Department</th></table>
+      <table class="responsive-table chart-label"><th>{{ page.name }} Operating Budget by Department</th></table>
       <canvas
         id="aggregateBarChart"
         class="barChart"
@@ -179,7 +179,7 @@ layout: bos_wrapper
   {% for row in page.department_history_by_account.data %}
     {% if row.line_type == 'data' %}
       <div class="wi g--4">
-        <table class="responsive-table"><th>{{ row.line_title }}</th></table>
+        <table class="responsive-table chart-label"><th>{{ row.line_title }}</th></table>
         <canvas
           id="lineChart"
           class="lineChart"
@@ -187,10 +187,10 @@ layout: bos_wrapper
           height="200"
           data-title=""
           data-labels="
-            {{ page.department_history_by_account.table_header.fy-2 }},
-            {{ page.department_history_by_account.table_header.fy-1 }},
-            {{ page.department_history_by_account.table_header.fy-0 }},
-            {{ page.department_history_by_account.table_header['fy+1'] }}
+            {{ page.department_history_by_account.table_header.fy-2 | truncate: 4, "" }},
+            {{ page.department_history_by_account.table_header.fy-1 | truncate: 4, "" }},
+            {{ page.department_history_by_account.table_header.fy-0 | truncate: 4, "" }},
+            {{ page.department_history_by_account.table_header['fy+1'] | truncate: 4, "" }}
           "
           data="{{ row.fy-2 }}, {{ row.fy-1 }}, {{ row.fy-0 }}, {{ row['fy+1'] }}"
         ></canvas>
@@ -261,7 +261,7 @@ layout: bos_wrapper
   <div class="desktop-100 clearfix">
   <div class="desktop-50">
     <div id="totalLineChart-wrapper">
-      <table class="responsive-table">
+      <table class="responsive-table chart-label">
         <th>
           {{ page.name }} Operating Budget
         </th>
@@ -274,10 +274,10 @@ layout: bos_wrapper
         large=true
         data-title="{{ page.name }}"
         data-labels="
-          {{ page.operating_budget.table_header.fy-2 }},
-          {{ page.operating_budget.table_header.fy-1 }},
-          {{ page.operating_budget.table_header.fy-0 }},
-          {{ page.operating_budget.table_header["fy+1"] }}
+          {{ page.operating_budget.table_header.fy-2 | truncate: 4, "" }},
+          {{ page.operating_budget.table_header.fy-1 | truncate: 4, "" }},
+          {{ page.operating_budget.table_header.fy-0 | truncate: 4, "" }},
+          {{ page.operating_budget.table_header["fy+1"] | truncate: 4, "" }}
         "
         data="
           {% for row in page.operating_budget.data %}
@@ -294,7 +294,7 @@ layout: bos_wrapper
   </div>
   <div class="desktop-50">
     <div id="aggregateBarChart-wrapper">
-      <table class="responsive-table"><th>{{ page.name }} Operating Budget by Department</th></table>
+      <table class="responsive-table chart-label"><th>{{ page.name }} Operating Budget by Department</th></table>
       <canvas
         id="aggregateBarChart"
         class="barChart"
@@ -328,7 +328,7 @@ layout: bos_wrapper
   {% for row in page.operating_budget.data %}
     {% if row.line_type == 'data' %}
       <div class="wi g--4">
-        <table class="responsive-table"><th>{{ row.name }}</th></table>
+        <table class="responsive-table chart-label"><th>{{ row.name }}</th></table>
         <canvas
           id="lineChart"
           class="lineChart"
@@ -336,10 +336,10 @@ layout: bos_wrapper
           height="200"
           data-title=""
           data-labels="
-            {{ page.operating_budget.table_header.fy-2 }},
-            {{ page.operating_budget.table_header.fy-1 }},
-            {{ page.operating_budget.table_header.fy-0 }},
-            {{ page.operating_budget.table_header['fy+1'] }}
+            {{ page.operating_budget.table_header.fy-2 | truncate: 4, "" }},
+            {{ page.operating_budget.table_header.fy-1 | truncate: 4, "" }},
+            {{ page.operating_budget.table_header.fy-0 | truncate: 4, "" }},
+            {{ page.operating_budget.table_header['fy+1'] | truncate: 4, "" }}
           "
           data="{{ row.fy-2 }}, {{ row.fy-1 }}, {{ row.fy-0 }}, {{ row['fy+1'] }}"
         ></canvas>
