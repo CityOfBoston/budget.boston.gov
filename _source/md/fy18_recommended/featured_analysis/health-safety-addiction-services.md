@@ -48,7 +48,9 @@ components:
       allows the program to remain open until 7:00 pm on weekdays and from 
       9:00 am to 4:00 pm on weekends.</p>
   - col: >
-      <a href="http://placehold.it"><img src="http://placehold.it/300x400"></a>
+      img: /img/placeholder-300x400.png
+      blurb: >
+        PAATHS Investments
 - grid:
   - grid_title: More budget analysis
   - title: Handy dandy title

@@ -42,7 +42,8 @@ components:
       Budgetary growth is maintained at a responsible level given the need to maintain 
       flexibility in the face of continuing uncertainty at other levels of government. Despite 
       these challenges, the budget makes strong statements about the City’s priorities, as is 
-      reflected in the proposed investments.
+      reflected in the proposed investments. WHERE IS BUDGET GROWTH GOING
+    right_image: /img/placeholder-300x400.png
 - text_col_2:
   - col: >
       <h5>Expaning on savings</h5>
@@ -155,6 +156,8 @@ components:
       State aid to Boston never recovered after the Great Recession. Learn about the impacts.
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
     link: /featured-analysis/state-aid/
+- text_block: 
+  - title: Expenditures
 - text_col_2:
     - col: >
         <p>FY18 expenditures are increasing by $143.7 million (4.8%) over FY17 budgeted expenditures. This reflects 
@@ -259,22 +262,24 @@ components:
   - grid_title: Education
   - title: Extending the school day
     body: >
-      Insert copy
+      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
+      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
+      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
     link: /featured-analysis/extended-school-day/
   - title: Closing opportunity and achievement gaps
     body: >
-      Insert copy
+      Insert copy  
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
-    link: /featured-analysis/
+    link: /featured-analysis/closing-opportunity-achievement-gaps/
   - title: Supporting our students most in need
     body: >
-      Insert copy
+      Insert copy 
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
-    link: /featured-analysis/
+    link: /featured-analysis/supporting-students-most-in-need
   - title: BuildBPS
     body: >
-      Insert copy
+      Insert copy 
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
     link: /featured-analysis/buildbps/
 - text_col_2: 
@@ -293,92 +298,128 @@ components:
   - grid_title: Additional priorities
   - title: Implementing Boston’s Homeless Action Plan
     body: >
-      Insert copy
+      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
+      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
+      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
     link: /featured-analysis/housing-homeless-action-plan/
   - title: Improving Homeless Shelter Service and Safety
     body: >
-      Insert copy
+      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
+      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
+      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
     link: /featured-analysis/housing-homeless-shelter-service-safety/
   - title: Housing a Changing City - Boston 2030
     body: >
-      Insert copy
+      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
+      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
+      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
     link: /featured-analysis/housing-boston-2030/
   - title: Advancing Racial Equity, Diversity and Economic Mobility
     body: >
-      Insert copy
+      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
+      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
+      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
     link: /featured-analysis/prosperity-racial-equity-diversity-economic-mobility/
   - title: Recruiting a Diverse Police Force
     body: >
-      Insert copy
+      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
+      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
+      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
     link: /featured-analysis/prosperity-recruiting-diverse-police-force/
   - title: Launching Go Boston 2030
     body: >
-      Insert copy
+      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
+      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
+      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
     link: /featured-analysis/streets-launching-go-boston-2030/
   - title: Keeping Boston Streets Clean and Safe
     body: >
-      Insert copy
+      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
+      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
+      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
     link: /featured-analysis/streets-keeping-streets-clean-safe/
   - title: Implementing Imagine Boston 2030’s Open Space Goals
     body: >
-      Insert copy
+      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
+      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
+      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
     link: /featured-analysis/open-space-imagine-boston-2030-goals/
   - title: Ensuring Accessible and Equitable Parks
     body: >
-      Insert copy
+      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
+      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
+      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
     link: /featured-analysis/open-space-accessible-equitable-parks/
   - title: Preparing for Climate Change
     body: >
-      Insert copy
+      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
+      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
+      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
     link: /featured-analysis/energy-environment-preparing-for-climate-change/
   - title: Investing in the Arts
     body: >
-      Insert copy
+      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
+      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
+      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
     link: /featured-analysis/arts-investing-in-the-arts/
   - title: Preserving Boston Public Library’s Special Collections
     body: >
-      Insert copy
+      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
+      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
+      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
     link: /featured-analysis/arts-preserving-bpl-special-collections/
   - title: Building Thriving Community Libraries
     body: >
-      Insert copy
+      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
+      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
+      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
     link: /featured-analysis/arts-thriving-community-libraries/
   - title: Improving and Expanding Addiction Services
     body: >
-      Insert copy
+      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
+      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
+      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
     link: /featured-analysis/health-safety-addiction-services/
   - title: Promoting a Proactive and Agile Boston EMS through Data
     body: >
-      Insert copy
+      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
+      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
+      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
     link: /featured-analysis/health-safety-proactive-agile-ems-through-data/
   - title: Promoting Firefighter Health and Safety
     body: >
-      Insert copy
+      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
+      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
+      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
     link: /featured-analysis/health-safety-firefighter-health-safety/
   - title: Putting Data Analytics to Work
     body: >
-      Insert copy
+      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
+      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
+      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
     link: /featured-analysis/technology-data-analytics/
   - title: Improving City Services through CityScore
     body: >
-      Insert copy
+      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
+      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
+      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
     link: /featured-analysis/technology-city-services-through-cityscore/
 ---
