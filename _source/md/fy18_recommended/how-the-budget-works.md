@@ -119,4 +119,21 @@ sidebar_menu: true
       <li>FY17 projected capital expenditures</li>
       </ul>
       <p>Following this overview are capital project profiles, including descriptions of each project mission, the department managing the project, the status and location of each project, and if there are operating budget impacts. A table summarizes the total capital funds authorized for projected expenditures in FY17 and for future years, as well as whether the source is City authorization or other funding such as federal and state infrastructure grants or trust funds. A listing of actual and planned capital expenditures in comparison to authorized dollars is also provided.</p>
+- grid:
+  - grid_title: More budget analysis
+  - title: Handy dandy title
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /#/
+  - title: This one's witty, too
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
+    link: /#/
+  - title: Rumple Stiltskin
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
+    link: /#/
 ---

@@ -39,22 +39,22 @@ components:
 - table:
   - title: Budget breakdown
     columns:
-      - "Category": Direct School Expenses
+      - "": Direct School Expenses
         "FY17": $667M
         "FY18": $692M
-      - "Category": School Services Budgeted Centrally
+      - "": School Services Budgeted Centrally
         "FY17": $300M
         "FY18": $308M
-      - "Category": Central Administration
+      - "": Central Administration
         "FY17": $65M
         "FY18": $62M
-      - "Category": Total Appropriation
+      - "": Total Appropriation
         "FY17": $1.03B
         "FY18": $1.06B
-      - "Category": Reserve for Collective Bargaining
+      - "": Reserve for Collective Bargaining
         "FY17": $9M
         "FY18": $20M
-      - "Category": Projected Total Budget
+      - "": Projected Total Budget
         "FY17": $1.04B
         "FY18": $1.08B
 - text_col_2:
@@ -86,4 +86,21 @@ components:
       Committee approved a balanced budget for FY18, the District still has underlying 
       challenges that require structural changes to allow Boston to continue to effectively 
       invest in its students in future years.</p>
+- grid:
+  - grid_title: More budget analysis
+  - title: Handy dandy title
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /#/
+  - title: This one's witty, too
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
+    link: /#/
+  - title: Rumple Stiltskin
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
+    link: /#/
 ---
