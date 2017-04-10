@@ -57,17 +57,17 @@ components:
       obligations and demonstrate the City’s rapid retirement of its debt.</p>
 - text_col_2:
   - col: >
-    <a href="http://placehold.it"><img src="http://placehold.it/300x400"></a>
-    <p><em>Figure 3 – Gross Debt Service as a Percent of Total General Fund Expenditures 
-    FY15-FY22</em></p>
-    <p>The City’s gross debt service requirement will remain under 7% of total General Fund expenditures 
-    through FY22 (See Figure 3).</p>
+      <a href="http://placehold.it"><img src="http://placehold.it/300x400"></a>
+      <p><em>Figure 3 – Gross Debt Service as a Percent of Total General Fund Expenditures 
+      FY15-FY22</em></p>
+      <p>The City’s gross debt service requirement will remain under 7% of total General Fund expenditures 
+      through FY22 (See Figure 3).</p>
   - col: >
-    <a href="http://placehold.it"><img src="http://placehold.it/300x400"></a>
-    <p><em>Figure 4 – Gross Debt Service as a Percent of the Net Property Tax Levy FY15-FY22</em></p>
-    <p>The ratio of debt service to the City’s primary revenue source, the property tax levy, is 
-    projected to increase through FY22 (See Figure 4). Even with the increase, the ratio is not 
-    expected to exceed the City’s policy ceiling.</p>
+      <a href="http://placehold.it"><img src="http://placehold.it/300x400"></a>
+      <p><em>Figure 4 – Gross Debt Service as a Percent of the Net Property Tax Levy FY15-FY22</em></p>
+      <p>The ratio of debt service to the City’s primary revenue source, the property tax levy, is 
+      projected to increase through FY22 (See Figure 4). Even with the increase, the ratio is not 
+      expected to exceed the City’s policy ceiling.</p>
 - text_col_2:
   - col: >
       <h5>City debt burden</h5>

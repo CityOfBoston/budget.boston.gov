@@ -388,20 +388,20 @@ components:
   - col: >
       <a href="http://placehold.it"><img src="http://placehold.it/300x400"></a>
   - col: >
-    <h5>Upkeep</h5>
-    <p>Upkeep represents projects that maintain the City’s assets, a fundamental priority 
-    of the Capital Plan. In FY18, 21% of projected spending supports Upkeep projects. These 
-    include:</p>
-      <ul>
-        <li>roof and masonry repairs;</li>
-        <li>the replacement of play equipment in parks;</li>
-        <li>HVAC and boiler replacement; and</li>
-        <li>critical repair funds for departments to address relatively small but vital 
-        repair projects not covered by routine maintenance.</li>
-      </ul>
-    <p>A substantial portion of the Upkeep category supports on-going bridge, street, 
-    sidewalk, and street lighting repairs that ensure the City’s roads and sidewalks 
-    are safe and in good condition.</p>
+      <h5>Upkeep</h5>
+      <p>Upkeep represents projects that maintain the City’s assets, a fundamental priority 
+      of the Capital Plan. In FY18, 21% of projected spending supports Upkeep projects. These 
+      include:</p>
+        <ul>
+          <li>roof and masonry repairs;</li>
+          <li>the replacement of play equipment in parks;</li>
+          <li>HVAC and boiler replacement; and</li>
+          <li>critical repair funds for departments to address relatively small but vital 
+          repair projects not covered by routine maintenance.</li>
+        </ul>
+      <p>A substantial portion of the Upkeep category supports on-going bridge, street, 
+      sidewalk, and street lighting repairs that ensure the City’s roads and sidewalks 
+      are safe and in good condition.</p>
 - text_col_2:
   - col: >
       <h5>Upgrade</h5>
