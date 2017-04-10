@@ -104,66 +104,66 @@ layout: bos_wrapper
   </div>
   <br />
   <div class="desktop-100 clearfix">
-  <div class="desktop-50">
-    <div id="totalLineChart-wrapper">
-      <table class="responsive-table chart-label">
-        <th>
-          {{ page.name }} Operating Budget
-        </th>
-      </table>
-      <canvas
-        id="lineChart"
-        class="lineChart"
-        width="200"
-        height="200"
-        large=true
-        data-title="{{ page.name }}"
-        data-labels="
-          {{ page.department_history_by_account.table_header.fy-2 | truncate: 4, "" }},
-          {{ page.department_history_by_account.table_header.fy-1 | truncate: 4, "" }},
-          {{ page.department_history_by_account.table_header.fy-0 | truncate: 4, "" }},
-          {{ page.department_history_by_account.table_header["fy+1"] | truncate: 4, "" }}
-        "
-        data="
+    <div class="desktop-50">
+      <div id="totalLineChart-wrapper">
+        <table class="responsive-table chart-label">
+          <th>
+            {{ page.name }} Operating Budget
+          </th>
+        </table>
+        <canvas
+          id="lineChart"
+          class="lineChart"
+          width="200"
+          height="200"
+          large=true
+          data-title="{{ page.name }}"
+          data-labels="
+            {{ page.department_history_by_account.table_header.fy-2 | truncate: 4, "" }},
+            {{ page.department_history_by_account.table_header.fy-1 | truncate: 4, "" }},
+            {{ page.department_history_by_account.table_header.fy-0 | truncate: 4, "" }},
+            {{ page.department_history_by_account.table_header["fy+1"] | truncate: 4, "" }}
+          "
+          data="
+            {% for row in page.operating_budget.data %}
+              {% if row.line_type == 'total' %}
+                {{ row.fy-2 }},
+                {{ row.fy-1 }},
+                {{ row.fy-0 }},
+                {{ row['fy+1'] }}
+              {% endif %}
+            {% endfor %}
+          "
+        ></canvas>
+      </div>
+    </div>
+    <div class="desktop-50">
+      <div id="aggregateBarChart-wrapper">
+        <table class="responsive-table chart-label"><th>{{ page.name }} Operating Budget by Department</th></table>
+        <canvas
+          id="aggregateBarChart"
+          class="barChart"
+          width="200"
+          height="200"
+          data-labels='
           {% for row in page.operating_budget.data %}
-            {% if row.line_type == 'total' %}
-              {{ row.fy-2 }},
-              {{ row.fy-1 }},
-              {{ row.fy-0 }},
-              {{ row['fy+1'] }}
+            {% if row.line_type == "data" %}
+              {{ row.name | remove: "'" }}
+              {% assign i = forloop.length | minus: 1 %}{% unless forloop.index == i %}, {% endunless %}
             {% endif %}
           {% endfor %}
-        "
-      ></canvas>
+          '
+          data='
+          {% for row in page.operating_budget.data %}
+            {% if row.line_type == "data" %}
+              {{ row["fy+1"] }}
+              {% assign i = forloop.length | minus: 1 %}{% unless forloop.index == i %}, {% endunless %}
+            {% endif %}
+          {% endfor %}
+          '
+        ></canvas>
+      </div>
     </div>
-  </div>
-  <div class="desktop-50">
-    <div id="aggregateBarChart-wrapper">
-      <table class="responsive-table chart-label"><th>{{ page.name }} Operating Budget by Department</th></table>
-      <canvas
-        id="aggregateBarChart"
-        class="barChart"
-        width="200"
-        height="200"
-        data-labels='
-        {% for row in page.operating_budget.data %}
-          {% if row.line_type == "data" %}
-            {{ row.name | remove: "'" }}
-            {% assign i = forloop.length | minus: 1 %}{% unless forloop.index == i %}, {% endunless %}
-          {% endif %}
-        {% endfor %}
-        '
-        data='
-        {% for row in page.operating_budget.data %}
-          {% if row.line_type == "data" %}
-            {{ row["fy+1"] }}
-            {% assign i = forloop.length | minus: 1 %}{% unless forloop.index == i %}, {% endunless %}
-          {% endif %}
-        {% endfor %}
-        '
-      ></canvas>
-    </div>
-  </div>
   </div>
   <div class="g">
   {% for row in page.operating_budget.data %}
@@ -255,66 +255,66 @@ layout: bos_wrapper
   </div>
   <br />
   <div class="desktop-100 clearfix">
-  <div class="desktop-50">
-    <div id="totalLineChart-wrapper">
-      <table class="responsive-table chart-label">
-        <th>
-          {{ page.name }} Operating Budget
-        </th>
-      </table>
-      <canvas
-        id="lineChart"
-        class="lineChart"
-        width="200"
-        height="200"
-        large=true
-        data-title="{{ page.name }}"
-        data-labels="
-          {{ page.operating_budget.table_header.fy-2 | truncate: 4, "" }},
-          {{ page.operating_budget.table_header.fy-1 | truncate: 4, "" }},
-          {{ page.operating_budget.table_header.fy-0 | truncate: 4, "" }},
-          {{ page.operating_budget.table_header["fy+1"] | truncate: 4, "" }}
-        "
-        data="
+    <div class="desktop-50">
+      <div id="totalLineChart-wrapper">
+        <table class="responsive-table chart-label">
+          <th>
+            {{ page.name }} Operating Budget
+          </th>
+        </table>
+        <canvas
+          id="lineChart"
+          class="lineChart"
+          width="200"
+          height="200"
+          large=true
+          data-title="{{ page.name }}"
+          data-labels="
+            {{ page.operating_budget.table_header.fy-2 | truncate: 4, "" }},
+            {{ page.operating_budget.table_header.fy-1 | truncate: 4, "" }},
+            {{ page.operating_budget.table_header.fy-0 | truncate: 4, "" }},
+            {{ page.operating_budget.table_header["fy+1"] | truncate: 4, "" }}
+          "
+          data="
+            {% for row in page.department_history_by_account.data %}
+              {% if row.line_type == 'total' %}
+                {{ row.fy-2 }},
+                {{ row.fy-1 }},
+                {{ row.fy-0 }},
+                {{ row['fy+1'] }}
+              {% endif %}
+            {% endfor %}
+          "
+        ></canvas>
+      </div>
+    </div>
+    <div class="desktop-50">
+      <div id="aggregateBarChart-wrapper">
+        <table class="responsive-table chart-label"><th>{{ page.name }} Operating Budget by Department</th></table>
+        <canvas
+          id="aggregateBarChart"
+          class="barChart"
+          width="200"
+          height="200"
+          data-labels='
           {% for row in page.department_history_by_account.data %}
-            {% if row.line_type == 'total' %}
-              {{ row.fy-2 }},
-              {{ row.fy-1 }},
-              {{ row.fy-0 }},
-              {{ row['fy+1'] }}
+            {% if row.line_type == "data" %}
+              {{ row.line_title | remove: "'" }}
+              {% assign i = forloop.length | minus: 1 %}{% unless forloop.index == i %}, {% endunless %}
             {% endif %}
           {% endfor %}
-        "
-      ></canvas>
+          '
+          data='
+          {% for row in page.department_history_by_account.data %}
+            {% if row.line_type == "data" %}
+              {{ row["fy+1"] }}
+              {% assign i = forloop.length | minus: 1 %}{% unless forloop.index == i %}, {% endunless %}
+            {% endif %}
+          {% endfor %}
+          '
+        ></canvas>
+      </div>
     </div>
-  </div>
-  <div class="desktop-50">
-    <div id="aggregateBarChart-wrapper">
-      <table class="responsive-table chart-label"><th>{{ page.name }} Operating Budget by Department</th></table>
-      <canvas
-        id="aggregateBarChart"
-        class="barChart"
-        width="200"
-        height="200"
-        data-labels='
-        {% for row in page.department_history_by_account.data %}
-          {% if row.line_type == "data" %}
-            {{ row.line_title | remove: "'" }}
-            {% assign i = forloop.length | minus: 1 %}{% unless forloop.index == i %}, {% endunless %}
-          {% endif %}
-        {% endfor %}
-        '
-        data='
-        {% for row in page.department_history_by_account.data %}
-          {% if row.line_type == "data" %}
-            {{ row["fy+1"] }}
-            {% assign i = forloop.length | minus: 1 %}{% unless forloop.index == i %}, {% endunless %}
-          {% endif %}
-        {% endfor %}
-        '
-      ></canvas>
-    </div>
-  </div>
   </div>
   <div class="g">
   {% for row in page.department_history_by_account.data %}
