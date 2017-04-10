@@ -26,6 +26,7 @@ components:
       and are driven by an expanding economy. <blockquote>Ninety-three 
       percent of tax revenue growth is from locally derived sources such 
       as property tax and other local revenue.</blockquote>
+    right_image: http://placehold.it/400x300
     sidebar_menu: true 
 - text_col_2:
   - col: >
@@ -42,6 +43,8 @@ components:
       while the City is projected to experience robust property tax growth in 
       FY18, that growth is offset by sluggish and unpredictable state revenue 
       growth.</p>
+  - col: 
+    - img: http://placehold.it/400x300
 - text_col_2:
   - col: >
       <h5>Education spending</h5>
@@ -62,7 +65,6 @@ components:
       pace. As a result, the City of Boston is projected to lose $25 million 
       in the Governor’s FY18 budget, adding to the total lost revenue of $48 
       million over three years (FY15 - FY17).</p>
-  - col: >
       <h5>Education finance reform</h5>
       <p>In light of the growing chasm between education costs and state revenue, 
       Mayor Walsh filed comprehensive education finance reform legislation that 
@@ -79,6 +81,8 @@ components:
       position Boston to receive $150 million in additional annual Chapter 70 
       aid within a few years if the state identifies a new revenue source for 
       education.</p>
+  - col: 
+    - img: http://placehold.it/400x300
 - text_col_2:
   - col: >
       <h5>Local receipts</h5>

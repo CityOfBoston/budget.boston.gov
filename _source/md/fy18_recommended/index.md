@@ -43,6 +43,7 @@ components:
       flexibility in the face of continuing uncertainty at other levels of government. Despite 
       these challenges, the budget makes strong statements about the City’s priorities, as is 
       reflected in the proposed investments.
+    right_image: http://placehold.it/400x300
 - text_col_2:
   - col: >
       <h5>Expaning on savings</h5>
@@ -156,6 +157,7 @@ components:
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
     link: /featured-analysis/state-aid/
 - text_col_2:
+  - title: Expenditures
     - col: >
         <p>FY18 expenditures are increasing by $143.7 million (4.8%) over FY17 budgeted expenditures. This reflects 
         4% appropriation growth and 8% fixed cost growth. Of that growth, 40% is dedicated to education 38% will 
