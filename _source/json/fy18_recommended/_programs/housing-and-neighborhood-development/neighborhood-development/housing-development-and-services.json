@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Housing and Neighborhood Development",
-  "department":"neighborhood-development",
+  "department":"Neighborhood Development",
   "file_version":"0.10",
   "head_name":"Elizabeth Doyle, Theresa Gallagher, Lydia Edwards",
   "head_title":"Deputy Directors",
-  "name":"Housing Development & Services",
-  "parent":"neighborhood-development",
+  "name":"Housing Development and Services",
+  "parent":"Neighborhood Development",
   "section_id":57,
   "section_md5_id":"72B32A1F754BA1C09B3695E0CB6CDE7F",
   "section_type":"program",

@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Streets",
-  "department":"transportation-department",
+  "department":"Transportation Department",
   "file_version":"0.10",
   "head_name":"Stephen McGuire",
   "head_title":"Manager",
   "name":"Parking Clerk",
-  "parent":"transportation-department",
+  "parent":"Transportation Department",
   "section_id":180,
   "section_md5_id":"045117B0E0A11A242B9765E79CBF113F",
   "section_type":"program",

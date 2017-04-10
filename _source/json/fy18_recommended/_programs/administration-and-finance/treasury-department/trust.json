@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Administration and Finance",
-  "department":"treasury-department",
+  "department":"Treasury Department",
   "file_version":"0.10",
   "head_name":"Richard DePiano",
   "head_title":"Manager",
   "name":"Trust",
-  "parent":"treasury-department",
+  "parent":"Treasury Department",
   "section_id":198,
   "section_md5_id":"0E65972DCE68DAD4D52D063967F0A705",
   "section_type":"program",

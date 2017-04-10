@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Public Safety",
-  "department":"police-department",
+  "department":"Police Department",
   "file_version":"0.10",
   "head_name":"Vacant",
   "head_title":"Manager",
   "name":"BAT-Operations",
-  "parent":"police-department",
+  "parent":"Police Department",
   "section_id":39,
   "section_md5_id":"D67D8AB4F4C10BF22AA353E27879133C",
   "section_type":"program",

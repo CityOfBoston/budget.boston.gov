@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Environment, Energy and Open Space",
-  "department":"inspectional-services-dept",
+  "department":"Inspectional Services Dept",
   "file_version":"0.10",
   "head_name":"William Christopher",
   "head_title":"Manager",
   "name":"Field Services",
-  "parent":"inspectional-services-dept",
+  "parent":"Inspectional Services Dept",
   "section_id":76,
   "section_md5_id":"FBD7939D674997CDB4692D34DE8633C4",
   "section_type":"program",

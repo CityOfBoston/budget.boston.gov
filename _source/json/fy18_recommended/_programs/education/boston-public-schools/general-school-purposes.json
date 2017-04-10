@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Education",
-  "department":"boston-public-schools",
+  "department":"Boston Public Schools",
   "file_version":"0.10",
   "head_name":"Dr. Tommy Chang",
   "head_title":"Superintendent",
   "name":"General School Purposes",
-  "parent":"boston-public-schools",
+  "parent":"Boston Public Schools",
   "section_id":221,
   "section_md5_id":"060AD92489947D410D897474079C1477",
   "section_type":"program",
@@ -67,11 +67,11 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":110661989,
-        "fy-1":109666212,
-        "fy-0":108114556,
-        "fy+1":109874912,
-        "diff":1760356
+        "fy-2":235870123,
+        "fy-1":245645597,
+        "fy-0":247859353,
+        "fy+1":254609907,
+        "diff":6750554
       },
       {
         "line_title":"Contractual Services",
@@ -94,11 +94,11 @@
       {
         "line_title":"Current Chgs and Oblig",
         "line_type":"data",
-        "fy-2":4520420,
+        "fy-2":4995152,
         "fy-1":5131118,
-        "fy-0":5092342,
-        "fy+1":6084722,
-        "diff":992380
+        "fy-0":27348417,
+        "fy+1":27894487,
+        "diff":546070
       },
       {
         "line_title":"Equipment",
@@ -121,11 +121,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":273582991,
-        "fy-1":278454246,
-        "fy-0":269367032,
-        "fy+1":277020896,
-        "diff":7653864
+        "fy-2":399265857,
+        "fy-1":414433631,
+        "fy-0":431367904,
+        "fy+1":443565656,
+        "diff":12197752
       }
     ]
   },

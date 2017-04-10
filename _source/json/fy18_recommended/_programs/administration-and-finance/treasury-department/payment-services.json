@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Administration and Finance",
-  "department":"treasury-department",
+  "department":"Treasury Department",
   "file_version":"0.10",
   "head_name":"Nancy Cincotti",
   "head_title":"Manager",
   "name":"Payment Services",
-  "parent":"treasury-department",
+  "parent":"Treasury Department",
   "section_id":170,
   "section_md5_id":"149E9677A5989FD342AE44213DF68868",
   "section_type":"program",

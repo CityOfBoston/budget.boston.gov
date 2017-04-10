@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Public Safety",
-  "department":"fire-department",
+  "department":"Fire Department",
   "file_version":"0.10",
   "head_name":"Gerard Fontana",
   "head_title":"Manager",
   "name":"Boston Fire Suppression",
-  "parent":"fire-department",
+  "parent":"Fire Department",
   "section_id":30,
   "section_md5_id":"34173CB38F07F89DDBEBC2AC9128303F",
   "section_type":"program",

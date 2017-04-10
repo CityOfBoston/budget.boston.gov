@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Public Safety",
-  "department":"police-department",
+  "department":"Police Department",
   "file_version":"0.10",
   "head_name":"Lisa R. Holmes",
   "head_title":"Manager",
   "name":"Bureau of Professional Development",
-  "parent":"police-department",
+  "parent":"Police Department",
   "section_id":41,
   "section_md5_id":"3416A75F4CEA9109507CACD8E2F2AEFC",
   "section_type":"program",

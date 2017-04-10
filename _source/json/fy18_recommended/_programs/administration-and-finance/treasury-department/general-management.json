@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Administration and Finance",
-  "department":"treasury-department",
+  "department":"Treasury Department",
   "file_version":"0.10",
   "head_name":"Celia M. Barton",
   "head_title":"Manager",
   "name":"General Management",
-  "parent":"treasury-department",
+  "parent":"Treasury Department",
   "section_id":168,
   "section_md5_id":"006F52E9102A8D3BE2FE5614F42BA989",
   "section_type":"program",

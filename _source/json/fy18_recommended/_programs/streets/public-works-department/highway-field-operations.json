@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Streets",
-  "department":"public-works-department",
+  "department":"Public Works Department",
   "file_version":"0.10",
   "head_name":"Michael Brohel",
   "head_title":"Manager",
   "name":"Highway Field Operations",
-  "parent":"public-works-department",
+  "parent":"Public Works Department",
   "section_id":120,
   "section_md5_id":"DA4FB5C6E93E74D3DF8527599FA62642",
   "section_type":"program",

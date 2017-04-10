@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Streets",
-  "department":"transportation-department",
+  "department":"Transportation Department",
   "file_version":"0.10",
   "head_name":"Vineet Gupta",
   "head_title":"Manager",
-  "name":"Policy & Planning",
-  "parent":"transportation-department",
+  "name":"Policy and Planning",
+  "parent":"Transportation Department",
   "section_id":177,
   "section_md5_id":"96DA2F590CD7246BBDE0051047B0D6F7",
   "section_type":"program",

@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Civic Engagement",
-  "department":"neighborhood-services",
+  "department":"Neighborhood Services",
   "file_version":"0.10",
   "head_name":"John Laadt",
   "head_title":"Manager",
   "name":"Boston 311",
-  "parent":"neighborhood-services",
+  "parent":"Neighborhood Services",
   "section_id":266,
   "section_md5_id":"F7664060CC52BC6F3D620BCEDC94A4B6",
   "section_type":"program",

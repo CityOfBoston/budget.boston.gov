@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Public Safety",
-  "department":"police-department",
+  "department":"Police Department",
   "file_version":"0.10",
   "head_name":"Gregory Long",
   "head_title":"Manager",
   "name":"Bureau of Investigative Services",
-  "parent":"police-department",
+  "parent":"Police Department",
   "section_id":44,
   "section_md5_id":"F7177163C833DFF4B38FC8D2872F1EC6",
   "section_type":"program",

@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Public Safety",
-  "department":"fire-department",
+  "department":"Fire Department",
   "file_version":"0.10",
   "head_name":"John F. Walsh",
   "head_title":"Manager",
   "name":"Maintenance",
-  "parent":"fire-department",
+  "parent":"Fire Department",
   "section_id":34,
   "section_md5_id":"E369853DF766FA44E1ED0FF613F563BD",
   "section_type":"program",

@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Health and Human Services",
-  "department":"boston-centers-for-youth-and-families",
+  "department":"Boston Centers for Youth and Families",
   "file_version":"0.10",
   "head_name":"Michael Sulprizio",
   "head_title":"Manager",
-  "name":"Child Care & Out-of-School",
-  "parent":"boston-centers-for-youth-and-families",
+  "name":"Child Care and Out-of-School",
+  "parent":"Boston Centers for Youth and Families",
   "section_id":215,
   "section_md5_id":"3B8A614226A953A8CD9526FCA6FE9BA5",
   "section_type":"program",

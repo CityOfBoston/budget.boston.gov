@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Operations",
-  "department":"intergovernmental-relations",
+  "department":"Intergovernmental Relations",
   "file_version":"0.10",
   "head_name":"Inez Foster",
   "head_title":"Manager",
   "name":"Grants Administration",
-  "parent":"intergovernmental-relations",
+  "parent":"Intergovernmental Relations",
   "section_id":197,
   "section_md5_id":"85D8CE590AD8981CA2C8286F79F59954",
   "section_type":"program",

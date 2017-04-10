@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Information and Technology",
-  "department":"Department of Innovation & Technology",
+  "department":"Department of Innovation and Technology",
   "file_version":"0.10",
   "head_name":"Patricia Boyle-McKenna",
   "head_title":"Manager",
   "name":"DoIT Operations",
-  "parent":"Department of Innovation & Technology",
+  "parent":"Department of Innovation and Technology",
   "section_id":128,
   "section_md5_id":"76DC611D6EBAAFC66CC0879C71B5DB5C",
   "section_type":"program",

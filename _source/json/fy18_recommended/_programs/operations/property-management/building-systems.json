@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Operations",
-  "department":"property-management",
+  "department":"Property Management",
   "file_version":"0.10",
   "head_name":"John Sinagra",
   "head_title":"Manager",
   "name":"Building Systems",
-  "parent":"property-management",
+  "parent":"Property Management",
   "section_id":150,
   "section_md5_id":"7EF605FC8DBA5425D6965FBD4C8FBE1F",
   "section_type":"program",

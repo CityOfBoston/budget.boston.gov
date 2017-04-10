@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Streets",
-  "department":"transportation-department",
+  "department":"Transportation Department",
   "file_version":"0.10",
   "head_name":"John DeBenedictis",
   "head_title":"Manager",
-  "name":"Traffic Management & Engineering",
-  "parent":"transportation-department",
+  "name":"Traffic Management and Engineering",
+  "parent":"Transportation Department",
   "section_id":175,
   "section_md5_id":"82161242827B703E6ACF9C726942A1E4",
   "section_type":"program",

@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Economic Development",
-  "department":"office-of-economic-development",
+  "department":"Office of Economic Development",
   "file_version":"0.10",
   "head_name":"Karilyn Crockett",
   "head_title":"Manager",
-  "name":"Small & Local Business",
-  "parent":"office-of-economic-development",
+  "name":"Small and Local Business",
+  "parent":"Office of Economic Development",
   "section_id":67,
   "section_md5_id":"735B90B4568125ED6C3F678819B6E058",
   "section_type":"program",

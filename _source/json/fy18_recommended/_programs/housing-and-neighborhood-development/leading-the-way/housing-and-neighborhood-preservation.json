@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Housing and Neighborhood Development",
-  "department":"leading-the-way",
+  "department":"Leading the Way",
   "file_version":"0.10",
   "head_name":Null,
   "head_title":Null,
-  "name":"Housing & Neighborhood Preservation",
-  "parent":"leading-the-way",
+  "name":"Housing and Neighborhood Preservation",
+  "parent":"Leading the Way",
   "section_id":207,
   "section_md5_id":"69ADC1E107F7F7D035D7BAF04342E1CA",
   "section_type":"program",

@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Operations",
-  "department":"property-management",
+  "department":"Property Management",
   "file_version":"0.10",
   "head_name":Null,
   "head_title":Null,
   "name":"Capital Construction",
-  "parent":"property-management",
+  "parent":"Property Management",
   "section_id":223,
   "section_md5_id":"115F89503138416A242F40FB7D7F338E",
   "section_type":"program",

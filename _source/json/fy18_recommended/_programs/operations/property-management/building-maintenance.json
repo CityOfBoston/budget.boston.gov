@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Operations",
-  "department":"property-management",
+  "department":"Property Management",
   "file_version":"0.10",
   "head_name":"James Hughes",
   "head_title":"Manager",
   "name":"Building Maintenance",
-  "parent":"property-management",
+  "parent":"Property Management",
   "section_id":138,
   "section_md5_id":"013D407166EC4FA56EB1E1F8CBE183B9",
   "section_type":"program",

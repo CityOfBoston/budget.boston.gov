@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Information and Technology",
-  "department":"department-of-innovation-and-technology",
+  "department":"Department of Innovation and Technology",
   "file_version":"0.10",
   "head_name":"Daniel Rothman",
   "head_title":"Manager",
   "name":"Core Infrastructure",
-  "parent":"department-of-innovation-and-technology",
+  "parent":"Department of Innovation and Technology",
   "section_id":131,
   "section_md5_id":"1AFA34A7F984EEABDBB0A7D494132EE5",
   "section_type":"program",

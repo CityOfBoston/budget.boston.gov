@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Economic Development",
-  "department":"office-of-tourism",
+  "department":"Office of Tourism",
   "file_version":"0.10",
   "head_name":"Patricia A. Papa",
   "head_title":"Manager",
-  "name":"Film & Special Events",
-  "parent":"office-of-tourism",
+  "name":"Film and Special Events",
+  "parent":"Office of Tourism",
   "section_id":236,
   "section_md5_id":"01161AAA0B6D1345DD8FE4E481144D84",
   "section_type":"program",

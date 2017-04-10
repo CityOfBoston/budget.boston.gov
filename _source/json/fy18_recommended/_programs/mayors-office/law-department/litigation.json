@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Mayor's Office",
-  "department":"law-department",
+  "department":"Law Department",
   "file_version":"0.10",
   "head_name":"Susan Weise",
   "head_title":"Manager",
   "name":"Litigation",
-  "parent":"law-department",
+  "parent":"Law Department",
   "section_id":15,
   "section_md5_id":"9BF31C7FF062936A96D3C8BD1F8F2FF3",
   "section_type":"program",

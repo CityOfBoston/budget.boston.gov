@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Administration and Finance",
-  "department":"budget-management",
+  "department":"Budget Management",
   "file_version":"0.10",
   "head_name":Null,
   "head_title":"Manager",
   "name":"Improving Management Project",
-  "parent":"budget-management",
+  "parent":"Budget Management",
   "section_id":243,
   "section_md5_id":"CB70AB375662576BD1AC5AAF16B3FCA4",
   "section_type":"program",

@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Environment, Energy and Open Space",
-  "department":"parks-and-recreation-department",
+  "department":"Parks and Recreation Department",
   "file_version":"0.10",
   "head_name":"James Sheehan",
   "head_title":"Manager",
   "name":"Parks Operations",
-  "parent":"parks-and-recreation-department",
+  "parent":"Parks and Recreation Department",
   "section_id":95,
   "section_md5_id":"812B4BA287F5EE0BC9D43BBF5BBE87FB",
   "section_type":"program",

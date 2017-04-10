@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Health and Human Services",
-  "department":"boston-centers-for-youth-and-families",
+  "department":"Boston Centers for Youth and Families",
   "file_version":"0.10",
   "head_name":"Hector Alvarez",
   "head_title":"Manager",
-  "name":"Sports & Fitness",
-  "parent":"boston-centers-for-youth-and-families",
+  "name":"Sports and Fitness",
+  "parent":"Boston Centers for Youth and Families",
   "section_id":218,
   "section_md5_id":"E96ED478DAB8595A7DBDA4CBCBEE168F",
   "section_type":"program",

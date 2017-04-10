@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Operations",
-  "department":"property-management",
+  "department":"Property Management",
   "file_version":"0.10",
   "head_name":"William G. Joyce",
   "head_title":"Manager",
   "name":"Enforcement",
-  "parent":"property-management",
+  "parent":"Property Management",
   "section_id":140,
   "section_md5_id":"1385974ED5904A438616FF7BDB3F7439",
   "section_type":"program",

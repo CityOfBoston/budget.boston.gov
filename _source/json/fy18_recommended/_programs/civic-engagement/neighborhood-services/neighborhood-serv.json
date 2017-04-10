@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Civic Engagement",
-  "department":"neighborhood-services",
+  "department":"Neighborhood Services",
   "file_version":"0.10",
   "head_name":"Jerome Smith",
   "head_title":"Manager",
   "name":"Neighborhood Serv",
-  "parent":"neighborhood-services",
+  "parent":"Neighborhood Services",
   "section_id":23,
   "section_md5_id":"37693CFC748049E45D87B8C7D8B9AACD",
   "section_type":"program",

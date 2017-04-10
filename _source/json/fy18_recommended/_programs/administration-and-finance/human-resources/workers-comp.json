@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Administration and Finance",
-  "department":"human-resources",
+  "department":"Human Resources",
   "file_version":"0.10",
   "head_name":"Vivian Leonard",
   "head_title":"Manager",
   "name":"Workers Comp",
-  "parent":"human-resources",
+  "parent":"Human Resources",
   "section_id":62,
   "section_md5_id":"44F683A84163B3523AFE57C2E008BC8C",
   "section_type":"program",

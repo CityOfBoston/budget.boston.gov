@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Public Safety",
-  "department":"police-department",
+  "department":"Police Department",
   "file_version":"0.10",
   "head_name":"Vacant",
   "head_title":"Manager",
-  "name":"BAT-Admin & Technology",
-  "parent":"police-department",
+  "name":"BAT-Admin and Technology",
+  "parent":"Police Department",
   "section_id":40,
   "section_md5_id":"D645920E395FEDAD7BBBED0ECA3FE2E0",
   "section_type":"program",

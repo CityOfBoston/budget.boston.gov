@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Housing and Neighborhood Development",
-  "department":"neighborhood-development",
+  "department":"Neighborhood Development",
   "file_version":"0.10",
   "head_name":"Donald Wright",
   "head_title":"Deputy Director",
-  "name":"Real Estate Management & Sales",
-  "parent":"neighborhood-development",
+  "name":"Real Estate Management and Sales",
+  "parent":"Neighborhood Development",
   "section_id":193,
   "section_md5_id":"BD686FD640BE98EFAAE0091FA301E613",
   "section_type":"program",

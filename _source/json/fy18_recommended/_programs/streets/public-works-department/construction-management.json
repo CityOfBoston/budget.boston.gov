@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Streets",
-  "department":"public-works-department",
+  "department":"Public Works Department",
   "file_version":"0.10",
   "head_name":"Katie Choe",
   "head_title":"Manager",
   "name":"Construction Management",
-  "parent":"public-works-department",
+  "parent":"Public Works Department",
   "section_id":6,
   "section_md5_id":"1679091C5A880FAF6FB5E6087EB1B2DC",
   "section_type":"program",

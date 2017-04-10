@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Environment, Energy and Open Space",
-  "department":"parks-and-recreation-department",
+  "department":"Parks and Recreation Department",
   "file_version":"0.10",
   "head_name":"Michael Devlin",
   "head_title":"Manager",
   "name":"Citywide Recreation",
-  "parent":"parks-and-recreation-department",
+  "parent":"Parks and Recreation Department",
   "section_id":270,
   "section_md5_id":"39059724F73A9969845DFE4146C5660E",
   "section_type":"program",

@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Mayor's Office",
-  "department":"emergency-management",
+  "department":"Emergency Management",
   "file_version":"0.10",
   "head_name":"Rene Fielding",
   "head_title":"Director",
   "name":"Homeland Security",
-  "parent":"emergency-management",
+  "parent":"Emergency Management",
   "section_id":238,
   "section_md5_id":"AC1DD209CBCC5E5D1C6E28598E8CBBE8",
   "section_type":"program",

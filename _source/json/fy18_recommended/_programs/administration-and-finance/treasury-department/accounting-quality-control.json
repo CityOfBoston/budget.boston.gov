@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Administration and Finance",
-  "department":"treasury-department",
+  "department":"Treasury Department",
   "file_version":"0.10",
   "head_name":"Robinson Butterworth",
   "head_title":"Manager",
   "name":"Accounting/Quality Control",
-  "parent":"treasury-department",
+  "parent":"Treasury Department",
   "section_id":172,
   "section_md5_id":"1FF8A7B5DC7A7D1F0ED65AAA29C04B1E",
   "section_type":"program",

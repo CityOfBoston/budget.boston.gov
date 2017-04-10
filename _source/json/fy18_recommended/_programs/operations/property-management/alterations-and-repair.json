@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Operations",
-  "department":"property-management",
+  "department":"Property Management",
   "file_version":"0.10",
   "head_name":"Carlene Laurent",
   "head_title":"Manager",
-  "name":"Alterations & Repair",
-  "parent":"property-management",
+  "name":"Alterations and Repair",
+  "parent":"Property Management",
   "section_id":139,
   "section_md5_id":"E00DA03B685A0DD18FB6A08AF0923DE0",
   "section_type":"program",

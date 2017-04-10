@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Economic Development",
-  "department":"office-of-tourism",
+  "department":"Office of Tourism",
   "file_version":"0.10",
   "head_name":"Amy B. Yandle",
   "head_title":"Manager",
   "name":"Tourism",
-  "parent":"office-of-tourism",
+  "parent":"Office of Tourism",
   "section_id":237,
   "section_md5_id":"539FD53B59E3BB12D203F45A912EEAF2",
   "section_type":"program",

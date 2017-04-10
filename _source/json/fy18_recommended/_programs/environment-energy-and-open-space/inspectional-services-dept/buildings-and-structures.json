@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Environment, Energy and Open Space",
-  "department":"inspectional-services-dept",
+  "department":"Inspectional Services Dept",
   "file_version":"0.10",
   "head_name":"Gary P. Moccia",
   "head_title":"Manager",
-  "name":"Buildings & Structures",
-  "parent":"inspectional-services-dept",
+  "name":"Buildings and Structures",
+  "parent":"Inspectional Services Dept",
   "section_id":75,
   "section_md5_id":"D09BF41544A3365A46C9077EBB5E35C3",
   "section_type":"program",

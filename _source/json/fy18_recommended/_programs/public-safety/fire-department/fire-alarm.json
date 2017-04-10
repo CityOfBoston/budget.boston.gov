@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Public Safety",
-  "department":"fire-department",
+  "department":"Fire Department",
   "file_version":"0.10",
   "head_name":"Peter Clifford",
   "head_title":"Manager",
   "name":"Fire Alarm",
-  "parent":"fire-department",
+  "parent":"Fire Department",
   "section_id":31,
   "section_md5_id":"C16A5320FA475530D9583C34FD356EF5",
   "section_type":"program",

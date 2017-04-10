@@ -18,7 +18,6 @@
   "mission":[
     "The Office of Finance and Budget supports the long-term growth and stability of the City through sound fiscal stewardship and results driven management of the City&rsquo;s human and financial resources."
   ],
-  "selected_performance_strategies":[],
   "operating_budget":{
     "debug":"JPTR",
     "table_type":"Operating Budget",
@@ -86,7 +85,6 @@
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
-  "authorizing_statutes":[],
   "description_of_services":[
     "The Office of Finance and Budget, by working with all departments of the City, works to implement the Mayor&rsquo;s strategic goals, increase organizational performance and manage the City&rsquo;s overall fiscal health."
   ],

@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Administration and Finance",
-  "department":"auditing-department",
+  "department":"Auditing Department",
   "file_version":"0.10",
   "head_name":"Kelli Lazar",
   "head_title":"Manager",
   "name":"Grants Monitoring",
-  "parent":"auditing-department",
+  "parent":"Auditing Department",
   "section_id":229,
   "section_md5_id":"57AEEE35C98205091E18D1140E9F38CF",
   "section_type":"program",

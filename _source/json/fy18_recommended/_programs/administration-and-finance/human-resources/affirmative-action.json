@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Administration and Finance",
-  "department":"human-resources",
+  "department":"Human Resources",
   "file_version":"0.10",
   "head_name":"Vivian Leonard",
   "head_title":"Manager",
   "name":"Affirmative Action",
-  "parent":"human-resources",
+  "parent":"Human Resources",
   "section_id":117,
   "section_md5_id":"EB160DE1DE89D9058FCB0B968DBBBD68",
   "section_type":"program",

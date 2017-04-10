@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Non-Mayoral Departments",
-  "department":"city-council",
+  "department":"City Council",
   "file_version":"0.10",
   "head_name":"Michelle Wu",
   "head_title":"Manager",
   "name":"City Councilors",
-  "parent":"city-council",
+  "parent":"City Council",
   "section_id":110,
   "section_md5_id":"5F93F983524DEF3DCA464469D2CF9F3E",
   "section_type":"program",

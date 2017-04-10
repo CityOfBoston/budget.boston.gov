@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Administration and Finance",
-  "department":"treasury-department",
+  "department":"Treasury Department",
   "file_version":"0.10",
   "head_name":"Michael Hutchinson",
   "head_title":"Manager",
   "name":"Special Collections",
-  "parent":"treasury-department",
+  "parent":"Treasury Department",
   "section_id":169,
   "section_md5_id":"3636638817772E42B59D74CFF571FBB3",
   "section_type":"program",

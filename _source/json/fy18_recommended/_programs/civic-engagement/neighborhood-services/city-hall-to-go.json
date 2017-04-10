@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Civic Engagement",
-  "department":"neighborhood-services",
+  "department":"Neighborhood Services",
   "file_version":"0.10",
   "head_name":"Jacob Wessel",
   "head_title":"Manager",
   "name":"City Hall to Go",
-  "parent":"neighborhood-services",
+  "parent":"Neighborhood Services",
   "section_id":265,
   "section_md5_id":"E56954B4F6347E897F954495EAB16A88",
   "section_type":"program",

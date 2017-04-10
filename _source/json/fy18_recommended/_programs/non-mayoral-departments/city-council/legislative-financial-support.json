@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Non-Mayoral Departments",
-  "department":"city-council",
+  "department":"City Council",
   "file_version":"0.10",
   "head_name":"Daisy De La Rosa",
   "head_title":"Manager",
   "name":"Legislative/Financial Support",
-  "parent":"city-council",
+  "parent":"City Council",
   "section_id":111,
   "section_md5_id":"698D51A19D8A121CE581499D7B701668",
   "section_type":"program",

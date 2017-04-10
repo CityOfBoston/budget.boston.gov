@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Public Safety",
-  "department":"fire-department",
+  "department":"Fire Department",
   "file_version":"0.10",
   "head_name":Null,
   "head_title":Null,
   "name":"Emergency Medical Response Division",
-  "parent":"fire-department",
+  "parent":"Fire Department",
   "section_id":247,
   "section_md5_id":"3CEC07E9BA5F5BB252D13F5F431E4BBB",
   "section_type":"program",

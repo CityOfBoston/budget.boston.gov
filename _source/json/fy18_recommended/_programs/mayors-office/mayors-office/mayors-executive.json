@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Mayor's Office",
-  "department":"mayors-office",
+  "department":"Mayor's Office",
   "file_version":"0.10",
   "head_name":"Daniel Koh",
   "head_title":"Chief of Staff",
   "name":"Mayor's Executive",
-  "parent":"mayors-office",
+  "parent":"Mayor's Office",
   "section_id":19,
   "section_md5_id":"1F0E3DAD99908345F7439F8FFABDFFC4",
   "section_type":"program",

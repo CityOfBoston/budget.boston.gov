@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Administration and Finance",
-  "department":"budget-management",
+  "department":"Budget Management",
   "file_version":"0.10",
   "head_name":"James M. Williamson",
   "head_title":"Manager",
-  "name":"Budget & Management",
-  "parent":"budget-management",
+  "name":"Budget and Management",
+  "parent":"Budget Management",
   "section_id":241,
   "section_md5_id":"F340F1B1F65B6DF5B5E3F94D95B11DAF",
   "section_type":"program",

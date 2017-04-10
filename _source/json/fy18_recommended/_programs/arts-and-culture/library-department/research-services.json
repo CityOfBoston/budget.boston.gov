@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Arts and Culture",
-  "department":"library-department",
+  "department":"Library Department",
   "file_version":"0.10",
   "head_name":"David Leonard",
   "head_title":"President",
   "name":"Research Services",
-  "parent":"library-department",
+  "parent":"Library Department",
   "section_id":66,
   "section_md5_id":"3295C76ACBF4CAAED33C36B1B5FC2CB1",
   "section_type":"program",

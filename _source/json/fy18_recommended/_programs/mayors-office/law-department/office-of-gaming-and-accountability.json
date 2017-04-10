@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Mayor's Office",
-  "department":"law-department",
+  "department":"Law Department",
   "file_version":"0.10",
   "head_name":"Vacant",
   "head_title":"Manager",
-  "name":"Office of Gaming & Accountability",
-  "parent":"law-department",
+  "name":"Office of Gaming and Accountability",
+  "parent":"Law Department",
   "section_id":259,
   "section_md5_id":"CFA0860E83A4C3A763A7E62D825349F7",
   "section_type":"program",
