@@ -156,7 +156,7 @@ layout: bos_wrapper
       data='
       {% for row in page.operating_department.data %}
         {% if row.line_type == "data" %}
-          {{ row.fy-0 }}
+          {{ row["fy+1"] }}
           {% assign i = forloop.length | minus: 1 %}{% unless forloop.index == i %}, {% endunless %}
         {% endif %}
       {% endfor %}
