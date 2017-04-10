@@ -80,7 +80,7 @@ if (document.getElementById("aggregateBarChart")) {
       data: {
         labels: chartLabels,
         datasets: [{
-          label: chartLabels,
+          label: "",
           data: chartData,
           backgroundColor: fullColorList,
           borderColors: fullColorList,
