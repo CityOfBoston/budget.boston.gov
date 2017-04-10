@@ -42,8 +42,8 @@ components:
       Budgetary growth is maintained at a responsible level given the need to maintain 
       flexibility in the face of continuing uncertainty at other levels of government. Despite 
       these challenges, the budget makes strong statements about the City’s priorities, as is 
-      reflected in the proposed investments.
-    right_image: http://placehold.it/400x300
+      reflected in the proposed investments. WHERE IS BUDGET GROWTH GOING
+    right_image: /img/placeholder-300x400.png
 - text_col_2:
   - col: >
       <h5>Expaning on savings</h5>

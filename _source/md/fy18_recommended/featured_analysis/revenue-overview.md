@@ -25,8 +25,8 @@ components:
       taxes, and license and permit revenue lead local revenue growth 
       and are driven by an expanding economy. <blockquote>Ninety-three 
       percent of tax revenue growth is from locally derived sources such 
-      as property tax and other local revenue.</blockquote>
-    right_image: http://placehold.it/400x300
+      as property tax and other local revenue.</blockquote> CATEGORIES OF RECURRING REVENUE GRAPH
+    right_image: /img/placeholder-300x400.png
     sidebar_menu: true 
 - text_col_2:
   - col: >
@@ -44,8 +44,14 @@ components:
       FY18, that growth is offset by sluggish and unpredictable state revenue 
       growth.</p>
   - col: 
-    - img: http://placehold.it/400x300
+    - img: /img/placeholder-300x400.png
+    - blurb: >
+        ASSESSED VALUE AND NET PROPERTY TAX GROWTH
 - text_col_2:
+  - col: 
+    - img: /img/placeholder-300x400.png
+    - blurb: >
+        EDUCATION SPENDING AND REVENUE
   - col: >
       <h5>Education spending</h5>
       <p>The share of net property tax has increased dramatically since FY08 
@@ -81,8 +87,6 @@ components:
       position Boston to receive $150 million in additional annual Chapter 70 
       aid within a few years if the state identifies a new revenue source for 
       education.</p>
-  - col: 
-    - img: http://placehold.it/400x300
 - text_col_2:
   - col: >
       <h5>Local receipts</h5>
@@ -94,6 +98,7 @@ components:
       Budget also includes $2 million in new revenue as a result of the state 
       legislation that passed in 2016 to create a per-ride assessment collected 
       from transportation network companies (TNCs) such as Uber and Lyft.</p>
+  - col: >
       <h5>Maximizing local revenue tools</h5>
       <p>With limited revenue tools, the City is expanding its efforts in FY18 
       to better maximize the available local revenue tools. The FY18 budget 

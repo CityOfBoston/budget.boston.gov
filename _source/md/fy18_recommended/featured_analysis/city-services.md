@@ -39,11 +39,16 @@ components:
       <p>To make targeted investments further detailed below,  the City is pursuing 
       smart savings initiatives in the FY18 Budget:</p>
   - col: 
-    - img: http://placehold.it/400x300
-- text_col_2:
+    - img: /img/fy18_recommended/placeholder-300x400.png
+    - blurb: >
+        1.5% AVERAGE GROWTH FOR OTHER 42 DEPTS
+- text_block:
   - title: Reforms and savings
+- text_col_2:
   - col: 
-    -img: http://placehold.it/400x300
+    -img: /img/placeholder-300x400.png
+    - blurb: >
+        FY18 COSTS AVOIDED THROUGH SAVINGS INITIATIVES
   - col: >
       <ul>
       <li>The FY18 budget continues the public safety and streets overtime reforms 
@@ -68,14 +73,6 @@ components:
       <p>With the City’s efforts to contain costs combined with Boston Public Schools’ 
       Transportation and Central Office savings, the FY18 budget avoids $60 million 
       in costs.</p>
-- text_col_2:
-  - col: >
-      <a href="http://placehold.it"><img src="http://placehold.it/300x400"></a></p>
-      <p><em>Figure 5 -  1.5% Average Growth for Other 42 Departments (Not Education or 
-      Public Safety)</em></p>
-  - col: >
-      <a href="http://placehold.it"><img src="http://placehold.it/300x400"></a>
-      <p><em>Figure 6 - FY18 Costs Avoided through Savings Initiatives</em></p>
 - grid:
   - grid_title: More budget analysis
   - title: Handy dandy title
