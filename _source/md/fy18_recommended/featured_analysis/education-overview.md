@@ -24,7 +24,7 @@ components:
       of $57.8 million (4.8%) over FY17. This increase is in spite of a projected 
       increase of just $1 million in Chapter 70 Education Aid and a charter reimbursement 
       that is projected to be $25 million underfunded from the state.  
-    sidebar_menu: true    
+    sidebar_menu: true
 - text_block:
   - title: Boston Public Schools budget
     body: > 
