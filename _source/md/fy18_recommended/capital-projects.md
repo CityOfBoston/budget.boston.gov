@@ -20,7 +20,21 @@ components:
 - text_block:
   - title: What Are Capital Projects?
     body: >
-      
+      The City is responsible for maintaining a large inventory of capital assets, 
+      including roads, bridges, schools, parks, libraries, public safety equipment, 
+      city buildings and more. The City’s capital investments enhance our neighborhoods, 
+      improve mobility, support the academic agenda of our schools and reinforce public 
+      safety with quality emergency response tools.
+- text_col_2:
+  - col: >
+      <p>With Imagine Boston 2030 and other City Planning efforts guiding many of 
+      the investments in this plan, projects in the FY18-22 Capital Plan are categorized
+      within the Imagine Boston 2030 initiatives below.</p>
+  - col: >
+      <p>These capital investments are planned and funded through the City’s capital 
+      budget, which is separate and distinct from the annual operating budget. The 
+      capital plan is primarily funded by borrowing through the issuance of bonds within 
+      the City’s fiscally responsible debt affordability limits.</p>
 - text_block:
   - title: Imagine Boston 2030
     body: >
