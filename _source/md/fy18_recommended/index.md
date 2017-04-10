@@ -269,23 +269,17 @@ components:
     link: /featured-analysis/extended-school-day/
   - title: Closing opportunity and achievement gaps
     body: >
-      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
-      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
-      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
+      Insert copy  
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
-    link: /featured-analysis/
+    link: /featured-analysis/closing-opportunity-achievement-gaps/
   - title: Supporting our students most in need
     body: >
-      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
-      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
-      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
+      Insert copy 
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
-    link: /featured-analysis/
+    link: /featured-analysis/supporting-students-most-in-need
   - title: BuildBPS
     body: >
-      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
-      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
-      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
+      Insert copy 
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
     link: /featured-analysis/buildbps/
 - text_col_2: 

@@ -37,7 +37,9 @@ components:
       Community Assistance Team to pursue a more agile and proactive response 
       to emergency services.</p> 
   - col: >
-      <a href="http://placehold.it"><img src="http://placehold.it/300x400"></a>
+      img: placeholder-300x400.png
+      blurb: >
+        heatmap of EMS responses
 - text_col_3:
   - col: >
       <h5>Putting the funding to work</h5>

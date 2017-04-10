@@ -24,8 +24,9 @@ components:
       budget, contractual increases from collective bargaining agreements, and 
       acceleration of the upcoming Police recruit class. 
     sidebar_menu: true
-- text_col_2:
+- text_block: 
   - title: Other City departments
+- text_col_2:
   - col: >
       <p>Public Works, Transportation, Housing, Public Health Commission and 38 other 
       departments are increasing by an average of 1.5% due to basic city services 
