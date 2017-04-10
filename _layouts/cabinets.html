@@ -146,12 +146,6 @@ layout: bos_wrapper
       width="200"
       height="200"
       data-labels='
-      {% comment %}
-        {{ page.operating_department.fy-2 }},
-        {{ page.operating_department.fy-1 }},
-        {{ page.operating_department.fy-0 }},
-        {{ page.operating_department["fy+1"] }}
-      {% endcomment %}
       {% for row in page.operating_department.data %}
         {% if row.line_type == "data" %}
           {{ row.department | remove: "'" }}
@@ -159,36 +153,14 @@ layout: bos_wrapper
         {% endif %}
       {% endfor %}
       '
-      data='{
+      data='
       {% for row in page.operating_department.data %}
         {% if row.line_type == "data" %}
           {{ row.fy-0 }}
           {% assign i = forloop.length | minus: 1 %}{% unless forloop.index == i %}, {% endunless %}
         {% endif %}
       {% endfor %}
-      {% comment %}
-      {% for row in page.operating_department.data %}
-        {% if row.line_type == "data" %}
-          "{{ row.department | remove: "'" }}":[
-            {{ row.fy-0 }}
-          ]{% assign i = forloop.length | minus: 1 %}{% unless forloop.index == i %}, {% endunless %}
-        {% endif %}
-      {% endfor %}
-      {% endcomment %}
-      {% comment %}
-        {% for row in page.operating_department.data %}
-          {% if row.line_type == "data" %}
-            "{{ row.department | remove: "'" }}":[
-              {% for column in row %}
-                {% if column[0] != "department" and column[0] != "line_type" %}
-                  {{ column[1] }}{% unless forloop.last %}, {% endunless %}
-                {% endif %}
-              {% endfor %}
-            ]{% assign i = forloop.length | minus: 1 %}{% unless forloop.index == i %}, {% endunless %}
-          {% endif %}
-        {% endfor %}
-      {% endcomment %}
-      }'
+      '
     ></canvas>
   </div>
 </div>
