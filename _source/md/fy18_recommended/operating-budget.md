@@ -30,17 +30,18 @@ components:
   - title: Budget summary
     right_text: (dollars in millions)
     columns:
-      - "": Total revenues
+      - "Category": Total revenues
         "FY15 Actual": 2,780.42
         "FY16 Actual": 2,883.01
         "FY17 Budget": 2,996.09
         "FY18 Budget": 3,139.79
-      - "": Total expenditures
+      - "Category": Total expenditures
         "FY15 Actual": 2,773.06
         "FY16 Actual": 2,881.09
         "FY17 Budget": 2,996.09
         "FY18 Budget": 3,139.79
-      - "": Surplus (Deficit)
+      - "Category": Surplus (Deficit)
+        "total": true
         "FY15 Actual": 7.36
         "FY16 Actual": 1.92
         "FY17 Budget": 0.00
@@ -147,6 +148,7 @@ components:
       "FY17 Budget": 4.00
       "FY18 Budget": 0.00
     - "Source": Total revenues
+      "total": true
       "FY15 Actual": 2,780.42
       "FY16 Actual": 2,883.01
       "FY17 Budget": 2,996.09
@@ -198,6 +200,7 @@ components:
       "FY17 Budget": 40.00
       "FY18 Budget": 40.00
     - "Expenditure": Total appropriations
+      "total": true
       "FY15 Actual": 2,238.97
       "FY16 Actual": 2,291.41
       "FY17 Budget": 2,372.18
@@ -252,11 +255,13 @@ components:
       "FY17 Budget": 0.00
       "FY18 Budget": 1.00
     - "Expenditure": Total fixed costs
+      "total": true
       "FY15 Actual": 534.08
       "FY16 Actual": 589.68
       "FY17 Budget": 623.91
       "FY18 Budget": 673.55
     - "Expenditure": Totals
+      "total": true
       "FY15 Actual": 2,773.06
       "FY16 Actual": 2,881.09
       "FY17 Budget": 2,996.09
