@@ -152,12 +152,6 @@ layout: bos_wrapper
         width="200"
         height="200"
         data-labels='
-        {% comment %}
-          {{ page.department_history_by_account.table_header.fy-2 }},
-          {{ page.department_history_by_account.table_header.fy-1 }},
-          {{ page.department_history_by_account.table_header.fy-0 }},
-          {{ page.department_history_by_account.table_header["fy+1"] }}
-        {% endcomment %}
         {% for row in page.department_history_by_account.data %}
           {% if row.line_type == "data" %}
             {{ row.line_title | remove: "'" }}
@@ -172,20 +166,6 @@ layout: bos_wrapper
             {% assign i = forloop.length | minus: 1 %}{% unless forloop.index == i %}, {% endunless %}
           {% endif %}
         {% endfor %}
-        {% comment %}
-        {
-          {% for row in page.department_history_by_account.data %}
-            {% if row.line_type == "data" %}
-              "{{ row.line_title | remove: "'" }}":[
-                {{ row.fy-2 }},
-                {{ row.fy-1 }},
-                {{ row.fy-0 }},
-                {{ row["fy+1"] }}
-              ]{% assign i = forloop.length | minus: 1 %}{% unless forloop.index == i %}, {% endunless %}
-            {% endif %}
-          {% endfor %}
-        }
-        {% endcomment %}
         '
       ></canvas>
     </div>
@@ -317,12 +297,6 @@ layout: bos_wrapper
         width="200"
         height="200"
         data-labels='
-        {% comment %}
-          {{ page.operating_budget.table_header.fy-2 }},
-          {{ page.operating_budget.table_header.fy-1 }},
-          {{ page.operating_budget.table_header.fy-0 }},
-          {{ page.operating_budget.table_header["fy+1"] }}
-        {% endcomment %}
         {% for row in page.operating_budget.data %}
           {% if row.line_type == "data" %}
             {{ row.name | remove: "'" }}
@@ -337,20 +311,6 @@ layout: bos_wrapper
             {% assign i = forloop.length | minus: 1 %}{% unless forloop.index == i %}, {% endunless %}
           {% endif %}
         {% endfor %}
-          {% comment %}
-          {
-          {% for row in page.operating_budget.data %}
-            {% if row.line_type == "data" %}
-              "{{ row.name | remove: "'" }}":[
-                {{ row.fy-2 }},
-                {{ row.fy-1 }},
-                {{ row.fy-0 }},
-                {{ row["fy+1"] }}
-              ]{% assign i = forloop.length | minus: 1 %}{% unless forloop.index == i %}, {% endunless %}
-            {% endif %}
-          {% endfor %}
-        }
-        {% endcomment %}
         '
       ></canvas>
     </div>
