@@ -42,9 +42,154 @@ layout: bos_wrapper
   {% include sidebar_menu.html %}
 </div>
 <div>
-  {{ page.description_of_services }}
+  <p><strong>Description of services:</strong> {{ page.description_of_services }}</p>
 </div>
 <br />
+
+{% if page.operating_budget %}
+  {% comment %}
+  **********************
+  *** Program Tables ***
+  **********************
+  {% endcomment %}
+  <div class="sh desktop-100">
+    <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
+      Appropriations by Program
+    </h2>
+    <div class="sh-contact"><a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | replace: "'","" | slugify }}">Back to {{ page.cabinet }} Cabinet</a></div>
+  </div>
+  <br />
+  <table class="js-table responsive-table responsive-table--horizontal">
+    <thead>
+      <tr>
+        <th>{{ page.operating_budget.table_header.name }}</th>
+        <th>{{ page.operating_budget.table_header.fy-2 }}</th>
+        <th>{{ page.operating_budget.table_header.fy-1 }}</th>
+        <th>{{ page.operating_budget.table_header.fy-0 }}</th>
+        <th>{{ page.operating_budget.table_header["fy+1"] }}</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for row in page.operating_budget.data %}
+        {% if row.line_type == 'total' %}
+          <tr class="total">
+            <td><strong>{{ row.name }}</strong></td>
+        {% else %}
+          <tr>
+            <td>
+              <a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | replace: "'","" | slugify }}/{{ page.name | replace: "'","" | slugify }}/{{ row.name | replace: "'","" | slugify }}">
+                {{ row.name }}
+              </a>
+            </td>
+        {% endif %}
+          <td>{{ row.fy-2 | thousands_separated }}</td>
+          <td>{{ row.fy-1 | thousands_separated }}</td>
+          <td>{{ row.fy-0 | thousands_separated }}</td>
+          <td>{{ row["fy+1"] | thousands_separated }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  <br /><br />
+
+  {% comment %}
+  **********************
+  *** Program Charts ***
+  **********************
+  {% endcomment %}
+  <div class="sh desktop-100">
+    <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
+      Department trends by program
+    </h2>
+  </div>
+  <br />
+  <div class="desktop-100 clearfix">
+  <div class="desktop-50">
+    <div id="totalLineChart-wrapper">
+      <table class="responsive-table chart-label">
+        <th>
+          {{ page.name }} Operating Budget
+        </th>
+      </table>
+      <canvas
+        id="lineChart"
+        class="lineChart"
+        width="200"
+        height="200"
+        large=true
+        data-title="{{ page.name }}"
+        data-labels="
+          {{ page.department_history_by_account.table_header.fy-2 | truncate: 4, "" }},
+          {{ page.department_history_by_account.table_header.fy-1 | truncate: 4, "" }},
+          {{ page.department_history_by_account.table_header.fy-0 | truncate: 4, "" }},
+          {{ page.department_history_by_account.table_header["fy+1"] | truncate: 4, "" }}
+        "
+        data="
+          {% for row in page.operating_budget.data %}
+            {% if row.line_type == 'total' %}
+              {{ row.fy-2 }},
+              {{ row.fy-1 }},
+              {{ row.fy-0 }},
+              {{ row['fy+1'] }}
+            {% endif %}
+          {% endfor %}
+        "
+      ></canvas>
+    </div>
+  </div>
+  <div class="desktop-50">
+    <div id="aggregateBarChart-wrapper">
+      <table class="responsive-table chart-label"><th>{{ page.name }} Operating Budget by Department</th></table>
+      <canvas
+        id="aggregateBarChart"
+        class="barChart"
+        width="200"
+        height="200"
+        data-labels='
+        {% for row in page.department_history_by_account.data %}
+          {% if row.line_type == "data" %}
+            {{ row.line_title | remove: "'" }}
+            {% assign i = forloop.length | minus: 1 %}{% unless forloop.index == i %}, {% endunless %}
+          {% endif %}
+        {% endfor %}
+        '
+        data='
+        {% for row in page.department_history_by_account.data %}
+          {% if row.line_type == "data" %}
+            {{ row["fy+1"] }}
+            {% assign i = forloop.length | minus: 1 %}{% unless forloop.index == i %}, {% endunless %}
+          {% endif %}
+        {% endfor %}
+        '
+      ></canvas>
+    </div>
+  </div>
+  </div>
+  <div class="g">
+  {% for row in page.operating_budget.data %}
+    {% if row.line_type == 'data' %}
+      <div class="wi g--4">
+        <table class="responsive-table chart-label"><th>{{ row.line_title }}</th></table>
+        <canvas
+          id="lineChart"
+          class="lineChart"
+          width="200"
+          height="200"
+          data-title=""
+          data-labels="
+            {{ page.department_history_by_account.table_header.fy-2 | truncate: 4, "" }},
+            {{ page.department_history_by_account.table_header.fy-1 | truncate: 4, "" }},
+            {{ page.department_history_by_account.table_header.fy-0 | truncate: 4, "" }},
+            {{ page.department_history_by_account.table_header['fy+1'] | truncate: 4, "" }}
+          "
+          data="{{ row.fy-2 }}, {{ row.fy-1 }}, {{ row.fy-0 }}, {{ row['fy+1'] }}"
+        ></canvas>
+      </div>
+    {% endif %}
+  {% endfor %}
+  </div>
+  <br />
+{% endif %}
 
 {% if page.department_history_by_account %}
   {% comment %}
@@ -125,158 +270,13 @@ layout: bos_wrapper
         large=true
         data-title="{{ page.name }}"
         data-labels="
-          {{ page.department_history_by_account.table_header.fy-2 | truncate: 4, "" }},
-          {{ page.department_history_by_account.table_header.fy-1 | truncate: 4, "" }},
-          {{ page.department_history_by_account.table_header.fy-0 | truncate: 4, "" }},
-          {{ page.department_history_by_account.table_header["fy+1"] | truncate: 4, "" }}
-        "
-        data="
-          {% for row in page.department_history_by_account.data %}
-            {% if row.line_type == 'total' %}
-              {{ row.fy-2 }},
-              {{ row.fy-1 }},
-              {{ row.fy-0 }},
-              {{ row['fy+1'] }}
-            {% endif %}
-          {% endfor %}
-        "
-      ></canvas>
-    </div>
-  </div>
-  <div class="desktop-50">
-    <div id="aggregateBarChart-wrapper">
-      <table class="responsive-table chart-label"><th>{{ page.name }} Operating Budget by Department</th></table>
-      <canvas
-        id="aggregateBarChart"
-        class="barChart"
-        width="200"
-        height="200"
-        data-labels='
-        {% for row in page.department_history_by_account.data %}
-          {% if row.line_type == "data" %}
-            {{ row.line_title | remove: "'" }}
-            {% assign i = forloop.length | minus: 1 %}{% unless forloop.index == i %}, {% endunless %}
-          {% endif %}
-        {% endfor %}
-        '
-        data='
-        {% for row in page.department_history_by_account.data %}
-          {% if row.line_type == "data" %}
-            {{ row["fy+1"] }}
-            {% assign i = forloop.length | minus: 1 %}{% unless forloop.index == i %}, {% endunless %}
-          {% endif %}
-        {% endfor %}
-        '
-      ></canvas>
-    </div>
-  </div>
-  </div>
-  <div class="g">
-  {% for row in page.department_history_by_account.data %}
-    {% if row.line_type == 'data' %}
-      <div class="wi g--4">
-        <table class="responsive-table chart-label"><th>{{ row.line_title }}</th></table>
-        <canvas
-          id="lineChart"
-          class="lineChart"
-          width="200"
-          height="200"
-          data-title=""
-          data-labels="
-            {{ page.department_history_by_account.table_header.fy-2 | truncate: 4, "" }},
-            {{ page.department_history_by_account.table_header.fy-1 | truncate: 4, "" }},
-            {{ page.department_history_by_account.table_header.fy-0 | truncate: 4, "" }},
-            {{ page.department_history_by_account.table_header['fy+1'] | truncate: 4, "" }}
-          "
-          data="{{ row.fy-2 }}, {{ row.fy-1 }}, {{ row.fy-0 }}, {{ row['fy+1'] }}"
-        ></canvas>
-      </div>
-    {% endif %}
-  {% endfor %}
-  </div>
-  <br /><br />
-{% endif %}
-
-{% if page.operating_budget %}
-  {% comment %}
-  **********************
-  *** Program Tables ***
-  **********************
-  {% endcomment %}
-  <div class="sh desktop-100">
-    <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
-      Appropriations by Program
-    </h2>
-    <div class="sh-contact"><a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | replace: "'","" | slugify }}">Back to {{ page.cabinet }} Cabinet</a></div>
-  </div>
-  <br />
-  <table class="js-table responsive-table responsive-table--horizontal">
-    <thead>
-      <tr>
-        <th>{{ page.operating_budget.table_header.name }}</th>
-        <th>{{ page.operating_budget.table_header.fy-2 }}</th>
-        <th>{{ page.operating_budget.table_header.fy-1 }}</th>
-        <th>{{ page.operating_budget.table_header.fy-0 }}</th>
-        <th>{{ page.operating_budget.table_header["fy+1"] }}</th>
-      </tr>
-    </thead>
-    <tbody>
-      {% for row in page.operating_budget.data %}
-        {% if row.line_type == 'total' %}
-          <tr class="total">
-            <td><strong>{{ row.name }}</strong></td>
-        {% else %}
-          <tr>
-            <td>
-              <a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | replace: "'","" | slugify }}/{{ page.name | replace: "'","" | slugify }}/{{ row.name | replace: "'","" | slugify }}">
-                {{ row.name }}
-              </a>
-            </td>
-        {% endif %}
-          <td>{{ row.fy-2 | thousands_separated }}</td>
-          <td>{{ row.fy-1 | thousands_separated }}</td>
-          <td>{{ row.fy-0 | thousands_separated }}</td>
-          <td>{{ row["fy+1"] | thousands_separated }}</td>
-        </tr>
-      {% endfor %}
-    </tbody>
-  </table>
-  <br /><br />
-
-  {% comment %}
-  **********************
-  *** Program Charts ***
-  **********************
-  {% endcomment %}
-  <div class="sh desktop-100">
-    <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
-      Department trends by program
-    </h2>
-  </div>
-  <br />
-  <div class="desktop-100 clearfix">
-  <div class="desktop-50">
-    <div id="totalLineChart-wrapper">
-      <table class="responsive-table chart-label">
-        <th>
-          {{ page.name }} Operating Budget
-        </th>
-      </table>
-      <canvas
-        id="lineChart"
-        class="lineChart"
-        width="200"
-        height="200"
-        large=true
-        data-title="{{ page.name }}"
-        data-labels="
           {{ page.operating_budget.table_header.fy-2 | truncate: 4, "" }},
           {{ page.operating_budget.table_header.fy-1 | truncate: 4, "" }},
           {{ page.operating_budget.table_header.fy-0 | truncate: 4, "" }},
           {{ page.operating_budget.table_header["fy+1"] | truncate: 4, "" }}
         "
         data="
-          {% for row in page.operating_budget.data %}
+          {% for row in page.department_history_by_account.data %}
             {% if row.line_type == 'total' %}
               {{ row.fy-2 }},
               {{ row.fy-1 }},
@@ -317,7 +317,7 @@ layout: bos_wrapper
   </div>
   </div>
   <div class="g">
-  {% for row in page.operating_budget.data %}
+  {% for row in page.department_history_by_account.data %}
     {% if row.line_type == 'data' %}
       <div class="wi g--4">
         <table class="responsive-table chart-label"><th>{{ row.name }}</th></table>
@@ -339,7 +339,7 @@ layout: bos_wrapper
     {% endif %}
   {% endfor %}
   </div>
-  <br />
+  <br /><br />
 {% endif %}
 
 {% if page.selected_performance_strategies %}

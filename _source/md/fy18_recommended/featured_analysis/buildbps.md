@@ -25,7 +25,8 @@ components:
       the Massachusetts School Building Authority (MSBA), the plan will more than double 
       the capital spending on BPS facilities over the next decade. Mayor Walsh’s FY18-22
       Capital Plan begins to implement early action BuildBPS initiatives while reserving 
-      funding for projects coming out of the BuildBPS engagement process.
+      funding for projects coming out of the BuildBPS engagement process. CAPITAL INVESTMENT IN SCHOOLS
+    right_image: img/placeholder-300x400.png
     sidebar_menu: true    
 - text_block:
   - title: BuildBPS overview

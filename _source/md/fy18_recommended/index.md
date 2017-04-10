@@ -42,7 +42,8 @@ components:
       Budgetary growth is maintained at a responsible level given the need to maintain 
       flexibility in the face of continuing uncertainty at other levels of government. Despite 
       these challenges, the budget makes strong statements about the City’s priorities, as is 
-      reflected in the proposed investments.
+      reflected in the proposed investments. WHERE IS BUDGET GROWTH GOING
+    right_image: /img/placeholder-300x400.png
 - text_col_2:
   - col: >
       <h5>Expaning on savings</h5>
@@ -155,6 +156,8 @@ components:
       State aid to Boston never recovered after the Great Recession. Learn about the impacts.
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
     link: /featured-analysis/state-aid/
+- text_block: 
+  - title: Expenditures
 - text_col_2:
     - col: >
         <p>FY18 expenditures are increasing by $143.7 million (4.8%) over FY17 budgeted expenditures. This reflects 
@@ -162,7 +165,7 @@ components:
         go to all other City Services (such as Police, Fire, and Public Works) and the Public Health Commission, 
         and the remaining 22% of growth will be consumed by pension, debt service and other fixed cost expenditures.</p>
     - col:
-      - img: http://placehold.it/300x400
+      - img: /img/placeholder-300x400.png
 - grid:
   - title: Education overview
     body: >
@@ -201,7 +204,7 @@ components:
       for the future. Under the Imagine Boston 2030 umbrella, the City is investing deeply 
       in the core goals of BuildBPS, Go Boston 2030, Boston Creates, and Climate 
       Ready Boston.</p>
-   - col:>
+   - col: >
        <h5>Investing in core goals</h5>
        <p>Mayor Walsh’s $2.08 billion FY18-FY22 Capital Plan moves Boston residents’ priorities 
        from idea to action, and invests in creating the city Bostonians imagine for the future. 
@@ -266,23 +269,17 @@ components:
     link: /featured-analysis/extended-school-day/
   - title: Closing opportunity and achievement gaps
     body: >
-      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
-      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
-      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
+      Insert copy  
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
-    link: /featured-analysis/
+    link: /featured-analysis/closing-opportunity-achievement-gaps/
   - title: Supporting our students most in need
     body: >
-      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
-      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
-      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
+      Insert copy 
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
-    link: /featured-analysis/
+    link: /featured-analysis/supporting-students-most-in-need
   - title: BuildBPS
     body: >
-      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
-      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
-      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
+      Insert copy 
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
     link: /featured-analysis/buildbps/
 - text_col_2: 

@@ -130,7 +130,7 @@ components:
         "FY16 Actual": 136,430,813
         "FY17 Budget": 142,291,767
         "FY18 Budget": 145,114,722
-      - "Cabinet": Totals
+      - "Cabinet": Total Cabinet Appropriations
         "FY15 Actual": 
         "FY16 Actual": 
         "FY17 Budget": 
