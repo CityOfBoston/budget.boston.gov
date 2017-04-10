@@ -379,7 +379,60 @@ components:
 - text_block:
   - title: FY18 Expenditures Allocation
     body: >
-      
+      The City estimates FY18 capital expenditures will total $301 million from all sources 
+      (see Figure 2). All projects in the capital plan are categorized as 
+      Upkeep, Upgrade, New/Major Renovation, Planning or Matching Funds. OBM tracks 
+      the overall distribution of these categories to maintain a balance between the 
+      upkeep of existing assets and the expansion or introduction of new ones.
+- text_col_2:
+  - col: >
+      <a href="http://placehold.it"><img src="http://placehold.it/300x400"></a>
+  - col: >
+    <h5>Upkeep</h5>
+    <p>Upkeep represents projects that maintain the City’s assets, a fundamental priority 
+    of the Capital Plan. In FY18, 21% of projected spending supports Upkeep projects. These 
+    include:</p>
+      <ul>
+        <li>roof and masonry repairs;</li>
+        <li>the replacement of play equipment in parks;</li>
+        <li>HVAC and boiler replacement; and</li>
+        <li>critical repair funds for departments to address relatively small but vital 
+        repair projects not covered by routine maintenance.</li>
+      </ul>
+    <p>A substantial portion of the Upkeep category supports on-going bridge, street, 
+    sidewalk, and street lighting repairs that ensure the City’s roads and sidewalks 
+    are safe and in good condition.</p>
+- text_col_2:
+  - col: >
+      <h5>Upgrade</h5>
+      <p>Upgrade represents projects that improve existing assets by adding new capacity 
+      or innovations. This year’s upgrade allocations account for 51% of projected spending, 
+      and includes projects such as Connect Historic Boston – the redesign of several Downtown 
+      streets with support from a Federal grant – and new equipment for the police radio 
+      system.</p>
+  - col: >      
+      <h5>New/Major Renovations</h5>
+      <p>New/Major Renovations represents 26% of the FY18 allocations. New facilities and 
+      rehabilitation projects for schools, libraries, parks and community centers enable 
+      the City’s facilities to adapt to fit the needs of today’s programs, improve the ‘green’
+      performance of facilities, and extend the useful life of older assets. Highlights in 
+      this category include a new fire house at Engine 42 in Roxbury and BCYF Curley Community 
+      Center in South Boston.</p>
+- text_col_2:
+  - col: >
+      <h5>Planning or Matching Funds</h5>
+      <p>About 2% of the FY18 budget is assigned to matching fund requirements and to 
+      planning projects. Comprehensive planning projects, which analyze a group of buildings or 
+      program needs, provide the groundwork for targeted investments in the categories of Upgrade 
+      and New/Major Renovations. Projects in this category include funds for a master plan of 
+      the Frog Pond at Boston Common and a transportation study of the Bowdoin Street/Geneva 
+      Avenue area of Dorchester.</p>
+  - col: >
+      <h5>Other projects</h5>
+      <p>The Matching fund category includes projects where the City covers the cost of design 
+      and engineering services.  These expenditures are able to leverage state and federal 
+      construction funds on projects such as the new North Washington Street Bridge and the 
+      South Bay Harbor Trail.</p>
 - text_block:
   - title: More resources
     body: >
