@@ -27,6 +27,8 @@
             <td><a href="{{ site.url }}{{ column[1].link }}">{{ column[1].name }}</a></td>
           {% elsif column[1].filter == 'money' %}
             <td>${{ column[1].value | thousands_separated }}</td>
+          {% elsif column[1].filter == 'delimiter' %}
+            <td>{{ column[1].value | thousands_separated }}</td>
           {% elsif column[1].filter == 'percent' %}
             <td>{{ column[1].value | append: "%" }}</td>
           {% else %}

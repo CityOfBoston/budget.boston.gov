@@ -17,7 +17,7 @@
           <div class="grid-card__text">
             <h3 class="grid-card__title">{{ item.title }}</h3>
             <div class="grid-card__description">
-              <div class="intro-text">{{ item.body }}</div>
+              <div class="intro-text">{{ item.body | truncate: 105 }}</div>
             </div>
           </div>
         </a>

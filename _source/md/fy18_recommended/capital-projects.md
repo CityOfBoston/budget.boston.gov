@@ -110,12 +110,22 @@ components:
       - "Category": 
           name: Arts and Culture
           link: /capital-projects/arts-and-culture
-        "Through 6/30/16": 4,294,414.00
-        "FY17 Budget": 5,847,277.00
-        "FY18 Budget": 17,903,292.00
-        "FY19-22 Budget": 111,516,539.00
+        "Through 6/30/16": 
+           value: 4294414
+           filter: delimiter
+        "FY17 Budget": 
+           value: 5847277
+           filter: delimiter
+        "FY18 Budget": 
+           value: 17903292
+           filter: delimiter
+        "FY19-22 Budget": 
+           value: 111516539
+           filter: delimiter
         "Non-Capital Fund": 0
-        "Total": 139,561,522.00
+        "Total": 
+           value: 139561522
+           filter: delimiter
       - "Category": 
           name: Economy
           link: /capital-projects/economy
