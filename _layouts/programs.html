@@ -45,48 +45,6 @@ layout: bos_wrapper
   {% include sidebar_menu.html %}
 </div>
 
-{% if page.performance_strategies %}
-<div class="sh desktop-100">
-  <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
-    {{ page.name }} - Performance
-  </h2>
-</div>
-  <div class="desktop-100">
-    {% for strategy in page.performance_strategies %}
-      <p>
-        <h4>Goal: {{ strategy.strategy }}</h4>
-      </p>
-      <table class="js-table responsive-table responsive-table--horizontal">
-        <thead>
-          <tr>
-            <th>Measure</th>
-            <th>{{ strategy.performance_measures[0].table_header.fy-2 }}</th>
-            <th>{{ strategy.performance_measures[0].table_header.fy-1 }}</th>
-            <th>{{ strategy.performance_measures[0].table_header.fy-0 }}</th>
-            <th>{{ strategy.performance_measures[0].table_header["fy+1"] }}</th>
-          </tr>
-        </thead>
-        <tbody>
-          {% for row in strategy.performance_measures[0].data %}
-            <tr>
-              {% if row.line_type == 'total' %}
-                <td><strong>{{ row.line_data }}</strong></td>
-              {% else %}
-              <td>{{ row.line_data }}</td>
-              {% endif %}
-              <td>{{ row.fy-2 }}</td>
-              <td>{{ row.fy-1 }}</td>
-              <td>{{ row.fy-0 }}</td>
-              <td>{{ row["fy+1"] }}</td>
-            </tr>
-          {% endfor %}
-        </tbody>
-      </table>
-      <br /><br />
-    {% endfor %}
-  </div>
-{% endif %}
-
 <div class="sh desktop-100">
   <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
     {{ page.name }} - Appropriations
@@ -124,3 +82,45 @@ layout: bos_wrapper
   </tbody>
 </table>
 <br />
+
+{% if page.performance_strategies %}
+<div class="sh desktop-100">
+  <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
+    {{ page.name }} - Performance
+  </h2>
+</div>
+  <div class="desktop-100">
+    {% for strategy in page.performance_strategies %}
+      <p>
+        <h4>Goal:</h4><span class="intro-text supporting-text"> {{ strategy.strategy }}</span>
+      </p>
+      <table class="js-table responsive-table responsive-table--horizontal">
+        <thead>
+          <tr>
+            <th>Measure</th>
+            <th>{{ strategy.performance_measures[0].table_header.fy-2 }}</th>
+            <th>{{ strategy.performance_measures[0].table_header.fy-1 }}</th>
+            <th>{{ strategy.performance_measures[0].table_header.fy-0 }}</th>
+            <th>{{ strategy.performance_measures[0].table_header["fy+1"] }}</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for row in strategy.performance_measures[0].data %}
+            <tr>
+              {% if row.line_type == 'total' %}
+                <td><strong>{{ row.line_data }}</strong></td>
+              {% else %}
+              <td>{{ row.line_data }}</td>
+              {% endif %}
+              <td>{{ row.fy-2 }}</td>
+              <td>{{ row.fy-1 }}</td>
+              <td>{{ row.fy-0 }}</td>
+              <td>{{ row["fy+1"] }}</td>
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+      <br /><br />
+    {% endfor %}
+  </div>
+{% endif %}

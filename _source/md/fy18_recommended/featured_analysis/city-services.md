@@ -40,14 +40,14 @@ components:
       <p>To make targeted investments further detailed below,  the City is pursuing 
       smart savings initiatives in the FY18 Budget:</p>
   - col: 
-    - img: /img/fy18_recommended/placeholder-300x400.png
+    - img: /img/placeholder-300x400.png
     - blurb: >
         1.5% AVERAGE GROWTH FOR OTHER 42 DEPTS
 - text_block:
   - title: Reforms and savings
 - text_col_2:
   - col: 
-    -img: /img/placeholder-300x400.png
+    - img: /img/placeholder-300x400.png
     - blurb: >
         FY18 COSTS AVOIDED THROUGH SAVINGS INITIATIVES
   - col: >

@@ -165,7 +165,7 @@ components:
         go to all other City Services (such as Police, Fire, and Public Works) and the Public Health Commission, 
         and the remaining 22% of growth will be consumed by pension, debt service and other fixed cost expenditures.</p>
     - col:
-      - img: http://placehold.it/300x400
+      - img: /img/placeholder-300x400.png
 - grid:
   - title: Education overview
     body: >
@@ -204,7 +204,7 @@ components:
       for the future. Under the Imagine Boston 2030 umbrella, the City is investing deeply 
       in the core goals of BuildBPS, Go Boston 2030, Boston Creates, and Climate 
       Ready Boston.</p>
-   - col:>
+   - col: >
        <h5>Investing in core goals</h5>
        <p>Mayor Walsh’s $2.08 billion FY18-FY22 Capital Plan moves Boston residents’ priorities 
        from idea to action, and invests in creating the city Bostonians imagine for the future. 
