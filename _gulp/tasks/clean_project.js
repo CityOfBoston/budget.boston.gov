@@ -9,6 +9,7 @@ gulp.task('clean_project', function (done) {
   del.sync(['_cp_depts/**']);
   del.sync(['_projects/**']);
   del.sync(['_pages/**']);
+  del.sync(['_site/**']);
   del.sync(['img/**']);
   return;
 });
