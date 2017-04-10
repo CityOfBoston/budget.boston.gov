@@ -156,8 +156,9 @@ components:
       State aid to Boston never recovered after the Great Recession. Learn about the impacts.
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
     link: /featured-analysis/state-aid/
-- text_col_2:
+- text_block: 
   - title: Expenditures
+- text_col_2:
     - col: >
         <p>FY18 expenditures are increasing by $143.7 million (4.8%) over FY17 budgeted expenditures. This reflects 
         4% appropriation growth and 8% fixed cost growth. Of that growth, 40% is dedicated to education 38% will 
