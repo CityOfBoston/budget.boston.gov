@@ -37,7 +37,9 @@ components:
       of FY19 and FY20, while the FY18 cadet class of 20 will be eligible to join the 
       recruit class of FY21.</p>
   - col: >
-      <a href="http://placehold.it"><img src="http://placehold.it/300x400"></a>
+      img: /img/placeholder-300x400.png
+      blurb: >
+        Cadets of color
 - grid:
   - grid_title: More budget analysis
   - title: Handy dandy title

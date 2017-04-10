@@ -28,7 +28,7 @@ components:
     sidebar_menu: true
 - text_col_2:
   - col: >
-      <p><h5>Debt service costs</h5>
+      <h5>Debt service costs</h5>
       <p>The City borrows every year to support investments in its roads, 
       bridges, school buildings, parks and police and fire stations. Based on its AAA 
       bond rating, the City has continued to benefit from favorable interest rates and its 

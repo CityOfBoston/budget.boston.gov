@@ -45,7 +45,7 @@ components:
       - "EFA Cohort":
           value: 50
           filter: percent
-          - "": Students with disabilities
+      - "": Students with disabilities
       - "BPS Grade 4": 
           value: 21
           filter: percent
@@ -55,7 +55,7 @@ components:
       - "EFA Cohort":
           value: 24
           filter: percent
-          - "": English language learners
+      - "": English language learners
       - "BPS Grade 4": 
           value: 34
           filter: percent
