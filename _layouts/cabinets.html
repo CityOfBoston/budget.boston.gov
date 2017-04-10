@@ -150,10 +150,24 @@ layout: bos_wrapper
         {{ page.operating_department.fy-2 }},
         {{ page.operating_department.fy-1 }},
         {{ page.operating_department.fy-0 }},
-      {% endcomment %}
         {{ page.operating_department["fy+1"] }}
+      {% endcomment %}
+      {% for row in page.operating_department.data %}
+        {% if row.line_type == "data" %}
+          {{ row.department | remove: "'" }}
+          {% assign i = forloop.length | minus: 1 %}{% unless forloop.index == i %}, {% endunless %}
+        {% endif %}
+      {% endfor %}
       '
       data='{
+      {% for row in page.operating_department.data %}
+        {% if row.line_type == "data" %}
+          "{{ row.department | remove: "'" }}":[
+            {{ row.fy-0 }}
+          ]{% assign i = forloop.length | minus: 1 %}{% unless forloop.index == i %}, {% endunless %}
+        {% endif %}
+      {% endfor %}
+      {% comment %}
         {% for row in page.operating_department.data %}
           {% if row.line_type == "data" %}
             "{{ row.department | remove: "'" }}":[
@@ -165,6 +179,7 @@ layout: bos_wrapper
             ]{% assign i = forloop.length | minus: 1 %}{% unless forloop.index == i %}, {% endunless %}
           {% endif %}
         {% endfor %}
+      {% endcomment %}
       }'
     ></canvas>
   </div>
