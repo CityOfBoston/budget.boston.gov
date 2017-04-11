@@ -41,7 +41,7 @@ components:
       Mayor Walsh and the Boston City Council expanded the residential exemption in 
       2017 which lowered Boston homeowner’s property tax in 2017. The change reduced 
       the average property tax bill for single-family, owner occupied homes by $299.</blockquote></p>
-  - col: >
+  - col:
     - img: /img/value-vs-tax-revenue.jpg
 - text_col_2:
   - col: >
@@ -72,7 +72,7 @@ components:
       by the allowable 2.5%. These increases have grown as the levy has grown, beginning 
       in FY85 at $8.4 million and reaching $50 million in FY18.</p>
 - text_col_2:
-  - col: >
+  - col:
     - img: /img/property-tax-trends.jpg
   - col: >
       <h5>Property tax growth</h5>
@@ -120,7 +120,7 @@ components:
       title lien at the Registry of Deeds is the most effective tool available for payment 
       enforcement. The property tax collection rate was 99.3% of the FY16 gross 
       tax levy as of June 30, 2016.</p>
-  - col: >
+  - col:
     - img: /img/property-tax-rate-below-levy-ceiling.jpg
 - grid:
   - grid_title: More budget analysis

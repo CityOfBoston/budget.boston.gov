@@ -50,7 +50,7 @@ components:
         expected to continue improving, falling to a range 4.4% to 4.7% in calendar year 2017 
         and to a range of 4.2% to 4.7% in 2018.</blockquote></p>
     - img: /img/unemployment-rates.jpg
-  - col: >
+  - col:
     - blurb: >
         <h5>Inflation estimates</h5>
         <p>Inflation has been below the Federal Reserve’s target of 2%. The Federal Reserve 

@@ -25,19 +25,19 @@ components:
 - text_block:
   - title: Breaking down revenue
 - text_col_2:
-    - col: >
-        <h5>State revenue growth</h5>
-        <p>While the City is expected to experience continued robust property 
-        tax growth in FY18, overall revenue growth is expected to be hampered by 
-        sluggish state revenue growth. <blockquote>State revenue, the City’s second 
-        largest revenue source, never recovered following the last recession, and 
-        in FY18, Boston’s state revenue is budgeted to grow at 2.5% over FY17.</blockquote></p>
-        <p>Net State Aid (state aid net of assessments) is budgeted to decline 
-        as continued increases in state assessments for charter school tuition 
-        surpass stagnant budgeted state revenue.</p>
-    - col: 
-      - img: /img/categories-recurring-revenue.jpg
-      - blurb: >
+  - col: >
+      <h5>State revenue growth</h5>
+      <p>While the City is expected to experience continued robust property 
+      tax growth in FY18, overall revenue growth is expected to be hampered by 
+      sluggish state revenue growth. <blockquote>State revenue, the City’s second 
+      largest revenue source, never recovered following the last recession, and 
+      in FY18, Boston’s state revenue is budgeted to grow at 2.5% over FY17.</blockquote></p>
+      <p>Net State Aid (state aid net of assessments) is budgeted to decline 
+      as continued increases in state assessments for charter school tuition 
+      surpass stagnant budgeted state revenue.</p>
+  - col: 
+    - img: /img/categories-recurring-revenue.jpg
+    - blurb: >
         <h5>Growing our revenue base</h5>
         <p>The continued net decline in state aid highlights the risk of relying 
         on any one source of revenue. The City protects and grows its revenue base 

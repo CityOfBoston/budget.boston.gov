@@ -41,10 +41,10 @@ components:
       <p>The largest assessments are those of the Charter School Tuition and MBTA. The former 
       has rapidly increased since the enactment of the 2010 legislation that expanded the 
       number of charter school seats.</p>
-  - col: >
+  - col:
     - img: /img/change-net-state-aid.jpg
 - text_col_2:
-  - col: >
+  - col:
     - img: /img/total-net-state-aid-decline.jpg
   - col: >
       <h5>Net state aid trending down</h5>
@@ -71,7 +71,7 @@ components:
       FY17 budgeted net state aid totals $184.1 million and the FY18 Budget assumes a 
       reduction to $175.7 million. The City’s FY18 state aid estimate is based on the 
       Governor’s proposed budget released in January.</p>
-  - col: >
+  - col:
     - img: /img/net-state-aid.jpg
 - grid:
   - grid_title: More budget analysis

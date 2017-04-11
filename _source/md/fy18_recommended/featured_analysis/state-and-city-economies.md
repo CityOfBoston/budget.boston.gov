@@ -49,18 +49,18 @@ components:
 - grid:
   - grid_title: More budget analysis
   - title: National Economy
-      body: >
-        Tempting copy that would make someone click this featured analysis card.
-      img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-      link: /featured-analysis/national-economy/
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/national-economy/
   - title: Commonwealth Budget
-      body: >
-        Tempting copy that would make someone click this featured analysis card.
-      img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-      link: /featured-analysis/commonwealth-budget/
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/commonwealth-budget/
   - title: Revenue Estimates
-      body: >
-        Tempting copy that would make someone click this featured analysis card.
-      img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-      link: /featured-analysis/revenue-estimates/
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/revenue-estimates/
 ---

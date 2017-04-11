@@ -63,7 +63,7 @@ components:
       City of Boston will be left to make difficult budgetary decisions that will impact 
       the quality of life for not only our residents but for the hundreds of thousands more 
       who work and visit this City every day.</p>
-  - col: >
+  - col:
     - img: /img/education-spending-revenue.jpg
 - text_col_2:
   - col: >
