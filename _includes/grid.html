@@ -10,7 +10,11 @@
     {% for item in include.arg %}
       {% if item.title and item.img and item.body %}
       <div class="grid-card desktop-3-col tablet-2-col mobile-1-col">
-        <a href="{{ item.link }}">
+        {% if item.link.external %}
+        <a href="{{ item.link.path }}">
+        {% else %}
+        <a href="{{ site.url }}{{ item.link }}">
+        {% endif %}
           <div class="grid-card__image"> 
             <img typeof="foaf:Image" src="{{ item.img }}" width="720" height="300" alt="{{ item.title }}" title="{{ item.title }}">
           </div>
