@@ -145,9 +145,7 @@ components:
     body: >
       Get a broad understanding of where Boston's revenue comes from.
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: 
-      path: /featured-analysis/revenue-overview/
-      external: true
+    link: /featured-analysis/revenue-overview/
   - title: Property tax
     body: >
       Property taxes provide more than two-thirds of the City's revenue. See the details of this important revenue source.
