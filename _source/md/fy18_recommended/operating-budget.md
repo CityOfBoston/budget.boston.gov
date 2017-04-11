@@ -223,9 +223,9 @@ components:
         name: Charter School Tuition
         link: /operating-budget/charter-school-tuition
       "FY15 Actual": 125.81
-      "FY16 Actual": 157.69
-      "FY17 Budget": 174.95
-      "FY18 Budget": 185.58
+      "FY16 Actual": 142.79
+      "FY17 Budget": 156.83
+      "FY18 Budget": 174.37
     - "Expenditure":
         name: MBTA
         link: /operating-budget/mbta
