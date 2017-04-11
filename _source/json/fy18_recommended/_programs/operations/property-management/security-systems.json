@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Operations",
-  "department":"property-management",
+  "department":"Property Management",
   "file_version":"0.10",
   "head_name":"Bob Slade",
   "head_title":"Manager",
   "name":"Security Systems",
-  "parent":"property-management",
+  "parent":"Property Management",
   "section_id":142,
   "section_md5_id":"A8BAA56554F96369AB93E4F3BB068C22",
   "section_type":"program",

@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Public Safety",
-  "department":"fire-department",
+  "department":"Fire Department",
   "file_version":"0.10",
   "head_name":"John Dempsey",
   "head_title":"Manager",
   "name":"BFD Fire Prevention",
-  "parent":"fire-department",
+  "parent":"Fire Department",
   "section_id":35,
   "section_md5_id":"1C383CD30B7C298AB50293ADFECB7B18",
   "section_type":"program",

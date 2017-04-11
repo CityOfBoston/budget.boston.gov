@@ -40,19 +40,19 @@ components:
       The FY17 and FY18 budget assume the use of $40.0 million to support OPEB.</p>
 - grid:
   - grid_title: More budget analysis
-  - title: Handy dandy title
+  - title: Financial Management
     body: >
       Tempting copy that would make someone click this featured analysis card.
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /#/
-  - title: This one's witty, too
+    link: /financial-management/
+  - title: Other Post-Employment Benefits
     body: >
       Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
-    link: /#/
-  - title: Rumple Stiltskin
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /operating-budget/other-post-employment-benefits/
+  - title: Revenue Overview
     body: >
       Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
-    link: /#/
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/revenue-overview/
 ---

@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Administration and Finance",
-  "department":"registry-division",
+  "department":"Registry Division",
   "file_version":"0.10",
   "head_name":"Jessica Joyce",
   "head_title":"Manager",
   "name":"Depositions",
-  "parent":"registry-division",
+  "parent":"Registry Division",
   "section_id":127,
   "section_md5_id":"EC5DECCA5ED3D6B8079E2E7E7BACC9F2",
   "section_type":"program",

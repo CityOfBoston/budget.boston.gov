@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Administration and Finance",
-  "department":"budget-management",
+  "department":"Budget Management",
   "file_version":"0.10",
   "head_name":"John Hanlon",
   "head_title":"Manager",
   "name":"Capital Budgeting",
-  "parent":"budget-management",
+  "parent":"Budget Management",
   "section_id":242,
   "section_md5_id":"E4A6222CDB5B34375400904F03D8E6A5",
   "section_type":"program",

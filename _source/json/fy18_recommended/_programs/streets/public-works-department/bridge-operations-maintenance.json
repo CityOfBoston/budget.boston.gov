@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Streets",
-  "department":"public-works-department",
+  "department":"Public Works Department",
   "file_version":"0.10",
   "head_name":"Fouad Hamzeh",
   "head_title":"Manager",
   "name":"Bridge Operations/Maintenance",
-  "parent":"public-works-department",
+  "parent":"Public Works Department",
   "section_id":121,
   "section_md5_id":"4C56FF4CE4AAF9573AA5DFF913DF997A",
   "section_type":"program",

@@ -42,8 +42,8 @@ components:
       Budgetary growth is maintained at a responsible level given the need to maintain 
       flexibility in the face of continuing uncertainty at other levels of government. Despite 
       these challenges, the budget makes strong statements about the City’s priorities, as is 
-      reflected in the proposed investments. WHERE IS BUDGET GROWTH GOING
-    right_image: /img/placeholder-300x400.png
+      reflected in the proposed investments.
+    right_image: /img/budget-growth.png
 - text_col_2:
   - col: >
       <h5>Expaning on savings</h5>
@@ -165,7 +165,7 @@ components:
         go to all other City Services (such as Police, Fire, and Public Works) and the Public Health Commission, 
         and the remaining 22% of growth will be consumed by pension, debt service and other fixed cost expenditures.</p>
     - col:
-      - img: /img/placeholder-300x400.png
+      - img: /img/recommended-expenditures.png
 - grid:
   - title: Education overview
     body: >
@@ -262,9 +262,7 @@ components:
   - grid_title: Education
   - title: Extending the school day
     body: >
-      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
-      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
-      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
+      Insert copy 
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
     link: /featured-analysis/extended-school-day/
   - title: Closing opportunity and achievement gaps

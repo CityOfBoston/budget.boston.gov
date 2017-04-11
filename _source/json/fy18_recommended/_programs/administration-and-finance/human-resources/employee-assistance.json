@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Administration and Finance",
-  "department":"human-resources",
+  "department":"Human Resources",
   "file_version":"0.10",
   "head_name":"Vivian Leonard",
   "head_title":"Director",
   "name":"Employee Assistance",
-  "parent":"human-resources",
+  "parent":"Human Resources",
   "section_id":119,
   "section_md5_id":"07E1CD7DCA89A1678042477183B7AC3F",
   "section_type":"program",

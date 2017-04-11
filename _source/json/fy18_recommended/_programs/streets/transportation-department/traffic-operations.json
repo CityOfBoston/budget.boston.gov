@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Streets",
-  "department":"transportation-department",
+  "department":"Transportation Department",
   "file_version":"0.10",
   "head_name":"Bradley Gerratt",
   "head_title":"Manager",
   "name":"Traffic Operations",
-  "parent":"transportation-department",
+  "parent":"Transportation Department",
   "section_id":179,
   "section_md5_id":"8F53295A73878494E9BC8DD6C3C7104F",
   "section_type":"program",

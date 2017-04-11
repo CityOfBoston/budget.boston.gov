@@ -51,7 +51,7 @@ components:
       million and Charter School reimbursements grew by $3 million, or 14%.</p>
 - text_block:
   - title: Education funding
-- text_col_3:
+- text_col_2:
   - col: >
       <h5>State charter school funding</h5>
       <p>While Boston’s charter school assessment has risen by 155% since the enactment 
@@ -63,6 +63,9 @@ components:
       City of Boston will be left to make difficult budgetary decisions that will impact 
       the quality of life for not only our residents but for the hundreds of thousands more 
       who work and visit this City every day.</p>
+  - col:
+    - img: /img/education-spending-revenue.png
+- text_col_2:
   - col: >
       <h5>Education finance reforms</h5>
       <p>Given these challenges, Mayor Walsh is building on his commitment to Boston’s 
@@ -91,4 +94,46 @@ components:
       <li>make transformational education funding available for Boston if the State 
       identifies a new education revenue source.</li>
       </ul>
+- grid: 
+  - grid_title: More budget analysis
+  - title: Revenue Estimates
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/revenue-estimates/
+  - title: State Aid
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/state-aid/
+  - title: Education Aid
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/education-aid/
+  - title: Unrestricted General Government Aid (UGGA)
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/unrestricted-general-govt-aid/
+  - title: State and City Economies
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: /img/fa-state-and-city-economies.jpg
+    link: /featured-analysis/state-and-city-economies/
+  - title: Net State Education Revenue
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/net-state-education-revenue/
+  - title: BPS Long Term Financial Plan
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/bps-long-term-financial-plan/
+  - title: Education Legislation
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/education-legislation/
 ---

@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Information and Technology",
-  "department":"department-of-innovation-and-technology",
+  "department":"Department of Innovation and Technology",
   "file_version":"0.10",
   "head_name":"Andrew Therriault",
   "head_title":"Manager",
-  "name":"Data & Analytics",
-  "parent":"department-of-innovation-and-technology",
+  "name":"Data and Analytics",
+  "parent":"Department of Innovation and Technology",
   "section_id":132,
   "section_md5_id":"65DED5353C5EE48D0B7D48C591B8F430",
   "section_type":"program",

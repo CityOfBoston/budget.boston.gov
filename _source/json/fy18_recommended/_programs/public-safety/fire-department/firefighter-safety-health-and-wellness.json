@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Public Safety",
-  "department":"fire-department",
+  "department":"Fire Department",
   "file_version":"0.10",
   "head_name":"Gregory J. Mackin",
   "head_title":"Manager",
   "name":"Firefighter Safety, Health and Wellness",
-  "parent":"fire-department",
+  "parent":"Fire Department",
   "section_id":268,
   "section_md5_id":"8F121CE07D74717E0B1F21D122E04521",
   "section_type":"program",

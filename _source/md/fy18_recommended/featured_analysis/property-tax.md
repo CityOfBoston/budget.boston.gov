@@ -41,6 +41,22 @@ components:
       Mayor Walsh and the Boston City Council expanded the residential exemption in 
       2017 which lowered Boston homeowner’s property tax in 2017. The change reduced 
       the average property tax bill for single-family, owner occupied homes by $299.</blockquote></p>
+  - col:
+    - img: /img/value-vs-tax-revenue.png
+- text_col_2:
+  - col: >
+      <h5>New growth</h5>
+      <p>During these same years, the levy has also been positively impacted by taxable 
+      new value or “new growth.” New growth can arise from both real and personal property. 
+      Thanks to efforts to attract business development to Boston and grow its housing 
+      stock, Boston experienced unprecedented new growth property tax revenue in FY17, 
+      which is outside of Proposition 2 &frac12;.</p>
+      <p>Last year, the City saw construction projects in the Seaport District, the Longwood 
+      Medical Area and the New Balance headquarters in Brighton Landing enter the tax base. 
+      Residential development, which is linked to Mayor Walsh’s housing production goals, 
+      accounted for 60% of the new growth. New growth is expected to be approximately $50 
+      million in FY18, which is very high compared to historical levels of new growth 
+      seen prior to FY17.</p>
   - col: >
       <h5>Limiting the total property tax levy</h5>
       <p>Proposition 2 &frac12; has been the overwhelming factor affecting the City’s property 
@@ -56,19 +72,8 @@ components:
       by the allowable 2.5%. These increases have grown as the levy has grown, beginning 
       in FY85 at $8.4 million and reaching $50 million in FY18.</p>
 - text_col_2:
-  - col: >
-      <h5>New growth</h5>
-      <p>During these same years, the levy has also been positively impacted by taxable 
-      new value or “new growth.” New growth can arise from both real and personal property. 
-      Thanks to efforts to attract business development to Boston and grow its housing 
-      stock, Boston experienced unprecedented new growth property tax revenue in FY17, 
-      which is outside of Proposition 2 &frac12;.</p>
-      <p>Last year, the City saw construction projects in the Seaport District, the Longwood 
-      Medical Area and the New Balance headquarters in Brighton Landing enter the tax base. 
-      Residential development, which is linked to Mayor Walsh’s housing production goals, 
-      accounted for 60% of the new growth. New growth is expected to be approximately $50 
-      million in FY18, which is very high compared to historical levels of new growth 
-      seen prior to FY17.</p>
+  - col:
+    - img: /img/property-tax-trends.jpg
   - col: >
       <h5>Property tax growth</h5>
       <p>Property tax growth from new growth has exceeded that from the allowable 2.5% 
@@ -109,28 +114,44 @@ components:
       estate market were to depreciate, the City’s lack of proximity to the 2.5% property tax 
       rate threshold will insulate revenues from an immediate shock. However, if values were 
       depressed long enough, future growth of the property tax would be impaired.</p>
-  - col: >
       <h5>Property tax collection rate</h5>
       <p>Tax collection remedies as prescribed by statute are utilized when taxes become 
       delinquent. The City’s ability to secure its right to foreclose by recording its tax 
       title lien at the Registry of Deeds is the most effective tool available for payment 
       enforcement. The property tax collection rate was 99.3% of the FY16 gross 
       tax levy as of June 30, 2016.</p>
+  - col:
+    - img: /img/property-tax-rate-below-levy-ceiling.jpg
 - grid:
   - grid_title: More budget analysis
-  - title: Handy dandy title
+  - title: State Aid
     body: >
       Tempting copy that would make someone click this featured analysis card.
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /#/
-  - title: This one's witty, too
+    link: /featured-analysis/state-aid/
+  - title: Local Receipts
     body: >
       Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
-    link: /#/
-  - title: Rumple Stiltskin
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/local-receipts/
+  - title: Available Funds
     body: >
       Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
-    link: /#/
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/available-funds/
+  - title: Non-recurring Revenue
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/non-recurring-revenue/
+  - title: Revenue Overview
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/revenue-overview/
+  - title: Revenue Estimates
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/revenue-estimates/
 ---

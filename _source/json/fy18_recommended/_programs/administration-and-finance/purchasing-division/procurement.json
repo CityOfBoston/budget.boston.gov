@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Administration and Finance",
-  "department":"purchasing-division",
+  "department":"Purchasing Division",
   "file_version":"0.10",
   "head_name":"Gerard Bonaceto, Kevin Coyne",
   "head_title":"Managers",
   "name":"Procurement",
-  "parent":"purchasing-division",
+  "parent":"Purchasing Division",
   "section_id":145,
   "section_md5_id":"2B24D495052A8CE66358EB576B8912C8",
   "section_type":"program",

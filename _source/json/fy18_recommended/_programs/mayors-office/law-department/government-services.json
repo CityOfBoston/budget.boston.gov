@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Mayor's Office",
-  "department":"law-department",
+  "department":"Law Department",
   "file_version":"0.10",
   "head_name":"Henry C. Luthin",
   "head_title":"Manager",
   "name":"Government Services",
-  "parent":"law-department",
+  "parent":"Law Department",
   "section_id":16,
   "section_md5_id":"C74D97B01EAE257E44AA9D5BADE97BAF",
   "section_type":"program",

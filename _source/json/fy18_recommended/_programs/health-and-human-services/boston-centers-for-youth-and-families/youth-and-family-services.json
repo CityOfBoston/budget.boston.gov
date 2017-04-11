@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Health and Human Services",
-  "department":"boston-centers-for-youth-and-families",
+  "department":"Boston Centers for Youth and Families",
   "file_version":"0.10",
   "head_name":"Christopher Byner",
   "head_title":"Manager",
-  "name":"Youth & Family Services",
-  "parent":"boston-centers-for-youth-and-families",
+  "name":"Youth and Family Services",
+  "parent":"Boston Centers for Youth and Families",
   "section_id":217,
   "section_md5_id":"63DC7ED1010D3C3B8269FAF0BA7491D4",
   "section_type":"program",

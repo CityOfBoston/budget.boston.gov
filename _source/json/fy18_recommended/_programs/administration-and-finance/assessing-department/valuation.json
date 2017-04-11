@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Administration and Finance",
-  "department":"assessing-department",
+  "department":"Assessing Department",
   "file_version":"0.10",
   "head_name":"Gayle Willett",
   "head_title":"Manager",
   "name":"Valuation",
-  "parent":"assessing-department",
+  "parent":"Assessing Department",
   "section_id":12,
   "section_md5_id":"C20AD4D76FE97759AA27A0C99BFF6710",
   "section_type":"program",

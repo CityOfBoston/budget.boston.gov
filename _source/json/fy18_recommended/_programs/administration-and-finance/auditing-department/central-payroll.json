@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Administration and Finance",
-  "department":"auditing-department",
+  "department":"Auditing Department",
   "file_version":"0.10",
   "head_name":"Michael O&rsquo;Keefe",
   "head_title":"Manager",
   "name":"Central Payroll",
-  "parent":"auditing-department",
+  "parent":"Auditing Department",
   "section_id":228,
   "section_md5_id":"74DB120F0A8E5646EF5A30154E9F6DEB",
   "section_type":"program",

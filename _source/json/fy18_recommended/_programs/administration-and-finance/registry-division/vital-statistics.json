@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Administration and Finance",
-  "department":"registry-division",
+  "department":"Registry Division",
   "file_version":"0.10",
   "head_name":"Vacant",
   "head_title":"Manager",
   "name":"Vital Statistics",
-  "parent":"registry-division",
+  "parent":"Registry Division",
   "section_id":126,
   "section_md5_id":"069059B7EF840F0C74A814EC9237B6EC",
   "section_type":"program",

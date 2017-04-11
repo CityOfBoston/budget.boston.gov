@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Mayor's Office",
-  "department":"election-department",
+  "department":"Election Department",
   "file_version":"0.10",
   "head_name":"Sabino Piemonte",
   "head_title":"Manager",
   "name":"Annual Listing",
-  "parent":"election-department",
+  "parent":"Election Department",
   "section_id":163,
   "section_md5_id":"0777D5C17D4066B82AB86DFF8A46AF6F",
   "section_type":"program",

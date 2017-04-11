@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Mayor's Office",
-  "department":"mayors-office",
+  "department":"Mayor's Office",
   "file_version":"0.10",
   "head_name":"Laura Oggeri",
   "head_title":"Manager",
   "name":"Mayor's Communications",
-  "parent":"mayors-office",
+  "parent":"Mayor's Office",
   "section_id":267,
   "section_md5_id":"EDA80A3D5B344BC40F3BC04F65B7A357",
   "section_type":"program",

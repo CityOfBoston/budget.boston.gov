@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Economic Development",
-  "department":"consumer-affairs-and-licensing",
+  "department":"Consumer Affairs and Licensing",
   "file_version":"0.10",
   "head_name":"Christine Pulgini",
   "head_title":"Director",
   "name":"Licensing Board",
-  "parent":"consumer-affairs-and-licensing",
+  "parent":"Consumer Affairs and Licensing",
   "section_id":279,
   "section_md5_id":"D395771085AAB05244A4FB8FD91BF4EE",
   "section_type":"program",

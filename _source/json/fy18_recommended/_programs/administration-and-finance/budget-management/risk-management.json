@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Administration and Finance",
-  "department":"budget-management",
+  "department":"Budget Management",
   "file_version":"0.10",
   "head_name":"Lynda Fraley",
   "head_title":"Manager",
   "name":"Risk Management",
-  "parent":"budget-management",
+  "parent":"Budget Management",
   "section_id":245,
   "section_md5_id":"0266E33D3F546CB5436A10798E657D97",
   "section_type":"program",

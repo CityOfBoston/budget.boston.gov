@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Environment, Energy and Open Space",
-  "department":"parks-and-recreation-department",
+  "department":"Parks and Recreation Department",
   "file_version":"0.10",
   "head_name":"Robert  Rottenbucher, P.E.",
   "head_title":"Manager",
-  "name":"Parks Design & Construction",
-  "parent":"parks-and-recreation-department",
+  "name":"Parks Design and Construction",
+  "parent":"Parks and Recreation Department",
   "section_id":99,
   "section_md5_id":"AC627AB1CCBDB62EC96E702F07F6425B",
   "section_type":"program",

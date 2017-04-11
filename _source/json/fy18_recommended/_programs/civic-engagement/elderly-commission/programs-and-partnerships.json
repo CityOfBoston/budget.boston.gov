@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Civic Engagement",
-  "department":"elderly-commission",
+  "department":"Elderly Commission",
   "file_version":"0.10",
   "head_name":"Melissa Carlson",
   "head_title":"Manager",
-  "name":"Programs & Partnerships",
-  "parent":"elderly-commission",
+  "name":"Programs and Partnerships",
+  "parent":"Elderly Commission",
   "section_id":88,
   "section_md5_id":"2A38A4A9316C49E5A833517C45D31070",
   "section_type":"program",

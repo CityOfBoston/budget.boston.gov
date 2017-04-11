@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Housing and Neighborhood Development",
-  "department":"neighborhood-development",
+  "department":"Neighborhood Development",
   "file_version":"0.10",
   "head_name":Null,
   "head_title":Null,
   "name":"Business Services",
-  "parent":"neighborhood-development",
+  "parent":"Neighborhood Development",
   "section_id":199,
   "section_md5_id":"84D9EE44E457DDEF7F2C4F25DC8FA865",
   "section_type":"program",

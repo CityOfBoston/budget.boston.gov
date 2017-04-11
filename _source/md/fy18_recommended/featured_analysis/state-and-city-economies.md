@@ -21,7 +21,8 @@ components:
     description: >
       The state remains one of the richest in terms of its GDP per capita – $64,017 
       in 2015 – 4th in the nation and 128% of the national average.
-    sidebar_menu: true    
+    right_image: /img/real-gross-product-growth.jpg
+    sidebar_menu: true
 - text_block:
   - title: Unemployment and wages
 - text_col_2:
@@ -47,19 +48,19 @@ components:
       the national average of 3.5%.</blockquote></p>
 - grid:
   - grid_title: More budget analysis
-  - title: Handy dandy title
+  - title: National Economy
     body: >
       Tempting copy that would make someone click this featured analysis card.
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /#/
-  - title: This one's witty, too
+    link: /featured-analysis/national-economy/
+  - title: Commonwealth Budget
     body: >
       Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
-    link: /#/
-  - title: Rumple Stiltskin
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/commonwealth-budget/
+  - title: Revenue Estimates
     body: >
       Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
-    link: /#/
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/revenue-estimates/
 ---

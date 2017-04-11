@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Administration and Finance",
-  "department":"human-resources",
+  "department":"Human Resources",
   "file_version":"0.10",
   "head_name":"Vivian Leonard",
   "head_title":"Manager",
-  "name":"Health Benefits & Insurance",
-  "parent":"human-resources",
+  "name":"Health Benefits and Insurance",
+  "parent":"Human Resources",
   "section_id":118,
   "section_md5_id":"5EF059938BA799AAA845E1C2E8A762BD",
   "section_type":"program",

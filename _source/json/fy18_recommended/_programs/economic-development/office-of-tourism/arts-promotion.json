@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Economic Development",
-  "department":"office-of-tourism",
+  "department":"Office of Tourism",
   "file_version":"0.10",
   "head_name":"Vacant",
   "head_title":"Manager",
   "name":"Arts Promotion",
-  "parent":"office-of-tourism",
+  "parent":"Office of Tourism",
   "section_id":235,
   "section_md5_id":"577EF1154F3240AD5B9B413AA7346A1E",
   "section_type":"program",

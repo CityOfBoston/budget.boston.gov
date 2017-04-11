@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Health and Human Services",
-  "department":"Boston Centers for Youth & Families",
+  "department":"Boston Centers for Youth and Families",
   "file_version":"0.10",
   "head_name":"William Morales",
   "head_title":"Manager",
-  "name":"Administrative & Policy",
-  "parent":"Boston Centers for Youth & Families",
+  "name":"Administrative and Policy",
+  "parent":"Boston Centers for Youth and Families",
   "section_id":220,
   "section_md5_id":"EC8CE6ABB3E952A85B8551BA726A1227",
   "section_type":"program",

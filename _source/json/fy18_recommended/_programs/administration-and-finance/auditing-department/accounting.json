@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Administration and Finance",
-  "department":"auditing-department",
+  "department":"Auditing Department",
   "file_version":"0.10",
   "head_name":"Paul F. Waple",
   "head_title":"Manager",
   "name":"Accounting",
-  "parent":"auditing-department",
+  "parent":"Auditing Department",
   "section_id":227,
   "section_md5_id":"705F2172834666788607EFBFCA35AFB3",
   "section_type":"program",

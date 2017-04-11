@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Non-Mayoral Departments",
-  "department":"city-clerk",
+  "department":"City Clerk",
   "file_version":"0.10",
   "head_name":"Maureen Feeney",
   "head_title":"Manager",
   "name":"Document Filing",
-  "parent":"city-clerk",
+  "parent":"City Clerk",
   "section_id":107,
   "section_md5_id":"A97DA629B098B75C294DFFDC3E463904",
   "section_type":"program",

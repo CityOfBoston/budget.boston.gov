@@ -18,7 +18,6 @@
   "mission":[
     "In FY16, the Public Information Communication Program will be in the Mayor&rsquo;s Office and the 24 Hour/Constituent Engagement Program will be moved to Neighborhood Services."
   ],
-  "selected_performance_strategies":[],
   "operating_budget":{
     "debug":"JPTR",
     "table_type":"Operating Budget",
@@ -92,7 +91,6 @@
       "fy-0":0,
       "fy+1":0
     }
-  ],
-  "authorizing_statutes":[]
+  ]
 }
 ---

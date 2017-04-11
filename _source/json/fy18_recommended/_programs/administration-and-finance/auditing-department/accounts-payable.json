@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Administration and Finance",
-  "department":"auditing-department",
+  "department":"Auditing Department",
   "file_version":"0.10",
   "head_name":"Julie Ann Tippett",
   "head_title":"Manager",
   "name":"Accounts Payable",
-  "parent":"auditing-department",
+  "parent":"Auditing Department",
   "section_id":230,
   "section_md5_id":"6DA9003B743B65F4C0CCD295CC484E57",
   "section_type":"program",

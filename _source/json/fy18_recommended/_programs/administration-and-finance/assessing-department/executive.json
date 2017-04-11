@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Administration and Finance",
-  "department":"assessing-department",
+  "department":"Assessing Department",
   "file_version":"0.10",
   "head_name":"Ronald W. Rakow",
   "head_title":"Commissioner",
   "name":"Executive",
-  "parent":"assessing-department",
+  "parent":"Assessing Department",
   "section_id":14,
   "section_md5_id":"AAB3238922BCC25A6F606EB525FFDC56",
   "section_type":"program",

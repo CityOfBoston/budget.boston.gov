@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Administration and Finance",
-  "department":"budget-management",
+  "department":"Budget Management",
   "file_version":"0.10",
   "head_name":"Mary McCoy",
   "head_title":"Manager",
   "name":"Revenue Monitoring",
-  "parent":"budget-management",
+  "parent":"Budget Management",
   "section_id":244,
   "section_md5_id":"9188905E74C28E489B44E954EC0B9BCA",
   "section_type":"program",

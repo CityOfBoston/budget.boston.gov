@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Administration and Finance",
-  "department":"Administration & Finance",
+  "department":"Administration and Finance",
   "file_version":"0.10",
   "head_name":"David Sweeney",
   "head_title":"Chief Financial Office & Collector Treasurer",
-  "name":"A & F",
-  "parent":"Administration & Finance",
+  "name":"A and F",
+  "parent":"Administration and Finance",
   "section_id":11,
   "section_md5_id":"6512BD43D9CAA6E02C990B0A82652DCA",
   "section_type":"program",

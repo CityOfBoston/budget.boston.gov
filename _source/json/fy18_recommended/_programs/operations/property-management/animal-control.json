@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Operations",
-  "department":"property-management",
+  "department":"Property Management",
   "file_version":"0.10",
   "head_name":"Vacant",
   "head_title":"Manager",
   "name":"Animal Control",
-  "parent":"property-management",
+  "parent":"Property Management",
   "section_id":143,
   "section_md5_id":"903CE9225FCA3E988C2AF215D4E544D3",
   "section_type":"program",

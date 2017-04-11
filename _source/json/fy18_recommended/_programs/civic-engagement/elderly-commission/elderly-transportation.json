@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Civic Engagement",
-  "department":"elderly-commission",
+  "department":"Elderly Commission",
   "file_version":"0.10",
   "head_name":"Michael Killoran",
   "head_title":"Manager",
   "name":"Elderly Transportation",
-  "parent":"elderly-commission",
+  "parent":"Elderly Commission",
   "section_id":87,
   "section_md5_id":"C7E1249FFC03EB9DED908C236BD1996D",
   "section_type":"program",

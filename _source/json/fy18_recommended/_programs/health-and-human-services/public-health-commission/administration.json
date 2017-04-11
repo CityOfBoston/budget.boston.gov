@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Health and Human Services",
-  "department":"public-health-commission",
+  "department":"Public Health Commission",
   "file_version":"0.10",
   "head_name":"Monica Valdes Lupi",
   "head_title":" Executive Director",
   "name":"Administration",
-  "parent":"public-health-commission",
+  "parent":"Public Health Commission",
   "section_id":103,
   "section_md5_id":"6974CE5AC660610B44D9B9FED0FF9548",
   "section_type":"program",

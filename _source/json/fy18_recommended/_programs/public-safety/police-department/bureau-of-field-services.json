@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Public Safety",
-  "department":"police-department",
+  "department":"Police Department",
   "file_version":"0.10",
   "head_name":"William Ridge",
   "head_title":"Manager",
   "name":"Bureau of Field Services",
-  "parent":"police-department",
+  "parent":"Police Department",
   "section_id":42,
   "section_md5_id":"A1D0C6E83F027327D8461063F4AC58A6",
   "section_type":"program",

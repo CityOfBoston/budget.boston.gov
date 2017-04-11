@@ -20,7 +20,7 @@ components:
       into one account - UGGA.
     description: >
       Revenue derived from the State’s lottery now accounts for nearly all funds 
-      dispersed through UGGA. The current distribution of UGGA is a weighted 
+      disbursed through UGGA. The current distribution of UGGA is a weighted 
       average of both Lottery and Additional Assistance distributions of the past. 
       <blockquote>For Boston, the combined accounts totaled $168.6 million in FY15 
       and $174.7 million in FY16. In FY17, the City will receive $182.2 million 
@@ -29,19 +29,19 @@ components:
     sidebar_menu: true    
 - grid:
   - grid_title: More budget analysis
-  - title: Handy dandy title
+  - title: Commonwealth Budget
     body: >
       Tempting copy that would make someone click this featured analysis card.
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /#/
-  - title: This one's witty, too
+    link: /featured-analysis/commonwealth-budget/
+  - title: Revenue Estimates
     body: >
       Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
-    link: /#/
-  - title: Rumple Stiltskin
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/revenue-estimates/
+  - title: Revenue Overview
     body: >
       Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
-    link: /#/
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/revenue-overview/
 ---

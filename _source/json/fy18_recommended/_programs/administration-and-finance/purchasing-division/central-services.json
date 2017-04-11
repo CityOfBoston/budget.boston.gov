@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Administration and Finance",
-  "department":"purchasing-division",
+  "department":"Purchasing Division",
   "file_version":"0.10",
   "head_name":"Kevin Coyne",
   "head_title":"Manager",
   "name":"Central Services",
-  "parent":"purchasing-division",
+  "parent":"Purchasing Division",
   "section_id":146,
   "section_md5_id":"A5E00132373A7031000FD987A3C9F87B",
   "section_type":"program",

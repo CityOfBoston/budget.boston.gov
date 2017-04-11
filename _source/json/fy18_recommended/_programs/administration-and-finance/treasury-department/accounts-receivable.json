@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Administration and Finance",
-  "department":"treasury-department",
+  "department":"Treasury Department",
   "file_version":"0.10",
   "head_name":"Maureen Garceau",
   "head_title":"Manager",
   "name":"Accounts Receivable",
-  "parent":"treasury-department",
+  "parent":"Treasury Department",
   "section_id":190,
   "section_md5_id":"CFECDB276F634854F3EF915E2E980C31",
   "section_type":"program",

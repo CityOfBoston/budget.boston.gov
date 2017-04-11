@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Public Safety",
-  "department":"police-department",
+  "department":"Police Department",
   "file_version":"0.10",
   "head_name":"Paul A. Fitzgerald",
   "head_title":"Manager",
-  "name":"Bureau of Intelligence & Analysis",
-  "parent":"police-department",
+  "name":"Bureau of Intelligence and Analysis",
+  "parent":"Police Department",
   "section_id":251,
   "section_md5_id":"19F3CD308F1455B3FA09A282E0D496F4",
   "section_type":"program",

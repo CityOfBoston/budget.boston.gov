@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Mayor's Office",
-  "department":"public-information",
+  "department":"Public Information",
   "file_version":"0.10",
   "head_name":"Jerome Smith",
   "head_title":"Manager",
   "name":"24 Hour/Constituent Engagement",
-  "parent":"public-information",
+  "parent":"Public Information",
   "section_id":26,
   "section_md5_id":"4E732CED3463D06DE0CA9A15B6153677",
   "section_type":"program",

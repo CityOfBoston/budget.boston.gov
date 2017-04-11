@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Information and Technology",
-  "department":"department-of-innovation-and-technology",
+  "department":"Department of Innovation and Technology",
   "file_version":"0.10",
   "head_name":"Joseph Zeinoun",
   "head_title":"Manager",
   "name":"Enterprise Applications",
-  "parent":"department-of-innovation-and-technology",
+  "parent":"Department of Innovation and Technology",
   "section_id":129,
   "section_md5_id":"D1F491A404D6854880943E5C3CD9CA25",
   "section_type":"program",

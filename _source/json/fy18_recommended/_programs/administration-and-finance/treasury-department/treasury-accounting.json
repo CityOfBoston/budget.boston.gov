@@ -1,12 +1,12 @@
 ---
 {
   "cabinet":"Administration and Finance",
-  "department":"treasury-department",
+  "department":"Treasury Department",
   "file_version":"0.10",
   "head_name":"Marirose Graham",
   "head_title":"Manager",
   "name":"Treasury Accounting",
-  "parent":"treasury-department",
+  "parent":"Treasury Department",
   "section_id":167,
   "section_md5_id":"5878A7AB84FB43402106C575658472FA",
   "section_type":"program",
