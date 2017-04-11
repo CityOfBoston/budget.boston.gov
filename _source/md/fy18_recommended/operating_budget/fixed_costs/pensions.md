@@ -41,8 +41,8 @@ components:
       link: /operating-budget
     columns:
       - "": Pensions
-        "FY15 Actual": 169.62
-        "FY16 Actual": 196.55
+        "FY15 Actual": 169624584
+        "FY16 Actual": 196548695
         "FY17 Budget": 199.28
         "FY18 Budget": 218.21
 ---
