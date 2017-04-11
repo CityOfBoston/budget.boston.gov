@@ -141,6 +141,7 @@ components:
       to manage through changes in state and federal policy and funding levels.</p>  
 - grid:
   - grid_title: Revenue
+  - card: /featured-analysis/revenue-overview/
   - title: Revenue overview
     body: >
       Get a broad understanding of where Boston's revenue comes from.

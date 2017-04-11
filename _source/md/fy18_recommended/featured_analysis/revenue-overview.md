@@ -2,6 +2,12 @@
 layout: bos_content
 permalink: /featured-analysis/revenue-overview/
 title: Revenue overview
+card:
+  - title: Revenue overview
+    body: >
+      Get a broad understanding of where Boston's revenue comes from.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/revenue-overview/
 components:
 - breadcrumbs:
   - title: Home
