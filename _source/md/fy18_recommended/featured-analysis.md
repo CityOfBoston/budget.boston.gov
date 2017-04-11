@@ -30,17 +30,13 @@ components:
 - grid:
   - grid_title: General
   - title: Boston Common
-    subtitle: Downtown
     body: >
-      Two centuries separate the creation of the Boston Common and the Public Garden, 
-      and what a difference that period made.
+      12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 what a difference that makes. 
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
     link: https://boston.gov
-  - title: Another Title
-    subtitle: Subtitle
+  - title: Another Multiple Lined Thingy Title
     body: >
-      New Two centuries separate the creation of the Boston Common and the Public Garden, 
-      and what a difference that period made.
+      12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 what a difference that makes. 
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
     link: https://google.com
   - title: Test

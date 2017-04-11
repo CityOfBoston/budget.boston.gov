@@ -23,21 +23,21 @@
       "program":"Election Administration",
       "debug":"JCO",
       "strategies":[
-        null
+        "Administer Elections in a manner that allows all eligible voters to exercise their right to vote without unreasonable impediments, and in accordance with the applicable laws and regulations"
       ]
     },
     {
       "program":"Annual Listing",
       "debug":"JCO",
       "strategies":[
-        null
+        "Conduct an annual census of all residents age 17 and over. Annually submit a list to the State Jury Commissioner of residents who are eligible to be jurors"
       ]
     },
     {
       "program":"Voter Registration",
       "debug":"JCO",
       "strategies":[
-        null
+        "Encourage and facilitate the registration of eligible voters, with an emphasis on increasing electronic voter registrations"
       ]
     }
   ],

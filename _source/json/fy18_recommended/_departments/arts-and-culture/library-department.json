@@ -23,16 +23,16 @@
       "program":"Community Library Services",
       "debug":"JCO",
       "strategies":[
-        null,
-        null,
-        null
+        "To provide customer satisfaction through daily operations, program events, and special collection events",
+        "To provide improved access to programs, services and collections",
+        "To support improved youth literacy"
       ]
     },
     {
       "program":"Research Services",
       "debug":"JCO",
       "strategies":[
-        null
+        "To provide improved access to programs, services and collections"
       ]
     }
   ],

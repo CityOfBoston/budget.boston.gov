@@ -23,25 +23,25 @@
       "program":"Assessing Operations",
       "debug":"JCO",
       "strategies":[
-        null,
-        null,
-        null
+        "To ensure quality Assessment data",
+        "To resolve taxpayer inquiries responsively and quickly",
+        "To review abatement applications in a timely manner"
       ]
     },
     {
       "program":"Valuation",
       "debug":"JCO",
       "strategies":[
-        null,
-        null,
-        null
+        "Resolve abatement appeal cases",
+        "To ensure quality Assessment data",
+        "To review abatement applications in a timely manner"
       ]
     },
     {
       "program":"Executive",
       "debug":"JCO",
       "strategies":[
-        null
+        "To resolve taxpayer inquiries responsively and quickly"
       ]
     }
   ],

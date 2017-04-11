@@ -23,16 +23,16 @@
       "program":"Litigation",
       "debug":"JCO",
       "strategies":[
-        null,
-        null
+        "To defend the City against legal claims",
+        "To maximize the recovery of funds to the City, including deliquent taxes"
       ]
     },
     {
       "program":"Government services",
       "debug":"JCO",
       "strategies":[
-        null,
-        null
+        "To maximize the recovery of funds to the City, including deliquent taxes",
+        "To provide consultation services that include rendering legal opinions, drafting and approving legal instruments such as contracts, agreements, licensing and indemnity agreements, zoning issues, public record requests and subpoena responses"
       ]
     }
   ],

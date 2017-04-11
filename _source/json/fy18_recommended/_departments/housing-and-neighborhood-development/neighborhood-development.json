@@ -24,26 +24,26 @@
       "program":"Neighborhood Development Administration",
       "debug":"JCO",
       "strategies":[
-        null
+        "Collect loan repayments in a timely manner"
       ]
     },
     {
       "program":"Real Estate Management and Sales",
       "debug":"JCO",
       "strategies":[
-        null
+        "Dispose of tax-foreclosed and surplus property"
       ]
     },
     {
       "program":"Housing Development and Services",
       "debug":"JCO",
       "strategies":[
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
+        "Assist existing homeowners in retaining their homes",
+        "Assist tenants and landlords to preserve their tenancies",
+        "Ensure growth and affordability in Boston's Housing Market",
+        "Foster Homeownership in Boston Neighborhoods",
+        "Help Homeowners Improve their Homes and Communities",
+        "Provide assistance towards ending homelessness in Boston"
       ]
     }
   ],

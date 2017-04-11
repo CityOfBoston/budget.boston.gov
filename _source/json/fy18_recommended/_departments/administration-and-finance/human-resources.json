@@ -23,36 +23,36 @@
       "program":"Personnel",
       "debug":"JCO",
       "strategies":[
-        null,
-        null
+        "Enhanced Employee Experience",
+        "Improved Recruitment Process to Better Meet Needs of COB Departments"
       ]
     },
     {
       "program":"Affirmative Action",
       "debug":"JCO",
       "strategies":[
-        null
+        "Increase Diversity in COB Workforce"
       ]
     },
     {
       "program":"Health Benefits and Insurance",
       "debug":"JCO",
       "strategies":[
-        null
+        "Enhanced Employee Experience"
       ]
     },
     {
       "program":"Employee Assistance",
       "debug":"JCO",
       "strategies":[
-        null
+        "Continued Expansion of Scope of EAP Services"
       ]
     },
     {
       "program":"Workers Comp",
       "debug":"JCO",
       "strategies":[
-        null
+        "Adoption of Case Management Approach in Workers Comp Unit"
       ]
     }
   ],

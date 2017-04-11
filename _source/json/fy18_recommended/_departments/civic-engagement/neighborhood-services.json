@@ -23,21 +23,21 @@
       "program":"Neighborhood Serv",
       "debug":"JCO",
       "strategies":[
-        null
+        "Increase public access to city services"
       ]
     },
     {
       "program":"City Hall to Go",
       "debug":"JCO",
       "strategies":[
-        null
+        "Increase public access to city services"
       ]
     },
     {
       "program":"Boston 311",
       "debug":"JCO",
       "strategies":[
-        null
+        "Maintain a high level of constituent service"
       ]
     }
   ],
