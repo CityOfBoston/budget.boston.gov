@@ -108,7 +108,7 @@ layout: bos_wrapper
       <div id="totalLineChart-wrapper">
         <table class="responsive-table chart-label">
           <th>
-            {{ page.name }} Operating Budget
+            {{ page.name }}<br>Operating Budget Over Time
           </th>
         </table>
         <canvas
@@ -139,7 +139,7 @@ layout: bos_wrapper
     </div>
     <div class="desktop-50">
       <div id="aggregateBarChart-wrapper">
-        <table class="responsive-table chart-label"><th>{{ page.name }} Operating Budget by Department</th></table>
+        <table class="responsive-table chart-label"><th>{{ page.name }} FY18<br>Operating Budget by Program</th></table>
         <canvas
           id="aggregateBarChart"
           class="barChart"
@@ -169,7 +169,7 @@ layout: bos_wrapper
   {% for row in page.operating_budget.data %}
     {% if row.line_type == 'data' %}
       <div class="wi g--4">
-        <table class="responsive-table chart-label"><th>{{ row.line_title }}</th></table>
+        <table class="responsive-table chart-label"><th>{{ row.name }}</th></table>
         <canvas
           id="lineChart"
           class="lineChart"
@@ -259,7 +259,7 @@ layout: bos_wrapper
       <div id="totalLineChart-wrapper">
         <table class="responsive-table chart-label">
           <th>
-            {{ page.name }} Operating Budget
+            {{ page.name }}<br>Operating Budget Over Time
           </th>
         </table>
         <canvas
@@ -290,7 +290,7 @@ layout: bos_wrapper
     </div>
     <div class="desktop-50">
       <div id="aggregateBarChart-wrapper">
-        <table class="responsive-table chart-label"><th>{{ page.name }} Operating Budget by Department</th></table>
+        <table class="responsive-table chart-label"><th>{{ page.name }} FY18<br>Operating Budget by Account</th></table>
         <canvas
           id="aggregateBarChart"
           class="barChart"
@@ -320,7 +320,7 @@ layout: bos_wrapper
   {% for row in page.department_history_by_account.data %}
     {% if row.line_type == 'data' %}
       <div class="wi g--4">
-        <table class="responsive-table chart-label"><th>{{ row.name }}</th></table>
+        <table class="responsive-table chart-label"><th>{{ row.line_title }}</th></table>
         <canvas
           id="lineChart"
           class="lineChart"

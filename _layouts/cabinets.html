@@ -97,6 +97,11 @@ layout: bos_wrapper
 </table>
 <br /><br />
 
+{% comment %}
+**********************
+*** Department Charts ***
+**********************
+{% endcomment %}
 <div class="sh desktop-100">
   <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
     Cabinet trends
@@ -109,7 +114,7 @@ layout: bos_wrapper
   <div id="totalLineChart-wrapper">
     <table class="responsive-table chart-label">
       <th>
-        {{ page.external_funds_tables.data[-1].total }} {{ page.name }} Operating Budget
+        {{ page.name }}<br>Operating Budget Over Time
       </th>
     </table>
     <canvas
@@ -138,7 +143,7 @@ layout: bos_wrapper
 <div class="desktop-50">
   <div id="aggregateBarChart-wrapper">
     <table class="responsive-table chart-label">
-      <th>{{ page.name }} Operating Budget by Department</th>
+      <th>{{ page.name }} FY18<br>Operating Budget by Department</th>
     </table>
     <canvas
       id="aggregateBarChart"
