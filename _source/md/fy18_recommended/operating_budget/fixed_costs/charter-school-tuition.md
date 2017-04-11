@@ -42,8 +42,8 @@ components:
       link: /operating-budget
     columns:
       - "Cabinet": Charter School Tuition
-        "FY15 Actual": $110.66
-        "FY16 Actual": $125.81
-        "FY17 Budget": $146.86
-        "FY18 Budget": $156.81
+        "FY15 Actual": 125.81
+        "FY16 Actual": 142.79
+        "FY17 Budget": 156.83
+        "FY18 Budget": 174.37
 ---
