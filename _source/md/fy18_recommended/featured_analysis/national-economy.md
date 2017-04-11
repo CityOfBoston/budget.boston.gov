@@ -32,7 +32,7 @@ components:
       the housing sector has gained steam and other economic variables seem to be 
       stabilizing and beginning to grow.</p>
 - text_col_2:
-  - col: >
+  - col: 
     - blurb: >
         <h5>Gross Domestic Product</h5>
         <p>Overall economic value as measured by real Gross Domestic Product (GDP) has been 

@@ -19,7 +19,8 @@ components:
       appropriations to maintain a balanced budget.
     description: >
       Local sources continue to drive revenue growth in FY18, as property 
-      tax and local receipts make up 93% of revenue growth over FY17. 
+      tax and local receipts make up 93% of revenue growth over FY17.
+    right_image: /img/fy18-estimated-revenue.jpg
     sidebar_menu: true    
 - text_block:
   - title: Breaking down revenue
@@ -34,7 +35,9 @@ components:
         <p>Net State Aid (state aid net of assessments) is budgeted to decline 
         as continued increases in state assessments for charter school tuition 
         surpass stagnant budgeted state revenue.</p>
-    - col: >
+    - col: 
+      - img: /img/categories-recurring-revenue.jpg
+      - blurb: >
         <h5>Growing our revenue base</h5>
         <p>The continued net decline in state aid highlights the risk of relying 
         on any one source of revenue. The City protects and grows its revenue base 
@@ -50,19 +53,34 @@ components:
         </ul>
 - grid:
   - grid_title: More budget analysis
-  - title: Handy dandy title
+  - title: Property Tax
     body: >
       Tempting copy that would make someone click this featured analysis card.
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /#/
-  - title: This one's witty, too
+    link: /featured-analysis/property-tax/
+  - title: State Aid
     body: >
       Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
-    link: /#/
-  - title: Rumple Stiltskin
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/state-aid/
+  - title: Local Receipts
     body: >
       Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
-    link: /#/
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/local-receipts/
+  - title: Available Funds
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/available-funds/
+  - title: Non-recurring Revenue
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/non-recurring-revenue/
+  - title: Revenue Overview
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/revenue-overview/
 ---
