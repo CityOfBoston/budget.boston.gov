@@ -41,8 +41,8 @@ components:
       link: /operating-budget
     columns:
       - "Category": Totals
-        "FY15 Actual": $148.01
-        "FY16 Actual": $157.69
-        "FY17 Budget": $174.95
-        "FY18 Budget": $185.58
+        "FY15 Actual": 148.01
+        "FY16 Actual": 157.69
+        "FY17 Budget": 174.95
+        "FY18 Budget": 185.58
 ---
