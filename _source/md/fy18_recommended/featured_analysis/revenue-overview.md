@@ -44,10 +44,10 @@ components:
       FY18, that growth is offset by sluggish and unpredictable state revenue 
       growth.</p>
   - col: 
-    - img: /img/categories-recurring-revenue.jpg
+    - img: /img/categories-recurring-revenue.png
 - text_col_2:
   - col: 
-    - img: /img/education-spending-revenue.jpg
+    - img: /img/education-spending-revenue.png
   - col: >
       <h5>Education spending</h5>
       <p>The share of net property tax has increased dramatically since FY08 

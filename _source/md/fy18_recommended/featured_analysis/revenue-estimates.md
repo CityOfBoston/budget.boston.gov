@@ -36,7 +36,7 @@ components:
       as continued increases in state assessments for charter school tuition 
       surpass stagnant budgeted state revenue.</p>
   - col: 
-    - img: /img/categories-recurring-revenue.jpg
+    - img: /img/categories-recurring-revenue.png
     - blurb: >
         <h5>Growing our revenue base</h5>
         <p>The continued net decline in state aid highlights the risk of relying 

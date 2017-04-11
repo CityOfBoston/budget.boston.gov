@@ -64,7 +64,7 @@ components:
       the quality of life for not only our residents but for the hundreds of thousands more 
       who work and visit this City every day.</p>
   - col:
-    - img: /img/education-spending-revenue.jpg
+    - img: /img/education-spending-revenue.png
 - text_col_2:
   - col: >
       <h5>Education finance reforms</h5>

@@ -42,7 +42,7 @@ components:
       2017 which lowered Boston homeowner’s property tax in 2017. The change reduced 
       the average property tax bill for single-family, owner occupied homes by $299.</blockquote></p>
   - col:
-    - img: /img/value-vs-tax-revenue.jpg
+    - img: /img/value-vs-tax-revenue.png
 - text_col_2:
   - col: >
       <h5>New growth</h5>
