@@ -6,8 +6,7 @@ components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - title: Featured Analysis
     url: "/featured-analysis/"
   - current: BPS Long Term Financial Plan

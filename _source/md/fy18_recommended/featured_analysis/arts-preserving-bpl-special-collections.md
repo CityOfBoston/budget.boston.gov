@@ -6,8 +6,7 @@ components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - title: Featured Analysis
     url: "/featured-analysis/"
   - current: Preserving Boston Public Library's Special Collections

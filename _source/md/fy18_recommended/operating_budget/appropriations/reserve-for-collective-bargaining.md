@@ -1,21 +1,19 @@
 ---
 layout: bos_content
-permalink: /operating-budget/reserve-for-collective-bargaining/
-title: Reserve for collective bargaining
+permalink: /operating-budget/reserves-for-collective-bargaining/
+title: Reserves for collective bargaining
 components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
     local: true
   - title: Operating Budget
     url: "/operating-budget/"
     local: true
-  - current: Reserve for collective bargaining
+  - current: Reserves for collective bargaining
   - published: 4/13/17
 - intro:
-  - title:
+  - title: Reserves for collective bargaining
     short_desc: >
       Collective bargaining is The process of negotiations between the City administration and bargaining units (unions) regarding the salary and fringe benefits of city employees.
     description: >
