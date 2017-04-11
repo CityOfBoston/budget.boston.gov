@@ -13,18 +13,15 @@ components:
 - intro:
   - title: Operating Budget
     short_desc: >
-      The FY18 Recommend Operating Budget totals $3.14 billion and represents an 
-      increase of $144 million or 4.8% over FY17. The FY18 budget continues the City’s 
-      record of strong fiscal management. Expanding on savings initiatives launched 
-      during Mayor Walsh’s Administration to offset growth in fixed costs. The FY18 
-      budget features data-driven investments in a thriving, healthy and innovative city.
-    description: >
-      On the expenditure side, the FY18 budget reflects an increase of $144 million or 
-      4.8% over the FY17 budget. Of that growth, 40% is dedicated to education (including 
-      Boston Public Schools and Charter School Tuition Assessment), 38% will go to all other 
-      City Services (such as Police, Fire, and Public Works) and the Public Health 
-      Commission, and the remaining 22% of growth will be consumed by pension, debt service 
-      and other fixed cost expenditures.
+      The FY18 Recommended Operating Budget totals $3.14 billion and represents an increase of $144 million or 4.8% over FY17. The FY18 budget continues the City’s record of strong fiscal management. Expanding on savings initiatives launched during Mayor Walsh’s Administration to offset growth in fixed costs. The FY18 budget features data-driven investments in a thriving, healthy, and innovative city.
+- text_col_2: 
+  - col: >
+      <h5>Revenue</h5>
+      <p>Local sources continue to drive revenue growth in FY18, as property tax and local receipts make up 93% of revenue growth over FY17. While the City is expected to experience continued robust property tax growth in FY18, overall revenue growth is expected to be hampered by sluggish state revenue growth. State revenue, the City’s second largest revenue source, never recovered following the last recession, and in FY18, Boston’s state revenue is budgeted to grow at 2.5% over FY17. Net State Aid (state aid net of assessments) is budgeted to decline as continued increases in state assessments for charter school tuition surpass stagnant budgeted state revenue.
+      </p>
+  - col: >
+      <h5>Expenditures</h5>
+      On the expenditure side, the FY18 budget reflects an increase of $144 million or 4.8% over the FY17 budget. Of that growth, 40% is dedicated to education (including Boston Public Schools and Charter School Tuition Assessment), 38% will go to all other City Services (such as Police, Fire, and Public Works) and the Public Health Commission, and the remaining 22% of growth will be consumed by pension, debt service and other fixed cost expenditures.
     sidebar_menu: true
 - table:
   - title: Budget summary
@@ -268,75 +265,52 @@ components:
       "FY18 Budget": 3,139.79
 - text_block:
   - title: Overview
-    body: >
+- text_col_2:
+  - col: >
+      <h5>Revenues</h5>
+      <p>The City’s projected revenues provide the basis for planning FY18 appropriations to maintain a balanced budget. Selected FY18 budgeted City revenues compare with FY17 budgeted revenues as follows: the net property tax levy increases $110.7 million or 5.4%; excises increase $720 thousand or 0.4%; miscellaneous department revenues increase by $9.7 million or 17.4%; licenses and permits increase by $3.5 million or 5.6%, and state aid increases by $10.7 million or 2.5%.</p>
+      <h5>Expenditures</h5>
       <p>On the expenditure side of the budget, total appropriations increase 
       by $94.1 million or 4.0% and fixed costs increase by $49.6 million or 
       8.0%. Selected FY18 budgeted appropriations compare with FY17 budgeted 
-      appropriations as follows: City Appropriations increase $32.0 million or 
-      2.7%; the Boston Public Health Commission increases by $1.8 million or 
-      2.3%; and the School Department increases $29.2 million or 2.8%. In 
+      appropriations as follows: City Appropriations increase $32.0 million or 2.7%; the Boston Public Health Commission increases by $1.8 million or 2.3%; and the School Department increases $29.2 million or 2.8%. In 
       addition, collective bargaining reserves are set aside for the School 
       Department at $20 million and City Departments at $27 million; when 
       collective bargaining agreements are negotiated, these reserves will be 
       used to cover those increased costs. Within City Appropriations, actual 
-      City Departments are increasing by $25.6 million or 2.7% over FY17. These 
-      departmental increases are low relative to other years due to the 
-      expiration of nearly all collective bargaining agreements, 11 central 
-      appropriations, including a large  appropriation for Health Insurance 
-      totaling $216.9 million which is increasing by $10.6 million or 5.2% and 
-      is also included within City Appropriations.</p>
-      <p>FY18 budgeted fixed costs are increasing by $49.6 million and compare 
-      with FY17 budgeted fixed costs as follows: Pensions increase $18.9 million 
-      or 9.5%; Debt Service increases $10.6 million or 6.1%; Charter School 
-      Tuition state assessment increases $17.5 million or 11.2%; MBTA state 
-      assessment increases by $0.8 million or 1.0%; and other state assessments 
-      increases $69 thousand or 1.5%.</p>
+      City Departments are increasing by $25.6 million or 2.7% over FY17.</p>
+  - col: >
+      <p>These departmental increases are low relative to other years due to the expiration of nearly all collective bargaining agreements, 11 central appropriations, including a large  appropriation for Health Insurance totaling $216.9 million which is increasing by $10.6 million or 5.2% and is also included within City Appropriations.</p>
+      <p>FY18 budgeted fixed costs are increasing by $49.6 million and compare with FY17 budgeted fixed costs as follows: Pensions increase $18.9 million or 9.5%; Debt Service increases $10.6 million or 6.1%; Charter School Tuition state assessment increases $17.5 million or 11.2%; MBTA state assessment increases by $0.8 million or 1.0%; and other state assessments increases $69 thousand or 1.5%.</p>
 - text_block:
   - title: Expenditures
     body: >
-      Expenditures are broken down into two primary groups: (1) appropriations 
-      directly related to departmental services and (2) fixed and mandated costs. 
-      FY18 appropriations are subdivided into three subgroups as follows:
+      Expenditures are broken down into two primary groups: (1) appropriations directly related to departmental services and (2) fixed and mandated costs. FY18 appropriations are subdivided into three subgroups as follows:
       <ul>
       <li>City Appropriations, which includes all operating department 
       appropriations, centrally budgeted costs such as health insurance and 
-      Medicare, a risk retention reserve and a set-aside for tax title and annual 
-      audit expenses;</li>
-      <li>Boston Public Health Commission (PHC), the City appropriation for the 
-      quasi-independent authority and successor to the Department of Health and 
-      Hospitals;</li>
+      Medicare, a risk retention reserve and a set-aside for tax title and annual audit expenses;</li>
+      <li>Boston Public Health Commission (PHC), the City appropriation for the quasi-independent authority and successor to the Department of Health and Hospitals;</li>
       <li>and School Department, the City appropriation for the Boston Public 
       Schools (BPS).</li>
       </ul>
-      Appropriations are also presented by expenditure category across the three 
-      subgroups.
-      <br /><br />
-      Personnel Services include salaries, overtime, unemployment compensation 
-      and workers’ compensation, and collective bargaining reserves for estimated 
-      wage increases for union employees whose agreements are not settled. Most 
-      of the City’s collective bargaining agreements expired in FY17.
+      Appropriations are also presented by expenditure category across the three subgroups. (Figure 6)
+- text_col_2: 
+  - col: 
+    - img: /img/featured_analysis/pages/fy18-appropriations-by-category.png
+  - col: >
+      Personnel Services include salaries, overtime, unemployment compensation and workers’ compensation, and collective bargaining reserves for estimated wage increases for union employees whose agreements are not settled. Most of the City’s collective bargaining agreements expired in FY17.
       <br /><br />
       Negotiations for successor agreements are ongoing. Avoiding arbitration, 
       the City and the Boston Police Patrolmen’s Association agreed to a new 
       contract through June 30, 2020.  The agreement includes annual general 
-      wage increases of 2%, other benefit enhancements, and full restoration of 
-      Quinn Bill benefits reduced by the State in 2009.
+      wage increases of 2%, other benefit enhancements, and full restoration of Quinn Bill benefits reduced by the State in 2009.
       <br /><br />
-      The Health Benefits category includes the cost of health, dental and life 
-      insurance for City, BPS and PHC employees and retirees, employer Medicare 
-      payroll taxes, and the appropriation for Other Post-Employment Benefits (OPEB).
+      The <a href="/featured-analysis/health-benefits/">Health Benefits category</a> includes the cost of health, dental and life insurance for City, BPS and PHC employees and retirees, employer Medicare payroll taxes, and the appropriation for Other Post-Employment Benefits (OPEB).
       <br /><br />
-      The Contractual Services category includes expenditures for communications, 
-      repairs and service to buildings, equipment and vehicles, transportation, 
-      trash collection and disposal, as well as outside legal, advertising, and 
-      printing expenses.
+      The Contractual Services category includes expenditures for communications, repairs and service to buildings, equipment and vehicles, transportation, trash collection and disposal, as well as outside legal, advertising, and printing expenses.
       <br /><br />
-      Included in the “Other” category are supplies and materials such as gasoline, 
-      uniform allowances, office supplies, workers’ compensation medical expenses, 
-      medical indemnification in the Fire and Police Departments, legal liabilities, 
-      and aid to veterans. Also included in the “Other” category are appropriations 
-      for equipment, vehicles, a risk retention reserve, the Housing Trust Fund, 
-      tax title, and funding for the City’s outside audit.
+      Included in the “Other” category are supplies and materials such as gasoline, uniform allowances, office supplies, workers’ compensation medical expenses, medical indemnification in the Fire and Police Departments, legal liabilities, and aid to veterans. Also included in the “Other” category are appropriations for equipment, vehicles, a risk retention reserve, the Housing Trust Fund, tax title, and funding for the City’s outside audit.
 - text_block:
   - title: More resources
     body: >
