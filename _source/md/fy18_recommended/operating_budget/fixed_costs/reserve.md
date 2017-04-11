@@ -32,8 +32,8 @@ components:
     right_text: (numbers in millions)
     columns:
       - "": Reserve
-        "FY15 Actual": $0.43
-        "FY16 Actual": $0.92
-        "FY17 Budget": $0.21
-        "FY18 Budget": $0.74
+        "FY15 Actual": 0.92
+        "FY16 Actual": 0.99
+        "FY17 Budget": 0.00
+        "FY18 Budget": 1.00
 ---
