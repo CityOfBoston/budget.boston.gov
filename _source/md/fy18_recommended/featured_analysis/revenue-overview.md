@@ -25,8 +25,8 @@ components:
       taxes, and license and permit revenue lead local revenue growth 
       and are driven by an expanding economy. <blockquote>Ninety-three 
       percent of tax revenue growth is from locally derived sources such 
-      as property tax and other local revenue.</blockquote> CATEGORIES OF RECURRING REVENUE GRAPH
-    right_image: /img/placeholder-300x400.png
+      as property tax and other local revenue.</blockquote>
+    right_image: /img/fy18-estimated-revenue.jpg
     sidebar_menu: true 
 - text_col_2:
   - col: >
@@ -44,14 +44,10 @@ components:
       FY18, that growth is offset by sluggish and unpredictable state revenue 
       growth.</p>
   - col: 
-    - img: /img/placeholder-300x400.png
-    - blurb: >
-        ASSESSED VALUE AND NET PROPERTY TAX GROWTH
+    - img: /img/categories-recurring-revenue.jpg
 - text_col_2:
   - col: 
-    - img: /img/placeholder-300x400.png
-    - blurb: >
-        EDUCATION SPENDING AND REVENUE
+    - img: /img/education-spending-revenue.jpg
   - col: >
       <h5>Education spending</h5>
       <p>The share of net property tax has increased dramatically since FY08 
@@ -110,19 +106,24 @@ components:
       reimbursements.</p>
 - grid:
   - grid_title: More budget analysis
-  - title: Handy dandy title
+  - title: National Economy
     body: >
       Tempting copy that would make someone click this featured analysis card.
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /#/
-  - title: This one's witty, too
+    link: /featured-analysis/national-economy/
+  - title: State and City Economies
     body: >
       Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
-    link: /#/
-  - title: Rumple Stiltskin
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/state-and-city-economies/
+  - title: Commonwealth Budget
     body: >
       Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
-    link: /#/
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/commonwealth-budget/
+  - title: Revenue Estimates
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/revenue-estimates/
 ---
