@@ -28,18 +28,18 @@ components:
       link: /operating-budget
     columns:
       - "Reserve destination": Boston Public Schools
-        "FY15 Actual": $5.64
-        "FY16 Actual": $10.79
-        "FY17 Budget": $0.02
-        "FY18 Budget": $13.30
+        "FY15 Actual": 0.00
+        "FY16 Actual": 0.00
+        "FY17 Budget": 9.00
+        "FY18 Budget": 20.00
       - "Reserve destination": All other City unions
-        "FY15 Actual": $5.64
-        "FY16 Actual": $10.79
-        "FY17 Budget": $0.02
-        "FY18 Budget": $13.30
+        "FY15 Actual": 10.79
+        "FY16 Actual": 0.02
+        "FY17 Budget": 7.00
+        "FY18 Budget": 27.00
       - "Reserve destination": Totals
-        "FY15 Actual": $5.64
-        "FY16 Actual": $10.79
-        "FY17 Budget": $0.02
-        "FY18 Budget": $13.30
+        "FY15 Actual": 10.79
+        "FY16 Actual": 0.02
+        "FY17 Budget": 16.00
+        "FY18 Budget": 47.00
 ---
