@@ -35,21 +35,47 @@ components:
       <p>The City collected parking fine revenue of $57.1 million in FY15 and $57.8 
       in FY16. Parking fine revenue is expected to exceed the $57.0 million budgeted 
       in FY17 and reach $61.3 million in FY18.</p>
+    right_image: /img/recurring-local-receipts.jpg
 - grid:
   - grid_title: More budget analysis
-  - title: Handy dandy title
+  - title: Revenue Estimates
     body: >
       Tempting copy that would make someone click this featured analysis card.
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /#/
-  - title: This one's witty, too
+    link: /featured-analysis/revenue-estimates/
+  - title: Local Receipts
     body: >
       Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
-    link: /#/
-  - title: Rumple Stiltskin
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/local-receipts/
+  - title: Interest on Investments
     body: >
       Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
-    link: /#/
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/interest-on-investments/
+  - title: Payments In Lieu Of Taxes
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: /img/fa-payments-in-lieu-of-taxes.jpg
+    link: /featured-analysis/payments-in-lieu-of-taxes/
+  - title: Urban Redevelopment Ch. 121A
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: /img/fa-urban-redevelopment-ch-121a.jpg
+    link: /featured-analysis/urban-redevelopment-ch-121a/
+  - title: Miscellaneous Department Revenue
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/misc-dept-revenue/
+  - title: Licenses and Permits
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/licences-and-permits/
+  - title: Penalties and Interest
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/penalties-and-interest/
 ---
