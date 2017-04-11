@@ -124,6 +124,18 @@ Revenue
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
     link: /featured-analysis/penalties-and-interest/
 
+  - title: Financial Management
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /financial-management/
+
+  - title: Other Post-Employment Benefits
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /operating-budget/other-post-employment-benefits/
+
 ***********
 Education
 ***********
