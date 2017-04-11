@@ -26,6 +26,30 @@
           </div>
         </a>
       </div>
+      {% elsif item.card %}
+        {% for pg in site.pages %}
+          {% if pg.permalink == item.card %}
+            {% if pg.card %}
+              <div class="grid-card desktop-3-col tablet-2-col mobile-1-col">
+                {% if pg.card[0].link.external %}
+                <a href="{{ pg.card[0].link.path }}">
+                {% else %}
+                <a href="{{ site.url }}{{ pg.card[0].link }}">
+                {% endif %}
+                  <div class="grid-card__image"> 
+                    <img typeof="foaf:Image" src="{{ pg.card[0].img }}" width="720" height="300" alt="{{ pg.card[0].title }}" title="{{ pg.card[0].title }}">
+                  </div>
+                  <div class="grid-card__text">
+                    <h3 class="grid-card__title">{{ pg.card[0].title }}</h3>
+                    <div class="grid-card__description">
+                      <div class="intro-text">{{ pg.card[0].body | truncate: 105 }}</div>
+                    </div>
+                  </div>
+                </a>
+              </div>
+            {% endif %}
+          {% endif %}
+        {% endfor %}
       {% endif %}
     {% endfor %}
   </div>
