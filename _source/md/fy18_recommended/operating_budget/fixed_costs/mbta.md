@@ -46,8 +46,8 @@ components:
       link: /operating-budget
     columns:
       - "": MBTA
-        "FY15 Actual": $79.15
-        "FY16 Actual": $81.27
-        "FY17 Budget": $83.00
-        "FY18 Budget": $83.82
+        "FY15 Actual": 81.27
+        "FY16 Actual": 83.00
+        "FY17 Budget": 83.82
+        "FY18 Budget": 85.81
 ---
