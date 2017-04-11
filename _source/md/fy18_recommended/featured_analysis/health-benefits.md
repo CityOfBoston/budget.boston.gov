@@ -6,6 +6,7 @@ components:
 - breadcrumbs:
   - title: Home
     url: "/"
+    local: true
   - title: Featured Analysis
     url: "/featured-analysis/"
   - current: Health Benefits
@@ -150,7 +151,7 @@ components:
         filter: percent
 - text_block: 
     body: >
-    * budget estimates
+      budget estimates
 - table:
   - title: Healthplan Subscribers Feb 2017
     columns:

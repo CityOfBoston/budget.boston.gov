@@ -49,7 +49,7 @@ components:
     columns:
     - "Source": 
         name: Property Tax
-        link: /featured-analysis/property-tax
+        link: /featured-analysis/property-tax/
       "FY15 Actual": 1,875.15
       "FY16 Actual": 1,963.09
       "FY17 Budget": 2,086.68
