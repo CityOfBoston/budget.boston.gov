@@ -105,9 +105,9 @@ components:
         "FY17 Budget": $
         "FY18 Budget": $
       - "Assessment": Totals
-        "FY15 Actual": $4.25
-        "FY16 Actual": $4.58
-        "FY17 Budget": $4.65
-        "FY18 Budget": $4.72
+        "FY15 Actual": 4.58
+        "FY16 Actual": 4.79
+        "FY17 Budget": 5.15
+        "FY18 Budget": 4.71
 ---
 THIS NEEDS HELP FROM OBM ON WHAT TO DO W/THE CONTENT
