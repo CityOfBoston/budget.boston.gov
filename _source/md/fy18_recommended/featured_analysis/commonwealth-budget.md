@@ -121,4 +121,19 @@ components:
       Tempting copy that would make someone click this featured analysis card.
     img: /img/fa-state-and-city-economies.jpg
     link: /featured-analysis/state-and-city-economies/
+  - title: Net State Education Revenue
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/net-state-education-revenue/
+  - title: BPS Long Term Financial Plan
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/bps-long-term-financial-plan/
+  - title: Education Legislation
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/education-legislation/
 ---

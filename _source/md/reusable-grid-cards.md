@@ -1,6 +1,9 @@
 - grid:
   - grid_title: More budget analysis
 
+***********
+Revenue
+***********
   - title: National Economy
     body: >
       Tempting copy that would make someone click this featured analysis card.
@@ -73,8 +76,71 @@
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
     link: /featured-analysis/revenue-overview/
 
-  - title: Local Receipts
+  - title: Excise Taxes
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: /img/excise-taxes.jpg
+    link: /featured-analysis/excise-taxes/
+
+  - title: Parking Fines
     body: >
       Tempting copy that would make someone click this featured analysis card.
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/------/
+    link: /featured-analysis/parking-fines/
+
+  - title: Interest on Investments
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/interest-on-investments/
+
+  - title: Payments In Lieu Of Taxes
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: /img/fa-payments-in-lieu-of-taxes.jpg
+    link: /featured-analysis/payments-in-lieu-of-taxes/
+
+  - title: Urban Redevelopment Ch. 121A
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: /img/fa-urban-redevelopment-ch-121a.jpg
+    link: /featured-analysis/urban-redevelopment-ch-121a/
+
+  - title: Miscellaneous Department Revenue
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/misc-dept-revenue/
+
+  - title: Licenses and Permits
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/licences-and-permits/
+
+  - title: Penalties and Interest
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/penalties-and-interest/
+
+***********
+Education
+***********
+  - title: Net State Education Revenue
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/net-state-education-revenue/
+
+  - title: BPS Long Term Financial Plan
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: fa-bps-long-term-financial-plan.jpg
+    link: /featured-analysis/bps-long-term-financial-plan/
+
+  - title: Education Legislation
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: /img/fa-education-legislation.jpg
+    link: /featured-analysis/education-legislation/

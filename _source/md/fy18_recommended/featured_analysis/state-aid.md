@@ -29,7 +29,7 @@ components:
     sidebar_menu: true    
 - text_block:
   - title: State aid overview
-- text_col_3:
+- text_col_2:
   - col: >
       <h5>Municipal Charges</h5>
       <p>“Municipal Charges”, also known as, “State Assessments” are charged by the 
@@ -42,18 +42,24 @@ components:
       has rapidly increased since the enactment of the 2010 legislation that expanded the 
       number of charter school seats.</p>
   - col: >
+    - img: /img/change-net-state-aid.jpg
+- text_col_2:
+  - col: >
+    - img: /img/total-net-state-aid-decline.jpg
+  - col: >
       <h5>Net state aid trending down</h5>
       <p>Net state aid, which is gross state aid revenue minus state assessments, has been 
       trending down steeply since FY02. The rapid annual increase in the Charter School 
       Tuition Assessment, combined with reductions in education and general government aid, 
       contributed to this trend. State aid has been reduced substantially over the course 
       of the last two recessions. Since FY02, net state aid (defined as state aid revenues 
-      less state assessments) to the City has been reduced by over $252 million or 59%. The 
-      City lost approximately $79 million between FY03 and FY05, gained approximately $16
+      less state assessments) to the City has been reduced by over $252 million or 59%.
+      The City lost approximately $79 million between FY03 and FY05, gained approximately $16
       million between FY06 and FY08. <blockquote>With a decrease in net state aid for FY18, 
       Boston is $189 million, or 52%, below its FY08 level of net state aid of $365 million. 
       For FY18, net state aid is expected to decline by $8.4 million 
       or 4.6% from FY17.</blockquote></p>
+- text_col_2:
   - col: >
       <h5>Pressure on local revenue sources</h5>
       <p>This loss of resources has put extraordinary pressure on the property tax and 
@@ -65,21 +71,33 @@ components:
       FY17 budgeted net state aid totals $184.1 million and the FY18 Budget assumes a 
       reduction to $175.7 million. The City’s FY18 state aid estimate is based on the 
       Governor’s proposed budget released in January.</p>
+  - col: >
+    - img: /img/net-state-aid.jpg
 - grid:
   - grid_title: More budget analysis
-  - title: Handy dandy title
+  - title: Education Aid
     body: >
       Tempting copy that would make someone click this featured analysis card.
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /#/
-  - title: This one's witty, too
+    link: /featured-analysis/education-aid/
+  - title: Unrestricted General Government Aid (UGGA)
     body: >
       Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
-    link: /#/
-  - title: Rumple Stiltskin
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/unrestricted-general-govt-aid/
+  - title: Revenue Estimates
     body: >
       Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
-    link: /#/
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/revenue-estimates/
+  - title: Net State Education Revenue
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/net-state-education-revenue/
+  - title: Education Legislation
+    body: >
+      Tempting copy that would make someone click this featured analysis card.
+    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
+    link: /featured-analysis/education-legislation/
 ---
