@@ -44,7 +44,7 @@ components:
         <p>The City expects to transfer $22.5 million from the parking meter fund to the 
         general fund in FY17 and FY18. The City also plans to transfer $950 thousand 
         from the cemetery trust fund to the General Fund in FY17 and in FY18.</p>
-    - img: /img/recurring-local-receipts.jpg
+    - img: /img/recurring-local-receipts.png
 - grid:
   - grid_title: More budget analysis
   - title: Financial Management

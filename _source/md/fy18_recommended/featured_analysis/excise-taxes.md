@@ -77,7 +77,7 @@ components:
         the previous quarter, but not less than five cents per gallon. Increases in 
         fuel prices lead to increased jet fuel excise revenue. Jet fuel prices have 
         decreased sharply from their peak in FY12:</p>
-    - img: /img/recurring-local-receipts.jpg
+    - img: /img/recurring-local-receipts.png
     - blurb: > 
         <ul>
         <li>Jet fuel excise revenue totaled $29.7 million in FY15 and $36.8 million in FY16 due to a late payment from FY15.</li>
