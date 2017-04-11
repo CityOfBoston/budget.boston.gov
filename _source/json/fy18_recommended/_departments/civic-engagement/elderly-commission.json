@@ -23,22 +23,22 @@
       "program":"Elderly Operations",
       "debug":"JCO",
       "strategies":[
-        "Keep older adults engaged, informed and connected to resources, services, and programs."
+        null
       ]
     },
     {
       "program":"Elderly Transportation",
       "debug":"JCO",
       "strategies":[
-        "Provide accessible, reliable, discounted and free transportation options to Boston's older adults."
+        null
       ]
     },
     {
       "program":"Programs and Partnerships",
       "debug":"JCO",
       "strategies":[
-        "Promote meaningful volunteer engagement opportunities to Boston's older adults.",
-        "Set course for successful aging programs, policies and practices in Boston."
+        null,
+        null
       ]
     }
   ],

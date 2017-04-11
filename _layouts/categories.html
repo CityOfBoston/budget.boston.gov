@@ -76,6 +76,14 @@ layout: bos_wrapper
         {% endfor %}
       {% endfor %}
     {% endfor %}
+      <tr class="total">
+        <td>Category total</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>{{ page.projects.fy-0 | thousands_separated }}</td>
+        <td>{{ page.projects.total | thousands_separated }}</td>
+      </tr>
   </tbody>
 </table>
 <br />

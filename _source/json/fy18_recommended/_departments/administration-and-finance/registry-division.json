@@ -23,15 +23,15 @@
       "program":"Administration",
       "debug":"JCO",
       "strategies":[
-        "Expand crosstraining."
+        null
       ]
     },
     {
       "program":"Vital Statistics",
       "debug":"JCO",
       "strategies":[
-        "Online Death requests.",
-        "Register new records and issue certified copies."
+        null,
+        null
       ]
     }
   ],

@@ -23,21 +23,21 @@
       "program":"Budget and Management",
       "debug":"JCO",
       "strategies":[
-        "Improve use of limited city resources."
+        null
       ]
     },
     {
       "program":"Revenue Monitoring",
       "debug":"JCO",
       "strategies":[
-        "Maximize current and future revenues."
+        null
       ]
     },
     {
       "program":"Capital Budgeting",
       "debug":"JCO",
       "strategies":[
-        "Improve use of limited city resources."
+        null
       ]
     }
   ],

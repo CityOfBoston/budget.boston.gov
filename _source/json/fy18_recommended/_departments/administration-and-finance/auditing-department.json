@@ -23,31 +23,31 @@
       "program":"Accounting",
       "debug":"JCO",
       "strategies":[
-        "Ensure Stability of Financial Reporting."
+        null
       ]
     },
     {
       "program":"Central Payroll",
       "debug":"JCO",
       "strategies":[
-        "Improvement through the use of technology and resources to manage the City's Payroll."
+        null
       ]
     },
     {
       "program":"Grants Monitoring",
       "debug":"JCO",
       "strategies":[
-        "Ensure Stability of Financial Reporting."
+        null
       ]
     },
     {
       "program":"Accounts Payable",
       "debug":"JCO",
       "strategies":[
-        "% contracts routed within 3 days of receipt.",
-        "% procurement documents approved within 3 days.",
-        "% vendor invoices processed within 5 days.",
-        "Improvement through the use of technology and resources to manage the City's Accounts Payable."
+        null,
+        null,
+        null,
+        null
       ]
     }
   ],

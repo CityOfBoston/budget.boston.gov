@@ -30,23 +30,17 @@
       },
       "projects_data":[
         {
-          "Boston Redevelopment Authority":[
+          "Boston Planning and Development Agency":[
             {
               "line_type":"data",
               "title":null,
+              "project_title":"Total",
               "fy-0":250000,
               "category":"Energy and Environment",
               "name":"Long Wharf",
               "location":"Financial District/Downtown",
               "status":"New Project",
               "operating_impact":"No"
-            },
-            {
-              "line_type":"totalDeptCat",
-              "title":null,
-              "tota1":250000,
-              "category":"Energy and Environment",
-              "department":"Boston Redevelopment Authority"
             }
           ]
         },
@@ -55,16 +49,7 @@
             {
               "line_type":"data",
               "title":null,
-              "fy-0":286500,
-              "category":"Energy and Environment",
-              "name":"Climate Ready Boston",
-              "location":"Citywide",
-              "status":"New Project",
-              "operating_impact":"No"
-            },
-            {
-              "line_type":"data",
-              "title":null,
+              "project_title":"Total",
               "fy-0":386600,
               "category":"Energy and Environment",
               "name":"Energy Efficiency Design Services",
@@ -75,40 +60,13 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":"Total",
               "fy-0":1000000,
               "category":"Energy and Environment",
               "name":"Renew Boston Trust",
               "location":"Citywide",
               "status":"Implementation Underway",
               "operating_impact":"No"
-            },
-            {
-              "line_type":"totalDeptCat",
-              "title":null,
-              "tota1":1673100,
-              "category":"Energy and Environment",
-              "department":"Environment Department"
-            }
-          ]
-        },
-        {
-          "Fire Department":[
-            {
-              "line_type":"data",
-              "title":null,
-              "fy-0":350000,
-              "category":"Energy and Environment",
-              "name":"HVAC / Boiler Replacement at Various Stations",
-              "location":"Various neighborhoods",
-              "status":"Annual Program",
-              "operating_impact":"No"
-            },
-            {
-              "line_type":"totalDeptCat",
-              "title":null,
-              "tota1":350000,
-              "category":"Energy and Environment",
-              "department":"Fire Department"
             }
           ]
         },
@@ -117,40 +75,13 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":"Total",
               "fy-0":50000,
               "category":"Energy and Environment",
               "name":"Underground Storage Tanks",
               "location":"Various neighborhoods",
               "status":"Annual Program",
               "operating_impact":"No"
-            },
-            {
-              "line_type":"totalDeptCat",
-              "title":null,
-              "tota1":50000,
-              "category":"Energy and Environment",
-              "department":"Neighborhood Development"
-            }
-          ]
-        },
-        {
-          "Property Management Department":[
-            {
-              "line_type":"data",
-              "title":null,
-              "fy-0":300500,
-              "category":"Energy and Environment",
-              "name":"Faneuil Hall",
-              "location":"Government Center/Faneuil Hall",
-              "status":"In Design",
-              "operating_impact":"No"
-            },
-            {
-              "line_type":"totalDeptCat",
-              "title":null,
-              "tota1":300500,
-              "category":"Energy and Environment",
-              "department":"Property Management Department"
             }
           ]
         },
@@ -159,6 +90,7 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":"Total",
               "fy-0":150000,
               "category":"Energy and Environment",
               "name":"Street Light Gas Lamps",
@@ -169,19 +101,13 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":"Total",
               "fy-0":0,
               "category":"Energy and Environment",
               "name":"Street Light LED Conversion",
               "location":"Citywide",
               "status":"Annual Program",
               "operating_impact":"No"
-            },
-            {
-              "line_type":"totalDeptCat",
-              "title":null,
-              "tota1":150000,
-              "category":"Energy and Environment",
-              "department":"Public Works Department"
             }
           ]
         }
@@ -190,8 +116,8 @@
     {
       "line_type":"totalCat",
       "title":null,
-      "fy-0":0,
-      "total":2773600,
+      "fy-0":150000,
+      "total":1836600,
       "category":"Energy and Environment"
     }
   ]

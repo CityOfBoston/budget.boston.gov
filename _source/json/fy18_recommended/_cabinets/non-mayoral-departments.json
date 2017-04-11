@@ -17,9 +17,6 @@
   "mission":[
     "These departments are governed independently by appointed or elected officials, but are financed by the City: City Clerk (elected by the City Council); City Council (elected position); Finance Commission (appointed by Governor)."
   ],
-  "overview":[
-    "OVERVIEW FROM VOLUME 1"
-  ],
   "operating_department":{
     "table_type":"operating_department",
     "debug":"JCB",

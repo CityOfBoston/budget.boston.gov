@@ -23,16 +23,16 @@
       "program":"Boston Residents Jobs Policy",
       "debug":"JCO",
       "strategies":[
-        "To monitor construction contracts, both public and Developmental Impact Projects (DIPs), for compliance with the BRJ Ordinance."
+        null
       ]
     },
     {
       "program":"Small and Local Business",
       "debug":"JCO",
       "strategies":[
-        "Develop Pathways to Overcome Income and Wealth Disparity.",
-        "The number of veteran owned businesses certified by the Mayor's Office of Economic Development in the past month.",
-        "To increase the proportion of small, local, minority, and women owned businesses that receive City contracts."
+        null,
+        null,
+        null
       ]
     }
   ],

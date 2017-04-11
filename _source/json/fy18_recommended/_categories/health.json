@@ -34,6 +34,7 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":"Total",
               "fy-0":0,
               "category":"Health",
               "name":"BCYF Clougherty Pool",
@@ -44,6 +45,7 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":"Total",
               "fy-0":150000,
               "category":"Health",
               "name":"BCYF Curley Community Center",
@@ -54,6 +56,7 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":"Total",
               "fy-0":2398248,
               "category":"Health",
               "name":"BCYF Gallivan Community Center",
@@ -64,6 +67,7 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":"Total",
               "fy-0":150000,
               "category":"Health",
               "name":"BCYF Mattahunt Community Center",
@@ -74,6 +78,7 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":"Total",
               "fy-0":1000000,
               "category":"Health",
               "name":"BCYF Paris Street Community Center",
@@ -84,6 +89,7 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":"Total",
               "fy-0":520000,
               "category":"Health",
               "name":"BCYF Paris Street Pool",
@@ -94,6 +100,7 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":"Total",
               "fy-0":790000,
               "category":"Health",
               "name":"BCYF Tobin Community Center",
@@ -104,6 +111,7 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":"Total",
               "fy-0":4000000,
               "category":"Health",
               "name":"BCYF Vine Street Community Center",
@@ -114,6 +122,7 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":"Total",
               "fy-0":100000,
               "category":"Health",
               "name":"North End Community Center",
@@ -124,19 +133,13 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":"Total",
               "fy-0":200000,
               "category":"Health",
               "name":"Pool Repairs",
               "location":"Citywide",
               "status":"Annual Program",
               "operating_impact":"No"
-            },
-            {
-              "line_type":"totalDeptCat",
-              "title":null,
-              "tota1":9308248,
-              "category":"Health",
-              "department":"Boston Centers for Youth and Families"
             }
           ]
         },
@@ -145,29 +148,13 @@
             {
               "line_type":"data",
               "title":null,
-              "fy-0":40000,
-              "category":"Health",
-              "name":"EMS Station Study",
-              "location":"South Boston",
-              "status":"Study Underway",
-              "operating_impact":"No"
-            },
-            {
-              "line_type":"data",
-              "title":null,
+              "project_title":"Total",
               "fy-0":379117,
               "category":"Health",
               "name":"South End Fitness Center Pool",
               "location":"South End",
               "status":"In Design",
               "operating_impact":"No"
-            },
-            {
-              "line_type":"totalDeptCat",
-              "title":null,
-              "tota1":419117,
-              "category":"Health",
-              "department":"Public Health Commission"
             }
           ]
         }
@@ -176,8 +163,8 @@
     {
       "line_type":"totalCat",
       "title":null,
-      "fy-0":0,
-      "total":9727365,
+      "fy-0":379117,
+      "total":9687365,
       "category":"Health"
     }
   ]

@@ -23,31 +23,31 @@
       "program":"Traffic Management and Engineering",
       "debug":"JCO",
       "strategies":[
-        "Design, construct, and maintain streetscapes that prioritize moving people safely.",
-        "Encourage multimodal, active transportation.",
-        "Enhance Boston's walkability and neighborhood interconnectedness."
+        null,
+        null,
+        null
       ]
     },
     {
       "program":"Policy and Planning",
       "debug":"JCO",
       "strategies":[
-        "Design, construct, and maintain streetscapes that prioritize moving people safely.",
-        "Encourage multimodal, active transportation."
+        null,
+        null
       ]
     },
     {
       "program":"Traffic Enforcement",
       "debug":"JCO",
       "strategies":[
-        "Design, construct, and maintain streetscapes that prioritize moving people safely."
+        null
       ]
     },
     {
       "program":"Traffic Operations",
       "debug":"JCO",
       "strategies":[
-        "Enhance Boston's walkability and neighborhood interconnectedness."
+        null
       ]
     }
   ],

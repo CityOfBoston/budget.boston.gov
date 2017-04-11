@@ -23,39 +23,39 @@
       "program":"Enterprise Applications",
       "debug":"JCO",
       "strategies":[
-        "Improving constituent satisfaction with government services.",
-        "Modernization of paper based processes to digital formats.",
-        "Modernizing our IT infrastructure."
+        null,
+        null,
+        null
       ]
     },
     {
       "program":"Digital Engagement and Services",
       "debug":"JCO",
       "strategies":[
-        "Improving how the City interacts with constituents."
+        null
       ]
     },
     {
       "program":"Core Infrastructure",
       "debug":"JCO",
       "strategies":[
-        "Modernizing our IT infrastructure.",
-        "To provide City Hall employees with the IT tools to effectively execute their job."
+        null,
+        null
       ]
     },
     {
       "program":"Data and Analytics",
       "debug":"JCO",
       "strategies":[
-        "Using data to improve government services."
+        null
       ]
     },
     {
       "program":"Broadband and Digital Equity",
       "debug":"JCO",
       "strategies":[
-        "Closing the digital equity gap.",
-        "Improving broadband services."
+        null,
+        null
       ]
     }
   ],

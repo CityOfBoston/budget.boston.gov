@@ -23,15 +23,15 @@
       "program":"Housing Production and Access",
       "debug":"JCO",
       "strategies":[
-        "To expand the supply of market rate housing, especially in areas of the City not adversely affected by foreclosures or declining values.",
-        "To help moderate to middle income homebuyers benefit from lower market prices by helping them overcome financing obstacles currently existing in the credit markets."
+        null,
+        null
       ]
     },
     {
       "program":"Housing and Neighborhood Preservation",
       "debug":"JCO",
       "strategies":[
-        "To reduce home foreclosures through counseling of at-risk homeowners."
+        null
       ]
     }
   ],

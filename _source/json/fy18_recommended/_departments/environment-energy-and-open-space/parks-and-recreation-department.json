@@ -23,21 +23,21 @@
       "program":"Parks and Recreation Administration",
       "debug":"JCO",
       "strategies":[
-        "To provide yearlong arts and cultural programs."
+        null
       ]
     },
     {
       "program":"Parks Operations",
       "debug":"JCO",
       "strategies":[
-        "To maintain clean, green, safe, attractive parks and playgrounds."
+        null
       ]
     },
     {
       "program":"Parks Design and Construction",
       "debug":"JCO",
       "strategies":[
-        "To design and construct capital projects."
+        null
       ]
     }
   ],

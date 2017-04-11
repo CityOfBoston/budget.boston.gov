@@ -23,28 +23,28 @@
       "program":"ISD Administration and Finance",
       "debug":"JCO",
       "strategies":[
-        "Ensure compliance w. City's foreclosed/vacant bldg ord.",
-        "Manage the department's legal case load.",
-        "To hear Zoning Board of Appeal cases in a timely manner.",
-        "To improve responsiveness to constituent requests."
+        null,
+        null,
+        null,
+        null
       ]
     },
     {
       "program":"Buildings and Structures",
       "debug":"JCO",
       "strategies":[
-        "To ensure the safety of buildings by tracking their compliance with codes by means of scheduled inspections."
+        null
       ]
     },
     {
       "program":"Field Services",
       "debug":"JCO",
       "strategies":[
-        "Prevent housing emergencies and violations.",
-        "Reduce risk of foodborne illness or disease.",
-        "Respond to cleanliness and environmental safety complaints.",
-        "To ensure devices that vendors use to weigh and measure products are accurate.",
-        "To respond to animal control issues and complaints."
+        null,
+        null,
+        null,
+        null,
+        null
       ]
     }
   ],
