@@ -17,7 +17,6 @@
   "mission":[
     "In partnership with communities, the BPDA plans Boston&rsquo;s future while respecting its past. We prepare our residents for new opportunities through training, human services and job creation. The BPDA guides physical, social, and economic change in Boston&rsquo;"
   ],
-  "description_of_services":[],
   "overview":[
     "The Boston Planning and Development Agency, functioning as Boston&rsquo;s central planning organization, will continue providing in-house planning expertise and will also help leverage the external resources necessary to shape Boston&rsquo;s future. The Capital Plan will support opportunities in the city-owned development areas such as the Charlestown Navy Yard and Raymond L. Flynn Marine Park."
   ],
@@ -74,7 +73,7 @@
               "line_type":"data",
               "title":null,
               "category":"Economy",
-              "name":"RLFMP: Pier 6",
+              "name":"RFLMP: Pier 6",
               "location":"South Boston",
               "section_id":"CBR24673",
               "status":"New Project",
@@ -86,7 +85,7 @@
               "line_type":"data",
               "title":null,
               "category":"Economy",
-              "name":"RLFMP: Dry-dock 4",
+              "name":"RFLMP: Dry-dock 4",
               "location":"South Boston",
               "section_id":"CBR24671",
               "status":"New Project",
@@ -130,7 +129,7 @@
               "line_type":"data",
               "title":null,
               "category":"Transportation",
-              "name":"RLFMP: Black Falcon Avenue and Terminal Street",
+              "name":"RFLMP: Black Falcon Avenue and Terminal Street",
               "location":"South Boston",
               "section_id":"CBR23777",
               "status":"To Be Scheduled",

@@ -23,38 +23,38 @@
       "program":"Police Commissioner's Office",
       "debug":"JCO",
       "strategies":[
-        "Connections to services.",
-        "Engage with the community.",
-        "Prevent and reduce crime and violence."
+        "Connections to services",
+        "Engage with the community",
+        "Prevent and reduce crime and violence"
       ]
     },
     {
       "program":"BAT-Operations",
       "debug":"JCO",
       "strategies":[
-        "Timely and efficient response to crime and calls for service."
+        "Timely and efficient response to crime and calls for service"
       ]
     },
     {
       "program":"BAT-Admin and Technology",
       "debug":"JCO",
       "strategies":[
-        "Effectively manage overtime."
+        "Effectively manage overtime"
       ]
     },
     {
       "program":"Bureau of Field Services",
       "debug":"JCO",
       "strategies":[
-        "Engage with the community.",
-        "Prevent and reduce crime and violence."
+        "Engage with the community",
+        "Prevent and reduce crime and violence"
       ]
     },
     {
       "program":"Bureau of Investigative Services",
       "debug":"JCO",
       "strategies":[
-        "Timely and efficient response to crime and calls for service."
+        "Timely and efficient response to crime and calls for service"
       ]
     }
   ],

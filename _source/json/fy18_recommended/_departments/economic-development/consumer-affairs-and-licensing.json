@@ -23,14 +23,14 @@
       "program":"Consumer Licensing",
       "debug":"JCO",
       "strategies":[
-        "To track the amount of refunded monies to consumers."
+        "To track the amount of refunded monies to consumers"
       ]
     },
     {
       "program":"Licensing Board",
       "debug":"JCO",
       "strategies":[
-        "To process applications and issue alcoholic beverage licenses or other licenses."
+        "To process applications and issue alcoholic beverage licenses or other licenses"
       ]
     }
   ],

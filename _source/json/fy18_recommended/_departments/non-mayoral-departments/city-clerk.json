@@ -23,32 +23,32 @@
       "program":"Legislative Support",
       "debug":"JCO",
       "strategies":[
-        "To distribute copies of the Municipal Code and Annual Supplements.",
-        "To receive, prepare, record and distribute financial and legislative documents.",
-        "To Update the Ordinance section of the Municipal Code and distribute supplements."
+        "To distribute copies of the Municipal Code and Annual Supplements",
+        "To receive, prepare, record and distribute financial and legislative documents",
+        "To Update the Ordinance section of the Municipal Code and distribute supplements"
       ]
     },
     {
       "program":"Document Filing",
       "debug":"JCO",
       "strategies":[
-        "City Council meeting are created,updated, and published on the City of Boston website.",
-        "Scanning and indexing documents.",
-        "Time used for processing documents."
+        "City Council meeting are created,updated, and published on the City of Boston website",
+        "Scanning and indexing documents",
+        "Time used for processing documents"
       ]
     },
     {
       "program":"Document Filing",
       "debug":"JCO",
       "strategies":[
-        "To receive and record statuory filings as required by law."
+        "To receive and record statuory filings as required by law"
       ]
     },
     {
       "program":"Archives",
       "debug":"JCO",
       "strategies":[
-        "To provide archives record center to City departments and the public; provide records disposition services to departments."
+        "To provide archives record center to City departments and the public; provide records disposition services to departments"
       ]
     }
   ],

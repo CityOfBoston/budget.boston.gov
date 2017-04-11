@@ -23,32 +23,32 @@
       "program":"Construction Management",
       "debug":"JCO",
       "strategies":[
-        "Ensure that Boston&rsquo;s streets, sidewalks, and bridges are safe, clean and attractive.",
-        "Ensure that Boston&rsquo;s streets, sidewalks, and bridges are safe, clean and attractive."
+        "Ensure that Boston&rsquo;s streets, sidewalks, and bridges are safe, clean and attractive",
+        "Ensure that Boston&rsquo;s streets, sidewalks, and bridges are safe, clean and attractive"
       ]
     },
     {
       "program":"Highway Field Operations",
       "debug":"JCO",
       "strategies":[
-        "Effectively control and manage Boston's public space.",
-        "Ensure that Boston&rsquo;s streets, sidewalks, and bridges are safe, clean and attractive."
+        "Effectively control and manage Boston's public space",
+        "Ensure that Boston&rsquo;s streets, sidewalks, and bridges are safe, clean and attractive"
       ]
     },
     {
       "program":"Street Lights",
       "debug":"JCO",
       "strategies":[
-        "Efficiently deliver services.",
-        "Improve neighborhood quality of life."
+        "Efficiently deliver services",
+        "Improve neighborhood quality of life"
       ]
     },
     {
       "program":"Waste Reduction",
       "debug":"JCO",
       "strategies":[
-        "Effectively control and manage Boston's public space.",
-        "Efficiently deliver services."
+        "Effectively control and manage Boston's public space",
+        "Efficiently deliver services"
       ]
     }
   ],

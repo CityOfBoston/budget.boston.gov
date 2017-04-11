@@ -40,6 +40,7 @@ layout: bos_wrapper
   <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
     {{ page.name }} - Active Projects
   </h2>
+  <div class="sh-contact"><a href="{{ site.url }}/capital-projects">Back to all Capital Projects</a></div>
 </div>
 <br />
 <table class="responsive-table responsive-table--horizontal">
@@ -76,6 +77,14 @@ layout: bos_wrapper
         {% endfor %}
       {% endfor %}
     {% endfor %}
+      <tr class="total">
+        <td>Category total</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>{{ page.projects.fy-0 | thousands_separated }}</td>
+        <td>{{ page.projects.total | thousands_separated }}</td>
+      </tr>
   </tbody>
 </table>
 <br />

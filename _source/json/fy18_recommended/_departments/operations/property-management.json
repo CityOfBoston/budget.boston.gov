@@ -23,21 +23,21 @@
       "program":"Building Maintenance",
       "debug":"JCO",
       "strategies":[
-        "To improve and maintain the operational condition of managed city-owned facilities."
+        "To improve and maintain the operational condition of managed city-owned facilities"
       ]
     },
     {
       "program":"Alterations and Repair",
       "debug":"JCO",
       "strategies":[
-        "To improve and maintain the operational condition of managed city-owned facilities."
+        "To improve and maintain the operational condition of managed city-owned facilities"
       ]
     },
     {
       "program":"Building Systems",
       "debug":"JCO",
       "strategies":[
-        "Maintain heating ventilation and air condition (HVAC) system in proper working order."
+        "Maintain heating ventilation and air condition (HVAC) system in proper working order"
       ]
     }
   ],

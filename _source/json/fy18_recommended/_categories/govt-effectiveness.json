@@ -10,7 +10,7 @@
     "Initiatives to maintain or enhance the efficiency of government operations."
   ],
   "vol1_category_copy":[
-    "NEED TO READ THIS FROM VOLUME ONE"
+    "Gov't Effectiveness"
   ],
   "projects":[
     {
@@ -34,6 +34,7 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":500000,
               "fy-0":475000,
               "category":"Gov't Effectiveness",
               "name":"BCYF Mattahunt Community Center Exterior Lighting",
@@ -44,6 +45,7 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":1000000,
               "fy-0":0,
               "category":"Gov't Effectiveness",
               "name":"Youth Budget Round 1",
@@ -54,6 +56,7 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":1000000,
               "fy-0":400000,
               "category":"Gov't Effectiveness",
               "name":"Youth Budget Round 2",
@@ -64,6 +67,7 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":1000000,
               "fy-0":300000,
               "category":"Gov't Effectiveness",
               "name":"Youth Budget Round 3",
@@ -74,6 +78,7 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":1000000,
               "fy-0":0,
               "category":"Gov't Effectiveness",
               "name":"Youth Budget Round 4",
@@ -84,40 +89,13 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":1000000,
               "fy-0":0,
               "category":"Gov't Effectiveness",
               "name":"Youth Budget Round 5",
               "location":"Citywide",
               "status":"New Project",
               "operating_impact":"No"
-            },
-            {
-              "line_type":"totalDeptCat",
-              "title":null,
-              "tota1":1175000,
-              "category":"Gov't Effectiveness",
-              "department":"Boston Centers for Youth and Families"
-            }
-          ]
-        },
-        {
-          "Fire Department":[
-            {
-              "line_type":"data",
-              "title":null,
-              "fy-0":0,
-              "category":"Gov't Effectiveness",
-              "name":"Building Envelope Repairs at Various Stations",
-              "location":"Citywide",
-              "status":"In Design",
-              "operating_impact":"No"
-            },
-            {
-              "line_type":"totalDeptCat",
-              "title":null,
-              "tota1":0,
-              "category":"Gov't Effectiveness",
-              "department":"Fire Department"
             }
           ]
         },
@@ -126,19 +104,13 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":200000,
               "fy-0":100000,
               "category":"Gov't Effectiveness",
               "name":"Innovation Fund",
               "location":"Various neighborhoods",
               "status":"Implementation Underway",
               "operating_impact":"No"
-            },
-            {
-              "line_type":"totalDeptCat",
-              "title":null,
-              "tota1":100000,
-              "category":"Gov't Effectiveness",
-              "department":"Office of New Urban Mechanics"
             }
           ]
         },
@@ -147,16 +119,7 @@
             {
               "line_type":"data",
               "title":null,
-              "fy-0":500000,
-              "category":"Gov't Effectiveness",
-              "name":"1010 Mass. Ave. Renovation",
-              "location":"Roxbury",
-              "status":"New Project",
-              "operating_impact":"No"
-            },
-            {
-              "line_type":"data",
-              "title":null,
+              "project_title":28245558,
               "fy-0":1700000,
               "category":"Gov't Effectiveness",
               "name":"26 Court Street Renovation",
@@ -167,6 +130,7 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":35150000,
               "fy-0":3189000,
               "category":"Gov't Effectiveness",
               "name":"City Hall",
@@ -177,6 +141,7 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":100000,
               "fy-0":5117,
               "category":"Gov't Effectiveness",
               "name":"City Hall ADA Restroom",
@@ -187,6 +152,7 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":25150000,
               "fy-0":600000,
               "category":"Gov't Effectiveness",
               "name":"City Hall Plaza",
@@ -197,6 +163,7 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":350500,
               "fy-0":0,
               "category":"Gov't Effectiveness",
               "name":"Family Justice Center Elevator",
@@ -207,6 +174,7 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":4655000,
               "fy-0":2500000,
               "category":"Gov't Effectiveness",
               "name":"Faneuil Hall HVAC",
@@ -217,40 +185,13 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":683000,
               "fy-0":392958,
               "category":"Gov't Effectiveness",
               "name":"Veronica Smith Center Bathrooms and Flooring",
               "location":"Allston/Brighton",
               "status":"In Construction",
               "operating_impact":"No"
-            },
-            {
-              "line_type":"totalDeptCat",
-              "title":null,
-              "tota1":8887075,
-              "category":"Gov't Effectiveness",
-              "department":"Property Management Department"
-            }
-          ]
-        },
-        {
-          "Public Health Commission":[
-            {
-              "line_type":"data",
-              "title":null,
-              "fy-0":200000,
-              "category":"Gov't Effectiveness",
-              "name":"BPHC Budget Software",
-              "location":"Citywide",
-              "status":"New Project",
-              "operating_impact":"No"
-            },
-            {
-              "line_type":"totalDeptCat",
-              "title":null,
-              "tota1":200000,
-              "category":"Gov't Effectiveness",
-              "department":"Public Health Commission"
             }
           ]
         }
@@ -259,8 +200,8 @@
     {
       "line_type":"totalCat",
       "title":null,
-      "fy-0":0,
-      "total":10362075,
+      "fy-0":8387075,
+      "total":9662075,
       "category":"Gov't Effectiveness"
     }
   ]

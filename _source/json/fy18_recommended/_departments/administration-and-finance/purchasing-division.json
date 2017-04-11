@@ -23,11 +23,11 @@
       "program":"Procurement",
       "debug":"JCO",
       "strategies":[
-        "The Procurement Office in the City of Boston uses a 100% electronic format. Creating a contract should be a seamless and relatively quick process. This is achieved by continiously monitoring and reviewing this process.",
-        "To display the percentage of savings the departments are able to achieve from request to the time of order.",
-        "To measure the amount of time that it takes to produce a purchase order (should be less than seven days). There are certain cases where there is need to be publically bid, and it will be longer.",
-        "To simplify conducting business with the City of Boston. To provide an exceptional expierence and a superior level of customer service for all vendors. To supply support to vendors at all stages of procurement.",
-        "Verifying and validating department requests that are being bid using sound business practices, to ensure the best product at the appropriate cost is purchased."
+        "The Procurement Office in the City of Boston uses a 100% electronic format. Creating a contract should be a seamless and relatively quick process. This is achieved by continiously monitoring and reviewing this process",
+        "To display the percentage of savings the departments are able to achieve from request to the time of order",
+        "To measure the amount of time that it takes to produce a purchase order (should be less than seven days). There are certain cases where there is need to be publically bid, and it will be longer",
+        "To simplify conducting business with the City of Boston. To provide an exceptional expierence and a superior level of customer service for all vendors. To supply support to vendors at all stages of procurement",
+        "Verifying and validating department requests that are being bid using sound business practices, to ensure the best product at the appropriate cost is purchased"
       ]
     }
   ],

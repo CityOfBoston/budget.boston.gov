@@ -34,8 +34,8 @@ components:
       link: /operating-budget
     columns:
       - "": Suffolk County Sheriff Dept
-        "FY15 Actual": $3.87
-        "FY16 Actual": $3.87
-        "FY17 Budget": $3.87
-        "FY18 Budget": $3.87
+        "FY15 Actual": 3.87
+        "FY16 Actual": 3.87
+        "FY17 Budget": 3.87
+        "FY18 Budget": 3.87
 ---

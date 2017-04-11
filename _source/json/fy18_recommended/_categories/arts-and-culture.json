@@ -10,7 +10,7 @@
     "Initiatives to support a thriving, diverse arts and culture ecosystem throughout the city."
   ],
   "vol1_category_copy":[
-    "NEED TO READ THIS FROM VOLUME ONE"
+    "Arts and Culture"
   ],
   "projects":[
     {
@@ -34,6 +34,7 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":12600000,
               "fy-0":1610000,
               "category":"Arts and Culture",
               "name":"Adams Street Branch Library",
@@ -44,6 +45,7 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":4830000,
               "fy-0":150000,
               "category":"Arts and Culture",
               "name":"Central Library: Johnson Roof Replacement",
@@ -54,6 +56,7 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":1950000,
               "fy-0":0,
               "category":"Arts and Culture",
               "name":"Central Library: Piping Infrastructure",
@@ -64,6 +67,7 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":15725000,
               "fy-0":1950000,
               "category":"Arts and Culture",
               "name":"Central Library: Rare Books and Manuscripts Department",
@@ -74,6 +78,7 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":14718000,
               "fy-0":6296250,
               "category":"Arts and Culture",
               "name":"Dudley Branch Library Renovation",
@@ -84,6 +89,7 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":12100000,
               "fy-0":0,
               "category":"Arts and Culture",
               "name":"Egleston Square Branch Library",
@@ -94,6 +100,7 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":12625000,
               "fy-0":0,
               "category":"Arts and Culture",
               "name":"Faneuil Branch Library",
@@ -104,6 +111,7 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":12100000,
               "fy-0":100000,
               "category":"Arts and Culture",
               "name":"Fields Corner Branch Library",
@@ -114,6 +122,7 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":10000000,
               "fy-0":803402,
               "category":"Arts and Culture",
               "name":"Jamaica Plain Branch Library",
@@ -124,6 +133,7 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":94000,
               "fy-0":94000,
               "category":"Arts and Culture",
               "name":"Lower Mills Branch Library Improvements",
@@ -134,6 +144,7 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":1475000,
               "fy-0":0,
               "category":"Arts and Culture",
               "name":"North End Branch Library",
@@ -144,6 +155,7 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":2400000,
               "fy-0":1568700,
               "category":"Arts and Culture",
               "name":"Parker Hill Library",
@@ -154,6 +166,7 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":75000,
               "fy-0":25000,
               "category":"Arts and Culture",
               "name":"Permanent Collections Storage Study",
@@ -164,6 +177,7 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":6700000,
               "fy-0":700000,
               "category":"Arts and Culture",
               "name":"Roslindale Branch Library Renovation",
@@ -174,6 +188,7 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":99000,
               "fy-0":99000,
               "category":"Arts and Culture",
               "name":"South Boston Branch Library Improvements",
@@ -184,6 +199,7 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":132000,
               "fy-0":132000,
               "category":"Arts and Culture",
               "name":"South End Branch Library Improvements",
@@ -194,6 +210,7 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":17980000,
               "fy-0":90000,
               "category":"Arts and Culture",
               "name":"Uphams Corner Library",
@@ -204,40 +221,13 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":100000,
               "fy-0":100000,
               "category":"Arts and Culture",
               "name":"West Roxbury Branch Library Improvements",
               "location":"West Roxbury",
               "status":"New Project",
               "operating_impact":"No"
-            },
-            {
-              "line_type":"totalDeptCat",
-              "title":null,
-              "tota1":13718352,
-              "category":"Arts and Culture",
-              "department":"Library Department"
-            }
-          ]
-        },
-        {
-          "Neighborhood Development":[
-            {
-              "line_type":"data",
-              "title":null,
-              "fy-0":2284940,
-              "category":"Arts and Culture",
-              "name":"Strand Theatre Upgrades",
-              "location":"Dorchester",
-              "status":"In Design",
-              "operating_impact":"No"
-            },
-            {
-              "line_type":"totalDeptCat",
-              "title":null,
-              "tota1":2284940,
-              "category":"Arts and Culture",
-              "department":"Neighborhood Development"
             }
           ]
         },
@@ -246,40 +236,13 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":9300000,
               "fy-0":1700000,
               "category":"Arts and Culture",
               "name":"Percent for the Arts",
               "location":"Citywide",
               "status":"New Project",
               "operating_impact":"No"
-            },
-            {
-              "line_type":"totalDeptCat",
-              "title":null,
-              "tota1":1700000,
-              "category":"Arts and Culture",
-              "department":"Office of Arts and Culture"
-            }
-          ]
-        },
-        {
-          "Property Management Department":[
-            {
-              "line_type":"data",
-              "title":null,
-              "fy-0":200000,
-              "category":"Arts and Culture",
-              "name":"Archives Preservation Needs",
-              "location":"West Roxbury",
-              "status":"Study Underway",
-              "operating_impact":"No"
-            },
-            {
-              "line_type":"totalDeptCat",
-              "title":null,
-              "tota1":200000,
-              "category":"Arts and Culture",
-              "department":"Property Management Department"
             }
           ]
         }
@@ -288,8 +251,8 @@
     {
       "line_type":"totalCat",
       "title":null,
-      "fy-0":0,
-      "total":17903292,
+      "fy-0":1700000,
+      "total":15418352,
       "category":"Arts and Culture"
     }
   ]
