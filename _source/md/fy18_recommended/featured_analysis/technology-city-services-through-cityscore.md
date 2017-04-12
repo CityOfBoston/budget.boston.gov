@@ -49,7 +49,7 @@ components:
       of life for those in Boston.</p>
 - grid: 
   - grid_title: More budget analysis
-  - card: /featured-analysis/bps-long-term-financial-plan/
-  - card: /featured-analysis/bps-long-term-financial-plan/
-  - card: /featured-analysis/bps-long-term-financial-plan/
+  - card: /featured-analysis/technology-data-analytics/
+  - card: /featured-analysis/streets-keeping-streets-clean-safe/
+  - card: /featured-analysis/health-safety-proactive-agile-ems-through-data/
 ---
