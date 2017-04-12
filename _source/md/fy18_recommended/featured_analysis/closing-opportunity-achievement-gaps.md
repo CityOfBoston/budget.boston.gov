@@ -81,7 +81,7 @@ components:
       The Boston Public Schools’ early-hiring initiative provides school leaders with flexibility to put an effective teacher in every classroom. The initiative has also allowed BPS to hire candidates of color at disproportionately higher rates--during the 2016 hiring season, Black and Latino educators were hired by schools at 2.2 and 1.9 times the rate of white educators respectively.
 - grid: 
   - grid_title: More budget analysis
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/education-overview/
+  - card: /featured-analysis/bps-operating-budget/
+  - card: /featured-analysis/supporting-students-most-in-need/
 ---

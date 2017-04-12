@@ -5,7 +5,7 @@ title: Extended School Day
 card:
   - title: Extended School Day
     body: >
-      Boston is extended the school day for more than 15,000 additional students
+      Boston is extending the school day for more than 15,000 additional students
     img: /img/featured_analysis/cards/fa-extended-school-day.jpg
     link: /featured-analysis/extended-school-day
 components:
@@ -56,7 +56,7 @@ components:
       material their students need to learn.</p>
 - grid: 
   - grid_title: More budget analysis
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/education-overview/
+  - card: /featured-analysis/closing-opportunity-achievement-gaps/
+  - card: /featured-analysis/bps-performance/
 ---

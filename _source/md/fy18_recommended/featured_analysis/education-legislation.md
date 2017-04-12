@@ -108,7 +108,7 @@ components:
       and for many other purposes.</blockquote>
 - grid: 
   - grid_title: More budget analysis
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/commonwealth-budget/
+  - card: /featured-analysis/net-state-education-revenue/
+  - card: /featured-analysis/external-funds/
 ---

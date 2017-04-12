@@ -30,20 +30,20 @@ components:
       name: Back to all expenditures
       link: /operating-budget/
     columns:
-    - "FY15 Actual": 81.27
-      "FY16 Actual": 83.00
-      "FY17 Budget": 83.82
-      "FY18 Budget": 85.81
+    - "FY15 Actual": 81269504
+      "FY16 Actual": 82998018
+      "FY17 Budget": 83822948
+      "FY18 Budget": 85805225
 - table: 
   - title: Other State assessments
     right_text:
       name: Back to all expenditures
       link: /operating-budget/
     columns:
-    - "FY15 Actual": 4.58
-      "FY16 Actual": 4.79
-      "FY17 Budget": 5.15
-      "FY18 Budget": 4.71
+    - "FY15 Actual": 4583391
+      "FY16 Actual": 4789935
+      "FY17 Budget": 5147939
+      "FY18 Budget": 4709987
 - grid: 
   - grid_title: More budget analysis
   - card: /featured-analysis/bps-long-term-financial-plan
