@@ -748,12 +748,10 @@ components:
       upkeep of existing assets and the expansion or introduction of new ones.
 - text_col_2:
   - col: 
-    - img: /img/featured_analysis/capital-expenditures.png
+    - img: /img/capital-expenditures.png
   - col: >
       <h5>Upkeep</h5>
-      <p>Upkeep represents projects that maintain the City’s assets, a fundamental priority 
-      of the Capital Plan. In FY18, 21% of projected spending supports Upkeep projects. These 
-      include:</p>
+      <p>Upkeep represents projects that maintain the City’s assets, a fundamental priority of the Capital Plan. In FY18, 21% of projected spending supports Upkeep projects. These include:</p>
       <ul>
       <li>roof and masonry repairs;</li>
       <li>the replacement of play equipment in parks;</li>

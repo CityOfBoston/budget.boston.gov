@@ -2,14 +2,20 @@
 layout: bos_content
 permalink: /featured-analysis/prosperity-racial-equity-diversity-economic-mobility/
 title: Advancing Racial Equity, Diversity, and Economic Mobility
+card:
+  - title: Equity, Diversity, and Mobility
+    body: >
+      Boston is working to advance racial equity, diversity and economic mobility.
+    img: /img/featured_analysis/cards/fa-prosperity-racial-equity-diversity-economic-mobility.jpg
+    link: /featured-analysis/prosperity-racial-equity-diversity-economic-mobility/
 components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - title: Featured Analysis
     url: "/featured-analysis/"
+    local: true
   - current: Advancing Racial Equity, Diversity, and Economic Mobility
   - published: 4/13/17
 - intro:
@@ -55,21 +61,9 @@ components:
       hopes to identify promising strategies that can attract outside funding and help create 
       a City where everyone has the tools and skills they need to succeed in the 
       21st century.</blockquote></p>
-- grid:
+- grid: 
   - grid_title: More budget analysis
-  - title: Handy dandy title
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /#/
-  - title: This one's witty, too
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
-    link: /#/
-  - title: Rumple Stiltskin
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
-    link: /#/
+  - card: /featured-analysis/bps-long-term-financial-plan/
+  - card: /featured-analysis/bps-long-term-financial-plan/
+  - card: /featured-analysis/bps-long-term-financial-plan/
 ---

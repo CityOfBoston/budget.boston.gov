@@ -2,14 +2,20 @@
 layout: bos_content
 permalink: /featured-analysis/special-education/
 title: Special Education
+card:
+  - title: Special Education
+    body: >
+      Learn how much of the FY18 BPS budgeted is dedicated to special education.
+    img: /img/featured_analysis/cards/fa-special-education.jpg
+    link: /featured-analysis/special-education/
 components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - title: Featured Analysis
     url: "/featured-analysis/"
+    local: true
   - current: Special Education
   - published: 4/13/17
 - intro:
@@ -20,9 +26,7 @@ components:
     description: >
       The special education budget accounts for approximately 22% of the total BPS 
       budget and supports the almost 12,000 students with disabilities, or 20% of 
-      the BPS population. <blockquote>As the district has shifted to more inclusion 
-      classrooms, the district has seen the number of teachers with ____ specialties 
-      increase by ____ over the past four years.</blockquote>
+      the BPS population.
     sidebar_menu: true    
 - text_block:
   - title: Overview
@@ -45,21 +49,9 @@ components:
       <p> BPS is fully or partly responsible for paying for services for most of these 
       students at an average cost of $84,000 per year in FY16. Tuition rates are 
       established by the Commonwealth of Massachusetts Rate Setting Commission.</p>
-- grid:
+- grid: 
   - grid_title: More budget analysis
-  - title: Handy dandy title
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /#/
-  - title: This one's witty, too
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
-    link: /#/
-  - title: Rumple Stiltskin
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
-    link: /#/
+  - card: /featured-analysis/closing-opportunity-achievement-gaps/
+  - card: /featured-analysis/weighted-student-funding/
+  - card: /featured-analysis/supporting-students-most-in-need/
 ---
