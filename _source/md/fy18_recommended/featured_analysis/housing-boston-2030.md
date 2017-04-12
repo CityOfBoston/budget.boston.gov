@@ -91,7 +91,7 @@ components:
       responsible for making recommendations on CPA projects to the City Council.</p>
 - grid: 
   - grid_title: More budget analysis
-  - card: /featured-analysis/bps-long-term-financial-plan/
-  - card: /featured-analysis/bps-long-term-financial-plan/
-  - card: /featured-analysis/bps-long-term-financial-plan/
+  - card: /featured-analysis/housing-homeless-action-plan/
+  - card: /featured-analysis/housing-homeless-shelter-service-safety/
+  - card: /featured-analysis/health-safety-addiction-services/
 ---
