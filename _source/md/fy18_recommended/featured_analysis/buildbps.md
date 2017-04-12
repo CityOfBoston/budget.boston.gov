@@ -25,9 +25,9 @@ components:
     description: >
     sidebar_menu: true
 - text_block:
-  body: >
-    Through a dedication of City capital funds and a strong working relationship with the Massachusetts School Building Authority (MSBA), the plan will more than double the capital spending on BPS facilities over the next decade. Mayor Walsh’s FY18-22Capital Plan begins to implement early action BuildBPS initiatives while reserving funding for projects coming out of the BuildBPS engagement process.
-  right_image: /img/capital-investment-in-schools.png
+    body: >
+      Through a dedication of City capital funds and a strong working relationship with the Massachusetts School Building Authority (MSBA), the plan will more than double the capital spending on BPS facilities over the next decade. Mayor Walsh’s FY18-22Capital Plan begins to implement early action BuildBPS initiatives while reserving funding for projects coming out of the BuildBPS engagement process.
+    right_image: /img/capital-investment-in-schools.png
 - text_block:
   - title: BuildBPS overview
 - text_col_2:

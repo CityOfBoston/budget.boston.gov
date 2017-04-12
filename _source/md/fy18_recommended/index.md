@@ -6,6 +6,7 @@ components:
 - breadcrumbs:
   - title: Home
     url: "/"
+    local: true
   - current: Executive Summary
   - published: 4/13/17
 - intro:
@@ -84,14 +85,14 @@ components:
       process and partnerships with the Massachusetts School Building Authority (MSBA).</li>
       </ul>
 - spanning_image:
-  - title: Lorem ipsum title
-    desc: This is the description for the spanning image
+  - title: Extending the school day
+    desc: Working to close achievement and opportunity gaps
     link:
-      - text: Click Here
-        url: https://google.com
-    src: https://www.boston.gov/sites/default/files/styles/resp_wide_2000x800custom_boston_wide_1x/public/winter_swimming_10.jpg?itok=W91jOE5G&timestamp=1452037695    
-    alt: Placeholder alt text
-    title: Placeholder image title
+      - text: Learn more
+        url: /featured-analysis/extended-school-day/
+    src: /img/students-on-a-computer.jpg
+    alt: Three students all looking at a computer
+    title: Students learning on a computer
 - text_col_3:
   - col: >
       <h5>City approach vs. federal approach</h5>
@@ -216,17 +217,10 @@ components:
 - text_col_2:
     - col: >
         <ul>
-        <li>Mayor Walsh committed $1 billion over ten years to bring Boston's school 
-        buildings into the 21st Century, and this Capital Plan launches that investment 
-        with funding for 21st Century Classrooms, MSBA Accelerated Repair Program 
-        partnerships, completion of projects in the pipeline, and reserves for future 
+        <li>Mayor Walsh committed $1 billion over ten years to bring Boston's school buildings into the 21st Century, and this Capital Plan launches that investment with funding for 21st Century Classrooms, MSBA Accelerated Repair Program partnerships, completion of projects in the pipeline, and reserves for future 
         projects coming out of BuildBPS community engagement.</li>
         <li>Boston, in collaboration with State and Federal sources, will invest $709 million over the next five years in implementing the core initiatives outlined in Go Boston 2030: streets that are safer for all users of our roads and sidewalks, particularly pedestrians and cyclists; travel that is more reliable and predictable; and quality transportation choices that improve access to interconnect our neighborhoods for all modes of travel. </li>
-        <li>Through the use of Winthrop Square proceeds, City capital dollars, and 
-        leveraging external funds, Mayor Walsh plans to carry out early actions to implement 
-        Imagine Boston 2030’s Open Space goals, including investing in Franklin Park as a 
-        keystone park for the city, completing the Emerald Necklace, and restoring Boston 
-        Common to its full vibrancy.</li>
+        <li>Through the use of Winthrop Square proceeds, City capital dollars, and leveraging external funds, Mayor Walsh plans to carry out early actions to implement Imagine Boston 2030’s Open Space goals, including investing in Franklin Park as a keystone park for the city, completing the Emerald Necklace, and restoring Boston Common to its full vibrancy.</li>
         </ul>
     - col: >
         <ul>
@@ -241,7 +235,7 @@ components:
         <p>With investments in roads, bridges, schools, libraries, parks, firehouses, and 
         community centers, the Imagine Boston Capital Plan touches each neighborhood and shapes 
         a City that over 14,000 voices told us they want to see.</p>
-        <p class="button">View the Capital Plan</p>
+        <a class="button" href="/capital-projects">View the Capital Plan</a>
 - text_block:
   - title: FY18 Budget Priorities
     body: >

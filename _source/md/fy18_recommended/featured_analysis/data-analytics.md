@@ -1,13 +1,13 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/data-analytics
+permalink: /featured-analysis/data-analytics/
 title: Data Analytics
 card:
   - title: Data analytics
     body: >
-      
+      The City practies data-driven decision making at all levels. Learn about the results.
     img: /img/featured_analysis/cards/fa-data-analytics.jpg
-    link: /featured-analysis/data-analytics
+    link: /featured-analysis/data-analytics/
 components:
 - breadcrumbs:
   - title: Home
@@ -29,8 +29,6 @@ components:
       effective government, and deliver better outcomes for people who live and work in Boston. 
       This page highlights our approach, recent accomplishments, and plans for the upcoming year.
     sidebar_menu: true
-- text_block:
-    body: >
 - text_block:
   - title: Our approach
 - text_col_3:
@@ -79,7 +77,6 @@ components:
       supplement these tools, we also developed a broader performance improvement strategy that aims to 
       improve call center efficiency and increase constituent satisfaction, with implementation beginning 
       in early 2017.</p>
-      
 - text_block:
   - title: Delivering results
     body: >
@@ -188,6 +185,4 @@ components:
         "FY16 Actual": 1.92
         "FY17 Budget": 0.00
         "FY18 Budget": 0.00
-      
-      
 ---
