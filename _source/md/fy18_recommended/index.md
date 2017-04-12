@@ -33,16 +33,14 @@ components:
 - text_block:
   - title: Introduction
     body: >
-      Mayor Martin J. Walsh’s proposed $3.14 billion Fiscal Year 2018 (FY18) budget 
-      balances sustainability, increased investment, and fiscal responsibility. Continuing 
-      trends seen in recent years, the Mayor’s proposed FY18 budget relies on growth in 
+      Mayor Martin J. Walsh’s proposed $3.14 billion Fiscal Year 2018 (FY18) budget balances sustainability, increased investment, and fiscal responsibility. Continuing trends seen in recent years, the Mayor’s proposed FY18 budget relies on growth in 
       property tax and other local receipt revenue, but requires control of growth in 
       departmental spending to offset weak state aid revenue and high fixed cost growth. 
       Budgetary growth is maintained at a responsible level given the need to maintain 
       flexibility in the face of continuing uncertainty at other levels of government. Despite 
       these challenges, the budget makes strong statements about the City’s priorities, as is 
       reflected in the proposed investments.
-    right_image: /img/budget-growth.png
+    right_image: /img/recommended-expenditures.png
 - text_col_2:
   - col: >
       <h5>Expanding on savings</h5>
@@ -165,7 +163,7 @@ components:
         go to all other City Services (such as Police, Fire, and Public Works) and the Public Health Commission, 
         and the remaining 22% of growth will be consumed by pension, debt service and other fixed cost expenditures.</p>
     - col:
-      - img: /img/recommended-expenditures.png
+      - img: /img/budget-growth.png
 - grid:
   - title: Education overview
     body: >
@@ -249,152 +247,42 @@ components:
       to build the City that Bostonians imagined.</p>
 - grid:
   - grid_title: Education
-  - title: Extending the school day
-    body: >
-      Insert copy 
-    img: /img/card.jpg
-    link: /featured-analysis/extended-school-day/
-  - title: Closing opportunity and achievement gaps
-    body: >
-      Insert copy  
-    img: /img/card.jpg
-    link: /featured-analysis/closing-opportunity-achievement-gaps/
-  - title: Supporting our students most in need
-    body: >
-      Insert copy 
-    img: /img/card.jpg
-    link: /featured-analysis/supporting-students-most-in-need
-  - title: BuildBPS
-    body: >
-      Insert copy 
-    img: /img/card.jpg
-    link: /featured-analysis/buildbps/
+  - card: /featured-analysis/extended-school-day/
+  - card: /featured-analysis/closing-opportunity-achievement-gaps/
+  - card: /featured-analysis/supporting-students-most-in-need
+  - card: /featured-analysis/buildbps/
 - grid:
-  - grid_title: Additional priorities
-  - title: Implementing Boston’s Homeless Action Plan
-    body: >
-      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
-      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
-      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
-    img: /img/card.jpg
-    link: /featured-analysis/housing-homeless-action-plan/
-  - title: Improving Homeless Shelter Service and Safety
-    body: >
-      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
-      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
-      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
-    img: /img/card.jpg
-    link: /featured-analysis/housing-homeless-shelter-service-safety/
-  - title: Housing a Changing City - Boston 2030
-    body: >
-      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
-      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
-      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
-    img: /img/card.jpg
-    link: /featured-analysis/housing-boston-2030/
-  - title: Advancing Racial Equity, Diversity and Economic Mobility
-    body: >
-      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
-      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
-      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
-    img: /img/card.jpg
-    link: /featured-analysis/prosperity-racial-equity-diversity-economic-mobility/
-  - title: Recruiting a Diverse Police Force
-    body: >
-      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
-      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
-      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
-    img: /img/card.jpg
-    link: /featured-analysis/prosperity-recruiting-diverse-police-force/
-  - title: Launching Go Boston 2030
-    body: >
-      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
-      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
-      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
-    img: /img/card.jpg
-    link: /featured-analysis/streets-launching-go-boston-2030/
-  - title: Keeping Boston Streets Clean and Safe
-    body: >
-      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
-      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
-      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
-    img: /img/card.jpg
-    link: /featured-analysis/streets-keeping-streets-clean-safe/
-  - title: Implementing Imagine Boston 2030’s Open Space Goals
-    body: >
-      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
-      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
-      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
-    img: /img/card.jpg
-    link: /featured-analysis/open-space-imagine-boston-2030-goals/
-  - title: Ensuring Accessible and Equitable Parks
-    body: >
-      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
-      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
-      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
-    img: /img/card.jpg
-    link: /featured-analysis/open-space-accessible-equitable-parks/
-  - title: Preparing for Climate Change
-    body: >
-      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
-      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
-      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
-    img: /img/card.jpg
-    link: /featured-analysis/energy-environment-preparing-for-climate-change/
-  - title: Investing in the Arts
-    body: >
-      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
-      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
-      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
-    img: /img/card.jpg
-    link: /featured-analysis/arts-investing-in-the-arts/
-  - title: Preserving Boston Public Library’s Special Collections
-    body: >
-      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
-      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
-      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
-    img: /img/card.jpg
-    link: /featured-analysis/arts-preserving-bpl-special-collections/
-  - title: Building Thriving Community Libraries
-    body: >
-      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
-      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
-      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
-    img: /img/card.jpg
-    link: /featured-analysis/arts-thriving-community-libraries/
-  - title: Improving and Expanding Addiction Services
-    body: >
-      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
-      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
-      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
-    img: /img/card.jpg
-    link: /featured-analysis/health-safety-addiction-services/
-  - title: Promoting a Proactive and Agile Boston EMS through Data
-    body: >
-      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
-      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
-      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
-    img: /img/card.jpg
-    link: /featured-analysis/health-safety-proactive-agile-ems-through-data/
-  - title: Promoting Firefighter Health and Safety
-    body: >
-      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
-      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
-      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
-    img: /img/card.jpg
-    link: /featured-analysis/health-safety-firefighter-health-safety/
-  - title: Putting Data Analytics to Work
-    body: >
-      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
-      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
-      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
-    img: /img/card.jpg
-    link: /featured-analysis/technology-data-analytics/
-  - title: Improving City Services through CityScore
-    body: >
-      Insert copy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sit amet ultrices 
-      justo. Phasellus vel libero tortor. Pellentesque vel facilisis lorem, et dignissim nibh. 
-      Mauris accumsan nulla leo, sed sodales sapien ultrices at. 
-    img: /img/card.jpg
-    link: /featured-analysis/technology-city-services-through-cityscore/
+  - grid_title: Housing
+  - card: /featured-analysis/housing-homeless-action-plan/
+  - card: /featured-analysis/housing-homeless-shelter-service-safety/
+  - card: /featured-analysis/housing-boston-2030/
+- grid: 
+  - grid_title: Prosperity and Equity
+  - card: /featured-analysis/prosperity-racial-equity-diversity-economic-mobility/
+  - card: /featured-analysis/prosperity-recruiting-diverse-police-force/
+- grid: 
+  - grid_title: Streets
+  - card: /featured-analysis/streets-launching-go-boston-2030/
+  - card: /featured-analysis/streets-keeping-streets-clean-safe/
+- grid: 
+  - grid_title: Open Space
+  - card: /featured-analysis/open-space-imagine-boston-2030-goals/
+  - card: /featured-analysis/open-space-accessible-equitable-parks/
+- grid: 
+  - grid_title: Energy and Environment
+  - card: /featured-analysis/energy-environment-preparing-for-climate-change/
+- grid: 
+  - grid_title: Arts and Culture
+  - card: /featured-analysis/arts-investing-in-the-arts/
+  - card: /featured-analysis/arts-preserving-bpl-special-collections/
+  - card: /featured-analysis/arts-thriving-community-libraries/
+- grid:
+  - grid_title: Health and Safety
+  - card: /featured-analysis/health-safety-addiction-services/
+  - card: /featured-analysis/health-safety-proactive-agile-ems-through-data/
+  - card: /featured-analysis/health-safety-firefighter-health-safety/
+- grid: 
+  - grid_title: Technology
+  - card: /featured-analysis/technology-data-analytics/
+  - card: /featured-analysis/technology-city-services-through-cityscore/
 ---

@@ -6,8 +6,7 @@ components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - current: Capital Projects
   - published: 4/13/17
 - intro:
