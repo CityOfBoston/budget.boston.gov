@@ -235,7 +235,7 @@ components:
         <p>With investments in roads, bridges, schools, libraries, parks, firehouses, and 
         community centers, the Imagine Boston Capital Plan touches each neighborhood and shapes 
         a City that over 14,000 voices told us they want to see.</p>
-        <a class="button" href="/capital-projects">View the Capital Plan</a>
+        <a class="button" href="https://budget.boston.gov/capital-projects">View the Capital Plan</a>
 - text_block:
   - title: FY18 Budget Priorities
     body: >
