@@ -63,7 +63,7 @@ layout: bos_wrapper
           <a href="{{ site.url }}/capital-projects/{{ department[0] | replace: "'","" | slugify }}">{{ department[0] }}</a>
         </td>
         <td>
-          <a href="{{ site.url }}/capital-projects/{{ page.name | replace: "'","" | slugify }}/{{ project.name | slugify }}">{{ project.name }}</a>
+          <a href="{{ site.url }}/capital-projects/{{ department[0] | replace: "'","" | slugify }}/{{ project.name | slugify }}">{{ project.name }}</a>
         </td>
         <td>{{ project.location }}</td>
         <td>{{ project.status }}</td>

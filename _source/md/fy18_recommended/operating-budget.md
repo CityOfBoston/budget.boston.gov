@@ -6,8 +6,6 @@ components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
   - current: Operating Budget
   - published: 4/13/17
 - intro:
