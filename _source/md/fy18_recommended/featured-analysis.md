@@ -21,17 +21,17 @@ components:
     sidebar_menu: true
 - grid: 
   - grid_title: General
-  - card: /featured-analysis/data-analytics
-  - card: /featured-analysis/state-and-city-economies
-  - card: /featured-analysis/nationa-economy
+  - card: /featured-analysis/data-analytics/
+  - card: /featured-analysis/state-and-city-economies/
+  - card: /featured-analysis/national-economy/
 - grid: 
   - grid_title: Revenue
-  - card: /featured-analysis/revenue-overview
-  - card: /featured-analysis/revenue-estimates
-  - card: /featured-analysis/state-aid
+  - card: /featured-analysis/revenue-overview/
+  - card: /featured-analysis/revenue-estimates/
+  - card: /featured-analysis/state-aid/
 - grid: 
   - grid_title: Expenditures
-  - card: /featured-analysis/streets-keeping-streets-clean-safe
-  - card: /featured-analysis/weighted-student-funding
-  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/streets-keeping-streets-clean-safe/
+  - card: /featured-analysis/weighted-student-funding/
+  - card: /featured-analysis/bps-long-term-financial-plan/
 ---

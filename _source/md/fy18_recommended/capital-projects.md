@@ -13,9 +13,9 @@ components:
 - intro:
   - title: Capital Projects
     short_desc: >
-      <iframe width="100%" height="400px" src="http://app01.cityofboston.gov/BudgetFY17_21/"></iframe>
+      <iframe width="100%" height="400px" src="http://boston.maps.arcgis.com/apps/Embed/index.html?webmap=09bf3f687c4945f9a1645f1babaf3fbc&amp;extent=-71.3152,42.2138,-70.8082,42.4146&amp;zoom=true&amp;scale=true&amp;disable_scroll=true&amp;theme=light"></iframe>
       <p>
-      <a href="http://app01.cityofboston.gov/BudgetFY17_21/" target="_blank">View the map in a new tab</a> 
+      <a href="http://arcg.is/1ema5i" target="_blank">View the map in a new tab</a> 
       </p>
     sidebar_menu: true
 - text_block:
@@ -747,20 +747,19 @@ components:
       the overall distribution of these categories to maintain a balance between the 
       upkeep of existing assets and the expansion or introduction of new ones.
 - text_col_2:
-  - col: >
-      img: /img/featured_analysis/capital-expenditures.png
+  - col: 
+    - img: /img/featured_analysis/capital-expenditures.png
   - col: >
       <h5>Upkeep</h5>
       <p>Upkeep represents projects that maintain the City’s assets, a fundamental priority 
       of the Capital Plan. In FY18, 21% of projected spending supports Upkeep projects. These 
       include:</p>
-        <ul>
-          <li>roof and masonry repairs;</li>
-          <li>the replacement of play equipment in parks;</li>
-          <li>HVAC and boiler replacement; and</li>
-          <li>critical repair funds for departments to address relatively small but vital 
-          repair projects not covered by routine maintenance.</li>
-        </ul>
+      <ul>
+      <li>roof and masonry repairs;</li>
+      <li>the replacement of play equipment in parks;</li>
+      <li>HVAC and boiler replacement; and</li>
+      <li>critical repair funds for departments to address relatively small but vital repair projects not covered by routine maintenance.</li>
+      </ul>
       <p>A substantial portion of the Upkeep category supports on-going bridge, street, 
       sidewalk, and street lighting repairs that ensure the City’s roads and sidewalks 
       are safe and in good condition.</p>
