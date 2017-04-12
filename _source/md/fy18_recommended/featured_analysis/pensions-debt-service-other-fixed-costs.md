@@ -2,14 +2,20 @@
 layout: bos_content
 permalink: /featured-analysis/pensions-debt-service-other-fixed-costs/
 title: Pensions, Debt Service, and Other Fixed Costs
+card:
+  - title: Pensions, Debt Service, and Other Fixed Costs
+    body: >
+      Pensions, debt service and other fixed costs consume 22% of the budget growth.
+    img: /img/featured_analysis/cards/fa-pensions-debt-service-other-fixed-costs.jpg
+    link: /featured-analysis/pensions-debt-service-other-fixed-costs/
 components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - title: Featured Analysis
     url: "/featured-analysis/"
+    local: true
   - current: Pensions, Debt Service, and Other Fixed Costs
   - published: 4/13/17
 - intro:
@@ -40,21 +46,9 @@ components:
     - img: /img/placeholder-300x400.png
     - blurb: >
         Pension Funding Schedule
-- grid:
+- grid: 
   - grid_title: More budget analysis
-  - title: Handy dandy title
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /#/
-  - title: This one's witty, too
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
-    link: /#/
-  - title: Rumple Stiltskin
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
-    link: /#/
+  - card: /featured-analysis/bps-long-term-financial-plan/
+  - card: /featured-analysis/bps-long-term-financial-plan/
+  - card: /featured-analysis/bps-long-term-financial-plan/
 ---

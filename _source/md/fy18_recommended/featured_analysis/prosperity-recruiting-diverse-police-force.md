@@ -2,22 +2,27 @@
 layout: bos_content
 permalink: /featured-analysis/prosperity-recruiting-diverse-police-force/
 title: Recruiting a Diverse Police Force
+card:
+  - title: Recruiting a Diverse Police Force
+    body: >
+      Boston will add 20 police cadets for a pipeline of diverse young people
+    img: /img/featured_analysis/cards/fa-prosperity-recruiting-diverse-police-force.jpg
+    link: /featured-analysis/prosperity-recruiting-diverse-police-force/
 components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - title: Featured Analysis
     url: "/featured-analysis/"
+    local: true
   - current: Recruiting a Diverse Police Force
   - published: 4/13/17
 - intro:
   - title: Recruiting a diverse police force
     short_desc: >
       In November of 2016, Mayor Walsh and Police Commissioner Evans swore in 
-      the first class of Police Cadets since 2009, a training program for Boston's 
-      youth seeking a career in law enforcement.
+      the first class of Police Cadets since 2009, a training program for Boston's youth seeking a career in law enforcement.
     description: >
       Building on the success of recruiting a diverse class of 42 included 74% cadets 
       of color and 36% female cadets, Mayor Walsh’s FY18 budget adds another class, 
@@ -37,24 +42,10 @@ components:
       of FY19 and FY20, while the FY18 cadet class of 20 will be eligible to join the 
       recruit class of FY21.</p>
   - col: >
-      img: /img/placeholder-300x400.png
-      blurb: >
-        Cadets of color
-- grid:
+      img: /img/police-cadets.png
+- grid: 
   - grid_title: More budget analysis
-  - title: Handy dandy title
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /#/
-  - title: This one's witty, too
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
-    link: /#/
-  - title: Rumple Stiltskin
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
-    link: /#/
+  - card: /featured-analysis/bps-long-term-financial-plan/
+  - card: /featured-analysis/bps-long-term-financial-plan/
+  - card: /featured-analysis/bps-long-term-financial-plan/
 ---
