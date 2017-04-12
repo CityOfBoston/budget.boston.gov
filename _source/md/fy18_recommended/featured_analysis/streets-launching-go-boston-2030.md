@@ -2,21 +2,26 @@
 layout: bos_content
 permalink: /featured-analysis/streets-launching-go-boston-2030/
 title: Launching Go Boston 2030
+card:
+  - title: Launching Go Boston 2030
+    body: >
+      The Capital Plan will invest $709 million over five years in Go Boston 2030
+    img: /img/featured_analysis/cards/fa-streets-launching-go-boston-2030.jpg
+    link: /featured-analysis/streets-launching-go-boston-2030/
 components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - title: Featured Analysis
     url: "/featured-analysis/"
+    local: true
   - current: Launching Go Boston 2030
   - published: 4/13/17
 - intro:
   - title: Launching Go Boston 2030
     short_desc: >
-      Mayor Walsh’s FY18-22 Capital Plan invests $343 million over the next five 
-      years in implementing the core initiatives outlined in Go Boston 2030. 
+      Mayor Walsh’s FY18-22 Capital Plan, drawing on City, State and Federal sources, will invest $709 million over the next five years in implementing the core initiatives outlined in Go Boston 2030. 
     description: >
       Under Go Boston 2030, Boston will strive for streets that are safer for 
       all users of our roads and sidewalks, particularly pedestrians and cyclists, 
@@ -61,22 +66,10 @@ components:
         <li>Puts the City on a sustainable capital program to maintain bridges, roads, 
         sidewalks, off-street paths, street lighting, and building facilities essential 
         to the high-quality delivery of services.</li>
-      </ul>      
-- grid:
+      </ul>
+- grid: 
   - grid_title: More budget analysis
-  - title: Handy dandy title
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /#/
-  - title: This one's witty, too
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
-    link: /#/
-  - title: Rumple Stiltskin
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
-    link: /#/
+  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/bps-long-term-financial-plan
 ---

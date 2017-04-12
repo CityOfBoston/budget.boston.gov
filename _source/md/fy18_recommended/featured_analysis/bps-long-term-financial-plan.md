@@ -7,7 +7,7 @@ card:
     body: >
       BPS is committed to unlocking resources to invest in student success. See how.
     img: /img/featured_analysis/cards/fa-bps-long-term-financial-plan.jpg
-    link: /featured-analysis/bps-long-term-financial-plan
+    link: /featured-analysis/bps-long-term-financial-plan/
 components:
 - breadcrumbs:
   - title: Home

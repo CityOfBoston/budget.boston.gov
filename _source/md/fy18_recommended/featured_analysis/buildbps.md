@@ -7,15 +7,15 @@ card:
     body: >
       The City will invest $1 billion to modernize Boston's public school infrastructure. See how.
     img: /img/featured_analysis/cards/fa-buildbps.jpg
-    link: /featured-analysis/buildbps
+    link: /featured-analysis/buildbps/
 components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - title: Featured Analysis
     url: "/featured-analysis/"
+    local: true
   - current: BuildBPS
   - published: 4/13/17
 - intro:
@@ -31,8 +31,8 @@ components:
       the Massachusetts School Building Authority (MSBA), the plan will more than double 
       the capital spending on BPS facilities over the next decade. Mayor Walsh’s FY18-22
       Capital Plan begins to implement early action BuildBPS initiatives while reserving 
-      funding for projects coming out of the BuildBPS engagement process. CAPITAL INVESTMENT IN SCHOOLS
-    right_image: img/placeholder-300x400.png
+      funding for projects coming out of the BuildBPS engagement process.
+    right_image: img/capital-investment-in-schools.png
     sidebar_menu: true    
 - text_block:
   - title: BuildBPS overview

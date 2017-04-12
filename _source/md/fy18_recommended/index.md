@@ -6,8 +6,6 @@ components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
   - current: Executive Summary
   - published: 4/13/17
 - intro:
@@ -223,11 +221,7 @@ components:
         with funding for 21st Century Classrooms, MSBA Accelerated Repair Program 
         partnerships, completion of projects in the pipeline, and reserves for future 
         projects coming out of BuildBPS community engagement.</li>
-        <li>Boston will invest $343 million over the next five years in implementing the 
-        core initiatives outlined in Go Boston 2030: streets that are safer for all users 
-        of our roads and sidewalks, particularly pedestrians and cyclists; travel that 
-        is more reliable and predictable; and quality transportation choices that improve 
-        access to interconnect our neighborhoods for all modes of travel.</li>
+        <li>Boston, in collaboration with State and Federal sources, will invest $709 million over the next five years in implementing the core initiatives outlined in Go Boston 2030: streets that are safer for all users of our roads and sidewalks, particularly pedestrians and cyclists; travel that is more reliable and predictable; and quality transportation choices that improve access to interconnect our neighborhoods for all modes of travel. </li>
         <li>Through the use of Winthrop Square proceeds, City capital dollars, and 
         leveraging external funds, Mayor Walsh plans to carry out early actions to implement 
         Imagine Boston 2030’s Open Space goals, including investing in Franklin Park as a 
@@ -281,18 +275,6 @@ components:
       Insert copy 
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
     link: /featured-analysis/buildbps/
-- text_col_2: 
-  - col: >
-      <p>This Capital Plan allows Boston to invest in BPS projects already in the pipeline:</p>
-      <ul>
-      <li>Slated to be completed in winter of 2017/2018, the $73 million Dearborn STEM Academy will open for students in September 2018. The project, which leverages a projected $37 million match from the MSBA, is designed based upon a project-based learning curriculum, with an emphasis on STEM education.</li>
-      <li>Over the next two years, the Eliot School construction projects will be completed. The new $23 million North Bennet Street building will welcome 5th to 8th graders this fall into a 21st century learning environment while this summer, the final phase of construction will begin at the Commercial Street building.</li>
-      </ul>
-  - col: >
-      <ul>
-      <li>The Capital Plan provides for Boston’s matching investment in the Josiah Quincy Upper School (JQUS) and Boston Arts Academy (BAA), which are collaborative projects with the Massachusetts School Building Authority (MSBA).</li>
-      </ul>
-      <p>In total, Boston will invest more than $312 million in BPS capital projects over the next five years, with an additional $418 million committed for the following five years. When combined with projected MSBA matching funds, Boston is committing the $1 billion in BPS capital projects over ten years.</p>
 - grid:
   - grid_title: Additional priorities
   - title: Implementing Boston’s Homeless Action Plan
