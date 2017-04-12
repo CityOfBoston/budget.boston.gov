@@ -2,7 +2,12 @@
 layout: bos_content
 permalink: /featured-analysis/supporting-students-most-in-need/
 title: Supporting our Students Most in Need
-
+card:
+  - title: 
+    body: >
+      Learn how BPS is directing educational resources to students most in need.
+    img: /img/featured_analysis/cards/fa-supporting-students-most-in-need.jpg
+    link: /featured-analysis/supporting-students-most-in-need/
 components:
 - breadcrumbs:
   - title: Home
@@ -43,4 +48,9 @@ components:
     enrollment. BPS anticipates significant funds from this reserve will support Excel and Brighton, 
     which are in the turnaround planning process and will see budget increases at the conclusion 
     of that process.</p>
+- grid: 
+  - grid_title: More budget analysis
+  - card: /featured-analysis/bps-long-term-financial-plan/
+  - card: /featured-analysis/bps-long-term-financial-plan/
+  - card: /featured-analysis/bps-long-term-financial-plan/
 ---

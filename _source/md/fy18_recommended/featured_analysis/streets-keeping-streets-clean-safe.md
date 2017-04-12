@@ -2,14 +2,20 @@
 layout: bos_content
 permalink: /featured-analysis/streets-keeping-streets-clean-safe/
 title: Keeping Boston's Streets Clean and Safe
+card:
+  - title: Keeping Streets Clean and Safe
+    body: >
+      The FY18 budget invests in making sure city streets are clean and safe.
+    img: /img/featured_analysis/cards/fa-streets-keeping-streets-clean-safe.jpg
+    link: /featured-analysis/streets-keeping-streets-clean-safe/
 components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - title: Featured Analysis
     url: "/featured-analysis/"
+    local: true
   - current: Keeping Boston's Streets Clean and Safe
   - published: 4/13/17
 - intro:
@@ -45,21 +51,9 @@ components:
       quality of life in Boston. As a result of accelerated resurfacing and sidewalk repair in 
       FY17, the percentage of requests for sidewalk repairs addressed on time (within 48 
       hours) increased from 66% in December 2015 to 85% in December 2016.</p>
-- grid:
+- grid: 
   - grid_title: More budget analysis
-  - title: Handy dandy title
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /#/
-  - title: This one's witty, too
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
-    link: /#/
-  - title: Rumple Stiltskin
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
-    link: /#/
+  - card: /featured-analysis/streets-launching-go-boston-2030/
+  - card: /featured-analysis/technology-city-services-through-cityscore/
+  - card: /featured-analysis/technology-data-analytics/
 ---

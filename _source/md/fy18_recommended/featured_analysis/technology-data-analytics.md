@@ -2,14 +2,20 @@
 layout: bos_content
 permalink: /featured-analysis/technology-data-analytics/
 title: Putting Data Analytics to Work
+card:
+  - title: Data Analytics at Work
+    body: >
+      Data Analytics identifies opportunities to improve services through data
+    img: /img/featured_analysis/cards/fa-technology-data-analytics.jpg
+    link: /featured-analysis/technology-data-analytics/
 components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - title: Featured Analysis
     url: "/featured-analysis/"
+    local: true
   - current: Putting Data Analytics to Work
   - published: 4/13/17
 - intro:
@@ -62,21 +68,9 @@ components:
       <li>help students at risk of failing or dropping out of school; and</li>
       <li>promote safe, affordable, and accessible housing for all residents.</li>
       </ul>
-- grid:
+- grid: 
   - grid_title: More budget analysis
-  - title: Handy dandy title
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /#/
-  - title: This one's witty, too
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
-    link: /#/
-  - title: Rumple Stiltskin
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
-    link: /#/
+  - card: /featured-analysis/technology-city-services-through-cityscore/
+  - card: /featured-analysis/health-safety-proactive-agile-ems-through-data/
+  - card: /featured-analysis/closing-opportunity-achievement-gaps/
 ---
