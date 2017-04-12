@@ -45,7 +45,7 @@ components:
     right_image: /img/budget-growth.png
 - text_col_2:
   - col: >
-      <h5>Expaning on savings</h5>
+      <h5>Expanding on savings</h5>
       <p>Even with strong growth in locally derived revenues, it is only through continued 
       tightening within City departments that the City will be able to afford new and expanded 
       investments after reserving for costs associated with collective bargaining, being 

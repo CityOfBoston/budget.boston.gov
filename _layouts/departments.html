@@ -42,7 +42,10 @@ layout: bos_wrapper
   {% include sidebar_menu.html %}
 </div>
 <div>
-  <p><strong>Description of services:</strong> {{ page.description_of_services }}</p>
+  <p>{% if page.description_of_services %}<strong>Description of services:</strong> {{ page.description_of_services }}{% endif %}
+  </p>
+
+  <p></p>
 </div>
 <br />
 
