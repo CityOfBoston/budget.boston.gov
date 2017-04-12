@@ -5,7 +5,7 @@ title: BPS Performance
 card:
   - title: BPS Performance
     body: >
-      asdf
+      Learn about BPS graduation and dropout rates.
     img: /img/featured_analysis/cards/fa-bps-performance.jpg
     link: /featured-analysis/bps-performance
 components:
@@ -107,7 +107,7 @@ components:
       more improvements in our schools across the board.</p>
 - grid:
   - grid_title: More budget analysis
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/bps-operating-budget/
+  - card: /featured-analysis/bps-long-term-financial-plan/
+  - card: /featured-analysis/education-overview/
 ---

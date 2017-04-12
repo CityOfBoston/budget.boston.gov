@@ -3,7 +3,7 @@ layout: bos_content
 permalink: /featured-analysis/bps-operating-budget/
 title: BPS Operating Budget
 card:
-  - title: BPS operating budget
+  - title: BPS Operating Budget
     body: >
       Learn about the targeted research-backed investments BPS will make in FY18.
     img: /img/featured_analysis/cards/fa-bps-operating-budget.jpg
@@ -96,7 +96,7 @@ components:
       be used when agreements are negotiated.
 - grid:
   - grid_title: More budget analysis
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/early-childhood-education/
+  - card: /featured-analysis/special-education/
+  - card: /featured-analysis/supporting-students-most-in-need/
 ---

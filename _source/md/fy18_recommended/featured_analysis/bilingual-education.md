@@ -38,7 +38,7 @@ components:
       Second Language (ESL) licenses.
 - grid:
   - grid_title: More budget analysis
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/supporting-students-most-in-need/
+  - card: /featured-analysis/closing-opportunity-achievement-gaps/
+  - card: /featured-analysis/weighted-student-funding/
 ---
