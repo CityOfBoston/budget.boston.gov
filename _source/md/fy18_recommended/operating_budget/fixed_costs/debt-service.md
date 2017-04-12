@@ -2,12 +2,17 @@
 layout: bos_content
 permalink: /operating-budget/debt-service/
 title: Debt service
+card:
+  - title: Debt service
+    body: >
+      Strong financial management lowers Boston's cost of borrowing. See how.
+    img: /img/featured_analysis/cards/fa-debt-service.jpg
+    link: /featured-analysis/debt-service
 components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - title: Operating Budget
     url: "/operating-budget/"
     local: true
@@ -16,24 +21,14 @@ components:
 - intro:
   - title: Debt service
     short_desc: >
-      The Debt Service budget supports borrowing to finance the City’s 
-      capital plan. 
+      The Debt service budget supports borrowing to finance the City’s capital plan. 
     description: >
-      In FY18 Debt Service is budgeted at $185.6 million, a 6.1% increase 
-      over the previous year.
+      In FY18 Debt service is budgeted at $185.6 million, a 6.1% increase over the previous year.
     sidebar_menu: true
 - text_block:
   - title: Overview
     body: >
-      The City benefits from its strong financial policies and practices 
-      and has recently been affirmed with triple A bond ratings from Moody’s 
-      and Standard and Poor’s. Strong bond ratings are an assessment of the City’s 
-      long-term financial stability and lower the cost of borrowing. <blockquote>As 
-      the City borrows more over ten years to support investments in its schools, 
-      debt service is projected to increase as well. In FY18 Debt Service is budgeted 
-      at $185.6 million, a 6.1% increase over the previous year. </blockquote> For 
-      further detail see the Capital Planning and Financial Management chapters of 
-      this volume.
+      The City benefits from its strong financial policies and practices and has recently been affirmed with triple A bond ratings from Moody’s and Standard and Poor’s. Strong bond ratings are an assessment of the City’s long-term financial stability and lower the cost of borrowing. <blockquote>As the City borrows more over ten years to support investments in its schools, debt service is projected to increase as well. In FY18 Debt Service is budgeted at $185.6 million, a 6.1% increase over the previous year. </blockquote> For further detail, view <a href="/capital-projects">Capital Planning</a> and <a href="/financial-management">Financial Management</a>.
 - table:
   - title: Debt service
     right_text:
@@ -41,8 +36,21 @@ components:
       link: /operating-budget
     columns:
       - "Category": Totals
-        "FY15 Actual": 148.01
-        "FY16 Actual": 157.69
-        "FY17 Budget": 174.95
-        "FY18 Budget": 185.58
+        "FY15 Actual": 
+          value: 148.01
+          filter: delimiter
+        "FY16 Actual": 
+          value: 157.69
+          filter: delimiter
+        "FY17 Budget": 
+          value: 174.95
+          filter: delimiter
+        "FY18 Budget": 
+          value: 185.58
+          filter: delimiter
+- grid: 
+  - grid_title: More budget analysis
+  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/bps-long-term-financial-plan
 ---

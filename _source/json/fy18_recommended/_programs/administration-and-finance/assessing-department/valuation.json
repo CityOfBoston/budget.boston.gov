@@ -154,28 +154,7 @@
               "fy-1":"",
               "fy-0":"502",
               "fy+1":"1,000"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "section_name":"Performance",
-      "strategy":[
-        "Resolve abatement appeal cases"
-      ],
-      "performance_measures":[
-        {
-          "table_header":{
-            "debug":"JPM",
-            "Performance Goals":"Performance Measures",
-            "line_type":"header",
-            "fy-2":"FY15 Actual",
-            "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Target",
-            "fy+1":"FY18 Target"
-          },
-          "data":[
+            },
             {
               "line_type":"data",
               "line_data":"% of residential and condo abatement applications reviewed within 90 days.",

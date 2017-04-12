@@ -2,12 +2,6 @@
 layout: bos_content
 permalink: /operating-budget/reserves-for-collective-bargaining/
 title: Reserves for collective bargaining
-card:
-  - title: Reserves for collective bargaining
-    body: >
-      Preparing for future labor wage agreements.  See how.
-    img: /img/featured_analysis/cards/fa-reserves-for-collective-bargaining.jpg
-    link: /featured-analysis/reserves-for-collective-bargaining
 components:
 - breadcrumbs:
   - title: Home

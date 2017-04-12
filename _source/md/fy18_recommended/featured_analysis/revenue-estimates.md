@@ -2,14 +2,20 @@
 layout: bos_content
 permalink: /featured-analysis/revenue-estimates/
 title: Revenue Estimates
+card:
+  - title: Revenue estimates
+    body: >
+      How does Boston fund the city services you care about? Find out here.
+    img: /img/featured_analysis/cards/fa-revenue-estimates.jpg
+    link: /featured-analysis/revenue-estimates
 components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - title: Featured Analysis
     url: "/featured-analysis/"
+    local: true
   - current: Revenue Estimates
   - published: 4/13/17
 - intro:
@@ -20,7 +26,7 @@ components:
     description: >
       Local sources continue to drive revenue growth in FY18, as property 
       tax and local receipts make up 93% of revenue growth over FY17.
-    right_image: /img/fy18-estimated-revenue.jpg
+    right_image: /img/featured_analysis/pages/fy18-estimated-revenue.png
     sidebar_menu: true    
 - text_block:
   - title: Breaking down revenue
@@ -53,34 +59,10 @@ components:
         </ul>
 - grid:
   - grid_title: More budget analysis
-  - title: Property Tax
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/property-tax/
-  - title: State Aid
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/state-aid/
-  - title: Local Receipts
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/local-receipts/
-  - title: Available Funds
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/available-funds/
-  - title: Non-recurring Revenue
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/non-recurring-revenue/
-  - title: Revenue Overview
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/revenue-overview/
+  - card: /featured-analysis/property-tax/
+  - card: /featured-analysis/state-aid/
+  - card: /featured-analysis/local-receipts/
+  - card: /featured-analysis/available-funds/
+  - card: /featured-analysis/non-recurring-revenue/
+  - card: /featured-analysis/revenue-overview/
 ---

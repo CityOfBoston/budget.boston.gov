@@ -2,14 +2,20 @@
 layout: bos_content
 permalink: /featured-analysis/state-and-city-economies/
 title: State and City Economies
+card:
+  - title: State and City economies
+    body: >
+      Learn about the state and local economic recovery since the recent recession.
+    img: /img/featured_analysis/cards/fa-state-and-city-economies.jpg
+    link: /featured-analysis/state-and-city-economies
 components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - title: Featured Analysis
     url: "/featured-analysis/"
+    local: true
   - current: State and City economies
   - published: 4/13/17
 - intro:
@@ -21,7 +27,7 @@ components:
     description: >
       The state remains one of the richest in terms of its GDP per capita – $64,017 
       in 2015 – 4th in the nation and 128% of the national average.
-    right_image: /img/real-gross-product-growth.jpg
+    right_image: /img/featured_analysis/pages/real-gross-product-growth.png
     sidebar_menu: true
 - text_block:
   - title: Unemployment and wages
@@ -48,19 +54,7 @@ components:
       the national average of 3.5%.</blockquote></p>
 - grid:
   - grid_title: More budget analysis
-  - title: National Economy
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/national-economy/
-  - title: Commonwealth Budget
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/commonwealth-budget/
-  - title: Revenue Estimates
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/revenue-estimates/
+  - card: /featured-analysis/national-economy/
+  - card: /featured-analysis/commonwealth-budget/
+  - card: /featured-analysis/revenue-estimates/
 ---

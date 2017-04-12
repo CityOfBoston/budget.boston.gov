@@ -150,8 +150,8 @@
             {
               "line_type":"data",
               "line_data":"% contracts routed within 3 days of receipt.",
-              "fy-2":"87.5%",
-              "fy-1":"85.7%",
+              "fy-2":"88%",
+              "fy-1":"86%",
               "fy-0":"100%",
               "fy+1":"100%"
             }
@@ -179,8 +179,8 @@
             {
               "line_type":"data",
               "line_data":"% procurement documents approved within 3 days.",
-              "fy-2":"91.9%",
-              "fy-1":"92.7%",
+              "fy-2":"92%",
+              "fy-1":"93%",
               "fy-0":"80%",
               "fy+1":"80%"
             }
@@ -208,8 +208,8 @@
             {
               "line_type":"data",
               "line_data":"% vendor invoices processed within 5 days.",
-              "fy-2":"98.3%",
-              "fy-1":"98.8%",
+              "fy-2":"98%",
+              "fy-1":"99%",
               "fy-0":"100%",
               "fy+1":"100%"
             }

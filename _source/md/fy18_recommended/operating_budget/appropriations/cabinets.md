@@ -6,8 +6,7 @@ components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - title: Operating Budget
     url: "/operating-budget/"
     local: true
@@ -22,10 +21,15 @@ components:
     sidebar_menu: true
 - text_block:
   - title: Cabinet Appropriations
-    body: >
+- text_col_2:
+  - col: >
       <p>The combined appropriations for City Departments, the Public Health Commission (PHC) and the School Department (BPS), and non-departmental appropriations as shown in the FY18 Budget Summary have increased by 4.0% from the FY17 appropriations.</p>
       <p>Of that growth, Boston Public Schools is increasing by $40.3 million (3.9%) with a $1.061 billion appropriation and $20 million collective bargaining reserve. Boston’s total investment in education is growing by $57.8 million (4.8%), including BPS and the City’s Charter School Assessment.</p>
       <p>City Services such as Police, Fire, Public Works, Housing and Public Health are projected to increase by a total of $54.0 million (4.3%), including funding reserved for collective bargaining. Public safety costs are rising by 3.5% in FY18. Streets cabinet departments, Public Health Commission and 37 other departments are increasing by an average of 1.5%. Twenty-three of these departments will see a reduction in their appropriation in FY18. Funding for City collective bargaining costs are centralized in a $27 million collective bargaining reserve. In addition, health insurance costs are projected to increase by $10.6 million (5.2%), even after achieving health care cost containment savings.</p>
+  - col: 
+    - img: /img/featured_analysis/pages/fy18-appropriations-by-cabinet.png
+    - blurb: >
+        <p>The FY18 Recommended Budget continues and expands upon a number of savings initiatives launched under Mayor Walsh’s Administration such as health care cost containment reforms, reducing overtime, inactivating vacant positions, and reducing energy consumption. It is only through continued tightening within City departments that the City will be able to afford new and expanded investments after reserving for costs associated with collective bargaining, being assessed for its increasing charter school costs, funding its pension obligations, and paying its debt service.</p>
 - table:
   - title: Appropriations by Cabinet
     right_text:
@@ -242,9 +246,4 @@ components:
         "FY18 Budget":
            value: 145114722
            filter: delimiter
-      - "Cabinet": Total Cabinet Appropriations
-        "FY15 Actual": 
-        "FY16 Actual": 
-        "FY17 Budget": 
-        "FY18 Budget": 
 ---

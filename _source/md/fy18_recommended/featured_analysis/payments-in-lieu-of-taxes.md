@@ -2,14 +2,20 @@
 layout: bos_content
 permalink: /featured-analysis/payments-in-lieu-of-taxes/
 title: Payments in Lieu of Taxes
+card:
+  - title: PILOT revenue
+    body: >
+      Payments in Lieu of Taxes (PILOTs) are made by property tax-exempt institutions located in the City.
+    img: /img/featured_analysis/cards/fa-payments-in-lieu-of-taxes.jpg
+    link: /featured-analysis/payments-in-lieu-of-taxes
 components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - title: Featured Analysis
     url: "/featured-analysis/"
+    local: true
   - current: Payments in Lieu of Taxes
   - published: 4/13/17
 - intro:
@@ -37,56 +43,22 @@ components:
       FY12 and that year includes the first installment of a five-year phase-in 
       period to the new amounts. FY17 is the first year after that phase-in 
       period.</blockquote></p>
-  - col: >
-      <h5>Revenue expected to grow</h5>
-      <p>Payments in lieu of taxes totaled $49.4 million in FY15 and $51.2 million 
-      in FY16. The City expects this revenue source to exceed the $44.5 million budgeted 
-      for FY17 and estimates $45.0 million in FY18.</p>
+  - col:
+    - blurb: >
+        <h5>Revenue expected to grow</h5>
+        <p>Payments in lieu of taxes totaled $49.4 million in FY15 and $51.2 million 
+        in FY16. The City expects this revenue source to exceed the $44.5 million budgeted 
+        for FY17 and estimates $45.0 million in FY18.</p>
+    - img: /img/featured_analysis/pages/recurring-local-receipts.png
 - grid:
   - grid_title: More budget analysis
-  - title: Revenue Estimates
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/revenue-estimates/
-  - title: Local Receipts
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/local-receipts/
-  - title: Excise Taxes
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: /img/excise-taxes.jpg
-    link: /featured-analysis/excise-taxes/
-  - title: Parking Fines
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/parking-fines/
-  - title: Interest on Investments
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/interest-on-investments/
-  - title: Urban Redevelopment Ch. 121A
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: /img/fa-urban-redevelopment-ch-121a.jpg
-    link: /featured-analysis/urban-redevelopment-ch-121a/
-  - title: Miscellaneous Department Revenue
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/misc-dept-revenue/
-  - title: Licenses and Permits
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/licences-and-permits/
-  - title: Penalties and Interest
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/penalties-and-interest/
+  - card: /featured-analysis/revenue-estimates/
+  - card: /featured-analysis/local-receipts/
+  - card: /featured-analysis/excise-taxes/
+  - card: /featured-analysis/parking-fines/
+  - card: /featured-analysis/interest-on-investments/
+  - card: /featured-analysis/urban-redevelopment-ch-121a/
+  - card: /featured-analysis/misc-dept-revenue/
+  - card: /featured-analysis/licences-and-permits/
+  - card: /featured-analysis/penalties-and-interest/
 ---

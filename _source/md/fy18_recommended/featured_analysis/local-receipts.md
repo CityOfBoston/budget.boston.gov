@@ -2,14 +2,20 @@
 layout: bos_content
 permalink: /featured-analysis/local-receipts/
 title: Local Receipts
+card:
+  - title: Local receipt revenue
+    body: >
+      Local revenues are an increasing share of Boston’s recurring revenue.
+    img: /img/featured_analysis/cards/fa-local-receipts.jpg
+    link: /featured-analysis/local-receipts
 components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - title: Featured Analysis
     url: "/featured-analysis/"
+    local: true
   - current: Local Receipts
   - published: 4/13/17
 - intro:
@@ -41,7 +47,7 @@ components:
       of other data.</p>
       <p>The following is a brief description of selected local receipts and
       their expectations for FY18:</p>
-    right_image: /img/recurring-local-receipts.jpg
+    right_image: /img/featured_analysis/pages/recurring-local-receipts-including-hotel.png
 - text_col_2:
   - col: >
       <ul>
@@ -80,56 +86,20 @@ components:
       through new revenue audits verifying the accuracy of information reported for 
       certain fees.</li>
       </ul>
-- text-block:
+- text_block:
   - body: >
       <p>The remaining sources of recurring revenue to the City are set rates of fees, 
       fines, penalties and interest. These usually endure economic changes with small 
       changes in activity or revenue.</p>
 - grid:
   - grid_title: More budget analysis
-  - title: Revenue Estimates
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/revenue-estimates/
-  - title: Excise Taxes
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: /img/excise-taxes.jpg
-    link: /featured-analysis/excise-taxes/
-  - title: Parking Fines
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/parking-fines/
-  - title: Interest on Investments
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/interest-on-investments/
-  - title: Payments In Lieu Of Taxes
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: /img/fa-payments-in-lieu-of-taxes.jpg
-    link: /featured-analysis/payments-in-lieu-of-taxes/
-  - title: Urban Redevelopment Ch. 121A
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: /img/fa-urban-redevelopment-ch-121a.jpg
-    link: /featured-analysis/urban-redevelopment-ch-121a/
-  - title: Miscellaneous Department Revenue
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/misc-dept-revenue/
-  - title: Licenses and Permits
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/licences-and-permits/
-  - title: Penalties and Interest
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/penalties-and-interest/
+  - card: /featured-analysis/revenue-estimates/
+  - card: /featured-analysis/excise-taxes/
+  - card: /featured-analysis/parking-fines/
+  - card: /featured-analysis/interest-on-investments/
+  - card: /featured-analysis/payments-in-lieu-of-taxes/
+  - card: /featured-analysis/urban-redevelopment-ch-121a/
+  - card: /featured-analysis/misc-dept-revenue/
+  - card: /featured-analysis/licences-and-permits/
+  - card: /featured-analysis/penalties-and-interest/
 ---

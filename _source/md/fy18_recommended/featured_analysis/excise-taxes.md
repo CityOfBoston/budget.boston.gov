@@ -2,14 +2,20 @@
 layout: bos_content
 permalink: /featured-analysis/excise-taxes/
 title: Excise Taxes
+card:
+  - title: Excise tax revenue
+    body: >
+      Boston is projecting strong room occupancy and meals excise revenue.
+    img: /img/featured_analysis/cards/fa-excise-taxes.jpg
+    link: /featured-analysis/excise-taxes
 components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - title: Featured Analysis
     url: "/featured-analysis/"
+    local: true
   - current: Excise Taxes
   - published: 4/13/17
 - intro:
@@ -58,17 +64,14 @@ components:
       International Airport, leisure and hospitality employment numbers, and the 
       consumer price index for recreation for Boston.</p>
   - col:
-    - blurb: >
-        <h5>Vehicle rental surcharges</h5>
-        <p>The vehicle rental surcharge is a revenue-sharing arrangement with the 
-        Commonwealth. Under this arrangement, all vehicle rental contracts originating 
-        in the City are subject to a $10 surcharge. The City receives $1 of 
-        this surcharge.</p>
-    - img: /img/mayor.jpg
-    - blurb: >
-        <p>The City received $300 thousand in FY15 and $1.6 million in FY16. In FY17, 
-        the City expects to exceed the budgeted $1.3 million and the FY18 budget 
-        assumes an increase to $1.5 million.</p>
+      <h5>Vehicle rental surcharges</h5>
+      <p>The vehicle rental surcharge is a revenue-sharing arrangement with the 
+      Commonwealth. Under this arrangement, all vehicle rental contracts originating 
+      in the City are subject to a $10 surcharge. The City receives $1 of 
+      this surcharge.</p>
+      <p>The City received $300 thousand in FY15 and $1.6 million in FY16. In FY17, 
+      the City expects to exceed the budgeted $1.3 million and the FY18 budget 
+      assumes an increase to $1.5 million.</p>
 - text_col_2:
   - col:
     - blurb: > 
@@ -77,7 +80,7 @@ components:
         the previous quarter, but not less than five cents per gallon. Increases in 
         fuel prices lead to increased jet fuel excise revenue. Jet fuel prices have 
         decreased sharply from their peak in FY12:</p>
-    - img: /img/recurring-local-receipts.png
+    - img: /img/featured_analysis/pages/recurring-local-receipts.png
     - blurb: > 
         <ul>
         <li>Jet fuel excise revenue totaled $29.7 million in FY15 and $36.8 million in FY16 due to a late payment from FY15.</li>
@@ -97,49 +100,13 @@ components:
       from the per ride assessment.</blockquote></p>
 - grid:
   - grid_title: More budget analysis
-  - title: Revenue Estimates
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
     link: /featured-analysis/revenue-estimates/
-  - title: Local Receipts
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
     link: /featured-analysis/local-receipts/
-  - title: Parking Fines
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
     link: /featured-analysis/parking-fines/
-  - title: Interest on Investments
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
     link: /featured-analysis/interest-on-investments/
-  - title: Payments In Lieu Of Taxes
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: /img/fa-payments-in-lieu-of-taxes.jpg
     link: /featured-analysis/payments-in-lieu-of-taxes/
-  - title: Urban Redevelopment Ch. 121A
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: /img/fa-urban-redevelopment-ch-121a.jpg
     link: /featured-analysis/urban-redevelopment-ch-121a/
-  - title: Miscellaneous Department Revenue
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
     link: /featured-analysis/misc-dept-revenue/
-  - title: Licenses and Permits
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
     link: /featured-analysis/licences-and-permits/
-  - title: Penalties and Interest
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
     link: /featured-analysis/penalties-and-interest/
 ---

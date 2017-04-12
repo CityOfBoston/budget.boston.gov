@@ -2,12 +2,17 @@
 layout: bos_content
 permalink: /featured-analysis/arts-investing-in-the-arts/
 title: Investing in the Arts
+card:
+  - title: Investing in the arts
+    body: >
+      Boston is investing in the Arts, as recommended in Boston Creates.
+    img: /img/featured_analysis/cards/fa-arts-investing-in-the-arts.jpg
+    link: /featured-analysis/arts-investing-in-the-arts
 components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - title: Featured Analysis
     url: "/featured-analysis/"
   - current: Investing in the Arts

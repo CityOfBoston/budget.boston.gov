@@ -31,8 +31,8 @@ layout: bos_wrapper
     </div>
     <div>
       <h5>
-        <span>{{ page.head_name }},</span>
-        <span>{{ page.head_title }}</span>
+        {% if page.head_name %}<strong><span>{{ page.head_name }},</span></strong>{% endif %}
+        {% if page.head_title %}<strong><span>{{ page.head_title }},</span></strong>{% endif %}
       </h5>
     </div>
   </div>

@@ -2,15 +2,21 @@
 layout: bos_content
 permalink: /featured-analysis/non-recurring-revenue/
 title: Non Recurring Revenue
+card:
+  - title: 
+    body: >
+      The City relies on two sources of non-recurring revenue for non-recurring expenditures. 
+    img: /img/featured_analysis/cards/fa-non-recurring-revenue.jpg
+    link: /featured-analysis/non-recurring-revenue
 components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - title: Featured Analysis
     url: "/featured-analysis/"
-  - current: Non Recurring Revenue
+    local: true
+  - current: Non-recurring Revenue
   - published: 4/13/17
 - intro:
   - title: Non-recurring revenue
@@ -40,19 +46,7 @@ components:
       The FY17 and FY18 budget assume the use of $40.0 million to support OPEB.</p>
 - grid:
   - grid_title: More budget analysis
-  - title: Financial Management
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /financial-management/
-  - title: Other Post-Employment Benefits
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /operating-budget/other-post-employment-benefits/
-  - title: Revenue Overview
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/revenue-overview/
+  - card: /financial-management/
+  - card: /operating-budget/other-post-employment-benefits/
+  - card: /featured-analysis/revenue-overview/
 ---

@@ -2,6 +2,12 @@
 layout: bos_content
 permalink: /featured-analysis/buildbps/
 title: BuildBPS
+card:
+  - title: BuildBPS
+    body: >
+      The City will invest $1 billion to modernize Boston's public school infrastructure. See how.
+    img: /img/featured_analysis/cards/fa-buildbps.jpg
+    link: /featured-analysis/buildbps
 components:
 - breadcrumbs:
   - title: Home
@@ -87,19 +93,7 @@ components:
         billion in BPS capital projects over ten years.</p>
 - grid:
   - grid_title: More budget analysis
-  - title: Handy dandy title
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /#/
-  - title: This one's witty, too
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
-    link: /#/
-  - title: Rumple Stiltskin
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
-    link: /#/
+  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/bps-long-term-financial-plan
 ---

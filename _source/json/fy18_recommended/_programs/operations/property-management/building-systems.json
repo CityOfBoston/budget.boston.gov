@@ -152,16 +152,16 @@
               "line_data":"# of preventive maintenance/corrective maintenance.",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"1",
-              "fy+1":"1"
+              "fy-0":"80",
+              "fy+1":"80"
             },
             {
               "line_type":"data",
               "line_data":"Data looking at how soon HVAC breakdowns are addressed and corrected.",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"1",
-              "fy+1":"1"
+              "fy-0":"80",
+              "fy+1":"80"
             }
           ]
         }

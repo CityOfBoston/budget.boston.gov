@@ -2,14 +2,20 @@
 layout: bos_content
 permalink: /featured-analysis/education-overview/
 title: Education Overview
+card:
+  - title: Education Overview
+    body: >
+      Funding for Education is growing by $57.8 million (4.8%) over FY17.
+    img: /img/featured_analysis/cards/fa-education-overview.jpg
+    link: /featured-analysis/education-overview
 components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - title: Featured Analysis
     url: "/featured-analysis/"
+    local: true
   - current: Education Overview
   - published: 4/13/17
 - intro:
@@ -62,21 +68,21 @@ components:
       <h5>Closing the opportunity and achievement gap</h5>
       <p>In FY18, Boston Public Schools is proposing to make important research-backed 
       investments to close the opportunity and achievement gap.</p>
-        <ul>
-          <li>Boston is investing $14 million to give 15,000 students, from 
-          kindergarten through 8th-grade, 120 additional hours of learning time — or 
-          the equivalent of 20 more school days a year.</li>
-          <li>In addition, by strengthening BPS’s commitment to Excellence 
-          For All, more students in the fourth and fifth grade will receive the same 
-          rigorous instruction and enriched learning opportunities as those in Advanced 
-          Work Class (AWC).</li>
-          <li>Boston is also making a strategic $1.2 million investment to support 3,000 BPS 
-          students identified by the district as experiencing homelessness.</li>
-        </ul>
-        <p>BPS will also be providing lower performing schools with a wide-range of 
-        differentiated supports, which total over $16 million. This includes a new $1.25 
-        million reserve focused on supporting low level 3, 4 and 5 schools with 
-        declining enrollment.</p>
+      <ul>
+      <li>Boston is investing $14 million to give 15,000 students, from 
+      kindergarten through 8th-grade, 120 additional hours of learning time — or 
+      the equivalent of 20 more school days a year.</li>
+      <li>In addition, by strengthening BPS’s commitment to Excellence 
+      For All, more students in the fourth and fifth grade will receive the same 
+      rigorous instruction and enriched learning opportunities as those in Advanced 
+      Work Class (AWC).</li>
+      <li>Boston is also making a strategic $1.2 million investment to support 3,000 BPS 
+      students identified by the district as experiencing homelessness.</li>
+      </ul>
+      <p>BPS will also be providing lower performing schools with a wide-range of 
+      differentiated supports, which total over $16 million. This includes a new $1.25 
+      million reserve focused on supporting low level 3, 4 and 5 schools with 
+      declining enrollment.</p>
   - col: >
       <h5>Long-Term Financial Planning project</h5>
       <p>Stemming out progress in the District’s Long-Term Financial Planning project, the 
@@ -86,21 +92,9 @@ components:
       Committee approved a balanced budget for FY18, the District still has underlying 
       challenges that require structural changes to allow Boston to continue to effectively 
       invest in its students in future years.</p>
-- grid:
+- grid: 
   - grid_title: More budget analysis
-  - title: Handy dandy title
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /#/
-  - title: This one's witty, too
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
-    link: /#/
-  - title: Rumple Stiltskin
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
-    link: /#/
----
+  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/bps-long-term-financial-plan
+  ---

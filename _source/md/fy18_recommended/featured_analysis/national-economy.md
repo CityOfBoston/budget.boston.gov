@@ -2,14 +2,20 @@
 layout: bos_content
 permalink: /featured-analysis/national-economy/
 title: National economy
+card:
+  - title: National economy
+    body: >
+      Economic indicators show positive real GDP growth and an improving unemployment rate.
+    img: /img/featured_analysis/cards/fa-national-economy.jpg
+    link: /featured-analysis/national-economy/
 components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - title: Featured Analysis
     url: "/featured-analysis/"
+    local: true
   - current: National economy
   - published: 4/13/17
 - intro:
@@ -41,7 +47,7 @@ components:
         of 2016, real GDP growth has been positive but only averaging 0.5%. The Federal Reserve 
         reaffirmed estimates of moderate economic growth, with real GDP forecast to grow between 
         1.7% to 2.3% for the calendar year 2017 and 1.7% to 2.4% for 2018.</p>
-    - img: /img/real-gdp-growth.jpg
+    - img: /img/featured_analysis/pages/real-gdp-growth.png
     - blurb: >
         <h5>Unemployment rate improving</h5>
         <p>The seasonally adjusted unemployment rate in the U.S. has been steadily decreasing 
@@ -49,14 +55,14 @@ components:
         recent low. <blockquote>According to Federal Reserve estimates, the unemployment rate is 
         expected to continue improving, falling to a range 4.4% to 4.7% in calendar year 2017 
         and to a range of 4.2% to 4.7% in 2018.</blockquote></p>
-    - img: /img/unemployment-rates.jpg
+    - img: /img/featured_analysis/pages/unemployment-rates.png
   - col:
     - blurb: >
         <h5>Inflation estimates</h5>
         <p>Inflation has been below the Federal Reserve’s target of 2%. The Federal Reserve 
         projects that inflation will range from 1.7% to 2.1% in 2017 and range from 1.8% to 
         2.1% in 2018.</p>
-    - img: /img/federal-funds-rates-changes.jpg
+    - img: /img/featured_analysis/pages/federal-funds-rates-changes.png
     - blurb: >
         <h5>Federal funds rate</h5>
         <p>Despite the improvements in the labor market and the expectation that inflation would 
@@ -70,19 +76,7 @@ components:
         historical standards.</blockquote></p>
 - grid:
   - grid_title: More budget analysis
-  - title: State and City Economies
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/state-and-city-economies/
-  - title: Commonwealth Budget
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/commonwealth-budget/
-  - title: Revenue Estimates
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/revenue-estimates/
+  - card: /featured-analysis/state-and-city-economies/
+  - card: /featured-analysis/commonwealth-budget/
+  - card: /featured-analysis/revenue-estimates/
 ---

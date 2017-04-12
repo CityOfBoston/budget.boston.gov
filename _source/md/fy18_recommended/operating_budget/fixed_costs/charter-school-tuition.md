@@ -2,12 +2,17 @@
 layout: bos_content
 permalink: /operating-budget/charter-school-tuition/
 title: Charter School tuition
+card:
+  - title: Charter school tuition
+    body: >
+      Charter School Tuition Assessment has risen 155% since FY11.
+    img: /img/featured_analysis/cards/fa-charter-school-tuition.jpg
+    link: /featured-analysis/charter-school-tuition
 components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - title: Operating Budget
     url: "/operating-budget/"
     local: true
@@ -42,8 +47,13 @@ components:
       link: /operating-budget
     columns:
       - "Cabinet": Charter School Tuition
-        "FY15 Actual": $110.66
-        "FY16 Actual": $125.81
-        "FY17 Budget": $146.86
-        "FY18 Budget": $156.81
+        "FY15 Actual": 125.81
+        "FY16 Actual": 142.79
+        "FY17 Budget": 156.83
+        "FY18 Budget": 174.37
+- grid: 
+  - grid_title: More budget analysis
+  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/bps-long-term-financial-plan
 ---
