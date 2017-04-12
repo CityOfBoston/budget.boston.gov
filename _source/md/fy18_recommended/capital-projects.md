@@ -748,7 +748,7 @@ components:
       upkeep of existing assets and the expansion or introduction of new ones.
 - text_col_2:
   - col: >
-      img: /img/placeholder-300x400.png
+      img: /img/featured_analysis/capital-expenditures.png
   - col: >
       <h5>Upkeep</h5>
       <p>Upkeep represents projects that maintain the City’s assets, a fundamental priority 
