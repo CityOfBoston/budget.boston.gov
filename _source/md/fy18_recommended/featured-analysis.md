@@ -22,8 +22,8 @@ components:
 - grid: 
   - grid_title: General
   - card: /featured-analysis/data-analytics
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/state-and-city-economies
+  - card: /featured-analysis/nationa-economy
 - grid: 
   - grid_title: Revenue
   - card: /featured-analysis/revenue-overview
@@ -31,7 +31,7 @@ components:
   - card: /featured-analysis/state-aid
 - grid: 
   - grid_title: Expenditures
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/streets-keeping-streets-clean-safe
+  - card: /featured-analysis/weighted-student-funding
   - card: /featured-analysis/bps-long-term-financial-plan
 ---
