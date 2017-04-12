@@ -5,7 +5,7 @@ permalink: /financial-management/
 card:
   - title: Financial Management
     body: >
-      See what Boston does to make sure it stick with sound financial principles. 
+      See how Boston maintains sound financial principles. 
     img: /img/featured_analysis/cards/fa-local-receipts.jpg
     link: /financial-management/
 components:
