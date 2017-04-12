@@ -13,7 +13,7 @@ components:
 - intro:
   - title: Capital Projects
     short_desc: >
-      <iframe width="100%" height="400px" src="http://boston.maps.arcgis.com/apps/Embed/index.html?webmap=09bf3f687c4945f9a1645f1babaf3fbc&amp;extent=-71.3152,42.2138,-70.8082,42.4146&amp;zoom=true&amp;scale=true&amp;disable_scroll=true&amp;theme=light"></iframe>
+      <iframe width="700px" height="400px" src="http://boston.maps.arcgis.com/apps/Embed/index.html?webmap=09bf3f687c4945f9a1645f1babaf3fbc&amp;extent=-71.3152,42.2138,-70.8082,42.4146&amp;zoom=true&amp;scale=true&amp;disable_scroll=true&amp;theme=light"></iframe>
       <p>
       <a href="http://arcg.is/1ema5i" target="_blank">View the map in a new tab</a> 
       </p>
