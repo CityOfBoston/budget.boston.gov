@@ -53,7 +53,7 @@ components:
       hours) increased from 66% in December 2015 to 85% in December 2016.</p>
 - grid: 
   - grid_title: More budget analysis
-  - card: /featured-analysis/bps-long-term-financial-plan/
-  - card: /featured-analysis/bps-long-term-financial-plan/
-  - card: /featured-analysis/bps-long-term-financial-plan/
+  - card: /featured-analysis/streets-launching-go-boston-2030/
+  - card: /featured-analysis/technology-city-services-through-cityscore/
+  - card: /featured-analysis/technology-data-analytics/
 ---
