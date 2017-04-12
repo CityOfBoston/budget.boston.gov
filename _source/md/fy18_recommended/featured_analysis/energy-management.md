@@ -2,6 +2,12 @@
 layout: bos_content
 permalink: /featured-analysis/energy-management/
 title: Energy Management
+card:
+  - title: Energy Management
+    body: >
+      Boston shrinks its energy use and reduces its carbon footprint.  See how.
+    img: /img/featured_analysis/cards/fa-energy-management.jpg
+    link: /featured-analysis/energy-management/
 components:
 - breadcrumbs:
   - title: Home
@@ -35,21 +41,9 @@ components:
       <p>The City utilizes a cloud-based Enterprise Energy Management System (“EEMS”) to track and control energy use. EEMS allows the City to monitor and report on the energy consumed by its 314 buildings, other fixed assets, and vehicle fleet. This enables the City to maximize energy savings from opportunities that require real-time feedback, such as electricity peak shaving. The City also utilizes EEMS to meet its public reporting obligations under the Building Energy Reporting and Disclosure Ordinance.</p>
       <h5>Third-party electricity suppliers</h5>
       <p>The City’s electricity requirements have been met by third-party commodity supply contractors since March 2005. To date, the amounts the City has paid to its third-party electricity suppliers have been less than the amounts it would have paid if it had continued to accept default electric service from its local distribution company, Eversource, formerly known as NSTAR – Boston Edison.</p>
-- grid:
+- grid: 
   - grid_title: More budget analysis
-  - title: Handy dandy title
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /#/
-  - title: This one's witty, too
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
-    link: /#/
-  - title: Rumple Stiltskin
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
-    link: /#/
+  - card: /featured-analysis/bps-long-term-financial-plan/
+  - card: /featured-analysis/bps-long-term-financial-plan/
+  - card: /featured-analysis/bps-long-term-financial-plan/
 ---

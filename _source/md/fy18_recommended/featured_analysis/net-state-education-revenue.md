@@ -2,14 +2,20 @@
 layout: bos_content
 permalink: /featured-analysis/net-state-education-revenue/
 title: Net State Education Revenue
+card:
+  - title: State Education Aid Revenue
+    body: >
+      Boston’s education spending increased substantially, but state education funding has not kept pace.
+    img: /img/featured_analysis/cards/fa-net-state-education-revenue.jpg
+    link: /featured-analysis/net-state-education-revenue/
 components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - title: Featured Analysis
     url: "/featured-analysis/"
+    local: true
   - current: Net State Education Revenue
   - published: 4/13/17
 - intro:
@@ -61,21 +67,9 @@ components:
       More simply put, due to the absence of growth in state aid and the growing costs of BPS 
       and charter school tuition, Boston has been contributing a greater portion of its general 
       revenue to education every year at an unsustainable pace.</p>
-- grid:
+- grid: 
   - grid_title: More budget analysis
-  - title: Handy dandy title
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /#/
-  - title: This one's witty, too
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
-    link: /#/
-  - title: Rumple Stiltskin
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
-    link: /#/
+  - card: /featured-analysis/bps-long-term-financial-plan/
+  - card: /featured-analysis/bps-long-term-financial-plan/
+  - card: /featured-analysis/bps-long-term-financial-plan/
 ---

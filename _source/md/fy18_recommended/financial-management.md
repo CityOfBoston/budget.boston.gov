@@ -2,12 +2,17 @@
 layout: bos_content
 title: Financial management
 permalink: /financial-management/
+card:
+  - title: Financial Management
+    body: >
+      See how Boston maintains sound financial principles. 
+    img: /img/featured_analysis/cards/fa-local-receipts.jpg
+    link: /financial-management/
 components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - current: Financial management
   - published: 4/13/17
 - intro:

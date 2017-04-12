@@ -7,7 +7,7 @@ card:
     body: >
       Strong financial management lowers Boston's cost of borrowing. See how.
     img: /img/featured_analysis/cards/fa-debt-service.jpg
-    link: /featured-analysis/debt-service
+    link: /featured-analysis/debt-service/
 components:
 - breadcrumbs:
   - title: Home
@@ -48,9 +48,4 @@ components:
         "FY18 Budget": 
           value: 185583169
           filter: delimiter
-- grid: 
-  - grid_title: More budget analysis
-  - card: /featured-analysis/bps-long-term-financial-plan/
-  - card: /featured-analysis/bps-long-term-financial-plan/
-  - card: /featured-analysis/bps-long-term-financial-plan/
 ---

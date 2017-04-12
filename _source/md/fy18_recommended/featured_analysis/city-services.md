@@ -82,7 +82,7 @@ components:
       in costs.</p>
 - grid:
   - grid_title: More budget analysis
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/education-overview/
+  - card: /featured-analysis/pensions-debt-service-other-fixed-costs/
+  - card: /featured-analysis/revenue-overview/
 ---

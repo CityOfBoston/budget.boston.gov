@@ -59,9 +59,4 @@ components:
         "FY18 Budget": 
           value: 174366619
           filter: delimiter
-- grid: 
-  - grid_title: More budget analysis
-  - card: /featured-analysis/bps-long-term-financial-plan/
-  - card: /featured-analysis/bps-long-term-financial-plan/
-  - card: /featured-analysis/bps-long-term-financial-plan/
 ---

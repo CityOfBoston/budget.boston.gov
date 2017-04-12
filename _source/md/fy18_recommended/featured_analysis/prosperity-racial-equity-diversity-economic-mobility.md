@@ -63,7 +63,7 @@ components:
       21st century.</blockquote></p>
 - grid: 
   - grid_title: More budget analysis
-  - card: /featured-analysis/bps-long-term-financial-plan/
-  - card: /featured-analysis/bps-long-term-financial-plan/
-  - card: /featured-analysis/bps-long-term-financial-plan/
+  - card: /featured-analysis/prosperity-recruiting-diverse-police-force/
+  - card: /featured-analysis/open-space-accessible-equitable-parks/
+  - card: /featured-analysis/open-space-imagine-boston-2030-goals/
 ---

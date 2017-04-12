@@ -57,7 +57,7 @@ components:
       <p>The Capital Plan supports design activity at the Roslindale and Adams Street branches in the upcoming year as well. The recently completed programming study and community process for the Adams Street Branch resulted in recommendations for new construction that will expand the building footprint, add new meeting rooms, provide an enhanced teen space, and create redesigned outdoor spaces.</p>
 - grid:
   - grid_title: More budget analysis
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/arts-preserving-bpl-special-collections/
+  - card: /featured-analysis/arts-investing-in-the-arts/
+  - card: /featured-analysis/city-services/
 ---

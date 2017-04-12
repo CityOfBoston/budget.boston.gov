@@ -2,14 +2,20 @@
 layout: bos_content
 permalink: /featured-analysis/housing-boston-2030/
 title: Housing a Changing City - Boston 2030
+card:
+  - title: Housing a changing City
+    body: >
+      The City leverages variety of resources to meet 2030 housing goals.
+    img: /img/featured_analysis/cards/fa-housing-boston-2030.jpg
+    link: /featured-analysis/housing-boston-2030/
 components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - title: Featured Analysis
     url: "/featured-analysis/"
+    local: true
   - current: Housing a Changing City - Boston 2030
   - published: 4/13/17
 - intro:
@@ -83,21 +89,9 @@ components:
       sites, and develop outdoor recreational opportunities.</p>
       <p>In FY18, a Community Preservation Committee will be established, and will be 
       responsible for making recommendations on CPA projects to the City Council.</p>
-- grid:
+- grid: 
   - grid_title: More budget analysis
-  - title: Handy dandy title
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /#/
-  - title: This one's witty, too
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
-    link: /#/
-  - title: Rumple Stiltskin
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
-    link: /#/
+  - card: /featured-analysis/housing-homeless-action-plan/
+  - card: /featured-analysis/housing-homeless-shelter-service-safety/
+  - card: /featured-analysis/health-safety-addiction-services/
 ---

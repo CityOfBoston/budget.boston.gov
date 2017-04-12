@@ -41,7 +41,7 @@ components:
       custodianship, and security of its special collections.</blockquote>
 - grid:
   - grid_title: More budget analysis
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/arts-investing-in-the-arts/
+  - card: /featured-analysis/arts-thriving-community-libraries/
+  - card: /featured-analysis/city-services/
 ---
