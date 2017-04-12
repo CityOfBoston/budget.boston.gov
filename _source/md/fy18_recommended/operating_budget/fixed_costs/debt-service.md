@@ -37,16 +37,16 @@ components:
     columns:
       - "Category": Totals
         "FY15 Actual": 
-          value: 148.01
+          value: 148006831
           filter: delimiter
         "FY16 Actual": 
-          value: 157.69
+          value: 157690624
           filter: delimiter
         "FY17 Budget": 
-          value: 174.95
+          value: 174953570
           filter: delimiter
         "FY18 Budget": 
-          value: 185.58
+          value: 185583169
           filter: delimiter
 - grid: 
   - grid_title: More budget analysis
