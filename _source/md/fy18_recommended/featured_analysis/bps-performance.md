@@ -5,7 +5,7 @@ title: BPS Performance
 card:
   - title: BPS Performance
     body: >
-      asdf
+    Learn about BPS graduation and dropout rates.
     img: /img/featured_analysis/cards/fa-bps-performance.jpg
     link: /featured-analysis/bps-performance
 components:
