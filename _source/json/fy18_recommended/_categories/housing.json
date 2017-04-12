@@ -33,6 +33,21 @@
       },
       "projects_data":[
         {
+          "Public Health Commission":[
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1346998,
+              "fy-0":346998,
+              "category":"Housing",
+              "name":"Woods Mullen Shelter",
+              "location":"South End",
+              "status":"New Project",
+              "operating_impact":"No"
+            }
+          ]
+        },
+        {
           "Public Works Department":[
             {
               "line_type":"data",
