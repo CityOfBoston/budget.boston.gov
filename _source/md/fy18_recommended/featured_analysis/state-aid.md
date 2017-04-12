@@ -21,8 +21,9 @@ components:
 - intro:
   - title: State aid
     short_desc: >
-      State revenue, the City’s second largest revenue source, never recovered following the last recession. In FY18, Boston’s state revenue is still $52.8 million, or 10.7%, lower than Boston’s state aid in FY08. While Boston’s spending on education has increased substantially, Boston’s state education funding has not kept pace. The Chapter 70 education aid formula does not work for Boston, and thus Boston’s Chapter 70 growing by 0.6% or $1.3 million in the Governor’s proposed budget, a stark contrast to the $57.8 million more Boston expects to spend on education in FY18.
+      State revenue, the City’s second largest revenue source, never recovered following the last recession. In FY18, Boston’s state revenue is still $52.8 million, or 10.7%, lower than Boston’s state aid in FY08. 
     description: >
+      <p>While Boston’s spending on education has increased substantially, Boston’s state education funding has not kept pace. The Chapter 70 education aid formula does not work for Boston, and thus Boston’s Chapter 70 growing by 0.6% or $1.3 million in the Governor’s proposed budget, a stark contrast to the $57.8 million more Boston expects to spend on education in FY18.</p>
       <p>Additionally, while Boston’s charter school assessment has risen by 155% since the enactment of the 2010 Achievement Gap Legislation, the State’s statutory obligation to fund charter school reimbursement has not kept pace. As a result, the City of Boston is projected to lose $25 million in the Governor’s FY18 budget, adding to the total lost revenue of $48 million over three years (FY15 – FY17).</p>
       <p><blockquote>Mayor Walsh filed comprehensive education finance reform legislation that aims to invest equitably in public education and expand access to high-quality education for students of all ages.</blockquote></p>
     sidebar_menu: true    

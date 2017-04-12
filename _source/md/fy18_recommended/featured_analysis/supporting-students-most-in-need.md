@@ -3,7 +3,7 @@ layout: bos_content
 permalink: /featured-analysis/supporting-students-most-in-need/
 title: Supporting our Students Most in Need
 card:
-  - title: 
+  - title: Supporting Students Most in Need
     body: >
       Learn how BPS is directing educational resources to students most in need.
     img: /img/featured_analysis/cards/fa-supporting-students-most-in-need.jpg
