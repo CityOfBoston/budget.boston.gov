@@ -57,7 +57,7 @@ components:
     - img: /img/paaths-investments.png
 - grid: 
   - grid_title: More budget analysis
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/health-safety-proactive-agile-ems-through-data/
+  - card: /featured-analysis/health-safety-firefighter-health-safety/
+  - card: /featured-analysis/city-services/
 ---
