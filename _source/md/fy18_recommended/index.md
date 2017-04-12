@@ -90,7 +90,6 @@ components:
         url: /featured-analysis/extended-school-day/
     src: /img/students-on-a-computer.jpg
     alt: Three students all looking at a computer
-    title: Students learning on a computer
 - text_col_3:
   - col: >
       <h5>City approach vs. federal approach</h5>

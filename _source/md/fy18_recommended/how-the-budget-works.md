@@ -22,8 +22,7 @@ components:
 - text_block:
   - title: Who makes decisions about the budget?
     body: >
-      <p>The City of Boston’s budget process is governed by the City’s Charter* 
-      and practices designed to provide transparency and gather public feedback. 
+      <p>The City of Boston’s budget process is governed by the City’s Charter* and practices designed to provide transparency and gather public feedback. 
       The chief executive officer of the City is the Mayor. Martin J. Walsh, the 
       Mayor of the City, was elected to serve his first term from January 2014 
       through January 2018. The Mayor has general supervision of and control over 
