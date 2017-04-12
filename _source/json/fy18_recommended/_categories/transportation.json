@@ -41,7 +41,7 @@
               "project_title":1400000,
               "fy-0":400000,
               "category":"Transportation",
-              "name":"RFLMP: Black Falcon Avenue and Terminal Street",
+              "name":"RFMP Black Falcon Avenue and Terminal Street",
               "location":"South Boston",
               "status":"To Be Scheduled",
               "operating_impact":"No"
@@ -310,7 +310,7 @@
               "fy-0":0,
               "category":"Transportation",
               "name":"Ruggles Street",
-              "location":"South End",
+              "location":"Roxbury",
               "status":"New Project",
               "operating_impact":"No"
             },
