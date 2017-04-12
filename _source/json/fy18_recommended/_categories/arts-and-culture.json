@@ -9,6 +9,13 @@
   "description":[
     "Initiatives to support a thriving, diverse arts and culture ecosystem throughout the city."
   ],
+  "vol1_category_copy":[
+    "The Mayor&rsquo;s Office of Arts and Culture released the City&rsquo;s first cultural plan, Boston Creates, in 2016, which calls for increased support to Boston&rsquo;s arts and culture ecosystem. The Percent for Art Program, included for the first time in the FY18-22 Capital Plan, is a critical policy outcome of this planning process. The City projects to borrow $170 million in FY18 to support the Capital Plan, and will invest one percent, or $1.7 million, in public art projects in FY18.",
+    "In advance of the implementation of this program, the City has launched pilot art projects in ongoing major infrastructure projects. In January 2017, an artist was selected to create a public art project in conjunction with the reconstruction of Hyde Square at the intersection of Centre Street, Perkins Street, and Day Street. The City also plans to include a public art project within the Jamaica Plain Branch Library project.",
+    "In FY18, a $15.7 million project will be launched to preserve the Library&rsquo;s valuable and historic special collections in rare books and manuscripts. This project will begin with the inventory of the Central Library in Copley Square&rsquo;s Rare Books and Manuscripts Department&rsquo;s nearly 250,000 rare books and one million manuscripts. Over the course of the next two years, the Rare Books Department will receive major environmental and mechanical improvements to better regulate temperature and humidity control of the department&rsquo;s collection storage areas, staff spaces, conservation lab, and public reading room. Ultimately, the project will increase accessibility to the Library&rsquo;s rare books and manuscripts and ensure the collections will be preserved for the future. The project continues the City&rsquo;s and the Library&rsquo;s renewed commitment to improve intellectual control, custodianship, and security of its special collections.",
+    "The FY18-22 Capital Plan continues to demonstrate Mayor Walsh&rsquo;s strong commitment to revitalizing library branches throughout Boston&rsquo;s neighborhoods. In FY18, the Mayor&rsquo;s Capital Plan launches projects for new or renovated spaces at the Uphams Corner and Fields Corner branches. It also includes funding for new, smaller scale facility improvement projects, including interior updates at the South End, Lower Mills, and West Roxbury branches, as well as landscaping and exterior space upgrades at the South Boston Branch.",
+    "Construction will begin at the Dudley Branch, a $14.7 million project that will reorient the entrance to reconnect it with the heart of Dudley Square. The Capital Plan supports design activity at the Roslindale and Adams Street branches in the upcoming year as well. The recently completed programming study and community process for the Adams Street Branch resulted in recommendations for new construction that will expand the building footprint, add new meeting rooms, provide an enhanced teen space, and create redesigned outdoor spaces."
+  ],
   "projects":[
     {
       "table_type":"capital_projects_by_department",
@@ -229,16 +236,19 @@
           ]
         },
         {
-          "Office of Arts & Culture":[
+          "Office of Arts and Culture":[]
+        },
+        {
+          "Property Management Department":[
             {
               "line_type":"data",
               "title":null,
-              "project_title":9300000,
-              "fy-0":1700000,
+              "project_title":1575000,
+              "fy-0":200000,
               "category":"Arts and Culture",
-              "name":"Percent for the Arts",
-              "location":"Citywide",
-              "status":"New Project",
+              "name":"Archives Preservation Needs",
+              "location":"West Roxbury",
+              "status":"Study Underway",
               "operating_impact":"No"
             }
           ]
@@ -248,8 +258,8 @@
     {
       "line_type":"totalCat",
       "title":null,
-      "fy-0":1700000,
-      "total":15418352,
+      "fy-0":200000,
+      "total":13918352,
       "category":"Arts and Culture"
     }
   ]

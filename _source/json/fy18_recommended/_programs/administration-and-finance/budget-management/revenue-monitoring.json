@@ -150,10 +150,10 @@
             {
               "line_type":"data",
               "line_data":"% by which actual revenues exceed actual expenditures.",
-              "fy-2":"0.3%",
-              "fy-1":"0.1%",
-              "fy-0":"0.3%",
-              "fy+1":"0.5%"
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":""
             }
           ]
         }

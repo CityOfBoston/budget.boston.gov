@@ -21,14 +21,14 @@ components:
     sidebar_menu: true
 - grid: 
   - grid_title: General
-  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/data-analytics
   - card: /featured-analysis/bps-long-term-financial-plan
   - card: /featured-analysis/bps-long-term-financial-plan
 - grid: 
   - grid_title: Revenue
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/revenue-overview
+  - card: /featured-analysis/revenue-estimates
+  - card: /featured-analysis/state-aid
 - grid: 
   - grid_title: Expenditures
   - card: /featured-analysis/bps-long-term-financial-plan
