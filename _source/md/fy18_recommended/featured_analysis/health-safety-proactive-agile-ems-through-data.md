@@ -70,7 +70,7 @@ components:
       These changes generate a $4.1 million net savings for the City in FY18. </p>
 - grid: 
   - grid_title: More budget analysis
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/health-safety-addiction-services/
+  - card: /featured-analysis/health-safety-firefighter-health-safety/
+  - card: /featured-analysis/city-services/
 ---

@@ -58,7 +58,7 @@ components:
       supportive housing services to formerly homeless individuals.</p>
 - grid: 
   - grid_title: More budget analysis
-  - card: /featured-analysis/bps-long-term-financial-plan/
-  - card: /featured-analysis/bps-long-term-financial-plan/
-  - card: /featured-analysis/bps-long-term-financial-plan/
+  - card: /featured-analysis/housing-boston-2030/
+  - card: /featured-analysis/housing-homeless-shelter-service-safety/
+  - card: /featured-analysis/health-safety-addiction-services/
 ---

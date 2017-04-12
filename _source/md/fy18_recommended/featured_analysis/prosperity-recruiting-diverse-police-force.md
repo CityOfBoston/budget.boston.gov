@@ -45,7 +45,7 @@ components:
       img: /img/police-cadets.png
 - grid: 
   - grid_title: More budget analysis
-  - card: /featured-analysis/bps-long-term-financial-plan/
-  - card: /featured-analysis/bps-long-term-financial-plan/
-  - card: /featured-analysis/bps-long-term-financial-plan/
+  - card: /featured-analysis/prosperity-racial-equity-diversity-economic-mobility/
+  - card: /featured-analysis/open-space-accessible-equitable-parks/
+  - card: /featured-analysis/open-space-imagine-boston-2030-goals/
 ---

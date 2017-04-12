@@ -177,14 +177,14 @@ components:
       "FY18 Budget": 1,060.93
     - "Expenditure":
         name: City Reserve for Collective Bargaining
-        link: /operating-budget/reserve-for-collective-bargaining
+        link: /operating-budget/reserves-for-collective-bargaining
       "FY15 Actual": 10.79
       "FY16 Actual": 0.02
       "FY17 Budget": 7.00
       "FY18 Budget": 27.00
     - "Expenditure":
         name: BPS Reserve for Collective Bargaining
-        link: /operating-budget/reserve-for-collective-bargaining
+        link: /operating-budget/reserves-for-collective-bargaining
       "FY15 Actual": 0.00
       "FY16 Actual": 0.00
       "FY17 Budget": 9.00
@@ -224,22 +224,15 @@ components:
       "FY17 Budget": 156.83
       "FY18 Budget": 174.37
     - "Expenditure":
-        name: MBTA
-        link: /operating-budget/mbta
-      "FY15 Actual": 81.27
-      "FY16 Actual": 83.00
-      "FY17 Budget": 83.82
-      "FY18 Budget": 85.81
-    - "Expenditure":
-        name: Other State Assessments
-        link: /operating-budget/other-state-assessments
+        name: State Assessments
+        link: /operating-budget/state-assessments
       "FY15 Actual": 4.58
       "FY16 Actual": 4.79
       "FY17 Budget": 5.15
       "FY18 Budget": 4.71
     - "Expenditure":
-        name: Suffolk County Sheriff Dept
-        link: /operating-budget/suffolk-county-sheriff-dept
+        name: Suffolk County Assessment
+        link: /operating-budget/suffolk-county-assessment/
       "FY15 Actual": 3.87
       "FY16 Actual": 3.87
       "FY17 Budget": 3.87

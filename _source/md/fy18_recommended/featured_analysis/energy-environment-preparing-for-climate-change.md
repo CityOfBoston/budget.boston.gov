@@ -44,7 +44,7 @@ components:
       will be sufficient to cover anticipated debt service costs.
 - grid: 
   - grid_title: More budget analysis
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/open-space-accessible-equitable-parks/
+  - card: /featured-analysis/open-space-imagine-boston-2030-goals/
+  - card: /featured-analysis/city-services/
 ---

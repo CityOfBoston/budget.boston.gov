@@ -107,7 +107,7 @@ components:
       engaging youth in Boston’s open spaces.</p>
 - grid: 
   - grid_title: More budget analysis
-  - card: /featured-analysis/bps-long-term-financial-plan/
-  - card: /featured-analysis/bps-long-term-financial-plan/
-  - card: /featured-analysis/bps-long-term-financial-plan/
+  - card: /featured-analysis/open-space-imagine-boston-2030-goals/
+  - card: /featured-analysis/streets-launching-go-boston-2030/
+  - card: /featured-analysis/streets-keeping-streets-clean-safe/
 ---
