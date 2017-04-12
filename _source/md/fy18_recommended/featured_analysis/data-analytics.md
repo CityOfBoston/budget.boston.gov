@@ -120,31 +120,31 @@ components:
       CityScore. Daily scores and additional information can be found at: boston.gov/cityscore.</p>
 - text_col_3:
   - col: >
-      <p>311 CALL CENTER PERFORMANCE:<br/> Target 95% of calls answered within 30 seconds</p>
-      <p>311 CONSTITUENT EXPERIENCE SURVEYS:<br/> Target 4 on a 5 point rating scale</p>
-      <p>BOSTON FIRE DEPARTMENT INCIDENTS:<br/> Fewer incidents than previous years</p>
-      <p>BOSTON FIRE DEPARTMENT RESPONSE TIME:<br/> Target 90% of responses in 4 minutes or less</p>
-      <p>BOSTON PUBLIC SCHOOLS ATTENDANCE:<br/> Target 95% of all students</p>
-      <p>CITY SERVICES SATISFACTION SURVEYS:<br/> Target 4 on a 5 point rating scale</p>
-      <p>BOSTON EMERGENCY MEDICAL SERVICES INCIDENTS:<br/> Fewer incidents than previous years</p>
-      <p>BOSTON EMERGENCY MEDICAL SERVICES RESPONSE TIME:<br/> Target median of 6 minutes</p>
+      <p><strong>311 CALL CENTER PERFORMANCE:</strong><br/> Target 95% of calls answered within 30 seconds</p>
+      <p><strong>311 CONSTITUENT EXPERIENCE SURVEYS:</strong><br/> Target 4 on a 5 point rating scale</p>
+      <p><strong>BOSTON FIRE DEPARTMENT INCIDENTS:</strong><br/> Fewer incidents than previous years</p>
+      <p><strong>BOSTON FIRE DEPARTMENT RESPONSE TIME:</strong><br/> Target 90% of responses in 4 minutes or less</p>
+      <p><strong>BOSTON PUBLIC SCHOOLS ATTENDANCE:</strong><br/> Target 95% of all students</p>
+      <p><strong>CITY SERVICES SATISFACTION SURVEYS:</strong><br/> Target 4 on a 5 point rating scale</p>
+      <p><strong>BOSTON EMERGENCY MEDICAL SERVICES INCIDENTS:</strong><br/> Fewer incidents than previous years</p>
+      <p><strong>BOSTON EMERGENCY MEDICAL SERVICES RESPONSE TIME:</strong><br/> Target median of 6 minutes</p>
   - col: >
-      <p>GRAFFITI ON-TIME %:<br/> Target 80% completed within 45 business days</p>
-      <p>HOMICIDES (TREND):<br/> Fewer incidents than previous years</p>
-      <p>LIBRARY USERS:<br/> More users than previous years</p>
-      <p>MISSED TRASH ON-TIME %:<br/> Target 80% completed within 1 business day</p>
-      <p>ON-TIME PERMIT REVIEWS:<br/> Target 75% completed within 20 business days</p>
-      <p>PARKS MAINTENANCE ON-TIME %:<br/> Target 80% lighting issues completed within 7 
+      <p><strong>GRAFFITI ON-TIME %:</strong><br/> Target 80% completed within 45 business days</p>
+      <p><strong>HOMICIDES (TREND):</strong><br/> Fewer incidents than previous years</p>
+      <p><strong>LIBRARY USERS:</strong><br/> More users than previous years</p>
+      <p><strong>MISSED TRASH ON-TIME %:</strong><br/> Target 80% completed within 1 business day</p>
+      <p><strong>ON-TIME PERMIT REVIEWS:</strong><br/> Target 75% completed within 20 business days</p>
+      <p><strong>PARKS MAINTENANCE ON-TIME %:</strong><br/> Target 80% lighting issues completed within 7 
       business days; 80% all other issues completed within 5 business days</p>
-      <p>PART 1 CRIMES:<br/> Fewer incidents than previous years</p>
+      <p><strong>PART 1 CRIMES:</strong><br/> Fewer incidents than previous years</p>
   - col: >
-      <p>POTHOLE ON-TIME %:<br/> Target 80% completed within 1 business day</p>
-      <p>SHOOTINGS (TREND):<br/> Fewer incidents than previous years</p>
-      <p>SIGN INSTALLATION ON-TIME %:<br/> Target 80% completed within 30 business days</p>
-      <p>SIGNAL REPAIR ON-TIME %:<br/> Target 80% completed within 24 hours</p>
-      <p>STABBINGS (TREND):<br/> Fewer incidents than previous years</p>
-      <p>STREETLIGHT ON-TIME %:<br/> Target 80% completed within 10 business days</p>
-      <p>TREE MAINTENANCE ON-TIME %:<br/> Target 80% completed within 365 calendar days</p>
+      <p><strong>POTHOLE ON-TIME %:</strong><br/> Target 80% completed within 1 business day</p>
+      <p><strong>SHOOTINGS (TREND):</strong><br/> Fewer incidents than previous years</p>
+      <p><strong>SIGN INSTALLATION ON-TIME %:</strong><br/> Target 80% completed within 30 business days</p>
+      <p><strong>SIGNAL REPAIR ON-TIME %:</strong><br/> Target 80% completed within 24 hours</p>
+      <p><strong>STABBINGS (TREND):</strong><br/> Fewer incidents than previous years</p>
+      <p><strong>STREETLIGHT ON-TIME %:</strong><br/> Target 80% completed within 10 business days</p>
+      <p><strong>TREE MAINTENANCE ON-TIME %:</strong><br/> Target 80% completed within 365 calendar days</p>
 - text_block:
   - title: Priority FY18 performance goals
     body: >
