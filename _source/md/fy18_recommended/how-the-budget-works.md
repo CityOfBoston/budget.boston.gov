@@ -71,11 +71,8 @@ components:
       - "Action required": Mayor's approval of FY18 budget adopted by City Council on or before July 1, 2017.
         "City Charter": No requirement
         "FY18 timeline": 6/28/17 (Last regularly scheduled Council meeting before FY18)
-      - "Action required": Adopted Budget Published.
-        "City Charter": No requirement
-        "FY18 timeline": Prior to 90 days following adoption
 - text_block:
-  - title: lots more information
+  - title: Budget Presentation (Budget Website and PDFs of Budget Books)
     body: >
       <p>The City of Boston presents a fully integrated budget - including capital, 
       operating, and external funds - to show the total funding available to 
@@ -91,22 +88,14 @@ components:
 - text_block: 
   - title: Organization of the Budget
     body: >
-      <p>The City of Boston’s program budget provides information related to City 
-      services and theirassociated costs. The operating and capital budgets present 
-      the recommended resource allocations in terms of personnel, facilities, goods, 
-      and services. The budget document also describes the services provided by each 
-      City department and the performance targets that have been set for FY17.</p>
+      <p>The City of Boston’s program budget provides information related to City services and their associated costs. The operating and capital budgets present the recommended resource allocations in terms of personnel, facilities, goods, and services. The budget document also describes the services provided by each City department and the performance targets that have been set for FY18.</p>
       <h5>Departmental Operating Budgets</h5>
-      <p>Activities and services of the City are grouped into programs for budgeting 
-      and management purposes. The operating budget for each department is presented 
-      by program. A “program” is defined as an organized group of activities directed 
-      toward attaining one or more related objectives, and the resources to execute 
-      them.</p>
+      <p>Activities and services of the City are grouped into programs for budgeting and management purposes. The operating budget for each department is presented by program. A “program” is defined as an organized group of activities directed toward attaining one or more related objectives, and the resources to execute them.</p>
       <p>A program can consist of direct services to the public and neighborhoods of 
       the City (e.g. police patrol or tree maintenance), or traditional city staff 
       functions (e.g. administrative services or engineering and design). Some City 
       activities may not be defined as separate programs, even though they may be 
-      selfcontained operations. For example, a fire station is not a separate program, 
+      self contained operations. For example, a fire station is not a separate program, 
       although for accounting purposes it is a cost center within the Fire Department’s 
       Fire Suppression program. Program budgets serve as the basic building blocks of 
       the budget. There are three additional organizational levels above the program 
@@ -115,7 +104,7 @@ components:
       <li>The Division Level for units within some departments.</li>
       <li>The Department Level, which includes departments, commissions, and other 
       offices.</li>
-      <li>The Cabinet Level, which includes functionallyrelated departments.</li>
+      <li>The Cabinet Level, which includes functionally-related departments.</li>
       </ul>
       <h5>Description of Organization and Definition of Categories</h5>
       <p>This section outlines the information reported within each department and 
@@ -161,35 +150,6 @@ components:
       <li>FY16 appropriations,</li>
       <li>FY17 adopted budgets, and</li>
       <li>The difference between the FY16 appropriation and the FY17 adopted appropriation.</li>
-      </ul>
-      <h5>Department Personnel Data</h5>
-      <p>Personnel data shows funding for permanent positions, including existing and proposed 
-      positions. All permanent positions are listed by union and salary grade within the 
-      department or division. The total salary request is listed for these positions. For 
-      each position shown, the following information is provided:</p>
-      <ul>
-      <li><strong>Title:</strong> The civil service/personnel system job title for the 
-      position.</li>
-      <li><strong>Union Code and Grade:</strong> The union code (including exempt and 
-      CDH for department head) and code for the salary grade of the position.</li>
-      <li><strong>Position and Salary Requirement:</strong> These columns show the number 
-      of permanent positions for which funding is available and the total funding provided 
-      for that title for the upcoming fiscal year.</li>
-      <li><strong>Total Funding:</strong> The total funding for permanent employees, 
-      shown at the bottom right of the personnel sheet, reflects the amount of funding 
-      required to support personnel prior to adjustments. This figure may be adjusted by 
-      differential payments, other payments, chargebacks, and salary savings.</li>
-      <li><strong>Differential Payments:</strong> Employees who are serving temporary job 
-      titles or who are entitled to additional payments based on the shifts they work (e.g., 
-      night shifts) receive differential payments. This figure is added to the permanent 
-      employee line.</li>
-      <li><strong>Other:</strong> The permanent employee line contains other payments such 
-      as sick leave and vacation buybacks.</li>
-      <li><strong>Chargebacks:</strong> Some personnel costs are charged to another fund or 
-      appropriation. These costs or reimbursements are included in the permanent employee line.</li>
-      <li><strong>Salary Savings:</strong> This figure reflects savings due to vacancies. The 
-      amount is estimated based on experience in prior fiscal years and subtracted from the total 
-      salary requirements.</li>
       </ul>
       <h5>External Funds</h5>
       <p>The financial data identify the major groups and expenditure account codes for external 
