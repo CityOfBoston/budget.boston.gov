@@ -7,6 +7,7 @@
     </div>
     <br />
     {% endif %}
+    <div class="grid-wrapper clearfix">
     {% for item in include.arg %}
       {% if item.title and item.img and item.body %}
       <div class="grid-card desktop-3-col tablet-2-col mobile-1-col">
@@ -52,5 +53,6 @@
         {% endfor %}
       {% endif %}
     {% endfor %}
+    </div>
   </div>
 </div>
