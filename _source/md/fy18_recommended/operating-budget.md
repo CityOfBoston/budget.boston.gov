@@ -226,10 +226,10 @@ components:
     - "Expenditure":
         name: State Assessments
         link: /operating-budget/state-assessments
-      "FY15 Actual": 4.58
-      "FY16 Actual": 4.79
-      "FY17 Budget": 5.15
-      "FY18 Budget": 4.71
+      "FY15 Actual": 85.85
+      "FY16 Actual": 87.79
+      "FY17 Budget": 88.97
+      "FY18 Budget": 90.52
     - "Expenditure":
         name: Suffolk County Assessment
         link: /operating-budget/suffolk-county-assessment/
