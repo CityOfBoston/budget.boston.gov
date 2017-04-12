@@ -2,14 +2,20 @@
 layout: bos_content
 permalink: /featured-analysis/health-safety-firefighter-health-safety/
 title: Promoting Firefighter Health and Safety
+card:
+  - title: Firefighter Health and Safety
+    body: >
+      Boston is investing in initiatives to reduce cancer risks for firefighters.
+    img: /img/featured_analysis/cards/fa-health-safety-firefighter-health-safety.jpg
+    link: /featured-analysis/health-safety-firefighter-health-safety
 components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - title: Featured Analysis
     url: "/featured-analysis/"
+    local: true
   - current: Promoting Firefighter Health and Safety
   - published: 4/13/17
 - intro:
@@ -40,21 +46,9 @@ components:
       keep fire contaminants away from living areas and improved personal and gear 
       cleaning facilities. The replacements of Engines 42 and 17 will be among of the 
       first firehouses in the nation to reflect these enhancements.</p>
-- grid:
+- grid: 
   - grid_title: More budget analysis
-  - title: Handy dandy title
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /#/
-  - title: This one's witty, too
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
-    link: /#/
-  - title: Rumple Stiltskin
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
-    link: /#/
+  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/bps-long-term-financial-plan
 ---

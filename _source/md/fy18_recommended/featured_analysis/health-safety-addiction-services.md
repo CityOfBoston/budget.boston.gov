@@ -2,14 +2,20 @@
 layout: bos_content
 permalink: /featured-analysis/health-safety-addiction-services/
 title: Improving and Expanding Addiction Services
+card:
+  - title: Access to Addiction Services
+    body: >
+      Boston is expanding the PAATHS program services to evenings and weekends
+    img: /img/featured_analysis/cards/fa-health-safety-addiction-services.jpg
+    link: /featured-analysis/health-safety-addiction-services
 components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - title: Featured Analysis
     url: "/featured-analysis/"
+    local: true
   - current: Improving and Expanding Addiction Services
   - published: 4/13/17
 - intro:
@@ -40,32 +46,18 @@ components:
       other treatment providers looking for information about, or access to, 
       addiction treatment services. <blockquote>Due to this investment, PAATHS has seen 
       a 50% increase in calls and a 74% increase in walk-ins, while the number of new 
-      patients accessing services has doubled.</blockquote></p> 
-      <h5>PAATHS program</h5>
-      <p>In FY18, the City will build on the success of the PAATHS program and enable it 
-      to expand services to evenings and weekends. This new investment, which includes 
-      funding for three Public Health Advocates, a Clinician, and a Program Director, 
-      allows the program to remain open until 7:00 pm on weekdays and from 
-      9:00 am to 4:00 pm on weekends.</p>
-  - col: >
-      img: /img/placeholder-300x400.png
-      blurb: >
-        PAATHS Investments
-- grid:
+  - col: 
+    - blurb: >
+        <h5>PAATHS program</h5>
+        <p>In FY18, the City will build on the success of the PAATHS program and enable it 
+        to expand services to evenings and weekends. This new investment, which includes 
+        funding for three Public Health Advocates, a Clinician, and a Program Director, 
+        allows the program to remain open until 7:00 pm on weekdays and from 
+        9:00 am to 4:00 pm on weekends.</p>
+    - img: /img/paaths-investments.png
+- grid: 
   - grid_title: More budget analysis
-  - title: Handy dandy title
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /#/
-  - title: This one's witty, too
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
-    link: /#/
-  - title: Rumple Stiltskin
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
-    link: /#/
+  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/bps-long-term-financial-plan
 ---

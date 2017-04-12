@@ -2,14 +2,20 @@
 layout: bos_content
 permalink: /featured-analysis/education-legislation/
 title: Education Legislation
+card:
+  - title: Education finance legislation
+    body: >
+      Mayor Walsh filed education finance reform legislation to invest in students.
+    img: /img/featured_analysis/cards/fa-education-legislation.jpg
+    link: /featured-analysis/education-legislation
 components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - title: Featured Analysis
     url: "/featured-analysis/"
+    local: true
   - current: Education Legislation
   - published: 4/13/17
 - intro:
@@ -28,7 +34,7 @@ components:
       finance reform legislation that would increase annual available funding for Boston by 
       about $35 million for increased investment in education in its first year of 
       implementation.
-    sidebar_menu: true    
+    sidebar_menu: true
 - text_block:
   - title: Overview
     body: > 
@@ -100,21 +106,9 @@ components:
       <blockquote>This year, BPS had to divert funding to minimize the impact of this $1.8 million 
       cut on students, funding that could have been used to expand learning hours or K1 seats, 
       and for many other purposes.</blockquote>
-- grid:
+- grid: 
   - grid_title: More budget analysis
-  - title: Handy dandy title
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /#/
-  - title: This one's witty, too
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
-    link: /#/
-  - title: Rumple Stiltskin
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
-    link: /#/
+  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/bps-long-term-financial-plan
 ---

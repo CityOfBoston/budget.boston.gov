@@ -2,6 +2,12 @@
 layout: bos_content
 permalink: /operating-budget/state-assessments/
 title: State Assessments
+card:
+  - title: State assessments
+    body: >
+      In addition to Charter School Tuition, the State charges for MBTA and other items. Learn more.
+    img: /img/featured_analysis/cards/fa-mbta.jpg
+    link: /featured-analysis/state-assessments
 components:
 - breadcrumbs:
   - title: Home
@@ -24,18 +30,23 @@ components:
       name: Back to all expenditures
       link: /operating-budget/
     columns:
-      - "": MBTA
-        "FY15 Actual": 81.27
-        "FY16 Actual": 83.00
-        "FY17 Budget": 83.82
-        "FY18 Budget": 85.81
+    - "FY15 Actual": 81.27
+      "FY16 Actual": 83.00
+      "FY17 Budget": 83.82
+      "FY18 Budget": 85.81
 - table: 
   - title: Other State assessments
     right_text:
       name: Back to all expenditures
       link: /operating-budget/
+    columns:
     - "FY15 Actual": 4.58
       "FY16 Actual": 4.79
       "FY17 Budget": 5.15
       "FY18 Budget": 4.71
+- grid: 
+  - grid_title: More budget analysis
+  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/bps-long-term-financial-plan
 ---

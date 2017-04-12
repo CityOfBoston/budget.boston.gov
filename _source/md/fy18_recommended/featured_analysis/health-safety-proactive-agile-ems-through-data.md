@@ -2,14 +2,20 @@
 layout: bos_content
 permalink: /featured-analysis/health-safety-proactive-agile-ems-through-data/
 title: Promoting a Proactive and Agile Boston EMS through Data
+card:
+  - title: Data-driven EMS
+    body: >
+      Using data, Boston is changing the way EMTs respond to certain incidents.
+    img: /img/featured_analysis/cards/fa-health-safety-proactive-agile-ems-through-data.jpg
+    link: /featured-analysis/health-safety-proactive-agile-ems-through-data
 components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - title: Featured Analysis
     url: "/featured-analysis/"
+    local: true
   - current: Promoting a Proactive and Agile Boston EMS through Data
   - published: 4/13/17
 - intro:
@@ -62,21 +68,9 @@ components:
       Thanks to Boston's investment in 20 EMTs in FY17, this year’s budget achieves a 10% 
       reduction in EMS overtime and an 8% increase in EMS third party billing revenue. 
       These changes generate a $4.1 million net savings for the City in FY18. </p>
-- grid:
+- grid: 
   - grid_title: More budget analysis
-  - title: Handy dandy title
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /#/
-  - title: This one's witty, too
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
-    link: /#/
-  - title: Rumple Stiltskin
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
-    link: /#/
+  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/bps-long-term-financial-plan
 ---

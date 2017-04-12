@@ -2,6 +2,12 @@
 layout: bos_content
 permalink: /featured-analysis/health-benefits/
 title: Health Benefits
+card:
+  - title: Health benefits
+    body: >
+      Health care costs are contained through savings initiatives but continue to grow. Learn more.
+    img: /img/featured_analysis/cards/fa-health-benefits.jpg
+    link: /featured-analysis/health-benefits
 components:
 - breadcrumbs:
   - title: Home
@@ -207,21 +213,9 @@ components:
       <li>overuse of certain services; and</li>
       <li>high utilization of more expensive hospitals.;</li>
       </ul>
-- grid:
+- grid: 
   - grid_title: More budget analysis
-  - title: Handy dandy title
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /#/
-  - title: This one's witty, too
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
-    link: /#/
-  - title: Rumple Stiltskin
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
-    link: /#/
+  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/bps-long-term-financial-plan
 ---
