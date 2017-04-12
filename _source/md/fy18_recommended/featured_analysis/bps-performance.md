@@ -7,7 +7,7 @@ card:
     body: >
       Learn about BPS graduation and dropout rates.
     img: /img/featured_analysis/cards/fa-bps-performance.jpg
-    link: /featured-analysis/bps-performance
+    link: /featured-analysis/bps-performance/
 components:
 - breadcrumbs:
   - title: Home
@@ -31,7 +31,7 @@ components:
       early literacy, proficiency of certain age groups at specific subjects, and 
       college and career readiness.</blockquote> The use of authentic evidence and data 
       will allow BPS to continue to close the opportunity and achievement gap. 
-    sidebar_menu: true    
+    sidebar_menu: true
 - text_block:
   - title: Graduation Rates
     body: >

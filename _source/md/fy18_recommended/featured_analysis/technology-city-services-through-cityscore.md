@@ -2,14 +2,20 @@
 layout: bos_content
 permalink: /featured-analysis/technology-city-services-through-cityscore/
 title: Improving City Services through CityScore
+card:
+  - title: CityScore Improves Services
+    body: >
+      CityScore informs the Mayor, managers and the public about performance
+    img: /img/featured_analysis/cards/fa-technology-city-services-through-cityscore.jpg
+    link: /featured-analysis/technology-city-services-through-cityscore/
 components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - title: Featured Analysis
     url: "/featured-analysis/"
+    local: true
   - current: Improving City Services through CityScore
   - published: 4/13/17
 - intro:
@@ -41,21 +47,9 @@ components:
       <p>In FY18, the City will continue to develop and expand CityScore by incorporating 
       additional metrics and identifying new opportunities to improve the quality 
       of life for those in Boston.</p>
-- grid:
+- grid: 
   - grid_title: More budget analysis
-  - title: Handy dandy title
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /#/
-  - title: This one's witty, too
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
-    link: /#/
-  - title: Rumple Stiltskin
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
-    link: /#/
+  - card: /featured-analysis/bps-long-term-financial-plan/
+  - card: /featured-analysis/bps-long-term-financial-plan/
+  - card: /featured-analysis/bps-long-term-financial-plan/
 ---
