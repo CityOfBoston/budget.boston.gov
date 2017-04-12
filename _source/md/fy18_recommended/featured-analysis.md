@@ -89,7 +89,6 @@ components:
   - card: /featured-analysis/bps-operating-budget/
   - card: /featured-analysis/early-childhood-education/
   - card: /featured-analysis/special-education/
-  - card: /featured-analysis/early-childhood-education/
   - card: /featured-analysis/supporting-students-most-in-need/
   - card: /featured-analysis/health-benefits/
   - card: /featured-analysis/other-post-employment-benefits/
