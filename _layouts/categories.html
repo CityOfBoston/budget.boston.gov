@@ -28,11 +28,11 @@ layout: bos_wrapper
   {% include sidebar_menu.html %}
 </div>
 
-<p>
-  <div class="body">
-    {{ page.vol1_category_copy }}
-  </div>
-</p>
+<div class="body">
+  {% for paragraph in page.vol1_category_copy %}
+    <p>{{ paragraph }}</p>
+  {% endfor %}
+</div>
 
 <!-- Insert spanning image from IB2030 category-->
 
@@ -71,8 +71,8 @@ layout: bos_wrapper
         </td>
         <td>{{ project.location }}</td>
         <td>{{ project.status }}</td>
-        <td>${{ project.fy-0 | thousands_separated }}</td>
-        <td>{{ project.expenditures_summary.total }}</td>
+        <td>{{ project.fy-0 | thousands_separated }}</td>
+        <td>{{ project.project_title | thousands_separated }}</td>
       </tr>
         {% endfor %}
       {% endfor %}
@@ -82,8 +82,8 @@ layout: bos_wrapper
         <td></td>
         <td></td>
         <td></td>
-        <td>{{ page.projects.fy-0 | thousands_separated }}</td>
-        <td>{{ page.projects.total | thousands_separated }}</td>
+        <td>{{ page.fy-0 | thousands_separated }}</td>
+        <td>{{ page.total | thousands_separated }}</td>
       </tr>
   </tbody>
 </table>

@@ -384,7 +384,7 @@ components:
            filter: delimiter
       - "Department":
           name: Boston Planning and Development Agency
-          link: /capital-projects/
+          link: /capital-projects/boston-planning-and-development-agency
         "Through 6/30/16":
            value: 0
            filter: delimiter
@@ -405,7 +405,7 @@ components:
            filter: delimiter
       - "Department":
           name: Boston Centers for Youth and Families
-          link: /capital-projects/
+          link: /capital-projects/boston-centers-for-youth-and-families
         "Through 6/30/16":
            value: 5474929
            filter: delimiter
@@ -426,7 +426,7 @@ components:
            filter: delimiter
       - "Department":
           name: Environment Department
-          link: /capital-projects/
+          link: /capital-projects/environment-department
         "Through 6/30/16":
            value: 0
            filter: delimiter
@@ -447,7 +447,7 @@ components:
            filter: delimiter
       - "Department":
           name: Emergency Management
-          link: /capital-projects/
+          link: /capital-projects/emergency-management
         "Through 6/30/16":
            value: 0
            filter: delimiter
@@ -468,7 +468,7 @@ components:
            filter: delimiter
       - "Department":
           name: Fire Department
-          link: /capital-projects/
+          link: /capital-projects/fire-department
         "Through 6/30/16":
            value: 1204474
            filter: delimiter
@@ -489,7 +489,7 @@ components:
            filter: delimiter
       - "Department":
           name: Library Department
-          link: /capital-projects/
+          link: /capital-projects/library-department
         "Through 6/30/16":
            value: 4276282
            filter: delimiter
@@ -510,7 +510,7 @@ components:
            filter: delimiter
       - "Department":
           name: Department of Innovation and Technology
-          link: /capital-projects/
+          link: /capital-projects/department-of-innovation-and-technology
         "Through 6/30/16":
            value: 26331883
            filter: delimiter
@@ -531,7 +531,7 @@ components:
            filter: delimiter
       - "Department":
           name: Neighborhood Development
-          link: /capital-projects/
+          link: /capital-projects/neighborhood-development
         "Through 6/30/16":
            value: 18132
            filter: delimiter
@@ -552,7 +552,7 @@ components:
            filter: delimiter
       - "Department":
           name: Office of New Urban Mechanics
-          link: /capital-projects/
+          link: /capital-projects/office-of-new-urban-mechanics
         "Through 6/30/16":
            value: 0
            filter: delimiter
@@ -573,7 +573,7 @@ components:
            filter: delimiter
       - "Department":
           name: Police Department
-          link: /capital-projects/
+          link: /capital-projects/police-department
         "Through 6/30/16":
            value: 5225050
            filter: delimiter
@@ -594,7 +594,7 @@ components:
            filter: delimiter
       - "Department":
           name: Public Health Commission
-          link: /capital-projects/
+          link: /capital-projects/public-health-commission
         "Through 6/30/16":
            value: 17534
            filter: delimiter
@@ -615,7 +615,7 @@ components:
            filter: delimiter
       - "Department":
           name: Property Management Department
-          link: /capital-projects/
+          link: /capital-projects/property-management
         "Through 6/30/16":
            value: 1163397
            filter: delimiter
@@ -636,7 +636,7 @@ components:
            filter: delimiter
       - "Department":
           name: Parks and Recreation Department
-          link: /capital-projects/
+          link: /capital-projects/parts-and-recreation-department
         "Through 6/30/16":
            value: 20446829
            filter: delimiter
@@ -657,7 +657,7 @@ components:
            filter: delimiter
       - "Department":
           name: School Department
-          link: /capital-projects/
+          link: /capital-projects/boston-public-schools
         "Through 6/30/16":
            value: 22771793
            filter: delimiter
@@ -678,7 +678,7 @@ components:
            filter: delimiter
       - "Department":
           name: Public Works Department
-          link: /capital-projects/
+          link: /capital-projects/public-works-department
         "Through 6/30/16":
            value: 86500166
            filter: delimiter
@@ -699,7 +699,7 @@ components:
            filter: delimiter
       - "Department":
           name: Transportation Department
-          link: /capital-projects/
+          link: /capital-projects/transportation-department
         "Through 6/30/16":
            value: 8665692
            filter: delimiter
