@@ -1,20 +1,25 @@
 ---
 layout: bos_content
-permalink: /operating-budget/suffolk-county-sheriff-dept/
-title: Suffolk County Sheriff Department
+permalink: /operating-budget/suffolk-county-assessment/
+title: Suffolk County Assessment
+card:
+  - title: Suffolk County Assessment
+    body: >
+      Covering the pension liability costs for former County employees retired before 1/1/10.
+    img: /img/featured_analysis/cards/fa-suffolk-county-sheriff-dept.jpg
+    link: /operating-budget/suffolk-county-assessment
 components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - title: Operating Budget
     url: "/operating-budget/"
     local: true
-  - current: Suffolk County Sheriff Department
+  - current: Suffolk County Assessment
   - published: 4/13/17
 - intro:
-  - title: Suffolk County Sheriff Department
+  - title: Suffolk County Assessment
     short_desc: >
       The Suffolk County budget is a fixed cost mandated by state legislation, 
       budgeted at $3.9 million in FY18. State legislation converted all existing 
@@ -28,14 +33,22 @@ components:
       necessary.</blockquote>
     sidebar_menu: true
 - table:
-  - title: Suffolk County Sheriff Department
+  - title: Suffolk County Assessment
     right_text:
       name: Back to all expenditures
       link: /operating-budget
     columns:
-      - "": Suffolk County Sheriff Dept
-        "FY15 Actual": 3874532
-        "FY16 Actual": 3874532
-        "FY17 Budget": 3874532
-        "FY18 Budget": 3874532
+      - "": Suffolk County Assessment
+        "FY15 Actual": 
+          value: 3874532
+          filter: delimiter
+        "FY16 Actual": 
+          value: 3874532
+          filter: delimiter
+        "FY17 Budget": 
+          value: 3874532
+          filter: delimiter
+        "FY18 Budget": 
+          value: 3874532
+          filter: delimiter
 ---

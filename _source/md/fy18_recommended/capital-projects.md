@@ -193,7 +193,7 @@ components:
            filter: delimiter
       - "Category":
           name: Government Effectiveness
-          link: /capital-projects/govt-effectiveness
+          link: /capital-projects/government-effectiveness
         "Through 6/30/16":
            value: 1949730
            filter: delimiter
