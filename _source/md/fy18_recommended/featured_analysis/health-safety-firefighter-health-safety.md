@@ -48,7 +48,7 @@ components:
       first firehouses in the nation to reflect these enhancements.</p>
 - grid: 
   - grid_title: More budget analysis
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/health-safety-proactive-agile-ems-through-data/
+  - card: /featured-analysis/health-safety-addiction-services/
+  - card: /featured-analysis/city-services/
 ---
