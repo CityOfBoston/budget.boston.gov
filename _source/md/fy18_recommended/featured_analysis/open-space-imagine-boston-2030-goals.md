@@ -51,7 +51,7 @@ components:
       investment will ensure future generations will enjoy the park in its full vibrancy.</p>
 - grid: 
   - grid_title: More budget analysis
-  - card: /featured-analysis/bps-long-term-financial-plan/
-  - card: /featured-analysis/bps-long-term-financial-plan/
-  - card: /featured-analysis/bps-long-term-financial-plan/
+  - card: /featured-analysis/open-space-accessible-equitable-parks/
+  - card: /featured-analysis/streets-launching-go-boston-2030/
+  - card: /featured-analysis/streets-keeping-streets-clean-safe/
 ---

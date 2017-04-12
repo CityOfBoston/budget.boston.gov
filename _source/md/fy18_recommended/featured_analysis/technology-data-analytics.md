@@ -70,7 +70,7 @@ components:
       </ul>
 - grid: 
   - grid_title: More budget analysis
-  - card: /featured-analysis/bps-long-term-financial-plan/
-  - card: /featured-analysis/bps-long-term-financial-plan/
-  - card: /featured-analysis/bps-long-term-financial-plan/
+  - card: /featured-analysis/technology-city-services-through-cityscore/
+  - card: /featured-analysis/health-safety-proactive-agile-ems-through-data/
+  - card: /featured-analysis/closing-opportunity-achievement-gaps/
 ---
