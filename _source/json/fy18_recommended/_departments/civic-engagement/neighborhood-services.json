@@ -55,7 +55,7 @@
     },
     "data":[
       {
-        "name":"ONS Administration",
+        "name":"Administration",
         "line_type":"data",
         "fy-2":499453,
         "fy-1":506835,
@@ -63,7 +63,7 @@
         "fy+1":585698
       },
       {
-        "name":"Neighborhood Serv",
+        "name":"Neighborhood Services",
         "line_type":"data",
         "fy-2":922517,
         "fy-1":1009736,

@@ -70,11 +70,11 @@
       },
       "projects_data":[
         {
-          "Gov't Effectiveness":[
+          "Government Effectiveness":[
             {
               "line_type":"data",
               "title":null,
-              "category":"Gov't Effectiveness",
+              "category":"Government Effectiveness",
               "name":"Youth Budget Round 3",
               "location":"Citywide",
               "section_id":"CCC24311",
@@ -86,7 +86,7 @@
             {
               "line_type":"data",
               "title":null,
-              "category":"Gov't Effectiveness",
+              "category":"Government Effectiveness",
               "name":"Youth Budget Round 1",
               "location":"Citywide",
               "section_id":"CCC23894",
@@ -98,7 +98,7 @@
             {
               "line_type":"data",
               "title":null,
-              "category":"Gov't Effectiveness",
+              "category":"Government Effectiveness",
               "name":"Youth Budget Round 2",
               "location":"Citywide",
               "section_id":"CCC24310",
@@ -110,7 +110,7 @@
             {
               "line_type":"data",
               "title":null,
-              "category":"Gov't Effectiveness",
+              "category":"Government Effectiveness",
               "name":"Youth Budget Round 4",
               "location":"Citywide",
               "section_id":"CCC24535",
@@ -122,7 +122,7 @@
             {
               "line_type":"data",
               "title":null,
-              "category":"Gov't Effectiveness",
+              "category":"Government Effectiveness",
               "name":"BCYF Mattahunt Community Center Exterior Lighting",
               "location":"Mattapan",
               "section_id":"CCC24552",
@@ -134,7 +134,7 @@
             {
               "line_type":"data",
               "title":null,
-              "category":"Gov't Effectiveness",
+              "category":"Government Effectiveness",
               "name":"Youth Budget Round 5",
               "location":"Citywide",
               "section_id":"CCC24658",

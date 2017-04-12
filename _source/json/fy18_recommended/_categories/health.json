@@ -148,6 +148,17 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":100000,
+              "fy-0":40000,
+              "category":"Health",
+              "name":"EMS Station Study",
+              "location":"South Boston",
+              "status":"Study Underway",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
               "project_title":1129000,
               "fy-0":379117,
               "category":"Health",
@@ -159,14 +170,9 @@
           ]
         }
       ]
-    },
-    {
-      "line_type":"totalCat",
-      "title":null,
-      "fy-0":379117,
-      "total":9687365,
-      "category":"Health"
     }
-  ]
+  ],
+  "fy-0":419117,
+  "total":9727365
 }
 ---

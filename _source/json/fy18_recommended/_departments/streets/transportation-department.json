@@ -73,7 +73,7 @@
         "fy+1":8473171
       },
       {
-        "name":"Traffic Commissioner's Office",
+        "name":"Commissioner's Office",
         "line_type":"data",
         "fy-2":2185410,
         "fy-1":1802029,
@@ -97,7 +97,7 @@
         "fy+1":1109304
       },
       {
-        "name":"Traffic Enforcement",
+        "name":"Enforcement",
         "line_type":"data",
         "fy-2":13361550,
         "fy-1":13862642,
@@ -105,7 +105,7 @@
         "fy+1":14530449
       },
       {
-        "name":"Traffic Operations",
+        "name":"Operations",
         "line_type":"data",
         "fy-2":4500437,
         "fy-1":6231742,

@@ -99,7 +99,7 @@
       },
       "projects_data":[
         {
-          "Energy & Environment":[
+          "Energy and Environment":[
             {
               "line_type":"data",
               "title":null,
@@ -115,11 +115,11 @@
           ]
         },
         {
-          "Gov't Effectiveness":[
+          "Government Effectiveness":[
             {
               "line_type":"data",
               "title":null,
-              "category":"Gov't Effectiveness",
+              "category":"Government Effectiveness",
               "name":"Building Envelope Repairs at Various Stations",
               "location":"Citywide",
               "section_id":"CFD24092",

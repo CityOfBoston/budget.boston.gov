@@ -56,7 +56,7 @@
     },
     "data":[
       {
-        "name":"Elderly Administration",
+        "name":"Administration",
         "line_type":"data",
         "fy-2":752149,
         "fy-1":717725,
@@ -64,7 +64,7 @@
         "fy+1":827716
       },
       {
-        "name":"Elderly Operations",
+        "name":"Operations",
         "line_type":"data",
         "fy-2":356280,
         "fy-1":443576,
@@ -72,7 +72,7 @@
         "fy+1":732514
       },
       {
-        "name":"Elderly Transportation",
+        "name":"Transportation",
         "line_type":"data",
         "fy-2":1439809,
         "fy-1":1387659,

@@ -32,7 +32,7 @@
     },
     "data":[
       {
-        "name":"Mayor's Administration",
+        "name":"Administration",
         "line_type":"data",
         "fy-2":1222981,
         "fy-1":1056163,
@@ -40,7 +40,7 @@
         "fy+1":1176580
       },
       {
-        "name":"Mayor's Executive",
+        "name":"Executive",
         "line_type":"data",
         "fy-2":521583,
         "fy-1":333987,
@@ -48,7 +48,7 @@
         "fy+1":357465
       },
       {
-        "name":"Mayor's Policy and Planning",
+        "name":"Policy and Planning",
         "line_type":"data",
         "fy-2":477957,
         "fy-1":959204,
@@ -64,7 +64,7 @@
         "fy+1":394536
       },
       {
-        "name":"Mayor's Communications",
+        "name":"Communications",
         "line_type":"data",
         "fy-2":0,
         "fy-1":603653,
