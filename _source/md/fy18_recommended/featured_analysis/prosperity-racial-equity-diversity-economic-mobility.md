@@ -63,7 +63,7 @@ components:
       21st century.</blockquote></p>
 - grid: 
   - grid_title: More budget analysis
-  - card: /featured-analysis/bps-long-term-financial-plan/
+  - card: /featured-analysis/prosperity-recruiting-diverse-police-force/
   - card: /featured-analysis/bps-long-term-financial-plan/
   - card: /featured-analysis/bps-long-term-financial-plan/
 ---
