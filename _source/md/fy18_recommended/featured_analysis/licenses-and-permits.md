@@ -3,7 +3,7 @@ layout: bos_content
 permalink: /featured-analysis/licenses-and-permits/
 title: Licenses and Permits
 card:
-  - title: 
+  - title: Licenses and Permits
     body: >
       FY18 Budget estimates permit revenue growth from commercial and residential real estate development.
     img: /img/featured_analysis/cards/fa-licenses-and-permits.jpg
