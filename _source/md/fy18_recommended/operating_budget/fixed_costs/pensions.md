@@ -43,6 +43,6 @@ components:
       - "": Pensions
         "FY15 Actual": 169624584
         "FY16 Actual": 196548695
-        "FY17 Budget": 199.28
-        "FY18 Budget": 218.21
+        "FY17 Budget": 199279888
+        "FY18 Budget": 218208797
 ---
