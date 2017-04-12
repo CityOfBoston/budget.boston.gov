@@ -32,43 +32,43 @@ components:
   - title: Excellence For All results
     columns:
       - "": Black
-      - "BPS Grade 4": 
+        "BPS Grade 4": 
           value: 30
           filter: percent
-      - "AWC Grade 4": 
+        "AWC Grade 4": 
           value: 11
           filter: percent
-      - "EFA Cohort":
+        "EFA Cohort":
           value: 33
           filter: percent
       - "": Hispanic
-      - "BPS Grade 4": 
+        "BPS Grade 4": 
           value: 47
           filter: percent
-      - "AWC Grade 4": 
+        "AWC Grade 4": 
           value: 24
           filter: percent
-      - "EFA Cohort":
+        "EFA Cohort":
           value: 50
           filter: percent
       - "": Students with disabilities
-      - "BPS Grade 4": 
+        "BPS Grade 4": 
           value: 21
           filter: percent
-      - "AWC Grade 4": 
+        "AWC Grade 4": 
           value: 1
           filter: percent
-      - "EFA Cohort":
+        "EFA Cohort":
           value: 24
           filter: percent
       - "": English language learners
-      - "BPS Grade 4": 
+        "BPS Grade 4": 
           value: 34
           filter: percent
-      - "AWC Grade 4": 
+        "AWC Grade 4": 
           value: 10
           filter: percent
-      - "EFA Cohort":
+        "EFA Cohort":
           value: 39
           filter: percent
 - text_block: 

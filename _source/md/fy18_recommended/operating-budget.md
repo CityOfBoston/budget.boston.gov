@@ -6,12 +6,14 @@ components:
 - breadcrumbs:
   - title: Home
     url: "/"
+    local: true
   - current: Operating Budget
   - published: 4/13/17
 - intro:
   - title: Operating Budget
     short_desc: >
       The FY18 Recommended Operating Budget totals $3.14 billion and represents an increase of $144 million or 4.8% over FY17. The FY18 budget continues the City’s record of strong fiscal management. Expanding on savings initiatives launched during Mayor Walsh’s Administration to offset growth in fixed costs. The FY18 budget features data-driven investments in a thriving, healthy, and innovative city.
+    sidebar_menu: true
 - text_col_2: 
   - col: >
       <h5>Revenue</h5>
