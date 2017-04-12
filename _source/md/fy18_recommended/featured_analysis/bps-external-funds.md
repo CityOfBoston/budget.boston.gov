@@ -85,7 +85,7 @@ components:
       Level 3, 4, and 5 schools that are experiencing declining enrollment.</p>
 - grid:
   - grid_title: More budget analysis
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/net-state-education-revenue/
+  - card: /featured-analysis/education-aid/
+  - card: /featured-analysis/bps-long-term-financial-plan/
 ---

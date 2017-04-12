@@ -56,7 +56,7 @@
       },
       "projects_data":[
         {
-          "Energy & Environment":[
+          "Energy and Environment":[
             {
               "line_type":"data",
               "title":null,
@@ -68,7 +68,11 @@
               "operating_impact":"No",
               "fy-0":286500,
               "project_total":973000
-            },
+            }
+          ]
+        },
+        {
+          "Energy and Environment":[
             {
               "line_type":"data",
               "title":null,
@@ -80,7 +84,11 @@
               "operating_impact":"No",
               "fy-0":386600,
               "project_total":425000
-            },
+            }
+          ]
+        },
+        {
+          "Energy and Environment":[
             {
               "line_type":"data",
               "title":null,

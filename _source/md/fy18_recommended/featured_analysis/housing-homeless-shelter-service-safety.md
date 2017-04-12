@@ -1,15 +1,21 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/housing-homeless-shelter-safety/
+permalink: /featured-analysis/housing-homeless-shelter-service-safety/
 title: Improving Homeless Shelter Service and Safety
+card:
+  - title: Homeless shelter services
+    body: >
+      Budget supports front door triage and rapid rehousing at shelters
+    img: /img/featured_analysis/cards/fa-housing-homeless-shelter-service-safety.jpg
+    link: /featured-analysis/housing-homeless-shelter-service-safety/
 components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - title: Featured Analysis
     url: "/featured-analysis/"
+    local: true
   - current: Improving Homeless Shelter Service and Safety
   - published: 4/13/17
 - intro:
@@ -55,21 +61,9 @@ components:
       “Housing First” approach to ending chronic homelessness, the FY18 budget will 
       support rapid rehousing programs that focus on helping households obtain permanent 
       housing as quickly as possible. </p>
-- grid:
+- grid: 
   - grid_title: More budget analysis
-  - title: Handy dandy title
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /#/
-  - title: This one's witty, too
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
-    link: /#/
-  - title: Rumple Stiltskin
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
-    link: /#/
+  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/bps-long-term-financial-plan
 ---

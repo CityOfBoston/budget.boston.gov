@@ -51,7 +51,7 @@ components:
       next year.</p>
 - grid:
   - grid_title: More budget analysis
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/weighted-student-funding/
+  - card: /featured-analysis/bps-operating-budget/
+  - card: /featured-analysis/special-education
 ---

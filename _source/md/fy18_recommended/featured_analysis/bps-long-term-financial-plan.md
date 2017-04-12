@@ -7,7 +7,7 @@ card:
     body: >
       BPS is committed to unlocking resources to invest in student success. See how.
     img: /img/featured_analysis/cards/fa-bps-long-term-financial-plan.jpg
-    link: /featured-analysis/bps-long-term-financial-plan
+    link: /featured-analysis/bps-long-term-financial-plan/
 components:
 - breadcrumbs:
   - title: Home
@@ -66,11 +66,9 @@ components:
       highlighted later in the chapter. The District continues to engage with the community 
       and conduct additional analysis on the other ideas under discussion, which have 
       broader policy implications.</p>
-      <p>No significant potential policy changes outlined in 
-      the first Long Term report are in the FY18 proposal.</p>
 - grid:
   - grid_title: More budget analysis
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/bps-spending-pressures/
+  - card: /featured-analysis/net-state-education-revenue/
+  - card: /featured-analysis/education-legislation/
 ---

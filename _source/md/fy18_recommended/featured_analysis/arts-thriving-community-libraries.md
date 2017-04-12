@@ -44,21 +44,17 @@ components:
       smaller scale facilities improvement projects, including interior updates at the
       South End, Lower Mills, and West Roxbury branches, and landscaping and exterior 
       space upgrades at the South Boston Branch.</p>
+  - col: >
       <h5>Dudley Branch</h5>
-      <p>In FY18, construction will begin at the Dudley Branch. This $14.7 million project 
-      includes:</p>
-        <ul>
-          <li>reorienting the entrance to reconnect it with the heart of Dudley Square;</li>
-          <li>interior renovations to improve connections between the building’s spaces;</li>
-          <li>and enhanced community and programming space so the branch can better 
-          serve the many people who utilize this important resource.</li>
-        </ul>
+      <p>In FY18, construction will begin at the Dudley Branch. This $14.7 million project includes:</p>
+      <ul>
+      <li>reorienting the entrance to reconnect it with the heart of Dudley Square;</li>
+      <li>interior renovations to improve connections between the building’s spaces;</li>
+      <li>and enhanced community and programming space so the branch can better serve the many people who utilize this important resource.</li>
+      </ul>
+  - col: >
       <h5>Roslindale and Adams Street</h5>
-      <p>The Capital Plan supports design activity at the Roslindale and Adams Street 
-      branches in the upcoming year as well. The recently completed programming study 
-      and community process for the Adams Street Branch resulted in recommendations for 
-      new construction that will expand the building footprint, add new meeting rooms, 
-      provide an enhanced teen space, and create redesigned outdoor spaces.</p>
+      <p>The Capital Plan supports design activity at the Roslindale and Adams Street branches in the upcoming year as well. The recently completed programming study and community process for the Adams Street Branch resulted in recommendations for new construction that will expand the building footprint, add new meeting rooms, provide an enhanced teen space, and create redesigned outdoor spaces.</p>
 - grid:
   - grid_title: More budget analysis
   - card: /featured-analysis/bps-long-term-financial-plan

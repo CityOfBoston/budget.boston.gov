@@ -6,8 +6,7 @@ components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - current: Executive Summary
   - published: 4/13/17
 - intro:
@@ -46,7 +45,7 @@ components:
     right_image: /img/budget-growth.png
 - text_col_2:
   - col: >
-      <h5>Expaning on savings</h5>
+      <h5>Expanding on savings</h5>
       <p>Even with strong growth in locally derived revenues, it is only through continued 
       tightening within City departments that the City will be able to afford new and expanded 
       investments after reserving for costs associated with collective bargaining, being 
@@ -86,14 +85,14 @@ components:
       process and partnerships with the Massachusetts School Building Authority (MSBA).</li>
       </ul>
 - spanning_image:
-  - title: Lorem ipsum title
-    desc: This is the description for the spanning image
+  - title: Extending the school day
+    desc: Working to close achievement and opportunity gaps
     link:
-      - text: Click Here
-        url: https://google.com
-    src: https://www.boston.gov/sites/default/files/styles/resp_wide_2000x800custom_boston_wide_1x/public/winter_swimming_10.jpg?itok=W91jOE5G&timestamp=1452037695    
-    alt: Placeholder alt text
-    title: Placeholder image title
+      - text: Learn more
+        url: /featured-analysis/extended-school-day/
+    src: /img/students-on-a-computer.jpg
+    alt: Three students all looking at a computer
+    title: Students learning on a computer
 - text_col_3:
   - col: >
       <h5>City approach vs. federal approach</h5>
@@ -218,21 +217,10 @@ components:
 - text_col_2:
     - col: >
         <ul>
-        <li>Mayor Walsh committed $1 billion over ten years to bring Boston's school 
-        buildings into the 21st Century, and this Capital Plan launches that investment 
-        with funding for 21st Century Classrooms, MSBA Accelerated Repair Program 
-        partnerships, completion of projects in the pipeline, and reserves for future 
+        <li>Mayor Walsh committed $1 billion over ten years to bring Boston's school buildings into the 21st Century, and this Capital Plan launches that investment with funding for 21st Century Classrooms, MSBA Accelerated Repair Program partnerships, completion of projects in the pipeline, and reserves for future 
         projects coming out of BuildBPS community engagement.</li>
-        <li>Boston will invest $343 million over the next five years in implementing the 
-        core initiatives outlined in Go Boston 2030: streets that are safer for all users 
-        of our roads and sidewalks, particularly pedestrians and cyclists; travel that 
-        is more reliable and predictable; and quality transportation choices that improve 
-        access to interconnect our neighborhoods for all modes of travel.</li>
-        <li>Through the use of Winthrop Square proceeds, City capital dollars, and 
-        leveraging external funds, Mayor Walsh plans to carry out early actions to implement 
-        Imagine Boston 2030’s Open Space goals, including investing in Franklin Park as a 
-        keystone park for the city, completing the Emerald Necklace, and restoring Boston 
-        Common to its full vibrancy.</li>
+        <li>Boston, in collaboration with State and Federal sources, will invest $709 million over the next five years in implementing the core initiatives outlined in Go Boston 2030: streets that are safer for all users of our roads and sidewalks, particularly pedestrians and cyclists; travel that is more reliable and predictable; and quality transportation choices that improve access to interconnect our neighborhoods for all modes of travel. </li>
+        <li>Through the use of Winthrop Square proceeds, City capital dollars, and leveraging external funds, Mayor Walsh plans to carry out early actions to implement Imagine Boston 2030’s Open Space goals, including investing in Franklin Park as a keystone park for the city, completing the Emerald Necklace, and restoring Boston Common to its full vibrancy.</li>
         </ul>
     - col: >
         <ul>
@@ -247,7 +235,7 @@ components:
         <p>With investments in roads, bridges, schools, libraries, parks, firehouses, and 
         community centers, the Imagine Boston Capital Plan touches each neighborhood and shapes 
         a City that over 14,000 voices told us they want to see.</p>
-        <p class="button">View the Capital Plan</p>
+        <a class="button" href="https://budget.boston.gov/capital-projects">View the Capital Plan</a>
 - text_block:
   - title: FY18 Budget Priorities
     body: >
@@ -281,18 +269,6 @@ components:
       Insert copy 
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
     link: /featured-analysis/buildbps/
-- text_col_2: 
-  - col: >
-      <p>This Capital Plan allows Boston to invest in BPS projects already in the pipeline:</p>
-      <ul>
-      <li>Slated to be completed in winter of 2017/2018, the $73 million Dearborn STEM Academy will open for students in September 2018. The project, which leverages a projected $37 million match from the MSBA, is designed based upon a project-based learning curriculum, with an emphasis on STEM education.</li>
-      <li>Over the next two years, the Eliot School construction projects will be completed. The new $23 million North Bennet Street building will welcome 5th to 8th graders this fall into a 21st century learning environment while this summer, the final phase of construction will begin at the Commercial Street building.</li>
-      </ul>
-  - col: >
-      <ul>
-      <li>The Capital Plan provides for Boston’s matching investment in the Josiah Quincy Upper School (JQUS) and Boston Arts Academy (BAA), which are collaborative projects with the Massachusetts School Building Authority (MSBA).</li>
-      </ul>
-      <p>In total, Boston will invest more than $312 million in BPS capital projects over the next five years, with an additional $418 million committed for the following five years. When combined with projected MSBA matching funds, Boston is committing the $1 billion in BPS capital projects over ten years.</p>
 - grid:
   - grid_title: Additional priorities
   - title: Implementing Boston’s Homeless Action Plan

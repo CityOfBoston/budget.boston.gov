@@ -2,12 +2,17 @@
 layout: bos_content
 permalink: /operating-budget/reserve/
 title: Reserve
+card:
+  - title: Reserve
+    body: >
+      State law requires a reserve fund for extraordinary and unforeseen spending.  See why.
+    img: /img/featured_analysis/cards/fa-reserve.jpg
+    link: /operating-budget/reserve/
 components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - title: Operating Budget
     url: "/operating-budget/"
     local: true
@@ -29,11 +34,19 @@ components:
     sidebar_menu: true
 - table:
   - title: Reserve
-    right_text: (numbers in millions)
+    right_text:
+      name: Back to all expenditures
+      link: /operating-budget
     columns:
       - "": Reserve
-        "FY15 Actual": 0.92
-        "FY16 Actual": 0.99
-        "FY17 Budget": 0.00
-        "FY18 Budget": 1.00
+        "FY15 Actual": 
+          value: 915357
+          filter: delimiter
+        "FY16 Actual": 
+          value: 988660
+          filter: delimiter
+        "FY17 Budget": 0
+        "FY18 Budget": 
+          value: 1000000
+          filter: delimiter
 ---

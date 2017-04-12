@@ -6,10 +6,10 @@ components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - title: Featured Analysis
     url: "/featured-analysis/"
+    local: true
   - current: Ensuring Accessible and Equitable Parks
   - published: 4/13/17
 - intro:
@@ -57,9 +57,8 @@ components:
       created robust budgets for park renovation projects at:</p>
         <ul>
           <li><a href="https://www.boston.gov/departments/parks-and-recreation/martins-park">Martin’s Park</a> in the Seaport;</li>
-          <li><a href="https://www.boston.gov/departments/parks-and-recreation/improvements-smith-playground">Smith Playground</a> in Allston;</li>
-          <li><a href="https://www.boston.gov/departments/parks-and-recreation/improvements-mcconnell-playground">McConnell</a> and <a href="https://www.boston.gov/departments/parks-and-recreation/improvements-garvey-playground">Garvey</a> Parks in Dorchester; and</li>
-          <li>Ryan Playground in Charlestown.</li>
+          <li><a href="https://www.boston.gov/departments/parks-and-recreation/improvements-smith-playground">Smith Playground</a> in Allston; and</li>
+          <li><a href="https://www.boston.gov/departments/parks-and-recreation/improvements-mcconnell-playground">McConnell</a> and <a href="https://www.boston.gov/departments/parks-and-recreation/improvements-garvey-playground">Garvey</a> Parks in Dorchester</li>
         </ul>
   - col: >
       <h5>Harambee Park</h5>

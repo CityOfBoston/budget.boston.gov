@@ -1,13 +1,18 @@
 ---
 layout: bos_content
 permalink: /operating-budget/pensions/
-title: Cabinets
+title: Pensions
+card:
+  - title: Pensions
+    body: >
+      Due to generations of underfunding, pensions require a 9.5% increase.
+    img: /img/featured_analysis/cards/fa-pensions.jpg
+    link: /operating-budget/pensions/
 components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - title: Operating Budget
     url: "/operating-budget/"
     local: true
@@ -35,14 +40,22 @@ components:
       is on track to reduce the unfunded liability to zero by 2025, fifteen years prior 
       to the legally required funding date of 2040.</blockquote>
 - table:
-  - title: Pensions (dollars in millions)
+  - title: Pensions
     right_text:
       name: Back to all expenditures
       link: /operating-budget
     columns:
       - "": Pensions
-        "FY15 Actual": 169624584
-        "FY16 Actual": 196548695
-        "FY17 Budget": 199.28
-        "FY18 Budget": 218.21
+        "FY15 Actual": 
+          value: 169624584
+          filter: delimiter
+        "FY16 Actual": 
+          value: 196548695
+          filter: delimiter
+        "FY17 Budget": 
+          value: 199279888
+          filter: delimiter
+        "FY18 Budget": 
+          value: 218208797
+          filter: delimiter
 ---

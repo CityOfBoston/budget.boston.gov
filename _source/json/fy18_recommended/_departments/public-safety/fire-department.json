@@ -62,7 +62,7 @@
     },
     "data":[
       {
-        "name":"BFD Administration",
+        "name":"Administration",
         "line_type":"data",
         "fy-2":18732567,
         "fy-1":16075074,
@@ -70,7 +70,7 @@
         "fy+1":17005853
       },
       {
-        "name":"Boston Fire Suppression",
+        "name":"Fire Suppression",
         "line_type":"data",
         "fy-2":161551602,
         "fy-1":165813092,
@@ -86,7 +86,7 @@
         "fy+1":10048082
       },
       {
-        "name":"BFD Training",
+        "name":"Training",
         "line_type":"data",
         "fy-2":4565225,
         "fy-1":4693957,
@@ -102,7 +102,7 @@
         "fy+1":9351783
       },
       {
-        "name":"BFD Fire Prevention",
+        "name":"Fire Prevention",
         "line_type":"data",
         "fy-2":10390385,
         "fy-1":11393025,

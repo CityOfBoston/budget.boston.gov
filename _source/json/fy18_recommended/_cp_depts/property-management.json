@@ -92,7 +92,7 @@
       },
       "projects_data":[
         {
-          "Arts & Culture":[
+          "Arts and Culture":[
             {
               "line_type":"data",
               "title":null,
@@ -108,7 +108,7 @@
           ]
         },
         {
-          "Energy & Environment":[
+          "Energy and Environment":[
             {
               "line_type":"data",
               "title":null,
@@ -124,11 +124,11 @@
           ]
         },
         {
-          "Gov't Effectiveness":[
+          "Government Effectiveness":[
             {
               "line_type":"data",
               "title":null,
-              "category":"Gov't Effectiveness",
+              "category":"Government Effectiveness",
               "name":"1010 Mass. Ave. Renovation",
               "location":"Roxbury",
               "section_id":"CPM24723",
@@ -140,7 +140,7 @@
             {
               "line_type":"data",
               "title":null,
-              "category":"Gov't Effectiveness",
+              "category":"Government Effectiveness",
               "name":"City Hall",
               "location":"Government Center/Faneuil Hall",
               "section_id":"CPM24712",
@@ -152,7 +152,7 @@
             {
               "line_type":"data",
               "title":null,
-              "category":"Gov't Effectiveness",
+              "category":"Government Effectiveness",
               "name":"City Hall Plaza",
               "location":"Government Center/Faneuil Hall",
               "section_id":"CPM24711",
@@ -164,7 +164,7 @@
             {
               "line_type":"data",
               "title":null,
-              "category":"Gov't Effectiveness",
+              "category":"Government Effectiveness",
               "name":"26 Court Street Renovation",
               "location":"Financial District/Downtown",
               "section_id":"CPM23470",
@@ -176,7 +176,7 @@
             {
               "line_type":"data",
               "title":null,
-              "category":"Gov't Effectiveness",
+              "category":"Government Effectiveness",
               "name":"City Hall ADA Restroom",
               "location":"Government Center/Faneuil Hall",
               "section_id":"CPM24152",
@@ -188,7 +188,7 @@
             {
               "line_type":"data",
               "title":null,
-              "category":"Gov't Effectiveness",
+              "category":"Government Effectiveness",
               "name":"Faneuil Hall HVAC",
               "location":"Government Center/Faneuil Hall",
               "section_id":"CPM24124",
@@ -200,7 +200,7 @@
             {
               "line_type":"data",
               "title":null,
-              "category":"Gov't Effectiveness",
+              "category":"Government Effectiveness",
               "name":"Veronica Smith Center Bathrooms and Flooring",
               "location":"Allston/Brighton",
               "section_id":"CPM24110",
@@ -212,7 +212,7 @@
             {
               "line_type":"data",
               "title":null,
-              "category":"Gov't Effectiveness",
+              "category":"Government Effectiveness",
               "name":"Family Justice Center Elevator",
               "location":"Allston/Brighton",
               "section_id":"CPM23947",
