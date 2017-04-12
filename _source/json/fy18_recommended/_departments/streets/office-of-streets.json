@@ -85,9 +85,6 @@
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
-  "description_of_services":[
-    "The Office of Streets oversees the operations of the individual departments within the cabinet. The Office also provides administration and finance support for those departments."
-  ],
   "department_history_by_account":{
     "table_title":"Department History by Account",
     "table_header":{
