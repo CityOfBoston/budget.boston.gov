@@ -77,8 +77,12 @@ layout: bos_wrapper
       {% for category in data %}
         {% for project in category[1] %}
           <tr>
-            <td><a href="{{ site.url }}/capital-projects/{{ category[0] | replace: "'","" | slugify }}">{{ category[0] }}</a></td>
-            <td><a href="{{ site.url }}/capital-projects/{{ page.name | replace: "'","" | slugify }}/{{ project.name | slugify }}">{{ project.name }}</a></td>
+            <td>
+              <a href="{{ site.url }}/capital-projects/{{ category[0] | replace: "'","" | slugify }}">{{ category[0] }}</a>
+            </td>
+            <td>
+              <a href="{{ site.url }}/capital-projects/{{ page.name | replace: "'","" | slugify }}/{{ project.name | slugify }}">{{ project.name }}</a>
+            </td>
             <td>{{ project.location }}</td>
             <td>{{ project.status }}</td>
             <td>{{ project.fy-0 | thousands_separated }}</td>

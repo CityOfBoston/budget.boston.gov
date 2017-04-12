@@ -172,7 +172,7 @@ components:
            filter: delimiter
       - "Category":
           name: Energy and Environment
-          link: /capital-projects/energy-environment
+          link: /capital-projects/energy-and-environment
         "Through 6/30/16":
            value: 22357384
            filter: delimiter
