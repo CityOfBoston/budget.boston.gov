@@ -63,7 +63,7 @@ components:
       housing as quickly as possible. </p>
 - grid: 
   - grid_title: More budget analysis
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/housing-boston-2030/
+  - card: /featured-analysis/housing-homeless-action-plan/
+  - card: /featured-analysis/health-safety-addiction-services/
 ---
