@@ -69,7 +69,7 @@ components:
       </ul>
 - grid: 
   - grid_title: More budget analysis
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/streets-keeping-streets-clean-safe/
+  - card: /featured-analysis/technology-city-services-through-cityscore/
+  - card: /featured-analysis/technology-data-analytics/
 ---
