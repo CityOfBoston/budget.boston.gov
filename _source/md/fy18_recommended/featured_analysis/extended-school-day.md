@@ -56,7 +56,7 @@ components:
       material their students need to learn.</p>
 - grid: 
   - grid_title: More budget analysis
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/education-overview/
+  - card: /featured-analysis/closing-opportunity-achievement-gaps/
+  - card: /featured-analysis/bps-performance/
 ---
