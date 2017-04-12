@@ -2,6 +2,12 @@
 layout: bos_content
 permalink: /featured-analysis/bilingual-education/
 title: Bilingual Education
+card:
+  - title: Bilingual education
+    body: >
+      Learn how much of the FY18 BPS budgeted is dedicated to bilingual education.
+    img: /img/featured_analysis/cards/fa-bilingual-education.jpg
+    link: /featured-analysis/bilingual-education
 components:
 - breadcrumbs:
   - title: Home
@@ -9,6 +15,7 @@ components:
     local: true
   - title: Featured Analysis
     url: "/featured-analysis/"
+    local: true
   - current: Bilingual Education
   - published: 4/13/17
 - intro:
@@ -31,19 +38,7 @@ components:
       Second Language (ESL) licenses.
 - grid:
   - grid_title: More budget analysis
-  - title: Handy dandy title
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /#/
-  - title: This one's witty, too
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
-    link: /#/
-  - title: Rumple Stiltskin
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
-    link: /#/
+  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/bps-long-term-financial-plan
 ---

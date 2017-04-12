@@ -2,6 +2,12 @@
 layout: bos_content
 permalink: /featured-analysis/bps-enrollment/
 title: BPS Enrollment
+card:
+  - title: BPS Enrollment
+    body: >
+      Student enrollment is the foundation of the BPS budget. See why.
+    img: /img/featured_analysis/cards/fa-bps-enrollment.jpg
+    link: /featured-analysis/bps-enrollment
 components:
 - breadcrumbs:
   - title: Home
@@ -9,6 +15,7 @@ components:
     local: true
   - title: Featured Analysis
     url: "/featured-analysis/"
+    local: true
   - current: BPS Enrollment
   - published: 4/13/17
 - intro:
@@ -44,19 +51,7 @@ components:
       next year.</p>
 - grid:
   - grid_title: More budget analysis
-  - title: Handy dandy title
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /#/
-  - title: This one's witty, too
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
-    link: /#/
-  - title: Rumple Stiltskin
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
-    link: /#/
+  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/bps-long-term-financial-plan
 ---

@@ -2,14 +2,20 @@
 layout: bos_content
 permalink: /featured-analysis/bps-spending-pressures/
 title: BPS Spending Pressures
+card:
+  - title: BPS Spending Pressures
+    body: >
+      Learn how BPS spending compares to other districts.
+    img: /img/featured_analysis/cards/fa-bps-spending-pressures.jpg
+    link: /featured-analysis/bps-spending-pressures
 components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - title: Featured Analysis
     url: "/featured-analysis/"
+    local: true
   - current: BPS Spending Pressures
   - published: 4/13/17
 - intro:
@@ -54,19 +60,7 @@ components:
       the District’s ability to make substantial investments in other areas.</p>
 - grid:
   - grid_title: More budget analysis
-  - title: Handy dandy title
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /#/
-  - title: This one's witty, too
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
-    link: /#/
-  - title: Rumple Stiltskin
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
-    link: /#/
+  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/bps-long-term-financial-plan
 ---

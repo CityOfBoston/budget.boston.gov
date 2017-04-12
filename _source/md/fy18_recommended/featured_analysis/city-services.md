@@ -2,6 +2,12 @@
 layout: bos_content
 permalink: /featured-analysis/city-services/
 title: City Services
+card:
+  - title: City Services
+    body: >
+      Learn about City Services funding levels and savings initiatives.
+    img: /img/featured_analysis/cards/fa-city-services.jpg
+    link: /featured-analysis/city-services
 components:
 - breadcrumbs:
   - title: Home
@@ -9,6 +15,7 @@ components:
     local: true
   - title: Featured Analysis
     url: "/featured-analysis/"
+    local: true
   - current: City Services
   - published: 4/13/17
 - intro:
@@ -75,19 +82,7 @@ components:
       in costs.</p>
 - grid:
   - grid_title: More budget analysis
-  - title: Handy dandy title
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /#/
-  - title: This one's witty, too
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
-    link: /#/
-  - title: Rumple Stiltskin
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
-    link: /#/
+  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/bps-long-term-financial-plan
 ---

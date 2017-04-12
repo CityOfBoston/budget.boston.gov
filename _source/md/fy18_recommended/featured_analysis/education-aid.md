@@ -2,14 +2,20 @@
 layout: bos_content
 permalink: /featured-analysis/education-aid/
 title: Education Aid
+card:
+  - title: State education aid
+    body: >
+      State education aid has not kept pace with Boston's investment in education
+    img: /img/featured_analysis/cards/fa-education-aid.jpg
+    link: /featured-analysis/education-aid
 components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - title: Featured Analysis
     url: "/featured-analysis/"
+    local: true
   - current: Education Aid
   - published: 4/13/17
 - intro:
@@ -40,7 +46,7 @@ components:
         Charter School Tuition Assessment is projected to increase by $17.5 million, 
         or 11.2%, over the FY17 budget, as 10,599 students are projected to attend a 
         Commonwealth Charter School in FY18.</blockquote></p>
-    - img: /img/enrollment-and-net-cost.jpg
+    - img: /img/featured_analysis/pages/enrollment-net-cost.png
     - blurb: >
         <p>Boston has seen its charter school costs rise dramatically since the enactment 
         of the 2010 Achievement Gap Legislation (155% or $106 million between 2011 and 
@@ -68,37 +74,13 @@ components:
         reimbursement which is meant to ease transition costs. <blockquote>In FY15 the cost was 
         $104.6 million and in FY16, $120.3 million. In FY17 the City has budgeted a $136.2 million 
         net impact, and in FY17, $150.7 million.</blockquote></p>
-    - img: /img/net-charter-school-costs.jpg
+    - img: /img/featured_analysis/pages/net-charter-school-costs.png
 - grid:
   - grid_title: More budget analysis
-  - title: State Aid
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/state-aid/
-  - title: Unrestricted General Government Aid (UGGA)
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/unrestricted-general-govt-aid/
-  - title: Revenue Estimates
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/revenue-estimates/
-  - title: Commonwealth Budget
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/commonwealth-budget/
-  - title: Net State Education Revenue
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/net-state-education-revenue/
-  - title: Education Legislation
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/education-legislation/
+  - card: /featured-analysis/state-aid/
+  - card: /featured-analysis/unrestricted-general-govt-aid/
+  - card: /featured-analysis/revenue-estimates/
+  - card: /featured-analysis/commonwealth-budget/
+  - card: /featured-analysis/net-state-education-revenue/
+  - card: /featured-analysis/education-legislation/
 ---

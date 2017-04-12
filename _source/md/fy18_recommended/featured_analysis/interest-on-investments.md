@@ -2,14 +2,20 @@
 layout: bos_content
 permalink: /featured-analysis/interest-on-investments/
 title: Interest on Investments
+card:
+  - title: Interest on investments
+    body: >
+      Interested in interest rates? Learn more here.
+    img: /img/featured_analysis/cards/fa-interest-on-investments.jpg
+    link: /featured-analysis/interest-on-investments
 components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - title: Featured Analysis
     url: "/featured-analysis/"
+    local: true
   - current: Interest on Investments
   - published: 4/13/17
 - intro:
@@ -34,52 +40,16 @@ components:
       instead invest this money. By standardizing practices and adding fees to the 
       cost of point of sale transactions, revenue from Interest on Investments is 
       estimated to increase to $2 million.</p>
-    right_image: /img/recurring-local-receipts.png
+    right_image: /img/featured_analysis/pages/recurring-local-receipts.png
 - grid:
   - grid_title: More budget analysis
-  - title: Revenue Estimates
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/revenue-estimates/
-  - title: Local Receipts
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/local-receipts/
-  - title: Excise Taxes
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: /img/excise-taxes.jpg
-    link: /featured-analysis/excise-taxes/
-  - title: Parking Fines
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/parking-fines/
-  - title: Payments In Lieu Of Taxes
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: /img/fa-payments-in-lieu-of-taxes.jpg
-    link: /featured-analysis/payments-in-lieu-of-taxes/
-  - title: Urban Redevelopment Ch. 121A
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: /img/fa-urban-redevelopment-ch-121a.jpg
-    link: /featured-analysis/urban-redevelopment-ch-121a/
-  - title: Miscellaneous Department Revenue
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/misc-dept-revenue/
-  - title: Licenses and Permits
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/licences-and-permits/
-  - title: Penalties and Interest
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/penalties-and-interest/
+  - card: /featured-analysis/revenue-estimates/
+  - card: /featured-analysis/local-receipts/
+  - card: /featured-analysis/excise-taxes/
+  - card: /featured-analysis/parking-fines/
+  - card: /featured-analysis/payments-in-lieu-of-taxes/
+  - card: /featured-analysis/urban-redevelopment-ch-121a/
+  - card: /featured-analysis/misc-dept-revenue/
+  - card: /featured-analysis/licences-and-permits/
+  - card: /featured-analysis/penalties-and-interest/
 ---

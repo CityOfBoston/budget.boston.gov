@@ -2,6 +2,12 @@
 layout: bos_content
 permalink: /featured-analysis/personnel-changes/
 title: Personnel Changes
+card: 
+  - title: Personnel changes
+    body: >
+      The City carefully monitors personnel changes and targets investments in priority areas. See more.
+    img: /img/featured_analysis/cards/fa-personnel-changes.jpg
+    link: /featured-analysis/personnel-changes
 components:
 - breadcrumbs:
   - title: Home

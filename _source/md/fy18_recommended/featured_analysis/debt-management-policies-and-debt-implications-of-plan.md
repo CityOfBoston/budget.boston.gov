@@ -2,14 +2,20 @@
 layout: bos_content
 permalink: /featured-analysis/debt-management-policies-and-debt-implications-of-plan/
 title: Debt Management Policies and Debt Implications of the Plan
+card:
+  - title: Debt Management
+    body: >
+      Effective debt management policies keeps the Capital Plan affordable. Learn why.
+    img: /img/featured_analysis/cards/fa-debt-management-policies-and-debt-implications-of-plan.jpg
+    link: /featured-analysis/debt-management-policies-and-debt-implications-of-plan
 components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - title: Featured Analysis
     url: "/featured-analysis/"
+    local: true
   - current: Debt Management Policies and Debt Implications of the Plan
   - published: 4/13/17
 - intro:
@@ -84,21 +90,9 @@ components:
       and is analyzed when determining the interest rate that should be paid for a municipality’s 
       bonds. A higher bond rating translates into lower interest rates and real dollar savings 
       for the City.</p>
-- grid:
+- grid: 
   - grid_title: More budget analysis
-  - title: Handy dandy title
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /#/
-  - title: This one's witty, too
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
-    link: /#/
-  - title: Rumple Stiltskin
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
-    link: /#/
+  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/bps-long-term-financial-plan
 ---

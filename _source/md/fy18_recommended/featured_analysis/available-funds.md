@@ -2,6 +2,12 @@
 layout: bos_content
 permalink: /featured-analysis/available-funds/
 title: Available Funds
+card:
+  - title: Available funds
+    body: >
+      The City can make transfers to the General Fund from Available Funds.
+    img: /img/featured_analysis/cards/fa-available-funds.jpg
+    link: /featured-analysis/available-funds
 components:
 - breadcrumbs:
   - title: Home
@@ -9,6 +15,7 @@ components:
     local: true
   - title: Featured Analysis
     url: "/featured-analysis/"
+    local: true
   - current: Available Funds
   - published: 4/13/17
 - intro:
@@ -43,22 +50,10 @@ components:
         <p>The City expects to transfer $22.5 million from the parking meter fund to the 
         general fund in FY17 and FY18. The City also plans to transfer $950 thousand 
         from the cemetery trust fund to the General Fund in FY17 and in FY18.</p>
-    - img: /img/recurring-local-receipts.png
+    - img: /img/featured_analysis/pages/recurring-local-receipts.png
 - grid:
   - grid_title: More budget analysis
-  - title: Financial Management
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /financial-management/
-  - title: Revenue Overview
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/revenue-overview/
-  - title: Non-recurring Revenue
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/non-recurring-revenue/
+  - card: /financial-management/
+  - card: /featured-analysis/revenue-overview/
+  - card: /featured-analysis/non-recurring-revenue/
 ---

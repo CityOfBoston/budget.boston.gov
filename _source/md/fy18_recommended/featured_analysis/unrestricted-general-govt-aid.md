@@ -2,14 +2,20 @@
 layout: bos_content
 permalink: /featured-analysis/unrestricted-general-govt-aid/
 title: Unrestricted General Government Aid (UGGA)
+card:
+  - title: UGGA revenue
+    body: >
+      Unrestricted General Government Aid (UGGA) is the main driver in the FY18 state aid
+    img: /img/featured_analysis/cards/fa-unrestricted-general-govt-aid.jpg
+    link: /featured-analysis/unrestricted-general-govt-aid
 components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - title: Featured Analysis
     url: "/featured-analysis/"
+    local: true
   - current: Unrestricted General Government Aid
   - published: 4/13/17
 - intro:
@@ -29,19 +35,7 @@ components:
     sidebar_menu: true    
 - grid:
   - grid_title: More budget analysis
-  - title: Commonwealth Budget
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/commonwealth-budget/
-  - title: Revenue Estimates
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/revenue-estimates/
-  - title: Revenue Overview
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/revenue-overview/
+  - card: /featured-analysis/commonwealth-budget/
+  - card: /featured-analysis/revenue-estimates/
+  - card: /featured-analysis/revenue-overview/
 ---

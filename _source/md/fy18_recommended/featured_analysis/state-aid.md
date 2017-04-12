@@ -2,14 +2,20 @@
 layout: bos_content
 permalink: /featured-analysis/state-aid/
 title: State Aid
+card:
+  - title: State revenue
+    body: >
+      State revenue, second largest revenue source, is a decreasing share of Boston’s recurring revenue.
+    img: /img/featured_analysis/cards/fa-state-aid.jpg
+    link: /featured-analysis/state-aid
 components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - title: Featured Analysis
     url: "/featured-analysis/"
+    local: true
   - current: State Aid
   - published: 4/13/17
 - intro:
@@ -42,10 +48,10 @@ components:
       has rapidly increased since the enactment of the 2010 legislation that expanded the 
       number of charter school seats.</p>
   - col:
-    - img: /img/change-net-state-aid.jpg
+    - img: /img/featured_analysis/pages/change-net-state-aid.png
 - text_col_2:
   - col:
-    - img: /img/total-net-state-aid-decline.jpg
+    - img: /img/featured_analysis/pages/net-state-aid.png
   - col: >
       <h5>Net state aid trending down</h5>
       <p>Net state aid, which is gross state aid revenue minus state assessments, has been 
@@ -72,32 +78,12 @@ components:
       reduction to $175.7 million. The City’s FY18 state aid estimate is based on the 
       Governor’s proposed budget released in January.</p>
   - col:
-    - img: /img/net-state-aid.jpg
+    - img: /img/featured_analysis/pages/net-state-aid.png
 - grid:
   - grid_title: More budget analysis
-  - title: Education Aid
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/education-aid/
-  - title: Unrestricted General Government Aid (UGGA)
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/unrestricted-general-govt-aid/
-  - title: Revenue Estimates
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/revenue-estimates/
-  - title: Net State Education Revenue
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/net-state-education-revenue/
-  - title: Education Legislation
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/education-legislation/
+  - card: /featured-analysis/education-aid/
+  - card: /featured-analysis/unrestricted-general-govt-aid/
+  - card: /featured-analysis/revenue-estimates/
+  - card: /featured-analysis/net-state-education-revenue/
+  - card: /featured-analysis/education-legislation/
 ---

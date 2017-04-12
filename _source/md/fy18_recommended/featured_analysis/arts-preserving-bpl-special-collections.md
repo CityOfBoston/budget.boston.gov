@@ -2,6 +2,12 @@
 layout: bos_content
 permalink: /featured-analysis/arts-preserving-bpl-special-collections/
 title: Preserving Boston Public Library's Special Collections
+card:
+  - title: Preserving Special Collections
+    body: >
+      Boston Public Library will launch a project to preserve Special Collections. 
+    img: /img/featured_analysis/cards/fa-arts-preserving-bpl-special-collections.jpg
+    link: /featured-analysis/arts-preserving-bpl-special-collections
 components:
 - breadcrumbs:
   - title: Home
@@ -35,19 +41,7 @@ components:
       custodianship, and security of its special collections.</blockquote>
 - grid:
   - grid_title: More budget analysis
-  - title: Handy dandy title
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /#/
-  - title: This one's witty, too
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
-    link: /#/
-  - title: Rumple Stiltskin
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
-    link: /#/
+  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/bps-long-term-financial-plan
 ---

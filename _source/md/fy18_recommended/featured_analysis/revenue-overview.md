@@ -5,17 +5,17 @@ title: Revenue overview
 card:
   - title: Revenue overview
     body: >
-      Get a broad understanding of where Boston's revenue comes from.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/revenue-overview/
+      The City will generate over $3 billion in revenue for the first time in history. Find out how.
+    img: /img/featured_analysis/cards/fa-revenue-overview.jpg
+    link: /featured-analysis/revenue-overview
 components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - title: Featured Analysis
     url: "/featured-analysis/"
+    local: true
   - current: Revenue overview
   - published: 4/13/17
 - intro:
@@ -32,7 +32,7 @@ components:
       and are driven by an expanding economy. <blockquote>Ninety-three 
       percent of tax revenue growth is from locally derived sources such 
       as property tax and other local revenue.</blockquote>
-    right_image: /img/fy18-estimated-revenue.jpg
+    right_image: /img/featured_analysis/pages/fy18-estimated-revenue.png
     sidebar_menu: true 
 - text_col_2:
   - col: >
@@ -112,24 +112,8 @@ components:
       reimbursements.</p>
 - grid:
   - grid_title: More budget analysis
-  - title: National Economy
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/national-economy/
-  - title: State and City Economies
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/state-and-city-economies/
-  - title: Commonwealth Budget
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/commonwealth-budget/
-  - title: Revenue Estimates
-    body: >
-      Tempting copy that would make someone click this featured analysis card.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/allston2.jpg?itok=jMsIfnJ6
-    link: /featured-analysis/revenue-estimates/
+  - card: /featured-analysis/national-economy/
+  - card: /featured-analysis/state-and-city-economies/
+  - card: /featured-analysis/commonwealth-budget/
+  - card: /featured-analysis/revenue-estimates/
 ---
