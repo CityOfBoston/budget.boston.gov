@@ -47,10 +47,10 @@ components:
       link: /operating-budget
     columns:
       - "Cabinet": Charter School Tuition
-        "FY15 Actual": 125.81
-        "FY16 Actual": 142.79
-        "FY17 Budget": 156.83
-        "FY18 Budget": 174.37
+        "FY15 Actual": 125810274
+        "FY16 Actual": 142787705
+        "FY17 Budget": 156828980
+        "FY18 Budget": 174366619
 - grid: 
   - grid_title: More budget analysis
   - card: /featured-analysis/bps-long-term-financial-plan
