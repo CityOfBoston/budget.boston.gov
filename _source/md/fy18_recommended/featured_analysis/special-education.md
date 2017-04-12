@@ -26,9 +26,7 @@ components:
     description: >
       The special education budget accounts for approximately 22% of the total BPS 
       budget and supports the almost 12,000 students with disabilities, or 20% of 
-      the BPS population. <blockquote>As the district has shifted to more inclusion 
-      classrooms, the district has seen the number of teachers with ____ specialties 
-      increase by ____ over the past four years.</blockquote>
+      the BPS population.
     sidebar_menu: true    
 - text_block:
   - title: Overview
@@ -53,7 +51,7 @@ components:
       established by the Commonwealth of Massachusetts Rate Setting Commission.</p>
 - grid: 
   - grid_title: More budget analysis
-  - card: /featured-analysis/bps-long-term-financial-plan/
-  - card: /featured-analysis/bps-long-term-financial-plan/
-  - card: /featured-analysis/bps-long-term-financial-plan/
+  - card: /featured-analysis/closing-opportunity-achievement-gaps/
+  - card: /featured-analysis/weighted-student-funding/
+  - card: /featured-analysis/supporting-students-most-in-need/
 ---
