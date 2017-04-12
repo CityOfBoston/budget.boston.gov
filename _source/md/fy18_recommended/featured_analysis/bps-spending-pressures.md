@@ -21,7 +21,7 @@ components:
 - intro:
   - title: BPS spending pressures
     short_desc: >
-      As mentioned previously, four of the five main drivers that attribute to 
+      As mentioned in the BPS Long Term Financial Plan, four of the five main drivers that attribute to 
       yearly budgetary challenges at BPS are cost related. BPS spends 45% more per 
       pupil than comparable districts.
     description: >
@@ -60,7 +60,7 @@ components:
       the District’s ability to make substantial investments in other areas.</p>
 - grid:
   - grid_title: More budget analysis
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/bps-long-term-financial-plan/
+  - card: /featured-analysis/bps-operating-budget/
+  - card: /featured-analysis/education-legislation/
 ---
