@@ -18,7 +18,6 @@ components:
       quick video overview of how Boston's budget works. If you want more detail, 
       read the text below the video. 
     description: >
-      <iframe width="100%" height="400px" src="https://www.youtube.com/embed/NIkLbUEXIiM"></iframe>
     sidebar_menu: true
 - text_block:
   - title: Who makes decisions about the budget?

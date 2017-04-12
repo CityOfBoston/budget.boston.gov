@@ -33,9 +33,7 @@ components:
   - card: /featured-analysis/buildbps/
   - card: /featured-analysis/education-legislation/
   - card: /featured-analysis/education-overview/
-  - card: /featured-analysis/education-legislation/
   - card: /featured-analysis/debt-management-policies-and-debt-implications-of-plan/
-  - card: /featured-analysis/education-legislation/
   - card: /featured-analysis/financing-fy18-fy22-capital-plan/
   - card: /featured-analysis/reserve/
 - grid: 
@@ -91,7 +89,6 @@ components:
   - card: /featured-analysis/bps-operating-budget/
   - card: /featured-analysis/early-childhood-education/
   - card: /featured-analysis/special-education/
-  - card: /featured-analysis/early-childhood-education/
   - card: /featured-analysis/supporting-students-most-in-need/
   - card: /featured-analysis/health-benefits/
   - card: /featured-analysis/other-post-employment-benefits/
