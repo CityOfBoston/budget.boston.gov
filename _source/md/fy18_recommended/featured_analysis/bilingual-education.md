@@ -21,8 +21,8 @@ components:
 - intro:
   - title: Bilingual education
     short_desc: >
-      The Bilingual/SEI budget totals $75.6 million in FY18, an increase of $0.8 
-      million or 1.1% from FY17 levels.
+      The Bilingual/SEI budget totals $75.6 million in FY18, an increase of $800 
+      thousand or 1.1% from FY17 levels.
     description: >
       Approximately 30% of BPS students have an ELL designation. Currently, English 
       Learning students within the District speak more than 71 different languages. 

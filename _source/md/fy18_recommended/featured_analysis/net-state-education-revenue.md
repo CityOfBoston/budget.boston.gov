@@ -42,8 +42,7 @@ components:
       <blockquote>The charter school tuition reimbursement is subject to legislative appropriation, 
       and between FY15 and FY18, the Commonwealth has underfunded it, leading Boston to lose 
       a projected $73 million in revenue from the state in these three years combined.</blockquote> 
-      Under the Governor’s H.2 budget, Boston’s charter school reimbursement is projected 
-      to by $25 million underfunded by the Commonwealth.</p>
+      Under the Governor’s H.2 budget, Boston is projected to lose an additional $25 million in FY18 due to the underfunding of this appropriation by the Commonwealth.</p>
   - col: >
       <h5>Charter school tuition assessment</h5>
       <p>While Boston’s state education revenue has been stagnant, its charter school tuition 
