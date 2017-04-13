@@ -57,16 +57,16 @@ layout: bos_wrapper
       {% for department in data %}
         {% for project in department[1] %}
       <tr>
-        <td>
+        <td data-label="{{ page.projects[0].header.category }}">
           <a href="{{ site.url }}/capital-projects/{{ department[0] | replace: "'","" | slugify }}">{{ department[0] }}</a>
         </td>
-        <td>
+        <td data-label="{{ page.projects[0].header.name }}">
           <a href="{{ site.url }}/capital-projects/{{ department[0] | replace: "'","" | slugify }}/{{ project.name | slugify }}">{{ project.name }}</a>
         </td>
-        <td>{{ project.location }}</td>
-        <td>{{ project.status }}</td>
-        <td>{{ project.fy-0 | thousands_separated }}</td>
-        <td>{{ project.project_title | thousands_separated }}</td>
+        <td data-label="{{ page.projects[0].header.location }}">{{ project.location }}</td>
+        <td data-label="{{ page.projects[0].header.status }}">{{ project.status }}</td>
+        <td data-label="{{ page.projects[0].header.fy-0 }}">{{ project.fy-0 | thousands_separated }}</td>
+        <td data-label="{{ page.projects[0].header.project_title }}">{{ project.project_title | thousands_separated }}</td>
       </tr>
         {% endfor %}
       {% endfor %}

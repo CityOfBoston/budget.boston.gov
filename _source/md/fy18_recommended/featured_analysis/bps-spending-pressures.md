@@ -31,7 +31,8 @@ components:
 - text_block:
   - title: Cost per pupil in Boston
     body: >
-      This cost can be directly linked to the following occurrences:
+      <div class="intro-text supporting-text">This cost can be directly linked to the following 
+      occurrences:</div>
 - text_col_3:
   - col: >
       <ul>
@@ -40,6 +41,9 @@ components:
         <li>Boston spends 3.1 times more on transportation costs per Special Education student 
         than comparison districts.  BPS has seen an increased number of students assigned to 
         door-to-do pick-up versus corner bus stop pick-up.</li>
+      </ul>
+  - col: >
+      <ul>
         <li>Due to the size of Boston’s school buildings, BPS’ elementary schools are 140 
         students smaller while their secondary schools are 220 students smaller than peer districts. 
         This causes BPS to spend 35% more per-pupil on school-based administration services.</li>
@@ -54,10 +58,13 @@ components:
         the average teacher salary is over $90,000 even before healthcare and pension costs.</li>
       </ul>
   - col: >
-      <h5>Transportation and special education</h5>
-      <p>Not only is BPS spending a large portion of its budget in areas such as transportation 
-      and special education, but these areas also see the fastest rate of cost growth. This limits 
-      the District’s ability to make substantial investments in other areas.</p>
+- text_block:
+  - title: Transportation and special education
+    body: >      
+      <div class="intro-text supporting-text">Not only is BPS spending a large portion of 
+      its budget in areas such as transportation and special education, but these areas 
+      also see the fastest rate of cost growth. This limits the District’s ability to make 
+      substantial investments in other areas.</div>
 - grid:
   - grid_title: More budget analysis
   - card: /featured-analysis/bps-long-term-financial-plan/

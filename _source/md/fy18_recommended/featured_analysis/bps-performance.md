@@ -35,9 +35,9 @@ components:
 - text_block:
   - title: Graduation Rates
     body: >
-      BPS has been evaluating its progress towards academic goals using measurable outcomes 
-      for several years. BPS has seen positive gains in several performance metrics including 
-      increases in graduation rates.
+      <div class="intro-text supporting-text">BPS has been evaluating its progress towards 
+      academic goals using measurable outcomes for several years. BPS has seen positive gains 
+      in several performance metrics including increases in graduation rates.</div>
 - text_col_2:
   - col: >
       <h5>Positive gains</h5>
@@ -50,58 +50,65 @@ components:
   - col: >
        <h5>Schools with rates of 80% or above</h5>
          <ul>
-           <li>New Mission High School;</li>
-           <li>Boston Latin School;</li>
-           <li>Boston Latin Academy;</li>
-           <li>Boston Another Course to College;</li>
-           <li>John D. O'Bryant School of Mathematics and Science;</li>
-           <li>Boston Arts Academy;</li>
-           <li>Boston Community Leadership Academy;</li>
-           <li>Mary K. Lyon High School;</li>
-           <li>Fenway High School;</li>
-           <li>Josiah Quincy Upper School;</li>
-           <li>Edward M. Kennedy Academy for Health Careers; and</li>
-           <li>TechBoston Academy.</li>
+           <li><a href="http://newmissionhigh.org/">New Mission High School</a>;</li>
+           <li><a href="http://www.bls.org">Boston Latin School</a>;</li>
+           <li><a href="http://latinacademy.org/">Boston Latin Academy</a>;</li>
+           <li><a href="http://accbps.org/">Boston Another Course to College</a>;</li>
+           <li><a href="http://obryant.us/">John D. O'Bryant School of Mathematics and Science</a>;</li>
+           <li><a href="https://bostonartsacademy.org/">Boston Arts Academy</a>;</li>
+           <li><a href="http://bclaboston.net/">Boston Community Leadership Academy</a>;</li>
+           <li><a href="http://www.bostonpublicschools.org/school/lyon-school">Mary K. Lyon High School</a>;</li>
+           <li><a href="http://www.fenwayhs.org/">Fenway High School</a>;</li>
+           <li><a href="http://bostonpublicschools.org/jqus">Josiah Quincy Upper School</a>;</li>
+           <li><a href="http://www.kennedyacademy.org/">Edward M. Kennedy Academy for Health Careers</a>; and</li>
+           <li><a href="http://www.bostonpublicschools.org/school/techboston-academy">TechBoston Academy</a>.</li>
          </ul>
 - text_block:
   - title: Dropout Rate
     body: >
-      BPS's annual dropout rate for students in grades 9-12 increased slightly from 
+      <div class="intro-text supporting-text">BPS's annual dropout rate for students in 
+      grades 9-12 increased slightly from 
       4.4% to 4.5% in the 2015-16 school year. Previously, BPS had two consecutive years 
       that it achieved its lowest dropout rate on record. In 2014, Boston’s dropout rate, 
       a significant indicator of a school’s effectiveness, dropped below 4% for the 
-      first time in history. <blockquote>According to state guidelines, students in 
+      first time in history.</div> <blockquote>According to state guidelines, students in 
       grades 6-12 are counted as dropouts if they leave school during the year for any 
       reason other than transfer, graduation, death or expulsion with an option to 
       return.</blockquote>
 - text_block:
   - title: Accountability Results
     body: >
-      The Massachusetts Department of Elementary and Secondary Education (DESE) classifies 
-      all Massachusetts districts and schools into one of five accountability and assistance 
-      levels, with the highest performing in Level 1 and lowest performing in Level 5. Boston 
-      has a track record of leading struggling schools to success. 
+      <div class="intro-text supporting-text">The <a href="http://www.doe.mass.edu/">Massachusetts 
+      Department of Elementary and Secondary Education (DESE)</a> classifies all 
+      Massachusetts districts and schools into one of five accountability and 
+      assistance levels, with the highest performing in Level 1 and lowest 
+      performing in Level 5. Boston has a track record of leading struggling 
+      schools to success.</div> 
 - text_col_2:
   - col: >
       <h5>Increasing levels</h5>
       <p>Twelve schools increased in level between the 2015 and 2016 accountability reports 
       with six schools rising two levels from Level 3 to Level 1, including:</p>
         <ul>
-          <li>Boston Arts Academy;</li>
-          <li>Boston International Newcomers Academy;</li>
-          <li>Harvard/Kent Elementary School;</li>
-          <li>Mildred Avenue Middle School; and</li>
-          <li>Mozart Elementary School.</li>
+          <li><a href="https://bostonartsacademy.org/">Boston Arts Academy</a>;</li>
+          <li><a href="http://www.bostonpublicschools.org/binca">Boston International Newcomers Academy</a>;</li>
+          <li><a href="http://www.bostonpublicschools.org/school/harvardkent-elementary-school">Harvard/Kent 
+          Elementary School</a>;</li>
+          <li><a href="http://www.bostonpublicschools.org/school/mildred-avenue-k-8-school">Mildred 
+          Avenue Middle School</a>; and</li>
+          <li><a href="http://www.bostonpublicschools.org/school/mozart-elementary-school">Mozart 
+          Elementary School</a>.</li>
         </ul>
   - col: >
       <h5>Other level increases</h5> 
         <ul>
-          <li>Fenway High School;</li>
-          <li>James Otis Elementary School;</li>
-          <li>Josiah Quincy Elementary School;</li>
-          <li>Manassah E. Bradley Elementary School; and</li>
-          <li>New Mission High School rose from Level 2 to Level 1, while the 
-          Boston Community Leadership Academy rose from Level 3 to Level 2.</li>
+          <li><a href="http://www.fenwayhs.org/">Fenway High School</a>;</li>
+          <li><a href="http://www.jamesotis.org/">James Otis Elementary School</a>;</li>
+          <li><a href="http://www.jqselementary.org/">Josiah Quincy Elementary School</a>;</li>
+          <li><a href="http://www.bostonpublicschools.org/school/bradley-elementary-school">Manassah 
+          E. Bradley Elementary School</a>; and</li>
+          <li><a href="http://newmissionhigh.org/">New Mission High School</a> rose from Level 2 to Level 1, while the 
+          <a href="http://bclaboston.net/">Boston Community Leadership Academy</a> rose from Level 3 to Level 2.</li>
         </ul>
       <p>The City will continue to work with state and community partners to see 
       more improvements in our schools across the board.</p>
