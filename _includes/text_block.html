@@ -1,8 +1,10 @@
+{% if include.arg[0].title %}
 <div class="sh desktop-100">
   <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
     {{ include.arg[0].title }}
   </h2>
 </div>
+{% endif %}
 {% if include.arg[0].right_image %}
 <div class="desktop-66-left">
 {% else %}
