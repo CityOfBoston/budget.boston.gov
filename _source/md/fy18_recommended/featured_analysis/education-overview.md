@@ -28,9 +28,21 @@ components:
     sidebar_menu: true
 - text_block:
   - title: Boston Public Schools budget
-    body: > 
-      This spring, the School Committee approved a $1.061 billion budget for the Boston Public Schools. At a $1.061 billion appropriation plus a 
-      <a href="https://budget.boston.gov/operating-budget/reserve-for-collective-bargaining/">$20 million collective bargaining reserve</a>, this marks the largest Boston Public Schools budget in history. With this investment, Mayor Walsh has increased funding for the Boston Public Schools’ annual budget by $143 million, and BPS staff levels will have increased by approximately 250 since taking office. <blockquote>Funding directed to schools will increase by almost 4%, even before the largest driver of BPS costs, employee collective bargaining increases, are negotiated, a $25 million increase over FY17.</blockquote>
+    body: 
+    - blurb: > 
+        This spring, the School Committee approved a $1.061 billion budget for the 
+        Boston Public Schools. At a $1.061 billion appropriation plus a 
+    - link:
+        title: $20 million collective bargaining reserve
+        path: /operating-budget/reserves-for-collective-bargaining/
+    - blurb: >
+        , this marks the largest Boston Public Schools budget in history. With this 
+        investment, Mayor Walsh has increased funding for the Boston Public Schools’ 
+        annual budget by $143 million, and BPS staff levels will have increased by 
+        approximately 250 since taking office. <blockquote>Funding directed to schools 
+        will increase by almost 4%, even before the largest driver of BPS costs, employee 
+        collective bargaining increases, are negotiated, a $25 million increase over 
+        FY17.</blockquote>
 - table:
   - title: Budget breakdown
     columns:
@@ -59,26 +71,29 @@ components:
         "FY18": 1.08B
         "$ Change": 40M
 - text_col_2:
-  - col: >
-      <h5>Closing the opportunity and achievement gap</h5>
-      <p>In FY18, Boston Public Schools is proposing to make important research-backed 
-      investments to close the opportunity and achievement gap.</p>
-      <ul>
-      <li>Boston is investing $14 million to give 15,000 students, from kindergarten 
-      through 8th-grade, 120 additional hours of learning time — or the equivalent of 20 
-      more school days a year.</li>
-      <li>In addition, by strengthening BPS’s commitment to Excellence For All, more 
-      students in the fourth and fifth grade will receive the same rigorous instruction 
-      and enriched learning opportunities as those in Advanced Work Class (AWC).</li>
-      <li>Boston is also making a strategic $1.2 million investment to support 3,000 
-      BPS students identified by the district as experiencing homelessness.</li>
-      </ul>
-      <p>BPS will also be providing lower performing schools with a wide-range of 
-      differentiated supports, which total over $16 million. This includes a new $1.25 
-      million reserve focused on supporting low level 3, 4 and 5 schools with declining 
-      enrollment.
-      <a class="button" href="https://budget.boston.gov/operating-budget/cabinets/education/boston-public-schools/">
-      View the BPS Operating Budget</a></p>
+  - col:
+    - blurb: >
+        <h5>Closing the opportunity and achievement gap</h5>
+        <p>In FY18, Boston Public Schools is proposing to make important research-backed 
+        investments to close the opportunity and achievement gap.</p>
+        <ul>
+        <li>Boston is investing $14 million to give 15,000 students, from kindergarten 
+        through 8th-grade, 120 additional hours of learning time — or the equivalent of 20 
+        more school days a year.</li>
+        <li>In addition, by strengthening BPS’s commitment to Excellence For All, more 
+        students in the fourth and fifth grade will receive the same rigorous instruction 
+        and enriched learning opportunities as those in Advanced Work Class (AWC).</li>
+        <li>Boston is also making a strategic $1.2 million investment to support 3,000 
+        BPS students identified by the district as experiencing homelessness.</li>
+        </ul>
+        <p>BPS will also be providing lower performing schools with a wide-range of 
+        differentiated supports, which total over $16 million. This includes a new $1.25 
+        million reserve focused on supporting low level 3, 4 and 5 schools with declining 
+        enrollment.
+    - link:
+        title: View the BPS Operating Budget
+        path: /operating-budget/cabinets/education/boston-public-schools
+        button: true
   - col: >
       <h5>Long-Term Financial Planning project</h5>
       <p>Efforts to tighten budget management and identify efficiencies, along with Mayor 
