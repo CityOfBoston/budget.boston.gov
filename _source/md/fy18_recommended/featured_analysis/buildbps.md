@@ -27,14 +27,16 @@ components:
       <a href="http://www.bostonpublicschools.org/buildbps">BuildBPS plan</a> will guide that process.
     sidebar_menu: true
 - text_block:
-  - body: >
-      Through a dedication of City capital funds and a strong working relationship with the Massachusetts 
-      School Building Authority (MSBA), the plan will more than double the capital spending on BPS 
-      facilities over the next decade. Mayor Walsh’s FY18-22Capital Plan begins to implement early action 
-      BuildBPS initiatives while reserving funding for projects coming out of the BuildBPS engagement process.
-    right_image: /img/capital-investment-in-schools.png
-- text_block:
   - title: BuildBPS overview
+  - body: >
+      <div class="intro-text supporting-text">Through a dedication of City capital funds 
+      and a strong working relationship with the 
+      <a href="http://www.massschoolbuildings.org/">Massachusetts School Building Authority 
+      (MSBA)</a>, the plan will more than double the capital spending on BPS 
+      facilities over the next decade. Mayor Walsh’s FY18-22Capital Plan begins to implement 
+      early action BuildBPS initiatives while reserving funding for projects coming out of 
+      the BuildBPS engagement process.</div>
+    right_image: /img/capital-investment-in-schools.png
 - text_col_2:
   - col: >
       <h5>Community involvement</h5>
@@ -58,8 +60,9 @@ components:
       BPS will work with school leaders to complete these upgrades in the 2017-18 school 
       year.</p>
       <h5>Accelerated Repair Program</h5>
-      <p>Boston has also successfully ramped up its efforts to leverage MSBA Accelerated 
-      Repair Program (ARP) dollars to provide much needed improvements to its schools. 
+      <p>Boston has also successfully ramped up its efforts to leverage 
+      <a href="http://www.massschoolbuildings.org/programs/Accelerated_Repair">MSBA Accelerated 
+      Repair Program (ARP)</a> dollars to provide much needed improvements to its schools. 
       This summer, Boston will invest $13.6 million to unlock a $16.3 million grant from 
       the MSBA to provide seven BPS schools with new windows. In addition, the MSBA has 
       approved a $6.4 million grant, with Boston providing $3.4 million in matching funds, 
@@ -71,17 +74,22 @@ components:
       <ul>
       <li>This Capital Plan allows Boston to invest in BPS projects already 
       in the pipeline: Slated to be completed in winter of 2017/2018, the $73 million 
-      Dearborn STEM Academy will open for students in September 2018. The project,
+      <a href="http://dearbornstemacademy.org/">Dearborn STEM Academy</a> 
+      will open for students in September 2018. The project,
       which leverages a projected $37 million match from the MSBA, is designed based 
       upon a project-based learning curriculum, with an emphasis on STEM education.</li> 
-      <li>Over the next two years, the Eliot School construction projects will be 
-      completed. The new $23 million North Bennet Street building will welcome 5th to 
-      8th graders this fall into a 21st century learning environment while this summer, 
-      the final phase of construction will begin at the Commercial Street building.</li>
-      <li>Renovations will occur at the Mattahunt Elementary School as it transitions 
-      to the Mattapan Early Elementary School.</li>
-      <li>The Capital Plan provides for Boston’s matching investment in the Josiah 
-      Quincy Upper School (JQUS) and Boston Arts Academy (BAA), which are collaborative 
+      <li>Over the next two years, the <a href="https://eliotschool.org/">Eliot School</a> 
+      construction projects will be completed. The new $23 million North Bennet 
+      Street building will welcome 5th to 8th graders this fall into a 21st century 
+      learning environment while this summer, the final phase of construction will 
+      begin at the Commercial Street building.</li>
+      <li>Renovations will occur at the 
+      <a href="http://www.bostonpublicschools.org/school/mattahunt-elementary-school">Mattahunt 
+      Elementary School</a> as it transitions to the Mattapan Early Elementary School.</li>
+      <li>The Capital Plan provides for Boston’s matching investment in the 
+      <a href="http://bostonpublicschools.org/jqus">Josiah 
+      Quincy Upper School (JQUS)</a> and <a href="https://bostonartsacademy.org/">Boston Arts 
+      Academy (BAA)</a>, which are collaborative 
       projects with the Massachusetts School Building Authority (MSBA). BPS will 
       continue the 5 year plan to upgrade technology infrastructure across the district 
       in support of 21st century learning.</li>
