@@ -23,10 +23,10 @@ components:
     - blurb: >
         The 
     - link:
-      title: Personnel Summary table
-      path: /img/pdfs/full-time-employees-table.pdf
+        title: Personnel Summary table
+        path: /img/pdfs/full-time-employees-table.pdf
     - blurb: > 
-      further down on the page, shows a four-year comparison of city-funded and filled full-time equivalent (FTE) positions. 
+        further down on the page, shows a four-year comparison of city-funded and filled full-time equivalent (FTE) positions. 
     description: >
       This includes both permanent and emergency employees. The projected FTE numbers 
       used for FY18 are estimates based on the personnel funding levels contained in the 
@@ -157,5 +157,6 @@ components:
       service from the neighborhood-focused program. The Office of Streets plans to hire a Small Cell/DAS 
       Approval Process Manager to better manage the Street Lighting division and the small cell program.</p>
 - text_block:
-  - img: /img/featured_analysis/pages/full-time-employees-table.png
+  - body:
+    - img: /img/featured_analysis/pages/full-time-employees-table.png
 ---

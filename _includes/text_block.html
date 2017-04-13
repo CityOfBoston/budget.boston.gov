@@ -17,6 +17,8 @@
       <a href="{{ site.url }}{{ item.link.path }}" {% if item.link.button %}class="button"{% endif %}>{{ item.link.title }}</a>
     {% elsif item.blurb %}
       {{ item.blurb }}
+    {% elsif item.img %}
+    <img src="{{ site.url }}{{ item.img }}" />
     {% else %}
       {{ item }}
     {% endif %}
