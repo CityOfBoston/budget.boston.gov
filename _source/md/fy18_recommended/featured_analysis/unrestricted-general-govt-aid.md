@@ -3,9 +3,9 @@ layout: bos_content
 permalink: /featured-analysis/unrestricted-general-govt-aid/
 title: Unrestricted General Government Aid (UGGA)
 card:
-  - title: UGGA revenue
+  - title: UGGA Revenue
     body: >
-      Unrestricted General Government Aid (UGGA) is the main driver in the FY18 state aid
+      Unrestricted General Government Aid (UGGA) is the main driver in the FY18 state aid.
     img: /img/featured_analysis/cards/fa-unrestricted-general-govt-aid.jpg
     link: /featured-analysis/unrestricted-general-govt-aid
 components:
