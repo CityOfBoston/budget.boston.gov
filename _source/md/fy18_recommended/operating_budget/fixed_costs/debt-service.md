@@ -27,8 +27,23 @@ components:
     sidebar_menu: true
 - text_block:
   - title: Overview
-    body: >
-      The City benefits from its strong financial policies and practices and has recently been affirmed with triple A bond ratings from Moody’s and Standard and Poor’s. Strong bond ratings are an assessment of the City’s long-term financial stability and lower the cost of borrowing. <blockquote>As the City borrows more over ten years to support investments in its schools, debt service is projected to increase as well. In FY18 Debt Service is budgeted at $185.6 million, a 6.1% increase over the previous year. </blockquote> For further detail, view <a href="https://budget.boston.gov/capital-projects">Capital Planning</a> and <a href="https://budget.boston.gov/financial-management">Financial Management</a>.
+    body:
+    - blurb: > 
+        The City benefits from its strong financial policies and practices and has recently been 
+        affirmed with triple A bond ratings from Moody’s and Standard and Poor’s. Strong bond 
+        ratings are an assessment of the City’s long-term financial stability and lower the cost 
+        of borrowing. <blockquote>As the City borrows more over ten years to support investments 
+        in its schools, debt service is projected to increase as well. In FY18 Debt Service is 
+        budgeted at $185.6 million, a 6.1% increase over the previous year. </blockquote> For 
+        further detail, view 
+    - link:
+        title: Capital Planning
+        path: /capital-projects
+    - blurb: and 
+    - link:
+        title: Financial Management
+        path: /financial-management
+    - blurb: .
 - table:
   - title: Debt service
     right_text:

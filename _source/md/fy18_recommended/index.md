@@ -143,20 +143,24 @@ components:
         <li>Boston, in collaboration with State and Federal sources, will invest $709 million over the next five years in implementing the core initiatives outlined in Go Boston 2030: streets that are safer for all users of our roads and sidewalks, particularly pedestrians and cyclists; travel that is more reliable and predictable; and quality transportation choices that improve access to interconnect our neighborhoods for all modes of travel. </li>
         <li>Through the use of Winthrop Square proceeds, City capital dollars, and leveraging external funds, Mayor Walsh plans to carry out early actions to implement Imagine Boston 2030’s Open Space goals, including investing in Franklin Park as a keystone park for the city, completing the Emerald Necklace, and restoring Boston Common to its full vibrancy.</li>
         </ul>
-    - col: >
-        <ul>
-        <li>Boston will prepare for climate change by investing City dollars and outside 
-        funding to develop more detailed climate plans for Boston neighborhoods, especially 
-        those most at risk for coastal flooding, as recommended in Climate Ready Boston.</li>
-        <li>The Percent for Art Program, funded for the first time in this Capital Plan, 
-        demonstrates the City’s leadership and commitment to sustainable funding for the 
-        arts by setting aside one percent of the City’s annual capital borrowing for the 
-        commissioning of public art.</li>
-        </ul>
-        <p>With investments in roads, bridges, schools, libraries, parks, firehouses, and 
-        community centers, the Imagine Boston Capital Plan touches each neighborhood and shapes 
-        a City that over 14,000 voices told us they want to see.</p>
-        <a class="button" href="https://budget.boston.gov/capital-projects">View the Capital Plan</a>
+    - col:
+      - blurb: >  
+          <ul>
+          <li>Boston will prepare for climate change by investing City dollars and outside 
+          funding to develop more detailed climate plans for Boston neighborhoods, especially 
+          those most at risk for coastal flooding, as recommended in Climate Ready Boston.</li>
+          <li>The Percent for Art Program, funded for the first time in this Capital Plan, 
+          demonstrates the City’s leadership and commitment to sustainable funding for the 
+          arts by setting aside one percent of the City’s annual capital borrowing for the 
+          commissioning of public art.</li>
+          </ul>
+          <p>With investments in roads, bridges, schools, libraries, parks, firehouses, and 
+          community centers, the Imagine Boston Capital Plan touches each neighborhood and shapes 
+          a City that over 14,000 voices told us they want to see.</p>
+      - link:
+          title: View the Capital Plan
+          path: /capital-projects
+          button: true
 - text_block:
   - title: FY18 Budget Priorities
     body: >
