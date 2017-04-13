@@ -92,7 +92,7 @@ components:
       billion in BPS capital projects over ten years.</p>
 - grid:
   - grid_title: More budget analysis
-  - card: /featured-analysis/bps-long-term-financial-plan/
-  - card: /featured-analysis/bps-long-term-financial-plan/
+  - card: /featured-analysis/closing-opportunity-achievement-gaps/
+  - card: /featured-analysis/extended-school-day/
   - card: /featured-analysis/bps-long-term-financial-plan/
 ---

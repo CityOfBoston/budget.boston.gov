@@ -33,8 +33,7 @@ components:
 - text_block:
   - title: Key investments
     body: >
-      Driven by these core goals of safety, reliability, and access, the capital plan 
-      focuses on the following key investments:
+      <div class="intro-text supporting-text">Driven by these core goals of safety, reliability, and access, the capital plan focuses on the following key investments:</div>
 - text_col_3:
   - col: >
       <ul>
