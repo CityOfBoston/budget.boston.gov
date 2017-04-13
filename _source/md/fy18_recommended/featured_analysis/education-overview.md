@@ -21,30 +21,16 @@ components:
 - intro:
   - title: Education overview
     short_desc: >
-      The City of Boston is investing in its students to invest in its future. 
-      Education comprises 40% of the FY18 budget with a projected $1.081 billion 
-      to support Boston Public Schools and $174.3 million to support approximately 
-      10,600 Boston students in charter schools.
+      The City of Boston is investing in its students to invest in its future. Education comprises 40% of the FY18 budget with a projected $1.081 billion to support Boston Public Schools and $174.3 million to support approximately 10,600 Boston students in charter schools.
     description: >
-      <p>Education also comprises 40% of the growth in the budget, with an increase of 
-      $57.8 million (4.8%) over FY17. This increase is in spite of a projected increase 
-      of just $1 million in Chapter 70 Education Aid and a charter reimbursement that is 
-      projected to be underfunded by $25 million by the state.</p>
-      <p>Over the last 4 years, Boston has increased its annual spending on education by 
-      $207 milliion despite a reduction in education funding from the state.</p>
+      <p>Education also comprises 40% of the growth in the budget, with an increase of $57.8 million (4.8%) over FY17. This increase is in spite of a projected increase of just $1 million in Chapter 70 Education Aid and a charter reimbursement that is projected to be underfunded by $25 million by the state.</p>
+      <p>Over the last 4 years, Boston has increased its annual spending on education by $207 milliion despite a reduction in education funding from the state.</p>
     sidebar_menu: true
 - text_block:
   - title: Boston Public Schools budget
     body: > 
-      This spring, the School Committee approved a $1.061 billion budget for the Boston 
-      Public Schools. At a $1.061 billion appropriation plus a 
-      <a href="https://budget.boston.gov/operating-budget/reserve-for-collective-bargaining/">
-      $20 million collective bargaining reserve</a>, this marks the largest Boston Public 
-      Schools budget in history. With this investment, Mayor Walsh has increased funding for 
-      the Boston Public Schools’ annual budget by $143 million, and BPS staff levels will have 
-      increased by approximately 250 since taking office. <blockquote>Funding directed to schools 
-      will increase by almost 4%, even before the largest driver of BPS costs, employee collective 
-      bargaining increases, are negotiated, a $25 million increase over FY17.</blockquote>
+      This spring, the School Committee approved a $1.061 billion budget for the Boston Public Schools. At a $1.061 billion appropriation plus a 
+      <a href="https://budget.boston.gov/operating-budget/reserve-for-collective-bargaining/">$20 million collective bargaining reserve</a>, this marks the largest Boston Public Schools budget in history. With this investment, Mayor Walsh has increased funding for the Boston Public Schools’ annual budget by $143 million, and BPS staff levels will have increased by approximately 250 since taking office. <blockquote>Funding directed to schools will increase by almost 4%, even before the largest driver of BPS costs, employee collective bargaining increases, are negotiated, a $25 million increase over FY17.</blockquote>
 - table:
   - title: Budget breakdown
     columns:
