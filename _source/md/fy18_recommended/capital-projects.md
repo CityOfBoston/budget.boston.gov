@@ -12,7 +12,7 @@ components:
 - intro:
   - title: Capital Projects
     short_desc: >
-      <a href="http://arcg.is/1ema5i" target="_blank"><img src="http://127.0.0.1:4000/img/capital-map.jpg" alt="Map of Capital Projects in Boston" style="width: 100%" /></a>
+      <a href="http://arcg.is/1ema5i" target="_blank"><img src="https://budget.boston.gov/img/capital-map.jpg" alt="Map of Capital Projects in Boston" style="width: 100%" /></a>
       <p>
       <a href="http://arcg.is/1ema5i" target="_blank">View the map in a new tab</a>
       </p>
