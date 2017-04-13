@@ -3,7 +3,7 @@ layout: bos_content
 permalink: /featured-analysis/national-economy/
 title: National economy
 card:
-  - title: National economy
+  - title: National Economy
     body: >
       Economic indicators show positive real GDP growth and an improving unemployment rate.
     img: /img/featured_analysis/cards/fa-national-economy.jpg
