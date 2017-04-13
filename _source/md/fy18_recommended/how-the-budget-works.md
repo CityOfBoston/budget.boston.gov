@@ -120,13 +120,13 @@ components:
       ordinances that create departments as well as endow them with legal powers.</li>
       <li><strong>Operating Budget:</strong> The operating budget presentation includes 
       a table displaying total operating and external budgets by program beginning with 
-      FY14 actual expenses through the FY17 budget.</li>
+      FY15 actual expenses through the FY18 budget.</li>
       </ul>
       <h5>Program Level</h5>
       <ul>
       <li><strong>Program Description:</strong> This section presents a general overview 
       of the program, including its responsibilities and major services provided.</li>
-      <li><strong>Program Strategies:</strong> Each program identifies its strategies to 
+      <li><strong>Program Goals:</strong> Each program identifies its strategies to 
       further the department’s mission.</li>
       <li><strong>Performance Measures:</strong> Performance measures demonstrate a 
       program’s progress in implementing their strategies. Performance measures may gauge 
@@ -137,17 +137,17 @@ components:
       <p>The financial data tables identify the major groups and expenditure account codes 
       (for example, Personnel Services/Overtime, Supplies and Materials/Office Supplies), 
       historical expenditures in each, and the proposed appropriations in each group and 
-      account in FY17. Two financial data sheets are provided for the FY17 operating 
+      account in FY18. Two financial data sheets are provided for the FY18 operating 
       budget: Department History and Department Personnel.</p>
       <h5>Department History</h5>
       <p>Expenditure account codes are listed within six expenditure groups. Dollar amounts 
       are shown for:</p>
       <ul>
-      <li>FY14 actual expenditures,</li>
       <li>FY15 actual expenditures,</li>
-      <li>FY16 appropriations,</li>
-      <li>FY17 adopted budgets, and</li>
-      <li>The difference between the FY16 appropriation and the FY17 adopted appropriation.</li>
+      <li>FY16 actual expenditures,</li>
+      <li>FY17 appropriations,</li>
+      <li>FY18 adopted budgets, and</li>
+      <li>The difference between the FY17 appropriation and the FY18 adopted appropriation.</li>
       </ul>
       <h5>External Funds</h5>
       <p>The financial data identify the major groups and expenditure account codes for external 
@@ -162,18 +162,12 @@ components:
       departments charged with managing facilities and major equipment assets. Dollar amounts 
       are shown for:</p>
       <ul>
-      <li>FY14 actual capital expenditures,</li>
       <li>FY15 actual capital expenditures,</li>
-      <li>FY16 estimated capital expenditures,</li>
-      <li>FY17 projected capital expenditures</li>
+      <li>FY16 actual capital expenditures,</li>
+      <li>FY17 estimated capital expenditures,</li>
+      <li>FY18 projected capital expenditures</li>
       </ul>
-      <p>Following this overview are capital project profiles, including descriptions of each 
-      project mission, the department managing the project, the status and location of each 
-      project, and if there are operating budget impacts. A table summarizes the total capital 
-      funds authorized for projected expenditures in FY17 and for future years, as well as whether 
-      the source is City authorization or other funding such as federal and state infrastructure 
-      grants or trust funds. A listing of actual and planned capital expenditures in comparison 
-      to authorized dollars is also provided.</p>
+      <p>Following this overview are capital project profiles, including descriptions of each project mission, the department managing the project, the status and location of each project, and if there are operating budget impacts. A table summarizes the total capital funds authorized for projected expenditures in FY18 and for future years, as well as whether the source is City authorization or other funding such as federal and state infrastructure grants or trust funds. A listing of actual and planned capital expenditures in comparison to authorized dollars is also provided.</p>
 - grid:
   - grid_title: More budget analysis
   - title: Handy dandy title
