@@ -37,18 +37,17 @@ components:
   - title: Overview
 - text_col_2:
   - col: 
-    - blurb: >
-        <h5><a href="http://www.bostonpublicschools.org/Page/5355">Title I entitlement grant</a></h5>
-        <p>One of the largest sources of federal revenue for BPS is the Title I entitlement grant. 
-        BPS is projecting $36.2 million in Title I revenue in FY18. The grant’s purpose is to improve 
-        the academic achievement of the disadvantaged by ensuring that that all students have an equal 
-        opportunity to obtain a high-quality education. The grant provides direct funds to schools with 
-        higher levels of poverty. </p>
     - img: /img/featured_analysis/pages/external-funds-of-total-funds.png
   - col: >
-      <h5><a href="http://www.bostonpublicschools.org/Domain/195">Special education</a></h5>
-      <p>BPS receives two external revenue sources to fund the district’s comprehensive special 
-      education program. Through the Circuit Breaker reimbursements, the Commonwealth shares the 
+      <h5>Title I entitlement grant</h5>
+      <p>One of the largest sources of federal revenue for BPS is the <a href="http://www.bostonpublicschools.org/Page/5355">Title I entitlement grant</a>. 
+      BPS is projecting $36.2 million in Title I revenue in FY18. The grant’s purpose is to improve 
+      the academic achievement of the disadvantaged by ensuring that that all students have an equal 
+      opportunity to obtain a high-quality education. The grant provides direct funds to schools with 
+      higher levels of poverty.</p>
+      <h5>Special education</h5>
+      <p>BPS receives two external revenue sources to fund the district’s comprehensive <a href="http://www.bostonpublicschools.org/Domain/195">special 
+      education program</a>. Through the Circuit Breaker reimbursements, the Commonwealth shares the 
       cost of educating students with disabilities once the cost to educate those students exceeds a 
       threshold amount. BPS is projected to receive approximately $15 million in Circuit Breaker revenue 
       in FY18.</p>

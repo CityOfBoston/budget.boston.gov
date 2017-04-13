@@ -5,11 +5,29 @@
 
 <h1 class="title">{{ include.arg[1][0].title }}{{ include.arg[0].title }}</h1>
 <div class="intro-text supporting-text squiggle-border-bottom">
-  <p>{{ include.arg[0].short_desc }}</p>
+  <p>
+  {% for item in include.arg[0].short_desc %}
+    {% if item.link %}
+    <a href="{{ site.url }}{{ item.link.path }}" {% if item.link.button %}class="button"{% endif %}>{{ item.link.title }}</a>
+    {% elsif item.blurb %}
+      {{ item.blurb }}
+    {% else %}
+      {{ item }}
+    {% endif %}
+  {% endfor %}
+  </p>
 </div>
 
 <div class="body">
-  {{ include.arg[0].description }}
+  {% for item in include.arg[0].description %}
+    {% if item.link %}
+    <a href="{{ site.url }}{{ item.link.path }}" {% if item.link.button %}class="button"{% endif %}>{{ item.link.title }}</a>
+    {% elsif item.blurb %}
+      {{ item.blurb }}
+    {% else %}
+      {{ item }}
+    {% endif %}
+  {% endfor %}
 </div>
 
 {% if include.arg[0].sidebar_menu %}

@@ -11,9 +11,19 @@
 {% else %}
 <div class="desktop-100">
 {% endif %}
-  <p>
-  {{ include.arg[0].body }}
-  </p>
+<p>
+  {% for item in include.arg[0].body %}
+    {% if item.link %}
+      <a href="{{ site.url }}{{ item.link.path }}" {% if item.link.button %}class="button"{% endif %}>{{ item.link.title }}</a>
+    {% elsif item.blurb %}
+      {{ item.blurb }}
+    {% elsif item.img %}
+    <img src="{{ site.url }}{{ item.img }}" />
+    {% else %}
+      {{ item }}
+    {% endif %}
+  {% endfor %}
+</p>
 </div>
 {% if include.arg[0].right_image %}
 <div class="desktop-33">

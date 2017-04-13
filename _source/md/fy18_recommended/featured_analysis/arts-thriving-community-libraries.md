@@ -48,9 +48,8 @@ components:
       <a href="http://www.bpl.org/branches/westroxbury.php">West Roxbury</a> branches, and landscaping and exterior 
       space upgrades at the <a href="http://www.bpl.org/branches/southboston.php">South Boston Branch</a>.</p>
   - col: >
-      <h5><a href="http://www.bpl.org/branches/dudley.php">Dudley Branch</a></h5>
-      <p>In FY18, construction will begin at the Dudley Branch. This $14.7 million 
-      project includes:</p>
+      <h5>Dudley Branch</h5>
+      <p>In FY18, construction will begin at the <a href="http://www.bpl.org/branches/dudley.php">Dudley Branch</a>. This $14.7 million project includes:</p>
       <ul>
       <li>reorienting the entrance to reconnect it with the heart of Dudley Square;</li>
       <li>interior renovations to improve connections between the building’s spaces; and</li>
@@ -58,9 +57,8 @@ components:
       many people who utilize this important resource.</li>
       </ul>
   - col: >
-      <h5><a href="http://www.bpl.org/branches/roslindale.php">Roslindale</a> and 
-      <a href="http://www.bpl.org/branches/adams.php">Adams Street</a></h5>
-      <p>The Capital Plan supports design activity at the Roslindale and Adams Street branches 
+      <h5>Roslindale and Adams Street</h5>
+      <p>The Capital Plan supports design activity at the <a href="http://www.bpl.org/branches/roslindale.php">Roslindale</a> and <a href="http://www.bpl.org/branches/adams.php">Adams Street</a> branches 
       in the upcoming year as well. The recently completed programming study and community process 
       for the Adams Street Branch resulted in recommendations for new construction that will 
       expand the building footprint, add new meeting rooms, provide an enhanced teen space, and 
