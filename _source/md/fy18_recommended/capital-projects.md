@@ -845,7 +845,7 @@ components:
         title: All funds budget table
         path: /img/pdfs/all-funds-budget.pdf
         button: true
-    - blurb:    
+    - blurb: >
     - link: 
         title: Capital project financing table
         path: /img/pdfs/capital-project-financing.pdf
@@ -860,7 +860,6 @@ components:
         title: Outstanding principal by statute
         path: /img/pdfs/outstanding-principal-by-statute-4-30-17.pdf
         button: true
-    - blurb:    
     - link: 
         title: Rate of principal retirement on G.O. bonds
         path: /img/pdfs/rate-principal-retirement-on-general-obligation-bonds.pdf

@@ -43,7 +43,7 @@ components:
       <p>The City’s electricity requirements have been met by third-party commodity supply contractors since March 2005. To date, the amounts the City has paid to its third-party electricity suppliers have been less than the amounts it would have paid if it had continued to accept default electric service from its local distribution company, Eversource, formerly known as NSTAR – Boston Edison.</p>
 - grid: 
   - grid_title: More budget analysis
-  - card: /featured-analysis/bps-long-term-financial-plan/
-  - card: /featured-analysis/bps-long-term-financial-plan/
-  - card: /featured-analysis/bps-long-term-financial-plan/
+  - card: /featured-analysis/preparing-for-climate-change/
+  - card: /featured-analysis/city-services/
+  - card: /featured-analysis/open-space-imagine-boston-2030-goals/
 ---
