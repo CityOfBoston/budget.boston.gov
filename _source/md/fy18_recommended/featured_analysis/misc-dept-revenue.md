@@ -3,7 +3,7 @@ layout: bos_content
 permalink: /featured-analysis/misc-dept-revenue/
 title: Miscellaneous Department Revenue
 card:
-  - title: Departmental revenue
+  - title: Departmental Revenue
     body: >
       Learn how the City is maximizing local revenue sources.
     img: /img/featured_analysis/cards/fa-misc-dept-revenue.jpg

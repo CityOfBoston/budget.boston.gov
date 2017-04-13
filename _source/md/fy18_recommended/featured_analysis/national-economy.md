@@ -3,7 +3,7 @@ layout: bos_content
 permalink: /featured-analysis/national-economy/
 title: National economy
 card:
-  - title: National economy
+  - title: National Economy
     body: >
       Economic indicators show positive real GDP growth and an improving unemployment rate.
     img: /img/featured_analysis/cards/fa-national-economy.jpg
@@ -62,7 +62,7 @@ components:
         <p>Inflation has been below the Federal Reserve’s target of 2%. The Federal Reserve 
         projects that inflation will range from 1.7% to 2.1% in 2017 and range from 1.8% to 
         2.1% in 2018.</p>
-    - img: /img/featured_analysis/pages/federal-funds-rates-changes.png
+    - img: /img/featured_analysis/pages/federal-funds-rate-changes.png
     - blurb: >
         <h5>Federal funds rate</h5>
         <p>Despite the improvements in the labor market and the expectation that inflation would 

@@ -3,7 +3,7 @@ layout: bos_content
 permalink: /featured-analysis/revenue-estimates/
 title: Revenue Estimates
 card:
-  - title: Revenue estimates
+  - title: Revenue Estimates
     body: >
       How does Boston fund the city services you care about? Find out here.
     img: /img/featured_analysis/cards/fa-revenue-estimates.jpg
@@ -32,7 +32,7 @@ components:
   - title: Breaking down revenue
 - text_col_2:
   - col: >
-      <h5>State revenue growth</h5>
+      <h5>Declining State revenue</h5>
       <p>While the City is expected to experience continued robust property 
       tax growth in FY18, overall revenue growth is expected to be hampered by 
       sluggish state revenue growth. <blockquote>State revenue, the City’s second 

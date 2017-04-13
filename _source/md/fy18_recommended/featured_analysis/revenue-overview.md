@@ -3,7 +3,7 @@ layout: bos_content
 permalink: /featured-analysis/revenue-overview/
 title: Revenue overview
 card:
-  - title: Revenue overview
+  - title: Revenue Overview
     body: >
       The City will generate over $3 billion in revenue for the first time in history. Find out how.
     img: /img/featured_analysis/cards/fa-revenue-overview.jpg
@@ -43,7 +43,7 @@ components:
       investment in education. Property tax growth strength is expected to 
       continue in FY18, primarily due to the unprecedented strength of Boston’s 
       development climate.</p>
-      <h5>State revenue growth</h5>
+      <h5>Declining State revenue</h5>
       <p>Taxes paid by new construction is added onto Boston’s property tax levy, 
       which can otherwise increase by a maximum of 2 ½ percent, annually. Thus 
       while the City is projected to experience robust property tax growth in 
@@ -66,6 +66,8 @@ components:
       not work for Boston, and thus Boston’s Chapter 70 growing by 0.6% or $1.3 
       million in the Governor’s proposed budget, a stark contrast to the $57.8 
       million more Boston expects to spend on education in FY18.</blockquote></p>
+- text_col_2:
+  - col: >
       <h5>Charter schools</h5>
       <p>Additionally, while Boston’s charter school assessment has risen by 155% 
       since the enactment of the 2010 Achievement Gap Legislation, the State’s 
@@ -73,6 +75,7 @@ components:
       pace. As a result, the City of Boston is projected to lose $25 million 
       in the Governor’s FY18 budget, adding to the total lost revenue of $48 
       million over three years (FY15 - FY17).</p>
+  - col: >
       <h5>Education finance reform</h5>
       <p>In light of the growing chasm between education costs and state revenue, 
       Mayor Walsh filed comprehensive education finance reform legislation that 
