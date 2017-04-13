@@ -3,7 +3,7 @@ layout: bos_content
 permalink: /featured-analysis/housing-homeless-shelter-service-safety/
 title: Improving Homeless Shelter Service and Safety
 card:
-  - title: Homeless shelter services
+  - title: Homeless Shelter Services
     body: >
       Budget supports front door triage and rapid rehousing at shelters
     img: /img/featured_analysis/cards/fa-housing-homeless-shelter-service-safety.jpg
