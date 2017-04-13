@@ -7,7 +7,7 @@ card:
     body: >
       Using data, Boston is changing the way EMTs respond to certain incidents.
     img: /img/featured_analysis/cards/fa-health-safety-proactive-agile-ems-through-data.jpg
-    link: /featured-analysis/health-safety-proactive-agile-ems-through-data
+    link: /featured-analysis/health-safety-proactive-agile-ems-through-data/
 components:
 - breadcrumbs:
   - title: Home
@@ -42,10 +42,8 @@ components:
       emergency medical care. As a result, the FY18 budget includes funding for a 
       Community Assistance Team to pursue a more agile and proactive response 
       to emergency services.</p> 
-  - col: >
-      img: placeholder-300x400.png
-      blurb: >
-        heatmap of EMS responses
+  - col: 
+      img: /img/featured_analysis/pages/ems-responses.png
 - text_col_3:
   - col: >
       <h5>Putting the funding to work</h5>
