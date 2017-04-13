@@ -3,7 +3,7 @@ layout: bos_content
 permalink: /featured-analysis/penalties-and-interest/
 title: Penalties and Interest
 card:
-  - title: Penalties and interest revenue
+  - title: Penalties and Interest Revenue
     body: >
       Penalties and interest are assessed for late payments.
     img: /img/featured_analysis/cards/fa-penalties-and-interest.jpg
