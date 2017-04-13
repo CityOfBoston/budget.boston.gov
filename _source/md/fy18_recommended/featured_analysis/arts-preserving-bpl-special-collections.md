@@ -15,6 +15,7 @@ components:
     local: true
   - title: Featured Analysis
     url: "/featured-analysis/"
+    local: true
   - current: Preserving Boston Public Library's Special Collections
   - published: 4/13/17
 - intro:
