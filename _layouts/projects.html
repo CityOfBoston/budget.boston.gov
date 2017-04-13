@@ -71,12 +71,12 @@ layout: bos_wrapper
       {% else %}
       <tr>
       {% endif %}
-        <td>{{ row.source }}</td>
-        <td>{{ row.past_spending | thousands_separated }}</td>
-        <td>{{ row.fy-1 | thousands_separated }}</td>
-        <td>{{ row.fy-0 | thousands_separated }}</td>
-        <td>{{ row["fy+1-4"] | thousands_separated }}</td>
-        <td>{{ row.total | thousands_separated }}</td>
+        <td data-label="{{ page.expenditures_detail.table_header.source }}">{{ row.source }}</td>
+        <td data-label="{{ page.expenditures_detail.table_header.past_spending }}">{{ row.past_spending | thousands_separated }}</td>
+        <td data-label="{{ page.expenditures_detail.table_header.fy-1 }}">{{ row.fy-1 | thousands_separated }}</td>
+        <td data-label="{{ page.expenditures_detail.table_header.fy-0 }}">{{ row.fy-0 | thousands_separated }}</td>
+        <td data-label="{{ page.expenditures_detail.table_header['fy+1-4'] }}">{{ row["fy+1-4"] | thousands_separated }}</td>
+        <td data-label="{{ page.expenditures_detail.table_header.total }}">{{ row.total | thousands_separated }}</td>
       </tr>
     {% endfor %}
   </tbody>
@@ -112,12 +112,12 @@ layout: bos_wrapper
       {% else %}
       <tr>
       {% endif %}
-        <td>{{ row.source }}</td>
-        <td>{{ row.existing | thousands_separated }}</td>
-        <td>{{ row.fy-0 | thousands_separated }}</td>
-        <td>{{ row["fy-0++"] | thousands_separated }}</td>
-        <td>{{ row.other | thousands_separated }}</td>
-        <td>{{ row.total | thousands_separated }}</td>
+        <td data-label="{{ page.expenditures_detail.authorizations_table.table_header.source }}">{{ row.source }}</td>
+        <td data-label="{{ page.expenditures_detail.authorizations_table.table_header.existing }}">{{ row.existing | thousands_separated }}</td>
+        <td data-label="{{ page.expenditures_detail.authorizations_table.table_header.fy-0 }}">{{ row.fy-0 | thousands_separated }}</td>
+        <td data-label="{{ page.expenditures_detail.authorizations_table.table_header['fy-0++'] }}">{{ row["fy-0++"] | thousands_separated }}</td>
+        <td data-label="{{ page.expenditures_detail.authorizations_table.table_header.other }}">{{ row.other | thousands_separated }}</td>
+        <td data-label="{{ page.expenditures_detail.authorizations_table.table_header.total }}">{{ row.total | thousands_separated }}</td>
       </tr>
     {% endfor %}
   </tbody>

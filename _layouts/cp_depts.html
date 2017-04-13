@@ -75,16 +75,16 @@ layout: bos_wrapper
       {% for category in data %}
         {% for project in category[1] %}
           <tr>
-            <td>
+            <td data-label="{{ page.projects[0].header.category }}">
               <a href="{{ site.url }}/capital-projects/{{ category[0] | replace: "'","" | slugify }}">{{ category[0] }}</a>
             </td>
-            <td>
+            <td data-label="{{ page.projects[0].header.name }}">
               <a href="{{ site.url }}/capital-projects/{{ page.name | replace: "'","" | slugify }}/{{ project.name | slugify }}">{{ project.name }}</a>
             </td>
-            <td>{{ project.location }}</td>
-            <td>{{ project.status }}</td>
-            <td>{{ project.fy-0 | thousands_separated }}</td>
-            <td>{{ project.project_total | thousands_separated }}</td>
+            <td data-label="{{ page.projects[0].header.location }}">{{ project.location }}</td>
+            <td data-label="{{ page.projects[0].header.status }}">{{ project.status }}</td>
+            <td data-label="{{ page.projects[0].header.fy-0 }}">{{ project.fy-0 | thousands_separated }}</td>
+            <td data-label="{{ page.projects[0].header.project_title }}">{{ project.project_total | thousands_separated }}</td>
           </tr>
         {% endfor %}
       {% endfor %}
@@ -94,8 +94,8 @@ layout: bos_wrapper
         <td></td>
         <td></td>
         <td></td>
-        <td>{{ page.fy-0 | thousands_separated }}</td>
-        <td>{{ page.total | thousands_separated }}</td>
+        <td data-label="{{ page.projects[0].header.fy-0 }}">{{ page.fy-0 | thousands_separated }}</td>
+        <td data-label="Total">{{ page.total | thousands_separated }}</td>
       </tr>
   </tbody>
 </table>

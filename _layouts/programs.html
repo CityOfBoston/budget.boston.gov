@@ -68,13 +68,13 @@ layout: bos_wrapper
           <td><strong>{{ row.line_title }}</strong></td>
         {% else %}
         <tr>
-          <td>{{ row.line_title }}</td>
+          <td data-label="{{ page.program_history_by_account.table_header.line_type }}">{{ row.line_title }}</td>
         {% endif %}
-        <td>{{ row.fy-2 | thousands_separated }}</td>
-        <td>{{ row.fy-1 | thousands_separated }}</td>
-        <td>{{ row.fy-0 | thousands_separated }}</td>
-        <td>{{ row["fy+1"] | thousands_separated }}</td>
-        <td>{{ row.diff | thousands_separated }}</td>
+        <td data-label="{{ page.program_history_by_account.table_header.fy-2 }}">{{ row.fy-2 | thousands_separated }}</td>
+        <td data-label="{{ page.program_history_by_account.table_header.fy-1 }}">{{ row.fy-1 | thousands_separated }}</td>
+        <td data-label="{{ page.program_history_by_account.table_header.fy-0 }}">{{ row.fy-0 | thousands_separated }}</td>
+        <td data-label="{{ page.program_history_by_account.table_header["fy+1"] }}">{{ row["fy+1"] | thousands_separated }}</td>
+        <td data-label="{{ page.program_history_by_account.table_header.diff }}">{{ row.diff | thousands_separated }}</td>
       </tr>
     {% endfor %}
   </tbody>

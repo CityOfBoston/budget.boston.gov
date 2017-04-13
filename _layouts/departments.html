@@ -77,16 +77,16 @@ layout: bos_wrapper
             <td><strong>{{ row.name }}</strong></td>
         {% else %}
           <tr>
-            <td>
+            <td data-label="{{ page.operating_budget.table_header.name }}">
               <a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | replace: "'","" | slugify }}/{{ page.name | replace: "'","" | slugify }}/{{ row.name | replace: "'","" | slugify }}">
                 {{ row.name }}
               </a>
             </td>
         {% endif %}
-          <td>{{ row.fy-2 | thousands_separated }}</td>
-          <td>{{ row.fy-1 | thousands_separated }}</td>
-          <td>{{ row.fy-0 | thousands_separated }}</td>
-          <td>{{ row["fy+1"] | thousands_separated }}</td>
+          <td data-label="{{ page.operating_budget.table_header.fy-2 }}">{{ row.fy-2 | thousands_separated }}</td>
+          <td data-label="{{ page.operating_budget.table_header.fy-1 }}">{{ row.fy-1 | thousands_separated }}</td>
+          <td data-label="{{ page.operating_budget.table_header.fy-0 }}">{{ row.fy-0 | thousands_separated }}</td>
+          <td data-label="{{ page.operating_budget.table_header["fy+1"] }}">{{ row["fy+1"] | thousands_separated }}</td>
         </tr>
       {% endfor %}
     </tbody>
@@ -232,13 +232,13 @@ layout: bos_wrapper
             </td>
         {% else %}
           <tr>
-            <td>{{ row.line_title }}</td>
+            <td data-label="{{ page.department_history_by_account.table_header.line_type }}">{{ row.line_title }}</td>
           {% endif %}
-          <td>{{ row.fy-2 | thousands_separated }}</td>
-          <td>{{ row.fy-1 | thousands_separated }}</td>
-          <td>{{ row.fy-0 | thousands_separated }}</td>
-          <td>{{ row["fy+1"] | thousands_separated }}</td>
-          <td>{{ row.diff | thousands_separated }}</td>
+          <td data-label="{{ page.department_history_by_account.table_header.fy-2 }}">{{ row.fy-2 | thousands_separated }}</td>
+          <td data-label="{{ page.department_history_by_account.table_header.fy-1 }}">{{ row.fy-1 | thousands_separated }}</td>
+          <td data-label="{{ page.department_history_by_account.table_header.fy-0 }}">{{ row.fy-0 | thousands_separated }}</td>
+          <td data-label="{{ page.department_history_by_account.table_header["fy+1"] }}">{{ row["fy+1"] | thousands_separated }}</td>
+          <td data-label="{{ page.department_history_by_account.table_header.diff }}">{{ row.diff | thousands_separated }}</td>
         </tr>
       {% endfor %}
     </tbody>

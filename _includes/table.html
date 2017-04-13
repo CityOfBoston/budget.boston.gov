@@ -28,15 +28,15 @@
       {% endif %}
         {% for column in row %}
           {% if column[1].name and column[1].link %}
-            <td><a href="{{ site.url }}{{ column[1].link }}">{{ column[1].name }}</a></td>
+            <td data-label="{{ column[0] }}"><a href="{{ site.url }}{{ column[1].link }}">{{ column[1].name }}</a></td>
           {% elsif column[1].filter == 'money' %}
-            <td>${{ column[1].value | thousands_separated }}</td>
+            <td data-label="{{ column[0] }}">${{ column[1].value | thousands_separated }}</td>
           {% elsif column[1].filter == 'delimiter' %}
-            <td>{{ column[1].value | thousands_separated }}</td>
+            <td data-label="{{ column[0] }}">{{ column[1].value | thousands_separated }}</td>
           {% elsif column[1].filter == 'percent' %}
-            <td>{{ column[1].value | append: "%" }}</td>
+            <td data-label="{{ column[0] }}">{{ column[1].value | append: "%" }}</td>
           {% elsif column[0] != 'total' %}
-            <td>{{ column[1] }}</td>
+            <td data-label="{{ column[0] }}">{{ column[1] }}</td>
           {% endif %}
         {% endfor %}
       </tr>
