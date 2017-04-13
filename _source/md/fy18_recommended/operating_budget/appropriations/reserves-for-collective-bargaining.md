@@ -21,9 +21,9 @@ components:
 - intro:
   - title: Reserves for collective bargaining
     short_desc: >
-      Collective bargaining is the process of negotiations between the City administration and bargaining units (unions) regarding the salary and fringe benefits of city employees.
+      Collective bargaining is the process of negotiations between the City administration and bargaining units (unions).
     description: >
-      Most union contracts in City departments expire at the end of FY16 or shortly thereafter. Salary increases in these agreements will have a direct impact on dollars available in FY17 and in the coming years. The FY17 collective bargaining reserve includes limited funding for successor agreements for those unions.
+      Most union contracts in City departments expired in FY17. Salary increases in these agreements will have a major impact on dollars available in FY18 and in the upcoming years. The FY18 collective bargaining reserves, a $20 million reserve for Boston Public Schools and a $27 million reserve for City departments including the Public Health Commission, contain funding for successor agreements.  These reserves account for $31 million of the growth in the FY18 Budget.
     sidebar_menu: true
 - table:
   - title: Reserves for collective bargaining
@@ -31,17 +31,17 @@ components:
       name: Back to all expenditures
       link: /operating-budget
     columns:
-      - "Reserve destination": Boston Public Schools
-        "FY15 Actual": 0.00
-        "FY16 Actual": 0.00
-        "FY17 Budget": 9.00
-        "FY18 Budget": 20.00
-      - "Reserve destination": All other City unions
+      - "": City Reserve for Collective Bargaining
         "FY15 Actual": 10.79
         "FY16 Actual": 0.02
         "FY17 Budget": 7.00
         "FY18 Budget": 27.00
-      - "Reserve destination": Totals
+      - "": BPS Reserve for Collective Bargaining
+        "FY15 Actual": 0.00
+        "FY16 Actual": 0.00
+        "FY17 Budget": 9.00
+        "FY18 Budget": 20.00  
+      - "": Totals
         "FY15 Actual": 10.79
         "FY16 Actual": 0.02
         "FY17 Budget": 16.00
