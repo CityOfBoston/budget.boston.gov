@@ -138,53 +138,24 @@ components:
 - grid:
   - grid_title: Revenue
   - card: /featured-analysis/revenue-overview/
-  - title: Revenue overview
-    body: >
-      Get a broad understanding of where Boston's revenue comes from.
-    img: /img/card.jpg
-    link: /featured-analysis/revenue-overview/
-  - title: Property tax
-    body: >
-      Property taxes provide more than two-thirds of the City's revenue. See the details of this important revenue source.
-    img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/backbay5.jpg?itok=sA4Mz_05
-    img: /img/card.jpg
-  - title: State aid
-    body: >
-      State aid to Boston never recovered after the Great Recession. Learn about the impacts.
-    img: /img/card.jpg
-    link: /featured-analysis/state-aid/
+  - card: /featured-analysis/property-tax/
+  - card: /featured-analysis/state-aid/
 - text_block: 
   - title: Expenditures
 - text_col_2:
     - col: >
-        <p>FY18 expenditures are increasing by $143.7 million (4.8%) over FY17 budgeted expenditures. This reflects 
-        4% appropriation growth and 8% fixed cost growth. Of that growth, 40% is dedicated to education 38% will 
-        go to all other City Services (such as Police, Fire, and Public Works) and the Public Health Commission, 
-        and the remaining 22% of growth will be consumed by pension, debt service and other fixed cost expenditures.</p>
+        <p>FY18 expenditures are increasing by $143.7 million (4.8%) over FY17 budgeted expenditures. This reflects 4% appropriation growth and 8% fixed cost growth. Of that growth, 40% is dedicated to education 38% will go to all other City Services (such as Police, Fire, and Public Works) and the Public Health Commission, and the remaining 22% of growth will be consumed by pension, debt service and other fixed cost expenditures.</p>
     - col:
       - img: /img/budget-growth.png
 - grid:
-  - title: Education overview
-    body: >
-      At a $1.061 billion appropriation plus a $20 million collective bargaining reserve, this marks the largest Boston Public Schools budget in history. Start here to learn more.
-    img: /img/card.jpg
-    link: /featured-analysis/education-overview/
-  - title: City services
-    body: >
-      Boston budgets to improve services each year. Learn about the budgetary changes in services and how the City saved over $60 million through smart decisions about those services.
-    img: /img/card.jpg
-    link: /featured-analysis/city-services/
-  - title: Pensions, debt service, and other fixed costs
-    body: >
-      Get a better understanding of the City of Boston's annual budgetary obligations.
-    img: /img/card.jpg
-    link: /featured-analysis/pensions-debt-service-other-fixed-costs/
+  - grid_title: Education overview
+  - card: /featured-analysis/education-overview/
+  - card: /featured-analysis/city-services/
+  - card: /featured-analysis/pensions-debt-service-other-fixed-costs/
 - text_block:
   - title: Imagine Boston Capital Plan
     body: >
-      Over 14,000 Boston voices shaped the Mayor’s vision for Boston in 2030. They envisioned a city 
-      that will expand opportunity for all, support a dynamic economy, enhance quality of life, and 
-      prepare for climate change.
+      Over 14,000 Boston voices shaped the Mayor’s vision for Boston in 2030. They envisioned a city that will expand opportunity for all, support a dynamic economy, enhance quality of life, and prepare for climate change.
 - text_col_2:
    - col: >
       <h5>From idea to action</h5>
@@ -209,8 +180,7 @@ components:
        of BuildBPS, Go Boston 2030, Boston Creates, and Climate Ready Boston.</p>
 - text_block:
     body: >
-      <p>An estimated 77% of projects in the FY18-22 Capital Plan are aligned with the 
-      City’s planning efforts:</p>
+      <p>An estimated 77% of projects in the FY18-22 Capital Plan are aligned with the City’s planning efforts:</p>
 - text_col_2:
     - col: >
         <ul>
@@ -236,14 +206,7 @@ components:
 - text_block:
   - title: FY18 Budget Priorities
     body: >
-      <p>Building on Mayor Walsh’s record of achieving improved outcomes across the City’s 
-      services - from education to housing, basic city services to the arts - the Mayor is 
-      proposing data-driven investments that are aimed at creating a <strong>thriving, healthy and 
-      innovative city</strong>. Operating budget investments are made possible due to the smart savings 
-      initiatives the City has pursued over the past four years. Through the Imagine Boston 
-      Capital Plan, the Mayor is making new capital investments in Boston’s schools, roads, 
-      bridges, parks, libraries, community centers, fire stations and other community assets 
-      to build the City that Bostonians imagined.</p>
+      <p>Building on Mayor Walsh’s record of achieving improved outcomes across the City’s services - from education to housing, basic city services to the arts - the Mayor is proposing data-driven investments that are aimed at creating a <strong>thriving, healthy and innovative city</strong>. Operating budget investments are made possible due to the smart savings initiatives the City has pursued over the past four years. Through the Imagine Boston Capital Plan, the Mayor is making new capital investments in Boston’s schools, roads, bridges, parks, libraries, community centers, fire stations and other community assets to build the City that Bostonians imagined.</p>
 - grid:
   - grid_title: Education
   - card: /featured-analysis/extended-school-day/

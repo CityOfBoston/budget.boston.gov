@@ -6,8 +6,7 @@ components:
 - breadcrumbs:
   - title: Home
     url: "/"
-  - title: Budget
-    url: "/budget"
+    local: true
   - current: How the budget works
   - published: 4/13/17
 - intro:
@@ -20,7 +19,6 @@ components:
     description: >
     sidebar_menu: true
 - text_block:
-  - title: Who makes decisions about the budget?
     body: >
       <p>The City of Boston’s budget process is governed by the City’s Charter* and practices designed to provide transparency and gather public feedback. 
       The chief executive officer of the City is the Mayor. Martin J. Walsh, the 
