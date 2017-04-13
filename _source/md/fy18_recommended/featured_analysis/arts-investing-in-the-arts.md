@@ -20,9 +20,10 @@ components:
 - intro:
   - title: Investing in the arts
     short_desc: >
-      The Mayor’s Office of Arts and Culture released the City’s first cultural plan, 
-      Boston Creates, in 2016, calling for increased support to Boston’s arts and 
-      culture ecosystem.
+      The Mayor’s Office of <a href="https://www.boston.gov/departments/arts-and-culture">Arts 
+      and Culture</a> released the City’s first cultural plan, 
+      <a href="http://www.bostoncreates.org/">Boston Creates</a>, in 2016, calling for increased 
+      support to Boston’s arts and culture ecosystem.
     description: >
       The Percent for Art Program, included for the first time in the FY18-22 Capital 
       Plan, is a critical policy outcome of this planning process. The Percent for Art 
@@ -36,10 +37,11 @@ components:
     body: >
       The Mayor is continuing groundbreaking arts investments made in FY17 that are 
       key to implementing Boston Creates.
-- text_col_3:
+- text_col_2:
   - col: >
       <h5>Artists in Residence program</h5>
-      <p>The Boston Artists in Residence (AIR) program seeks to embed working artists 
+      <p>The <a href="http://www.publicartboston.com/content/boston-air">Boston Artists 
+      in Residence (AIR) program</a> seeks to embed working artists 
       in City departments and agencies to promote creative thought in municipal problem-solving 
       and project implementation. By deeply integrating artists into City processes, 
       both City staff and the public learn firsthand the multifaceted ways in which the 
@@ -47,16 +49,16 @@ components:
       <p>In FY17, Boston AIR artists were placed in ten neighborhood-based community 
       centers including:</p>
       <ul>
-      <li>South Boston;</li>
-      <li>Roslindale;</li>
-      <li>Mattapan;</li>
-      <li>Hyde Park;</li>
-      <li>Jamaica Plain;</li>
-      <li>South End;</li>
-      <li>Dorchester;</li>
-      <li>Mission Hill;</li>
-      <li>Chinatown; and</li>
-      <li>Roxbury.</li>
+      <li><a href="https://www.boston.gov/neighborhood/south-boston">South Boston</a>;</li>
+      <li><a href="https://www.boston.gov/neighborhood/roslindale">Roslindale</a>;</li>
+      <li><a href="https://www.boston.gov/neighborhood/mattapan">Mattapan</a>;</li>
+      <li><a href="https://www.boston.gov/neighborhood/hyde-park">Hyde Park</a>;</li>
+      <li><a href="https://www.boston.gov/neighborhood/jamaica-plain">Jamaica Plain</a>;</li>
+      <li><a href="https://www.boston.gov/neighborhood/south-end">South End</a>;</li>
+      <li><a href="https://www.boston.gov/neighborhood/dorchester">Dorchester</a>;</li>
+      <li><a href="https://www.boston.gov/neighborhood/mission-hill">Mission Hill</a>;</li>
+      <li><a href="https://www.boston.gov/neighborhood/chinatown-leather-district">Chinatown</a>; and</li>
+      <li><a href="https://www.boston.gov/neighborhood/roxbury">Roxbury</a>.</li>
       </ul>
   - col: >
       <h5>Adding clarity to City services</h5>
@@ -67,7 +69,6 @@ components:
       <li>communicating professional opportunities; and</li>
       <li>navigating other municipal services.</li>
       </ul>
-  - col: >
       <h5>New programs</h5>
       <p><a href="https://www.boston.gov/arts-and-culture/opportunity-fund">The Opportunity Fund</a> is 
       a pilot grant program that offers grants of up to $1,000 
