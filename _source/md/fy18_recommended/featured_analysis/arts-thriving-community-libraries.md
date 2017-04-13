@@ -48,7 +48,7 @@ components:
       <a href="http://www.bpl.org/branches/westroxbury.php">West Roxbury</a> branches, and landscaping and exterior 
       space upgrades at the <a href="http://www.bpl.org/branches/southboston.php">South Boston Branch</a>.</p>
   - col: >
-  <h5><a href="http://www.bpl.org/branches/dudley.php">Dudley Branch</a></h5>
+      <h5><a href="http://www.bpl.org/branches/dudley.php">Dudley Branch</a></h5>
       <p>In FY18, construction will begin at the Dudley Branch. This $14.7 million 
       project includes:</p>
       <ul>

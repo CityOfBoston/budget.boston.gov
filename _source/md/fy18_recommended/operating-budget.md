@@ -303,19 +303,36 @@ components:
 - text_col_2: 
   - col: 
     - img: /img/featured_analysis/pages/fy18-appropriations-by-category.png
-  - col: >
-      Personnel Services include salaries, overtime, unemployment compensation and workers’ compensation, and collective bargaining reserves for estimated wage increases for union employees whose agreements are not settled. Most of the City’s collective bargaining agreements expired in FY17.
-      <br /><br />
-      Negotiations for successor agreements are ongoing. Avoiding arbitration, 
-      the City and the Boston Police Patrolmen’s Association agreed to a new 
-      contract through June 30, 2020.  The agreement includes annual general 
-      wage increases of 2%, other benefit enhancements, and full restoration of Quinn Bill benefits reduced by the State in 2009.
-      <br /><br />
-      The <a href="/featured-analysis/health-benefits/">Health Benefits category</a> includes the cost of health, dental and life insurance for City, BPS and PHC employees and retirees, employer Medicare payroll taxes, and the appropriation for Other Post-Employment Benefits (OPEB).
-      <br /><br />
-      The Contractual Services category includes expenditures for communications, repairs and service to buildings, equipment and vehicles, transportation, trash collection and disposal, as well as outside legal, advertising, and printing expenses.
-      <br /><br />
-      Included in the “Other” category are supplies and materials such as gasoline, uniform allowances, office supplies, workers’ compensation medical expenses, medical indemnification in the Fire and Police Departments, legal liabilities, and aid to veterans. Also included in the “Other” category are appropriations for equipment, vehicles, a risk retention reserve, the Housing Trust Fund, tax title, and funding for the City’s outside audit.
+  - col:
+    - blurb: >
+        Personnel Services include salaries, overtime, unemployment compensation and 
+        workers’ compensation, and collective bargaining reserves for estimated wage 
+        increases for union employees whose agreements are not settled. Most of the 
+        City’s collective bargaining agreements expired in FY17.
+        <br /><br />
+        Negotiations for successor agreements are ongoing. Avoiding arbitration, 
+        the City and the Boston Police Patrolmen’s Association agreed to a new 
+        contract through June 30, 2020.  The agreement includes annual general 
+        wage increases of 2%, other benefit enhancements, and full restoration of Quinn Bill benefits reduced by the State in 2009.
+        <br /><br />
+        The 
+    - link: 
+        title: Health Benefits category
+        path: /featured-analysis/health-benefits
+    - blurb: > 
+        includes the cost of health, dental and life insurance for City, BPS and PHC 
+        employees and retirees, employer Medicare payroll taxes, and the appropriation 
+        for Other Post-Employment Benefits (OPEB).
+        <br /><br />
+        The Contractual Services category includes expenditures for communications, 
+        repairs and service to buildings, equipment and vehicles, transportation, trash 
+        collection and disposal, as well as outside legal, advertising, and printing expenses.
+        <br /><br />
+        Included in the “Other” category are supplies and materials such as gasoline, uniform 
+        allowances, office supplies, workers’ compensation medical expenses, medical indemnification 
+        in the Fire and Police Departments, legal liabilities, and aid to veterans. Also included 
+        in the “Other” category are appropriations for equipment, vehicles, a risk retention reserve, 
+        the Housing Trust Fund, tax title, and funding for the City’s outside audit.
 - text_block:
   - title: More resources
     body: >
