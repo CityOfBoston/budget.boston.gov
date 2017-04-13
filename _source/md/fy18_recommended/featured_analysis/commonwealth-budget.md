@@ -3,7 +3,7 @@ layout: bos_content
 permalink: /featured-analysis/commonwealth-budget/
 title: Commonwealth Budget
 card:
-  - title: Commonwealth budget
+  - title: Commonwealth Budget
     body: >
       Revenue from the State has been declining as a share of recurring revenue.
     img: /img/featured_analysis/cards/fa-commonwealth-budget.jpg
