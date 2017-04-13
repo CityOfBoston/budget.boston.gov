@@ -27,7 +27,7 @@ components:
         title: Personnel Summary table
         path: /img/pdfs/full-time-employees-table.pdf
     - blurb: > 
-        further down on the page, shows a four-year comparison of city-funded and filled full-time equivalent (FTE) positions. 
+        at the bottom of this page, shows a four-year comparison of city-funded and filled full-time equivalent (FTE) positions. 
     description: >
       This includes both permanent and emergency employees. The projected FTE numbers 
       used for FY18 are estimates based on the personnel funding levels contained in the 

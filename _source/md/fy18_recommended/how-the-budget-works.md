@@ -17,6 +17,7 @@ components:
       quick video overview of how Boston's budget works. If you want more detail, 
       read the text below the video. 
     description: >
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/vKcWmRxe2e8?ecver=1" frameborder="0" allowfullscreen></iframe>
     sidebar_menu: true
 - text_block:
     body: >
