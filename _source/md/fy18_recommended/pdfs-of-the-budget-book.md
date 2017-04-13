@@ -1,7 +1,7 @@
 ---
 layout: bos_content
 title: PDFs of the budget book
-permalink: /book-pdfs
+permalink: /book-pdfs/
 components:
 - breadcrumbs:
   - title: Home
@@ -48,6 +48,11 @@ components:
     - col: >
       <h5>Volume 3</h5>
       <ul>
-      <li></li>
+      <li><a href="https://budget.boston.gov/img/pdfs/volume-3-by-cabinet/09-health-and-human-services-cabinet.pdf">Health and Human Services Cabinet</a></li>
+      <li><a href="https://budget.boston.gov/img/pdfs/volume-3-by-cabinet/10-housing-and-neighborhood-development-cabinet.pdf">Housing and Neighborhood Development Cabinet</a></li>
+      <li><a href="https://budget.boston.gov/img/pdfs/volume-3-by-cabinet/11-information-and-technology-cabinet.pdf">Information and Technology Cabinet</a></li>
+      <li><a href="https://budget.boston.gov/img/pdfs/volume-3-by-cabinet/12-public-safety-cabinet.pdf">Public Safety Cabinet</a></li>
+      <li><a href="https://budget.boston.gov/img/pdfs/volume-3-by-cabinet/13-streets-cabinet.pdf">Streets Cabinet</a></li>
+      <li><a href="https://budget.boston.gov/img/pdfs/volume-3-by-cabinet/14-non-mayoral-departments-cabinet.pdf">Non Mayoral Departments Cabinet</a></li>
       </ul>
 ---
