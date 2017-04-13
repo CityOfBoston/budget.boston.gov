@@ -66,22 +66,24 @@ components:
 - text_block:
   - title: Dropout Rate
     body: >
-      BPS's annual dropout rate for students in grades 9-12 increased slightly from 
+      <div class="intro-text supporting-text">BPS's annual dropout rate for students in 
+      grades 9-12 increased slightly from 
       4.4% to 4.5% in the 2015-16 school year. Previously, BPS had two consecutive years 
       that it achieved its lowest dropout rate on record. In 2014, Boston’s dropout rate, 
       a significant indicator of a school’s effectiveness, dropped below 4% for the 
-      first time in history. <blockquote>According to state guidelines, students in 
+      first time in history.</div> <blockquote>According to state guidelines, students in 
       grades 6-12 are counted as dropouts if they leave school during the year for any 
       reason other than transfer, graduation, death or expulsion with an option to 
       return.</blockquote>
 - text_block:
   - title: Accountability Results
     body: >
-      The <a href="http://www.doe.mass.edu/">Massachusetts Department of Elementary 
-      and Secondary Education (DESE)</a> classifies all Massachusetts districts and schools 
-      into one of five accountability and assistance levels, with the highest 
-      performing in Level 1 and lowest performing in Level 5. Boston 
-      has a track record of leading struggling schools to success. 
+      <div class="intro-text supporting-text">The <a href="http://www.doe.mass.edu/">Massachusetts 
+      Department of Elementary and Secondary Education (DESE)</a> classifies all 
+      Massachusetts districts and schools into one of five accountability and 
+      assistance levels, with the highest performing in Level 1 and lowest 
+      performing in Level 5. Boston has a track record of leading struggling 
+      schools to success.</div> 
 - text_col_2:
   - col: >
       <h5>Increasing levels</h5>
