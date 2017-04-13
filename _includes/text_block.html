@@ -14,7 +14,7 @@
 <p>
   {% for item in include.arg[0].body %}
     {% if item.link %}
-      <a href="{{ site.url }}{{ item.link.path }}">{{ item.link.title }}</a>
+      <a href="{{ site.url }}{{ item.link.path }}" {% if item.link.button %}class="button"{% endif %}>{{ item.link.title }}</a>
     {% elsif item.blurb %}
       {{ item.blurb }}
     {% else %}

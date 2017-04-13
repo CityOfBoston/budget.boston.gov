@@ -10,7 +10,7 @@
               {% elsif item.img %}
                 <img src="{{ site.url }}/{{ item.img }}" />
               {% elsif item.link %}
-                <a href="{{ site.url }}{{ item.link.path }}">{{ item.link.title }}</a>
+                <a href="{{ site.url }}{{ item.link.path }}" {% if item.link.button %}class="button"{% endif %}>{{ item.link.title }}</a>
               {% else %}
                 {{ item }}
               {% endif %}
