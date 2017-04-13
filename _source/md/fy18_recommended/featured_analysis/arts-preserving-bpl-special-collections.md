@@ -25,8 +25,8 @@ components:
       manuscripts. 
     description: >
       This $15.7 million project will begin with the inventory of the Central 
-      Library in Copley Square’s Rare Books & Manuscripts Department’s nearly 
-      250,000 rare books and one million manuscripts. 
+      Library in Copley Square’s <a href="http://www.bpl.org/research/rb/">Rare Books 
+      & Manuscripts Department</a>’s nearly 250,000 rare books and one million manuscripts. 
     sidebar_menu: true
 - text_block:
   - title: Investment in rare books

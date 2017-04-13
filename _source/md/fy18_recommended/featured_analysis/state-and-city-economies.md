@@ -3,7 +3,7 @@ layout: bos_content
 permalink: /featured-analysis/state-and-city-economies/
 title: State and City Economies
 card:
-  - title: State and City economies
+  - title: State and City Economies
     body: >
       Learn about the state and local economic recovery since the recent recession.
     img: /img/featured_analysis/cards/fa-state-and-city-economies.jpg

@@ -3,7 +3,7 @@ layout: bos_content
 permalink: /featured-analysis/revenue-overview/
 title: Revenue overview
 card:
-  - title: Revenue overview
+  - title: Revenue Overview
     body: >
       The City will generate over $3 billion in revenue for the first time in history. Find out how.
     img: /img/featured_analysis/cards/fa-revenue-overview.jpg
