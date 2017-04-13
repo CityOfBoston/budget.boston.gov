@@ -1,0 +1,133 @@
+---
+{
+  "cabinet":"Mayor's Office",
+  "department":"Mayor's Office",
+  "file_version":"0.10",
+  "head_name":"Daniel Koh",
+  "head_title":"Chief of Staff",
+  "name":"Mayor's Executive",
+  "parent":"Mayor's Office",
+  "section_id":19,
+  "section_md5_id":"1F0E3DAD99908345F7439F8FFABDFFC4",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 111200",
+  "description":[
+    "The Executive Program provides executive leadership for the City of Boston, and is responsible for the general supervision and coordination of departments and agencies of the City of Boston."
+  ],
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":493270,
+      "fy-1":333987,
+      "fy-0":334959,
+      "fy+1":338071
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":28313,
+      "fy-1":0,
+      "fy-0":28313,
+      "fy+1":19394
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":521583,
+      "fy-1":333987,
+      "fy-0":363272,
+      "fy+1":357465
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":493270,
+        "fy-1":333987,
+        "fy-0":334959,
+        "fy+1":338071,
+        "diff":3112
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":28313,
+        "fy-1":0,
+        "fy-0":28313,
+        "fy+1":19394,
+        "diff":-8919
+      },
+      {
+        "line_title":"Supplies and Materials",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs and Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":521583,
+        "fy-1":333987,
+        "fy-0":363272,
+        "fy+1":357465,
+        "diff":-5807
+      }
+    ]
+  }
+}
+---
