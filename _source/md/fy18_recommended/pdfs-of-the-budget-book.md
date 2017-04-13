@@ -19,7 +19,7 @@ components:
       <p><a href="https://www.boston.gov/departments/budget#past-budgets">Go to Boston.gov</a> to see the books from prior budget years</p>
     sidebar_menu: true
 - text_block:
-  - title: FY17 recommended budget books (7/1/17 - 6/30/18)
+  - title: FY18 recommended budget books (7/1/17 - 6/30/18)
 - text_col_3:
   - col: >
       <h5>Volume 1</h5>

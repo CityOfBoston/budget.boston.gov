@@ -335,6 +335,9 @@ components:
         the Housing Trust Fund, tax title, and funding for the City’s outside audit.
 - text_block:
   - title: More resources
-    body: >
-      Add link to All Funds Budget PDF
+    body: 
+    - link: 
+        title: All funds budget table
+        path: /img/pdfs/all-funds-budget.pdf
+        button: true
 ---
