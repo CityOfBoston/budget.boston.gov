@@ -31,7 +31,8 @@ components:
       success, health care costs have continued to increase, since FY16, 
       at a rate higher than the overall budget, consistent with trends 
       in the broader Massachusetts market.</blockquote>
-      <a href="/operating-budget/cabinets/administration-and-finance/health-insurance/">View the Health Insurance department budget</a>
+      <a href="/operating-budget/cabinets/administration-and-finance/health-insurance/">
+      View the Health Insurance department budget</a>
     sidebar_menu: true
 - text_block:
   - title: FY18 Budget
@@ -71,11 +72,22 @@ components:
 - text_block:
   - title: Medicare
     body: >
-      Municipal health care reform legislation, passed by the State legislature in 2011 provided municipalities more freedom in health plan design, and also mandated that all Medicare-eligible municipal retirees enroll in Medicare Part B and a City sponsored Medicare supplement plan. <blockquote>As a direct result of mandated Medicare enrollment, approximately 5,500 additional City retirees and their spouses have enrolled in Medicare supplement plans.</blockquote>
+      Municipal health care reform legislation, passed by the State legislature in 
+      2011 provided municipalities more freedom in health plan design, and also 
+      mandated that all Medicare-eligible municipal retirees enroll in Medicare Part 
+      B and a City sponsored Medicare supplement plan. <blockquote>As a direct result 
+      of mandated Medicare enrollment, approximately 5,500 additional City retirees 
+      and their spouses have enrolled in Medicare supplement plans.</blockquote>
 - text_col_2:
   - col: >
       <h5>City savings</h5>
-      <p>Benefits for these plans are comparable to non-Medicare plans but costs are lower due to Medicare reimbursements. Over 70% of retirees and spouses are now enrolled in Medicare plans, compared to just 37% prior to the legislation. City savings from this mandate, beginning in FY13, have totaled approximately $20 million annually – a major contributor to the total cost decrease in FY13. City retirees and their beneficiaries are eligible for Medicare through payment of Medicare payroll taxes during their working career.</p>
+      <p>Benefits for these plans are comparable to non-Medicare plans but costs are 
+      lower due to Medicare reimbursements. Over 70% of retirees and spouses are now 
+      enrolled in Medicare plans, compared to just 37% prior to the legislation. City 
+      savings from this mandate, beginning in FY13, have totaled approximately $20 
+      million annually – a major contributor to the total cost decrease in FY13. City 
+      retirees and their beneficiaries are eligible for Medicare through payment of 
+      Medicare payroll taxes during their working career.</p>
       <a class="button" href="/featured-analysis/city-services/">Learn more</a> 
   - col: >
       <h5>Medicare taxes</h5>
@@ -183,30 +195,64 @@ components:
 - text_col_3:
   - col: >
       <h5>Bargaining discussions</h5>
-      <p>Assisted by 2011 Municipal Health Care Reform, the City adopted MGL Chapter 32B S.19 and began working closely with its thirty six unions, as represented through the Public Employee Committee (PEC), in making health care changes. Through the City and PEC’s two coalition bargaining agreements signed in 2011 and 2015, City employees and retirees are now paying a higher share of total health care costs through increased premium share and higher co-pays for office visits and pharmaceutical costs.</p>
+      <p>Assisted by 2011 Municipal Health Care Reform, the City adopted MGL 
+      Chapter 32B S.19 and began working closely with its thirty six unions, 
+      as represented through the Public Employee Committee (PEC), in making 
+      health care changes. Through the City and PEC’s two coalition bargaining 
+      agreements signed in 2011 and 2015, City employees and retirees are now 
+      paying a higher share of total health care costs through increased premium 
+      share and higher co-pays for office visits and pharmaceutical costs.</p>
   - col: >
       <h5>Reduced City share</h5>
-      <p>The City’s share of total costs for its most popular non-Medicare health plan reduced from approximately 82% in FY11 to 77% in FY18. This is still higher than the estimated 69% employer share for a state employee enrolled in the Group Insurance Commission (GIC). <blockquote>Today, the City’s total annual health care costs are estimated to be over $26 million lower than they would have been if not for these changes.</blockquote></p>
+      <p>The City’s share of total costs for its most popular non-Medicare health 
+      plan reduced from approximately 82% in FY11 to 77% in FY18. This is still 
+      higher than the estimated 69% employer share for a state employee enrolled 
+      in the Group Insurance Commission (GIC). <blockquote>Today, the City’s total 
+      annual health care costs are estimated to be over $26 million lower than they 
+      would have been if not for these changes.</blockquote></p>
   - col: 
     - img: /img/featured_analysis/pages/health-care-costs-sharing.png
 - text_block:
   - title: Containing total costs
     body: >
-      In FY15, the City and the PEC entered into their second agreement, which is projected to reduce projected costs by approximately $45 million over five years. This most recent agreement is unique because it includes not only a continued increase in member cost share, but also multiple other approaches to containing total costs for both the City and members, including:
+      In FY15, the City and the PEC entered into their second agreement, which is 
+      projected to reduce projected costs by approximately $45 million over five years. 
+      This most recent agreement is unique because it includes not only a continued 
+      increase in member cost share, but also multiple other approaches to containing 
+      total costs for both the City and members, including:
 - text_col_2:
   - col: >
       <ul>
-      <li>Competitive bidding and refinement of the City’s health plan options. After the elimination of a costly indemnity plan in FY12 saving several million dollars annually, non-Medicare health plan options were further reduced in FY16 to three plans: one PPO (Indemnity) with an open provider network and two HMO managed plans with a local provider network. Savings of over $1 million dollars per year in administrative fees were realized from this change which is shared by both employees and the City. <blockquote>Also, effective July 1, 2017 the City’s most expensive Medicare Plan, Master Medical, will be closed to new enrollment and ultimately replaced with an alternative BCBS Medicare product.</blockquote></li>
+      <li>Competitive bidding and refinement of the City’s health plan options. After 
+      the elimination of a costly indemnity plan in FY12 saving several million dollars 
+      annually, non-Medicare health plan options were further reduced in FY16 to three 
+      plans: one PPO (Indemnity) with an open provider network and two HMO managed plans 
+      with a local provider network. Savings of over $1 million dollars per year in 
+      administrative fees were realized from this change which is shared by both employees 
+      and the City. <blockquote>Also, effective July 1, 2017 the City’s most expensive 
+      Medicare Plan, Master Medical, will be closed to new enrollment and ultimately 
+      replaced with an alternative BCBS Medicare product.</blockquote></li>
       </ul>
   - col: >
       <ul>
-      <li>The FY15 PEC agreement continued to prioritize funding of health care costs through self-insurance wherever possible. In FY13 the City began self-insuring most of its health plans, reducing total costs by over $10 million per year.</li>
-      <li>In FY16, the City and the PEC began analyzing options for more cost effective management of the City’s prescription benefits which now total roughly $100 million per year for all plans. As a result, a new Medicare product will be offered that includes a lower cost Medicare prescription drug plan, which is projected to save the City $2.7 million per year when implemented. The City and PEC will also continue to analyze options for carving out prescription drug management through a separate contract, as well as rebidding of the City’s six Medicare plans.</li>
+      <li>The FY15 PEC agreement continued to prioritize funding of health care costs 
+      through self-insurance wherever possible. In FY13 the City began self-insuring most 
+      of its health plans, reducing total costs by over $10 million per year.</li>
+      <li>In FY16, the City and the PEC began analyzing options for more cost effective 
+      management of the City’s prescription benefits which now total roughly $100 million 
+      per year for all plans. As a result, a new Medicare product will be offered that includes 
+      a lower cost Medicare prescription drug plan, which is projected to save the City $2.7 
+      million per year when implemented. The City and PEC will also continue to analyze options 
+      for carving out prescription drug management through a separate contract, as well as 
+      rebidding of the City’s six Medicare plans.</li>
       </ul>
 - text_block:
   - title: Health Claims Trends
     body: >
-      <p>Nationally, lower health claims costs contributed to lower premium increases from FY11 – FY14, which were followed by higher premium increases in FY16 and FY17 largely due to pharmaceutical costs. The City is limited in its ability to influence the multiple causes behind health care cost swings, which can include:</p>
+      <p>Nationally, lower health claims costs contributed to lower premium increases from 
+      FY11 – FY14, which were followed by higher premium increases in FY16 and FY17 largely 
+      due to pharmaceutical costs. The City is limited in its ability to influence the 
+      multiple causes behind health care cost swings, which can include:</p>
       <ul>
       <li>increasing medical provider charges;</li>
       <li>an aging population;</li>

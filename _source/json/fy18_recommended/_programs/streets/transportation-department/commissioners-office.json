@@ -1,0 +1,133 @@
+---
+{
+  "cabinet":"Streets",
+  "department":"Transportation Department",
+  "file_version":"0.10",
+  "head_name":"Gina Fiandaca",
+  "head_title":"Commissioner",
+  "name":"Traffic Commissioner's Office",
+  "parent":"Transportation Department",
+  "section_id":174,
+  "section_md5_id":"BF8229696F7A3BB4700CFDDEF19FA23F",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 251100",
+  "description":[
+    "The Commissioner's Office is responsible for establishing and managing a wide variety of programs to enhance transportation throughout Boston.  The office advocates for alternative financing for the administration of transportation programs including federal and state grants as well as public/private partnerships."
+  ],
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":1524618,
+      "fy-1":1270143,
+      "fy-0":778309,
+      "fy+1":785118
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":660792,
+      "fy-1":531886,
+      "fy-0":312147,
+      "fy+1":307317
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":2185410,
+      "fy-1":1802029,
+      "fy-0":1090456,
+      "fy+1":1092435
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":1524618,
+        "fy-1":1270143,
+        "fy-0":778309,
+        "fy+1":785118,
+        "diff":6809
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":487343,
+        "fy-1":407311,
+        "fy-0":138350,
+        "fy+1":138350,
+        "diff":0
+      },
+      {
+        "line_title":"Supplies and Materials",
+        "line_type":"data",
+        "fy-2":39766,
+        "fy-1":29043,
+        "fy-0":38140,
+        "fy+1":38140,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs and Oblig",
+        "line_type":"data",
+        "fy-2":133683,
+        "fy-1":95532,
+        "fy-0":135657,
+        "fy+1":130827,
+        "diff":-4830
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":2185410,
+        "fy-1":1802029,
+        "fy-0":1090456,
+        "fy+1":1092435,
+        "diff":1979
+      }
+    ]
+  }
+}
+---

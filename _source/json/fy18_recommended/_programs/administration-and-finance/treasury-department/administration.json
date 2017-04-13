@@ -1,0 +1,133 @@
+---
+{
+  "cabinet":"Administration and Finance",
+  "department":"Treasury Department",
+  "file_version":"0.10",
+  "head_name":"Richard DePiano",
+  "head_title":"Manager",
+  "name":"Treasury Administration",
+  "parent":"Treasury Department",
+  "section_id":164,
+  "section_md5_id":"FA7CDFAD1A5AAF8370EBEDA47A1FF1C3",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 138100",
+  "description":[
+    "The Administration Program hires, trains, and manages all Treasury Division personnel and ensures overall effective and efficient fund management."
+  ],
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":564895,
+      "fy-1":603017,
+      "fy-0":601831,
+      "fy+1":561433
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":193395,
+      "fy-1":148833,
+      "fy-0":140680,
+      "fy+1":149950
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":758290,
+      "fy-1":751850,
+      "fy-0":742511,
+      "fy+1":711383
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":564895,
+        "fy-1":603017,
+        "fy-0":601831,
+        "fy+1":561433,
+        "diff":-40398
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":164501,
+        "fy-1":130449,
+        "fy-0":113080,
+        "fy+1":118350,
+        "diff":5270
+      },
+      {
+        "line_title":"Supplies and Materials",
+        "line_type":"data",
+        "fy-2":17814,
+        "fy-1":13118,
+        "fy-0":17500,
+        "fy+1":15000,
+        "diff":-2500
+      },
+      {
+        "line_title":"Current Chgs and Oblig",
+        "line_type":"data",
+        "fy-2":11080,
+        "fy-1":5266,
+        "fy-0":10100,
+        "fy+1":16600,
+        "diff":6500
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":758290,
+        "fy-1":751850,
+        "fy-0":742511,
+        "fy+1":711383,
+        "diff":-31128
+      }
+    ]
+  }
+}
+---
