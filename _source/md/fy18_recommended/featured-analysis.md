@@ -72,14 +72,15 @@ components:
 - grid: 
   - grid_title: Expenditures
   - card: /featured-analysis/health-benefits/
-  - card: /featured-analysis/other-post-employment-benefits/ 
+  - card: /operating-budget/other-post-employment-benefits/ 
   - card: /featured-analysis/energy-management/  
-  - card: /featured-analysis/reserve-for-collective-bargaining/
-  - card: /featured-analysis/debt-service/
-  - card: /featured-analysis/pensions/
-  - card: /featured-analysis/state-assessments
-  - card: /featured-analysis/reserve/
+  - card: /operating-budget/reserve-for-collective-bargaining/
+  - card: /operating-budget/debt-service/
+  - card: /operating-budget/pensions/
+  - card: /operating-budget/state-assessments
+  - card: /operating-budget/reserve/
   - card: /featured-analysis/personnel-changes/
+  - card: /featured-analysis/external-funds/
 - grid:
   - grid_title: Education
   - card: /featured-analysis/bps-long-term-financial-plan/
