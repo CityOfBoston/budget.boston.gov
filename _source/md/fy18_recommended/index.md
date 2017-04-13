@@ -93,9 +93,9 @@ components:
       </ul>
 - text_col_2:
   - col: >
-      <p>In their credit rating affirming Boston’s Aaa rating with a stable outlook, Moody’s wrote:</p>
+      <p>In their credit rating affirming Boston’s Aaa rating with a stable outlook, Moody’s wrote: <blockquote>"The AAA rating reflects the city's strong fiscal management and stable financial position."</blockquote></p>
   - col: >
-      <p><blockquote>"The AAA rating reflects the city's strong fiscal management and stable financial position."</blockquote> Disciplined financial practices have better positioned Boston to manage through changes in state and federal policy and funding levels.</p>
+      <p>Disciplined financial practices have better positioned Boston to manage through changes in state and federal policy and funding levels.</p>
 - grid:
   - grid_title: Revenue
   - card: /featured-analysis/revenue-overview/
@@ -131,10 +131,7 @@ components:
    - col: >
        <p>Mayor Walsh’s $2.08 billion FY18-FY22 Capital Plan moves Boston residents’ priorities from idea to action, and invests in creating the city Bostonians imagine for the future. Under the Imagine Boston 2030 umbrella, the City is investing deeply in the core goals of BuildBPS, Go Boston 2030, Boston Creates, and Climate Ready Boston.</p>
        <h5>Investing in core goals</h5>
-       <p>Mayor Walsh’s $2.08 billion FY18-FY22 Capital Plan moves Boston residents’ priorities 
-       from idea to action, and invests in creating the city Bostonians imagine for the future. 
-       Under the Imagine Boston 2030 umbrella, the City is investing deeply in the core goals 
-       of BuildBPS, Go Boston 2030, Boston Creates, and Climate Ready Boston.</p>
+       <p>Mayor Walsh’s $2.08 billion FY18-FY22 Capital Plan moves Boston residents’ priorities from idea to action, and invests in creating the city Bostonians imagine for the future. Under the Imagine Boston 2030 umbrella, the City is investing deeply in the core goals of BuildBPS, Go Boston 2030, Boston Creates, and Climate Ready Boston.</p>
 - text_block:
     body: >
       <p>An estimated 77% of projects in the FY18-22 Capital Plan are aligned with the City’s planning efforts:</p>
