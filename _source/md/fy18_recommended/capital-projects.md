@@ -614,7 +614,7 @@ components:
            filter: delimiter
       - "Department":
           name: Property Management Department
-          link: /capital-projects/property-management
+          link: /capital-projects/property-management-department
         "Through 6/30/16":
            value: 1163397
            filter: delimiter
@@ -635,7 +635,7 @@ components:
            filter: delimiter
       - "Department":
           name: Parks and Recreation Department
-          link: /capital-projects/parts-and-recreation-department
+          link: /capital-projects/parks-and-recreation-department
         "Through 6/30/16":
            value: 20446829
            filter: delimiter
