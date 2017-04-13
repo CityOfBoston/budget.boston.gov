@@ -57,7 +57,6 @@ components:
   - card: /featured-analysis/property-tax/
   - card: /featured-analysis/state-aid/
   - card: /featured-analysis/education-aid/
-  - card: /featured-analysis/net-state-education-revenue/
   - card: /featured-analysis/unrestricted-general-govt-aid/
   - card: /featured-analysis/local-receipts/
   - card: /featured-analysis/excise-taxes/
@@ -85,6 +84,7 @@ components:
   - grid_title: Education
   - card: /featured-analysis/bps-long-term-financial-plan/
   - card: /featured-analysis/bps-spending-pressures/
+  - card: /featured-analysis/net-state-education-revenue/
   - card: /featured-analysis/education-legislation/
   - card: /featured-analysis/bps-operating-budget/
   - card: /featured-analysis/bps-enrollment/
