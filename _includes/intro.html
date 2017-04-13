@@ -9,7 +9,15 @@
 </div>
 
 <div class="body">
-  {{ include.arg[0].description }}
+  {% for item in include.arg[0].description %}
+    {% if item.link %}
+    <a href="{{ site.url }}{{ item.link.path }}">{{ item.link.title }}</a>
+    {% elsif item.blurb %}
+      {{ item.blurb }}
+    {% else %}
+      {{ item }}
+    {% endif %}
+  {% endfor %}
 </div>
 
 {% if include.arg[0].sidebar_menu %}

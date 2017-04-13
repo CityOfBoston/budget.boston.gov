@@ -24,15 +24,17 @@ components:
       achieved by the Walsh Administration in the 2015 - 2020 Public 
       Employee Committee (PEC) Agreement, which is projected to save 
       an additional $45 million over five years. 
-    description: >
-      Based on savings included in this agreement, Boston will realize $10 
-      million in avoided health care costs in FY18, $2.6 million of 
-      which are related to FY18 specific changes. <blockquote>Despite this 
-      success, health care costs have continued to increase, since FY16, 
-      at a rate higher than the overall budget, consistent with trends 
-      in the broader Massachusetts market.</blockquote>
-      <a href="/operating-budget/cabinets/administration-and-finance/health-insurance/">
-      View the Health Insurance department budget</a>
+    description:
+      - blurb: > 
+          Based on savings included in this agreement, Boston will realize $10 
+          million in avoided health care costs in FY18, $2.6 million of 
+          which are related to FY18 specific changes. <blockquote>Despite this 
+          success, health care costs have continued to increase, since FY16, 
+          at a rate higher than the overall budget, consistent with trends 
+          in the broader Massachusetts market.</blockquote>
+      - link:
+          title: View the Health Insurance department budget
+          path: /operating-budget/cabinets/administration-and-finance/health-insurance/
     sidebar_menu: true
 - text_block:
   - title: FY18 Budget
