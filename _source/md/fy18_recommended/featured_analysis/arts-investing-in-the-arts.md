@@ -37,7 +37,7 @@ components:
     body: >
       The Mayor is continuing groundbreaking arts investments made in FY17 that are 
       key to implementing Boston Creates.
-- text_col_3:
+- text_col_2:
   - col: >
       <h5>Artists in Residence program</h5>
       <p>The <a href="http://www.publicartboston.com/content/boston-air">Boston Artists 
@@ -69,7 +69,6 @@ components:
       <li>communicating professional opportunities; and</li>
       <li>navigating other municipal services.</li>
       </ul>
-  - col: >
       <h5>New programs</h5>
       <p><a href="https://www.boston.gov/arts-and-culture/opportunity-fund">The Opportunity Fund</a> is 
       a pilot grant program that offers grants of up to $1,000 
