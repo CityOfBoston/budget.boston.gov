@@ -19,7 +19,7 @@ components:
     description: >
     sidebar_menu: true
 - text_block:
-  - title: A through G
+  - title: A - D
     body: >
       <p>
       <ul>
@@ -64,7 +64,7 @@ components:
       </ul>
       </p>
 - text_block:
-  - title: E through M
+  - title: E - M
     body: >
       <p>
       <ul>
@@ -97,7 +97,7 @@ components:
       </ul>
       </p>
 - text_block:
-  - title: N through Z
+  - title: 0 - U
     body: >
       <p>
       <ul>
