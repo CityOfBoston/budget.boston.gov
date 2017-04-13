@@ -54,5 +54,5 @@ components:
   - grid_title: More budget analysis
   - card: /featured-analysis/weighted-student-funding/
   - card: /featured-analysis/bps-operating-budget/
-  - card: /featured-analysis/special-education
+  - card: /featured-analysis/special-education/
 ---
