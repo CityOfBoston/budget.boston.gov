@@ -3,7 +3,7 @@ layout: bos_content
 permalink: /featured-analysis/interest-on-investments/
 title: Interest on Investments
 card:
-  - title: Interest on investments
+  - title: Interest on Investments
     body: >
       Interested in interest rates? Learn more here.
     img: /img/featured_analysis/cards/fa-interest-on-investments.jpg
