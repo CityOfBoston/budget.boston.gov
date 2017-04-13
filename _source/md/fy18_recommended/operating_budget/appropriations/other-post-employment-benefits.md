@@ -7,7 +7,7 @@ card:
     body: >
       Learn about the City’s plan to cover its long-term liability for retirees’ health and life benefits.
     img: /img/featured_analysis/cards/fa-other-post-employment-benefits.jpg
-    link: /featured-analysis/other-post-employment-benefits/
+    link: /operating-budget/other-post-employment-benefits/
 components:
 - breadcrumbs:
   - title: Home
