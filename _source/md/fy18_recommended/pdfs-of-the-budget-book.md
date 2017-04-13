@@ -32,7 +32,7 @@ components:
         to see the books from prior budget years</p>
     sidebar_menu: true
 - text_block:
-  - title: FY17 recommended budget books (7/1/17 - 6/30/18)
+  - title: FY18 recommended budget books (7/1/17 - 6/30/18)
 - text_col_3:
   - col:
     - blurb: >
