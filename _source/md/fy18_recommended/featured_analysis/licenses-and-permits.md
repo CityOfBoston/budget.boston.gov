@@ -42,7 +42,7 @@ components:
       Alcoholic beverage licenses are budgeted at $4.2 million FY17 and 
       $4.5 million in FY18.</p>
   - col: 
-    - img: /img/featured_analysis/pages/licenses-and-permits.png
+    - img: /img/featured_analysis/pages/recurring-local-receipts.png
 - grid:
   - grid_title: More budget analysis
   - card: /featured-analysis/revenue-estimates/
