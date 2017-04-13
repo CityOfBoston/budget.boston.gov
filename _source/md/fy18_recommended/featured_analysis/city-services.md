@@ -6,7 +6,7 @@ card:
   - title: City Services
     body: >
       Learn about City Services funding levels and savings initiatives.
-    img: /img/featured_analysis/cards/fa-city-services.jpg
+    img: /img/featured_analysis/cards/fa-prosperity-recruiting-diverse-police-force.jpg
     link: /featured-analysis/city-services
 components:
 - breadcrumbs:
@@ -46,16 +46,12 @@ components:
       <p>To make targeted investments further detailed below,  the City is pursuing 
       smart savings initiatives in the FY18 Budget:</p>
   - col: 
-    - img: /img/placeholder-300x400.png
-    - blurb: >
-        1.5% AVERAGE GROWTH FOR OTHER 42 DEPTS
+    - img: /img/15-average-dept-increase.png
 - text_block:
   - title: Reforms and savings
 - text_col_2:
   - col: 
-    - img: /img/placeholder-300x400.png
-    - blurb: >
-        FY18 COSTS AVOIDED THROUGH SAVINGS INITIATIVES
+    - img: /img/administration-savings.png
   - col: >
       <ul>
       <li>The FY18 budget continues the public safety and streets overtime reforms 

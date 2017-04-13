@@ -21,12 +21,9 @@ components:
 - intro:
   - title: Improving City services through CityScore
     short_desc: >
-      Launched in 2016, CityScore is a tool designed to inform the Mayor, 
-      City managers, and the public about quality of life and the performance 
-      of City government by aggregating key performance metrics into one number.
+      Launched in 2016, <a href="https://www.boston.gov/cityscore">CityScore</a> is a tool designed to inform the Mayor, City managers, and the public about quality of life and the performance of City government by aggregating key performance metrics into one number.
     description: >
-      Over the course of FY17, CityScore has contributed to a number of City
-      achievements.
+      Over the course of FY17, CityScore has contributed to a number of City achievements.
     sidebar_menu: true
 - text_block:
   - title: CityScore achievements

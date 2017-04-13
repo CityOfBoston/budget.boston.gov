@@ -273,8 +273,20 @@ components:
       used to cover those increased costs. Within City Appropriations, actual 
       City Departments are increasing by $25.6 million or 2.7% over FY17.</p>
   - col: >
-      <p>These departmental increases are low relative to other years due to the expiration of nearly all collective bargaining agreements, 11 central appropriations, including a large  appropriation for Health Insurance totaling $216.9 million which is increasing by $10.6 million or 5.2% and is also included within City Appropriations.</p>
-      <p>FY18 budgeted fixed costs are increasing by $49.6 million and compare with FY17 budgeted fixed costs as follows: Pensions increase $18.9 million or 9.5%; Debt Service increases $10.6 million or 6.1%; Charter School Tuition state assessment increases $17.5 million or 11.2%; MBTA state assessment increases by $0.8 million or 1.0%; and other state assessments increases $69 thousand or 1.5%.</p>
+      <h5>Other increases</h5>
+      <p>These departmental increases are low relative to other years due to the expiration of nearly
+      all collective bargaining agreements, 11 central appropriations, including a large appropriation 
+      for Health Insurance totaling $216.9 million which is increasing by $10.6 million or 5.2% and 
+      is also included within City Appropriations.</p>
+      <p>FY18 budgeted fixed costs are increasing by $49.6 million and compare with FY17 budgeted 
+      fixed costs as follows:</p>
+      <ul>
+        <li>Pensions increase $18.9 million or 9.5%;</li>
+        <li>Debt Service increases $10.6 million or 6.1%;</li>
+        <li>Charter School Tuition state assessment increases $17.5 million or 11.2%;</li>
+        <li>MBTA state assessment increases by $0.8 million or 1.0%; and</li>
+        <li>other state assessments increases $69 thousand or 1.5%.</li>
+      </ul>
 - text_block:
   - title: Expenditures
     body: >

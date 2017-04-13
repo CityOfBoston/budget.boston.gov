@@ -111,8 +111,7 @@ components:
       <ul>
       <li><strong>Department Mission:</strong> The mission statement is a fundamental 
       statement of purpose.</li>
-      <li><strong>Performance Strategies:</strong> These strategies reflect stated 
-      goals for which the department or division is held accountable.</li>
+      <li><strong>Performance Goals:</strong> These goals represent stated aims for which the departmentor division is held accountable.</li>
       <li><strong>Description of Services:</strong> The description of services provides 
       a general overview of the department and its responsibilities, and lists examples 
       of major services provided.</li>
@@ -126,7 +125,7 @@ components:
       <ul>
       <li><strong>Program Description:</strong> This section presents a general overview 
       of the program, including its responsibilities and major services provided.</li>
-      <li><strong>Program Goals:</strong> Each program identifies its strategies to 
+      <li><strong>Program Goals:</strong> Each program identifies the department goals related to the efforts of the program to 
       further the department’s mission.</li>
       <li><strong>Performance Measures:</strong> Performance measures demonstrate a 
       program’s progress in implementing their strategies. Performance measures may gauge 
@@ -150,12 +149,8 @@ components:
       <li>The difference between the FY17 appropriation and the FY18 adopted appropriation.</li>
       </ul>
       <h5>External Funds</h5>
-      <p>The financial data identify the major groups and expenditure account codes for external 
-      funds expenditures. Historical expenditures and the proposed appropriations in these 
-      accounts in FY17 are shown. The personnel data show permanent positions, including 
-      existing and proposed positions, funded with external funds. All permanent positions are 
-      listed by union and grade within the department or division. The total salary request is 
-      listed for these positions by job title. The External Funds Projects page lists a 
+      <p>Historical expenditures and the proposed appropriations in these 
+      accounts in FY18 are shown. External Funds Projects lists a 
       description of each project’s mission.</p>
       <h5>Capital Budget</h5>
       <p>The capital budget section provides an overview of projects and major initiatives for 

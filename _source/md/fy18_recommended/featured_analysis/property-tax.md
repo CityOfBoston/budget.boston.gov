@@ -3,7 +3,7 @@ layout: bos_content
 permalink: /featured-analysis/property-tax/
 title: Property Tax
 card:
-  - title: Property tax revenue
+  - title: Property Tax Revenue
     body: >
       Property tax, due to rising new growth and stagnant state aid, is a larger part of Boston’s revenue.
     img: /img/featured_analysis/cards/fa-property-tax.jpg
@@ -114,13 +114,11 @@ components:
       the annual levy.</p>
 - text_col_2:
   - col: >
-      <h5>Market depreciation and growth</h5>
       <p>However, due to years of strong new growth increases, the City has some space between 
       its FY17 net effective tax rate of 1.45% and the tax levy ceiling of 2.5%. If the real 
       estate market were to depreciate, the City’s lack of proximity to the 2.5% property tax 
       rate threshold will insulate revenues from an immediate shock. However, if values were 
       depressed long enough, future growth of the property tax would be impaired.</p>
-      <h5>Property tax collection rate</h5>
       <p>Tax collection remedies as prescribed by statute are utilized when taxes become 
       delinquent. The City’s ability to secure its right to foreclose by recording its tax 
       title lien at the Registry of Deeds is the most effective tool available for payment 

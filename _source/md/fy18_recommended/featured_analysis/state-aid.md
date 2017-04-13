@@ -3,7 +3,7 @@ layout: bos_content
 permalink: /featured-analysis/state-aid/
 title: State Aid
 card:
-  - title: State revenue
+  - title: State Revenue
     body: >
       State revenue, second largest revenue source, is a decreasing share of Boston’s recurring revenue.
     img: /img/featured_analysis/cards/fa-state-aid.jpg

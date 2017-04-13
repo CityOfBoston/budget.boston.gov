@@ -46,17 +46,12 @@ components:
       to Boston students within several years.
 - text_col_3: 
   - col: >
-      <h5>Charter School Transition Funding<h5>
-      <p>To fix the broken Charter School Transition Funding Model, the Mayor’s proposed 
-      legislation would relieve the State General Fund of the cost of charter facilities, 
-      creating additional capacity for state funding for charter transition costs. The proposal 
-      also streamlines charter school transition funding in a way that limits state and city 
-      costs by committing the Commonwealth’s support for additional charter school seats by 
-      their providing:</p>
-        <ul>
-          <li>3 years of transitional funding directly to the charter schools (100% of the 
-          tuition in year 1;</li>
-          <li>50% in year 2; and</li>
+      <h5>Charter School Transition Funding</h5>
+      <p>To fix the broken Charter School Transition Funding Model, the Mayor’s proposed legislation would relieve the State General Fund of the cost of charter facilities, creating additional capacity for state funding for charter transition costs. The proposal also streamlines charter school transition funding in a way that limits state and city costs by committing the Commonwealth’s support for additional charter school seats by their providing:</p>
+      <ul>
+      <li>3 years of transitional funding directly to the charter schools (100% of the 
+      tuition in year 1;</li>
+      <li>50% in year 2; and</li>
           <li>25% in year 3, with the municipality responsible for the balance in Years 2 
           and 3 and thereafter).</li>
         </ul>
