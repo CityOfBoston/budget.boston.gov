@@ -82,16 +82,21 @@ components:
       of mandated Medicare enrollment, approximately 5,500 additional City retirees 
       and their spouses have enrolled in Medicare supplement plans.</blockquote>
 - text_col_2:
-  - col: >
-      <h5>City savings</h5>
-      <p>Benefits for these plans are comparable to non-Medicare plans but costs are 
-      lower due to Medicare reimbursements. Over 70% of retirees and spouses are now 
-      enrolled in Medicare plans, compared to just 37% prior to the legislation. City 
-      savings from this mandate, beginning in FY13, have totaled approximately $20 
-      million annually – a major contributor to the total cost decrease in FY13. City 
-      retirees and their beneficiaries are eligible for Medicare through payment of 
-      Medicare payroll taxes during their working career.</p>
-      <a class="button" href="/featured-analysis/city-services/">Learn more</a> 
+  - col:
+    - blurb: >
+        <h5>City savings</h5>
+        <p>Benefits for these plans are comparable to non-Medicare plans but costs are 
+        lower due to Medicare reimbursements. Over 70% of retirees and spouses are now 
+        enrolled in Medicare plans, compared to just 37% prior to the legislation. City 
+        savings from this mandate, beginning in FY13, have totaled approximately $20 
+        million annually – a major contributor to the total cost decrease in FY13. City 
+        retirees and their beneficiaries are eligible for Medicare through payment of 
+        Medicare payroll taxes during their working career.</p>
+    - link:
+        title: Learn more
+        path: /featured-analysis/city-services/
+        button: true
+    - blurb: <br /><br />
   - col: >
       <h5>Medicare taxes</h5>
       <p>Medicare taxes are paid for all City employees who were hired after March 1986.

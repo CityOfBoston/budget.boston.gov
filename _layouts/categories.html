@@ -61,7 +61,7 @@ layout: bos_wrapper
           <a href="{{ site.url }}/capital-projects/{{ department[0] | replace: "'","" | slugify }}">{{ department[0] }}</a>
         </td>
         <td data-label="{{ page.projects[0].header.name }}">
-          <a href="{{ site.url }}/capital-projects/{{ department[0] | replace: "'","" | slugify }}/{{ project.name | slugify }}">{{ project.name }}</a>
+          <a href="{{ site.url }}/capital-projects/{{ department[0] | replace: "'","" | slugify }}/{{ project.name  | replace: "'","" | slugify }}">{{ project.name }}</a>
         </td>
         <td data-label="{{ page.projects[0].header.location }}">{{ project.location }}</td>
         <td data-label="{{ page.projects[0].header.status }}">{{ project.status }}</td>
