@@ -845,24 +845,26 @@ components:
         title: All funds budget table
         path: /img/pdfs/all-funds-budget.pdf
         button: true
-    - blurb:    
+    - blurb: <br /><br />
     - link: 
         title: Capital project financing table
         path: /img/pdfs/capital-project-financing.pdf
         button: true
-    - blurb:    
+    - blurb: <br /><br />
     - link: 
         title: Debt service requirements FY15-22
         path: /img/pdfs/debt-service-requirements-fy15-fy22.pdf
         button: true
+    - blurb: <br /><br />
   - col: 
     - link: 
         title: Outstanding principal by statute
         path: /img/pdfs/outstanding-principal-by-statute-4-30-17.pdf
         button: true
-    - blurb:    
+    - blurb: <br /><br />
     - link: 
         title: Rate of principal retirement on G.O. bonds
         path: /img/pdfs/rate-principal-retirement-on-general-obligation-bonds.pdf
         button: true
+    - blurb: <br /><br />
 ---
