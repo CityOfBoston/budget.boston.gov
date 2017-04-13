@@ -6,7 +6,7 @@ card:
   - title: Education finance legislation
     body: >
       Mayor Walsh filed education finance reform legislation to invest in students.
-    img: /img/featured_analysis/cards/fa-education-legislation.jpg
+    img: /img/featured_analysis/cards/fa-special-education.jpg
     link: /featured-analysis/education-legislation
 components:
 - breadcrumbs:

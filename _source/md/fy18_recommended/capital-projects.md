@@ -12,38 +12,38 @@ components:
 - intro:
   - title: Capital Projects
     short_desc: >
-      <iframe width="700px" height="400px" src="http://boston.maps.arcgis.com/apps/Embed/index.html?webmap=09bf3f687c4945f9a1645f1babaf3fbc&amp;extent=-71.3152,42.2138,-70.8082,42.4146&amp;zoom=true&amp;scale=true&amp;disable_scroll=true&amp;theme=light"></iframe>
+      <a href="http://arcg.is/1ema5i" target="_blank"><img src="https://budget.boston.gov/img/capital-map.jpg" alt="Map of Capital Projects in Boston" style="width: 100%" /></a>
       <p>
-      <a href="http://arcg.is/1ema5i" target="_blank">View the map in a new tab</a> 
+      <a href="http://arcg.is/1ema5i" target="_blank">View the map in a new tab</a>
       </p>
     sidebar_menu: true
 - text_block:
   - title: What Are Capital Projects?
     body: >
-      The City is responsible for maintaining a large inventory of capital assets, 
-      including roads, bridges, schools, parks, libraries, public safety equipment, 
-      city buildings and more. The City’s capital investments enhance our neighborhoods, 
-      improve mobility, support the academic agenda of our schools and reinforce public 
+      The City is responsible for maintaining a large inventory of capital assets,
+      including roads, bridges, schools, parks, libraries, public safety equipment,
+      city buildings and more. The City’s capital investments enhance our neighborhoods,
+      improve mobility, support the academic agenda of our schools and reinforce public
       safety with quality emergency response tools.
 - text_col_2:
   - col: >
-      <p>With Imagine Boston 2030 and other City Planning efforts guiding many of 
+      <p>With Imagine Boston 2030 and other City Planning efforts guiding many of
       the investments in this plan, projects in the FY18-22 Capital Plan are categorized
       within the Imagine Boston 2030 initiatives below.</p>
   - col: >
-      <p>These capital investments are planned and funded through the City’s capital 
-      budget, which is separate and distinct from the annual operating budget. The 
-      capital plan is primarily funded by borrowing through the issuance of bonds within 
+      <p>These capital investments are planned and funded through the City’s capital
+      budget, which is separate and distinct from the annual operating budget. The
+      capital plan is primarily funded by borrowing through the issuance of bonds within
       the City’s fiscally responsible debt affordability limits.</p>
 - text_block:
   - title: Imagine Boston 2030
     body: >
-      Mayor Walsh’s $2.08 billion FY18-22 Capital Plan will make critical 
-      investments in the City’s infrastructure in every Boston neighborhood, 
-      guided by Imagine Boston 2030 and the schools, streets, arts, climate 
-      and resilience plans under its umbrella. <blockquote>More than 14,000 residents 
-      have shaped Imagine Boston 2030 by articulating the challenges Boston faces, 
-      setting goals for the city in 2030, and generating ideas about policies and 
+      Mayor Walsh’s $2.08 billion FY18-22 Capital Plan will make critical
+      investments in the City’s infrastructure in every Boston neighborhood,
+      guided by Imagine Boston 2030 and the schools, streets, arts, climate
+      and resilience plans under its umbrella. <blockquote>More than 14,000 residents
+      have shaped Imagine Boston 2030 by articulating the challenges Boston faces,
+      setting goals for the city in 2030, and generating ideas about policies and
       investments to help achieve these goals.</blockquote>
 - text_col_2:
   - col: >
@@ -57,77 +57,77 @@ components:
         </ul>
   - col: >
       <h5>Imagine Boston Capital Plan</h5>
-      <p>In FY18, Mayor Walsh is launching the Imagine Boston Capital Plan to move 
-      Boston residents’ priorities from idea to action, and invest in creating the 
-      city Bostonians imagine for the future. Under the Imagine Boston 2030 umbrella, 
-      the City is investing deeply in the core goals of BuildBPS, Go Boston 2030, 
-      Boston Creates, and Climate Ready Boston. An estimated 77% of the investment 
+      <p>In FY18, Mayor Walsh is launching the Imagine Boston Capital Plan to move
+      Boston residents’ priorities from idea to action, and invest in creating the
+      city Bostonians imagine for the future. Under the Imagine Boston 2030 umbrella,
+      the City is investing deeply in the core goals of BuildBPS, Go Boston 2030,
+      Boston Creates, and Climate Ready Boston. An estimated 77% of the investment
       in the FY18-22 Capital Plan is aligned with the City’s planning efforts:</p>
 - text_col_2:
   - col: >
       <h5>Moving into the 21st century</h5>
-      <p>Mayor Walsh committed $1 billion over ten years to bring Boston's school 
-      buildings into the 21st century, and this Capital Plan launches that investment 
+      <p>Mayor Walsh committed $1 billion over ten years to bring Boston's school
+      buildings into the 21st century, and this Capital Plan launches that investment
       with funding for:</p>
         <ul>
           <li>21st century classrooms;</li>
           <li>MSBA Accelerated Repair Program partnerships;</li>
           <li>completion of projects in the pipeline; and</li>
-          <li>reserves for future projects identified by BuildBPS community 
+          <li>reserves for future projects identified by BuildBPS community
           engagement.</li>
         </ul>
       <h5>Core initiatives</h5>
-      <p>Boston, in collaboration with State and Federal sources, will invest $709 
-      million over the next five years in implementing the core initiatives outlined 
+      <p>Boston, in collaboration with State and Federal sources, will invest $709
+      million over the next five years in implementing the core initiatives outlined
       in Go Boston 2030:</p>
         <ul>
-          <li>streets that are safer for all users of our roads and sidewalks, 
+          <li>streets that are safer for all users of our roads and sidewalks,
           particularly pedestrians and cyclists;</li>
           <li>travel that is more reliable and predictable; and</li>
-          <li>quality transportation choices that improve access to interconnect our 
+          <li>quality transportation choices that improve access to interconnect our
           neighborhoods for all modes of travel.</li>
         </ul>
   - col: >
       <h5>Open Space goals</h5>
-      <p>Through the use of Winthrop Square proceeds, City capital dollars, and leveraging 
-      external funds, Mayor Walsh plans to carry out early actions to implement Imagine 
-      Boston 2030’s Open Space goals, including investing in Franklin Park as a keystone 
-      park for the city, completing the Emerald Necklace, and restoring Boston Common to 
+      <p>Through the use of Winthrop Square proceeds, City capital dollars, and leveraging
+      external funds, Mayor Walsh plans to carry out early actions to implement Imagine
+      Boston 2030’s Open Space goals, including investing in Franklin Park as a keystone
+      park for the city, completing the Emerald Necklace, and restoring Boston Common to
       its full vibrancy.</p>
       <h5>Preparing for climate change</h5>
-      <p>Boston will prepare for climate change by investing City dollars and outside funding 
-      to develop more detailed climate plans for Boston neighborhoods, especially those most 
+      <p>Boston will prepare for climate change by investing City dollars and outside funding
+      to develop more detailed climate plans for Boston neighborhoods, especially those most
       at risk for coastal flooding, as recommended in Climate Ready Boston.</p>
       <h5>Percent for Art Program</h5>
-      <p>The Percent for Art Program, funded for the first time in this Capital Plan, 
-      demonstrates the City’s leadership and commitment to sustainable funding for the arts 
-      by setting aside one percent of the City’s annual capital borrowing for the 
+      <p>The Percent for Art Program, funded for the first time in this Capital Plan,
+      demonstrates the City’s leadership and commitment to sustainable funding for the arts
+      by setting aside one percent of the City’s annual capital borrowing for the
       commissioning of public art.</p>
 - table:
   - title: Spending By Investment Category
     columns:
-      - "Category": 
+      - "Category":
           name: Arts and Culture
           link: /capital-projects/arts-and-culture
-        "Through 6/30/16": 
+        "Through 6/30/16":
            value: 4294414
            filter: delimiter
-        "FY17 Budget": 
+        "FY17 Budget":
            value: 5847277
            filter: delimiter
-        "FY18 Budget": 
+        "FY18 Budget":
            value: 17903292
            filter: delimiter
-        "FY19-22 Budget": 
+        "FY19-22 Budget":
            value: 111516539
            filter: delimiter
         "Non-Capital Fund":
            value: 0
            filter: delimiter
-        "Total": 
+        "Total":
            value: 139561522
            filter: delimiter
-      - "Category": 
+      - "Category":
           name: Economy
           link: /capital-projects/economy
         "Through 6/30/16":
@@ -360,7 +360,7 @@ components:
 - table:
   - title: Spending By Department
     columns:
-      - "Department": 
+      - "Department":
           name: Office of Arts and Culture
           link: /capital-projects/office-of-arts-and-culture
         "Through 6/30/16":
@@ -614,7 +614,7 @@ components:
            filter: delimiter
       - "Department":
           name: Property Management Department
-          link: /capital-projects/property-management
+          link: /capital-projects/property-management-department
         "Through 6/30/16":
            value: 1163397
            filter: delimiter
@@ -635,7 +635,7 @@ components:
            filter: delimiter
       - "Department":
           name: Parks and Recreation Department
-          link: /capital-projects/parts-and-recreation-department
+          link: /capital-projects/parks-and-recreation-department
         "Through 6/30/16":
            value: 20446829
            filter: delimiter
@@ -740,13 +740,13 @@ components:
 - text_block:
   - title: FY18 Expenditures Allocation
     body: >
-      The City estimates FY18 capital expenditures will total $301 million from all sources 
-      (see Figure 2). All projects in the capital plan are categorized as 
-      Upkeep, Upgrade, New/Major Renovation, Planning or Matching Funds. OBM tracks 
-      the overall distribution of these categories to maintain a balance between the 
+      The City estimates FY18 capital expenditures will total $301 million from all sources
+      (see Figure 2). All projects in the capital plan are categorized as
+      Upkeep, Upgrade, New/Major Renovation, Planning or Matching Funds. OBM tracks
+      the overall distribution of these categories to maintain a balance between the
       upkeep of existing assets and the expansion or introduction of new ones.
 - text_col_2:
-  - col: 
+  - col:
     - img: /img/capital-expenditures.png
   - col: >
       <h5>Upkeep</h5>
@@ -757,39 +757,39 @@ components:
       <li>HVAC and boiler replacement; and</li>
       <li>critical repair funds for departments to address relatively small but vital repair projects not covered by routine maintenance.</li>
       </ul>
-      <p>A substantial portion of the Upkeep category supports on-going bridge, street, 
-      sidewalk, and street lighting repairs that ensure the City’s roads and sidewalks 
+      <p>A substantial portion of the Upkeep category supports on-going bridge, street,
+      sidewalk, and street lighting repairs that ensure the City’s roads and sidewalks
       are safe and in good condition.</p>
 - text_col_2:
   - col: >
       <h5>Upgrade</h5>
-      <p>Upgrade represents projects that improve existing assets by adding new capacity 
-      or innovations. This year’s upgrade allocations account for 51% of projected spending, 
-      and includes projects such as Connect Historic Boston – the redesign of several Downtown 
-      streets with support from a Federal grant – and new equipment for the police radio 
+      <p>Upgrade represents projects that improve existing assets by adding new capacity
+      or innovations. This year’s upgrade allocations account for 51% of projected spending,
+      and includes projects such as Connect Historic Boston – the redesign of several Downtown
+      streets with support from a Federal grant – and new equipment for the police radio
       system.</p>
   - col: >      
       <h5>New/Major Renovations</h5>
-      <p>New/Major Renovations represents 26% of the FY18 allocations. New facilities and 
-      rehabilitation projects for schools, libraries, parks and community centers enable 
+      <p>New/Major Renovations represents 26% of the FY18 allocations. New facilities and
+      rehabilitation projects for schools, libraries, parks and community centers enable
       the City’s facilities to adapt to fit the needs of today’s programs, improve the ‘green’
-      performance of facilities, and extend the useful life of older assets. Highlights in 
-      this category include a new fire house at Engine 42 in Roxbury and BCYF Curley Community 
+      performance of facilities, and extend the useful life of older assets. Highlights in
+      this category include a new fire house at Engine 42 in Roxbury and BCYF Curley Community
       Center in South Boston.</p>
 - text_col_2:
   - col: >
       <h5>Planning or Matching Funds</h5>
-      <p>About 2% of the FY18 budget is assigned to matching fund requirements and to 
-      planning projects. Comprehensive planning projects, which analyze a group of buildings or 
-      program needs, provide the groundwork for targeted investments in the categories of Upgrade 
-      and New/Major Renovations. Projects in this category include funds for a master plan of 
-      the Frog Pond at Boston Common and a transportation study of the Bowdoin Street/Geneva 
+      <p>About 2% of the FY18 budget is assigned to matching fund requirements and to
+      planning projects. Comprehensive planning projects, which analyze a group of buildings or
+      program needs, provide the groundwork for targeted investments in the categories of Upgrade
+      and New/Major Renovations. Projects in this category include funds for a master plan of
+      the Frog Pond at Boston Common and a transportation study of the Bowdoin Street/Geneva
       Avenue area of Dorchester.</p>
   - col: >
       <h5>Other projects</h5>
-      <p>The Matching fund category includes projects where the City covers the cost of design 
-      and engineering services.  These expenditures are able to leverage state and federal 
-      construction funds on projects such as the new North Washington Street Bridge and the 
+      <p>The Matching fund category includes projects where the City covers the cost of design
+      and engineering services.  These expenditures are able to leverage state and federal
+      construction funds on projects such as the new North Washington Street Bridge and the
       South Bay Harbor Trail.</p>
 - text_block:
   - title: FY18-FY22 Project Highlights
