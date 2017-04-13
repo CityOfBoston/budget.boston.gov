@@ -3,7 +3,7 @@ layout: bos_content
 permalink: /featured-analysis/excise-taxes/
 title: Excise Taxes
 card:
-  - title: Excise tax revenue
+  - title: Excise Tax Revenue
     body: >
       Boston is projecting strong room occupancy and meals excise revenue.
     img: /img/featured_analysis/cards/fa-excise-taxes.jpg
