@@ -17,10 +17,10 @@ components:
       identified need for investment in key areas. Cards below.
     description: >
       Mayor Walsh presented a balanced budget that maintains 
-      high levels of support in critical areas such as education and public safety, makes limited strategic investments,continues the City's commitment to addressing its long-termliabilities, and builds on the Administration's record of strong fiscal management. This is made possible by the Administration's achievement of efficiencies and savings. The City's data-driven managerial approach was recently validated by the affirmation of Boston's triple A bond rating.
+      high levels of support in critical areas such as education and public safety, makes limited strategic investments,continues the City's commitment to addressing its long-term liabilities, and builds on the Administration's record of strong fiscal management. This is made possible by the Administration's achievement of efficiencies and savings. The City's data-driven managerial approach was recently validated by the affirmation of Boston's triple A bond rating.
     sidebar_menu: true
 - grid: 
-  - grid_title: General
+  - grid_title: Budget Priorities
   - card: /featured-analysis/technology-data-analytics/
   - card: /featured-analysis/state-and-city-economies/
   - card: /featured-analysis/city-services/
@@ -94,4 +94,8 @@ components:
   - card: /featured-analysis/other-post-employment-benefits/
   - card: /featured-analysis/pensions-debt-service-other-fixed-costs/
   - card: /featured-analysis/personnel-changes/
+- grid:
+  - grid_title: Education
+- grid:
+  - grid_title: Financial Management  
 ---
