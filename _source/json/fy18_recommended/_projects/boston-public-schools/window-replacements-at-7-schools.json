@@ -1,0 +1,119 @@
+---
+{
+  "category":"Education",
+  "category_desc":"Initiatives to strengthen education, job training, and career connections.",
+  "department":"Boston Public Schools",
+  "file_version":"0.10",
+  "location":"Various neighborhoods",
+  "managing_department":"Public Facilities Department",
+  "mission":"Complete a feasibility study and develop schematic designs for window replacement projects at Community Academy, Curley School, Ellis School, McKay K-8 School, Sumner School, TechBoston Academy, and Young Achievers K-8 School in partnership with the MSBA.",
+  "name":"Window Replacements at 7 Schools",
+  "operating_impact":"No",
+  "section_id":"CPS24332",
+  "section_type":"projects",
+  "section_type_short":"R",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "status":"In Construction",
+  "expenditures_detail":{
+    "debug":"JCP",
+    "table_title":"Expenditures (Actual and Planned)",
+    "table_header":{
+      "line_type":"header",
+      "line_title":null,
+      "line_data_type":"string",
+      "source":"Source",
+      "past_spending":"Through 6/30/16",
+      "fy-1":"FY17 Budget",
+      "fy-0":"FY18 Budget",
+      "fy+1-4":"FY19-22 Budget",
+      "total":"Total"
+    },
+    "data":[
+      {
+        "line_type":"data",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"City Capital",
+        "past_spending":140986,
+        "fy-1":1526646,
+        "fy-0":11911513,
+        "fy+1-4":0,
+        "total":13579145
+      },
+      {
+        "line_type":"data",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"Grants/Other",
+        "past_spending":208227,
+        "fy-1":840251,
+        "fy-0":15315540,
+        "fy+1-4":0,
+        "total":16364018
+      },
+      {
+        "line_type":"total",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"Totals",
+        "past_spending":349213,
+        "fy-1":2366897,
+        "fy-0":27227053,
+        "fy+1-4":0,
+        "total":29943163
+      }
+    ],
+    "authorizations_table":{
+      "debug":"JCP",
+      "table_title":"Authorizations",
+      "table_header":{
+        "line_type":"header",
+        "line_title":null,
+        "line_data_type":"string",
+        "source":"Source",
+        "existing":"Existing",
+        "fy-0":"FY18",
+        "fy-0++":"Future",
+        "other":"Non Capital Fund",
+        "total":"Total"
+      },
+      "data":[
+        {
+          "line_type":"data",
+          "line_title":null,
+          "line_data_type":"number",
+          "source":"City Capital",
+          "existing":13579145,
+          "fy-0":0,
+          "fy-0++":0,
+          "other":0,
+          "total":13579145
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "line_data_type":"number",
+          "source":"Grants/Other",
+          "existing":16364018,
+          "fy-0":0,
+          "fy-0++":0,
+          "other":0,
+          "total":16364018
+        },
+        {
+          "line_type":"total",
+          "line_title":"Totals",
+          "line_data_type":"number",
+          "source":"Totals",
+          "existing":29943163,
+          "fy-0":0,
+          "fy-0++":0,
+          "other":0,
+          "total":29943163
+        }
+      ]
+    }
+  }
+}
+---
