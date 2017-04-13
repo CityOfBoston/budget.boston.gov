@@ -15,6 +15,7 @@ components:
       Every year the Office of Budget Management produces a three volume, ~1000+ page physical book. You can find every page of that book in the links on this page. 
     description: >
       <p><a class="button" href="https://budget.boston.gov/img/pdfs/volume-1-complete.pdf">Complete Volume 1</a>    <a class="button" href="https://budget.boston.gov/img/pdfs/volume-2-complete.pdf">Complete Volume 2</a>    <a class="button" href="https://budget.boston.gov/img/pdfs/volume-3-complete.pdf">Complete Volume 3</a></p>
+      <p><a href="https://www.boston.gov/departments/budget#past-budgets">Go to Boston.gov</a> to see the books from prior budget years</p>
     sidebar_menu: true
 - text_col_3:
   - title: FY17 recommended budget books (7/1/17 - 6/30/18)
