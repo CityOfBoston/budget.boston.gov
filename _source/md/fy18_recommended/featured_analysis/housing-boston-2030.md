@@ -3,7 +3,7 @@ layout: bos_content
 permalink: /featured-analysis/housing-boston-2030/
 title: Housing a Changing City - Boston 2030
 card:
-  - title: Housing a changing City
+  - title: Housing a Changing City
     body: >
       The City leverages variety of resources to meet 2030 housing goals.
     img: /img/featured_analysis/cards/fa-housing-boston-2030.jpg
