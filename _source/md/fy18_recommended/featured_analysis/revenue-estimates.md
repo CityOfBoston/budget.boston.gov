@@ -32,7 +32,7 @@ components:
   - title: Breaking down revenue
 - text_col_2:
   - col: >
-      <h5>State revenue growth</h5>
+      <h5>Declining State revenue</h5>
       <p>While the City is expected to experience continued robust property 
       tax growth in FY18, overall revenue growth is expected to be hampered by 
       sluggish state revenue growth. <blockquote>State revenue, the City’s second 

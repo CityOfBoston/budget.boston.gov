@@ -34,21 +34,9 @@ components:
 - text_col_2:
   - col: >
       <h5>PILOT background</h5>
-      <p>In April 2010, a Mayoral appointed task force released a report suggesting 
-      more standardization of PILOT agreements. Specifically, each agreement should 
-      represent, in cash or in-kind, 25% of the amount of tax that would be due if 
-      properties were not tax exempt. This type of change would generate more revenue 
-      than what is currently collected while providing some equity across paying 
-      institutions. <blockquote>New agreements under this framework were adopted in 
-      FY12 and that year includes the first installment of a five-year phase-in 
-      period to the new amounts. FY17 is the first year after that phase-in 
-      period.</blockquote></p>
+      <p>In April 2010, a Mayoral appointed task force released a report suggesting more standardization of PILOT agreements. Specifically, each agreement should represent, in cash or in-kind, 25% of the amount of tax that would be due if properties were not tax exempt. This type of change would generate more revenue than what is currently collected while providing some equity across paying institutions. <blockquote>New agreements under this framework were adopted in FY12 and that year includes the first installment of a five-year phase-in period to the new amounts. FY17 is the first year after that phase-in period.</blockquote></p>
+      <p>Payments in lieu of taxes totaled $49.4 million in FY15 and $51.2 million in FY16. The City expects this revenue source to exceed the $44.5 million budgeted for FY17 and estimates $45.0 million in FY18.
   - col:
-    - blurb: >
-        <h5>Revenue expected to grow</h5>
-        <p>Payments in lieu of taxes totaled $49.4 million in FY15 and $51.2 million 
-        in FY16. The City expects this revenue source to exceed the $44.5 million budgeted 
-        for FY17 and estimates $45.0 million in FY18.</p>
     - img: /img/featured_analysis/pages/recurring-local-receipts.png
 - grid:
   - grid_title: More budget analysis

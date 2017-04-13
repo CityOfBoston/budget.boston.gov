@@ -41,7 +41,7 @@ components:
       <p>The current class of cadets will be eligible to join the recruit classes 
       of FY19 and FY20, while the FY18 cadet class of 20 will be eligible to join the 
       recruit class of FY21.</p>
-  - col: >
+  - col: 
       img: /img/police-cadets.png
 - grid: 
   - grid_title: More budget analysis
