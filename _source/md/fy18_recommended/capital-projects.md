@@ -487,8 +487,8 @@ components:
            value: 71888712
            filter: delimiter
       - "Department":
-          name: Library Department
-          link: /capital-projects/library-department
+          name: Boston Public Library
+          link: /capital-projects/boston-public-library
         "Through 6/30/16":
            value: 4276282
            filter: delimiter
@@ -655,7 +655,7 @@ components:
            value: 207629840
            filter: delimiter
       - "Department":
-          name: School Department
+          name: Boston Public Schools
           link: /capital-projects/boston-public-schools
         "Through 6/30/16":
            value: 22771793
