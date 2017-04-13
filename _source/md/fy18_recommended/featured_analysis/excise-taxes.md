@@ -100,13 +100,13 @@ components:
       from the per ride assessment.</blockquote></p>
 - grid:
   - grid_title: More budget analysis
-    link: /featured-analysis/revenue-estimates/
-    link: /featured-analysis/local-receipts/
-    link: /featured-analysis/parking-fines/
-    link: /featured-analysis/interest-on-investments/
-    link: /featured-analysis/payments-in-lieu-of-taxes/
-    link: /featured-analysis/urban-redevelopment-ch-121a/
-    link: /featured-analysis/misc-dept-revenue/
-    link: /featured-analysis/licences-and-permits/
-    link: /featured-analysis/penalties-and-interest/
+  - card: /featured-analysis/revenue-estimates/
+  - card: /featured-analysis/local-receipts/
+  - card: /featured-analysis/parking-fines/
+  - card: /featured-analysis/interest-on-investments/
+  - card: /featured-analysis/payments-in-lieu-of-taxes/
+  - card: /featured-analysis/urban-redevelopment-ch-121a/
+  - card: /featured-analysis/misc-dept-revenue/
+  - card: /featured-analysis/licences-and-permits/
+  - card: /featured-analysis/penalties-and-interest/
 ---
