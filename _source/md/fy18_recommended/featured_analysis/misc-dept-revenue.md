@@ -22,12 +22,12 @@ components:
   - title: Miscellaneous department revenue
     short_desc: >
       With such limited revenue tools, the City is launching an initiative in the FY18 budget to better maximize local revenue tools. The FY18 budget includes an additional $9.7 million identified in departmental revenues.
-    description: >
-      In FY18, the Office of Budget Management will initiate revenue audits to verify the accuracy of information reported with certain fees. The City anticipates recovering $2 million in revenue through these audits. This City will also work to maximize federal health insurance reimbursements and address past due bills to recover revenue.
-    sidebar_menu: true    
-- text_block:
+    sidebar_menu: true
+- text_block: 
   - title: Municipal Medicaid reimbursements
-    body: >
+- text_col_2:
+  - col: >
+      <p>In FY18, the Office of Budget Management will initiate revenue audits to verify the accuracy of information reported with certain fees. The City anticipates recovering $2 million in revenue through these audits. This City will also work to maximize federal health insurance reimbursements and address past due bills to recover revenue.</p>
       <p>The largest revenue source in this category is Municipal Medicaid 
       reimbursements for school health services. This federal reimbursement, 
       administered by the State, began in FY94. The City received $7.1 million 

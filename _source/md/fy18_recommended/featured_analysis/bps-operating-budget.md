@@ -6,7 +6,7 @@ card:
   - title: BPS Operating Budget
     body: >
       Learn about the targeted research-backed investments BPS will make in FY18.
-    img: /img/featured_analysis/cards/fa-bps-operating-budget.jpg
+    img: /img/featured_analysis/cards/fa-education-overview.jpg
     link: /featured-analysis/bps-operating-budget/
 components:
 - breadcrumbs:
@@ -59,12 +59,14 @@ components:
 - text_block:
   - title: Strategic investments
     body: >
-      <p>As BPS looked to achieve efficiencies to fund strategic investments and approve 
-      a balanced budget, they were able to focus the majority of their savings 
-      initiatives on central office departments. Overall, the Central Administration budget 
-      will decrease by 5.5% to $62 million. The FY18 budget assumes reductions to 
+      <div class="intro-text supporting-text">
+      <p>As BPS looked to achieve efficiencies to fund 
+      strategic investments and approve a balanced budget, they were able to focus the majority 
+      of their savings initiatives on central office departments. Overall, the Central 
+      Administration budget will decrease by 5.5% to $62 million. The FY18 budget assumes reductions to 
       central office budgets in areas such as stipends, travel, and food.</p>
       <p>The FY18 BPS budget includes the following investments:</p>
+      </div>
 - text_col_2:
   - col: >
       <ul>
@@ -80,8 +82,8 @@ components:
       </ul>
   - col: >
       <ul>
-        <li>$1.3 million for new vocational programming at The English High School and 
-        Edward M. Kennedy Academy for Health Careers</li>
+        <li>$1.3 million for new vocational programming at <a href="http://www.bostonpublicschools.org/school/english-high-school">The English High School</a> and 
+        <a href="http://www.kennedyacademy.org/">Edward M. Kennedy Academy for Health Careers</a></li>
         <li>$500 thousand for an additional 100 K1 seats.</li>
         <li>$340 thousand investment to support the District’s water policy.</li>
         <li>$275 thousand for additional substitute custodians.</li>

@@ -154,12 +154,18 @@ components:
     img: https://www.boston.gov/sites/default/files/styles/grid_card_image/public/bayvillage3.jpg?itok=iDf79UIP
     link: /
 - text_col_3:
-  - col: >
-      <p>Fisrt Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non turpis nibh.
-      Sed eleifend orci pretium magna tempus vehicula. </p>
-      <p>Donec sodales massa vel leo porttitor
-      condimentum. Ut condimentum commodo quam. Phasellus sed metus eu velit pellentesque
-      porta. Suspendisse iaculis feugiat accumsan.</p>
+  - col:
+    - blurb: > 
+        <p>Fisrt Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non turpis nibh.
+        Sed eleifend orci 
+    - link:
+       title: TEST
+       path: /
+    - blurb: > 
+        pretium magna tempus vehicula. </p>
+        <p>Donec sodales massa vel leo porttitor
+        condimentum. Ut condimentum commodo quam. Phasellus sed metus eu velit pellentesque
+        porta. Suspendisse iaculis feugiat accumsan.</p>
   - col: >
       Second Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non turpis nibh.
       Sed eleifend orci pretium magna tempus vehicula.

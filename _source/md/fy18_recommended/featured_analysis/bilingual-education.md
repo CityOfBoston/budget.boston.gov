@@ -32,10 +32,10 @@ components:
 - text_block:
   - title: Further investments
     body: > 
-      Additionally, BPS continues to make investments to expand ELL academic programs 
-      and teacher training. The number of Sheltered English Immersion programs in the 
-      district will be increased, as will the number of teachers with English as a 
-      Second Language (ESL) licenses.
+      <div class="intro-text supporting-text">Additionally, BPS continues to make investments to expand ELL academic programs 
+      and teacher training. The number of <a href="http://www.bostonpublicschools.org/Page/5888">Sheltered 
+      English Immersion programs</a> in the district will be increased, as will the number of teachers with 
+      English as a Second Language (ESL) licenses.</div>
 - grid:
   - grid_title: More budget analysis
   - card: /featured-analysis/supporting-students-most-in-need/

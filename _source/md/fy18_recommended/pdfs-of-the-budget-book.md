@@ -10,7 +10,7 @@ components:
   - current: PDFs of the budget book
   - published: 4/13/17
 - intro:
-  - title: PDF of the budget volumes
+  - title: PDFs of the budget volumes
     short_desc: >
       Every year the Office of Budget Management produces a three volume, ~1000+ page physical 
       book. You can find every page of that book in the links on this page. 

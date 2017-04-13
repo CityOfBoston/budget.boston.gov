@@ -7,7 +7,7 @@ card:
     body: >
       Strong financial management lowers Boston's cost of borrowing. See how.
     img: /img/featured_analysis/cards/fa-debt-service.jpg
-    link: /featured-analysis/debt-service/
+    link: /operating-budget/debt-service/
 components:
 - breadcrumbs:
   - title: Home
@@ -28,7 +28,7 @@ components:
 - text_block:
   - title: Overview
     body: >
-      The City benefits from its strong financial policies and practices and has recently been affirmed with triple A bond ratings from Moody’s and Standard and Poor’s. Strong bond ratings are an assessment of the City’s long-term financial stability and lower the cost of borrowing. <blockquote>As the City borrows more over ten years to support investments in its schools, debt service is projected to increase as well. In FY18 Debt Service is budgeted at $185.6 million, a 6.1% increase over the previous year. </blockquote> For further detail, view <a href="/capital-projects">Capital Planning</a> and <a href="/financial-management">Financial Management</a>.
+      The City benefits from its strong financial policies and practices and has recently been affirmed with triple A bond ratings from Moody’s and Standard and Poor’s. Strong bond ratings are an assessment of the City’s long-term financial stability and lower the cost of borrowing. <blockquote>As the City borrows more over ten years to support investments in its schools, debt service is projected to increase as well. In FY18 Debt Service is budgeted at $185.6 million, a 6.1% increase over the previous year. </blockquote> For further detail, view <a href="https://budget.boston.gov/capital-projects">Capital Planning</a> and <a href="https://budget.boston.gov/financial-management">Financial Management</a>.
 - table:
   - title: Debt service
     right_text:

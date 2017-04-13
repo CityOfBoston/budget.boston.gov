@@ -39,7 +39,7 @@ components:
       <p>The City collected parking fine revenue of $57.1 million in FY15 and $57.8 
       in FY16. Parking fine revenue is expected to exceed the $57.0 million budgeted 
       in FY17 and reach $61.3 million in FY18.</p>
-    right_image: /img/featured_analysis/pages/recurring-local-receipts.jpg
+    right_image: /img/featured_analysis/pages/recurring-local-receipts.png
 - grid:
   - grid_title: More budget analysis
   - card: /featured-analysis/revenue-estimates/

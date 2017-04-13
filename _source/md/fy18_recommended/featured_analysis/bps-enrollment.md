@@ -45,7 +45,8 @@ components:
       <h5>Shifts in enrollment</h5>
       <p>At a school level, BPS has seen some shifts in enrollment. BPS gives parents a voice 
       in where their child attends schools, which means that they see shifts from year to year. 
-      The BPS School Committee has also supported school communities that have requested to 
+      The <a href="http://www.bostonpublicschools.org/domain/162">BPS School Committee</a> 
+      has also supported school communities that have requested to 
       expand grades in recent years, which have led to shifts in enrollment. It is projected that 
       600 more students will be enrolled in the District’s highest performing schools 
       next year.</p>
