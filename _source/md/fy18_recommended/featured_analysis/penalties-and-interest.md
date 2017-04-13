@@ -7,7 +7,7 @@ card:
     body: >
       Penalties and interest are assessed for late payments.
     img: /img/featured_analysis/cards/fa-penalties-and-interest.jpg
-    link: /featured-analysis/penalties-and-interest
+    link: /featured-analysis/penalties-and-interest/
 components:
 - breadcrumbs:
   - title: Home
@@ -30,7 +30,7 @@ components:
       collections for FY17 will exceed the budget of $8.5 million and 
       are projected to be $14.5 million in FY18.
     right_image: /img/featured_analysis/pages/recurring-local-receipts.png
-    sidebar_menu: true    
+    sidebar_menu: true
 - grid:
   - grid_title: More budget analysis
   - card: /featured-analysis/revenue-estimates/

@@ -93,7 +93,7 @@ components:
       </ul>
 - text_col_2:
   - col: >
-      <p>In their credit rating affirming Boston’s Aaa rating with a stable outlook, Moody’s wrote: <blockquote>"The AAA rating reflects the city's strong fiscal management and stable financial position."</blockquote></p>
+      <p>In their credit rating affirming Boston’s AAA rating with a stable outlook, Moody’s wrote: <blockquote>"The AAA rating reflects the city's strong fiscal management and stable financial position."</blockquote></p>
   - col: >
       <p>Disciplined financial practices have better positioned Boston to manage through changes in state and federal policy and funding levels.</p>
 - grid:
