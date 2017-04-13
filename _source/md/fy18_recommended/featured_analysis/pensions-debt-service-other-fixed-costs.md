@@ -43,12 +43,10 @@ components:
       <p>Even with the recent favorable borrowings, debt service costs are projected
       to increase by $10.6 million (6.1%) in FY18.</p> 
   - col:
-    - img: /img/placeholder-300x400.png
-    - blurb: >
-        Pension Funding Schedule
+    - img: /img/pension-schedule.png
 - grid: 
   - grid_title: More budget analysis
-  - card: /featured-analysis/bps-long-term-financial-plan/
-  - card: /featured-analysis/bps-long-term-financial-plan/
-  - card: /featured-analysis/bps-long-term-financial-plan/
+  - card: /operating-budget/pensions/
+  - card: /operating-budget/debt-service/
+  - card: /operating-budget/state-assessments/
 ---

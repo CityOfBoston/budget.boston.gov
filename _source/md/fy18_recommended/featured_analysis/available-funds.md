@@ -3,7 +3,7 @@ layout: bos_content
 permalink: /featured-analysis/available-funds/
 title: Available Funds
 card:
-  - title: Available funds
+  - title: Available Funds
     body: >
       The City can make transfers to the General Fund from Available Funds.
     img: /img/featured_analysis/cards/fa-available-funds.jpg

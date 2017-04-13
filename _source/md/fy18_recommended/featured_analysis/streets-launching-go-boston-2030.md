@@ -6,7 +6,7 @@ card:
   - title: Launching Go Boston 2030
     body: >
       The Capital Plan will invest $709 million over five years in Go Boston 2030
-    img: /img/featured_analysis/cards/fa-streets-launching-go-boston-2030.jpg
+    img: /img/featured_analysis/cards/fa-open-space-imagine-boston-2030-goals.jpg
     link: /featured-analysis/streets-launching-go-boston-2030/
 components:
 - breadcrumbs:
@@ -21,7 +21,9 @@ components:
 - intro:
   - title: Launching Go Boston 2030
     short_desc: >
-      Mayor Walsh’s FY18-22 Capital Plan, drawing on City, State and Federal sources, will invest $709 million over the next five years in implementing the core initiatives outlined in Go Boston 2030. 
+      Mayor Walsh’s FY18-22 Capital Plan, drawing on City, State and Federal sources, will invest 
+      $709 million over the next five years in implementing the core initiatives outlined 
+      in <a href="https://www.boston.gov/transportation/go-boston-2030">Go Boston 2030</a>. 
     description: >
       Under Go Boston 2030, Boston will strive for streets that are safer for 
       all users of our roads and sidewalks, particularly pedestrians and cyclists, 
@@ -33,18 +35,19 @@ components:
 - text_block:
   - title: Key investments
     body: >
-      Driven by these core goals of safety, reliability, and access, the capital plan 
-      focuses on the following key investments:
+      <div class="intro-text supporting-text">Driven by these core goals of safety, reliability, and access, the capital plan focuses on the following key investments:</div>
 - text_col_3:
   - col: >
       <ul>
         <li>Launches a citywide, multi-year campaign to bring all crosswalks, lane 
         markings, and bike lanes into a state of good repair.</li>
-        <li>Continues the City’s $3.1 million annual investment in Vision Zero to 
+        <li>Continues the City’s $3.1 million annual investment in 
+        <a href="http://www.visionzeroboston.org/">Vision Zero</a> to 
         make targeted safety improvements at corridors and intersections with known 
         safety challenges, and to traffic-calm residential streets.</li>
-        <li>Improves access and safety for those visiting our Main Street business 
-        districts on foot and on bicycles including Hyde Square, Central Square 
+        <li>Improves access and safety for those visiting our 
+        <a href="https://www.boston.gov/economic-development/boston-main-streets">Main 
+        Street business</a> districts on foot and on bicycles including Hyde Square, Central Square 
         and Dudley Street.</li>
       </ul>
   - col: >
