@@ -367,45 +367,46 @@ components:
         "Ending Year Balance": 24.108
       - "Fiscal Year": FY11
         "Beginning Year Balance": 24.108
-        "Funds Out": 
-        "Funds In": 
-        "Ending Year Balance": 
+        "Funds Out": 0.000
+        "Funds In": 0.972
+        "Ending Year Balance": 25.080
       - "Fiscal Year": FY12
-        "Beginning Year Balance": 
-        "Funds Out": 
-        "Funds In": 
-        "Ending Year Balance": 
+        "Beginning Year Balance": 25.080
+        "Funds Out": 0.000
+        "Funds In": 1.291
+        "Ending Year Balance": 26.371
       - "Fiscal Year": FY13
-        "Beginning Year Balance": 
-        "Funds Out": 
-        "Funds In": 
-        "Ending Year Balance": 
+        "Beginning Year Balance": 26.371
+        "Funds Out": (22.120)
+        "Funds In": 5.057
+        "Ending Year Balance": 9.307
       - "Fiscal Year": FY14
-        "Beginning Year Balance": 
-        "Funds Out": 
-        "Funds In": 
-        "Ending Year Balance": 
+        "Beginning Year Balance": 9.307
+        "Funds Out": 0.000
+        "Funds In": 0.550
+        "Ending Year Balance": 9.857
       - "Fiscal Year": FY15
-        "Beginning Year Balance": 
-        "Funds Out": 
-        "Funds In": 
-        "Ending Year Balance": 
+        "Beginning Year Balance": 9.857
+        "Funds Out": (5.250)
+        "Funds In": 10.678
+        "Ending Year Balance": 15.285
       - "Fiscal Year": FY16
-        "Beginning Year Balance": 
-        "Funds Out": 
-        "Funds In": 
-        "Ending Year Balance": 
+        "Beginning Year Balance": 15.285
+        "Funds Out": 0.000
+        "Funds In": 1.742
+        "Ending Year Balance": 17.027
       - "Fiscal Year": *FY17
-        "Beginning Year Balance": 
-        "Funds Out": 
-        "Funds In": 
-        "Ending Year Balance": 
+        "Beginning Year Balance": 17.027
+        "Funds Out": (4.000)**
+        "Funds In": 1.145
+        "Ending Year Balance": 14.172
       - "Fiscal Year": *FY18
-        "Beginning Year Balance": 
-        "Funds Out": 
-        "Funds In": 
-        "Ending Year Balance": 
+        "Beginning Year Balance": 14.172
+        "Funds Out": 0.000
+        "Funds In": 1.145
+        "Ending Year Balance": 15.317
 - text_block: 
   - body: >
-      *
+      *Projected
+      **Includes a $4 million supplemental for the Boston Housing Authority
 ---
