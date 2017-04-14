@@ -1,25 +1,19 @@
-{% assign args = page.url | split: '/' %}
-{% for arg in args %}
-  {% if forloop.index == 2 %}
-    {% assign first_arg = arg | append: "/" | prepend: "/" %}
-  {% endif %}
-{% endfor %}
 <ul class="tab">
   <li class="tab-li tab-li-0">
     <label for="tabMenuCTRL" class="tab-li-m" aria-hidden="true">Executive Summary</label>
-    <a href="{{ site.url }}/" for="tabCTRL0" data-href="#greeting-letters" class="tab-li-a tab-li-a-0">
+    <a href="{{ site.url }}/" for="tabCTRL0" class="tab-li-a tab-li-a-0">
         Executive Summary
     </a>
   </li>
   <li class="tab-li tab-li-1">
     <label for="tabMenuCTRL" class="tab-li-m" aria-hidden="true">Featured Analysis</label>
-    <a href="{{ site.url }}/featured-analysis" for="tabCTRL1" data-href="#citations" class="tab-li-a tab-li-a-1">
+    <a href="{{ site.url }}/featured-analysis" for="tabCTRL1" class="tab-li-a tab-li-a-1">
       Featured Analysis
     </a>
   </li>
   <li class="tab-li tab-li-2">
     <label for="tabMenuCTRL" class="tab-li-m" aria-hidden="true">Capital Projects</label>
-    <a href="{{ site.url }}/capital-projects" for="tabCTRL2" data-href="#proclamations" class="tab-li-a tab-li-a-2">
+    <a href="{{ site.url }}/capital-projects" for="tabCTRL2" class="tab-li-a tab-li-a-2">
       Capital Projects
     </a>
   </li>
@@ -35,5 +29,3 @@
     </label>
   </li>
 </ul>
-
-<script src="{{ site.url }}/js/tabs.js" type="text/javascript"></script>
