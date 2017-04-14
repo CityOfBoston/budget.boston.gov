@@ -367,6 +367,7 @@ components:
 - table:
   - title: Surplus Property Disposition Fund
     right_text: (dollars in millions)
+    columns:
       - "Fiscal Year": FY10
         "Beginning Year Balance": 30.087
         "Funds Out": (5.979)
