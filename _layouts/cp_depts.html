@@ -4,7 +4,7 @@ layout: bos_wrapper
 
 {% include hero.html %}
 
-<div class="breadcrumb">
+<div class="breadcrumb p-t500">
   <a href="{{ site.url }}/">Home</a>
   <span class="crumbs-separator"> &gt; </span>
   <a href="{{ site.url }}/capital-projects">Capital Projects</a>
@@ -99,20 +99,4 @@ layout: bos_wrapper
       </tr>
   </tbody>
 </table>
-<br />
 
-<div class="sh desktop-100">
-  <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
-    {{ page.name }} - Performance Strategies
-  </h2>
-</div>
-<div class="desktop-100">
-  {% for program in page.selected_performance_strategies %}
-    <h5>{{ program.program }}</h5>
-    <ul>
-    {% for strategy in program.strategies %}
-    <li>{{ strategy }}</li>
-    {% endfor %}
-    </ul>
-  {% endfor %}
-</div>

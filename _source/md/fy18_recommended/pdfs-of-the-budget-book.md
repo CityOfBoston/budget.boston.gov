@@ -17,7 +17,7 @@ components:
     description:
     - link: 
         title: Complete Volume 1
-        path: /budget.boston.gov/img/pdfs/volume-1-complete.pdf
+        path: /img/pdfs/volume-1-complete.pdf
         button: true
     - link:
         title: Complete Volume 2

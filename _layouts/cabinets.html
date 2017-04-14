@@ -4,7 +4,7 @@ layout: bos_wrapper
 
 {% include hero.html %}
 
-<div class="breadcrumb">
+<div class="breadcrumb p-t500">
   <a href="{{ site.url }}/">Home</a>
   <span class="crumbs-separator"> &gt; </span>
   <a href="{{ site.url }}/operating-budget">Operating Budget</a>
@@ -30,7 +30,7 @@ layout: bos_wrapper
     <div>
       <h5>
         {% if page.head_name %}<strong><span>{{ page.head_name }},</span></strong>{% endif %}
-        {% if page.head_title %}<strong><span>{{ page.head_title }},</span></strong>{% endif %}
+        {% if page.head_title %}<strong><span>{{ page.head_title }}</span></strong>{% endif %}
       </h5>
     </div>
   </div>

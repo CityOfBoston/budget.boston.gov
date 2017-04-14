@@ -39,15 +39,16 @@ components:
       exclusively in Boston.</p>
     sidebar_menu: true
 - text_block:
-  body: >
-    <div class="intro-text supporting-text"><p>BPS will strengthen its commitment to Superintendent 
-    Chang’s Excellence for All initiative that expands access to rigorous curriculum and enrichment 
-    experiences for students, equipping them with new skills such as foreign languages and robotics. 
-    By increasing the annual investment to $2 million, BPS will extend the program to 5th grade in 
-    the 13 schools already offering Excellence for All to 4th graders, reaching a total of 1,569 
-    students.  In FY17, BPS found that Excellence for All was successful in reaching the demographics 
-    of students that are currently underrepresented in the 
-    <a href="http://www.bostonpublicschools.org/Page/6525">Advanced Work Class (AWC) program</a>.</p></div>
+  - title: Excellence for All
+    body: >
+      <div class="intro-text supporting-text"><p>BPS will strengthen its commitment to Superintendent 
+      Chang’s Excellence for All initiative that expands access to rigorous curriculum and enrichment 
+      experiences for students, equipping them with new skills such as foreign languages and robotics. 
+      By increasing the annual investment to $2 million, BPS will extend the program to 5th grade in 
+      the 13 schools already offering Excellence for All to 4th graders, reaching a total of 1,569 
+      students.  In FY17, BPS found that Excellence for All was successful in reaching the demographics 
+      of students that are currently underrepresented in the 
+      <a href="http://www.bostonpublicschools.org/Page/6525">Advanced Work Class (AWC) program</a>.</p></div>
 - table: 
   - title: Excellence For All results
     columns:

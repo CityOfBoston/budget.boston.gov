@@ -317,7 +317,7 @@ components:
            value: 110144617
            filter: delimiter
       - "Category":
-         name: Transporation
+         name: Transportation
          link: /capital-projects/transportation
         "Through 6/30/16":
            value: 73238777

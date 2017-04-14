@@ -1,25 +1,31 @@
-{% assign args = page.url | split: '/' %}
-{% for arg in args %}
-  {% if forloop.index == 2 %}
-    {% assign first_arg = arg | append: "/" | prepend: "/" %}
-  {% endif %}
-{% endfor %}
-<ul class="tabs content-section-tabs">
-  <li id="decoy" data-tab="remote" style="display:none;" class="tabs__tab">
-    <a href="#" class="tabs__tab-link"></a>
+<ul class="tab">
+  <li class="tab-li tab-li-0">
+    <label for="tabMenuCTRL" class="tab-li-m" aria-hidden="true">Executive Summary</label>
+    <a href="{{ site.url }}/" for="tabCTRL0" class="tab-li-a tab-li-a-0">
+        Executive Summary
+    </a>
   </li>
-  <li id="front" data-tab="local" class="tabs__tab {% if page.url == '/' %}is-active{% endif %}">
-    <a href="{{ site.url }}/" class="tabs__tab-link {% if page.url == '/' %}is-active{% endif %}">Executive Summary</a>
+  <li class="tab-li tab-li-1">
+    <label for="tabMenuCTRL" class="tab-li-m" aria-hidden="true">Featured Analysis</label>
+    <a href="{{ site.url }}/featured-analysis" for="tabCTRL1" class="tab-li-a tab-li-a-1">
+      Featured Analysis
+    </a>
   </li>
-  <li id="featured-analysis" data-tab="local" class="tabs__tab {% if first_arg == '/featured-analysis/' %}is-active{% endif %}">
-    <a href="{{ site.url }}/featured-analysis" class="tabs__tab-link {% if first_arg == '/featured-analysis/' %}is-active{% endif %}">Featured Analysis</a>
+  <li class="tab-li tab-li-2">
+    <label for="tabMenuCTRL" class="tab-li-m" aria-hidden="true">Capital Projects</label>
+    <a href="{{ site.url }}/capital-projects" for="tabCTRL2" class="tab-li-a tab-li-a-2">
+      Capital Projects
+    </a>
   </li>
-  <li id="capital-projects" data-tab="local" class="tabs__tab {% if first_arg == '/capital-projects/' %}is-active{% endif %}">
-    <a href="{{ site.url }}/capital-projects" class="tabs__tab-link {% if first_arg == '/capital-projects/' %}is-active{% endif %}">Capital Projects</a>
+  <li class="tab-li tab-li-3">
+    <label for="tabMenuCTRL" class="tab-li-m" aria-hidden="true">Operating Budget</label>
+    <a href="{{ site.url }}/operating-budget" for="tabCTRL3" class="tab-li-a tab-li-a-3">
+      Operating Budget
+    </a>
   </li>
-  <li id="operating-budget" data-tab="local" class="tabs__tab {% if first_arg == '/operating-budget/' %}is-active{% endif %}">
-    <a href="{{ site.url }}/operating-budget" class="tabs__tab-link {% if first_arg == '/operating-budget/' %}is-active{% endif %}">Operating Budget</a>
+  <li class="tab-li tab-li-close" style="display: none;">
+    <label for="tabMenuCTRL" class="tab-li-a tab-li-a--c" aria-hidden="true">
+      Close
+    </label>
   </li>
 </ul>
-
-<script src="{{ site.url }}/js/tabs.js" type="text/javascript"></script>
