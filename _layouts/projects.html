@@ -27,60 +27,16 @@ layout: bos_wrapper
       </p>
     </div>
     <div>
-      <strong>{{ page.category }}:</strong>
-      {{ page.category_desc }}
+      <strong>{{ page.category }}:</strong> {{ page.category_desc }}<br />
+      <strong>Location:</strong> {{ page.location }}<br />
+      <strong>Status:</strong> {{ page.status }}<br />
+      <strong>Managing Department:</strong> {{ page.managing_department }}<br />
+      <strong>Operating Impact:</strong> {{ page.operating_impact }}
     </div>
   </div>
   {% include sidebar_menu.html %}
 </div>
 
-<div>
-<strong>Location:</strong> {{ page.location }}<br />
-<strong>Status:</strong> {{ page.status }}<br />
-<strong>Managing Department:</strong> {{ page.managing_department }}<br />
-<strong>Operating Impact:</strong> {{ page.operating_impact }}
-</div>
-<br />
-
-<div class="sh desktop-100">
-  <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
-    Expenditures (Actual and Planned)
-  </h2>
-  <div class="sh-contact">
-    <a href="{{ site.url }}/capital-projects/{{ page.department | replace: "'","" | slugify }}">
-      Back to {{ page.department }}
-    </a>
-  </div>
-</div>
-<br />
-<table class="responsive-table responsive-table--horizontal">
-  <thead>
-    <tr>
-      <th>{{ page.expenditures_detail.table_header.source }}</th>
-      <th>{{ page.expenditures_detail.table_header.past_spending }}</th>
-      <th>{{ page.expenditures_detail.table_header.fy-1 }}</th>
-      <th>{{ page.expenditures_detail.table_header.fy-0 }}</th>
-      <th>{{ page.expenditures_detail.table_header["fy+1-4"] }}</th>
-      <th>{{ page.expenditures_detail.table_header.total }}</th>
-    </tr>
-  </thead>
-  <tbody>
-    {% for row in page.expenditures_detail.data %}
-      {% if row.line_type == "total" %}
-      <tr class="total">
-      {% else %}
-      <tr>
-      {% endif %}
-        <td data-label="{{ page.expenditures_detail.table_header.source }}">{{ row.source }}</td>
-        <td data-label="{{ page.expenditures_detail.table_header.past_spending }}">{{ row.past_spending | thousands_separated }}</td>
-        <td data-label="{{ page.expenditures_detail.table_header.fy-1 }}">{{ row.fy-1 | thousands_separated }}</td>
-        <td data-label="{{ page.expenditures_detail.table_header.fy-0 }}">{{ row.fy-0 | thousands_separated }}</td>
-        <td data-label="{{ page.expenditures_detail.table_header['fy+1-4'] }}">{{ row["fy+1-4"] | thousands_separated }}</td>
-        <td data-label="{{ page.expenditures_detail.table_header.total }}">{{ row.total | thousands_separated }}</td>
-      </tr>
-    {% endfor %}
-  </tbody>
-</table>
 <br />
 
 <div class="sh desktop-100">
@@ -123,3 +79,44 @@ layout: bos_wrapper
   </tbody>
 </table>
 <br />
+<br />
+
+<div class="sh desktop-100">
+  <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
+    Expenditures (Actual and Planned)
+  </h2>
+  <div class="sh-contact">
+    <a href="{{ site.url }}/capital-projects/{{ page.department | replace: "'","" | slugify }}">
+      Back to {{ page.department }}
+    </a>
+  </div>
+</div>
+<br />
+<table class="responsive-table responsive-table--horizontal">
+  <thead>
+    <tr>
+      <th>{{ page.expenditures_detail.table_header.source }}</th>
+      <th>{{ page.expenditures_detail.table_header.past_spending }}</th>
+      <th>{{ page.expenditures_detail.table_header.fy-1 }}</th>
+      <th>{{ page.expenditures_detail.table_header.fy-0 }}</th>
+      <th>{{ page.expenditures_detail.table_header["fy+1-4"] }}</th>
+      <th>{{ page.expenditures_detail.table_header.total }}</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for row in page.expenditures_detail.data %}
+      {% if row.line_type == "total" %}
+      <tr class="total">
+      {% else %}
+      <tr>
+      {% endif %}
+        <td data-label="{{ page.expenditures_detail.table_header.source }}">{{ row.source }}</td>
+        <td data-label="{{ page.expenditures_detail.table_header.past_spending }}">{{ row.past_spending | thousands_separated }}</td>
+        <td data-label="{{ page.expenditures_detail.table_header.fy-1 }}">{{ row.fy-1 | thousands_separated }}</td>
+        <td data-label="{{ page.expenditures_detail.table_header.fy-0 }}">{{ row.fy-0 | thousands_separated }}</td>
+        <td data-label="{{ page.expenditures_detail.table_header['fy+1-4'] }}">{{ row["fy+1-4"] | thousands_separated }}</td>
+        <td data-label="{{ page.expenditures_detail.table_header.total }}">{{ row.total | thousands_separated }}</td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
