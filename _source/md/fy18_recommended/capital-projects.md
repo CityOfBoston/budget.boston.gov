@@ -361,25 +361,25 @@ components:
   - title: Spending By Department
     columns:
       - "Department":
-          name: Office of Arts and Culture
-          link: /capital-projects/office-of-arts-and-culture
+          name: Boston Centers for Youth and Families
+          link: /capital-projects/boston-centers-for-youth-and-families
         "Through 6/30/16":
-           value: 0
+           value: 5474929
            filter: delimiter
         "FY17 Budget":
-           value: 0
+           value: 10603232
            filter: delimiter
         "FY18 Budget":
-           value: 1700000
+           value: 10483248
            filter: delimiter
         "FY19-22 Budget":
-           value: 7600000
+           value: 29094266
            filter: delimiter
         "Non-Capital Fund":
            value: 0
            filter: delimiter
         "Total":
-           value: 9300000
+           value: 55655675
            filter: delimiter
       - "Department":
           name: Boston Planning and Development Agency
@@ -403,90 +403,6 @@ components:
            value: 2600000
            filter: delimiter
       - "Department":
-          name: Boston Centers for Youth and Families
-          link: /capital-projects/boston-centers-for-youth-and-families
-        "Through 6/30/16":
-           value: 5474929
-           filter: delimiter
-        "FY17 Budget":
-           value: 10603232
-           filter: delimiter
-        "FY18 Budget":
-           value: 10483248
-           filter: delimiter
-        "FY19-22 Budget":
-           value: 29094266
-           filter: delimiter
-        "Non-Capital Fund":
-           value: 0
-           filter: delimiter
-        "Total":
-           value: 55655675
-           filter: delimiter
-      - "Department":
-          name: Environment Department
-          link: /capital-projects/environment-department
-        "Through 6/30/16":
-           value: 0
-           filter: delimiter
-        "FY17 Budget":
-           value: 38400
-           filter: delimiter
-        "FY18 Budget":
-           value: 1673100
-           filter: delimiter
-        "FY19-22 Budget":
-           value: 9686500
-           filter: delimiter
-        "Non-Capital Fund":
-           value: 0
-           filter: delimiter
-        "Total":
-           value: 11398000
-           filter: delimiter
-      - "Department":
-          name: Emergency Management
-          link: /capital-projects/emergency-management
-        "Through 6/30/16":
-           value: 0
-           filter: delimiter
-        "FY17 Budget":
-           value: 25000
-           filter: delimiter
-        "FY18 Budget":
-           value: 50000
-           filter: delimiter
-        "FY19-22 Budget":
-           value: 1425000
-           filter: delimiter
-        "Non-Capital Fund":
-           value: 0
-           filter: delimiter
-        "Total":
-           value: 1500000
-           filter: delimiter
-      - "Department":
-          name: Fire Department
-          link: /capital-projects/fire-department
-        "Through 6/30/16":
-           value: 1204474
-           filter: delimiter
-        "FY17 Budget":
-           value: 1133109
-           filter: delimiter
-        "FY18 Budget":
-           value: 10120290
-           filter: delimiter
-        "FY19-22 Budget":
-           value: 59430839
-           filter: delimiter
-        "Non-Capital Fund":
-           value: 0
-           filter: delimiter
-        "Total":
-           value: 71888712
-           filter: delimiter
-      - "Department":
           name: Boston Public Library
           link: /capital-projects/boston-public-library
         "Through 6/30/16":
@@ -506,6 +422,27 @@ components:
            filter: delimiter
         "Total":
            value: 125803000
+           filter: delimiter
+      - "Department":
+          name: Boston Public Schools
+          link: /capital-projects/boston-public-schools
+        "Through 6/30/16":
+           value: 22771793
+           filter: delimiter
+        "FY17 Budget":
+           value: 50989196
+           filter: delimiter
+        "FY18 Budget":
+           value: 110104285
+           filter: delimiter
+        "FY19-22 Budget":
+           value: 415505293
+           filter: delimiter
+        "Non-Capital Fund":
+           value: 275000
+           filter: delimiter
+        "Total":
+           value: 599645567
            filter: delimiter
       - "Department":
           name: Department of Innovation and Technology
@@ -529,6 +466,69 @@ components:
            value: 91882510
            filter: delimiter
       - "Department":
+          name: Emergency Management
+          link: /capital-projects/emergency-management
+        "Through 6/30/16":
+           value: 0
+           filter: delimiter
+        "FY17 Budget":
+           value: 25000
+           filter: delimiter
+        "FY18 Budget":
+           value: 50000
+           filter: delimiter
+        "FY19-22 Budget":
+           value: 1425000
+           filter: delimiter
+        "Non-Capital Fund":
+           value: 0
+           filter: delimiter
+        "Total":
+           value: 1500000
+           filter: delimiter
+      - "Department":
+          name: Environment Department
+          link: /capital-projects/environment-department
+        "Through 6/30/16":
+           value: 0
+           filter: delimiter
+        "FY17 Budget":
+           value: 38400
+           filter: delimiter
+        "FY18 Budget":
+           value: 1673100
+           filter: delimiter
+        "FY19-22 Budget":
+           value: 9686500
+           filter: delimiter
+        "Non-Capital Fund":
+           value: 0
+           filter: delimiter
+        "Total":
+           value: 11398000
+           filter: delimiter
+      - "Department":
+          name: Fire Department
+          link: /capital-projects/fire-department
+        "Through 6/30/16":
+           value: 1204474
+           filter: delimiter
+        "FY17 Budget":
+           value: 1133109
+           filter: delimiter
+        "FY18 Budget":
+           value: 10120290
+           filter: delimiter
+        "FY19-22 Budget":
+           value: 59430839
+           filter: delimiter
+        "Non-Capital Fund":
+           value: 0
+           filter: delimiter
+        "Total":
+           value: 71888712
+           filter: delimiter
+      - "Department":
           name: Neighborhood Development
           link: /capital-projects/neighborhood-development
         "Through 6/30/16":
@@ -548,6 +548,27 @@ components:
            filter: delimiter
         "Total":
            value: 3383722
+           filter: delimiter
+      - "Department":
+          name: Office of Arts and Culture
+          link: /capital-projects/office-of-arts-and-culture
+        "Through 6/30/16":
+           value: 0
+           filter: delimiter
+        "FY17 Budget":
+           value: 0
+           filter: delimiter
+        "FY18 Budget":
+           value: 1700000
+           filter: delimiter
+        "FY19-22 Budget":
+           value: 7600000
+           filter: delimiter
+        "Non-Capital Fund":
+           value: 0
+           filter: delimiter
+        "Total":
+           value: 9300000
            filter: delimiter
       - "Department":
           name: Office of New Urban Mechanics
@@ -571,6 +592,27 @@ components:
            value: 200000
            filter: delimiter
       - "Department":
+          name: Parks and Recreation Department
+          link: /capital-projects/parks-and-recreation-department
+        "Through 6/30/16":
+           value: 20446829
+           filter: delimiter
+        "FY17 Budget":
+           value: 9845566
+           filter: delimiter
+        "FY18 Budget":
+           value: 31285933
+           filter: delimiter
+        "FY19-22 Budget":
+           value: 58924339
+           filter: delimiter
+        "Non-Capital Fund":
+           value: 87127173
+           filter: delimiter
+        "Total":
+           value: 207629840
+           filter: delimiter
+      - "Department":
           name: Police Department
           link: /capital-projects/police-department
         "Through 6/30/16":
@@ -590,27 +632,6 @@ components:
            filter: delimiter
         "Total":
            value: 81374000
-           filter: delimiter
-      - "Department":
-          name: Public Health Commission
-          link: /capital-projects/public-health-commission
-        "Through 6/30/16":
-           value: 17534
-           filter: delimiter
-        "FY17 Budget":
-           value: 120000
-           filter: delimiter
-        "FY18 Budget":
-           value: 1016115
-           filter: delimiter
-        "FY19-22 Budget":
-           value: 1972349
-           filter: delimiter
-        "Non-Capital Fund":
-           value: 0
-           filter: delimiter
-        "Total":
-           value: 3125998
            filter: delimiter
       - "Department":
           name: Property Management Department
@@ -634,46 +655,25 @@ components:
            value: 101629058
            filter: delimiter
       - "Department":
-          name: Parks and Recreation Department
-          link: /capital-projects/parks-and-recreation-department
+          name: Public Health Commission
+          link: /capital-projects/public-health-commission
         "Through 6/30/16":
-           value: 20446829
+           value: 17534
            filter: delimiter
         "FY17 Budget":
-           value: 9845566
+           value: 120000
            filter: delimiter
         "FY18 Budget":
-           value: 31285933
+           value: 1016115
            filter: delimiter
         "FY19-22 Budget":
-           value: 58924339
+           value: 1972349
            filter: delimiter
         "Non-Capital Fund":
-           value: 87127173
+           value: 0
            filter: delimiter
         "Total":
-           value: 207629840
-           filter: delimiter
-      - "Department":
-          name: Boston Public Schools
-          link: /capital-projects/boston-public-schools
-        "Through 6/30/16":
-           value: 22771793
-           filter: delimiter
-        "FY17 Budget":
-           value: 50989196
-           filter: delimiter
-        "FY18 Budget":
-           value: 110104285
-           filter: delimiter
-        "FY19-22 Budget":
-           value: 415505293
-           filter: delimiter
-        "Non-Capital Fund":
-           value: 275000
-           filter: delimiter
-        "Total":
-           value: 599645567
+           value: 3125998
            filter: delimiter
       - "Department":
           name: Public Works Department
