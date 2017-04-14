@@ -252,8 +252,15 @@ components:
       <li>Private Purpose Trust Funds.</li>
       </ul>
 - text_block:
-  - body: >
-      <p class="intro-text supporting-text">The City’s operating and capital budgets are also supported by certain appropriations from other available funds. The City may appropriate parking meter revenues (Special Revenue Fund) to support the Transportation Department and capital projects related to traffic and parking. Cemetery trust monies (Other Governmental Funds) support the City’s maintenance of its public cemeteries.</p>
+  - body: 
+    - blurb: >
+        <p class="intro-text supporting-text">The City’s operating and capital budgets are also supported by certain appropriations from other available funds. The City may appropriate parking meter revenues (Special Revenue Fund) to support the Transportation Department and capital projects related to traffic and parking. Cemetery trust monies (Other Governmental Funds) support the City’s maintenance of its public cemeteries.</p>
+        <p class="intro-text supporting-text">The below tables provide a history of the available funds used to support the City’s operating budget. View a 
+    - link: 
+        title: summary of the budget's appropriated funds
+        path: /img/pdfs/budget-summary-appropriations-table.pdf
+    - blurb: >
+        .</p>
 - table:
   - title: Parking Meter Fund
     right_text: (dollars in millions)
@@ -265,17 +272,17 @@ components:
         "Ending Year Balance": 59.091
       - "Fiscal Year": FY12
         "Beginning Year Balance": 59.091
-        "Funds Out": -
+        "Funds Out": 0.000
         "Funds In": 16.560
         "Ending Year Balance": 75.651
       - "Fiscal Year": FY13
         "Beginning Year Balance": 75.651
-        "Funds Out": -
+        "Funds Out": 0.000
         "Funds In": 15.514
         "Ending Year Balance": 91.165
       - "Fiscal Year": FY14
         "Beginning Year Balance": 91.165
-        "Funds Out": -
+        "Funds Out": 0.000
         "Funds In": 15.547
         "Ending Year Balance": 106.712
       - "Fiscal Year": FY15
@@ -320,27 +327,27 @@ components:
         "Ending Year Balance": 7.293
       - "Fiscal Year": FY12
         "Beginning Year Balance": 7.293
-        "Funds Out": -
+        "Funds Out": 0.000
         "Funds In**": (1.152)
         "Ending Year Balance": 6.141
       - "Fiscal Year": FY13
         "Beginning Year Balance": 6.141
-        "Funds Out": -
+        "Funds Out": 0.000
         "Funds In**": 2.260
         "Ending Year Balance": 8.401
       - "Fiscal Year": FY14
         "Beginning Year Balance": 8.401
-        "Funds Out": -
+        "Funds Out": 0.000
         "Funds In**": 1.088
         "Ending Year Balance": 9.489
       - "Fiscal Year": FY15
         "Beginning Year Balance": 9.489
-        "Funds Out": -
+        "Funds Out": 0.000
         "Funds In**": 1.077
         "Ending Year Balance": 10.566
       - "Fiscal Year": FY16
         "Beginning Year Balance": 10.566
-        "Funds Out": -
+        "Funds Out": 0.000
         "Funds In**": 0.433
         "Ending Year Balance": 10.999
       - "Fiscal Year": *FY17
@@ -409,4 +416,5 @@ components:
   - body: >
       *Projected
       **Includes a $4 million supplemental for the Boston Housing Authority
+
 ---
