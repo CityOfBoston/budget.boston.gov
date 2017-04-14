@@ -4,24 +4,6 @@
     {% assign first_arg = arg | append: "/" | prepend: "/" %}
   {% endif %}
 {% endfor %}
-<ul class="tabs content-section-tabs">
-  <li id="decoy" data-tab="remote" style="display:none;" class="tabs__tab">
-    <a href="#" class="tabs__tab-link"></a>
-  </li>
-  <li id="front" data-tab="local" class="tabs__tab {% if page.url == '/' %}is-active{% endif %}">
-    <a href="{{ site.url }}/" class="tabs__tab-link {% if page.url == '/' %}is-active{% endif %}">Executive Summary</a>
-  </li>
-  <li id="featured-analysis" data-tab="local" class="tabs__tab {% if first_arg == '/featured-analysis/' %}is-active{% endif %}">
-    <a href="{{ site.url }}/featured-analysis" class="tabs__tab-link {% if first_arg == '/featured-analysis/' %}is-active{% endif %}">Featured Analysis</a>
-  </li>
-  <li id="capital-projects" data-tab="local" class="tabs__tab {% if first_arg == '/capital-projects/' %}is-active{% endif %}">
-    <a href="{{ site.url }}/capital-projects" class="tabs__tab-link {% if first_arg == '/capital-projects/' %}is-active{% endif %}">Capital Projects</a>
-  </li>
-  <li id="operating-budget" data-tab="local" class="tabs__tab {% if first_arg == '/operating-budget/' %}is-active{% endif %}">
-    <a href="{{ site.url }}/operating-budget" class="tabs__tab-link {% if first_arg == '/operating-budget/' %}is-active{% endif %}">Operating Budget</a>
-  </li>
-</ul>
-
 <ul class="tab">
   <li class="tab-li tab-li-0">
     <label for="tabMenuCTRL" class="tab-li-m" aria-hidden="true">
@@ -36,34 +18,34 @@
     </label>
   </li>
   <li class="tab-li tab-li-1">
-    <label for="tabMenuCTRL" class="tab-li-m" aria-hidden="true">
-      <a href="{{ site.url }}/featured-analysis" class="tabs__tab-link {% if first_arg == '/featured-analysis/' %}is-active{% endif %}">
-        Featured Analysis
-      </a>
-    </label>
-    <label for="tabCTRL1" data-href="#citations" class="tab-li-a tab-li-a-1">
-      <a href="{{ site.url }}/featured-analysis" class="tabs__tab-link {% if first_arg == '/featured-analysis/' %}is-active{% endif %}">
-        Featured Analysis
-      </a>
-    </label>
+    <label for="tabMenuCTRL" class="tab-li-m" aria-hidden="true">Featured Analysis</label>
+    <a
+      href="{{ site.url }}/featured-analysis"
+      for="tabCTRL1"
+      data-href="#citations"
+      class="tab-li-a tab-li-a-1{% if first_arg == '/featured-analysis/' %} is-active{% endif %}"
+    >
+      Featured Analysis
+    </a>
   </li>
   <li class="tab-li tab-li-2">
-    <label for="tabMenuCTRL" class="tab-li-m" aria-hidden="true">
-      <a href="{{ site.url }}/capital-projects" class="tabs__tab-link {% if first_arg == '/capital-projects/' %}is-active{% endif %}">
-        Capital Projects
-      </a>
-    </label>
-    <label for="tabCTRL2" data-href="#proclamations" class="tab-li-a tab-li-a-2">
-      <a href="{{ site.url }}/capital-projects" class="tabs__tab-link {% if first_arg == '/capital-projects/' %}is-active{% endif %}">
-        Capital Projects
-      </a>
-    </label>
+    <label for="tabMenuCTRL" class="tab-li-m" aria-hidden="true">Capital Projects</label>
+    <a
+      href="{{ site.url }}/capital-projects"
+      for="tabCTRL2"
+      data-href="#proclamations"
+      class="tab-li-a tab-li-a-2{% if first_arg == '/capital-projects/' %} is-active{% endif %}"
+    >
+      Capital Projects
+    </a>
   </li>
   <li class="tab-li tab-li-3">
-    <a href="{{ site.url }}/operating-budget" for="tabMenuCTRL" class="tab-li-m" aria-hidden="true">
-      Operating Budget
-    </a>
-    <a href="{{ site.url }}/operating-budget" for="tabCTRL3" class="tab-li-a tab-li-a-3">
+    <label for="tabMenuCTRL" class="tab-li-m" aria-hidden="true">Operating Budget</label>
+    <a
+      href="{{ site.url }}/operating-budget"
+      for="tabCTRL3"
+      class="tab-li-a tab-li-a-3{% if first_arg == '/operating-budget/' %} is-active{% endif %}"
+    >
       Operating Budget
     </a>
   </li>
@@ -73,10 +55,5 @@
     </label>
   </li>
 </ul>
-
-
-
-
-
 
 <script src="{{ site.url }}/js/tabs.js" type="text/javascript"></script>
