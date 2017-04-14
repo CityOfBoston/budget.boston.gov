@@ -2,6 +2,9 @@
   YOUR CSS, POWERED BY STYLUS, GOES HERE
 */
 
+/**************/
+/*** Tables ***/
+/**************/
 .responsive-table {
   thead {
     tr {
@@ -37,6 +40,15 @@
     }
   }
 }
+@media (max-width: 767px) {
+.responsive-table tbody tr td:first-of-type {
+  text-align: right;
+}
+}
+
+/**************/
+/*** Charts ***/
+/**************/
 .responsive-table.chart-label {
   min-height: 65px;
   th {
@@ -44,8 +56,35 @@
   }
 }
 
-@media (max-width: 767px) {
-.responsive-table tbody tr td:first-of-type {
-  text-align: right;
+/************/
+/*** Tabs ***/
+/************/
+div#page {
+  /* Style from page--wa page--nm classes not included in API */
+  padding-top: 3.5rem;
+}
+@media (min-width: 1280px) {
+li.tab-li {
+  width: 24%;
+}
+}
+@media (min-width: 840px) {
+a.tab-li-a {
+  color: white;
+}
+a.tab-li-a:active {
+  background-color: #091F2F;
+}
+h1.hro-t {
+  padding-right: 40px;
+  padding-left: 40px;
+}
+}
+@media (max-width: 839px) {
+a.tab-li-a {
+  color: black;
+  &:active {
+    background-color: white;
+  }
 }
 }

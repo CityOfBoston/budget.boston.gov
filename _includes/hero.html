@@ -3,23 +3,61 @@
     <div class="container">
       <section class="main-content" id="content" role="main">
 
-        <div class="hero-image fullwidth">
-          <div class="hero-image-wrapper hero-image-wrapper--no-overlay">
-            <img src="/sites/all/themes/custom/boston_public/dist/img/default-hero-image.svg" />
-          </div>
-        </div>
+        {% assign args = page.url | split: '/' %}
+        {% for arg in args %}
+          {% if forloop.index == 2 %}
+            {% assign first_arg = arg | append: "/" | prepend: "/" %}
+          {% endif %}
+        {% endfor %}
+        <input
+          id="tabMenuCTRL"
+          name="tab-menu-ctrl"
+          class="tab-menu-ctrl"
+          aria-hidden="true"
+          type="checkbox">
+        </input>
+        <input
+          id="tabCTRL0"
+          {% if page.url == '/' %}checked=""{% endif %}
+          name="tab-ctrl"
+          class="tab-ctrl tab-ctrl-0"
+          aria-hidden="true"
+          type="radio">
+        </input>
+        <input
+          id="tabCTRL1"
+          {% if first_arg == '/featured-analysis/' %}checked=""{% endif %}
+          name="tab-ctrl"
+          class="tab-ctrl tab-ctrl-1"
+          aria-hidden="true"
+          type="radio">
+        </input>
+        <input
+          id="tabCTRL2"
+          {% if first_arg == '/capital-projects/' %}checked=""{% endif %}
+          name="tab-ctrl"
+          class="tab-ctrl tab-ctrl-2"
+          aria-hidden="true"
+          type="radio">
+        </input>
+        <input
+          id="tabCTRL3"
+          {% if first_arg == '/operating-budget/' %}checked=""{% endif %}
+          name="tab-ctrl"
+          class="tab-ctrl tab-ctrl-3"
+          aria-hidden="true"
+          type="radio">
+        </input>
 
-        <div class="title-wrapper">
-          <div class="title-inner-wrapper">
-            <h1 class="title-with-hero">{{ site.title }}</h1>
-            <div class="title-body supporting-text">
+        <div class="hro hro--d hro--wh b--fw">
+          <div class="hro-c b-c">
+            <h1 class="hro-t">{{ site.title }}</h1>
+            <div class="hro-st hro-st--l">
               <p>{{ site.description }}</p>
             </div>
           </div>
+          {% include tabs.html %}
         </div>
-
-        {% include tabs.html %}
-
       </section>
     </div>
   </div>
