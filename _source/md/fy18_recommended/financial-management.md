@@ -121,9 +121,7 @@ components:
       fund balance at 10% or higher than budgetary operating expenses.</p>
       <p>Budgetary fund balance is the amount of reserves, generated to a considerable degree by annual 
       operating surpluses, which are available for the City to appropriate.  The Massachusetts Department of 
-      Revenue certifies the amount of budgetary fund balance available and the City only considers an appropriation 
-      of fund balance to offset certain fixed costs (pensions, OPEB), or to fund extraordinary and non-recurring 
-      events as determined by the City Auditor.</p>
+      Revenue certifies the amount of budgetary fund balance available and the City only considers an appropriation of fund balance to offset certain fixed costs (pensions, OPEB), or to fund extraordinary and non-recurring events as determined by the City Auditor.</p>
   - col: >
       <h5>Investment Policy</h5>
       <p>Defined in Ch.643 of the Acts of 1983 (“The City of Boston Bond and Minibond Procedure Act”), Ch.107 
@@ -132,16 +130,13 @@ components:
       protocols to ensure sound, timely, and safe investment decisions. The City limits its investments to 
       repurchase agreements, money markets, and certificates of deposit as a matter of practice, collateralized 
       by U.S. Government obligations and held with a third party.</p>
-  - col: >
       <h5>Debt Management</h5>
       <p>Debt issuance is evaluated for its effect on statutory debt capacity and cash flow.  Conservative debt 
       policies include the rapid repayment of debt, where at least 40% of debt is repaid within 5 years and 70% 
-      in 10 years, as well as a 7% ceiling on debt service as a percentage of general fund expenditures. The 
-      City imposes a 20% ceiling on variable debt and has no variable debt outstanding.  Lease purchase financing 
-      of equipment with a three-to-seven year useful life is used to replace front-line equipment and upgrade 
-      technology.</p>
-- text_col_2:
+      in 10 years, as well as a 7% ceiling on debt service as a percentage of general fund expenditures.</p>
   - col: >
+      <br>
+      <p>The City imposes a 20% ceiling on variable debt and has no variable debt outstanding. Lease purchase financing of equipment with a three-to-seven year useful life is used to replace front-line equipment and upgrade technology.</p>
       <h5>Capital Planning</h5>
       <p>A capital planning process aligned with the annual operating budget cycle allows for the regular 
       reassessment of capital needs, the refinement of projections, and the update of the City’s rolling 
@@ -150,50 +145,28 @@ components:
       <p>The City primarily funds its capital plan through the issuance of general obligation bonds. The size 
       of the City’s bond issue is consistent with the City’s financial management policies debt level and 
       debt service.</p>
+- text_col_2:
   - col: >
       <h5>Contracting Procedures</h5>
-      <p>The Uniform Procurement Act (the UPA), or MGL Ch.30B, creates uniform procedures for contracting services 
-      and supplies. The City’s contracting procedures conform to UPA requirements and an eProcurement system supports 
-      these efforts.</p>
-- text_col_2:
-  - col: >  
+      <p>The Uniform Procurement Act (the UPA), or MGL Ch.30B, creates uniform procedures for contracting services and supplies. The City’s contracting procedures conform to UPA requirements and an eProcurement system supports these efforts.</p>
       <h5>Expenditure Controls</h5>
-      <p>Tight central expenditure controls allow for critical review of all non-personnel spending and the 
-      flexibility to adjust to fiscal changes or trends.  Spending is monitored on a monthly basis and the City’s 
-      projected year-end position is updated using actual information.  Combined with conservative revenue estimates, 
-      the City maintains a solid financial position.</p>
+      <p>Tight central expenditure controls allow for critical review of all non-personnel spending and the flexibility to adjust to fiscal changes or trends.  Spending is monitored on a monthly basis and the City’s projected year-end position is updated using actual information.  Combined with conservative revenue estimates, the City maintains a solid financial position.</p>
       <h5>Position Review Committee (PRC)</h5>
-      <p>The PRC, comprised of the City’s Chief Financial Officer, the Human Resources Director, and the City’s Budget 
-      Director, is instrumental in maximizing resources in a budget where people and the benefits they carry account 
-      for over three quarters of the City’s total appropriation.</p>
+      <p>The PRC, comprised of the City’s Chief Financial Officer, the Human Resources Director, and the City’s Budget Director, is instrumental in maximizing resources in a budget where people and the benefits they carry account for over three quarters of the City’s total appropriation.</p>
   - col: >
       <h5>Risk Management</h5>
-      <p>Through internal claims management, departmental accountability, and a structured self-insurance program, 
-      the City’s risk management strategy focuses on reducing the cost of third party liabilities, worker injuries, 
-      employee healthcare costs, and property damages.  MGL Ch.258 caps legal liabilities and Corporation Counsel 
-      defends the City in lawsuits that arise from the normal course of operations.</p>
-      <p>A self-insurance program budgets for predictable levels of risk-related costs through the general fund, except 
-      for self-insured health care costs financed through trust funds established under MGL Ch.32b S.3A.  The City also 
-      carries a catastrophic property insurance policy and maintains a catastrophic risk reserve for unexpected large 
-      losses.</p>
+      <p>Through internal claims management, departmental accountability, and a structured self-insurance program, the City’s risk management strategy focuses on reducing the cost of third party liabilities, worker injuries, employee healthcare costs, and property damages.  MGL Ch.258 caps legal liabilities and Corporation Counsel defends the City in lawsuits that arise from the normal course of operations.</p>
+      <p>A self-insurance program budgets for predictable levels of risk-related costs through the general fund, except for self-insured health care costs financed through trust funds established under MGL Ch.32b S.3A.  The City also carries a catastrophic property insurance policy and maintains a catastrophic risk reserve for unexpected large losses.</p>
 - text_col_3:
   - col: >
       <h5>Reserve</h5>
-      <p>Per law, the City maintains a reserve fund equal to 2 1/2% of the preceding year’s appropriations for all 
-      City departments except the School Department.  The reserve may be used for extraordinary and unforeseen 
-      expenditures after June 1 in any fiscal year with the approval of the Mayor and the City Council.  This 
-      reserve has not been utilized to date.</p>
+      <p>Per law, the City maintains a reserve fund equal to 2 1/2% of the preceding year’s appropriations for all City departments except the School Department.  The reserve may be used for extraordinary and unforeseen expenditures after June 1 in any fiscal year with the approval of the Mayor and the City Council. This reserve has not been utilized to date.</p>
   - col: >
       <h5>External Audit/Management Letters</h5>
-      <p>The City consistently receives unqualified opinions on the audit of its Basic Financial Statements and 
-      the Certificate of Achievement for Excellence in Financial Reporting from the Government Finance Officers 
-      Association for its Comprehensive Annual Financial Report.  The City’s independent auditors also deliver a 
-      yearly management letter containing comments and recommendations on internal financial controls.</p>
+      <p>The City consistently receives unqualified opinions on the audit of its Basic Financial Statements and the Certificate of Achievement for Excellence in Financial Reporting from the Government Finance Officers Association for its Comprehensive Annual Financial Report.  The City’s independent auditors also deliver a yearly management letter containing comments and recommendations on internal financial controls.</p>
   - col: >
       <h5>Financial Accounting Systems</h5>
-      <p>The Boston Administrative Information System (BAIS), an integrated financial and human resources management 
-      system, supports financial management and improves operational efficiency. These systems support the rigorous 
-      monitoring and reporting requirements enforced by the City.</p>
+      <p>The Boston Administrative Information System (BAIS), an integrated financial and human resources management system, supports financial management and improves operational efficiency. These systems support the rigorous monitoring and reporting requirements enforced by the City.</p>
 - text_block:
   - title: Financial Management Programs
 - text_col_2:
@@ -295,22 +268,22 @@ components:
         "Funds Out": (6.500)**
         "Funds In": 14.397
         "Ending Year Balance": 110.294
-      - "Fiscal Year": *FY17
+      - "Fiscal Year": FY17*
         "Beginning Year Balance": 110.294
         "Funds Out": (37.500)***
         "Funds In": 22.139
         "Ending Year Balance": 94.932
-      - "Fiscal Year": *FY18
+      - "Fiscal Year": FY18*
         "Beginning Year Balance": 94.932
         "Funds Out": (67.885)****
         "Funds In": 17.500
         "Ending Year Balance": 44.547
 - text_block: 
   - body: >
-      *Projected
-      **Includes $6.5 milllion capital expenditure
-      ***Includes $15 million capital expenditure
-      ****Includes $45.4 million capital expenditure
+      *Projected<br>
+      **Includes $6.5 milllion capital expenditure<br>
+      ***Includes $15 million capital expenditure<br>
+      ****Includes $45.4 million capital expenditure<br>
 - table:
   - title: Cemetery Trust Fund
     right_text: (dollars in millions)
@@ -350,19 +323,19 @@ components:
         "Funds Out": 0.000
         "Funds In**": 0.433
         "Ending Year Balance": 10.999
-      - "Fiscal Year": *FY17
+      - "Fiscal Year": FY17*
         "Beginning Year Balance": 10.999
         "Funds Out": (0.950)
         "Funds In**": 1.000
         "Ending Year Balance": 11.049
-      - "Fiscal Year": *FY18
+      - "Fiscal Year": FY18*
         "Beginning Year Balance": 11.049
         "Funds Out": (0.950)
         "Funds In**": 1.000
         "Ending Year Balance": 11.099
 - text_block: 
   - body: >
-      *Projected
+      *Projected<br>
       **Includes investment return
 - table:
   - title: Surplus Property Disposition Fund
@@ -403,19 +376,18 @@ components:
         "Funds Out": 0.000
         "Funds In": 1.742
         "Ending Year Balance": 17.027
-      - "Fiscal Year": *FY17
+      - "Fiscal Year": FY17*
         "Beginning Year Balance": 17.027
         "Funds Out": (4.000)**
         "Funds In": 1.145
         "Ending Year Balance": 14.172
-      - "Fiscal Year": *FY18
+      - "Fiscal Year": FY18*
         "Beginning Year Balance": 14.172
         "Funds Out": 0.000
         "Funds In": 1.145
         "Ending Year Balance": 15.317
 - text_block: 
   - body: >
-      *Projected
+      *Projected<br>
       **Includes a $4 million supplemental for the Boston Housing Authority
-
 ---
