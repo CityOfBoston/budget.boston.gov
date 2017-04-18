@@ -86,7 +86,6 @@ if (document.getElementById("aggregateBarChart")) {
         k++;
       }
     }
-if (chartData.length > 1) {
     var myChart = new Chart(barChartContext, {
       type: 'horizontalBar',
       data: {
@@ -117,6 +116,5 @@ if (chartData.length > 1) {
         },
       }
     });
-}
   }
 }

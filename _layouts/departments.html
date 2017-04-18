@@ -138,11 +138,7 @@ layout: bos_wrapper
         ></canvas>
       </div>
     </div>
-    {% if page.operating_budget.data.size > 2 %}
-    yay
-    {% else %}
-    nay
-    {% endif %}
+  {% if page.operating_budget.data.size > 2 %}
     <div class="desktop-50">
       <div id="aggregateBarChart-wrapper">
         <table class="responsive-table chart-label"><th>{{ page.name }} FY18<br>Operating Budget by Program</th>
@@ -196,6 +192,10 @@ layout: bos_wrapper
   {% endfor %}
   </div>
   <br />
+  {% else %}
+    </div>
+    <br />
+  {% endif %}
 {% endif %}
 
 {% if page.department_history_by_account %}
