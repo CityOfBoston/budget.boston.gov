@@ -39,7 +39,15 @@ layout: bos_wrapper
 
 <div class="body">
   {% for paragraph in page.overview %}
-    <p>{{ paragraph }}</p>
+    {% if paragraph.bullets %}
+      <ul>
+        {% for bullet in paragraph.bullets %}
+          <li>{{ bullet }}</li>
+        {% endfor %}
+      </ul>
+    {% else %}
+      <p>{{ paragraph }}</p>
+    {% endif %}
   {% endfor %}
 </div>
 
