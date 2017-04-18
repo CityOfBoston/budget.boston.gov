@@ -32,6 +32,11 @@ if (document.getElementById("lineChart")) {
         }]
       },
       options: {
+        elements: {
+          line: {
+            tension: 0
+          }
+        },
         legend: {
           display: false
         },
