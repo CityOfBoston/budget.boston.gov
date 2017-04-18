@@ -104,6 +104,7 @@ if (document.getElementById("aggregateBarChart")) {
         scales: {
           xAxes: [{
             ticks: {
+              suggestedMax: 100,
               userCallback: function(value, index, values) {
                 // Convert the number to a string and splite the string every 3 charaters from the end
                 value = value.toString();
