@@ -32,13 +32,26 @@ if (document.getElementById("lineChart")) {
         }]
       },
       options: {
+        elements: {
+          line: {
+            tension: 0
+          }
+        },
         legend: {
           display: false
         },
         scales: {
           yAxes: [{
             ticks: {
-              beginAtZero: true
+              beginAtZero: true,
+              suggestedMax: 100,
+              userCallback: function(value, index, values) {
+                // Convert the number to a string and splite the string every 3 charaters from the end
+                value = value.toString();
+                value = value.split(/(?=(?:...)*$)/);
+                value = value.join(',');
+                return value;
+              }
             }
           }]
         },
@@ -73,8 +86,6 @@ if (document.getElementById("aggregateBarChart")) {
         k++;
       }
     }
-    console.log(chartLabels);
-    console.log(chartData);
     var myChart = new Chart(barChartContext, {
       type: 'horizontalBar',
       data: {
@@ -90,10 +101,21 @@ if (document.getElementById("aggregateBarChart")) {
         legend: {
           display: false
         },
+        scales: {
+          xAxes: [{
+            ticks: {
+              suggestedMax: 100,
+              userCallback: function(value, index, values) {
+                // Convert the number to a string and splite the string every 3 charaters from the end
+                value = value.toString();
+                value = value.split(/(?=(?:...)*$)/);
+                value = value.join(',');
+                return value;
+              }
+            }
+          }]
+        },
       }
     });
   }
 }
-
-//document.getElementById("aggregateBarChart-wrapper").style.margin = '0 0 0 15px';
-//document.getElementById("totalLineChart-wrapper").style.margin = '0 15px 0 0';
