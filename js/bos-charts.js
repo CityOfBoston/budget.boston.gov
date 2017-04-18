@@ -10,6 +10,7 @@ if (document.getElementById("lineChart")) {
     var lineChartTitle = lineCharts[i].getAttribute("data-title");
     var lineChartDataString = lineCharts[i].getAttribute("data");
     var lineChartData = lineChartDataString.split(",");
+    //var lineChartMax = Math.max.apply(Math, lineChartData);
     lineCharts[i].style.backgroundColor = '#F2F2F2';
     lineCharts[i].style.padding = '20px';
     if ( lineCharts[i].getAttribute("large") ) {
@@ -38,7 +39,15 @@ if (document.getElementById("lineChart")) {
         scales: {
           yAxes: [{
             ticks: {
-              beginAtZero: true
+              beginAtZero: true,
+              //max: lineChartMax,
+              userCallback: function(value, index, values) {
+                // Convert the number to a string and splite the string every 3 charaters from the end
+                value = value.toString();
+                value = value.split(/(?=(?:...)*$)/);
+                value = value.join(',');
+                return value;
+              }
             }
           }]
         },
@@ -89,6 +98,19 @@ if (document.getElementById("aggregateBarChart")) {
       options: {
         legend: {
           display: false
+        },
+        scales: {
+          xAxes: [{
+            ticks: {
+              userCallback: function(value, index, values) {
+                // Convert the number to a string and splite the string every 3 charaters from the end
+                value = value.toString();
+                value = value.split(/(?=(?:...)*$)/);
+                value = value.join(',');
+                return value;
+              }
+            }
+          }]
         },
       }
     });
