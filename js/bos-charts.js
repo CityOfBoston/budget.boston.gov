@@ -86,8 +86,7 @@ if (document.getElementById("aggregateBarChart")) {
         k++;
       }
     }
-    console.log(chartLabels);
-    console.log(chartData);
+if (chartData.length > 1) {
     var myChart = new Chart(barChartContext, {
       type: 'horizontalBar',
       data: {
@@ -118,8 +117,6 @@ if (document.getElementById("aggregateBarChart")) {
         },
       }
     });
+}
   }
 }
-
-//document.getElementById("aggregateBarChart-wrapper").style.margin = '0 0 0 15px';
-//document.getElementById("totalLineChart-wrapper").style.margin = '0 15px 0 0';
