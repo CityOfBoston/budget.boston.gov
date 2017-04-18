@@ -35,6 +35,8 @@
             <td data-label="{{ column[0] }}">{{ column[1].value | thousands_separated }}</td>
           {% elsif column[1].filter == 'percent' %}
             <td data-label="{{ column[0] }}">{{ column[1].value | append: "%" }}</td>
+          {% elsif column[1].align == 'left' %}
+            <td data-label="{{ column[0] }}" class="td-left">{{ column[1].value }}</td>
           {% elsif column[0] != 'total' %}
             <td data-label="{{ column[0] }}">{{ column[1] }}</td>
           {% endif %}

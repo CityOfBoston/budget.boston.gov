@@ -26,7 +26,8 @@
         background-color: #F2F2F2;
       }
       td {
-        &:first-of-type {
+        &:first-of-type,
+        &.td-left {
           text-align: left;
           font-style: italic;
         }
@@ -41,7 +42,8 @@
   }
 }
 @media (max-width: 767px) {
-.responsive-table tbody tr td:first-of-type {
+.responsive-table tbody tr td:first-of-type,
+.responsive-table tbody tr td.td-left {
   text-align: right;
 }
 }
