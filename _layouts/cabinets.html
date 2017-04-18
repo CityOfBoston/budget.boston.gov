@@ -39,7 +39,15 @@ layout: bos_wrapper
 
 <div class="body">
   {% for paragraph in page.overview %}
-    <p>{{ paragraph }}</p>
+    {% if paragraph.bullets %}
+      <ul>
+        {% for bullet in paragraph.bullets %}
+          <li>{{ bullet }}</li>
+        {% endfor %}
+      </ul>
+    {% else %}
+      <p>{{ paragraph }}</p>
+    {% endif %}
   {% endfor %}
 </div>
 
@@ -96,9 +104,9 @@ layout: bos_wrapper
 <br /><br />
 
 {% comment %}
-**********************
+*************************
 *** Department Charts ***
-**********************
+*************************
 {% endcomment %}
 <div class="sh desktop-100">
   <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
@@ -138,6 +146,7 @@ layout: bos_wrapper
     ></canvas>
   </div>
 </div>
+{% if page.operating_department.data.size > 2 %}
 <div class="desktop-50">
   <div id="aggregateBarChart-wrapper">
     <table class="responsive-table chart-label">
@@ -194,6 +203,9 @@ layout: bos_wrapper
   {% endif %}
 {% endfor %}
 </div>
+{% else %}
+</div>
+{% endif %}
 <br /><br />
 
 {% if page.external_funds_tables %}

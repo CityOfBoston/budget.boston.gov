@@ -27,19 +27,58 @@ layout: bos_wrapper
       </p>
     </div>
     <div>
-      <strong>{{ page.category }}:</strong>
-      {{ page.category_desc }}
+      <strong>{{ page.category }}:</strong> {{ page.category_desc }}<br />
+      <strong>Location:</strong> {{ page.location }}<br />
+      <strong>Status:</strong> {{ page.status }}<br />
+      <strong>Managing Department:</strong> {{ page.managing_department }}<br />
+      <strong>Operating Impact:</strong> {{ page.operating_impact }}
     </div>
   </div>
   {% include sidebar_menu.html %}
 </div>
 
-<div>
-<strong>Location:</strong> {{ page.location }}<br />
-<strong>Status:</strong> {{ page.status }}<br />
-<strong>Managing Department:</strong> {{ page.managing_department }}<br />
-<strong>Operating Impact:</strong> {{ page.operating_impact }}
+<br />
+
+<div class="sh desktop-100">
+  <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
+   Authorizations 
+  </h2>
+  <div class="sh-contact">
+    <a href="{{ site.url }}/capital-projects/{{ page.department | replace: "'","" | slugify }}">
+      Back to {{ page.department }}
+    </a>
+  </div>
 </div>
+<br />
+<table class="responsive-table responsive-table--horizontal">
+  <thead>
+    <tr>
+      <th>{{ page.expenditures_detail.authorizations_table.table_header.source }}</th>
+      <th>{{ page.expenditures_detail.authorizations_table.table_header.existing }}</th>
+      <th>{{ page.expenditures_detail.authorizations_table.table_header.fy-0 }}</th>
+      <th>{{ page.expenditures_detail.authorizations_table.table_header["fy-0++"] }}</th>
+      <th>{{ page.expenditures_detail.authorizations_table.table_header.other }}</th>
+      <th>{{ page.expenditures_detail.authorizations_table.table_header.total }}</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for row in page.expenditures_detail.authorizations_table.data %}
+      {% if row.line_type == "total" %}
+      <tr class="total">
+      {% else %}
+      <tr>
+      {% endif %}
+        <td data-label="{{ page.expenditures_detail.authorizations_table.table_header.source }}">{{ row.source }}</td>
+        <td data-label="{{ page.expenditures_detail.authorizations_table.table_header.existing }}">{{ row.existing | thousands_separated }}</td>
+        <td data-label="{{ page.expenditures_detail.authorizations_table.table_header.fy-0 }}">{{ row.fy-0 | thousands_separated }}</td>
+        <td data-label="{{ page.expenditures_detail.authorizations_table.table_header['fy-0++'] }}">{{ row["fy-0++"] | thousands_separated }}</td>
+        <td data-label="{{ page.expenditures_detail.authorizations_table.table_header.other }}">{{ row.other | thousands_separated }}</td>
+        <td data-label="{{ page.expenditures_detail.authorizations_table.table_header.total }}">{{ row.total | thousands_separated }}</td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
+<br />
 <br />
 
 <div class="sh desktop-100">
@@ -83,43 +122,7 @@ layout: bos_wrapper
 </table>
 <br />
 
-<div class="sh desktop-100">
-  <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
-   Authorizations 
-  </h2>
-  <div class="sh-contact">
-    <a href="{{ site.url }}/capital-projects/{{ page.department | replace: "'","" | slugify }}">
-      Back to {{ page.department }}
-    </a>
-  </div>
-</div>
-<br />
-<table class="responsive-table responsive-table--horizontal">
-  <thead>
-    <tr>
-      <th>{{ page.expenditures_detail.authorizations_table.table_header.source }}</th>
-      <th>{{ page.expenditures_detail.authorizations_table.table_header.existing }}</th>
-      <th>{{ page.expenditures_detail.authorizations_table.table_header.fy-0 }}</th>
-      <th>{{ page.expenditures_detail.authorizations_table.table_header["fy-0++"] }}</th>
-      <th>{{ page.expenditures_detail.authorizations_table.table_header.other }}</th>
-      <th>{{ page.expenditures_detail.authorizations_table.table_header.total }}</th>
-    </tr>
-  </thead>
-  <tbody>
-    {% for row in page.expenditures_detail.authorizations_table.data %}
-      {% if row.line_type == "total" %}
-      <tr class="total">
-      {% else %}
-      <tr>
-      {% endif %}
-        <td data-label="{{ page.expenditures_detail.authorizations_table.table_header.source }}">{{ row.source }}</td>
-        <td data-label="{{ page.expenditures_detail.authorizations_table.table_header.existing }}">{{ row.existing | thousands_separated }}</td>
-        <td data-label="{{ page.expenditures_detail.authorizations_table.table_header.fy-0 }}">{{ row.fy-0 | thousands_separated }}</td>
-        <td data-label="{{ page.expenditures_detail.authorizations_table.table_header['fy-0++'] }}">{{ row["fy-0++"] | thousands_separated }}</td>
-        <td data-label="{{ page.expenditures_detail.authorizations_table.table_header.other }}">{{ row.other | thousands_separated }}</td>
-        <td data-label="{{ page.expenditures_detail.authorizations_table.table_header.total }}">{{ row.total | thousands_separated }}</td>
-      </tr>
-    {% endfor %}
-  </tbody>
-</table>
-<br />
+<a href="{{ site.url }}//capital-projects/{{ page.category | replace: "'","" | slugify }}" class="button">
+Go back to {{ page.category }} projects
+</a>
+<br /><br />
