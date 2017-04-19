@@ -4,9 +4,9 @@
       <picture>
         <!--[if IE 9]><video style="display: none;"><![endif]-->
         <source srcset="{{ site.url }}{{ include.arg[0].src }} 1x" media="(min-width: 1440px)">
-        <source srcset="{{ site.url }}{{ include.arg[0].src }} 1x, {{ include.arg[0].src }} 2x" media="(min-width: 768px)">
-        <source srcset="{{ site.url }}{{ include.arg[0].src }} 1x, {{ include.arg[0].src }} 2x" media="(min-width: 480px)">
-        <source srcset="{{ site.url }}{{ include.arg[0].src }} 1x, {{ include.arg[0].src }} 2x" media="(min-width: 0px)">
+        <source srcset="{{ site.url }}{{ include.arg[0].src }} 1x, {{ site.url }}{{ include.arg[0].src }} 2x" media="(min-width: 768px)">
+        <source srcset="{{ site.url }}{{ include.arg[0].src }} 1x, {{ site.url }}{{ include.arg[0].src }} 2x" media="(min-width: 480px)">
+        <source srcset="{{ site.url }}{{ include.arg[0].src }} 1x, {{ site.url }}{{ include.arg[0].src }} 2x" media="(min-width: 0px)">
         <!--[if IE 9]></video><![endif]-->
         <img src="{{ site.url }}{{ include.arg[0].src }}" alt="{{ include.arg[0].alt }}" title="{{ include.arg[0].title }}">
       </picture>
