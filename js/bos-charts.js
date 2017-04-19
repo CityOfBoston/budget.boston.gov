@@ -10,6 +10,9 @@ if (document.getElementById("lineChart")) {
     var lineChartTitle = lineCharts[i].getAttribute("data-title");
     var lineChartDataString = lineCharts[i].getAttribute("data");
     var lineChartData = lineChartDataString.split(",");
+    var lineChartDataMaxString = lineCharts[i].getAttribute("data-max");
+    var lineChartDataMax = parseInt(lineChartDataMaxString);
+    console.log(lineChartDataMax);
     lineCharts[i].style.backgroundColor = '#F2F2F2';
     lineCharts[i].style.padding = '20px';
     if ( lineCharts[i].getAttribute("large") ) {
@@ -44,6 +47,7 @@ if (document.getElementById("lineChart")) {
           yAxes: [{
             ticks: {
               beginAtZero: true,
+              max: lineChartDataMax,
               suggestedMax: 100,
               userCallback: function(value, index, values) {
                 // Convert the number to a string and splite the string every 3 charaters from the end
