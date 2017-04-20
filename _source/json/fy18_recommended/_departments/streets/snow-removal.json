@@ -12,8 +12,8 @@
   "parent":"Streets",
   "cabinet":"Streets",
   "department":"Snow Removal",
-  "head_name":Null,
-  "head_title":Null,
+  "head_name":"",
+  "head_title":"",
   "appropriation_code":"Appropriation 331",
   "mission":[
     "The Snow Removal appropriation supports the City of Boston's efforts to clear ice and snow from Boston streets and property. Snow removal is done by City personnel supplemented and assisted by private contractors."

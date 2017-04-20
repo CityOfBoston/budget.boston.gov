@@ -12,8 +12,8 @@
   "parent":"Administration and Finance",
   "cabinet":"Administration and Finance",
   "department":"Unemployment Compensation",
-  "head_name":Null,
-  "head_title":Null,
+  "head_name":"",
+  "head_title":"",
   "appropriation_code":"Appropriation 199",
   "mission":[
     "The Unemployment Compensation appropriation provides funds to carry out provisions of the Massachusetts Unemployment Security Law, MGLA c. 151A, as it pertains to former City and County employees. The appropriation facilitates payment of unemployment claims."
