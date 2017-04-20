@@ -1,5 +1,6 @@
 ---
 {
+  "publish_subordinates":true,
   "cabinet":"Non-Mayoral Departments",
   "department":"City Council",
   "file_version":"0.10",

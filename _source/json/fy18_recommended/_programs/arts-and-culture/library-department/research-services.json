@@ -1,5 +1,6 @@
 ---
 {
+  "publish_subordinates":true,
   "cabinet":"Arts and Culture",
   "department":"Library Department",
   "file_version":"0.10",

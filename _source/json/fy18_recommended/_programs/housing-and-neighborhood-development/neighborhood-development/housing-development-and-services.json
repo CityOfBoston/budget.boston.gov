@@ -1,5 +1,6 @@
 ---
 {
+  "publish_subordinates":true,
   "cabinet":"Housing and Neighborhood Development",
   "department":"Neighborhood Development",
   "file_version":"0.10",

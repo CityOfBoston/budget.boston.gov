@@ -1,6 +1,7 @@
 ---
 {
   "debug":"JBD",
+  "publish_subordinates":true,
   "file_version":"0.10",
   "section_id":3,
   "section_md5_id":"ECCBC87E4B5CE2FE28308FD9F2A7BAF3",
@@ -55,7 +56,8 @@
         "fy-2":17644624,
         "fy-1":18709845,
         "fy-0":17260122,
-        "fy+1":18584106
+        "fy+1":18584106,
+        "publish_subordinates":true
       },
       {
         "name":"Community Library Services",
@@ -63,7 +65,8 @@
         "fy-2":13683174,
         "fy-1":14425177,
         "fy-0":15069249,
-        "fy+1":15743358
+        "fy+1":15743358,
+        "publish_subordinates":true
       },
       {
         "name":"Research Services",
@@ -71,7 +74,8 @@
         "fy-2":1963176,
         "fy-1":1727496,
         "fy-0":2172365,
-        "fy+1":1703023
+        "fy+1":1703023,
+        "publish_subordinates":true
       },
       {
         "name":"Total",
@@ -102,7 +106,8 @@
         "fy-2":541207,
         "fy-1":618834,
         "fy-0":1012748,
-        "fy+1":1021486
+        "fy+1":1021486,
+        "publish_subordinates":true
       },
       {
         "name":"Inter-Library Loan Grant",
@@ -110,7 +115,8 @@
         "fy-2":100000,
         "fy-1":100000,
         "fy-0":100000,
-        "fy+1":100000
+        "fy+1":100000,
+        "publish_subordinates":true
       },
       {
         "name":"Library for the Commonwealth",
@@ -118,7 +124,8 @@
         "fy-2":2501881,
         "fy-1":2501882,
         "fy-0":2501882,
-        "fy+1":2501883
+        "fy+1":2501883,
+        "publish_subordinates":true
       },
       {
         "name":"Other Sources",
@@ -126,7 +133,8 @@
         "fy-2":2217317,
         "fy-1":3354004,
         "fy-0":2468835,
-        "fy+1":2580365
+        "fy+1":2580365,
+        "publish_subordinates":true
       },
       {
         "name":"State Aid to Libraries",
@@ -134,7 +142,8 @@
         "fy-2":553733,
         "fy-1":782792,
         "fy-0":679275,
-        "fy+1":678874
+        "fy+1":678874,
+        "publish_subordinates":true
       },
       {
         "name":"Trust Fund Income",
@@ -142,7 +151,8 @@
         "fy-2":2030961,
         "fy-1":2260134,
         "fy-0":2210989,
-        "fy+1":1960732
+        "fy+1":1960732,
+        "publish_subordinates":true
       },
       {
         "name":"Total",

@@ -1,5 +1,6 @@
 ---
 {
+  "publish_subordinates":false,
   "cabinet":"Economic Development",
   "department":"Licensing Board",
   "file_version":"0.10",

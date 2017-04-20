@@ -1,6 +1,7 @@
 ---
 {
   "debug":"JBD",
+  "publish_subordinates":true,
   "file_version":"0.10",
   "section_id":31,
   "section_md5_id":"C16A5320FA475530D9583C34FD356EF5",
@@ -66,7 +67,8 @@
         "fy-2":1913600,
         "fy-1":1234445,
         "fy-0":1620680,
-        "fy+1":1711502
+        "fy+1":1711502,
+        "publish_subordinates":true
       },
       {
         "name":"Real Estate Management and Sales",
@@ -74,7 +76,8 @@
         "fy-2":1775390,
         "fy-1":1782889,
         "fy-0":1554227,
-        "fy+1":1616592
+        "fy+1":1616592,
+        "publish_subordinates":true
       },
       {
         "name":"Housing Development and Services",
@@ -82,7 +85,8 @@
         "fy-2":716906,
         "fy-1":7846242,
         "fy-0":9788275,
-        "fy+1":9797521
+        "fy+1":9797521,
+        "publish_subordinates":true
       },
       {
         "name":"Business Services",
@@ -90,7 +94,8 @@
         "fy-2":562366,
         "fy-1":680479,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Total",
@@ -121,7 +126,8 @@
         "fy-2":1679,
         "fy-1":26000,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"ARRA - Neighborhood Stabilization Program",
@@ -129,7 +135,8 @@
         "fy-2":97101,
         "fy-1":340400,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"BRA/HODAG Program Income",
@@ -137,7 +144,8 @@
         "fy-2":2866357,
         "fy-1":0,
         "fy-0":412832,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Brownfields Economic Development Initiative",
@@ -145,7 +153,8 @@
         "fy-2":157849,
         "fy-1":97145,
         "fy-0":50334,
-        "fy+1":50334
+        "fy+1":50334,
+        "publish_subordinates":true
       },
       {
         "name":"CDBG",
@@ -153,7 +162,8 @@
         "fy-2":17159535,
         "fy-1":22349852,
         "fy-0":45542099,
-        "fy+1":18578341
+        "fy+1":18578341,
+        "publish_subordinates":true
       },
       {
         "name":"Choice Neighborhood Implementation Grant",
@@ -161,7 +171,8 @@
         "fy-2":1589852,
         "fy-1":3067674,
         "fy-0":1103999,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Community Challenge Planning Grant",
@@ -169,7 +180,8 @@
         "fy-2":1041635,
         "fy-1":123340,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Continuum of Care",
@@ -177,7 +189,8 @@
         "fy-2":20830905,
         "fy-1":21550104,
         "fy-0":25353135,
-        "fy+1":24243260
+        "fy+1":24243260,
+        "publish_subordinates":true
       },
       {
         "name":"Emergency Solutions Grant",
@@ -185,7 +198,8 @@
         "fy-2":1194278,
         "fy-1":1413450,
         "fy-0":1451394,
-        "fy+1":1434653
+        "fy+1":1434653,
+        "publish_subordinates":true
       },
       {
         "name":"EPA/Brownfields",
@@ -193,7 +207,8 @@
         "fy-2":194930,
         "fy-1":29852,
         "fy-0":133333,
-        "fy+1":133333
+        "fy+1":133333,
+        "publish_subordinates":true
       },
       {
         "name":"HOME",
@@ -201,7 +216,8 @@
         "fy-2":3349572,
         "fy-1":3719181,
         "fy-0":4562373,
-        "fy+1":4248201
+        "fy+1":4248201,
+        "publish_subordinates":true
       },
       {
         "name":"HomeCorp",
@@ -209,7 +225,8 @@
         "fy-2":320330,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"HOPWA",
@@ -217,7 +234,8 @@
         "fy-2":1791706,
         "fy-1":1915264,
         "fy-0":2698528,
-        "fy+1":2019112
+        "fy+1":2019112,
+        "publish_subordinates":true
       },
       {
         "name":"Housing 2030",
@@ -225,7 +243,8 @@
         "fy-2":0,
         "fy-1":2472088,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Inclusionary Development Fund",
@@ -233,7 +252,8 @@
         "fy-2":2838679,
         "fy-1":6608256,
         "fy-0":10646636,
-        "fy+1":10025000
+        "fy+1":10025000,
+        "publish_subordinates":true
       },
       {
         "name":"Lead Paint Abatement",
@@ -241,7 +261,8 @@
         "fy-2":1250983,
         "fy-1":987552,
         "fy-0":1239898,
-        "fy+1":1290473
+        "fy+1":1290473,
+        "publish_subordinates":true
       },
       {
         "name":"Neighborhood Development Fund",
@@ -249,7 +270,8 @@
         "fy-2":670920,
         "fy-1":0,
         "fy-0":1429000,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Neighborhood Stabilization Program (State)",
@@ -257,7 +279,8 @@
         "fy-2":297785,
         "fy-1":142629,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"OBD EDI EMP/Non EMP",
@@ -265,7 +288,8 @@
         "fy-2":280000,
         "fy-1":11106,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Regional Foreclosure Education Grant (COM)",
@@ -273,7 +297,8 @@
         "fy-2":33451,
         "fy-1":118810,
         "fy-0":145353,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Section 108 (Boston Invests in Growth II)",
@@ -281,7 +306,8 @@
         "fy-2":0,
         "fy-1":43664,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Section 108 (Unrestricted)",
@@ -289,7 +315,8 @@
         "fy-2":559472,
         "fy-1":456023,
         "fy-0":67025,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Triple Decker Initiative",
@@ -297,7 +324,8 @@
         "fy-2":166573,
         "fy-1":38237,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Total",

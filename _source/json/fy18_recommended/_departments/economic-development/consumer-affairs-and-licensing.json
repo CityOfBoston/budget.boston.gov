@@ -1,6 +1,7 @@
 ---
 {
   "debug":"JBD",
+  "publish_subordinates":true,
   "file_version":"0.10",
   "section_id":7,
   "section_md5_id":"8F14E45FCEEA167A5A36DEDD4BEA2543",
@@ -53,7 +54,8 @@
         "fy-2":375410,
         "fy-1":292666,
         "fy-0":362462,
-        "fy+1":362493
+        "fy+1":362493,
+        "publish_subordinates":true
       },
       {
         "name":"Consumer Affairs",
@@ -61,7 +63,8 @@
         "fy-2":84520,
         "fy-1":86606,
         "fy-0":101075,
-        "fy+1":100571
+        "fy+1":100571,
+        "publish_subordinates":true
       },
       {
         "name":"Licensing Board",
@@ -69,7 +72,8 @@
         "fy-2":0,
         "fy-1":0,
         "fy-0":713490,
-        "fy+1":653664
+        "fy+1":653664,
+        "publish_subordinates":true
       },
       {
         "name":"Total",
@@ -100,7 +104,8 @@
         "fy-2":54437,
         "fy-1":51916,
         "fy-0":52000,
-        "fy+1":52000
+        "fy+1":52000,
+        "publish_subordinates":true
       },
       {
         "name":"Total",

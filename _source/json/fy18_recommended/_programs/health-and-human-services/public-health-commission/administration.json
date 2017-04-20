@@ -1,11 +1,12 @@
 ---
 {
+  "publish_subordinates":true,
   "cabinet":"Health and Human Services",
   "department":"Public Health Commission",
   "file_version":"0.10",
   "head_name":"Monica Valdes Lupi",
   "head_title":"Executive Director",
-  "name":"Administration",
+  "name":"PHC Administration",
   "parent":"Public Health Commission",
   "section_id":103,
   "section_md5_id":"6974CE5AC660610B44D9B9FED0FF9548",
@@ -129,37 +130,6 @@
       }
     ]
   },
-  "performance_strategies":[
-    {
-      "section_name":"Performance",
-      "strategy":[
-        "Expand crosstraining"
-      ],
-      "performance_measures":[
-        {
-          "table_header":{
-            "debug":"JPM",
-            "Performance Goals":"Performance Measures",
-            "line_type":"header",
-            "fy-2":"FY15 Actual",
-            "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Target",
-            "fy+1":"FY18 Target"
-          },
-          "data":[
-            {
-              "line_type":"data",
-              "line_data":"75% of staff competent in 2 areas.",
-              "fy-2":"",
-              "fy-1":"",
-              "fy-0":"47",
-              "fy+1":"75"
-            }
-          ]
-        }
-      ]
-    }
-  ],
   "project_details":[
     {
       "bureau":"Child, Adolescent and Family Health Bureau",

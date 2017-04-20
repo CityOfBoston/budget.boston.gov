@@ -1,6 +1,7 @@
 ---
 {
   "debug":"JBD",
+  "publish_subordinates":true,
   "file_version":"0.10",
   "section_id":50,
   "section_md5_id":"C0C7C76D30BD3DCAEFC96F40275BDC0A",
@@ -71,7 +72,8 @@
         "fy-2":360319,
         "fy-1":372578,
         "fy-0":376601,
-        "fy+1":279833
+        "fy+1":279833,
+        "publish_subordinates":true
       },
       {
         "name":"Document Filing",
@@ -79,7 +81,8 @@
         "fy-2":399491,
         "fy-1":416672,
         "fy-0":415845,
-        "fy+1":504605
+        "fy+1":504605,
+        "publish_subordinates":true
       },
       {
         "name":"Archives",
@@ -87,7 +90,8 @@
         "fy-2":313895,
         "fy-1":357792,
         "fy-0":427950,
-        "fy+1":430387
+        "fy+1":430387,
+        "publish_subordinates":true
       },
       {
         "name":"Total",
@@ -118,7 +122,8 @@
         "fy-2":15319,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Total",

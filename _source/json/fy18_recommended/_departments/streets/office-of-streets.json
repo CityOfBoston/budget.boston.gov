@@ -1,6 +1,7 @@
 ---
 {
   "debug":"JBD",
+  "publish_subordinates":true,
   "file_version":"0.10",
   "section_id":90,
   "section_md5_id":"8613985EC49EB8F757AE6439E879BB2A",
@@ -37,7 +38,8 @@
         "fy-2":1360422,
         "fy-1":1649756,
         "fy-0":1973144,
-        "fy+1":1962522
+        "fy+1":1962522,
+        "publish_subordinates":true
       },
       {
         "name":"Total",

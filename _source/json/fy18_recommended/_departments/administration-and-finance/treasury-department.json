@@ -1,6 +1,7 @@
 ---
 {
   "debug":"JBD",
+  "publish_subordinates":true,
   "file_version":"0.10",
   "section_id":21,
   "section_md5_id":"3C59DC048E8850243BE8079A5C74D079",
@@ -37,7 +38,8 @@
         "fy-2":657346,
         "fy-1":707688,
         "fy-0":579511,
-        "fy+1":553697
+        "fy+1":553697,
+        "publish_subordinates":true
       },
       {
         "name":"Administration",
@@ -45,7 +47,8 @@
         "fy-2":758290,
         "fy-1":751850,
         "fy-0":742511,
-        "fy+1":711383
+        "fy+1":711383,
+        "publish_subordinates":true
       },
       {
         "name":"General Service/Payroll",
@@ -53,7 +56,8 @@
         "fy-2":695661,
         "fy-1":693201,
         "fy-0":716023,
-        "fy+1":662237
+        "fy+1":662237,
+        "publish_subordinates":true
       },
       {
         "name":"Special Collections",
@@ -61,7 +65,8 @@
         "fy-2":723780,
         "fy-1":512653,
         "fy-0":562765,
-        "fy+1":563068
+        "fy+1":563068,
+        "publish_subordinates":true
       },
       {
         "name":"Payment Services",
@@ -69,7 +74,8 @@
         "fy-2":890801,
         "fy-1":1236455,
         "fy-0":927381,
-        "fy+1":923869
+        "fy+1":923869,
+        "publish_subordinates":true
       },
       {
         "name":"Accounting/Quality Control",
@@ -77,7 +83,8 @@
         "fy-2":343763,
         "fy-1":374515,
         "fy-0":364955,
-        "fy+1":368029
+        "fy+1":368029,
+        "publish_subordinates":true
       },
       {
         "name":"Accounting",
@@ -85,7 +92,8 @@
         "fy-2":163589,
         "fy-1":155541,
         "fy-0":172852,
-        "fy+1":172852
+        "fy+1":172852,
+        "publish_subordinates":true
       },
       {
         "name":"Accounts Receivable",
@@ -93,7 +101,8 @@
         "fy-2":291570,
         "fy-1":312704,
         "fy-0":319637,
-        "fy+1":379042
+        "fy+1":379042,
+        "publish_subordinates":true
       },
       {
         "name":"Trust",
@@ -101,7 +110,8 @@
         "fy-2":0,
         "fy-1":184,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Total",

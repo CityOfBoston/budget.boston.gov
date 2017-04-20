@@ -1,5 +1,6 @@
 ---
 {
+  "publish_subordinates":true,
   "cabinet":"Administration and Finance",
   "department":"Registry Division",
   "file_version":"0.10",
@@ -67,37 +68,37 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":0,
-        "fy-0":0,
-        "fy+1":0,
-        "diff":0
+        "fy-2":248112,
+        "fy-1":221755,
+        "fy-0":231640,
+        "fy+1":221943,
+        "diff":-9697
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":0,
-        "fy-0":0,
-        "fy+1":0,
-        "diff":0
+        "fy-2":15018,
+        "fy-1":27771,
+        "fy-0":10900,
+        "fy+1":8800,
+        "diff":-2100
       },
       {
         "line_title":"Supplies and Materials",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":0,
-        "fy-0":0,
-        "fy+1":0,
+        "fy-2":2442,
+        "fy-1":5273,
+        "fy-0":5000,
+        "fy+1":5000,
         "diff":0
       },
       {
         "line_title":"Current Chgs and Oblig",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":0,
-        "fy-0":0,
-        "fy+1":0,
+        "fy-2":648,
+        "fy-1":2147,
+        "fy-0":150,
+        "fy+1":150,
         "diff":0
       },
       {
@@ -112,20 +113,20 @@
       {
         "line_title":"Other",
         "line_type":"data",
-        "fy-2":10119485,
-        "fy-1":10824191,
-        "fy-0":11345671,
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
         "fy+1":0,
-        "diff":-11345671
+        "diff":0
       },
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":10119485,
-        "fy-1":10824191,
-        "fy-0":11345671,
-        "fy+1":0,
-        "diff":-11345671
+        "fy-2":266220,
+        "fy-1":256946,
+        "fy-0":247690,
+        "fy+1":235893,
+        "diff":-11797
       }
     ]
   },

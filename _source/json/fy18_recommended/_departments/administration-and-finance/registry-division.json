@@ -1,6 +1,7 @@
 ---
 {
   "debug":"JBD",
+  "publish_subordinates":true,
   "file_version":"0.10",
   "section_id":9,
   "section_md5_id":"45C48CCE2E2D7FBDEA1AFC51C7C6AD26",
@@ -54,7 +55,8 @@
         "fy-2":266220,
         "fy-1":256946,
         "fy-0":247690,
-        "fy+1":235893
+        "fy+1":235893,
+        "publish_subordinates":true
       },
       {
         "name":"Vital Statistics",
@@ -62,7 +64,8 @@
         "fy-2":635911,
         "fy-1":624833,
         "fy-0":673235,
-        "fy+1":648433
+        "fy+1":648433,
+        "publish_subordinates":true
       },
       {
         "name":"Depositions",
@@ -70,7 +73,8 @@
         "fy-2":93317,
         "fy-1":86277,
         "fy-0":110576,
-        "fy+1":134138
+        "fy+1":134138,
+        "publish_subordinates":true
       },
       {
         "name":"Total",

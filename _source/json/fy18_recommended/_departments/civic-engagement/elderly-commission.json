@@ -1,6 +1,7 @@
 ---
 {
   "debug":"JBD",
+  "publish_subordinates":true,
   "file_version":"0.10",
   "section_id":39,
   "section_md5_id":"D67D8AB4F4C10BF22AA353E27879133C",
@@ -61,7 +62,8 @@
         "fy-2":752149,
         "fy-1":717725,
         "fy-0":721954,
-        "fy+1":827716
+        "fy+1":827716,
+        "publish_subordinates":true
       },
       {
         "name":"Operations",
@@ -69,7 +71,8 @@
         "fy-2":356280,
         "fy-1":443576,
         "fy-0":496159,
-        "fy+1":732514
+        "fy+1":732514,
+        "publish_subordinates":true
       },
       {
         "name":"Transportation",
@@ -77,7 +80,8 @@
         "fy-2":1439809,
         "fy-1":1387659,
         "fy-0":1487722,
-        "fy+1":1475859
+        "fy+1":1475859,
+        "publish_subordinates":true
       },
       {
         "name":"Programs and Partnerships",
@@ -85,7 +89,8 @@
         "fy-2":546854,
         "fy-1":522930,
         "fy-0":527915,
-        "fy+1":142010
+        "fy+1":142010,
+        "publish_subordinates":true
       },
       {
         "name":"Total",
@@ -116,7 +121,8 @@
         "fy-2":3563144,
         "fy-1":3890312,
         "fy-0":3716837,
-        "fy+1":3886088
+        "fy+1":3886088,
+        "publish_subordinates":true
       },
       {
         "name":"Elderly Universal Fund",
@@ -124,7 +130,8 @@
         "fy-2":53325,
         "fy-1":53667,
         "fy-0":82000,
-        "fy+1":85000
+        "fy+1":85000,
+        "publish_subordinates":true
       },
       {
         "name":"EOEA Formula Grant",
@@ -132,7 +139,8 @@
         "fy-2":705298,
         "fy-1":580116,
         "fy-0":880879,
-        "fy+1":880879
+        "fy+1":880879,
+        "publish_subordinates":true
       },
       {
         "name":"Nutrition Services Incentive Program",
@@ -140,7 +148,8 @@
         "fy-2":892966,
         "fy-1":360975,
         "fy-0":497123,
-        "fy+1":440000
+        "fy+1":440000,
+        "publish_subordinates":true
       },
       {
         "name":"Prevention Wellness Trust Fund",
@@ -148,7 +157,8 @@
         "fy-2":57724,
         "fy-1":108541,
         "fy-0":391625,
-        "fy+1":11200
+        "fy+1":11200,
+        "publish_subordinates":true
       },
       {
         "name":"Retired Senior Volunteers Program",
@@ -156,7 +166,8 @@
         "fy-2":104980,
         "fy-1":128867,
         "fy-0":130254,
-        "fy+1":130253
+        "fy+1":130253,
+        "publish_subordinates":true
       },
       {
         "name":"Senior Companion Program",
@@ -164,7 +175,8 @@
         "fy-2":216627,
         "fy-1":253374,
         "fy-0":250250,
-        "fy+1":250252
+        "fy+1":250252,
+        "publish_subordinates":true
       },
       {
         "name":"State Elder Lunch Program",
@@ -172,7 +184,8 @@
         "fy-2":1052867,
         "fy-1":1539404,
         "fy-0":1354928,
-        "fy+1":1363864
+        "fy+1":1363864,
+        "publish_subordinates":true
       },
       {
         "name":"Total",

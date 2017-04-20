@@ -1,6 +1,7 @@
 ---
 {
   "debug":"JBD",
+  "publish_subordinates":true,
   "file_version":"0.10",
   "section_id":20,
   "section_md5_id":"98F13708210194C475687BE6106A3B84",
@@ -50,7 +51,8 @@
         "fy-2":290972,
         "fy-1":385461,
         "fy-0":575079,
-        "fy+1":660118
+        "fy+1":660118,
+        "publish_subordinates":true
       },
       {
         "name":"Procurement",
@@ -58,7 +60,8 @@
         "fy-2":1036133,
         "fy-1":1110016,
         "fy-0":960352,
-        "fy+1":900378
+        "fy+1":900378,
+        "publish_subordinates":true
       },
       {
         "name":"Central Services",
@@ -66,7 +69,8 @@
         "fy-2":218097,
         "fy-1":276091,
         "fy-0":296938,
-        "fy+1":214871
+        "fy+1":214871,
+        "publish_subordinates":true
       },
       {
         "name":"Total",

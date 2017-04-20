@@ -1,5 +1,6 @@
 ---
 {
+  "publish_subordinates":true,
   "cabinet":"Arts and Culture",
   "department":"Office of Arts and Culture",
   "file_version":"0.10",
