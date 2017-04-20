@@ -1,6 +1,7 @@
 ---
 {
   "debug":"JBD",
+  "publish_subordinates":false,
   "file_version":"0.10",
   "section_id":78,
   "section_md5_id":"35F4A8D465E6E1EDC05F3D8AB658C551",
@@ -12,8 +13,8 @@
   "parent":"Housing and Neighborhood Development",
   "cabinet":"Housing and Neighborhood Development",
   "department":"Leading the Way",
-  "head_name":"",
-  "head_title":"",
+  "head_name":Null,
+  "head_title":Null,
   "appropriation_code":"Appropriation 189",
   "mission":[
     "The mission of the Leading the Way (LTW) campaign was to expand and protect Boston&rsquo;s housing supply and stabilize neighborhoods adversely affected by the economic downturn and foreclosure boom. The campaign focused all of the City&rsquo;s housing agencies around a strategy to address Boston&rsquo;s housing needs in four key areas: 1) Housing Boston&rsquo;s workforce through new production and enhanced access to the market; 2) Preventing foreclosures and mitigating the negative effects of foreclosures on Boston&rsquo;s neighborhoods; 3) Reversing the rise in homelessness, and 4) Preserving and stabilizing the rental housing stock. In 2014, Mayor Walsh announced his Boston 2030 plan which outlines a new comprehensive approach to accommodating Boston's complex housing needs over the next 15 years. Funding committed for the new plan has been renamed the &ldquo;Housing 2030 Fund&rdquo; which is now included under the Neighborhood Development Operating Budget in \"Program 3: Housing Development and Services.\""
@@ -54,7 +55,8 @@
         "fy-2":5500000,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":false
       },
       {
         "name":"Total",

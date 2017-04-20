@@ -1,5 +1,6 @@
 ---
 {
+  "publish_subordinates":true,
   "cabinet":"Civic Engagement",
   "department":"Neighborhood Services",
   "file_version":"0.10",

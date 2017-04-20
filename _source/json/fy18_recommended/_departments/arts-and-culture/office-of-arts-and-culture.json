@@ -1,6 +1,7 @@
 ---
 {
   "debug":"JBD",
+  "publish_subordinates":true,
   "file_version":"0.10",
   "section_id":98,
   "section_md5_id":"ED3D2C21991E3BEF5E069713AF9FA6CA",
@@ -48,7 +49,8 @@
         "fy-2":975519,
         "fy-1":1274583,
         "fy-0":1349436,
-        "fy+1":1333930
+        "fy+1":1333930,
+        "publish_subordinates":true
       },
       {
         "name":"Total",
@@ -79,7 +81,8 @@
         "fy-2":0,
         "fy-1":0,
         "fy-0":20239,
-        "fy+1":75513
+        "fy+1":75513,
+        "publish_subordinates":true
       },
       {
         "name":"Boston Artists in Residence Program",
@@ -87,7 +90,8 @@
         "fy-2":0,
         "fy-1":0,
         "fy-0":500000,
-        "fy+1":500000
+        "fy+1":500000,
+        "publish_subordinates":true
       },
       {
         "name":"Boston Cultural Council",
@@ -95,7 +99,8 @@
         "fy-2":77982,
         "fy-1":362328,
         "fy-0":563080,
-        "fy+1":579000
+        "fy+1":579000,
+        "publish_subordinates":true
       },
       {
         "name":"Communications Staff Grant",
@@ -103,7 +108,8 @@
         "fy-2":0,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":71256
+        "fy+1":71256,
+        "publish_subordinates":true
       },
       {
         "name":"Cultural District Initiative",
@@ -111,7 +117,8 @@
         "fy-2":0,
         "fy-1":10000,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Emerging Artists Program",
@@ -119,7 +126,8 @@
         "fy-2":0,
         "fy-1":5000,
         "fy-0":0,
-        "fy+1":5000
+        "fy+1":5000,
+        "publish_subordinates":true
       },
       {
         "name":"Grants to Individual Artists",
@@ -127,7 +135,8 @@
         "fy-2":0,
         "fy-1":0,
         "fy-0":200000,
-        "fy+1":400000
+        "fy+1":400000,
+        "publish_subordinates":true
       },
       {
         "name":"N.E. Artists in Residence",
@@ -135,7 +144,8 @@
         "fy-2":0,
         "fy-1":64375,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Public Art Fund",
@@ -143,7 +153,8 @@
         "fy-2":25107,
         "fy-1":42604,
         "fy-0":25000,
-        "fy+1":50000
+        "fy+1":50000,
+        "publish_subordinates":true
       },
       {
         "name":"Strand Theatre",
@@ -151,7 +162,8 @@
         "fy-2":0,
         "fy-1":0,
         "fy-0":150000,
-        "fy+1":67654
+        "fy+1":67654,
+        "publish_subordinates":true
       },
       {
         "name":"Total",

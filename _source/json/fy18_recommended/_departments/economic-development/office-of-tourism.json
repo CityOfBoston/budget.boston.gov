@@ -1,6 +1,7 @@
 ---
 {
   "debug":"JBD",
+  "publish_subordinates":true,
   "file_version":"0.10",
   "section_id":89,
   "section_md5_id":"7647966B7343C29048673252E490F736",
@@ -37,7 +38,8 @@
         "fy-2":352633,
         "fy-1":403303,
         "fy-0":408135,
-        "fy+1":404592
+        "fy+1":404592,
+        "publish_subordinates":true
       },
       {
         "name":"Film and Special Events",
@@ -45,7 +47,8 @@
         "fy-2":566836,
         "fy-1":557227,
         "fy-0":656945,
-        "fy+1":844865
+        "fy+1":844865,
+        "publish_subordinates":true
       },
       {
         "name":"Tourism",
@@ -53,7 +56,8 @@
         "fy-2":92090,
         "fy-1":132419,
         "fy-0":334629,
-        "fy+1":76705
+        "fy+1":76705,
+        "publish_subordinates":true
       },
       {
         "name":"Total",
@@ -84,7 +88,8 @@
         "fy-2":87768,
         "fy-1":109440,
         "fy-0":60000,
-        "fy+1":60000
+        "fy+1":60000,
+        "publish_subordinates":true
       },
       {
         "name":"Total",

@@ -1,6 +1,7 @@
 ---
 {
   "debug":"JBD",
+  "publish_subordinates":true,
   "file_version":"0.10",
   "section_id":8,
   "section_md5_id":"C9F0F895FB98AB9159F51FD0297E236D",
@@ -60,7 +61,8 @@
         "fy-2":540870,
         "fy-1":506691,
         "fy-0":510551,
-        "fy+1":534712
+        "fy+1":534712,
+        "publish_subordinates":true
       },
       {
         "name":"Administration",
@@ -68,7 +70,8 @@
         "fy-2":703866,
         "fy-1":698418,
         "fy-0":730869,
-        "fy+1":779455
+        "fy+1":779455,
+        "publish_subordinates":true
       },
       {
         "name":"Voter Registration",
@@ -76,7 +79,8 @@
         "fy-2":277896,
         "fy-1":329741,
         "fy-0":351409,
-        "fy+1":354637
+        "fy+1":354637,
+        "publish_subordinates":true
       },
       {
         "name":"Election Activities",
@@ -84,7 +88,8 @@
         "fy-2":1810102,
         "fy-1":2239947,
         "fy-0":2736513,
-        "fy+1":2577111
+        "fy+1":2577111,
+        "publish_subordinates":true
       },
       {
         "name":"Total",

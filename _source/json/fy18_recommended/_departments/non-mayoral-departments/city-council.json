@@ -1,6 +1,7 @@
 ---
 {
   "debug":"JBD",
+  "publish_subordinates":true,
   "file_version":"0.10",
   "section_id":49,
   "section_md5_id":"F457C545A9DED88F18ECEE47145A72C0",
@@ -48,7 +49,8 @@
         "fy-2":362745,
         "fy-1":338734,
         "fy-0":354426,
-        "fy+1":358664
+        "fy+1":358664,
+        "publish_subordinates":true
       },
       {
         "name":"City Councilors",
@@ -56,7 +58,8 @@
         "fy-2":4176754,
         "fy-1":4323562,
         "fy-0":4422396,
-        "fy+1":4418092
+        "fy+1":4418092,
+        "publish_subordinates":true
       },
       {
         "name":"Legislative/Financial Support",
@@ -64,7 +67,8 @@
         "fy-2":521777,
         "fy-1":544154,
         "fy-0":563955,
-        "fy+1":564021
+        "fy+1":564021,
+        "publish_subordinates":true
       },
       {
         "name":"Total",

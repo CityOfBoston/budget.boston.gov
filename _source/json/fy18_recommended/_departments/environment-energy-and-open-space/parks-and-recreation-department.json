@@ -1,6 +1,7 @@
 ---
 {
   "debug":"JBD",
+  "publish_subordinates":true,
   "file_version":"0.10",
   "section_id":4,
   "section_md5_id":"A87FF679A2F3E71D9181A67B7542122C",
@@ -60,7 +61,8 @@
         "fy-2":2678196,
         "fy-1":3342090,
         "fy-0":2835524,
-        "fy+1":3135293
+        "fy+1":3135293,
+        "publish_subordinates":true
       },
       {
         "name":"Parks Operations",
@@ -68,7 +70,8 @@
         "fy-2":11722777,
         "fy-1":11916104,
         "fy-0":12649992,
-        "fy+1":13274760
+        "fy+1":13274760,
+        "publish_subordinates":true
       },
       {
         "name":"Citywide Recreation",
@@ -76,7 +79,8 @@
         "fy-2":0,
         "fy-1":990261,
         "fy-0":1015432,
-        "fy+1":1026013
+        "fy+1":1026013,
+        "publish_subordinates":true
       },
       {
         "name":"Design and Construction",
@@ -84,7 +88,8 @@
         "fy-2":1814092,
         "fy-1":5122325,
         "fy-0":2060678,
-        "fy+1":2154302
+        "fy+1":2154302,
+        "publish_subordinates":true
       },
       {
         "name":"Cemetery",
@@ -92,7 +97,8 @@
         "fy-2":2182933,
         "fy-1":2277347,
         "fy-0":2419432,
-        "fy+1":2386180
+        "fy+1":2386180,
+        "publish_subordinates":true
       },
       {
         "name":"Total",
@@ -123,7 +129,8 @@
         "fy-2":3807887,
         "fy-1":6320497,
         "fy-0":4533282,
-        "fy+1":4371187
+        "fy+1":4371187,
+        "publish_subordinates":true
       },
       {
         "name":"George W. Parkman Trust Fund",
@@ -131,7 +138,8 @@
         "fy-2":1265109,
         "fy-1":978173,
         "fy-0":1200000,
-        "fy+1":1200001
+        "fy+1":1200001,
+        "publish_subordinates":true
       },
       {
         "name":"Park Floodlighting Fees",
@@ -139,7 +147,8 @@
         "fy-2":227004,
         "fy-1":279203,
         "fy-0":240000,
-        "fy+1":200000
+        "fy+1":200000,
+        "publish_subordinates":true
       },
       {
         "name":"The Ryder Cup Trust Fund",
@@ -147,7 +156,8 @@
         "fy-2":44084,
         "fy-1":14194,
         "fy-0":28000,
-        "fy+1":27600
+        "fy+1":27600,
+        "publish_subordinates":true
       },
       {
         "name":"Total",

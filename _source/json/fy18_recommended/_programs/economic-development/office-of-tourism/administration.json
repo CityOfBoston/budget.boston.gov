@@ -1,5 +1,6 @@
 ---
 {
+  "publish_subordinates":true,
   "cabinet":"Economic Development",
   "department":"Office of Tourism",
   "file_version":"0.10",

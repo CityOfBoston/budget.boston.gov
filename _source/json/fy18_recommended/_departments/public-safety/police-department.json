@@ -1,6 +1,7 @@
 ---
 {
   "debug":"JBD",
+  "publish_subordinates":true,
   "file_version":"0.10",
   "section_id":29,
   "section_md5_id":"6EA9AB1BAA0EFB9E19094440C317E21B",
@@ -77,7 +78,8 @@
         "fy-2":8444527,
         "fy-1":8621069,
         "fy-0":7214089,
-        "fy+1":7914616
+        "fy+1":7914616,
+        "publish_subordinates":true
       },
       {
         "name":"BAT-Operations",
@@ -85,7 +87,8 @@
         "fy-2":19645566,
         "fy-1":19483314,
         "fy-0":22061791,
-        "fy+1":20818913
+        "fy+1":20818913,
+        "publish_subordinates":true
       },
       {
         "name":"BAT-Admin and Technology",
@@ -93,7 +96,8 @@
         "fy-2":45857879,
         "fy-1":45643618,
         "fy-0":49277277,
-        "fy+1":51683475
+        "fy+1":51683475,
+        "publish_subordinates":true
       },
       {
         "name":"Bureau of Professional Development",
@@ -101,7 +105,8 @@
         "fy-2":7954912,
         "fy-1":8056091,
         "fy-0":7232606,
-        "fy+1":7391955
+        "fy+1":7391955,
+        "publish_subordinates":true
       },
       {
         "name":"Bureau of Field Services",
@@ -109,7 +114,8 @@
         "fy-2":183019618,
         "fy-1":185672652,
         "fy-0":208099334,
-        "fy+1":215600302
+        "fy+1":215600302,
+        "publish_subordinates":true
       },
       {
         "name":"Bureau of Professional Standards",
@@ -117,7 +123,8 @@
         "fy-2":8001451,
         "fy-1":8465414,
         "fy-0":7504188,
-        "fy+1":7586349
+        "fy+1":7586349,
+        "publish_subordinates":true
       },
       {
         "name":"Bureau of Investigative Services",
@@ -125,7 +132,8 @@
         "fy-2":61083835,
         "fy-1":69615348,
         "fy-0":59577578,
-        "fy+1":59425903
+        "fy+1":59425903,
+        "publish_subordinates":true
       },
       {
         "name":"Bureau of Intelligence and Analysis",
@@ -133,7 +141,8 @@
         "fy-2":3303107,
         "fy-1":3330338,
         "fy-0":3120630,
-        "fy+1":2958678
+        "fy+1":2958678,
+        "publish_subordinates":true
       },
       {
         "name":"Total",
@@ -164,7 +173,8 @@
         "fy-2":5000,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Academy Revolving Fund",
@@ -172,7 +182,8 @@
         "fy-2":36320,
         "fy-1":86897,
         "fy-0":65000,
-        "fy+1":100000
+        "fy+1":100000,
+        "publish_subordinates":true
       },
       {
         "name":"Boston Multi-Cultural Advocacy Support",
@@ -180,7 +191,8 @@
         "fy-2":219150,
         "fy-1":209701,
         "fy-0":346985,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Boston Reentry Initiative",
@@ -188,7 +200,8 @@
         "fy-2":979673,
         "fy-1":1112055,
         "fy-0":671335,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Bullet Proof Vests Program",
@@ -196,7 +209,8 @@
         "fy-2":8582,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Byrne JAG Reallocation",
@@ -204,7 +218,8 @@
         "fy-2":0,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":32478
+        "fy+1":32478,
+        "publish_subordinates":true
       },
       {
         "name":"Canine Revolving Fund",
@@ -212,7 +227,8 @@
         "fy-2":26197,
         "fy-1":39999,
         "fy-0":50000,
-        "fy+1":75000
+        "fy+1":75000,
+        "publish_subordinates":true
       },
       {
         "name":"Cold Case Project",
@@ -220,7 +236,8 @@
         "fy-2":63169,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Community Based Violence Prevention",
@@ -228,7 +245,8 @@
         "fy-2":622456,
         "fy-1":331874,
         "fy-0":502815,
-        "fy+1":398613
+        "fy+1":398613,
+        "publish_subordinates":true
       },
       {
         "name":"COPS Hiring Program (CHRP)",
@@ -236,7 +254,8 @@
         "fy-2":1302861,
         "fy-1":747138,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Coverdell N.F.S.I.",
@@ -244,7 +263,8 @@
         "fy-2":131105,
         "fy-1":96732,
         "fy-0":15474,
-        "fy+1":12500
+        "fy+1":12500,
+        "publish_subordinates":true
       },
       {
         "name":"DMH/Jail Diversion Program",
@@ -252,7 +272,8 @@
         "fy-2":83748,
         "fy-1":66185,
         "fy-0":120000,
-        "fy+1":120000
+        "fy+1":120000,
+        "publish_subordinates":true
       },
       {
         "name":"DNA Laboratory Initiative",
@@ -260,7 +281,8 @@
         "fy-2":248166,
         "fy-1":175283,
         "fy-0":343442,
-        "fy+1":385128
+        "fy+1":385128,
+        "publish_subordinates":true
       },
       {
         "name":"Downtown Boston Business Improv",
@@ -268,7 +290,8 @@
         "fy-2":0,
         "fy-1":11701,
         "fy-0":165083,
-        "fy+1":150000
+        "fy+1":150000,
+        "publish_subordinates":true
       },
       {
         "name":"EOPSS BRIC Allocation",
@@ -276,7 +299,8 @@
         "fy-2":0,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":396334
+        "fy+1":396334,
+        "publish_subordinates":true
       },
       {
         "name":"EOPSS JAG Youth Engagement",
@@ -284,7 +308,8 @@
         "fy-2":0,
         "fy-1":42661,
         "fy-0":34995,
-        "fy+1":27996
+        "fy+1":27996,
+        "publish_subordinates":true
       },
       {
         "name":"First Responder Naloxone",
@@ -292,7 +317,8 @@
         "fy-2":49624,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Hackney Revolving Fund",
@@ -300,7 +326,8 @@
         "fy-2":38206,
         "fy-1":74806,
         "fy-0":37550,
-        "fy+1":100000
+        "fy+1":100000,
+        "publish_subordinates":true
       },
       {
         "name":"Injury Surveillance Project",
@@ -308,7 +335,8 @@
         "fy-2":4978,
         "fy-1":4511,
         "fy-0":5000,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"JAG Equipment Grant",
@@ -316,7 +344,8 @@
         "fy-2":0,
         "fy-1":28203,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Justice & Mental Health Expansion Project",
@@ -324,7 +353,8 @@
         "fy-2":92937,
         "fy-1":74140,
         "fy-0":66666,
-        "fy+1":114286
+        "fy+1":114286,
+        "publish_subordinates":true
       },
       {
         "name":"Justice Assistance Grant (JAG)",
@@ -332,7 +362,8 @@
         "fy-2":591057,
         "fy-1":623517,
         "fy-0":669651,
-        "fy+1":732939
+        "fy+1":732939,
+        "publish_subordinates":true
       },
       {
         "name":"Massachusetts Office for Victims Assistance",
@@ -340,7 +371,8 @@
         "fy-2":0,
         "fy-1":105346,
         "fy-0":227594,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"National Crime Statistics Exchange",
@@ -348,7 +380,8 @@
         "fy-2":0,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":1241441
+        "fy+1":1241441,
+        "publish_subordinates":true
       },
       {
         "name":"National Forum Capacity Building Demonstration",
@@ -356,7 +389,8 @@
         "fy-2":194475,
         "fy-1":239784,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"NEU ALERT- Active Shooter",
@@ -364,7 +398,8 @@
         "fy-2":0,
         "fy-1":62091,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Nuestra Comunidad Development Corp",
@@ -372,7 +407,8 @@
         "fy-2":6825,
         "fy-1":905,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"OCEDTF: Fugitive Unit Vehicles",
@@ -380,7 +416,8 @@
         "fy-2":0,
         "fy-1":55173,
         "fy-0":24000,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"OJJDP Yth Violence Prevention Enhancement Project",
@@ -388,7 +425,8 @@
         "fy-2":0,
         "fy-1":0,
         "fy-0":126031,
-        "fy+1":65787
+        "fy+1":65787,
+        "publish_subordinates":true
       },
       {
         "name":"Police Auction",
@@ -396,7 +434,8 @@
         "fy-2":0,
         "fy-1":0,
         "fy-0":3200,
-        "fy+1":4007
+        "fy+1":4007,
+        "publish_subordinates":true
       },
       {
         "name":"Police Fitness Center Revolving Fund",
@@ -404,7 +443,8 @@
         "fy-2":0,
         "fy-1":167275,
         "fy-0":187232,
-        "fy+1":250000
+        "fy+1":250000,
+        "publish_subordinates":true
       },
       {
         "name":"Port Security",
@@ -412,7 +452,8 @@
         "fy-2":2770,
         "fy-1":50589,
         "fy-0":527791,
-        "fy+1":39689
+        "fy+1":39689,
+        "publish_subordinates":true
       },
       {
         "name":"PSAP - Emergency",
@@ -420,7 +461,8 @@
         "fy-2":2352763,
         "fy-1":3147889,
         "fy-0":3248440,
-        "fy+1":2248440
+        "fy+1":2248440,
+        "publish_subordinates":true
       },
       {
         "name":"Safe & Successful Youth Initiative",
@@ -428,7 +470,8 @@
         "fy-2":20703,
         "fy-1":0,
         "fy-0":800001,
-        "fy+1":851809
+        "fy+1":851809,
+        "publish_subordinates":true
       },
       {
         "name":"Shannon Community Safety",
@@ -436,7 +479,8 @@
         "fy-2":1460743,
         "fy-1":1380195,
         "fy-0":1266550,
-        "fy+1":1242494
+        "fy+1":1242494,
+        "publish_subordinates":true
       },
       {
         "name":"Smart Policing",
@@ -444,7 +488,8 @@
         "fy-2":143062,
         "fy-1":165466,
         "fy-0":86044,
-        "fy+1":142092
+        "fy+1":142092,
+        "publish_subordinates":true
       },
       {
         "name":"Social Research in Forensic",
@@ -452,7 +497,8 @@
         "fy-2":4353,
         "fy-1":4059,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"State 911 Training Grant",
@@ -460,7 +506,8 @@
         "fy-2":62897,
         "fy-1":156192,
         "fy-0":750000,
-        "fy+1":750000
+        "fy+1":750000,
+        "publish_subordinates":true
       },
       {
         "name":"Sustained Traffic Enforcement-STEP",
@@ -468,7 +515,8 @@
         "fy-2":123783,
         "fy-1":232528,
         "fy-0":140937,
-        "fy+1":204740
+        "fy+1":204740,
+        "publish_subordinates":true
       },
       {
         "name":"US Marshal's Vehicle Retrofit",
@@ -476,7 +524,8 @@
         "fy-2":14994,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Violence Against Women",
@@ -484,7 +533,8 @@
         "fy-2":46583,
         "fy-1":54401,
         "fy-0":12232,
-        "fy+1":16147
+        "fy+1":16147,
+        "publish_subordinates":true
       },
       {
         "name":"Walk Boston",
@@ -492,7 +542,8 @@
         "fy-2":0,
         "fy-1":15023,
         "fy-0":3965,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Total",

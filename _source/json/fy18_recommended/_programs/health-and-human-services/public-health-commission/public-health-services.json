@@ -1,5 +1,6 @@
 ---
 {
+  "publish_subordinates":true,
   "cabinet":"Health and Human Services",
   "department":"Public Health Commission",
   "file_version":"0.10",

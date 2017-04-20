@@ -1,5 +1,6 @@
 ---
 {
+  "publish_subordinates":true,
   "cabinet":"Administration and Finance",
   "department":"Purchasing Division",
   "file_version":"0.10",

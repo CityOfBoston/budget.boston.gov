@@ -1,5 +1,6 @@
 ---
 {
+  "publish_subordinates":true,
   "cabinet":"Streets",
   "department":"Central Fleet Management",
   "file_version":"0.10",

@@ -1,5 +1,6 @@
 ---
 {
+  "publish_subordinates":true,
   "cabinet":"Information and Technology",
   "department":"Department of Innovation and Technology",
   "file_version":"0.10",

@@ -1,5 +1,6 @@
 ---
 {
+  "publish_subordinates":true,
   "cabinet":"Education",
   "department":"Boston Public Schools",
   "file_version":"0.10",

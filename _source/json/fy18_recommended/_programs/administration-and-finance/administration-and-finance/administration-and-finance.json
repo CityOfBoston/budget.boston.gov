@@ -1,5 +1,6 @@
 ---
 {
+  "publish_subordinates":true,
   "cabinet":"Administration and Finance",
   "department":"Administration and Finance",
   "file_version":"0.10",
@@ -15,7 +16,7 @@
   "source_year":"18",
   "appropriation_code":"Organization 144100",
   "description":[
-    "The Finance & Budget Program assists in supporting the City&rsquo;s long-term growth and stability by working with all departments to strengthen and improve the City&rsquo;s financial and administrative resources."
+    "The Administration and Finance program assists in supporting the City&rsquo;s long-term growth and stability by working with all departments to strengthen and improve the City&rsquo;s financial and administrative resources."
   ],
   "selected_service_indicators":[
     {

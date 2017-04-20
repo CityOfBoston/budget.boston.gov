@@ -1,5 +1,6 @@
 ---
 {
+  "publish_subordinates":true,
   "cabinet":"Mayor's Office",
   "department":"Law Department",
   "file_version":"0.10",

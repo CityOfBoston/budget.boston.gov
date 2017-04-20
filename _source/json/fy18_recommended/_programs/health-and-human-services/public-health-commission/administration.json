@@ -1,11 +1,12 @@
 ---
 {
+  "publish_subordinates":true,
   "cabinet":"Health and Human Services",
   "department":"Public Health Commission",
   "file_version":"0.10",
   "head_name":"Monica Valdes Lupi",
   "head_title":"Executive Director",
-  "name":"Administration",
+  "name":"PHC Administration",
   "parent":"Public Health Commission",
   "section_id":103,
   "section_md5_id":"6974CE5AC660610B44D9B9FED0FF9548",
@@ -67,37 +68,37 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":248112,
-        "fy-1":221755,
-        "fy-0":231640,
-        "fy+1":221943,
-        "diff":-9697
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":15018,
-        "fy-1":27771,
-        "fy-0":10900,
-        "fy+1":8800,
-        "diff":-2100
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
       },
       {
         "line_title":"Supplies and Materials",
         "line_type":"data",
-        "fy-2":2442,
-        "fy-1":5273,
-        "fy-0":5000,
-        "fy+1":5000,
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
         "diff":0
       },
       {
         "line_title":"Current Chgs and Oblig",
         "line_type":"data",
-        "fy-2":648,
-        "fy-1":2147,
-        "fy-0":150,
-        "fy+1":150,
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
         "diff":0
       },
       {
@@ -121,45 +122,14 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":10385705,
-        "fy-1":11081137,
-        "fy-0":11593361,
-        "fy+1":235893,
-        "diff":-11357468
+        "fy-2":10119485,
+        "fy-1":10824191,
+        "fy-0":11345671,
+        "fy+1":0,
+        "diff":-11345671
       }
     ]
   },
-  "performance_strategies":[
-    {
-      "section_name":"Performance",
-      "strategy":[
-        "Expand crosstraining"
-      ],
-      "performance_measures":[
-        {
-          "table_header":{
-            "debug":"JPM",
-            "Performance Goals":"Performance Measures",
-            "line_type":"header",
-            "fy-2":"FY15 Actual",
-            "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Target",
-            "fy+1":"FY18 Target"
-          },
-          "data":[
-            {
-              "line_type":"data",
-              "line_data":"75% of staff competent in 2 areas.",
-              "fy-2":"",
-              "fy-1":"",
-              "fy-0":"47",
-              "fy+1":"75"
-            }
-          ]
-        }
-      ]
-    }
-  ],
   "project_details":[
     {
       "bureau":"Child, Adolescent and Family Health Bureau",

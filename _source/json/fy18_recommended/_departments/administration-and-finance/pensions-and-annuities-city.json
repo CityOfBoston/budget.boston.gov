@@ -1,6 +1,7 @@
 ---
 {
   "debug":"JBD",
+  "publish_subordinates":false,
   "file_version":"0.10",
   "section_id":62,
   "section_md5_id":"44F683A84163B3523AFE57C2E008BC8C",
@@ -12,8 +13,8 @@
   "parent":"Administration and Finance",
   "cabinet":"Administration and Finance",
   "department":"Pensions and Annuities - City",
-  "head_name":"",
-  "head_title":"",
+  "head_name":Null,
+  "head_title":Null,
   "appropriation_code":"Appropriation 374",
   "mission":[
     "The Pensions and Annuities appropriation funds City payments for retirees who are not members of the contributory retirement system. These include approximately 28 individuals who qualify under the Veteran's Retirement Law as being World War II veterans, having 30 years of service, and being employed prior to 1939, and approximately 25 Police and Fire members who received special legislation retirements due to extreme workplace injuries"
@@ -37,7 +38,8 @@
         "fy-2":3336691,
         "fy-1":4063355,
         "fy-0":5289000,
-        "fy+1":4100000
+        "fy+1":4100000,
+        "publish_subordinates":false
       },
       {
         "name":"Total",

@@ -1,6 +1,7 @@
 ---
 {
   "debug":"JBD",
+  "publish_subordinates":false,
   "file_version":"0.10",
   "section_id":60,
   "section_md5_id":"072B030BA126B2F4B2374F342BE9ED44",
@@ -12,8 +13,8 @@
   "parent":"Administration and Finance",
   "cabinet":"Administration and Finance",
   "department":"Health Insurance",
-  "head_name":"",
-  "head_title":"",
+  "head_name":Null,
+  "head_title":Null,
   "appropriation_code":"Appropriation 148",
   "mission":[
     "The Health Insurance appropriation provides funding for a variety of health insurance, dental care, vision care, and life insurance plans to approximately 30,000 active employee and retiree subscribers within the guidelines of MGL Chapter 32B."
@@ -37,7 +38,8 @@
         "fy-2":180006658,
         "fy-1":191265768,
         "fy-0":206208108,
-        "fy+1":216851225
+        "fy+1":216851225,
+        "publish_subordinates":false
       },
       {
         "name":"Total",

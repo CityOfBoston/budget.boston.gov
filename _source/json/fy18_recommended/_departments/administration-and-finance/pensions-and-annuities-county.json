@@ -1,6 +1,7 @@
 ---
 {
   "debug":"JBD",
+  "publish_subordinates":false,
   "file_version":"0.10",
   "section_id":63,
   "section_md5_id":"03AFDBD66E7929B125F8597834FA83A4",
@@ -12,8 +13,8 @@
   "parent":"Administration and Finance",
   "cabinet":"Administration and Finance",
   "department":"Pensions and Annuities - County",
-  "head_name":"",
-  "head_title":"",
+  "head_name":Null,
+  "head_title":Null,
   "appropriation_code":"Appropriation 749",
   "mission":[
     "The Pensions and Annuities appropriation funds the County's payments to retired County officials and employees who were not members of the contributory retirement systems. Individuals paid under this system are veterans of World War II, have 30 years of service, and were employed prior to 1939."
@@ -37,7 +38,8 @@
         "fy-2":36114,
         "fy-1":36894,
         "fy-0":100000,
-        "fy+1":100000
+        "fy+1":100000,
+        "publish_subordinates":false
       },
       {
         "name":"Total",

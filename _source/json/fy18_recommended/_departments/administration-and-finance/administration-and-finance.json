@@ -1,6 +1,7 @@
 ---
 {
   "debug":"JBD",
+  "publish_subordinates":true,
   "file_version":"0.10",
   "section_id":56,
   "section_md5_id":"9F61408E3AFB633E50CDF1B20DE6F466",
@@ -16,7 +17,7 @@
   "head_title":"Chief Financial Officer and Collector Treasurer",
   "appropriation_code":"Appropriation 144",
   "mission":[
-    "The Office of Finance and Budget supports the long-term growth and stability of the City through sound fiscal stewardship and results driven management of the City&rsquo;s human and financial resources."
+    "The Administration and Finance program supports the long-term growth and stability of the City through sound fiscal stewardship and results driven management of the City&rsquo;s human and financial resources."
   ],
   "operating_budget":{
     "debug":"JPTR",
@@ -37,7 +38,8 @@
         "fy-2":934781,
         "fy-1":888235,
         "fy-0":1071275,
-        "fy+1":1065310
+        "fy+1":1065310,
+        "publish_subordinates":true
       },
       {
         "name":"Total",

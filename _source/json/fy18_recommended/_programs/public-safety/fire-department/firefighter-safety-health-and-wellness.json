@@ -1,5 +1,6 @@
 ---
 {
+  "publish_subordinates":true,
   "cabinet":"Public Safety",
   "department":"Fire Department",
   "file_version":"0.10",

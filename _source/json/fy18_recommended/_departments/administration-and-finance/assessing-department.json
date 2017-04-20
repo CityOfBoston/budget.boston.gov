@@ -1,6 +1,7 @@
 ---
 {
   "debug":"JBD",
+  "publish_subordinates":true,
   "file_version":"0.10",
   "section_id":23,
   "section_md5_id":"37693CFC748049E45D87B8C7D8B9AACD",
@@ -64,7 +65,8 @@
         "fy-2":1932134,
         "fy-1":2083229,
         "fy-0":2141195,
-        "fy+1":2031298
+        "fy+1":2031298,
+        "publish_subordinates":true
       },
       {
         "name":"Valuation",
@@ -72,7 +74,8 @@
         "fy-2":3285108,
         "fy-1":3628264,
         "fy-0":3801613,
-        "fy+1":3865485
+        "fy+1":3865485,
+        "publish_subordinates":true
       },
       {
         "name":"Executive",
@@ -80,7 +83,8 @@
         "fy-2":1129196,
         "fy-1":1391991,
         "fy-0":1257069,
-        "fy+1":1295901
+        "fy+1":1295901,
+        "publish_subordinates":true
       },
       {
         "name":"Total",
