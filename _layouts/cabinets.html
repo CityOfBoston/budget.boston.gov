@@ -115,24 +115,6 @@ layout: bos_wrapper
 </div>
 <br />
 
-{% assign data_max = 0 %}
-{% for item in page.operating_department.data %}
-  {% if item.line_type == "total" %}
-    {% if item.fy-2 > data_max %}
-      {% assign data_max = item.fy-2 %}
-    {% endif %}
-    {% if item.fy-1 > data_max %}
-      {% assign data_max = item.fy-1 %}
-    {% endif %}
-    {% if item.fy-0 > data_max %}
-      {% assign data_max = item.fy-0 %}
-    {% endif %}
-    {% if item["fy+1"] > data_max %}
-      {% assign data_max = item["fy+1"] %}
-    {% endif %}
-  {% endif %}
-{% endfor %}
-
 <div class="desktop-100 clearfix">
 <div class="desktop-50">
   <div id="totalLineChart-wrapper">
@@ -161,7 +143,6 @@ layout: bos_wrapper
           {% endif %}
         {% endfor %}
       "
-      data-max={{ data_max }}
     ></canvas>
   </div>
 </div>
@@ -197,24 +178,6 @@ layout: bos_wrapper
 </div>
 </div>
 
-{% assign data_max = 0 %}
-{% for item in page.operating_department.data %}
-  {% if item.line_type == "data" %}
-    {% if item.fy-2 > data_max %}
-      {% assign data_max = item.fy-2 %}
-    {% endif %}
-    {% if item.fy-1 > data_max %}
-      {% assign data_max = item.fy-1 %}
-    {% endif %}
-    {% if item.fy-0 > data_max %}
-      {% assign data_max = item.fy-0 %}
-    {% endif %}
-    {% if item["fy+1"] > data_max %}
-      {% assign data_max = item["fy+1"] %}
-    {% endif %}
-  {% endif %}
-{% endfor %}
-
 <div class="g">
 {% for row in page.operating_department.data %}
   {% if row.line_type == 'data' %}
@@ -235,7 +198,6 @@ layout: bos_wrapper
           {{ page.operating_department['fy+1'] | truncate: 4, "" }}
         "
         data="{{ row.fy-2 }}, {{ row.fy-1 }}, {{ row.fy-0 }}, {{ row['fy+1'] }}"
-        data-max="{{ data_max }}"
       ></canvas>
     </div>
   {% endif %}
