@@ -176,8 +176,8 @@ components:
         <p>Boston About Results (BAR) is the City’s performance management and evaluation program that helps drive operational improvement throughout the City. The BAR program provides city leaders and departmental managers with the tools and analysis needed to track service delivery, evaluate performance, and identify areas of improvement.</p>
         <blockquote>A Citywide Analytics Team works across cabinets to help identify pain points and develop immediate and potential long-term performance and process improvements (
     - link: 
-        title: see featured analysis on Data Analytics 
-        path: /featured-analysis/data-analytics/
+        title: see featured analysis on performance management 
+        path: /featured-analysis/performance-management/
     - blurb: >
         ), complementing performance reports.</blockquote>
         <h5>Operational Reviews</h5>

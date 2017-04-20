@@ -1,13 +1,13 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/data-analytics/
-title: Data Analytics
+permalink: /featured-analysis/performance-management/
+title: Performance Management
 card:
-  - title: Data analytics
+  - title: Performance management
     body: >
       The City practies data-driven decision making at all levels. Learn about the results.
     img: /img/featured_analysis/cards/fa-data-analytics.jpg
-    link: /featured-analysis/data-analytics/
+    link: /featured-analysis/performance-management/
 components:
 - breadcrumbs:
   - title: Home
@@ -16,10 +16,10 @@ components:
   - title: Featured Analysis
     url: "/featured-analysis/"
     local: true
-  - current: Data analytics
+  - current: Performance management
   - published: 4/13/17
 - intro:
-  - title: Data analytics
+  - title: Performance management
     short_desc: >
       Boston’s Performance Management efforts, driven in partnership between the Citywide 
       Analytics Team and the Budget Office, exist to ensure that the city delivers the most
@@ -59,17 +59,22 @@ components:
       <p>Launched in January of 2016, CityScore is designed to inform the Mayor, City managers, and the 
       public about quality of life and the performance of City government by aggregating key performance 
       metrics into one number. Over the course of the year, CityScore has improved the efficiency of core 
-      City services, including increased resources for emergency medical services. Additionally, we developed a 
-      toolkit this year to make CityScore shareable so that any government or organization can recognize the 
-      same benefits that we have here in Boston. <a href="https://github.com/CityOfBoston/CityScoreToolkit">View the 
-      toolkit</a>.</p>
+      City services, including increased resources for emergency medical services.</p>
+      <p>Additionally, we developed a toolkit this year to make CityScore shareable so that any</p>
   - col: >
+      <p>government or organization can recognize the same benefits that we have here in Boston.</p>
+      <p><a class="button" href="https://github.com/CityOfBoston/CityScoreToolkit">View the toolkit</a></p>
       <h5>EMS Ambulance Allocation</h5>
-      <p>We worked with Boston EMS to analyze how to best allocate resources in response to a growing call volume. 
-      Focusing on a subset of calls, incidents, and outcomes over multiple years, the analysis has prompted EMS 
-      to adjust the priority of calls to increase resource availability for higher-need medical incidents. 
-      We're also investigating how to increase ambulance response efficiency and levels of care for some of 
-      the City's most vulnerable residents.</p>
+      <p>We worked with Boston EMS to analyze how to best allocate resources in response to a growing call volume. Focusing on a subset of calls, incidents, and outcomes over multiple years, the analysis has prompted EMS to adjust the priority of calls to increase resource availability for higher-need medical incidents.</p>
+  - col: 
+    - blurb: >
+        <p>We're also investigating how to increase ambulance response efficiency and levels of care for some of the City's most vulnerable residents.</p>
+    - img: /img/featured_analysis/pages/ems-responses.png
+- text_col_2:
+  - col: 
+    - blurb: >
+        <br>
+    - img: /img/featured_analysis/pages/311-office-performance.png
   - col: >
       <h5>311 Call Center Improvements</h5>
       <p>After noticing the 311 Call Center's CityScore was below 1, we worked with the team to build 
@@ -84,28 +89,23 @@ components:
 - text_col_3:
   - col: >
       <ul>
-        <li>Additional resources so our Emergency Medical Response team can better serve 
-        those in need of emergency services.</li>
-        <li>A 5% increase in the average number of calls answered within 30 seconds at the 
-        311 Call Center, resulting in more expedient customer service for those interacting 
-        with the City.</li>
-        <li>New Financial Insight Tools for the City to track progress toward cost saving 
-        measures and to ensure fair and equitable opportunities for those competing for 
-        city contracts.</li>
+      <li>Additional resources so our Emergency Medical Response team can better serve those in need of emergency services.</li>
+      <li>A 5% increase in the average number of calls answered within 30 seconds at the 311 Call Center, resulting in more expedient customer service for those interacting with the City.</li>
       </ul>  
   - col: >
       <ul>
-        <li>A 10% increase in the number of traffic signals repaired within 24 hours, ensuring 
-        that the City’s streets are safe and functioning properly.</li>
-        <li>A clearer understanding of the demographics of city staff to help create a workforce that 
-        reflects our City’s residents.</li>
+      <li>New Financial Insight Tools for the City to track progress toward cost saving measures and to ensure fair and equitable opportunities for those competing for city contracts.</li>
+      <li>A 10% increase in the number of traffic signals repaired within 24 hours, ensuring that the City’s streets are safe and functioning properly.</li>
       </ul>  
   - col: > 
+      <ul>
+      <li>A clearer understanding of the demographics of city staff to help create a workforce that reflects our City’s residents.</li>
+      </ul>
       <h5>Looking toward next year</h5>
       <p>Our work next year will continue to build upon the successes we’ve recognized this year 
       in the areas of customer service, permitting, recruitment, and public safety. You can learn more 
-      about our work and check out our progress at: 
-      <a href="https://www.boston.gov/departments/analytics-team">boston.gov/analytics</a></p>
+      about our work and check out our progress at:</p>
+      <p><a class="button" href="https://www.boston.gov/departments/analytics-team">boston.gov/analytics</a></p>
 - text_block:
   - title: Cityscore
     body: >
@@ -150,39 +150,4 @@ components:
       below reflect the City’s top priorities and the partnerships necessary to achieve these ambitious 
       goals. To track progress against these goals, visit the 
       <a href="https://www.boston.gov/finance/boston-about-results">Boston About Results website</a>.
-- table:
-  - title: Budget summary
-    right_text: 
-      name: To some page
-      link: /example
-    columns:
-      - "Category": Total revenues
-        "FY15 Actual": 2,780.42
-        "FY16 Actual": 2,883.01
-        "FY17 Budget": 2,996.09
-        "FY18 Budget": 3,139.79
-      - "Category": Total expenditures
-        "FY15 Actual": 2,773.06
-        "FY16 Actual": 2,881.09
-        "FY17 Budget": 2,996.09
-        "FY18 Budget": 3,139.79
-      - "Category": 
-          name: Test Link
-          link: /example
-        "FY15 Actual": 
-          value: 2773
-          filter: money
-        "FY16 Actual": 
-          value: 288109
-          filter: delimiter
-        "FY17 Budget": 
-          value: 90
-          filter: percent
-        "FY18 Budget": 3,139.79
-      - "Category": Surplus (Deficit)
-        "total": true
-        "FY15 Actual": 7.36
-        "FY16 Actual": 1.92
-        "FY17 Budget": 0.00
-        "FY18 Budget": 0.00
 ---
