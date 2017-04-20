@@ -75,12 +75,17 @@ layout: bos_wrapper
         {% if row.line_type == 'total' %}
           <tr class="total">
             <td><strong>{{ row.name }}</strong></td>
-        {% else %}
+        {% elsif row.publish_subordinates %}
           <tr>
             <td data-label="{{ page.operating_budget.table_header.name }}">
               <a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | replace: "'","" | slugify }}/{{ page.name | replace: "'","" | slugify }}/{{ row.name | replace: "'","" | slugify }}">
                 {{ row.name }}
               </a>
+            </td>
+        {% else %}
+          <tr>
+            <td data-label="{{ page.operating_budget.table_header.name }}">
+              {{ row.name }}
             </td>
         {% endif %}
           <td data-label="{{ page.operating_budget.table_header.fy-2 }}">{{ row.fy-2 | thousands_separated }}</td>
