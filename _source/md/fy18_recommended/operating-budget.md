@@ -38,7 +38,6 @@ components:
         "FY17 Budget": 2,996.09
         "FY18 Budget": 3,139.79
       - "Category": Surplus (Deficit)
-        "total": true
         "FY15 Actual": 7.36
         "FY16 Actual": 1.92
         "FY17 Budget": 0.00
