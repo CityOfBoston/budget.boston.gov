@@ -27,6 +27,8 @@
     {% for row in include.arg[0].columns %}
       {% if row.total %}
       <tr class="total">
+      {% elsif row.subtotal %}
+      <tr class="subtotal">
       {% else %}
       <tr>
       {% endif %}
@@ -41,7 +43,7 @@
             <td data-label="{{ column[0] }}">{{ column[1].value | append: "%" }}</td>
           {% elsif column[1].align == 'left' %}
             <td data-label="{{ column[0] }}" class="table-left">{{ column[1].value }}</td>
-          {% elsif column[0] != 'total' %}
+          {% elsif column[0] != 'total' and column[0] != 'subtotal' %}
             <td data-label="{{ column[0] }}">{{ column[1] }}</td>
           {% endif %}
         {% endfor %}
