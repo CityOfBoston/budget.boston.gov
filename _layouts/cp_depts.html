@@ -65,9 +65,9 @@ layout: bos_wrapper
   <thead>
     <tr>
       <th>{{ page.projects[0].header.category }}</th>
-      <th>{{ page.projects[0].header.name }}</th>
-      <th>{{ page.projects[0].header.location }}</th>
-      <th>{{ page.projects[0].header.status }}</th>
+      <th class="table-left">{{ page.projects[0].header.name }}</th>
+      <th class="table-left">{{ page.projects[0].header.location }}</th>
+      <th class="table-left">{{ page.projects[0].header.status }}</th>
       <th>{{ page.projects[0].header.fy-0 }}</th>
       <th>{{ page.projects[0].header.project_title }}</th>
     </tr>
@@ -80,11 +80,11 @@ layout: bos_wrapper
             <td data-label="{{ page.projects[0].header.category }}">
               <a href="{{ site.url }}/capital-projects/{{ category[0] | replace: "'","" | slugify }}">{{ category[0] }}</a>
             </td>
-            <td data-label="{{ page.projects[0].header.name }}">
+            <td data-label="{{ page.projects[0].header.name }}" class="table-left">
               <a href="{{ site.url }}/capital-projects/{{ page.name | replace: "'","" | slugify }}/{{ project.name | replace: "'",""  | slugify }}">{{ project.name }}</a>
             </td>
-            <td data-label="{{ page.projects[0].header.location }}">{{ project.location }}</td>
-            <td data-label="{{ page.projects[0].header.status }}">{{ project.status }}</td>
+            <td data-label="{{ page.projects[0].header.location }}" class="table-left">{{ project.location }}</td>
+            <td data-label="{{ page.projects[0].header.status }}" class="table-left">{{ project.status }}</td>
             <td data-label="{{ page.projects[0].header.fy-0 }}">{{ project.fy-0 | thousands_separated }}</td>
             <td data-label="{{ page.projects[0].header.project_title }}">{{ project.project_total | thousands_separated }}</td>
           </tr>
@@ -101,4 +101,4 @@ layout: bos_wrapper
       </tr>
   </tbody>
 </table>
-
+<br />
