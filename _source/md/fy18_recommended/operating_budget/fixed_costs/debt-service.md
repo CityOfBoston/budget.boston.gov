@@ -50,7 +50,7 @@ components:
       name: Back to all expenditures
       link: /operating-budget
     columns:
-      - "Category": Totals
+      - "": Total
         "FY15 Actual": 
           value: 148006831
           filter: delimiter

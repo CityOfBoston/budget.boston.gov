@@ -53,8 +53,16 @@ components:
       <li>an additional $2.25 million deposit by the BPHC into the Trust.</li>
       </ul>
   - col: 
-    - img: /img/fy18_recommended/featured_analyis/pages/fy18-annual-required-contribution.png
+    - img: /img/featured_analysis/pages/fy18-annual-required-contribution.png
     - blurb: >
         <h5>Funding the OPEB liability</h5>
         <p>As discussed later, the City is on track to fully fund its pension liability in 2025. The City then plans to redirect previous annual pension contributions to further reduce the unfunded OPEB liability, with a goal of fully funding the OPEB liability in 30 years.</p>
+- table: 
+  - title: Other Post Employment Benefits
+    columns: 
+      - "": Total
+        "FY15 Actual": 40.00
+        "FY16 Actual": 40.00
+        "FY17 Budget": 40.00
+        "FY18 Budget": 40.00
 ---

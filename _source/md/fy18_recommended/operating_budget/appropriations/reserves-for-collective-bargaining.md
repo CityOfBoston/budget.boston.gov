@@ -42,6 +42,7 @@ components:
         "FY17 Budget": 9.00
         "FY18 Budget": 20.00  
       - "": Totals
+        "total": true
         "FY15 Actual": 10.79
         "FY16 Actual": 0.02
         "FY17 Budget": 16.00

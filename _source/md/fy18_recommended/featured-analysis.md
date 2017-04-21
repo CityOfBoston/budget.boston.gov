@@ -77,7 +77,7 @@ components:
   - card: /operating-budget/reserve-for-collective-bargaining/
   - card: /operating-budget/debt-service/
   - card: /operating-budget/pensions/
-  - card: /operating-budget/state-assessments
+  - card: /operating-budget/state-assessments/
   - card: /operating-budget/reserve/
   - card: /featured-analysis/personnel-changes/
   - card: /featured-analysis/external-funds/
@@ -101,5 +101,5 @@ components:
   - card: /financial-management/
   - card: /featured-analysis/financing-fy18-fy22-capital-plan/
   - card: /featured-analysis/debt-management-policies-and-debt-implications-of-plan/
-  - card: /featured-analysis/performance-management
+  - card: /featured-analysis/performance-management/
 ---

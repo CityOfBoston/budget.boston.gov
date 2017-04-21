@@ -45,7 +45,7 @@ components:
       name: Back to all expenditures
       link: /operating-budget
     columns:
-      - "": Pensions
+      - "": Total
         "FY15 Actual": 
           value: 169624584
           filter: delimiter

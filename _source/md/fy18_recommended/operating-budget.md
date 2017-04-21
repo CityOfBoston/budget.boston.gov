@@ -38,7 +38,6 @@ components:
         "FY17 Budget": 2,996.09
         "FY18 Budget": 3,139.79
       - "Category": Surplus (Deficit)
-        "total": true
         "FY15 Actual": 7.36
         "FY16 Actual": 1.92
         "FY17 Budget": 0.00
@@ -130,6 +129,7 @@ components:
       "FY17 Budget": 429.85
       "FY18 Budget": 440.54
     - "Source": Total recurring revenue
+      "subtotal": true
       "FY15 Actual": 2,780.42
       "FY16 Actual": 2,883.01
       "FY17 Budget": 2,952.09
@@ -197,7 +197,7 @@ components:
       "FY17 Budget": 40.00
       "FY18 Budget": 40.00
     - "Expenditure": Total appropriations
-      "total": true
+      "subtotal": true
       "FY15 Actual": 2,238.97
       "FY16 Actual": 2,291.41
       "FY17 Budget": 2,372.18
@@ -245,7 +245,7 @@ components:
       "FY17 Budget": 0.00
       "FY18 Budget": 1.00
     - "Expenditure": Total fixed costs
-      "total": true
+      "subtotal": true
       "FY15 Actual": 534.08
       "FY16 Actual": 589.68
       "FY17 Budget": 623.91
