@@ -15,7 +15,11 @@
   <thead>
     <tr>
       {% for key in include.arg[0].columns[0] %}
-        <th>{{ key[0] }}</th>
+        {% if key[1].align == 'left' %}
+          <th class="table-left">{{ key[0] }}</td>
+        {% else %}
+          <th>{{ key[0] }}</th>
+        {% endif %}
       {% endfor %}
     </tr>
   </thead>
@@ -36,7 +40,7 @@
           {% elsif column[1].filter == 'percent' %}
             <td data-label="{{ column[0] }}">{{ column[1].value | append: "%" }}</td>
           {% elsif column[1].align == 'left' %}
-            <td data-label="{{ column[0] }}" class="td-left">{{ column[1].value }}</td>
+            <td data-label="{{ column[0] }}" class="table-left">{{ column[1].value }}</td>
           {% elsif column[0] != 'total' %}
             <td data-label="{{ column[0] }}">{{ column[1] }}</td>
           {% endif %}
