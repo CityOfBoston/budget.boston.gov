@@ -9,7 +9,10 @@
   thead {
     tr {
       th {
-        &:first-of-type { text-align: left; }
+        &:first-of-type,
+        &.table-left {
+          text-align: left;
+        }
         text-align: right;
         padding: 9px;
       }
@@ -27,7 +30,7 @@
       }
       td {
         &:first-of-type,
-        &.td-left {
+        &.table-left {
           text-align: left;
           font-style: italic;
         }
@@ -43,7 +46,7 @@
 }
 @media (max-width: 767px) {
 .responsive-table tbody tr td:first-of-type,
-.responsive-table tbody tr td.td-left {
+.responsive-table tbody tr td.table-left {
   text-align: right;
 }
 }
