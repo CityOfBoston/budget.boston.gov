@@ -1,6 +1,7 @@
 ---
 {
   "debug":"JBD",
+  "publish_subordinates":true,
   "file_version":"0.10",
   "section_id":11,
   "section_md5_id":"6512BD43D9CAA6E02C990B0A82652DCA",
@@ -37,7 +38,8 @@
         "fy-2":1222981,
         "fy-1":1056163,
         "fy-0":1111758,
-        "fy+1":1176580
+        "fy+1":1176580,
+        "publish_subordinates":true
       },
       {
         "name":"Executive",
@@ -45,7 +47,8 @@
         "fy-2":521583,
         "fy-1":333987,
         "fy-0":363272,
-        "fy+1":357465
+        "fy+1":357465,
+        "publish_subordinates":true
       },
       {
         "name":"Policy and Planning",
@@ -53,7 +56,8 @@
         "fy-2":477957,
         "fy-1":959204,
         "fy-0":1474711,
-        "fy+1":1439055
+        "fy+1":1439055,
+        "publish_subordinates":true
       },
       {
         "name":"New Urban Mechanics",
@@ -61,7 +65,8 @@
         "fy-2":277978,
         "fy-1":280703,
         "fy-0":369381,
-        "fy+1":394536
+        "fy+1":394536,
+        "publish_subordinates":true
       },
       {
         "name":"Communications",
@@ -69,7 +74,8 @@
         "fy-2":0,
         "fy-1":603653,
         "fy-0":723159,
-        "fy+1":792304
+        "fy+1":792304,
+        "publish_subordinates":true
       },
       {
         "name":"Total",
@@ -100,7 +106,8 @@
         "fy-2":0,
         "fy-1":105685,
         "fy-0":138373,
-        "fy+1":26740
+        "fy+1":26740,
+        "publish_subordinates":true
       },
       {
         "name":"Earned Indirect",
@@ -108,7 +115,8 @@
         "fy-2":0,
         "fy-1":0,
         "fy-0":223516,
-        "fy+1":223516
+        "fy+1":223516,
+        "publish_subordinates":true
       },
       {
         "name":"Harvard Business School Service",
@@ -116,7 +124,8 @@
         "fy-2":88912,
         "fy-1":83077,
         "fy-0":115247,
-        "fy+1":90247
+        "fy+1":90247,
+        "publish_subordinates":true
       },
       {
         "name":"Innovation Delivery Team",
@@ -124,7 +133,8 @@
         "fy-2":0,
         "fy-1":411310,
         "fy-0":450000,
-        "fy+1":709621
+        "fy+1":709621,
+        "publish_subordinates":true
       },
       {
         "name":"Innovations in American Government",
@@ -132,7 +142,8 @@
         "fy-2":7046,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Policy Research Grant",
@@ -140,7 +151,8 @@
         "fy-2":0,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":25137
+        "fy+1":25137,
+        "publish_subordinates":true
       },
       {
         "name":"Public Service Fellowship",
@@ -148,7 +160,8 @@
         "fy-2":0,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":25137
+        "fy+1":25137,
+        "publish_subordinates":true
       },
       {
         "name":"Total",

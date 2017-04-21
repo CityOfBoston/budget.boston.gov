@@ -1,5 +1,6 @@
 ---
 {
+  "publish_subordinates":true,
   "cabinet":"Health and Human Services",
   "department":"Youth Engagement and Employment",
   "file_version":"0.10",

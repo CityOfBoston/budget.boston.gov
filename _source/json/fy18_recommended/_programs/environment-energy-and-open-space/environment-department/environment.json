@@ -1,5 +1,6 @@
 ---
 {
+  "publish_subordinates":true,
   "cabinet":"Environment, Energy and Open Space",
   "department":"Environment Department",
   "file_version":"0.10",

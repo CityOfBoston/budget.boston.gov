@@ -1,6 +1,7 @@
 ---
 {
   "debug":"JBD",
+  "publish_subordinates":true,
   "file_version":"0.10",
   "section_id":43,
   "section_md5_id":"17E62166FC8586DFA4D1BC0E1742C08B",
@@ -60,7 +61,8 @@
         "fy-2":499453,
         "fy-1":506835,
         "fy-0":602016,
-        "fy+1":585698
+        "fy+1":585698,
+        "publish_subordinates":true
       },
       {
         "name":"Neighborhood Services",
@@ -68,7 +70,8 @@
         "fy-2":922517,
         "fy-1":1009736,
         "fy-0":1177057,
-        "fy+1":1180925
+        "fy+1":1180925,
+        "publish_subordinates":true
       },
       {
         "name":"City Hall to Go",
@@ -76,7 +79,8 @@
         "fy-2":0,
         "fy-1":128862,
         "fy-0":191430,
-        "fy+1":175929
+        "fy+1":175929,
+        "publish_subordinates":true
       },
       {
         "name":"Boston 311",
@@ -84,7 +88,8 @@
         "fy-2":0,
         "fy-1":879467,
         "fy-0":1224227,
-        "fy+1":1345061
+        "fy+1":1345061,
+        "publish_subordinates":true
       },
       {
         "name":"Total",
@@ -115,7 +120,8 @@
         "fy-2":0,
         "fy-1":13608,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Love Your Block",
@@ -123,7 +129,8 @@
         "fy-2":0,
         "fy-1":11392,
         "fy-0":10000,
-        "fy+1":75000
+        "fy+1":75000,
+        "publish_subordinates":true
       },
       {
         "name":"Total",

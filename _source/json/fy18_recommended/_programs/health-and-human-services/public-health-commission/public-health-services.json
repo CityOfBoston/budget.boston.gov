@@ -1,5 +1,6 @@
 ---
 {
+  "publish_subordinates":true,
   "cabinet":"Health and Human Services",
   "department":"Public Health Commission",
   "file_version":"0.10",
@@ -313,7 +314,7 @@
     {
       "section_name":"Performance",
       "strategy":[
-        "Stregthen Partnerships with healthcare"
+        "Strengthen partnerships with healthcare"
       ],
       "performance_measures":[
         {

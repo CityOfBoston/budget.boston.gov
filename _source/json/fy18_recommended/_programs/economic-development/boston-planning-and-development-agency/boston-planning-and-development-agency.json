@@ -1,5 +1,6 @@
 ---
 {
+  "publish_subordinates":true,
   "cabinet":"Economic Development",
   "department":"Boston Planning and Development Agency",
   "file_version":"0.10",

@@ -1,6 +1,7 @@
 ---
 {
   "debug":"JBD",
+  "publish_subordinates":true,
   "file_version":"0.10",
   "section_id":16,
   "section_md5_id":"C74D97B01EAE257E44AA9D5BADE97BAF",
@@ -75,7 +76,8 @@
         "fy-2":1813038,
         "fy-1":1750447,
         "fy-0":2232258,
-        "fy+1":2265403
+        "fy+1":2265403,
+        "publish_subordinates":true
       },
       {
         "name":"Affirmative Action",
@@ -83,7 +85,8 @@
         "fy-2":77197,
         "fy-1":53743,
         "fy-0":72407,
-        "fy+1":30500
+        "fy+1":30500,
+        "publish_subordinates":true
       },
       {
         "name":"Health Benefits and Insurance",
@@ -91,7 +94,8 @@
         "fy-2":590910,
         "fy-1":593523,
         "fy-0":722365,
-        "fy+1":793932
+        "fy+1":793932,
+        "publish_subordinates":true
       },
       {
         "name":"Employee Assistance",
@@ -99,7 +103,8 @@
         "fy-2":80730,
         "fy-1":174328,
         "fy-0":86456,
-        "fy+1":18927
+        "fy+1":18927,
+        "publish_subordinates":true
       },
       {
         "name":"Workers Compensation",
@@ -107,7 +112,8 @@
         "fy-2":923347,
         "fy-1":924982,
         "fy-0":1019347,
-        "fy+1":828171
+        "fy+1":828171,
+        "publish_subordinates":true
       },
       {
         "name":"Total",

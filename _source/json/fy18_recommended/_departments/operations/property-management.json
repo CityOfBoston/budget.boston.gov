@@ -1,6 +1,7 @@
 ---
 {
   "debug":"JBD",
+  "publish_subordinates":true,
   "file_version":"0.10",
   "section_id":6,
   "section_md5_id":"1679091C5A880FAF6FB5E6087EB1B2DC",
@@ -60,7 +61,8 @@
         "fy-2":2085565,
         "fy-1":1877245,
         "fy-0":1677692,
-        "fy+1":1915883
+        "fy+1":1915883,
+        "publish_subordinates":true
       },
       {
         "name":"Building Maintenance",
@@ -68,7 +70,8 @@
         "fy-2":6676842,
         "fy-1":7148430,
         "fy-0":8377460,
-        "fy+1":8003697
+        "fy+1":8003697,
+        "publish_subordinates":true
       },
       {
         "name":"Alterations and Repair",
@@ -76,7 +79,8 @@
         "fy-2":1905091,
         "fy-1":1637044,
         "fy-0":1693997,
-        "fy+1":1554706
+        "fy+1":1554706,
+        "publish_subordinates":true
       },
       {
         "name":"Enforcement",
@@ -84,7 +88,8 @@
         "fy-2":3801098,
         "fy-1":4051334,
         "fy-0":3600446,
-        "fy+1":2387699
+        "fy+1":2387699,
+        "publish_subordinates":true
       },
       {
         "name":"Security Systems",
@@ -92,7 +97,8 @@
         "fy-2":1402276,
         "fy-1":789646,
         "fy-0":962082,
-        "fy+1":835969
+        "fy+1":835969,
+        "publish_subordinates":true
       },
       {
         "name":"Animal Control",
@@ -100,7 +106,8 @@
         "fy-2":1142746,
         "fy-1":150,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Building Systems",
@@ -108,7 +115,8 @@
         "fy-2":1615077,
         "fy-1":1762822,
         "fy-0":2029137,
-        "fy+1":2397560
+        "fy+1":2397560,
+        "publish_subordinates":true
       },
       {
         "name":"Capital Construction",
@@ -116,7 +124,8 @@
         "fy-2":5067482,
         "fy-1":6630153,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Total",

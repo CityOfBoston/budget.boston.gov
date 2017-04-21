@@ -1,6 +1,7 @@
 ---
 {
   "debug":"JBD",
+  "publish_subordinates":true,
   "file_version":"0.10",
   "section_id":13,
   "section_md5_id":"C51CE410C124A10E0DB5E4B97FC2AF39",
@@ -37,7 +38,8 @@
         "fy-2":1145490,
         "fy-1":1176720,
         "fy-0":1086605,
-        "fy+1":1066026
+        "fy+1":1066026,
+        "publish_subordinates":true
       },
       {
         "name":"Grants Administration",
@@ -45,7 +47,8 @@
         "fy-2":91896,
         "fy-1":98344,
         "fy-0":98564,
-        "fy+1":99594
+        "fy+1":99594,
+        "publish_subordinates":true
       },
       {
         "name":"Total",

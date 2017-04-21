@@ -1,5 +1,6 @@
 ---
 {
+  "publish_subordinates":true,
   "cabinet":"Administration and Finance",
   "department":"Human Resources",
   "file_version":"0.10",

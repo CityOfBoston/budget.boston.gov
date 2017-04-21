@@ -1,6 +1,7 @@
 ---
 {
   "debug":"JBD",
+  "publish_subordinates":true,
   "file_version":"0.10",
   "section_id":47,
   "section_md5_id":"67C6A1E7CE56D3D6FA748AB6D9AF3FD7",
@@ -48,7 +49,8 @@
         "fy-2":2018442,
         "fy-1":1897415,
         "fy-0":2232944,
-        "fy+1":2517729
+        "fy+1":2517729,
+        "publish_subordinates":true
       },
       {
         "name":"Total",
@@ -79,7 +81,8 @@
         "fy-2":11611,
         "fy-1":20709,
         "fy-0":1200,
-        "fy+1":40095
+        "fy+1":40095,
+        "publish_subordinates":true
       },
       {
         "name":"BARR/BEDF Energy Efficiency Grant",
@@ -87,7 +90,8 @@
         "fy-2":38652,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Boston Pollution Abatement Fund",
@@ -95,7 +99,8 @@
         "fy-2":210309,
         "fy-1":134671,
         "fy-0":390980,
-        "fy+1":275298
+        "fy+1":275298,
+        "publish_subordinates":true
       },
       {
         "name":"Climate Action Plan Grant/ BARR Foundation",
@@ -103,7 +108,8 @@
         "fy-2":115689,
         "fy-1":20399,
         "fy-0":17000,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Climate Preparedness Grant",
@@ -111,7 +117,8 @@
         "fy-2":0,
         "fy-1":64187,
         "fy-0":94346,
-        "fy+1":96488
+        "fy+1":96488,
+        "publish_subordinates":true
       },
       {
         "name":"Coastal Community Resilience",
@@ -119,7 +126,8 @@
         "fy-2":0,
         "fy-1":284900,
         "fy-0":0,
-        "fy+1":292000
+        "fy+1":292000,
+        "publish_subordinates":true
       },
       {
         "name":"DOER Energy Manager Grant",
@@ -127,7 +135,8 @@
         "fy-2":0,
         "fy-1":50000,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Greenovate Fellowships",
@@ -135,7 +144,8 @@
         "fy-2":137943,
         "fy-1":53587,
         "fy-0":30000,
-        "fy+1":42750
+        "fy+1":42750,
+        "publish_subordinates":true
       },
       {
         "name":"Ground Water Well System",
@@ -143,7 +153,8 @@
         "fy-2":35000,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Installation of Resiliency Equipment",
@@ -151,7 +162,8 @@
         "fy-2":0,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Multi-City Microgrids",
@@ -159,7 +171,8 @@
         "fy-2":57432,
         "fy-1":22976,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Municipal Waterway",
@@ -167,7 +180,8 @@
         "fy-2":36254,
         "fy-1":121433,
         "fy-0":100000,
-        "fy+1":200261
+        "fy+1":200261,
+        "publish_subordinates":true
       },
       {
         "name":"Renew Boston",
@@ -175,7 +189,8 @@
         "fy-2":150330,
         "fy-1":214123,
         "fy-0":157000,
-        "fy+1":194570
+        "fy+1":194570,
+        "publish_subordinates":true
       },
       {
         "name":"Solar Renewable Energy Certificates",
@@ -183,7 +198,8 @@
         "fy-2":0,
         "fy-1":21420,
         "fy-0":100000,
-        "fy+1":100000
+        "fy+1":100000,
+        "publish_subordinates":true
       },
       {
         "name":"Survey & Planning Grant",
@@ -191,7 +207,8 @@
         "fy-2":42755,
         "fy-1":34765,
         "fy-0":0,
-        "fy+1":63640
+        "fy+1":63640,
+        "publish_subordinates":true
       },
       {
         "name":"The Roof Top Solar Challenge",
@@ -199,7 +216,8 @@
         "fy-2":40000,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Urban Agriculture Visioning Grant",
@@ -207,7 +225,8 @@
         "fy-2":19999,
         "fy-1":5000,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Waste Reduction",
@@ -215,7 +234,8 @@
         "fy-2":0,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":6650
+        "fy+1":6650,
+        "publish_subordinates":true
       },
       {
         "name":"Total",

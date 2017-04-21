@@ -1,6 +1,7 @@
 ---
 {
   "debug":"JBD",
+  "publish_subordinates":true,
   "file_version":"0.10",
   "section_id":59,
   "section_md5_id":"093F65E080A295F8076B1C5722A46AA2",
@@ -48,7 +49,8 @@
         "fy-2":362790,
         "fy-1":381363,
         "fy-0":425021,
-        "fy+1":439937
+        "fy+1":439937,
+        "publish_subordinates":true
       },
       {
         "name":"Total",
@@ -79,7 +81,8 @@
         "fy-2":0,
         "fy-1":121851,
         "fy-0":74809,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Immigrant Integration & Empowerment",
@@ -87,7 +90,8 @@
         "fy-2":43947,
         "fy-1":115893,
         "fy-0":59799,
-        "fy+1":78163
+        "fy+1":78163,
+        "publish_subordinates":true
       },
       {
         "name":"New Americans Library Corners",
@@ -95,7 +99,8 @@
         "fy-2":0,
         "fy-1":13193,
         "fy-0":51868,
-        "fy+1":41660
+        "fy+1":41660,
+        "publish_subordinates":true
       },
       {
         "name":"New Bostonians Contributions",
@@ -103,7 +108,8 @@
         "fy-2":445702,
         "fy-1":322582,
         "fy-0":154000,
-        "fy+1":366000
+        "fy+1":366000,
+        "publish_subordinates":true
       },
       {
         "name":"Total",

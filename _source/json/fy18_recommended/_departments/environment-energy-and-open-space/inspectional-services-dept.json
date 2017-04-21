@@ -1,6 +1,7 @@
 ---
 {
   "debug":"JBD",
+  "publish_subordinates":true,
   "file_version":"0.10",
   "section_id":45,
   "section_md5_id":"6C8349CC7260AE62E3B1396831A8398F",
@@ -67,7 +68,8 @@
         "fy-2":802695,
         "fy-1":1109917,
         "fy-0":990718,
-        "fy+1":1225752
+        "fy+1":1225752,
+        "publish_subordinates":true
       },
       {
         "name":"Administration and Finance",
@@ -75,7 +77,8 @@
         "fy-2":3552570,
         "fy-1":3399462,
         "fy-0":3598182,
-        "fy+1":3487909
+        "fy+1":3487909,
+        "publish_subordinates":true
       },
       {
         "name":"Buildings and Structures",
@@ -83,7 +86,8 @@
         "fy-2":6038443,
         "fy-1":6360690,
         "fy-0":6370123,
-        "fy+1":6171154
+        "fy+1":6171154,
+        "publish_subordinates":true
       },
       {
         "name":"Field Services",
@@ -91,7 +95,8 @@
         "fy-2":6307644,
         "fy-1":7362854,
         "fy-0":7853667,
-        "fy+1":7628714
+        "fy+1":7628714,
+        "publish_subordinates":true
       },
       {
         "name":"Total",
@@ -122,7 +127,8 @@
         "fy-2":196807,
         "fy-1":331604,
         "fy-0":278461,
-        "fy+1":300000
+        "fy+1":300000,
+        "publish_subordinates":true
       },
       {
         "name":"Foreclosure Fund",
@@ -130,7 +136,8 @@
         "fy-2":169660,
         "fy-1":154485,
         "fy-0":72312,
-        "fy+1":15700
+        "fy+1":15700,
+        "publish_subordinates":true
       },
       {
         "name":"Weights & Measures",
@@ -138,7 +145,8 @@
         "fy-2":78439,
         "fy-1":109869,
         "fy-0":22551,
-        "fy+1":89182
+        "fy+1":89182,
+        "publish_subordinates":true
       },
       {
         "name":"Total",

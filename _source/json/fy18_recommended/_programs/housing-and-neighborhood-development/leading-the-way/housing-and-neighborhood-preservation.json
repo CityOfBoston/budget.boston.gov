@@ -1,5 +1,6 @@
 ---
 {
+  "publish_subordinates":false,
   "cabinet":"Housing and Neighborhood Development",
   "department":"Leading the Way",
   "file_version":"0.10",

@@ -12,20 +12,17 @@ components:
 - intro:
   - title: How the budget works
     short_desc: >
-      The City of Boston's budgeting process takes at least 6 months to do, but 
+      <p>The City of Boston's budgeting process takes at least 6 months to do, but 
       that doesn't mean you can't understand it in 90 seconds. Below, find a 
       quick video overview of how Boston's budget works. If you want more detail, 
-      read the text below the video. 
+      read the text below the video.</p>
+      <p><a class="button" href="https://www.boston.gov/public-notices?title=FY18+Budget&field_contact_target_id%5B%5D=441">Attend a budget hearing</a></p>
     description: >
       <iframe width="560" height="315" src="https://www.youtube.com/embed/vKcWmRxe2e8?ecver=1" frameborder="0" allowfullscreen></iframe>
     sidebar_menu: true
 - text_block:
     body: >
-      <p>The City of Boston’s budget process is governed by the City’s Charter* and practices designed to provide transparency and gather public feedback. 
-      The chief executive officer of the City is the Mayor. Martin J. Walsh, the 
-      Mayor of the City, was elected to serve his first term from January 2014 
-      through January 2018. The Mayor has general supervision of and control over 
-      the City’s boards, commissions, officers, and departments. The portion of 
+      <p>The City of Boston’s budget process is governed by the City’s Charter* and practices designed to provide transparency and gather public feedback. The chief executive officer of the City is the Mayor. Martin J. Walsh, the Mayor of the City, was elected to serve his first term from January 2014 through January 2018. The Mayor has general supervision of and control over the City’s boards, commissions, officers, and departments. The portion of 
       the budget covering appropriations for all departments and operations of 
       the City, except the Boston Public Schools, is prepared under the direction 
       of the Mayor. The Boston Public Schools follow a separate process which 

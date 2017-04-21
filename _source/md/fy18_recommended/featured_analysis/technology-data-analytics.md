@@ -73,4 +73,6 @@ components:
   - card: /featured-analysis/technology-city-services-through-cityscore/
   - card: /featured-analysis/health-safety-proactive-agile-ems-through-data/
   - card: /featured-analysis/closing-opportunity-achievement-gaps/
+  - card: /featured-analysis/performance-management/
+  - card: /financial-management/
 ---

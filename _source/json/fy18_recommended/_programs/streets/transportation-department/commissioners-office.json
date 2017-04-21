@@ -1,5 +1,6 @@
 ---
 {
+  "publish_subordinates":true,
   "cabinet":"Streets",
   "department":"Transportation Department",
   "file_version":"0.10",

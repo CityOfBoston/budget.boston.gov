@@ -1,5 +1,6 @@
 ---
 {
+  "publish_subordinates":true,
   "cabinet":"Operations",
   "department":"Intergovernmental Relations",
   "file_version":"0.10",

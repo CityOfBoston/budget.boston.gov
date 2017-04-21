@@ -1,6 +1,7 @@
 ---
 {
   "debug":"JBD",
+  "publish_subordinates":true,
   "file_version":"0.10",
   "section_id":91,
   "section_md5_id":"54229ABFCFA5649E7003B83DD4755294",
@@ -60,7 +61,8 @@
         "fy-2":1170876,
         "fy-1":1327635,
         "fy-0":1516020,
-        "fy+1":1001218
+        "fy+1":1001218,
+        "publish_subordinates":true
       },
       {
         "name":"Budget and Management",
@@ -68,7 +70,8 @@
         "fy-2":531594,
         "fy-1":551482,
         "fy-0":810690,
-        "fy+1":842389
+        "fy+1":842389,
+        "publish_subordinates":true
       },
       {
         "name":"Revenue Monitoring",
@@ -76,7 +79,8 @@
         "fy-2":225956,
         "fy-1":193686,
         "fy-0":193368,
-        "fy+1":866648
+        "fy+1":866648,
+        "publish_subordinates":true
       },
       {
         "name":"Capital Budgeting",
@@ -84,7 +88,8 @@
         "fy-2":483707,
         "fy-1":473233,
         "fy-0":490356,
-        "fy+1":503146
+        "fy+1":503146,
+        "publish_subordinates":true
       },
       {
         "name":"Risk Management",
@@ -92,7 +97,8 @@
         "fy-2":172924,
         "fy-1":176751,
         "fy-0":189542,
-        "fy+1":191357
+        "fy+1":191357,
+        "publish_subordinates":true
       },
       {
         "name":"Total",

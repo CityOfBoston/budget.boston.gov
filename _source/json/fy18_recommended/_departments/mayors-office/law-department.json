@@ -1,6 +1,7 @@
 ---
 {
   "debug":"JBD",
+  "publish_subordinates":true,
   "file_version":"0.10",
   "section_id":12,
   "section_md5_id":"C20AD4D76FE97759AA27A0C99BFF6710",
@@ -55,7 +56,8 @@
         "fy-2":1926683,
         "fy-1":1806057,
         "fy-0":1696635,
-        "fy+1":1220489
+        "fy+1":1220489,
+        "publish_subordinates":true
       },
       {
         "name":"Litigation",
@@ -63,7 +65,8 @@
         "fy-2":2894424,
         "fy-1":1921743,
         "fy-0":2222309,
-        "fy+1":2580041
+        "fy+1":2580041,
+        "publish_subordinates":true
       },
       {
         "name":"Government Services",
@@ -71,7 +74,8 @@
         "fy-2":1162282,
         "fy-1":1301992,
         "fy-0":1866260,
-        "fy+1":2049372
+        "fy+1":2049372,
+        "publish_subordinates":true
       },
       {
         "name":"Office of Gaming and Accountability",
@@ -79,7 +83,8 @@
         "fy-2":9173,
         "fy-1":722987,
         "fy-0":87240,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Total",
@@ -110,7 +115,8 @@
         "fy-2":0,
         "fy-1":27014,
         "fy-0":500000,
-        "fy+1":500000
+        "fy+1":500000,
+        "publish_subordinates":true
       },
       {
         "name":"Total",

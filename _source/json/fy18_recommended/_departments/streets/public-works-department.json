@@ -1,6 +1,7 @@
 ---
 {
   "debug":"JBD",
+  "publish_subordinates":true,
   "file_version":"0.10",
   "section_id":5,
   "section_md5_id":"E4DA3B7FBBCE2345D7772B0674A318D5",
@@ -71,7 +72,8 @@
         "fy-2":3571066,
         "fy-1":2841754,
         "fy-0":2742767,
-        "fy+1":2740140
+        "fy+1":2740140,
+        "publish_subordinates":true
       },
       {
         "name":"Building/Facility Maintenance",
@@ -79,7 +81,8 @@
         "fy-2":3349142,
         "fy-1":2286572,
         "fy-0":2815781,
-        "fy+1":2757333
+        "fy+1":2757333,
+        "publish_subordinates":true
       },
       {
         "name":"Engineering",
@@ -87,7 +90,8 @@
         "fy-2":2293508,
         "fy-1":1670878,
         "fy-0":1488506,
-        "fy+1":1501277
+        "fy+1":1501277,
+        "publish_subordinates":true
       },
       {
         "name":"Construction Management",
@@ -95,7 +99,8 @@
         "fy-2":2324772,
         "fy-1":4690789,
         "fy-0":2816164,
-        "fy+1":2914503
+        "fy+1":2914503,
+        "publish_subordinates":true
       },
       {
         "name":"Highway Field Operations",
@@ -103,7 +108,8 @@
         "fy-2":18016298,
         "fy-1":21060512,
         "fy-0":19737315,
-        "fy+1":19736189
+        "fy+1":19736189,
+        "publish_subordinates":true
       },
       {
         "name":"Bridge Operations/Maintenance",
@@ -111,7 +117,8 @@
         "fy-2":1972448,
         "fy-1":2713515,
         "fy-0":1773567,
-        "fy+1":1818082
+        "fy+1":1818082,
+        "publish_subordinates":true
       },
       {
         "name":"Street Lights",
@@ -119,7 +126,8 @@
         "fy-2":12147672,
         "fy-1":10712131,
         "fy-0":10702914,
-        "fy+1":11502749
+        "fy+1":11502749,
+        "publish_subordinates":true
       },
       {
         "name":"Waste Reduction",
@@ -127,7 +135,8 @@
         "fy-2":38503590,
         "fy-1":39078603,
         "fy-0":39912696,
-        "fy+1":40805575
+        "fy+1":40805575,
+        "publish_subordinates":true
       },
       {
         "name":"Total",
@@ -158,7 +167,8 @@
         "fy-2":14910,
         "fy-1":5565,
         "fy-0":10000,
-        "fy+1":10000
+        "fy+1":10000,
+        "publish_subordinates":true
       },
       {
         "name":"Municipal Recycling",
@@ -166,7 +176,8 @@
         "fy-2":13126,
         "fy-1":0,
         "fy-0":10000,
-        "fy+1":10000
+        "fy+1":10000,
+        "publish_subordinates":true
       },
       {
         "name":"Spectacle Island",
@@ -174,7 +185,8 @@
         "fy-2":0,
         "fy-1":210000,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Total",

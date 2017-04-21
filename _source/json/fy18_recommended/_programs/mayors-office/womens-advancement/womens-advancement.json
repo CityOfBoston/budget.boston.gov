@@ -1,5 +1,6 @@
 ---
 {
+  "publish_subordinates":true,
   "cabinet":"Mayor's Office",
   "department":"Women's Advancement",
   "file_version":"0.10",

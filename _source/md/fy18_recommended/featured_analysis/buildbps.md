@@ -6,7 +6,7 @@ card:
   - title: BuildBPS
     body: >
       The City will invest $1 billion to modernize Boston's public school infrastructure. See how.
-    img: /img/featured_analysis/cards/fa-buildbps.jpg
+    img: /img/featured_analysis/cards/fa-education-aid.jpg
     link: /featured-analysis/buildbps/
 components:
 - breadcrumbs:

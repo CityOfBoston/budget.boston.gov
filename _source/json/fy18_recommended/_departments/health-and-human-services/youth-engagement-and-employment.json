@@ -1,6 +1,7 @@
 ---
 {
   "debug":"JBD",
+  "publish_subordinates":true,
   "file_version":"0.10",
   "section_id":10,
   "section_md5_id":"D3D9446802A44259755D38E6D163E820",
@@ -37,7 +38,8 @@
         "fy-2":4989679,
         "fy-1":5759934,
         "fy-0":6058544,
-        "fy+1":6331229
+        "fy+1":6331229,
+        "publish_subordinates":true
       },
       {
         "name":"Total",
@@ -68,7 +70,8 @@
         "fy-2":74702,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":313780
+        "fy+1":313780,
+        "publish_subordinates":true
       },
       {
         "name":"Youth at Risk",
@@ -76,7 +79,8 @@
         "fy-2":797266,
         "fy-1":764561,
         "fy-0":929106,
-        "fy+1":857375
+        "fy+1":857375,
+        "publish_subordinates":true
       },
       {
         "name":"Youth Engagement & Employment Fund",
@@ -84,7 +88,8 @@
         "fy-2":136171,
         "fy-1":230821,
         "fy-0":103745,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Total",

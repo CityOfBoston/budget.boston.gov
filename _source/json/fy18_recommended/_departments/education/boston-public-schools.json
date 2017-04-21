@@ -1,6 +1,7 @@
 ---
 {
   "debug":"JBD",
+  "publish_subordinates":true,
   "file_version":"0.10",
   "section_id":30,
   "section_md5_id":"34173CB38F07F89DDBEBC2AC9128303F",
@@ -47,7 +48,8 @@
         "fy-2":974925118,
         "fy-1":1016278853,
         "fy-0":1031684005,
-        "fy+1":1060932786
+        "fy+1":1060932786,
+        "publish_subordinates":true
       },
       {
         "name":"Total",
@@ -78,7 +80,8 @@
         "fy-2":1075392,
         "fy-1":1062531,
         "fy-0":989663,
-        "fy+1":949490
+        "fy+1":949490,
+        "publish_subordinates":true
       },
       {
         "name":"Academic Support",
@@ -86,7 +89,8 @@
         "fy-2":613404,
         "fy-1":210194,
         "fy-0":347801,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Adult Career Pathways",
@@ -94,7 +98,8 @@
         "fy-2":109940,
         "fy-1":107730,
         "fy-0":104925,
-        "fy+1":104295
+        "fy+1":104295,
+        "publish_subordinates":true
       },
       {
         "name":"Adult Education Fund",
@@ -102,7 +107,8 @@
         "fy-2":182779,
         "fy-1":160766,
         "fy-0":180100,
-        "fy+1":185749
+        "fy+1":185749,
+        "publish_subordinates":true
       },
       {
         "name":"Adult Education Learning Center",
@@ -110,7 +116,8 @@
         "fy-2":16963,
         "fy-1":1548,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Advanced Placement Incentives",
@@ -118,7 +125,8 @@
         "fy-2":12992,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"ARABIC Summer Academy",
@@ -126,7 +134,8 @@
         "fy-2":95317,
         "fy-1":59312,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"ARRA - School Improvement",
@@ -134,7 +143,8 @@
         "fy-2":1916714,
         "fy-1":2632184,
         "fy-0":801933,
-        "fy+1":7602
+        "fy+1":7602,
+        "publish_subordinates":true
       },
       {
         "name":"ARRA - Title I School Improvement",
@@ -142,7 +152,8 @@
         "fy-2":709,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Athletics Revolving Fund",
@@ -150,7 +161,8 @@
         "fy-2":1460,
         "fy-1":7616,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Boston Adult High School",
@@ -158,7 +170,8 @@
         "fy-2":3274,
         "fy-1":1232,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Boston Energy in Science Teaching",
@@ -166,7 +179,8 @@
         "fy-2":5131,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Boston Marathon Bombing Behavioral Response",
@@ -174,7 +188,8 @@
         "fy-2":0,
         "fy-1":213442,
         "fy-0":1036995,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Boston Public School Energy",
@@ -182,7 +197,8 @@
         "fy-2":0,
         "fy-1":0,
         "fy-0":400000,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Children's Pilot Funds",
@@ -190,7 +206,8 @@
         "fy-2":0,
         "fy-1":206341,
         "fy-0":172270,
-        "fy+1":200000
+        "fy+1":200000,
+        "publish_subordinates":true
       },
       {
         "name":"Choice Neighborhood Grant",
@@ -198,7 +215,8 @@
         "fy-2":71997,
         "fy-1":79947,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Class2003 - Support",
@@ -206,7 +224,8 @@
         "fy-2":10000,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Community Partnership Program",
@@ -214,7 +233,8 @@
         "fy-2":1179081,
         "fy-1":1216240,
         "fy-0":334837,
-        "fy+1":334837
+        "fy+1":334837,
+        "publish_subordinates":true
       },
       {
         "name":"Comprehensive Behavorial Health Model Initiative",
@@ -222,7 +242,8 @@
         "fy-2":0,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":100000
+        "fy+1":100000,
+        "publish_subordinates":true
       },
       {
         "name":"Construct Trades Voc Equipment",
@@ -230,7 +251,8 @@
         "fy-2":0,
         "fy-1":35541,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Coordinated Family & Community Engagement",
@@ -238,7 +260,8 @@
         "fy-2":0,
         "fy-1":0,
         "fy-0":799476,
-        "fy+1":837699
+        "fy+1":837699,
+        "publish_subordinates":true
       },
       {
         "name":"DOJ Youth Forum Cities",
@@ -246,7 +269,8 @@
         "fy-2":91432,
         "fy-1":8867,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Early Literacy Intervention",
@@ -254,7 +278,8 @@
         "fy-2":162032,
         "fy-1":79138,
         "fy-0":47000,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Empowering Teens thru Health",
@@ -262,7 +287,8 @@
         "fy-2":447287,
         "fy-1":437332,
         "fy-0":369999,
-        "fy+1":275000
+        "fy+1":275000,
+        "publish_subordinates":true
       },
       {
         "name":"English for New Bostonians",
@@ -270,7 +296,8 @@
         "fy-2":24956,
         "fy-1":20545,
         "fy-0":18231,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Expanded Learning Time",
@@ -278,7 +305,8 @@
         "fy-2":1998114,
         "fy-1":1766349,
         "fy-0":773467,
-        "fy+1":1369053
+        "fy+1":1369053,
+        "publish_subordinates":true
       },
       {
         "name":"External Diploma",
@@ -286,7 +314,8 @@
         "fy-2":117065,
         "fy-1":105108,
         "fy-0":108700,
-        "fy+1":103001
+        "fy+1":103001,
+        "publish_subordinates":true
       },
       {
         "name":"Facilities Fund",
@@ -294,7 +323,8 @@
         "fy-2":2372618,
         "fy-1":1484708,
         "fy-0":1800000,
-        "fy+1":2600000
+        "fy+1":2600000,
+        "publish_subordinates":true
       },
       {
         "name":"Farm to School Initiative",
@@ -302,7 +332,8 @@
         "fy-2":2500,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Fresh Fruit & Vegetable Program",
@@ -310,7 +341,8 @@
         "fy-2":733206,
         "fy-1":722080,
         "fy-0":0,
-        "fy+1":1079450
+        "fy+1":1079450,
+        "publish_subordinates":true
       },
       {
         "name":"Full Service Community School",
@@ -318,7 +350,8 @@
         "fy-2":448477,
         "fy-1":197102,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"GED Test Score",
@@ -326,7 +359,8 @@
         "fy-2":6146,
         "fy-1":4739,
         "fy-0":4000,
-        "fy+1":5000
+        "fy+1":5000,
+        "publish_subordinates":true
       },
       {
         "name":"High Needs Support Grant",
@@ -334,7 +368,8 @@
         "fy-2":0,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"IDEA",
@@ -342,7 +377,8 @@
         "fy-2":17528787,
         "fy-1":16412751,
         "fy-0":17219684,
-        "fy+1":17863102
+        "fy+1":17863102,
+        "publish_subordinates":true
       },
       {
         "name":"Improving Teacher Quality",
@@ -350,7 +386,8 @@
         "fy-2":40078,
         "fy-1":8095,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Indirect",
@@ -358,7 +395,8 @@
         "fy-2":2477109,
         "fy-1":3154182,
         "fy-0":2141386,
-        "fy+1":2141386
+        "fy+1":2141386,
+        "publish_subordinates":true
       },
       {
         "name":"Innovation School Planning",
@@ -366,7 +404,8 @@
         "fy-2":61847,
         "fy-1":10441,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Institute for Education Science",
@@ -374,7 +413,8 @@
         "fy-2":0,
         "fy-1":59662,
         "fy-0":176634,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Instrument Rental Account",
@@ -382,7 +422,8 @@
         "fy-2":949,
         "fy-1":39171,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Juvenile Accountability",
@@ -390,7 +431,8 @@
         "fy-2":96820,
         "fy-1":22875,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"LEP - Summer Support",
@@ -398,7 +440,8 @@
         "fy-2":78018,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Magnet Schools Assistance",
@@ -406,7 +449,8 @@
         "fy-2":-4601,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"MassGrad Implemenation",
@@ -414,7 +458,8 @@
         "fy-2":185472,
         "fy-1":132191,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"McKinney Homeless",
@@ -422,7 +467,8 @@
         "fy-2":38884,
         "fy-1":42937,
         "fy-0":49999,
-        "fy+1":60000
+        "fy+1":60000,
+        "publish_subordinates":true
       },
       {
         "name":"National Endowment for the Arts",
@@ -430,7 +476,8 @@
         "fy-2":0,
         "fy-1":0,
         "fy-0":50000,
-        "fy+1":70000
+        "fy+1":70000,
+        "publish_subordinates":true
       },
       {
         "name":"Nutrition Summer Start Up",
@@ -438,7 +485,8 @@
         "fy-2":67617,
         "fy-1":50303,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Ocean Communities in Education",
@@ -446,7 +494,8 @@
         "fy-2":8702,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Partnership to Improve Community Health - Safe Routes to School",
@@ -454,7 +503,8 @@
         "fy-2":0,
         "fy-1":102961,
         "fy-0":180000,
-        "fy+1":191464
+        "fy+1":191464,
+        "publish_subordinates":true
       },
       {
         "name":"Pathway to Support At-Risk Students",
@@ -462,7 +512,8 @@
         "fy-2":21320,
         "fy-1":17308,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Perkins Vocational Education",
@@ -470,7 +521,8 @@
         "fy-2":1203452,
         "fy-1":1275399,
         "fy-0":1234767,
-        "fy+1":1541899
+        "fy+1":1541899,
+        "publish_subordinates":true
       },
       {
         "name":"PICH Safe Routes to School",
@@ -478,7 +530,8 @@
         "fy-2":1200,
         "fy-1":164291,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Preschool Expansion Grant",
@@ -486,7 +539,8 @@
         "fy-2":0,
         "fy-1":3372728,
         "fy-0":3879986,
-        "fy+1":3877986
+        "fy+1":3877986,
+        "publish_subordinates":true
       },
       {
         "name":"Quality Full-Day Kindergarten",
@@ -494,7 +548,8 @@
         "fy-2":1879759,
         "fy-1":1628676,
         "fy-0":1790607,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Race To The Top",
@@ -502,7 +557,8 @@
         "fy-2":757769,
         "fy-1":1707,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Reading First",
@@ -510,7 +566,8 @@
         "fy-2":65630,
         "fy-1":472,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Reimbursable",
@@ -518,7 +575,8 @@
         "fy-2":172079,
         "fy-1":4630092,
         "fy-0":8054442,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"ROTC",
@@ -526,7 +584,8 @@
         "fy-2":847033,
         "fy-1":849347,
         "fy-0":870000,
-        "fy+1":845000
+        "fy+1":845000,
+        "publish_subordinates":true
       },
       {
         "name":"Safe Schools",
@@ -534,7 +593,8 @@
         "fy-2":0,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Scale Proj Int Math & Sci",
@@ -542,7 +602,8 @@
         "fy-2":42560,
         "fy-1":58695,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"School Achievement",
@@ -550,7 +611,8 @@
         "fy-2":-1112,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"School Improvement",
@@ -558,7 +620,8 @@
         "fy-2":151447,
         "fy-1":1049744,
         "fy-0":766627,
-        "fy+1":2089641
+        "fy+1":2089641,
+        "publish_subordinates":true
       },
       {
         "name":"School Lunch - Food Services",
@@ -566,7 +629,8 @@
         "fy-2":35067799,
         "fy-1":33230610,
         "fy-0":34284766,
-        "fy+1":35393782
+        "fy+1":35393782,
+        "publish_subordinates":true
       },
       {
         "name":"Small Learning Communities",
@@ -574,7 +638,8 @@
         "fy-2":-5213,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Special Education / Professional Dev",
@@ -582,7 +647,8 @@
         "fy-2":115319,
         "fy-1":124748,
         "fy-0":173784,
-        "fy+1":173784
+        "fy+1":173784,
+        "publish_subordinates":true
       },
       {
         "name":"Special Education 188 Early Childhood",
@@ -590,7 +656,8 @@
         "fy-2":419513,
         "fy-1":362707,
         "fy-0":484467,
-        "fy+1":480204
+        "fy+1":480204,
+        "publish_subordinates":true
       },
       {
         "name":"Special Education Circuit Breaker",
@@ -598,7 +665,8 @@
         "fy-2":11329574,
         "fy-1":8041636,
         "fy-0":15173004,
-        "fy+1":15628194
+        "fy+1":15628194,
+        "publish_subordinates":true
       },
       {
         "name":"STEM - Early College HS",
@@ -606,7 +674,8 @@
         "fy-2":26000,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Strategic Support for U/P School",
@@ -614,7 +683,8 @@
         "fy-2":57024,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Summer Enhancement Program",
@@ -622,7 +692,8 @@
         "fy-2":20000,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Summer Food Program",
@@ -630,7 +701,8 @@
         "fy-2":1120197,
         "fy-1":1054544,
         "fy-0":1317441,
-        "fy+1":1317441
+        "fy+1":1317441,
+        "publish_subordinates":true
       },
       {
         "name":"Supporting Chemistry Teachers",
@@ -638,7 +710,8 @@
         "fy-2":0,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":256567
+        "fy+1":256567,
+        "publish_subordinates":true
       },
       {
         "name":"Supporting Family Literacy",
@@ -646,7 +719,8 @@
         "fy-2":9319,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Sustainable Materials Recovery",
@@ -654,7 +728,8 @@
         "fy-2":18940,
         "fy-1":254,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Tech Enhancement Options",
@@ -662,7 +737,8 @@
         "fy-2":12500,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Technology Fund",
@@ -670,7 +746,8 @@
         "fy-2":90561,
         "fy-1":26696,
         "fy-0":1500000,
-        "fy+1":1500000
+        "fy+1":1500000,
+        "publish_subordinates":true
       },
       {
         "name":"Teen Pregnancy Prevention",
@@ -678,7 +755,8 @@
         "fy-2":88076,
         "fy-1":111956,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"TILT - Turnaround with Inc Learn Time",
@@ -686,7 +764,8 @@
         "fy-2":1027389,
         "fy-1":135699,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Title I",
@@ -694,7 +773,8 @@
         "fy-2":35612110,
         "fy-1":31145744,
         "fy-0":29463856,
-        "fy+1":37442667
+        "fy+1":37442667,
+        "publish_subordinates":true
       },
       {
         "name":"Title I - School Support",
@@ -702,7 +782,8 @@
         "fy-2":464686,
         "fy-1":133695,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Title I - Supplemental Support",
@@ -710,7 +791,8 @@
         "fy-2":5010,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Title II - Teacher Quality",
@@ -718,7 +800,8 @@
         "fy-2":4535259,
         "fy-1":5834059,
         "fy-0":5512475,
-        "fy+1":5668189
+        "fy+1":5668189,
+        "publish_subordinates":true
       },
       {
         "name":"Title III - Bilingual Lang Acq",
@@ -726,7 +809,8 @@
         "fy-2":2811964,
         "fy-1":1560979,
         "fy-0":2501686,
-        "fy+1":2335228
+        "fy+1":2335228,
+        "publish_subordinates":true
       },
       {
         "name":"Title III - Summer Grant",
@@ -734,7 +818,8 @@
         "fy-2":0,
         "fy-1":82263,
         "fy-0":101286,
-        "fy+1":69877
+        "fy+1":69877,
+        "publish_subordinates":true
       },
       {
         "name":"Transportation Fund",
@@ -742,7 +827,8 @@
         "fy-2":123617,
         "fy-1":19495,
         "fy-0":125000,
-        "fy+1":125000
+        "fy+1":125000,
+        "publish_subordinates":true
       },
       {
         "name":"Turnaround Sustainability Grant",
@@ -750,7 +836,8 @@
         "fy-2":-69,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Total",

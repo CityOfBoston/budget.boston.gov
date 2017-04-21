@@ -1,6 +1,7 @@
 ---
 {
   "debug":"JBD",
+  "publish_subordinates":true,
   "file_version":"0.10",
   "section_id":28,
   "section_md5_id":"33E75FF09DD601BBE69F351039152189",
@@ -67,7 +68,8 @@
         "fy-2":18732567,
         "fy-1":16075074,
         "fy-0":16778676,
-        "fy+1":17005853
+        "fy+1":17005853,
+        "publish_subordinates":true
       },
       {
         "name":"Fire Suppression",
@@ -75,7 +77,8 @@
         "fy-2":161551602,
         "fy-1":165813092,
         "fy-0":168907854,
-        "fy+1":177730845
+        "fy+1":177730845,
+        "publish_subordinates":true
       },
       {
         "name":"Fire Alarm",
@@ -83,7 +86,8 @@
         "fy-2":8388452,
         "fy-1":9060069,
         "fy-0":9986617,
-        "fy+1":10048082
+        "fy+1":10048082,
+        "publish_subordinates":true
       },
       {
         "name":"Training",
@@ -91,7 +95,8 @@
         "fy-2":4565225,
         "fy-1":4693957,
         "fy-0":4607967,
-        "fy+1":5269509
+        "fy+1":5269509,
+        "publish_subordinates":true
       },
       {
         "name":"Maintenance",
@@ -99,7 +104,8 @@
         "fy-2":7606247,
         "fy-1":9138032,
         "fy-0":8001587,
-        "fy+1":9351783
+        "fy+1":9351783,
+        "publish_subordinates":true
       },
       {
         "name":"Fire Prevention",
@@ -107,7 +113,8 @@
         "fy-2":10390385,
         "fy-1":11393025,
         "fy-0":11880320,
-        "fy+1":11953101
+        "fy+1":11953101,
+        "publish_subordinates":true
       },
       {
         "name":"Firefighter Safety, Health and Wellness",
@@ -115,7 +122,8 @@
         "fy-2":0,
         "fy-1":744608,
         "fy-0":827344,
-        "fy+1":827013
+        "fy+1":827013,
+        "publish_subordinates":true
       },
       {
         "name":"Total",
@@ -146,7 +154,8 @@
         "fy-2":2535,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Fire Prevention and Education Fund",
@@ -154,7 +163,8 @@
         "fy-2":0,
         "fy-1":0,
         "fy-0":20000,
-        "fy+1":20000
+        "fy+1":20000,
+        "publish_subordinates":true
       },
       {
         "name":"Hazardous Materials Response",
@@ -162,7 +172,8 @@
         "fy-2":168950,
         "fy-1":111843,
         "fy-0":237500,
-        "fy+1":237500
+        "fy+1":237500,
+        "publish_subordinates":true
       },
       {
         "name":"Hazmat Recovery Fund",
@@ -170,7 +181,8 @@
         "fy-2":23999,
         "fy-1":4158,
         "fy-0":75000,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Hazmat Team Response",
@@ -178,7 +190,8 @@
         "fy-2":14846,
         "fy-1":1470,
         "fy-0":14000,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Mass Decontam Unit (MDU)",
@@ -186,7 +199,8 @@
         "fy-2":17904,
         "fy-1":2340,
         "fy-0":0,
-        "fy+1":40000
+        "fy+1":40000,
+        "publish_subordinates":true
       },
       {
         "name":"Port Security Program Grant",
@@ -194,7 +208,8 @@
         "fy-2":4644,
         "fy-1":465957,
         "fy-0":142500,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Safer Grant",
@@ -202,7 +217,8 @@
         "fy-2":0,
         "fy-1":4034422,
         "fy-0":7116021,
-        "fy+1":1628205
+        "fy+1":1628205,
+        "publish_subordinates":true
       },
       {
         "name":"Safety, Health and Wellness",
@@ -210,7 +226,8 @@
         "fy-2":0,
         "fy-1":4387,
         "fy-0":20000,
-        "fy+1":20000
+        "fy+1":20000,
+        "publish_subordinates":true
       },
       {
         "name":"State Training Grant",
@@ -218,7 +235,8 @@
         "fy-2":1189059,
         "fy-1":2007176,
         "fy-0":1750000,
-        "fy+1":2250000
+        "fy+1":2250000,
+        "publish_subordinates":true
       },
       {
         "name":"The Last Call Foundation",
@@ -226,7 +244,8 @@
         "fy-2":44731,
         "fy-1":165130,
         "fy-0":200000,
-        "fy+1":150000
+        "fy+1":150000,
+        "publish_subordinates":true
       },
       {
         "name":"Training Academy Revolving Fund",
@@ -234,7 +253,8 @@
         "fy-2":3450,
         "fy-1":0,
         "fy-0":15000,
-        "fy+1":0
+        "fy+1":0,
+        "publish_subordinates":true
       },
       {
         "name":"Total",

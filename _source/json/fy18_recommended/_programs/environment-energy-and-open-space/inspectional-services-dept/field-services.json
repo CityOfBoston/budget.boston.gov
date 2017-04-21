@@ -1,5 +1,6 @@
 ---
 {
+  "publish_subordinates":true,
   "cabinet":"Environment, Energy and Open Space",
   "department":"Inspectional Services Dept",
   "file_version":"0.10",
