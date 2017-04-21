@@ -57,4 +57,12 @@ components:
     - blurb: >
         <h5>Funding the OPEB liability</h5>
         <p>As discussed later, the City is on track to fully fund its pension liability in 2025. The City then plans to redirect previous annual pension contributions to further reduce the unfunded OPEB liability, with a goal of fully funding the OPEB liability in 30 years.</p>
+- table: 
+  - title: Other Post Employment Benefits
+    columns: 
+      - "": Total
+        "FY15 Actual": 40.00
+        "FY16 Actual": 40.00
+        "FY17 Budget": 40.00
+        "FY18 Budget": 40.00
 ---

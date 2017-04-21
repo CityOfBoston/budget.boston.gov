@@ -38,7 +38,7 @@ components:
       name: Back to all expenditures
       link: /operating-budget
     columns:
-      - "": Reserve
+      - "": Total
         "FY15 Actual": 
           value: 915357
           filter: delimiter
