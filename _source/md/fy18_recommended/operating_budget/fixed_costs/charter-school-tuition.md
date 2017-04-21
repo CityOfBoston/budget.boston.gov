@@ -38,7 +38,7 @@ components:
       name: Back to all expenditures
       link: /operating-budget
     columns:
-      - "Cabinet": Charter School Tuition
+      - "": Total
         "FY15 Actual": 
           value: 125810274
           filter: delimiter

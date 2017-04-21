@@ -38,7 +38,7 @@ components:
       name: Back to all expenditures
       link: /operating-budget
     columns:
-      - "": Suffolk County Assessment
+      - "": Total
         "FY15 Actual": 
           value: 3874532
           filter: delimiter
