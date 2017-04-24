@@ -150,7 +150,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"# Developer Trainings.",
+              "line_data":"# Developer Trainings",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"4",
@@ -158,7 +158,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"% Answered Technical Assistance Requests.",
+              "line_data":"% Answered Technical Assistance Requests",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"100%",
@@ -187,7 +187,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"# APS Residents Reached.",
+              "line_data":"# APS Residents Reached",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"150",
@@ -195,7 +195,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"# Neighborhood meetings.",
+              "line_data":"# Neighborhood meetings",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"6",
@@ -224,7 +224,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"# City Dept Trainings.",
+              "line_data":"# City Dept Trainings",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"10",
@@ -253,7 +253,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"# City Resident Trainings.",
+              "line_data":"# City Resident Trainings",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"6",
@@ -282,7 +282,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"Average days to review HP applications.",
+              "line_data":"Average days to review HP applications",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"45",

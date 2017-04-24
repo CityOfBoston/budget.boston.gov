@@ -150,7 +150,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"% of personal property filed online.",
+              "line_data":"% of personal property filed online",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"92%",
@@ -179,7 +179,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"# of Abutter list application downloads.",
+              "line_data":"# of Abutter list application downloads",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"10",
@@ -187,7 +187,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"# of property data downloads.",
+              "line_data":"# of property data downloads",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"6",
@@ -216,7 +216,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"# of personal exemptions applications received.",
+              "line_data":"# of personal exemptions applications received",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"4,500",
@@ -224,7 +224,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"# of residential exemption applications received.",
+              "line_data":"# of residential exemption applications received",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"7,400",
@@ -232,7 +232,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"% of personal exemption applications processed within 15 days.",
+              "line_data":"% of personal exemption applications processed within 15 days",
               "fy-2":"100%",
               "fy-1":"100%",
               "fy-0":"100%",
@@ -240,7 +240,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"% of residential exemption applications processed wthin 15 days.",
+              "line_data":"% of residential exemption applications processed wthin 15 days",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"100%",

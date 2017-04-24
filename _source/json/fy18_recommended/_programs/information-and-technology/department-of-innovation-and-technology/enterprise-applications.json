@@ -150,7 +150,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"BAIS - iCIMS applicant experience (out of 5).",
+              "line_data":"BAIS - iCIMS applicant experience (out of 5)",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"5",
@@ -158,7 +158,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"- customer satisfaction with reporting process (out of 5).",
+              "line_data":"- customer satisfaction with reporting process (out of 5)",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"5",
@@ -166,7 +166,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Customer Satisfaction with online permitting experience (out of 5).",
+              "line_data":"Customer Satisfaction with online permitting experience (out of 5)",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"5",
@@ -195,7 +195,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"- % of total requests received over digital channels.",
+              "line_data":"- % of total requests received over digital channels",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"100",
@@ -224,7 +224,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"% of applications hosted in the cloud.",
+              "line_data":"% of applications hosted in the cloud",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"75%",

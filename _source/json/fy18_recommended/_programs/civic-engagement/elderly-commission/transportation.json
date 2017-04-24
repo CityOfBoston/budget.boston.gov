@@ -150,7 +150,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"% Taxi Coupon Booklets Sold.",
+              "line_data":"% Taxi Coupon Booklets Sold",
               "fy-2":"94%",
               "fy-1":"106%",
               "fy-0":"100%",
@@ -158,7 +158,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Rides Provided to Older Adults.",
+              "line_data":"Rides Provided to Older Adults",
               "fy-2":"35,435",
               "fy-1":"36,481",
               "fy-0":"37,160",

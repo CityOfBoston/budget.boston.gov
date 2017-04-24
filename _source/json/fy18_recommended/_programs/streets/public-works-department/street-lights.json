@@ -150,7 +150,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"Average cost per streetlight.",
+              "line_data":"Average cost per streetlight",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"162",
@@ -179,7 +179,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"# of street light outage constituent requests received.",
+              "line_data":"# of street light outage constituent requests received",
               "fy-2":"4,726",
               "fy-1":"5,000",
               "fy-0":"5,000",
@@ -187,7 +187,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"% of street light outages addressed on time.",
+              "line_data":"% of street light outages addressed on time",
               "fy-2":"70%",
               "fy-1":"62%",
               "fy-0":"80%",
@@ -195,7 +195,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Average time to complete a street light outage request (days).",
+              "line_data":"Average time to complete a street light outage request (days)",
               "fy-2":"40",
               "fy-1":"36",
               "fy-0":"10",

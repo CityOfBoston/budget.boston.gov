@@ -150,7 +150,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"# of MWBE companies with City of Boston Contracts.",
+              "line_data":"# of MWBE companies with City of Boston Contracts",
               "fy-2":"29",
               "fy-1":"52",
               "fy-0":"52",
@@ -158,7 +158,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"City of Boston money spent with MWBE contracts.",
+              "line_data":"City of Boston money spent with MWBE contracts",
               "fy-2":"17,189,115",
               "fy-1":"7,530,936",
               "fy-0":"7,500,000",
@@ -187,7 +187,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"VBE firms certified.",
+              "line_data":"VBE firms certified",
               "fy-2":"4",
               "fy-1":"4",
               "fy-0":"2",
@@ -216,7 +216,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"MBE firms certified.",
+              "line_data":"MBE firms certified",
               "fy-2":"9",
               "fy-1":"5",
               "fy-0":"10",
@@ -224,7 +224,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"WBE firms certified.",
+              "line_data":"WBE firms certified",
               "fy-2":"8",
               "fy-1":"8",
               "fy-0":"15",

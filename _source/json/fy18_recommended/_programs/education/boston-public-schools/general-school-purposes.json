@@ -150,7 +150,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"4 year unadjusted graduation rate.",
+              "line_data":"4 year unadjusted graduation rate",
               "fy-2":"71",
               "fy-1":"72",
               "fy-0":"",
@@ -179,7 +179,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"Annual dropout rate % - High School.",
+              "line_data":"Annual dropout rate % - High School",
               "fy-2":"4",
               "fy-1":"6",
               "fy-0":"",

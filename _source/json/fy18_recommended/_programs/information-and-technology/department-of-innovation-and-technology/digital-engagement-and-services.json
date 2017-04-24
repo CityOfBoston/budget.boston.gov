@@ -150,7 +150,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"% of pages on Boston.gov with level AA accessibility errors.",
+              "line_data":"% of pages on Boston.gov with level AA accessibility errors",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"",
@@ -158,7 +158,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"% of services and transactions with a \"class 1\" digital experience.",
+              "line_data":"% of services and transactions with a \"class 1\" digital experience",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"100%",
@@ -166,7 +166,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"% of transactions done digitally where a digital option is available.",
+              "line_data":"% of transactions done digitally where a digital option is available",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"100%",
@@ -174,7 +174,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"boston.gov average reading level.",
+              "line_data":"boston.gov average reading level",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"8",
@@ -182,7 +182,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Customer Satisfaction of boston.gov.",
+              "line_data":"Customer Satisfaction of boston.gov",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"100",
@@ -190,7 +190,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Response time on constituent feedback.",
+              "line_data":"Response time on constituent feedback",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"80",

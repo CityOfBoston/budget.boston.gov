@@ -150,7 +150,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"% of preventative maintenace actions completed within 24 hours.",
+              "line_data":"% of preventative maintenace actions completed within 24 hours",
               "fy-2":"93%",
               "fy-1":"95%",
               "fy-0":"96%",
@@ -158,7 +158,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Average cost of repair (per man hour).",
+              "line_data":"Average cost of repair (per man hour)",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"90",
@@ -166,7 +166,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Average weekly Fleethub trips citywide.",
+              "line_data":"Average weekly Fleethub trips citywide",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"",
