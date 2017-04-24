@@ -150,7 +150,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"# of foreclosures reported.",
+              "line_data":"# of foreclosures reported",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"700",
@@ -179,7 +179,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"# legal cases processed.",
+              "line_data":"# legal cases processed",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"1,550",
@@ -187,7 +187,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"% of legal cases resolved.",
+              "line_data":"% of legal cases resolved",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"100%",
@@ -216,7 +216,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"ZBA appeals filed.",
+              "line_data":"ZBA appeals filed",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"750",
@@ -224,7 +224,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"ZBA decisions filed.",
+              "line_data":"ZBA decisions filed",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"560",
@@ -232,7 +232,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"ZBA rejections vs. Decisions.",
+              "line_data":"ZBA rejections vs. Decisions",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"",
@@ -261,7 +261,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"# of community meetings.",
+              "line_data":"# of community meetings",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"15",
@@ -269,7 +269,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"% calls answered.",
+              "line_data":"% calls answered",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"90%",
@@ -277,7 +277,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Call volume.",
+              "line_data":"Call volume",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"5,894",

@@ -150,7 +150,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"# of Communuity Center Visits.",
+              "line_data":"# of Communuity Center Visits",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"1,000,000",
@@ -158,7 +158,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"# of Program participants.",
+              "line_data":"# of Program participants",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"85,000",
@@ -166,7 +166,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"# of Programs offered.",
+              "line_data":"# of Programs offered",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"4,425",
@@ -174,7 +174,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"# of Teen visits.",
+              "line_data":"# of Teen visits",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"",
@@ -182,7 +182,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"# of unique community center visitors.",
+              "line_data":"# of unique community center visitors",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"",
@@ -190,7 +190,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"% increase in evening visits.",
+              "line_data":"% increase in evening visits",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"",
@@ -198,7 +198,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"% increase in weekend visits.",
+              "line_data":"% increase in weekend visits",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"",

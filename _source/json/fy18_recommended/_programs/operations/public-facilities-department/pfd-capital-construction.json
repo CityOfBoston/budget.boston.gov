@@ -150,7 +150,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"Average time for designer selection.",
+              "line_data":"Average time for designer selection",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"8 Weeks",
@@ -179,7 +179,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"% of bids awarded within 15% of estimate.",
+              "line_data":"% of bids awarded within 15% of estimate",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"65%",
@@ -208,7 +208,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"% of contract change orders less than 10% of original contract price, including elective change orders.",
+              "line_data":"% of contract change orders less than 10% of original contract price, including elective change orders",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"65%",

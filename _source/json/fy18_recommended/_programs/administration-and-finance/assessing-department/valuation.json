@@ -150,7 +150,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"# of residential and condo abatement applications filed.",
+              "line_data":"# of residential and condo abatement applications filed",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"502",
@@ -158,7 +158,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"% of residential and condo abatement applications reviewed within 90 days.",
+              "line_data":"% of residential and condo abatement applications reviewed within 90 days",
               "fy-2":"100%",
               "fy-1":"100%",
               "fy-0":"100%",
@@ -187,7 +187,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"# of maintenance parcels on file for the fiscal year.",
+              "line_data":"# of maintenance parcels on file for the fiscal year",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"3,500",
@@ -195,7 +195,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"% of maintenance parcels inspected.",
+              "line_data":"% of maintenance parcels inspected",
               "fy-2":"100%",
               "fy-1":"100%",
               "fy-0":"100%",
@@ -224,7 +224,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"# of abatememt appeals on file.",
+              "line_data":"# of abatememt appeals on file",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"",
@@ -232,7 +232,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"# of abatement appeals settled.",
+              "line_data":"# of abatement appeals settled",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"",
@@ -240,7 +240,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"% of abatement appeals settled.",
+              "line_data":"% of abatement appeals settled",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"",

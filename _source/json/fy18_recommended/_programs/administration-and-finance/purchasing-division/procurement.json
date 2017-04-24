@@ -150,7 +150,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"Time to create contract (days).",
+              "line_data":"Time to create contract (days)",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"45",
@@ -179,7 +179,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"Requisition to Purchase Order savings in percents.",
+              "line_data":"Requisition to Purchase Order savings in percents",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"",
@@ -208,7 +208,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"Requisition to Purchase Order timeline (days).",
+              "line_data":"Requisition to Purchase Order timeline (days)",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"7",
@@ -237,7 +237,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"Supplier Portal Vendor support requests.",
+              "line_data":"Supplier Portal Vendor support requests",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"300",
@@ -266,7 +266,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"Requisition to Purchase Order savings in dollars.",
+              "line_data":"Requisition to Purchase Order savings in dollars",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"30,000",

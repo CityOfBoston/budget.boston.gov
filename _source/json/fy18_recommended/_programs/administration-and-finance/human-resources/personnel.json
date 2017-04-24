@@ -150,7 +150,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"% of Leave Requests Submitted for Prior Approval.",
+              "line_data":"% of Leave Requests Submitted for Prior Approval",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"",
@@ -179,7 +179,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"Days from Job Requisition Posting to Candidate Hire.",
+              "line_data":"Days from Job Requisition Posting to Candidate Hire",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"",
@@ -187,7 +187,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Days from PRC Approval to Posted Job Requisition.",
+              "line_data":"Days from PRC Approval to Posted Job Requisition",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"",

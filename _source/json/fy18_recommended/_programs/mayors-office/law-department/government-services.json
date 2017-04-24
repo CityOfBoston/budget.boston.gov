@@ -150,7 +150,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"Tax lien actions initiated in Land Court-Actual.",
+              "line_data":"Tax lien actions initiated in Land Court-Actual",
               "fy-2":"326",
               "fy-1":"259",
               "fy-0":"300",
@@ -158,7 +158,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Tax lien collections-Actual.",
+              "line_data":"Tax lien collections-Actual",
               "fy-2":"8,198,033",
               "fy-1":"13,247,184",
               "fy-0":"9,000,000",
@@ -187,7 +187,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"% contract reviews completed within 14 days-Actual.",
+              "line_data":"% contract reviews completed within 14 days-Actual",
               "fy-2":"95%",
               "fy-1":"97%",
               "fy-0":"90%",
@@ -195,7 +195,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"City contracts processed within 14 days-Actual.",
+              "line_data":"City contracts processed within 14 days-Actual",
               "fy-2":"940",
               "fy-1":"878",
               "fy-0":"756",
@@ -203,7 +203,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Contracts processed-Actual.",
+              "line_data":"Contracts processed-Actual",
               "fy-2":"985",
               "fy-1":"909",
               "fy-0":"840",

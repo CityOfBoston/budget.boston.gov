@@ -150,7 +150,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"% of calls answered within 30 seconds.",
+              "line_data":"% of calls answered within 30 seconds",
               "fy-2":"97%",
               "fy-1":"100%",
               "fy-0":"95%",
@@ -158,7 +158,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Average call handle time (minutes).",
+              "line_data":"Average call handle time (minutes)",
               "fy-2":"2",
               "fy-1":"2",
               "fy-0":"2",

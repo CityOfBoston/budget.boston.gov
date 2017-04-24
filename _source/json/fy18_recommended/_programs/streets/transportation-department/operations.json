@@ -150,7 +150,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"% of crosswalks in good repair.",
+              "line_data":"% of crosswalks in good repair",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"",
@@ -158,7 +158,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"% of lane lines in good repair.",
+              "line_data":"% of lane lines in good repair",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"90%",
@@ -187,7 +187,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"% of missing sign requests completed on time.",
+              "line_data":"% of missing sign requests completed on time",
               "fy-2":"72%",
               "fy-1":"80%",
               "fy-0":"80%",
@@ -195,7 +195,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"% of parking meter repair requests completed on time.",
+              "line_data":"% of parking meter repair requests completed on time",
               "fy-2":"81%",
               "fy-1":"80%",
               "fy-0":"80%",
@@ -203,7 +203,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"% of sign repair requests completed on time.",
+              "line_data":"% of sign repair requests completed on time",
               "fy-2":"82%",
               "fy-1":"80%",
               "fy-0":"80%",
@@ -211,7 +211,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Average time to complete a missing sign request (days).",
+              "line_data":"Average time to complete a missing sign request (days)",
               "fy-2":"17",
               "fy-1":"10",
               "fy-0":"10",
@@ -219,7 +219,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Average time to complete a parking meter repair request (days).",
+              "line_data":"Average time to complete a parking meter repair request (days)",
               "fy-2":"13",
               "fy-1":"10",
               "fy-0":"10",
@@ -227,7 +227,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Average time to complete a sign repair request (days).",
+              "line_data":"Average time to complete a sign repair request (days)",
               "fy-2":"10",
               "fy-1":"10",
               "fy-0":"10",

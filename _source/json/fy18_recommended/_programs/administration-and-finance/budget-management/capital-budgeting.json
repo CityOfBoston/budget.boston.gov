@@ -150,7 +150,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"Debt service costs as a % of operating expenditures.",
+              "line_data":"Debt service costs as a % of operating expenditures",
               "fy-2":"6",
               "fy-1":"6",
               "fy-0":"6",
@@ -179,7 +179,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"% of capital expenditures associated with City planning efforts.",
+              "line_data":"% of capital expenditures associated with City planning efforts",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"",
@@ -187,7 +187,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"% of capital plan associated with City planning efforts (Imagine Boston, Build BPS, Go Boston 2030, City Hall).",
+              "line_data":"% of capital plan associated with City planning efforts (Imagine Boston, Build BPS, Go Boston 2030, City Hall)",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"",

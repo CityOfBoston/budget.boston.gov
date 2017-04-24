@@ -150,7 +150,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"% non live entertainment licenses granted in 14 days from application.",
+              "line_data":"% non live entertainment licenses granted in 14 days from application",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"",
@@ -158,7 +158,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"% of live entertainment licenses granted in statutory time.",
+              "line_data":"% of live entertainment licenses granted in statutory time",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"100%",

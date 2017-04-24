@@ -150,7 +150,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"Housing Units Permitted: Market-rate.",
+              "line_data":"Housing Units Permitted: Market-rate",
               "fy-2":"3,500",
               "fy-1":"",
               "fy-0":"",
@@ -179,7 +179,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"Housing Units Permitted: Affordable.",
+              "line_data":"Housing Units Permitted: Affordable",
               "fy-2":"350",
               "fy-1":"",
               "fy-0":"",

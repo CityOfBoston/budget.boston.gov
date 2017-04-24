@@ -150,7 +150,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"% contracts routed within 3 days of receipt.",
+              "line_data":"% contracts routed within 3 days of receipt",
               "fy-2":"88%",
               "fy-1":"86%",
               "fy-0":"100%",
@@ -179,7 +179,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"% procurement documents approved within 3 days.",
+              "line_data":"% procurement documents approved within 3 days",
               "fy-2":"92%",
               "fy-1":"93%",
               "fy-0":"80%",
@@ -208,7 +208,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"% vendor invoices processed within 5 days.",
+              "line_data":"% vendor invoices processed within 5 days",
               "fy-2":"98%",
               "fy-1":"99%",
               "fy-0":"100%",
@@ -237,7 +237,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"% of Standard Contracts Completed On-Line.",
+              "line_data":"% of Standard Contracts Completed On-Line",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"10%",

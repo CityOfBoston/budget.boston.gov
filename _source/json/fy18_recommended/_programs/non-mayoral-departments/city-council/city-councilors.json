@@ -150,7 +150,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"Administrative Matters.",
+              "line_data":"Administrative Matters",
               "fy-2":"508",
               "fy-1":"457",
               "fy-0":"475",
@@ -158,7 +158,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Appropriations and Loan Orders.",
+              "line_data":"Appropriations and Loan Orders",
               "fy-2":"44",
               "fy-1":"51",
               "fy-0":"64",
@@ -166,7 +166,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Grants.",
+              "line_data":"Grants",
               "fy-2":"69",
               "fy-1":"80",
               "fy-0":"69",
@@ -195,7 +195,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"% of legislative matters receiving public hearing.",
+              "line_data":"% of legislative matters receiving public hearing",
               "fy-2":"92%",
               "fy-1":"87%",
               "fy-0":"93%",
@@ -203,7 +203,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Legislative matters receiving public hearing.",
+              "line_data":"Legislative matters receiving public hearing",
               "fy-2":"259",
               "fy-1":"222",
               "fy-0":"260",
@@ -211,7 +211,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Orders for Hearings.",
+              "line_data":"Orders for Hearings",
               "fy-2":"98",
               "fy-1":"63",
               "fy-0":"86",
@@ -219,7 +219,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Public hearings held.",
+              "line_data":"Public hearings held",
               "fy-2":"213",
               "fy-1":"177",
               "fy-0":"190",
@@ -248,7 +248,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"Council working sessions and meetings.",
+              "line_data":"Council working sessions and meetings",
               "fy-2":"14",
               "fy-1":"13",
               "fy-0":"14",
@@ -256,7 +256,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Home Rule Petitions.",
+              "line_data":"Home Rule Petitions",
               "fy-2":"10",
               "fy-1":"8",
               "fy-0":"7",
@@ -264,7 +264,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Hours of Council meetings, hearings and working sessions.",
+              "line_data":"Hours of Council meetings, hearings and working sessions",
               "fy-2":"281",
               "fy-1":"271",
               "fy-0":"260",
@@ -272,7 +272,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Legislative matters referred to committee.",
+              "line_data":"Legislative matters referred to committee",
               "fy-2":"283",
               "fy-1":"255",
               "fy-0":"280",
@@ -280,7 +280,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Legislative Resolutions.",
+              "line_data":"Legislative Resolutions",
               "fy-2":"25",
               "fy-1":"30",
               "fy-0":"17",
@@ -288,7 +288,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Ordinances.",
+              "line_data":"Ordinances",
               "fy-2":"17",
               "fy-1":"21",
               "fy-0":"13",
@@ -296,7 +296,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Regular Council sessions.",
+              "line_data":"Regular Council sessions",
               "fy-2":"34",
               "fy-1":"35",
               "fy-0":"35",
