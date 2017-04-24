@@ -150,7 +150,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"% response census using online form.",
+              "line_data":"% response census using online form",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"10%",
@@ -158,7 +158,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"% response to census mailing.",
+              "line_data":"% response to census mailing",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"60%",

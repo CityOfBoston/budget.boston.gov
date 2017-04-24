@@ -150,7 +150,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"Records Digitized.",
+              "line_data":"Records Digitized",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"24,000",
@@ -179,7 +179,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"Records Digitized Hours.",
+              "line_data":"Records Digitized Hours",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"19,200",
@@ -208,7 +208,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"Processing Hours.",
+              "line_data":"Processing Hours",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"4,320",
@@ -237,7 +237,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"Business Certificate received and processed ,Physican Certificate received and processed, Claims,.",
+              "line_data":"Business Certificate received and processed ,Physican Certificate received and processed, Claims,",
               "fy-2":"",
               "fy-1":"6,151",
               "fy-0":"8,500",
@@ -245,7 +245,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Other Statutory Document filing, Public Hearing Notice,.",
+              "line_data":"Other Statutory Document filing, Public Hearing Notice,",
               "fy-2":"",
               "fy-1":"2,703",
               "fy-0":"2,700",
@@ -253,7 +253,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Statment of Financial interest, University Accountability Report.",
+              "line_data":"Statment of Financial interest, University Accountability Report",
               "fy-2":"146",
               "fy-1":"74",
               "fy-0":"89",

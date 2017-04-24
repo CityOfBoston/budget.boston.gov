@@ -150,7 +150,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"# of non-VOIP phones.",
+              "line_data":"# of non-VOIP phones",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"",
@@ -158,7 +158,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"% of City buildings with a \"class 1\" BoNET connection.",
+              "line_data":"% of City buildings with a \"class 1\" BoNET connection",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"100%",
@@ -166,7 +166,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Desktop computer age.",
+              "line_data":"Desktop computer age",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"5",
@@ -174,7 +174,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"IT equipment age.",
+              "line_data":"IT equipment age",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"5",
@@ -203,7 +203,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"Overall customer satisfaction with IT tools and support (including equipment/software available, support, wifi, phones, etc.) (out of 5).",
+              "line_data":"Overall customer satisfaction with IT tools and support (including equipment/software available, support, wifi, phones, etc.) (out of 5)",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"5",

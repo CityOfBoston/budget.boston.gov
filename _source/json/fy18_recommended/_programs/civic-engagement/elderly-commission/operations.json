@@ -150,7 +150,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"Number of Applications Completed (Housing and Benefits).",
+              "line_data":"Number of Applications Completed (Housing and Benefits)",
               "fy-2":"786",
               "fy-1":"645",
               "fy-0":"300",
@@ -158,7 +158,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Number of Events and Programs.",
+              "line_data":"Number of Events and Programs",
               "fy-2":"84",
               "fy-1":"131",
               "fy-0":"120",
@@ -166,7 +166,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Number of Information and Service Referrals Provided.",
+              "line_data":"Number of Information and Service Referrals Provided",
               "fy-2":"11,834",
               "fy-1":"10,269",
               "fy-0":"11,000",
@@ -174,7 +174,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Number of Older Adults Attending Presentations.",
+              "line_data":"Number of Older Adults Attending Presentations",
               "fy-2":"320",
               "fy-1":"321",
               "fy-0":"343",
@@ -182,7 +182,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Older Adults Participating in Events and Programs.",
+              "line_data":"Older Adults Participating in Events and Programs",
               "fy-2":"12,262",
               "fy-1":"19,065",
               "fy-0":"13,000",

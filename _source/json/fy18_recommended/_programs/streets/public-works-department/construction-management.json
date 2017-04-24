@@ -150,7 +150,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"Average Annual PCI Rating of Boston's Roads.",
+              "line_data":"Average Annual PCI Rating of Boston's Roads",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"67",
@@ -179,7 +179,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"Average PCI of the Roads being resurfaced.",
+              "line_data":"Average PCI of the Roads being resurfaced",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"34",

@@ -150,7 +150,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"% of abandoned vehicle requests completed on time.",
+              "line_data":"% of abandoned vehicle requests completed on time",
               "fy-2":"95%",
               "fy-1":"80%",
               "fy-0":"80%",
@@ -158,7 +158,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Average time to complete an abandoned vehicle request (days).",
+              "line_data":"Average time to complete an abandoned vehicle request (days)",
               "fy-2":"13",
               "fy-1":"12",
               "fy-0":"12",

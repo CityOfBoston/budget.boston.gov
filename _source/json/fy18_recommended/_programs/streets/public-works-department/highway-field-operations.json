@@ -150,7 +150,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"% of Code Enforcement Collection cases responded to on time.",
+              "line_data":"% of Code Enforcement Collection cases responded to on time",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"100%",
@@ -158,7 +158,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Average personnel hours on a hokey route (hand cleaning streets/sidewalks).",
+              "line_data":"Average personnel hours on a hokey route (hand cleaning streets/sidewalks)",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"1,000",
@@ -166,7 +166,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Number of snow-related roadway complaints per storm.",
+              "line_data":"Number of snow-related roadway complaints per storm",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"80",
@@ -174,7 +174,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Public Space (litter baskets) recycling diversion rate.",
+              "line_data":"Public Space (litter baskets) recycling diversion rate",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"25",
@@ -203,7 +203,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"# of pothole repair requests received.",
+              "line_data":"# of pothole repair requests received",
               "fy-2":"3,161",
               "fy-1":"2,344",
               "fy-0":"2,300",
@@ -211,7 +211,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"# of snow plowing requests received.",
+              "line_data":"# of snow plowing requests received",
               "fy-2":"30,462",
               "fy-1":"4,469",
               "fy-0":"5,000",
@@ -219,7 +219,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"% of pothole repair requests completed on time.",
+              "line_data":"% of pothole repair requests completed on time",
               "fy-2":"52%",
               "fy-1":"75%",
               "fy-0":"80%",
@@ -227,7 +227,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Average days to complete a pothole repair request.",
+              "line_data":"Average days to complete a pothole repair request",
               "fy-2":"5",
               "fy-1":"2",
               "fy-0":"2",

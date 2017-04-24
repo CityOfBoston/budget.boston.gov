@@ -150,7 +150,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"Mass Save and ABCD WAP work completed (insulation/air sealing, heating system replacement).",
+              "line_data":"Mass Save and ABCD WAP work completed (insulation/air sealing, heating system replacement)",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"3,200",
@@ -158,7 +158,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Total capacity (Megawatts) of solar and combined heat and power systems.",
+              "line_data":"Total capacity (Megawatts) of solar and combined heat and power systems",
               "fy-2":"6",
               "fy-1":"6",
               "fy-0":"6",
@@ -187,7 +187,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"# of Boston Landmarks and # of historic districts.",
+              "line_data":"# of Boston Landmarks and # of historic districts",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"102",
@@ -195,7 +195,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"% across all historic commissions.",
+              "line_data":"% across all historic commissions",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"97%",
@@ -224,7 +224,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"4th-highest 8-hour readding at MA DEP Harrison Avenue site.",
+              "line_data":"4th-highest 8-hour readding at MA DEP Harrison Avenue site",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"",
@@ -232,7 +232,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Mean level at MA DEP Harrison Avenue site (FRM).",
+              "line_data":"Mean level at MA DEP Harrison Avenue site (FRM)",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"6",
@@ -261,7 +261,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"Number of complaints submitted to APCC.",
+              "line_data":"Number of complaints submitted to APCC",
               "fy-2":"354 (calendar year)",
               "fy-1":"495 (calendar year)",
               "fy-0":"425",
@@ -290,7 +290,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"# of wetlands and water quality public hearings.",
+              "line_data":"# of wetlands and water quality public hearings",
               "fy-2":"17",
               "fy-1":"22",
               "fy-0":"20",
@@ -319,7 +319,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"Air quality complaints responded to.",
+              "line_data":"Air quality complaints responded to",
               "fy-2":"47",
               "fy-1":"75",
               "fy-0":"75",
@@ -348,7 +348,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"Noise level complaints responded to.",
+              "line_data":"Noise level complaints responded to",
               "fy-2":"285",
               "fy-1":"405",
               "fy-0":"410",

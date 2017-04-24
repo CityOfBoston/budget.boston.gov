@@ -150,7 +150,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"# Discrimination inquiries/intakes.",
+              "line_data":"# Discrimination inquiries/intakes",
               "fy-2":"618",
               "fy-1":"676",
               "fy-0":"900",
@@ -158,7 +158,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"% Housing discrimination complaints moved to investigations in 30 days (was intakes processed in 30 days).",
+              "line_data":"% Housing discrimination complaints moved to investigations in 30 days (was intakes processed in 30 days)",
               "fy-2":"100%",
               "fy-1":"100%",
               "fy-0":"100%",
@@ -166,7 +166,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Increase # of Dual Filed investigation completions by 36% from FY16.",
+              "line_data":"Increase # of Dual Filed investigation completions by 36% from FY16",
               "fy-2":"15",
               "fy-1":"11",
               "fy-0":"15",
@@ -174,7 +174,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Reduce the average age of open case inventory by 30% to bring our case age average down to no greater than 200 days.",
+              "line_data":"Reduce the average age of open case inventory by 30% to bring our case age average down to no greater than 200 days",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"280",
@@ -203,7 +203,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"# community members engaged and reached at events, meetings and workshops.",
+              "line_data":"# community members engaged and reached at events, meetings and workshops",
               "fy-2":"3,992",
               "fy-1":"3,328",
               "fy-0":"1,000",
@@ -211,7 +211,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"% Current year cases investigated within 200 days.",
+              "line_data":"% Current year cases investigated within 200 days",
               "fy-2":"N/A%",
               "fy-1":"N/A%",
               "fy-0":"50%",
@@ -240,7 +240,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"# of City and Community programs collaboration on affirmative marketing.",
+              "line_data":"# of City and Community programs collaboration on affirmative marketing",
               "fy-2":"48",
               "fy-1":"48",
               "fy-0":"48",
@@ -248,7 +248,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Affirmative Marketing plans evaluated within 15 days.",
+              "line_data":"Affirmative Marketing plans evaluated within 15 days",
               "fy-2":"22",
               "fy-1":"24",
               "fy-0":"25",

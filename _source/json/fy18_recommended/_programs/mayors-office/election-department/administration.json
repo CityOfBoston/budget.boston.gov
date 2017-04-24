@@ -150,7 +150,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"% of Election Officers (Wardens and Clerks) that pass the training test.",
+              "line_data":"% of Election Officers (Wardens and Clerks) that pass the training test",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"",
@@ -158,7 +158,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"% of mailed ballot requests (absentee and early voting) processed in 48 hours.",
+              "line_data":"% of mailed ballot requests (absentee and early voting) processed in 48 hours",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"100%",
@@ -166,7 +166,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"% of Provisional Ballots improperly issued.",
+              "line_data":"% of Provisional Ballots improperly issued",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"",
@@ -174,7 +174,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Average number minutes a voter waits in line.",
+              "line_data":"Average number minutes a voter waits in line",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"",

@@ -150,7 +150,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"Broadband adoption by families (i.e. households with children under 18).",
+              "line_data":"Broadband adoption by families (i.e. households with children under 18)",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"100",
@@ -179,7 +179,7 @@
           "data":[
             {
               "line_type":"data",
-              "line_data":"% Bostonians with 2 or more options for high speed internet.",
+              "line_data":"% Bostonians with 2 or more options for high speed internet",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"100%",
@@ -187,7 +187,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"% of employees with access to high-quality wifi.",
+              "line_data":"% of employees with access to high-quality wifi",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"100%",
@@ -195,7 +195,7 @@
             },
             {
               "line_type":"data",
-              "line_data":"Wicked free wifi customer satisfaction rate (out of 5).",
+              "line_data":"Wicked free wifi customer satisfaction rate (out of 5)",
               "fy-2":"",
               "fy-1":"",
               "fy-0":"5",
