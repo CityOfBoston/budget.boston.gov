@@ -16,7 +16,7 @@
   "source_year":"18",
   "status":"In Design",
   "expenditures_detail":{
-    "debug":"JCP",
+    "debug":"JCP1",
     "table_title":"Expenditures (Actual and Planned)",
     "table_header":{
       "line_type":"header",
@@ -65,7 +65,7 @@
       }
     ],
     "authorizations_table":{
-      "debug":"JCP",
+      "debug":"JCP2",
       "table_title":"Authorizations",
       "table_header":{
         "line_type":"header",

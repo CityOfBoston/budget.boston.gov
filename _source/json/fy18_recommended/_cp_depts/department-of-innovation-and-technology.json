@@ -100,13 +100,13 @@
               "line_type":"data",
               "title":null,
               "category":"Technology",
-              "name":"Enterprise Applications",
-              "location":"N/A",
-              "section_id":"CMS23490",
-              "status":"Annual Program",
+              "name":"Computer Aided Dispatch",
+              "location":"Citywide",
+              "section_id":"CMS23369",
+              "status":"Implementation Underway",
               "operating_impact":"No",
-              "fy-0":5558477,
-              "project_total":33695817
+              "fy-0":784859,
+              "project_total":16858212
             },
             {
               "line_type":"data",
@@ -124,18 +124,6 @@
               "line_type":"data",
               "title":null,
               "category":"Technology",
-              "name":"Data Analytics",
-              "location":"N/A",
-              "section_id":"CMS24178",
-              "status":"Annual Program",
-              "operating_impact":"No",
-              "fy-0":350000,
-              "project_total":4265516
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Technology",
               "name":"Cyber Security and Resiliency",
               "location":"Various neighborhoods",
               "section_id":"CMS24177",
@@ -148,6 +136,18 @@
               "line_type":"data",
               "title":null,
               "category":"Technology",
+              "name":"Data Analytics",
+              "location":"N/A",
+              "section_id":"CMS24178",
+              "status":"Annual Program",
+              "operating_impact":"No",
+              "fy-0":350000,
+              "project_total":4265516
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Technology",
               "name":"Digital Service Delivery and Engagement",
               "location":"Various neighborhoods",
               "section_id":"CMS24159",
@@ -155,6 +155,18 @@
               "operating_impact":"No",
               "fy-0":600000,
               "project_total":8433296
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Technology",
+              "name":"Enterprise Applications",
+              "location":"N/A",
+              "section_id":"CMS23490",
+              "status":"Annual Program",
+              "operating_impact":"No",
+              "fy-0":5558477,
+              "project_total":33695817
             },
             {
               "line_type":"data",
@@ -179,18 +191,6 @@
               "operating_impact":"No",
               "fy-0":113476,
               "project_total":3000000
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Technology",
-              "name":"Computer Aided Dispatch",
-              "location":"Citywide",
-              "section_id":"CMS23369",
-              "status":"Implementation Underway",
-              "operating_impact":"No",
-              "fy-0":784859,
-              "project_total":16858212
             }
           ]
         }

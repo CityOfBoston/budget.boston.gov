@@ -141,6 +141,18 @@
               "line_type":"data",
               "title":null,
               "category":"Government Effectiveness",
+              "name":"26 Court Street Renovation",
+              "location":"Financial District/Downtown",
+              "section_id":"CPM23470",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":1700000,
+              "project_total":28245558
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Government Effectiveness",
               "name":"City Hall",
               "location":"Government Center/Faneuil Hall",
               "section_id":"CPM24712",
@@ -148,6 +160,18 @@
               "operating_impact":"No",
               "fy-0":3189000,
               "project_total":35150000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Government Effectiveness",
+              "name":"City Hall ADA Restroom",
+              "location":"Government Center/Faneuil Hall",
+              "section_id":"CPM24152",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":5117,
+              "project_total":100000
             },
             {
               "line_type":"data",
@@ -165,25 +189,13 @@
               "line_type":"data",
               "title":null,
               "category":"Government Effectiveness",
-              "name":"26 Court Street Renovation",
-              "location":"Financial District/Downtown",
-              "section_id":"CPM23470",
-              "status":"In Design",
+              "name":"Family Justice Center Elevator",
+              "location":"Allston/Brighton",
+              "section_id":"CPM23947",
+              "status":"To Be Scheduled",
               "operating_impact":"No",
-              "fy-0":1700000,
-              "project_total":28245558
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Government Effectiveness",
-              "name":"City Hall ADA Restroom",
-              "location":"Government Center/Faneuil Hall",
-              "section_id":"CPM24152",
-              "status":"In Design",
-              "operating_impact":"No",
-              "fy-0":5117,
-              "project_total":100000
+              "fy-0":0,
+              "project_total":350500
             },
             {
               "line_type":"data",
@@ -208,18 +220,6 @@
               "operating_impact":"No",
               "fy-0":392958,
               "project_total":683000
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Government Effectiveness",
-              "name":"Family Justice Center Elevator",
-              "location":"Allston/Brighton",
-              "section_id":"CPM23947",
-              "status":"To Be Scheduled",
-              "operating_impact":"No",
-              "fy-0":0,
-              "project_total":350500
             }
           ]
         },

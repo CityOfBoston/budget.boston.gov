@@ -137,18 +137,6 @@
               "line_type":"data",
               "title":null,
               "category":"Technology",
-              "name":"Traffic Signals",
-              "location":"Citywide",
-              "section_id":"CTD24700",
-              "status":"Annual Program",
-              "operating_impact":"No",
-              "fy-0":2500000,
-              "project_total":12500000
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Technology",
               "name":"Traffic Signal Construction at 4 Intersections",
               "location":"Various neighborhoods",
               "section_id":"CTD24561",
@@ -161,13 +149,25 @@
               "line_type":"data",
               "title":null,
               "category":"Technology",
+              "name":"Traffic Signals",
+              "location":"Citywide",
+              "section_id":"CTD24700",
+              "status":"Annual Program",
+              "operating_impact":"No",
+              "fy-0":2500000,
+              "project_total":12500000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Technology",
               "name":"Traffic Signals at 9 Locations",
               "location":"Various neighborhoods",
               "section_id":"CTD23451",
               "status":"In Design",
               "operating_impact":"No",
               "fy-0":0,
-              "project_total":450907
+              "project_total":3487107
             }
           ]
         },
@@ -189,121 +189,13 @@
               "line_type":"data",
               "title":null,
               "category":"Transportation",
-              "name":"Central Square",
-              "location":"East Boston",
-              "section_id":"CTD23216",
-              "status":"In Construction",
-              "operating_impact":"No",
-              "fy-0":2862460,
-              "project_total":7850000
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Transportation",
-              "name":"Melnea Cass Boulevard",
-              "location":"Roxbury",
-              "section_id":"CTD23219",
-              "status":"In Design",
-              "operating_impact":"No",
-              "fy-0":700000,
-              "project_total":2100000
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Transportation",
-              "name":"Warren Street and Blue Hill Avenue",
-              "location":"Roxbury",
-              "section_id":"CTD23225",
-              "status":"In Design",
-              "operating_impact":"No",
-              "fy-0":248270,
-              "project_total":600000
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Transportation",
-              "name":"South Bay Harbor Trail",
-              "location":"South End",
-              "section_id":"CTD23314",
-              "status":"In Design",
-              "operating_impact":"No",
-              "fy-0":233000,
-              "project_total":863000
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Transportation",
-              "name":"Centre Street / South Street",
-              "location":"Jamaica Plain",
-              "section_id":"CTD23406",
-              "status":"In Design",
-              "operating_impact":"No",
-              "fy-0":0,
-              "project_total":400000
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Transportation",
-              "name":"Municipal Parking Lots",
+              "name":"Accessible Pedestrian Signals",
               "location":"Citywide",
-              "section_id":"CTD23584",
+              "section_id":"CTD23607",
               "status":"Annual Program",
               "operating_impact":"No",
               "fy-0":250000,
-              "project_total":2856226
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Transportation",
-              "name":"Transportation Planning",
-              "location":"Citywide",
-              "section_id":"CTD23177",
-              "status":"Annual Program",
-              "operating_impact":"No",
-              "fy-0":300000,
-              "project_total":2698849
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Transportation",
-              "name":"BTD Tow Lot Facility",
-              "location":"South Boston",
-              "section_id":"CTD23937",
-              "status":"In Construction",
-              "operating_impact":"No",
-              "fy-0":1680184,
-              "project_total":3800000
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Transportation",
-              "name":"Crosswalk and Lane Marking Revitalization",
-              "location":"Citywide",
-              "section_id":"CTD24718",
-              "status":"New Project",
-              "operating_impact":"No",
-              "fy-0":1640000,
-              "project_total":4650000
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Transportation",
-              "name":"Vision Zero",
-              "location":"Various neighborhoods",
-              "section_id":"CTD24299",
-              "status":"Implementation Underway",
-              "operating_impact":"No",
-              "fy-0":3100000,
-              "project_total":17922192
+              "project_total":1831088
             },
             {
               "line_type":"data",
@@ -321,13 +213,49 @@
               "line_type":"data",
               "title":null,
               "category":"Transportation",
-              "name":"Strategic Bicycle Network Project",
-              "location":"Citywide",
-              "section_id":"CTD24701",
-              "status":"Annual Program",
+              "name":"BTD Tow Lot Facility",
+              "location":"South Boston",
+              "section_id":"CTD23937",
+              "status":"In Construction",
               "operating_impact":"No",
-              "fy-0":900000,
-              "project_total":4500000
+              "fy-0":1680184,
+              "project_total":3800000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Transportation",
+              "name":"Central Square",
+              "location":"East Boston",
+              "section_id":"CTD23216",
+              "status":"In Construction",
+              "operating_impact":"No",
+              "fy-0":2862460,
+              "project_total":7850000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Transportation",
+              "name":"Centre Street / South Street",
+              "location":"Jamaica Plain",
+              "section_id":"CTD23406",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":0,
+              "project_total":400000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Transportation",
+              "name":"Crosswalk and Lane Marking Revitalization",
+              "location":"Citywide",
+              "section_id":"CTD24718",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":1640000,
+              "project_total":4650000
             },
             {
               "line_type":"data",
@@ -345,6 +273,54 @@
               "line_type":"data",
               "title":null,
               "category":"Transportation",
+              "name":"Melnea Cass Boulevard",
+              "location":"Roxbury",
+              "section_id":"CTD23219",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":700000,
+              "project_total":9537105
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Transportation",
+              "name":"Municipal Parking Lots",
+              "location":"Citywide",
+              "section_id":"CTD23584",
+              "status":"Annual Program",
+              "operating_impact":"No",
+              "fy-0":250000,
+              "project_total":2856226
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Transportation",
+              "name":"South Bay Harbor Trail",
+              "location":"South End",
+              "section_id":"CTD23314",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":233000,
+              "project_total":4233000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Transportation",
+              "name":"Strategic Bicycle Network Project",
+              "location":"Citywide",
+              "section_id":"CTD24701",
+              "status":"Annual Program",
+              "operating_impact":"No",
+              "fy-0":900000,
+              "project_total":4500000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Transportation",
               "name":"Street Rule Book",
               "location":"N/A",
               "section_id":"CTD24321",
@@ -357,13 +333,37 @@
               "line_type":"data",
               "title":null,
               "category":"Transportation",
-              "name":"Accessible Pedestrian Signals",
+              "name":"Transportation Planning",
               "location":"Citywide",
-              "section_id":"CTD23607",
+              "section_id":"CTD23177",
               "status":"Annual Program",
               "operating_impact":"No",
-              "fy-0":250000,
-              "project_total":1831088
+              "fy-0":300000,
+              "project_total":2898849
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Transportation",
+              "name":"Vision Zero",
+              "location":"Various neighborhoods",
+              "section_id":"CTD24299",
+              "status":"Implementation Underway",
+              "operating_impact":"No",
+              "fy-0":3100000,
+              "project_total":17922192
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Transportation",
+              "name":"Warren Street and Blue Hill Avenue",
+              "location":"Roxbury",
+              "section_id":"CTD23225",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":248270,
+              "project_total":2977900
             }
           ]
         }
@@ -371,6 +371,6 @@
     }
   ],
   "fy-0":21357711,
-  "total":83248791
+  "total":99669996
 }
 ---
