@@ -16,7 +16,7 @@
   "source_year":"18",
   "status":"In Design",
   "expenditures_detail":{
-    "debug":"JCP",
+    "debug":"JCP1",
     "table_title":"Expenditures (Actual and Planned)",
     "table_header":{
       "line_type":"header",
@@ -50,7 +50,7 @@
         "fy-1":2101153,
         "fy-0":2000000,
         "fy+1-4":21000000,
-        "total":26599601
+        "total":161599601
       },
       {
         "line_type":"total",
@@ -65,7 +65,7 @@
       }
     ],
     "authorizations_table":{
-      "debug":"JCP",
+      "debug":"JCP2",
       "table_title":"Authorizations",
       "table_header":{
         "line_type":"header",
@@ -99,7 +99,7 @@
           "fy-0":17000000,
           "fy-0++":6000000,
           "other":135000000,
-          "total":26599601
+          "total":161599601
         },
         {
           "line_type":"total",
