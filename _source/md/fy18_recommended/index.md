@@ -85,7 +85,7 @@ components:
       <h5>Maintaining fiscal discipline</h5>
       <p>Cities cannot afford to replace this level of funding cuts, and Massachusetts communities, with revenue tightly constrained by state law, will be particularly challenged in the event of federal or state divestment. This instability from the federal and state level requires increased stability and strong fiscal management at the City level. Mayor Walsh’s FY18 budget continues the fiscal discipline that was recently praised by rating agencies by:</p>
       <ul>
-      <li>paying down the City’s long-term pension and OBEB obligations;</li>
+      <li>paying down the City’s long-term pension and other post-employment benefits obligations;</li>
       <li>managing personnel and health costs;</li>
       <li>continuing savings initiatives;</li>
       <li>maintaining conservative fiscal management policies; and</li>
