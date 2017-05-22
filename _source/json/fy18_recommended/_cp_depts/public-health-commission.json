@@ -76,18 +76,6 @@
               "line_type":"data",
               "title":null,
               "category":"Health",
-              "name":"South End Fitness Center Pool",
-              "location":"South End",
-              "section_id":"CPH23989",
-              "status":"In Design",
-              "operating_impact":"No",
-              "fy-0":379117,
-              "project_total":1129000
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Health",
               "name":"EMS Station Study",
               "location":"South Boston",
               "section_id":"CPH23963",
@@ -95,6 +83,18 @@
               "operating_impact":"No",
               "fy-0":40000,
               "project_total":100000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Health",
+              "name":"South End Fitness Center Pool",
+              "location":"South End",
+              "section_id":"CPH23989",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":379117,
+              "project_total":1129000
             }
           ]
         },

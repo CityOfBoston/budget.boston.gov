@@ -1,6 +1,26 @@
 # budget.boston.gov
 
-This Jekyll implementation creates static archives of the City of Boston's fiscal budgets. It uses Gulp for building everything, so that we can more easily incorporate things like BrowserSync, Stylus and any necessary plugins.
+## Overview
+The City of Boston's [Office of Budget Management](https://www.boston.gov/budget) (OBM) engaged the Department of Innovation and Technology’s (DoIT) [Digital Team](https://www.boston.gov/digital) in fall 2016 to create a website that displayed the City of Boston’s budget books online. 
+
+The books come in a three-volume set totaling well over 800 pages.
+* Volume 1 contains the budget narrative describing the City’s investments and explaining why it made those investments. 
+* Volumes 2 and 3 are much more data heavy and are divided by City Cabinet. Each Cabinet section has information down to the program level (Cabinet >> Department >> Program) on actual and projected budgets, as well as personnel and capital plan data. 
+
+This web application uses JSON files that were automatically exported from a content management system for Volumes 2 and 3 and displays them online, often alongside Volume 1 content. The site also displays markdown files created from remaining Volume 1 content. 
+
+Parts of the site:
+* Executive Summary - the Executive Summary of Volume 1 of the budget book. Some sections are compressed to be “featured analysis cards”, which link off to pages offering analysis on a specific topic.
+* Featured Analysis - a grouping of all featured analysis cards, ordered by section.
+* Capital Projects - a mostly-automated display of information from the Capital Planning chapter (Volume 1) and capital projects (Volumes 2 and 3). 
+* Operating Budget - a mostly-automated display of information from the Summary Budget chapter (Volume 1) and operating budget data (Volumes 2 and 3).
+* Sidebar - links to pages that can help people understand the budget or offer people insight into the City’s financial management.
+
+The site is hosted on Heroku and assets are built using Gulp and Jekyll. It uses JSON, markdown, JavaScript, and HTML.
+
+## Getting started (technical)
+
+This Jekyll implementation creates static archives of the City of Boston's fiscal budgets. It uses Gulp to build everything, so that we can more easily incorporate things like BrowserSync, Stylus and any necessary plugins.
 
 To get up and running, download (or fork) this repo. Then in your project run:
 

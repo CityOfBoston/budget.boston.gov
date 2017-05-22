@@ -73,18 +73,6 @@
               "line_type":"data",
               "title":null,
               "category":"Economy",
-              "name":"RFMP Pier 6",
-              "location":"South Boston",
-              "section_id":"CBR24673",
-              "status":"New Project",
-              "operating_impact":"No",
-              "fy-0":400000,
-              "project_total":400000
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Economy",
               "name":"RFMP Dry-dock 4",
               "location":"South Boston",
               "section_id":"CBR24671",
@@ -92,6 +80,18 @@
               "operating_impact":"No",
               "fy-0":250000,
               "project_total":250000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Economy",
+              "name":"RFMP Pier 6",
+              "location":"South Boston",
+              "section_id":"CBR24673",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":400000,
+              "project_total":400000
             }
           ]
         },
@@ -117,18 +117,6 @@
               "line_type":"data",
               "title":null,
               "category":"Transportation",
-              "name":"Strategic Planning Area Transportation Study",
-              "location":"Various neighborhoods",
-              "section_id":"CBR24559",
-              "status":"Study Underway",
-              "operating_impact":"No",
-              "fy-0":200000,
-              "project_total":250000
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Transportation",
               "name":"RFMP Black Falcon Avenue and Terminal Street",
               "location":"South Boston",
               "section_id":"CBR23777",
@@ -136,6 +124,18 @@
               "operating_impact":"No",
               "fy-0":400000,
               "project_total":1400000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Transportation",
+              "name":"Strategic Planning Area Transportation Study",
+              "location":"Various neighborhoods",
+              "section_id":"CBR24559",
+              "status":"Study Underway",
+              "operating_impact":"No",
+              "fy-0":200000,
+              "project_total":250000
             }
           ]
         }

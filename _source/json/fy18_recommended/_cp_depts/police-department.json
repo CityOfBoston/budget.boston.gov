@@ -112,13 +112,13 @@
               "line_type":"data",
               "title":null,
               "category":"Public Safety",
-              "name":"Area E-5 Roof Replacement",
-              "location":"West Roxbury",
-              "section_id":"CPD24531",
+              "name":"Area A-1 and Area D-4 Stations",
+              "location":"Various neighborhoods",
+              "section_id":"CPD23867",
               "status":"In Design",
               "operating_impact":"No",
-              "fy-0":100000,
-              "project_total":500000
+              "fy-0":430000,
+              "project_total":2500000
             },
             {
               "line_type":"data",
@@ -131,6 +131,42 @@
               "operating_impact":"No",
               "fy-0":100000,
               "project_total":560000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Public Safety",
+              "name":"Area D-14 Station",
+              "location":"Allston/Brighton",
+              "section_id":"CPD23865",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":100000,
+              "project_total":360000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Public Safety",
+              "name":"Area E-5 Roof Replacement",
+              "location":"West Roxbury",
+              "section_id":"CPD24531",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":100000,
+              "project_total":500000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Public Safety",
+              "name":"Area E-5 Station",
+              "location":"West Roxbury",
+              "section_id":"CPD23866",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":100000,
+              "project_total":714000
             },
             {
               "line_type":"data",
@@ -179,42 +215,6 @@
               "operating_impact":"No",
               "fy-0":100000,
               "project_total":100000
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Public Safety",
-              "name":"Area A-1 and Area D-4 Stations",
-              "location":"Various neighborhoods",
-              "section_id":"CPD23867",
-              "status":"In Design",
-              "operating_impact":"No",
-              "fy-0":430000,
-              "project_total":2500000
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Public Safety",
-              "name":"Area E-5 Station",
-              "location":"West Roxbury",
-              "section_id":"CPD23866",
-              "status":"In Design",
-              "operating_impact":"No",
-              "fy-0":100000,
-              "project_total":714000
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Public Safety",
-              "name":"Area D-14 Station",
-              "location":"Allston/Brighton",
-              "section_id":"CPD23865",
-              "status":"In Design",
-              "operating_impact":"No",
-              "fy-0":100000,
-              "project_total":360000
             },
             {
               "line_type":"data",

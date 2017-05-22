@@ -136,6 +136,30 @@
               "line_type":"data",
               "title":null,
               "category":"Public Safety",
+              "name":"Engine 17",
+              "location":"Dorchester",
+              "section_id":"CFD24125",
+              "status":"To Be Scheduled",
+              "operating_impact":"No",
+              "fy-0":200000,
+              "project_total":19000000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Public Safety",
+              "name":"Engine 33",
+              "location":"Back Bay",
+              "section_id":"CFD24128",
+              "status":"To Be Scheduled",
+              "operating_impact":"No",
+              "fy-0":0,
+              "project_total":800000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Public Safety",
               "name":"Engine 42",
               "location":"Roxbury",
               "section_id":"CFD24126",
@@ -148,13 +172,25 @@
               "line_type":"data",
               "title":null,
               "category":"Public Safety",
-              "name":"Engine 17",
-              "location":"Dorchester",
-              "section_id":"CFD24125",
-              "status":"To Be Scheduled",
+              "name":"Engine 5",
+              "location":"East Boston",
+              "section_id":"CFD23484",
+              "status":"In Design",
               "operating_impact":"No",
-              "fy-0":200000,
-              "project_total":19000000
+              "fy-0":1520290,
+              "project_total":1925000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Public Safety",
+              "name":"Engine 50",
+              "location":"Charlestown",
+              "section_id":"CFD23280",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":1300000,
+              "project_total":3810000
             },
             {
               "line_type":"data",
@@ -184,18 +220,6 @@
               "line_type":"data",
               "title":null,
               "category":"Public Safety",
-              "name":"Engine 33",
-              "location":"Back Bay",
-              "section_id":"CFD24128",
-              "status":"To Be Scheduled",
-              "operating_impact":"No",
-              "fy-0":0,
-              "project_total":800000
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Public Safety",
               "name":"Roof and Masonry Repairs at Engine 4, 14 and 55",
               "location":"Various neighborhoods",
               "section_id":"CFD23843",
@@ -203,30 +227,6 @@
               "operating_impact":"No",
               "fy-0":750000,
               "project_total":1600000
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Public Safety",
-              "name":"Engine 5",
-              "location":"East Boston",
-              "section_id":"CFD23484",
-              "status":"In Design",
-              "operating_impact":"No",
-              "fy-0":1520290,
-              "project_total":1925000
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Public Safety",
-              "name":"Engine 50",
-              "location":"Charlestown",
-              "section_id":"CFD23280",
-              "status":"In Design",
-              "operating_impact":"No",
-              "fy-0":1300000,
-              "project_total":3810000
             }
           ]
         }

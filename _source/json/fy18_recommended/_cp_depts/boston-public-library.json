@@ -85,45 +85,13 @@
               "line_type":"data",
               "title":null,
               "category":"Arts and Culture",
-              "name":"Faneuil Branch Library",
-              "location":"Allston/Brighton",
-              "section_id":"CLD22668",
+              "name":"Central Library: Johnson Roof Replacement",
+              "location":"Back Bay",
+              "section_id":"CLD24144",
               "status":"To Be Scheduled",
               "operating_impact":"No",
-              "fy-0":0,
-              "project_total":12625000
-            }
-          ]
-        },
-        {
-          "Arts and Culture":[
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Arts and Culture",
-              "name":"Parker Hill Library",
-              "location":"Mission Hill",
-              "section_id":"CLD23016",
-              "status":"In Design",
-              "operating_impact":"No",
-              "fy-0":1568700,
-              "project_total":2400000
-            }
-          ]
-        },
-        {
-          "Arts and Culture":[
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Arts and Culture",
-              "name":"Jamaica Plain Branch Library",
-              "location":"Jamaica Plain",
-              "section_id":"CLD23236",
-              "status":"In Construction",
-              "operating_impact":"No",
-              "fy-0":803402,
-              "project_total":10000000
+              "fy-0":150000,
+              "project_total":4830000
             }
           ]
         },
@@ -149,6 +117,22 @@
               "line_type":"data",
               "title":null,
               "category":"Arts and Culture",
+              "name":"Central Library: Rare Books and Manuscripts Department",
+              "location":"Back Bay",
+              "section_id":"CLD24681",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":1950000,
+              "project_total":15725000
+            }
+          ]
+        },
+        {
+          "Arts and Culture":[
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Arts and Culture",
               "name":"Dudley Branch Library Renovation",
               "location":"Roxbury",
               "section_id":"CLD23928",
@@ -156,102 +140,6 @@
               "operating_impact":"No",
               "fy-0":6296250,
               "project_total":14718000
-            }
-          ]
-        },
-        {
-          "Arts and Culture":[
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Arts and Culture",
-              "name":"Central Library: Johnson Roof Replacement",
-              "location":"Back Bay",
-              "section_id":"CLD24144",
-              "status":"To Be Scheduled",
-              "operating_impact":"No",
-              "fy-0":150000,
-              "project_total":4830000
-            }
-          ]
-        },
-        {
-          "Arts and Culture":[
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Arts and Culture",
-              "name":"Permanent Collections Storage Study",
-              "location":"West Roxbury",
-              "section_id":"CLD24188",
-              "status":"Study Underway",
-              "operating_impact":"No",
-              "fy-0":25000,
-              "project_total":75000
-            }
-          ]
-        },
-        {
-          "Arts and Culture":[
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Arts and Culture",
-              "name":"Uphams Corner Library",
-              "location":"Dorchester",
-              "section_id":"CLD22594",
-              "status":"To Be Scheduled",
-              "operating_impact":"No",
-              "fy-0":90000,
-              "project_total":17980000
-            }
-          ]
-        },
-        {
-          "Arts and Culture":[
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Arts and Culture",
-              "name":"Roslindale Branch Library Renovation",
-              "location":"Roslindale",
-              "section_id":"CLD24197",
-              "status":"In Design",
-              "operating_impact":"No",
-              "fy-0":700000,
-              "project_total":6700000
-            }
-          ]
-        },
-        {
-          "Arts and Culture":[
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Arts and Culture",
-              "name":"West Roxbury Branch Library Improvements",
-              "location":"West Roxbury",
-              "section_id":"CLD24721",
-              "status":"New Project",
-              "operating_impact":"No",
-              "fy-0":100000,
-              "project_total":100000
-            }
-          ]
-        },
-        {
-          "Arts and Culture":[
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Arts and Culture",
-              "name":"North End Branch Library",
-              "location":"North End",
-              "section_id":"CLD21306",
-              "status":"To Be Scheduled",
-              "operating_impact":"No",
-              "fy-0":0,
-              "project_total":1475000
             }
           ]
         },
@@ -277,6 +165,22 @@
               "line_type":"data",
               "title":null,
               "category":"Arts and Culture",
+              "name":"Faneuil Branch Library",
+              "location":"Allston/Brighton",
+              "section_id":"CLD22668",
+              "status":"To Be Scheduled",
+              "operating_impact":"No",
+              "fy-0":0,
+              "project_total":12625000
+            }
+          ]
+        },
+        {
+          "Arts and Culture":[
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Arts and Culture",
               "name":"Fields Corner Branch Library",
               "location":"Dorchester",
               "section_id":"CLD24520",
@@ -293,29 +197,13 @@
               "line_type":"data",
               "title":null,
               "category":"Arts and Culture",
-              "name":"Central Library: Rare Books and Manuscripts Department",
-              "location":"Back Bay",
-              "section_id":"CLD24681",
-              "status":"New Project",
+              "name":"Jamaica Plain Branch Library",
+              "location":"Jamaica Plain",
+              "section_id":"CLD23236",
+              "status":"In Construction",
               "operating_impact":"No",
-              "fy-0":1950000,
-              "project_total":15725000
-            }
-          ]
-        },
-        {
-          "Arts and Culture":[
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Arts and Culture",
-              "name":"South End Branch Library Improvements",
-              "location":"South End",
-              "section_id":"CLD24593",
-              "status":"New Project",
-              "operating_impact":"No",
-              "fy-0":132000,
-              "project_total":132000
+              "fy-0":803402,
+              "project_total":10000000
             }
           ]
         },
@@ -341,6 +229,70 @@
               "line_type":"data",
               "title":null,
               "category":"Arts and Culture",
+              "name":"North End Branch Library",
+              "location":"North End",
+              "section_id":"CLD21306",
+              "status":"To Be Scheduled",
+              "operating_impact":"No",
+              "fy-0":0,
+              "project_total":1475000
+            }
+          ]
+        },
+        {
+          "Arts and Culture":[
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Arts and Culture",
+              "name":"Parker Hill Library",
+              "location":"Mission Hill",
+              "section_id":"CLD23016",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":1568700,
+              "project_total":2400000
+            }
+          ]
+        },
+        {
+          "Arts and Culture":[
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Arts and Culture",
+              "name":"Permanent Collections Storage Study",
+              "location":"West Roxbury",
+              "section_id":"CLD24188",
+              "status":"Study Underway",
+              "operating_impact":"No",
+              "fy-0":25000,
+              "project_total":75000
+            }
+          ]
+        },
+        {
+          "Arts and Culture":[
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Arts and Culture",
+              "name":"Roslindale Branch Library Renovation",
+              "location":"Roslindale",
+              "section_id":"CLD24197",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":700000,
+              "project_total":6700000
+            }
+          ]
+        },
+        {
+          "Arts and Culture":[
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Arts and Culture",
               "name":"South Boston Branch Library Improvements",
               "location":"South Boston",
               "section_id":"CLD24595",
@@ -348,6 +300,54 @@
               "operating_impact":"No",
               "fy-0":99000,
               "project_total":99000
+            }
+          ]
+        },
+        {
+          "Arts and Culture":[
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Arts and Culture",
+              "name":"South End Branch Library Improvements",
+              "location":"South End",
+              "section_id":"CLD24593",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":132000,
+              "project_total":132000
+            }
+          ]
+        },
+        {
+          "Arts and Culture":[
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Arts and Culture",
+              "name":"Uphams Corner Library",
+              "location":"Dorchester",
+              "section_id":"CLD22594",
+              "status":"To Be Scheduled",
+              "operating_impact":"No",
+              "fy-0":90000,
+              "project_total":17980000
+            }
+          ]
+        },
+        {
+          "Arts and Culture":[
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Arts and Culture",
+              "name":"West Roxbury Branch Library Improvements",
+              "location":"West Roxbury",
+              "section_id":"CLD24721",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":100000,
+              "project_total":100000
             }
           ]
         },
