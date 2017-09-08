@@ -5,41 +5,6 @@
 /**************/
 /*** Tables ***/
 /**************/
-.responsive-table {
-  thead {
-    tr {
-      th {
-        &:first-of-type,
-        &.table-left {
-          text-align: left;
-        }
-        text-align: right;
-        padding: 9px;
-      }
-    }
-  }
-  th {
-    line-height: 1.5;
-    padding: 5px;
-  }
-  tbody {
-    color: #091F2F;
-    tr {
-      &:nth-child(odd) {
-        background-color: #F2F2F2;
-      }
-      td {
-        &:first-of-type,
-        &.table-left {
-          text-align: left;
-          font-style: italic;
-        }
-        border: none;
-        text-align: right;
-      }
-    }
-  }
-}
 table.responsive-table tbody tr.total {
   background-color: #091F2F;
   color: white;
@@ -47,12 +12,6 @@ table.responsive-table tbody tr.total {
 table.responsive-table tbody tr.subtotal {
   background-color: #58585B;
   color: white;
-}
-@media (max-width: 767px) {
-.responsive-table tbody tr td:first-of-type,
-.responsive-table tbody tr td.table-left {
-  text-align: right;
-}
 }
 
 /**************/
