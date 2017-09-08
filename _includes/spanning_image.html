@@ -1,27 +1,43 @@
-<div class="entity entity-paragraphs-item paragraphs-item-photo component-section with-details" about="" typeof="">
-  <div class="content">
-    <div class="photo-wrapper">
-      <picture>
-        <!--[if IE 9]><video style="display: none;"><![endif]-->
-        <source srcset="{{ site.url }}{{ include.arg[0].src }} 1x" media="(min-width: 1440px)">
-        <source srcset="{{ site.url }}{{ include.arg[0].src }} 1x, {{ site.url }}{{ include.arg[0].src }} 2x" media="(min-width: 768px)">
-        <source srcset="{{ site.url }}{{ include.arg[0].src }} 1x, {{ site.url }}{{ include.arg[0].src }} 2x" media="(min-width: 480px)">
-        <source srcset="{{ site.url }}{{ include.arg[0].src }} 1x, {{ site.url }}{{ include.arg[0].src }} 2x" media="(min-width: 0px)">
-        <!--[if IE 9]></video><![endif]-->
-        <img src="{{ site.url }}{{ include.arg[0].src }}" alt="{{ include.arg[0].alt }}" title="{{ include.arg[0].title }}">
-      </picture>
+<div class="b b--fw">
+  <div class="ph ph--wc">
+    <div class="ph-p ph-p--258151892">
+      <style>
+        @media screen and (max-width: 767px) {
+          .ph-p--258151892 {
+            background-image: url({{ site.url }}{{ include.arg[0].src }});
+          }
+        }
+        @media screen and (min-width: 768px) {
+          .ph-p--258151892 {
+            background-image: url({{ site.url }}{{ include.arg[0].src }});
+          }
+        }
+        @media screen and (min-width: 1024px) {
+          .ph-p--258151892 {
+            background-image: url({{ site.url }}{{ include.arg[0].src }});
+          }
+        }
+        @media screen and (min-width: 1200px) {
+          .ph-p--258151892 {
+            background-image: url({{ site.url }}{{ include.arg[0].src }});
+          }
+        }
+      </style>
     </div>
-    <div class="photo-details">
-      <h2 data-short-title="" class="sh-title createNavItem-processed">{{ include.arg[0].title }}</h2>
-      <div class="photo-caption-wrapper">
-        <p>{{ include.arg[0].desc }}</p>
+    <div class="ph-c p-a600">
+      <div class="h2 tt-u m-b200">
+        <a name="career-center" data-text="{{ include.arg[0].title }}" class="subnav-anchor"></a>
+        <h2 class="sh-title">{{ include.arg[0].title }}</h2>
       </div>
-      <div class="call-to-action">
-        <div class="paragraphs-items paragraphs-items-field-link paragraphs-items-field-link-full paragraphs-items-full">
-          <div class="link-wrapper internal-link">
-            <a href="{{ site.url }}{{ include.arg[0].link[0].url }}" title="Go to {{ include.arg[0].link[0].text }}">{{ include.arg[0].link[0].text }}</a>
-          </div>
-        </div>
+      <div class="t--info m-b200">
+        <p class="supporting-text">
+          {{ include.arg[0].desc }}
+        </p>
+        <p>
+          <a class="button" href="{{ site.url }}{{ include.arg[0].link[0].url }}" rel="nofollow">
+            {{ include.arg[0].link[0].text }}
+          </a>
+        </p>
       </div>
     </div>
   </div>
