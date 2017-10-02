@@ -10,12 +10,14 @@ install:
 - npm install
 - gulp build --source fy18_recommended
 deploy:
-  provider: heroku
-  app:
-    master: cob-budget
-    develop: cob-budget-staging
-  api_key:
-    secure: J+ZUCRKjsPc0mMljU9UMnOc/BuoJdTc/PGVNIGRGfTiUdfThqRXnJ3HwVtmJHrbqk+B5P5NbE924uWclIb0ncCUobodI9rMzEaj7BbtGxidzVduATS71tpdVM8rm3Tjd2JbNV/Gd0HGYfjDVU13jvLMN2/6dchK6bghKXId77L8Q45hHcCG0fkI9qBHPv0WohQbM3dX336N8BzIQ9NfmgeBXn1yBfo3PHHxT2CcatCNyKn57Nr2xHK61IoJmfIUlXpuN/YZJUYN3TzsvleSqGD3oFrh2vnh+IL+bQRLxUoMwR6tphaaLOEHthlTdyj1xrvfF3sr0trGoGkYDFqO5ZWAiXxWVhWAFJzU+dBjtkUDbITyRAChBA6+KZytWyg6JamrhPZN/LVolmIVGFy6Kg7fkeUJNcvx+DrnpprvfCkYJy3SPPE47moUMasP11zLaG/VSt30pBMz8EtdSLJxoRlXapAxPwuEVlyYyY6THIj1L9so02tRNIJqdNtg3ugTt3RHVDfmqyakYfQtyHYoGGb9dyHJn7BAAxkrpghH8aP1ph3M4hB7vbAGfXzK58UMTYrzYEepapLGci+EoyT/T/X+6PinLwwWvhzZmLalh3kOLgl6om1//lzvrOBVf8zpA2J8chXSymtfFs8+S+M924vbbxEKRsuaAhvm7cJNcDbw=
+  - provider: s3
+    access_key_id: $AWS_KEY
+    secret_access_key: $AWS_SECRET
+    bucket: "budget-boston-gov"
+    skip_cleanup: true
+    local_dir: _site
+    on:
+      branch: develop
 notifications:
   slack:
     secure: b2UX5FnE2/C5MDNK47EP0GZIRmfwX+18HES0Q/uSwt6t7+ogKCtIjWCp1sIPd7jqRak0VmLoM0OHy6MBjz6x+1MQMNUqPEiO1f2APgBJ48c6rzeWQKTVfrKsUvPYIA+gxQ7jq7Gn0zPYQ5/+KXkxac+NrVoH85sI0xIL2BhFgQu1W4OlLLFKT11U7zJtCi3bcYhF7/eyCcrs3+IBGGp9sldjWvaVLDqUnFjz3c5AXwxlbJ6UTq7GIdIEe5Xw/UOJS9weedhoYH2XSNzFpmqqkAGcvkFpgCeYxf12iiqkmoAq5A0CxWVXqA3vG+imabuQonpbQsGdvtFP71EV9o9DxwATwxaGhBpX+Sw4zN7v25IC6n7rcvcK2F9dtY0CAb8BpWbEbWMDXXmVvFEVAvgARQ/b+L7YOJbNbbJwJQqZkllJp0lAFluyMDwpP2Ncr177S5hR/4Z6rlj1aLK1nhbmi/tK/kSNe+bcashm7/S2KG076hN0b5TB87hsbkvHsnVJDMKXSHwKrrdJiXDAkwZbl2sBp/bbfMTXyEqrINUG4WA70WXP3lR/QJy2pldVEYIU5rRwSzZ0BJ9raF7iiXFgTn3+Yhl0U/UgcDCEKoRvutM/suCy1mQBYP+Gv1uyFNFco37doQbPeyAXNb1vjfJQtyzy8I31gIN/sK590YxLBCA=
