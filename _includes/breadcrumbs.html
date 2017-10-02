@@ -1,17 +1,26 @@
 <div class="breadcrumb p-t500">
-{% for breadcrumb in include.arg %}
-  {% if breadcrumb.url and breadcrumb.title %}
-  <a href="{% if breadcrumb.local %}{{ site.url }}{% endif %}{{ breadcrumb.url }}">{{ breadcrumb.title }}</a>
-    <span class="crumbs-separator"> &gt; </span>
-  {% endif %}
-  {% if breadcrumb.current %}
-    {{ breadcrumb.current }}
-  {% endif %}
-  {% if breadcrumb.published %}
-</div>
-    <div class="breadcrumb-last-updated">
-      Last updated: {{ breadcrumb.published }}
-  {% endif %}
-{% endfor %}
+  <nav class="brc" role="navigation">
+    <div class="a11y--h"> class="brc-t"&gt;You are here</div>
+    <ul class="brc-l">
+      {% for breadcrumb in include.arg %}
+        {% if breadcrumb.url and breadcrumb.title %}
+        <li class="brc-l-i">
+          <a href="{% if breadcrumb.local %}{{ site.url }}{% endif %}{{ breadcrumb.url }}">{{ breadcrumb.title }}</a>
+          <span class="brc-s"> › </span>
+        </li>
+        {% endif %}
+        {% if breadcrumb.current %}
+        <li class="brc-l-i">
+          {{ breadcrumb.current }}
+        </li>
+        {% endif %}
+        {% if breadcrumb.published %}
+      </div>
+          <div class="brc-lu">
+            Last updated: {{ breadcrumb.published }}
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </nav>
 </div>
 <br />
