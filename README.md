@@ -33,13 +33,13 @@ Now use gulp to build the site.
 REQUIRED: Set a "source" in order to build the project using data from a specific fiscal year, for example:
 
 ```
-gulp --source fy17
+gulp --source fy18_recommended
 ```
 
 For local development pass the "local" flag:
 
 ```
-gulp --local --source fy17
+gulp --local --source fy18_recommended
 ```
 
 At this point, you should be able to visit your site at `http://127.0.0.1:4000`.
