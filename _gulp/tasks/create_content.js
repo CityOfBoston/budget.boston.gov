@@ -2,6 +2,10 @@ var gulp = require('gulp');
 var argv = require('yargs').argv;
 
 gulp.task('create_content', function (done) {
+  gulp.src(['_source/' + argv.source + '/_config.yml'])
+    .pipe(gulp.dest('.'));
+  gulp.src(['_source/' + argv.source + '/_config_dev.yml'])
+    .pipe(gulp.dest('.'));
   gulp.src(['_source/' + argv.source + '/json/_cabinets/**'])
     .pipe(gulp.dest('_cabinets'));
   gulp.src(['_source/' + argv.source + '/json/_departments/**'])
