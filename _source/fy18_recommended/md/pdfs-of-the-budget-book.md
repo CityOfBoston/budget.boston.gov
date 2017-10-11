@@ -12,8 +12,9 @@ components:
 - intro:
   - title: PDFs of the budget volumes
     short_desc: >
-      Every year the Office of Budget Management produces a three volume, ~1000+ page physical 
-      book. You can find every page of that book in the links on this page. 
+      This PDF represents the FY18 adopted budget document, we are in the process of updating
+      the data in the interactive part of this site located at 
+      <a href="https://budget.boston.gov">https://budget.boston.gov</a>.
     description:
     - link: 
         title: Complete Volume 1
@@ -32,7 +33,7 @@ components:
         to see the books from prior budget years</p>
     sidebar_menu: true
 - text_block:
-  - title: FY18 recommended budget books (7/1/17 - 6/30/18)
+  - title: FY18 budget books (7/1/17 - 6/30/18)
 - text_col_3:
   - col:
     - blurb: >
