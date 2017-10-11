@@ -2,8 +2,6 @@ var gulp  = require('gulp');
 const del = require('del');
 
 gulp.task('clean_project', function (done) {
-  del.sync(['_config.yml']);
-  del.sync(['_config_dev.yml']);
   del.sync(['_cabinets/**']);
   del.sync(['_departments/**']);
   del.sync(['_programs/**']);
