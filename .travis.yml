@@ -17,6 +17,7 @@ deploy:
     skip_cleanup: true
     local_dir: _site
     acl: public_read
+    region: us-east-2
     on:
       branch: develop
   - provider: s3
@@ -26,6 +27,7 @@ deploy:
     skip_cleanup: true
     local_dir: _site
     acl: public_read
+    region: us-east-2
     on:
       branch: master
 notifications:
