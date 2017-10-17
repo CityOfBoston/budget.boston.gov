@@ -9,7 +9,7 @@ install:
 - bundle install
 - npm install
 - gulp build --source fy18_recommended
-after_install:
+after_success:
 - python --version
 - sudo pip install s3cmd
 - if [[ $TRAVIS_BRANCH == 'develop' ]]; s3cmd sync --delete-removed -P -M -r _site/ s3://budget-digital-staging-boston-gov/; fi
