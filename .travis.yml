@@ -11,8 +11,8 @@ install:
 - gulp build --source fy18_recommended
 deploy:
   - provider: s3
-    access_key_id: $AWS_KEY
-    secret_access_key: $AWS_SECRET
+    access_key_id: $AWS_ACCESS_KEY
+    secret_access_key: $AWS_SECRET_KEY
     bucket: "budget-digital-staging-boston-gov"
     skip_cleanup: true
     local_dir: _site
@@ -21,8 +21,8 @@ deploy:
     on:
       branch: develop
   - provider: s3
-    access_key_id: $AWS_KEY
-    secret_access_key: $AWS_SECRET
+    access_key_id: $AWS_ACCESS_KEY
+    secret_access_key: $AWS_SECRET_KEY
     bucket: "budget-boston-gov"
     skip_cleanup: true
     local_dir: _site
