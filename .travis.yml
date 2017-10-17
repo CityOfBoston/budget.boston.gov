@@ -14,6 +14,7 @@ deploy:
     access_key_id: $AWS_KEY
     secret_access_key: $AWS_SECRET
     bucket: "budget-digital-staging-boston-gov"
+    skip_cleanup: true
     local_dir: _site
     acl: public_read
     region: us-east-2
@@ -23,6 +24,7 @@ deploy:
     access_key_id: $AWS_KEY
     secret_access_key: $AWS_SECRET
     bucket: "budget-boston-gov"
+    skip_cleanup: true
     local_dir: _site
     acl: public_read
     region: us-east-2
