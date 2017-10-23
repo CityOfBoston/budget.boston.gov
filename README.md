@@ -36,6 +36,12 @@ REQUIRED: Set a "source" in order to build the project using data from a specifi
 gulp --source fy18_recommended
 ```
 
+Create an environment specific configuration file in order to serve the site from a URL that differs from your production domain. For example, set the URL for a staging site in _config_stg.yml and pass the "staging" flag like so:
+
+```
+gulp --staging --source fy18_recommended
+```
+
 For local development pass the "local" flag:
 
 ```
