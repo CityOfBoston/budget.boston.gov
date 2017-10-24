@@ -17,8 +17,10 @@ DIR=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
 # Create an empty array to hold _source subdirectory names.
 sources=()
 # Loop through all the directories in the _source folder.
-for directory in ${DIR}/../_source/. ; do
-  echo "Source: $directory found."
+for dir in $(find "${DIR}"/../_source/. -maxdepth 1 -mindepth 1 -type d); do
+  # Remove the path so only the directory name is displayed.
+  directory=$(basename $dir)
+  echo "Source $directory was found."
   # Add directory names to sources array.
   sources+=("$directory")
 done
@@ -26,7 +28,7 @@ done
 # Loop through names in sources array.
 for element in "${!sources}"; do
   # Check if any of the names match the current git tag.
-	if [[ $element == ${TRAVIS_TAG} ]]; then
+	if [[ $element == ${TRAVIS_TAG} && $element != "" ]]; then
 	  echo "Tag ${TRAVIS_TAG} was found in _source."
 		break
 	fi
