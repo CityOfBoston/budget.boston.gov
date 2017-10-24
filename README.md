@@ -30,17 +30,12 @@ npm install
 ```
 
 Now use gulp to build the site.
-REQUIRED: Set a "source" in order to build the project using data from a specific fiscal year, for example:
+**REQUIRED:** Set a "source" in order to build the project using data from a specific fiscal year, for example:
 
 ```
 gulp --source fy18_recommended
 ```
 
-Create an environment specific configuration file in order to serve the site from a URL that differs from your production domain. For example, set the URL for a staging site in _config_stg.yml and pass the "staging" flag like so:
-
-```
-gulp --staging --source fy18_recommended
-```
 
 For local development pass the "local" flag:
 
@@ -60,8 +55,29 @@ This will make the site available at http://127.0.0.1:4000/
 
 ---
 
+## Deployment
+
+You can create an environment specific configuration file in order to serve the site from a URL that differs from your production domain. For example, set the URL for a staging site in _config_stg.yml and pass the "staging" flag like so:
+
+```
+gulp --staging --source fy18_recommended
+```
+Our particular deployment uses Travis CI to infer the build environment based on the branch.
+
+Our deployment for this project uses [git tags](https://stackoverflow.com/questions/18216991/create-a-tag-in-github-repository) to specify which source to build the site from. So if you are pushing your contributions to the repository, be sure to pass the "tags" flag like so:
+```
+git push origin develop --tags
+```
+
+If you are creating a new set of source content for the site (for example fy18_adopted), first add it to the `_source` directory. Then make sure to tag your commit with the same name as your folder. In this example:
+```
+git tag fy18_adopted
+```
+
+## Components
+
 To create custom pages, you can simply add reusable components to markdown files. 
-> IMPORTANT: Before adding any components you must add the "components:" key.
+> **IMPORTANT:** Before adding any components you must add the "components:" key.
 
 Here's a short list of some common components you can use:
 
