@@ -17,7 +17,7 @@ DIR=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
 # Create an empty array to hold _source subdirectory names.
 sources=()
 # Loop through all the directories in the _source folder.
-for directory in ${DIR}/../_source ; do
+for directory in ${DIR}/../_source/. ; do
   echo "Source: $directory found."
   # Add directory names to sources array.
   sources+=("$directory")
