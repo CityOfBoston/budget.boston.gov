@@ -9,7 +9,9 @@
 # It requires no arguments. Example call:
 # `scripts/deploy.sh`
 
-echo "Current tag is \"${TRAVIS_TAG}\"."
+# Get the latest git tag.
+tag=$(git describe --abbrev=0 --tags)
+echo "The current git tag is $tag."
 
 # Get the directory that this script is in.
 DIR=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
@@ -25,25 +27,38 @@ for dir in $(find "${DIR}"/../_source/. -maxdepth 1 -mindepth 1 -type d); do
   sources+=("$directory")
 done
 
+# Set initial state for source.
+source_is_found=false
 # Loop through names in sources array.
-for element in "${!sources}"; do
+for element in $sources; do
   # Check if any of the names match the current git tag.
-	if [[ $element == ${TRAVIS_TAG} && $element != "" ]]; then
-	  echo "Tag ${TRAVIS_TAG} was found in _source."
+	if [[ $element == $tag && $element != "" ]]; then
+	  echo "Tag $tag was found in _source."
+    source_is_found=true
 		break
 	fi
 done
 
-echo "Current branch is \"${TRAVIS_BRANCH}\"."
+# Check if the source specified by the git tag is actually found.
+if ( $source_is_found ); then
 
-if [[ "${TRAVIS_BRANCH}" = "develop" ]];
-  then
-    echo "Building with --staging flag."
-    gulp build --staging --source fy18_recommended
-elif [[ "${TRAVIS_BRANCH}" = "master" ]];
-  then
-    echo "Building without environment flags."
-    gulp build --source fy18_recommended
+  echo "Current branch is \"${TRAVIS_BRANCH}\"."
+
+  # For https://budget.digital-staging.boston.gov
+  if [[ "${TRAVIS_BRANCH}" = "develop" ]];
+    then
+      echo "Building with --staging flag."
+      gulp build --staging --source $tag
+  # for https://budget.boston.gov
+  elif [[ "${TRAVIS_BRANCH}" = "master" ]];
+    then
+      echo "Building without environment flags."
+      gulp build --source $tag
+  else
+    echo "Not develop or master branches, skipping site build."
+  fi
+
 else
-  echo "Incorrect branch, skipping site build."
+  # Let it be known that the source couldn't be found so the build couldn't happen.
+  echo "The source could not be determined from the latest git tag. Skipping deploy entirely."
 fi
