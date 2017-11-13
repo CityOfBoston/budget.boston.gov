@@ -1,0 +1,134 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Public Safety",
+  "department":"Fire Department",
+  "file_version":"0.10",
+  "head_name":"Kathleen Judge",
+  "head_title":"Manager",
+  "name":"BFD Administration",
+  "parent":"Fire Department",
+  "section_id":28,
+  "section_md5_id":"33E75FF09DD601BBE69F351039152189",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 221100",
+  "description":[
+    "The Administration Program is responsible for the efficient daily management and administration of the Fire Department.  Fire  Administration coordinates all activities in other department programs.  The command staff ensures that all orders and policies of the Fire Commissioner are coordinated and successfully implemented."
+  ],
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":12790187,
+      "fy-1":10196784,
+      "fy-0":10376844,
+      "fy+1":10585071
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":5942380,
+      "fy-1":5878290,
+      "fy-0":6401832,
+      "fy+1":6420782
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":18732567,
+      "fy-1":16075074,
+      "fy-0":16778676,
+      "fy+1":17005853
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":12790187,
+        "fy-1":10196784,
+        "fy-0":10376844,
+        "fy+1":10585071,
+        "diff":208227
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":1933063,
+        "fy-1":2057328,
+        "fy-0":2522811,
+        "fy+1":2504972,
+        "diff":-17839
+      },
+      {
+        "line_title":"Supplies and Materials",
+        "line_type":"data",
+        "fy-2":153366,
+        "fy-1":187023,
+        "fy-0":137350,
+        "fy+1":159600,
+        "diff":22250
+      },
+      {
+        "line_title":"Current Chgs and Oblig",
+        "line_type":"data",
+        "fy-2":3795952,
+        "fy-1":3633873,
+        "fy-0":3741671,
+        "fy+1":3756210,
+        "diff":14539
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":1899,
+        "fy-1":66,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":58100,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":18732567,
+        "fy-1":16075074,
+        "fy-0":16778676,
+        "fy+1":17005853,
+        "diff":227177
+      }
+    ]
+  }
+}
+---

@@ -1,0 +1,351 @@
+---
+{
+  "debug":"JBD",
+  "publish_subordinates":true,
+  "file_version":"0.10",
+  "section_id":5,
+  "section_md5_id":"E4DA3B7FBBCE2345D7772B0674A318D5",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "name":"Public Works Department",
+  "parent":"Streets",
+  "cabinet":"Streets",
+  "department":"Public Works Department",
+  "head_name":"Chris Osgood",
+  "head_title":"Interim Commissioner",
+  "appropriation_code":"Appropriation 311",
+  "mission":[
+    "The mission of the Public Works Department is to provide a quality environment for the City of Boston and ensure that the City's roadways, streets and bridge infrastructures are safe, clean and attractive. The Public Works Department also maintains street lights, traffic signals, provides snow removal and garbage collection and disposal as well as curbside recycling."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Construction Management",
+      "debug":"JCO",
+      "strategies":[
+        "Ensure that Boston&rsquo;s streets, sidewalks, and bridges are safe, clean and attractive",
+        "Ensure that Boston&rsquo;s streets, sidewalks, and bridges are safe, clean and attractive"
+      ]
+    },
+    {
+      "program":"Highway Field Operations",
+      "debug":"JCO",
+      "strategies":[
+        "Effectively control and manage Boston's public space",
+        "Ensure that Boston&rsquo;s streets, sidewalks, and bridges are safe, clean and attractive"
+      ]
+    },
+    {
+      "program":"Street Lights",
+      "debug":"JCO",
+      "strategies":[
+        "Efficiently deliver services",
+        "Improve neighborhood quality of life"
+      ]
+    },
+    {
+      "program":"Waste Reduction",
+      "debug":"JCO",
+      "strategies":[
+        "Effectively control and manage Boston's public space",
+        "Efficiently deliver services"
+      ]
+    }
+  ],
+  "operating_budget":{
+    "debug":"JPTR",
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "name":"Commissioner's Office",
+        "line_type":"data",
+        "fy-2":3571066,
+        "fy-1":2841754,
+        "fy-0":2742767,
+        "fy+1":2740140,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Building/Facility Maintenance",
+        "line_type":"data",
+        "fy-2":3349142,
+        "fy-1":2286572,
+        "fy-0":2815781,
+        "fy+1":2757333,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Engineering",
+        "line_type":"data",
+        "fy-2":2293508,
+        "fy-1":1670878,
+        "fy-0":1488506,
+        "fy+1":1501277,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Construction Management",
+        "line_type":"data",
+        "fy-2":2324772,
+        "fy-1":4690789,
+        "fy-0":2816164,
+        "fy+1":2914503,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Highway Field Operations",
+        "line_type":"data",
+        "fy-2":18016298,
+        "fy-1":21060512,
+        "fy-0":19737315,
+        "fy+1":19736189,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Bridge Operations/Maintenance",
+        "line_type":"data",
+        "fy-2":1972448,
+        "fy-1":2713515,
+        "fy-0":1773567,
+        "fy+1":1818082,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Street Lights",
+        "line_type":"data",
+        "fy-2":12147672,
+        "fy-1":10712131,
+        "fy-0":10702914,
+        "fy+1":11502749,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Waste Reduction",
+        "line_type":"data",
+        "fy-2":38503590,
+        "fy-1":39078603,
+        "fy-0":39912696,
+        "fy+1":40805575,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":82178496,
+        "fy-1":85054754,
+        "fy-0":81989710,
+        "fy+1":83775848
+      }
+    ]
+  },
+  "external_funds_budget":{
+    "debug":"JPTR",
+    "table_type":"External Funds",
+    "table_title":"External Funds Budget",
+    "table_header":{
+      "name":"Fund Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "name":"Home Composting",
+        "line_type":"data",
+        "fy-2":14910,
+        "fy-1":5565,
+        "fy-0":10000,
+        "fy+1":10000,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Municipal Recycling",
+        "line_type":"data",
+        "fy-2":13126,
+        "fy-1":0,
+        "fy-0":10000,
+        "fy+1":10000,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Spectacle Island",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":210000,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":28036,
+        "fy-1":215565,
+        "fy-0":20000,
+        "fy+1":20000
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":21918266,
+      "fy-1":21905405,
+      "fy-0":22226300,
+      "fy+1":22575787
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":60260230,
+      "fy-1":63149349,
+      "fy-0":59763410,
+      "fy+1":61200061
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":82178496,
+      "fy-1":85054754,
+      "fy-0":81989710,
+      "fy+1":83775848
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Enabling Legislation: Powers and Duties, CBC Ord. &sect;&sect; 11-6.1-11-6.44.",
+    "Bills Posting, CBC Ord. &sect;&sect; 16-23.1-16-23.3.",
+    "Licenses for Street Occupancy, CBC Ord. &sect;&sect; 11-6.9-11-6.10.",
+    "Public Improvement Commission, CBC Ord. &sect; 8-7.1; CBC St. 8 &sect; 500.",
+    "Refuse, CBC Ord. &sect;&sect; 23-1, 23-5, 23-7, 23-8, 23-9, 23-10; CBC Ord. &sect; 16-12.9.",
+    "Establishing a Comprehensive Recycling Program for City of Boston, CBC Ord. &sect;&sect; 7-13.1-7-13.11."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":21918266,
+        "fy-1":21905405,
+        "fy-0":22226300,
+        "fy+1":22575787,
+        "diff":349487
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":54472025,
+        "fy-1":56282500,
+        "fy-0":54134119,
+        "fy+1":55728720,
+        "diff":1594601
+      },
+      {
+        "line_title":"Supplies and Materials",
+        "line_type":"data",
+        "fy-2":2592589,
+        "fy-1":2034025,
+        "fy-0":1881746,
+        "fy+1":1689924,
+        "diff":-191822
+      },
+      {
+        "line_title":"Current Chgs and Oblig",
+        "line_type":"data",
+        "fy-2":695847,
+        "fy-1":667658,
+        "fy-0":505600,
+        "fy+1":559545,
+        "diff":53945
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":2150194,
+        "fy-1":2922313,
+        "fy-0":2941945,
+        "fy+1":2821872,
+        "diff":-120073
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":349575,
+        "fy-1":1242853,
+        "fy-0":300000,
+        "fy+1":400000,
+        "diff":100000
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":82178496,
+        "fy-1":85054754,
+        "fy-0":81989710,
+        "fy+1":83775848,
+        "diff":1786138
+      }
+    ]
+  },
+  "external_funds":[
+    {
+      "debug":"JEFP",
+      "project":"Home Composting",
+      "project_mission":[
+        "This revolving account was started with a grant from the State Department of Environmental Protection and uses yard waste materials from community gardens to create compost. The compost is sold and the proceeds were used to buy compost bins, which are also sold to residential gardeners, along with compost."
+      ]
+    },
+    {
+      "debug":"JEFP",
+      "project":"MRIP (Municipal Recycling Incentive Program)",
+      "project_mission":[
+        "MRIP is a program of the DEP. The goal of the program is to increase municipal recycling, safely dispose of universal wastes (such as CRT's, mercury, paint and auto supplies) and develop a way to recover and reuse materials such as paper, cardboard and leaf and yard waste."
+      ]
+    }
+  ],
+  "fy_major_initiatives":[
+    "Walkable Streets will focus on longer, contiguous sections of sidewalks to improve overall mobility.",
+    "Construction will begin in Hyde Square to reconstruct Centre Street with wider sidewalks, new lighting, pedestrian safety improvements and the installation of public art.",
+    "Construction will begin on the streets and sidewalks in and around North Square.",
+    "Construction will be completed on the multi-year Connect Historic Boston project.",
+    "The reconstruction and installation of pedestrian ramps on sidewalks will continue throughout the City, to improve accessibility.",
+    "Design processes with community input for major neighborhood improvements at Commonwealth Avenue Phase 3 and 4 in Brighton will continue.",
+    "Whittier Street housing redevelopment roadways supporting recent $30 million HUD grant to the Boston Housing Authority to revitalize the housing development and surrounding neighborhood.",
+    "Elevator improvements are planned at the Central Maintenance Facility as well as improved water service.",
+    "Construction is expected to begin on a new North Washington Street Bridge.",
+    "Ongoing roadway reconstruction, resurfacing, and sidewalk repairs are planned throughout the City."
+  ]
+}
+---

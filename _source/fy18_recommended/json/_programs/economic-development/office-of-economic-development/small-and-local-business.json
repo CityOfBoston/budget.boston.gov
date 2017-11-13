@@ -1,0 +1,239 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Economic Development",
+  "department":"Office of Economic Development",
+  "file_version":"0.10",
+  "head_name":"Karilyn Crockett",
+  "head_title":"Manager",
+  "name":"Small and Local Business",
+  "parent":"Office of Economic Development",
+  "section_id":67,
+  "section_md5_id":"735B90B4568125ED6C3F678819B6E058",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 182300",
+  "description":[
+    "The Small and Local Business Program  encourages, assists, and provides opportunities for minority and women-owned businesses and small and Boston-based businesses to participate in the City&rsquo;s contracting arena as well as in the broader Boston area economy.  The program assists City departments to increase both the number of City contracts and the dollars awarded to those businesses on goods and services contracts and construction contracts."
+  ],
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":538508,
+      "fy-1":466136,
+      "fy-0":761858,
+      "fy+1":578126
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":14426,
+      "fy-1":6928,
+      "fy-0":448306,
+      "fy+1":444108
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":552934,
+      "fy-1":473064,
+      "fy-0":1210164,
+      "fy+1":1022234
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":538508,
+        "fy-1":466136,
+        "fy-0":761858,
+        "fy+1":578126,
+        "diff":-183732
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":2758,
+        "fy-1":2133,
+        "fy-0":435471,
+        "fy+1":431423,
+        "diff":-4048
+      },
+      {
+        "line_title":"Supplies and Materials",
+        "line_type":"data",
+        "fy-2":3048,
+        "fy-1":494,
+        "fy-0":9585,
+        "fy+1":9185,
+        "diff":-400
+      },
+      {
+        "line_title":"Current Chgs and Oblig",
+        "line_type":"data",
+        "fy-2":7941,
+        "fy-1":3925,
+        "fy-0":3250,
+        "fy+1":3500,
+        "diff":250
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":679,
+        "fy-1":376,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":552934,
+        "fy-1":473064,
+        "fy-0":1210164,
+        "fy+1":1022234,
+        "diff":-187930
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Develop Pathways to Overcome Income and Wealth Disparity"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "debug":"JPM",
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of MWBE companies with City of Boston Contracts",
+              "fy-2":"29",
+              "fy-1":"52",
+              "fy-0":"52",
+              "fy+1":"60"
+            },
+            {
+              "line_type":"data",
+              "line_data":"City of Boston money spent with MWBE contracts",
+              "fy-2":"17,189,115",
+              "fy-1":"7,530,936",
+              "fy-0":"7,500,000",
+              "fy+1":"4,500,000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "The number of veteran owned businesses certified by the Mayor's Office of Economic Development in the past month"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "debug":"JPM",
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"VBE firms certified",
+              "fy-2":"4",
+              "fy-1":"4",
+              "fy-0":"2",
+              "fy+1":"2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To increase the proportion of small, local, minority, and women owned businesses that receive City contracts"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "debug":"JPM",
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"MBE firms certified",
+              "fy-2":"9",
+              "fy-1":"5",
+              "fy-0":"10",
+              "fy+1":"10"
+            },
+            {
+              "line_type":"data",
+              "line_data":"WBE firms certified",
+              "fy-2":"8",
+              "fy-1":"8",
+              "fy-0":"15",
+              "fy+1":"15"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

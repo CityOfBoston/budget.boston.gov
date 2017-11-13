@@ -1,0 +1,181 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Administration and Finance",
+  "department":"Budget Management",
+  "file_version":"0.10",
+  "head_name":"James M. Williamson",
+  "head_title":"Manager",
+  "name":"Budget and Management",
+  "parent":"Budget Management",
+  "section_id":241,
+  "section_md5_id":"F340F1B1F65B6DF5B5E3F94D95B11DAF",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 141200",
+  "description":[
+    "The Budget & Management Program is responsible for the development and implementation of the City's operating budget.  Program staff analyze program and fiscal management issues throughout City government."
+  ],
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":530794,
+      "fy-1":550182,
+      "fy-0":607790,
+      "fy+1":577489
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":800,
+      "fy-1":1300,
+      "fy-0":202900,
+      "fy+1":264900
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":531594,
+      "fy-1":551482,
+      "fy-0":810690,
+      "fy+1":842389
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":530794,
+        "fy-1":550182,
+        "fy-0":607790,
+        "fy+1":577489,
+        "diff":-30301
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":800,
+        "fy-1":1300,
+        "fy-0":202400,
+        "fy+1":264400,
+        "diff":62000
+      },
+      {
+        "line_title":"Supplies and Materials",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":500,
+        "fy+1":500,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs and Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":531594,
+        "fy-1":551482,
+        "fy-0":810690,
+        "fy+1":842389,
+        "diff":31699
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Improve use of limited city resources"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "debug":"JPM",
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% achieved of savings identified in budget process",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"100%",
+              "fy+1":"100%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"% of new investments implemented",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":"100%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"New healthcare savings achieved through the Public Employee Committee (PEC)",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"2M",
+              "fy+1":"3.2M"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---
