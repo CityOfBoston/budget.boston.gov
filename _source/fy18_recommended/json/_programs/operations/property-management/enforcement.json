@@ -1,0 +1,134 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Operations",
+  "department":"Property Management",
+  "file_version":"0.10",
+  "head_name":"William G. Joyce",
+  "head_title":"Manager",
+  "name":"Enforcement",
+  "parent":"Property Management",
+  "section_id":140,
+  "section_md5_id":"1385974ED5904A438616FF7BDB3F7439",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 180400",
+  "description":[
+    "The Municipal Protective Services Division (MPSD) protects City property from vandalism, arson, and theft in City buildings."
+  ],
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":3588961,
+      "fy-1":3719683,
+      "fy-0":3298472,
+      "fy+1":2108300
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":212137,
+      "fy-1":331651,
+      "fy-0":301974,
+      "fy+1":279399
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":3801098,
+      "fy-1":4051334,
+      "fy-0":3600446,
+      "fy+1":2387699
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":3588961,
+        "fy-1":3719683,
+        "fy-0":3298472,
+        "fy+1":2108300,
+        "diff":-1190172
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":51819,
+        "fy-1":121154,
+        "fy-0":140405,
+        "fy+1":127002,
+        "diff":-13403
+      },
+      {
+        "line_title":"Supplies and Materials",
+        "line_type":"data",
+        "fy-2":59617,
+        "fy-1":62587,
+        "fy-0":67839,
+        "fy+1":71241,
+        "diff":3402
+      },
+      {
+        "line_title":"Current Chgs and Oblig",
+        "line_type":"data",
+        "fy-2":1412,
+        "fy-1":12587,
+        "fy-0":5945,
+        "fy+1":9720,
+        "diff":3775
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":99289,
+        "fy-1":135323,
+        "fy-0":87785,
+        "fy+1":71436,
+        "diff":-16349
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":3801098,
+        "fy-1":4051334,
+        "fy-0":3600446,
+        "fy+1":2387699,
+        "diff":-1212747
+      }
+    ]
+  }
+}
+---

@@ -1,0 +1,165 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Housing and Neighborhood Development",
+  "department":"Neighborhood Development",
+  "file_version":"0.10",
+  "head_name":"Donald Wright",
+  "head_title":"Deputy Director",
+  "name":"Real Estate Management and Sales",
+  "parent":"Neighborhood Development",
+  "section_id":193,
+  "section_md5_id":"BD686FD640BE98EFAAE0091FA301E613",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 188200",
+  "description":[
+    "The Real Estate Management & Sales Program works to manage disposal of foreclosed land parcels and foreclosed buildings as quickly as possible, and  in a manner that generates revenue for the City and provides benefits to the community."
+  ],
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":979291,
+      "fy-1":1173232,
+      "fy-0":1011757,
+      "fy+1":883347
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":796099,
+      "fy-1":609657,
+      "fy-0":542470,
+      "fy+1":733245
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1775390,
+      "fy-1":1782889,
+      "fy-0":1554227,
+      "fy+1":1616592
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":979291,
+        "fy-1":1173232,
+        "fy-0":1011757,
+        "fy+1":883347,
+        "diff":-128410
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":757446,
+        "fy-1":575360,
+        "fy-0":504820,
+        "fy+1":695595,
+        "diff":190775
+      },
+      {
+        "line_title":"Supplies and Materials",
+        "line_type":"data",
+        "fy-2":7728,
+        "fy-1":6807,
+        "fy-0":6000,
+        "fy+1":6000,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs and Oblig",
+        "line_type":"data",
+        "fy-2":30925,
+        "fy-1":27490,
+        "fy-0":31650,
+        "fy+1":31650,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":1775390,
+        "fy-1":1782889,
+        "fy-0":1554227,
+        "fy+1":1616592,
+        "diff":62365
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Dispose of tax-foreclosed and surplus property"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "debug":"JPM",
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of land parcels and buildings sold or transferred for development and open space",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":"57"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

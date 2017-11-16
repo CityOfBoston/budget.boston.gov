@@ -1,0 +1,181 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Economic Development",
+  "department":"Office of Economic Development",
+  "file_version":"0.10",
+  "head_name":"Karilyn Crockett",
+  "head_title":"Manager",
+  "name":"Boston Residents Jobs Policy",
+  "parent":"Office of Economic Development",
+  "section_id":49,
+  "section_md5_id":"F457C545A9DED88F18ECEE47145A72C0",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 182200",
+  "description":[
+    "The mission of the Boston Residents Jobs Policy is to increase the employment opportunities for Boston&rsquo;s residents, minorities, and women. The Boston Residents Jobs Ordinance sets goals on construction-related projects funded by or approved by the City. The ordinance stated goals aim to have 51% of the work hours performed by Boston residents, 40% by people of color, and 12% by women on a trade-by-trade basis."
+  ],
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":424303,
+      "fy-1":403841,
+      "fy-0":619058,
+      "fy+1":632518
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":8573,
+      "fy-1":2333,
+      "fy-0":5595,
+      "fy+1":7025
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":432876,
+      "fy-1":406174,
+      "fy-0":624653,
+      "fy+1":639543
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":424303,
+        "fy-1":403841,
+        "fy-0":619058,
+        "fy+1":632518,
+        "diff":13460
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":2790,
+        "fy-1":1300,
+        "fy-0":3495,
+        "fy+1":3495,
+        "diff":0
+      },
+      {
+        "line_title":"Supplies and Materials",
+        "line_type":"data",
+        "fy-2":1811,
+        "fy-1":440,
+        "fy-0":1500,
+        "fy+1":2930,
+        "diff":1430
+      },
+      {
+        "line_title":"Current Chgs and Oblig",
+        "line_type":"data",
+        "fy-2":2100,
+        "fy-1":593,
+        "fy-0":600,
+        "fy+1":600,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":1872,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":432876,
+        "fy-1":406174,
+        "fy-0":624653,
+        "fy+1":639543,
+        "diff":14890
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To monitor construction contracts, both public and Developmental Impact Projects (DIPs), for compliance with the BRJ Ordinance"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "debug":"JPM",
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of work hours performed by Boston residents",
+              "fy-2":"41%",
+              "fy-1":"38%",
+              "fy-0":"51%",
+              "fy+1":"51%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"% of work hours performed by people of color",
+              "fy-2":"29%",
+              "fy-1":"29%",
+              "fy-0":"40%",
+              "fy+1":"40%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"% of work hours performed by women",
+              "fy-2":"4%",
+              "fy-1":"5%",
+              "fy-0":"12%",
+              "fy+1":"12%"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

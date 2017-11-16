@@ -8,7 +8,7 @@ before_install:
 install:
 - bundle install
 - npm install
-- gulp build --source fy18_recommended
+- ./scripts/deploy.sh
 deploy:
   - provider: s3
     access_key_id: $AWS_ACCESS_KEY

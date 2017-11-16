@@ -1,0 +1,176 @@
+---
+{
+  "debug":"JCB",
+  "cabinet":"Streets",
+  "department":null,
+  "file_version":"0.10",
+  "head_name":"Chris Osgood",
+  "head_title":"Chief of Streets",
+  "name":"Streets",
+  "parent":"root",
+  "section_id":15,
+  "section_md5_id":"9BF31C7FF062936A96D3C8BD1F8F2FF3",
+  "section_type":"cabinet",
+  "section_type_short":"C",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "mission":[
+    "The mission of the Streets Cabinet is to innovate, develop, implement, support and manage all programs, projects and policies that enhance clean, well-lit, attractive and efficient infrastructure that moves vehicular and pedestrian traffic safely."
+  ],
+  "overview":[
+    "The overall Streets Cabinet budget will increase by 2.0% in FY18. This increase reflects targeted investments in basic city services, continued cost avoidance from reduced overtime and long-term vacant position elimination, and contract escalation in line with inflation.",
+    "The Public Works Department&rsquo;s FY18 budget is 2.2% above FY17. In an effort to enhance service levels for Boston&rsquo;s neighborhoods, the FY18 budget includes additional resources for the hokey program, in which hokeys (street cleaners) patrol neighborhoods, empty out litter baskets and pick up trash around the City. This investment will fund an additional six full time hokeys, allowing the department to staff one hokey in each of Boston&rsquo;s ten Public Works Districts. The Public Works Department will also purchase two large street sweepers that will be operated by City staff and achieve savings by reducing reliance on outside street sweeping contractors. The Public Works Department will also continue savings from long-term vacant position elimination and its FY17 overtime reduction targets. The FY18 budget builds on past investments in basic city services that have improved quality of life in Boston.",
+    "In FY18, the Transportation Department will see an increase of 2.8%. Through a combination of operating and capital funding, Boston is launching a citywide, multi-year campaign to bring all crosswalks, lane markings, and bike lanes into a state of good repair. This investment will support the recently released GoBoston 2030 action plan, aimed at creating a more sustainable, equitable and efficient transportation network. The Transportation budget also continues to support the Boston Bike program and community bicycle activities. The Department will continue to see savings in FY18 from reforms to reduce overtime and eliminate long-term vacant positions, as well as a tightened utility budget in FY18.",
+    "The Office of Streets will reduce by 0.5% in FY18 relative to FY17 largely based on turnover savings."
+  ],
+  "operating_department":{
+    "table_type":"operating_department",
+    "debug":"JCB",
+    "table_title":"Operating Budget",
+    "Program Name":"Department",
+    "line_type":"title",
+    "fy-2":"FY15 Actual",
+    "fy-1":"FY16 Actual",
+    "fy-0":"FY17 Budget",
+    "fy+1":"FY18 Budget",
+    "data":[
+      {
+        "department":"Central Fleet Management",
+        "line_type":"data",
+        "fy-2":2672446,
+        "fy-1":2148719,
+        "fy-0":2590424,
+        "fy+1":2707429
+      },
+      {
+        "department":"Office of Streets",
+        "line_type":"data",
+        "fy-2":1360422,
+        "fy-1":1649756,
+        "fy-0":1973144,
+        "fy+1":1962522
+      },
+      {
+        "department":"Public Works Department",
+        "line_type":"data",
+        "fy-2":82178496,
+        "fy-1":85054754,
+        "fy-0":81989710,
+        "fy+1":83775848
+      },
+      {
+        "department":"Snow Removal",
+        "line_type":"data",
+        "fy-2":38453034,
+        "fy-1":14785551,
+        "fy-0":22563964,
+        "fy+1":22563964
+      },
+      {
+        "department":"Transportation Department",
+        "line_type":"data",
+        "fy-2":31257044,
+        "fy-1":32792033,
+        "fy-0":33174525,
+        "fy+1":34104959
+      },
+      {
+        "total":"Total",
+        "line_type":"total",
+        "fy-2":155921442,
+        "fy-1":136430813,
+        "fy-0":142291767,
+        "fy+1":145114722
+      }
+    ],
+    "capital_budget_expenditures":[
+      {
+        "debug":"JCCD",
+        "table_type":"capital_budget_expenditures",
+        "table_title":"Capital Budget Expenditures",
+        "table_header":{
+          "title":"Capital Budget Expenditures",
+          "line_type":"header",
+          "fy-2":"FY15 Actual",
+          "fy-1":"FY16 Actual",
+          "fy-0":"FY17 Estimated",
+          "fy+1":"FY18 Projected"
+        },
+        "data":[
+          {
+            "title":"Public Works Department",
+            "line_type":"data",
+            "fy-2":75920128,
+            "fy-1":45313639,
+            "fy-0":69118056,
+            "fy+1":47976783
+          },
+          {
+            "title":"Transportation Department",
+            "line_type":"data",
+            "fy-2":3188162,
+            "fy-1":7512618,
+            "fy-0":15599834,
+            "fy+1":21157711
+          },
+          {
+            "title":"Total",
+            "line_type":"total",
+            "fy-2":79108290,
+            "fy-1":52826257,
+            "fy-0":84717890,
+            "fy+1":69134494
+          }
+        ]
+      }
+    ]
+  },
+  "external_funds_tables":{
+    "debug":"JCEXFT",
+    "table_type":"external_funds",
+    "table_title":"external_funds",
+    "table_header":{
+      "title":"Department",
+      "line_type":"header",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "title":"Central Fleet Management",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":58758,
+        "fy-0":0,
+        "fy+1":0
+      },
+      {
+        "title":"Public Works Department",
+        "line_type":"data",
+        "fy-2":28036,
+        "fy-1":215565,
+        "fy-0":20000,
+        "fy+1":20000
+      },
+      {
+        "title":"Transportation Department",
+        "line_type":"data",
+        "fy-2":1776723,
+        "fy-1":1691386,
+        "fy-0":2071925,
+        "fy+1":1929250
+      },
+      {
+        "total":"Total Cabinet",
+        "line_type":"total",
+        "fy-2":1804759,
+        "fy-1":1965709,
+        "fy-0":2091925,
+        "fy+1":1949250
+      }
+    ]
+  }
+}
+---

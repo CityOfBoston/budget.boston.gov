@@ -1,0 +1,178 @@
+---
+{
+  "file_version":"0.10",
+  "name":"Health",
+  "section_type":"Capital Budget",
+  "section_type_short":"L",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "description":[
+    "Initiatives to increase access to quality healthcare and improve public health."
+  ],
+  "vol1_category_copy":[
+    "To encourage a healthy environment, including safe streets and communities, Boston is renovating several neighborhood community centers to better serve residents&rsquo; needs. In FY18, Mayor Walsh is launching a major renovation to the BCYF Curley Community Center, an asset of the South Boston community. The heavily used building, which spans nearly a quarter mile on the South Boston beachfront, has an outdated layout for today&rsquo;s usage, and is in need of a major renovation. Currently under construction, the BCYF Paris Street Community Center is undergoing a major renovation to better meet the East Boston community&rsquo;s needs by providing additional programming space, a Teen Center, a new gym floor, a rock climbing wall, and a new fitness area. Construction will begin in FY18 on renovations to the BCYF Vine Street Community Center in Roxbury and the BCYF Gallivan Community Center in Mattapan."
+  ],
+  "projects":[
+    {
+      "table_type":"capital_projects_by_department",
+      "table_title":"Capital Projects by Department",
+      "header":{
+        "debug":"JCCPBYD",
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "category":"Department",
+        "name":"Project",
+        "location":"Location",
+        "status":"Status",
+        "fy-0":"FY18 Projected",
+        "project_title":"Total"
+      },
+      "projects_data":[
+        {
+          "Boston Centers for Youth and Families":[
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":2700000,
+              "fy-0":0,
+              "category":"Health",
+              "name":"BCYF Clougherty Pool",
+              "location":"Charlestown",
+              "status":"To Be Scheduled",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":15000000,
+              "fy-0":150000,
+              "category":"Health",
+              "name":"BCYF Curley Community Center",
+              "location":"South Boston",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":2960000,
+              "fy-0":2398248,
+              "category":"Health",
+              "name":"BCYF Gallivan Community Center",
+              "location":"Mattapan",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1900000,
+              "fy-0":150000,
+              "category":"Health",
+              "name":"BCYF Mattahunt Community Center",
+              "location":"Mattapan",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":12375000,
+              "fy-0":1000000,
+              "category":"Health",
+              "name":"BCYF Paris Street Community Center",
+              "location":"East Boston",
+              "status":"In Construction",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":5000000,
+              "fy-0":520000,
+              "category":"Health",
+              "name":"BCYF Paris Street Pool",
+              "location":"East Boston",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":950000,
+              "fy-0":790000,
+              "category":"Health",
+              "name":"BCYF Tobin Community Center",
+              "location":"Mission Hill",
+              "status":"In Construction",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":5340000,
+              "fy-0":4000000,
+              "category":"Health",
+              "name":"BCYF Vine Street Community Center",
+              "location":"Roxbury",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":100000,
+              "fy-0":100000,
+              "category":"Health",
+              "name":"North End Community Center",
+              "location":"North End",
+              "status":"Study Underway",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":3830675,
+              "fy-0":200000,
+              "category":"Health",
+              "name":"Pool Repairs",
+              "location":"Citywide",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            }
+          ]
+        },
+        {
+          "Public Health Commission":[
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":100000,
+              "fy-0":40000,
+              "category":"Health",
+              "name":"EMS Station Study",
+              "location":"South Boston",
+              "status":"Study Underway",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1129000,
+              "fy-0":379117,
+              "category":"Health",
+              "name":"South End Fitness Center Pool",
+              "location":"South End",
+              "status":"In Design",
+              "operating_impact":"No"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "fy-0":9727365,
+  "total":51384675
+}
+---

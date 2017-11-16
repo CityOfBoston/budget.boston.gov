@@ -1,0 +1,34 @@
+---
+{
+  "cabinet":"Health and Human Services",
+  "debug":"JBDCP",
+  "department":"Office for Immigrant Advancement",
+  "file_version":"0.10",
+  "head_name":"Alejandra St. Guillen",
+  "head_title":"Director",
+  "name":"Office for Immigrant Advancement",
+  "parent":"Health and Human Services",
+  "section_id":59,
+  "section_md5_id":"093F65E080A295F8076B1C5722A46AA2",
+  "section_type":"capital_budget",
+  "section_type_short":"L",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "mission":[
+    "The mission of the Office for Immigrant Advancement is to strengthen the ability of immigrants, and the diverse cultural and linguistic communities of which they are a part, to fully participate in the economic, civic, social, and cultural life of the Cit"
+  ],
+  "description_of_services":[
+    "The Office for Immigrant Advancement provides public education to inform immigrants about City services, information and referral to community services as well as information in conducting outreach to immigrant groups. The Office conducts on-going outreach, including surveys to identify concerns and problems that immigrants face in Boston. The Office works with City departments to better reach and serve diverse cultural and linguistic communities and create a welcoming multicultural environment. The Office collaborates with other agencies to promote multiculturalism and understanding of immigrant history."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Immigrant Advancement",
+      "strategies":[
+        "Empowerment-develop resources to build and strengthen immigrant organizations capacity.",
+        "Engagement-Provide access to immigration information and community resources; Promote diversity and inclusiveness.",
+        "Immigrant integration - Collaboration with city departments to improve access to city services."
+      ]
+    }
+  ]
+}
+---

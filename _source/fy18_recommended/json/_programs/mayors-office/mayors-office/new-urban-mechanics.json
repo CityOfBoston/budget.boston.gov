@@ -1,0 +1,134 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Mayor's Office",
+  "department":"Mayor's Office",
+  "file_version":"0.10",
+  "head_name":"Kristopher Carter",
+  "head_title":"Manager",
+  "name":"New Urban Mechanics",
+  "parent":"Mayor's Office",
+  "section_id":256,
+  "section_md5_id":"F718499C1C8CEF6730F9FD03C8125CAB",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 111400",
+  "description":[
+    "New Urban Mechanics is an approach to civic innovation focused on delivering transformative City services to Boston&rsquo;s residents.  The principles of New Urban Mechanics involves collaborating with constituents, focusing on the basics of government, and pushing for bolder ideas.  The office focuses on a broad range of areas from increasing civic participation, to improving City streets, to boosting educational outcomes."
+  ],
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":271977,
+      "fy-1":255203,
+      "fy-0":334581,
+      "fy+1":348736
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":6001,
+      "fy-1":25500,
+      "fy-0":34800,
+      "fy+1":45800
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":277978,
+      "fy-1":280703,
+      "fy-0":369381,
+      "fy+1":394536
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":271977,
+        "fy-1":255203,
+        "fy-0":334581,
+        "fy+1":348736,
+        "diff":14155
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":1800,
+        "fy-1":9332,
+        "fy-0":27800,
+        "fy+1":34800,
+        "diff":7000
+      },
+      {
+        "line_title":"Supplies and Materials",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":475,
+        "fy-0":5000,
+        "fy+1":5000,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs and Oblig",
+        "line_type":"data",
+        "fy-2":4201,
+        "fy-1":5893,
+        "fy-0":2000,
+        "fy+1":6000,
+        "diff":4000
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":9800,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":277978,
+        "fy-1":280703,
+        "fy-0":369381,
+        "fy+1":394536,
+        "diff":25155
+      }
+    ]
+  }
+}
+---

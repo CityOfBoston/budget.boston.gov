@@ -1,0 +1,134 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Health and Human Services",
+  "department":"Boston Centers for Youth and Families",
+  "file_version":"0.10",
+  "head_name":"Michael Sulprizio",
+  "head_title":"Manager",
+  "name":"Child Care and Out-of-School",
+  "parent":"Boston Centers for Youth and Families",
+  "section_id":215,
+  "section_md5_id":"3B8A614226A953A8CD9526FCA6FE9BA5",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 385400",
+  "description":[
+    "The Child Care and Out-Of-School Division oversees all Tiny Tot, out-of-school time, summer, preschool, girls and family programming at community centers, ensuring that it is high-quality, outcome driven and responsive to neighborhood needs.  The division is responsible for supporting early childhood programming at community centers.  The division also oversees Camp Joy, a therapeutic recreation program for children and adults with special needs."
+  ],
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":1138393,
+      "fy-1":1097210,
+      "fy-0":1231218,
+      "fy+1":1272232
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":1302205,
+      "fy-1":1308799,
+      "fy-0":1148521,
+      "fy+1":1149921
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":2440598,
+      "fy-1":2406009,
+      "fy-0":2379739,
+      "fy+1":2422153
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":1138393,
+        "fy-1":1097210,
+        "fy-0":1231218,
+        "fy+1":1272232,
+        "diff":41014
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":1289087,
+        "fy-1":1297329,
+        "fy-0":1133842,
+        "fy+1":1135942,
+        "diff":2100
+      },
+      {
+        "line_title":"Supplies and Materials",
+        "line_type":"data",
+        "fy-2":10242,
+        "fy-1":9996,
+        "fy-0":11679,
+        "fy+1":11679,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs and Oblig",
+        "line_type":"data",
+        "fy-2":2876,
+        "fy-1":1474,
+        "fy-0":3000,
+        "fy+1":2300,
+        "diff":-700
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":2440598,
+        "fy-1":2406009,
+        "fy-0":2379739,
+        "fy+1":2422153,
+        "diff":42414
+      }
+    ]
+  }
+}
+---

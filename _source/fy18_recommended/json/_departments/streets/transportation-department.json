@@ -1,0 +1,367 @@
+---
+{
+  "debug":"JBD",
+  "publish_subordinates":true,
+  "file_version":"0.10",
+  "section_id":46,
+  "section_md5_id":"D9D4F495E875A2E075A1A4A6E1B9770F",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "name":"Transportation Department",
+  "parent":"Streets",
+  "cabinet":"Streets",
+  "department":"Transportation Department",
+  "head_name":"Gina Fiandaca",
+  "head_title":"Commissioner",
+  "appropriation_code":"Appropriation 251",
+  "mission":[
+    "The mission of the Boston Transportation Department is to promote public safety, manage the City's transportation network, and enhance the quality of life for residents of our City neighborhoods. Accomplishment of our mission is ensured through the use of planning, coordinated engineering, education and enforcement. The Transportation Department strives to improve circulation in and around the City, enhance public transportation services, gain efficiencies in the management of parking resources, adjudicate and collect fines, collaborate with relevant agencies and encourage the use of alternate transportation modes."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Traffic Management and Engineering",
+      "debug":"JCO",
+      "strategies":[
+        "Design, construct, and maintain streetscapes that prioritize moving people safely",
+        "Encourage multimodal, active transportation",
+        "Enhance Boston's walkability and neighborhood interconnectedness"
+      ]
+    },
+    {
+      "program":"Policy and Planning",
+      "debug":"JCO",
+      "strategies":[
+        "Design, construct, and maintain streetscapes that prioritize moving people safely",
+        "Encourage multimodal, active transportation"
+      ]
+    },
+    {
+      "program":"Traffic Enforcement",
+      "debug":"JCO",
+      "strategies":[
+        "Design, construct, and maintain streetscapes that prioritize moving people safely"
+      ]
+    },
+    {
+      "program":"Traffic Operations",
+      "debug":"JCO",
+      "strategies":[
+        "Enhance Boston's walkability and neighborhood interconnectedness"
+      ]
+    }
+  ],
+  "operating_budget":{
+    "debug":"JPTR",
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "name":"Parking Clerk",
+        "line_type":"data",
+        "fy-2":7751878,
+        "fy-1":7916535,
+        "fy-0":8342323,
+        "fy+1":8473171,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Commissioner's Office",
+        "line_type":"data",
+        "fy-2":2185410,
+        "fy-1":1802029,
+        "fy-0":1090456,
+        "fy+1":1092435,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Traffic Management and Engineering",
+        "line_type":"data",
+        "fy-2":2876214,
+        "fy-1":2136190,
+        "fy-0":1891376,
+        "fy+1":1914220,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Policy and Planning",
+        "line_type":"data",
+        "fy-2":581555,
+        "fy-1":842895,
+        "fy-0":1074431,
+        "fy+1":1109304,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Enforcement",
+        "line_type":"data",
+        "fy-2":13361550,
+        "fy-1":13862642,
+        "fy-0":14521934,
+        "fy+1":14530449,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Operations",
+        "line_type":"data",
+        "fy-2":4500437,
+        "fy-1":6231742,
+        "fy-0":6254005,
+        "fy+1":6985380,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":31257044,
+        "fy-1":32792033,
+        "fy-0":33174525,
+        "fy+1":34104959
+      }
+    ]
+  },
+  "external_funds_budget":{
+    "debug":"JPTR",
+    "table_type":"External Funds",
+    "table_title":"External Funds Budget",
+    "table_header":{
+      "name":"Fund Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "name":"Boston Bike Share",
+        "line_type":"data",
+        "fy-2":609653,
+        "fy-1":862846,
+        "fy-0":1575084,
+        "fy+1":1575084,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Boston Mobility Action Plan",
+        "line_type":"data",
+        "fy-2":66082,
+        "fy-1":88995,
+        "fy-0":55039,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Parking Facilities Fund",
+        "line_type":"data",
+        "fy-2":737542,
+        "fy-1":365290,
+        "fy-0":263500,
+        "fy+1":263500,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Partnerships/Community Health",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":103001,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Traffic Management Center",
+        "line_type":"data",
+        "fy-2":363446,
+        "fy-1":271254,
+        "fy-0":178302,
+        "fy+1":90666,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":1776723,
+        "fy-1":1691386,
+        "fy-0":2071925,
+        "fy+1":1929250
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":18099181,
+      "fy-1":18992165,
+      "fy-0":19762659,
+      "fy+1":19861389
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":5405985,
+      "fy-1":5883333,
+      "fy-0":5069543,
+      "fy+1":5770399
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":23505166,
+      "fy-1":24875498,
+      "fy-0":24832202,
+      "fy+1":25631788
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Establishing Boston Traffic Commission: Power and Duties, 1929 Mass. Acts ch. 263, &sect;&sect; 1-2, as amended; 1957 Mass. Acts ch. 253, &sect; 1, as amended.",
+    "Powers and Duties of Commissioner of Traffic and Parking, CBC St.7 &sect; 201.",
+    "Off-Street Parking, Parades, Loading Zones, CBC St.7 &sect;&sect; 206, 207, 214.",
+    "Violation of Parking Rules in the City of Boston, M.G.L.A. c. 90, &sect; 20A 1/2.",
+    "Abandoned Motor Vehicles, M.G.L.A. c. 90 &sect; 22C; 1988 Mass. Acts ch. 212."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":18099181,
+        "fy-1":18992165,
+        "fy-0":19762659,
+        "fy+1":19861389,
+        "diff":98730
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":3397840,
+        "fy-1":3768275,
+        "fy-0":2755843,
+        "fy+1":3472471,
+        "diff":716628
+      },
+      {
+        "line_title":"Supplies and Materials",
+        "line_type":"data",
+        "fy-2":910608,
+        "fy-1":1076597,
+        "fy-0":1312917,
+        "fy+1":1211334,
+        "diff":-101583
+      },
+      {
+        "line_title":"Current Chgs and Oblig",
+        "line_type":"data",
+        "fy-2":416990,
+        "fy-1":395106,
+        "fy-0":320612,
+        "fy+1":315612,
+        "diff":-5000
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":680547,
+        "fy-1":643355,
+        "fy-0":680171,
+        "fy+1":770982,
+        "diff":90811
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":23505166,
+        "fy-1":24875498,
+        "fy-0":24832202,
+        "fy+1":25631788,
+        "diff":799586
+      }
+    ]
+  },
+  "external_funds":[
+    {
+      "debug":"JEFP",
+      "project":"Boston Bike Share",
+      "project_mission":[
+        "Various funding sources will support the Boston Bike Share program, including grants from the Federal Transit Authority, sponsorship donations, funds from the Boston Public Health Commission&rsquo;s ARRA grant, the BARR Foundation and other state funding sources. The program began in FY12 and has 1,092 bicycles at publically accessible stations for member use."
+      ]
+    },
+    {
+      "debug":"JEFP",
+      "project":"Boston Mobility Action Plan",
+      "project_mission":[
+        "The Mobility Plan will develop a long term vision to guide transportation policy and investments coupled with an action plan of projects. BARR funding supports a full time position for 2 years starting in FY15 to manage an ongoing capital program. The grant ends in Fy17."
+      ]
+    },
+    {
+      "debug":"JEFP",
+      "project":"Connect Historic Boston",
+      "project_mission":[
+        "The National Park Service funded the creation of an intermodal design plan to connect visitors from regional transportation systems and existing bicycle and pedestrian paths to National Park sites and the Boston Harbor Islands. The design was completed in FY14."
+      ]
+    },
+    {
+      "debug":"JEFP",
+      "project":"Parking Facilities Fund",
+      "project_mission":[
+        "The City owns and operates several revenue producing parking lots. The resulting revenue from these lots goes into the fund to support their non-personnel operating expenses. This is an ongoing revolving account."
+      ]
+    },
+    {
+      "debug":"JEFP",
+      "project":"Traffic Management Center",
+      "project_mission":[
+        "The Traffic Management Center grant will provide new financial resources to expand operational coverage in order to fully utilize existing technology and help monitor and improve the flow of traffic through the City. Funding has been provided thru FY18 by the Federal Highway Administration and Massachusetts Executive Office of Transportation and Construction."
+      ]
+    }
+  ],
+  "fy_major_initiatives":[
+    "Vision Zero will continue to deliver safety on Boston&rsquo;s streets. Programs include Priority Corridors and Safe Crossings.",
+    "Implement Neighborhood Slow Streets projects in Stonybrook (Jamaica Plain) and the Talbot Norfolk Triangle (Dorchester).",
+    "The reconstruction of Central Square in East Boston will be completed. This project will improve multimodal transportation flows as well as storm water runoff.",
+    "Design of the reconstruction of Melnea Cass Boulevard will continue.",
+    "\tNew traffic safety improvements are scheduled at Father Hart Bridge and Wolcott Square in Hyde Park.",
+    "Installation of new traffic signals at American Legion at Plaza Driveway, Newbury Street at Fairfield, Geneva Ave. at Olney, and Blue Hill Ave. at Castlegate Rd.",
+    "A multi-year effort begins that will renew all painted crosswalks, lane markings, and bike lanes."
+  ]
+}
+---
