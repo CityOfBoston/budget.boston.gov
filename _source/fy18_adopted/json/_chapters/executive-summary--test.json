@@ -1,0 +1,236 @@
+---
+{
+  "section":"Executive Summary &ndash; Test",
+  "name":"Executive Summary &ndash; Test",
+  "section_type":"section",
+  "section_type_short":"S",
+  "source_version":"Recommended",
+  "source_year":"19",
+  "components":[
+    {
+      "intro":[
+        {
+          "title":"EXECUTIVE SUMMARY",
+          "sidebar_menu":true,
+          "short_desc":[
+            "\"I am proud to put forth a budget that makes strategic investments to support Boston's neighborhoods, and builds on our strong record of fiscal management.\" - Mayor Martin J. Walsh "
+          ],
+          "description":[
+            "Mayor Martin J. Walsh today presented his Fiscal Year 2018 (FY18) budget proposal, a plan that balances sustainability and increases investments in key initiatives and more fully supports Boston's neighborhoods. The proposed budget: "
+          ],
+          "list":[
+            "builds on the Walsh Administration's strong fiscal management record;",
+            "maintains high levels of support for educating Boston's students and keeping the City of Boston safe;",
+            "expands upon strategic initiatives to achieve cost savings; and",
+            "positions the City to manage through instability at the national level."
+          ]
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "title":"INTRODUCTION ",
+          "body":[
+            "Mayor Martin J. Walsh&rsquo;s proposed $3.14 billion Fiscal Year 2018 (FY18) budget balances sustainability, increased investment, and fiscal responsibility. Continuing trends seen in recent years, the Mayor&rsquo;s proposed FY18 budget relies on growth in property tax and other local receipt revenue, but requires control of growth in departmental spending to offset weak state aid revenue and high fixed cost growth. Budgetary growth is maintained at a responsible level given the need to maintain flexibility in the face of continuing uncertainty at other levels of government. Despite these challenges, the budget makes strong statements about the City&rsquo;s priorities, as is reflected in the proposed investments. "
+          ],
+          "right_image":"Image Link Not Found"
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "title":"EXPANDING ON SAVINGS",
+          "body":[
+            "Even with strong growth in locally derived revenues, it is only through continued tightening within City departments that the City will be able to afford new and expanded investments after reserving for costs associated with collective bargaining, being assessed for its increasing charter school costs, funding its pension obligations, and paying its debt service. ",
+            "The FY18 proposal builds off of past budgets by expanding savings initiatives, and allows for dollars to be used in high impact areas."
+          ]
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "title":"FEDERAL CHALLENGES",
+          "body":[
+            "Mayor Walsh&rsquo;s FY18 budget stands in contrast to national efforts to dismantle the urban safety net, as seen in the proposed Federal budget. The President has proposed to eliminate critical federal programs that support the production of affordable housing, revitalize Boston&rsquo;s Main Streets, make heating bills affordable to 20,000 Boston residents, and provide Boston students with valuable after-school programs."
+          ]
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "title":"TAKING ADVANTAGE OF DATA",
+          "body":[
+            "In contrast, Mayor Walsh is proposing data-driven investments that meet the core needs of Bostonians, including:"
+          ],
+          "list":[
+            "targeting research-backed education investments - including extending the school day for 15,000 students - to close achievement and opportunity gaps;",
+            "directing educational resources to students most in need, including 3,000 BPS students experiencing homelessness;",
+            "building on early success from the Mayor&rsquo;s homeless action plan implementation;",
+            "further extending access to addiction treatment services;",
+            "using data to change the way Boston deploys emergency services to Boston Common and Recovery Road;",
+            "making sure that city streets in every neighborhood are clean and safe with revitalized lane markings and crosswalks;",
+            "continuing efforts to diversify Boston&rsquo;s Police force by adding police cadets;",
+            "ensuring that Boston&rsquo;s open spaces are among the nation&rsquo;s most equitable and accessible;",
+            "supporting local artists through grantmaking and residencies;",
+            "launching infrastructure projects driven by Imagine Boston 2030 and Go Boston 2030, moving from engagement and planning to action; and",
+            "setting funding aside for future projects coming out of the BuildBPS engagement process and partnerships with the Massachusetts School Building Authority (MSBA)."
+          ]
+        }
+      ]
+    },
+    {
+      "spanning_image":[
+        {
+          "src":"spanningimage.jpg",
+          "alt":Null,
+          "title":"Extending the school day",
+          "desc":"Working to close achievement and opportunity gaps ",
+          "link":[
+            {
+              "url":"https://budget.boston.gov/featured-analysis/extended-school-day/",
+              "text":"Learn more "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "title":"CITY APPROACH VS. FEDERAL APPROACH",
+          "body":[
+            "The City&rsquo;s data-driven investment and spending reform approach to budgeting illustrates an alternative to the type of budget being contemplated at the Federal level. The City&rsquo;s spending approach continues to emphasize the preservation and expansion of offerings to our most vulnerable residents, made possible by the implementation of strategic reforms. ",
+            "In this budget, the City is avoiding $60 million in costs through reforms implemented since Mayor Walsh&rsquo;s first budget.",
+            "These strategic savings initiatives allow Boston to meet its fixed cost obligations and make targeted investments in a thriving, healthy, and innovative city. Conversely, the President&rsquo;s proposed budget would eliminate valuable programs aiding some of our most vulnerable residents."
+          ]
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "title":"EFFECTS OF STATE AND FEDERAL BUDGET",
+          "body":[
+            "Boston faces increased uncertainty due to national and state level challenges. In addition to federal budget proposals to eliminate over $24 million in Community Development Block Grant funds flowing through the City of Boston, the President has signed an executive order aimed at cutting funding for &ldquo;Sanctuary Cities,&rdquo; and has supported health care legislation that would have created over a $1 billion hole in the Commonwealth of Massachusetts&rsquo; budget. Further federal divestment from its Public Housing Authority is also possible, and reduced federal education grants to serve students in poverty have been proposed.",
+            "At the state level, Boston continues to struggle with the Commonwealth&rsquo;s underfunding of the Charter School Tuition Reimbursement, from which the City is projected to lose $25 million in FY18 alone."
+          ]
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "title":"MAINTAINING FISCAL DISCIPLINE",
+          "list":[
+            "paying down the City&rsquo;s long-term pension and other post-employment benefits obligations;",
+            "managing personnel and health costs;",
+            "continuing savings initiatives;",
+            "maintaining conservative fiscal management policies; and",
+            "maximizing revenue from local receipt sources."
+          ],
+          "body":[
+            "Disciplined financial practices have better positioned Boston to manage through changes in state and federal policy and funding levels.",
+            "Revenue Overview"
+          ]
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "title":"REVENUE",
+          "body":[
+            "State revenue, second largest revenue source, is a decreasing share of Boston&rsquo;s recurring revenue. "
+          ]
+        }
+      ]
+    },
+    {
+      "table":[
+        {
+          "title":"BUDGET SUMMARY",
+          "right_text":{
+            "name":"link",
+            "link":"http://www.google.com/"
+          },
+          "columns":[
+            {
+              "Category":"Total Revenues",
+              "FY15 Actual":{
+                "value":2780.42,
+                "filter":"delimiter"
+              },
+              "FY16 Actual":{
+                "value":2883.01,
+                "filter":"delimiter"
+              },
+              "FY17 Budget":{
+                "value":2996.09,
+                "filter":"delimiter"
+              },
+              "FY18 Budget":{
+                "value":3139.79,
+                "filter":"delimiter"
+              }
+            },
+            {
+              "Category":"Total Expenditures ",
+              "FY15 Actual":{
+                "value":2733.06,
+                "filter":"delimiter"
+              },
+              "FY16 Actual":{
+                "value":2881.09,
+                "filter":"delimiter"
+              },
+              "FY17 Budget":{
+                "value":2996.09,
+                "filter":"delimiter"
+              },
+              "FY18 Budget":{
+                "value":3139.79,
+                "filter":"delimiter"
+              }
+            },
+            {
+              "Category":{
+                "value":"Test Link",
+                "name":"Test Link",
+                "link":"http://www.google.com/"
+              },
+              "FY15 Actual":{
+                "value":2773,
+                "filter":"money"
+              },
+              "FY16 Actual":{
+                "value":288109,
+                "filter":"delimiter"
+              },
+              "FY17 Budget":{
+                "value":90,
+                "filter":"percent"
+              },
+              "FY18 Budget":{
+                "value":3139.79,
+                "filter":"delimiter"
+              }
+            },
+            {
+              "Category":"Surplus (Deficit)",
+              "FY15 Actual":7.36,
+              "FY16 Actual":1.92,
+              "FY17 Budget":0.1,
+              "FY18 Budget":0,
+              "total":true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---
