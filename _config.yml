@@ -35,6 +35,9 @@ collections:
   projects:
     output: true
     permalink: "/capital-projects/:path/"
+  chapters:
+    output: true
+    permalink: "/:path/"
 
 # Build settings
 markdown: kramdown
@@ -78,6 +81,11 @@ defaults:
       type: "projects"
     values:
       layout: "projects"
+  - scope:
+      path: "" # empty string for all files
+      type: "chapters"
+    values:
+      layout: "chapters"
 
 test:
   post:
