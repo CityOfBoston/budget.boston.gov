@@ -37,7 +37,7 @@ collections:
     permalink: "/capital-projects/:path/"
   chapters:
     output: true
-    permalink: "/:path/"
+    permalink: "/"
 
 # Build settings
 markdown: kramdown
