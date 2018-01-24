@@ -1,0 +1,115 @@
+---
+{
+  "debug":"JCB",
+  "cabinet":"Information & Technology",
+  "department":null,
+  "file_version":"",
+  "head_name":"Jascha Franklin-Hodge",
+  "head_title":"Chief Information Officer",
+  "name":"Information & Technology",
+  "parent":"root",
+  "section_id":17,
+  "section_md5_id":"70EFDF2EC9B086079795C442636B55FB",
+  "section_type":"cabinet",
+  "section_type_short":"C",
+  "source_version":"Adopted",
+  "source_year":"18",
+  "mission":[
+    "The mission of the Information and Technology Cabinet is to provide systems and technologies that develop and support department personnel with information relative to their operations, support strategic planning, promote effective resource management, enhance customer service and promote internal and external electronic and voice communications."
+  ],
+  "overview":[
+    "The Department of Innovation and Technology (DoIT) will see a 1.3% increase over its FY17 appropriation. The FY18 budget invests in cybersecurity and technologies that will allow DoIT to work more efficiently. As part of the City&rsquo;s efforts to implement smart savings initiatives, DoIT will reduce contractor costs without reducing service.",
+    "In FY18, DoIT will launch a new Digital Equity Pilot Grant Program to explore ways to address digital equity gaps in the City of Boston. Roughly 15% of Bostonians lack internet access at home. This limits access to educational, employment, and civic engagement opportunities. By providing seed funding for programs that help get more people online, the City hopes to identify promising strategies that can attract outside funding and help create a City where everyone has the tools and skills they need to succeed in the 21st century."
+  ],
+  "operating_department":{
+    "table_type":"operating_department",
+    "table_title":"Operating Budget",
+    "Program Name":"Department",
+    "line_type":"title",
+    "fy-2":"FY15 Actual",
+    "fy-1":"FY16 Actual",
+    "fy-0":"FY17 Budget",
+    "fy+1":"FY18 Budget",
+    "data":[
+      {
+        "department":"Department of Innovation & Technology",
+        "line_type":"data",
+        "fy-2":"183,686,352",
+        "fy-1":"192,280,596",
+        "fy-0":"171,141,444",
+        "fy+1":"173,351,802"
+      },
+      {
+        "total":"Total",
+        "line_type":"total",
+        "fy-2":"183,686,352",
+        "fy-1":"192,280,596",
+        "fy-0":"171,141,444",
+        "fy+1":"173,351,802"
+      }
+    ],
+    "capital_budget_expenditures":[
+      {
+        "table_type":"capital_budget_expenditures",
+        "table_title":"Capital Budget Expenditures",
+        "table_header":{
+          "title":"Capital Budget Expenditures",
+          "line_type":"header",
+          "fy-2":"FY15 Actual",
+          "fy-1":"FY16 Actual",
+          "fy-0":"FY17 Estimated",
+          "fy+1":"FY18 Projected"
+        },
+        "data":[
+          {
+            "title":"Department of Innovation & Technology",
+            "line_type":"data",
+            "fy-2":"11,127,567",
+            "fy-1":"13,209,480",
+            "fy-0":"21,883,340",
+            "fy+1":"19,056,812"
+          },
+          {
+            "title":"Total",
+            "line_type":"total",
+            "fy-2":"11,127,567",
+            "fy-1":"13,209,480",
+            "fy-0":"21,883,340",
+            "fy+1":"19,056,812"
+          }
+        ]
+      }
+    ]
+  },
+  "external_funds_tables":{
+    "table_type":"external_funds",
+    "table_title":"external_funds",
+    "table_header":{
+      "title":"Department",
+      "line_type":"header",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "title":"Department of Innovation & Technology",
+        "line_type":"data",
+        "fy-2":"3,556,038",
+        "fy-1":"11,912,388",
+        "fy-0":"11,396,406",
+        "fy+1":"5,160,000"
+      },
+      {
+        "total":"Total Cabinet",
+        "line_type":"total",
+        "fy-2":"3,556,038",
+        "fy-1":"11,912,388",
+        "fy-0":"11,396,406",
+        "fy+1":"5,160,000"
+      }
+    ]
+  }
+}
+---

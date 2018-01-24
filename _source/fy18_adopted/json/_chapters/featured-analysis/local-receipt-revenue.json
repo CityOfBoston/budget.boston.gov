@@ -1,0 +1,38 @@
+---
+{
+  "title":"Local Receipt Revenue",
+  "layout":"bos_content",
+  "section_type":"section",
+  "section_type_short":"S",
+  "source_version":"Adopted",
+  "source_year":"19",
+  "card":[
+    {
+      "category":"Revenue",
+      "order":11,
+      "title":"Local Receipt Revenue",
+      "body":"Local revenues are an increasing share of Boston&rsquo;s recurring revenue.",
+      "img":"https://photos.google.com/share/AF1QipOdyA4dgnR-77oq7jD0E4ptSuC-5lGKaP52yPlv9PHjGrFPtlLzQS6_APhcgo-PZA/photo/AF1QipPO-jhzXsA6Rs61WD-BlEWOW5KfnQ7zZePUy528?key=bjZkeEJNLWVYcjc3WDdKUHQ5TTEzVVBMbHBrblhR",
+      "link":"link"
+    }
+  ],
+  "components":[
+    {
+      "text_block":[
+        {
+          "body":[
+            "Local Receipts",
+            "The City annually collects a significant amount of recurring revenues other than Property Tax or State Aid. In sum, the City collected $527.7 million in FY15 and $536.4 million in FY16 from these sources. The City expects to exceed the mid-year budget estimate of $474.3 million in FY17 and collect $500.6 million in FY18 (Figure 10).",
+            "{04 Revenue Estimates - Revenue Estimates.xlsx:G-Tot Loc Rec Receipts}",
+            "Figure 5 &ndash; Recurring Local Receipts",
+            "(non property tax/state aid)",
+            "FY09-FY18",
+            "FY12 forward includes all hotel tax",
+            "Revenue from excise taxes, payments-in-lieu-of-taxes, licenses and permits, fees and fines, investment income and available funds are part of this local receipts group. Forecasts of these revenue types are done by detailed econometric modeling or trending historical collections, depending on the specific revenue source and the availability of other data."
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

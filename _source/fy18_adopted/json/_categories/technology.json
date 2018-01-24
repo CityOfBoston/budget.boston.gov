@@ -1,0 +1,206 @@
+---
+{
+  "file_version":"",
+  "name":"Technology",
+  "section_type":"Capital Budget",
+  "section_type_short":"L",
+  "source_version":"Adopted",
+  "source_year":"18",
+  "description":[
+    "Initiatives to make Boston&rsquo;s infrastructure and services dynamic and responsive to residents' needs in real-time."
+  ],
+  "vol1_category_copy":[
+    "Consistent with Imagine Boston 2030 and Go Boston 2030, Boston will invest in intelligent traffic signals to improve safety and reduce congestion. Through funding in the Capital Plan, the City will begin a transformation to the next generation of traffic signal technology, with an initial focus on some of the City&rsquo;s busiest corridors and bus routes. This innovation will minimize delay and maximize coordination across signals. The Capital Plan also funds a multi-year program to create improved and - in many cases - signalized intersections in some of the more challenging locations in the City. This includes the Father Hart Bridge area in Hyde Park, where the City aims to install new traffic signals at each end of the bridge as well as at the interconnected signals in Wolcott Square.",
+    "The City will invest $10 million in Boston Fiber Network (BoNet) to improve Boston&rsquo;s fiber backbone and infrastructure. The project will provide broadband services to 73 Boston Public Schools, 24 family public housing developments and more than 100 City buildings, while also strengthening public safety communications. Expanding Boston&rsquo;s Fiber Optic Network to these schools will deliver gigabit (1 Gbps) bandwidth capacity for PARCC online testing, online learning, administrative and video services, and in-campus Wi-Fi, along with additional services. Additionally, this investment will help the City to expand and improve public safety services across the City and present opportunities to deploy Wicked Free Wi-Fi to a broader geography.",
+    "To continue to make City services responsive to real time data, the Capital Plan also allows for the investment in Boston311 to deliver a more personalized experience for many services and better understand how customers interact with the City across departments. Building on the launch of Boston.gov in July of 2016, Boston will bring new services online, update existing services to improve user experience, and adapt to shifting technology trends and customer expectations."
+  ],
+  "projects":[
+    {
+      "table_type":"capital_projects_by_department",
+      "table_title":"Capital Projects by Department",
+      "header":{
+        "debug":"JCCPBYD",
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "category":"Department",
+        "name":"Project",
+        "location":"Location",
+        "status":"Status",
+        "fy-0":"FY18 Projected",
+        "project_title":"Total"
+      },
+      "projects_data":[
+        {
+          "Department of Innovation and Technology":[
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":500000,
+              "fy-0":250000,
+              "category":"Technology",
+              "name":"City-wide Radio System Study",
+              "location":"Citywide",
+              "status":"New Project",
+              "operating_impact":"Yes"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":16858212,
+              "fy-0":784859,
+              "category":"Technology",
+              "name":"Computer Aided Dispatch",
+              "location":"Citywide",
+              "status":"Implementation Underway",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":9700000,
+              "fy-0":1050000,
+              "category":"Technology",
+              "name":"Core Technology Infrastructure",
+              "location":"Citywide",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":3118979,
+              "fy-0":1200000,
+              "category":"Technology",
+              "name":"Cyber Security and Resiliency",
+              "location":"Various neighborhoods",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":4265516,
+              "fy-0":1775000,
+              "category":"Technology",
+              "name":"Data Analytics",
+              "location":"N/A",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":8433296,
+              "fy-0":1000000,
+              "category":"Technology",
+              "name":"Digital Service Delivery and Engagement",
+              "location":"Various neighborhoods",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":33695817,
+              "fy-0":6283477,
+              "category":"Technology",
+              "name":"Enterprise Applications",
+              "location":"N/A",
+              "status":"Annual Program",
+              "operating_impact":"Yes"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":12310690,
+              "fy-0":6600000,
+              "category":"Technology",
+              "name":"Fiber Network Expansion",
+              "location":"Various neighborhoods",
+              "status":"Implementation Underway",
+              "operating_impact":"Yes"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":3000000,
+              "fy-0":113476,
+              "category":"Technology",
+              "name":"Tax Billing and Collecting System",
+              "location":"N/A",
+              "status":"Implementation Underway",
+              "operating_impact":"Yes"
+            }
+          ]
+        },
+        {
+          "Boston Public Library":[
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":100000,
+              "fy-0":50000,
+              "category":"Technology",
+              "name":"Web Site & Online Services Redevelopment",
+              "location":"Citywide",
+              "status":"Implementation Underway",
+              "operating_impact":"No"
+            }
+          ]
+        },
+        {
+          "Transportation Department":[
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1375000,
+              "fy-0":1300000,
+              "category":"Technology",
+              "name":"Father Hart Bridge Traffic Improvements",
+              "location":"Hyde Park",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":800000,
+              "fy-0":400000,
+              "category":"Technology",
+              "name":"Traffic Signal Construction at 4 Intersections",
+              "location":"Various neighborhoods",
+              "status":"In Construction",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":12500000,
+              "fy-0":2500000,
+              "category":"Technology",
+              "name":"Traffic Signals",
+              "location":"Citywide",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":3487107,
+              "fy-0":0,
+              "category":"Technology",
+              "name":"Traffic Signals at 9 Locations",
+              "location":"Various neighborhoods",
+              "status":"In Design",
+              "operating_impact":"No"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "fy-0":23306812,
+  "total":110144617
+}
+---

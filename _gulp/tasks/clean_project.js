@@ -11,5 +11,6 @@ gulp.task('clean_project', function (done) {
   del.sync(['_pages/**']);
   del.sync(['_site/**']);
   del.sync(['img/**']);
+  del.sync(['_chapters/**']);
   return;
 });

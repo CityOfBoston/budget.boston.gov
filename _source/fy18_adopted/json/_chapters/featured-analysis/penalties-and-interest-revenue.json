@@ -1,0 +1,32 @@
+---
+{
+  "title":"Penalties and Interest Revenue",
+  "layout":"bos_content",
+  "section_type":"section",
+  "section_type_short":"S",
+  "source_version":"Adopted",
+  "source_year":"19",
+  "card":[
+    {
+      "category":"Revenue",
+      "order":19,
+      "title":"Penalties and Interest Revenue",
+      "body":"Penalties and interest are assessed for late payments.",
+      "img":"https://photos.google.com/share/AF1QipOdyA4dgnR-77oq7jD0E4ptSuC-5lGKaP52yPlv9PHjGrFPtlLzQS6_APhcgo-PZA/photo/AF1QipNPhHlHNaPHPzyherj8DTavs1CTJ4OLQF7yb1eD?key=bjZkeEJNLWVYcjc3WDdKUHQ5TTEzVVBMbHBrblhR",
+      "link":"link"
+    }
+  ],
+  "components":[
+    {
+      "text_block":[
+        {
+          "title":"Penalties and Interest",
+          "body":[
+            "Taxpayers are assessed both a penalty and interest for late payments of property tax bills, motor vehicle excise bills and other payments. The City collected $13.1 million in such penalties and interest in FY15 and $14.5 million in FY16. Actual penalty and interest collections for FY17 will exceed the budget of $8.5 million and are projected to be $14.5 million in FY18."
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

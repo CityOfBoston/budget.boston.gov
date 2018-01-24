@@ -1,0 +1,44 @@
+---
+{
+  "title":"BPS Enrollment",
+  "layout":"bos_content",
+  "section_type":"section",
+  "section_type_short":"S",
+  "source_version":"Adopted",
+  "source_year":"19",
+  "card":[
+    {
+      "category":"Education",
+      "order":5,
+      "title":"BPS Enrollment",
+      "body":"Student enrollment is the foundation of the BPS budget.  See why.",
+      "img":"https://www.flickr.com/photos/bosmayorsoffice/29465455084/in/photolist-TjyUqo-SjsDWV-TjyUmA-SjsDSr-Tyk9HZ-TjyUhC-SjsDPF-SB8eqp-SyG8oC-SB8eeH-SyG8f1-SB8e1r-RvWGuN-QE9eU8-QBzFaC-QBzFgE-RH9P8z-QE9eMp-RQt1BJ-LTLaoh-Mpcmwm-LTLakw-MpcmeN-Mpcm6m-LTLaeE-MpckYs-LT",
+      "link":"link"
+    }
+  ],
+  "components":[
+    {
+      "text_block":[
+        {
+          "body":[
+            "BPS Enrollment",
+            "Student enrollment is the foundation of the BPS budget. The preliminary stage of the budget process involves enrollment projections for each program, grade, and school, which are based on historic trends and current data. The projected enrollment at each school for the upcoming school year determines the allocation of resources at the school level through the weighted student funding formula. The FY18 budget development process included a more rigorous use of data, and collaboration between school leaders and BPS Finance to develop accurate enrollment projections. In FY18, the BPS projected budgeted enrollment is approximately 57,200, including an additional 100 prekindergarten seats. Overall enrollment has remained consistent over the past 5 years, ranging from a high of 56,959 students in 2014-15, to a low of 56,404 in the 2016-2017 school year. ",
+            "At the school level, BPS has seen some shifts in enrollment. BPS gives parents a voice in where their child attends schools, which causes  shifts from year to year. The BPS School Committee has also supported school communities that have requested to expand grades in recent years, which has led to shifts in enrollment. It is projected that 600 more students will be enrolled in the District&rsquo;s highest performing schools next year."
+          ]
+        }
+      ]
+    },
+    {
+      "grid":[
+        {
+          "grid_title":"More Education",
+          "cards":[
+            "/featured-analysis/weighted-student-funding/",
+            "/featured-analysis/early-childhood-education/"
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

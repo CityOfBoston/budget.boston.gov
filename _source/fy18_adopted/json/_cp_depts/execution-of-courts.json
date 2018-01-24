@@ -1,0 +1,19 @@
+---
+{
+  "cabinet":"Administration & Finance",
+  "debug":"JBDCP",
+  "department":"Execution of Courts",
+  "file_version":"",
+  "name":"Execution of Courts",
+  "parent":"Administration & Finance",
+  "section_id":65,
+  "section_md5_id":"FC490CA45C00B1249BBE3554A4FDF6FB",
+  "section_type":"capital_budget",
+  "section_type_short":"L",
+  "source_version":"Adopted",
+  "source_year":"18",
+  "mission":[
+    "The Execution of Courts appropriation provides for funding for settlements, awards, and court orders. These result from claims against the City of Boston and its agencies and employees for damages to persons or property. The appropriation also funds interest on tax abatements."
+  ]
+}
+---
