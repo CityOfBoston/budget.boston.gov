@@ -1,0 +1,133 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Arts & Culture",
+  "department":"Library Department",
+  "file_version":"",
+  "head_name":"David Leonard",
+  "head_title":"President",
+  "name":"Library Administration",
+  "parent":"Library Department",
+  "section_id":135,
+  "section_md5_id":"7F1DE29E6DA19D22B51C68001E7E0E54",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_year":"18",
+  "appropriation_code":"Organization 110100",
+  "description":[
+    "The Administration Program proposes goals and objectives to the Board of Trustees, manages the library to continuously improve service to the public, and provides centralized functional support for the library.  The program functions through the centraliz"
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":7355346,
+      "fy-1":7364744,
+      "fy-0":7228816,
+      "fy+1":7326768
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":10289278,
+      "fy-1":11345101,
+      "fy-0":10031306,
+      "fy+1":11257338
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":17644624,
+      "fy-1":18709845,
+      "fy-0":17260122,
+      "fy+1":18584106
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":7355346,
+        "fy-1":7364744,
+        "fy-0":7228816,
+        "fy+1":7326768,
+        "diff":97952
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":6919891,
+        "fy-1":8033977,
+        "fy-0":6943365,
+        "fy+1":7848042,
+        "diff":904677
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":2721917,
+        "fy-1":2835582,
+        "fy-0":2631168,
+        "fy+1":2791168,
+        "diff":160000
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":215970,
+        "fy-1":179555,
+        "fy-0":196666,
+        "fy+1":323643,
+        "diff":126977
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":269823,
+        "fy-1":264461,
+        "fy-0":235107,
+        "fy+1":259485,
+        "diff":24378
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":161677,
+        "fy-1":31526,
+        "fy-0":25000,
+        "fy+1":35000,
+        "diff":10000
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":17644624,
+        "fy-1":18709845,
+        "fy-0":17260122,
+        "fy+1":18584106,
+        "diff":1323984
+      }
+    ]
+  }
+}
+---

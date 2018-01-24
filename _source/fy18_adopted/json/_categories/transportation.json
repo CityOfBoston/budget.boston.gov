@@ -1,0 +1,560 @@
+---
+{
+  "file_version":"",
+  "name":"Transportation",
+  "section_type":"Capital Budget",
+  "section_type_short":"L",
+  "source_version":"Adopted",
+  "source_year":"18",
+  "description":[
+    "Initiatives to support an accessible multimodal transportation system that gets Bostonians where they need to go reliably and safely."
+  ],
+  "vol1_category_copy":[
+    "Mayor Walsh&rsquo;s FY18-22 Capital Plan, drawing on City, State and Federal sources, will invest $709 million over the next five years in implementing the core initiatives outlined in Go Boston 2030. Pursuant to Go Boston 2030, Boston will strive for streets that are safer for all users of our roads and sidewalks, particularly pedestrians and cyclists; travel that is more reliable and predictable, and quality transportation choices that improve access, to interconnect our neighborhoods for all modes of travel. Driven by these core goals of safety, reliability, and access, the Capital Plan focuses on key investments.",
+    "The Capital Plan makes critical investments to improve safety for Boston&rsquo;s most vulnerable street users with a focus on roadway corridors, safe crossings, and traffic calming on residential streets and in small-business districts. Vision Zero, funded annually at $3.1 million, will make targeted safety improvements at corridors and intersections with known safety challenges, and to traffic-calm residential streets. This Capital Plan notably invests in the transformation of Hyde Square, North Square, Central Square, Dudley Street, and Boylston Street. It also sets aside funding for long term investment in other Main Street business districts across the city.",
+    "To improve safety and expand access to Boston&rsquo;s streets, Boston is launching a citywide, multi-year campaign to bring all crosswalks, lane markings, and bike lanes into a state of good repair, using a combination of operating and capital resources. As Boston works to expand access to make neighborhoods interconnected for all modes of travel, including driving, cycling, and walking, it is important to ensure that our roadways are designed to maximize the safety of such modes of travel. Clear lane markings including crosswalks, \"Don't Block the Box\" markings at key intersections, and well-marked bike lanes with appropriate insignia, all help reduce collisions, making our roadways safer for all users. ",
+    "The Capital Plan invests in design and provides matching funds to unlock hundreds of millions of additional federal and state investment to transform key corridors in the city. The designs will focus primarily on stress-free walking, protected bicycling, and better accommodating public transportation. It also puts an additional emphasis on improving the street infrastructure in parallel with new housing investment in some of our neighborhoods. Key corridors include Melnea Cass Boulevard, Commonwealth Avenue, Boylston Street (Fenway), Columbia Road, the Sullivan Square - Rutherford Avenue - North Washington Street corridor, and street designs for the Boston Planning and Development Agency&rsquo;s PLAN initiatives in Jamaica Plain/ Roxbury and on Dorchester Avenue. The Capital Plan focuses on adding protected bicycle lanes on every &ldquo;Great Streets&rdquo; project, and on off-street paths such as the Fenway-Roxbury Connector, South Bay Harbor Trail, and Connect Historic Boston, all complemented by continuing the $900,000 annual investment in the Strategic Bicycle Network. ",
+    "Through the FY18-22 Capital Plan, the City will also make investments to maintain bridges, roads, sidewalks, off-street paths, street lighting, and building facilities that are essential to the high-quality delivery of services. In addition to the transformation of the North Washington Street Bridge, this Capital Plan invests in upgrades to a series of other bridges in an effort to bring all bridges to a state of good repair by 2030. Using City Capital and Chapter 90 funding from the Commonwealth, Boston will continue necessary road and sidewalk resurfacing and reconstruction projects. Finally, Boston will continue to invest in ADA ramps and signals, and well-lit streets."
+  ],
+  "projects":[
+    {
+      "table_type":"capital_projects_by_department",
+      "table_title":"Capital Projects by Department",
+      "header":{
+        "debug":"JCCPBYD",
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "category":"Department",
+        "name":"Project",
+        "location":"Location",
+        "status":"Status",
+        "fy-0":"FY18 Projected",
+        "project_title":"Total"
+      },
+      "projects_data":[
+        {
+          "Boston Planning and Development Agency":[
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1400000,
+              "fy-0":400000,
+              "category":"Transportation",
+              "name":"RFMP Black Falcon Avenue and Terminal Street",
+              "location":"South Boston",
+              "status":"To Be Scheduled",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":250000,
+              "fy-0":200000,
+              "category":"Transportation",
+              "name":"Strategic Planning Area Transportation Study",
+              "location":"Various neighborhoods",
+              "status":"Study Underway",
+              "operating_impact":"No"
+            }
+          ]
+        },
+        {
+          "Public Works Department":[
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":9600000,
+              "fy-0":1600000,
+              "category":"Transportation",
+              "name":"ADA/AAB Pedestrian Ramps",
+              "location":"Citywide",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":64402307,
+              "fy-0":400000,
+              "category":"Transportation",
+              "name":"Alford Street Bridge",
+              "location":"Charlestown",
+              "status":"In Construction",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1250000,
+              "fy-0":500000,
+              "category":"Transportation",
+              "name":"Beach Street",
+              "location":"Financial District/Downtown",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":2261000,
+              "fy-0":560000,
+              "category":"Transportation",
+              "name":"Boylston Street Sidewalks",
+              "location":"Back Bay",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":15000000,
+              "fy-0":2000000,
+              "category":"Transportation",
+              "name":"Bridge Repairs",
+              "location":"Citywide",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":2750000,
+              "fy-0":100000,
+              "category":"Transportation",
+              "name":"Cambridge Street Bridge",
+              "location":"Charlestown",
+              "status":"To Be Scheduled",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":18166587,
+              "fy-0":1500000,
+              "category":"Transportation",
+              "name":"Central Maintenance Facility Complex",
+              "location":"South End",
+              "status":"To Be Scheduled",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":3130000,
+              "fy-0":1500000,
+              "category":"Transportation",
+              "name":"Choice Neighborhood",
+              "location":"Roxbury",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":20066250,
+              "fy-0":470173,
+              "category":"Transportation",
+              "name":"Commonwealth Avenue Phase 2A",
+              "location":"Allston/Brighton",
+              "status":"In Construction",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":2900000,
+              "fy-0":200000,
+              "category":"Transportation",
+              "name":"Commonwealth Avenue Phase 3 and 4",
+              "location":"Allston/Brighton",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":250000,
+              "fy-0":0,
+              "category":"Transportation",
+              "name":"Congress Street",
+              "location":"South Boston",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":30006896,
+              "fy-0":11044783,
+              "category":"Transportation",
+              "name":"Connect Historic Boston",
+              "location":"Various neighborhoods",
+              "status":"In Construction",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":600000,
+              "fy-0":0,
+              "category":"Transportation",
+              "name":"Dalton Street Bridge",
+              "location":"Back Bay",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":32379436,
+              "fy-0":0,
+              "category":"Transportation",
+              "name":"Long Island Bridge Replacement",
+              "location":"Harbor Islands",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":17952769,
+              "fy-0":182572,
+              "category":"Transportation",
+              "name":"Massachusetts Avenue Bridge at Commonwealth Avenue",
+              "location":"Back Bay",
+              "status":"In Construction",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":3000000,
+              "fy-0":0,
+              "category":"Transportation",
+              "name":"McArdle Bridge",
+              "location":"East Boston",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1250000,
+              "fy-0":700000,
+              "category":"Transportation",
+              "name":"Neighborhood Commons / Hyde Square",
+              "location":"Various",
+              "status":"In Construction",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":2500000,
+              "fy-0":1400000,
+              "category":"Transportation",
+              "name":"North Square",
+              "location":"North End",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":167920000,
+              "fy-0":2000000,
+              "category":"Transportation",
+              "name":"North Washington Street Bridge",
+              "location":"Charlestown",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":55609765,
+              "fy-0":1500000,
+              "category":"Transportation",
+              "name":"Northern Avenue Bridge",
+              "location":"South Boston",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1200000,
+              "fy-0":200000,
+              "category":"Transportation",
+              "name":"Retaining Walls",
+              "location":"Citywide",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":48500000,
+              "fy-0":12500000,
+              "category":"Transportation",
+              "name":"Roadway Reconstruction and Resurfacing",
+              "location":"Citywide",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1800000,
+              "fy-0":0,
+              "category":"Transportation",
+              "name":"Ruggles Street",
+              "location":"Roxbury",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":31050000,
+              "fy-0":5575000,
+              "category":"Transportation",
+              "name":"Sidewalk Reconstruction",
+              "location":"Citywide",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":20147167,
+              "fy-0":1020487,
+              "category":"Transportation",
+              "name":"Street Lighting Installation",
+              "location":"Citywide",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":14759403,
+              "fy-0":953768,
+              "category":"Transportation",
+              "name":"Sullivan Square / Rutherford Avenue",
+              "location":"Charlestown",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":7400000,
+              "fy-0":2600000,
+              "category":"Transportation",
+              "name":"Summer Street",
+              "location":"South Boston",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":6000000,
+              "fy-0":1000000,
+              "category":"Transportation",
+              "name":"Walkable Streets",
+              "location":"Various neighborhoods",
+              "status":"In Construction",
+              "operating_impact":"No"
+            }
+          ]
+        },
+        {
+          "Transportation Department":[
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":463807,
+              "fy-0":433797,
+              "category":"Transportation",
+              "name":"300 Frontage Road Improvements",
+              "location":"South Boston",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1831088,
+              "fy-0":250000,
+              "category":"Transportation",
+              "name":"Accessible Pedestrian Signals",
+              "location":"Citywide",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":100000,
+              "fy-0":50000,
+              "category":"Transportation",
+              "name":"Bowdoin Street/Geneva Avenue Study",
+              "location":"Dorchester",
+              "status":"To Be Scheduled",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":3800000,
+              "fy-0":1680184,
+              "category":"Transportation",
+              "name":"BTD Tow Lot Facility",
+              "location":"South Boston",
+              "status":"In Construction",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":7850000,
+              "fy-0":2862460,
+              "category":"Transportation",
+              "name":"Central Square",
+              "location":"East Boston",
+              "status":"In Construction",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":400000,
+              "fy-0":0,
+              "category":"Transportation",
+              "name":"Centre Street / South Street",
+              "location":"Jamaica Plain",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":4650000,
+              "fy-0":1640000,
+              "category":"Transportation",
+              "name":"Crosswalk and Lane Marking Revitalization",
+              "location":"Citywide",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":7987722,
+              "fy-0":3500000,
+              "category":"Transportation",
+              "name":"Fenway Longwood Kenmore Improvements",
+              "location":"Fenway/Kenmore",
+              "status":"In Construction",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":9537105,
+              "fy-0":550000,
+              "category":"Transportation",
+              "name":"Melnea Cass Boulevard",
+              "location":"Roxbury",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":2856226,
+              "fy-0":250000,
+              "category":"Transportation",
+              "name":"Municipal Parking Lots",
+              "location":"Citywide",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":4233000,
+              "fy-0":233000,
+              "category":"Transportation",
+              "name":"South Bay Harbor Trail",
+              "location":"South End",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":4500000,
+              "fy-0":900000,
+              "category":"Transportation",
+              "name":"Strategic Bicycle Network Project",
+              "location":"Citywide",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":500000,
+              "fy-0":210000,
+              "category":"Transportation",
+              "name":"Street Rule Book",
+              "location":"N/A",
+              "status":"Implementation Underway",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":2898849,
+              "fy-0":300000,
+              "category":"Transportation",
+              "name":"Transportation Planning",
+              "location":"Citywide",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":18922192,
+              "fy-0":3300000,
+              "category":"Transportation",
+              "name":"Vision Zero",
+              "location":"Various neighborhoods",
+              "status":"Implementation Underway",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":3343974,
+              "fy-0":398270,
+              "category":"Transportation",
+              "name":"Warren Street and Blue Hill Avenue",
+              "location":"Roxbury",
+              "status":"In Design",
+              "operating_impact":"No"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "fy-0":66664494,
+  "total":657375543
+}
+---

@@ -1,0 +1,48 @@
+---
+{
+  "cabinet":"Housing & Neighborhood Development",
+  "debug":"JBDCP",
+  "department":"Leading the Way",
+  "file_version":"",
+  "head_name":Null,
+  "head_title":Null,
+  "name":"Leading the Way",
+  "parent":"Housing & Neighborhood Development",
+  "section_id":78,
+  "section_md5_id":"35F4A8D465E6E1EDC05F3D8AB658C551",
+  "section_type":"capital_budget",
+  "section_type_short":"L",
+  "source_version":"Adopted",
+  "source_year":"18",
+  "mission":[
+    "The mission of the Leading the Way (LTW) campaign was to expand and protect Boston&rsquo;s housing supply and stabilize neighborhoods adversely affected by the economic downturn and foreclosure boom. The campaign focused all of the City&rsquo;s housing agencies around a strategy to address Boston&rsquo;s housing needs in four key areas: 1) Housing Boston&rsquo;s workforce through new production and enhanced access to the market; 2) Preventing foreclosures and mitigating the negative effects of foreclosures on Boston&rsquo;s neighborhoods; 3) Reversing the rise in homelessness, and 4) Preserving and stabilizing the rental housing stock. In 2014, Mayor Walsh announced his Boston 2030 plan which outlines a new comprehensive approach to accommodating Boston's complex housing needs over the next 15 years. Funding committed for the new plan has been renamed the &ldquo;Housing 2030 Fund&rdquo; which is now included under the Neighborhood Development Operating Budget in \"Program 3: Housing Development and Services.\""
+  ],
+  "description_of_services":[
+    "Leading the Way resources were used to produce new affordable housing units, help new homebuyers enter the market; stabilize neighborhoods by assisting homeowners with repairs of their homes; create supportive housing for homeless families and individuals; and preserve rental housing."
+  ],
+  "capital_budget_expenditures":[
+    {
+      "table_type":"capital_budget_expenditures",
+      "table_title":"Capital Budget Expenditures",
+      "table_header":{
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "fy-2":"FY15 Actual",
+        "fy-1":"FY16 Actual",
+        "fy-0":"FY17 Estimated",
+        "fy+1":"FY18 Projected"
+      },
+      "data":{
+        "line_type":"total",
+        "line_title":"Total Department",
+        "line_data_type":"total",
+        "fy-2":"854,701",
+        "fy-1":"129,788",
+        "fy-0":"1,855,038",
+        "fy+1":"2,334,940"
+      }
+    }
+  ]
+}
+---

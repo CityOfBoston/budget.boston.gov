@@ -1,0 +1,117 @@
+---
+{
+  "category":"Education",
+  "category_desc":"Initiatives to strengthen education, job training, and career connections.",
+  "department":"Boston Public Schools",
+  "file_version":"",
+  "location":"Bay Village",
+  "managing_department":"Public Facilities Department",
+  "mission":"Conduct a feasibility study and develop schematic design plans in conjunction with the Massachusetts School Building Authority that results in the construction or renovation of a facility that supports the requirements of the Josiah Quincy Upper School.",
+  "name":"Quincy Upper Pilot School",
+  "operating_impact":"No",
+  "section_id":"CPS24301",
+  "section_type":"projects",
+  "section_type_short":"R",
+  "source_version":"Adopted",
+  "source_year":"18",
+  "status":"Study Underway",
+  "expenditures_detail":{
+    "table_title":"Expenditures (Actual and Planned)",
+    "table_header":{
+      "line_type":"header",
+      "line_title":null,
+      "line_data_type":"string",
+      "source":"Source",
+      "past_spending":"Through 6/30/16",
+      "fy-1":"FY17 Budget",
+      "fy-0":"FY18 Budget",
+      "fy+1-4":"FY19-22 Budget",
+      "total":"Total"
+    },
+    "data":[
+      {
+        "line_type":"data",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"City Capital",
+        "past_spending":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1-4":58000000,
+        "total":58000000
+      },
+      {
+        "line_type":"data",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"Grants/Other",
+        "past_spending":503740,
+        "fy-1":1075493,
+        "fy-0":1170767,
+        "fy+1-4":64250000,
+        "total":67000000
+      },
+      {
+        "line_type":"total",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"Totals",
+        "past_spending":503740,
+        "fy-1":1075493,
+        "fy-0":1170767,
+        "fy+1-4":122250000,
+        "total":125000000
+      }
+    ],
+    "authorizations_table":{
+      "table_title":"Authorizations",
+      "table_header":{
+        "line_type":"header",
+        "line_title":null,
+        "line_data_type":"string",
+        "source":"Source",
+        "existing":"Existing",
+        "fy-0":"FY18",
+        "fy-0++":"Future",
+        "other":"Non Capital Fund",
+        "total":"Total"
+      },
+      "data":[
+        {
+          "line_type":"data",
+          "line_title":null,
+          "line_data_type":"number",
+          "source":"City Capital",
+          "existing":0,
+          "fy-0":0,
+          "fy-0++":58000000,
+          "other":0,
+          "total":58000000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "line_data_type":"number",
+          "source":"Grants/Other",
+          "existing":1700000,
+          "fy-0":0,
+          "fy-0++":65300000,
+          "other":0,
+          "total":67000000
+        },
+        {
+          "line_type":"total",
+          "line_title":"Totals",
+          "line_data_type":"number",
+          "source":"Totals",
+          "existing":1700000,
+          "fy-0":0,
+          "fy-0++":123300000,
+          "other":0,
+          "total":125000000
+        }
+      ]
+    }
+  }
+}
+---

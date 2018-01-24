@@ -1,0 +1,45 @@
+---
+{
+  "title":"Homeless Shelter Services",
+  "layout":"bos_content",
+  "section_type":"section",
+  "section_type_short":"S",
+  "source_version":"Adopted",
+  "source_year":"19",
+  "card":[
+    {
+      "category":"Budget Priorities",
+      "order":5,
+      "title":"Homeless Shelter Services",
+      "body":"Budget supports front door triage and rapid rehousing at shelters",
+      "img":"https://photos.google.com/share/AF1QipOdyA4dgnR-77oq7jD0E4ptSuC-5lGKaP52yPlv9PHjGrFPtlLzQS6_APhcgo-PZA/photo/AF1QipMyhfG3b773Dl4BcDpcFzrzYCfTV54E66UZz3Xw?key=bjZkeEJNLWVYcjc3WDdKUHQ5TTEzVVBMbHBrblhR",
+      "link":"link"
+    }
+  ],
+  "components":[
+    {
+      "text_block":[
+        {
+          "title":"Improving Homeless Shelter Service and Safety",
+          "body":[
+            "The Boston Public Health Commission (BPHC) provides food, shelter and other comprehensive services to over 650 homeless individuals each night at its Woods Mullen and Southampton Street shelters. In FY17, the City invested additional resources to enhance service levels at these locations. The investments, which included hiring a mix of coordinators, assistant coordinators, counselors, and security staff, allow BPHC to efficiently operate the shelters on a 24/7 basis and to better assist Boston&rsquo;s most vulnerable population with case management, medical and behavioral health services, career counseling, job training, substance abuse prevention, and housing support.",
+            "This funding also allowed for the full implementation of a front door triage system that enables shelter staff to meet with every new guest entering the shelters to conduct an in-depth assessment. This assessment leads to the development of a client-centered plan to exit the shelter system into safe, supported, and stable housing as quickly as possible. ",
+            "The FY18 budget reflects Mayor Walsh&rsquo;s focus to end chronic homelessness in Boston. As a response to federal funding cuts, the City will provide additional resources to BPHC to ensure that the city&rsquo;s homeless shelters continue to operate 24/7. Moreover, in recognition of the U.S. Department of Housing and Urban Development&rsquo;s &ldquo;Housing First&rdquo; approach to ending chronic homelessness, the FY18 budget will support rapid rehousing programs that focus on helping households obtain permanent housing as quickly as possible."
+          ]
+        }
+      ]
+    },
+    {
+      "grid":[
+        {
+          "grid_title":"More Budget Priorities",
+          "cards":[
+            "/featured-analysis/homeless-action-plan/",
+            "/featured-analysis/housing-a-changing-city/"
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

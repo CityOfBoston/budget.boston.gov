@@ -1,0 +1,47 @@
+---
+{
+  "title":"Keeping Streets Clean & Safe",
+  "layout":"bos_content",
+  "section_type":"section",
+  "section_type_short":"S",
+  "source_version":"Adopted",
+  "source_year":"19",
+  "card":[
+    {
+      "category":"Budget Priorities",
+      "order":10,
+      "title":"Keeping Streets Clean & Safe",
+      "body":"The FY18 budget invests in making sure city streets are clean and safe.",
+      "img":"https://photos.google.com/share/AF1QipOdyA4dgnR-77oq7jD0E4ptSuC-5lGKaP52yPlv9PHjGrFPtlLzQS6_APhcgo-PZA/photo/AF1QipPWGZP0YgsWaO2tO7E6pCY0htFG2SLm4I8Al2SZ?key=bjZkeEJNLWVYcjc3WDdKUHQ5TTEzVVBMbHBrblhR",
+      "link":"link"
+    }
+  ],
+  "components":[
+    {
+      "text_block":[
+        {
+          "title":"Keeping Boston Streets Clean and Safe",
+          "body":[
+            "As part of the Mayor&rsquo;s focus on basic quality of life issues, the FY18 budget invests in making sure that city streets in every neighborhood are clean. To enhance service levels for all of Boston&rsquo;s neighborhoods, the FY18 budget includes additional resources for the hokey program, where City hokeys (street cleaners) patrol neighborhoods, empty out litter baskets, and pick up trash around the City. This investment will fund an additional six full time hokeys, allowing the department to staff one hokey in each of Boston&rsquo;s ten Public Works Districts. ",
+            "To improve safety and expand access to our streets, Boston is launching a citywide, multi-year campaign to bring all crosswalks, lane markings, and bike lanes into a state of good repair. As Boston works to expand access to make Boston's neighborhoods interconnected for all modes of travel, including driving, cycling, and walking, it is important to ensure that our roadways are designed to maximize the safety of such modes of travel. Clear lane markings including crosswalks, \"Don't Block the Box\" markings at key intersections, and well marked bike lanes with appropriate insignia all help to reduce collisions, making our roadways safer for all users. ",
+            "This FY18 budget builds on past investments in basic city services that have improved quality of life in Boston. As a result of accelerated resurfacing and sidewalk repair in FY17, the percentage of requests for sidewalk repairs addressed on time (within 48 hours) increased from 66% in December 2015 to 85% in December 2016. "
+          ]
+        }
+      ]
+    },
+    {
+      "grid":[
+        {
+          "grid_title":"More Budget Priorities",
+          "cards":[
+            "/featured-analysis/cityscore-improves-services/",
+            "/featured-analysis/accessible-and-equitable-parks/",
+            "/featured-analysis/imagine-boston-open-space/",
+            "/featured-analysis/launching-go-boston-2030/"
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

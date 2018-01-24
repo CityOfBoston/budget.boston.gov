@@ -1,0 +1,48 @@
+---
+{
+  "cabinet":"Housing & Neighborhood Development",
+  "debug":"JBDCP",
+  "department":"Rental Housing Resource Center",
+  "file_version":"",
+  "head_name":"Vacant",
+  "head_title":"Administrator",
+  "name":"Rental Housing Resource Center",
+  "parent":"Housing & Neighborhood Development",
+  "section_id":35,
+  "section_md5_id":"1C383CD30B7C298AB50293ADFECB7B18",
+  "section_type":"capital_budget",
+  "section_type_short":"L",
+  "source_version":"Adopted",
+  "source_year":"18",
+  "mission":[
+    "The Rental Housing Resource Center (RHRC) contributes to the overall mission of improving city living and building stronger neighborhoods by providing assistance and services to landlords and tenants throughout the City."
+  ],
+  "description_of_services":[
+    "The Rental Housing Resource Center (RHRC) provides mediation for landlords and tenants to resolve disputes in an informal and non-adversarial manner. The RHRC provides landlords and tenants with assistance in meeting their legal obligations and exercising their rights. The RHRC assists eligible formerly rent-controlled tenants to obtain rent subsidies through the Section 8 program, administered by the Boston Housing Authority, and the Safety Net program, funded by the City of Boston. The RHRC assists in the preservation of affordable housing, including housing with expiring use issues. The RHRC continues to regulate the removal of lodging house units and provides protections to tenants in mobile home units. The RHRC manages a Community Development Block Grant funding five Housing Counseling Agencies, which assist elderly, disabled or low-income tenants in their search for affordable housing."
+  ],
+  "capital_budget_expenditures":[
+    {
+      "table_type":"capital_budget_expenditures",
+      "table_title":"Capital Budget Expenditures",
+      "table_header":{
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "fy-2":"FY15 Actual",
+        "fy-1":"FY16 Actual",
+        "fy-0":"FY17 Estimated",
+        "fy+1":"FY18 Projected"
+      },
+      "data":{
+        "line_type":"total",
+        "line_title":"Total Department",
+        "line_data_type":"total",
+        "fy-2":"854,701",
+        "fy-1":"129,788",
+        "fy-0":"1,855,038",
+        "fy+1":"2,334,940"
+      }
+    }
+  ]
+}
+---

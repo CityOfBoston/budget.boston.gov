@@ -1,0 +1,33 @@
+---
+{
+  "title":"Parking Fine Revenue",
+  "layout":"bos_content",
+  "section_type":"section",
+  "section_type_short":"S",
+  "source_version":"Adopted",
+  "source_year":"19",
+  "card":[
+    {
+      "category":"Revenue",
+      "order":13,
+      "title":"Parking Fine Revenue",
+      "body":"Boston maintains a 92% rate of collection of parking fine tickets.",
+      "img":"https://photos.google.com/share/AF1QipOdyA4dgnR-77oq7jD0E4ptSuC-5lGKaP52yPlv9PHjGrFPtlLzQS6_APhcgo-PZA/photo/AF1QipOr1ly3vxp0VgZaj-Vjbgv4zT4fr-aAC9cVEI_O?key=bjZkeEJNLWVYcjc3WDdKUHQ5TTEzVVBMbHBrblhR",
+      "link":"link"
+    }
+  ],
+  "components":[
+    {
+      "text_block":[
+        {
+          "title":"Parking Fines",
+          "body":[
+            "In FY16, the City issued over 1.3 million parking tickets and has maintained a 92% rate of collection on those tickets. The major factors contributing to the City&rsquo;s successful collection rate include non-renewal of violator&rsquo;s registration and license by the Registry of Motor Vehicles until penalties are paid, booting and towing of vehicles, increased ability to recover fine payments from rental agencies, and systematic collection of fines for company cars and leased vehicles. The City also contracts with a third-party vendor to collect delinquent fines from out of state vehicles and other hard to reach offenders.",
+            "The City collected parking fine revenue of $57.1 million in FY15 and $57.8 in FY16. Parking fine revenue is expected to exceed the $57.0 million budgeted in FY17 and reach $61.3 million in FY18. "
+          ]
+        }
+      ]
+    }
+  ]
+}
+---
