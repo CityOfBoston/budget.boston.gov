@@ -20,29 +20,71 @@
     {
       "grid":[
         {
-          "grid_title":"Budget Priorities",
-          "cards":[
-            "/featured-analysis/extended-school-day/",
-            "/featured-analysis/opportunity-and-achievement-gaps/",
-            "/featured-analysis/supporting-students-most-in-need/",
-            "/featured-analysis/homeless-action-plan/",
-            "/featured-analysis/homeless-shelter-services/",
-            "/featured-analysis/housing-a-changing-city/",
-            "/featured-analysis/equity-diversity-and-mobility/",
-            "/featured-analysis/recruiting-a-diverse-police-force/",
-            "/featured-analysis/launching-go-boston-2030/",
-            "/featured-analysis/keeping-streets-clean-and-safe/",
-            "/featured-analysis/imagine-boston-open-space/",
-            "/featured-analysis/accessible-and-equitable-parks/",
-            "/featured-analysis/preparing-for-climate-change/",
-            "/featured-analysis/investing-in-the-arts/",
-            "/featured-analysis/preserving-special-collections/",
-            "/featured-analysis/community-libraries/",
-            "/featured-analysis/access-to-addiction-services/",
-            "/featured-analysis/data-driven-ems/",
-            "/featured-analysis/firefighter-health-and-safety/",
-            "/featured-analysis/data-analytics-at-work/",
-            "/featured-analysis/cityscore-improves-services/"
+          "grid_title":"Budget Priorities"
+        },
+        {
+          "card": "/featured-analysis/extended-school-day/"
+        },
+        {
+          "card": "/featured-analysis/opportunity-and-achievement-gaps/"
+        },
+        {
+          "card": "/featured-analysis/supporting-students-most-in-need/"
+        },
+        {
+          "card": "/featured-analysis/homeless-action-plan/"
+        },
+        {   
+          "card": "/featured-analysis/homeless-shelter-services/"
+        },
+        {
+          "card": "/featured-analysis/housing-a-changing-city/"
+        },
+        { 
+          "card": "/featured-analysis/equity-diversity-and-mobility/"
+        },
+        { 
+          "card": "/featured-analysis/recruiting-a-diverse-police-force/"
+        },
+        { 
+          "card": "/featured-analysis/launching-go-boston-2030/"
+        },
+        {
+          "card": "/featured-analysis/keeping-streets-clean-and-safe/"
+        },
+        {
+          "card": "/featured-analysis/imagine-boston-open-space/"
+        },
+        {
+          "card": "/featured-analysis/accessible-and-equitable-parks/"
+        },
+        {
+          "card": "/featured-analysis/preparing-for-climate-change/"
+        },
+        {
+          "card": "/featured-analysis/investing-in-the-arts/"
+        },
+        {
+          "card": "/featured-analysis/preserving-special-collections/"
+        },
+        {
+          "card": "/featured-analysis/community-libraries/"
+        },
+        {
+          "card": "/featured-analysis/access-to-addiction-services/"
+        },
+        {
+          "card": "/featured-analysis/data-driven-ems/"
+        },
+        {
+          "card": "/featured-analysis/firefighter-health-and-safety/"
+        },
+        {
+          "card": "/featured-analysis/data-analytics-at-work/"
+        },
+        {
+          "card": "/featured-analysis/cityscore-improves-services/"
+        }
           ]
         }
       ]
