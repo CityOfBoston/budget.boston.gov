@@ -55,11 +55,7 @@
           {% if chapter.permalink == item.card %}
             {% if chapter.card %}
               <div class="grid-card desktop-3-col tablet-2-col mobile-1-col">
-                {% if chapter.card[0].link.external %}
-                <a href="{{ chapter.card[0].link.path }}">
-                {% else %}
-                <a href="{{ site.url }}{{ chapter.card[0].link }}">
-                {% endif %}
+                <a href="{{ site.url }}{{ chapter.permalink }}">
                   <div class="grid-card__image"> 
                     <img typeof="foaf:Image" src="{{ site.url }}{{ chapter.card[0].img }}" width="720" height="300" alt="{{ chapter.card[0].title }}" title="{{ chapter.card[0].title }}">
                   </div>
