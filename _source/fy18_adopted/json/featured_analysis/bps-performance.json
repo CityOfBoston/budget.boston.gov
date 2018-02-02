@@ -1,0 +1,35 @@
+---
+{
+  "title":"BPS Performance",
+  "layout":"bos_content",
+  "permalink":"/featured-analysis/bps-performance",
+  "section_type":"section",
+  "section_type_short":"S",
+  "source_version":"Adopted",
+  "source_year":"18",
+  "card":[
+    {
+      "category":"Education",
+      "order":11,
+      "title":"BPS Performance",
+      "body":"Learn about BPS graduation and dropout rates.",
+      "img":"bps-performance.jpg",
+      "link":"link"
+    }
+  ],
+  "components":[
+    {
+      "text_block":[
+        {
+          "body":[
+            "Energy Management",
+            "An Energy Management Unit develops design standards and implements measures that enhance the energy efficiency of the City&rsquo;s new construction and capital improvement projects.",
+            "The conversion of street lights to newer fixtures using Light Emitting Diode (&ldquo;LED&rdquo;) technology has achieved significant operational savings.",
+            "In FY18, an Energy Service Company (&ldquo;ESCO&rdquo;) will conduct an Investment Grade Audit (&ldquo;IGA&rdquo;) of the City&rsquo;s facilities portfolio to identify projects with significant utility savings potential. This &ldquo;Renew Boston Trust&rdquo; initiative will result in savings for City facilities by bundling municipal utility cost savings projects. \t"
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

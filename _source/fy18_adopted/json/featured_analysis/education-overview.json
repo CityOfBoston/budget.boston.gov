@@ -1,0 +1,48 @@
+---
+{
+  "title":"Education Overview",
+  "layout":"bos_content",
+  "permalink":"/featured-analysis/education-overview",
+  "section_type":"section",
+  "section_type_short":"S",
+  "source_version":"Adopted",
+  "source_year":"18",
+  "card":[
+    {
+      "category":"Expenditure Growth",
+      "order":1,
+      "title":"Education Overview",
+      "body":"Funding for Education is growing by $57.8 million (4.8%) over FY17.",
+      "img":"education-overview.jpg",
+      "link":"link"
+    }
+  ],
+  "components":[
+    {
+      "text_block":[
+        {
+          "title":"OVERVIEW",
+          "body":[
+            "In FY18, Boston Public Schools is proposing to make important research-backed investments to close the opportunity and achievement gap. Boston is investing $14 million more to give 15,000 students, from kindergarten through 8th-grade, 120 additional hours of learning time &mdash; or the equivalent of 20 more school days a year. In addition, by strengthening BPS&rsquo;s commitment to Excellence For All, more students in fourth and fifth grade will receive the same rigorous instruction and enriched learning opportunities as those in Advanced Work Class (AWC). Boston is also making a strategic $1.2 million investment to support 3,000 BPS students identified by the district as experiencing homelessness.  ",
+            "BPS will also be providing lower performing schools with a wide-range of differentiated supports, which total over $16 million. This includes a new $1.25 million reserve focused on supporting low level 3, 4 and 5 schools with declining enrollment. \t",
+            "Stemming out progress in the District&rsquo;s Long-Term Financial Planning project, the FY18 budget also includes several central office and transportation efficiencies.  Efforts to tighten budget management and identify efficiencies, along with Mayor Walsh&rsquo;s commitment to education funding, make possible $20 million in new BPS investments. While the School Committee approved a balanced budget for FY18, the District still has underlying challenges that require structural changes to allow Boston to continue to effectively invest in its students in future years."
+          ]
+        }
+      ]
+    },
+    {
+      "grid":[
+        {
+          "grid_title":"More Expenditure Growth"
+        },
+        {
+          "card":"/featured-analysis/pensions-debt-service-and-other-fixed-costs/"
+        },
+        {
+          "card":"/featured-analysis/city-services/"
+        }
+      ]
+    }
+  ]
+}
+---

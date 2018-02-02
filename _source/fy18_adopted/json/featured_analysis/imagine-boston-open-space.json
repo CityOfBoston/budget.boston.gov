@@ -1,0 +1,57 @@
+---
+{
+  "title":"Imagine Boston Open Space",
+  "layout":"bos_content",
+  "permalink":"/featured-analysis/imagine-boston-open-space",
+  "section_type":"section",
+  "section_type_short":"S",
+  "source_version":"Adopted",
+  "source_year":"18",
+  "card":[
+    {
+      "category":"Budget Priorities",
+      "order":11,
+      "title":"Imagine Boston Open Space",
+      "body":"The City plans to carry out Imagine Boston 2030 open space goals",
+      "img":"imagine-boston-open-space.jpg",
+      "link":"link"
+    }
+  ],
+  "components":[
+    {
+      "text_block":[
+        {
+          "title":"Implementing Imagine Boston 2030&rsquo;s Open Space Goals",
+          "body":[
+            "Mayor Walsh has made commitments key to implementing Imagine Boston 2030&rsquo;s open space goals. Franklin Park renovations are already underway with investments in its pathways. Renovation of its sister park, Harambee, for active recreation and commitment to caring for its tree canopy, is also underway. Mayor Walsh has also committed to a $28 million investment from the sale of the Winthrop Square garage to fully renovate Boston&rsquo;s largest park, which borders multiple neighborhoods. Special emphasis will be made on access to, and activation of, arguably Boston&rsquo;s most important natural resource. ",
+            "These improvements, combined with the current master planning of Moakley Park, serve as anchor projects to launch the city&rsquo;s efforts to complete the Emerald Necklace. Originally envisioned by the Olmsted Corporation in the 1890s, the completion will be a community-led modern interpretation of a green street, increasing connections in underserved areas of our city. ",
+            "In addition, Mayor Walsh has committed $28 million from the Winthrop garage sale to augment the current historic levels of investment in Boston Common to fully renovate America&rsquo;s First Park. Major tourist destination, cultural beacon, and neighborhood park, Boston Common is one of the most treasured green spaces in the world. This investment will ensure future generations will enjoy the park in its full vibrancy."
+          ]
+        }
+      ]
+    },
+    {
+      "grid":[
+        {
+          "grid_title":"More Budget Priorities"
+        },
+        {
+          "card":"/featured-analysis/equity-diversity-and-mobility/"
+        },
+        {
+          "card":"/featured-analysis/recruiting-a-diverse-police-force/"
+        },
+        {
+          "card":"/featured-analysis/preparing-for-climate-change/"
+        },
+        {
+          "card":"/featured-analysis/accessible-and-equitable-parks/"
+        },
+        {
+          "card":"/featured-analysis/housing-a-changing-city/"
+        }
+      ]
+    }
+  ]
+}
+---

@@ -1,0 +1,43 @@
+---
+{
+  "title":"Health Benefits",
+  "layout":"bos_content",
+  "permalink":"/featured-analysis/health-benefits",
+  "section_type":"section",
+  "section_type_short":"S",
+  "source_version":"Adopted",
+  "source_year":"18",
+  "card":[
+    {
+      "category":"Expenditures",
+      "order":1,
+      "title":"Health Benefits",
+      "body":"Health care costs are contained through savings initiatives but continue to grow. Learn more.",
+      "img":"health-benefits.jpg",
+      "link":"link"
+    }
+  ],
+  "components":[
+    {
+      "text_block":[
+        {
+          "title":"Health Claims Trends",
+          "body":[
+            "Nationally, lower health claims costs contributed to lower premium increases from FY11 &ndash; FY14, which were followed by higher premium increases in FY16 and FY17 largely due to pharmaceutical costs. The City is limited in its ability to influence the multiple causes behind health care cost swings, which can include increasing medical provider charges, an aging population, overuse of certain services, high utilization of more expensive hospitals. "
+          ]
+        }
+      ]
+    },
+    {
+      "grid":[
+        {
+          "grid_title":"More Expenditures"
+        },
+        {
+          "card":"/featured-analysis/other-post-employement-benefits/"
+        }
+      ]
+    }
+  ]
+}
+---

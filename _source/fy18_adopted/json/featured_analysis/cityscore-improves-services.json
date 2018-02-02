@@ -1,0 +1,54 @@
+---
+{
+  "title":"CityScore Improves Services",
+  "layout":"bos_content",
+  "permalink":"/featured-analysis/cityscore-improves-services",
+  "section_type":"section",
+  "section_type_short":"S",
+  "source_version":"Adopted",
+  "source_year":"18",
+  "card":[
+    {
+      "category":"Budget Priorities",
+      "order":21,
+      "title":"CityScore Improves Services",
+      "body":"CityScore informs the Mayor, managers and the public about performance",
+      "img":"cityscore-improves-services.jpg",
+      "link":"link"
+    }
+  ],
+  "components":[
+    {
+      "text_block":[
+        {
+          "title":"Improving City Services through CityScore ",
+          "body":[
+            "Launched in 2016, CityScore is a tool designed to inform the Mayor, City managers, and the public about quality of life and the performance of City government by aggregating key performance metrics into one number.",
+            "Over the course of FY17, CityScore has contributed to a number of City achievements, including:",
+            "A 10% increase in the number of traffic signals repaired, resulting in safer and more efficient streets;",
+            "A 5% increase in the average number of calls answered within 30 seconds at the 311 Call Center, resulting in more expedient customer service for those interacting with the City; and",
+            "A 6% increase in the speedy removal of graffiti, helping to beautify our neighborhoods. ",
+            "In addition to assisting with improving services, the City launched a new, user-friendly website allowing the public to track the City&rsquo;s score. In FY18, the City will continue to develop and expand CityScore by incorporating additional metrics and identifying new opportunities to improve the quality of life for those in Boston. "
+          ]
+        }
+      ]
+    },
+    {
+      "grid":[
+        {
+          "grid_title":"More Budget Priorities"
+        },
+        {
+          "card":"/featured-analysis/keeping-streets-clean-and-safe/"
+        },
+        {
+          "card":"/featured-analysis/data-analytics-at-work/"
+        },
+        {
+          "card":"/featured-analysis/launching-go-boston-2030/"
+        }
+      ]
+    }
+  ]
+}
+---

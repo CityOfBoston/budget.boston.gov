@@ -1,0 +1,36 @@
+---
+{
+  "title":"Available Funds",
+  "layout":"bos_content",
+  "permalink":"/featured-analysis/available-funds",
+  "section_type":"section",
+  "section_type_short":"S",
+  "source_version":"Adopted",
+  "source_year":"18",
+  "card":[
+    {
+      "category":"Revenue",
+      "order":20,
+      "title":"Available Funds",
+      "body":"The City can make transfers to the General Fund from Available Funds.",
+      "img":"available-funds.jpg",
+      "link":"link"
+    }
+  ],
+  "components":[
+    {
+      "text_block":[
+        {
+          "body":[
+            "Available Funds",
+            "Most of the City&rsquo;s general fund budget is supported by the revenues that are estimated to come in during the course of the fiscal year, including property tax, excises, state aid, and the various other categories of revenues described above. Available funds are linked to a separate category of expenditure appropriation - those supported by immediately available fund transfers.",
+            "The only two significant available funds that the City generally budgets each year are parking meter revenues to support the Transportation Department, and cemetery trust monies which are used to support the City&rsquo;s maintenance of its public cemeteries. Both special funds have fees collected during the course of the year. By transferring out less than what is collected over the years, the City has built up the balances in these funds. Trust fund balances, such as the cemetery trust, also benefit from the opportunity to invest in securities offering a higher return than short-term fixed-income investments.",
+            "The City transferred $19.0 million from the parking meter fund to the general fund in FY15 and did not transfer any funds in FY16. The City expects to transfer $22.5 million from the parking meter fund to the general fund in FY17 and FY18. The City also plans to transfer $950,000 from the cemetery trust fund to the General Fund in FY17 and in FY18. ",
+            "(See Financial Management section of Volume I for detail)"
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

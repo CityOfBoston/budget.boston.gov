@@ -1,12 +1,12 @@
 ---
 {
-  "section":"FINANCIAL MANAGEMTN ",
-  "name":"FINANCIAL MANAGEMTN ",
+  "section":"FINANCIAL MANAGEMENT",
+  "name":"FINANCIAL MANAGEMENT",
   "file_version":"",
   "section_type":"section",
   "section_type_short":"S",
   "source_version":"Adopted",
-  "source_year":"19",
+  "source_year":"18",
   "components":[
     {
       "text_block":[
@@ -287,6 +287,16 @@
       "text_block":[
         {
           "body":[
+            "Operational Reviews",
+            "The City systematically engages in independent operational reviews and other planning efforts aimed at making government more efficient in order to address areas needing renewed attention."
+          ]
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "body":[
             "Energy Management",
             "An Energy Management Unit develops design standards and implements measures that enhance the energy efficiency of the City&rsquo;s new construction and capital improvement projects.",
             "The conversion of street lights to newer fixtures using Light Emitting Diode (&ldquo;LED&rdquo;) technology has achieved significant operational savings.",
@@ -323,16 +333,6 @@
             "Additional discussion of these revenue sources used to support the operating budget can be found in the Summary Budget section.",
             "The table below shows the appropriations that make up the City&rsquo;s FY18 budget.",
             "{07 Financial Management - Budget Summary by Fund.xlsx:Budget Summary 4yr -Tot Revenue:budgetsummary:fullpage}"
-          ]
-        }
-      ]
-    },
-    {
-      "text_block":[
-        {
-          "body":[
-            "Operational Reviews",
-            "The City systematically engages in independent operational reviews and other planning efforts aimed at making government more efficient in order to address areas needing renewed attention."
           ]
         }
       ]

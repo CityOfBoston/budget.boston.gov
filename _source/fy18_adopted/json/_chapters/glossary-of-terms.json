@@ -6,7 +6,7 @@
   "section_type":"section",
   "section_type_short":"S",
   "source_version":"Adopted",
-  "source_year":"19",
+  "source_year":"18",
   "components":[
     {
       "text_block":[
@@ -205,41 +205,6 @@
     {
       "text_block":[
         {
-          "title":"ORGANIZATION OF THE BUDGET",
-          "body":[
-            "The City of Boston&rsquo;s program budget provides information related to City services and their associated costs. The operating and capital budgets present the recommended resource allocations in terms of personnel, facilities, goods, and services. The budget document also describes the services provided by each City department and the performance targets that have been set for FY18."
-          ]
-        }
-      ]
-    },
-    {
-      "text_block":[
-        {
-          "body":[
-            "The Operating and Capital Budget Document: Organization of the Volumes",
-            "Volume I contains information on the FY18 budget and the context in which it is prepared. Sections include:",
-            "In Volumes II and III, cabinet and departmental budgets are presented by cabinet. The cabinet presentation includes cabinet mission and initiatives, followed by a table displaying total operating, external, and capital budgets. The budget presents FY15 actual results through the FY18 budgets."
-          ],
-          "list":[
-            "Mayoral Transmittal Letters",
-            "Executive Summary",
-            "Summary Budget",
-            "Revenue Estimates and Analysis",
-            "Education",
-            "Capital Planning",
-            "Data Analytics",
-            "Boston&rsquo;s People and Economy",
-            "Financial Management",
-            "Statutes and Ordinances",
-            "Budget Organization and Glossary ",
-            "City Council Orders"
-          ]
-        }
-      ]
-    },
-    {
-      "text_block":[
-        {
           "body":[
             "Departmental Operating Budgets",
             "Activities and services of the City are grouped into programs for budgeting and management purposes. The operating budget for each department is presented by program.",
@@ -252,99 +217,6 @@
             "The Division Level for units within some departments.",
             "The Department Level, which includes departments, commissions, and other offices.",
             "The Cabinet Level, which includes functionally-related departments."
-          ]
-        }
-      ]
-    },
-    {
-      "text_block":[
-        {
-          "body":[
-            "Description of Organization and Definition of Categories",
-            "This section outlines the information reported within each department and program in the budget."
-          ]
-        }
-      ]
-    },
-    {
-      "text_block":[
-        {
-          "title":"Department or Division Level",
-          "body":[
-            "Department Mission: The mission statement is a fundamental statement of purpose.",
-            "Performance Goals: These goals represent stated aims for which the department or division is held accountable.",
-            "Description of Services: The description of services provides a general overview of the department and its responsibilities, and lists examples of major services provided.",
-            "Authorizing Statutes: This section lists statutes and ordinances that create departments as well as endow them with legal powers.",
-            "Operating Budget: The operating budget presentation includes a table displaying total operating and external budgets by program beginning with FY15 actual expenses through the FY18 budget."
-          ]
-        }
-      ]
-    },
-    {
-      "text_block":[
-        {
-          "title":"Program Level",
-          "body":[
-            "Program Description: This section presents a general overview of the program, including its responsibilities and major services provided.",
-            "Program Goals: Each program identifies the department goals related to the efforts of the program to further the department&rsquo;s mission.",
-            "Performance Measures: Performance measures demonstrate a program&rsquo;s progress in implementing the department&rsquo;s goals. Performance measures may gauge workload, effectiveness, efficiency, or productivity. Some performance measures also show the changing context in which programs are working."
-          ]
-        }
-      ]
-    },
-    {
-      "text_block":[
-        {
-          "body":[
-            "Financial Data",
-            "The financial data tables identify the major groups and expenditure account codes (for example, Personnel Services/Overtime, Supplies and Materials/Office Supplies), historical expenditures in each, and the proposed appropriations in each group and account in FY18.",
-            "Two financial data sheets are provided for the FY18 operating budget: Department History and Department Personnel."
-          ]
-        }
-      ]
-    },
-    {
-      "text_block":[
-        {
-          "title":"Department History",
-          "body":[
-            "Expenditure account codes are listed within six expenditure groups. Dollar amounts are shown for:"
-          ],
-          "list":[
-            "FY15 actual expenditures,",
-            "FY16 actual expenditures,",
-            "FY17 appropriations,",
-            "FY18 recommended budgets, and",
-            "The difference between the FY17 appropriation and the FY18 recommended appropriation."
-          ]
-        }
-      ]
-    },
-    {
-      "text_block":[
-        {
-          "title":"Department Personnel Data",
-          "body":[
-            "Personnel data shows funding for permanent positions, including existing and proposed positions. All permanent positions are listed by union and salary grade within the department or division. The total salary request is listed for these positions.",
-            "For each position shown, the following information is provided:",
-            "Title: The civil service/personnel system job title for the position.",
-            "Union Code and Grade: The union code (including exempt and CDH for department head) and code for the salary grade of the position.",
-            "Position and Salary Requirement: These columns show the number of permanent positions for which funding is available and the total funding provided for that title for the upcoming fiscal year.",
-            "Total Funding: The total funding for permanent employees, shown at the bottom right of the personnel sheet, reflects the amount of funding required to support personnel prior to adjustments. This figure may be adjusted by differential payments, other payments, chargebacks, and salary savings.",
-            "Differential Payments: Employees who are serving temporary job titles or who are entitled to additional payments based on the shifts they work (e.g., night shifts) receive differential payments. This figure is added to the permanent employee line.",
-            "Other: The permanent employee line contains other payments such as sick leave and vacation buybacks.",
-            "Chargebacks: Some personnel costs are charged to another fund or appropriation. These costs or reimbursements are included in the permanent employee line.",
-            "Salary Savings: This figure reflects savings due to vacancies. The amount is estimated based on experience in prior fiscal years and subtracted from the total salary requirements."
-          ]
-        }
-      ]
-    },
-    {
-      "text_block":[
-        {
-          "body":[
-            "External Funds",
-            "The financial data identify the major groups and expenditure account codes for external funds expenditures. Historical expenditures and the proposed appropriations in these accounts in FY18 are shown. The personnel data show permanent positions, including existing and proposed positions, funded with external funds. All permanent positions are listed by union and grade within the department or division. The total salary request is listed for these positions by job title. The External Funds Projects page lists a description of each project&rsquo;s mission."
           ]
         }
       ]
@@ -459,6 +331,134 @@
             "Third Party Payment: Medical payments, usually from an insurance carrier to a health care provider on behalf of an injured or infirm party.",
             "Trust Funds: Funds held by the City in a fiduciary role, to be expended for the purposes specified by the donor.",
             "Unliquidated Reserve: A fund established at year-end, used to pay for goods and services received this year, but not billed until next year."
+          ]
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "body":[
+            "External Funds",
+            "The financial data identify the major groups and expenditure account codes for external funds expenditures. Historical expenditures and the proposed appropriations in these accounts in FY18 are shown. The personnel data show permanent positions, including existing and proposed positions, funded with external funds. All permanent positions are listed by union and grade within the department or division. The total salary request is listed for these positions by job title. The External Funds Projects page lists a description of each project&rsquo;s mission."
+          ]
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "title":"Department Personnel Data",
+          "body":[
+            "Personnel data shows funding for permanent positions, including existing and proposed positions. All permanent positions are listed by union and salary grade within the department or division. The total salary request is listed for these positions.",
+            "For each position shown, the following information is provided:",
+            "Title: The civil service/personnel system job title for the position.",
+            "Union Code and Grade: The union code (including exempt and CDH for department head) and code for the salary grade of the position.",
+            "Position and Salary Requirement: These columns show the number of permanent positions for which funding is available and the total funding provided for that title for the upcoming fiscal year.",
+            "Total Funding: The total funding for permanent employees, shown at the bottom right of the personnel sheet, reflects the amount of funding required to support personnel prior to adjustments. This figure may be adjusted by differential payments, other payments, chargebacks, and salary savings.",
+            "Differential Payments: Employees who are serving temporary job titles or who are entitled to additional payments based on the shifts they work (e.g., night shifts) receive differential payments. This figure is added to the permanent employee line.",
+            "Other: The permanent employee line contains other payments such as sick leave and vacation buybacks.",
+            "Chargebacks: Some personnel costs are charged to another fund or appropriation. These costs or reimbursements are included in the permanent employee line.",
+            "Salary Savings: This figure reflects savings due to vacancies. The amount is estimated based on experience in prior fiscal years and subtracted from the total salary requirements."
+          ]
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "title":"Department History",
+          "body":[
+            "Expenditure account codes are listed within six expenditure groups. Dollar amounts are shown for:"
+          ],
+          "list":[
+            "FY15 actual expenditures,",
+            "FY16 actual expenditures,",
+            "FY17 appropriations,",
+            "FY18 recommended budgets, and",
+            "The difference between the FY17 appropriation and the FY18 recommended appropriation."
+          ]
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "body":[
+            "Description of Organization and Definition of Categories",
+            "This section outlines the information reported within each department and program in the budget."
+          ]
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "title":"Department or Division Level",
+          "body":[
+            "Department Mission: The mission statement is a fundamental statement of purpose.",
+            "Performance Goals: These goals represent stated aims for which the department or division is held accountable.",
+            "Description of Services: The description of services provides a general overview of the department and its responsibilities, and lists examples of major services provided.",
+            "Authorizing Statutes: This section lists statutes and ordinances that create departments as well as endow them with legal powers.",
+            "Operating Budget: The operating budget presentation includes a table displaying total operating and external budgets by program beginning with FY15 actual expenses through the FY18 budget."
+          ]
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "title":"Program Level",
+          "body":[
+            "Program Description: This section presents a general overview of the program, including its responsibilities and major services provided.",
+            "Program Goals: Each program identifies the department goals related to the efforts of the program to further the department&rsquo;s mission.",
+            "Performance Measures: Performance measures demonstrate a program&rsquo;s progress in implementing the department&rsquo;s goals. Performance measures may gauge workload, effectiveness, efficiency, or productivity. Some performance measures also show the changing context in which programs are working."
+          ]
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "body":[
+            "The Operating and Capital Budget Document: Organization of the Volumes",
+            "Volume I contains information on the FY18 budget and the context in which it is prepared. Sections include:",
+            "In Volumes II and III, cabinet and departmental budgets are presented by cabinet. The cabinet presentation includes cabinet mission and initiatives, followed by a table displaying total operating, external, and capital budgets. The budget presents FY15 actual results through the FY18 budgets."
+          ],
+          "list":[
+            "Mayoral Transmittal Letters",
+            "Executive Summary",
+            "Summary Budget",
+            "Revenue Estimates and Analysis",
+            "Education",
+            "Capital Planning",
+            "Data Analytics",
+            "Boston&rsquo;s People and Economy",
+            "Financial Management",
+            "Statutes and Ordinances",
+            "Budget Organization and Glossary ",
+            "City Council Orders"
+          ]
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "title":"ORGANIZATION OF THE BUDGET",
+          "body":[
+            "The City of Boston&rsquo;s program budget provides information related to City services and their associated costs. The operating and capital budgets present the recommended resource allocations in terms of personnel, facilities, goods, and services. The budget document also describes the services provided by each City department and the performance targets that have been set for FY18."
+          ]
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "body":[
+            "Financial Data",
+            "The financial data tables identify the major groups and expenditure account codes (for example, Personnel Services/Overtime, Supplies and Materials/Office Supplies), historical expenditures in each, and the proposed appropriations in each group and account in FY18.",
+            "Two financial data sheets are provided for the FY18 operating budget: Department History and Department Personnel."
           ]
         }
       ]
