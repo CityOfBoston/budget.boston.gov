@@ -1,0 +1,32 @@
+---
+{
+  "title":"Reserves for Collective Bargaining",
+  "layout":"bos_content",
+  "section_type":"section",
+  "section_type_short":"S",
+  "source_version":"Adopted",
+  "source_year":"18",
+  "card":[
+    {
+      "category":"Expenditures",
+      "order":4,
+      "title":"Reserves for Collective Bargaining",
+      "body":"Preparing for future labor wage agreements.  See how.",
+      "img":"reserves-for-collective-bargaining.jpg",
+      "link":"link"
+    }
+  ],
+  "components":[
+    {
+      "text_block":[
+        {
+          "title":"Reserves for Collective Bargaining",
+          "body":[
+            "Most union contracts in City departments expired in FY17. Salary increases in these agreements will have a major direct impact on dollars available in FY18 and in the upcoming years. The FY18 collective bargaining reserves, a $20 million reserve for Boston Public Schools and a $27 million reserve for City departments including the Public Health Commission, contain funding for successor agreements. These reserves account for $31 million of the growth in the FY18 Budget."
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

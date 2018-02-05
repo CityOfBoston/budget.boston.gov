@@ -544,15 +544,6 @@
     {
       "text_block":[
         {
-          "body":[
-            "Multi-Year Budget Plan"
-          ]
-        }
-      ]
-    },
-    {
-      "text_block":[
-        {
           "title":"FY18 Projected FTE Changes",
           "body":[
             "The City projects a net increase in FTE levels of 256.9 from January 1, 2017 to January 1, 2018. The majority of the growth is targeted in the priority areas of education and public safety.",
@@ -567,84 +558,6 @@
             "The Information & Technology Cabinet is anticipated to grow by 4 FTE. The Department of Innovation and Technology has a capitally funded identity management project that requires additional staff. A data analytics position will also transfer to the department from the Office of Administration & Finance. ",
             "The Streets Cabinet will increase by 7 FTEs. The Public Works Department is adding 6 additional full time hokeys (street cleaners) so that each of the 10 Public Works Districts will have regular service from the neighborhood-focused program. The Office of Streets plans to hire a Small Cell/DAS Approval Process Manager to better manage the Street Lighting division and the small cell program.",
             "{02 Summary Budget - SUMMARY - FTE Table.xlsx:FTETable for Vol:FTE:fullpage}"
-          ]
-        }
-      ]
-    },
-    {
-      "text_block":[
-        {
-          "title":"Introduction",
-          "body":[
-            "While the City must maintain an annual budget process by statute, a two-year projection provides a useful context for current decision making and future planning purposes.",
-            "With City costs rising faster than its revenue, the City is projecting budget shortfalls in FY18 and FY19. In projecting the City&rsquo;s operating budget for FY18 and FY19, education cost growth, increasing annual pension schedule obligations, uncertain costs related to outstanding collective bargaining agreements and continued health insurance cost escalation continue to drive high rates of expenditure growth. The property tax levy is assumed to grow from its base by the allowable 2.5% and by new growth in the levy. In terms of state aid, continued pressure from rising state Charter Schools costs combined with underfunding of the Charter School Tuition Reimbursement obligation and stagnant education aid, will likely lead to the continuation of the negative growth trend in net state aid.",
-            "Almost all of the City&rsquo;s collective bargaining agreements have recently expired or are set to expire. Salary increases in the successor agreements will have a large and direct impact on dollars available in FY18 and FY19. No new contracts for FY17 have been agreed to, and thus a wage pattern has not been established for the period FY17 &ndash; FY19. However a collective bargaining reserve was set up in FY17 with limited funding for successor agreements, and this projection uses the same approach to forecast FY18 and FY19.",
-            "Another area of concern is the unfunded liability related to other post-employment benefits. The City currently provides post-employment health care and life insurance benefits to eligible retirees in accordance with state law and pays its share of the cost on a pay-as-you-go basis in the current year&rsquo;s operating budget. This method of financing understates the full obligation to provide these benefits after retirement. The City, including the Boston Public Health Commission (BPHC), has an unfunded liability for these benefits of $2.26 billion, as of the most recent independent actuarial valuation on June 30, 2015. The FY17 budget authorizes another payment of $40 million to the City&rsquo;s OPEB Liability Trust Fund; the FY18 and FY19 projections also include $40 million payments."
-          ]
-        }
-      ]
-    },
-    {
-      "text_block":[
-        {
-          "title":"REVENUE TRENDS",
-          "body":[
-            "The following chart displays the breakdown of revenue projected for FY17-FY19 (Figure 10)."
-          ]
-        }
-      ]
-    },
-    {
-      "text_block":[
-        {
-          "title":"MAJOR REVENUE TRENDS INCLUDE:",
-          "body":[
-            "Property Tax Levy: The levy will grow by the allowable 2.5% increase, and new growth is projected to grow steadily in FY18, with lower new growth projected in FY19, as less certainty regarding markets exist over this time horizon. The net property tax assumes an overlay reserve set at 1.9%. A net total increase in the levy of over $169 million is projected over the two years.",
-            "State Aid: Gross state aid is assumed to again be stagnant in FY18 and FY19, decreasing by 0.4% in FY18 and increasing by 0.7% in FY19. The City is projecting that Chapter 70 education will increase by less than 1% based on a modest minimum aid increase from the State. The City is projecting that the Charter School Tuition Reimbursement will again be underfunded by the State. The State has not fulfilled its statutory obligation to fund the Charter School Tuition Reimbursement, creating an unsustainable funding challenge that the City projects will be exacerbated in FY18 and FY19 unless serious reforms to Charter School Finance are undertaken. Underfunding of Charter School Reimbursement will be accompanied by a larger increase to the Charter School Tuition Assessment and thus represents a substantial decrease in total resources available for appropriations. Unrestricted General Government Aid is projected to grow at 3% in FY18 and FY19.",
-            "Excises: Excises are expected to continue to grow into FY18, but slow in FY19, with the potential of stabilization of the local economy given the maturity of the current recovery. No new taxes or increases to rates have been assumed.",
-            "Fines: Fines are expected to be relatively flat given no changes in fine rates or enforcement.",
-            "Interest on Investments: Interest income is expected to remain level in FY18 and FY19 based on current interest rate assumptions, which are tied to action by The Federal Reserve.",
-            "Payments in Lieu of Taxes (PILOT): PILOT revenue is projected to increase in FY18, consistent with the trends from the five year ramp up of PILOT payments, which ended in FY16. We expect the program to continue with support from the non-profit community.",
-            "Miscellaneous Department Revenue: In FY18, the City is expecting a pensions and annuity revenue increase, which partially offsets an increase in the City&rsquo;s pension schedule. Aside from this change in FY18, departmental revenues are expected to remain level in FY19.",
-            "Licenses and Permits: Building permits revenue is projected to increase in FY18 and remain steady in FY19 as the recent building boom is assumed to have reached its height.",
-            "Budgetary Fund Balance: For FY18 and FY19 the use of Budgetary Fund Balance for OPEB expenses is projected to be level at $40 million.",
-            "These estimates are based on conservative revenue assumptions reflecting that the local economy is growing and will stabilize at a reasonable level of growth from the beginning of FY17 to the end of FY19."
-          ]
-        }
-      ]
-    },
-    {
-      "text_block":[
-        {
-          "title":"EXPENDITURE TRENDS",
-          "body":[
-            "Fixed Costs: In FY18, fixed costs are expected to increase by about 9.3% and cumulatively increase by 17.5% in FY19. These increases can be attributed to several factors including: the continued expansion of Charter Schools, even under the existing cap and the resulting increase in the tuition assessment; scheduled pension cost increases; and increased borrowing.",
-            "Under these revenue and expenditure assumptions, the FY18 and FY19 budgets are currently projected to have shortfalls of approximately $47.2 million and $78.8 million. For the most part, the projections are based on current operations and the roll out of approved initiatives in FY18 and FY19. As the FY18 budget process goes forward and projections are further refined, the City will be looking at ways to operate more efficiently within the confines of projected revenues. The City will be monitoring external funding sources very closely, prioritizing service areas and reviewing policy decisions and options that could result from external funding losses. Boston Public Schools and the Department of Neighborhood Development are two departments dependent on federal external funds for the provision of essential services. In the event of grant losses in those departments, major policy decisions and/or tradeoffs will have to be made to continue to provide existing services.",
-            "Employee hiring must continue to be controlled, as the bulk of the projected increase in appropriations is employee-related. Collective bargaining agreements currently under negotiation will need to be affordable, given cost and revenue pressures outlined in this forecast. The City, in partnership with its unions, will continue to look at ways to mitigate the impacts of annual increases in the cost to provide health insurance to its employees and retirees. The City&rsquo;s policy regarding the use of its fund balance has been to limit the use of this source of revenue to offset certain fixed costs such as pension contributions and related post-retirement health benefits and/or to fund extraordinary and non-recurring events as determined and certified by the City Auditor. The projections shown here assume that budgetary fund balance will be used only to support the OPEB appropriations for FY18 and FY19."
-          ]
-        }
-      ]
-    },
-    {
-      "text_block":[
-        {
-          "title":"PLANNING A BALANCED BUDGET",
-          "body":[
-            "Multi-year planning is useful because it allows for time to make adjustments to relieve the cost pressures on certain services. It also promotes cost-saving or new programming alternatives to improve the financial position projected in the out years, and helps monitoring changes in assumptions as new needs or innovations present themselves.",
-            "Much of the City&rsquo;s budget remains fairly stable during the year, but a variance of just 1% would equate to a $30 million problem in the bottom line. Common areas of variance are snow removal, with year-to-year swings of millions of dollars; legal settlements, for which the City attempts to reserve for but may need to absorb on a pay-as-you-go basis; public safety overtime, particularly if a significant event occurs (acts of terrorism, natural disasters or major public events, for example), and outside funding sources for essential needs that may suddenly be eliminated.",
-            "It is important to note that the City&rsquo;s fiscal controls are effective in reducing the chances of an unmanageable deficit. The City manages position vacancies through a committee comprised of the Chief Financial Officer, the Human Resources Director, and the City&rsquo;s Budget Director. In place for over a decade, the committee serves to strictly control and monitor all hiring. In addition, the City&rsquo;s financial and human resources information system (BAIS) provides levels of systematic controls that can be used to project and plan for personnel funding requirements. Similar BAIS systematic controls are in place to control non-personnel expenditures."
-          ]
-        }
-      ]
-    },
-    {
-      "text_block":[
-        {
-          "title":"CONCLUSION",
-          "body":[
-            "This multi-year overview is provided as a guide to understand the impacts of the decisions presented in the budget, and to provide a framework for addressing future challenges and initiatives. Although it is not statutorily required, it is a useful tool in long-range planning and policy analysis.",
-            "From a budget planning and management standpoint, the parameters summarized here were built through an interactive forecast model. This approach allows for the development of multi-year scenarios based on various assumptions for City operations set within the financial constraints of the City&rsquo;s revenue and fixed cost budgets.",
-            "BUDGET SUMMARY"
           ]
         }
       ]

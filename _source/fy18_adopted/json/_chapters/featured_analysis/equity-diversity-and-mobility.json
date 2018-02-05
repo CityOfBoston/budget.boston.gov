@@ -1,0 +1,44 @@
+---
+{
+  "title":"Equity, Diversity and Mobility",
+  "layout":"bos_content",
+  "section_type":"section",
+  "section_type_short":"S",
+  "source_version":"Adopted",
+  "source_year":"18",
+  "card":[
+    {
+      "category":"Budget Priorities",
+      "order":7,
+      "title":"Equity, Diversity and Mobility",
+      "body":"Boston is working to advance racial equity, diversity and economic mobility",
+      "img":"equity-diversity-and-mobility.jpg",
+      "link":"link"
+    }
+  ],
+  "components":[
+    {
+      "text_block":[
+        {
+          "title":"Advancing Racial Equity, Diversity and Economic Mobility",
+          "body":[
+            "In 2015, Mayor Walsh appointed Boston&rsquo;s first Chief Resilience Officer to lead the City&rsquo;s efforts to develop an integrated Resilience Strategy that will help Boston thrive in both good and challenging times. While this strategy will address a wide range of issues, achieving racial equity has emerged at the very core of Boston&rsquo;s efforts to build resilience. Boston is bringing conversations about racism, healing and policy work into its neighborhoods. The FY18 budget replaces Rockefeller Foundation grant funding ending in FY18 and will allow the Mayor&rsquo;s Office of Resilience and Racial Equity to continue efforts in developing and implementing an integrated Resilience Strategy that will help Boston diversify its workforce, create shared prosperity by exploring ways to impact economic mobility, close achievement gaps, and work to address systemic and generational challenges to racial equity.",
+            "Additional resources for the Mayor&rsquo;s Diversity Office will fund a proactive recruitment campaign that includes a series of job fairs and an enhanced matching tool for potential applicants and postings. The budget for the Diversity Office will also support an internal employee development program to help employees achieve an undergraduate degree tuition free, by partnering with local universities.",
+            "The new Digital Equity Pilot Grant Program will explore ways to address digital equity gaps in the City of Boston. Roughly 15% of Bostonians lack internet access at home. This limits access to educational, employment, and civic engagement opportunities. By providing seed funding for programs that help get more people online, the City hopes to identify promising strategies that can attract outside funding and help create a City where everyone has the tools and skills they need to succeed in the 21st century."
+          ]
+        }
+      ]
+    },
+    {
+      "grid":[
+        {
+          "grid_title":"More Budget Priorities"
+        },
+        {
+          "card":"/featured-analysis/recruiting-a-diverse-police-force/"
+        }
+      ]
+    }
+  ]
+}
+---
