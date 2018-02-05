@@ -17,9 +17,21 @@
     {% if item.link %}
       <a href="{{ site.url }}{{ item.link.path }}" {% if item.link.button %}class="button"{% endif %}>{{ item.link.title }}</a>
     {% elsif item.blurb %}
-      {{ item.blurb }}
+      <p>{{ item.blurb }}</p>
     {% elsif item.img %}
-    <img src="{{ site.url }}{{ item.img }}" />
+      <img src="{{ site.url }}{{ item.img }}" />
+    {% elsif item.bullets %}
+      <ul>
+        {% for bullet in item.bullets %}
+          <li>{{ bullet }}</li>
+        {% endfor %}
+      </ul>
+    {% elsif item.numbers %}
+      <ol>
+        {% for number in item.numbers %}
+          <li>{{ number }}</li>
+        {% endfor %}
+      </ol>
     {% else %}
       {{ item }}
     {% endif %}
