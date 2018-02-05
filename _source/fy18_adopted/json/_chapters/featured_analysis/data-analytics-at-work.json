@@ -1,0 +1,54 @@
+---
+{
+  "title":"Data Analytics at Work",
+  "layout":"bos_content",
+  "section_type":"section",
+  "section_type_short":"S",
+  "source_version":"Adopted",
+  "source_year":"18",
+  "card":[
+    {
+      "category":"Budget Priorities",
+      "order":20,
+      "title":"Data Analytics at Work",
+      "body":"Data Analytics identifies opportunities to improve services through data",
+      "img":"data-analytics-at-work.jpg",
+      "link":"link"
+    }
+  ],
+  "components":[
+    {
+      "text_block":[
+        {
+          "title":"Putting Data Analytics to Work",
+          "body":[
+            "Since the creation of the Citywide Analytics Team in 2015, the team has worked with nearly every department to identify opportunities for improvement through the use of data. This work has led to:",
+            "Using predictive modeling to prioritize inspections of food establishments based on risks to public health. Compared to previous years, this program increased the number of food safety violations that were identified and remedied by more than 20%, without increasing inspectors&rsquo; workloads;",
+            "Conducting analyses and developing maps and applications in support of Vision Zero and other transportation initiatives;",
+            "Developing data collection and reporting tools with Boston Police Department to shine a spotlight on the sex trafficking industry in Boston;",
+            "Creating a tool to deliver information about building hazards to firefighters before they arrive on the scene; and",
+            "Identifying a more effective way to deploy EMTs to Boston Common and Recovery Road to reduce response times, leading to an investment in the FY18 budget.",
+            "In FY18, the Analytics team will provide more extensive training, licensing, and data access for department users so that they can more readily work with their own data and combine it with other resources. As departments become more self-sufficient for their own day-to-day analytics needs, the Citywide Analytics Team will focus a growing proportion of its work on more specialized data science and GIS projects in areas such as predictive modeling, automated text analysis, and interactive applications. In the future, these efforts will give the City new resources to more efficiently process 311 requests and resident feedback, protect the health and safety of firefighters and police officers, help students at risk of failing or dropping out of school, and promote safe, affordable, and accessible housing for all residents."
+          ]
+        }
+      ]
+    },
+    {
+      "grid":[
+        {
+          "grid_title":"More Budget Priorities"
+        },
+        {
+          "card":"/featured-analysis/launching-go-boston-2030/"
+        },
+        {
+          "card":"/featured-analysis/keeping-streets-clean-and-safe/"
+        },
+        {
+          "card":"/featured-analysis/cityscore-improves-services/"
+        }
+      ]
+    }
+  ]
+}
+---
