@@ -6,7 +6,7 @@
   "section_type":"section",
   "section_type_short":"S",
   "source_version":"Adopted",
-  "source_year":"19",
+  "source_year":"18",
   "components":[
     {
       "text_block":[
@@ -161,6 +161,21 @@
     {
       "text_block":[
         {
+          "title":"Medicare",
+          "body":[
+            "Municipal health care reform legislation, passed by the State legislature in 2011 provided municipalities more freedom in health plan design, and also mandated that all Medicare-eligible municipal retirees enroll in Medicare Part B and a City sponsored Medicare supplement plan. As a direct result of mandated Medicare enrollment, approximately 5,500 additional City retirees and their spouses have enrolled in Medicare supplement plans. Benefits for these plans are comparable to non-Medicare plans but costs are lower due to Medicare reimbursements. Over 70% of retirees and spouses are now enrolled in Medicare plans, compared to just 37% prior to the legislation. City savings from this mandate, beginning in FY13, have totaled approximately $20 million annually &ndash; a major contributor to the total cost decrease in FY13. ",
+            "City retirees and their beneficiaries are eligible for Medicare through payment of Medicare payroll taxes during their working career. Medicare taxes are paid for all City employees who were hired after March 1986. City Medicare taxes, totaling $19.3 million in the FY18 budget, have increased an average 12% annually since FY01. This growth is due to increases in total payroll and also the increasing percentage of total employees who were hired after March 1986 and are impacted by the tax. Also, more Medicare eligible employees are now beginning to retire, which will continue to increase the percentage of all retirees who will be enrolling into Medicare plans.",
+            "{02 Summary Budget - Health Ins FY18 History and Trend Charts incl Med, Life and Dental.xlsx: Table 2 Total Health Care Costs:Table2}",
+            "Table 2",
+            "{02 Summary Budget - Health Ins FY18 History and Trend Charts incl Med, Life and Dental.xlsx: Table 3 Healthplan Subscribers:Table3}",
+            "Table 3"
+          ]
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
           "body":[
             "Other Post-Employment Benefits (OPEB)",
             "Similar to pensions, employees earn post-employment health care and life insurance benefits (OPEB) over their years of active service, with those benefits being received during retirement. The City, including the Boston Public Health Commission (BPHC), has an unfunded liability for these benefits of $2.26 billion, as of the most recent independent actuarial valuation on June 30, 2015. The size of this liability is largely influenced by changes to retiree health benefits, the City&rsquo;s annual additional contribution to fund the liability, and the discount rate assumed. ",
@@ -170,6 +185,22 @@
             "{02 Summary Budget - OPEB.xlsx: Table 4 ARC:OPEB1}",
             "Table 1",
             "As discussed later, the City is on track to fully fund its pension liability in 2025. The City then plans to redirect previous annual pension contributions to further reduce the unfunded OPEB liability, with a goal of fully funding the OPEB liability in 30 years."
+          ]
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "title":"City - Union Partnership",
+          "body":[
+            "Figure 8 - FY18 Healthcare Cost Sharing",
+            "In FY15, the City and the PEC entered into their second agreement, which is projected to reduce projected costs by approximately $45 million over five years. This most recent agreement is unique because it includes not only a continued increase in member cost share, but also multiple other approaches to containing total costs for both the City and members, including:"
+          ],
+          "list":[
+            "Competitive bidding and refinement of the City&rsquo;s health plan options. After the elimination of a costly indemnity plan in FY12 saving several million dollars annually, non-Medicare health plan options were further reduced in FY16 to three plans: one PPO (Indemnity) with an open provider network and two HMO managed plans with a local provider network. Savings of over $1 million dollars per year in administrative fees were realized from this change which is shared by both employees and the City. Also, effective July 1, 2017 the City&rsquo;s most expensive Medicare Plan, Master Medical, will be closed to new enrollment and ultimately replaced with an alternative BCBS Medicare product.",
+            "The FY15 PEC agreement continued to prioritize funding of health care costs through self-insurance wherever possible. In FY13 the City began self-insuring most of its health plans, reducing total costs by over $10 million per year.",
+            "In FY16, the City and the PEC began analyzing options for more cost effective management of the City&rsquo;s prescription benefits which now total roughly $100 million per year for all plans. As a result, a new Medicare product will be offered that includes a lower cost Medicare prescription drug plan, which is projected to save the City $2.7 million per year when implemented. The City and PEC will also continue to analyze options for carving out prescription drug management through a separate contract, as well as rebidding of the City&rsquo;s six Medicare plans. "
           ]
         }
       ]
@@ -488,27 +519,6 @@
     {
       "text_block":[
         {
-          "title":"FY18 Projected FTE Changes",
-          "body":[
-            "The City projects a net increase in FTE levels of 256.9 from January 1, 2017 to January 1, 2018. The majority of the growth is targeted in the priority areas of education and public safety.",
-            "The City will continue to review the need for hiring into all vacant positions in FY18. Departments eliminated 23 long-term vacant positions in the current budget process.",
-            "A significant portion of the projected growth in filled FTEs from January 2017 to January 2018 is in the Education Cabinet. This continues the trend of the School Department accounting for the majority of position growth since 2014. In FY18, the School Department is projecting a net annual increase of 130.1 FTEs with higher projections for inclusion teachers and aides, specialist teachers related to the extended learning time (ELT) initiative, and professional support. The department is expanding ELT to 39 additional schools and continues to increase the number of inclusion classrooms.",
-            "Historically, the number of Public Safety employees on the payroll as of January 1 of any year has fluctuated with the timing of retirements and new classes. In FY18 the Police Department is projected to remain level assuming normal attrition and the hiring of a new class in the summer of 2017. The projected increase in the Fire Department is due to 75 firefighters coming off of an expiring SAFER grant. The goal of the department is to have enough firefighters in the suppression force to cover the minimum manning level of 262 and to reduce overtime. A new fire class is planned for the late fall of 2017.",
-            "The Operations Cabinet has an increase of 15 primarily due to the BuildBPS transfer of school construction responsibilities from Boston Public Schools to a new school unit at the Public Facilities Department. The Property Management Department is adding new security positions, which will be funded through 3rd party billing.",
-            "Civic Engagement is projected to have a net increase of 1 FTE. The Elderly Commission has a slight reduction of 3 FTE due an administrative change for positions with funding split between the City and grants. Neighborhood Services is adding 4 full time call takers in the Boston311 call center to increase the level of service for Boston residents.",
-            "The Arts & Culture Cabinet will increase by 7 FTEs as the Library Department opens and staffs the newly re-established Chinatown location. The Library is also adding a custodian supervisor at the Copley branch. ",
-            "The Environment, Energy and Open Space Cabinet will see a slight increase with the addition of a position to support Renew Boston Trust and a new preservation assistant to help reduce the wait times for Landmark Commission applications. The Administration & Finance Cabinet projects an increase of 1 FTE with a new quality assurance loan management position in the Treasury Department.",
-            "The Health and Human Services Cabinet will increase by 12 FTEs primarily due to targeted investments in the Public Health Commission&rsquo;s Emergency Medical Services (EMS) and Addiction Services program. EMS will add EMTs to a Community Assistance Team to respond to non-transport calls in Downtown Boston and the Recovery Road areas. The Public Health Commission will also add 4 FTEs to the PAATHS (Providing Access to Addictions Treatment, Hope and Support) Program to extend hours to evenings and weekends. Additionally, the City will fund Homeless Services positions which were previously covered under federal grants.",
-            "The Information & Technology Cabinet is anticipated to grow by 4 FTE. The Department of Innovation and Technology has a capitally funded identity management project that requires additional staff. A data analytics position will also transfer to the department from the Office of Administration & Finance. ",
-            "The Streets Cabinet will increase by 7 FTEs. The Public Works Department is adding 6 additional full time hokeys (street cleaners) so that each of the 10 Public Works Districts will have regular service from the neighborhood-focused program. The Office of Streets plans to hire a Small Cell/DAS Approval Process Manager to better manage the Street Lighting division and the small cell program.",
-            "{02 Summary Budget - SUMMARY - FTE Table.xlsx:FTETable for Vol:FTE:fullpage}"
-          ]
-        }
-      ]
-    },
-    {
-      "text_block":[
-        {
           "body":[
             "External Funds",
             "The City&rsquo;s $3.14 billion operating budget is supplemented by approximately $304.9 million in external funds. These funds consist mainly of federal, state, and private funding earmarked for specific purposes. Education, housing, economic development, public health and public safety are some of the largest areas for which these funds are targeted.",
@@ -536,6 +546,27 @@
         {
           "body":[
             "Multi-Year Budget Plan"
+          ]
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "title":"FY18 Projected FTE Changes",
+          "body":[
+            "The City projects a net increase in FTE levels of 256.9 from January 1, 2017 to January 1, 2018. The majority of the growth is targeted in the priority areas of education and public safety.",
+            "The City will continue to review the need for hiring into all vacant positions in FY18. Departments eliminated 23 long-term vacant positions in the current budget process.",
+            "A significant portion of the projected growth in filled FTEs from January 2017 to January 2018 is in the Education Cabinet. This continues the trend of the School Department accounting for the majority of position growth since 2014. In FY18, the School Department is projecting a net annual increase of 130.1 FTEs with higher projections for inclusion teachers and aides, specialist teachers related to the extended learning time (ELT) initiative, and professional support. The department is expanding ELT to 39 additional schools and continues to increase the number of inclusion classrooms.",
+            "Historically, the number of Public Safety employees on the payroll as of January 1 of any year has fluctuated with the timing of retirements and new classes. In FY18 the Police Department is projected to remain level assuming normal attrition and the hiring of a new class in the summer of 2017. The projected increase in the Fire Department is due to 75 firefighters coming off of an expiring SAFER grant. The goal of the department is to have enough firefighters in the suppression force to cover the minimum manning level of 262 and to reduce overtime. A new fire class is planned for the late fall of 2017.",
+            "The Operations Cabinet has an increase of 15 primarily due to the BuildBPS transfer of school construction responsibilities from Boston Public Schools to a new school unit at the Public Facilities Department. The Property Management Department is adding new security positions, which will be funded through 3rd party billing.",
+            "Civic Engagement is projected to have a net increase of 1 FTE. The Elderly Commission has a slight reduction of 3 FTE due an administrative change for positions with funding split between the City and grants. Neighborhood Services is adding 4 full time call takers in the Boston311 call center to increase the level of service for Boston residents.",
+            "The Arts & Culture Cabinet will increase by 7 FTEs as the Library Department opens and staffs the newly re-established Chinatown location. The Library is also adding a custodian supervisor at the Copley branch. ",
+            "The Environment, Energy and Open Space Cabinet will see a slight increase with the addition of a position to support Renew Boston Trust and a new preservation assistant to help reduce the wait times for Landmark Commission applications. The Administration & Finance Cabinet projects an increase of 1 FTE with a new quality assurance loan management position in the Treasury Department.",
+            "The Health and Human Services Cabinet will increase by 12 FTEs primarily due to targeted investments in the Public Health Commission&rsquo;s Emergency Medical Services (EMS) and Addiction Services program. EMS will add EMTs to a Community Assistance Team to respond to non-transport calls in Downtown Boston and the Recovery Road areas. The Public Health Commission will also add 4 FTEs to the PAATHS (Providing Access to Addictions Treatment, Hope and Support) Program to extend hours to evenings and weekends. Additionally, the City will fund Homeless Services positions which were previously covered under federal grants.",
+            "The Information & Technology Cabinet is anticipated to grow by 4 FTE. The Department of Innovation and Technology has a capitally funded identity management project that requires additional staff. A data analytics position will also transfer to the department from the Office of Administration & Finance. ",
+            "The Streets Cabinet will increase by 7 FTEs. The Public Works Department is adding 6 additional full time hokeys (street cleaners) so that each of the 10 Public Works Districts will have regular service from the neighborhood-focused program. The Office of Streets plans to hire a Small Cell/DAS Approval Process Manager to better manage the Street Lighting division and the small cell program.",
+            "{02 Summary Budget - SUMMARY - FTE Table.xlsx:FTETable for Vol:FTE:fullpage}"
           ]
         }
       ]
@@ -639,37 +670,6 @@
           "body":[
             "The City of Boston&rsquo;s combined FY18 Budget and FY18-FY22 Capital Plan was published using Microsoft Word. Graphics were generated using Microsoft Excel. Oracle - Hyperion Planning, Questica, SAP-Strategy Management and Microsoft Access were used for data management and analysis.",
             "All production was done within the Office of Budget Management. Technical development and support was provided by Paul D. Parisi."
-          ]
-        }
-      ]
-    },
-    {
-      "text_block":[
-        {
-          "title":"Medicare",
-          "body":[
-            "Municipal health care reform legislation, passed by the State legislature in 2011 provided municipalities more freedom in health plan design, and also mandated that all Medicare-eligible municipal retirees enroll in Medicare Part B and a City sponsored Medicare supplement plan. As a direct result of mandated Medicare enrollment, approximately 5,500 additional City retirees and their spouses have enrolled in Medicare supplement plans. Benefits for these plans are comparable to non-Medicare plans but costs are lower due to Medicare reimbursements. Over 70% of retirees and spouses are now enrolled in Medicare plans, compared to just 37% prior to the legislation. City savings from this mandate, beginning in FY13, have totaled approximately $20 million annually &ndash; a major contributor to the total cost decrease in FY13. ",
-            "City retirees and their beneficiaries are eligible for Medicare through payment of Medicare payroll taxes during their working career. Medicare taxes are paid for all City employees who were hired after March 1986. City Medicare taxes, totaling $19.3 million in the FY18 budget, have increased an average 12% annually since FY01. This growth is due to increases in total payroll and also the increasing percentage of total employees who were hired after March 1986 and are impacted by the tax. Also, more Medicare eligible employees are now beginning to retire, which will continue to increase the percentage of all retirees who will be enrolling into Medicare plans.",
-            "{02 Summary Budget - Health Ins FY18 History and Trend Charts incl Med, Life and Dental.xlsx: Table 2 Total Health Care Costs:Table2}",
-            "Table 2",
-            "{02 Summary Budget - Health Ins FY18 History and Trend Charts incl Med, Life and Dental.xlsx: Table 3 Healthplan Subscribers:Table3}",
-            "Table 3"
-          ]
-        }
-      ]
-    },
-    {
-      "text_block":[
-        {
-          "title":"City - Union Partnership",
-          "body":[
-            "Figure 8 - FY18 Healthcare Cost Sharing",
-            "In FY15, the City and the PEC entered into their second agreement, which is projected to reduce projected costs by approximately $45 million over five years. This most recent agreement is unique because it includes not only a continued increase in member cost share, but also multiple other approaches to containing total costs for both the City and members, including:"
-          ],
-          "list":[
-            "Competitive bidding and refinement of the City&rsquo;s health plan options. After the elimination of a costly indemnity plan in FY12 saving several million dollars annually, non-Medicare health plan options were further reduced in FY16 to three plans: one PPO (Indemnity) with an open provider network and two HMO managed plans with a local provider network. Savings of over $1 million dollars per year in administrative fees were realized from this change which is shared by both employees and the City. Also, effective July 1, 2017 the City&rsquo;s most expensive Medicare Plan, Master Medical, will be closed to new enrollment and ultimately replaced with an alternative BCBS Medicare product.",
-            "The FY15 PEC agreement continued to prioritize funding of health care costs through self-insurance wherever possible. In FY13 the City began self-insuring most of its health plans, reducing total costs by over $10 million per year.",
-            "In FY16, the City and the PEC began analyzing options for more cost effective management of the City&rsquo;s prescription benefits which now total roughly $100 million per year for all plans. As a result, a new Medicare product will be offered that includes a lower cost Medicare prescription drug plan, which is projected to save the City $2.7 million per year when implemented. The City and PEC will also continue to analyze options for carving out prescription drug management through a separate contract, as well as rebidding of the City&rsquo;s six Medicare plans. "
           ]
         }
       ]

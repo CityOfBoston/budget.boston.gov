@@ -1,7 +1,7 @@
 ---
 {
   "source_version":"Adopted",
-  "source_year":"19",
+  "source_year":"18",
   "components":[
     {
       "intro":[
@@ -23,169 +23,267 @@
           "grid_title":"Budget Priorities"
         },
         {
-          "card": "/featured-analysis/extended-school-day/"
+          "card":"/featured-analysis/extended-school-day/"
         },
         {
-          "card": "/featured-analysis/opportunity-and-achievement-gaps/"
+          "card":"/featured-analysis/opportunity-and-achievement-gaps"
         },
         {
-          "card": "/featured-analysis/supporting-students-most-in-need/"
+          "card":"/featured-analysis/supporting-students-most-in-need/"
         },
         {
-          "card": "/featured-analysis/homeless-action-plan/"
-        },
-        {   
-          "card": "/featured-analysis/homeless-shelter-services/"
+          "card":"/featured-analysis/homeless-action-plan/"
         },
         {
-          "card": "/featured-analysis/housing-a-changing-city/"
-        },
-        { 
-          "card": "/featured-analysis/equity-diversity-and-mobility/"
-        },
-        { 
-          "card": "/featured-analysis/recruiting-a-diverse-police-force/"
-        },
-        { 
-          "card": "/featured-analysis/launching-go-boston-2030/"
+          "card":"/featured-analysis/homeless-shelter-services/"
         },
         {
-          "card": "/featured-analysis/keeping-streets-clean-and-safe/"
+          "card":"/featured-analysis/housing-a-changing-city/"
         },
         {
-          "card": "/featured-analysis/imagine-boston-open-space/"
+          "card":"/featured-analysis/equity-diversity-and-mobility/"
         },
         {
-          "card": "/featured-analysis/accessible-and-equitable-parks/"
+          "card":"/featured-analysis/recruiting-a-diverse-police-force/"
         },
         {
-          "card": "/featured-analysis/preparing-for-climate-change/"
+          "card":"/featured-analysis/launching-go-boston-2030/"
         },
         {
-          "card": "/featured-analysis/investing-in-the-arts/"
+          "card":"/featured-analysis/keeping-streets-clean-and-safe/"
         },
         {
-          "card": "/featured-analysis/preserving-special-collections/"
+          "card":"/featured-analysis/imagine-boston-open-space/"
         },
         {
-          "card": "/featured-analysis/community-libraries/"
+          "card":"/featured-analysis/accessible-and-equitable-parks/"
         },
         {
-          "card": "/featured-analysis/access-to-addiction-services/"
+          "card":"/featured-analysis/preparing-for-climate-change/"
         },
         {
-          "card": "/featured-analysis/data-driven-ems/"
+          "card":"/featured-analysis/investing-in-the-arts/"
         },
         {
-          "card": "/featured-analysis/firefighter-health-and-safety/"
+          "card":"/featured-analysis/preserving-special-collections/"
         },
         {
-          "card": "/featured-analysis/data-analytics-at-work/"
+          "card":"/featured-analysis/community-libraries/"
         },
         {
-          "card": "/featured-analysis/cityscore-improves-services/"
-        }
-          ]
+          "card":"/featured-analysis/access-to-addiction-services/"
+        },
+        {
+          "card":"/featured-analysis/data-driven-ems/"
+        },
+        {
+          "card":"/featured-analysis/firefighter-health-and-safety/"
+        },
+        {
+          "card":"/featured-analysis/data-analytics-at-work/"
+        },
+        {
+          "card":"/featured-analysis/cityscore-improves-services/"
         }
       ]
     },
     {
       "grid":[
         {
-          "grid_title":"Education",
-          "cards":[
-            "/featured-analysis/long-term-financial-plan/",
-            "/featured-analysis/bps-spending-pressures/",
-            "/featured-analysis/education-finance-legislation/",
-            "/featured-analysis/bps-operating-budget/",
-            "/featured-analysis/bps-enrollment/",
-            "/featured-analysis/weighted-student-funding/",
-            "/featured-analysis/early-childhood-education/",
-            "/featured-analysis/special-education/",
-            "/featured-analysis/bilingual-education/",
-            "/featured-analysis/bps-external-funds/",
-            "/featured-analysis/bps-performance/",
-            "/featured-analysis/buildbps/",
-            "/featured-analysis/charter-school-tuition/"
-          ]
+          "grid_title":"Education"
+        },
+        {
+          "card":"/featured-analysis/long-term-financial-plan/"
+        },
+        {
+          "card":"/featured-analysis/bps-spending-pressures/"
+        },
+        {
+          "card":"/featured-analysis/education-finance-legislation/"
+        },
+        {
+          "card":"/featured-analysis/bps-operating-budget/"
+        },
+        {
+          "card":"/featured-analysis/bps-enrollment/"
+        },
+        {
+          "card":"/featured-analysis/weighted-student-funding/"
+        },
+        {
+          "card":"/featured-analysis/early-childhood-education/"
+        },
+        {
+          "card":"/featured-analysis/special-education/"
+        },
+        {
+          "card":"/featured-analysis/bilingual-education/"
+        },
+        {
+          "card":"/featured-analysis/bps-external-funds/"
+        },
+        {
+          "card":"/featured-analysis/bps-performance/"
+        },
+        {
+          "card":"/featured-analysis/buildbps/"
+        },
+        {
+          "card":"/featured-analysis/charter-school-tuition/"
         }
       ]
     },
     {
       "grid":[
         {
-          "grid_title":"Expenditure Growth",
-          "cards":[
-            "/featured-analysis/education-overview/",
-            "/featured-analysis/city-services/",
-            "/featured-analysis/pensions-debt-service-and-other-fixed-costs/"
-          ]
+          "grid_title":"Expenditure Growth"
+        },
+        {
+          "card":"/featured-analysis/education-overview/"
+        },
+        {
+          "card":"/featured-analysis/city-services/"
+        },
+        {
+          "card":"/featured-analysis/pensions-debt-service-and-other-fixed-costs/"
         }
       ]
     },
     {
       "grid":[
         {
-          "grid_title":"Expenditures",
-          "cards":[
-            "/featured-analysis/other-post-employement-benefits/",
-            "/featured-analysis/health-benefits/",
-            "/featured-analysis/energy-management/",
-            "/featured-analysis/reserves-for-collective-bargaining/",
-            "/featured-analysis/debt-service/",
-            "/featured-analysis/pensions/",
-            "/featured-analysis/state-assessments/",
-            "/featured-analysis/suffolk-county-assessment/",
-            "/featured-analysis/reserve/",
-            "/featured-analysis/personnel-changes/",
-            "/featured-analysis/external-funds/",
-            "/featured-analysis/mbta-assessment/",
-            "/featured-analysis/other-state-assessments/"
-          ]
+          "grid_title":"Expenditures"
+        },
+        {
+          "card":"/featured-analysis/other-post-employement-benefits/"
+        },
+        {
+          "card":"/featured-analysis/health-benefits/"
+        },
+        {
+          "card":"/featured-analysis/energy-management/"
+        },
+        {
+          "card":"/featured-analysis/reserves-for-collective-bargaining/"
+        },
+        {
+          "card":"/featured-analysis/debt-service/"
+        },
+        {
+          "card":"/featured-analysis/pensions/"
+        },
+        {
+          "card":"/featured-analysis/state-assessments/"
+        },
+        {
+          "card":"/featured-analysis/suffolk-county-assessment/"
+        },
+        {
+          "card":"/featured-analysis/reserve/"
+        },
+        {
+          "card":"/featured-analysis/personnel-changes/"
+        },
+        {
+          "card":"/featured-analysis/external-funds/"
+        },
+        {
+          "card":"/featured-analysis/mbta-assessment/"
+        },
+        {
+          "card":"/featured-analysis/other-state-assessments/"
         }
       ]
     },
     {
       "grid":[
         {
-          "grid_title":"Financial Management",
-          "cards":[
-            "/featured-analysis/financial-management/",
-            "/featured-analysis/financing-the-capital-plan/",
-            "/featured-analysis/financing-the-fy18-fy22-capital-plan/",
-            "/featured-analysis/debt-management/",
-            "/featured-analysis/performance-management/"
-          ]
+          "grid_title":"Financial Management"
+        },
+        {
+          "card":"/featured-analysis/financial-management/"
+        },
+        {
+          "card":"/featured-analysis/financing-the-capital-plan/"
+        },
+        {
+          "card":"/featured-analysis/financing-the-fy18-fy22-capital-plan/"
+        },
+        {
+          "card":"/featured-analysis/debt-management/"
+        },
+        {
+          "card":"/featured-analysis/performance-management/"
         }
       ]
     },
     {
       "grid":[
         {
-          "grid_title":"Revenue",
-          "cards":[
-            "/featured-analysis/revenue-overview/",
-            "/featured-analysis/national-economy/",
-            "/featured-analysis/state-and-city-economy/",
-            "/featured-analysis/commonwealth-budget/",
-            "/featured-analysis/revenue-estimates/",
-            "/featured-analysis/property-tax-revenue/",
-            "/featured-analysis/state-revenue/",
-            "/featured-analysis/state-education-aid/",
-            "/featured-analysis/state-education-aid-revenue/",
-            "/featured-analysis/ugga-revenue/",
-            "/featured-analysis/local-receipt-revenue/",
-            "/featured-analysis/excise-tax-revenue/",
-            "/featured-analysis/interest-on-investments/",
-            "/featured-analysis/parking-fine-revenue/",
-            "/featured-analysis/pilot-revenue/",
-            "/featured-analysis/urban-redevelopment-revenue/",
-            "/featured-analysis/departmental-revenue/",
-            "/featured-analysis/licenses-and-permits-revenue/",
-            "/featured-analysis/penalties-and-interest-revenue/",
-            "/featured-analysis/available-funds/",
-            "/featured-analysis/non-recurring-revenue/"
-          ]
+          "grid_title":"Revenue"
+        },
+        {
+          "card":"/featured-analysis/revenue-overview/"
+        },
+        {
+          "card":"/featured-analysis/national-economy/"
+        },
+        {
+          "card":"/featured-analysis/state-and-city-economy/"
+        },
+        {
+          "card":"/featured-analysis/commonwealth-budget/"
+        },
+        {
+          "card":"/featured-analysis/revenue-estimates/"
+        },
+        {
+          "card":"/featured-analysis/property-tax-revenue/"
+        },
+        {
+          "card":"/featured-analysis/state-revenue/"
+        },
+        {
+          "card":"/featured-analysis/state-education-aid/"
+        },
+        {
+          "card":"/featured-analysis/state-education-aid-revenue/"
+        },
+        {
+          "card":"/featured-analysis/ugga-revenue/"
+        },
+        {
+          "card":"/featured-analysis/local-receipt-revenue/"
+        },
+        {
+          "card":"/featured-analysis/excise-tax-revenue/"
+        },
+        {
+          "card":"/featured-analysis/interest-on-investments/"
+        },
+        {
+          "card":"/featured-analysis/parking-fine-revenue/"
+        },
+        {
+          "card":"/featured-analysis/pilot-revenue/"
+        },
+        {
+          "card":"/featured-analysis/urban-redevelopment-revenue/"
+        },
+        {
+          "card":"/featured-analysis/departmental-revenue/"
+        },
+        {
+          "card":"/featured-analysis/licenses-and-permits-revenue/"
+        },
+        {
+          "card":"/featured-analysis/penalties-and-interest-revenue/"
+        },
+        {
+          "card":"/featured-analysis/available-funds/"
+        },
+        {
+          "card":"/featured-analysis/non-recurring-revenue/"
         }
       ]
     }
