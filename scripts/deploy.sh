@@ -37,8 +37,8 @@ elif [[ "${TRAVIS_BRANCH}" = "master" ]];
     echo "On ${TRAVIS_BRANCH} branch so looking for source in _config.yml"
     eval $(parse_yaml _config.yml "config_")
 else
-  echo "Not develop or master branches, skipping site build."
-  exit 1
+  echo "Not on develop or master branches, config_source being set to 'missing'."
+  config_source="missing"
 fi
 
 # Get the source specified in appropriate config file
@@ -91,5 +91,5 @@ if ( $source_is_found ); then
 
 else
   # Let it be known that the source couldn't be found so the build couldn't happen.
-  echo "The source could not be determined from the latest git tag. Skipping deploy entirely."
+  echo "The source could not be determined from the config file. Skipping deploy entirely."
 fi
