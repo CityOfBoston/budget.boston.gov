@@ -15,6 +15,9 @@ url: "https://budget.boston.gov"
 twitter_username: CityOfBoston
 github_username:  CityOfBoston
 
+# Set source for Travis build
+source: fy18_recommended
+
 # Collection settings
 collections:
   cabinets:
