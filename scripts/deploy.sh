@@ -25,9 +25,23 @@ parse_yaml() {
       }
    }'
 }
-eval $(parse_yaml _config.yml "config_")
 
-# Get the source specified in _config.yml
+if [[ "${TRAVIS_BRANCH}" = "develop" ]];
+  then
+  # for https://budget.digital-staging.boston.gov
+    echo "On ${TRAVIS_BRANCH} branch so looking for source in _config_stg.yml"
+    eval $(parse_yaml _config_stg.yml "config_")
+elif [[ "${TRAVIS_BRANCH}" = "master" ]];
+  then
+  # for https://budget.boston.gov
+    echo "On ${TRAVIS_BRANCH} branch so looking for source in _config.yml"
+    eval $(parse_yaml _config.yml "config_")
+else
+  echo "Not develop or master branches, skipping site build."
+  exit 1
+fi
+
+# Get the source specified in appropriate config file
 echo "The source specified in config is: $config_source."
 
 # Get the directory that this script is in.
