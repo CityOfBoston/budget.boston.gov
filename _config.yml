@@ -16,7 +16,7 @@ twitter_username: CityOfBoston
 github_username:  CityOfBoston
 
 # Set source for Travis build
-source: fy18_recommended
+fy_source: fy18_recommended
 
 # Collection settings
 collections:
