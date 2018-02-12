@@ -2,12 +2,12 @@
 {
   "section":"EXECUTIVE SUMMARY",
   "name":"EXECUTIVE SUMMARY",
-  "permalink":"/",
   "file_version":"",
   "section_type":"section",
   "section_type_short":"S",
   "source_version":"Adopted",
   "source_year":"18",
+  "permalink": "/",
   "components":[
     {
       "intro":[
@@ -66,20 +66,20 @@
         {
           "title":"TAKING ADVANTAGE OF DATA",
           "body":[
-            "blurb": "In contrast, Mayor Walsh is proposing data-driven investments that meet the core needs of Bostonians, including:",
-            "bullets":[
-              "targeting research-backed education investments - including extending the school day for 15,000 students - to close achievement and opportunity gaps;",
-              "directing educational resources to students most in need, including 3,000 BPS students experiencing homelessness;",
-              "building on early success from the Mayor&rsquo;s homeless action plan implementation;",
-              "further extending access to addiction treatment services;",
-              "using data to change the way Boston deploys emergency services to Boston Common and Recovery Road;",
-              "making sure that city streets in every neighborhood are clean and safe with revitalized lane markings and crosswalks;",
-              "continuing efforts to diversify Boston&rsquo;s Police force by adding police cadets;",
-              "ensuring that Boston&rsquo;s open spaces are among the nation&rsquo;s most equitable and accessible;",
-              "supporting local artists through grantmaking and residencies;",
-              "launching infrastructure projects driven by Imagine Boston 2030 and Go Boston 2030, moving from engagement and planning to action; and",
-              "setting funding aside for future projects coming out of the BuildBPS engagement process and partnerships with the Massachusetts School Building Authority (MSBA)."
-            ]
+            "In contrast, Mayor Walsh is proposing data-driven investments that meet the core needs of Bostonians, including:"
+          ],
+          "list":[
+            "targeting research-backed education investments - including extending the school day for 15,000 students - to close achievement and opportunity gaps;",
+            "directing educational resources to students most in need, including 3,000 BPS students experiencing homelessness;",
+            "building on early success from the Mayor&rsquo;s homeless action plan implementation;",
+            "further extending access to addiction treatment services;",
+            "using data to change the way Boston deploys emergency services to Boston Common and Recovery Road;",
+            "making sure that city streets in every neighborhood are clean and safe with revitalized lane markings and crosswalks;",
+            "continuing efforts to diversify Boston&rsquo;s Police force by adding police cadets;",
+            "ensuring that Boston&rsquo;s open spaces are among the nation&rsquo;s most equitable and accessible;",
+            "supporting local artists through grantmaking and residencies;",
+            "launching infrastructure projects driven by Imagine Boston 2030 and Go Boston 2030, moving from engagement and planning to action; and",
+            "setting funding aside for future projects coming out of the BuildBPS engagement process and partnerships with the Massachusetts School Building Authority (MSBA)."
           ]
         }
       ]
@@ -127,16 +127,16 @@
       "text_block":[
         {
           "title":"MAINTAINING FISCAL DISCIPLINE",
+          "list":[
+            "paying down the City&rsquo;s long-term pension and other post-employment benefits obligations;",
+            "managing personnel and health costs;",
+            "continuing savings initiatives;",
+            "maintaining conservative fiscal management policies; and",
+            "maximizing revenue from local receipt sources."
+          ],
           "body":[
-            "blurb": "Disciplined financial practices have better positioned Boston to manage through changes in state and federal policy and funding levels.",
-            "blurb": "Revenue Overview",
-            "bullets":[
-              "paying down the City&rsquo;s long-term pension and other post-employment benefits obligations;",
-              "managing personnel and health costs;",
-              "continuing savings initiatives;",
-              "maintaining conservative fiscal management policies; and",
-              "maximizing revenue from local receipt sources."
-            ]
+            "Disciplined financial practices have better positioned Boston to manage through changes in state and federal policy and funding levels.",
+            "Revenue Overview"
           ]
         }
       ]
@@ -237,23 +237,23 @@
       "text_block":[
         {
           "title":"INTRODUCTION",
+          "list":[
+            "targeting research-backed education investments - including extending the school day for 15,000 students - to close achievement and opportunity gaps; ",
+            "directing educational resources to students most in need, including 3,000 BPS students experiencing homelessness;",
+            "building on early success from the Mayor&rsquo;s homeless action plan implementation; ",
+            "further extending access to addiction treatment services;",
+            "using data to change the way Boston deploys emergency services to Boston Common and Recovery Road;",
+            "making sure that city streets in every neighborhood are clean and safe with revitalized lane markings and crosswalks;",
+            "continuing efforts to diversify Boston&rsquo;s Police force by adding police cadets;",
+            "ensuring that Boston&rsquo;s open spaces are among the nation&rsquo;s most equitable and accessible;",
+            "supporting local artists through grantmaking and residencies; ",
+            "launching infrastructure projects driven by Imagine Boston 2030 and Go Boston 2030, moving from engagement and planning to action; and",
+            "setting funding aside for future projects coming out of the BuildBPS engagement process and partnerships with the Massachusetts School Building Authority (MSBA). "
+          ],
           "body":[
-            "bullets":[
-              "targeting research-backed education investments - including extending the school day for 15,000 students - to close achievement and opportunity gaps; ",
-              "directing educational resources to students most in need, including 3,000 BPS students experiencing homelessness;",
-              "building on early success from the Mayor&rsquo;s homeless action plan implementation; ",
-              "further extending access to addiction treatment services;",
-              "using data to change the way Boston deploys emergency services to Boston Common and Recovery Road;",
-              "making sure that city streets in every neighborhood are clean and safe with revitalized lane markings and crosswalks;",
-              "continuing efforts to diversify Boston&rsquo;s Police force by adding police cadets;",
-              "ensuring that Boston&rsquo;s open spaces are among the nation&rsquo;s most equitable and accessible;",
-              "supporting local artists through grantmaking and residencies; ",
-              "launching infrastructure projects driven by Imagine Boston 2030 and Go Boston 2030, moving from engagement and planning to action; and",
-              "setting funding aside for future projects coming out of the BuildBPS engagement process and partnerships with the Massachusetts School Building Authority (MSBA). "
-            ],
-            "blurb": "The City&rsquo;s data-driven investment and spending reform approach to budgeting illustrates an alternative to the type of budget being contemplated at the Federal level. The City&rsquo;s spending approach continues to emphasize the preservation and expansion of offerings to our most vulnerable residents, made possible by the implementation of strategic reforms. In this budget, the City is avoiding $60 million in costs through reforms implemented since Mayor Walsh&rsquo;s first budget. These strategic savings initiatives allow Boston to meet its fixed cost obligations and make targeted investments in a thriving, healthy, and innovative city. Conversely, the President&rsquo;s proposed budget would eliminate valuable programs aiding some of our most vulnerable residents.",
-            "blurb": "Boston faces increased uncertainty due to national and state level challenges. In addition to federal budget proposals to eliminate over $24 million in Community Development Block Grant funds flowing through the City of Boston, the President has signed an executive order aimed at cutting funding for &ldquo;Sanctuary Cities,&rdquo; and has supported health care legislation that would have created over a $1 billion hole in the Commonwealth of Massachusetts&rsquo; budget. Further federal divestment from its Public Housing Authority is also possible, and reduced federal education grants to serve students in poverty have been proposed. At the state level, Boston continues to struggle with the Commonwealth&rsquo;s underfunding of the Charter School Tuition Reimbursement, from which the City is projected to lose $25 million in FY18 alone.",
-            "blurb": "Cities cannot afford to replace this level of funding cuts, and Massachusetts communities, with revenue tightly constrained by state law, will be particularly challenged in the event of federal or state divestment. This instability from the federal and state level requires increased stability and strong fiscal management at the City level. By paying down the City&rsquo;s long-term pension and OBEB obligations, managing personnel and health costs, continuing savings initiatives, maintaining conservative fiscal management policies, and maximizing revenue from local receipt sources, Mayor Walsh&rsquo;s FY18 budget continues the fiscal discipline that was recently praised by rating agencies. In their credit rating affirming Boston&rsquo;s Aaa rating with a stable outlook, Moody&rsquo;s wrote: \"The Aaa rating reflects the city's strong fiscal management and stable financial position.\" Disciplined financial practices have better positioned Boston to manage through changes in state and federal policy and funding levels. "
+            "The City&rsquo;s data-driven investment and spending reform approach to budgeting illustrates an alternative to the type of budget being contemplated at the Federal level. The City&rsquo;s spending approach continues to emphasize the preservation and expansion of offerings to our most vulnerable residents, made possible by the implementation of strategic reforms. In this budget, the City is avoiding $60 million in costs through reforms implemented since Mayor Walsh&rsquo;s first budget. These strategic savings initiatives allow Boston to meet its fixed cost obligations and make targeted investments in a thriving, healthy, and innovative city. Conversely, the President&rsquo;s proposed budget would eliminate valuable programs aiding some of our most vulnerable residents.",
+            "Boston faces increased uncertainty due to national and state level challenges. In addition to federal budget proposals to eliminate over $24 million in Community Development Block Grant funds flowing through the City of Boston, the President has signed an executive order aimed at cutting funding for &ldquo;Sanctuary Cities,&rdquo; and has supported health care legislation that would have created over a $1 billion hole in the Commonwealth of Massachusetts&rsquo; budget. Further federal divestment from its Public Housing Authority is also possible, and reduced federal education grants to serve students in poverty have been proposed. At the state level, Boston continues to struggle with the Commonwealth&rsquo;s underfunding of the Charter School Tuition Reimbursement, from which the City is projected to lose $25 million in FY18 alone.",
+            "Cities cannot afford to replace this level of funding cuts, and Massachusetts communities, with revenue tightly constrained by state law, will be particularly challenged in the event of federal or state divestment. This instability from the federal and state level requires increased stability and strong fiscal management at the City level. By paying down the City&rsquo;s long-term pension and OBEB obligations, managing personnel and health costs, continuing savings initiatives, maintaining conservative fiscal management policies, and maximizing revenue from local receipt sources, Mayor Walsh&rsquo;s FY18 budget continues the fiscal discipline that was recently praised by rating agencies. In their credit rating affirming Boston&rsquo;s Aaa rating with a stable outlook, Moody&rsquo;s wrote: \"The Aaa rating reflects the city's strong fiscal management and stable financial position.\" Disciplined financial practices have better positioned Boston to manage through changes in state and federal policy and funding levels. "
           ]
         }
       ]
