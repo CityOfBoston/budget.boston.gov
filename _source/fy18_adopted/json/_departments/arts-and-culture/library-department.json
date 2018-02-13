@@ -1,7 +1,7 @@
 ---
 {
   "debug":"JBD",
-  "publish_subordinates":false,
+  "publish_subordinates":true,
   "file_version":"",
   "section_id":46,
   "section_md5_id":"D9D4F495E875A2E075A1A4A6E1B9770F",
