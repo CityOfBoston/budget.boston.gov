@@ -1,0 +1,199 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Administration & Finance",
+  "department":"Human Resources",
+  "file_version":"",
+  "head_name":"Vivian Leonard",
+  "head_title":"Manager",
+  "name":"Personnel",
+  "parent":"Human Resources",
+  "section_id":118,
+  "section_md5_id":"5EF059938BA799AAA845E1C2E8A762BD",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_year":"18",
+  "appropriation_code":"Organization 142100",
+  "description":[
+    "The Personnel Program provides personnel services to all City departments.  Through Personnel, departments are provided with management systems with which to hire, classify, compensate and promote employees, pursue good labor relations and management prac"
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":1608503,
+      "fy-1":1551801,
+      "fy-0":1986068,
+      "fy+1":1975868
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":204535,
+      "fy-1":198646,
+      "fy-0":246190,
+      "fy+1":737457
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1813038,
+      "fy-1":1750447,
+      "fy-0":2232258,
+      "fy+1":2713325
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":1608503,
+        "fy-1":1551801,
+        "fy-0":1986068,
+        "fy+1":1975868,
+        "diff":-10200
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":45515,
+        "fy-1":47480,
+        "fy-0":78100,
+        "fy+1":135100,
+        "diff":57000
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":4859,
+        "fy-1":7737,
+        "fy-0":6200,
+        "fy+1":6066,
+        "diff":-134
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":150259,
+        "fy-1":142961,
+        "fy-0":161890,
+        "fy+1":596291,
+        "diff":434401
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":3902,
+        "fy-1":468,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":1813038,
+        "fy-1":1750447,
+        "fy-0":2232258,
+        "fy+1":2713325,
+        "diff":481067
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Enhanced Employee Experience"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of Leave Requests Submitted for Prior Approval",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":"65%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Improved Recruitment Process to Better Meet Needs of COB Departments"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Days from Job Requisition Posting to Candidate Hire",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":"25"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Days from PRC Approval to Posted Job Requisition",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":"7"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

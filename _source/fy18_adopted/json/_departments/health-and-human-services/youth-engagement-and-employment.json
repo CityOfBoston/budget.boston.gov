@@ -1,0 +1,235 @@
+---
+{
+  "debug":"JBD",
+  "publish_subordinates":true,
+  "file_version":"",
+  "section_id":10,
+  "section_md5_id":"D3D9446802A44259755D38E6D163E820",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Adopted",
+  "source_year":"18",
+  "name":"Youth Engagement & Employment",
+  "parent":"Health & Human Services",
+  "cabinet":"Health & Human Services",
+  "department":"Youth Engagement & Employment",
+  "head_name":"Rashad Cope",
+  "head_title":"Director",
+  "appropriation_code":"Appropriation 448",
+  "mission":[
+    "The Youth Engagement & Employment appropriation is used to support activities and services for Boston's youth. The department provides youths and families with resources including employment, out of school time activities, peers who listen, and youth development opportunities."
+  ],
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "name":"Youth Fund",
+        "line_type":"data",
+        "fy-2":"4,989,679",
+        "fy-1":"5,759,934",
+        "fy-0":"6,058,544",
+        "fy+1":"6,331,229",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":"4,989,679",
+        "fy-1":"5,759,934",
+        "fy-0":"6,058,544",
+        "fy+1":"6,331,229"
+      }
+    ]
+  },
+  "external_funds_budget":{
+    "table_type":"External Funds",
+    "table_title":"External Funds Budget",
+    "table_header":{
+      "name":"Fund Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "name":"Settlement Funds",
+        "line_type":"data",
+        "fy-2":"74,702",
+        "fy-1":"0",
+        "fy-0":"0",
+        "fy+1":"313,780",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Youth at Risk",
+        "line_type":"data",
+        "fy-2":"797,266",
+        "fy-1":"764,561",
+        "fy-0":"929,106",
+        "fy+1":"857,375",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Youth Engagement & Employment Fund",
+        "line_type":"data",
+        "fy-2":"136,171",
+        "fy-1":"230,821",
+        "fy-0":"103,745",
+        "fy+1":"0",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":"1,008,139",
+        "fy-1":"995,382",
+        "fy-0":"1,032,851",
+        "fy+1":"1,171,155"
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":4312751,
+      "fy-1":5094169,
+      "fy-0":5361364,
+      "fy+1":5634049
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":676928,
+      "fy-1":665765,
+      "fy-0":697180,
+      "fy+1":697180
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":4989679,
+      "fy-1":5759934,
+      "fy-0":6058544,
+      "fy+1":6331229
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":4312751,
+        "fy-1":5094169,
+        "fy-0":5361364,
+        "fy+1":5634049,
+        "diff":272685
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":12773,
+        "fy-1":33755,
+        "fy-0":15080,
+        "fy+1":15080,
+        "diff":0
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":20908,
+        "fy-1":26122,
+        "fy-0":23500,
+        "fy+1":23500,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":1516,
+        "fy-1":2724,
+        "fy-0":1600,
+        "fy+1":1600,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":19231,
+        "fy-1":5674,
+        "fy-0":4500,
+        "fy+1":4500,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":622500,
+        "fy-1":597490,
+        "fy-0":652500,
+        "fy+1":652500,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":4989679,
+        "fy-1":5759934,
+        "fy-0":6058544,
+        "fy+1":6331229,
+        "diff":272685
+      }
+    ]
+  },
+  "external_funds":[
+    {
+      "project":"Settlement Funds",
+      "project_mission":[
+        "As a result of events precipitated by two private companies: Bechtel International Corp. and Turner Broadcasting Systems, the city of Boston received financial settlements totaling over two million. These funds were dedicated by the Mayor to supplement the year-around youth job program."
+      ]
+    },
+    {
+      "project":"Youth at Risk",
+      "project_mission":[
+        "The Youth at Risk program is a summer jobs program for at-risk youth funded through the Commonwealth of Massachusetts. Funds are targeted to cities in Massachusetts that have the greatest incidence of juvenile detention and adjudication, where low-income youth are especially in need of access to summer job opportunities."
+      ]
+    },
+    {
+      "project":"Youth Employment & Enrichment Fund",
+      "project_mission":[
+        "The Youth Employment & Enrichment Fund was established 2014 to ensure that Boston youth have access to high quality opportunities for employment, enrichment and personal development during the summer and school months. The fund was made possible by financial contributions from local corporations and foundations committed to supporting youth employment in the City of Boston. The fund is used to hire youth and to pay for non-personnel costs associated with youth employees such as enrichment training, materials and supplies."
+      ]
+    }
+  ]
+}
+---

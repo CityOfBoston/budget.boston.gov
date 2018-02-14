@@ -1,0 +1,207 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Streets",
+  "department":"Public Works Department",
+  "file_version":"",
+  "head_name":"John Yetman",
+  "head_title":"Manager",
+  "name":"Street Lights",
+  "parent":"Public Works Department",
+  "section_id":15,
+  "section_md5_id":"9BF31C7FF062936A96D3C8BD1F8F2FF3",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_year":"18",
+  "appropriation_code":"Organization 311700",
+  "description":[
+    "The Street Lights program is responsible for the maintenance of streetlights.  The program provides modern, cost efficient and effective street lighting services to protect the safety of the general and traveling public on Boston's streets and in the City"
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":3579504,
+      "fy-1":2905879,
+      "fy-0":3057712,
+      "fy+1":3027598
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":8568168,
+      "fy-1":7806252,
+      "fy-0":7692630,
+      "fy+1":8573100
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":12147672,
+      "fy-1":10712131,
+      "fy-0":10750342,
+      "fy+1":11600698
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":3579504,
+        "fy-1":2905879,
+        "fy-0":3057712,
+        "fy+1":3027598,
+        "diff":-30114
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":6862262,
+        "fy-1":6012967,
+        "fy-0":6675874,
+        "fy+1":7313237,
+        "diff":637363
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":1086532,
+        "fy-1":98651,
+        "fy-0":130280,
+        "fy+1":113430,
+        "diff":-16850
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":1697,
+        "fy-1":3493,
+        "fy-0":15000,
+        "fy+1":20000,
+        "diff":5000
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":268102,
+        "fy-1":448288,
+        "fy-0":571476,
+        "fy+1":726433,
+        "diff":154957
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":349575,
+        "fy-1":1242853,
+        "fy-0":300000,
+        "fy+1":400000,
+        "diff":100000
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":12147672,
+        "fy-1":10712131,
+        "fy-0":10750342,
+        "fy+1":11600698,
+        "diff":850356
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Efficiently deliver services"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Average cost per streetlight",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":"160"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Improve neighborhood quality of life"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of street light outage constituent requests received",
+              "fy-2":"4,707",
+              "fy-1":"6,085",
+              "fy-0":"5,519",
+              "fy+1":"5,000"
+            },
+            {
+              "line_type":"data",
+              "line_data":"% of street light outages addressed on time",
+              "fy-2":"79%",
+              "fy-1":"79%",
+              "fy-0":"66%",
+              "fy+1":"80%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Average time to complete a street light outage request (days)",
+              "fy-2":"24",
+              "fy-1":"19",
+              "fy-0":"58",
+              "fy+1":"10"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

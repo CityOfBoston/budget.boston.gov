@@ -1,0 +1,215 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Mayor's Office",
+  "department":"Law Department",
+  "file_version":"",
+  "head_name":"Henry C. Luthin",
+  "head_title":"Manager",
+  "name":"Government Services",
+  "parent":"Law Department",
+  "section_id":131,
+  "section_md5_id":"1AFA34A7F984EEABDBB0A7D494132EE5",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_year":"18",
+  "appropriation_code":"Organization 151300",
+  "description":[
+    "The Government Services Program provides general legal consultation to all City departments, including the Boston Public Schools & Boston Police Department. The Program also provides legal assistance regarding the development and implementation of new pub"
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":1093968,
+      "fy-1":975290,
+      "fy-0":1501260,
+      "fy+1":2483738
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":68314,
+      "fy-1":326702,
+      "fy-0":365000,
+      "fy+1":229275
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1162282,
+      "fy-1":1301992,
+      "fy-0":1866260,
+      "fy+1":2713013
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":1093968,
+        "fy-1":975290,
+        "fy-0":1501260,
+        "fy+1":2483738,
+        "diff":982478
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":68314,
+        "fy-1":326702,
+        "fy-0":365000,
+        "fy+1":202300,
+        "diff":-162700
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":26975,
+        "diff":26975
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":1162282,
+        "fy-1":1301992,
+        "fy-0":1866260,
+        "fy+1":2713013,
+        "diff":846753
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To maximize the recovery of funds to the City, including deliquent taxes"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Tax lien actions initiated in Land Court-Actual",
+              "fy-2":"326",
+              "fy-1":"259",
+              "fy-0":"369",
+              "fy+1":"300"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Tax lien collections-Actual",
+              "fy-2":"8,198,033",
+              "fy-1":"13,247,184",
+              "fy-0":"11,672,089",
+              "fy+1":"9,000,000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To provide consultation services that include rendering legal opinions, drafting and approving legal instruments such as contracts, agreements, licensing and indemnity agreements, zoning issues, public record requests and subpoena responses"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% contract reviews completed within 14 days-Actual",
+              "fy-2":"95%",
+              "fy-1":"97%",
+              "fy-0":"92%",
+              "fy+1":"90%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"City contracts processed within 14 days-Actual",
+              "fy-2":"940",
+              "fy-1":"878",
+              "fy-0":"596",
+              "fy+1":"756"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Contracts processed-Actual",
+              "fy-2":"985",
+              "fy-1":"909",
+              "fy-0":"650",
+              "fy+1":"840"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

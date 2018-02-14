@@ -1,0 +1,133 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Mayor's Office",
+  "department":"Election Department",
+  "file_version":"",
+  "head_name":"Dion Irish",
+  "head_title":"Manager",
+  "name":"Election Activities",
+  "parent":"Election Department",
+  "section_id":98,
+  "section_md5_id":"ED3D2C21991E3BEF5E069713AF9FA6CA",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_year":"18",
+  "appropriation_code":"Organization 121400",
+  "description":[
+    "The Election Activities Program manages all activities related to the conduct of elections in the City of Boston, certifies nomination papers, provides all material for polling locations, trains election day officials, conducts the absentee ballot process"
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":1546612,
+      "fy-1":1532173,
+      "fy-0":1926013,
+      "fy+1":1658911
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":263490,
+      "fy-1":707774,
+      "fy-0":810500,
+      "fy+1":918200
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1810102,
+      "fy-1":2239947,
+      "fy-0":2736513,
+      "fy+1":2577111
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":1546612,
+        "fy-1":1532173,
+        "fy-0":1926013,
+        "fy+1":1658911,
+        "diff":-267102
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":212017,
+        "fy-1":583783,
+        "fy-0":510200,
+        "fy+1":639500,
+        "diff":129300
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":41508,
+        "fy-1":48046,
+        "fy-0":217800,
+        "fy+1":155600,
+        "diff":-62200
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":9965,
+        "fy-1":51055,
+        "fy-0":82500,
+        "fy+1":123100,
+        "diff":40600
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":24890,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":1810102,
+        "fy-1":2239947,
+        "fy-0":2736513,
+        "fy+1":2577111,
+        "diff":-159402
+      }
+    ]
+  }
+}
+---

@@ -1,0 +1,265 @@
+---
+{
+  "debug":"JBD",
+  "publish_subordinates":true,
+  "file_version":"",
+  "section_id":41,
+  "section_md5_id":"3416A75F4CEA9109507CACD8E2F2AEFC",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Adopted",
+  "source_year":"18",
+  "name":"Fair Housing & Equity",
+  "parent":"Health & Human Services",
+  "cabinet":"Health & Human Services",
+  "department":"Fair Housing & Equity",
+  "head_name":"Janine Anzalota",
+  "head_title":"Director",
+  "appropriation_code":"Appropriation 403",
+  "mission":[
+    "The mission of the Fair Housing & Equity Department is to eliminate discrimination and ensure fair and equal access to housing, public services, accommodations and participation in activities. The Office strives to reduce procedural, attitudinal and communication barriers for persons living and working in the City of Boston."
+  ],
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "name":"Fair Housing Commission",
+        "line_type":"data",
+        "fy-2":"130,776",
+        "fy-1":"151,260",
+        "fy-0":"185,959",
+        "fy+1":"185,723",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Human Rights Commission",
+        "line_type":"data",
+        "fy-2":"92,251",
+        "fy-1":"9,170",
+        "fy-0":"96,871",
+        "fy+1":"93,004",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":"223,027",
+        "fy-1":"160,430",
+        "fy-0":"282,830",
+        "fy+1":"278,727"
+      }
+    ]
+  },
+  "external_funds_budget":{
+    "table_type":"External Funds",
+    "table_title":"External Funds Budget",
+    "table_header":{
+      "name":"Fund Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "name":"CDBG",
+        "line_type":"data",
+        "fy-2":"432,943",
+        "fy-1":"400,350",
+        "fy-0":"603,742",
+        "fy+1":"373,110",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Fair Housing Asst Prog",
+        "line_type":"data",
+        "fy-2":"147,589",
+        "fy-1":"267,834",
+        "fy-0":"134,000",
+        "fy+1":"210,500",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Housing Choice Program",
+        "line_type":"data",
+        "fy-2":"81,692",
+        "fy-1":"87,720",
+        "fy-0":"20,511",
+        "fy+1":"0",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Regional Opportunity Counseling Program",
+        "line_type":"data",
+        "fy-2":"84,118",
+        "fy-1":"184,281",
+        "fy-0":"125,789",
+        "fy+1":"106,662",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":"746,342",
+        "fy-1":"940,185",
+        "fy-0":"884,042",
+        "fy+1":"690,272"
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":197679,
+      "fy-1":144446,
+      "fy-0":266330,
+      "fy+1":262027
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":25348,
+      "fy-1":15984,
+      "fy-0":16500,
+      "fy+1":16700
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":223027,
+      "fy-1":160430,
+      "fy-0":282830,
+      "fy+1":278727
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Enabling Legislation, CBC Ord. &sect;&sect; 10-3.1-10-3.6.",
+    "Enabling Legislation, CBC Ord. &sect;&sect; 12-9.1-12-9.15.",
+    "Powers and Duties of Executive Director, CBC Ord. &sect;&sect; 12-9.1-12-9.15.",
+    "Procedures, CBC Ord. &sect;&sect; 12-9.1-12-9.15."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":197679,
+        "fy-1":144446,
+        "fy-0":266330,
+        "fy+1":262027,
+        "diff":-4303
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":10351,
+        "fy-1":9016,
+        "fy-0":7500,
+        "fy+1":7700,
+        "diff":200
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":7660,
+        "fy-1":5252,
+        "fy-0":8000,
+        "fy+1":8000,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":2625,
+        "fy-1":1716,
+        "fy-0":1000,
+        "fy+1":1000,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":4712,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":223027,
+        "fy-1":160430,
+        "fy-0":282830,
+        "fy+1":278727,
+        "diff":-4103
+      }
+    ]
+  },
+  "external_funds":[
+    {
+      "project":"Community Development Block Grant",
+      "project_mission":[
+        "The Fair Housing Program works to eliminate discrimination and increase access to housing in Boston through investigation and enforcement, education and outreach, affirmative marketing, and interagency coordination. The Boston Fair Housing Commission (BFHC) provides low income households with increased access to housing opportunities throughout the Boston Metropolitan Area (106 cities and towns)."
+      ]
+    },
+    {
+      "project":"Fair Housing Assistance Program (FHAP)",
+      "project_mission":[
+        "The Fair Housing Commission (BFHC) under an Interim Agreement with the US Department of Housing and Urban Development (HUD) will build administrative capacity to handle and process housing discrimination complaints filed under the Fair Housing Act and the fair housing law enforced by the BFHC."
+      ]
+    },
+    {
+      "project":"Housing Choice Program",
+      "project_mission":[
+        "The Housing Choice Counseling Program is designed to promote housing choice and to increase housing access for recipients of Section 8 vouchers awarded as a result of a consent decree."
+      ]
+    },
+    {
+      "project":"Regional Opportunity Counseling Program (ROC)",
+      "project_mission":[
+        "The ROC program provides housing and counseling to clients. These services include housing search counseling and referral to local agencies which provide resources for maintaining existing housing or locating new housing."
+      ]
+    }
+  ]
+}
+---

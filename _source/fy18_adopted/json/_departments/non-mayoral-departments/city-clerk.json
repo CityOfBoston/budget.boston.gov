@@ -1,0 +1,228 @@
+---
+{
+  "debug":"JBD",
+  "publish_subordinates":true,
+  "file_version":"",
+  "section_id":50,
+  "section_md5_id":"C0C7C76D30BD3DCAEFC96F40275BDC0A",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Adopted",
+  "source_year":"18",
+  "name":"City Clerk",
+  "parent":"Non-Mayoral Departments",
+  "cabinet":"Non-Mayoral Departments",
+  "department":"City Clerk",
+  "head_name":"Maureen Feeney",
+  "head_title":"City Clerk",
+  "appropriation_code":"Appropriation 161",
+  "mission":[
+    "The mission of the City Clerk's office is to accept, file, record, and maintain all municipal records. The City Clerk publishes the agenda for all City Council meetings, records all Council and related Mayoral actions, and edits and compiles the minutes of Council meetings. The Department also maintains the City Council document system database and publishes all ordinances and amended codes on a yearly basis. The City Clerk is also responsible for overseeing the work of the Archives Commission."
+  ],
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "name":"Legislative Support",
+        "line_type":"data",
+        "fy-2":"360,319",
+        "fy-1":"372,578",
+        "fy-0":"376,601",
+        "fy+1":"279,833",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Document Filing",
+        "line_type":"data",
+        "fy-2":"399,491",
+        "fy-1":"416,672",
+        "fy-0":"415,845",
+        "fy+1":"504,605",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Archives",
+        "line_type":"data",
+        "fy-2":"313,895",
+        "fy-1":"357,792",
+        "fy-0":"427,950",
+        "fy+1":"430,387",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":"1,073,705",
+        "fy-1":"1,147,042",
+        "fy-0":"1,220,396",
+        "fy+1":"1,214,825"
+      }
+    ]
+  },
+  "external_funds_budget":{
+    "table_type":"External Funds",
+    "table_title":"External Funds Budget",
+    "table_header":{
+      "name":"Fund Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "name":"National Historical Publications & Records Commission (NHPRC)",
+        "line_type":"data",
+        "fy-2":"15,319",
+        "fy-1":"0",
+        "fy-0":"0",
+        "fy+1":"0",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":"15,319",
+        "fy-1":"0",
+        "fy-0":"0",
+        "fy+1":"0"
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":1024103,
+      "fy-1":1077234,
+      "fy-0":1123971,
+      "fy+1":1111322
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":49602,
+      "fy-1":69808,
+      "fy-0":96425,
+      "fy+1":103503
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1073705,
+      "fy-1":1147042,
+      "fy-0":1220396,
+      "fy+1":1214825
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Election of the City Clerk, CBC St. 2 &sect;&sect; 11, 13, 550, 551; CBC St. 6 &sect; 101; CBC Ord. &sect;&sect; 2-10.1-2-10.4; M.G.L.A. c. 41, &sect;&sect; 12-19.",
+    "Duties of the City Clerk, M.G.L.A. c. 41, &sect;&sect; 12-19; 1988 Mass. Acts ch. 68; M.G.L.A. c.55, &sect; 26; CBC Ord. &sect;&sect; 2-10.1-2-10.4; CBC Ord. &sect; 2-12.5; CBC Ord. &sect; 5-5.6; CBC Ord. &sect; 5-5.10; CBC Ord. &sect;&sect; 12-9A.1-12-9A.9; CBC Ord. &sect;18-1.",
+    "City Archives and Records Commission, 1988 Mass. Acts ch. 68."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":1024103,
+        "fy-1":1077234,
+        "fy-0":1123971,
+        "fy+1":1111322,
+        "diff":-12649
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":26499,
+        "fy-1":45931,
+        "fy-0":71325,
+        "fy+1":70623,
+        "diff":-702
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":14323,
+        "fy-1":13371,
+        "fy-0":15500,
+        "fy+1":15200,
+        "diff":-300
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":5475,
+        "fy-1":4841,
+        "fy-0":9600,
+        "fy+1":17680,
+        "diff":8080
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":3305,
+        "fy-1":5665,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":1073705,
+        "fy-1":1147042,
+        "fy-0":1220396,
+        "fy+1":1214825,
+        "diff":-5571
+      }
+    ]
+  },
+  "external_funds":[
+    {
+      "project":"National Historical Publications and Records Commission (NHPRC)",
+      "project_mission":[
+        "The National Historical Publications and Records Commission (NHPRC) is the grant-making affiliate of the National Archives and Records Administration (NARA). The NHPRC helps non-Federal institutions preserve and make broadly accessible records that are of historical value to the United States. NHPRC has granted the City of Boston an award of up to $91,604 for the Project to Consolidate and Preserve the Archival Records of the City of Boston. The project will conduct a survey of departments and compile an inventory of the City&rsquo;s permanent records, both hard copy and electronic; secure hard-copy archives at the newly-renovated City Archives Center; and plan for the preservation of electronic archives. The accomplishment of this goal will advance the City Archives mission to achieve the comprehensive and systematic preservation of the City&rsquo;s archival records, and to ensure ready access to essential evidence that documents the rights of citizens, the actions of municipal officials and Boston's historical municipal experience."
+      ]
+    }
+  ]
+}
+---

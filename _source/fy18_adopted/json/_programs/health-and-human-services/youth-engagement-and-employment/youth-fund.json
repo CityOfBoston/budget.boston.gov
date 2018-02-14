@@ -1,0 +1,227 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Health & Human Services",
+  "department":"Youth Engagement & Employment",
+  "file_version":"",
+  "head_name":"Rashad Cope",
+  "head_title":"Manager",
+  "name":"Youth Engagement & Employment",
+  "parent":"Youth Engagement & Employment",
+  "section_id":43,
+  "section_md5_id":"17E62166FC8586DFA4D1BC0E1742C08B",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_year":"18",
+  "appropriation_code":"Organization 448100",
+  "description":[
+    "The Youth Engagement & Employment Program manages partnerships with community based organizations to provide employment, events, activities, resources, and other services for Boston's youth. This includes the summer employment program, school year employm"
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":4312751,
+      "fy-1":5094169,
+      "fy-0":5361364,
+      "fy+1":5634049
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":676928,
+      "fy-1":665765,
+      "fy-0":697180,
+      "fy+1":697180
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":4989679,
+      "fy-1":5759934,
+      "fy-0":6058544,
+      "fy+1":6331229
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":4312751,
+        "fy-1":5094169,
+        "fy-0":5361364,
+        "fy+1":5634049,
+        "diff":272685
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":12773,
+        "fy-1":33755,
+        "fy-0":15080,
+        "fy+1":15080,
+        "diff":0
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":20908,
+        "fy-1":26122,
+        "fy-0":23500,
+        "fy+1":23500,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":1516,
+        "fy-1":2724,
+        "fy-0":1600,
+        "fy+1":1600,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":19231,
+        "fy-1":5674,
+        "fy-0":4500,
+        "fy+1":4500,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":622500,
+        "fy-1":597490,
+        "fy-0":652500,
+        "fy+1":652500,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":4989679,
+        "fy-1":5759934,
+        "fy-0":6058544,
+        "fy+1":6331229,
+        "diff":272685
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To hire the maximum number of young residents"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of summer youth jobs accepted",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":"95%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"% Youth Enrichment Day participants",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":"75%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To hire the maximum number of young residents."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of school-year youth jobs accepted",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":"100%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To provide outreach, intervention, support, and referral services for youth."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of mediations conducted by streetworkers",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"303",
+              "fy+1":"450"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

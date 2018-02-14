@@ -1,0 +1,187 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Mayor's Office",
+  "department":"Women's Advancement",
+  "file_version":"",
+  "head_name":"Megan Costello",
+  "head_title":"Manager",
+  "name":"Women's Advancement",
+  "parent":"Women's Advancement",
+  "section_id":41,
+  "section_md5_id":"3416A75F4CEA9109507CACD8E2F2AEFC",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_year":"18",
+  "appropriation_code":"Organization 417100",
+  "description":[
+    "The Women&rsquo;s Advancement program provides information and referrals, advocacy, and policy changes for women in the City of Boston. The program emphasizes economic and gender equality for women and girls. This program collaborates with every city department"
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":190051,
+      "fy-1":209796,
+      "fy-0":230046,
+      "fy+1":222994
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":931,
+      "fy-1":2310,
+      "fy-0":3569,
+      "fy+1":2525
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":190982,
+      "fy-1":212106,
+      "fy-0":233615,
+      "fy+1":225519
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":190051,
+        "fy-1":209796,
+        "fy-0":230046,
+        "fy+1":222994,
+        "diff":-7052
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":895,
+        "fy-1":1048,
+        "fy-0":2469,
+        "fy+1":1425,
+        "diff":-1044
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":36,
+        "fy-1":0,
+        "fy-0":900,
+        "fy+1":900,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":18,
+        "fy-0":200,
+        "fy+1":200,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":1244,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":190982,
+        "fy-1":212106,
+        "fy-0":233615,
+        "fy+1":225519,
+        "diff":-8096
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Decrease the wage gap for women in Boston"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of businesses recruited for Boston's 100% Talent Compact",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"57",
+              "fy+1":"250"
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of employees in companies that are new signers to the compact",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"2,000",
+              "fy+1":"25,000"
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of participants in the workshops",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"3,001",
+              "fy+1":"5,000"
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of salary negotiation workshops",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"146",
+              "fy+1":"80"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---
