@@ -1,0 +1,171 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Mayor's Office",
+  "department":"Election Department",
+  "file_version":"",
+  "head_name":"Sabino Piemonte",
+  "head_title":"Manager",
+  "name":"Annual Listing",
+  "parent":"Election Department",
+  "section_id":99,
+  "section_md5_id":"AC627AB1CCBDB62EC96E702F07F6425B",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_year":"18",
+  "appropriation_code":"Organization 128100",
+  "description":[
+    "The Annual Listing is mandated by the Commonwealth to provide annually, a list of all residents 17 years of age and older to the Jury Commission. This list is compiled through an annual citywide census including residents of multiple dwelling units, nursi"
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":306868,
+      "fy-1":292580,
+      "fy-0":306551,
+      "fy+1":318462
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":234002,
+      "fy-1":214111,
+      "fy-0":204000,
+      "fy+1":216250
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":540870,
+      "fy-1":506691,
+      "fy-0":510551,
+      "fy+1":534712
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":306868,
+        "fy-1":292580,
+        "fy-0":306551,
+        "fy+1":318462,
+        "diff":11911
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":24292,
+        "fy-1":25761,
+        "fy-0":28000,
+        "fy+1":28000,
+        "diff":0
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":209710,
+        "fy-1":188350,
+        "fy-0":176000,
+        "fy+1":188250,
+        "diff":12250
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":540870,
+        "fy-1":506691,
+        "fy-0":510551,
+        "fy+1":534712,
+        "diff":24161
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Conduct an annual census of all residents age 17 and over. Annually submit a list to the State Jury Commissioner of residents who are eligible to be jurors"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% response census using online form",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"5%",
+              "fy+1":"10%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"% response to census mailing",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"25%",
+              "fy+1":"60%"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

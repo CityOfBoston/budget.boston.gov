@@ -1,0 +1,133 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Public Safety",
+  "department":"Police Department",
+  "file_version":"",
+  "head_name":"Frank A. Mancini",
+  "head_title":"Manager",
+  "name":"Bureau of Professional Standards",
+  "parent":"Police Department",
+  "section_id":175,
+  "section_md5_id":"82161242827B703E6ACF9C726942A1E4",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_year":"18",
+  "appropriation_code":"Organization 211600",
+  "description":[
+    "The Bureau of Professional Standards is responsible for the administrative investigation of all police misconduct, including violations of law, additionally completing background investigations on all new employees to the department, and internally auditi"
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":7843530,
+      "fy-1":8308440,
+      "fy-0":7388848,
+      "fy+1":7471009
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":157921,
+      "fy-1":156974,
+      "fy-0":115340,
+      "fy+1":115340
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":8001451,
+      "fy-1":8465414,
+      "fy-0":7504188,
+      "fy+1":7586349
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":7843530,
+        "fy-1":8308440,
+        "fy-0":7388848,
+        "fy+1":7471009,
+        "diff":82161
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":65405,
+        "fy-1":64694,
+        "fy-0":69610,
+        "fy+1":69610,
+        "diff":0
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":43000,
+        "fy-1":43200,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":49121,
+        "fy-1":49080,
+        "fy-0":40730,
+        "fy+1":40730,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":395,
+        "fy-1":0,
+        "fy-0":5000,
+        "fy+1":5000,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":8001451,
+        "fy-1":8465414,
+        "fy-0":7504188,
+        "fy+1":7586349,
+        "diff":82161
+      }
+    ]
+  }
+}
+---

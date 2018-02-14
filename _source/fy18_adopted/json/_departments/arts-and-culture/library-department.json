@@ -3,21 +3,21 @@
   "debug":"JBD",
   "publish_subordinates":true,
   "file_version":"",
-  "section_id":46,
-  "section_md5_id":"D9D4F495E875A2E075A1A4A6E1B9770F",
+  "section_id":3,
+  "section_md5_id":"ECCBC87E4B5CE2FE28308FD9F2A7BAF3",
   "section_type":"department",
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_year":"18",
   "name":"Library Department",
-  "parent":"Streets",
-  "cabinet":"Streets",
+  "parent":"Arts & Culture",
+  "cabinet":"Arts & Culture",
   "department":"Library Department",
   "head_name":"David Leonard",
   "head_title":"President",
   "appropriation_code":"Appropriation 110",
   "mission":[
-    "The mission of the Boston Transportation Department is to promote public safety, manage the City's transportation network, and enhance the quality of life for residents of our City neighborhoods. Accomplishment of our mission is ensured through the use of planning, coordinated engineering, education and enforcement. The Transportation Department strives to improve circulation in and around the City, enhance public transportation services, gain efficiencies in the management of parking resources, adjudicate and collect fines, collaborate with relevant agencies and encourage the use of alternate transportation modes."
+    "The Boston Public Library&rsquo;s mission is to preserve and provide access to the historical record of our society, and to serve the cultural, educational, and informational needs of the City and the Commonwealth."
   ],
   "operating_budget":{
     "table_type":"Operating Budget",
@@ -180,11 +180,13 @@
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
   "authorizing_statutes":[
-    "Establishing Boston Traffic Commission: Power and Duties, 1929 Mass. Acts ch. 263, &sect;&sect; 1-2, as amended; 1957 Mass. Acts ch. 253, &sect; 1, as amended.",
-    "Powers and Duties of Commissioner of Traffic and Parking, CBC St.7 &sect; 201.",
-    "Off-Street Parking, Parades, Loading Zones, CBC St.7 &sect;&sect; 206, 207, 214.",
-    "Violation of Parking Rules in the City of Boston, M.G.L.A. c. 90, &sect; 20A 1/2.",
-    "Abandoned Motor Vehicles, M.G.L.A. c. 90 &sect; 22C; 1988 Mass. Acts ch. 212."
+    "Power of City to Establish and Maintain a Library, 1848 Mass. Acts ch. 52, &sect;1.",
+    "Library Department: Trustees of the Public Library, Appointment, Compensation, etc., 1878 Mass. Acts ch. 114, &sect;3; 1994 Mass. Acts ch. 157, &sect;3.",
+    "Organization of Board; Powers and Duties, 1878 Mass. Acts ch. 114, &sect;4-5.",
+    "Librarian and Other Officers, 1878 Mass. Acts ch. 114, &sect;1-2, 6; 1943 Mass. Acts ch. 218; 1953 Mass. Acts ch. 167.",
+    "Reports to Mayor and City Council, 1887 Mass. Acts ch. 60.",
+    "Incorporation of the Trustees, Duties, 1878 Mass. Acts ch. 114 &sect;1.",
+    "Authority of Corporation to Take and Hold Property; Limitation, 1878 Mass. Acts ch. 114 &sect;2."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",
@@ -265,44 +267,48 @@
   },
   "external_funds":[
     {
-      "project":"Boston Bike Share",
+      "project":"Boston Public Library Affiliates",
       "project_mission":[
-        "Various funding sources will support the Boston Bike Share program, including grants from the Federal Transit Authority, sponsorship donations, funds from the Boston Public Health Commission&rsquo;s ARRA grant, the BARR Foundation and other state funding sources. The program began in FY12 and has 1,092 bicycles at publically accessible stations for member use."
+        "Represents funding received through the Library&rsquo;s fundraising partners, including the Boston Public Library Foundation, the Associates of the Boston Public Library, the Boston Public Library&rsquo;s City-wide Friends group, and Boston Public Library branch Friends&rsquo; groups."
       ]
     },
     {
-      "project":"Boston Mobility Action Plan",
+      "project":"InterLibrary Loan Grant",
       "project_mission":[
-        "The Mobility Plan will develop a long term vision to guide transportation policy and investments coupled with an action plan of projects. BARR funding supports a full time position for 2 years starting in FY15 to manage an ongoing capital program. The grant ends in Fy17."
+        "Interlibrary loan (ILL) is a service through which a user of one library can borrow materials or receive electronic copies of documents (usually journal or magazine articles) that are owned by another library. Massachusetts Library System contracts with the Boston Public Library to supply copies of documents electronically to all Massachusetts Library System members. These documents come either from the Boston Public Library&rsquo;s own collection or BPL&rsquo;s ILL staff will locate and request documents fromlibraries around the world. BPL is uniquely suited to provide documents to the state because of BPL&rsquo;s large and diverse collection that is second in size only to the Library of Congress."
       ]
     },
     {
-      "project":"Connect Historic Boston",
+      "project":"Library for the Commonwealth",
       "project_mission":[
-        "The National Park Service funded the creation of an intermodal design plan to connect visitors from regional transportation systems and existing bicycle and pedestrian paths to National Park sites and the Boston Harbor Islands. The design was completed in FY14."
+        "The Library for the Commonwealth (LFC) provides reference and research services for all residents of theCommonwealth of Massachusetts at the Boston Public Library through developing, maintaining, and preserving comprehensive collections to supplement library resources available throughout Massachusetts. The Massachusetts Board of Library Commissioners provides this appropriation for the BPL to support personnel, purchase materials, digitize content, and develop a digitial repository. The appropriation is calculated on a statewide per capita basis and distributed annually."
       ]
     },
     {
-      "project":"Parking Facilities Fund",
+      "project":"Other sources",
       "project_mission":[
-        "The City owns and operates several revenue producing parking lots. The resulting revenue from these lots goes into the fund to support their non-personnel operating expenses. This is an ongoing revolving account."
+        "Represents revenue from private events, royalties, commissions, pay for print, etc."
       ]
     },
     {
-      "project":"Traffic Management Center",
+      "project":"State Aid To Libraries",
       "project_mission":[
-        "The Traffic Management Center grant will provide new financial resources to expand operational coverage in order to fully utilize existing technology and help monitor and improve the flow of traffic through the City. Funding has been provided thru FY18 by the Federal Highway Administration and Massachusetts Executive Office of Transportation and Construction."
+        "The Library Incentive Grant/Municipal Equalization Grant is annual granted by the Commonwealth of Massachusetts Board of Library Commissioners to the Trustees of the Boston Public Library.The Library is required to meet certain minimum standards of free public service established by the Board to receive the grant. Four important measures are used to determine eligibility: the Municipal Appropriation Requirement (MAR), the percent of the total budget spent on library materials, the hours of operation, and the ability to lend books to other libraries in the Commonwealth."
+      ]
+    },
+    {
+      "project":"Trust funds and other donations",
+      "project_mission":[
+        "Represents gifts received from individuals, corporations, and other private donors. Donations made via trusts are held in accordance with the intention of the donor, and the principle is invested in securities that generate an annual income. This income is used to purchase library materials, support specific library positions, and enhance library programming."
       ]
     }
   ],
   "fy_major_initiatives":[
-    "Vision Zero will continue to deliver safety on Boston&rsquo;s streets. Programs include Priority Corridors and Safe Crossings.",
-    "Implement Neighborhood Slow Streets projects in Stonybrook (Jamaica Plain) and the Talbot Norfolk Triangle (Dorchester).",
-    "The reconstruction of Central Square in East Boston will be completed. This project will improve multimodal transportation flows as well as storm water runoff.",
-    "Design of the reconstruction of Melnea Cass Boulevard will continue.",
-    "\tNew traffic safety improvements are scheduled at Father Hart Bridge and Wolcott Square in Hyde Park.",
-    "Installation of new traffic signals at American Legion at Plaza Driveway, Newbury Street at Fairfield, Geneva Ave. at Olney, and Blue Hill Ave. at Castlegate Rd.",
-    "A multi-year effort begins that will renew all painted crosswalks, lane markings, and bike lanes."
+    "The design for a new Adams Branch Library will begin to address program and facility needs.",
+    "The design for a renovation project at the Central Library in Copley Square will begin, to enhance preservation of historic special collections of rare books and manuscripts.",
+    "The City will launch a new Upham&rsquo;s Corner Branch Library project.",
+    "Construction for a comprehensive building renovation will begin at the Dudley Branch Library.",
+    "Design work will begin on a renovation of the Roslindale Branch library."
   ]
 }
 ---

@@ -1,0 +1,133 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Streets",
+  "department":"Public Works Department",
+  "file_version":"",
+  "head_name":"Fouad Hamzeh",
+  "head_title":"Manager",
+  "name":"Building/Facility Maintenance",
+  "parent":"Public Works Department",
+  "section_id":10,
+  "section_md5_id":"D3D9446802A44259755D38E6D163E820",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_year":"18",
+  "appropriation_code":"Organization 311200",
+  "description":[
+    "The Building/Facility Maintenance Program ensures that Department personnel work in clean, properly maintained buildings.  The program is also charged with maintaining telephone communications at the Department's operations center."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":656633,
+      "fy-1":709392,
+      "fy-0":700639,
+      "fy+1":699849
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":2692509,
+      "fy-1":1577180,
+      "fy-0":2126197,
+      "fy+1":2079440
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":3349142,
+      "fy-1":2286572,
+      "fy-0":2826836,
+      "fy+1":2779289
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":656633,
+        "fy-1":709392,
+        "fy-0":700639,
+        "fy+1":699849,
+        "diff":-790
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":2556609,
+        "fy-1":1444920,
+        "fy-0":1999683,
+        "fy+1":1975124,
+        "diff":-24559
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":57843,
+        "fy-1":65283,
+        "fy-0":70520,
+        "fy+1":71090,
+        "diff":570
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":62219,
+        "fy-1":32157,
+        "fy-0":8970,
+        "fy+1":5570,
+        "diff":-3400
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":15838,
+        "fy-1":34820,
+        "fy-0":47024,
+        "fy+1":27656,
+        "diff":-19368
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":3349142,
+        "fy-1":2286572,
+        "fy-0":2826836,
+        "fy+1":2779289,
+        "diff":-47547
+      }
+    ]
+  }
+}
+---

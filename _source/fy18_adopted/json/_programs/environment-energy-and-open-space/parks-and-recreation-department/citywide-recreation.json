@@ -1,0 +1,133 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Environment, Energy & Open Space",
+  "department":"Parks & Recreation Department",
+  "file_version":"",
+  "head_name":"Michael Devlin",
+  "head_title":"Manager",
+  "name":"Citywide Recreation",
+  "parent":"Parks & Recreation Department",
+  "section_id":167,
+  "section_md5_id":"5878A7AB84FB43402106C575658472FA",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_year":"18",
+  "appropriation_code":"Organization 300300",
+  "description":[
+    "The Citywide Recreation Program offers youth athletic programs, clinics, and camps in neighborhood parks citywide, as well as local community centers in partnership with Boston Centers for Youth & Families. The program offers a variety of healthy activiti"
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":780632,
+      "fy-0":787592,
+      "fy+1":808973
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":209629,
+      "fy-0":230990,
+      "fy+1":224218
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":0,
+      "fy-1":990261,
+      "fy-0":1018582,
+      "fy+1":1033191
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":780632,
+        "fy-0":787592,
+        "fy+1":808973,
+        "diff":21381
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":67931,
+        "fy-0":85014,
+        "fy+1":38286,
+        "diff":-46728
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":27751,
+        "fy-0":17250,
+        "fy+1":57250,
+        "diff":40000
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":108958,
+        "fy-0":115416,
+        "fy+1":107081,
+        "diff":-8335
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":4989,
+        "fy-0":13310,
+        "fy+1":21601,
+        "diff":8291
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":0,
+        "fy-1":990261,
+        "fy-0":1018582,
+        "fy+1":1033191,
+        "diff":14609
+      }
+    ]
+  }
+}
+---

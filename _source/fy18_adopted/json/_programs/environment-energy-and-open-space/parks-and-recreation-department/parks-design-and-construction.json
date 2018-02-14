@@ -1,0 +1,163 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Environment, Energy & Open Space",
+  "department":"Parks & Recreation Department",
+  "file_version":"",
+  "head_name":"Robert  Rottenbucher, P.E.",
+  "head_title":"Manager",
+  "name":"Parks Design & Construction",
+  "parent":"Parks & Recreation Department",
+  "section_id":165,
+  "section_md5_id":"9766527F2B5D3E95D4A733FCFB77BD7E",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_year":"18",
+  "appropriation_code":"Organization 300400",
+  "description":[
+    "The Design & Construction Program works to develop and revitalize the full potential of Boston's physical park system by designing, contracting, and monitoring capital improvement projects.  The planning process analyzes active and passive park opportunit"
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":1046785,
+      "fy-1":1106956,
+      "fy-0":1222598,
+      "fy+1":1315491
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":767307,
+      "fy-1":4015369,
+      "fy-0":841052,
+      "fy+1":844790
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1814092,
+      "fy-1":5122325,
+      "fy-0":2063650,
+      "fy+1":2160281
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":1046785,
+        "fy-1":1106956,
+        "fy-0":1222598,
+        "fy+1":1315491,
+        "diff":92893
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":767307,
+        "fy-1":4015369,
+        "fy-0":840302,
+        "fy+1":843615,
+        "diff":3313
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":750,
+        "fy+1":750,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":425,
+        "diff":425
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":1814092,
+        "fy-1":5122325,
+        "fy-0":2063650,
+        "fy+1":2160281,
+        "diff":96631
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Efficiently managing public resources. Consistent with Mayor Walsh's Parks First agenda: Access, Equity and Excellence"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of capital allotment expended",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"90%",
+              "fy+1":"90%"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

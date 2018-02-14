@@ -1,0 +1,174 @@
+---
+{
+  "debug":"JBD",
+  "publish_subordinates":true,
+  "file_version":"",
+  "section_id":51,
+  "section_md5_id":"2838023A778DFAECDC212708F721B788",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Adopted",
+  "source_year":"18",
+  "name":"Finance Commission",
+  "parent":"Non-Mayoral Departments",
+  "cabinet":"Non-Mayoral Departments",
+  "department":"Finance Commission",
+  "head_name":"Matt Cahill",
+  "head_title":"Director",
+  "appropriation_code":"Appropriation 193",
+  "mission":[
+    "The mission of the Finance Commission is to investigate matters relating to appropriations, loans, expenditures, accounts and methods of administration affecting the City of Boston or Suffolk County, or any department thereof which the Commission determines requires investigation. The Commission reports its findings to the Mayor, the City Council, and the general public."
+  ],
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "name":"Finance Commission",
+        "line_type":"data",
+        "fy-2":"233,474",
+        "fy-1":"256,944",
+        "fy-0":"268,474",
+        "fy+1":"271,275",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":"233,474",
+        "fy-1":"256,944",
+        "fy-0":"268,474",
+        "fy+1":"271,275"
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":230906,
+      "fy-1":255258,
+      "fy-0":260774,
+      "fy+1":263575
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":2568,
+      "fy-1":1686,
+      "fy-0":7700,
+      "fy+1":7700
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":233474,
+      "fy-1":256944,
+      "fy-0":268474,
+      "fy+1":271275
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Finance Commission, 1908 Mass. Acts ch. 562; 1909 Mass. Acts ch. 486, &sect; 17.",
+    "Duties, 1909 Mass. Acts ch. 486, &sect; 18-19; 1948 Mass. Acts ch. 261.",
+    "Referrals to Finance Commission by the Mayor, Auditor, or Collector-Treasurer, 1909 Mass. Acts ch. 486, &sect; 18-19; 1948 Mass. Acts ch. 452, &sect;&sect; 49-50.",
+    "Expenses, 1965 Mass. Acts ch. 894.",
+    "Powers, Penalties, Perjury, Depositions, Protection Against Self-Incrimination, 1909 Mass. Acts ch. 486, &sect;&sect; 20-21, as amended.",
+    "Off-Street Parking Facilities, Eminent Domain, 1946 Mass. Acts ch. 474, &sect; 1a, as amended."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":230906,
+        "fy-1":255258,
+        "fy-0":260774,
+        "fy+1":263575,
+        "diff":2801
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":1383,
+        "fy-1":1650,
+        "fy-0":4750,
+        "fy+1":4750,
+        "diff":0
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":172,
+        "fy-1":36,
+        "fy-0":575,
+        "fy+1":575,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":77,
+        "fy-1":0,
+        "fy-0":250,
+        "fy+1":250,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":936,
+        "fy-1":0,
+        "fy-0":2125,
+        "fy+1":2125,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":233474,
+        "fy-1":256944,
+        "fy-0":268474,
+        "fy+1":271275,
+        "diff":2801
+      }
+    ]
+  }
+}
+---

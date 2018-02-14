@@ -1,0 +1,235 @@
+---
+{
+  "debug":"JBD",
+  "publish_subordinates":true,
+  "file_version":"",
+  "section_id":7,
+  "section_md5_id":"8F14E45FCEEA167A5A36DEDD4BEA2543",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Adopted",
+  "source_year":"18",
+  "name":"Consumer Affairs & Licensing",
+  "parent":"Economic Development",
+  "cabinet":"Economic Development",
+  "department":"Consumer Affairs & Licensing",
+  "head_name":"Christine Pulgini",
+  "head_title":"Director",
+  "appropriation_code":"Appropriation 114",
+  "mission":[
+    "The Consumer Affairs & Licensing Department contributes to the overall mission of improving the quality of life in the City of Boston by maintaining safety and order in the restaurant community through the licensing of entertainment activities and monitoring compliance with relevant laws. The office also educates and mediates on behalf of Boston area consumers in order to facilitate successful resolution of consumer related complaints. The Licensing Board grants and regulates various types of alcohol, food licenses and other licenses for restaurants, nightclubs, private clubs, liquor stores. The Licensing Board consists of 3 Commissioners appointed by the Mayor. Boston Police officers support the office and report violations of the alcoholic and other laws of the Commonwealth. The Licensing Board holds hearings on these violations and issues penalties."
+  ],
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "name":"Consumer Licensing",
+        "line_type":"data",
+        "fy-2":"375,410",
+        "fy-1":"292,666",
+        "fy-0":"362,462",
+        "fy+1":"362,493",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Consumer Affairs",
+        "line_type":"data",
+        "fy-2":"84,520",
+        "fy-1":"86,606",
+        "fy-0":"101,075",
+        "fy+1":"100,571",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Licensing Board",
+        "line_type":"data",
+        "fy-2":"0",
+        "fy-1":"0",
+        "fy-0":"713,490",
+        "fy+1":"653,664",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":"459,930",
+        "fy-1":"379,272",
+        "fy-0":"1,177,027",
+        "fy+1":"1,116,728"
+      }
+    ]
+  },
+  "external_funds_budget":{
+    "table_type":"External Funds",
+    "table_title":"External Funds Budget",
+    "table_header":{
+      "name":"Fund Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "name":"Local Consumer Aid Fund",
+        "line_type":"data",
+        "fy-2":"54,437",
+        "fy-1":"51,916",
+        "fy-0":"52,000",
+        "fy+1":"52,000",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":"54,437",
+        "fy-1":"51,916",
+        "fy-0":"52,000",
+        "fy+1":"52,000"
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":444221,
+      "fy-1":366428,
+      "fy-0":1124766,
+      "fy+1":1068185
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":15709,
+      "fy-1":12844,
+      "fy-0":52261,
+      "fy+1":48543
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":459930,
+      "fy-1":379272,
+      "fy-0":1177027,
+      "fy+1":1116728
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Enabling Legislation, CBC Ord. &sect;&sect; 15-5.1-15-5.2.",
+    "Dancing Halls, M.G.L.A. c. 136, &sect; 4.",
+    "Commonly Used Provisions, M.G.L.A. c.140, &sect;&sect; 177A, 181, 183A, 185H.",
+    "Theatrical Exhibitions and Public Amusements, CBC Ord. &sect;&sect; 17-13.1-17-13.5.",
+    "Consumer Protection, M.G.L.A. c.93A, &sect; 9.",
+    "2014 Mass. Acts ch. 287 ss. 71-75B, 84-85, 119,128,130-132 (Gives Mayor appointing authority) 2014 Mass. Acts ch. 287 ss. 71-75B, 84-85, 119,128,130-132 (Gives Mayor appointing authority).",
+    "2014 Mass. Acts ch. 312 ss. 1-2.",
+    "2015 Mass. Acts ch. 119 ss. 18-19,32-33.",
+    "M.G.L.A. c. 138 ss. 12,14,15,17,23,34,64 67.",
+    "M.G.L.A. c. 140 ss. 1-7,9-12,22-32,177, 185I."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":444221,
+        "fy-1":366428,
+        "fy-0":1124766,
+        "fy+1":1068185,
+        "diff":-56581
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":8043,
+        "fy-1":3949,
+        "fy-0":20800,
+        "fy+1":18480,
+        "diff":-2320
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":6831,
+        "fy-1":8386,
+        "fy-0":19925,
+        "fy+1":18550,
+        "diff":-1375
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":835,
+        "fy-1":509,
+        "fy-0":11536,
+        "fy+1":11513,
+        "diff":-23
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":459930,
+        "fy-1":379272,
+        "fy-0":1177027,
+        "fy+1":1116728,
+        "diff":-60299
+      }
+    ]
+  },
+  "external_funds":[
+    {
+      "project":"Local Consumer Aid Fund Grant",
+      "project_mission":[
+        "This grant from the Massachusetts Attorney General&rsquo;s Office is issued annually to the Mayor&rsquo;s Office of Consumer Affairs and Licensing for mediation and resolution of consumer complaints for residents of the City of Boston."
+      ]
+    }
+  ]
+}
+---

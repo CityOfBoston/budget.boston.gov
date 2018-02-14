@@ -1,0 +1,207 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Public Safety",
+  "department":"Police Department",
+  "file_version":"",
+  "head_name":"William Ridge",
+  "head_title":"Manager",
+  "name":"Bureau of Field Services",
+  "parent":"Police Department",
+  "section_id":174,
+  "section_md5_id":"BF8229696F7A3BB4700CFDDEF19FA23F",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_year":"18",
+  "appropriation_code":"Organization 211500",
+  "description":[
+    "The Bureau of Field Services has primary responsibility for the delivery of police services throughout the City of Boston.  The program includes all personnel assigned to the eleven police districts, Special Operations Division, Field Support Division, Sp"
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":181051127,
+      "fy-1":183693275,
+      "fy-0":205610165,
+      "fy+1":213090455
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":1968491,
+      "fy-1":1979377,
+      "fy-0":2641797,
+      "fy+1":2699235
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":183019618,
+      "fy-1":185672652,
+      "fy-0":208251962,
+      "fy+1":215789690
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":181051127,
+        "fy-1":183693275,
+        "fy-0":205610165,
+        "fy+1":213090455,
+        "diff":7480290
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":195073,
+        "fy-1":217274,
+        "fy-0":255505,
+        "fy+1":272399,
+        "diff":16894
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":1670990,
+        "fy-1":1633674,
+        "fy-0":2217272,
+        "fy+1":2257536,
+        "diff":40264
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":4083,
+        "fy-1":4890,
+        "fy-0":3900,
+        "fy+1":4400,
+        "diff":500
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":98345,
+        "fy-1":123539,
+        "fy-0":165120,
+        "fy+1":164900,
+        "diff":-220
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":183019618,
+        "fy-1":185672652,
+        "fy-0":208251962,
+        "fy+1":215789690,
+        "diff":7537728
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Engage with the community"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Code 19 Total Walk and Talk Patrols",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"125,825",
+              "fy+1":"120,000"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Code 19S Total Walk and Talk Patrols - Schools",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"2,857",
+              "fy+1":"2,750"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Prevent and reduce crime and violence"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Guns taken off street",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"788",
+              "fy+1":""
+            },
+            {
+              "line_type":"data",
+              "line_data":"Pedestrian accident fatalities",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"14",
+              "fy+1":""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

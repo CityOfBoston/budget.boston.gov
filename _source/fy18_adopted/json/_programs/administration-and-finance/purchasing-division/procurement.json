@@ -1,0 +1,275 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Administration & Finance",
+  "department":"Purchasing Division",
+  "file_version":"",
+  "head_name":"Gerard Bonaceto, Kevin Coyne",
+  "head_title":"Managers",
+  "name":"Procurement",
+  "parent":"Purchasing Division",
+  "section_id":18,
+  "section_md5_id":"6F4922F45568161A8CDF4AD2299F6D23",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_year":"18",
+  "appropriation_code":"Organization 143200",
+  "description":[
+    "The Procurement Program procures goods and materials for use by City departments. This program selects vendors through the public bid process, and initiates purchase orders and contracts consistent with appropriateness of cost, quality, delivery requireme"
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":990675,
+      "fy-1":1082696,
+      "fy-0":949295,
+      "fy+1":888321
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":45458,
+      "fy-1":27320,
+      "fy-0":11057,
+      "fy+1":12057
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1036133,
+      "fy-1":1110016,
+      "fy-0":960352,
+      "fy+1":900378
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":990675,
+        "fy-1":1082696,
+        "fy-0":949295,
+        "fy+1":888321,
+        "diff":-60974
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":10621,
+        "fy-1":9956,
+        "fy-0":7257,
+        "fy+1":7257,
+        "diff":0
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":5919,
+        "fy-1":3851,
+        "fy-0":3000,
+        "fy+1":4000,
+        "diff":1000
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":132,
+        "fy-1":1713,
+        "fy-0":800,
+        "fy+1":800,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":28786,
+        "fy-1":11800,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":1036133,
+        "fy-1":1110016,
+        "fy-0":960352,
+        "fy+1":900378,
+        "diff":-59974
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "The Procurement Office in the City of Boston uses a 100% electronic format. Creating a contract should be a seamless and relatively quick process. This is achieved by continiously monitoring and reviewing this process"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Time to create contract (days)",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":"45"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To display the percentage of savings the departments are able to achieve from request to the time of order"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Requisition to Purchase Order savings in percents",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":"3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To measure the amount of time that it takes to produce a purchase order (should be less than seven days). There are certain cases where there is need to be publically bid, and it will be longer"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Requisition to Purchase Order timeline (days)",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":"7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To simplify conducting business with the City of Boston. To provide an exceptional expierence and a superior level of customer service for all vendors. To supply support to vendors at all stages of procurement"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Supplier Portal Vendor support requests",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":"300"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Verifying and validating department requests that are being bid using sound business practices, to ensure the best product at the appropriate cost is purchased"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Requisition to Purchase Order savings in dollars",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":"30,000"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---
