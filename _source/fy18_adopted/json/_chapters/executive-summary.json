@@ -2,12 +2,12 @@
 {
   "section":"EXECUTIVE SUMMARY",
   "name":"EXECUTIVE SUMMARY",
+  "permalink":"/",
   "file_version":"",
   "section_type":"section",
   "section_type_short":"S",
   "source_version":"Adopted",
   "source_year":"18",
-  "permalink": "/",
   "components":[
     {
       "intro":[
@@ -87,7 +87,7 @@
     {
       "spanning_image":[
         {
-          "src":"spanningimage.jpg",
+          "src":"/img/spanningimage.jpg",
           "alt":Null,
           "title":"Extending the school day",
           "desc":"Working to close achievement and opportunity gaps ",
