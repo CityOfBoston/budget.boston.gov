@@ -63,7 +63,7 @@ source_is_found=false
 # Loop through names in sources array.
 for element in $available_sources; do
   # Check if any of the names match the current git tag.
-	if [[ $element == $config_source && $element != "" ]]; then
+	if [[ $element == $config_fy_source && $element != "" ]]; then
 	  echo "Config source $config_fy_source was found in _source."
     source_is_found=true
 		break
