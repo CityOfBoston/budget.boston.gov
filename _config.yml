@@ -90,6 +90,14 @@ defaults:
     values:
       layout: "chapters"
 
+mini_magick:
+  thumbnail:
+    source: img
+    destination: img/cards
+    resize: "385x160^"
+    gravity: "center"
+    extent: "385x160"
+
 test:
   post:
     - rake test
