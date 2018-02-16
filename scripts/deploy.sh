@@ -78,12 +78,18 @@ if ( $source_is_found ); then
   # For https://budget.digital-staging.boston.gov
   if [[ "${TRAVIS_BRANCH}" = "develop" ]];
     then
+      echo "Deleting everything currently on staging bucket."
+      pip install --upgrade --user awscli
+      aws s3 rm s3://budget-digital-staging-boston-gov --recursive --region $AWS_DEFAULT_REGION 
       echo "Building with --staging flag."
       gulp clean_project
       gulp build --staging --source $config_fy_source
   # for https://budget.boston.gov
   elif [[ "${TRAVIS_BRANCH}" = "master" ]];
     then
+      #echo "Deleting everything currently on production bucket."
+      #pip install --upgrade --user awscli
+      #aws s3 rm s3://budget-boston-gov --recursive --region $AWS_DEFAULT_REGION 
       echo "Building without environment flags."
       gulp clean_project
       gulp build --source $config_fy_source
