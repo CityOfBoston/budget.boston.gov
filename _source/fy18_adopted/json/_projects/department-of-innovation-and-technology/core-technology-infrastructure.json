@@ -1,0 +1,119 @@
+---
+{
+  "category":"Technology",
+  "category_desc":"Initiatives to make Boston&rsquo;s infrastructure and services dynamic and responsive to residents' needs in real-time.",
+  "department":"Department of Innovation and Technology",
+  "file_version":"",
+  "location":"Citywide",
+  "managing_department":"DoIT",
+  "mission":"Install hardware platforms to run applications supporting City business. Scope includes data center consolidation, server virtualization, business interruption planning, enterprise storage, network management, VoIP deployment, and information security.",
+  "name":"Core Technology Infrastructure",
+  "operating_impact":"No",
+  "section_id":"CMS24556",
+  "section_type":"projects",
+  "section_type_short":"R",
+  "source_version":"Adopted",
+  "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_projects~department-of-innovation-and-technology~core-technology-infrastructure.json",
+  "source_time":"20180216140627",
+  "source_year":"18",
+  "status":"Annual Program",
+  "expenditures_detail":{
+    "table_title":"Expenditures (Actual and Planned)",
+    "table_header":{
+      "line_type":"header",
+      "line_title":null,
+      "line_data_type":"string",
+      "source":"Source",
+      "past_spending":"Through 6/30/16",
+      "fy-1":"FY17 Budget",
+      "fy-0":"FY18 Budget",
+      "fy+1-4":"FY19-22 Budget",
+      "total":"Total"
+    },
+    "data":[
+      {
+        "line_type":"data",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"City Capital",
+        "past_spending":0,
+        "fy-1":1000000,
+        "fy-0":1050000,
+        "fy+1-4":7650000,
+        "total":9700000
+      },
+      {
+        "line_type":"data",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"Grants/Other",
+        "past_spending":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1-4":0,
+        "total":0
+      },
+      {
+        "line_type":"total",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"Totals",
+        "past_spending":0,
+        "fy-1":1000000,
+        "fy-0":1050000,
+        "fy+1-4":7650000,
+        "total":9700000
+      }
+    ],
+    "authorizations_table":{
+      "table_title":"Authorizations",
+      "table_header":{
+        "line_type":"header",
+        "line_title":null,
+        "line_data_type":"string",
+        "source":"Source",
+        "existing":"Existing",
+        "fy-0":"FY18",
+        "fy-0++":"Future",
+        "other":"Non Capital Fund",
+        "total":"Total"
+      },
+      "data":[
+        {
+          "line_type":"data",
+          "line_title":null,
+          "line_data_type":"number",
+          "source":"City Capital",
+          "existing":4150000,
+          "fy-0":5550000,
+          "fy-0++":0,
+          "other":0,
+          "total":9700000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "line_data_type":"number",
+          "source":"Grants/Other",
+          "existing":0,
+          "fy-0":0,
+          "fy-0++":0,
+          "other":0,
+          "total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Totals",
+          "line_data_type":"number",
+          "source":"Totals",
+          "existing":4150000,
+          "fy-0":5550000,
+          "fy-0++":0,
+          "other":0,
+          "total":9700000
+        }
+      ]
+    }
+  }
+}
+---

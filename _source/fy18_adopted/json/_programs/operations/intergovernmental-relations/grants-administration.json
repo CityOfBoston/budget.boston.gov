@@ -1,0 +1,135 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Operations",
+  "department":"Intergovernmental Relations",
+  "file_version":"",
+  "head_name":"Inez Foster",
+  "head_title":"Manager",
+  "name":"Grants Administration",
+  "parent":"Intergovernmental Relations",
+  "section_id":127,
+  "section_md5_id":"EC5DECCA5ED3D6B8079E2E7E7BACC9F2",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~igr.json",
+  "source_time":"20180216140645",
+  "source_year":"18",
+  "appropriation_code":"Organization 150200",
+  "description":[
+    "The IGR office provides City departments with professional assistance in resource development.  As a champion for the City, the Office will prioritize and maximize coordinated and collaborative grant application resources to address the Mayor&rsquo;s strategic "
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":91721,
+      "fy-1":98044,
+      "fy-0":97764,
+      "fy+1":99264
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":175,
+      "fy-1":300,
+      "fy-0":800,
+      "fy+1":330
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":91896,
+      "fy-1":98344,
+      "fy-0":98564,
+      "fy+1":99594
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":91721,
+        "fy-1":98044,
+        "fy-0":97764,
+        "fy+1":99264,
+        "diff":1500
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":175,
+        "fy-1":300,
+        "fy-0":470,
+        "fy+1":0,
+        "diff":-470
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":330,
+        "fy+1":330,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":91896,
+        "fy-1":98344,
+        "fy-0":98564,
+        "fy+1":99594,
+        "diff":1030
+      }
+    ]
+  }
+}
+---

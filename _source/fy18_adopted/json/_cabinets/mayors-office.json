@@ -1,0 +1,158 @@
+---
+{
+  "debug":"JCB",
+  "cabinet":"Mayor's Office",
+  "department":null,
+  "file_version":"",
+  "head_name":Null,
+  "head_title":Null,
+  "name":"Mayor's Office",
+  "parent":"root",
+  "section_id":3,
+  "section_md5_id":"ECCBC87E4B5CE2FE28308FD9F2A7BAF3",
+  "section_type":"cabinet",
+  "section_type_short":"C",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~mayors-office.json",
+  "source_time":"20180216140629",
+  "source_year":"18",
+  "mission":[
+    "The agencies reporting to the Mayor's Office represent the Mayor and the City in legal matters, public relations, and elections. The Mayor's vision for the future of the City is reflected in the policies and directions carried forward by the staff of these offices."
+  ],
+  "overview":[
+    "The overall FY18 budget for the Mayor&rsquo;s Office Cabinet is essentially unchanged from FY17. The cabinet is made up of the Mayor&rsquo;s Office, the Election Department, the Law Department, and the Office of Women&rsquo;s Advancement.",
+    "The Mayor&rsquo;s Office is increasing 2.9% in FY18 due to investments in the Diversity Office, the Mayor&rsquo;s Office of New Urban Mechanics, and Education Office. Additional resources for the Diversity Office will fund a proactive recruitment campaign that includes a series of job fairs and an enhanced matching tool for potential applicants and postings. The budget for the Diversity Office will also support an internal employee development program to help employees achieve an undergraduate degree tuition-free, by partnering with local universities.",
+    "The Election Department budget will decrease 1.9% in FY18. This decrease includes reductions related to early voting requirements, applicable in FY17 but not FY18, and some additional costs in FY18 related to municipal elections."
+  ],
+  "operating_department":{
+    "table_type":"operating_department",
+    "table_title":"Operating Budget",
+    "Program Name":"Department",
+    "line_type":"title",
+    "fy-2":"FY15 Actual",
+    "fy-1":"FY16 Actual",
+    "fy-0":"FY17 Budget",
+    "fy+1":"FY18 Budget",
+    "data":[
+      {
+        "department":"Mayor's Office",
+        "line_type":"data",
+        "fy-2":"12,502,495",
+        "fy-1":"16,168,550",
+        "fy-0":"20,211,405",
+        "fy+1":"20,799,700"
+      },
+      {
+        "department":"Election Department",
+        "line_type":"data",
+        "fy-2":"8,916,462",
+        "fy-1":"10,311,009",
+        "fy-0":"11,966,924",
+        "fy+1":"11,668,321"
+      },
+      {
+        "department":"Law Department",
+        "line_type":"data",
+        "fy-2":"23,970,248",
+        "fy-1":"23,011,116",
+        "fy-0":"23,489,776",
+        "fy+1":"26,054,172"
+      },
+      {
+        "department":"Public Information",
+        "line_type":"data",
+        "fy-2":"2,380,496",
+        "fy-1":"0",
+        "fy-0":"0",
+        "fy+1":"0"
+      },
+      {
+        "department":"Women's Advancement",
+        "line_type":"data",
+        "fy-2":"190,982",
+        "fy-1":"212,106",
+        "fy-0":"233,615",
+        "fy+1":"225,519"
+      },
+      {
+        "total":"Total",
+        "line_type":"total",
+        "fy-2":"47,960,683",
+        "fy-1":"49,702,781",
+        "fy-0":"55,901,720",
+        "fy+1":"58,747,712"
+      }
+    ],
+    "capital_budget_expenditures":[
+      {
+        "table_type":"capital_budget_expenditures",
+        "table_title":"Capital Budget Expenditures",
+        "table_header":{
+          "title":"Capital Budget Expenditures",
+          "line_type":"header",
+          "fy-2":"FY15 Actual",
+          "fy-1":"FY16 Actual",
+          "fy-0":"FY17 Estimated",
+          "fy+1":"FY18 Projected"
+        },
+        "data":[
+          {
+            "title":"Mayor's Office",
+            "line_type":"data",
+            "fy-2":"0",
+            "fy-1":"0",
+            "fy-0":"100,000",
+            "fy+1":"100,000"
+          },
+          {
+            "title":"Total",
+            "line_type":"total",
+            "fy-2":"0",
+            "fy-1":"0",
+            "fy-0":"100,000",
+            "fy+1":"100,000"
+          }
+        ]
+      }
+    ]
+  },
+  "external_funds_tables":{
+    "table_type":"external_funds",
+    "table_title":"external_funds",
+    "table_header":{
+      "title":"Department",
+      "line_type":"header",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "title":"Law Department",
+        "line_type":"data",
+        "fy-2":"0",
+        "fy-1":"108,056",
+        "fy-0":"2,000,000",
+        "fy+1":"2,000,000"
+      },
+      {
+        "title":"Mayor's Office",
+        "line_type":"data",
+        "fy-2":"479,790",
+        "fy-1":"3,000,360",
+        "fy-0":"4,635,680",
+        "fy+1":"5,501,990"
+      },
+      {
+        "total":"Total Cabinet",
+        "line_type":"total",
+        "fy-2":"479,790",
+        "fy-1":"3,108,416",
+        "fy-0":"6,635,680",
+        "fy+1":"7,501,990"
+      }
+    ]
+  }
+}
+---

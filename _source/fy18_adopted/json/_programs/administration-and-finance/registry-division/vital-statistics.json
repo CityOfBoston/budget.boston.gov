@@ -1,0 +1,249 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Administration & Finance",
+  "department":"Registry Division",
+  "file_version":"",
+  "head_name":"Vacant",
+  "head_title":"Manager",
+  "name":"Vital Statistics",
+  "parent":"Registry Division",
+  "section_id":21,
+  "section_md5_id":"3C59DC048E8850243BE8079A5C74D079",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~administration.json",
+  "source_time":"20180216140528",
+  "source_year":"18",
+  "appropriation_code":"Organization 163200",
+  "description":[
+    "The Vital Statistics Program registers new records and issues certified copies of birth, marriage, and death records. This program also files marriage intentions and issues marriage licenses. The program also responds to requests for information from fede"
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":600589,
+      "fy-1":587423,
+      "fy-0":633140,
+      "fy+1":600763
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":35322,
+      "fy-1":37410,
+      "fy-0":40095,
+      "fy+1":47670
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":635911,
+      "fy-1":624833,
+      "fy-0":673235,
+      "fy+1":648433
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":600589,
+        "fy-1":587423,
+        "fy-0":633140,
+        "fy+1":600763,
+        "diff":-32377
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":11916,
+        "fy-1":18972,
+        "fy-0":27745,
+        "fy+1":31745,
+        "diff":4000
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":12626,
+        "fy-1":14832,
+        "fy-0":12150,
+        "fy+1":11750,
+        "diff":-400
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":200,
+        "fy+1":225,
+        "diff":25
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":10780,
+        "fy-1":3606,
+        "fy-0":0,
+        "fy+1":3950,
+        "diff":3950
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":635911,
+        "fy-1":624833,
+        "fy-0":673235,
+        "fy+1":648433,
+        "diff":-24802
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Online Death requests"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Death Certificate requests by mail",
+              "fy-2":"18,224",
+              "fy-1":"15,816",
+              "fy-0":"16,792",
+              "fy+1":"16,000"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Death Certificates requests at counter",
+              "fy-2":"24,708",
+              "fy-1":"20,760",
+              "fy-0":"18,946",
+              "fy+1":"21,000"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Deaths registered",
+              "fy-2":"7,438",
+              "fy-1":"7,383",
+              "fy-0":"7,526",
+              "fy+1":"7,400"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Register new records and issue certified copies"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Birth Certificate requests at counter",
+              "fy-2":"31,135",
+              "fy-1":"33,422",
+              "fy-0":"32,706",
+              "fy+1":"31,700"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Birth Certificate requests by mail",
+              "fy-2":"15,755",
+              "fy-1":"14,973",
+              "fy-0":"14,250",
+              "fy+1":"15,525"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Birth Records registered from Hospitals",
+              "fy-2":"18,230",
+              "fy-1":"20,968",
+              "fy-0":"20,089",
+              "fy+1":"20,200"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Marriage Certificate requests at counter",
+              "fy-2":"8,258",
+              "fy-1":"9,350",
+              "fy-0":"10,216",
+              "fy+1":"9,000"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Marriage Certificate requests by mail",
+              "fy-2":"3,080",
+              "fy-1":"3,188",
+              "fy-0":"3,150",
+              "fy+1":"3,000"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Marriage Intentions Filed Electronically",
+              "fy-2":"5,040",
+              "fy-1":"5,562",
+              "fy-0":"6,053",
+              "fy+1":"5,900"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

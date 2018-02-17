@@ -1,0 +1,46 @@
+---
+{
+  "title":"Recruiting a Diverse Police Force",
+  "layout":"bos_content",
+  "permalink":"/featured-analysis/recruiting-a-diverse-police-force/",
+  "section_type":"section",
+  "section_type_short":"S",
+  "source_version":"Adopted",
+  "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~recruiting-a-diverse-police-force.json",
+  "source_time":"20180216135339",
+  "source_year":"18",
+  "card":[
+    {
+      "category":"Budget Priorities",
+      "order":8,
+      "title":"Recruiting a Diverse Police Force",
+      "body":"Boston will add 20 police cadets for a pipeline of diverse young people",
+      "img":"/img/cards/recruiting-a-diverse-police-force.jpg",
+      "link":"link"
+    }
+  ],
+  "components":[
+    {
+      "text_block":[
+        {
+          "title":"Recruiting a Diverse Police Force",
+          "body":[
+            "In November of 2016, Mayor Walsh and Police Commissioner Evans swore in the first class of police cadets since 2009, a training program for Boston's youth seeking a career in law enforcement. Building on the success of recruiting a diverse class of 42, which included 74% cadets of color and 36% female cadets, Mayor Walsh&rsquo;s FY18 budget adds another class, for a total of about 60 cadets.",
+            "This addition of 20 cadets provides a stable pipeline of diverse young people for future police officer classes. Once cadets have served for two years (and pass other requirements), they are eligible to join the next police recruit class. Up to 30% of a given recruit class can be made up of cadets, thus providing a route for local young people to join the force. The current class of cadets will be eligible to join the recruit classes of FY19 and FY20, while the FY18 cadet class of 20 will be eligible to join the recruit class of FY21. "
+          ]
+        }
+      ]
+    },
+    {
+      "grid":[
+        {
+          "grid_title":"More Budget Priorities"
+        },
+        {
+          "card":"/featured-analysis/equity-diversity-and-mobility/"
+        }
+      ]
+    }
+  ]
+}
+---

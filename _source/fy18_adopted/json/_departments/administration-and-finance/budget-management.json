@@ -1,0 +1,212 @@
+---
+{
+  "debug":"JBD",
+  "publish_subordinates":true,
+  "file_version":"",
+  "section_id":91,
+  "section_md5_id":"54229ABFCFA5649E7003B83DD4755294",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Adopted",
+  "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_departments~Administration & Finance~budget-management.json",
+  "source_time":"20180216140519",
+  "source_year":"18",
+  "name":"Budget Management",
+  "parent":"Administration & Finance",
+  "cabinet":"Administration & Finance",
+  "department":"Budget Management",
+  "head_name":"Katie Hammer",
+  "head_title":"Director",
+  "appropriation_code":"Appropriation 141",
+  "mission":[
+    "The Office of Budget Management (OBM) promotes the high quality delivery of services to Boston&rsquo;s residents in a cost effective way. OBM evaluates City programs and then uses analysis to build, present, and manage the Mayor's operating budget. OBM also creates the capital plan. The capital plan is a strategic document that shows how the City's investment in its infrastructure, such as bridges and roads, contributes to Boston's future. The City also uses the plan to make smart spending decisions and protect its assets."
+  ],
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "name":"Budget Administration",
+        "line_type":"data",
+        "fy-2":"1,170,876",
+        "fy-1":"1,327,635",
+        "fy-0":"1,516,020",
+        "fy+1":"1,001,218",
+        "publish_subordinates":true
+      },
+      {
+        "name":Null,
+        "line_type":"data",
+        "fy-2":"531,594",
+        "fy-1":"551,482",
+        "fy-0":"810,690",
+        "fy+1":"842,389",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Revenue Monitoring",
+        "line_type":"data",
+        "fy-2":"225,956",
+        "fy-1":"193,686",
+        "fy-0":"193,368",
+        "fy+1":"866,648",
+        "publish_subordinates":true
+      },
+      {
+        "name":Null,
+        "line_type":"data",
+        "fy-2":"483,707",
+        "fy-1":"473,233",
+        "fy-0":"490,356",
+        "fy+1":"503,146",
+        "publish_subordinates":true
+      },
+      {
+        "name":Null,
+        "line_type":"data",
+        "fy-2":"172,924",
+        "fy-1":"176,751",
+        "fy-0":"189,542",
+        "fy+1":"191,357",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":"2,585,057",
+        "fy-1":"2,722,787",
+        "fy-0":"3,199,976",
+        "fy+1":"3,404,758"
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":2075679,
+      "fy-1":2162003,
+      "fy-0":2284345,
+      "fy+1":2320888
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":509378,
+      "fy-1":560784,
+      "fy-0":915631,
+      "fy+1":1083870
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":2585057,
+      "fy-1":2722787,
+      "fy-0":3199976,
+      "fy+1":3404758
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Annual Appropriation Process, Tregor, 1982 Mass. Acts ch. 190 &sect; 15; 1986 Mass. Acts ch. 701, &sect; 2.",
+    "Reserve Fund, 1986 Mass. Acts ch. 701, &sect;7.",
+    "Budget Allotment Process and Reallocations, Tregor, 1982 Mass. Acts ch. 190 &sect; 18; 1986 Mass. Acts ch. 701, &sect; 8-9.",
+    "Duties of Supervisor of Budgets, CBC Ord. &sect; 5-1.5.",
+    "Transfer of Appropriations, Tregor, 1982 Mass. Acts ch. 190 &sect; 23; 1986 Mass. Acts ch. 701, &sect; 3.",
+    "Penalty for Overspending Budget, Tregor, 1982 Mass. Acts ch. 190, &sect; 17."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":2075679,
+        "fy-1":2162003,
+        "fy-0":2284345,
+        "fy+1":2320888,
+        "diff":36543
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":355918,
+        "fy-1":400431,
+        "fy-0":707256,
+        "fy+1":958095,
+        "diff":250839
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":3047,
+        "fy-1":2925,
+        "fy-0":5600,
+        "fy+1":5600,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":150413,
+        "fy-1":152898,
+        "fy-0":202775,
+        "fy+1":117775,
+        "diff":-85000
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":4530,
+        "fy-0":0,
+        "fy+1":2400,
+        "diff":2400
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":2585057,
+        "fy-1":2722787,
+        "fy-0":3199976,
+        "fy+1":3404758,
+        "diff":204782
+      }
+    ]
+  }
+}
+---

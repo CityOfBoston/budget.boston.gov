@@ -1,0 +1,237 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Information & Technology",
+  "department":"Department of Innovation & Technology",
+  "file_version":"",
+  "head_name":"Joseph Zeinoun",
+  "head_title":"Manager",
+  "name":"Enterprise Applications",
+  "parent":"Department of Innovation & Technology",
+  "section_id":87,
+  "section_md5_id":"C7E1249FFC03EB9DED908C236BD1996D",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~policy-planning-and-innovation.json",
+  "source_time":"20180216140628",
+  "source_year":"18",
+  "appropriation_code":"Organization 149200",
+  "description":[
+    "This program provides an integrated technology culture to select and develop information technologies that enable and support critical citywide, crosscutting agency business processes. Enterprise programs include Geographic Information Systems (GIS), Ente"
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":5140936,
+      "fy-1":5353022,
+      "fy-0":5386790,
+      "fy+1":4947965
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":8510499,
+      "fy-1":7715136,
+      "fy-0":4978400,
+      "fy+1":4399400
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":13651435,
+      "fy-1":13068158,
+      "fy-0":10365190,
+      "fy+1":9347365
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":5140936,
+        "fy-1":5353022,
+        "fy-0":5386790,
+        "fy+1":4947965,
+        "diff":-438825
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":4014962,
+        "fy-1":5128052,
+        "fy-0":1751400,
+        "fy+1":1649400,
+        "diff":-102000
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":34590,
+        "fy-1":367,
+        "fy-0":2000,
+        "fy+1":0,
+        "diff":-2000
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":3984430,
+        "fy-1":2579255,
+        "fy-0":3220000,
+        "fy+1":2750000,
+        "diff":-470000
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":476517,
+        "fy-1":7462,
+        "fy-0":5000,
+        "fy+1":0,
+        "diff":-5000
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":13651435,
+        "fy-1":13068158,
+        "fy-0":10365190,
+        "fy+1":9347365,
+        "diff":-1017825
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Improving constituent satisfaction with government services"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"BAIS - iCIMS applicant experience (out of 5)",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":"5"
+            },
+            {
+              "line_type":"data",
+              "line_data":"- customer satisfaction with reporting process (out of 5)",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":"5"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Customer Satisfaction with online permitting experience (out of 5)",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":"5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Modernization of paper based processes to digital formats"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"- % of total requests received over digital channels",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":"100"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Modernizing our IT infrastructure"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of applications hosted in the cloud",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":"75%"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

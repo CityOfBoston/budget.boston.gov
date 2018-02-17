@@ -1,0 +1,53 @@
+---
+{
+  "title":"Special Education",
+  "layout":"bos_content",
+  "permalink":"/featured-analysis/special-education/",
+  "section_type":"section",
+  "section_type_short":"S",
+  "source_version":"Adopted",
+  "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~special-education.json",
+  "source_time":"20180216135403",
+  "source_year":"18",
+  "card":[
+    {
+      "category":"Education",
+      "order":8,
+      "title":"Special Education",
+      "body":"Learn how much of the FY18 BPS budgeted is dedicated to special education.",
+      "img":"/img/cards/special-education.jpg",
+      "link":"link"
+    }
+  ],
+  "components":[
+    {
+      "text_block":[
+        {
+          "body":[
+            "Special Education",
+            "The special education budget totals $267.6 million in FY18, an increase of $8.5 million or 3.3% from FY17 levels. The special education budget accounts for approximately 22% of the total BPS budget and supports the almost 12,000 students with disabilities, or 20% of the BPS population. ",
+            "In FY18, the District will continue implementation of a special education data management system.  This data system will allow BPS to better manage and monitor Individualized Education Programs (IEPs) and ensure students are getting the services they need.",
+            "In addition to mainstream or substantially separate placements in the District, BPS is responsible for the educational services of approximately 498 students in out-of-district placements. BPS has seen an increase in the number of high need students and DCF involved students placed in group homes who require private placement. BPS is fully or partly responsible for paying for services for most of these students at an average cost of $84,000 per year in FY16. Tuition rates are established by the Commonwealth of Massachusetts Rate Setting Commission."
+          ]
+        }
+      ]
+    },
+    {
+      "grid":[
+        {
+          "grid_title":"More Education"
+        },
+        {
+          "card":"/featured-analysis/bps-enrollment/"
+        },
+        {
+          "card":"/featured-analysis/bps-operating-budget/"
+        },
+        {
+          "card":"/featured-analysis/early-childhood-education/"
+        }
+      ]
+    }
+  ]
+}
+---

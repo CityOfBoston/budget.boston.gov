@@ -1,0 +1,135 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Mayor's Office",
+  "department":"Mayor's Office",
+  "file_version":"",
+  "head_name":"Joyce Linehan",
+  "head_title":"Director",
+  "name":"Mayor's Policy & Planning",
+  "parent":"Mayor's Office",
+  "section_id":141,
+  "section_md5_id":"0F28B5D49B3020AFEECD95B4009ADF4C",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~mayors-executive.json",
+  "source_time":"20180216140631",
+  "source_year":"18",
+  "appropriation_code":"Organization 111300",
+  "description":[
+    "The Policy and Planning Program supports the Mayor in setting priorities in conjunction with Cabinet officers and line departments. In addition, the Policy and Planning Program is responsible for the overall implementation of the Mayor&rsquo;s initiatives."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":477957,
+      "fy-1":956922,
+      "fy-0":1305711,
+      "fy+1":1225055
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":2282,
+      "fy-0":169000,
+      "fy+1":214000
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":477957,
+      "fy-1":959204,
+      "fy-0":1474711,
+      "fy+1":1439055
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":477957,
+        "fy-1":956922,
+        "fy-0":1305711,
+        "fy+1":1225055,
+        "diff":-80656
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":290,
+        "fy-0":145500,
+        "fy+1":190500,
+        "diff":45000
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":6500,
+        "fy+1":6500,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":17000,
+        "fy+1":17000,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":1992,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":477957,
+        "fy-1":959204,
+        "fy-0":1474711,
+        "fy+1":1439055,
+        "diff":-35656
+      }
+    ]
+  }
+}
+---

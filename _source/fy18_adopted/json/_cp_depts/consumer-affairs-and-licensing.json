@@ -1,0 +1,50 @@
+---
+{
+  "cabinet":"Economic Development",
+  "debug":"JBDCP",
+  "department":"Consumer Affairs & Licensing",
+  "file_version":"",
+  "head_name":"Christine Pulgini",
+  "head_title":"Director",
+  "name":"Consumer Affairs & Licensing",
+  "parent":"Economic Development",
+  "section_id":7,
+  "section_md5_id":"8F14E45FCEEA167A5A36DEDD4BEA2543",
+  "section_type":"capital_budget",
+  "section_type_short":"L",
+  "source_version":"Adopted",
+  "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_cp_depts~consumer-affairs-and-licensing.json",
+  "source_time":"20180216140547",
+  "source_year":"18",
+  "mission":[
+    "The Consumer Affairs & Licensing Department contributes to the overall mission of improving the quality of life in the City of Boston by maintaining safety and order in the restaurant community through the licensing of entertainment activities and monitoring compliance with relevant laws. The office also educates and mediates on behalf of Boston area consumers in order to facilitate successful resolution of consumer related complaints. The Licensing Board grants and regulates various types of alcohol, food licenses and other licenses for restaurants, nightclubs, private clubs, liquor stores. The Licensing Board consists of 3 Commissioners appointed by the Mayor. Boston Police officers support the office and report violations of the alcoholic and other laws of the Commonwealth. The Licensing Board holds hearings on these violations and issues penalties."
+  ],
+  "description_of_services":[
+    "The Consumer Affairs and Licensing Department is responsible for licensing and regulating all forms of entertainment, alcohol and food within Boston. The Office processes new applications and renewals, inspects premises, and holds hearings on licensing requests and violations. The Office also educates and mediates on behalf of Boston area consumers."
+  ],
+  "capital_budget_expenditures":[
+    {
+      "table_type":"capital_budget_expenditures",
+      "table_title":"Capital Budget Expenditures",
+      "table_header":{
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "fy-2":"FY15 Actual",
+        "fy-1":"FY16 Actual",
+        "fy-0":"FY17 Estimated",
+        "fy+1":"FY18 Projected"
+      },
+      "data":{
+        "line_type":"total",
+        "line_title":"Total Department",
+        "line_data_type":"total",
+        "fy-2":"2,312,129",
+        "fy-1":"1,569,354",
+        "fy-0":"5,823,576",
+        "fy+1":"1,500,000"
+      }
+    }
+  ]
+}
+---

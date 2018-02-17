@@ -1,0 +1,50 @@
+---
+{
+  "cabinet":"Mayor's Office",
+  "debug":"JBDCP",
+  "department":"Election Department",
+  "file_version":"",
+  "head_name":"Dion Irish",
+  "head_title":"Commissioner",
+  "name":"Election Department",
+  "parent":"Mayor's Office",
+  "section_id":8,
+  "section_md5_id":"C9F0F895FB98AB9159F51FD0297E236D",
+  "section_type":"capital_budget",
+  "section_type_short":"L",
+  "source_version":"Adopted",
+  "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_cp_depts~election-department.json",
+  "source_time":"20180216140632",
+  "source_year":"18",
+  "mission":[
+    "The mission of the Election Department is to ensure that all municipal, state and federal elections conducted within the City of Boston are properly managed in accordance with City, state and federal laws. The Department also seeks to ensure that all eligible citizens are registered to vote and that a comprehensive juror list is provided to the State Jury Commissioner."
+  ],
+  "description_of_services":[
+    "The Election Department provides for voter registration, maintenance of election equipment, arrangement for and operation of polling places, certification of nomination papers and referendum petitions, tabulations and certification of election results, operation of a public service counter in Boston City Hall, and mailings to residents on voter registration and Election Day activities. The Department also conducts a census of Boston residents ages 17 years and older."
+  ],
+  "capital_budget_expenditures":[
+    {
+      "table_type":"capital_budget_expenditures",
+      "table_title":"Capital Budget Expenditures",
+      "table_header":{
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "fy-2":"FY15 Actual",
+        "fy-1":"FY16 Actual",
+        "fy-0":"FY17 Estimated",
+        "fy+1":"FY18 Projected"
+      },
+      "data":{
+        "line_type":"total",
+        "line_title":"Total Department",
+        "line_data_type":"total",
+        "fy-2":"0",
+        "fy-1":"0",
+        "fy-0":"100,000",
+        "fy+1":"100,000"
+      }
+    }
+  ]
+}
+---

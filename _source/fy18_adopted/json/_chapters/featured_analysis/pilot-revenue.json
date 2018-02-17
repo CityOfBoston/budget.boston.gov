@@ -1,0 +1,38 @@
+---
+{
+  "title":"PILOT Revenue",
+  "layout":"bos_content",
+  "permalink":"/featured-analysis/pilot-revenue/",
+  "section_type":"section",
+  "section_type_short":"S",
+  "source_version":"Adopted",
+  "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~pilot-revenue.json",
+  "source_time":"20180216135525",
+  "source_year":"18",
+  "card":[
+    {
+      "category":"Revenue",
+      "order":15,
+      "title":"PILOT Revenue",
+      "body":"Payments in Lieu of Taxes (PILOTs) are made by property tax-exempt institutions located in the City.",
+      "img":"/img/cards/pilot-revenue.jpg",
+      "link":"link"
+    }
+  ],
+  "components":[
+    {
+      "text_block":[
+        {
+          "title":"Payments in Lieu of Taxes",
+          "body":[
+            "Payments in Lieu of Taxes (PILOTs) are payments made by property tax-exempt institutions located in the City, including hospitals, universities, and cultural institutions. These are voluntary contributions for municipal services such as police and fire protection, street cleaning, and snow removal. ",
+            "Growth in PILOT revenue comes from new agreements, escalations that adjust the payments for inflation, and re-negotiation or expansion of current agreements. The Massachusetts Port Authority (MassPort) currently provides over 40% of the PILOT revenue the City receives annually. ",
+            "In April 2010, a Mayoral appointed task force released a report suggesting more standardization of PILOT agreements. Specifically, each agreement should represent, in cash or in-kind, 25% of the amount of tax that would be due if properties were not tax exempt. This type of change would generate more revenue than what is currently collected while providing some equity across paying institutions. New agreements under this framework were adopted in FY12 and that year includes the first installment of a five-year phase-in period to the new amounts. FY17 is the first year after that phase-in period.",
+            "Payments in lieu of taxes totaled $49.4 million in FY15 and $51.2 million in FY16. The City expects this revenue source to exceed the $44.5 million budgeted for FY17 and estimates $45.0 million in FY18."
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

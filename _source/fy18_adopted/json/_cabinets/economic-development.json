@@ -1,0 +1,160 @@
+---
+{
+  "debug":"JCB",
+  "cabinet":"Economic Development",
+  "department":null,
+  "file_version":"",
+  "head_name":"John Barros",
+  "head_title":"Chief of Economic Development",
+  "name":"Economic Development",
+  "parent":"root",
+  "section_id":8,
+  "section_md5_id":"C9F0F895FB98AB9159F51FD0297E236D",
+  "section_type":"cabinet",
+  "section_type_short":"C",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~economic-development.json",
+  "source_time":"20180216140544",
+  "source_year":"18",
+  "mission":[
+    "The mission of the Economic Development Cabinet is to lead a broad effort to streamline and support areas of focus that contribute to Boston&rsquo;s economy including tourism, jobs and employment, business development, and real estate development. The cabinet will concern itself with increasing transparency and promoting accessibility for all Bostonians, especially women- and minority-owned businesses and local businesses, to share in and benefit from the economic boom in Boston."
+  ],
+  "overview":[
+    "The Economic Development Cabinet includes the Office of Economic Development, Consumer Affairs & Licensing, and the Office of Tourism. Overall, the Cabinet will see a 2.4% decrease in FY18 compared to its FY17 appropriation, largely based on ongoing efficiencies at Consumer Affairs and Licensing following the absorption of the Licensing Board in FY17, and the elimination of long-term vacant positions in the cabinet.",
+    "With the transfer of the Neighborhood Business Services Program to the Office of Economic Development in FY17, the Office of Economic Development&rsquo;s budget has remained stable, with a 0.5% increase in its FY18 appropriation over FY17. ",
+    "The Office of Economic Development continues to focus on increasing accessibility for all Bostonians to share in and benefit from the economic expansion in Boston. As a result, in FY17, the City updated an ordinance to increase the percentage of Bostonians, residents of color, and women working in the construction industry. In an effort to extend Boston&rsquo;s reach and presence in the international community, the Office of Economic Development has created an international partnerships position that will work closely with the Tourism Office to forge, foster and maintain Boston&rsquo;s relationships with international cities.",
+    "In an effort to streamline government and ensure the most efficient delivery of services, two departments with similar missions the Consumer Affairs and Licensing Department and the Licensing Board were consolidated into a single department in FY17. Savings from this consolidation led to a 5.1% reduction for the department&rsquo;s budget.",
+    "The Office of Tourism&rsquo;s operating budget will decrease in FY18 by 5.3% with the transfer of resources to the Office of Economic Development to create the new international partnerships position."
+  ],
+  "operating_department":{
+    "table_type":"operating_department",
+    "table_title":"Operating Budget",
+    "Program Name":"Department",
+    "line_type":"title",
+    "fy-2":"FY15 Actual",
+    "fy-1":"FY16 Actual",
+    "fy-0":"FY17 Budget",
+    "fy+1":"FY18 Budget",
+    "data":[
+      {
+        "department":"Consumer Affairs & Licensing",
+        "line_type":"data",
+        "fy-2":"1,379,790",
+        "fy-1":"1,137,816",
+        "fy-0":"3,531,081",
+        "fy+1":"3,350,184"
+      },
+      {
+        "department":"Licensing Board",
+        "line_type":"data",
+        "fy-2":"704,753",
+        "fy-1":"637,735",
+        "fy-0":"0",
+        "fy+1":"0"
+      },
+      {
+        "department":"Office of Economic Development",
+        "line_type":"data",
+        "fy-2":"4,658,082",
+        "fy-1":"4,679,343",
+        "fy-0":"7,381,839",
+        "fy+1":"7,420,176"
+      },
+      {
+        "department":"Office of Tourism",
+        "line_type":"data",
+        "fy-2":"4,046,236",
+        "fy-1":"4,371,796",
+        "fy-0":"5,598,836",
+        "fy+1":"5,304,648"
+      },
+      {
+        "total":"Total",
+        "line_type":"total",
+        "fy-2":"10,788,861",
+        "fy-1":"10,826,690",
+        "fy-0":"16,511,756",
+        "fy+1":"16,075,008"
+      }
+    ],
+    "capital_budget_expenditures":[
+      {
+        "table_type":"capital_budget_expenditures",
+        "table_title":"Capital Budget Expenditures",
+        "table_header":{
+          "title":"Capital Budget Expenditures",
+          "line_type":"header",
+          "fy-2":"FY15 Actual",
+          "fy-1":"FY16 Actual",
+          "fy-0":"FY17 Estimated",
+          "fy+1":"FY18 Projected"
+        },
+        "data":[
+          {
+            "title":"Boston Planning and Development Agency",
+            "line_type":"data",
+            "fy-2":"2,312,129",
+            "fy-1":"1,569,354",
+            "fy-0":"5,823,576",
+            "fy+1":"1,500,000"
+          },
+          {
+            "title":"Total",
+            "line_type":"total",
+            "fy-2":"2,312,129",
+            "fy-1":"1,569,354",
+            "fy-0":"5,823,576",
+            "fy+1":"1,500,000"
+          }
+        ]
+      }
+    ]
+  },
+  "external_funds_tables":{
+    "table_type":"external_funds",
+    "table_title":"external_funds",
+    "table_header":{
+      "title":"Department",
+      "line_type":"header",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "title":"Consumer Affairs & Licensing",
+        "line_type":"data",
+        "fy-2":"163,311",
+        "fy-1":"155,748",
+        "fy-0":"156,000",
+        "fy+1":"156,000"
+      },
+      {
+        "title":"Office of Economic Development",
+        "line_type":"data",
+        "fy-2":"0",
+        "fy-1":"9,093",
+        "fy-0":"14,728,089",
+        "fy+1":"13,303,419"
+      },
+      {
+        "title":"Office of Tourism",
+        "line_type":"data",
+        "fy-2":"351,072",
+        "fy-1":"437,760",
+        "fy-0":"240,000",
+        "fy+1":"240,000"
+      },
+      {
+        "total":"Total Cabinet",
+        "line_type":"total",
+        "fy-2":"514,383",
+        "fy-1":"602,601",
+        "fy-0":"15,124,089",
+        "fy+1":"13,699,419"
+      }
+    ]
+  }
+}
+---

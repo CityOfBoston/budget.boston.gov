@@ -1,0 +1,181 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Civic Engagement",
+  "department":"Neighborhood Services",
+  "file_version":"",
+  "head_name":"Jacob Wessel",
+  "head_title":"Manager",
+  "name":"City Hall to Go",
+  "parent":"Neighborhood Services",
+  "section_id":151,
+  "section_md5_id":"A8F15EDA80C50ADB0E71943ADC8015CF",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~neighborhood-serv.json",
+  "source_time":"20180216140543",
+  "source_year":"18",
+  "appropriation_code":"Organization 412300",
+  "description":[
+    "The first of its kind in the nation, City Hall to Go visits every neighborhood in Boston to provide city services. The vehicle is available five days a week, including on nights and weekends. The program director creates a monthly schedule of visits and c"
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":120661,
+      "fy-0":174673,
+      "fy+1":161529
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":8201,
+      "fy-0":16757,
+      "fy+1":14400
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":0,
+      "fy-1":128862,
+      "fy-0":191430,
+      "fy+1":175929
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":120661,
+        "fy-0":174673,
+        "fy+1":161529,
+        "diff":-13144
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":6892,
+        "fy-0":10900,
+        "fy+1":10900,
+        "diff":0
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":775,
+        "fy-0":3500,
+        "fy+1":3500,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":534,
+        "fy-0":2357,
+        "fy+1":0,
+        "diff":-2357
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":0,
+        "fy-1":128862,
+        "fy-0":191430,
+        "fy+1":175929,
+        "diff":-15501
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Increase public access to city services"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Average attendance in Open Houses organized by ONS",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"550",
+              "fy+1":"1,200"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Average usage of City Hall to Go",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"362",
+              "fy+1":"3,000"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Open Houses organized by ONS",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"4",
+              "fy+1":"6"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---
