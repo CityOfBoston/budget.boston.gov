@@ -79,13 +79,11 @@ if ( $source_is_found ); then
   if [[ "${TRAVIS_BRANCH}" = "develop" ]];
     then
       echo "Building with --staging flag."
-      gulp clean_project
       gulp build --staging --source $config_fy_source
   # for https://budget.boston.gov
   elif [[ "${TRAVIS_BRANCH}" = "master" ]];
     then
       echo "Building without environment flags."
-      gulp clean_project
       gulp build --source $config_fy_source
   else
     echo "Not develop or master branches, skipping site build."

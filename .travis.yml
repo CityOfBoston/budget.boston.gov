@@ -30,8 +30,8 @@ deploy:
     region: $AWS_DEFAULT_REGION
     on:
       branch: master
-#before_deploy:
-#- bash ./scripts/clear_s3.sh
+before_deploy:
+- bash ./scripts/clear_s3.sh
 after_deploy:
 - bash ./scripts/invalidate_cache.sh
 notifications:
