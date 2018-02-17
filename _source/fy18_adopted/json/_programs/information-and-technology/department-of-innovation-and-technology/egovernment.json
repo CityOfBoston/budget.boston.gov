@@ -1,0 +1,205 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Information & Technology",
+  "department":"Department of Innovation & Technology",
+  "file_version":"",
+  "head_name":"Lauren Lockwood",
+  "head_title":"Manager",
+  "name":"Digital Engagement & Services",
+  "parent":"Department of Innovation & Technology",
+  "section_id":88,
+  "section_md5_id":"2A38A4A9316C49E5A833517C45D31070",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~enterprise-applications.json",
+  "source_time":"20180216140628",
+  "source_year":"18",
+  "appropriation_code":"Organization 149300",
+  "description":[
+    "This program provides constituents access to government from home \"online instead of in line\" through innovative web based eGovernment technologies. It also oversees the City&rsquo;s cable franchise(s) by enforcing contractual and regulatory obligations for the"
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":615924,
+      "fy-1":777029,
+      "fy-0":792129,
+      "fy+1":631951
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":423543,
+      "fy-1":129406,
+      "fy-0":740000,
+      "fy+1":700000
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1039467,
+      "fy-1":906435,
+      "fy-0":1532129,
+      "fy+1":1331951
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":615924,
+        "fy-1":777029,
+        "fy-0":792129,
+        "fy+1":631951,
+        "diff":-160178
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":6629,
+        "fy-1":1295,
+        "fy-0":325000,
+        "fy+1":500000,
+        "diff":175000
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":3153,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":409975,
+        "fy-1":128111,
+        "fy-0":415000,
+        "fy+1":200000,
+        "diff":-215000
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":3786,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":1039467,
+        "fy-1":906435,
+        "fy-0":1532129,
+        "fy+1":1331951,
+        "diff":-200178
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Improving how the City interacts with constituents"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of pages on Boston.gov with level AA accessibility errors",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":""
+            },
+            {
+              "line_type":"data",
+              "line_data":"% of services and transactions with a \"class 1\" digital experience",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":"100%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"% of transactions done digitally where a digital option is available",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":"100%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"boston.gov average reading level",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":"8"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Customer Satisfaction of boston.gov",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":"100"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Response time on constituent feedback",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":"80"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

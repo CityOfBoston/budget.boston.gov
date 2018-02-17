@@ -1,0 +1,119 @@
+---
+{
+  "category":"Arts & Culture",
+  "category_desc":"Initiatives to support a thriving, diverse arts and culture ecosystem throughout the city.",
+  "department":"Boston Public Library",
+  "file_version":"",
+  "location":"Allston/Brighton",
+  "managing_department":"Public Facilities Department",
+  "mission":"Library branch improvements consistent with the BPL's Compass Principles and based on the completed programming study which calls for improved accessibility, interior renovations and refurbishment, as well as, a building addition.",
+  "name":"Faneuil Branch Library",
+  "operating_impact":"No",
+  "section_id":"CLD22668",
+  "section_type":"projects",
+  "section_type_short":"R",
+  "source_version":"Adopted",
+  "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_projects~boston-public-library~faneuil-branch-library.json",
+  "source_time":"20180216140537",
+  "source_year":"18",
+  "status":"To Be Scheduled",
+  "expenditures_detail":{
+    "table_title":"Expenditures (Actual and Planned)",
+    "table_header":{
+      "line_type":"header",
+      "line_title":null,
+      "line_data_type":"string",
+      "source":"Source",
+      "past_spending":"Through 6/30/16",
+      "fy-1":"FY17 Budget",
+      "fy-0":"FY18 Budget",
+      "fy+1-4":"FY19-22 Budget",
+      "total":"Total"
+    },
+    "data":[
+      {
+        "line_type":"data",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"City Capital",
+        "past_spending":8373,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1-4":12616627,
+        "total":12625000
+      },
+      {
+        "line_type":"data",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"Grants/Other",
+        "past_spending":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1-4":0,
+        "total":0
+      },
+      {
+        "line_type":"total",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"Totals",
+        "past_spending":8373,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1-4":12616627,
+        "total":12625000
+      }
+    ],
+    "authorizations_table":{
+      "table_title":"Authorizations",
+      "table_header":{
+        "line_type":"header",
+        "line_title":null,
+        "line_data_type":"string",
+        "source":"Source",
+        "existing":"Existing",
+        "fy-0":"FY18",
+        "fy-0++":"Future",
+        "other":"Non Capital Fund",
+        "total":"Total"
+      },
+      "data":[
+        {
+          "line_type":"data",
+          "line_title":null,
+          "line_data_type":"number",
+          "source":"City Capital",
+          "existing":358650,
+          "fy-0":0,
+          "fy-0++":12266350,
+          "other":0,
+          "total":12625000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "line_data_type":"number",
+          "source":"Grants/Other",
+          "existing":0,
+          "fy-0":0,
+          "fy-0++":0,
+          "other":0,
+          "total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Totals",
+          "line_data_type":"number",
+          "source":"Totals",
+          "existing":358650,
+          "fy-0":0,
+          "fy-0++":12266350,
+          "other":0,
+          "total":12625000
+        }
+      ]
+    }
+  }
+}
+---

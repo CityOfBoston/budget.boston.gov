@@ -1,0 +1,56 @@
+---
+{
+  "title":"Accessible and Equitable Parks",
+  "layout":"bos_content",
+  "permalink":"/featured-analysis/accessible-and-equitable-parks/",
+  "section_type":"section",
+  "section_type_short":"S",
+  "source_version":"Adopted",
+  "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~accessible-and-equitable-parks.json",
+  "source_time":"20180216135343",
+  "source_year":"18",
+  "card":[
+    {
+      "category":"Budget Priorities",
+      "order":12,
+      "title":"Accessible and Equitable Parks",
+      "body":"The City is investing in Boston neighborhood parks",
+      "img":"/img/cards/accessible-and-equitable-parks.jpg",
+      "link":"link"
+    }
+  ],
+  "components":[
+    {
+      "text_block":[
+        {
+          "title":"Ensuring Accessible and Equitable Parks",
+          "body":[
+            "Last year, Mayor Walsh announced Parks First, a comprehensive initiative ensuring that Boston&rsquo;s open spaces are among the nation&rsquo;s most accessible and equitable. In FY18, Boston will continue its commitment to achieving these goals through investments in excellence in design and management. To date, the Walsh Administration has increased the Parks Department&rsquo;s operating funding by $4.1 million or 23% and dedicated over $240 million in capital funds to Boston&rsquo;s parks.",
+            "The reconstruction of pathways at Franklin Park will continue this year and be completed by fall 2018. Mayor Walsh will extend his commitment to usage and safety of the Emerald Necklace with a $4.8 million pathway improvement around Jamaica Pond. From the annual lantern parade, to the thousands of children who learn boating, to the endless parade of walkers and joggers enjoying the 1.5 mile loop for recreation, Jamaica Pond is a singular urban park experience. Across town, a renovation of Paul Revere Mall in the North End will ensure that this historic park is a welcoming and inviting place for residents and visitors. The Paul Revere monument, along the Freedom Trail, is one of the most photographed sculptures in Boston. This renovation will include restoration of the fountain and monument, accessible pathways, landscaping, and utility work.",
+            "Ninety-seven percent of Bostonians live within a ten-minute walk of a park, but those spaces are only truly equitable if they serve the diverse needs of all our residents. Mayor Walsh recognizes the need for inclusive design and has created robust budgets for park renovation projects at Martin&rsquo;s Park in the Seaport, Smith Playground in Allston, and McConnell and Garvey Parks in Dorchester. FY18 will bring the beginning of the renovation of the 45-acre Harambee Park. The investment will include environmental improvements, pedestrian pathways, field renovations and entrance improvements transforming Harambee into a premier example of community-led comprehensive planning.",
+            "Boston has routinely invested in its street trees. FY18 will see a renewed commitment with new funds allocated for the care of our park trees. Often Boston&rsquo;s largest and most mature, these trees are also our most active in urban cooling, CO2 capture, promoting air and water quality and fighting topsoil erosion. This investment is critical to Climate Ready Boston.",
+            "Starting in FY18, Boston will invest in a rotation of small renovations to neighborhood ball fields to keep them safe and playable. Between major renovations, problems such as holes in batters&rsquo; boxes and unlevel fields can build up due to consistent usage. This investment will allow the Parks Department to aerate, edge, top dress, seed, and level ballfields every 5-7 years on a rotating basis. ",
+            "This new investment builds on the Mayor&rsquo;s commitment to excellent parks. During his administration, he has improved park maintenance and safety and expanded the Parks Department&rsquo;s recycling program. This year, Boston will continue to expand recycling into three signature parks, providing Bostonians with an opportunity to act as stewards of their environment and complement the city&rsquo;s Climate Ready Boston. Mayor Walsh also returned the Recreation Division to the Parks Department. With that change the Parks Department has increased its free programming from 187 events to 820 in three years. Nearly all of these events are focused on engaging youth in Boston&rsquo;s open spaces."
+          ]
+        }
+      ]
+    },
+    {
+      "grid":[
+        {
+          "grid_title":"More Budget Priorities"
+        },
+        {
+          "card":"/featured-analysis/imagine-boston-open-space/"
+        },
+        {
+          "card":"/featured-analysis/preparing-for-climate-change/"
+        },
+        {
+          "card":"/featured-analysis/equity-diversity-and-mobility/"
+        }
+      ]
+    }
+  ]
+}
+---

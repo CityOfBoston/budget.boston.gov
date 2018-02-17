@@ -1,0 +1,119 @@
+---
+{
+  "category":"Transportation",
+  "category_desc":"Initiatives to support an accessible multimodal transportation system that gets Bostonians where they need to go reliably and safely.",
+  "department":"Public Works Department",
+  "file_version":"",
+  "location":"Charlestown",
+  "managing_department":"Public Works Department",
+  "mission":"Design and construction of a new bridge that will replace the existing structure. State and federal construction funds anticipated.",
+  "name":"North Washington Street Bridge",
+  "operating_impact":"No",
+  "section_id":"CPW22494",
+  "section_type":"projects",
+  "section_type_short":"R",
+  "source_version":"Adopted",
+  "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_projects~public-works-department~north-washington-street-bridge.json",
+  "source_time":"20180216140707",
+  "source_year":"18",
+  "status":"In Design",
+  "expenditures_detail":{
+    "table_title":"Expenditures (Actual and Planned)",
+    "table_header":{
+      "line_type":"header",
+      "line_title":null,
+      "line_data_type":"string",
+      "source":"Source",
+      "past_spending":"Through 6/30/16",
+      "fy-1":"FY17 Budget",
+      "fy-0":"FY18 Budget",
+      "fy+1-4":"FY19-22 Budget",
+      "total":"Total"
+    },
+    "data":[
+      {
+        "line_type":"data",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"City Capital",
+        "past_spending":1126203,
+        "fy-1":3017514,
+        "fy-0":0,
+        "fy+1-4":256283,
+        "total":4400000
+      },
+      {
+        "line_type":"data",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"Grants/Other",
+        "past_spending":1498448,
+        "fy-1":2101153,
+        "fy-0":2000000,
+        "fy+1-4":22920399,
+        "total":163520000
+      },
+      {
+        "line_type":"total",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"Totals",
+        "past_spending":2624651,
+        "fy-1":5118667,
+        "fy-0":2000000,
+        "fy+1-4":23176682,
+        "total":32920000
+      }
+    ],
+    "authorizations_table":{
+      "table_title":"Authorizations",
+      "table_header":{
+        "line_type":"header",
+        "line_title":null,
+        "line_data_type":"string",
+        "source":"Source",
+        "existing":"Existing",
+        "fy-0":"FY18",
+        "fy-0++":"Future",
+        "other":"Non Capital Fund",
+        "total":"Total"
+      },
+      "data":[
+        {
+          "line_type":"data",
+          "line_title":null,
+          "line_data_type":"number",
+          "source":"City Capital",
+          "existing":4400000,
+          "fy-0":0,
+          "fy-0++":0,
+          "other":0,
+          "total":4400000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "line_data_type":"number",
+          "source":"Grants/Other",
+          "existing":5520000,
+          "fy-0":17000000,
+          "fy-0++":6000000,
+          "other":135000000,
+          "total":163520000
+        },
+        {
+          "line_type":"total",
+          "line_title":"Totals",
+          "line_data_type":"number",
+          "source":"Totals",
+          "existing":9920000,
+          "fy-0":17000000,
+          "fy-0++":6000000,
+          "other":135000000,
+          "total":167920000
+        }
+      ]
+    }
+  }
+}
+---

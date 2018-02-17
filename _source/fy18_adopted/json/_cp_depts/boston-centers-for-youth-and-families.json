@@ -1,0 +1,284 @@
+---
+{
+  "cabinet":"Health & Human Services",
+  "debug":"JBDCP",
+  "department":"Boston Centers for Youth and Families",
+  "file_version":"",
+  "head_name":"William Morales",
+  "head_title":"Interim Director",
+  "name":"Boston Centers for Youth and Families",
+  "parent":"Health & Human Services",
+  "section_id":84,
+  "section_md5_id":"68D30A9594728BC39AA24BE94B319D21",
+  "section_type":"capital_budget",
+  "section_type_short":"L",
+  "source_version":"Adopted",
+  "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_cp_depts~boston-centers-for-youth-and-families.json",
+  "source_time":"20180216140611",
+  "source_year":"18",
+  "mission":[
+    "The mission of Boston Centers for Youth & Families (BCYF) is to enhance the quality of life for Boston residents by partnering with community center councils, agencies and businesses to support children, youth, individuals and families. BCYF accomplishes its mission through a wide range of comprehensive programs and services according to neighborhood needs."
+  ],
+  "description_of_services":[
+    "Boston Centers for Youth & Families (BCYF) provides accessible programs, services and resources for Boston residents of all ages through its facilities, pools and one beach. BCYF community centers offer programming for all ages that includes childcare, after-school, computer instruction, preschool, youth leadership and skill development programs, adult education, senior programs, Camp Joy, sports, fitness and recreation and the Streetworker program. BCYF collaborates with other City departments and community partners, including community center local site councils, to enhance the provision of service and leverage additional resources to better serve Boston&rsquo;s children, youth and families."
+  ],
+  "overview":[
+    "The City&rsquo;s Capital Plan for BCYF targets an increase to programming capacity at the City&rsquo;s community centers and supports high-quality facilities. Community centers provide families, children and teens with enriching programs such as after school care, athletics, job and computer training."
+  ],
+  "fy_major_initiatives":[
+    "Construction will be completed for major interior renovations at the BCYF Paris Street Community Center.",
+    "Design will begin for a major renovation project at BCYF Curley Community Center.",
+    "Design will begin for an interior renovation at BCYF Mattahunt Community Center.",
+    "Renovations will begin at the BCYF Gallivan Community Center to introduce air conditioning to the gymnasium, replace the roof and gym floor, and upgrade the fire alarm and emergency lighting systems.",
+    "Design will continue at BCYF Paris Street Pool to enhance interior conditions and the facility&rsquo;s connection with nearby outdoor spaces.",
+    "Renovations will begin at the BCYF Vine Street Community Center, including athletic facility improvements and upgrades to interior systems.",
+    "Youth budgeting will continue for the fifth year, with young people across the City deciding how to spend $1 million in FY18 capital funds."
+  ],
+  "capital_budget_expenditures":[
+    {
+      "table_type":"capital_budget_expenditures",
+      "table_title":"Capital Budget Expenditures",
+      "table_header":{
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "fy-2":"FY15 Actual",
+        "fy-1":"FY16 Actual",
+        "fy-0":"FY17 Estimated",
+        "fy+1":"FY18 Projected"
+      },
+      "data":{
+        "line_type":"total",
+        "line_title":"Total Department",
+        "line_data_type":"total",
+        "fy-2":"10,985,399",
+        "fy-1":"15,844,506",
+        "fy-0":"9,375,000",
+        "fy+1":"11,499,363"
+      }
+    }
+  ],
+  "projects":[
+    {
+      "table_type":"capital_projects_by_category",
+      "table_title":"Capital Projects by Category",
+      "header":{
+        "debug":"JBDCPDP",
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "category":"Category",
+        "name":"Project",
+        "location":"Location",
+        "status":"Status",
+        "fy-0":"FY18 Projected",
+        "project_title":"Total"
+      },
+      "projects_data":[
+        {
+          "Government Effectiveness":[
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Government Effectiveness",
+              "name":"BCYF Mattahunt Community Center Exterior Lighting",
+              "location":"Mattapan",
+              "section_id":"CCC24552",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":475000,
+              "project_total":500000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Government Effectiveness",
+              "name":"Youth Budget Round 1",
+              "location":"Citywide",
+              "section_id":"CCC23894",
+              "status":"Implementation Underway",
+              "operating_impact":"No",
+              "fy-0":0,
+              "project_total":1000000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Government Effectiveness",
+              "name":"Youth Budget Round 2",
+              "location":"Citywide",
+              "section_id":"CCC24310",
+              "status":"Implementation Underway",
+              "operating_impact":"No",
+              "fy-0":400000,
+              "project_total":1000000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Government Effectiveness",
+              "name":"Youth Budget Round 3",
+              "location":"Citywide",
+              "section_id":"CCC24311",
+              "status":"Implementation Underway",
+              "operating_impact":"No",
+              "fy-0":300000,
+              "project_total":1000000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Government Effectiveness",
+              "name":"Youth Budget Round 4",
+              "location":"Citywide",
+              "section_id":"CCC24535",
+              "status":"Implementation Underway",
+              "operating_impact":"No",
+              "fy-0":0,
+              "project_total":1000000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Government Effectiveness",
+              "name":"Youth Budget Round 5",
+              "location":"Citywide",
+              "section_id":"CCC24658",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":0,
+              "project_total":1000000
+            }
+          ]
+        },
+        {
+          "Health":[
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Health",
+              "name":"BCYF Clougherty Pool",
+              "location":"Charlestown",
+              "section_id":"CCC23608",
+              "status":"To Be Scheduled",
+              "operating_impact":"No",
+              "fy-0":0,
+              "project_total":2700000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Health",
+              "name":"BCYF Curley Community Center",
+              "location":"South Boston",
+              "section_id":"CCC24592",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":150000,
+              "project_total":15000000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Health",
+              "name":"BCYF Gallivan Community Center",
+              "location":"Mattapan",
+              "section_id":"CCC24322",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":2398248,
+              "project_total":2960000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Health",
+              "name":"BCYF Mattahunt Community Center",
+              "location":"Mattapan",
+              "section_id":"CCC24651",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":150000,
+              "project_total":1900000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Health",
+              "name":"BCYF Paris Street Community Center",
+              "location":"East Boston",
+              "section_id":"CCC23498",
+              "status":"In Construction",
+              "operating_impact":"No",
+              "fy-0":1000000,
+              "project_total":12375000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Health",
+              "name":"BCYF Paris Street Pool",
+              "location":"East Boston",
+              "section_id":"CCC24306",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":520000,
+              "project_total":5000000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Health",
+              "name":"BCYF Tobin Community Center",
+              "location":"Mission Hill",
+              "section_id":"CCC23931",
+              "status":"In Construction",
+              "operating_impact":"No",
+              "fy-0":790000,
+              "project_total":950000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Health",
+              "name":"BCYF Vine Street Community Center",
+              "location":"Roxbury",
+              "section_id":"CCC23654",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":4000000,
+              "project_total":5340000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Health",
+              "name":"North End Community Center",
+              "location":"North End",
+              "section_id":"CCC24544",
+              "status":"Study Underway",
+              "operating_impact":"No",
+              "fy-0":100000,
+              "project_total":100000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Health",
+              "name":"Pool Repairs",
+              "location":"Citywide",
+              "section_id":"CCC21611",
+              "status":"Annual Program",
+              "operating_impact":"No",
+              "fy-0":200000,
+              "project_total":3830675
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "fy-0":10483248,
+  "total":55655675
+}
+---

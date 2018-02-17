@@ -1,0 +1,165 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Public Safety",
+  "department":"Fire Department",
+  "file_version":"",
+  "head_name":"John F. Walsh",
+  "head_title":"Manager",
+  "name":"Maintenance",
+  "parent":"Fire Department",
+  "section_id":113,
+  "section_md5_id":"73278A4A86960EEB576A8FD4C9EC6997",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~bfd-training.json",
+  "source_time":"20180216140657",
+  "source_year":"18",
+  "appropriation_code":"Organization 221500",
+  "description":[
+    "The Maintenance Program is responsible for repair and evaluation of all apparatus and other vehicles assigned to the Fire Department.  The program also evaluates, repairs, and provides supplies for the department's facilities."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":2650335,
+      "fy-1":2641369,
+      "fy-0":3081790,
+      "fy+1":3747248
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":4955912,
+      "fy-1":6496663,
+      "fy-0":4945195,
+      "fy+1":5656737
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":7606247,
+      "fy-1":9138032,
+      "fy-0":8026985,
+      "fy+1":9403985
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":2650335,
+        "fy-1":2641369,
+        "fy-0":3081790,
+        "fy+1":3747248,
+        "diff":665458
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":1727865,
+        "fy-1":2825104,
+        "fy-0":2675950,
+        "fy+1":3399025,
+        "diff":723075
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":2560960,
+        "fy-1":2580211,
+        "fy-0":1448575,
+        "fy+1":1467150,
+        "diff":18575
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":2580,
+        "fy-1":4395,
+        "fy-0":7475,
+        "fy+1":7545,
+        "diff":70
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":664507,
+        "fy-1":1074828,
+        "fy-0":793195,
+        "fy+1":763017,
+        "diff":-30178
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":12125,
+        "fy-0":20000,
+        "fy+1":20000,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":7606247,
+        "fy-1":9138032,
+        "fy-0":8026985,
+        "fy+1":9403985,
+        "diff":1377000
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To ensure City of Boston citizens are safe and protected from all emergencies with adequate fire fighting capacity in the field"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Apparatus purchased by fiscal year",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"16",
+              "fy+1":"13"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

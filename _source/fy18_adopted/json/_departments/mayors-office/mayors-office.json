@@ -1,0 +1,325 @@
+---
+{
+  "debug":"JBD",
+  "publish_subordinates":true,
+  "file_version":"",
+  "section_id":11,
+  "section_md5_id":"6512BD43D9CAA6E02C990B0A82652DCA",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Adopted",
+  "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_departments~Mayor's Office~mayors-office.json",
+  "source_time":"20180216140630",
+  "source_year":"18",
+  "name":"Mayor's Office",
+  "parent":"Mayor's Office",
+  "cabinet":"Mayor's Office",
+  "department":"Mayor's Office",
+  "head_name":"David Sweeney",
+  "head_title":"Chief of Staff",
+  "appropriation_code":"Appropriation 111",
+  "mission":[
+    "The mission of the Office of the Mayor is to provide executive leadership, as well as setting priorities and goals for the City and its neighborhoods."
+  ],
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "name":"Mayor's Administration",
+        "line_type":"data",
+        "fy-2":"1,222,981",
+        "fy-1":"1,056,163",
+        "fy-0":"1,111,758",
+        "fy+1":"1,176,580",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Mayor's Executive",
+        "line_type":"data",
+        "fy-2":"521,583",
+        "fy-1":"333,987",
+        "fy-0":"363,272",
+        "fy+1":"357,465",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Mayor's Policy & Planning",
+        "line_type":"data",
+        "fy-2":"477,957",
+        "fy-1":"959,204",
+        "fy-0":"1,474,711",
+        "fy+1":"1,439,055",
+        "publish_subordinates":true
+      },
+      {
+        "name":Null,
+        "line_type":"data",
+        "fy-2":"277,978",
+        "fy-1":"280,703",
+        "fy-0":"369,381",
+        "fy+1":"394,536",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Mayor's Communications",
+        "line_type":"data",
+        "fy-2":"0",
+        "fy-1":"603,653",
+        "fy-0":"723,159",
+        "fy+1":"792,304",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":"2,500,499",
+        "fy-1":"3,233,710",
+        "fy-0":"4,042,281",
+        "fy+1":"4,159,940"
+      }
+    ]
+  },
+  "external_funds_budget":{
+    "table_type":"External Funds",
+    "table_title":"External Funds Budget",
+    "table_header":{
+      "name":"Fund Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "name":"Chief Resilience Officer Grant",
+        "line_type":"data",
+        "fy-2":"0",
+        "fy-1":"105,685",
+        "fy-0":"138,373",
+        "fy+1":"26,740",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Earned Indirect",
+        "line_type":"data",
+        "fy-2":"0",
+        "fy-1":"0",
+        "fy-0":"223,516",
+        "fy+1":"223,516",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Harvard Business School Service",
+        "line_type":"data",
+        "fy-2":"88,912",
+        "fy-1":"83,077",
+        "fy-0":"115,247",
+        "fy+1":"90,247",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Innovation Delivery Team",
+        "line_type":"data",
+        "fy-2":"0",
+        "fy-1":"411,310",
+        "fy-0":"450,000",
+        "fy+1":"709,621",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Innovations in American Government",
+        "line_type":"data",
+        "fy-2":"7,046",
+        "fy-1":"0",
+        "fy-0":"0",
+        "fy+1":"0",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Policy Research Grant",
+        "line_type":"data",
+        "fy-2":"0",
+        "fy-1":"0",
+        "fy-0":"0",
+        "fy+1":"25,137",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Public Service Fellowship",
+        "line_type":"data",
+        "fy-2":"0",
+        "fy-1":"0",
+        "fy-0":"0",
+        "fy+1":"25,137",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":"95,958",
+        "fy-1":"600,072",
+        "fy-0":"927,136",
+        "fy+1":"1,100,398"
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":2321348,
+      "fy-1":3039883,
+      "fy-0":3645445,
+      "fy+1":3697661
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":179151,
+      "fy-1":193827,
+      "fy-0":396836,
+      "fy+1":462279
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":2500499,
+      "fy-1":3233710,
+      "fy-0":4042281,
+      "fy+1":4159940
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Chief Executive Officer, CBC St. 2 &sect; 1; CBC St. 5 &sect; 100.",
+    "Election and Duration of Term, CBC St. 2 &sect; 3.",
+    "Administrative Powers and Duties, CBC St. 2 &sect; 7; CBC St. 5 &sect;&sect; 101-102; CBC Ord. 2 generally.",
+    "Legislative Powers and Duties, CBC St. 2 &sect;&sect; 12, 15-16, 750.",
+    "Fiscal Powers and Duties, CBC St. 6 &sect;&sect; 251, 253; Tregor, 1982 Mass. Acts ch. 190, &sect;15; 1986 Mass. Acts ch. 701, &sect;2."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":2321348,
+        "fy-1":3039883,
+        "fy-0":3645445,
+        "fy+1":3697661,
+        "diff":52216
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":119977,
+        "fy-1":101322,
+        "fy-0":297999,
+        "fy+1":340978,
+        "diff":42979
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":44224,
+        "fy-1":36064,
+        "fy-0":53233,
+        "fy+1":53233,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":9990,
+        "fy-1":18640,
+        "fy-0":37644,
+        "fy+1":43068,
+        "diff":5424
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":4960,
+        "fy-1":37801,
+        "fy-0":7960,
+        "fy+1":25000,
+        "diff":17040
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":2500499,
+        "fy-1":3233710,
+        "fy-0":4042281,
+        "fy+1":4159940,
+        "diff":117659
+      }
+    ]
+  },
+  "external_funds":[
+    {
+      "project":"Chief Resilience Officer Grant",
+      "project_mission":[
+        "A two year grant administered by the Rockefeller Philanthropy Advisors, Inc, on behalf of the 100 Resilient Cities Initiative. The purpose of this grant is to fund a Chief Resilience Officer for the City of Boston and assist the City in building its capacity to maintain and recover critical functions despite shocks and stresses so that the cities people, communities and systems can bounce back more quickly and emerge stronger from these shocks and stresses."
+      ]
+    },
+    {
+      "project":"HBS Service Leadership Fellows Program",
+      "project_mission":[
+        "The mission of the Harvard Business School Service Leadership Fellows Program is to both enrich the learning experience of the fellow and to provide valuable intellectual resources that will assist the City with strategic public policy analysis. The Harvard Business School has provided annual financial and personnel resources to support this program."
+      ]
+    },
+    {
+      "project":"Innovation Delivery Team",
+      "project_mission":[
+        "The Innovation Delivery Team grant provided by the Bloomberg Philanthropies seeks to provide cities with a method to address any barriers, implement solutions and deliver change more effectively to citizens. Innovation teams or i-teams seek to reduce the risks associated with innovation, and provide mayors and city leaders with assurance in their ability to develop and implement effective solutions to their highest-priority problems. The grant to the City of Boston totals $1,350,000 over three years."
+      ]
+    },
+    {
+      "project":"Innovations in American Government",
+      "project_mission":[
+        "The Ash Center Grant is to support communication about the replication of Innovations in American Government finalists."
+      ]
+    }
+  ],
+  "fy_major_initiatives":[
+    "The Innovation Fund will work to address transportation and environmental challenges; make government more accessible and streets more dynamic; and support projects that improve the online experience."
+  ]
+}
+---

@@ -1,0 +1,420 @@
+---
+{
+  "debug":"JBD",
+  "publish_subordinates":true,
+  "file_version":"",
+  "section_id":84,
+  "section_md5_id":"68D30A9594728BC39AA24BE94B319D21",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Adopted",
+  "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_departments~Health & Human Services~boston-centers-for-youth-and-families.json",
+  "source_time":"20180216140611",
+  "source_year":"18",
+  "name":"Boston Centers for Youth & Families",
+  "parent":"Health & Human Services",
+  "cabinet":"Health & Human Services",
+  "department":"Boston Centers for Youth & Families",
+  "head_name":"William Morales",
+  "head_title":"Interim Director",
+  "appropriation_code":"Appropriation 385",
+  "mission":[
+    "The mission of Boston Centers for Youth & Families (BCYF) is to enhance the quality of life for Boston residents by partnering with community center councils, agencies and businesses to support children, youth, individuals and families. BCYF accomplishes its mission through a wide range of comprehensive programs and services according to neighborhood needs."
+  ],
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "name":"Administrative & Policy",
+        "line_type":"data",
+        "fy-2":"13,432,555",
+        "fy-1":"14,690,449",
+        "fy-0":"14,581,456",
+        "fy+1":"14,684,895",
+        "publish_subordinates":true
+      },
+      {
+        "name":Null,
+        "line_type":"data",
+        "fy-2":"4,623,425",
+        "fy-1":"4,245,241",
+        "fy-0":"4,457,205",
+        "fy+1":"4,616,977",
+        "publish_subordinates":true
+      },
+      {
+        "name":Null,
+        "line_type":"data",
+        "fy-2":"3,633,059",
+        "fy-1":"3,576,048",
+        "fy-0":"3,840,648",
+        "fy+1":"3,805,759",
+        "publish_subordinates":true
+      },
+      {
+        "name":Null,
+        "line_type":"data",
+        "fy-2":"2,440,598",
+        "fy-1":"2,406,009",
+        "fy-0":"2,379,739",
+        "fy+1":"2,422,153",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":"24,129,637",
+        "fy-1":"24,917,747",
+        "fy-0":"25,259,048",
+        "fy+1":"25,529,784"
+      }
+    ]
+  },
+  "external_funds_budget":{
+    "table_type":"External Funds",
+    "table_title":"External Funds Budget",
+    "table_header":{
+      "name":"Fund Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "name":"Boston Food Policy Council",
+        "line_type":"data",
+        "fy-2":"26,048",
+        "fy-1":"652",
+        "fy-0":"0",
+        "fy+1":"0",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Can Share/Project Bread",
+        "line_type":"data",
+        "fy-2":"70,718",
+        "fy-1":"68,076",
+        "fy-0":"150,000",
+        "fy+1":"150,000",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Center Based Daycare Program",
+        "line_type":"data",
+        "fy-2":"0",
+        "fy-1":"5,070",
+        "fy-0":"41,692",
+        "fy+1":"62,034",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Charles E Shannon Grant",
+        "line_type":"data",
+        "fy-2":"0",
+        "fy-1":"106,661",
+        "fy-0":"90,000",
+        "fy+1":"100,000",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Child & Adult Care Food",
+        "line_type":"data",
+        "fy-2":"2,027",
+        "fy-1":"122",
+        "fy-0":"4,076",
+        "fy+1":"360",
+        "publish_subordinates":true
+      },
+      {
+        "name":"City Hall Child Care",
+        "line_type":"data",
+        "fy-2":"523,598",
+        "fy-1":"521,147",
+        "fy-0":"735,491",
+        "fy+1":"750,000",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Community-Based Violence Prev2",
+        "line_type":"data",
+        "fy-2":"0",
+        "fy-1":"49,017",
+        "fy-0":"113,976",
+        "fy+1":"127,212",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Food Resilience Study",
+        "line_type":"data",
+        "fy-2":"140,000",
+        "fy-1":"0",
+        "fy-0":"0",
+        "fy+1":"0",
+        "publish_subordinates":true
+      },
+      {
+        "name":"James Curley Recreation Center",
+        "line_type":"data",
+        "fy-2":"0",
+        "fy-1":"50,000",
+        "fy-0":"0",
+        "fy+1":"0",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Mayor's Food Security Action Plan",
+        "line_type":"data",
+        "fy-2":"0",
+        "fy-1":"6,047",
+        "fy-0":"65,000",
+        "fy+1":"65,001",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Safe & Successful Youth Initiative Program",
+        "line_type":"data",
+        "fy-2":"55,052",
+        "fy-1":"0",
+        "fy-0":"0",
+        "fy+1":"0",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Street Safe Boston",
+        "line_type":"data",
+        "fy-2":"314,492",
+        "fy-1":"1,007,143",
+        "fy-0":"1,111,710",
+        "fy+1":"680,609",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Tiny Tots Program",
+        "line_type":"data",
+        "fy-2":"83,322",
+        "fy-1":"70,847",
+        "fy-0":"77,571",
+        "fy+1":"77,567",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":"1,215,257",
+        "fy-1":"1,884,782",
+        "fy-0":"2,389,516",
+        "fy+1":"2,012,783"
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":20315845,
+      "fy-1":20563630,
+      "fy-0":20636186,
+      "fy+1":20889675
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":3813792,
+      "fy-1":4354117,
+      "fy-0":4622862,
+      "fy+1":4640109
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":24129637,
+      "fy-1":24917747,
+      "fy-0":25259048,
+      "fy+1":25529784
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Community School Program, CBC Ord. &sect;&sect; 8-1-8-1.4."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":20315845,
+        "fy-1":20563630,
+        "fy-0":20636186,
+        "fy+1":20889675,
+        "diff":253489
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":3257781,
+        "fy-1":3845849,
+        "fy-0":4171235,
+        "fy+1":4146934,
+        "diff":-24301
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":113520,
+        "fy-1":234315,
+        "fy-0":240878,
+        "fy+1":235175,
+        "diff":-5703
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":122852,
+        "fy-1":114385,
+        "fy-0":106100,
+        "fy+1":155300,
+        "diff":49200
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":319639,
+        "fy-1":159568,
+        "fy-0":104649,
+        "fy+1":102700,
+        "diff":-1949
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":24129637,
+        "fy-1":24917747,
+        "fy-0":25259048,
+        "fy+1":25529784,
+        "diff":270736
+      }
+    ]
+  },
+  "external_funds":[
+    {
+      "project":"Boston Food Policy",
+      "project_mission":[
+        "Supported by funding from local grant foundations, the Food Policy Council will support healthy eating and nutritional advancement in Boston's neighborhoods. The grants will support cooking classes for Boston Public School parents, assistance to food trucks that supply nutritional options and a community supported agriculture program aimed at seniors."
+      ]
+    },
+    {
+      "project":"Can Share/Project Bread",
+      "project_mission":[
+        "The Project Bread grant funds a portion of the expenses related to the City's Can Share Food Drive."
+      ]
+    },
+    {
+      "project":"Center Based Day Care Program",
+      "project_mission":[
+        "The Center Based Daycare Program represents two external resources to support daycare programs located at BCYF centers. The first external resource was a grant funding by the Massachusetts Department of Early Education and Care to provide for 21 daycare slots at community centers. The second external resource was the Community Child Care Voucher Program which is an agreement to provide funding by Child Care Choices of Boston which also receives their funding from the Massachusetts Department of Early Education and Care."
+      ]
+    },
+    {
+      "project":"Charles E. Shannon Grant",
+      "project_mission":[
+        "Funded by the Executive Office of Public Safety and Security in partnership with proven successful faith and community based organizations and city agencies for focused Prevention, Intervention and Suppression support services to youth at risk or involved in gang related activity in hopes of reducing gun and gang related violence in hot spot areas of city."
+      ]
+    },
+    {
+      "project":"Child & Adult Care Food Program",
+      "project_mission":[
+        "BCYF child care programs participate in the USDA Child and Adult Care Food Program. Meals are provided by Boston Public Schools and are available without a separate charge to participating children. Annual funding is provided by the Commonwealth of Massachusetts, Department of Early Education and Care."
+      ]
+    },
+    {
+      "project":"City Hall Child Care Program",
+      "project_mission":[
+        "The City Hall Child Care Program provides quality infant, toddler and preschool care for children and their families. The funding for this program comes from parental fees and state vouchers."
+      ]
+    },
+    {
+      "project":"Community-Based Violence Prevention",
+      "project_mission":[
+        "Funded by the Office of Juvenile Justice and Delinquency Prevention (OJJDP). The goal of this funding is to reduce youth homicides and shootings in Mattapan by increasing enforcement and accountability; providing violence interruption, conflict resolution, and opportunities to our 'shooters' and their families; and mobilizing the community through a saturated social norms and consequences campaign."
+      ]
+    },
+    {
+      "project":"Food Resiliency Study",
+      "project_mission":[
+        "This is a one-time grant, funded in FY15, to study gaps in food resilience in Boston and address them through substantive policy and programmatic changes on a city level."
+      ]
+    },
+    {
+      "project":"Mayor's Food Security Action Plan",
+      "project_mission":[
+        "This three-year grant in the amount of $195,000 from United Way of Massachusetts Bay and Merrimack Valley, is for the purpose of supporting the Mayor&rsquo;s Food Security Action Plan through the hire of a Food Security Action Plan Fellow."
+      ]
+    },
+    {
+      "project":"Safe and Successful Youth Initiative Program",
+      "project_mission":[
+        "Boston&rsquo;s Safe and Successful Youth Initiative Program was a grant of $274,601 in 2011 provided by the Commonwealth of Massachusetts&rsquo; Safe and Successful Youth Initiative. The Boston Public Health commission was the lead city agency providing resources to Boston Centers for Youth and Families, Jobs and Community Services, the Boys and Girls Club, and Boston Medical Center&rsquo;s Violence Intervention Advocacy Program. Through this program, BCYF was able to deploy staff in areas of the city that experienced high levels of crime, or &lsquo;hot spots&rsquo;. Staff intervened, mediated and provided teens and their families with referrals for service in an effort to alleviate the stress that leads to violence."
+      ]
+    },
+    {
+      "project":"Street Safe Grant",
+      "project_mission":[
+        "The Street Safe Grant will provide funding in the amount of $3,100,000 over the period of January 1, 2015 through December 31, 2017 to enhance anti-violence measures through the addition of approximately 20 direct service outreach workers positions. The outreach workers will work with \"Proven-Risk/At-Risk\" youth in a variety of capacities, including providing case management, conflict and resolution, trauma services and outreach and support to family members of youth served. This funding is expected to increase access to targeted youth reaching 550-600 individuals annually, as well as facilitate on-going training for outreach workers in critical areas."
+      ]
+    },
+    {
+      "project":"Tiny Tots Program",
+      "project_mission":[
+        "The Tiny Tots Program is funding provided by community center site councils to support the personnel and fringe costs for existing city employees that staff the Tiny Tots programs at each center. The current agreement has site councils covering 50% of costs."
+      ]
+    }
+  ],
+  "fy_major_initiatives":[
+    "Construction will be completed for major interior renovations at the BCYF Paris Street Community Center.",
+    "Design will begin for a major renovation project at BCYF Curley Community Center.",
+    "Design will begin for an interior renovation at BCYF Mattahunt Community Center.",
+    "Renovations will begin at the BCYF Gallivan Community Center to introduce air conditioning to the gymnasium, replace the roof and gym floor, and upgrade the fire alarm and emergency lighting systems.",
+    "Design will continue at BCYF Paris Street Pool to enhance interior conditions and the facility&rsquo;s connection with nearby outdoor spaces.",
+    "Renovations will begin at the BCYF Vine Street Community Center, including athletic facility improvements and upgrades to interior systems.",
+    "Youth budgeting will continue for the fifth year, with young people across the City deciding how to spend $1 million in FY18 capital funds."
+  ]
+}
+---

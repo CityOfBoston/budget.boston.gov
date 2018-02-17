@@ -1,0 +1,60 @@
+---
+{
+  "title":"Debt Management",
+  "layout":"bos_content",
+  "permalink":"/featured-analysis/debt-management/",
+  "section_type":"section",
+  "section_type_short":"S",
+  "source_version":"Adopted",
+  "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~debt-management.json",
+  "source_time":"20180216135448",
+  "source_year":"18",
+  "card":[
+    {
+      "category":"Financial Management",
+      "order":3,
+      "title":"Debt Management",
+      "body":"Effective debt management policies keeps the Capital Plan affordable. Learn why.",
+      "img":"/img/cards/debt-management.jpg",
+      "link":"link"
+    }
+  ],
+  "components":[
+    {
+      "text_block":[
+        {
+          "title":"DEBT MANAGEMENT POLICIES AND DEBT IMPLICATIONS OF THE PLAN",
+          "list":[
+            "combined net direct debt does not exceed 3% of taxable assessed value;",
+            "at least 40% of the overall debt is repaid within five years and 70% within ten years;",
+            "annual gross debt service costs do not exceed 7% of general fund expenditures;",
+            "variable rate debt does not exceed 20% of the City&rsquo;s total currently outstanding bonded debt (the City has no variable debt).",
+            "For further discussion of the City&rsquo;s financial policies and management controls, refer to the chapter on Financial Management.",
+            "The City&rsquo;s debt service forecast assumes general obligation borrowing of $173 million in FY18, $177 million in FY19, $200 million in FY20, $200 million in FY21, and $200 million in FY22. On March 7, 2017, the City sold $150 million in general obligation bonds to fund its capital improvement projects. The debt tables at the end of this chapter detail the City&rsquo;s outstanding debt service obligations and demonstrate the City&rsquo;s rapid retirement of its debt."
+          ],
+          "body":[
+            "The City&rsquo;s current overall debt burden (net direct debt to assessed property value of $143.58 billion) is approximately 0.91% as of April 30, 2017. The City&rsquo;s net direct debt per capita currently stands at approximately $1,942 as of April 30, 2017.",
+            "Boston has been conservative about assuming long-term debt and aggressive about retiring debt expeditiously. As of April 30, 2017, the City&rsquo;s debt retirement schedule shows that 42.7% of its principal will be retired five years out, before the end of FY22 (See the Debt Retirement table at the end of this chapter).",
+            "In February of 2017, Moody&rsquo;s Investors Service and Standard & Poor&rsquo;s reaffirmed Boston&rsquo;s credit rating at Aaa, and AAA, respectively. A bond rating is a statement of credit quality and is analyzed when determining the interest rate that should be paid for a municipality&rsquo;s bonds. A higher bond rating translates into lower interest rates and real dollar savings for the City.",
+            "{08 Capital - Capital Funding Source Summary.xls:FY18:CapitalProjectFinancing:fullpage}",
+            "|CapitalPlanProjectListTable|",
+            "{08 Capital - OutstDebtv1.xlsx:OutstDebt:OSD:fullpage}",
+            "{08 Capital - RPRV1.xlsx:RPR:RetRate:fullpage}",
+            "{08 Capital - DSRVOL1.xlsx:DSR:DebtServiceReq:fullpage}"
+          ]
+        }
+      ]
+    },
+    {
+      "grid":[
+        {
+          "grid_title":"More Financial Management"
+        },
+        {
+          "card":"/featured-analysis/financing-the-capital-plan/"
+        }
+      ]
+    }
+  ]
+}
+---

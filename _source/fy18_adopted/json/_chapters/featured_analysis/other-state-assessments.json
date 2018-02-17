@@ -1,0 +1,37 @@
+---
+{
+  "title":"Other State Assessments",
+  "layout":"bos_content",
+  "permalink":"/featured-analysis/other-state-assessments/",
+  "section_type":"section",
+  "section_type_short":"S",
+  "source_version":"Adopted",
+  "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~other-state-assessments.json",
+  "source_time":"20180216135443",
+  "source_year":"18",
+  "card":[
+    {
+      "category":"Expenditures",
+      "order":13,
+      "title":"Other State Assessments",
+      "body":"In addition to Charter School Tuition and MBTA, the state charges for other items.  Learn more.",
+      "img":"/img/cards/other-state-assessments.jpg",
+      "link":"link"
+    }
+  ],
+  "components":[
+    {
+      "text_block":[
+        {
+          "title":"State Assessments",
+          "body":[
+            "Accompanying the local aid distributions on the State&rsquo;s Cherry Sheet are charges to the City from the Commonwealth. The City expects to be assessed $264.9 million by the Commonwealth in FY18, $19.0 million over the previous year.",
+            "Boston&rsquo;s Charter School Tuition Assessment is projected to increase by $17.5 million (11.2%) over the FY17 budget, as about 10,600 students are projected to attend a Commonwealth Charter School in FY18. This increase brings Boston&rsquo;s Charter School Tuition Assessment to $174.4 million. Boston has seen its charter school costs rise dramatically since the enactment of the 2010 Achievement Gap Legislation (155% or $106.1 million between FY11 and FY18). Although the proposed charter school cap ballot initiative did not pass in 2016, the City anticipates that its assessment will continue to rise as tuition rates increase and the cap allows a moderate number of new seats each year. ",
+            "Aside from the assessments for Charter School Tuition and the Massachusetts Bay Transportation Authority (MBTA) state assessment growth is relatively small. In accordance with Proposition 2 1/2, these charges, except for Charter School Tuition, cannot increase by more than 2.5% annually on a statewide basis. "
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

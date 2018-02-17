@@ -1,0 +1,135 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Administration & Finance",
+  "department":"Purchasing Division",
+  "file_version":"",
+  "head_name":"Kevin Coyne",
+  "head_title":"Manager",
+  "name":"Purchasing Administration",
+  "parent":"Purchasing Division",
+  "section_id":17,
+  "section_md5_id":"70EFDF2EC9B086079795C442636B55FB",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~.json",
+  "source_time":"20180216140527",
+  "source_year":"18",
+  "appropriation_code":"Organization 143100",
+  "description":[
+    "The Administration Program provides administrative, fiscal and human resource support to the Department."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":274288,
+      "fy-1":371323,
+      "fy-0":553554,
+      "fy+1":556047
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":16684,
+      "fy-1":14138,
+      "fy-0":21525,
+      "fy+1":104071
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":290972,
+      "fy-1":385461,
+      "fy-0":575079,
+      "fy+1":660118
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":274288,
+        "fy-1":371323,
+        "fy-0":553554,
+        "fy+1":556047,
+        "diff":2493
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":10330,
+        "fy-1":11200,
+        "fy-0":16400,
+        "fy+1":14900,
+        "diff":-1500
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":956,
+        "fy-1":837,
+        "fy-0":1200,
+        "fy+1":1200,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":509,
+        "fy-1":1194,
+        "fy-0":3925,
+        "fy+1":2725,
+        "diff":-1200
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":4889,
+        "fy-1":907,
+        "fy-0":0,
+        "fy+1":85246,
+        "diff":85246
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":290972,
+        "fy-1":385461,
+        "fy-0":575079,
+        "fy+1":660118,
+        "diff":85039
+      }
+    ]
+  }
+}
+---

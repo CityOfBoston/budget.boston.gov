@@ -1,0 +1,168 @@
+---
+{
+  "debug":"JCB",
+  "cabinet":"Environment, Energy & Open Space",
+  "department":null,
+  "file_version":"",
+  "head_name":"Austin Blackmon",
+  "head_title":"Chief of Environment and Energy",
+  "name":"Environment, Energy & Open Space",
+  "parent":"root",
+  "section_id":10,
+  "section_md5_id":"D3D9446802A44259755D38E6D163E820",
+  "section_type":"cabinet",
+  "section_type_short":"C",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~environment-energy-and-open-space.json",
+  "source_time":"20180216140600",
+  "source_year":"18",
+  "mission":[
+    "The mission of the Environment, Energy and Open Space Cabinet is to coordinate several City departments and programs to enhance sustainability, preserve historic and open space resources, protect the health and safety of the built environment, prepare for climate change, and provide public spaces to gather and recreate in Boston. The Environment, Energy and Open Space Cabinet includes initiatives that reduce energy use in municipal buildings and in the community with Renew Boston, enforce the right to a healthy home, engage the community on sustainability with Greenovate Boston, promote waste reduction, and expand the network of street trees."
+  ],
+  "overview":[
+    "The Environment, Energy and Open Space Cabinet which, includes the Environment Department, the Inspectional Services Department, and the Parks and Recreation Department, will see a 2.3% increase in FY18.",
+    "In FY18, there is a 12.8% increase in the Environment Department&rsquo;s budget, which is due in part to a position transfer to support the Renew Boston Trust energy efficiency program, and the addition of funding for a natural gas leaks regulatory support services contract required to implement the recently enacted Ordinance Related to Management and Elimination of Natural Gas Leaks. In addition, the Environment Department will add a new preservation assistant to reduce wait times for processing of Landmark Commission permits.",
+    "In FY18 the Inspectional Services Department will see a decrease of 1.6% as a result of personnel turnover and limited position reorganization in FY17. The budget also benefits from the completion of equipment lease payments and the removal of a number of one-time investments from FY17. ",
+    "The Parks and Recreation Department will see a 4.7% increase in its FY18 budget. Starting in FY18, Boston will invest in a rotation of small ball field renovations at neighborhood ball fields to keep them safe and playable. Between major ball field renovations, problems such as holes in batters&rsquo; boxes and unleveled fields can build up due to consistent usage and this new program will reshape the infields to the appropriate condition. This investment will allow the Parks Department to aerate, edge, top dress, seed, and level ballfields every 5-7 years on a rotating basis. In addition, the Parks Department will invest in pruning and maintaining large trees in parks throughout the city.",
+    "In FY18, the City will expand its initiative to reduce overtime to the Parks Department. To achieve $200,000 in savings, the Parks Department will reduce their overtime hours by 14% from FY16 levels. "
+  ],
+  "operating_department":{
+    "table_type":"operating_department",
+    "table_title":"Operating Budget",
+    "Program Name":"Department",
+    "line_type":"title",
+    "fy-2":"FY15 Actual",
+    "fy-1":"FY16 Actual",
+    "fy-0":"FY17 Budget",
+    "fy+1":"FY18 Budget",
+    "data":[
+      {
+        "department":"Environment Department",
+        "line_type":"data",
+        "fy-2":"2,018,442",
+        "fy-1":"1,897,415",
+        "fy-0":"2,232,944",
+        "fy+1":"2,517,729"
+      },
+      {
+        "department":"Inspectional Services Dept",
+        "line_type":"data",
+        "fy-2":"66,805,408",
+        "fy-1":"72,931,692",
+        "fy-0":"75,826,120",
+        "fy+1":"76,588,628"
+      },
+      {
+        "department":"Parks & Recreation Department",
+        "line_type":"data",
+        "fy-2":"67,043,193",
+        "fy-1":"87,760,467",
+        "fy-0":"77,174,666",
+        "fy+1":"81,905,802"
+      },
+      {
+        "total":"Total",
+        "line_type":"total",
+        "fy-2":"135,867,043",
+        "fy-1":"162,589,574",
+        "fy-0":"155,233,730",
+        "fy+1":"161,012,159"
+      }
+    ],
+    "capital_budget_expenditures":[
+      {
+        "table_type":"capital_budget_expenditures",
+        "table_title":"Capital Budget Expenditures",
+        "table_header":{
+          "title":"Capital Budget Expenditures",
+          "line_type":"header",
+          "fy-2":"FY15 Actual",
+          "fy-1":"FY16 Actual",
+          "fy-0":"FY17 Estimated",
+          "fy+1":"FY18 Projected"
+        },
+        "data":[
+          {
+            "title":"Environment Department",
+            "line_type":"data",
+            "fy-2":"0",
+            "fy-1":"0",
+            "fy-0":"3,700,000",
+            "fy+1":"1,573,100"
+          },
+          {
+            "title":"Inspectional Services Dept",
+            "line_type":"data",
+            "fy-2":"0",
+            "fy-1":"0",
+            "fy-0":"42,000",
+            "fy+1":"0"
+          },
+          {
+            "title":"Parks & Recreation Department",
+            "line_type":"data",
+            "fy-2":"16,689,318",
+            "fy-1":"18,096,572",
+            "fy-0":"26,737,195",
+            "fy+1":"31,660,933"
+          },
+          {
+            "title":"Total",
+            "line_type":"total",
+            "fy-2":"16,689,318",
+            "fy-1":"18,096,572",
+            "fy-0":"30,479,195",
+            "fy+1":"33,234,033"
+          }
+        ]
+      }
+    ]
+  },
+  "external_funds_tables":{
+    "table_type":"external_funds",
+    "table_title":"external_funds",
+    "table_header":{
+      "title":"Department",
+      "line_type":"header",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "title":"Environment Department",
+        "line_type":"data",
+        "fy-2":"895,974",
+        "fy-1":"1,048,170",
+        "fy-0":"916,776",
+        "fy+1":"1,311,752"
+      },
+      {
+        "title":"Inspectional Services Dept",
+        "line_type":"data",
+        "fy-2":"1,779,624",
+        "fy-1":"2,383,832",
+        "fy-0":"1,493,296",
+        "fy+1":"1,619,528"
+      },
+      {
+        "title":"Parks & Recreation Department",
+        "line_type":"data",
+        "fy-2":"21,376,336",
+        "fy-1":"30,368,268",
+        "fy-0":"24,005,128",
+        "fy+1":"23,195,152"
+      },
+      {
+        "total":"Total Cabinet",
+        "line_type":"total",
+        "fy-2":"24,051,934",
+        "fy-1":"33,800,270",
+        "fy-0":"26,415,200",
+        "fy+1":"26,126,432"
+      }
+    ]
+  }
+}
+---

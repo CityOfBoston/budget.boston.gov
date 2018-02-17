@@ -1,0 +1,201 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Mayor's Office",
+  "department":"Law Department",
+  "file_version":"",
+  "head_name":"Susan Weise",
+  "head_title":"Manager",
+  "name":"Litigation",
+  "parent":"Law Department",
+  "section_id":130,
+  "section_md5_id":"9B8619251A19057CFF70779273E95AA6",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~law-operations.json",
+  "source_time":"20180216140633",
+  "source_year":"18",
+  "appropriation_code":"Organization 151200",
+  "description":[
+    "The Litigation Program is responsible for the pretrial, trial, disposition and appeals of lawsuits in federal and state courts. It supervises and manages litigation matters including personal injury cases, road defect cases, employment claims, civil right"
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":1082721,
+      "fy-1":943456,
+      "fy-0":1001809,
+      "fy+1":985366
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":1811703,
+      "fy-1":978287,
+      "fy-0":1220500,
+      "fy+1":1594675
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":2894424,
+      "fy-1":1921743,
+      "fy-0":2222309,
+      "fy+1":2580041
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":1082721,
+        "fy-1":943456,
+        "fy-0":1001809,
+        "fy+1":985366,
+        "diff":-16443
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":1811703,
+        "fy-1":978287,
+        "fy-0":1220500,
+        "fy+1":1569300,
+        "diff":348800
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":25375,
+        "diff":25375
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":2894424,
+        "fy-1":1921743,
+        "fy-0":2222309,
+        "fy+1":2580041,
+        "diff":357732
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To defend the City against legal claims"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Claims Disposed",
+              "fy-2":"929",
+              "fy-1":"827",
+              "fy-0":"900",
+              "fy+1":"600"
+            },
+            {
+              "line_type":"data",
+              "line_data":"New cases handled-Actual",
+              "fy-2":"1,798",
+              "fy-1":"1,234",
+              "fy-0":"1,220",
+              "fy+1":"1,992"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To maximize the recovery of funds to the City, including deliquent taxes"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Affirmative recovery judgments and settlements-Actual",
+              "fy-2":"671,076",
+              "fy-1":"722,217",
+              "fy-0":"384,725",
+              "fy+1":"323,700"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

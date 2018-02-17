@@ -1,0 +1,119 @@
+---
+{
+  "category":"Open Space",
+  "category_desc":"Initiatives to strengthen our existing park system and invest in new open spaces.",
+  "department":"Parks and Recreation Department",
+  "file_version":"",
+  "location":"Citywide",
+  "managing_department":"Parks and Recreation Department",
+  "mission":"Study to determine the future capital and operating needs for green infrastructure development within parks and the streetscape under Parks Department's jurisdiction.",
+  "name":"Green Infrastructure Plan",
+  "operating_impact":"No",
+  "section_id":"CPR24486",
+  "section_type":"projects",
+  "section_type_short":"R",
+  "source_version":"Adopted",
+  "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_projects~parks-and-recreation-department~green-infrastructure-plan.json",
+  "source_time":"20180216140607",
+  "source_year":"18",
+  "status":"Study Underway",
+  "expenditures_detail":{
+    "table_title":"Expenditures (Actual and Planned)",
+    "table_header":{
+      "line_type":"header",
+      "line_title":null,
+      "line_data_type":"string",
+      "source":"Source",
+      "past_spending":"Through 6/30/16",
+      "fy-1":"FY17 Budget",
+      "fy-0":"FY18 Budget",
+      "fy+1-4":"FY19-22 Budget",
+      "total":"Total"
+    },
+    "data":[
+      {
+        "line_type":"data",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"City Capital",
+        "past_spending":0,
+        "fy-1":50000,
+        "fy-0":50000,
+        "fy+1-4":0,
+        "total":100000
+      },
+      {
+        "line_type":"data",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"Grants/Other",
+        "past_spending":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1-4":0,
+        "total":0
+      },
+      {
+        "line_type":"total",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"Totals",
+        "past_spending":0,
+        "fy-1":50000,
+        "fy-0":50000,
+        "fy+1-4":0,
+        "total":100000
+      }
+    ],
+    "authorizations_table":{
+      "table_title":"Authorizations",
+      "table_header":{
+        "line_type":"header",
+        "line_title":null,
+        "line_data_type":"string",
+        "source":"Source",
+        "existing":"Existing",
+        "fy-0":"FY18",
+        "fy-0++":"Future",
+        "other":"Non Capital Fund",
+        "total":"Total"
+      },
+      "data":[
+        {
+          "line_type":"data",
+          "line_title":null,
+          "line_data_type":"number",
+          "source":"City Capital",
+          "existing":100000,
+          "fy-0":0,
+          "fy-0++":0,
+          "other":0,
+          "total":100000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "line_data_type":"number",
+          "source":"Grants/Other",
+          "existing":0,
+          "fy-0":0,
+          "fy-0++":0,
+          "other":0,
+          "total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Totals",
+          "line_data_type":"number",
+          "source":"Totals",
+          "existing":100000,
+          "fy-0":0,
+          "fy-0++":0,
+          "other":0,
+          "total":100000
+        }
+      ]
+    }
+  }
+}
+---

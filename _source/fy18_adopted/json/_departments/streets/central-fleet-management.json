@@ -1,0 +1,211 @@
+---
+{
+  "debug":"JBD",
+  "publish_subordinates":true,
+  "file_version":"",
+  "section_id":76,
+  "section_md5_id":"FBD7939D674997CDB4692D34DE8633C4",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Adopted",
+  "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_departments~Streets~central-fleet-management.json",
+  "source_time":"20180216140703",
+  "source_year":"18",
+  "name":"Central Fleet Management",
+  "parent":"Streets",
+  "cabinet":"Streets",
+  "department":"Central Fleet Management",
+  "head_name":"William Coughlin",
+  "head_title":"Director",
+  "appropriation_code":"Appropriation 321",
+  "mission":[
+    "Under the direction of the Public Works Commissioner, Central Fleet Management provides pro-active, cost effective fleet services by responding to vehicle maintenance requests in a timely manner. Requests for service consist of routine repairs, preventive maintenance and emergency service for the City's centralized fleet."
+  ],
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "name":"Central Fleet Maintenance",
+        "line_type":"data",
+        "fy-2":"2,672,446",
+        "fy-1":"2,148,719",
+        "fy-0":"2,590,424",
+        "fy+1":"2,805,234",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":"2,672,446",
+        "fy-1":"2,148,719",
+        "fy-0":"2,590,424",
+        "fy+1":"2,805,234"
+      }
+    ]
+  },
+  "external_funds_budget":{
+    "table_type":"External Funds",
+    "table_title":"External Funds Budget",
+    "table_header":{
+      "name":"Fund Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "name":"DOE Clean Cities Grant",
+        "line_type":"data",
+        "fy-2":"0",
+        "fy-1":"58,758",
+        "fy-0":"287,242",
+        "fy+1":"0",
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":"0",
+        "fy-1":"58,758",
+        "fy-0":"287,242",
+        "fy+1":"0"
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":1714481,
+      "fy-1":1715569,
+      "fy-0":1972993,
+      "fy+1":2085778
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":957965,
+      "fy-1":433150,
+      "fy-0":617431,
+      "fy+1":719456
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":2672446,
+      "fy-1":2148719,
+      "fy-0":2590424,
+      "fy+1":2805234
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Motor Vehicle Management Bureau, CBC Ord. &sect;&sect; 7-8.1-7-8.8."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":1714481,
+        "fy-1":1715569,
+        "fy-0":1972993,
+        "fy+1":2085778,
+        "diff":112785
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":387974,
+        "fy-1":63409,
+        "fy-0":213919,
+        "fy+1":288732,
+        "diff":74813
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":215832,
+        "fy-1":91716,
+        "fy-0":127575,
+        "fy+1":149332,
+        "diff":21757
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":48164,
+        "fy-1":18128,
+        "fy-0":7850,
+        "fy+1":12850,
+        "diff":5000
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":305995,
+        "fy-1":259897,
+        "fy-0":268087,
+        "fy+1":268542,
+        "diff":455
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":2672446,
+        "fy-1":2148719,
+        "fy-0":2590424,
+        "fy+1":2805234,
+        "diff":214810
+      }
+    ]
+  },
+  "external_funds":[
+    {
+      "project":"Alternative Fuel Vehicle Retrofits",
+      "project_mission":[
+        "The Alternative Fuel Vehicle Retrofit grant is provided by the Commonwealth Massachusetts Department of Energy Resources from the Department of Energy Clean Cities Alternative Fuels and Technology grant to retrofit city vehicles to operate on alternative fuels. The award is $350,000 and will be complete in FY17."
+      ]
+    }
+  ],
+  "fy_major_initiatives":[]
+}
+---
