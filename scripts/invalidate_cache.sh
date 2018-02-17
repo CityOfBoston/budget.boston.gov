@@ -19,6 +19,6 @@ then
   aws configure set preview.cloudfront true
   aws cloudfront create-invalidation --distribution-id $CLOUDFRONT_STG_ID --paths '/*'
 else
-  echo "This commit was made against the $TRAVIS_BRANCH and not the master! No deploy!"
+  echo "This commit was made against the $TRAVIS_BRANCH and not master or develop! No deploy!"
   exit 0
 fi
