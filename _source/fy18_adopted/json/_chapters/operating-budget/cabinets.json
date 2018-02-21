@@ -50,7 +50,10 @@
         "title":"Operating Budget",
         "columns":[
           {
-            "Cabinet": "Administration and Finance",
+            "Cabinet": {
+              "name":"Administration and Finance",
+              "link": "/operating-budget/cabinets/administration-and-finance"
+            },
             "FY15 Actual": {
               "value": 226031460,
               "filter": "delimiter"
@@ -69,7 +72,10 @@
             }
           },
           {
-            "Cabinet": "Arts and Culture",
+            "Cabinet": {
+              "name":"Arts and Culture",
+              "link": "/operating-budget/cabinets/arts-and-culture"
+            },
             "FY15 Actual": {
               "value": 42314681,
               "filter": "delimiter"
@@ -88,7 +94,10 @@
             }
           },
           {
-            "Cabinet": "Civic Engagement",
+            "Cabinet": {
+              "name":"Civic Engagement",
+              "link": "/operating-budget/cabinets/civic-engagement"
+            },
             "FY15 Actual": {
               "value": 11163993,
               "filter": "delimiter"
@@ -107,7 +116,10 @@
             }
           },
           {
-            "Cabinet": "Economic Development",
+            "Cabinet": {
+              "name":"Economic Development",
+              "link": "/operating-budget/cabinets/economic-development"
+            },
             "FY15 Actual": {
               "value": 3871141,
               "filter": "delimiter"
@@ -126,7 +138,10 @@
             }
           },
           {
-            "Cabinet": "Education",
+            "Cabinet": {
+              "name":"Education",
+              "link": "/operating-budget/cabinets/education"
+            },
             "FY15 Actual": {
               "value": 1105294498,
               "filter": "delimiter"
@@ -145,7 +160,10 @@
             }
           },
           {
-            "Cabinet": "Environment, Energy and Open Space",
+            "Cabinet": {
+              "name":"Environment, Energy and Open Space",
+              "link": "/operating-budget/cabinets/environment-energy-and-open-space"
+            },
             "FY15 Actual": {
               "value": 41619823,
               "filter": "delimiter"
@@ -164,7 +182,10 @@
             }
           },
           {
-            "Cabinet": "Health and Human Services",
+            "Cabinet": {
+              "name":"Health and Human Services",
+              "link": "/operating-budget/cabinets/health-and-human-services"
+            },
             "FY15 Actual": {
               "value": 112527694,
               "filter": "delimiter"
@@ -183,7 +204,10 @@
             }
           },
           {
-            "Cabinet": "Housing and Neighborhood Development",
+            "Cabinet": {
+              "name":"Housing and Neighborhood Development",
+              "link": "/operating-budget/cabinets/housing-and-neighborhood-development"
+            },
             "FY15 Actual": {
               "value": 67161854,
               "filter": "delimiter"
@@ -202,7 +226,10 @@
             }
           },
           {
-            "Cabinet": "Information and Technology",
+            "Cabinet": {
+              "name":"Information and Technology",
+              "link": "/operating-budget/cabinets/information-and-technology"
+            },
             "FY15 Actual": {
               "value": 31207065,
               "filter": "delimiter"
@@ -221,7 +248,10 @@
             }
           },
           {
-            "Cabinet": "Mayor's Office",
+            "Cabinet": {
+              "name":"Mayor's Office",
+              "link": "/operating-budget/cabinets/mayors-office"
+            },
             "FY15 Actual": {
               "value": 12762113,
               "filter": "delimiter"
@@ -240,7 +270,10 @@
             }
           },
           {
-            "Cabinet": "Non-Mayoral Departments",
+            "Cabinet": {
+              "name":"Non-Mayoral Departments",
+              "link": "/operating-budget/cabinets/non-mayoral-departments"
+            },
             "FY15 Actual": {
               "value": 6383774,
               "filter": "delimiter"
@@ -259,7 +292,10 @@
             }
           },
           {
-            "Cabinet": "Operations",
+            "Cabinet": {
+              "name":"Operations",
+              "link": "/operating-budget/cabinets/operations"
+            },
             "FY15 Actual": {
               "value": 24933563,
               "filter": "delimiter"
@@ -278,7 +314,10 @@
             }
           },
           {
-            "Cabinet": "Public Safety",
+            "Cabinet": {
+              "name":"Public Safety",
+              "link": "/operating-budget/cabinets/public-safety"
+            },
             "FY15 Actual": {
               "value": 581610559,
               "filter": "delimiter"
@@ -297,7 +336,10 @@
             }
           },
           {
-            "Cabinet": "Streets",
+            "Cabinet": {
+              "name":"Streets",
+              "link": "/operating-budget/cabinets/streets"
+            },
             "FY15 Actual": {
               "value": 149974323,
               "filter": "delimiter"
@@ -316,7 +358,8 @@
             }
           },
           {
-            "Cabinet": "Total",
+            "Totals":"Total",
+            "total": true,
             "FY15 Actual": {
               "value": 2416856541,
               "filter": "delimiter"
@@ -334,8 +377,8 @@
               "filter": "delimiter"
             }
           }]
-        }
-      ]
+      }
+        ]
     }
   ]
 }
