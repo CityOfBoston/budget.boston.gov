@@ -7,7 +7,7 @@
   "section_type_short":"S",
   "source_version":"Adopted",
   "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_chapters~cabinets.json",
-  "source_time":"20180220160036",
+  "source_time":"20180220171740",
   "source_year":"18",
   "components":[
     {
@@ -45,340 +45,325 @@
       ]
     },
     {
-      "table":[{
-        "table_type":"Operating Budget",
-        "title":"Operating Budget",
-        "columns":[
-          {
-            "Cabinet": {
-              "name":"Administration and Finance",
-              "link": "/operating-budget/cabinets/administration-and-finance"
-            },
-            "FY15 Actual": {
-              "value": 226031460,
-              "filter": "delimiter"
-            },
-            "FY16 Actual": {
-              "value": 239080586,
-              "filter": "delimiter"
-            },
-            "FY17 Budget": {
-              "value": 254366940,
-              "filter": "delimiter"
-            },
-            "FY18 Budget": {
-              "value": 264570113,
-              "filter": "delimiter"
-            }
+      "table":[
+        {
+          "title":"Appropriations by Cabinet",
+          "right_text":{
+            "name":"Back to Operating Budget",
+            "link":"/operating-budget"
           },
-          {
-            "Cabinet": {
-              "name":"Arts and Culture",
-              "link": "/operating-budget/cabinets/arts-and-culture"
+          "columns":[
+            {
+              "Cabinet":{
+                "name":"Administration and Finance",
+                "link":"/operating_budget/cabinets/administration-and-finance"
+              },
+              "FY15 Actual":{
+                "value":226031460,
+                "filter":"delimiter"
+              },
+              "FY16 Actual":{
+                "value":239080586,
+                "filter":"delimiter"
+              },
+              "FY17 Actual":{
+                "value":254366940,
+                "filter":"delimiter"
+              },
+              "FY18 Actual":{
+                "value":264570113,
+                "filter":"delimiter"
+              }
             },
-            "FY15 Actual": {
-              "value": 42314681,
-              "filter": "delimiter"
+            {
+              "Cabinet":{
+                "name":"Arts and Culture",
+                "link":"/operating_budget/cabinets/arts-and-culture"
+              },
+              "FY15 Actual":{
+                "value":42314681,
+                "filter":"delimiter"
+              },
+              "FY16 Actual":{
+                "value":46239054,
+                "filter":"delimiter"
+              },
+              "FY17 Actual":{
+                "value":46283220,
+                "filter":"delimiter"
+              },
+              "FY18 Actual":{
+                "value":47956180,
+                "filter":"delimiter"
+              }
             },
-            "FY16 Actual": {
-              "value": 46239054,
-              "filter": "delimiter"
+            {
+              "Cabinet":{
+                "name":"Civic Engagement",
+                "link":"/operating_budget/cabinets/civic-engagement"
+              },
+              "FY15 Actual":{
+                "value":11163993,
+                "filter":"delimiter"
+              },
+              "FY16 Actual":{
+                "value":12537046,
+                "filter":"delimiter"
+              },
+              "FY17 Actual":{
+                "value":13764374,
+                "filter":"delimiter"
+              },
+              "FY18 Actual":{
+                "value":13630382,
+                "filter":"delimiter"
+              }
             },
-            "FY17 Budget": {
-              "value": 46283220,
-              "filter": "delimiter"
+            {
+              "Cabinet":{
+                "name":"Economic Development",
+                "link":"/operating_budget/cabinets/economic-development"
+              },
+              "FY15 Actual":{
+                "value":3871141,
+                "filter":"delimiter"
+              },
+              "FY16 Actual":{
+                "value":3834124,
+                "filter":"delimiter"
+              },
+              "FY17 Actual":{
+                "value":10058712,
+                "filter":"delimiter"
+              },
+              "FY18 Actual":{
+                "value":9462755,
+                "filter":"delimiter"
+              }
             },
-            "FY18 Budget": {
-              "value": 47956180,
-              "filter": "delimiter"
+            {
+              "Cabinet":{
+                "name":"Education",
+                "link":"/operating_budget/cabinets/education"
+              },
+              "FY15 Actual":{
+                "value":1105294498,
+                "filter":"delimiter"
+              },
+              "FY16 Actual":{
+                "value":1142048558,
+                "filter":"delimiter"
+              },
+              "FY17 Actual":{
+                "value":1167025300,
+                "filter":"delimiter"
+              },
+              "FY18 Actual":{
+                "value":1198155372,
+                "filter":"delimiter"
+              }
+            },
+            {
+              "Cabinet":{
+                "name":"Environment, Energy and Open Space",
+                "link":"/operating_budget/cabinets/environment-energy-and-open-space"
+              },
+              "FY15 Actual":{
+                "value":41619823,
+                "filter":"delimiter"
+              },
+              "FY16 Actual":{
+                "value":50737313,
+                "filter":"delimiter"
+              },
+              "FY17 Actual":{
+                "value":47163344,
+                "filter":"delimiter"
+              },
+              "FY18 Actual":{
+                "value":49032198,
+                "filter":"delimiter"
+              }
+            },
+            {
+              "Cabinet":{
+                "name":"Health and Human Services",
+                "link":"/operating_budget/cabinets/health-and-human-services"
+              },
+              "FY15 Actual":{
+                "value":112527694,
+                "filter":"delimiter"
+              },
+              "FY16 Actual":{
+                "value":116098411,
+                "filter":"delimiter"
+              },
+              "FY17 Actual":{
+                "value":118733582,
+                "filter":"delimiter"
+              },
+              "FY18 Actual":{
+                "value":121277352,
+                "filter":"delimiter"
+              }
+            },
+            {
+              "Cabinet":{
+                "name":"Housing and Neighborhood Development",
+                "link":"/operating_budget/cabinets/housing-and-neighborhood-development"
+              },
+              "FY15 Actual":{
+                "value":67161854,
+                "filter":"delimiter"
+              },
+              "FY16 Actual":{
+                "value":77054682,
+                "filter":"delimiter"
+              },
+              "FY17 Actual":{
+                "value":85355232,
+                "filter":"delimiter"
+              },
+              "FY18 Actual":{
+                "value":75148322,
+                "filter":"delimiter"
+              }
+            },
+            {
+              "Cabinet":{
+                "name":"Information and Technology",
+                "link":"/operating_budget/cabinets/information-and-technology"
+              },
+              "FY15 Actual":{
+                "value":31207065,
+                "filter":"delimiter"
+              },
+              "FY16 Actual":{
+                "value":34032164,
+                "filter":"delimiter"
+              },
+              "FY17 Actual":{
+                "value":30422975,
+                "filter":"delimiter"
+              },
+              "FY18 Actual":{
+                "value":29751967,
+                "filter":"delimiter"
+              }
+            },
+            {
+              "Cabinet":{
+                "name":"Mayor's Office",
+                "link":"/operating_budget/cabinets/mayors-office"
+              },
+              "FY15 Actual":{
+                "value":12762113,
+                "filter":"delimiter"
+              },
+              "FY16 Actual":{
+                "value":13093787,
+                "filter":"delimiter"
+              },
+              "FY17 Actual":{
+                "value":15394267,
+                "filter":"delimiter"
+              },
+              "FY18 Actual":{
+                "value":16210603,
+                "filter":"delimiter"
+              }
+            },
+            {
+              "Cabinet":{
+                "name":"Non-Mayoral Departments",
+                "link":"/operating_budget/cabinets/non-mayoral-departments"
+              },
+              "FY15 Actual":{
+                "value":6383774,
+                "filter":"delimiter"
+              },
+              "FY16 Actual":{
+                "value":6610436,
+                "filter":"delimiter"
+              },
+              "FY17 Actual":{
+                "value":6829647,
+                "filter":"delimiter"
+              },
+              "FY18 Actual":{
+                "value":6826877,
+                "filter":"delimiter"
+              }
+            },
+            {
+              "Cabinet":{
+                "name":"Operations",
+                "link":"/operating_budget/cabinets/operations"
+              },
+              "FY15 Actual":{
+                "value":24933563,
+                "filter":"delimiter"
+              },
+              "FY16 Actual":{
+                "value":25171888,
+                "filter":"delimiter"
+              },
+              "FY17 Actual":{
+                "value":25151866,
+                "filter":"delimiter"
+              },
+              "FY18 Actual":{
+                "value":23811818,
+                "filter":"delimiter"
+              }
+            },
+            {
+              "Cabinet":{
+                "name":"Public Safety",
+                "link":"/operating_budget/cabinets/public-safety"
+              },
+              "FY15 Actual":{
+                "value":581610559,
+                "filter":"delimiter"
+              },
+              "FY16 Actual":{
+                "value":590061083,
+                "filter":"delimiter"
+              },
+              "FY17 Actual":{
+                "value":615121696,
+                "filter":"delimiter"
+              },
+              "FY18 Actual":{
+                "value":633767476,
+                "filter":"delimiter"
+              }
+            },
+            {
+              "Cabinet":{
+                "name":"Streets",
+                "link":"/operating_budget/cabinets/streets"
+              },
+              "FY15 Actual":{
+                "value":149974323,
+                "filter":"delimiter"
+              },
+              "FY16 Actual":{
+                "value":130479987,
+                "filter":"delimiter"
+              },
+              "FY17 Actual":{
+                "value":137011074,
+                "filter":"delimiter"
+              },
+              "FY18 Actual":{
+                "value":140205055,
+                "filter":"delimiter"
+              }
             }
-          },
-          {
-            "Cabinet": {
-              "name":"Civic Engagement",
-              "link": "/operating-budget/cabinets/civic-engagement"
-            },
-            "FY15 Actual": {
-              "value": 11163993,
-              "filter": "delimiter"
-            },
-            "FY16 Actual": {
-              "value": 12537046,
-              "filter": "delimiter"
-            },
-            "FY17 Budget": {
-              "value": 13764374,
-              "filter": "delimiter"
-            },
-            "FY18 Budget": {
-              "value": 13630382,
-              "filter": "delimiter"
-            }
-          },
-          {
-            "Cabinet": {
-              "name":"Economic Development",
-              "link": "/operating-budget/cabinets/economic-development"
-            },
-            "FY15 Actual": {
-              "value": 3871141,
-              "filter": "delimiter"
-            },
-            "FY16 Actual": {
-              "value": 383412,
-              "filter": "delimiter"
-            },
-            "FY17 Budget": {
-              "value": 10058712,
-              "filter": "delimiter"
-            },
-            "FY18 Budget": {
-              "value": 9462755,
-              "filter": "delimiter"
-            }
-          },
-          {
-            "Cabinet": {
-              "name":"Education",
-              "link": "/operating-budget/cabinets/education"
-            },
-            "FY15 Actual": {
-              "value": 1105294498,
-              "filter": "delimiter"
-            },
-            "FY16 Actual": {
-              "value": 1142048558,
-              "filter": "delimiter"
-            },
-            "FY17 Budget": {
-              "value": 1167025300,
-              "filter": "delimiter"
-            },
-            "FY18 Budget": {
-              "value": 1198155372,
-              "filter": "delimiter"
-            }
-          },
-          {
-            "Cabinet": {
-              "name":"Environment, Energy and Open Space",
-              "link": "/operating-budget/cabinets/environment-energy-and-open-space"
-            },
-            "FY15 Actual": {
-              "value": 41619823,
-              "filter": "delimiter"
-            },
-            "FY16 Actual": {
-              "value": 50737313,
-              "filter": "delimiter"
-            },
-            "FY17 Budget": {
-              "value": 47163344,
-              "filter": "delimiter"
-            },
-            "FY18 Budget": {
-              "value": 49032198,
-              "filter": "delimiter"
-            }
-          },
-          {
-            "Cabinet": {
-              "name":"Health and Human Services",
-              "link": "/operating-budget/cabinets/health-and-human-services"
-            },
-            "FY15 Actual": {
-              "value": 112527694,
-              "filter": "delimiter"
-            },
-            "FY16 Actual": {
-              "value": 116098411,
-              "filter": "delimiter"
-            },
-            "FY17 Budget": {
-              "value": 118733582,
-              "filter": "delimiter"
-            },
-            "FY18 Budget": {
-              "value": 121277352,
-              "filter": "delimiter"
-            }
-          },
-          {
-            "Cabinet": {
-              "name":"Housing and Neighborhood Development",
-              "link": "/operating-budget/cabinets/housing-and-neighborhood-development"
-            },
-            "FY15 Actual": {
-              "value": 67161854,
-              "filter": "delimiter"
-            },
-            "FY16 Actual": {
-              "value": 77054682,
-              "filter": "delimiter"
-            },
-            "FY17 Budget": {
-              "value": 85355232,
-              "filter": "delimiter"
-            },
-            "FY18 Budget": {
-              "value": 75148322,
-              "filter": "delimiter"
-            }
-          },
-          {
-            "Cabinet": {
-              "name":"Information and Technology",
-              "link": "/operating-budget/cabinets/information-and-technology"
-            },
-            "FY15 Actual": {
-              "value": 31207065,
-              "filter": "delimiter"
-            },
-            "FY16 Actual": {
-              "value": 34032164,
-              "filter": "delimiter"
-            },
-            "FY17 Budget": {
-              "value": 30422975,
-              "filter": "delimiter"
-            },
-            "FY18 Budget": {
-              "value": 29751967,
-              "filter": "delimiter"
-            }
-          },
-          {
-            "Cabinet": {
-              "name":"Mayor's Office",
-              "link": "/operating-budget/cabinets/mayors-office"
-            },
-            "FY15 Actual": {
-              "value": 12762113,
-              "filter": "delimiter"
-            },
-            "FY16 Actual": {
-              "value": 13093787,
-              "filter": "delimiter"
-            },
-            "FY17 Budget": {
-              "value": 15394267,
-              "filter": "delimiter"
-            },
-            "FY18 Budget": {
-              "value": 16210603,
-              "filter": "delimiter"
-            }
-          },
-          {
-            "Cabinet": {
-              "name":"Non-Mayoral Departments",
-              "link": "/operating-budget/cabinets/non-mayoral-departments"
-            },
-            "FY15 Actual": {
-              "value": 6383774,
-              "filter": "delimiter"
-            },
-            "FY16 Actual": {
-              "value": 6610436,
-              "filter": "delimiter"
-            },
-            "FY17 Budget": {
-              "value": 6829647,
-              "filter": "delimiter"
-            },
-            "FY18 Budget": {
-              "value": 6826877,
-              "filter": "delimiter"
-            }
-          },
-          {
-            "Cabinet": {
-              "name":"Operations",
-              "link": "/operating-budget/cabinets/operations"
-            },
-            "FY15 Actual": {
-              "value": 24933563,
-              "filter": "delimiter"
-            },
-            "FY16 Actual": {
-              "value": 25171888,
-              "filter": "delimiter"
-            },
-            "FY17 Budget": {
-              "value": 25151866,
-              "filter": "delimiter"
-            },
-            "FY18 Budget": {
-              "value": 23811818,
-              "filter": "delimiter"
-            }
-          },
-          {
-            "Cabinet": {
-              "name":"Public Safety",
-              "link": "/operating-budget/cabinets/public-safety"
-            },
-            "FY15 Actual": {
-              "value": 581610559,
-              "filter": "delimiter"
-            },
-            "FY16 Actual": {
-              "value": 590061083,
-              "filter": "delimiter"
-            },
-            "FY17 Budget": {
-              "value": 615121696,
-              "filter": "delimiter"
-            },
-            "FY18 Budget": {
-              "value": 633767476,
-              "filter": "delimiter"
-            }
-          },
-          {
-            "Cabinet": {
-              "name":"Streets",
-              "link": "/operating-budget/cabinets/streets"
-            },
-            "FY15 Actual": {
-              "value": 149974323,
-              "filter": "delimiter"
-            },
-            "FY16 Actual": {
-              "value": 130479987,
-              "filter": "delimiter"
-            },
-            "FY17 Budget": {
-              "value": 137011074,
-              "filter": "delimiter"
-            },
-            "FY18 Budget": {
-              "value": 140205055,
-              "filter": "delimiter"
-            }
-          },
-          {
-            "Totals":"Total",
-            "total": true,
-            "FY15 Actual": {
-              "value": 2416856541,
-              "filter": "delimiter"
-            },
-            "FY16 Actual": {
-              "value": 2487079119,
-              "filter": "delimiter"
-            },
-            "FY17 Budget": {
-              "value": 2572682229,
-              "filter": "delimiter"
-            },
-            "FY18 Budget": {
-              "value": 2629806470,
-              "filter": "delimiter"
-            }
-          }]
-      }
-        ]
+          ]
+        }
+      ]
     }
   ]
 }
