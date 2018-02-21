@@ -71,11 +71,11 @@ layout: bos_wrapper
   <thead>
     <tr>
       <th>{{ page.program_history_by_account.table_header.line_type }}</th>
-      <th>{{ page.program_history_by_account.table_header.fy-2 }}</th>
-      <th>{{ page.program_history_by_account.table_header.fy-1 }}</th>
-      <th>{{ page.program_history_by_account.table_header.fy-0 }}</th>
-      <th>{{ page.program_history_by_account.table_header['fy+1'] }}</th>
-      <th>{{ page.program_history_by_account.table_header.diff }}</th>
+      <th class="table-right">{{ page.program_history_by_account.table_header.fy-2 }}</th>
+      <th class="table-right">{{ page.program_history_by_account.table_header.fy-1 }}</th>
+      <th class="table-right">{{ page.program_history_by_account.table_header.fy-0 }}</th>
+      <th class="table-right">{{ page.program_history_by_account.table_header['fy+1'] }}</th>
+      <th class="table-right">{{ page.program_history_by_account.table_header.diff }}</th>
     </tr>
   </thead>
   <tbody>
@@ -87,11 +87,11 @@ layout: bos_wrapper
         <tr>
           <td data-label="{{ page.program_history_by_account.table_header.line_type }}">{{ row.line_title }}</td>
         {% endif %}
-        <td data-label="{{ page.program_history_by_account.table_header.fy-2 }}">{{ row.fy-2 | thousands_separated }}</td>
-        <td data-label="{{ page.program_history_by_account.table_header.fy-1 }}">{{ row.fy-1 | thousands_separated }}</td>
-        <td data-label="{{ page.program_history_by_account.table_header.fy-0 }}">{{ row.fy-0 | thousands_separated }}</td>
-        <td data-label="{{ page.program_history_by_account.table_header["fy+1"] }}">{{ row["fy+1"] | thousands_separated }}</td>
-        <td data-label="{{ page.program_history_by_account.table_header.diff }}">{{ row.diff | thousands_separated }}</td>
+        <td class="table-right" data-label="{{ page.program_history_by_account.table_header.fy-2 }}">{{ row.fy-2 | thousands_separated }}</td>
+        <td class="table-right" data-label="{{ page.program_history_by_account.table_header.fy-1 }}">{{ row.fy-1 | thousands_separated }}</td>
+        <td class="table-right" data-label="{{ page.program_history_by_account.table_header.fy-0 }}">{{ row.fy-0 | thousands_separated }}</td>
+        <td class="table-right" data-label="{{ page.program_history_by_account.table_header["fy+1"] }}">{{ row["fy+1"] | thousands_separated }}</td>
+        <td class="table-right" data-label="{{ page.program_history_by_account.table_header.diff }}">{{ row.diff | thousands_separated }}</td>
       </tr>
     {% endfor %}
   </tbody>
@@ -114,10 +114,10 @@ layout: bos_wrapper
         <thead>
           <tr>
             <th>Measure</th>
-            <th>{{ strategy.performance_measures[0].table_header.fy-2 }}</th>
-            <th>{{ strategy.performance_measures[0].table_header.fy-1 }}</th>
-            <th>{{ strategy.performance_measures[0].table_header.fy-0 }}</th>
-            <th>{{ strategy.performance_measures[0].table_header["fy+1"] }}</th>
+            <th class="table-right">{{ strategy.performance_measures[0].table_header.fy-2 }}</th>
+            <th class="table-right">{{ strategy.performance_measures[0].table_header.fy-1 }}</th>
+            <th class="table-right">{{ strategy.performance_measures[0].table_header.fy-0 }}</th>
+            <th class="table-right">{{ strategy.performance_measures[0].table_header["fy+1"] }}</th>
           </tr>
         </thead>
         <tbody>
@@ -128,10 +128,10 @@ layout: bos_wrapper
               {% else %}
               <td>{{ row.line_data }}</td>
               {% endif %}
-              <td>{{ row.fy-2 }}</td>
-              <td>{{ row.fy-1 }}</td>
-              <td>{{ row.fy-0 }}</td>
-              <td>{{ row["fy+1"] }}</td>
+              <td class="table-right">{{ row.fy-2 }}</td>
+              <td class="table-right">{{ row.fy-1 }}</td>
+              <td class="table-right">{{ row.fy-0 }}</td>
+              <td class="table-right">{{ row["fy+1"] }}</td>
             </tr>
           {% endfor %}
         </tbody>
