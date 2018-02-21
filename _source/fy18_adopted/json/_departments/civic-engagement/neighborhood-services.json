@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_departments~Civic Engagement~neighborhood-services.json",
-  "source_time":"20180216140543",
+  "source_time":"20180221091627",
   "source_year":"18",
   "name":"Neighborhood Services",
   "parent":"Civic Engagement",
@@ -36,46 +36,46 @@
       {
         "name":"ONS Administration",
         "line_type":"data",
-        "fy-2":"499,453",
-        "fy-1":"506,835",
-        "fy-0":"602,016",
-        "fy+1":"585,698",
+        "fy-2":499453,
+        "fy-1":506835,
+        "fy-0":602016,
+        "fy+1":585698,
         "publish_subordinates":true
       },
       {
         "name":"Neighborhood Serv",
         "line_type":"data",
-        "fy-2":"922,517",
-        "fy-1":"1,009,736",
-        "fy-0":"1,177,057",
-        "fy+1":"1,180,925",
+        "fy-2":922517,
+        "fy-1":1009736,
+        "fy-0":1177057,
+        "fy+1":1180925,
         "publish_subordinates":true
       },
       {
         "name":"City Hall to Go",
         "line_type":"data",
-        "fy-2":"0",
-        "fy-1":"128,862",
-        "fy-0":"191,430",
-        "fy+1":"175,929",
+        "fy-2":0,
+        "fy-1":128862,
+        "fy-0":191430,
+        "fy+1":175929,
         "publish_subordinates":true
       },
       {
         "name":"Boston 311",
         "line_type":"data",
-        "fy-2":"0",
-        "fy-1":"879,467",
-        "fy-0":"1,224,227",
-        "fy+1":"1,345,061",
+        "fy-2":0,
+        "fy-1":879467,
+        "fy-0":1224227,
+        "fy+1":1345061,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"1,421,970",
-        "fy-1":"2,524,900",
-        "fy-0":"3,194,730",
-        "fy+1":"3,287,613"
+        "fy-2":1421970,
+        "fy-1":2524900,
+        "fy-0":3194730,
+        "fy+1":3287613
       }
     ]
   },
@@ -94,28 +94,28 @@
       {
         "name":"Boston Shines",
         "line_type":"data",
-        "fy-2":"0",
-        "fy-1":"13,608",
-        "fy-0":"0",
-        "fy+1":"0",
+        "fy-2":0,
+        "fy-1":13608,
+        "fy-0":0,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Love Your Block",
         "line_type":"data",
-        "fy-2":"0",
-        "fy-1":"11,392",
-        "fy-0":"10,500",
-        "fy+1":"75,000",
+        "fy-2":0,
+        "fy-1":11392,
+        "fy-0":10500,
+        "fy+1":75000,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"0",
-        "fy-1":"25,000",
-        "fy-0":"10,500",
-        "fy+1":"75,000"
+        "fy-2":0,
+        "fy-1":25000,
+        "fy-0":10500,
+        "fy+1":75000
       }
     ]
   },

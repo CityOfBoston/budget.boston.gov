@@ -14,7 +14,7 @@
   "section_type_short":"C",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~operations.json",
-  "source_time":"20180216140642",
+  "source_time":"20180221091755",
   "source_year":"18",
   "mission":[
     "The Operations Cabinet oversees all operational activities that intersect with the management of central facilities. The cabinet includes departments that set policies for intergovernmental relations and central municipal properties."
@@ -37,34 +37,34 @@
       {
         "department":"Intergovernmental Relations",
         "line_type":"data",
-        "fy-2":"2,474,772",
-        "fy-1":"2,550,128",
-        "fy-0":"2,370,338",
-        "fy+1":"2,331,240"
+        "fy-2":2474772,
+        "fy-1":2550128,
+        "fy-0":2370338,
+        "fy+1":2331240
       },
       {
         "department":"Property Management",
         "line_type":"data",
-        "fy-2":"213,265,593",
-        "fy-1":"215,071,416",
-        "fy-0":"165,067,326",
-        "fy+1":"154,554,480"
+        "fy-2":213265593,
+        "fy-1":215071416,
+        "fy-0":165067326,
+        "fy+1":154554480
       },
       {
         "department":"Public Facilities Department",
         "line_type":"data",
-        "fy-2":"0",
-        "fy-1":"0",
-        "fy-0":"5,625,883",
-        "fy+1":"5,473,478"
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":5625883,
+        "fy+1":5473478
       },
       {
         "total":"Total",
         "line_type":"total",
-        "fy-2":"215,740,365",
-        "fy-1":"217,621,544",
-        "fy-0":"173,063,547",
-        "fy+1":"162,359,198"
+        "fy-2":215740365,
+        "fy-1":217621544,
+        "fy-0":173063547,
+        "fy+1":162359198
       }
     ],
     "capital_budget_expenditures":[
@@ -83,18 +83,18 @@
           {
             "title":"Property Management",
             "line_type":"data",
-            "fy-2":"6,463,670",
-            "fy-1":"2,221,439",
-            "fy-0":"5,735,000",
-            "fy+1":"9,387,575"
+            "fy-2":6463670,
+            "fy-1":2221439,
+            "fy-0":5735000,
+            "fy+1":9387575
           },
           {
             "title":"Total",
             "line_type":"total",
-            "fy-2":"6,463,670",
-            "fy-1":"2,221,439",
-            "fy-0":"5,735,000",
-            "fy+1":"9,387,575"
+            "fy-2":6463670,
+            "fy-1":2221439,
+            "fy-0":5735000,
+            "fy+1":9387575
           }
         ]
       }

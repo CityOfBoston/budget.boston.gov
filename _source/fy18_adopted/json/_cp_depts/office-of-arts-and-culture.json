@@ -14,7 +14,7 @@
   "section_type_short":"L",
   "source_version":"Adopted",
   "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_cp_depts~office-of-arts-and-culture.json",
-  "source_time":"20180216140534",
+  "source_time":"20180221091618",
   "source_year":"18",
   "mission":[
     "The mission of the Office of Arts & Culture is to foster the growth of the cultural community and promote participation in the arts."
@@ -45,10 +45,10 @@
         "line_type":"total",
         "line_title":"Total Department",
         "line_data_type":"total",
-        "fy-2":"27,733,721",
-        "fy-1":"37,347,302",
-        "fy-0":"15,349,442",
-        "fy+1":"15,468,352"
+        "fy-2":27733721,
+        "fy-1":37347302,
+        "fy-0":15349442,
+        "fy+1":15468352
       }
     }
   ],

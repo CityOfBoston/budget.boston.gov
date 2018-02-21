@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_departments~Streets~central-fleet-management.json",
-  "source_time":"20180216140703",
+  "source_time":"20180221091820",
   "source_year":"18",
   "name":"Central Fleet Management",
   "parent":"Streets",
@@ -36,19 +36,19 @@
       {
         "name":"Central Fleet Maintenance",
         "line_type":"data",
-        "fy-2":"2,672,446",
-        "fy-1":"2,148,719",
-        "fy-0":"2,590,424",
-        "fy+1":"2,805,234",
+        "fy-2":2672446,
+        "fy-1":2148719,
+        "fy-0":2590424,
+        "fy+1":2805234,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"2,672,446",
-        "fy-1":"2,148,719",
-        "fy-0":"2,590,424",
-        "fy+1":"2,805,234"
+        "fy-2":2672446,
+        "fy-1":2148719,
+        "fy-0":2590424,
+        "fy+1":2805234
       }
     ]
   },
@@ -67,19 +67,19 @@
       {
         "name":"DOE Clean Cities Grant",
         "line_type":"data",
-        "fy-2":"0",
-        "fy-1":"58,758",
-        "fy-0":"287,242",
-        "fy+1":"0",
+        "fy-2":0,
+        "fy-1":58758,
+        "fy-0":287242,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"0",
-        "fy-1":"58,758",
-        "fy-0":"287,242",
-        "fy+1":"0"
+        "fy-2":0,
+        "fy-1":58758,
+        "fy-0":287242,
+        "fy+1":0
       }
     ]
   },

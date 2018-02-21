@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_departments~Administration & Finance~purchasing-division.json",
-  "source_time":"20180216140526",
+  "source_time":"20180221091608",
   "source_year":"18",
   "name":"Purchasing Division",
   "parent":"Administration & Finance",
@@ -36,37 +36,37 @@
       {
         "name":"Purchasing Administration",
         "line_type":"data",
-        "fy-2":"290,972",
-        "fy-1":"385,461",
-        "fy-0":"575,079",
-        "fy+1":"660,118",
+        "fy-2":290972,
+        "fy-1":385461,
+        "fy-0":575079,
+        "fy+1":660118,
         "publish_subordinates":true
       },
       {
         "name":"Procurement",
         "line_type":"data",
-        "fy-2":"1,036,133",
-        "fy-1":"1,110,016",
-        "fy-0":"960,352",
-        "fy+1":"900,378",
+        "fy-2":1036133,
+        "fy-1":1110016,
+        "fy-0":960352,
+        "fy+1":900378,
         "publish_subordinates":true
       },
       {
         "name":"Central Services",
         "line_type":"data",
-        "fy-2":"218,097",
-        "fy-1":"276,091",
-        "fy-0":"296,938",
-        "fy+1":"214,871",
+        "fy-2":218097,
+        "fy-1":276091,
+        "fy-0":296938,
+        "fy+1":214871,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"1,545,202",
-        "fy-1":"1,771,568",
-        "fy-0":"1,832,369",
-        "fy+1":"1,775,367"
+        "fy-2":1545202,
+        "fy-1":1771568,
+        "fy-0":1832369,
+        "fy+1":1775367
       }
     ]
   },

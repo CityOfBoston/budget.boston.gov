@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_departments~Administration & Finance~workers-compensation-fund.json",
-  "source_time":"20180216140532",
+  "source_time":"20180221091614",
   "source_year":"18",
   "name":"Workers' Compensation Fund",
   "parent":"Administration & Finance",
@@ -36,19 +36,19 @@
       {
         "name":"Workers' Compensation Fund",
         "line_type":"data",
-        "fy-2":"1,865,720",
-        "fy-1":"1,328,170",
-        "fy-0":"2,200,000",
-        "fy+1":"2,200,000",
+        "fy-2":1865720,
+        "fy-1":1328170,
+        "fy-0":2200000,
+        "fy+1":2200000,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"1,865,720",
-        "fy-1":"1,328,170",
-        "fy-0":"2,200,000",
-        "fy+1":"2,200,000"
+        "fy-2":1865720,
+        "fy-1":1328170,
+        "fy-0":2200000,
+        "fy+1":2200000
       }
     ]
   },

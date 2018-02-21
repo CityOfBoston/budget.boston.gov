@@ -14,7 +14,7 @@
   "section_type_short":"L",
   "source_version":"Adopted",
   "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_cp_depts~central-fleet-management.json",
-  "source_time":"20180216140703",
+  "source_time":"20180221091820",
   "source_year":"18",
   "mission":[
     "Under the direction of the Public Works Commissioner, Central Fleet Management provides pro-active, cost effective fleet services by responding to vehicle maintenance requests in a timely manner. Requests for service consist of routine repairs, preventive maintenance and emergency service for the City's centralized fleet."
@@ -39,10 +39,10 @@
         "line_type":"total",
         "line_title":"Total Department",
         "line_data_type":"total",
-        "fy-2":"79,108,290",
-        "fy-1":"52,826,257",
-        "fy-0":"84,717,890",
-        "fy+1":"75,434,494"
+        "fy-2":79108290,
+        "fy-1":52826257,
+        "fy-0":84717890,
+        "fy+1":75434494
       }
     }
   ]

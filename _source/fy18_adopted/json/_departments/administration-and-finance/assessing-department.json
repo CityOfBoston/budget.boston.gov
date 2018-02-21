@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_departments~Administration & Finance~assessing-department.json",
-  "source_time":"20180216140516",
+  "source_time":"20180221091552",
   "source_year":"18",
   "name":"Assessing Department",
   "parent":"Administration & Finance",
@@ -36,37 +36,37 @@
       {
         "name":"Assessing Operations",
         "line_type":"data",
-        "fy-2":"1,932,134",
-        "fy-1":"2,083,229",
-        "fy-0":"2,146,420",
-        "fy+1":"2,042,241",
+        "fy-2":1932134,
+        "fy-1":2083229,
+        "fy-0":2146420,
+        "fy+1":2042241,
         "publish_subordinates":true
       },
       {
         "name":"Valuation",
         "line_type":"data",
-        "fy-2":"3,285,108",
-        "fy-1":"3,628,264",
-        "fy-0":"3,829,294",
-        "fy+1":"3,923,184",
+        "fy-2":3285108,
+        "fy-1":3628264,
+        "fy-0":3829294,
+        "fy+1":3923184,
         "publish_subordinates":true
       },
       {
         "name":"Executive",
         "line_type":"data",
-        "fy-2":"1,129,196",
-        "fy-1":"1,391,991",
-        "fy-0":"1,257,069",
-        "fy+1":"1,295,901",
+        "fy-2":1129196,
+        "fy-1":1391991,
+        "fy-0":1257069,
+        "fy+1":1295901,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"6,346,438",
-        "fy-1":"7,103,484",
-        "fy-0":"7,232,783",
-        "fy+1":"7,261,326"
+        "fy-2":6346438,
+        "fy-1":7103484,
+        "fy-0":7232783,
+        "fy+1":7261326
       }
     ]
   },

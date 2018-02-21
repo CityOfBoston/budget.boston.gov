@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_departments~Non-Mayoral Departments~city-clerk.json",
-  "source_time":"20180216140638",
+  "source_time":"20180221091749",
   "source_year":"18",
   "name":"City Clerk",
   "parent":"Non-Mayoral Departments",
@@ -36,37 +36,37 @@
       {
         "name":"Legislative Support",
         "line_type":"data",
-        "fy-2":"360,319",
-        "fy-1":"372,578",
-        "fy-0":"376,601",
-        "fy+1":"279,833",
+        "fy-2":360319,
+        "fy-1":372578,
+        "fy-0":376601,
+        "fy+1":279833,
         "publish_subordinates":true
       },
       {
         "name":"Document Filing",
         "line_type":"data",
-        "fy-2":"399,491",
-        "fy-1":"416,672",
-        "fy-0":"415,845",
-        "fy+1":"504,605",
+        "fy-2":399491,
+        "fy-1":416672,
+        "fy-0":415845,
+        "fy+1":504605,
         "publish_subordinates":true
       },
       {
         "name":"Archives",
         "line_type":"data",
-        "fy-2":"313,895",
-        "fy-1":"357,792",
-        "fy-0":"427,950",
-        "fy+1":"430,387",
+        "fy-2":313895,
+        "fy-1":357792,
+        "fy-0":427950,
+        "fy+1":430387,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"1,073,705",
-        "fy-1":"1,147,042",
-        "fy-0":"1,220,396",
-        "fy+1":"1,214,825"
+        "fy-2":1073705,
+        "fy-1":1147042,
+        "fy-0":1220396,
+        "fy+1":1214825
       }
     ]
   },
@@ -85,19 +85,19 @@
       {
         "name":"National Historical Publications & Records Commission (NHPRC)",
         "line_type":"data",
-        "fy-2":"15,319",
-        "fy-1":"0",
-        "fy-0":"0",
-        "fy+1":"0",
+        "fy-2":15319,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"15,319",
-        "fy-1":"0",
-        "fy-0":"0",
-        "fy+1":"0"
+        "fy-2":15319,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0
       }
     ]
   },

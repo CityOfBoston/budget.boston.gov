@@ -14,7 +14,7 @@
   "section_type_short":"L",
   "source_version":"Adopted",
   "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_cp_depts~boston-planning-and-development-agency.json",
-  "source_time":"20180216140546",
+  "source_time":"20180221091631",
   "source_year":"18",
   "mission":[
     "In partnership with communities, the BPDA plans Boston&rsquo;s future while respecting its past. We prepare our residents for new opportunities through training, human services and job creation. The BPDA guides physical, social, and economic change in Boston&rsquo;s neighborhoods and its downtown to shape a more prosperous, comfortable, and beautiful city for all.",
@@ -46,10 +46,10 @@
         "line_type":"total",
         "line_title":"Total Department",
         "line_data_type":"total",
-        "fy-2":"2,312,129",
-        "fy-1":"1,569,354",
-        "fy-0":"5,823,576",
-        "fy+1":"1,500,000"
+        "fy-2":2312129,
+        "fy-1":1569354,
+        "fy-0":5823576,
+        "fy+1":1500000
       }
     }
   ],

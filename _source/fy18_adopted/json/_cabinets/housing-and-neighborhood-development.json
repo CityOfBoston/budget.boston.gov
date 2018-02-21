@@ -14,7 +14,7 @@
   "section_type_short":"C",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~housing-and-neighborhood-development.json",
-  "source_time":"20180216140621",
+  "source_time":"20180221091717",
   "source_year":"18",
   "mission":[
     "The Cabinet is committed to making Boston the most livable city in the nation by working with its many communities to build strong neighborhoods through the strategic investment of public resources."
@@ -41,26 +41,26 @@
       {
         "department":"Leading the Way",
         "line_type":"data",
-        "fy-2":"11,000,000",
-        "fy-1":"0",
-        "fy-0":"0",
-        "fy+1":"0"
+        "fy-2":11000000,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0
       },
       {
         "department":"Neighborhood Development",
         "line_type":"data",
-        "fy-2":"19,873,048",
-        "fy-1":"46,176,220",
-        "fy-0":"51,852,728",
-        "fy+1":"52,502,460"
+        "fy-2":19873048,
+        "fy-1":46176220,
+        "fy-0":51852728,
+        "fy+1":52502460
       },
       {
         "total":"Total",
         "line_type":"total",
-        "fy-2":"30,873,048",
-        "fy-1":"46,176,220",
-        "fy-0":"51,852,728",
-        "fy+1":"52,502,460"
+        "fy-2":30873048,
+        "fy-1":46176220,
+        "fy-0":51852728,
+        "fy+1":52502460
       }
     ],
     "capital_budget_expenditures":[
@@ -79,18 +79,18 @@
           {
             "title":"Neighborhood Development",
             "line_type":"data",
-            "fy-2":"854,701",
-            "fy-1":"129,788",
-            "fy-0":"1,855,038",
-            "fy+1":"2,334,940"
+            "fy-2":854701,
+            "fy-1":129788,
+            "fy-0":1855038,
+            "fy+1":2334940
           },
           {
             "title":"Total",
             "line_type":"total",
-            "fy-2":"854,701",
-            "fy-1":"129,788",
-            "fy-0":"1,855,038",
-            "fy+1":"2,334,940"
+            "fy-2":854701,
+            "fy-1":129788,
+            "fy-0":1855038,
+            "fy+1":2334940
           }
         ]
       }
@@ -111,18 +111,18 @@
       {
         "title":"Neighborhood Development",
         "line_type":"data",
-        "fy-2":"226,774,368",
-        "fy-1":"262,042,508",
-        "fy-0":"289,568,200",
-        "fy+1":"248,090,828"
+        "fy-2":226774368,
+        "fy-1":262042508,
+        "fy-0":289568200,
+        "fy+1":248090828
       },
       {
         "total":"Total Cabinet",
         "line_type":"total",
-        "fy-2":"226,774,368",
-        "fy-1":"262,042,508",
-        "fy-0":"289,568,200",
-        "fy+1":"248,090,828"
+        "fy-2":226774368,
+        "fy-1":262042508,
+        "fy-0":289568200,
+        "fy+1":248090828
       }
     ]
   }

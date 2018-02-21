@@ -14,11 +14,11 @@
   "section_type_short":"P",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~phc-administration.json",
-  "source_time":"20180216140620",
+  "source_time":"20180221091716",
   "source_year":"18",
   "appropriation_code":"Organization 620300",
   "description":[
-    "The Boston Public Health Commission promotes the health of the people of Boston by protecting and fostering the three core functions of public health: assessment, assurance and policy development. It carries out these functions through a wide variety of a"
+    "The Boston Public Health Commission promotes the health of the people of Boston by protecting and fostering the three core functions of public health: assessment, assurance and policy development. It carries out these functions through a wide variety of activities including health promotion and disease prevention initiatives (such as neighborhood outreach and community education); provision of critical health services for vulnerable, under-served and at-risk populations (such as health and wellness clinical and education services for school aged children, emergency shelter and transitional housing and support services for the homeless, and substance abuse treatment for those suffering from addiction); emergency preparedness and response (such as pre-hospital emergency medical care and transport , infectious disease surveillance and outbreak control, and environmental hazards prevention and response); monitoring and reporting on the health status of the city&rsquo;s residents (such as city wide and disease specific health status reports); and development of public policy approaches that support positive health outcomes (such as tobacco control, banning the use of transfats in food establishments, regulating biological laboratories, and environmental health regulations)."
   ],
   "selected_service_indicators":[
     {
@@ -147,53 +147,53 @@
           "data":[
             {
               "line_type":"data",
-              "fy-3":"3,250,576",
-              "fy-2":"3,403,175",
-              "fy-1":"3,400,254",
-              "fy-0":"3,537,180"
+              "fy-3":3250576,
+              "fy-2":3403175,
+              "fy-1":3400254,
+              "fy-0":3537180
             },
             {
               "line_type":"data",
-              "fy-3":"534,714",
-              "fy-2":"428,142",
-              "fy-1":"429,483",
-              "fy-0":"538,860"
+              "fy-3":534714,
+              "fy-2":428142,
+              "fy-1":429483,
+              "fy-0":538860
             },
             {
               "line_type":"data",
-              "fy-3":"342,132",
-              "fy-2":"352,479",
-              "fy-1":"349,988",
-              "fy-0":"346,617"
+              "fy-3":342132,
+              "fy-2":352479,
+              "fy-1":349988,
+              "fy-0":346617
             },
             {
               "line_type":"data",
-              "fy-3":"3,712,155",
-              "fy-2":"3,629,035",
-              "fy-1":"3,859,893",
-              "fy-0":"3,826,803"
+              "fy-3":3712155,
+              "fy-2":3629035,
+              "fy-1":3859893,
+              "fy-0":3826803
             },
             {
               "line_type":"data",
-              "fy-3":"2,133,634",
-              "fy-2":"2,319,266",
-              "fy-1":"2,547,355",
-              "fy-0":"2,618,529"
+              "fy-3":2133634,
+              "fy-2":2319266,
+              "fy-1":2547355,
+              "fy-0":2618529
             },
             {
               "line_type":"data",
-              "fy-3":"639,098",
-              "fy-2":"507,047",
-              "fy-1":"598,928",
-              "fy-0":"593,801"
+              "fy-3":639098,
+              "fy-2":507047,
+              "fy-1":598928,
+              "fy-0":593801
             },
             {
               "program":"Bureau Total",
               "line_type":"total",
-              "fy-3":"42,449,236",
-              "fy-2":"42,556,576",
-              "fy-1":"44,743,604",
-              "fy-0":"45,847,160"
+              "fy-3":42449236,
+              "fy-2":42556576,
+              "fy-1":44743604,
+              "fy-0":45847160
             }
           ]
         }
@@ -214,95 +214,95 @@
           "data":[
             {
               "line_type":"data",
-              "fy-3":"389,551",
-              "fy-2":"514,394",
-              "fy-1":"571,920",
-              "fy-0":"654,409"
+              "fy-3":389551,
+              "fy-2":514394,
+              "fy-1":571920,
+              "fy-0":654409
             },
             {
               "line_type":"data",
-              "fy-3":"139,262",
-              "fy-2":"140,992",
-              "fy-1":"144,405",
-              "fy-0":"145,694"
+              "fy-3":139262,
+              "fy-2":140992,
+              "fy-1":144405,
+              "fy-0":145694
             },
             {
               "line_type":"data",
-              "fy-3":"687,892",
-              "fy-2":"753,886",
-              "fy-1":"797,083",
-              "fy-0":"800,810"
+              "fy-3":687892,
+              "fy-2":753886,
+              "fy-1":797083,
+              "fy-0":800810
             },
             {
               "line_type":"data",
-              "fy-3":"1,199,628",
-              "fy-2":"1,190,031",
-              "fy-1":"1,259,384",
-              "fy-0":"1,248,733"
+              "fy-3":1199628,
+              "fy-2":1190031,
+              "fy-1":1259384,
+              "fy-0":1248733
             },
             {
               "line_type":"data",
-              "fy-3":"736,966",
-              "fy-2":"775,635",
-              "fy-1":"866,074",
-              "fy-0":"826,240"
+              "fy-3":736966,
+              "fy-2":775635,
+              "fy-1":866074,
+              "fy-0":826240
             },
             {
               "line_type":"data",
-              "fy-3":"185,909",
-              "fy-2":"211,960",
-              "fy-1":"216,725",
-              "fy-0":"218,645"
+              "fy-3":185909,
+              "fy-2":211960,
+              "fy-1":216725,
+              "fy-0":218645
             },
             {
               "line_type":"data",
-              "fy-3":"217,029",
-              "fy-2":"303,749",
-              "fy-1":"246,878",
-              "fy-0":"288,404"
+              "fy-3":217029,
+              "fy-2":303749,
+              "fy-1":246878,
+              "fy-0":288404
             },
             {
               "line_type":"data",
-              "fy-3":"371,427",
-              "fy-2":"323,536",
-              "fy-1":"387,904",
-              "fy-0":"393,196"
+              "fy-3":371427,
+              "fy-2":323536,
+              "fy-1":387904,
+              "fy-0":393196
             },
             {
               "line_type":"data",
-              "fy-3":"177,772",
-              "fy-2":"172,909",
-              "fy-1":"199,893",
-              "fy-0":"176,337"
+              "fy-3":177772,
+              "fy-2":172909,
+              "fy-1":199893,
+              "fy-0":176337
             },
             {
               "line_type":"data",
-              "fy-3":"18,381",
-              "fy-2":"41,803",
-              "fy-1":"47,665",
-              "fy-0":"35,936"
+              "fy-3":18381,
+              "fy-2":41803,
+              "fy-1":47665,
+              "fy-0":35936
             },
             {
               "line_type":"data",
-              "fy-3":"249,033",
-              "fy-2":"351,862",
-              "fy-1":"600,033",
-              "fy-0":"331,779"
+              "fy-3":249033,
+              "fy-2":351862,
+              "fy-1":600033,
+              "fy-0":331779
             },
             {
               "line_type":"data",
-              "fy-3":"128,379",
-              "fy-2":"115,248",
-              "fy-1":"81,368",
-              "fy-0":"75,233"
+              "fy-3":128379,
+              "fy-2":115248,
+              "fy-1":81368,
+              "fy-0":75233
             },
             {
               "program":"Bureau Total",
               "line_type":"total",
-              "fy-3":"18,004,916",
-              "fy-2":"19,584,020",
-              "fy-1":"21,677,328",
-              "fy-0":"20,781,664"
+              "fy-3":18004916,
+              "fy-2":19584020,
+              "fy-1":21677328,
+              "fy-0":20781664
             }
           ]
         }
@@ -323,46 +323,46 @@
           "data":[
             {
               "line_type":"data",
-              "fy-3":"1,980,746",
-              "fy-2":"2,006,023",
-              "fy-1":"2,313,525",
-              "fy-0":"2,208,495"
+              "fy-3":1980746,
+              "fy-2":2006023,
+              "fy-1":2313525,
+              "fy-0":2208495
             },
             {
               "line_type":"data",
-              "fy-3":"1,609,101",
-              "fy-2":"1,702,017",
-              "fy-1":"1,491,817",
-              "fy-0":"1,598,196"
+              "fy-3":1609101,
+              "fy-2":1702017,
+              "fy-1":1491817,
+              "fy-0":1598196
             },
             {
               "line_type":"data",
-              "fy-3":"497,309",
-              "fy-2":"377,464",
-              "fy-1":"484,244",
-              "fy-0":"487,649"
+              "fy-3":497309,
+              "fy-2":377464,
+              "fy-1":484244,
+              "fy-0":487649
             },
             {
               "line_type":"data",
-              "fy-3":"100,000",
-              "fy-2":"100,000",
-              "fy-1":"100,000",
-              "fy-0":"100,000"
+              "fy-3":100000,
+              "fy-2":100000,
+              "fy-1":100000,
+              "fy-0":100000
             },
             {
               "line_type":"data",
-              "fy-3":"209",
-              "fy-2":"0",
-              "fy-1":"0",
-              "fy-0":"0"
+              "fy-3":209,
+              "fy-2":0,
+              "fy-1":0,
+              "fy-0":0
             },
             {
               "program":"Bureau Total",
               "line_type":"total",
-              "fy-3":"16,749,460",
-              "fy-2":"16,742,016",
-              "fy-1":"17,558,344",
-              "fy-0":"17,577,360"
+              "fy-3":16749460,
+              "fy-2":16742016,
+              "fy-1":17558344,
+              "fy-0":17577360
             }
           ]
         }
@@ -383,32 +383,32 @@
           "data":[
             {
               "line_type":"data",
-              "fy-3":"-35,855,311",
-              "fy-2":"-35,605,467",
-              "fy-1":"-34,296,117",
-              "fy-0":"-36,808,416"
+              "fy-3":-35855311,
+              "fy-2":-35605467,
+              "fy-1":-34296117,
+              "fy-0":-36808416
             },
             {
               "line_type":"data",
-              "fy-3":"-1,094,800",
-              "fy-2":"-803,212",
-              "fy-1":"-1,437,163",
-              "fy-0":"-506,500"
+              "fy-3":-1094800,
+              "fy-2":-803212,
+              "fy-1":-1437163,
+              "fy-0":-506500
             },
             {
               "line_type":"data",
-              "fy-3":"-36,950,110",
-              "fy-2":"-36,408,679",
-              "fy-1":"-35,733,280",
-              "fy-0":"-37,314,916"
+              "fy-3":-36950110,
+              "fy-2":-36408679,
+              "fy-1":-35733280,
+              "fy-0":-37314916
             },
             {
               "program":"Bureau Total",
               "line_type":"total",
-              "fy-3":"-295,600,884",
-              "fy-2":"-291,269,432",
-              "fy-1":"-285,866,240",
-              "fy-0":"-298,519,328"
+              "fy-3":-295600884,
+              "fy-2":-291269432,
+              "fy-1":-285866240,
+              "fy-0":-298519328
             }
           ]
         }
@@ -429,88 +429,88 @@
           "data":[
             {
               "line_type":"data",
-              "fy-3":"0",
-              "fy-2":"0",
-              "fy-1":"0",
-              "fy-0":"235,209"
+              "fy-3":0,
+              "fy-2":0,
+              "fy-1":0,
+              "fy-0":235209
             },
             {
               "line_type":"data",
-              "fy-3":"258,263",
-              "fy-2":"342,203",
-              "fy-1":"386,064",
-              "fy-0":"394,653"
+              "fy-3":258263,
+              "fy-2":342203,
+              "fy-1":386064,
+              "fy-0":394653
             },
             {
               "line_type":"data",
-              "fy-3":"3,960,887",
-              "fy-2":"3,937,938",
-              "fy-1":"3,786,772",
-              "fy-0":"3,786,772"
+              "fy-3":3960887,
+              "fy-2":3937938,
+              "fy-1":3786772,
+              "fy-0":3786772
             },
             {
               "line_type":"data",
-              "fy-3":"787,496",
-              "fy-2":"837,543",
-              "fy-1":"994,523",
-              "fy-0":"1,069,141"
+              "fy-3":787496,
+              "fy-2":837543,
+              "fy-1":994523,
+              "fy-0":1069141
             },
             {
               "line_type":"data",
-              "fy-3":"537,963",
-              "fy-2":"533,861",
-              "fy-1":"0",
-              "fy-0":"0"
+              "fy-3":537963,
+              "fy-2":533861,
+              "fy-1":0,
+              "fy-0":0
             },
             {
               "line_type":"data",
-              "fy-3":"3,769,349",
-              "fy-2":"3,580,527",
-              "fy-1":"3,661,665",
-              "fy-0":"3,818,992"
+              "fy-3":3769349,
+              "fy-2":3580527,
+              "fy-1":3661665,
+              "fy-0":3818992
             },
             {
               "line_type":"data",
-              "fy-3":"185,125",
-              "fy-2":"204,868",
-              "fy-1":"235,949",
-              "fy-0":"249,513"
+              "fy-3":185125,
+              "fy-2":204868,
+              "fy-1":235949,
+              "fy-0":249513
             },
             {
               "line_type":"data",
-              "fy-3":"2,766,977",
-              "fy-2":"2,747,002",
-              "fy-1":"2,614,973",
-              "fy-0":"2,587,839"
+              "fy-3":2766977,
+              "fy-2":2747002,
+              "fy-1":2614973,
+              "fy-0":2587839
             },
             {
               "line_type":"data",
-              "fy-3":"33,457",
-              "fy-2":"117,951",
-              "fy-1":"87,778",
-              "fy-0":"186,753"
+              "fy-3":33457,
+              "fy-2":117951,
+              "fy-1":87778,
+              "fy-0":186753
             },
             {
               "line_type":"data",
-              "fy-3":"785,441",
-              "fy-2":"776,110",
-              "fy-1":"981,779",
-              "fy-0":"881,964"
+              "fy-3":785441,
+              "fy-2":776110,
+              "fy-1":981779,
+              "fy-0":881964
             },
             {
               "line_type":"data",
-              "fy-3":"1,089,170",
-              "fy-2":"1,224,177",
-              "fy-1":"1,358,766",
-              "fy-0":"1,397,927"
+              "fy-3":1089170,
+              "fy-2":1224177,
+              "fy-1":1358766,
+              "fy-0":1397927
             },
             {
               "program":"Bureau Total",
               "line_type":"total",
-              "fy-3":"56,696,512",
-              "fy-2":"57,208,720",
-              "fy-1":"56,433,076",
-              "fy-0":"58,435,052"
+              "fy-3":56696512,
+              "fy-2":57208720,
+              "fy-1":56433076,
+              "fy-0":58435052
             }
           ]
         }
@@ -531,18 +531,18 @@
           "data":[
             {
               "line_type":"data",
-              "fy-3":"0",
-              "fy-2":"95,801,052",
-              "fy-1":"98,022,291",
-              "fy-0":"101,016,722"
+              "fy-3":0,
+              "fy-2":95801052,
+              "fy-1":98022291,
+              "fy-0":101016722
             },
             {
               "program":"Bureau Total",
               "line_type":"total",
-              "fy-3":"0",
-              "fy-2":"383,204,208",
-              "fy-1":"392,089,164",
-              "fy-0":"404,066,888"
+              "fy-3":0,
+              "fy-2":383204208,
+              "fy-1":392089164,
+              "fy-0":404066888
             }
           ]
         }
@@ -563,46 +563,46 @@
           "data":[
             {
               "line_type":"data",
-              "fy-3":"460,461",
-              "fy-2":"680,522",
-              "fy-1":"515,747",
-              "fy-0":"509,108"
+              "fy-3":460461,
+              "fy-2":680522,
+              "fy-1":515747,
+              "fy-0":509108
             },
             {
               "line_type":"data",
-              "fy-3":"374,192",
-              "fy-2":"932,855",
-              "fy-1":"582,066",
-              "fy-0":"912,988"
+              "fy-3":374192,
+              "fy-2":932855,
+              "fy-1":582066,
+              "fy-0":912988
             },
             {
               "line_type":"data",
-              "fy-3":"469,754",
-              "fy-2":"835,447",
-              "fy-1":"989,750",
-              "fy-0":"1,319,182"
+              "fy-3":469754,
+              "fy-2":835447,
+              "fy-1":989750,
+              "fy-0":1319182
             },
             {
               "line_type":"data",
-              "fy-3":"44,920",
-              "fy-2":"132,948",
-              "fy-1":"480,929",
-              "fy-0":"742,843"
+              "fy-3":44920,
+              "fy-2":132948,
+              "fy-1":480929,
+              "fy-0":742843
             },
             {
               "line_type":"data",
-              "fy-3":"1,003,029",
-              "fy-2":"976,665",
-              "fy-1":"1,035,325",
-              "fy-0":"1,140,349"
+              "fy-3":1003029,
+              "fy-2":976665,
+              "fy-1":1035325,
+              "fy-0":1140349
             },
             {
               "program":"Bureau Total",
               "line_type":"total",
-              "fy-3":"462,164,760",
-              "fy-2":"1,554,582,564",
-              "fy-1":"1,429,422,900",
-              "fy-0":"1,274,977,419"
+              "fy-3":462164760,
+              "fy-2":1554582564,
+              "fy-1":1429422900,
+              "fy-0":1274977419
             }
           ]
         }
@@ -611,10 +611,10 @@
     {
       "program":"Grand Total",
       "line_type":"total",
-      "fy-3":"462,164,760",
-      "fy-2":"1,554,582,564",
-      "fy-1":"1,429,422,900",
-      "fy-0":"1,274,977,419"
+      "fy-3":462164760,
+      "fy-2":1554582564,
+      "fy-1":1429422900,
+      "fy-0":1274977419
     }
   ]
 }

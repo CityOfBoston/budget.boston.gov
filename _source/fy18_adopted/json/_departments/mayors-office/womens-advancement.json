@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_departments~Mayor's Office~womens-advancement.json",
-  "source_time":"20180216140635",
+  "source_time":"20180221091747",
   "source_year":"18",
   "name":"Women's Advancement",
   "parent":"Mayor's Office",
@@ -36,19 +36,19 @@
       {
         "name":"Women's Commission",
         "line_type":"data",
-        "fy-2":"190,982",
-        "fy-1":"212,106",
-        "fy-0":"233,615",
-        "fy+1":"225,519",
+        "fy-2":190982,
+        "fy-1":212106,
+        "fy-0":233615,
+        "fy+1":225519,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"190,982",
-        "fy-1":"212,106",
-        "fy-0":"233,615",
-        "fy+1":"225,519"
+        "fy-2":190982,
+        "fy-1":212106,
+        "fy-0":233615,
+        "fy+1":225519
       }
     ]
   },

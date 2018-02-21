@@ -14,7 +14,7 @@
   "section_type_short":"L",
   "source_version":"Adopted",
   "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_cp_depts~office-of-tourism.json",
-  "source_time":"20180216140550",
+  "source_time":"20180221091639",
   "source_year":"18",
   "mission":[
     "The mission of the Office of Tourism is to advance tourism in Boston and promote participation in public celebrations."
@@ -39,10 +39,10 @@
         "line_type":"total",
         "line_title":"Total Department",
         "line_data_type":"total",
-        "fy-2":"2,312,129",
-        "fy-1":"1,569,354",
-        "fy-0":"5,823,576",
-        "fy+1":"1,500,000"
+        "fy-2":2312129,
+        "fy-1":1569354,
+        "fy-0":5823576,
+        "fy+1":1500000
       }
     }
   ]

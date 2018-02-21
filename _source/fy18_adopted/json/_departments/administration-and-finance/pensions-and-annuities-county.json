@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_departments~Administration & Finance~pensions-and-annuities-county.json",
-  "source_time":"20180216140526",
+  "source_time":"20180221091606",
   "source_year":"18",
   "name":"Pensions & Annuities - County",
   "parent":"Administration & Finance",
@@ -36,19 +36,19 @@
       {
         "name":"Pensions & Annuities - County",
         "line_type":"data",
-        "fy-2":"36,114",
-        "fy-1":"36,894",
-        "fy-0":"100,000",
-        "fy+1":"100,000",
+        "fy-2":36114,
+        "fy-1":36894,
+        "fy-0":100000,
+        "fy+1":100000,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"36,114",
-        "fy-1":"36,894",
-        "fy-0":"100,000",
-        "fy+1":"100,000"
+        "fy-2":36114,
+        "fy-1":36894,
+        "fy-0":100000,
+        "fy+1":100000
       }
     ]
   },

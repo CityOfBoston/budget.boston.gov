@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_departments~Administration & Finance~pensions-and-annuities-city.json",
-  "source_time":"20180216140525",
+  "source_time":"20180221091604",
   "source_year":"18",
   "name":"Pensions & Annuities - City",
   "parent":"Administration & Finance",
@@ -36,19 +36,19 @@
       {
         "name":"Pensions & Annuities - City",
         "line_type":"data",
-        "fy-2":"3,336,691",
-        "fy-1":"4,063,355",
-        "fy-0":"5,289,000",
-        "fy+1":"4,100,000",
+        "fy-2":3336691,
+        "fy-1":4063355,
+        "fy-0":5289000,
+        "fy+1":4100000,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"3,336,691",
-        "fy-1":"4,063,355",
-        "fy-0":"5,289,000",
-        "fy+1":"4,100,000"
+        "fy-2":3336691,
+        "fy-1":4063355,
+        "fy-0":5289000,
+        "fy+1":4100000
       }
     ]
   },

@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_departments~Public Safety~emergency-management.json",
-  "source_time":"20180216140653",
+  "source_time":"20180221091807",
   "source_year":"18",
   "name":"Emergency Management",
   "parent":"Public Safety",
@@ -36,19 +36,19 @@
       {
         "name":Null,
         "line_type":"data",
-        "fy-2":"464,649",
-        "fy-1":"650,928",
-        "fy-0":"637,722",
-        "fy+1":"637,209",
+        "fy-2":464649,
+        "fy-1":650928,
+        "fy-0":637722,
+        "fy+1":637209,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"464,649",
-        "fy-1":"650,928",
-        "fy-0":"637,722",
-        "fy+1":"637,209"
+        "fy-2":464649,
+        "fy-1":650928,
+        "fy-0":637722,
+        "fy+1":637209
       }
     ]
   },
@@ -67,46 +67,46 @@
       {
         "name":"Emergency Management Performance Grant",
         "line_type":"data",
-        "fy-2":"59,586",
-        "fy-1":"70,814",
-        "fy-0":"139,950",
-        "fy+1":"0",
+        "fy-2":59586,
+        "fy-1":70814,
+        "fy-0":139950,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Regional Catastrophic Grant Program",
         "line_type":"data",
-        "fy-2":"2,117,758",
-        "fy-1":"87,935",
-        "fy-0":"0",
-        "fy+1":"0",
+        "fy-2":2117758,
+        "fy-1":87935,
+        "fy-0":0,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Transit Security Grant",
         "line_type":"data",
-        "fy-2":"62,675",
-        "fy-1":"0",
-        "fy-0":"0",
-        "fy+1":"0",
+        "fy-2":62675,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Urban Areas Security (UASI)",
         "line_type":"data",
-        "fy-2":"19,953,220",
-        "fy-1":"7,086,503",
-        "fy-0":"8,890,381",
-        "fy+1":"11,164,466",
+        "fy-2":19953220,
+        "fy-1":7086503,
+        "fy-0":8890381,
+        "fy+1":11164466,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"22,193,239",
-        "fy-1":"7,245,252",
-        "fy-0":"9,030,331",
-        "fy+1":"11,164,466"
+        "fy-2":22193239,
+        "fy-1":7245252,
+        "fy-0":9030331,
+        "fy+1":11164466
       }
     ]
   },

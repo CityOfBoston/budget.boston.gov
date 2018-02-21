@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_departments~Health & Human Services~boston-vets.json",
-  "source_time":"20180216140613",
+  "source_time":"20180221091709",
   "source_year":"18",
   "name":"Boston VETS",
   "parent":"Health & Human Services",
@@ -36,19 +36,19 @@
       {
         "name":"Veterans' Services",
         "line_type":"data",
-        "fy-2":"4,442,074",
-        "fy-1":"3,948,303",
-        "fy-0":"4,677,730",
-        "fy+1":"4,708,453",
+        "fy-2":4442074,
+        "fy-1":3948303,
+        "fy-0":4677730,
+        "fy+1":4708453,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"4,442,074",
-        "fy-1":"3,948,303",
-        "fy-0":"4,677,730",
-        "fy+1":"4,708,453"
+        "fy-2":4442074,
+        "fy-1":3948303,
+        "fy-0":4677730,
+        "fy+1":4708453
       }
     ]
   },

@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_departments~Administration & Finance~human-resources.json",
-  "source_time":"20180216140522",
+  "source_time":"20180221091601",
   "source_year":"18",
   "name":"Human Resources",
   "parent":"Administration & Finance",
@@ -36,55 +36,55 @@
       {
         "name":"Personnel",
         "line_type":"data",
-        "fy-2":"1,813,038",
-        "fy-1":"1,750,447",
-        "fy-0":"2,232,258",
-        "fy+1":"2,713,325",
+        "fy-2":1813038,
+        "fy-1":1750447,
+        "fy-0":2232258,
+        "fy+1":2713325,
         "publish_subordinates":true
       },
       {
         "name":"Affirmative Action",
         "line_type":"data",
-        "fy-2":"77,197",
-        "fy-1":"53,743",
-        "fy-0":"72,407",
-        "fy+1":"30,500",
+        "fy-2":77197,
+        "fy-1":53743,
+        "fy-0":72407,
+        "fy+1":30500,
         "publish_subordinates":true
       },
       {
         "name":"Health Benefits & Insurance",
         "line_type":"data",
-        "fy-2":"590,910",
-        "fy-1":"593,523",
-        "fy-0":"722,365",
-        "fy+1":"813,932",
+        "fy-2":590910,
+        "fy-1":593523,
+        "fy-0":722365,
+        "fy+1":813932,
         "publish_subordinates":true
       },
       {
         "name":"Employee Assistance",
         "line_type":"data",
-        "fy-2":"80,730",
-        "fy-1":"174,328",
-        "fy-0":"86,456",
-        "fy+1":"18,927",
+        "fy-2":80730,
+        "fy-1":174328,
+        "fy-0":86456,
+        "fy+1":18927,
         "publish_subordinates":true
       },
       {
         "name":"Workers Comp",
         "line_type":"data",
-        "fy-2":"923,347",
-        "fy-1":"924,982",
-        "fy-0":"1,019,347",
-        "fy+1":"828,171",
+        "fy-2":923347,
+        "fy-1":924982,
+        "fy-0":1019347,
+        "fy+1":828171,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"3,485,222",
-        "fy-1":"3,497,023",
-        "fy-0":"4,132,833",
-        "fy+1":"4,404,855"
+        "fy-2":3485222,
+        "fy-1":3497023,
+        "fy-0":4132833,
+        "fy+1":4404855
       }
     ]
   },

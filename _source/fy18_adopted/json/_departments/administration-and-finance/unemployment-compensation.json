@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_departments~Administration & Finance~unemployment-compensation.json",
-  "source_time":"20180216140531",
+  "source_time":"20180221091613",
   "source_year":"18",
   "name":"Unemployment Compensation",
   "parent":"Administration & Finance",
@@ -36,19 +36,19 @@
       {
         "name":"Unemployment Compensation",
         "line_type":"data",
-        "fy-2":"34,251",
-        "fy-1":"0",
-        "fy-0":"350,000",
-        "fy+1":"350,000",
+        "fy-2":34251,
+        "fy-1":0,
+        "fy-0":350000,
+        "fy+1":350000,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"34,251",
-        "fy-1":"0",
-        "fy-0":"350,000",
-        "fy+1":"350,000"
+        "fy-2":34251,
+        "fy-1":0,
+        "fy-0":350000,
+        "fy+1":350000
       }
     ]
   },
