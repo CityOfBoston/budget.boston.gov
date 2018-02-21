@@ -45,140 +45,327 @@
       ]
     },
     {
-      "operating_budget":{
+      "table":[{
         "table_type":"Operating Budget",
-        "table_title":"Operating Budget",
-        "table_header":{
-          "name":"Cabinet",
-          "line_type":"title",
-          "fy-2":"FY15 Actual",
-          "fy-1":"FY16 Actual",
-          "fy-0":"FY17 Budget",
-          "fy+1":"FY18 Budget"
-        },
-        "data":[
+        "title":"Operating Budget",
+        "columns":[
           {
-            "name":"Administration and Finance",
-            "line_type":"data",
-            "fy-2":226031460,
-            "fy-1":239080586,
-            "fy-0":254366940,
-            "fy+1":264570113
+            "Cabinet": {
+              "name":"Administration and Finance"
+            },
+            "FY15 Actual": {
+              "value": 226031460,
+              "filter": "delimiter"
+            },
+            "FY16 Actual": {
+              "value": 239080586,
+              "filter": "delimiter"
+            },
+            "FY17 Budget": {
+              "value": 254366940,
+              "filter": "delimiter"
+            },
+            "FY18 Budget": {
+              "value": 264570113,
+              "filter": "delimiter"
+            }
           },
           {
-            "name":"Arts and Culture",
-            "line_type":"data",
-            "fy-2":42314681,
-            "fy-1":46239054,
-            "fy-0":46283220,
-            "fy+1":47956180
+            "Cabinet": {
+              "name":"Arts and Culture"
+            },
+            "FY15 Actual": {
+              "value": 42314681,
+              "filter": "delimiter"
+            },
+            "FY16 Actual": {
+              "value": 46239054,
+              "filter": "delimiter"
+            },
+            "FY17 Budget": {
+              "value": 46283220,
+              "filter": "delimiter"
+            },
+            "FY18 Budget": {
+              "value": 47956180,
+              "filter": "delimiter"
+            }
           },
           {
-            "name":"Civic Engagement",
-            "line_type":"data",
-            "fy-2":11163993,
-            "fy-1":12537046,
-            "fy-0":13764374,
-            "fy+1":13630382
+            "Cabinet": {
+              "name":"Civic Engagement"
+            },
+            "FY15 Actual": {
+              "value": 11163993,
+              "filter": "delimiter"
+            },
+            "FY16 Actual": {
+              "value": 12537046,
+              "filter": "delimiter"
+            },
+            "FY17 Budget": {
+              "value": 13764374,
+              "filter": "delimiter"
+            },
+            "FY18 Budget": {
+              "value": 13630382,
+              "filter": "delimiter"
+            }
           },
           {
-            "name":"Economic Development",
-            "line_type":"data",
-            "fy-2":3871141,
-            "fy-1":3834124,
-            "fy-0":10058712,
-            "fy+1":9462755
+            "Cabinet": {
+              "name":"Economic Development"
+            },
+            "FY15 Actual": {
+              "value": 3871141,
+              "filter": "delimiter"
+            },
+            "FY16 Actual": {
+              "value": 383412,
+              "filter": "delimiter"
+            },
+            "FY17 Budget": {
+              "value": 10058712,
+              "filter": "delimiter"
+            },
+            "FY18 Budget": {
+              "value": 9462755,
+              "filter": "delimiter"
+            }
           },
           {
-            "name":"Education",
-            "line_type":"data",
-            "fy-2":1105294498,
-            "fy-1":1142048558,
-            "fy-0":1167025300,
-            "fy+1":1198155372
+            "Cabinet": {
+              "name":"Education"
+            },
+            "FY15 Actual": {
+              "value": 1105294498,
+              "filter": "delimiter"
+            },
+            "FY16 Actual": {
+              "value": 1142048558,
+              "filter": "delimiter"
+            },
+            "FY17 Budget": {
+              "value": 1167025300,
+              "filter": "delimiter"
+            },
+            "FY18 Budget": {
+              "value": 1198155372,
+              "filter": "delimiter"
+            }
           },
           {
-            "name":"Environment, Energy and Open Space",
-            "line_type":"data",
-            "fy-2":41619823,
-            "fy-1":50737313,
-            "fy-0":47163344,
-            "fy+1":49032198
+            "Cabinet": {
+              "name":"Environment, Energy and Open Space"
+            },
+            "FY15 Actual": {
+              "value": 41619823,
+              "filter": "delimiter"
+            },
+            "FY16 Actual": {
+              "value": 50737313,
+              "filter": "delimiter"
+            },
+            "FY17 Budget": {
+              "value": 47163344,
+              "filter": "delimiter"
+            },
+            "FY18 Budget": {
+              "value": 49032198,
+              "filter": "delimiter"
+            }
           },
           {
-            "name":"Health and Human Services",
-            "line_type":"data",
-            "fy-2":112527694,
-            "fy-1":116098411,
-            "fy-0":118733582,
-            "fy+1":121277352
+            "Cabinet": {
+              "name":"Health and Human Services"
+            },
+            "FY15 Actual": {
+              "value": 112527694,
+              "filter": "delimiter"
+            },
+            "FY16 Actual": {
+              "value": 116098411,
+              "filter": "delimiter"
+            },
+            "FY17 Budget": {
+              "value": 118733582,
+              "filter": "delimiter"
+            },
+            "FY18 Budget": {
+              "value": 121277352,
+              "filter": "delimiter"
+            }
           },
           {
-            "name":"Housing and Neighborhood Development",
-            "line_type":"data",
-            "fy-2":67161854,
-            "fy-1":77054682,
-            "fy-0":85355232,
-            "fy+1":75148322
+            "Cabinet": {
+              "name":"Housing and Neighborhood Development"
+            },
+            "FY15 Actual": {
+              "value": 67161854,
+              "filter": "delimiter"
+            },
+            "FY16 Actual": {
+              "value": 77054682,
+              "filter": "delimiter"
+            },
+            "FY17 Budget": {
+              "value": 85355232,
+              "filter": "delimiter"
+            },
+            "FY18 Budget": {
+              "value": 75148322,
+              "filter": "delimiter"
+            }
           },
           {
-            "name":"Information and Technology",
-            "line_type":"data",
-            "fy-2":31207065,
-            "fy-1":34032164,
-            "fy-0":30422975,
-            "fy+1":29751967
+            "Cabinet": {
+              "name":"Information and Technology"
+            },
+            "FY15 Actual": {
+              "value": 31207065,
+              "filter": "delimiter"
+            },
+            "FY16 Actual": {
+              "value": 34032164,
+              "filter": "delimiter"
+            },
+            "FY17 Budget": {
+              "value": 30422975,
+              "filter": "delimiter"
+            },
+            "FY18 Budget": {
+              "value": 29751967,
+              "filter": "delimiter"
+            }
           },
           {
-            "name":"Mayor's Office",
-            "line_type":"data",
-            "fy-2":12762113,
-            "fy-1":13093787,
-            "fy-0":15394267,
-            "fy+1":16210603
+            "Cabinet": {
+              "name":"Mayor's Office"
+            },
+            "FY15 Actual": {
+              "value": 12762113,
+              "filter": "delimiter"
+            },
+            "FY16 Actual": {
+              "value": 13093787,
+              "filter": "delimiter"
+            },
+            "FY17 Budget": {
+              "value": 15394267,
+              "filter": "delimiter"
+            },
+            "FY18 Budget": {
+              "value": 16210603,
+              "filter": "delimiter"
+            }
           },
           {
-            "name":"Non-Mayoral Departments",
-            "line_type":"data",
-            "fy-2":6383774,
-            "fy-1":6610436,
-            "fy-0":6829647,
-            "fy+1":6826877
+            "Cabinet": {
+              "name":"Non-Mayoral Departments"
+            },
+            "FY15 Actual": {
+              "value": 6383774,
+              "filter": "delimiter"
+            },
+            "FY16 Actual": {
+              "value": 6610436,
+              "filter": "delimiter"
+            },
+            "FY17 Budget": {
+              "value": 6829647,
+              "filter": "delimiter"
+            },
+            "FY18 Budget": {
+              "value": 6826877,
+              "filter": "delimiter"
+            }
           },
           {
-            "name":"Operations",
-            "line_type":"data",
-            "fy-2":24933563,
-            "fy-1":25171888,
-            "fy-0":25151866,
-            "fy+1":23811818
+            "Cabinet": {
+              "name":"Operations"
+            },
+            "FY15 Actual": {
+              "value": 24933563,
+              "filter": "delimiter"
+            },
+            "FY16 Actual": {
+              "value": 25171888,
+              "filter": "delimiter"
+            },
+            "FY17 Budget": {
+              "value": 25151866,
+              "filter": "delimiter"
+            },
+            "FY18 Budget": {
+              "value": 23811818,
+              "filter": "delimiter"
+            }
           },
           {
-            "name":"Public Safety",
-            "line_type":"data",
-            "fy-2":581610559,
-            "fy-1":590061083,
-            "fy-0":615121696,
-            "fy+1":633767476
+            "Cabinet": {
+              "name":"Public Safety"
+            },
+            "FY15 Actual": {
+              "value": 581610559,
+              "filter": "delimiter"
+            },
+            "FY16 Actual": {
+              "value": 590061083,
+              "filter": "delimiter"
+            },
+            "FY17 Budget": {
+              "value": 615121696,
+              "filter": "delimiter"
+            },
+            "FY18 Budget": {
+              "value": 633767476,
+              "filter": "delimiter"
+            }
           },
           {
-            "name":"Streets",
-            "line_type":"data",
-            "fy-2":149974323,
-            "fy-1":130479987,
-            "fy-0":137011074,
-            "fy+1":140205055
+            "Cabinet": {
+              "name":"Streets"
+            },
+            "FY15 Actual": {
+              "value": 149974323,
+              "filter": "delimiter"
+            },
+            "FY16 Actual": {
+              "value": 130479987,
+              "filter": "delimiter"
+            },
+            "FY17 Budget": {
+              "value": 137011074,
+              "filter": "delimiter"
+            },
+            "FY18 Budget": {
+              "value": 140205055,
+              "filter": "delimiter"
+            }
           },
           {
-            "name":"Total",
-            "line_type":"total",
-            "fy-2":2416856541,
-            "fy-1":2487079119,
-            "fy-0":2572682229,
-            "fy+1":2629806470
-          }
-        ]
+            "Cabinet": {
+              "name":"Total"
+            },
+            "FY15 Actual": {
+              "value": 2416856541,
+              "filter": "delimiter"
+            },
+            "FY16 Actual": {
+              "value": 2487079119,
+              "filter": "delimiter"
+            },
+            "FY17 Budget": {
+              "value": 2572682229,
+              "filter": "delimiter"
+            },
+            "FY18 Budget": {
+              "value": 2629806470,
+              "filter": "delimiter"
+            }
+          }]
       }
+        ]
     }
   ]
 }
