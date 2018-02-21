@@ -50,9 +50,7 @@
         "title":"Operating Budget",
         "columns":[
           {
-            "Cabinet": {
-              "name":"Administration and Finance"
-            },
+            "Cabinet": "Administration and Finance",
             "FY15 Actual": {
               "value": 226031460,
               "filter": "delimiter"
@@ -71,9 +69,7 @@
             }
           },
           {
-            "Cabinet": {
-              "name":"Arts and Culture"
-            },
+            "Cabinet": "Arts and Culture",
             "FY15 Actual": {
               "value": 42314681,
               "filter": "delimiter"
@@ -92,9 +88,7 @@
             }
           },
           {
-            "Cabinet": {
-              "name":"Civic Engagement"
-            },
+            "Cabinet": "Civic Engagement",
             "FY15 Actual": {
               "value": 11163993,
               "filter": "delimiter"
@@ -113,9 +107,7 @@
             }
           },
           {
-            "Cabinet": {
-              "name":"Economic Development"
-            },
+            "Cabinet": "Economic Development",
             "FY15 Actual": {
               "value": 3871141,
               "filter": "delimiter"
@@ -134,9 +126,7 @@
             }
           },
           {
-            "Cabinet": {
-              "name":"Education"
-            },
+            "Cabinet": "Education",
             "FY15 Actual": {
               "value": 1105294498,
               "filter": "delimiter"
@@ -155,9 +145,7 @@
             }
           },
           {
-            "Cabinet": {
-              "name":"Environment, Energy and Open Space"
-            },
+            "Cabinet": "Environment, Energy and Open Space",
             "FY15 Actual": {
               "value": 41619823,
               "filter": "delimiter"
@@ -176,9 +164,7 @@
             }
           },
           {
-            "Cabinet": {
-              "name":"Health and Human Services"
-            },
+            "Cabinet": "Health and Human Services",
             "FY15 Actual": {
               "value": 112527694,
               "filter": "delimiter"
@@ -197,9 +183,7 @@
             }
           },
           {
-            "Cabinet": {
-              "name":"Housing and Neighborhood Development"
-            },
+            "Cabinet": "Housing and Neighborhood Development",
             "FY15 Actual": {
               "value": 67161854,
               "filter": "delimiter"
@@ -218,9 +202,7 @@
             }
           },
           {
-            "Cabinet": {
-              "name":"Information and Technology"
-            },
+            "Cabinet": "Information and Technology",
             "FY15 Actual": {
               "value": 31207065,
               "filter": "delimiter"
@@ -239,9 +221,7 @@
             }
           },
           {
-            "Cabinet": {
-              "name":"Mayor's Office"
-            },
+            "Cabinet": "Mayor's Office",
             "FY15 Actual": {
               "value": 12762113,
               "filter": "delimiter"
@@ -260,9 +240,7 @@
             }
           },
           {
-            "Cabinet": {
-              "name":"Non-Mayoral Departments"
-            },
+            "Cabinet": "Non-Mayoral Departments",
             "FY15 Actual": {
               "value": 6383774,
               "filter": "delimiter"
@@ -281,9 +259,7 @@
             }
           },
           {
-            "Cabinet": {
-              "name":"Operations"
-            },
+            "Cabinet": "Operations",
             "FY15 Actual": {
               "value": 24933563,
               "filter": "delimiter"
@@ -302,9 +278,7 @@
             }
           },
           {
-            "Cabinet": {
-              "name":"Public Safety"
-            },
+            "Cabinet": "Public Safety",
             "FY15 Actual": {
               "value": 581610559,
               "filter": "delimiter"
@@ -323,9 +297,7 @@
             }
           },
           {
-            "Cabinet": {
-              "name":"Streets"
-            },
+            "Cabinet": "Streets",
             "FY15 Actual": {
               "value": 149974323,
               "filter": "delimiter"
@@ -344,9 +316,7 @@
             }
           },
           {
-            "Cabinet": {
-              "name":"Total"
-            },
+            "Cabinet": "Total",
             "FY15 Actual": {
               "value": 2416856541,
               "filter": "delimiter"
@@ -364,8 +334,8 @@
               "filter": "delimiter"
             }
           }]
-      }
-        ]
+        }
+      ]
     }
   ]
 }
