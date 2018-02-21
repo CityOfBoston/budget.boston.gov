@@ -56,7 +56,7 @@
             {
               "Cabinet":{
                 "name":"Administration and Finance",
-                "link":"/operating_budget/cabinets/administration-and-finance"
+                "link":"/operating-budget/cabinets/administration-and-finance"
               },
               "FY15 Actual":{
                 "value":226031460,
@@ -78,7 +78,7 @@
             {
               "Cabinet":{
                 "name":"Arts and Culture",
-                "link":"/operating_budget/cabinets/arts-and-culture"
+                "link":"/operating-budget/cabinets/arts-and-culture"
               },
               "FY15 Actual":{
                 "value":42314681,
@@ -100,7 +100,7 @@
             {
               "Cabinet":{
                 "name":"Civic Engagement",
-                "link":"/operating_budget/cabinets/civic-engagement"
+                "link":"/operating-budget/cabinets/civic-engagement"
               },
               "FY15 Actual":{
                 "value":11163993,
@@ -122,7 +122,7 @@
             {
               "Cabinet":{
                 "name":"Economic Development",
-                "link":"/operating_budget/cabinets/economic-development"
+                "link":"/operating-budget/cabinets/economic-development"
               },
               "FY15 Actual":{
                 "value":3871141,
@@ -144,7 +144,7 @@
             {
               "Cabinet":{
                 "name":"Education",
-                "link":"/operating_budget/cabinets/education"
+                "link":"/operating-budget/cabinets/education"
               },
               "FY15 Actual":{
                 "value":1105294498,
@@ -166,7 +166,7 @@
             {
               "Cabinet":{
                 "name":"Environment, Energy and Open Space",
-                "link":"/operating_budget/cabinets/environment-energy-and-open-space"
+                "link":"/operating-budget/cabinets/environment-energy-and-open-space"
               },
               "FY15 Actual":{
                 "value":41619823,
@@ -188,7 +188,7 @@
             {
               "Cabinet":{
                 "name":"Health and Human Services",
-                "link":"/operating_budget/cabinets/health-and-human-services"
+                "link":"/operating-budget/cabinets/health-and-human-services"
               },
               "FY15 Actual":{
                 "value":112527694,
@@ -210,7 +210,7 @@
             {
               "Cabinet":{
                 "name":"Housing and Neighborhood Development",
-                "link":"/operating_budget/cabinets/housing-and-neighborhood-development"
+                "link":"/operating-budget/cabinets/housing-and-neighborhood-development"
               },
               "FY15 Actual":{
                 "value":67161854,
@@ -232,7 +232,7 @@
             {
               "Cabinet":{
                 "name":"Information and Technology",
-                "link":"/operating_budget/cabinets/information-and-technology"
+                "link":"/operating-budget/cabinets/information-and-technology"
               },
               "FY15 Actual":{
                 "value":31207065,
@@ -254,7 +254,7 @@
             {
               "Cabinet":{
                 "name":"Mayor's Office",
-                "link":"/operating_budget/cabinets/mayors-office"
+                "link":"/operating-budget/cabinets/mayors-office"
               },
               "FY15 Actual":{
                 "value":12762113,
@@ -276,7 +276,7 @@
             {
               "Cabinet":{
                 "name":"Non-Mayoral Departments",
-                "link":"/operating_budget/cabinets/non-mayoral-departments"
+                "link":"/operating-budget/cabinets/non-mayoral-departments"
               },
               "FY15 Actual":{
                 "value":6383774,
@@ -298,7 +298,7 @@
             {
               "Cabinet":{
                 "name":"Operations",
-                "link":"/operating_budget/cabinets/operations"
+                "link":"/operating-budget/cabinets/operations"
               },
               "FY15 Actual":{
                 "value":24933563,
@@ -320,7 +320,7 @@
             {
               "Cabinet":{
                 "name":"Public Safety",
-                "link":"/operating_budget/cabinets/public-safety"
+                "link":"/operating-budget/cabinets/public-safety"
               },
               "FY15 Actual":{
                 "value":581610559,
@@ -342,7 +342,7 @@
             {
               "Cabinet":{
                 "name":"Streets",
-                "link":"/operating_budget/cabinets/streets"
+                "link":"/operating-budget/cabinets/streets"
               },
               "FY15 Actual":{
                 "value":149974323,
