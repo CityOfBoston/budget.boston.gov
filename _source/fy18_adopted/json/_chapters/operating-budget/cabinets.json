@@ -60,19 +60,23 @@
               },
               "FY15 Actual":{
                 "value":226031460,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY16 Actual":{
                 "value":239080586,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY17 Actual":{
                 "value":254366940,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY18 Actual":{
                 "value":264570113,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               }
             },
             {
@@ -82,19 +86,23 @@
               },
               "FY15 Actual":{
                 "value":42314681,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY16 Actual":{
                 "value":46239054,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY17 Actual":{
                 "value":46283220,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY18 Actual":{
                 "value":47956180,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               }
             },
             {
@@ -104,19 +112,23 @@
               },
               "FY15 Actual":{
                 "value":11163993,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY16 Actual":{
                 "value":12537046,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY17 Actual":{
                 "value":13764374,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY18 Actual":{
                 "value":13630382,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               }
             },
             {
@@ -126,19 +138,23 @@
               },
               "FY15 Actual":{
                 "value":3871141,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY16 Actual":{
                 "value":3834124,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY17 Actual":{
                 "value":10058712,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY18 Actual":{
                 "value":9462755,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               }
             },
             {
@@ -148,19 +164,23 @@
               },
               "FY15 Actual":{
                 "value":1105294498,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY16 Actual":{
                 "value":1142048558,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY17 Actual":{
                 "value":1167025300,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY18 Actual":{
                 "value":1198155372,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               }
             },
             {
@@ -170,19 +190,23 @@
               },
               "FY15 Actual":{
                 "value":41619823,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY16 Actual":{
                 "value":50737313,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY17 Actual":{
                 "value":47163344,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY18 Actual":{
                 "value":49032198,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               }
             },
             {
@@ -192,19 +216,23 @@
               },
               "FY15 Actual":{
                 "value":112527694,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY16 Actual":{
                 "value":116098411,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY17 Actual":{
                 "value":118733582,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY18 Actual":{
                 "value":121277352,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               }
             },
             {
@@ -214,19 +242,23 @@
               },
               "FY15 Actual":{
                 "value":67161854,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY16 Actual":{
                 "value":77054682,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY17 Actual":{
                 "value":85355232,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY18 Actual":{
                 "value":75148322,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               }
             },
             {
@@ -236,19 +268,23 @@
               },
               "FY15 Actual":{
                 "value":31207065,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY16 Actual":{
                 "value":34032164,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY17 Actual":{
                 "value":30422975,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY18 Actual":{
                 "value":29751967,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               }
             },
             {
@@ -258,19 +294,23 @@
               },
               "FY15 Actual":{
                 "value":12762113,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY16 Actual":{
                 "value":13093787,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY17 Actual":{
                 "value":15394267,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY18 Actual":{
                 "value":16210603,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               }
             },
             {
@@ -280,19 +320,23 @@
               },
               "FY15 Actual":{
                 "value":6383774,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY16 Actual":{
                 "value":6610436,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY17 Actual":{
                 "value":6829647,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY18 Actual":{
                 "value":6826877,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               }
             },
             {
@@ -302,19 +346,23 @@
               },
               "FY15 Actual":{
                 "value":24933563,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY16 Actual":{
                 "value":25171888,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY17 Actual":{
                 "value":25151866,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY18 Actual":{
                 "value":23811818,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               }
             },
             {
@@ -324,19 +372,23 @@
               },
               "FY15 Actual":{
                 "value":581610559,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY16 Actual":{
                 "value":590061083,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY17 Actual":{
                 "value":615121696,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY18 Actual":{
                 "value":633767476,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               }
             },
             {
@@ -346,19 +398,23 @@
               },
               "FY15 Actual":{
                 "value":149974323,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY16 Actual":{
                 "value":130479987,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY17 Actual":{
                 "value":137011074,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               },
               "FY18 Actual":{
                 "value":140205055,
-                "filter":"delimiter"
+                "filter":"delimiter",
+                "align":"right"
               }
             }
           ]
