@@ -117,6 +117,8 @@ if ( $source_is_found ); then
       fi
       echo "Project files:"
       ls
+      sleep 25
+      echo "----------------"
       if [ -d "_site" ]; then
         echo "_site folder has been created:"
         ls _site
