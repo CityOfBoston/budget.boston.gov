@@ -82,6 +82,7 @@ if ( $source_is_found ); then
       #gulp clean_project
       echo "executing script in ${PWD}"
       echo "executing script in $(pwd)"
+      ls
       echo "Building with --staging flag."
       gulp build --staging --source $config_fy_source
       if [ ! -d "_cabinets" ]; then
@@ -119,6 +120,7 @@ if ( $source_is_found ); then
       else
         echo "No _site folder :("
       fi
+      ls _site
   # for https://budget.boston.gov
   elif [[ "${TRAVIS_BRANCH}" = "master" ]];
     then
