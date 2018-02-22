@@ -117,6 +117,9 @@ if ( $source_is_found ); then
       fi
       echo "Project files:"
       ls
+      echo "----------------"
+      echo "Inside _chapters dir:"
+      ls _chapters
       sleep 25
       echo "----------------"
       if [ -d "_site" ]; then
