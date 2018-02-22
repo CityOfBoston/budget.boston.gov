@@ -14,7 +14,7 @@ deploy:
     access_key_id: $AWS_ACCESS_KEY_ID
     secret_access_key: $AWS_SECRET_ACCESS_KEY
     bucket: "budget-digital-staging-boston-gov"
-    #skip_cleanup: true
+    skip_cleanup: true
     local_dir: _site
     acl: public_read
     region: $AWS_DEFAULT_REGION
