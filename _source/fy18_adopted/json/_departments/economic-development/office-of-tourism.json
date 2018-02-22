@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_departments~Economic Development~office-of-tourism.json",
-  "source_time":"20180216140550",
+  "source_time":"20180221091640",
   "source_year":"18",
   "name":"Office of Tourism",
   "parent":"Economic Development",
@@ -36,37 +36,37 @@
       {
         "name":"MOATSE Administration",
         "line_type":"data",
-        "fy-2":"352,633",
-        "fy-1":"403,303",
-        "fy-0":"408,135",
-        "fy+1":"404,592",
+        "fy-2":352633,
+        "fy-1":403303,
+        "fy-0":408135,
+        "fy+1":404592,
         "publish_subordinates":true
       },
       {
         "name":Null,
         "line_type":"data",
-        "fy-2":"566,836",
-        "fy-1":"557,227",
-        "fy-0":"656,945",
-        "fy+1":"844,865",
+        "fy-2":566836,
+        "fy-1":557227,
+        "fy-0":656945,
+        "fy+1":844865,
         "publish_subordinates":true
       },
       {
         "name":Null,
         "line_type":"data",
-        "fy-2":"92,090",
-        "fy-1":"132,419",
-        "fy-0":"334,629",
-        "fy+1":"76,705",
+        "fy-2":92090,
+        "fy-1":132419,
+        "fy-0":334629,
+        "fy+1":76705,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"1,011,559",
-        "fy-1":"1,092,949",
-        "fy-0":"1,399,709",
-        "fy+1":"1,326,162"
+        "fy-2":1011559,
+        "fy-1":1092949,
+        "fy-0":1399709,
+        "fy+1":1326162
       }
     ]
   },
@@ -85,19 +85,19 @@
       {
         "name":"City Hall Plaza Fund",
         "line_type":"data",
-        "fy-2":"87,768",
-        "fy-1":"109,440",
-        "fy-0":"60,000",
-        "fy+1":"60,000",
+        "fy-2":87768,
+        "fy-1":109440,
+        "fy-0":60000,
+        "fy+1":60000,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"87,768",
-        "fy-1":"109,440",
-        "fy-0":"60,000",
-        "fy+1":"60,000"
+        "fy-2":87768,
+        "fy-1":109440,
+        "fy-0":60000,
+        "fy+1":60000
       }
     ]
   },

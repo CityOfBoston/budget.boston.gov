@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_departments~Administration & Finance~budget-management.json",
-  "source_time":"20180216140519",
+  "source_time":"20180221091556",
   "source_year":"18",
   "name":"Budget Management",
   "parent":"Administration & Finance",
@@ -36,55 +36,55 @@
       {
         "name":"Budget Administration",
         "line_type":"data",
-        "fy-2":"1,170,876",
-        "fy-1":"1,327,635",
-        "fy-0":"1,516,020",
-        "fy+1":"1,001,218",
+        "fy-2":1170876,
+        "fy-1":1327635,
+        "fy-0":1516020,
+        "fy+1":1001218,
         "publish_subordinates":true
       },
       {
         "name":Null,
         "line_type":"data",
-        "fy-2":"531,594",
-        "fy-1":"551,482",
-        "fy-0":"810,690",
-        "fy+1":"842,389",
+        "fy-2":531594,
+        "fy-1":551482,
+        "fy-0":810690,
+        "fy+1":842389,
         "publish_subordinates":true
       },
       {
         "name":"Revenue Monitoring",
         "line_type":"data",
-        "fy-2":"225,956",
-        "fy-1":"193,686",
-        "fy-0":"193,368",
-        "fy+1":"866,648",
+        "fy-2":225956,
+        "fy-1":193686,
+        "fy-0":193368,
+        "fy+1":866648,
         "publish_subordinates":true
       },
       {
         "name":Null,
         "line_type":"data",
-        "fy-2":"483,707",
-        "fy-1":"473,233",
-        "fy-0":"490,356",
-        "fy+1":"503,146",
+        "fy-2":483707,
+        "fy-1":473233,
+        "fy-0":490356,
+        "fy+1":503146,
         "publish_subordinates":true
       },
       {
         "name":Null,
         "line_type":"data",
-        "fy-2":"172,924",
-        "fy-1":"176,751",
-        "fy-0":"189,542",
-        "fy+1":"191,357",
+        "fy-2":172924,
+        "fy-1":176751,
+        "fy-0":189542,
+        "fy+1":191357,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"2,585,057",
-        "fy-1":"2,722,787",
-        "fy-0":"3,199,976",
-        "fy+1":"3,404,758"
+        "fy-2":2585057,
+        "fy-1":2722787,
+        "fy-0":3199976,
+        "fy+1":3404758
       }
     ]
   },

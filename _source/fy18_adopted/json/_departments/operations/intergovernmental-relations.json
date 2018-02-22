@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_departments~Operations~intergovernmental-relations.json",
-  "source_time":"20180216140645",
+  "source_time":"20180221091757",
   "source_year":"18",
   "name":"Intergovernmental Relations",
   "parent":"Operations",
@@ -36,28 +36,28 @@
       {
         "name":"IGR",
         "line_type":"data",
-        "fy-2":"1,145,490",
-        "fy-1":"1,176,720",
-        "fy-0":"1,086,605",
-        "fy+1":"1,066,026",
+        "fy-2":1145490,
+        "fy-1":1176720,
+        "fy-0":1086605,
+        "fy+1":1066026,
         "publish_subordinates":true
       },
       {
         "name":"Grants Administration",
         "line_type":"data",
-        "fy-2":"91,896",
-        "fy-1":"98,344",
-        "fy-0":"98,564",
-        "fy+1":"99,594",
+        "fy-2":91896,
+        "fy-1":98344,
+        "fy-0":98564,
+        "fy+1":99594,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"1,237,386",
-        "fy-1":"1,275,064",
-        "fy-0":"1,185,169",
-        "fy+1":"1,165,620"
+        "fy-2":1237386,
+        "fy-1":1275064,
+        "fy-0":1185169,
+        "fy+1":1165620
       }
     ]
   },

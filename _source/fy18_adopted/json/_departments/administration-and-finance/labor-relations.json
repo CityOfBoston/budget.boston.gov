@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_departments~Administration & Finance~labor-relations.json",
-  "source_time":"20180216140523",
+  "source_time":"20180221091602",
   "source_year":"18",
   "name":"Labor Relations",
   "parent":"Administration & Finance",
@@ -36,19 +36,19 @@
       {
         "name":"Labor Relations",
         "line_type":"data",
-        "fy-2":"1,364,177",
-        "fy-1":"1,310,607",
-        "fy-0":"1,424,077",
-        "fy+1":"1,439,006",
+        "fy-2":1364177,
+        "fy-1":1310607,
+        "fy-0":1424077,
+        "fy+1":1439006,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"1,364,177",
-        "fy-1":"1,310,607",
-        "fy-0":"1,424,077",
-        "fy+1":"1,439,006"
+        "fy-2":1364177,
+        "fy-1":1310607,
+        "fy-0":1424077,
+        "fy+1":1439006
       }
     ]
   },

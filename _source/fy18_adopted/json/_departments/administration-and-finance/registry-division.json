@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_departments~Administration & Finance~registry-division.json",
-  "source_time":"20180216140527",
+  "source_time":"20180221091609",
   "source_year":"18",
   "name":"Registry Division",
   "parent":"Administration & Finance",
@@ -36,37 +36,37 @@
       {
         "name":"Administration",
         "line_type":"data",
-        "fy-2":"266,220",
-        "fy-1":"256,946",
-        "fy-0":"247,690",
-        "fy+1":"235,893",
+        "fy-2":266220,
+        "fy-1":256946,
+        "fy-0":247690,
+        "fy+1":235893,
         "publish_subordinates":true
       },
       {
         "name":"Vital Statistics",
         "line_type":"data",
-        "fy-2":"635,911",
-        "fy-1":"624,833",
-        "fy-0":"673,235",
-        "fy+1":"648,433",
+        "fy-2":635911,
+        "fy-1":624833,
+        "fy-0":673235,
+        "fy+1":648433,
         "publish_subordinates":true
       },
       {
         "name":"Depositions",
         "line_type":"data",
-        "fy-2":"93,317",
-        "fy-1":"86,277",
-        "fy-0":"110,576",
-        "fy+1":"134,138",
+        "fy-2":93317,
+        "fy-1":86277,
+        "fy-0":110576,
+        "fy+1":134138,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"995,448",
-        "fy-1":"968,056",
-        "fy-0":"1,031,501",
-        "fy+1":"1,018,464"
+        "fy-2":995448,
+        "fy-1":968056,
+        "fy-0":1031501,
+        "fy+1":1018464
       }
     ]
   },

@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_departments~Health & Human Services~public-health-commission.json",
-  "source_time":"20180216140619",
+  "source_time":"20180221091715",
   "source_year":"18",
   "name":"Public Health Commission",
   "parent":"Health & Human Services",
@@ -36,37 +36,37 @@
       {
         "name":"Public Health Services",
         "line_type":"data",
-        "fy-2":"61,502,575",
-        "fy-1":"61,576,757",
-        "fy-0":"62,289,011",
-        "fy+1":"63,966,365",
+        "fy-2":61502575,
+        "fy-1":61576757,
+        "fy-0":62289011,
+        "fy+1":63966365,
         "publish_subordinates":true
       },
       {
         "name":"PHC Administration",
         "line_type":"data",
-        "fy-2":"10,119,485",
-        "fy-1":"10,824,191",
-        "fy-0":"11,345,671",
-        "fy+1":"11,316,056",
+        "fy-2":10119485,
+        "fy-1":10824191,
+        "fy-0":11345671,
+        "fy+1":11316056,
         "publish_subordinates":true
       },
       {
         "name":"Public Health Property",
         "line_type":"data",
-        "fy-2":"2,205,092",
-        "fy-1":"3,754,487",
-        "fy-0":"3,632,518",
-        "fy+1":"4,059,310",
+        "fy-2":2205092,
+        "fy-1":3754487,
+        "fy-0":3632518,
+        "fy+1":4059310,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"73,827,152",
-        "fy-1":"76,155,435",
-        "fy-0":"77,267,200",
-        "fy+1":"79,341,731"
+        "fy-2":73827152,
+        "fy-1":76155435,
+        "fy-0":77267200,
+        "fy+1":79341731
       }
     ]
   },
@@ -199,26 +199,26 @@
             {
               "project_grant_name":"HIV Emergency Relief Subcontracts",
               "line_type":"data",
-              "FY18":"10,739,813"
+              "FY18":10739813
             },
             {
               "project_grant_name":"RWCA Administration",
               "line_type":"data",
-              "FY18":"1,076,145"
+              "FY18":1076145
             },
             {
               "project_grant_name":"RWCA Quality Management",
               "line_type":"data",
-              "FY18":"728,533"
+              "FY18":728533
             },
             {
               "project_grant_name":"RWCA Support Services",
               "line_type":"data",
-              "FY18":"380,920"
+              "FY18":380920
             },
             {
               "line_type":"total",
-              "FY18":"12,925,411"
+              "FY18":12925411
             }
           ]
         }
@@ -237,26 +237,26 @@
             {
               "project_grant_name":"Asthma Initiatives",
               "line_type":"data",
-              "FY18":"10,000"
+              "FY18":10000
             },
             {
               "project_grant_name":"BHAPPY",
               "line_type":"data",
-              "FY18":"52,253"
+              "FY18":52253
             },
             {
               "project_grant_name":"Electronic Asthma Referral Systems",
               "line_type":"data",
-              "FY18":"0"
+              "FY18":0
             },
             {
               "project_grant_name":"Partners in Health and Housing",
               "line_type":"data",
-              "FY18":"220,244"
+              "FY18":220244
             },
             {
               "line_type":"total",
-              "FY18":"282,497"
+              "FY18":282497
             }
           ]
         }
@@ -275,11 +275,11 @@
             {
               "project_grant_name":"Bio-Safety",
               "line_type":"data",
-              "FY18":"90,000"
+              "FY18":90000
             },
             {
               "line_type":"total",
-              "FY18":"90,000"
+              "FY18":90000
             }
           ]
         }
@@ -298,11 +298,11 @@
             {
               "project_grant_name":"BHSI - Administration",
               "line_type":"data",
-              "FY18":"1,788,408"
+              "FY18":1788408
             },
             {
               "line_type":"total",
-              "FY18":"1,788,408"
+              "FY18":1788408
             }
           ]
         }
@@ -321,26 +321,26 @@
             {
               "project_grant_name":"Family Planning Services",
               "line_type":"data",
-              "FY18":"29,912"
+              "FY18":29912
             },
             {
               "project_grant_name":"Model State Supported AHEC",
               "line_type":"data",
-              "FY18":"79,892"
+              "FY18":79892
             },
             {
               "project_grant_name":"School Based Health",
               "line_type":"data",
-              "FY18":"252,390"
+              "FY18":252390
             },
             {
               "project_grant_name":"School Health Programs-Income",
               "line_type":"data",
-              "FY18":"274,861"
+              "FY18":274861
             },
             {
               "line_type":"total",
-              "FY18":"637,055"
+              "FY18":637055
             }
           ]
         }
@@ -359,11 +359,11 @@
             {
               "project_grant_name":"Public Health Preparedness (EPI)",
               "line_type":"data",
-              "FY18":"529,260"
+              "FY18":529260
             },
             {
               "line_type":"total",
-              "FY18":"529,260"
+              "FY18":529260
             }
           ]
         }
@@ -382,16 +382,16 @@
             {
               "project_grant_name":"CDC Suffolk County Jail",
               "line_type":"data",
-              "FY18":"97,950"
+              "FY18":97950
             },
             {
               "project_grant_name":"I-3 Immunization",
               "line_type":"data",
-              "FY18":"64,643"
+              "FY18":64643
             },
             {
               "line_type":"total",
-              "FY18":"162,593"
+              "FY18":162593
             }
           ]
         }
@@ -410,11 +410,11 @@
             {
               "project_grant_name":"PHEP Public Information",
               "line_type":"data",
-              "FY18":"50,000"
+              "FY18":50000
             },
             {
               "line_type":"total",
-              "FY18":"50,000"
+              "FY18":50000
             }
           ]
         }
@@ -433,16 +433,16 @@
             {
               "project_grant_name":"Community Initiatives Income",
               "line_type":"data",
-              "FY18":"1,000"
+              "FY18":1000
             },
             {
               "project_grant_name":"Prevention and Wellness Trust",
               "line_type":"data",
-              "FY18":"302,898"
+              "FY18":302898
             },
             {
               "line_type":"total",
-              "FY18":"303,898"
+              "FY18":303898
             }
           ]
         }
@@ -461,11 +461,11 @@
             {
               "project_grant_name":"MOAPC",
               "line_type":"data",
-              "FY18":"100,000"
+              "FY18":100000
             },
             {
               "line_type":"total",
-              "FY18":"100,000"
+              "FY18":100000
             }
           ]
         }
@@ -484,11 +484,11 @@
             {
               "project_grant_name":"CHEC Income",
               "line_type":"data",
-              "FY18":"42,959"
+              "FY18":42959
             },
             {
               "line_type":"total",
-              "FY18":"42,959"
+              "FY18":42959
             }
           ]
         }
@@ -507,11 +507,11 @@
             {
               "project_grant_name":"Death Registry/ Burial Permits",
               "line_type":"data",
-              "FY18":"182,033"
+              "FY18":182033
             },
             {
               "line_type":"total",
-              "FY18":"182,033"
+              "FY18":182033
             }
           ]
         }
@@ -530,16 +530,16 @@
             {
               "project_grant_name":"Mental Health Systems of Care",
               "line_type":"data",
-              "FY18":"962,969"
+              "FY18":962969
             },
             {
               "project_grant_name":"Project Launch Expansion",
               "line_type":"data",
-              "FY18":"117,987"
+              "FY18":117987
             },
             {
               "line_type":"total",
-              "FY18":"1,080,956"
+              "FY18":1080956
             }
           ]
         }
@@ -558,36 +558,36 @@
             {
               "project_grant_name":"911 PSAP Support and Initiatives",
               "line_type":"data",
-              "FY18":"410,800"
+              "FY18":410800
             },
             {
               "project_grant_name":"Boston EMS Details",
               "line_type":"data",
-              "FY18":"326,000"
+              "FY18":326000
             },
             {
               "project_grant_name":"Bragdon Street Lease",
               "line_type":"data",
-              "FY18":"265,200"
+              "FY18":265200
             },
             {
               "project_grant_name":"CMED Grant",
               "line_type":"data",
-              "FY18":"406,000"
+              "FY18":406000
             },
             {
               "project_grant_name":"EMS Community Program",
               "line_type":"data",
-              "FY18":"85,000"
+              "FY18":85000
             },
             {
               "project_grant_name":"State 911 Training Grant",
               "line_type":"data",
-              "FY18":"154,600"
+              "FY18":154600
             },
             {
               "line_type":"total",
-              "FY18":"1,647,600"
+              "FY18":1647600
             }
           ]
         }
@@ -606,31 +606,31 @@
             {
               "project_grant_name":"Asbestos Removal Permits",
               "line_type":"data",
-              "FY18":"235,000"
+              "FY18":235000
             },
             {
               "project_grant_name":"BPHC Permits",
               "line_type":"data",
-              "FY18":"15,000"
+              "FY18":15000
             },
             {
               "project_grant_name":"DPH (Statutory) Permits",
               "line_type":"data",
-              "FY18":"15,000"
+              "FY18":15000
             },
             {
               "project_grant_name":"Medical Marijuana",
               "line_type":"data",
-              "FY18":"15,968"
+              "FY18":15968
             },
             {
               "project_grant_name":"Safe Shops Nail Salons",
               "line_type":"data",
-              "FY18":"43,000"
+              "FY18":43000
             },
             {
               "line_type":"total",
-              "FY18":"323,968"
+              "FY18":323968
             }
           ]
         }
@@ -649,16 +649,16 @@
             {
               "project_grant_name":"Mass in Motion",
               "line_type":"data",
-              "FY18":"50,000"
+              "FY18":50000
             },
             {
               "project_grant_name":"PICH",
               "line_type":"data",
-              "FY18":"262,661"
+              "FY18":262661
             },
             {
               "line_type":"total",
-              "FY18":"312,661"
+              "FY18":312661
             }
           ]
         }
@@ -677,31 +677,31 @@
             {
               "project_grant_name":"Boston Healthy Start",
               "line_type":"data",
-              "FY18":"170,286"
+              "FY18":170286
             },
             {
               "project_grant_name":"Collaborative Home Visits",
               "line_type":"data",
-              "FY18":"68,952"
+              "FY18":68952
             },
             {
               "project_grant_name":"Healthy Baby/Child-Income",
               "line_type":"data",
-              "FY18":"1,000"
+              "FY18":1000
             },
             {
               "project_grant_name":"Rate Based Welcome Family",
               "line_type":"data",
-              "FY18":"59,876"
+              "FY18":59876
             },
             {
               "project_grant_name":"Welcome Family",
               "line_type":"data",
-              "FY18":"69,921"
+              "FY18":69921
             },
             {
               "line_type":"total",
-              "FY18":"370,035"
+              "FY18":370035
             }
           ]
         }
@@ -720,21 +720,21 @@
             {
               "project_grant_name":"Dental Ombudsman",
               "line_type":"data",
-              "FY18":"1,293,239"
+              "FY18":1293239
             },
             {
               "project_grant_name":"Dental Ombudsperson",
               "line_type":"data",
-              "FY18":"130,869"
+              "FY18":130869
             },
             {
               "project_grant_name":"RWTMA Training",
               "line_type":"data",
-              "FY18":"224,000"
+              "FY18":224000
             },
             {
               "line_type":"total",
-              "FY18":"1,648,108"
+              "FY18":1648108
             }
           ]
         }
@@ -753,156 +753,156 @@
             {
               "project_grant_name":"BSAS (SAMHSA)",
               "line_type":"data",
-              "FY18":"0"
+              "FY18":0
             },
             {
               "project_grant_name":"CPS-CSPECH",
               "line_type":"data",
-              "FY18":"180,000"
+              "FY18":180000
             },
             {
               "project_grant_name":"DHCD 112 Southampton",
               "line_type":"data",
-              "FY18":"4,478,841"
+              "FY18":4478841
             },
             {
               "project_grant_name":"DHCD Permanent Housing",
               "line_type":"data",
-              "FY18":"197,149"
+              "FY18":197149
             },
             {
               "project_grant_name":"DHCD Serving Ourselves",
               "line_type":"data",
-              "FY18":"100,000"
+              "FY18":100000
             },
             {
               "project_grant_name":"DHCD Woods Mullen Shelter",
               "line_type":"data",
-              "FY18":"1,960,956"
+              "FY18":1960956
             },
             {
               "project_grant_name":"Emergency Solutions Grant",
               "line_type":"data",
-              "FY18":"161,066"
+              "FY18":161066
             },
             {
               "project_grant_name":"ESG 112 Southampton Shelter",
               "line_type":"data",
-              "FY18":"0"
+              "FY18":0
             },
             {
               "project_grant_name":"External Food Contracts",
               "line_type":"data",
-              "FY18":"0"
+              "FY18":0
             },
             {
               "project_grant_name":"Friends Fund",
               "line_type":"data",
-              "FY18":"130,000"
+              "FY18":130000
             },
             {
               "project_grant_name":"General Funds-Homeless Service",
               "line_type":"data",
-              "FY18":"10,000"
+              "FY18":10000
             },
             {
               "project_grant_name":"Home Program Client Fees",
               "line_type":"data",
-              "FY18":"3,000"
+              "FY18":3000
             },
             {
               "project_grant_name":"HOPWA",
               "line_type":"data",
-              "FY18":"46,801"
+              "FY18":46801
             },
             {
               "project_grant_name":"Housing and Stabilization",
               "line_type":"data",
-              "FY18":"125,000"
+              "FY18":125000
             },
             {
               "project_grant_name":"Long Term Stayers Home",
               "line_type":"data",
-              "FY18":"0"
+              "FY18":0
             },
             {
               "project_grant_name":"Long Term Stayers Housing",
               "line_type":"data",
-              "FY18":"517,875"
+              "FY18":517875
             },
             {
               "project_grant_name":"Mental Health for Homeless",
               "line_type":"data",
-              "FY18":"300,108"
+              "FY18":300108
             },
             {
               "project_grant_name":"New Rapid Re-housing Program",
               "line_type":"data",
-              "FY18":"205,860"
+              "FY18":205860
             },
             {
               "project_grant_name":"Pay for Success - Income",
               "line_type":"data",
-              "FY18":"35,000"
+              "FY18":35000
             },
             {
               "project_grant_name":"Pay for Success - MBHP",
               "line_type":"data",
-              "FY18":"226,980"
+              "FY18":226980
             },
             {
               "project_grant_name":"Pay For Success_3rd Party",
               "line_type":"data",
-              "FY18":"0"
+              "FY18":0
             },
             {
               "project_grant_name":"Priority 1 Supportive Services for Vetarans Family Program",
               "line_type":"data",
-              "FY18":"98,072"
+              "FY18":98072
             },
             {
               "project_grant_name":"Project SOAR",
               "line_type":"data",
-              "FY18":"0"
+              "FY18":0
             },
             {
               "project_grant_name":"Rapid Rehousing",
               "line_type":"data",
-              "FY18":"0"
+              "FY18":0
             },
             {
               "project_grant_name":"Re-Entry Revenue",
               "line_type":"data",
-              "FY18":"0"
+              "FY18":0
             },
             {
               "project_grant_name":"RWCA - Case Management",
               "line_type":"data",
-              "FY18":"367,215"
+              "FY18":367215
             },
             {
               "project_grant_name":"RWPS-Psychologial Support",
               "line_type":"data",
-              "FY18":"30,348"
+              "FY18":30348
             },
             {
               "project_grant_name":"Serving Ourselves",
               "line_type":"data",
-              "FY18":"0"
+              "FY18":0
             },
             {
               "project_grant_name":"Shelter Plus Care - MBHP",
               "line_type":"data",
-              "FY18":"100,464"
+              "FY18":100464
             },
             {
               "project_grant_name":"Wyman Reentry Center (BSAS)",
               "line_type":"data",
-              "FY18":"0"
+              "FY18":0
             },
             {
               "line_type":"total",
-              "FY18":"9,274,735"
+              "FY18":9274735
             }
           ]
         }
@@ -921,11 +921,11 @@
             {
               "project_grant_name":"Childhood Injury Prevention",
               "line_type":"data",
-              "FY18":"8,000"
+              "FY18":8000
             },
             {
               "line_type":"total",
-              "FY18":"8,000"
+              "FY18":8000
             }
           ]
         }
@@ -944,11 +944,11 @@
             {
               "project_grant_name":Null,
               "line_type":"data",
-              "FY18":"203,294"
+              "FY18":203294
             },
             {
               "line_type":"total",
-              "FY18":"203,294"
+              "FY18":203294
             }
           ]
         }
@@ -967,16 +967,16 @@
             {
               "project_grant_name":"Childhood Lead Poisoning Prevention",
               "line_type":"data",
-              "FY18":"201,294"
+              "FY18":201294
             },
             {
               "project_grant_name":"Lead Training Income",
               "line_type":"data",
-              "FY18":"2,000"
+              "FY18":2000
             },
             {
               "line_type":"total",
-              "FY18":"203,294"
+              "FY18":203294
             }
           ]
         }
@@ -995,16 +995,16 @@
             {
               "project_grant_name":"Connecting Consumers with Care",
               "line_type":"data",
-              "FY18":"40,000"
+              "FY18":40000
             },
             {
               "project_grant_name":"MHL- Health Resource Directory",
               "line_type":"data",
-              "FY18":"200,000"
+              "FY18":200000
             },
             {
               "line_type":"total",
-              "FY18":"240,000"
+              "FY18":240000
             }
           ]
         }
@@ -1023,11 +1023,11 @@
             {
               "project_grant_name":"Residency Training Agreement",
               "line_type":"data",
-              "FY18":"8,400"
+              "FY18":8400
             },
             {
               "line_type":"total",
-              "FY18":"8,400"
+              "FY18":8400
             }
           ]
         }
@@ -1046,71 +1046,71 @@
             {
               "project_grant_name":"HMCC - ASPR",
               "line_type":"data",
-              "FY18":"441,548"
+              "FY18":441548
             },
             {
               "project_grant_name":"HMCC - MRC Reserve",
               "line_type":"data",
-              "FY18":"93,379"
+              "FY18":93379
             },
             {
               "project_grant_name":"OPHP Income",
               "line_type":"data",
-              "FY18":"44,653"
+              "FY18":44653
             },
             {
               "project_grant_name":"Public Health Preparedness",
               "line_type":"data",
-              "FY18":"368,120"
+              "FY18":368120
             },
             {
               "project_grant_name":"Statewide Training",
               "line_type":"data",
-              "FY18":"203,000"
+              "FY18":203000
             },
             {
               "project_grant_name":"UASI - CBRNE",
               "line_type":"data",
-              "FY18":"100,000"
+              "FY18":100000
             },
             {
               "project_grant_name":"UASI - ESF 8",
               "line_type":"data",
-              "FY18":"100,000"
+              "FY18":100000
             },
             {
               "project_grant_name":"UASI - MedSurge Training",
               "line_type":"data",
-              "FY18":"0"
+              "FY18":0
             },
             {
               "project_grant_name":"UASI All Hazards Pyschological Trauma",
               "line_type":"data",
-              "FY18":"0"
+              "FY18":0
             },
             {
               "project_grant_name":"UASI Comm Resilience",
               "line_type":"data",
-              "FY18":"75,000"
+              "FY18":75000
             },
             {
               "project_grant_name":"UASI Mutual Aid",
               "line_type":"data",
-              "FY18":"55,000"
+              "FY18":55000
             },
             {
               "project_grant_name":"UASI Patient TrackingUASI SS ResilienceUASI SS Resilence",
               "line_type":"data",
-              "FY18":"75,000"
+              "FY18":75000
             },
             {
               "project_grant_name":"UASI SS ResilienceUASI SS ResilienceUASI SS Resilence",
               "line_type":"data",
-              "FY18":"75,000"
+              "FY18":75000
             },
             {
               "line_type":"total",
-              "FY18":"1,630,700"
+              "FY18":1630700
             }
           ]
         }
@@ -1129,11 +1129,11 @@
             {
               "project_grant_name":"GHC Fellows Internship",
               "line_type":"data",
-              "FY18":"6,775"
+              "FY18":6775
             },
             {
               "line_type":"total",
-              "FY18":"6,775"
+              "FY18":6775
             }
           ]
         }
@@ -1152,36 +1152,36 @@
             {
               "project_grant_name":"Entre Familia Residential",
               "line_type":"data",
-              "FY18":"1,013,028"
+              "FY18":1013028
             },
             {
               "project_grant_name":"Minority Women HIV/A Treatment",
               "line_type":"data",
-              "FY18":"157,074"
+              "FY18":157074
             },
             {
               "project_grant_name":"Re-Entry Revenue Wyman",
               "line_type":"data",
-              "FY18":"38,095"
+              "FY18":38095
             },
             {
               "project_grant_name":"The PAATHS Project",
               "line_type":"data",
-              "FY18":"8,037"
+              "FY18":8037
             },
             {
               "project_grant_name":"Transitions",
               "line_type":"data",
-              "FY18":"1,721,865"
+              "FY18":1721865
             },
             {
               "project_grant_name":"Women and Families Division",
               "line_type":"data",
-              "FY18":"10,000"
+              "FY18":10000
             },
             {
               "line_type":"total",
-              "FY18":"2,948,099"
+              "FY18":2948099
             }
           ]
         }
@@ -1200,16 +1200,16 @@
             {
               "project_grant_name":"Behavioral Health Services",
               "line_type":"data",
-              "FY18":"32,582"
+              "FY18":32582
             },
             {
               "project_grant_name":"DON PAATHS Navigator",
               "line_type":"data",
-              "FY18":"77,894"
+              "FY18":77894
             },
             {
               "line_type":"total",
-              "FY18":"110,476"
+              "FY18":110476
             }
           ]
         }
@@ -1228,11 +1228,11 @@
             {
               "project_grant_name":"Enhanced Needle Exchange",
               "line_type":"data",
-              "FY18":"886,420"
+              "FY18":886420
             },
             {
               "line_type":"total",
-              "FY18":"886,420"
+              "FY18":886420
             }
           ]
         }
@@ -1251,31 +1251,31 @@
             {
               "project_grant_name":"Drug Free Counseling-Income",
               "line_type":"data",
-              "FY18":"10,560"
+              "FY18":10560
             },
             {
               "project_grant_name":"Men's Substance Abuse Income",
               "line_type":"data",
-              "FY18":"129,000"
+              "FY18":129000
             },
             {
               "project_grant_name":"MOM's Project- Income",
               "line_type":"data",
-              "FY18":"129,000"
+              "FY18":129000
             },
             {
               "project_grant_name":"South Boston Collaborative Inc",
               "line_type":"data",
-              "FY18":"199,581"
+              "FY18":199581
             },
             {
               "project_grant_name":"Substance Abuse Prevention Collaboration",
               "line_type":"data",
-              "FY18":"400,000"
+              "FY18":400000
             },
             {
               "line_type":"total",
-              "FY18":"868,141"
+              "FY18":868141
             }
           ]
         }
@@ -1294,21 +1294,21 @@
             {
               "project_grant_name":"Boston Tobacco Control - DPH",
               "line_type":"data",
-              "FY18":"144,787"
+              "FY18":144787
             },
             {
               "project_grant_name":"Boston Tobacco Control - Fines",
               "line_type":"data",
-              "FY18":"35,000"
+              "FY18":35000
             },
             {
               "project_grant_name":"Boston Tobacco Control - Ordinance Permits",
               "line_type":"data",
-              "FY18":"250,000"
+              "FY18":250000
             },
             {
               "line_type":"total",
-              "FY18":"429,787"
+              "FY18":429787
             }
           ]
         }
@@ -1327,16 +1327,16 @@
             {
               "project_grant_name":"TB Clinic Fee Portion",
               "line_type":"data",
-              "FY18":"139,547"
+              "FY18":139547
             },
             {
               "project_grant_name":"TB Clinic-3rd Party Reimbursement",
               "line_type":"data",
-              "FY18":"293,913"
+              "FY18":293913
             },
             {
               "line_type":"total",
-              "FY18":"433,460"
+              "FY18":433460
             }
           ]
         }
@@ -1355,46 +1355,46 @@
             {
               "project_grant_name":"Byrne CJI Program",
               "line_type":"data",
-              "FY18":"965,941"
+              "FY18":965941
             },
             {
               "project_grant_name":"Choice Neighborhood Initiative",
               "line_type":"data",
-              "FY18":"18,012"
+              "FY18":18012
             },
             {
               "project_grant_name":"Dating Violence Intervention",
               "line_type":"data",
-              "FY18":"83,060"
+              "FY18":83060
             },
             {
               "project_grant_name":"Defending Childhood Initiatives",
               "line_type":"data",
-              "FY18":"573,692"
+              "FY18":573692
             },
             {
               "project_grant_name":"Determination of Need",
               "line_type":"data",
-              "FY18":"502,872"
+              "FY18":502872
             },
             {
               "project_grant_name":"EC Trauma Informed Learning",
               "line_type":"data",
-              "FY18":"0"
+              "FY18":0
             },
             {
               "project_grant_name":"Safe and Successful Youth Initiatives",
               "line_type":"data",
-              "FY18":"0"
+              "FY18":0
             },
             {
               "project_grant_name":"Teen Dating Violence",
               "line_type":"data",
-              "FY18":"48,170"
+              "FY18":48170
             },
             {
               "line_type":"total",
-              "FY18":"2,191,747"
+              "FY18":2191747
             }
           ]
         }
@@ -1402,7 +1402,7 @@
     },
     {
       "line_type":"total",
-      "FY18":"330,919,712"
+      "FY18":330919712
     }
   ],
   "external_funds":[

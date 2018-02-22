@@ -14,7 +14,7 @@
   "section_type_short":"C",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~streets.json",
-  "source_time":"20180216140701",
+  "source_time":"20180221091818",
   "source_year":"18",
   "mission":[
     "The mission of the Streets Cabinet is to innovate, develop, implement, support and manage all programs, projects and policies that enhance clean, well-lit, attractive and efficient infrastructure that moves vehicular and pedestrian traffic safely."
@@ -38,50 +38,50 @@
       {
         "department":"Central Fleet Management",
         "line_type":"data",
-        "fy-2":"2,672,446",
-        "fy-1":"2,148,719",
-        "fy-0":"2,590,424",
-        "fy+1":"2,805,234"
+        "fy-2":2672446,
+        "fy-1":2148719,
+        "fy-0":2590424,
+        "fy+1":2805234
       },
       {
         "department":"Office of Streets",
         "line_type":"data",
-        "fy-2":"1,360,422",
-        "fy-1":"1,649,756",
-        "fy-0":"1,978,821",
-        "fy+1":"1,975,090"
+        "fy-2":1360422,
+        "fy-1":1649756,
+        "fy-0":1978821,
+        "fy+1":1975090
       },
       {
         "department":"Public Works Department",
         "line_type":"data",
-        "fy-2":"657,427,968",
-        "fy-1":"680,438,032",
-        "fy-0":"658,868,088",
-        "fy+1":"675,698,144"
+        "fy-2":657427968,
+        "fy-1":680438032,
+        "fy-0":658868088,
+        "fy+1":675698144
       },
       {
         "department":"Snow Removal",
         "line_type":"data",
-        "fy-2":"38,453,034",
-        "fy-1":"14,785,551",
-        "fy-0":"22,563,964",
-        "fy+1":"22,563,964"
+        "fy-2":38453034,
+        "fy-1":14785551,
+        "fy-0":22563964,
+        "fy+1":22563964
       },
       {
         "department":"Transportation Department",
         "line_type":"data",
-        "fy-2":"148,782,874",
-        "fy-1":"157,169,523",
-        "fy-0":"159,212,593",
-        "fy+1":"167,227,786"
+        "fy-2":148782874,
+        "fy-1":157169523,
+        "fy-0":159212593,
+        "fy+1":167227786
       },
       {
         "total":"Total",
         "line_type":"total",
-        "fy-2":"848,696,744",
-        "fy-1":"856,191,581",
-        "fy-0":"845,213,890",
-        "fy+1":"870,270,218"
+        "fy-2":848696744,
+        "fy-1":856191581,
+        "fy-0":845213890,
+        "fy+1":870270218
       }
     ],
     "capital_budget_expenditures":[
@@ -100,26 +100,26 @@
           {
             "title":"Public Works Department",
             "line_type":"data",
-            "fy-2":"75,920,128",
-            "fy-1":"45,313,639",
-            "fy-0":"69,118,056",
-            "fy+1":"53,876,783"
+            "fy-2":75920128,
+            "fy-1":45313639,
+            "fy-0":69118056,
+            "fy+1":53876783
           },
           {
             "title":"Transportation Department",
             "line_type":"data",
-            "fy-2":"3,188,162",
-            "fy-1":"7,512,618",
-            "fy-0":"15,599,834",
-            "fy+1":"21,557,711"
+            "fy-2":3188162,
+            "fy-1":7512618,
+            "fy-0":15599834,
+            "fy+1":21557711
           },
           {
             "title":"Total",
             "line_type":"total",
-            "fy-2":"79,108,290",
-            "fy-1":"52,826,257",
-            "fy-0":"84,717,890",
-            "fy+1":"75,434,494"
+            "fy-2":79108290,
+            "fy-1":52826257,
+            "fy-0":84717890,
+            "fy+1":75434494
           }
         ]
       }
@@ -140,34 +140,34 @@
       {
         "title":"Central Fleet Management",
         "line_type":"data",
-        "fy-2":"0",
-        "fy-1":"58,758",
-        "fy-0":"287,242",
-        "fy+1":"0"
+        "fy-2":0,
+        "fy-1":58758,
+        "fy-0":287242,
+        "fy+1":0
       },
       {
         "title":"Public Works Department",
         "line_type":"data",
-        "fy-2":"224,288",
-        "fy-1":"1,724,520",
-        "fy-0":"160,000",
-        "fy+1":"160,000"
+        "fy-2":224288,
+        "fy-1":1724520,
+        "fy-0":160000,
+        "fy+1":160000
       },
       {
         "title":"Transportation Department",
         "line_type":"data",
-        "fy-2":"10,660,338",
-        "fy-1":"10,148,316",
-        "fy-0":"12,431,550",
-        "fy+1":"11,575,500"
+        "fy-2":10660338,
+        "fy-1":10148316,
+        "fy-0":12431550,
+        "fy+1":11575500
       },
       {
         "total":"Total Cabinet",
         "line_type":"total",
-        "fy-2":"10,884,626",
-        "fy-1":"11,931,594",
-        "fy-0":"12,878,792",
-        "fy+1":"11,735,500"
+        "fy-2":10884626,
+        "fy-1":11931594,
+        "fy-0":12878792,
+        "fy+1":11735500
       }
     ]
   }

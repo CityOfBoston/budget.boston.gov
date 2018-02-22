@@ -14,7 +14,7 @@
   "section_type_short":"C",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~health-and-human-services.json",
-  "source_time":"20180216140609",
+  "source_time":"20180221091659",
   "source_year":"18",
   "mission":[
     "The Health and Human Services Cabinet is committed to promoting the health and well-being of the City's residents particularly the most vulnerable. The provision of social, recreational, health and support services to city residents, particularly the homeless, persons with disabilities, women, the elderly, youth, immigrants and veterans, will be coordinated and made available in a customer-friendly and culturally sensitive manner. The Cabinet enforces all antidiscrimination laws and protections under the jurisdiction of the City, and advocates for the advancement of policies and legislation to address the needs of individuals and groups, supports disease and injury prevention, delivers emergency health services and health education and promotion services within the City."
@@ -52,66 +52,66 @@
       {
         "department":"Boston Centers for Youth & Families",
         "line_type":"data",
-        "fy-2":"96,518,548",
-        "fy-1":"99,670,988",
-        "fy-0":"101,036,192",
-        "fy+1":"102,119,136"
+        "fy-2":96518548,
+        "fy-1":99670988,
+        "fy-0":101036192,
+        "fy+1":102119136
       },
       {
         "department":"Boston VETS",
         "line_type":"data",
-        "fy-2":"4,442,074",
-        "fy-1":"3,948,303",
-        "fy-0":"4,677,730",
-        "fy+1":"4,708,453"
+        "fy-2":4442074,
+        "fy-1":3948303,
+        "fy-0":4677730,
+        "fy+1":4708453
       },
       {
         "department":"Commission for Persons With Disabilities",
         "line_type":"data",
-        "fy-2":"364,997",
-        "fy-1":"287,325",
-        "fy-0":"418,195",
-        "fy+1":"426,618"
+        "fy-2":364997,
+        "fy-1":287325,
+        "fy-0":418195,
+        "fy+1":426618
       },
       {
         "department":"Fair Housing & Equity",
         "line_type":"data",
-        "fy-2":"446,054",
-        "fy-1":"320,860",
-        "fy-0":"565,660",
-        "fy+1":"557,454"
+        "fy-2":446054,
+        "fy-1":320860,
+        "fy-0":565660,
+        "fy+1":557454
       },
       {
         "department":"Office for Immigrant Advancement",
         "line_type":"data",
-        "fy-2":"362,790",
-        "fy-1":"381,363",
-        "fy-0":"425,021",
-        "fy+1":"439,937"
+        "fy-2":362790,
+        "fy-1":381363,
+        "fy-0":425021,
+        "fy+1":439937
       },
       {
         "department":"Public Health Commission",
         "line_type":"data",
-        "fy-2":"221,481,456",
-        "fy-1":"228,466,305",
-        "fy-0":"231,801,600",
-        "fy+1":"238,025,193"
+        "fy-2":221481456,
+        "fy-1":228466305,
+        "fy-0":231801600,
+        "fy+1":238025193
       },
       {
         "department":"Youth Engagement & Employment",
         "line_type":"data",
-        "fy-2":"4,989,679",
-        "fy-1":"5,759,934",
-        "fy-0":"6,058,544",
-        "fy+1":"6,331,229"
+        "fy-2":4989679,
+        "fy-1":5759934,
+        "fy-0":6058544,
+        "fy+1":6331229
       },
       {
         "total":"Total",
         "line_type":"total",
-        "fy-2":"328,605,598",
-        "fy-1":"338,835,078",
-        "fy-0":"344,982,942",
-        "fy+1":"352,608,020"
+        "fy-2":328605598,
+        "fy-1":338835078,
+        "fy-0":344982942,
+        "fy+1":352608020
       }
     ],
     "capital_budget_expenditures":[
@@ -130,26 +130,26 @@
           {
             "title":"Boston Centers for Youth & Families",
             "line_type":"data",
-            "fy-2":"2,746,410",
-            "fy-1":"2,631,712",
-            "fy-0":"8,360,000",
-            "fy+1":"10,483,248"
+            "fy-2":2746410,
+            "fy-1":2631712,
+            "fy-0":8360000,
+            "fy+1":10483248
           },
           {
             "title":"Public Health Commission",
             "line_type":"data",
-            "fy-2":"8,238,989",
-            "fy-1":"13,212,794",
-            "fy-0":"1,015,000",
-            "fy+1":"1,016,115"
+            "fy-2":8238989,
+            "fy-1":13212794,
+            "fy-0":1015000,
+            "fy+1":1016115
           },
           {
             "title":"Total",
             "line_type":"total",
-            "fy-2":"10,985,399",
-            "fy-1":"15,844,506",
-            "fy-0":"9,375,000",
-            "fy+1":"11,499,363"
+            "fy-2":10985399,
+            "fy-1":15844506,
+            "fy-0":9375000,
+            "fy+1":11499363
           }
         ]
       }
@@ -170,50 +170,50 @@
       {
         "title":"Boston Centers for Youth & Families",
         "line_type":"data",
-        "fy-2":"4,861,028",
-        "fy-1":"7,915,152",
-        "fy-0":"9,558,064",
-        "fy+1":"8,051,132"
+        "fy-2":4861028,
+        "fy-1":7915152,
+        "fy-0":9558064,
+        "fy+1":8051132
       },
       {
         "title":"Fair Housing & Equity",
         "line_type":"data",
-        "fy-2":"1,492,684",
-        "fy-1":"1,880,370",
-        "fy-0":"1,164,342",
-        "fy+1":"1,380,544"
+        "fy-2":1492684,
+        "fy-1":1880370,
+        "fy-0":1164342,
+        "fy+1":1380544
       },
       {
         "title":"Office for Immigrant Advancement",
         "line_type":"data",
-        "fy-2":"489,649",
-        "fy-1":"573,519",
-        "fy-0":"340,476",
-        "fy+1":"346,663"
+        "fy-2":489649,
+        "fy-1":573519,
+        "fy-0":340476,
+        "fy+1":346663
       },
       {
         "title":"Public Health Commission",
         "line_type":"data",
-        "fy-2":"2,186,853",
-        "fy-1":"0",
-        "fy-0":"0",
-        "fy+1":"0"
+        "fy-2":2186853,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0
       },
       {
         "title":"Youth Engagement & Employment",
         "line_type":"data",
-        "fy-2":"1,008,139",
-        "fy-1":"995,382",
-        "fy-0":"1,032,851",
-        "fy+1":"1,171,155"
+        "fy-2":1008139,
+        "fy-1":995382,
+        "fy-0":1032851,
+        "fy+1":1171155
       },
       {
         "total":"Total Cabinet",
         "line_type":"total",
-        "fy-2":"10,038,353",
-        "fy-1":"11,364,423",
-        "fy-0":"12,095,733",
-        "fy+1":"10,949,494"
+        "fy-2":10038353,
+        "fy-1":11364423,
+        "fy-0":12095733,
+        "fy+1":10949494
       }
     ]
   }

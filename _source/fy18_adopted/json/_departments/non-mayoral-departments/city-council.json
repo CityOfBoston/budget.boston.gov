@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_departments~Non-Mayoral Departments~city-council.json",
-  "source_time":"20180216140640",
+  "source_time":"20180221091751",
   "source_year":"18",
   "name":"City Council",
   "parent":"Non-Mayoral Departments",
@@ -36,37 +36,37 @@
       {
         "name":"City Council Administration",
         "line_type":"data",
-        "fy-2":"362,745",
-        "fy-1":"338,734",
-        "fy-0":"354,426",
-        "fy+1":"358,664",
+        "fy-2":362745,
+        "fy-1":338734,
+        "fy-0":354426,
+        "fy+1":358664,
         "publish_subordinates":true
       },
       {
         "name":"City Councilors",
         "line_type":"data",
-        "fy-2":"4,176,754",
-        "fy-1":"4,323,562",
-        "fy-0":"4,422,396",
-        "fy+1":"4,418,092",
+        "fy-2":4176754,
+        "fy-1":4323562,
+        "fy-0":4422396,
+        "fy+1":4418092,
         "publish_subordinates":true
       },
       {
         "name":"Legislative/Financial Support",
         "line_type":"data",
-        "fy-2":"521,777",
-        "fy-1":"544,154",
-        "fy-0":"563,955",
-        "fy+1":"564,021",
+        "fy-2":521777,
+        "fy-1":544154,
+        "fy-0":563955,
+        "fy+1":564021,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"5,061,276",
-        "fy-1":"5,206,450",
-        "fy-0":"5,340,777",
-        "fy+1":"5,340,777"
+        "fy-2":5061276,
+        "fy-1":5206450,
+        "fy-0":5340777,
+        "fy+1":5340777
       }
     ]
   },

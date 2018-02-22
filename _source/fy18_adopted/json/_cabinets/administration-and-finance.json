@@ -14,7 +14,7 @@
   "section_type_short":"C",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~administration-and-finance.json",
-  "source_time":"20180216140514",
+  "source_time":"20180221091550",
   "source_year":"18",
   "mission":[
     "The Administration and Finance Cabinet ensures that city services are delivered with high quality, with high ethical standards, are financially prudent, are responsive to the needs of the citizens of Boston, and consistent with the laws and ordinances governing municipal government."
@@ -37,138 +37,138 @@
       {
         "department":"Administration & Finance",
         "line_type":"data",
-        "fy-2":"934,781",
-        "fy-1":"888,235",
-        "fy-0":"1,071,275",
-        "fy+1":"1,065,310"
+        "fy-2":934781,
+        "fy-1":888235,
+        "fy-0":1071275,
+        "fy+1":1065310
       },
       {
         "department":"Assessing Department",
         "line_type":"data",
-        "fy-2":"19,039,314",
-        "fy-1":"21,310,452",
-        "fy-0":"21,698,349",
-        "fy+1":"21,783,978"
+        "fy-2":19039314,
+        "fy-1":21310452,
+        "fy-0":21698349,
+        "fy+1":21783978
       },
       {
         "department":"Auditing Department",
         "line_type":"data",
-        "fy-2":"12,467,570",
-        "fy-1":"12,851,305",
-        "fy-0":"13,526,845",
-        "fy+1":"13,432,815"
+        "fy-2":12467570,
+        "fy-1":12851305,
+        "fy-0":13526845,
+        "fy+1":13432815
       },
       {
         "department":"Budget Management",
         "line_type":"data",
-        "fy-2":"15,510,342",
-        "fy-1":"16,336,722",
-        "fy-0":"19,199,856",
-        "fy+1":"20,428,548"
+        "fy-2":15510342,
+        "fy-1":16336722,
+        "fy-0":19199856,
+        "fy+1":20428548
       },
       {
         "department":"Execution of Courts",
         "line_type":"data",
-        "fy-2":"9,698,310",
-        "fy-1":"10,454,319",
-        "fy-0":"5,000,000",
-        "fy+1":"5,000,000"
+        "fy-2":9698310,
+        "fy-1":10454319,
+        "fy-0":5000000,
+        "fy+1":5000000
       },
       {
         "department":"Health Insurance",
         "line_type":"data",
-        "fy-2":"180,006,658",
-        "fy-1":"191,265,768",
-        "fy-0":"206,208,108",
-        "fy+1":"216,180,122"
+        "fy-2":180006658,
+        "fy-1":191265768,
+        "fy-0":206208108,
+        "fy+1":216180122
       },
       {
         "department":"Human Resources",
         "line_type":"data",
-        "fy-2":"17,426,110",
-        "fy-1":"17,485,115",
-        "fy-0":"20,664,165",
-        "fy+1":"22,024,275"
+        "fy-2":17426110,
+        "fy-1":17485115,
+        "fy-0":20664165,
+        "fy+1":22024275
       },
       {
         "department":"Labor Relations",
         "line_type":"data",
-        "fy-2":"1,364,177",
-        "fy-1":"1,310,607",
-        "fy-0":"1,424,077",
-        "fy+1":"1,439,006"
+        "fy-2":1364177,
+        "fy-1":1310607,
+        "fy-0":1424077,
+        "fy+1":1439006
       },
       {
         "department":"Medicare Payments",
         "line_type":"data",
-        "fy-2":"8,577,221",
-        "fy-1":"7,989,395",
-        "fy-0":"10,000,000",
-        "fy+1":"11,000,000"
+        "fy-2":8577221,
+        "fy-1":7989395,
+        "fy-0":10000000,
+        "fy+1":11000000
       },
       {
         "department":"Pensions & Annuities - City",
         "line_type":"data",
-        "fy-2":"3,336,691",
-        "fy-1":"4,063,355",
-        "fy-0":"5,289,000",
-        "fy+1":"4,100,000"
+        "fy-2":3336691,
+        "fy-1":4063355,
+        "fy-0":5289000,
+        "fy+1":4100000
       },
       {
         "department":"Pensions & Annuities - County",
         "line_type":"data",
-        "fy-2":"36,114",
-        "fy-1":"36,894",
-        "fy-0":"100,000",
-        "fy+1":"100,000"
+        "fy-2":36114,
+        "fy-1":36894,
+        "fy-0":100000,
+        "fy+1":100000
       },
       {
         "department":"Purchasing Division",
         "line_type":"data",
-        "fy-2":"4,635,606",
-        "fy-1":"5,314,704",
-        "fy-0":"5,497,107",
-        "fy+1":"5,326,101"
+        "fy-2":4635606,
+        "fy-1":5314704,
+        "fy-0":5497107,
+        "fy+1":5326101
       },
       {
         "department":"Registry Division",
         "line_type":"data",
-        "fy-2":"2,986,344",
-        "fy-1":"2,904,168",
-        "fy-0":"3,094,503",
-        "fy+1":"3,055,392"
+        "fy-2":2986344,
+        "fy-1":2904168,
+        "fy-0":3094503,
+        "fy+1":3055392
       },
       {
         "department":"Treasury Department",
         "line_type":"data",
-        "fy-2":"20,008,310",
-        "fy-1":"20,892,644",
-        "fy-0":"19,493,563",
-        "fy+1":"19,262,222"
+        "fy-2":20008310,
+        "fy-1":20892644,
+        "fy-0":19493563,
+        "fy+1":19262222
       },
       {
         "department":"Unemployment Compensation",
         "line_type":"data",
-        "fy-2":"34,251",
-        "fy-1":"0",
-        "fy-0":"350,000",
-        "fy+1":"350,000"
+        "fy-2":34251,
+        "fy-1":0,
+        "fy-0":350000,
+        "fy+1":350000
       },
       {
         "department":"Workers' Compensation Fund",
         "line_type":"data",
-        "fy-2":"1,865,720",
-        "fy-1":"1,328,170",
-        "fy-0":"2,200,000",
-        "fy+1":"2,200,000"
+        "fy-2":1865720,
+        "fy-1":1328170,
+        "fy-0":2200000,
+        "fy+1":2200000
       },
       {
         "total":"Total",
         "line_type":"total",
-        "fy-2":"297,927,519",
-        "fy-1":"314,431,853",
-        "fy-0":"334,816,848",
-        "fy+1":"346,747,769"
+        "fy-2":297927519,
+        "fy-1":314431853,
+        "fy-0":334816848,
+        "fy+1":346747769
       }
     ]
   },
@@ -187,18 +187,18 @@
       {
         "title":"Auditing Department",
         "line_type":"data",
-        "fy-2":"554,830",
-        "fy-1":"1,396,765",
-        "fy-0":"775,185",
-        "fy+1":"878,395"
+        "fy-2":554830,
+        "fy-1":1396765,
+        "fy-0":775185,
+        "fy+1":878395
       },
       {
         "total":"Total Cabinet",
         "line_type":"total",
-        "fy-2":"554,830",
-        "fy-1":"1,396,765",
-        "fy-0":"775,185",
-        "fy+1":"878,395"
+        "fy-2":554830,
+        "fy-1":1396765,
+        "fy-0":775185,
+        "fy+1":878395
       }
     ]
   }

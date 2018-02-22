@@ -14,7 +14,7 @@
   "section_type_short":"C",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~arts-and-culture.json",
-  "source_time":"20180216140532",
+  "source_time":"20180221091614",
   "source_year":"18",
   "mission":[
     "The mission of the Arts & Culture Cabinet is to foster the growth and well-being of the cultural community and promote participation in the arts. Recognizing the importance of creativity across all policy areas, the cabinet seeks to promote access to arts and culture to all the City&rsquo;s residents, and to make Boston a municipal arts leader."
@@ -38,26 +38,26 @@
       {
         "department":"Office of Arts & Culture",
         "line_type":"data",
-        "fy-2":"975,519",
-        "fy-1":"1,274,583",
-        "fy-0":"1,349,436",
-        "fy+1":"1,333,930"
+        "fy-2":975519,
+        "fy-1":1274583,
+        "fy-0":1349436,
+        "fy+1":1333930
       },
       {
         "department":"Library Department",
         "line_type":"data",
-        "fy-2":"99,872,922",
-        "fy-1":"104,587,554",
-        "fy-0":"103,505,208",
-        "fy+1":"108,091,461"
+        "fy-2":99872922,
+        "fy-1":104587554,
+        "fy-0":103505208,
+        "fy+1":108091461
       },
       {
         "total":"Total",
         "line_type":"total",
-        "fy-2":"100,848,441",
-        "fy-1":"105,862,137",
-        "fy-0":"104,854,644",
-        "fy+1":"109,425,391"
+        "fy-2":100848441,
+        "fy-1":105862137,
+        "fy-0":104854644,
+        "fy+1":109425391
       }
     ],
     "capital_budget_expenditures":[
@@ -76,26 +76,26 @@
           {
             "title":"Library Department",
             "line_type":"data",
-            "fy-2":"27,733,721",
-            "fy-1":"37,347,302",
-            "fy-0":"15,349,442",
-            "fy+1":"13,768,352"
+            "fy-2":27733721,
+            "fy-1":37347302,
+            "fy-0":15349442,
+            "fy+1":13768352
           },
           {
             "title":"Office of Arts & Culture",
             "line_type":"data",
-            "fy-2":"0",
-            "fy-1":"0",
-            "fy-0":"0",
-            "fy+1":"1,700,000"
+            "fy-2":0,
+            "fy-1":0,
+            "fy-0":0,
+            "fy+1":1700000
           },
           {
             "title":"Total",
             "line_type":"total",
-            "fy-2":"27,733,721",
-            "fy-1":"37,347,302",
-            "fy-0":"15,349,442",
-            "fy+1":"15,468,352"
+            "fy-2":27733721,
+            "fy-1":37347302,
+            "fy-0":15349442,
+            "fy+1":15468352
           }
         ]
       }
@@ -116,26 +116,26 @@
       {
         "title":"Library Department",
         "line_type":"data",
-        "fy-2":"23,835,297",
-        "fy-1":"28,852,938",
-        "fy-0":"26,921,187",
-        "fy+1":"26,530,020"
+        "fy-2":23835297,
+        "fy-1":28852938,
+        "fy-0":26921187,
+        "fy+1":26530020
       },
       {
         "title":"Office of Arts & Culture",
         "line_type":"data",
-        "fy-2":"103,089",
-        "fy-1":"484,307",
-        "fy-0":"1,458,319",
-        "fy+1":"1,748,423"
+        "fy-2":103089,
+        "fy-1":484307,
+        "fy-0":1458319,
+        "fy+1":1748423
       },
       {
         "total":"Total Cabinet",
         "line_type":"total",
-        "fy-2":"23,938,386",
-        "fy-1":"29,337,245",
-        "fy-0":"28,379,506",
-        "fy+1":"28,278,443"
+        "fy-2":23938386,
+        "fy-1":29337245,
+        "fy-0":28379506,
+        "fy+1":28278443
       }
     ]
   }

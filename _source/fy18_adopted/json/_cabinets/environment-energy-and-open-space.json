@@ -14,7 +14,7 @@
   "section_type_short":"C",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~environment-energy-and-open-space.json",
-  "source_time":"20180216140600",
+  "source_time":"20180221091647",
   "source_year":"18",
   "mission":[
     "The mission of the Environment, Energy and Open Space Cabinet is to coordinate several City departments and programs to enhance sustainability, preserve historic and open space resources, protect the health and safety of the built environment, prepare for climate change, and provide public spaces to gather and recreate in Boston. The Environment, Energy and Open Space Cabinet includes initiatives that reduce energy use in municipal buildings and in the community with Renew Boston, enforce the right to a healthy home, engage the community on sustainability with Greenovate Boston, promote waste reduction, and expand the network of street trees."
@@ -39,34 +39,34 @@
       {
         "department":"Environment Department",
         "line_type":"data",
-        "fy-2":"2,018,442",
-        "fy-1":"1,897,415",
-        "fy-0":"2,232,944",
-        "fy+1":"2,517,729"
+        "fy-2":2018442,
+        "fy-1":1897415,
+        "fy-0":2232944,
+        "fy+1":2517729
       },
       {
         "department":"Inspectional Services Dept",
         "line_type":"data",
-        "fy-2":"66,805,408",
-        "fy-1":"72,931,692",
-        "fy-0":"75,826,120",
-        "fy+1":"76,588,628"
+        "fy-2":66805408,
+        "fy-1":72931692,
+        "fy-0":75826120,
+        "fy+1":76588628
       },
       {
         "department":"Parks & Recreation Department",
         "line_type":"data",
-        "fy-2":"67,043,193",
-        "fy-1":"87,760,467",
-        "fy-0":"77,174,666",
-        "fy+1":"81,905,802"
+        "fy-2":67043193,
+        "fy-1":87760467,
+        "fy-0":77174666,
+        "fy+1":81905802
       },
       {
         "total":"Total",
         "line_type":"total",
-        "fy-2":"135,867,043",
-        "fy-1":"162,589,574",
-        "fy-0":"155,233,730",
-        "fy+1":"161,012,159"
+        "fy-2":135867043,
+        "fy-1":162589574,
+        "fy-0":155233730,
+        "fy+1":161012159
       }
     ],
     "capital_budget_expenditures":[
@@ -85,34 +85,34 @@
           {
             "title":"Environment Department",
             "line_type":"data",
-            "fy-2":"0",
-            "fy-1":"0",
-            "fy-0":"3,700,000",
-            "fy+1":"1,573,100"
+            "fy-2":0,
+            "fy-1":0,
+            "fy-0":3700000,
+            "fy+1":1573100
           },
           {
             "title":"Inspectional Services Dept",
             "line_type":"data",
-            "fy-2":"0",
-            "fy-1":"0",
-            "fy-0":"42,000",
-            "fy+1":"0"
+            "fy-2":0,
+            "fy-1":0,
+            "fy-0":42000,
+            "fy+1":0
           },
           {
             "title":"Parks & Recreation Department",
             "line_type":"data",
-            "fy-2":"16,689,318",
-            "fy-1":"18,096,572",
-            "fy-0":"26,737,195",
-            "fy+1":"31,660,933"
+            "fy-2":16689318,
+            "fy-1":18096572,
+            "fy-0":26737195,
+            "fy+1":31660933
           },
           {
             "title":"Total",
             "line_type":"total",
-            "fy-2":"16,689,318",
-            "fy-1":"18,096,572",
-            "fy-0":"30,479,195",
-            "fy+1":"33,234,033"
+            "fy-2":16689318,
+            "fy-1":18096572,
+            "fy-0":30479195,
+            "fy+1":33234033
           }
         ]
       }
@@ -133,34 +133,34 @@
       {
         "title":"Environment Department",
         "line_type":"data",
-        "fy-2":"895,974",
-        "fy-1":"1,048,170",
-        "fy-0":"916,776",
-        "fy+1":"1,311,752"
+        "fy-2":895974,
+        "fy-1":1048170,
+        "fy-0":916776,
+        "fy+1":1311752
       },
       {
         "title":"Inspectional Services Dept",
         "line_type":"data",
-        "fy-2":"1,779,624",
-        "fy-1":"2,383,832",
-        "fy-0":"1,493,296",
-        "fy+1":"1,619,528"
+        "fy-2":1779624,
+        "fy-1":2383832,
+        "fy-0":1493296,
+        "fy+1":1619528
       },
       {
         "title":"Parks & Recreation Department",
         "line_type":"data",
-        "fy-2":"21,376,336",
-        "fy-1":"30,368,268",
-        "fy-0":"24,005,128",
-        "fy+1":"23,195,152"
+        "fy-2":21376336,
+        "fy-1":30368268,
+        "fy-0":24005128,
+        "fy+1":23195152
       },
       {
         "total":"Total Cabinet",
         "line_type":"total",
-        "fy-2":"24,051,934",
-        "fy-1":"33,800,270",
-        "fy-0":"26,415,200",
-        "fy+1":"26,126,432"
+        "fy-2":24051934,
+        "fy-1":33800270,
+        "fy-0":26415200,
+        "fy+1":26126432
       }
     ]
   }

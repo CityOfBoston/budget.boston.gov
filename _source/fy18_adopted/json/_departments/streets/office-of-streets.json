@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_departments~Streets~office-of-streets.json",
-  "source_time":"20180216140704",
+  "source_time":"20180221091822",
   "source_year":"18",
   "name":"Office of Streets",
   "parent":"Streets",
@@ -36,19 +36,19 @@
       {
         "name":"Admin & Finance",
         "line_type":"data",
-        "fy-2":"1,360,422",
-        "fy-1":"1,649,756",
-        "fy-0":"1,978,821",
-        "fy+1":"1,975,090",
+        "fy-2":1360422,
+        "fy-1":1649756,
+        "fy-0":1978821,
+        "fy+1":1975090,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"1,360,422",
-        "fy-1":"1,649,756",
-        "fy-0":"1,978,821",
-        "fy+1":"1,975,090"
+        "fy-2":1360422,
+        "fy-1":1649756,
+        "fy-0":1978821,
+        "fy+1":1975090
       }
     ]
   },

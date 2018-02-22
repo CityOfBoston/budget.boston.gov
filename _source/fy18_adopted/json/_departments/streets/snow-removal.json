@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_departments~Streets~snow-removal.json",
-  "source_time":"20180216140710",
+  "source_time":"20180221091831",
   "source_year":"18",
   "name":"Snow Removal",
   "parent":"Streets",
@@ -36,19 +36,19 @@
       {
         "name":"Removal of Snow",
         "line_type":"data",
-        "fy-2":"38,453,034",
-        "fy-1":"14,785,551",
-        "fy-0":"22,563,964",
-        "fy+1":"22,563,964",
+        "fy-2":38453034,
+        "fy-1":14785551,
+        "fy-0":22563964,
+        "fy+1":22563964,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"38,453,034",
-        "fy-1":"14,785,551",
-        "fy-0":"22,563,964",
-        "fy+1":"22,563,964"
+        "fy-2":38453034,
+        "fy-1":14785551,
+        "fy-0":22563964,
+        "fy+1":22563964
       }
     ]
   },

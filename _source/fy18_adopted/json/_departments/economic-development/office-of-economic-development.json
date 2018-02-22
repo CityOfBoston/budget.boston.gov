@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_departments~Economic Development~office-of-economic-development.json",
-  "source_time":"20180216140549",
+  "source_time":"20180221091638",
   "source_year":"18",
   "name":"Office of Economic Development",
   "parent":"Economic Development",
@@ -36,37 +36,37 @@
       {
         "name":Null,
         "line_type":"data",
-        "fy-2":"566,884",
-        "fy-1":"680,543",
-        "fy-0":"625,796",
-        "fy+1":"811,615",
+        "fy-2":566884,
+        "fy-1":680543,
+        "fy-0":625796,
+        "fy+1":811615,
         "publish_subordinates":true
       },
       {
         "name":"Boston Residents Jobs Policy",
         "line_type":"data",
-        "fy-2":"432,876",
-        "fy-1":"406,174",
-        "fy-0":"624,653",
-        "fy+1":"639,543",
+        "fy-2":432876,
+        "fy-1":406174,
+        "fy-0":624653,
+        "fy+1":639543,
         "publish_subordinates":true
       },
       {
         "name":"Small & Local Business",
         "line_type":"data",
-        "fy-2":"552,934",
-        "fy-1":"473,064",
-        "fy-0":"1,210,164",
-        "fy+1":"1,022,234",
+        "fy-2":552934,
+        "fy-1":473064,
+        "fy-0":1210164,
+        "fy+1":1022234,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"1,552,694",
-        "fy-1":"1,559,781",
-        "fy-0":"2,460,613",
-        "fy+1":"2,473,392"
+        "fy-2":1552694,
+        "fy-1":1559781,
+        "fy-0":2460613,
+        "fy+1":2473392
       }
     ]
   },
@@ -85,55 +85,55 @@
       {
         "name":"CDBG",
         "line_type":"data",
-        "fy-2":"0",
-        "fy-1":"0",
-        "fy-0":"7,319,764",
-        "fy+1":"3,616,973",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":7319764,
+        "fy+1":3616973,
         "publish_subordinates":true
       },
       {
         "name":"Choice Neighborhood Implementation",
         "line_type":"data",
-        "fy-2":"0",
-        "fy-1":"0",
-        "fy-0":"120,000",
-        "fy+1":"0",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":120000,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"EDIC",
         "line_type":"data",
-        "fy-2":"0",
-        "fy-1":"3,031",
-        "fy-0":"811,981",
-        "fy+1":"500,000",
+        "fy-2":0,
+        "fy-1":3031,
+        "fy-0":811981,
+        "fy+1":500000,
         "publish_subordinates":true
       },
       {
         "name":"Section 108 (Unrestricted)",
         "line_type":"data",
-        "fy-2":"0",
-        "fy-1":"0",
-        "fy-0":"0",
-        "fy+1":"317,500",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":317500,
         "publish_subordinates":true
       },
       {
         "name":"Section 108 Unrestricted Fund",
         "line_type":"data",
-        "fy-2":"0",
-        "fy-1":"0",
-        "fy-0":"317,500",
-        "fy+1":"0",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":317500,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"0",
-        "fy-1":"3,031",
-        "fy-0":"8,569,245",
-        "fy+1":"4,434,473"
+        "fy-2":0,
+        "fy-1":3031,
+        "fy-0":8569245,
+        "fy+1":4434473
       }
     ]
   },

@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_departments~Economic Development~consumer-affairs-and-licensing.json",
-  "source_time":"20180216140547",
+  "source_time":"20180221091634",
   "source_year":"18",
   "name":"Consumer Affairs & Licensing",
   "parent":"Economic Development",
@@ -36,37 +36,37 @@
       {
         "name":"Consumer Licensing",
         "line_type":"data",
-        "fy-2":"375,410",
-        "fy-1":"292,666",
-        "fy-0":"362,462",
-        "fy+1":"362,493",
+        "fy-2":375410,
+        "fy-1":292666,
+        "fy-0":362462,
+        "fy+1":362493,
         "publish_subordinates":true
       },
       {
         "name":"Consumer Affairs",
         "line_type":"data",
-        "fy-2":"84,520",
-        "fy-1":"86,606",
-        "fy-0":"101,075",
-        "fy+1":"100,571",
+        "fy-2":84520,
+        "fy-1":86606,
+        "fy-0":101075,
+        "fy+1":100571,
         "publish_subordinates":true
       },
       {
         "name":"Licensing Board",
         "line_type":"data",
-        "fy-2":"0",
-        "fy-1":"0",
-        "fy-0":"713,490",
-        "fy+1":"653,664",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":713490,
+        "fy+1":653664,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"459,930",
-        "fy-1":"379,272",
-        "fy-0":"1,177,027",
-        "fy+1":"1,116,728"
+        "fy-2":459930,
+        "fy-1":379272,
+        "fy-0":1177027,
+        "fy+1":1116728
       }
     ]
   },
@@ -85,19 +85,19 @@
       {
         "name":"Local Consumer Aid Fund",
         "line_type":"data",
-        "fy-2":"54,437",
-        "fy-1":"51,916",
-        "fy-0":"52,000",
-        "fy+1":"52,000",
+        "fy-2":54437,
+        "fy-1":51916,
+        "fy-0":52000,
+        "fy+1":52000,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"54,437",
-        "fy-1":"51,916",
-        "fy-0":"52,000",
-        "fy+1":"52,000"
+        "fy-2":54437,
+        "fy-1":51916,
+        "fy-0":52000,
+        "fy+1":52000
       }
     ]
   },

@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_departments~Mayor's Office~election-department.json",
-  "source_time":"20180216140632",
+  "source_time":"20180221091741",
   "source_year":"18",
   "name":"Election Department",
   "parent":"Mayor's Office",
@@ -36,46 +36,46 @@
       {
         "name":"Annual Listing",
         "line_type":"data",
-        "fy-2":"540,870",
-        "fy-1":"506,691",
-        "fy-0":"510,551",
-        "fy+1":"534,712",
+        "fy-2":540870,
+        "fy-1":506691,
+        "fy-0":510551,
+        "fy+1":534712,
         "publish_subordinates":true
       },
       {
         "name":"Election Administration",
         "line_type":"data",
-        "fy-2":"703,866",
-        "fy-1":"698,418",
-        "fy-0":"730,869",
-        "fy+1":"779,455",
+        "fy-2":703866,
+        "fy-1":698418,
+        "fy-0":730869,
+        "fy+1":779455,
         "publish_subordinates":true
       },
       {
         "name":"Voter Registration",
         "line_type":"data",
-        "fy-2":"277,896",
-        "fy-1":"329,741",
-        "fy-0":"351,409",
-        "fy+1":"354,637",
+        "fy-2":277896,
+        "fy-1":329741,
+        "fy-0":351409,
+        "fy+1":354637,
         "publish_subordinates":true
       },
       {
         "name":"Election Activities",
         "line_type":"data",
-        "fy-2":"1,810,102",
-        "fy-1":"2,239,947",
-        "fy-0":"2,736,513",
-        "fy+1":"2,577,111",
+        "fy-2":1810102,
+        "fy-1":2239947,
+        "fy-0":2736513,
+        "fy+1":2577111,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"3,332,734",
-        "fy-1":"3,774,797",
-        "fy-0":"4,329,342",
-        "fy+1":"4,245,915"
+        "fy-2":3332734,
+        "fy-1":3774797,
+        "fy-0":4329342,
+        "fy+1":4245915
       }
     ]
   },

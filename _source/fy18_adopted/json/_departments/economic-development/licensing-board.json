@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_departments~Economic Development~licensing-board.json",
-  "source_time":"20180216140548",
+  "source_time":"20180221091636",
   "source_year":"18",
   "name":"Licensing Board",
   "parent":"Economic Development",
@@ -37,19 +37,19 @@
       {
         "name":"Licensing",
         "line_type":"data",
-        "fy-2":"704,753",
-        "fy-1":"637,735",
-        "fy-0":"0",
-        "fy+1":"0",
+        "fy-2":704753,
+        "fy-1":637735,
+        "fy-0":0,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"704,753",
-        "fy-1":"637,735",
-        "fy-0":"0",
-        "fy+1":"0"
+        "fy-2":704753,
+        "fy-1":637735,
+        "fy-0":0,
+        "fy+1":0
       }
     ]
   }

@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_departments~Administration & Finance~medicare-payments.json",
-  "source_time":"20180216140524",
+  "source_time":"20180221091603",
   "source_year":"18",
   "name":"Medicare Payments",
   "parent":"Administration & Finance",
@@ -36,19 +36,19 @@
       {
         "name":"Medicare Payments",
         "line_type":"data",
-        "fy-2":"8,577,221",
-        "fy-1":"7,989,395",
-        "fy-0":"10,000,000",
-        "fy+1":"11,000,000",
+        "fy-2":8577221,
+        "fy-1":7989395,
+        "fy-0":10000000,
+        "fy+1":11000000,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"8,577,221",
-        "fy-1":"7,989,395",
-        "fy-0":"10,000,000",
-        "fy+1":"11,000,000"
+        "fy-2":8577221,
+        "fy-1":7989395,
+        "fy-0":10000000,
+        "fy+1":11000000
       }
     ]
   },

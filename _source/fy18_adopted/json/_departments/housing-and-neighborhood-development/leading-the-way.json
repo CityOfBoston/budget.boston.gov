@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_departments~Housing & Neighborhood Development~leading-the-way.json",
-  "source_time":"20180216140623",
+  "source_time":"20180221091723",
   "source_year":"18",
   "name":"Leading the Way",
   "parent":"Housing & Neighborhood Development",
@@ -36,19 +36,19 @@
       {
         "name":Null,
         "line_type":"data",
-        "fy-2":"5,500,000",
-        "fy-1":"0",
-        "fy-0":"0",
-        "fy+1":"0",
+        "fy-2":5500000,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"5,500,000",
-        "fy-1":"0",
-        "fy-0":"0",
-        "fy+1":"0"
+        "fy-2":5500000,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0
       }
     ]
   },

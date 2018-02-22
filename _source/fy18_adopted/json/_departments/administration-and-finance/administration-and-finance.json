@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_departments~Administration & Finance~administration-and-finance.json",
-  "source_time":"20180216140516",
+  "source_time":"20180221091552",
   "source_year":"18",
   "name":"Administration & Finance",
   "parent":"Administration & Finance",
@@ -36,19 +36,19 @@
       {
         "name":"A & F",
         "line_type":"data",
-        "fy-2":"934,781",
-        "fy-1":"888,235",
-        "fy-0":"1,071,275",
-        "fy+1":"1,065,310",
+        "fy-2":934781,
+        "fy-1":888235,
+        "fy-0":1071275,
+        "fy+1":1065310,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"934,781",
-        "fy-1":"888,235",
-        "fy-0":"1,071,275",
-        "fy+1":"1,065,310"
+        "fy-2":934781,
+        "fy-1":888235,
+        "fy-0":1071275,
+        "fy+1":1065310
       }
     ]
   },

@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_departments~Administration & Finance~auditing-department.json",
-  "source_time":"20180216140517",
+  "source_time":"20180221091554",
   "source_year":"18",
   "name":"Auditing Department",
   "parent":"Administration & Finance",
@@ -36,55 +36,55 @@
       {
         "name":"Auditing Administration",
         "line_type":"data",
-        "fy-2":"412,249",
-        "fy-1":"412,250",
-        "fy-0":"533,948",
-        "fy+1":"506,631",
+        "fy-2":412249,
+        "fy-1":412250,
+        "fy-0":533948,
+        "fy+1":506631,
         "publish_subordinates":true
       },
       {
         "name":"Accounting",
         "line_type":"data",
-        "fy-2":"624,304",
-        "fy-1":"698,402",
-        "fy-0":"705,579",
-        "fy+1":"705,159",
+        "fy-2":624304,
+        "fy-1":698402,
+        "fy-0":705579,
+        "fy+1":705159,
         "publish_subordinates":true
       },
       {
         "name":Null,
         "line_type":"data",
-        "fy-2":"446,054",
-        "fy-1":"407,001",
-        "fy-0":"528,653",
-        "fy+1":"557,665",
+        "fy-2":446054,
+        "fy-1":407001,
+        "fy-0":528653,
+        "fy+1":557665,
         "publish_subordinates":true
       },
       {
         "name":Null,
         "line_type":"data",
-        "fy-2":"267,190",
-        "fy-1":"274,648",
-        "fy-0":"160,867",
-        "fy+1":"155,076",
+        "fy-2":267190,
+        "fy-1":274648,
+        "fy-0":160867,
+        "fy+1":155076,
         "publish_subordinates":true
       },
       {
         "name":Null,
         "line_type":"data",
-        "fy-2":"743,717",
-        "fy-1":"777,960",
-        "fy-0":"776,322",
-        "fy+1":"762,032",
+        "fy-2":743717,
+        "fy-1":777960,
+        "fy-0":776322,
+        "fy+1":762032,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"2,493,514",
-        "fy-1":"2,570,261",
-        "fy-0":"2,705,369",
-        "fy+1":"2,686,563"
+        "fy-2":2493514,
+        "fy-1":2570261,
+        "fy-0":2705369,
+        "fy+1":2686563
       }
     ]
   },
@@ -103,28 +103,28 @@
       {
         "name":"BAIS Financials Upgrade",
         "line_type":"data",
-        "fy-2":"110,966",
-        "fy-1":"279,353",
-        "fy-0":"0",
-        "fy+1":"0",
+        "fy-2":110966,
+        "fy-1":279353,
+        "fy-0":0,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Earned Indirect",
         "line_type":"data",
-        "fy-2":"0",
-        "fy-1":"0",
-        "fy-0":"155,037",
-        "fy+1":"175,679",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":155037,
+        "fy+1":175679,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"110,966",
-        "fy-1":"279,353",
-        "fy-0":"155,037",
-        "fy+1":"175,679"
+        "fy-2":110966,
+        "fy-1":279353,
+        "fy-0":155037,
+        "fy+1":175679
       }
     ]
   },

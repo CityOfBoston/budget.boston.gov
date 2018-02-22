@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_departments~Mayor's Office~law-department.json",
-  "source_time":"20180216140633",
+  "source_time":"20180221091743",
   "source_year":"18",
   "name":"Law Department",
   "parent":"Mayor's Office",
@@ -36,46 +36,46 @@
       {
         "name":"Law Operations",
         "line_type":"data",
-        "fy-2":"1,926,683",
-        "fy-1":"1,806,057",
-        "fy-0":"1,696,635",
-        "fy+1":"1,220,489",
+        "fy-2":1926683,
+        "fy-1":1806057,
+        "fy-0":1696635,
+        "fy+1":1220489,
         "publish_subordinates":true
       },
       {
         "name":"Litigation",
         "line_type":"data",
-        "fy-2":"2,894,424",
-        "fy-1":"1,921,743",
-        "fy-0":"2,222,309",
-        "fy+1":"2,580,041",
+        "fy-2":2894424,
+        "fy-1":1921743,
+        "fy-0":2222309,
+        "fy+1":2580041,
         "publish_subordinates":true
       },
       {
         "name":"Legal Services",
         "line_type":"data",
-        "fy-2":"1,162,282",
-        "fy-1":"1,301,992",
-        "fy-0":"1,866,260",
-        "fy+1":"2,713,013",
+        "fy-2":1162282,
+        "fy-1":1301992,
+        "fy-0":1866260,
+        "fy+1":2713013,
         "publish_subordinates":true
       },
       {
         "name":"Office of Gaming & Accountability",
         "line_type":"data",
-        "fy-2":"9,173",
-        "fy-1":"722,987",
-        "fy-0":"87,240",
-        "fy+1":"0",
+        "fy-2":9173,
+        "fy-1":722987,
+        "fy-0":87240,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"5,992,562",
-        "fy-1":"5,752,779",
-        "fy-0":"5,872,444",
-        "fy+1":"6,513,543"
+        "fy-2":5992562,
+        "fy-1":5752779,
+        "fy-0":5872444,
+        "fy+1":6513543
       }
     ]
   },
@@ -94,19 +94,19 @@
       {
         "name":"Third Party Property Damages",
         "line_type":"data",
-        "fy-2":"0",
-        "fy-1":"27,014",
-        "fy-0":"500,000",
-        "fy+1":"500,000",
+        "fy-2":0,
+        "fy-1":27014,
+        "fy-0":500000,
+        "fy+1":500000,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"0",
-        "fy-1":"27,014",
-        "fy-0":"500,000",
-        "fy+1":"500,000"
+        "fy-2":0,
+        "fy-1":27014,
+        "fy-0":500000,
+        "fy+1":500000
       }
     ]
   },

@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_departments~Health & Human Services~youth-engagement-and-employment.json",
-  "source_time":"20180216140620",
+  "source_time":"20180221091716",
   "source_year":"18",
   "name":"Youth Engagement & Employment",
   "parent":"Health & Human Services",
@@ -36,19 +36,19 @@
       {
         "name":"Youth Fund",
         "line_type":"data",
-        "fy-2":"4,989,679",
-        "fy-1":"5,759,934",
-        "fy-0":"6,058,544",
-        "fy+1":"6,331,229",
+        "fy-2":4989679,
+        "fy-1":5759934,
+        "fy-0":6058544,
+        "fy+1":6331229,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"4,989,679",
-        "fy-1":"5,759,934",
-        "fy-0":"6,058,544",
-        "fy+1":"6,331,229"
+        "fy-2":4989679,
+        "fy-1":5759934,
+        "fy-0":6058544,
+        "fy+1":6331229
       }
     ]
   },
@@ -67,37 +67,37 @@
       {
         "name":"Settlement Funds",
         "line_type":"data",
-        "fy-2":"74,702",
-        "fy-1":"0",
-        "fy-0":"0",
-        "fy+1":"313,780",
+        "fy-2":74702,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":313780,
         "publish_subordinates":true
       },
       {
         "name":"Youth at Risk",
         "line_type":"data",
-        "fy-2":"797,266",
-        "fy-1":"764,561",
-        "fy-0":"929,106",
-        "fy+1":"857,375",
+        "fy-2":797266,
+        "fy-1":764561,
+        "fy-0":929106,
+        "fy+1":857375,
         "publish_subordinates":true
       },
       {
         "name":"Youth Engagement & Employment Fund",
         "line_type":"data",
-        "fy-2":"136,171",
-        "fy-1":"230,821",
-        "fy-0":"103,745",
-        "fy+1":"0",
+        "fy-2":136171,
+        "fy-1":230821,
+        "fy-0":103745,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":"1,008,139",
-        "fy-1":"995,382",
-        "fy-0":"1,032,851",
-        "fy+1":"1,171,155"
+        "fy-2":1008139,
+        "fy-1":995382,
+        "fy-0":1032851,
+        "fy+1":1171155
       }
     ]
   },

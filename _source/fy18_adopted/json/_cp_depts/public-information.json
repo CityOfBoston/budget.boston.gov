@@ -14,7 +14,7 @@
   "section_type_short":"L",
   "source_version":"Adopted",
   "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_cp_depts~public-information.json",
-  "source_time":"20180216140634",
+  "source_time":"20180221091745",
   "source_year":"18",
   "mission":[
     "In FY16, the Public Information Communication Program will be in the Mayor&rsquo;s Office and the 24 Hour/Constituent Engagement Program will be moved to Neighborhood Services."
@@ -39,10 +39,10 @@
         "line_type":"total",
         "line_title":"Total Department",
         "line_data_type":"total",
-        "fy-2":"0",
-        "fy-1":"0",
-        "fy-0":"100,000",
-        "fy+1":"100,000"
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":100000,
+        "fy+1":100000
       }
     }
   ]
