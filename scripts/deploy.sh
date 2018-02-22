@@ -85,6 +85,7 @@ if ( $source_is_found ); then
       ls
       echo "Building with --staging flag."
       gulp build --staging --source $config_fy_source
+      #gulp download_wrapper; gulp create_content --source=$config_fy_source; gulp jekyll --source=$config_fy_source; gulp stylus
       if [ ! -d "_cabinets" ]; then
         echo "Cabinets missing."
       else
@@ -120,7 +121,7 @@ if ( $source_is_found ); then
       echo "----------------"
       echo "Inside _chapters dir:"
       ls _chapters
-      sleep 25
+      sleep 225
       echo "----------------"
       if [ -d "_site" ]; then
         echo "_site folder has been created:"
