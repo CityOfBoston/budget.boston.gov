@@ -78,11 +78,33 @@ if ( $source_is_found ); then
   # For https://budget.digital-staging.boston.gov
   if [[ "${TRAVIS_BRANCH}" = "develop" ]];
     then
+      echo "Cleaning out old collections."
+      gulp clean_project
+      if [ ! -d "_cabinets" ]; then
+        "Cabinets have been cleaned."
+      fi
+      if [ ! -d "_departments" ]; then
+        "Departments have been cleaned."
+      fi
+      if [ ! -d "_programs" ]; then
+        "Programs have been cleaned."
+      fi
+      if [ ! -d "_cp_depts" ]; then
+        "CP Depts have been cleaned."
+      fi
+      if [ ! -d "_categories" ]; then
+        "Categories have been cleaned."
+      fi
+      if [ ! -d "_projects" ]; then
+        "Projects have been cleaned."
+      fi
       echo "Building with --staging flag."
       gulp build --staging --source $config_fy_source
   # for https://budget.boston.gov
   elif [[ "${TRAVIS_BRANCH}" = "master" ]];
     then
+      echo "Cleaning out old collections."
+      gulp clean_project
       echo "Building without environment flags."
       gulp build --source $config_fy_source
   else
