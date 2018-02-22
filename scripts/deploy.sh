@@ -78,42 +78,53 @@ if ( $source_is_found ); then
   # For https://budget.digital-staging.boston.gov
   if [[ "${TRAVIS_BRANCH}" = "develop" ]];
     then
-      echo "Cleaning out old collections."
+      #echo "Cleaning out old collections."
       #gulp clean_project
+      echo "executing script in ${PWD}"
+      echo "executing script in $(pwd)"
+      ls
+      echo "Building with --staging flag."
+      gulp build --staging --source $config_fy_source
       if [ ! -d "_cabinets" ]; then
-        echo "Cabinets have been cleaned."
+        echo "Cabinets missing."
       else
         echo "Cabinets exist!"
       fi
       if [ ! -d "_departments" ]; then
-        echo "Departments have been cleaned."
+        echo "Departments missing."
       else
         echo "Departments exist!"
       fi
       if [ ! -d "_programs" ]; then
-        echo "Programs have been cleaned."
+        echo "Programs missing."
       else
         echo "Programs exist!"
       fi
       if [ ! -d "_cp_depts" ]; then
-        echo "CP Depts have been cleaned."
+        echo "CP Depts missing."
       else
         echo "CP Depts exist!"
       fi
       if [ ! -d "_categories" ]; then
-        echo "Categories have been cleaned."
+        echo "Categories missing."
       else
         echo "Categories exist!"
       fi
       if [ ! -d "_projects" ]; then
-        echo "Projects have been cleaned."
+        echo "Projects missing."
       else
         echo "Projects exist!"
       fi
-      echo "Building with --staging flag."
-      gulp build --staging --source $config_fy_source
+      echo "Project files:"
+      ls
+      echo "----------------"
+      echo "Inside _chapters dir:"
+      ls _chapters
+      sleep 25
+      echo "----------------"
       if [ -d "_site" ]; then
-        echo "_site folder has been created."
+        echo "_site folder has been created:"
+        ls _site
       else
         echo "No _site folder :("
       fi
