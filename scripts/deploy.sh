@@ -82,24 +82,41 @@ if ( $source_is_found ); then
       #gulp clean_project
       if [ ! -d "_cabinets" ]; then
         echo "Cabinets have been cleaned."
+      else
+        echo "Cabinets exist!"
       fi
       if [ ! -d "_departments" ]; then
         echo "Departments have been cleaned."
+      else
+        echo "Departments exist!"
       fi
       if [ ! -d "_programs" ]; then
         echo "Programs have been cleaned."
+      else
+        echo "Programs exist!"
       fi
       if [ ! -d "_cp_depts" ]; then
         echo "CP Depts have been cleaned."
+      else
+        echo "CP Depts exist!"
       fi
       if [ ! -d "_categories" ]; then
         echo "Categories have been cleaned."
+      else
+        echo "Categories exist!"
       fi
       if [ ! -d "_projects" ]; then
         echo "Projects have been cleaned."
+      else
+        echo "Projects exist!"
       fi
       echo "Building with --staging flag."
       gulp build --staging --source $config_fy_source
+      if [ -d "_site" ]; then
+        echo "_site folder has been created."
+      else
+        echo "No _site folder :("
+      fi
   # for https://budget.boston.gov
   elif [[ "${TRAVIS_BRANCH}" = "master" ]];
     then
