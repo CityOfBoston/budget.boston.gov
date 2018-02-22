@@ -115,12 +115,14 @@ if ( $source_is_found ); then
       else
         echo "Projects exist!"
       fi
+      echo "Project files:"
+      ls
       if [ -d "_site" ]; then
-        echo "_site folder has been created."
+        echo "_site folder has been created:"
+        ls _site
       else
         echo "No _site folder :("
       fi
-      ls _site
   # for https://budget.boston.gov
   elif [[ "${TRAVIS_BRANCH}" = "master" ]];
     then
