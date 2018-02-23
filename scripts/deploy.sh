@@ -121,7 +121,7 @@ if ( $source_is_found ); then
       echo "----------------"
       echo "Inside _chapters dir:"
       ls _chapters
-      sleep 525
+      #sleep 525
       echo "----------------"
       if [ -d "_site" ]; then
         echo "_site folder has been created:"
