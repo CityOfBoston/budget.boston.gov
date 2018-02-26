@@ -8,7 +8,7 @@
   "section_type_short":"S",
   "source_version":"Adopted",
   "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_chapters~glossary-of-terms.json",
-  "source_time":"20180221091052",
+  "source_time":"20180224113720",
   "source_year":"18",
   "components":[
     {
@@ -378,8 +378,8 @@
             "FY15 actual expenditures,",
             "FY16 actual expenditures,",
             "FY17 appropriations,",
-            "FY18 recommended budgets, and",
-            "The difference between the FY17 appropriation and the FY18 recommended appropriation."
+            "FY18 adopted budgets, and",
+            "The difference between the FY17 appropriation and the FY18 adopted appropriation."
           ]
         }
       ]
