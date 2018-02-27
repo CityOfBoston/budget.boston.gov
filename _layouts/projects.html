@@ -17,7 +17,7 @@ layout: bos_wrapper
           <span class="brc-s"> › </span>
         </li>
         <li class="brc-l-i">
-          <a href="{{ site.url }}/capital-projects/{{ page.department | replace: "'","" | slugify }}">{{ page.department }}</a>
+          <a href="{{ site.url }}/capital-projects/{{ page.department | replace: "'","" | replace: "&","and" | slugify }}">{{ page.department }}</a>
           <span class="brc-s"> › </span>
         </li>
         <li class="brc-l-i">
@@ -57,7 +57,7 @@ layout: bos_wrapper
    Authorizations 
   </h2>
   <div class="sh-contact">
-    <a href="{{ site.url }}/capital-projects/{{ page.department | replace: "'","" | slugify }}">
+    <a href="{{ site.url }}/capital-projects/{{ page.department | replace: "'","" | replace: "&","and" | slugify }}">
       Back to {{ page.department }}
     </a>
   </div>
@@ -99,7 +99,7 @@ layout: bos_wrapper
     Expenditures (Actual and Planned)
   </h2>
   <div class="sh-contact">
-    <a href="{{ site.url }}/capital-projects/{{ page.department | replace: "'","" | slugify }}">
+    <a href="{{ site.url }}/capital-projects/{{ page.department | replace: "'","" | replace: "&","and" | slugify }}">
       Back to {{ page.department }}
     </a>
   </div>
@@ -135,7 +135,7 @@ layout: bos_wrapper
 </table>
 <br />
 
-<a href="{{ site.url }}//capital-projects/{{ page.category | replace: "'","" | slugify }}" class="button">
+<a href="{{ site.url }}//capital-projects/{{ page.category | replace: "'","" | replace: "&","and" | slugify }}" class="button">
 Go back to {{ page.category }} projects
 </a>
 <br /><br />

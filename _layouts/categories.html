@@ -69,10 +69,10 @@ layout: bos_wrapper
         {% for project in department[1] %}
       <tr>
         <td data-label="{{ page.projects[0].header.category }}">
-          <a href="{{ site.url }}/capital-projects/{{ department[0] | replace: "'","" | slugify }}">{{ department[0] }}</a>
+          <a href="{{ site.url }}/capital-projects/{{ department[0] | replace: "'","" | replace: "&","and" | slugify }}">{{ department[0] }}</a>
         </td>
         <td data-label="{{ page.projects[0].header.name }}" class="table-left">
-          <a href="{{ site.url }}/capital-projects/{{ department[0] | replace: "'","" | slugify }}/{{ project.name  | replace: "'","" | slugify }}">{{ project.name }}</a>
+          <a href="{{ site.url }}/capital-projects/{{ department[0] | replace: "'","" | replace: "&","and" | slugify }}/{{ project.name  | replace: "'","" | replace: "&","and" | slugify }}">{{ project.name }}</a>
         </td>
         <td data-label="{{ page.projects[0].header.location }}" class="table-left">{{ project.location }}</td>
         <td data-label="{{ page.projects[0].header.status }}" class="table-left">{{ project.status }}</td>

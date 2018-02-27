@@ -33,7 +33,9 @@
         {% endfor %}
       </ol>
     {% else %}
-      {{ item }}
+      {% for paragraph in item %}
+        <p>{{ paragraph }}</p>
+      {% endfor %}
     {% endif %}
   {% endfor %}
 </p>

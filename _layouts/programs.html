@@ -21,11 +21,11 @@ layout: bos_wrapper
           <span class="brc-s"> › </span>
         </li>
         <li class="brc-l-i">
-          <a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | replace: "'","" | slugify }}">{{ page.cabinet | truncate: 25 }}</a>
+          <a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | replace: "'","" | replace: "&","and" | slugify }}">{{ page.cabinet | truncate: 25 }}</a>
           <span class="brc-s"> › </span>
         </li>
         <li class="brc-l-i">
-          <a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | replace: "'","" | slugify }}/{{ page.department | replace: "'","" | slugify }}">{{ page.department | truncate: 25 }}</a>
+          <a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | replace: "'","" | replace: "&","and" | slugify }}/{{ page.department | replace: "'","" | replace: "&","and" | slugify }}">{{ page.department | truncate: 25 }}</a>
           <span class="brc-s"> › </span>
         </li>
         <li class="brc-l-i">
@@ -64,7 +64,7 @@ layout: bos_wrapper
   <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
     {{ page.name }} - Appropriations
   </h2>
-  <div class="sh-contact"><a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | replace: "'","" | slugify }}/{{ page.department | replace: "'","" | slugify }}">Back to {{ page.department }}</a></div>
+  <div class="sh-contact"><a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | replace: "'","" | replace: "&","and" | slugify }}/{{ page.department | replace: "'","" | replace: "&","and" | slugify }}">Back to {{ page.department }}</a></div>
 </div>
 <br />
 <table class="js-table responsive-table responsive-table--horizontal">
