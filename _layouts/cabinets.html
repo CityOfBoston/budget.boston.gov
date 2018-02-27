@@ -93,7 +93,7 @@ layout: bos_wrapper
       {% else %}
         <tr>
           <td data-label="Department">
-            <a href="{{ site.url }}/operating-budget/cabinets/{{ page.name | replace: "'","" | slugify }}/{{ row.department | replace: "'","" | slugify }}">
+            <a href="{{ site.url }}/operating-budget/cabinets/{{ page.name | replace: "'","" | replace: "&","and" | slugify }}/{{ row.department | replace: "'","" | replace: "&","and" | slugify }}">
               {{ row.department }}
             </a>
           </td>
@@ -245,7 +245,7 @@ layout: bos_wrapper
             <td data-label="All Departments"><strong>{{ row.total }}</strong></td>
         {% else %}
           <tr>
-            <td data-label="Department"><a href="{{ site.url }}/operating-budget/cabinets/{{ page.name | replace: "'","" | slugify }}/{{ row.title | replace: "'","" | slugify }}">{{ row.title }}</a></td>
+            <td data-label="Department"><a href="{{ site.url }}/operating-budget/cabinets/{{ page.name | replace: "'","" | replace: "&","and" | slugify }}/{{ row.title | replace: "'","" | replace: "&","and" | slugify }}">{{ row.title }}</a></td>
           {% endif %}
           <td class="table-right" data-label="{{ page.external_funds.tables_header.fy-2 }}">
             {{ row.fy-2 | thousands_separated }}
