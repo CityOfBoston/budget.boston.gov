@@ -14,7 +14,7 @@
   "section_type_short":"C",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~administration-and-finance.json",
-  "source_time":"20180224120658",
+  "source_time":"20180308143608",
   "source_year":"18",
   "mission":[
     "The Administration and Finance Cabinet ensures that city services are delivered with high quality, with high ethical standards, are financially prudent, are responsive to the needs of the citizens of Boston, and consistent with the laws and ordinances governing municipal government."
@@ -35,7 +35,7 @@
     "fy+1":"FY18 Budget",
     "data":[
       {
-        "department":"Administration & Finance",
+        "department":"administration-and-finance",
         "line_type":"data",
         "fy-2":934781,
         "fy-1":888235,
@@ -43,31 +43,31 @@
         "fy+1":1065310
       },
       {
-        "department":"Assessing Department",
+        "department":"assessing-department",
         "line_type":"data",
-        "fy-2":19039314,
-        "fy-1":21310452,
-        "fy-0":21698349,
-        "fy+1":21783978
+        "fy-2":6346438,
+        "fy-1":7103484,
+        "fy-0":7232783,
+        "fy+1":7261326
       },
       {
-        "department":"Auditing Department",
+        "department":"auditing-department",
         "line_type":"data",
-        "fy-2":12467570,
-        "fy-1":12851305,
-        "fy-0":13526845,
-        "fy+1":13432815
+        "fy-2":2493514,
+        "fy-1":2570261,
+        "fy-0":2705369,
+        "fy+1":2686563
       },
       {
-        "department":"Budget Management",
+        "department":"budget-management",
         "line_type":"data",
-        "fy-2":15510342,
-        "fy-1":16336722,
-        "fy-0":19199856,
-        "fy+1":20428548
+        "fy-2":2585057,
+        "fy-1":2722787,
+        "fy-0":3199976,
+        "fy+1":3404758
       },
       {
-        "department":"Execution of Courts",
+        "department":"execution-of-courts",
         "line_type":"data",
         "fy-2":9698310,
         "fy-1":10454319,
@@ -75,7 +75,7 @@
         "fy+1":5000000
       },
       {
-        "department":"Health Insurance",
+        "department":"health-insurance",
         "line_type":"data",
         "fy-2":180006658,
         "fy-1":191265768,
@@ -83,15 +83,15 @@
         "fy+1":216180122
       },
       {
-        "department":"Human Resources",
+        "department":"human-resources",
         "line_type":"data",
-        "fy-2":17426110,
-        "fy-1":17485115,
-        "fy-0":20664165,
-        "fy+1":22024275
+        "fy-2":3485222,
+        "fy-1":3497023,
+        "fy-0":4132833,
+        "fy+1":4404855
       },
       {
-        "department":"Labor Relations",
+        "department":"labor-relations",
         "line_type":"data",
         "fy-2":1364177,
         "fy-1":1310607,
@@ -99,7 +99,7 @@
         "fy+1":1439006
       },
       {
-        "department":"Medicare Payments",
+        "department":"medicare-payments",
         "line_type":"data",
         "fy-2":8577221,
         "fy-1":7989395,
@@ -107,7 +107,7 @@
         "fy+1":11000000
       },
       {
-        "department":"Pensions & Annuities - City",
+        "department":"pensions-and-annuities-city",
         "line_type":"data",
         "fy-2":3336691,
         "fy-1":4063355,
@@ -115,7 +115,7 @@
         "fy+1":4100000
       },
       {
-        "department":"Pensions & Annuities - County",
+        "department":"pensions-and-annuities-county",
         "line_type":"data",
         "fy-2":36114,
         "fy-1":36894,
@@ -123,31 +123,31 @@
         "fy+1":100000
       },
       {
-        "department":"Purchasing Division",
+        "department":"purchasing-division",
         "line_type":"data",
-        "fy-2":4635606,
-        "fy-1":5314704,
-        "fy-0":5497107,
-        "fy+1":5326101
+        "fy-2":1545202,
+        "fy-1":1771568,
+        "fy-0":1832369,
+        "fy+1":1775367
       },
       {
-        "department":"Registry Division",
+        "department":"registry-division",
         "line_type":"data",
-        "fy-2":2986344,
-        "fy-1":2904168,
-        "fy-0":3094503,
-        "fy+1":3055392
+        "fy-2":995448,
+        "fy-1":968056,
+        "fy-0":1031501,
+        "fy+1":1018464
       },
       {
-        "department":"Treasury Department",
+        "department":"treasury-department",
         "line_type":"data",
-        "fy-2":20008310,
-        "fy-1":20892644,
-        "fy-0":19493563,
-        "fy+1":19262222
+        "fy-2":2615690,
+        "fy-1":2831311,
+        "fy-0":2434612,
+        "fy+1":2408663
       },
       {
-        "department":"Unemployment Compensation",
+        "department":"unemployment-compensation",
         "line_type":"data",
         "fy-2":34251,
         "fy-1":0,
@@ -155,7 +155,7 @@
         "fy+1":350000
       },
       {
-        "department":"Workers' Compensation Fund",
+        "department":"workers-compensation-fund",
         "line_type":"data",
         "fy-2":1865720,
         "fy-1":1328170,
@@ -165,10 +165,10 @@
       {
         "total":"Total",
         "line_type":"total",
-        "fy-2":297927519,
-        "fy-1":314431853,
-        "fy-0":334816848,
-        "fy+1":346747769
+        "fy-2":225920494,
+        "fy-1":238801233,
+        "fy-0":254211903,
+        "fy+1":264394434
       }
     ]
   },

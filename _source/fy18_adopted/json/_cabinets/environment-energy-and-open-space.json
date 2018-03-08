@@ -14,7 +14,7 @@
   "section_type_short":"C",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~environment-energy-and-open-space.json",
-  "source_time":"20180224120914",
+  "source_time":"20180308143735",
   "source_year":"18",
   "mission":[
     "The mission of the Environment, Energy and Open Space Cabinet is to coordinate several City departments and programs to enhance sustainability, preserve historic and open space resources, protect the health and safety of the built environment, prepare for climate change, and provide public spaces to gather and recreate in Boston. The Environment, Energy and Open Space Cabinet includes initiatives that reduce energy use in municipal buildings and in the community with Renew Boston, enforce the right to a healthy home, engage the community on sustainability with Greenovate Boston, promote waste reduction, and expand the network of street trees."
@@ -37,7 +37,7 @@
     "fy+1":"FY18 Budget",
     "data":[
       {
-        "department":"Environment Department",
+        "department":"environment-department",
         "line_type":"data",
         "fy-2":2018442,
         "fy-1":1897415,
@@ -45,28 +45,28 @@
         "fy+1":2517729
       },
       {
-        "department":"Inspectional Services Dept",
+        "department":"inspectional-services-department",
         "line_type":"data",
-        "fy-2":66805408,
-        "fy-1":72931692,
-        "fy-0":75826120,
-        "fy+1":76588628
+        "fy-2":16701352,
+        "fy-1":18232923,
+        "fy-0":18956530,
+        "fy+1":19147157
       },
       {
-        "department":"Parks & Recreation Department",
+        "department":"parks-and-recreation-department",
         "line_type":"data",
-        "fy-2":67043193,
-        "fy-1":87760467,
-        "fy-0":77174666,
-        "fy+1":81905802
+        "fy-2":16215065,
+        "fy-1":21370780,
+        "fy-0":18682488,
+        "fy+1":19851890
       },
       {
         "total":"Total",
         "line_type":"total",
-        "fy-2":135867043,
-        "fy-1":162589574,
-        "fy-0":155233730,
-        "fy+1":161012159
+        "fy-2":34934859,
+        "fy-1":41501118,
+        "fy-0":39871962,
+        "fy+1":41516776
       }
     ],
     "capital_budget_expenditures":[

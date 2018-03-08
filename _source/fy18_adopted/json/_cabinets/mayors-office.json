@@ -14,7 +14,7 @@
   "section_type_short":"C",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~mayors-office.json",
-  "source_time":"20180224121111",
+  "source_time":"20180308143842",
   "source_year":"18",
   "mission":[
     "The agencies reporting to the Mayor's Office represent the Mayor and the City in legal matters, public relations, and elections. The Mayor's vision for the future of the City is reflected in the policies and directions carried forward by the staff of these offices."
@@ -36,39 +36,39 @@
     "fy+1":"FY18 Budget",
     "data":[
       {
-        "department":"Mayor's Office",
+        "department":"office-of-the-mayor",
         "line_type":"data",
-        "fy-2":12502495,
-        "fy-1":16168550,
-        "fy-0":20211405,
-        "fy+1":20799700
+        "fy-2":2500499,
+        "fy-1":3233710,
+        "fy-0":4042281,
+        "fy+1":4159940
       },
       {
-        "department":"Election Department",
+        "department":"election-department",
         "line_type":"data",
-        "fy-2":8916462,
-        "fy-1":10311009,
-        "fy-0":11966924,
-        "fy+1":11668321
+        "fy-2":2791864,
+        "fy-1":3268106,
+        "fy-0":3818791,
+        "fy+1":3711203
       },
       {
-        "department":"Law Department",
+        "department":"law-department",
         "line_type":"data",
-        "fy-2":23970248,
-        "fy-1":23011116,
-        "fy-0":23489776,
-        "fy+1":26054172
+        "fy-2":5992562,
+        "fy-1":5752779,
+        "fy-0":5872444,
+        "fy+1":6513543
       },
       {
-        "department":"Public Information",
+        "department":"public-information",
         "line_type":"data",
-        "fy-2":2380496,
+        "fy-2":1190248,
         "fy-1":0,
         "fy-0":0,
         "fy+1":0
       },
       {
-        "department":"Women's Advancement",
+        "department":"womens-advancement",
         "line_type":"data",
         "fy-2":190982,
         "fy-1":212106,
@@ -78,10 +78,10 @@
       {
         "total":"Total",
         "line_type":"total",
-        "fy-2":47960683,
-        "fy-1":49702781,
-        "fy-0":55901720,
-        "fy+1":58747712
+        "fy-2":12666155,
+        "fy-1":12466701,
+        "fy-0":13967131,
+        "fy+1":14610205
       }
     ],
     "capital_budget_expenditures":[
