@@ -14,7 +14,7 @@
   "section_type_short":"C",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~streets.json",
-  "source_time":"20180224121251",
+  "source_time":"20180308143940",
   "source_year":"18",
   "mission":[
     "The mission of the Streets Cabinet is to innovate, develop, implement, support and manage all programs, projects and policies that enhance clean, well-lit, attractive and efficient infrastructure that moves vehicular and pedestrian traffic safely."
@@ -36,7 +36,7 @@
     "fy+1":"FY18 Budget",
     "data":[
       {
-        "department":"Central Fleet Management",
+        "department":"central-fleet-management",
         "line_type":"data",
         "fy-2":2672446,
         "fy-1":2148719,
@@ -44,7 +44,7 @@
         "fy+1":2805234
       },
       {
-        "department":"Office of Streets",
+        "department":"office-of-streets",
         "line_type":"data",
         "fy-2":1360422,
         "fy-1":1649756,
@@ -52,15 +52,15 @@
         "fy+1":1975090
       },
       {
-        "department":"Public Works Department",
+        "department":"public-works-department",
         "line_type":"data",
-        "fy-2":657427968,
-        "fy-1":680438032,
-        "fy-0":658868088,
-        "fy+1":675698144
+        "fy-2":82178496,
+        "fy-1":85054754,
+        "fy-0":82358511,
+        "fy+1":84462268
       },
       {
-        "department":"Snow Removal",
+        "department":"snow-removal",
         "line_type":"data",
         "fy-2":38453034,
         "fy-1":14785551,
@@ -68,20 +68,20 @@
         "fy+1":22563964
       },
       {
-        "department":"Transportation Department",
+        "department":"transportation-department",
         "line_type":"data",
-        "fy-2":148782874,
-        "fy-1":157169523,
-        "fy-0":159212593,
-        "fy+1":167227786
+        "fy-2":23505166,
+        "fy-1":24875498,
+        "fy-0":25140187,
+        "fy+1":26449249
       },
       {
         "total":"Total",
         "line_type":"total",
-        "fy-2":848696744,
-        "fy-1":856191581,
-        "fy-0":845213890,
-        "fy+1":870270218
+        "fy-2":148169564,
+        "fy-1":128514278,
+        "fy-0":134631907,
+        "fy+1":138255805
       }
     ],
     "capital_budget_expenditures":[

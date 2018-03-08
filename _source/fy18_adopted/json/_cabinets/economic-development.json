@@ -14,7 +14,7 @@
   "section_type_short":"C",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~economic-development.json",
-  "source_time":"20180224120835",
+  "source_time":"20180308143706",
   "source_year":"18",
   "mission":[
     "The mission of the Economic Development Cabinet is to lead a broad effort to streamline and support areas of focus that contribute to Boston&rsquo;s economy including tourism, jobs and employment, business development, and real estate development. The cabinet will concern itself with increasing transparency and promoting accessibility for all Bostonians, especially women- and minority-owned businesses and local businesses, to share in and benefit from the economic boom in Boston."
@@ -37,15 +37,15 @@
     "fy+1":"FY18 Budget",
     "data":[
       {
-        "department":"Consumer Affairs & Licensing",
+        "department":"consumer-affairs-and-licensing",
         "line_type":"data",
-        "fy-2":1379790,
-        "fy-1":1137816,
-        "fy-0":3531081,
-        "fy+1":3350184
+        "fy-2":459930,
+        "fy-1":379272,
+        "fy-0":1177027,
+        "fy+1":1116728
       },
       {
-        "department":"Licensing Board",
+        "department":"licensing-board",
         "line_type":"data",
         "fy-2":704753,
         "fy-1":637735,
@@ -53,28 +53,28 @@
         "fy+1":0
       },
       {
-        "department":"Office of Economic Development",
+        "department":"office-of-economic-development",
         "line_type":"data",
-        "fy-2":4658082,
-        "fy-1":4679343,
-        "fy-0":7381839,
-        "fy+1":7420176
+        "fy-2":1552694,
+        "fy-1":1559781,
+        "fy-0":2460613,
+        "fy+1":2473392
       },
       {
-        "department":"Office of Tourism",
+        "department":"office-of-tourism",
         "line_type":"data",
-        "fy-2":4046236,
-        "fy-1":4371796,
-        "fy-0":5598836,
-        "fy+1":5304648
+        "fy-2":1011559,
+        "fy-1":1092949,
+        "fy-0":1399709,
+        "fy+1":1326162
       },
       {
         "total":"Total",
         "line_type":"total",
-        "fy-2":10788861,
-        "fy-1":10826690,
-        "fy-0":16511756,
-        "fy+1":16075008
+        "fy-2":3728936,
+        "fy-1":3669737,
+        "fy-0":5037349,
+        "fy+1":4916282
       }
     ],
     "capital_budget_expenditures":[

@@ -14,7 +14,7 @@
   "section_type_short":"C",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~public-safety.json",
-  "source_time":"20180224121214",
+  "source_time":"20180308143919",
   "source_year":"18",
   "mission":[
     "Departments in the Public Safety Cabinet serve to protect the lives and property of City residents. The City maintains a ready state of preparedness through sufficient staffing levels, state-of-the-art equipment, and continual training and evaluation of policies and practices. The focus on neighborhood presence helps the City prevent crime, fire, incidents of terrorism, natural disasters quickly, and increases the sense of safety and security by residents and businesses."
@@ -37,36 +37,36 @@
     "fy+1":"FY18 Budget",
     "data":[
       {
-        "department":"Emergency Management",
+        "department":"emergency-management",
         "line_type":"data",
-        "fy-2":1858596,
-        "fy-1":2603712,
-        "fy-0":2550888,
-        "fy+1":2548836
+        "fy-2":464649,
+        "fy-1":650928,
+        "fy-0":637722,
+        "fy+1":637209
       },
       {
-        "department":"Fire Department",
+        "department":"fire-department",
         "line_type":"data",
-        "fy-2":1478641346,
-        "fy-1":1518424999,
-        "fy-0":1547311927,
-        "fy+1":1626093497
+        "fy-2":211234478,
+        "fy-1":216917857,
+        "fy-0":221044561,
+        "fy+1":232299071
       },
       {
-        "department":"Police Department",
+        "department":"police-department",
         "line_type":"data",
-        "fy-2":2698487160,
-        "fy-1":2791102752,
-        "fy-0":2914568384,
-        "fy+1":2990512840
+        "fy-2":337310895,
+        "fy-1":348887844,
+        "fy-0":364321048,
+        "fy+1":373814105
       },
       {
         "total":"Total",
         "line_type":"total",
-        "fy-2":4178987102,
-        "fy-1":4312131463,
-        "fy-0":4464431199,
-        "fy+1":4619155173
+        "fy-2":549010022,
+        "fy-1":566456629,
+        "fy-0":586003331,
+        "fy+1":606750385
       }
     ],
     "capital_budget_expenditures":[

@@ -7,8 +7,8 @@
   "section_type":"section",
   "section_type_short":"S",
   "source_version":"Adopted",
-  "source_path":"P~BudgetSoft Publisher~JSON Output~_source~fy18_adopted~json~_chapters~operating-budget.json",
-  "source_time":"20180224113913",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_chapters~operating-budget.json",
+  "source_time":"20180308142831",
   "source_year":"18",
   "components":[
     {
@@ -20,6 +20,287 @@
             "On the expenditure side of the budget, total appropriations increase by $96.7 million or 4.1% and fixed costs increase by $51.7 million or 8.3%. Selected FY18 budgeted appropriations compare with FY17 budgeted appropriations as follows: City Appropriations increase $32.0 million or 2.7%; the Boston Public Health Commission increases by $1.8 million or 2.3%; and the School Department increases $29.2 million or 2.8%. In addition, collective bargaining reserves are set aside for the School Department at $20 million and City Departments at $27 million; when collective bargaining agreements are negotiated, these reserves will be used to cover those increased costs. Within City Appropriations, actual City Departments are increasing by $25.6 million or 2.7% over FY17. These departmental increases are low relative to other years due to the expiration of nearly all collective bargaining agreements, 11 central appropriations, including a large appropriation for Health Insurance totaling $216.9 million which is increasing by $10.6 million or 5.2% and is also included within City Appropriations.",
             "FY18 budgeted fixed costs are increasing by $51.7 million and compare with FY17 budgeted fixed costs as follows: Pensions increase $21.9 million or 11%; Debt Service increases $9.6 million or 5.5%; Charter School Tuition state assessment increases $17.5 million or 11.2%; MBTA state assessment increases by $2 million or 2.4%; and other state assessments increases $44 thousand or 8.5%."
           ]
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "img":"/img/04-revenue-estimates-revenue-estimates-g-revenue-pie.png"
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "img":"/img/02-summary-budget-summary-budget-charts-exppie.png"
+        }
+      ]
+    },
+    {
+      "table":[
+        {
+          "title":"BUDGET SUMMARY",
+          "right_text":"Numbers may not add due to rounding",
+          "columns":[
+            {
+              "Source":"REVENUES",
+              "FY15 Actual":Null,
+              "FY16 Actual":Null,
+              "FY17 Budget":Null,
+              "FY18 Budget":Null
+            },
+            {
+              "Source":"Property Tax",
+              "FY15 Actual":1875.15,
+              "FY16 Actual":1963.09,
+              "FY17 Budget":2086.68,
+              "FY18 Budget":2192.02
+            },
+            {
+              "Source":"Property Tax Overlay",
+              "FY15 Actual":-35.87,
+              "FY16 Actual":-38.05,
+              "FY17 Budget":-38.74,
+              "FY18 Budget":-30.36
+            },
+            {
+              "Source":"Excises",
+              "FY15 Actual":192.62,
+              "FY16 Actual":223.82,
+              "FY17 Budget":188.32,
+              "FY18 Budget":192.09
+            },
+            {
+              "Source":"Fines",
+              "FY15 Actual":60.65,
+              "FY16 Actual":61.05,
+              "FY17 Budget":59.71,
+              "FY18 Budget":63.85
+            },
+            {
+              "Source":"Interest On Investments",
+              "FY15 Actual":0.06,
+              "FY16 Actual":0.18,
+              "FY17 Budget":0.2,
+              "FY18 Budget":2
+            },
+            {
+              "Source":"Payments in Lieu of Taxes",
+              "FY15 Actual":49.41,
+              "FY16 Actual":51.2,
+              "FY17 Budget":44.47,
+              "FY18 Budget":45
+            },
+            {
+              "Source":"Urban Redev Chapter 121A",
+              "FY15 Actual":55.62,
+              "FY16 Actual":48.11,
+              "FY17 Budget":31.5,
+              "FY18 Budget":31.5
+            },
+            {
+              "Source":"Department Revenue",
+              "FY15 Actual":64.73,
+              "FY16 Actual":63.09,
+              "FY17 Budget":55.7,
+              "FY18 Budget":65.37
+            },
+            {
+              "Source":"Licenses & Permits",
+              "FY15 Actual":72.54,
+              "FY16 Actual":74.44,
+              "FY17 Budget":63.79,
+              "FY18 Budget":65.93
+            },
+            {
+              "Source":"Penalties & Interest",
+              "FY15 Actual":13.08,
+              "FY16 Actual":14.48,
+              "FY17 Budget":8.51,
+              "FY18 Budget":14.46
+            },
+            {
+              "Source":"Available Funds",
+              "FY15 Actual":19,
+              "FY16 Actual":0,
+              "FY17 Budget":23.45,
+              "FY18 Budget":23.45
+            },
+            {
+              "Source":"State Aid",
+              "FY15 Actual":413.43,
+              "FY16 Actual":421.58,
+              "FY17 Budget":429.85,
+              "FY18 Budget":440.54
+            },
+            {
+              "Source":"Total Recurring Revenue",
+              "total":true,
+              "FY15 Actual":2780.42,
+              "FY16 Actual":2883.01,
+              "FY17 Budget":2953.43,
+              "FY18 Budget":3105.84
+            },
+            {
+              "Source":"Budgetary Fund Balance",
+              "FY15 Actual":0,
+              "FY16 Actual":0,
+              "FY17 Budget":40,
+              "FY18 Budget":40
+            },
+            {
+              "Source":"Surplus Property Fund",
+              "FY15 Actual":0,
+              "FY16 Actual":0,
+              "FY17 Budget":4,
+              "FY18 Budget":0
+            },
+            {
+              "Source":"Total Revenues",
+              "total":true,
+              "FY15 Actual":2780.42,
+              "FY16 Actual":2883.01,
+              "FY17 Budget":2997.43,
+              "FY18 Budget":3145.84
+            },
+            {
+              "Source":"EXPENDITURES",
+              "FY15 Actual":Null,
+              "FY16 Actual":Null,
+              "FY17 Budget":Null,
+              "FY18 Budget":Null
+            },
+            {
+              "Source":"City Appropriations",
+              "FY15 Actual":1141.3,
+              "FY16 Actual":1158.96,
+              "FY17 Budget":1208.57,
+              "FY18 Budget":1242.97
+            },
+            {
+              "Source":"Boston Public Health Commission",
+              "FY15 Actual":73.83,
+              "FY16 Actual":76.16,
+              "FY17 Budget":77.27,
+              "FY18 Budget":79.34
+            },
+            {
+              "Source":"Boston School Department",
+              "FY15 Actual":974.93,
+              "FY16 Actual":1016.28,
+              "FY17 Budget":1031.68,
+              "FY18 Budget":1060.93
+            },
+            {
+              "Source":"Reserve for Collective Bargaining City",
+              "FY15 Actual":10.79,
+              "FY16 Actual":0.02,
+              "FY17 Budget":7,
+              "FY18 Budget":27
+            },
+            {
+              "Source":"Reserve for Collective Bargaining BPS",
+              "FY15 Actual":0,
+              "FY16 Actual":0,
+              "FY17 Budget":9,
+              "FY18 Budget":20
+            },
+            {
+              "Source":"Other Post Employment Benefits",
+              "FY15 Actual":40,
+              "FY16 Actual":40,
+              "FY17 Budget":40,
+              "FY18 Budget":40
+            },
+            {
+              "Source":"Total Appropriations",
+              "total":true,
+              "FY15 Actual":2240.84,
+              "FY16 Actual":2291.41,
+              "FY17 Budget":2373.52,
+              "FY18 Budget":2470.24
+            },
+            {
+              "Source":"Pensions",
+              "FY15 Actual":169.62,
+              "FY16 Actual":196.55,
+              "FY17 Budget":199.28,
+              "FY18 Budget":221.22
+            },
+            {
+              "Source":"Debt Service",
+              "FY15 Actual":148.01,
+              "FY16 Actual":157.69,
+              "FY17 Budget":174.95,
+              "FY18 Budget":184.53
+            },
+            {
+              "Source":"Charter School Tuition",
+              "FY15 Actual":125.81,
+              "FY16 Actual":142.79,
+              "FY17 Budget":156.83,
+              "FY18 Budget":174.37
+            },
+            {
+              "Source":"MBTA",
+              "FY15 Actual":81.27,
+              "FY16 Actual":83,
+              "FY17 Budget":83.82,
+              "FY18 Budget":85.81
+            },
+            {
+              "Source":"Other State Assessments",
+              "FY15 Actual":4.58,
+              "FY16 Actual":4.79,
+              "FY17 Budget":5.15,
+              "FY18 Budget":4.71
+            },
+            {
+              "Source":"Suffolk County Sheriff Dept",
+              "FY15 Actual":3.87,
+              "FY16 Actual":3.87,
+              "FY17 Budget":3.87,
+              "FY18 Budget":3.97
+            },
+            {
+              "Source":"Reserve",
+              "FY15 Actual":0.92,
+              "FY16 Actual":0.99,
+              "FY17 Budget":0,
+              "FY18 Budget":1
+            },
+            {
+              "Source":"Total Fixed Costs",
+              "subtotal":true,
+              "FY15 Actual":534.08,
+              "FY16 Actual":589.68,
+              "FY17 Budget":623.91,
+              "FY18 Budget":675.6
+            },
+            {
+              "Source":"Total Expenditures",
+              "subtotal":true,
+              "FY15 Actual":2774.92,
+              "FY16 Actual":2881.09,
+              "FY17 Budget":2997.43,
+              "FY18 Budget":3145.84
+            },
+            {
+              "Source":"Surplus (Deficit)",
+              "FY15 Actual":5.49,
+              "FY16 Actual":1.92,
+              "FY17 Budget":0,
+              "FY18 Budget":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "img":"/img/04-revenue-estimates-revenue-estimates-g-prop-tax-growth.png"
         }
       ]
     },
@@ -53,10 +334,16 @@
             "The primary sources of aid from the State to municipalities are education aid and unrestricted general government aid. The Commonwealth also distributes aid for libraries and provides some other reimbursements to municipalities. ",
             "State aid has been reduced substantially over the course of the last two recessions. Since FY02, net state aid (defined as state aid revenues less state assessments) to the City has been reduced by over $252 million or 59%. The City lost approximately $79 million between FY03 and FY05, gained approximately $16 million between FY06 and FY08, and has again lost approximately $189 million between FY09 and budgeted FY18. For FY18, net state aid is expected to decline by $8.4 million or 4.6% from FY17.",
             "The City&rsquo;s FY18 state aid estimate is based on the Governor&rsquo;s proposed budget as the legislature released the final version of the state budget following release of the City&rsquo;s budget resubmission.",
-            "{04 Revenue Estimates - Revenue Estimates.xlsx:G-Change in NSA}",
             "Figure 1&ndash; Change in Net State Aid",
             "FY03-FY18, Grouped by Period of Loss or Gain"
           ]
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "img":"/img/04-revenue-estimates-revenue-estimates-g-change-in-nsa.png"
         }
       ]
     },
@@ -69,11 +356,17 @@
             "Charter schools are publicly-funded schools administered independently from local school districts and teachers&rsquo; union rules and regulations. Their charters are granted by the State Board of Education.",
             "Boston&rsquo;s Charter School Tuition Assessment is projected to increase by $17.5 million (11.2%), as about 10,600 students are projected to attend a Commonwealth Charter School in FY18. Boston has seen its charter school costs rise dramatically since the enactment of the 2010 Achievement Gap Legislation (155% or $106 million between FY11 and th FY18 Budget). The Charter School Tuition Reimbursement is budgeted at $23.6 million in FY18, $2.9 million higher than FY17, but a projected $25 million lower than the Commonwealth&rsquo;s obligation under the 2010 Achievement Gap Legislation.",
             "The net cost to the City for charter schools (reimbursement from the Commonwealth less tuition assessment) has grown dramatically as Boston&rsquo;s Charter School Tuition Assessment has increased and the Charter School Tuition Reimbursement has been vastly underfunded. The City has budgeted for a $136.2 million net impact in FY17, and a $150.7 million impact in FY18. (Figure 5).",
-            "{04 Revenue Estimates - Revenue Estimates.xlsx:G-Charter Schools}",
             "Figure 2&ndash; Charter Schools ",
             "Boston Enrollment and Net Cost",
             "FY08-FY18"
           ]
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "img":"/img/04-revenue-estimates-revenue-estimates-g-charter-schools.png"
         }
       ]
     },
@@ -139,15 +432,28 @@
     {
       "text_block":[
         {
+          "img":"/img/02-summary-budget-summary-budget-charts-appropcat.png"
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
           "body":[
             "Health Benefits",
             "The City continues to benefit from health care cost reforms achieved by the Walsh Administration in the 2015 - 2020 Public Employee Committee (PEC) Agreement, which is projected to save an additional $45 million over five years. Based on savings included in this agreement, Boston will realize $10 million in avoided health care costs in FY18, $2.6 million of which are related to FY18 specific changes. Despite this success, health care costs have continued to increase, since FY16, at a rate higher than the overall budget, consistent with trends in the broader Massachusetts market.",
             "The FY18 budget includes $395 million for all health benefit related costs for the City&rsquo;s employees and retirees, comprising 12.5% of total City expenditures &ndash; compared to 7.8% in 2001. $42.25 million of these costs for future OPEB liabilities are discussed in more detail in the following section. $352.4 million for current health, dental and life premiums and employer Medicare payroll taxes are addressed below.",
             "As shown in Figure 7, annual costs for health, dental and life insurance and Medicare taxes grew from $132 million in FY01 to $352.4 million in FY18, an increase of $221 million or 168%. Over the same period, all other City costs increased 80%. Figure 7 shows three distinct periods of annual cost increases. Steep increases averaged 15% per year from FY01 &ndash; FY08. Between FY09 &ndash; FY15 these cost increases dropped to an average increase of 1% per year due to multiple factors. These factors include: state health reform legislation, cooperative efforts by the City and its unions to reduce both the City&rsquo;s share of costs and total costs, and lower nationwide health care cost trends. Beginning in FY16, higher health care claims costs led to higher premium increases, which were mitigated by PEC agreement savings, resulting in an average cost increase of 6.3%. ",
-            "{02 Summary Budget - Health Ins FY18 History and Trend Charts incl Med, Life and Dental.xlsx:Figure 7-Health Care Costs ($)}",
             "Figure 1 - Health Care Costs ($ Mil)",
             "Health, Dental, Life Premiums and Medicare Tax"
           ]
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "img":"/img/02-summary-budget-health-ins-fy18-history-and-trend-charts-incl-med-life-and-dental-figure-7-health-care-costs-.png"
         }
       ]
     },
@@ -168,12 +474,20 @@
           "body":[
             "Municipal health care reform legislation, passed by the State legislature in 2011 provided municipalities more freedom in health plan design, and also mandated that all Medicare-eligible municipal retirees enroll in Medicare Part B and a City sponsored Medicare supplement plan. As a direct result of mandated Medicare enrollment, approximately 5,500 additional City retirees and their spouses have enrolled in Medicare supplement plans. Benefits for these plans are comparable to non-Medicare plans but costs are lower due to Medicare reimbursements. Over 70% of retirees and spouses are now enrolled in Medicare plans, compared to just 37% prior to the legislation. City savings from this mandate, beginning in FY13, have totaled approximately $20 million annually &ndash; a major contributor to the total cost decrease in FY13. ",
             "City retirees and their beneficiaries are eligible for Medicare through payment of Medicare payroll taxes during their working career. Medicare taxes are paid for all City employees who were hired after March 1986. The City&rsquo;s share of 50% Medicare taxes, totaling $19.3 million in the FY18 budget, has increased an average 12% annually since FY01. This growth is due to increases in total payroll and also the increasing percentage of total employees who were hired after March 1986 and are impacted by the tax. Because more Medicare eligible employees are now retiring, the percentage of all retirees enrolling into Medicare plans will continue to increase.",
-            "{02 Summary Budget - Health Ins FY18 History and Trend Charts incl Med, Life and Dental.xlsx: Table 2 Total Health Care Costs:Table2}",
             "Table 2",
-            "{02 Summary Budget - Health Ins FY18 History and Trend Charts incl Med, Life and Dental.xlsx: Table 3 Healthplan Subscribers:Table3}",
             "Table 3"
           ]
         }
+      ]
+    },
+    {
+      "table":[
+        {}
+      ]
+    },
+    {
+      "table":[
+        {}
       ]
     },
     {
@@ -185,11 +499,15 @@
             "While the City is required by law to make an annual contribution toward reducing its unfunded pension liability, there is no such requirement for retiree health and life insurance benefits. In FY08, the City followed new Governmental Accounting Standards Board (GASB) requirements to identify and disclose this estimated liability, and also began voluntary annual allocations to fund the liability. Annual allocations are retained in an irrevocable Trust Fund, authorized through the City&rsquo;s acceptance of M.G.L. Chapter 32B section 20. As of December 31, 2016 the Fund had a balance of $437 million. ",
             "The FY18 budget again dedicates $40 million toward reducing the City&rsquo;s long term other post-employment benefits (OPEB) liability. These fiscally responsible actions are critical to the Walsh Administration&rsquo;s prudent financial management policies, which have contributed to the recent affirmation of Boston&rsquo;s triple A bond rating.",
             "The Annual Required Contribution (ARC) for the City to significantly reduce the OPEB liability over a 30 year period is projected at $184.9 million in FY18, as shown in Table 4. $172.2 million (93%) of this amount will be funded through a combination of pay-as-you-go benefit payments for current retirees (included in health care costs discussed in previous section), a $40 million FY18 allocation by the City to the Trust, and an additional $2.25 million deposit by the BPHC into the Trust.",
-            "{02 Summary Budget - OPEB.xlsx: Table 4 ARC:OPEB1}",
             "Table 1",
             "As discussed later, the City is on track to fully fund its pension liability in 2025. The City then plans to redirect previous annual pension contributions to further reduce the unfunded OPEB liability, with a goal of fully funding the OPEB liability in 30 years."
           ]
         }
+      ]
+    },
+    {
+      "table":[
+        {}
       ]
     },
     {
@@ -205,6 +523,13 @@
             "The FY15 PEC agreement continued to prioritize funding of health care costs through self-insurance wherever possible. In FY13 the City began self-insuring most of its health plans, reducing total costs by over $10 million per year.",
             "In FY16, the City and the PEC began analyzing options for more cost effective management of the City&rsquo;s prescription benefits which now total roughly $100 million per year for all plans. As a result, a new Medicare product will be offered that includes a lower cost Medicare prescription drug plan, which is projected to save the City $2.7 million per year when implemented. The City and PEC will also continue to analyze options for carving out prescription drug management through a separate contract, as well as rebidding of the City&rsquo;s six Medicare plans. "
           ]
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "img":"/img/02-summary-budget-fy18-health-ins-employee-share-figure-8-cost-sharing.png"
         }
       ]
     },
@@ -242,12 +567,18 @@
             "Of that growth, Boston Public Schools is increasing by $40.3 million (3.9%) with a $1.061 billion appropriation and $20 million collective bargaining reserve. Boston&rsquo;s total investment in education is growing by $57.8 million (4.8%), including BPS and the City&rsquo;s Charter School Assessment.",
             "City Services such as Police, Fire, Public Works, Housing and Public Health are projected to increase by a total of $56.5 million (4.4%), including funding reserved for collective bargaining. Public safety costs are rising by 3.5% in FY18. Streets cabinet departments, Public Health Commission and 38 other departments are increasing by an average of 2.1%. Seventeen of these departments will see a reduction in their appropriation in FY18. Funding for City collective bargaining costs are centralized in a $27 million collective bargaining reserve. In addition, health insurance costs are projected to increase by $10.6 million (5.2%), even after achieving health care cost containment savings.",
             "The FY18 Recommended Budget continues and expands upon a number of savings initiatives launched under Mayor Walsh&rsquo;s Administration such as health care cost containment reforms, reducing overtime, inactivating vacant positions, and reducing energy consumption. It is only through continued tightening within City departments that the City will be able to afford new and expanded investments after reserving for costs associated with collective bargaining, being assessed for its increasing charter school costs, funding its pension obligations, and paying its debt service.",
-            "{02 Summary Budget - Summary Budget Charts.xlsx:AppropCABINET}",
             "Figure 1 - FY18 Appropriations by Cabinet",
             "The departmental appropriations are shown in the General Fund Appropriation by Cabinet table.",
             "Departmental appropriations can also be viewed by cabinet, to better reflect the overall policy priorities and trends by service area.",
             "In FY18 some programs have transferred between departments. Details of these changes are described below in each of the cabinet sections."
           ]
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "img":"/img/02-summary-budget-summary-budget-charts-appropcabinet.png"
         }
       ]
     },
@@ -503,10 +834,14 @@
         {
           "title":"Reserve",
           "body":[
-            "The Reserve budget is a fixed cost stipulated by state law and requires the City of Boston to maintain a reserve of 2.5% of the prior year appropriations, not including the School department, on its balance sheet. The current balance of this reserve is $31.4 million, and the City is required to budget $1 million in FY18 to meet reserve requirements. The reserve can be used to provide for extraordinary and unforeseen expenditures and the Mayor may make drafts or transfers against this fund with City Council approval after June first of each fiscal year. Since the establishment of this reserve, the City has yet to make any drafts or transfers from the reserve.",
-            "{02 Summary Budget - FY18- RecomAppropriation Table.xlsx:For Vol I:GeneralFund:GeneralFund:fullpage}"
+            "The Reserve budget is a fixed cost stipulated by state law and requires the City of Boston to maintain a reserve of 2.5% of the prior year appropriations, not including the School department, on its balance sheet. The current balance of this reserve is $31.4 million, and the City is required to budget $1 million in FY18 to meet reserve requirements. The reserve can be used to provide for extraordinary and unforeseen expenditures and the Mayor may make drafts or transfers against this fund with City Council approval after June first of each fiscal year. Since the establishment of this reserve, the City has yet to make any drafts or transfers from the reserve."
           ]
         }
+      ]
+    },
+    {
+      "table":[
+        {}
       ]
     },
     {
@@ -546,12 +881,20 @@
             "Twenty-seven departments and agencies expect to receive federal, state or other forms of external funding in FY18. Over 93% of the City&rsquo;s external funds are found in eight of those twenty-six departments. These eight departments are Boston Public Schools, Neighborhood Development, Public Health Commission, Emergency Management, Police, Library, Elderly Commission and the Parks and Recreation Department. Other departments that also have significant grant funding are the Office of Economic Development and the Fire Department. Descriptions and amounts of grants by department can be found in Volumes II and III.",
             "Federal grants have historically provided funding for key City priorities for education, community development, and services for seniors. Boston Public Schools, the Department of Neighborhood Development (DND), and the Elderly Commission have been the traditional recipients of recurring entitlement grants provided by the federal government.",
             "Although proposed federal budget cuts open questions about future levels of funding for Community Development Block Grant (CDBG) and HOME Investment Partnership, this budget assumes that DND will continue to receive these recurring federal entitlement grants, which provide funding for a variety of neighborhood development activities. The City will advocate that these critical programs are maintained in the federal budget. Other sources of federal funding received by the City are used to address diverse needs and/or creative approaches for homeland security, community policing and housing support for the homeless.",
-            "{02 Summary Budget - SUMMARY - External Funds Chart.xlsx:For Volume I:External_Funds}",
             "FY18 All Funds Budget",
-            "The following table consolidates the projected FY18 expenditures from the General Fund, Special Revenue Funds (external grants for the most part) and the Capital Fund by department. More detail on the expenditures made from each of these funds is shown in Volumes II and III of the City of Boston&rsquo;s FY18 budget document.",
-            "{02 Summary Budget - Summary - All Funds Budget Table.xlsx:For Volume I:All_Funds_Budgets___FY18:fullpage}"
+            "The following table consolidates the projected FY18 expenditures from the General Fund, Special Revenue Funds (external grants for the most part) and the Capital Fund by department. More detail on the expenditures made from each of these funds is shown in Volumes II and III of the City of Boston&rsquo;s FY18 budget document."
           ]
         }
+      ]
+    },
+    {
+      "table":[
+        {}
+      ]
+    },
+    {
+      "table":[
+        {}
       ]
     },
     {
@@ -569,10 +912,14 @@
             "The Environment, Energy and Open Space Cabinet will increase by 7 FTEs. The Environment Department is adding a position to support Renew Boston Trust and also a new preservation assistant to help reduce the wait times for Landmark Commission applications. Inspectional Services will grow building inspector staff to increase capacity to meet the growing demand for commercial and residential inspections. The Administration & Finance Cabinet projects an increase of 1 FTE with a new quality assurance loan management position in the Treasury Department. ",
             "The Health and Human Services Cabinet will increase by 22 FTEs primarily due to targeted investments in the Public Health Commission&rsquo;s Emergency Medical Services (EMS) and Recovery Services Bureau. EMS will add EMTs to a Community Assistance Team to respond to non-transport calls in Downtown Boston and the Recovery Road areas. The Public Health Commission will also add 4 FTEs to the PAATHS (Providing Access to Addictions Treatment, Hope and Support) Program to extend hours to evenings and weekends. The Commission&rsquo;s Mobile Sharps Team will double capacity to pick up improperly discarded hypodermic needles in response to an increase in requests submitted to 311. The Commission&rsquo;s Recovery Services Bureau will also add positions for a pilot low threshold engagement center. Additionally, the City will fund Homeless Services positions which were previously covered under federal grants. ",
             "The Information & Technology Cabinet is anticipated to grow by 4 FTE. The Department of Innovation and Technology has a capitally funded identity management project that requires additional staff. A data analytics position will also transfer to the department from the Office of Administration & Finance. ",
-            "The Streets Cabinet will increase by 8 FTEs. The Public Works Department is adding 6 additional full time hokeys (street cleaners) so that each of the 10 Public Works Districts will have regular service from the neighborhood-focused program. The Office of Streets plans to hire a Small Cell/DAS Approval Process Manager to better manage the Street Lighting division and the small cell program. An additional transportation engineer in the Transportation Department will help ensure the City&rsquo;s Vision Zero priorities can be met.",
-            "{02 Summary Budget - SUMMARY - FTE Table.xlsx:FTETable for Vol:FTE:fullpage}"
+            "The Streets Cabinet will increase by 8 FTEs. The Public Works Department is adding 6 additional full time hokeys (street cleaners) so that each of the 10 Public Works Districts will have regular service from the neighborhood-focused program. The Office of Streets plans to hire a Small Cell/DAS Approval Process Manager to better manage the Street Lighting division and the small cell program. An additional transportation engineer in the Transportation Department will help ensure the City&rsquo;s Vision Zero priorities can be met."
           ]
         }
+      ]
+    },
+    {
+      "table":[
+        {}
       ]
     },
     {
