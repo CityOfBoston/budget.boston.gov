@@ -136,18 +136,11 @@
             },
             {
               "Source":"Total Recurring Revenue",
-              "Total":true,
+              "total":true,
               "FY15 Actual":2780.42,
               "FY16 Actual":2883.01,
               "FY17 Budget":2953.43,
               "FY18 Budget":3105.84
-            },
-            {
-              "Source":Null,
-              "FY15 Actual":Null,
-              "FY16 Actual":Null,
-              "FY17 Budget":Null,
-              "FY18 Budget":Null
             },
             {
               "Source":"Budgetary Fund Balance",
@@ -165,18 +158,11 @@
             },
             {
               "Source":"Total Revenues",
-              "Total":true,
+              "total":true,
               "FY15 Actual":2780.42,
               "FY16 Actual":2883.01,
               "FY17 Budget":2997.43,
               "FY18 Budget":3145.84
-            },
-            {
-              "Source":Null,
-              "FY15 Actual":Null,
-              "FY16 Actual":Null,
-              "FY17 Budget":Null,
-              "FY18 Budget":Null
             },
             {
               "Source":"EXPENDITURES",
@@ -228,26 +214,12 @@
               "FY18 Budget":40
             },
             {
-              "Source":Null,
-              "FY15 Actual":Null,
-              "FY16 Actual":Null,
-              "FY17 Budget":Null,
-              "FY18 Budget":Null
-            },
-            {
               "Source":"Total Appropriations",
-              "Total":true,
+              "total":true,
               "FY15 Actual":2240.84,
               "FY16 Actual":2291.41,
               "FY17 Budget":2373.52,
               "FY18 Budget":2470.24
-            },
-            {
-              "Source":Null,
-              "FY15 Actual":Null,
-              "FY16 Actual":Null,
-              "FY17 Budget":Null,
-              "FY18 Budget":Null
             },
             {
               "Source":"Pensions",
@@ -300,33 +272,19 @@
             },
             {
               "Source":"Total Fixed Costs",
-              "Total":true,
+              "subtotal":true,
               "FY15 Actual":534.08,
               "FY16 Actual":589.68,
               "FY17 Budget":623.91,
               "FY18 Budget":675.6
             },
             {
-              "Source":Null,
-              "FY15 Actual":Null,
-              "FY16 Actual":Null,
-              "FY17 Budget":Null,
-              "FY18 Budget":Null
-            },
-            {
               "Source":"Total Expenditures",
-              "Total":true,
+              "subtotal":true,
               "FY15 Actual":2774.92,
               "FY16 Actual":2881.09,
               "FY17 Budget":2997.43,
               "FY18 Budget":3145.84
-            },
-            {
-              "Source":Null,
-              "FY15 Actual":Null,
-              "FY16 Actual":Null,
-              "FY17 Budget":Null,
-              "FY18 Budget":Null
             },
             {
               "Source":"Surplus (Deficit)",
