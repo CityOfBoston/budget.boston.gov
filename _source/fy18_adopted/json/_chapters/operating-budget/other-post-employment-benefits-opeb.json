@@ -1,0 +1,34 @@
+---
+{
+  "section":"Operating Budget",
+  "name":"Operating Budget",
+  "section_type":"section",
+  "section_type_short":"S",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_chapters~operating-budget~other-post-employment-benefits-opeb.json",
+  "source_time":"20180309135445",
+  "source_year":"18",
+  "components":[
+    {
+      "text_block":[
+        {
+          "body":[
+            "Other Post-Employment Benefits (OPEB)",
+            "Similar to pensions, employees earn post-employment health care and life insurance benefits (OPEB) over their years of active service, with those benefits being received during retirement. The City, including the Boston Public Health Commission (BPHC), has an unfunded liability for these benefits of $2.26 billion, as of the most recent independent actuarial valuation on June 30, 2015. The size of this liability is largely influenced by changes to retiree health benefits, the City&rsquo;s annual additional contribution to fund the liability, and the discount rate assumed. ",
+            "While the City is required by law to make an annual contribution toward reducing its unfunded pension liability, there is no such requirement for retiree health and life insurance benefits. In FY08, the City followed new Governmental Accounting Standards Board (GASB) requirements to identify and disclose this estimated liability, and also began voluntary annual allocations to fund the liability. Annual allocations are retained in an irrevocable Trust Fund, authorized through the City&rsquo;s acceptance of M.G.L. Chapter 32B section 20. As of December 31, 2016 the Fund had a balance of $437 million. ",
+            "The FY18 budget again dedicates $40 million toward reducing the City&rsquo;s long term other post-employment benefits (OPEB) liability. These fiscally responsible actions are critical to the Walsh Administration&rsquo;s prudent financial management policies, which have contributed to the recent affirmation of Boston&rsquo;s triple A bond rating.",
+            "The Annual Required Contribution (ARC) for the City to significantly reduce the OPEB liability over a 30 year period is projected at $184.9 million in FY18, as shown in Table 4. $172.2 million (93%) of this amount will be funded through a combination of pay-as-you-go benefit payments for current retirees (included in health care costs discussed in previous section), a $40 million FY18 allocation by the City to the Trust, and an additional $2.25 million deposit by the BPHC into the Trust.",
+            "Table 1",
+            "As discussed later, the City is on track to fully fund its pension liability in 2025. The City then plans to redirect previous annual pension contributions to further reduce the unfunded OPEB liability, with a goal of fully funding the OPEB liability in 30 years."
+          ]
+        }
+      ]
+    },
+    {
+      "table":[
+        {}
+      ]
+    }
+  ]
+}
+---

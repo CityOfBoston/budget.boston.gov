@@ -1,0 +1,37 @@
+---
+{
+  "title":"Urban Redevelopment Revenue",
+  "layout":"bos_content",
+  "permalink":"/featured-analysis/urban-redevelopment-revenue/",
+  "section_type":"section",
+  "section_type_short":"S",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~urban-redevelopment-revenue.json",
+  "source_time":"20180309135714",
+  "source_year":"18",
+  "card":[
+    {
+      "category":"Revenue",
+      "order":16,
+      "title":"Urban Redevelopment Revenue",
+      "body":"BPDA guides development through its urban renewal powers granted under MGL Chapters 121A and 121B.",
+      "img":"/img/cards/urban-redevelopment-revenue.jpg",
+      "link":"link"
+    }
+  ],
+  "components":[
+    {
+      "text_block":[
+        {
+          "title":"Urban Redevelopment Chapter 121A",
+          "body":[
+            "Massachusetts General Law (MGL), Chapter 121A allows local governments to suspend the imposition of property taxes at their normal rates in order to encourage redevelopment. Chapter 121A revenues are based on two separate sections of the law as described below. ",
+            "The Urban Redevelopment Corporation excise (Chapter 121A, section 10) is collected in-lieu-of-corporate income tax for which the Commonwealth acts as the collector and distributes the proceeds to municipalities. In most cases, the formula for the 121A, section 10 excise in-lieu-of-tax is $10 per $1,000 of the current cash value of property plus 5% of gross income. In FY15 and FY16, the City received Chapter 121A, section 10 distributions of $26.2 million and $10.4 million, respectively. Chapter 121A section 10 revenues are budgeted at $10.5 million in FY17 and FY18. The decreases in this line in recent years is a result of the expiration of several Chapter 121A section 10 agreements and the properties transitioning back to regular property taxes. They contribute to the new growth portion of the property tax levy.",
+            "In addition to the Section 10 payments collected by the Commonwealth described above, most 121A corporations have individual agreements with the City that result in additional payments made directly to the City. These &ldquo;Section 6A&rdquo; agreements are complex, with actual amounts owed dependent on a formula that varies widely. The City collected Section 6A payments of $26.3 million in FY15 and $29.7 million in FY16. The City expects Section 6A collections to reach $15 million in both FY17 and FY18. "
+          ]
+        }
+      ]
+    }
+  ]
+}
+---
