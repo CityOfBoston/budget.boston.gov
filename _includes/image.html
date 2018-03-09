@@ -1,0 +1,11 @@
+<div class="image-component clearfix">
+  {% if include.arg[0].position == 'right' %}
+  <div class="text-right">
+  {% elsif include.arg[0].position == 'left' %}
+  <div class="text-left">
+  {% else %}
+  <div class="text-center">
+  {% endif %}
+    <img src="{{ site.url }}{{ include.arg[0].path }}" />
+  </div>
+</div>

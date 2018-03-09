@@ -42,4 +42,8 @@ layout: bos_wrapper
     {% include text_col_2.html arg=component.text_col_2 %}
   {% endif %}
 
+  {% if component.image %}
+    {% include image.html arg=component.image %}
+  {% endif %}
+
 {% endfor %}

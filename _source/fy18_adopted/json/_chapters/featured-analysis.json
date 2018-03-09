@@ -20,6 +20,24 @@
       ]
     },
     {
+      "image":[{
+        "path":"/img/access-to-addiction-services.jpg",
+        "position":"center"
+      }]
+    },
+    {
+      "image":[{
+        "path":"/img/cards/launching-go-boston-2030.jpg",
+        "position":"right"
+      }]
+    },
+    {
+      "image":[{
+        "path":"/img/cards/mbta-assessment.jpg",
+        "position":"left"
+      }]
+    },
+    {
       "grid":[
         {
           "grid_title":"Budget Priorities"
