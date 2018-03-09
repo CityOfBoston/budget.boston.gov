@@ -24,26 +24,18 @@
       ]
     },
     {
-      "text_block":[
-        {
-          "image":[
-            {
-              "path":"/img/04-revenue-estimates-revenue-estimates-g-revenue-pie.png",
-              "position":"center"
-            }
-          ]
-        }
-      ]
+    "image":[
+      {
+        "path":"/img/04-revenue-estimates-revenue-estimates-g-revenue-pie.png",
+        "position":"center"
+      }
+    ]
     },
     {
-      "text_block":[
+      "image":[
         {
-          "image":[
-            {
-              "path":"/img/02-summary-budget-summary-budget-charts-exppie.png",
-              "position":"center"
-            }
-          ]
+          "path":"/img/02-summary-budget-summary-budget-charts-exppie.png",
+          "position":"center"
         }
       ]
     },
@@ -345,16 +337,12 @@
       ]
     },
     {
-      "text_block":[
-        {
-          "image":[
-            {
-              "path":"/img/04-revenue-estimates-revenue-estimates-g-prop-tax-growth.png",
-              "position":"center"
-            }
-          ]
-        }
-      ]
+    "image":[
+      {
+        "path":"/img/04-revenue-estimates-revenue-estimates-g-prop-tax-growth.png",
+        "position":"center"
+      }
+    ]
     },
     {
       "text_block":[
@@ -393,16 +381,12 @@
       ]
     },
     {
-      "text_block":[
-        {
-          "image":[
-            {
-              "path":"/img/04-revenue-estimates-revenue-estimates-g-change-in-nsa.png",
-              "position":"center"
-            }
-          ]
-        }
-      ]
+    "image":[
+      {
+        "path":"/img/04-revenue-estimates-revenue-estimates-g-change-in-nsa.png",
+        "position":"center"
+      }
+    ]
     },
     {
       "text_block":[
@@ -421,16 +405,12 @@
       ]
     },
     {
-      "text_block":[
-        {
-          "image":[
-            {
-              "path":"/img/04-revenue-estimates-revenue-estimates-g-charter-schools.png",
-              "position":"center"
-            }
-          ]
-        }
-      ]
+    "image":[
+      {
+        "path":"/img/04-revenue-estimates-revenue-estimates-g-charter-schools.png",
+        "position":"center"
+      }
+    ]
     },
     {
       "text_block":[
@@ -492,16 +472,12 @@
       ]
     },
     {
-      "text_block":[
-        {
-          "image":[
-            {
-              "path":"/img/02-summary-budget-summary-budget-charts-appropcat.png",
-              "position":"center"
-            }
-          ]
-        }
-      ]
+    "image":[
+      {
+        "path":"/img/02-summary-budget-summary-budget-charts-appropcat.png",
+        "position":"center"
+      }
+    ]
     },
     {
       "text_block":[
@@ -518,16 +494,12 @@
       ]
     },
     {
-      "text_block":[
-        {
-          "image":[
-            {
-              "path":"/img/02-summary-budget-health-ins-fy18-history-and-trend-charts-incl-med-life-and-dental-figure-7-health-care-costs-.png",
-              "position":"center"
-            }
-          ]
-        }
-      ]
+    "image":[
+      {
+        "path":"/img/02-summary-budget-health-ins-fy18-history-and-trend-charts-incl-med-life-and-dental-figure-7-health-care-costs-.png",
+        "position":"center"
+      }
+    ]
     },
     {
       "text_block":[
@@ -599,16 +571,12 @@
       ]
     },
     {
-      "text_block":[
-        {
-          "image":[
-            {
-              "path":"/img/02-summary-budget-fy18-health-ins-employee-share-figure-8-cost-sharing.png",
-              "position":"center"
-            }
-          ]
-        }
-      ]
+    "image":[
+      {
+        "path":"/img/02-summary-budget-fy18-health-ins-employee-share-figure-8-cost-sharing.png",
+        "position":"center"
+      }
+    ]
     },
     {
       "text_block":[
@@ -653,16 +621,12 @@
       ]
     },
     {
-      "text_block":[
-        {
-          "image":[
-            {
-              "path":"/img/02-summary-budget-summary-budget-charts-appropcabinet.png",
-              "position":"center"
-            }
-          ]
-        }
-      ]
+    "image":[
+      {
+        "path":"/img/02-summary-budget-summary-budget-charts-appropcabinet.png",
+        "position":"center"
+      }
+    ]
     },
     {
       "text_block":[
