@@ -2,7 +2,7 @@
 {
   "source_version":"Adopted",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_chapters~featured-analysis.json",
-  "source_time":"20180308170250",
+  "source_time":"20180309135721",
   "source_year":"18",
   "components":[
     {
@@ -18,24 +18,6 @@
           ]
         }
       ]
-    },
-    {
-      "image":[{
-        "path":"/img/access-to-addiction-services.jpg",
-        "position":"center"
-      }]
-    },
-    {
-      "image":[{
-        "path":"/img/cards/launching-go-boston-2030.jpg",
-        "position":"right"
-      }]
-    },
-    {
-      "image":[{
-        "path":"/img/cards/mbta-assessment.jpg",
-        "position":"left"
-      }]
     },
     {
       "grid":[
