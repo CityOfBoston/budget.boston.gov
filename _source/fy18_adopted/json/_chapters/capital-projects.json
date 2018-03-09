@@ -8,7 +8,7 @@
   "section_type_short":"S",
   "source_version":"Adopted",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_chapters~capital-projects.json",
-  "source_time":"20180309135133",
+  "source_time":"20180309152211",
   "source_year":"18",
   "components":[
     {
@@ -147,7 +147,12 @@
     {
       "text_block":[
         {
-          "img":"/img/08-capital-gross-debt-service-and-capex-for-charts-capitalexpenditureschart.png"
+          "image":[
+            {
+              "path":"/img/08-capital-gross-debt-service-and-capex-for-charts-capitalexpenditureschart.png",
+              "position":"center"
+            }
+          ]
         }
       ]
     },
@@ -374,14 +379,24 @@
     {
       "text_block":[
         {
-          "img":"/img/08-capital-gross-debt-service-and-capex-for-charts-grossdebtgeneralchart.png"
+          "image":[
+            {
+              "path":"/img/08-capital-gross-debt-service-and-capex-for-charts-grossdebtgeneralchart.png",
+              "position":"center"
+            }
+          ]
         }
       ]
     },
     {
       "text_block":[
         {
-          "img":"/img/08-capital-gross-debt-service-and-capex-for-charts-grossdebtlevychart.png"
+          "image":[
+            {
+              "path":"/img/08-capital-gross-debt-service-and-capex-for-charts-grossdebtlevychart.png",
+              "position":"center"
+            }
+          ]
         }
       ]
     },
