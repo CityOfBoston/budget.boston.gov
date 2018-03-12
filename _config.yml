@@ -88,7 +88,7 @@ defaults:
       path: "" # empty string for all files
       type: "chapters"
     values:
-      layout: "chapters"
+      layout: "bos_content"
 
 mini_magick:
   thumbnail:
