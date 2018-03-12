@@ -8,7 +8,7 @@
   "section_type_short":"S",
   "source_version":"Adopted",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_chapters~operating-budget.json",
-  "source_time":"20180309152341",
+  "source_time":"20180309173058",
   "source_year":"18",
   "components":[
     {
@@ -24,18 +24,26 @@
       ]
     },
     {
-    "image":[
-      {
-        "path":"/img/04-revenue-estimates-revenue-estimates-g-revenue-pie.png",
-        "position":"center"
-      }
-    ]
+      "text_block":[
+        {
+          "image":[
+            {
+              "path":"/img/04-revenue-estimates-revenue-estimates-g-revenue-pie.png",
+              "position":"center"
+            }
+          ]
+        }
+      ]
     },
     {
-      "image":[
+      "text_block":[
         {
-          "path":"/img/02-summary-budget-summary-budget-charts-exppie.png",
-          "position":"center"
+          "image":[
+            {
+              "path":"/img/02-summary-budget-summary-budget-charts-exppie.png",
+              "position":"center"
+            }
+          ]
         }
       ]
     },
@@ -47,302 +55,815 @@
           "columns":[
             {
               "Source":"REVENUES",
-              "FY15 Actual":Null,
-              "FY16 Actual":Null,
-              "FY17 Budget":Null,
-              "FY18 Budget":Null
+              "value":null
             },
             {
               "Source":"Property Tax",
-              "FY15 Actual":1875.15,
-              "FY16 Actual":1963.09,
-              "FY17 Budget":2086.68,
-              "FY18 Budget":2192.02
+              "FY15 Actual":{
+                "value":1875,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY16 Actual":{
+                "value":1963,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY17 Budget":{
+                "value":2087,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY18 Budget":{
+                "value":2192,
+                "filter":"delimiter",
+                "align":"right"
+              }
             },
             {
               "Source":"Property Tax Overlay",
-              "FY15 Actual":-35.87,
-              "FY16 Actual":-38.05,
-              "FY17 Budget":-38.74,
-              "FY18 Budget":-30.36
+              "FY15 Actual":{
+                "value":-36,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY16 Actual":{
+                "value":-38,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY17 Budget":{
+                "value":-39,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY18 Budget":{
+                "value":-30,
+                "filter":"delimiter",
+                "align":"right"
+              }
             },
             {
               "Source":"Excises",
-              "FY15 Actual":192.62,
-              "FY16 Actual":223.82,
-              "FY17 Budget":188.32,
-              "FY18 Budget":192.09
+              "FY15 Actual":{
+                "value":193,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY16 Actual":{
+                "value":224,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY17 Budget":{
+                "value":188,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY18 Budget":{
+                "value":192,
+                "filter":"delimiter",
+                "align":"right"
+              }
             },
             {
               "Source":"Fines",
-              "FY15 Actual":60.65,
-              "FY16 Actual":61.05,
-              "FY17 Budget":59.71,
-              "FY18 Budget":63.85
+              "FY15 Actual":{
+                "value":61,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY16 Actual":{
+                "value":61,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY17 Budget":{
+                "value":60,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY18 Budget":{
+                "value":64,
+                "filter":"delimiter",
+                "align":"right"
+              }
             },
             {
               "Source":"Interest On Investments",
-              "FY15 Actual":0.06,
-              "FY16 Actual":0.18,
-              "FY17 Budget":0.2,
-              "FY18 Budget":2
+              "FY15 Actual":{
+                "value":0,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY16 Actual":{
+                "value":0,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY17 Budget":{
+                "value":0,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY18 Budget":{
+                "value":2,
+                "filter":"delimiter",
+                "align":"right"
+              }
             },
             {
               "Source":"Payments in Lieu of Taxes",
-              "FY15 Actual":49.41,
-              "FY16 Actual":51.2,
-              "FY17 Budget":44.47,
-              "FY18 Budget":45
+              "FY15 Actual":{
+                "value":49,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY16 Actual":{
+                "value":51,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY17 Budget":{
+                "value":44,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY18 Budget":{
+                "value":45,
+                "filter":"delimiter",
+                "align":"right"
+              }
             },
             {
               "Source":"Urban Redev Chapter 121A",
-              "FY15 Actual":55.62,
-              "FY16 Actual":48.11,
-              "FY17 Budget":31.5,
-              "FY18 Budget":31.5
+              "FY15 Actual":{
+                "value":56,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY16 Actual":{
+                "value":48,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY17 Budget":{
+                "value":32,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY18 Budget":{
+                "value":32,
+                "filter":"delimiter",
+                "align":"right"
+              }
             },
             {
               "Source":"Department Revenue",
-              "FY15 Actual":64.73,
-              "FY16 Actual":63.09,
-              "FY17 Budget":55.7,
-              "FY18 Budget":65.37
+              "FY15 Actual":{
+                "value":65,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY16 Actual":{
+                "value":63,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY17 Budget":{
+                "value":56,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY18 Budget":{
+                "value":65,
+                "filter":"delimiter",
+                "align":"right"
+              }
             },
             {
               "Source":"Licenses & Permits",
-              "FY15 Actual":72.54,
-              "FY16 Actual":74.44,
-              "FY17 Budget":63.79,
-              "FY18 Budget":65.93
+              "FY15 Actual":{
+                "value":73,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY16 Actual":{
+                "value":74,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY17 Budget":{
+                "value":64,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY18 Budget":{
+                "value":66,
+                "filter":"delimiter",
+                "align":"right"
+              }
             },
             {
               "Source":"Penalties & Interest",
-              "FY15 Actual":13.08,
-              "FY16 Actual":14.48,
-              "FY17 Budget":8.51,
-              "FY18 Budget":14.46
+              "FY15 Actual":{
+                "value":13,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY16 Actual":{
+                "value":14,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY17 Budget":{
+                "value":9,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY18 Budget":{
+                "value":14,
+                "filter":"delimiter",
+                "align":"right"
+              }
             },
             {
               "Source":"Available Funds",
-              "FY15 Actual":19,
-              "FY16 Actual":0,
-              "FY17 Budget":23.45,
-              "FY18 Budget":23.45
+              "FY15 Actual":{
+                "value":19,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY16 Actual":{
+                "value":0,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY17 Budget":{
+                "value":23,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY18 Budget":{
+                "value":23,
+                "filter":"delimiter",
+                "align":"right"
+              }
             },
             {
               "Source":"State Aid",
-              "FY15 Actual":413.43,
-              "FY16 Actual":421.58,
-              "FY17 Budget":429.85,
-              "FY18 Budget":440.54
+              "FY15 Actual":{
+                "value":413,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY16 Actual":{
+                "value":422,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY17 Budget":{
+                "value":430,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY18 Budget":{
+                "value":441,
+                "filter":"delimiter",
+                "align":"right"
+              }
             },
             {
               "Source":"Total Recurring Revenue",
-              "FY15 Actual":2780.42,
-              "FY16 Actual":2883.01,
-              "FY17 Budget":2953.43,
-              "FY18 Budget":3105.84
+              "total":true,
+              "FY15 Actual":{
+                "value":2780,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY16 Actual":{
+                "value":2883,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY17 Budget":{
+                "value":2953,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY18 Budget":{
+                "value":3106,
+                "filter":"delimiter",
+                "align":"right"
+              }
             },
             {
               "Source":Null,
-              "FY15 Actual":Null,
-              "FY16 Actual":Null,
-              "FY17 Budget":Null,
-              "FY18 Budget":Null
+              "value":null
             },
             {
               "Source":"Budgetary Fund Balance",
-              "FY15 Actual":0,
-              "FY16 Actual":0,
-              "FY17 Budget":40,
-              "FY18 Budget":40
+              "FY15 Actual":{
+                "value":0,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY16 Actual":{
+                "value":0,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY17 Budget":{
+                "value":40,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY18 Budget":{
+                "value":40,
+                "filter":"delimiter",
+                "align":"right"
+              }
             },
             {
               "Source":"Surplus Property Fund",
-              "FY15 Actual":0,
-              "FY16 Actual":0,
-              "FY17 Budget":4,
-              "FY18 Budget":0
+              "FY15 Actual":{
+                "value":0,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY16 Actual":{
+                "value":0,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY17 Budget":{
+                "value":4,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY18 Budget":{
+                "value":0,
+                "filter":"delimiter",
+                "align":"right"
+              }
             },
             {
               "Source":"Total Revenues",
-              "FY15 Actual":2780.42,
-              "FY16 Actual":2883.01,
-              "FY17 Budget":2997.43,
-              "FY18 Budget":3145.84
+              "total":true,
+              "FY15 Actual":{
+                "value":2780,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY16 Actual":{
+                "value":2883,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY17 Budget":{
+                "value":2997,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY18 Budget":{
+                "value":3146,
+                "filter":"delimiter",
+                "align":"right"
+              }
             },
             {
               "Source":Null,
-              "FY15 Actual":Null,
-              "FY16 Actual":Null,
-              "FY17 Budget":Null,
-              "FY18 Budget":Null
+              "value":null
             },
             {
               "Source":"EXPENDITURES",
-              "FY15 Actual":Null,
-              "FY16 Actual":Null,
-              "FY17 Budget":Null,
-              "FY18 Budget":Null
+              "value":null
             },
             {
               "Source":"City Appropriations",
-              "FY15 Actual":1141.3,
-              "FY16 Actual":1158.96,
-              "FY17 Budget":1208.57,
-              "FY18 Budget":1242.97
+              "FY15 Actual":{
+                "value":1141,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY16 Actual":{
+                "value":1159,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY17 Budget":{
+                "value":1209,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY18 Budget":{
+                "value":1243,
+                "filter":"delimiter",
+                "align":"right"
+              }
             },
             {
               "Source":"Boston Public Health Commission",
-              "FY15 Actual":73.83,
-              "FY16 Actual":76.16,
-              "FY17 Budget":77.27,
-              "FY18 Budget":79.34
+              "FY15 Actual":{
+                "value":74,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY16 Actual":{
+                "value":76,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY17 Budget":{
+                "value":77,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY18 Budget":{
+                "value":79,
+                "filter":"delimiter",
+                "align":"right"
+              }
             },
             {
               "Source":"Boston School Department",
-              "FY15 Actual":974.93,
-              "FY16 Actual":1016.28,
-              "FY17 Budget":1031.68,
-              "FY18 Budget":1060.93
+              "FY15 Actual":{
+                "value":975,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY16 Actual":{
+                "value":1016,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY17 Budget":{
+                "value":1032,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY18 Budget":{
+                "value":1061,
+                "filter":"delimiter",
+                "align":"right"
+              }
             },
             {
               "Source":"Reserve for Collective Bargaining City",
-              "FY15 Actual":10.79,
-              "FY16 Actual":0.02,
-              "FY17 Budget":7,
-              "FY18 Budget":27
+              "FY15 Actual":{
+                "value":11,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY16 Actual":{
+                "value":0,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY17 Budget":{
+                "value":7,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY18 Budget":{
+                "value":27,
+                "filter":"delimiter",
+                "align":"right"
+              }
             },
             {
               "Source":"Reserve for Collective Bargaining BPS",
-              "FY15 Actual":0,
-              "FY16 Actual":0,
-              "FY17 Budget":9,
-              "FY18 Budget":20
+              "FY15 Actual":{
+                "value":0,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY16 Actual":{
+                "value":0,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY17 Budget":{
+                "value":9,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY18 Budget":{
+                "value":20,
+                "filter":"delimiter",
+                "align":"right"
+              }
             },
             {
               "Source":"Other Post Employment Benefits",
-              "FY15 Actual":40,
-              "FY16 Actual":40,
-              "FY17 Budget":40,
-              "FY18 Budget":40
+              "FY15 Actual":{
+                "value":40,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY16 Actual":{
+                "value":40,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY17 Budget":{
+                "value":40,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY18 Budget":{
+                "value":40,
+                "filter":"delimiter",
+                "align":"right"
+              }
             },
             {
               "Source":Null,
-              "FY15 Actual":Null,
-              "FY16 Actual":Null,
-              "FY17 Budget":Null,
-              "FY18 Budget":Null
+              "value":null
             },
             {
               "Source":"Total Appropriations",
-              "FY15 Actual":2240.84,
-              "FY16 Actual":2291.41,
-              "FY17 Budget":2373.52,
-              "FY18 Budget":2470.24
+              "total":true,
+              "FY15 Actual":{
+                "value":2241,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY16 Actual":{
+                "value":2291,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY17 Budget":{
+                "value":2374,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY18 Budget":{
+                "value":2470,
+                "filter":"delimiter",
+                "align":"right"
+              }
             },
             {
               "Source":Null,
-              "FY15 Actual":Null,
-              "FY16 Actual":Null,
-              "FY17 Budget":Null,
-              "FY18 Budget":Null
+              "value":null
             },
             {
               "Source":"Pensions",
-              "FY15 Actual":169.62,
-              "FY16 Actual":196.55,
-              "FY17 Budget":199.28,
-              "FY18 Budget":221.22
+              "FY15 Actual":{
+                "value":170,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY16 Actual":{
+                "value":197,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY17 Budget":{
+                "value":199,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY18 Budget":{
+                "value":221,
+                "filter":"delimiter",
+                "align":"right"
+              }
             },
             {
               "Source":"Debt Service",
-              "FY15 Actual":148.01,
-              "FY16 Actual":157.69,
-              "FY17 Budget":174.95,
-              "FY18 Budget":184.53
+              "FY15 Actual":{
+                "value":148,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY16 Actual":{
+                "value":158,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY17 Budget":{
+                "value":175,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY18 Budget":{
+                "value":185,
+                "filter":"delimiter",
+                "align":"right"
+              }
             },
             {
               "Source":"Charter School Tuition",
-              "FY15 Actual":125.81,
-              "FY16 Actual":142.79,
-              "FY17 Budget":156.83,
-              "FY18 Budget":174.37
+              "FY15 Actual":{
+                "value":126,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY16 Actual":{
+                "value":143,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY17 Budget":{
+                "value":157,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY18 Budget":{
+                "value":174,
+                "filter":"delimiter",
+                "align":"right"
+              }
             },
             {
               "Source":"MBTA",
-              "FY15 Actual":81.27,
-              "FY16 Actual":83,
-              "FY17 Budget":83.82,
-              "FY18 Budget":85.81
+              "FY15 Actual":{
+                "value":81,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY16 Actual":{
+                "value":83,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY17 Budget":{
+                "value":84,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY18 Budget":{
+                "value":86,
+                "filter":"delimiter",
+                "align":"right"
+              }
             },
             {
               "Source":"Other State Assessments",
-              "FY15 Actual":4.58,
-              "FY16 Actual":4.79,
-              "FY17 Budget":5.15,
-              "FY18 Budget":4.71
+              "FY15 Actual":{
+                "value":5,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY16 Actual":{
+                "value":5,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY17 Budget":{
+                "value":5,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY18 Budget":{
+                "value":5,
+                "filter":"delimiter",
+                "align":"right"
+              }
             },
             {
               "Source":"Suffolk County Sheriff Dept",
-              "FY15 Actual":3.87,
-              "FY16 Actual":3.87,
-              "FY17 Budget":3.87,
-              "FY18 Budget":3.97
+              "FY15 Actual":{
+                "value":4,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY16 Actual":{
+                "value":4,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY17 Budget":{
+                "value":4,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY18 Budget":{
+                "value":4,
+                "filter":"delimiter",
+                "align":"right"
+              }
             },
             {
               "Source":"Reserve",
-              "FY15 Actual":0.92,
-              "FY16 Actual":0.99,
-              "FY17 Budget":0,
-              "FY18 Budget":1
+              "FY15 Actual":{
+                "value":1,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY16 Actual":{
+                "value":1,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY17 Budget":{
+                "value":0,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY18 Budget":{
+                "value":1,
+                "filter":"delimiter",
+                "align":"right"
+              }
             },
             {
               "Source":"Total Fixed Costs",
-              "FY15 Actual":534.08,
-              "FY16 Actual":589.68,
-              "FY17 Budget":623.91,
-              "FY18 Budget":675.6
+              "total":true,
+              "FY15 Actual":{
+                "value":534,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY16 Actual":{
+                "value":590,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY17 Budget":{
+                "value":624,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY18 Budget":{
+                "value":676,
+                "filter":"delimiter",
+                "align":"right"
+              }
             },
             {
               "Source":Null,
-              "FY15 Actual":Null,
-              "FY16 Actual":Null,
-              "FY17 Budget":Null,
-              "FY18 Budget":Null
+              "value":null
             },
             {
               "Source":"Total Expenditures",
-              "FY15 Actual":2774.92,
-              "FY16 Actual":2881.09,
-              "FY17 Budget":2997.43,
-              "FY18 Budget":3145.84
+              "total":true,
+              "FY15 Actual":{
+                "value":2775,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY16 Actual":{
+                "value":2881,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY17 Budget":{
+                "value":2997,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY18 Budget":{
+                "value":3146,
+                "filter":"delimiter",
+                "align":"right"
+              }
             },
             {
               "Source":Null,
-              "FY15 Actual":Null,
-              "FY16 Actual":Null,
-              "FY17 Budget":Null,
-              "FY18 Budget":Null
+              "value":null
             },
             {
               "Source":"Surplus (Deficit)",
-              "FY15 Actual":5.49,
-              "FY16 Actual":1.92,
-              "FY17 Budget":0,
-              "FY18 Budget":0
+              "FY15 Actual":{
+                "value":5,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY16 Actual":{
+                "value":2,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY17 Budget":{
+                "value":0,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY18 Budget":{
+                "value":0,
+                "filter":"delimiter",
+                "align":"right"
+              }
             }
           ]
         }
       ]
     },
     {
-    "image":[
-      {
-        "path":"/img/04-revenue-estimates-revenue-estimates-g-prop-tax-growth.png",
-        "position":"center"
-      }
-    ]
+      "text_block":[
+        {
+          "image":[
+            {
+              "path":"/img/04-revenue-estimates-revenue-estimates-g-prop-tax-growth.png",
+              "position":"center"
+            }
+          ]
+        }
+      ]
     },
     {
       "text_block":[
@@ -381,12 +902,16 @@
       ]
     },
     {
-    "image":[
-      {
-        "path":"/img/04-revenue-estimates-revenue-estimates-g-change-in-nsa.png",
-        "position":"center"
-      }
-    ]
+      "text_block":[
+        {
+          "image":[
+            {
+              "path":"/img/04-revenue-estimates-revenue-estimates-g-change-in-nsa.png",
+              "position":"center"
+            }
+          ]
+        }
+      ]
     },
     {
       "text_block":[
@@ -405,12 +930,16 @@
       ]
     },
     {
-    "image":[
-      {
-        "path":"/img/04-revenue-estimates-revenue-estimates-g-charter-schools.png",
-        "position":"center"
-      }
-    ]
+      "text_block":[
+        {
+          "image":[
+            {
+              "path":"/img/04-revenue-estimates-revenue-estimates-g-charter-schools.png",
+              "position":"center"
+            }
+          ]
+        }
+      ]
     },
     {
       "text_block":[
@@ -472,12 +1001,16 @@
       ]
     },
     {
-    "image":[
-      {
-        "path":"/img/02-summary-budget-summary-budget-charts-appropcat.png",
-        "position":"center"
-      }
-    ]
+      "text_block":[
+        {
+          "image":[
+            {
+              "path":"/img/02-summary-budget-summary-budget-charts-appropcat.png",
+              "position":"center"
+            }
+          ]
+        }
+      ]
     },
     {
       "text_block":[
@@ -494,12 +1027,16 @@
       ]
     },
     {
-    "image":[
-      {
-        "path":"/img/02-summary-budget-health-ins-fy18-history-and-trend-charts-incl-med-life-and-dental-figure-7-health-care-costs-.png",
-        "position":"center"
-      }
-    ]
+      "text_block":[
+        {
+          "image":[
+            {
+              "path":"/img/02-summary-budget-health-ins-fy18-history-and-trend-charts-incl-med-life-and-dental-figure-7-health-care-costs-.png",
+              "position":"center"
+            }
+          ]
+        }
+      ]
     },
     {
       "text_block":[
@@ -571,12 +1108,16 @@
       ]
     },
     {
-    "image":[
-      {
-        "path":"/img/02-summary-budget-fy18-health-ins-employee-share-figure-8-cost-sharing.png",
-        "position":"center"
-      }
-    ]
+      "text_block":[
+        {
+          "image":[
+            {
+              "path":"/img/02-summary-budget-fy18-health-ins-employee-share-figure-8-cost-sharing.png",
+              "position":"center"
+            }
+          ]
+        }
+      ]
     },
     {
       "text_block":[
@@ -621,12 +1162,16 @@
       ]
     },
     {
-    "image":[
-      {
-        "path":"/img/02-summary-budget-summary-budget-charts-appropcabinet.png",
-        "position":"center"
-      }
-    ]
+      "text_block":[
+        {
+          "image":[
+            {
+              "path":"/img/02-summary-budget-summary-budget-charts-appropcabinet.png",
+              "position":"center"
+            }
+          ]
+        }
+      ]
     },
     {
       "text_block":[
