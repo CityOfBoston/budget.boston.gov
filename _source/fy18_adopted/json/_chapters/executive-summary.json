@@ -8,7 +8,7 @@
   "section_type_short":"S",
   "source_version":"Adopted",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_chapters~executive-summary.json",
-  "source_time":"20180309135017",
+  "source_time":"20180309152119",
   "source_year":"18",
   "components":[
     {
@@ -275,21 +275,36 @@
     {
       "text_block":[
         {
-          "img":"/img/draft-executive-summary-graphs-mz-graph-1.png"
+          "image":[
+            {
+              "path":"/img/draft-executive-summary-graphs-mz-graph-1.png",
+              "position":"center"
+            }
+          ]
         }
       ]
     },
     {
       "text_block":[
         {
-          "img":"/img/draft-executive-summary-graphs-mz-graph-2.png"
+          "image":[
+            {
+              "path":"/img/draft-executive-summary-graphs-mz-graph-2.png",
+              "position":"center"
+            }
+          ]
         }
       ]
     },
     {
       "text_block":[
         {
-          "img":"/img/draft-executive-summary-graphs-mz-graph-3.png"
+          "image":[
+            {
+              "path":"/img/draft-executive-summary-graphs-mz-graph-3.png",
+              "position":"center"
+            }
+          ]
         }
       ]
     },
@@ -307,7 +322,12 @@
     {
       "text_block":[
         {
-          "img":"/img/draft-executive-summary-graphs-mz-graph-4.png"
+          "image":[
+            {
+              "path":"/img/draft-executive-summary-graphs-mz-graph-4.png",
+              "position":"center"
+            }
+          ]
         }
       ]
     },
@@ -344,14 +364,24 @@
     {
       "text_block":[
         {
-          "img":"/img/draft-executive-summary-graphs-mz-graph-5.png"
+          "image":[
+            {
+              "path":"/img/draft-executive-summary-graphs-mz-graph-5.png",
+              "position":"center"
+            }
+          ]
         }
       ]
     },
     {
       "text_block":[
         {
-          "img":"/img/draft-executive-summary-graphs-mz-graph-6.png"
+          "image":[
+            {
+              "path":"/img/draft-executive-summary-graphs-mz-graph-6.png",
+              "position":"center"
+            }
+          ]
         }
       ]
     },
@@ -386,7 +416,12 @@
     {
       "text_block":[
         {
-          "img":"/img/draft-executive-summary-graphs-mz-graph-7.png"
+          "image":[
+            {
+              "path":"/img/draft-executive-summary-graphs-mz-graph-7.png",
+              "position":"center"
+            }
+          ]
         }
       ]
     },
@@ -483,7 +518,12 @@
     {
       "text_block":[
         {
-          "img":"/img/draft-executive-summary-graphs-mz-graph-9.png"
+          "image":[
+            {
+              "path":"/img/draft-executive-summary-graphs-mz-graph-9.png",
+              "position":"center"
+            }
+          ]
         }
       ]
     },
