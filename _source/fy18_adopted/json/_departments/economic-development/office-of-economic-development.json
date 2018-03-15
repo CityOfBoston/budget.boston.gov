@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_departments~Economic Development~office-of-economic-development.json",
-  "source_time":"20180309173652",
+  "source_time":"20180314170150",
   "source_year":"18",
   "name":"Office of Economic Development",
   "parent":"Economic Development",
@@ -36,37 +36,37 @@
       {
         "name":Null,
         "line_type":"data",
-        "fy-2":566884,
-        "fy-1":680543,
-        "fy-0":625796,
-        "fy+1":811615,
+        "fy-2":680543,
+        "fy-1":937675,
+        "fy-0":811615,
+        "fy+1":1030565,
         "publish_subordinates":true
       },
       {
         "name":"Boston Residents Jobs Policy",
         "line_type":"data",
-        "fy-2":432876,
-        "fy-1":406174,
-        "fy-0":624653,
-        "fy+1":639543,
+        "fy-2":406174,
+        "fy-1":504409,
+        "fy-0":642544,
+        "fy+1":683004,
         "publish_subordinates":true
       },
       {
         "name":"Small & Local Business",
         "line_type":"data",
-        "fy-2":552934,
-        "fy-1":473064,
-        "fy-0":1210164,
-        "fy+1":1022234,
+        "fy-2":473064,
+        "fy-1":1076640,
+        "fy-0":1025846,
+        "fy+1":1136062,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":1552694,
-        "fy-1":1559781,
-        "fy-0":2460613,
-        "fy+1":2473392
+        "fy-2":1559781,
+        "fy-1":2518724,
+        "fy-0":2480005,
+        "fy+1":2849631
       }
     ]
   },
@@ -86,31 +86,31 @@
         "name":"CDBG",
         "line_type":"data",
         "fy-2":0,
-        "fy-1":0,
-        "fy-0":7319764,
-        "fy+1":3616973,
+        "fy-1":4685344,
+        "fy-0":7233946,
+        "fy+1":4934280,
         "publish_subordinates":true
       },
       {
-        "name":"Choice Neighborhood Implementation",
+        "name":"Choice Neighborhood Implementation Grant",
         "line_type":"data",
         "fy-2":0,
         "fy-1":0,
-        "fy-0":120000,
-        "fy+1":0,
+        "fy-0":0,
+        "fy+1":50000,
         "publish_subordinates":true
       },
       {
         "name":"EDIC",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":3031,
-        "fy-0":811981,
-        "fy+1":500000,
+        "fy-2":3031,
+        "fy-1":0,
+        "fy-0":500000,
+        "fy+1":343733,
         "publish_subordinates":true
       },
       {
-        "name":"Section 108 (Unrestricted)",
+        "name":"Neighborhood Development Fund",
         "line_type":"data",
         "fy-2":0,
         "fy-1":0,
@@ -119,10 +119,10 @@
         "publish_subordinates":true
       },
       {
-        "name":"Section 108 Unrestricted Fund",
+        "name":"Section 108 (Unrestricted)",
         "line_type":"data",
         "fy-2":0,
-        "fy-1":0,
+        "fy-1":281618,
         "fy-0":317500,
         "fy+1":0,
         "publish_subordinates":true
@@ -130,10 +130,10 @@
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":0,
-        "fy-1":3031,
-        "fy-0":8569245,
-        "fy+1":4434473
+        "fy-2":3031,
+        "fy-1":4966962,
+        "fy-0":8051446,
+        "fy+1":5645513
       }
     ]
   },
@@ -149,26 +149,26 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":1476807,
-      "fy-1":1469690,
-      "fy-0":1912648,
-      "fy+1":1903134
+      "fy-2":1469690,
+      "fy-1":1905573,
+      "fy-0":1909747,
+      "fy+1":2177706
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":75887,
-      "fy-1":90091,
-      "fy-0":547965,
-      "fy+1":570258
+      "fy-2":90091,
+      "fy-1":613151,
+      "fy-0":570258,
+      "fy+1":671925
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":1552694,
-      "fy-1":1559781,
-      "fy-0":2460613,
-      "fy+1":2473392
+      "fy-2":1559781,
+      "fy-1":2518724,
+      "fy-0":2480005,
+      "fy+1":2849631
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
@@ -187,44 +187,44 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":1476807,
-        "fy-1":1469690,
-        "fy-0":1912648,
-        "fy+1":1903134,
-        "diff":-9514
+        "fy-2":1469690,
+        "fy-1":1905573,
+        "fy-0":1909747,
+        "fy+1":2177706,
+        "diff":267959
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":53600,
-        "fy-1":53769,
-        "fy-0":505730,
-        "fy+1":524743,
-        "diff":19013
+        "fy-2":53769,
+        "fy-1":524734,
+        "fy-0":524743,
+        "fy+1":616320,
+        "diff":91577
       },
       {
         "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":4859,
-        "fy-1":11158,
-        "fy-0":20085,
-        "fy+1":21115,
-        "diff":1030
+        "fy-2":11158,
+        "fy-1":25200,
+        "fy-0":21115,
+        "fy+1":30865,
+        "diff":9750
       },
       {
         "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":14877,
-        "fy-1":19328,
-        "fy-0":18150,
-        "fy+1":20400,
-        "diff":2250
+        "fy-2":19328,
+        "fy-1":49892,
+        "fy-0":20400,
+        "fy+1":20740,
+        "diff":340
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":2551,
-        "fy-1":5836,
+        "fy-2":5836,
+        "fy-1":13325,
         "fy-0":4000,
         "fy+1":4000,
         "diff":0
@@ -241,11 +241,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":1552694,
-        "fy-1":1559781,
-        "fy-0":2460613,
-        "fy+1":2473392,
-        "diff":12779
+        "fy-2":1559781,
+        "fy-1":2518724,
+        "fy-0":2480005,
+        "fy+1":2849631,
+        "diff":369626
       }
     ]
   },

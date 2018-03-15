@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_departments~Housing and Neighborhood Development~neighborhood-development.json",
-  "source_time":"20180309173738",
+  "source_time":"20180314170234",
   "source_year":"18",
   "name":"Neighborhood Development",
   "parent":"Housing & Neighborhood Development",
@@ -37,35 +37,35 @@
       {
         "name":"Neighborhood Development Administration",
         "line_type":"data",
-        "fy-2":1913600,
-        "fy-1":1234445,
-        "fy-0":1620680,
-        "fy+1":1711502,
+        "fy-2":1234445,
+        "fy-1":1476416,
+        "fy-0":1711502,
+        "fy+1":1780671,
         "publish_subordinates":true
       },
       {
         "name":Null,
         "line_type":"data",
-        "fy-2":1775390,
-        "fy-1":1782889,
-        "fy-0":1554227,
-        "fy+1":1616592,
+        "fy-2":1782889,
+        "fy-1":1705069,
+        "fy-0":1616592,
+        "fy+1":1752600,
         "publish_subordinates":true
       },
       {
         "name":"Neighborhood Housing Development",
         "line_type":"data",
-        "fy-2":716906,
-        "fy-1":7846242,
-        "fy-0":9788275,
-        "fy+1":9797521,
+        "fy-2":7846242,
+        "fy-1":9744725,
+        "fy-0":9797521,
+        "fy+1":10583819,
         "publish_subordinates":true
       },
       {
         "name":"Business Services",
         "line_type":"data",
-        "fy-2":562366,
-        "fy-1":680479,
+        "fy-2":680479,
+        "fy-1":0,
         "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
@@ -73,10 +73,10 @@
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":4968262,
-        "fy-1":11544055,
-        "fy-0":12963182,
-        "fy+1":13125615
+        "fy-2":11544055,
+        "fy-1":12926210,
+        "fy-0":13125615,
+        "fy+1":14117090
       }
     ]
   },
@@ -95,8 +95,8 @@
       {
         "name":"Abandoned Property Rehab Grant",
         "line_type":"data",
-        "fy-2":1679,
-        "fy-1":26000,
+        "fy-2":26000,
+        "fy-1":288,
         "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
@@ -104,8 +104,8 @@
       {
         "name":"ARRA - Neighborhood Stabilization Program",
         "line_type":"data",
-        "fy-2":97101,
-        "fy-1":340400,
+        "fy-2":340400,
+        "fy-1":12944,
         "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
@@ -113,17 +113,17 @@
       {
         "name":"BRA/HODAG Program Income",
         "line_type":"data",
-        "fy-2":2866357,
-        "fy-1":0,
-        "fy-0":412832,
+        "fy-2":0,
+        "fy-1":1343379,
+        "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Brownfields Economic Development Initiative",
         "line_type":"data",
-        "fy-2":157849,
-        "fy-1":97145,
+        "fy-2":97145,
+        "fy-1":29073,
         "fy-0":50334,
         "fy+1":50334,
         "publish_subordinates":true
@@ -131,26 +131,26 @@
       {
         "name":"CDBG",
         "line_type":"data",
-        "fy-2":17159535,
-        "fy-1":22349852,
-        "fy-0":45542099,
-        "fy+1":18578341,
+        "fy-2":22349852,
+        "fy-1":43172734,
+        "fy-0":37156682,
+        "fy+1":39445070,
         "publish_subordinates":true
       },
       {
         "name":"Choice Neighborhood Implementation Grant",
         "line_type":"data",
-        "fy-2":1589852,
-        "fy-1":3067674,
-        "fy-0":1103999,
-        "fy+1":0,
+        "fy-2":3067674,
+        "fy-1":1824272,
+        "fy-0":0,
+        "fy+1":305000,
         "publish_subordinates":true
       },
       {
         "name":"Community Challenge Planning Grant",
         "line_type":"data",
-        "fy-2":1041635,
-        "fy-1":123340,
+        "fy-2":123340,
+        "fy-1":111048,
         "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
@@ -158,26 +158,26 @@
       {
         "name":"Continuum of Care",
         "line_type":"data",
-        "fy-2":20830905,
-        "fy-1":21550104,
-        "fy-0":25353135,
-        "fy+1":24243260,
+        "fy-2":21550104,
+        "fy-1":21810576,
+        "fy-0":24243260,
+        "fy+1":26285486,
         "publish_subordinates":true
       },
       {
         "name":"Emergency Solutions Grant",
         "line_type":"data",
-        "fy-2":1194278,
-        "fy-1":1413450,
-        "fy-0":1451394,
-        "fy+1":1434653,
+        "fy-2":1413450,
+        "fy-1":1309065,
+        "fy-0":1434653,
+        "fy+1":2020436,
         "publish_subordinates":true
       },
       {
         "name":"EPA/Brownfields",
         "line_type":"data",
-        "fy-2":194930,
-        "fy-1":29852,
+        "fy-2":29852,
+        "fy-1":0,
         "fy-0":133333,
         "fy+1":133333,
         "publish_subordinates":true
@@ -185,35 +185,35 @@
       {
         "name":"HOME",
         "line_type":"data",
-        "fy-2":3349572,
-        "fy-1":3719181,
-        "fy-0":4562373,
-        "fy+1":4248201,
-        "publish_subordinates":true
-      },
-      {
-        "name":"HomeCorp",
-        "line_type":"data",
-        "fy-2":320330,
-        "fy-1":0,
-        "fy-0":0,
-        "fy+1":0,
+        "fy-2":3719181,
+        "fy-1":2660595,
+        "fy-0":4248201,
+        "fy+1":4262649,
         "publish_subordinates":true
       },
       {
         "name":"HOPWA",
         "line_type":"data",
-        "fy-2":1791706,
-        "fy-1":1915264,
-        "fy-0":2698528,
-        "fy+1":2019112,
+        "fy-2":1915264,
+        "fy-1":2279594,
+        "fy-0":2019112,
+        "fy+1":2293423,
         "publish_subordinates":true
       },
       {
         "name":"Housing 2030",
         "line_type":"data",
+        "fy-2":2472088,
+        "fy-1":1994427,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Housing 2031",
+        "line_type":"data",
         "fy-2":0,
-        "fy-1":2472088,
+        "fy-1":4250710,
         "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
@@ -221,35 +221,35 @@
       {
         "name":"Inclusionary Development Fund",
         "line_type":"data",
-        "fy-2":2838679,
-        "fy-1":6608256,
-        "fy-0":10646636,
-        "fy+1":10025000,
+        "fy-2":6608256,
+        "fy-1":23484710,
+        "fy-0":10025000,
+        "fy+1":21658074,
         "publish_subordinates":true
       },
       {
         "name":"Lead Paint Abatement",
         "line_type":"data",
-        "fy-2":1250983,
-        "fy-1":987552,
-        "fy-0":1239898,
-        "fy+1":1290473,
+        "fy-2":987552,
+        "fy-1":1380838,
+        "fy-0":1290473,
+        "fy+1":1271481,
         "publish_subordinates":true
       },
       {
         "name":"Neighborhood Development Fund",
         "line_type":"data",
-        "fy-2":670920,
-        "fy-1":0,
-        "fy-0":1429000,
-        "fy+1":0,
+        "fy-2":0,
+        "fy-1":2686551,
+        "fy-0":0,
+        "fy+1":67025,
         "publish_subordinates":true
       },
       {
         "name":"Neighborhood Stabilization Program (State)",
         "line_type":"data",
-        "fy-2":297785,
-        "fy-1":142629,
+        "fy-2":142629,
+        "fy-1":0,
         "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
@@ -257,8 +257,8 @@
       {
         "name":"OBD EDI EMP/Non EMP",
         "line_type":"data",
-        "fy-2":280000,
-        "fy-1":11106,
+        "fy-2":11106,
+        "fy-1":0,
         "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
@@ -266,17 +266,26 @@
       {
         "name":"Regional Foreclosure Education Grant (COM)",
         "line_type":"data",
-        "fy-2":33451,
-        "fy-1":118810,
-        "fy-0":145353,
-        "fy+1":0,
+        "fy-2":118810,
+        "fy-1":135337,
+        "fy-0":0,
+        "fy+1":72257,
         "publish_subordinates":true
       },
       {
         "name":"Section 108 (Boston Invests in Growth II)",
         "line_type":"data",
+        "fy-2":43664,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Section 108 (Emp Zone)",
+        "line_type":"data",
         "fy-2":0,
-        "fy-1":43664,
+        "fy-1":114522,
         "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
@@ -284,17 +293,26 @@
       {
         "name":"Section 108 (Unrestricted)",
         "line_type":"data",
-        "fy-2":559472,
-        "fy-1":456023,
-        "fy-0":67025,
+        "fy-2":456023,
+        "fy-1":153688,
+        "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Triple Decker Initiative",
         "line_type":"data",
-        "fy-2":166573,
-        "fy-1":38237,
+        "fy-2":38237,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Urban Agenda Grant",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":300000,
         "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
@@ -302,10 +320,10 @@
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":56693592,
-        "fy-1":65510627,
-        "fy-0":94835939,
-        "fy+1":62022707
+        "fy-2":65510627,
+        "fy-1":109054351,
+        "fy-0":80601048,
+        "fy+1":97864568
       }
     ]
   },
@@ -321,26 +339,26 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":2872153,
-      "fy-1":2966584,
-      "fy-0":3101834,
-      "fy+1":3066799
+      "fy-2":2966584,
+      "fy-1":3123565,
+      "fy-0":3066799,
+      "fy+1":3590851
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":2096109,
-      "fy-1":8577471,
-      "fy-0":9861348,
-      "fy+1":10058816
+      "fy-2":8577471,
+      "fy-1":9802645,
+      "fy-0":10058816,
+      "fy+1":10526239
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":4968262,
-      "fy-1":11544055,
-      "fy-0":12963182,
-      "fy+1":13125615
+      "fy-2":11544055,
+      "fy-1":12926210,
+      "fy-0":13125615,
+      "fy+1":14117090
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
@@ -372,65 +390,65 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":2872153,
-        "fy-1":2966584,
-        "fy-0":3101834,
-        "fy+1":3066799,
-        "diff":-35035
+        "fy-2":2966584,
+        "fy-1":3123565,
+        "fy-0":3066799,
+        "fy+1":3590851,
+        "diff":524052
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":1338226,
-        "fy-1":1150602,
-        "fy-0":1131734,
-        "fy+1":1333936,
-        "diff":202202
+        "fy-2":1150602,
+        "fy-1":1112572,
+        "fy-0":1333936,
+        "fy+1":1360131,
+        "diff":26195
       },
       {
         "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":38421,
-        "fy-1":32417,
-        "fy-0":39994,
-        "fy+1":39044,
-        "diff":-950
+        "fy-2":32417,
+        "fy-1":25613,
+        "fy-0":39044,
+        "fy+1":55720,
+        "diff":16676
       },
       {
         "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":111593,
-        "fy-1":128178,
-        "fy-0":126931,
-        "fy+1":127081,
-        "diff":150
+        "fy-2":128178,
+        "fy-1":101790,
+        "fy-0":127081,
+        "fy+1":136181,
+        "diff":9100
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":7869,
-        "fy-1":16274,
-        "fy-0":12689,
+        "fy-2":16274,
+        "fy-1":12670,
+        "fy-0":8755,
         "fy+1":8755,
-        "diff":-3934
+        "diff":0
       },
       {
         "line_title":"Other",
         "line_type":"data",
-        "fy-2":600000,
-        "fy-1":7250000,
+        "fy-2":7250000,
+        "fy-1":8550000,
         "fy-0":8550000,
-        "fy+1":8550000,
-        "diff":0
+        "fy+1":8965452,
+        "diff":415452
       },
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":4968262,
-        "fy-1":11544055,
-        "fy-0":12963182,
-        "fy+1":13125615,
-        "diff":162433
+        "fy-2":11544055,
+        "fy-1":12926210,
+        "fy-0":13125615,
+        "fy+1":14117090,
+        "diff":991475
       }
     ]
   },

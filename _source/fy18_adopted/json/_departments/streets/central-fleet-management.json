@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_departments~Streets~central-fleet-management.json",
-  "source_time":"20180309173821",
+  "source_time":"20180314170313",
   "source_year":"18",
   "name":"Central Fleet Management",
   "parent":"Streets",
@@ -36,19 +36,19 @@
       {
         "name":"Central Fleet Maintenance",
         "line_type":"data",
-        "fy-2":2672446,
-        "fy-1":2148719,
-        "fy-0":2590424,
-        "fy+1":2805234,
+        "fy-2":2148719,
+        "fy-1":2322032,
+        "fy-0":2829169,
+        "fy+1":2976520,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":2672446,
-        "fy-1":2148719,
-        "fy-0":2590424,
-        "fy+1":2805234
+        "fy-2":2148719,
+        "fy-1":2322032,
+        "fy-0":2829169,
+        "fy+1":2976520
       }
     ]
   },
@@ -67,18 +67,18 @@
       {
         "name":"DOE Clean Cities Grant",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":58758,
-        "fy-0":287242,
+        "fy-2":58758,
+        "fy-1":0,
+        "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":0,
-        "fy-1":58758,
-        "fy-0":287242,
+        "fy-2":58758,
+        "fy-1":0,
+        "fy-0":0,
         "fy+1":0
       }
     ]
@@ -95,26 +95,26 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":1714481,
-      "fy-1":1715569,
-      "fy-0":1972993,
-      "fy+1":2085778
+      "fy-2":1715569,
+      "fy-1":1904840,
+      "fy-0":2099713,
+      "fy+1":2169899
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":957965,
-      "fy-1":433150,
-      "fy-0":617431,
-      "fy+1":719456
+      "fy-2":433150,
+      "fy-1":417192,
+      "fy-0":729456,
+      "fy+1":806621
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":2672446,
-      "fy-1":2148719,
-      "fy-0":2590424,
-      "fy+1":2805234
+      "fy-2":2148719,
+      "fy-1":2322032,
+      "fy-0":2829169,
+      "fy+1":2976520
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
@@ -136,47 +136,47 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":1714481,
-        "fy-1":1715569,
-        "fy-0":1972993,
-        "fy+1":2085778,
-        "diff":112785
+        "fy-2":1715569,
+        "fy-1":1904840,
+        "fy-0":2099713,
+        "fy+1":2169899,
+        "diff":70186
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":387974,
-        "fy-1":63409,
-        "fy-0":213919,
-        "fy+1":288732,
-        "diff":74813
+        "fy-2":63409,
+        "fy-1":556264,
+        "fy-0":288732,
+        "fy+1":329383,
+        "diff":40651
       },
       {
         "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":215832,
-        "fy-1":91716,
-        "fy-0":127575,
-        "fy+1":149332,
-        "diff":21757
+        "fy-2":91716,
+        "fy-1":-379428,
+        "fy-0":159332,
+        "fy+1":140457,
+        "diff":-18875
       },
       {
         "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":48164,
-        "fy-1":18128,
-        "fy-0":7850,
+        "fy-2":18128,
+        "fy-1":6373,
+        "fy-0":12850,
         "fy+1":12850,
-        "diff":5000
+        "diff":0
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":305995,
-        "fy-1":259897,
-        "fy-0":268087,
-        "fy+1":268542,
-        "diff":455
+        "fy-2":259897,
+        "fy-1":233983,
+        "fy-0":268542,
+        "fy+1":323931,
+        "diff":55389
       },
       {
         "line_title":"Other",
@@ -190,11 +190,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":2672446,
-        "fy-1":2148719,
-        "fy-0":2590424,
-        "fy+1":2805234,
-        "diff":214810
+        "fy-2":2148719,
+        "fy-1":2322032,
+        "fy-0":2829169,
+        "fy+1":2976520,
+        "diff":147351
       }
     ]
   },

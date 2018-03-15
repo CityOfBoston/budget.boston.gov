@@ -9,13 +9,13 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_departments~Administration and Finance~budget-management.json",
-  "source_time":"20180309173619",
+  "source_time":"20180314170057",
   "source_year":"18",
   "name":"Budget Management",
   "parent":"Administration & Finance",
   "cabinet":"Administration & Finance",
   "department":"Budget Management",
-  "head_name":"Katie Hammer",
+  "head_name":"Justin Sterritt",
   "head_title":"Director",
   "appropriation_code":"Appropriation 141",
   "mission":[
@@ -36,55 +36,55 @@
       {
         "name":"Budget Administration",
         "line_type":"data",
-        "fy-2":1170876,
-        "fy-1":1327635,
-        "fy-0":1516020,
-        "fy+1":1001218,
+        "fy-2":1327635,
+        "fy-1":1616308,
+        "fy-0":1012611,
+        "fy+1":990652,
         "publish_subordinates":true
       },
       {
         "name":Null,
         "line_type":"data",
-        "fy-2":531594,
-        "fy-1":551482,
-        "fy-0":810690,
-        "fy+1":842389,
+        "fy-2":551482,
+        "fy-1":600750,
+        "fy-0":858629,
+        "fy+1":927619,
         "publish_subordinates":true
       },
       {
         "name":"Revenue Monitoring",
         "line_type":"data",
-        "fy-2":225956,
-        "fy-1":193686,
-        "fy-0":193368,
-        "fy+1":866648,
+        "fy-2":193686,
+        "fy-1":185875,
+        "fy-0":866648,
+        "fy+1":880921,
         "publish_subordinates":true
       },
       {
         "name":Null,
         "line_type":"data",
-        "fy-2":483707,
-        "fy-1":473233,
-        "fy-0":490356,
-        "fy+1":503146,
+        "fy-2":473233,
+        "fy-1":501718,
+        "fy-0":509674,
+        "fy+1":508035,
         "publish_subordinates":true
       },
       {
         "name":Null,
         "line_type":"data",
-        "fy-2":172924,
-        "fy-1":176751,
-        "fy-0":189542,
-        "fy+1":191357,
+        "fy-2":176751,
+        "fy-1":176513,
+        "fy-0":191357,
+        "fy+1":195131,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":2585057,
-        "fy-1":2722787,
-        "fy-0":3199976,
-        "fy+1":3404758
+        "fy-2":2722787,
+        "fy-1":3081164,
+        "fy-0":3438919,
+        "fy+1":3502358
       }
     ]
   },
@@ -100,26 +100,26 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":2075679,
-      "fy-1":2162003,
-      "fy-0":2284345,
-      "fy+1":2320888
+      "fy-2":2162003,
+      "fy-1":2176555,
+      "fy-0":2355049,
+      "fy+1":2405428
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":509378,
-      "fy-1":560784,
-      "fy-0":915631,
-      "fy+1":1083870
+      "fy-2":560784,
+      "fy-1":904609,
+      "fy-0":1083870,
+      "fy+1":1096930
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":2585057,
-      "fy-1":2722787,
-      "fy-0":3199976,
-      "fy+1":3404758
+      "fy-2":2722787,
+      "fy-1":3081164,
+      "fy-0":3438919,
+      "fy+1":3502358
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
@@ -146,47 +146,47 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":2075679,
-        "fy-1":2162003,
-        "fy-0":2284345,
-        "fy+1":2320888,
-        "diff":36543
+        "fy-2":2162003,
+        "fy-1":2176555,
+        "fy-0":2355049,
+        "fy+1":2405428,
+        "diff":50379
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":355918,
-        "fy-1":400431,
-        "fy-0":707256,
-        "fy+1":958095,
-        "diff":250839
+        "fy-2":400431,
+        "fy-1":745843,
+        "fy-0":958095,
+        "fy+1":949095,
+        "diff":-9000
       },
       {
         "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":3047,
-        "fy-1":2925,
+        "fy-2":2925,
+        "fy-1":3219,
         "fy-0":5600,
-        "fy+1":5600,
-        "diff":0
+        "fy+1":6100,
+        "diff":500
       },
       {
         "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":150413,
-        "fy-1":152898,
-        "fy-0":202775,
-        "fy+1":117775,
-        "diff":-85000
+        "fy-2":152898,
+        "fy-1":141452,
+        "fy-0":117775,
+        "fy+1":139335,
+        "diff":21560
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":4530,
-        "fy-0":0,
+        "fy-2":4530,
+        "fy-1":14095,
+        "fy-0":2400,
         "fy+1":2400,
-        "diff":2400
+        "diff":0
       },
       {
         "line_title":"Other",
@@ -200,11 +200,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":2585057,
-        "fy-1":2722787,
-        "fy-0":3199976,
-        "fy+1":3404758,
-        "diff":204782
+        "fy-2":2722787,
+        "fy-1":3081164,
+        "fy-0":3438919,
+        "fy+1":3502358,
+        "diff":63439
       }
     ]
   }

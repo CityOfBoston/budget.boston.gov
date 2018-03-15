@@ -4,7 +4,7 @@
   "cabinet":"Public Safety",
   "department":"Police Department",
   "file_version":"",
-  "head_name":"William Ridge",
+  "head_name":"William G. Ridge",
   "head_title":"Manager",
   "name":"Bureau of Field Services",
   "parent":"Police Department",
@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~training-and-education.json",
-  "source_time":"20180309173818",
+  "source_time":"20180314170308",
   "source_year":"18",
   "appropriation_code":"Organization 211500",
   "description":[
@@ -32,26 +32,26 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":181051127,
-      "fy-1":183693275,
-      "fy-0":205610165,
-      "fy+1":213090455
+      "fy-2":183693275,
+      "fy-1":191346046,
+      "fy-0":213309576,
+      "fy+1":225229413
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":1968491,
-      "fy-1":1979377,
-      "fy-0":2641797,
-      "fy+1":2699235
+      "fy-2":1979377,
+      "fy-1":2111472,
+      "fy-0":2699235,
+      "fy+1":2740998
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":183019618,
-      "fy-1":185672652,
-      "fy-0":208251962,
-      "fy+1":215789690
+      "fy-2":185672652,
+      "fy-1":193457518,
+      "fy-0":216008811,
+      "fy+1":227970411
     }
   ],
   "program_history_by_account":{
@@ -69,47 +69,47 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":181051127,
-        "fy-1":183693275,
-        "fy-0":205610165,
-        "fy+1":213090455,
-        "diff":7480290
+        "fy-2":183693275,
+        "fy-1":191346046,
+        "fy-0":213309576,
+        "fy+1":225229413,
+        "diff":11919837
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":195073,
-        "fy-1":217274,
-        "fy-0":255505,
-        "fy+1":272399,
-        "diff":16894
+        "fy-2":217274,
+        "fy-1":382353,
+        "fy-0":272399,
+        "fy+1":279664,
+        "diff":7265
       },
       {
         "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":1670990,
-        "fy-1":1633674,
-        "fy-0":2217272,
-        "fy+1":2257536,
-        "diff":40264
+        "fy-2":1633674,
+        "fy-1":1613125,
+        "fy-0":2257536,
+        "fy+1":2284583,
+        "diff":27047
       },
       {
         "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":4083,
-        "fy-1":4890,
-        "fy-0":3900,
-        "fy+1":4400,
-        "diff":500
+        "fy-2":4890,
+        "fy-1":11005,
+        "fy-0":4400,
+        "fy+1":1751,
+        "diff":-2649
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":98345,
-        "fy-1":123539,
-        "fy-0":165120,
-        "fy+1":164900,
-        "diff":-220
+        "fy-2":123539,
+        "fy-1":104989,
+        "fy-0":164900,
+        "fy+1":175000,
+        "diff":10100
       },
       {
         "line_title":"Other",
@@ -123,11 +123,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":183019618,
-        "fy-1":185672652,
-        "fy-0":208251962,
-        "fy+1":215789690,
-        "diff":7537728
+        "fy-2":185672652,
+        "fy-1":193457518,
+        "fy-0":216008811,
+        "fy+1":227970411,
+        "diff":11961600
       }
     ]
   },

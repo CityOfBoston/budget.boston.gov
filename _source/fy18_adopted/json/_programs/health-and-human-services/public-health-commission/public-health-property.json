@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~phc-administration.json",
-  "source_time":"20180309173731",
+  "source_time":"20180314170228",
   "source_year":"18",
   "appropriation_code":"Organization 620300",
   "description":[
@@ -40,18 +40,18 @@
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":2205092,
-      "fy-1":3754487,
-      "fy-0":3632518,
-      "fy+1":4059310
+      "fy-2":3754487,
+      "fy-1":3632516,
+      "fy-0":4068210,
+      "fy+1":0
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":2205092,
-      "fy-1":3754487,
-      "fy-0":3632518,
-      "fy+1":4059310
+      "fy-2":3754487,
+      "fy-1":3632516,
+      "fy-0":4068210,
+      "fy+1":0
     }
   ],
   "program_history_by_account":{
@@ -114,20 +114,20 @@
       {
         "line_title":"Other",
         "line_type":"data",
-        "fy-2":2205092,
-        "fy-1":3754487,
-        "fy-0":3632518,
-        "fy+1":4059310,
-        "diff":426792
+        "fy-2":3754487,
+        "fy-1":3632516,
+        "fy-0":4068210,
+        "fy+1":0,
+        "diff":-4068210
       },
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":2205092,
-        "fy-1":3754487,
-        "fy-0":3632518,
-        "fy+1":4059310,
-        "diff":426792
+        "fy-2":3754487,
+        "fy-1":3632516,
+        "fy-0":4068210,
+        "fy+1":0,
+        "diff":-4068210
       }
     ]
   },

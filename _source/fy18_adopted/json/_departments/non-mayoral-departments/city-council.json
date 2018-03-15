@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_departments~Non-Mayoral Departments~city-council.json",
-  "source_time":"20180309173756",
+  "source_time":"20180314170252",
   "source_year":"18",
   "name":"City Council",
   "parent":"Non-Mayoral Departments",
@@ -36,37 +36,37 @@
       {
         "name":"City Council Administration",
         "line_type":"data",
-        "fy-2":362745,
-        "fy-1":338734,
-        "fy-0":354426,
-        "fy+1":358664,
+        "fy-2":338734,
+        "fy-1":328994,
+        "fy-0":358664,
+        "fy+1":338613,
         "publish_subordinates":true
       },
       {
         "name":"City Councilors",
         "line_type":"data",
-        "fy-2":4176754,
-        "fy-1":4323562,
-        "fy-0":4422396,
-        "fy+1":4418092,
+        "fy-2":4323562,
+        "fy-1":4257060,
+        "fy-0":4418092,
+        "fy+1":4414540,
         "publish_subordinates":true
       },
       {
         "name":"Legislative/Financial Support",
         "line_type":"data",
-        "fy-2":521777,
-        "fy-1":544154,
-        "fy-0":563955,
-        "fy+1":564021,
+        "fy-2":544154,
+        "fy-1":498016,
+        "fy-0":564021,
+        "fy+1":570469,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":5061276,
-        "fy-1":5206450,
+        "fy-2":5206450,
+        "fy-1":5084070,
         "fy-0":5340777,
-        "fy+1":5340777
+        "fy+1":5323622
       }
     ]
   },
@@ -82,26 +82,26 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":4841047,
-      "fy-1":5021729,
-      "fy-0":5079217,
-      "fy+1":5073513
+      "fy-2":5021729,
+      "fy-1":4937864,
+      "fy-0":5073513,
+      "fy+1":5056358
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":220229,
-      "fy-1":184721,
-      "fy-0":261560,
+      "fy-2":184721,
+      "fy-1":146206,
+      "fy-0":267264,
       "fy+1":267264
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":5061276,
-      "fy-1":5206450,
+      "fy-2":5206450,
+      "fy-1":5084070,
       "fy-0":5340777,
-      "fy+1":5340777
+      "fy+1":5323622
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
@@ -124,44 +124,44 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":4841047,
-        "fy-1":5021729,
-        "fy-0":5079217,
-        "fy+1":5073513,
-        "diff":-5704
+        "fy-2":5021729,
+        "fy-1":4937864,
+        "fy-0":5073513,
+        "fy+1":5056358,
+        "diff":-17155
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":137727,
-        "fy-1":116037,
-        "fy-0":170460,
+        "fy-2":116037,
+        "fy-1":106896,
+        "fy-0":170940,
         "fy+1":170940,
-        "diff":480
+        "diff":0
       },
       {
         "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":32883,
-        "fy-1":30245,
-        "fy-0":38000,
+        "fy-2":30245,
+        "fy-1":20462,
+        "fy-0":42224,
         "fy+1":42224,
-        "diff":4224
+        "diff":0
       },
       {
         "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":17099,
-        "fy-1":13098,
-        "fy-0":22100,
+        "fy-2":13098,
+        "fy-1":13019,
+        "fy-0":23100,
         "fy+1":23100,
-        "diff":1000
+        "diff":0
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":32520,
-        "fy-1":25341,
+        "fy-2":25341,
+        "fy-1":5829,
         "fy-0":31000,
         "fy+1":31000,
         "diff":0
@@ -178,11 +178,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":5061276,
-        "fy-1":5206450,
+        "fy-2":5206450,
+        "fy-1":5084070,
         "fy-0":5340777,
-        "fy+1":5340777,
-        "diff":0
+        "fy+1":5323622,
+        "diff":-17155
       }
     ]
   }

@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~.json",
-  "source_time":"20180309173751",
+  "source_time":"20180314170248",
   "source_year":"18",
   "appropriation_code":"Organization 411100",
   "description":[
@@ -32,7 +32,7 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":443128,
+      "fy-2":0,
       "fy-1":0,
       "fy-0":0,
       "fy+1":0
@@ -40,7 +40,7 @@
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":26709,
+      "fy-2":0,
       "fy-1":0,
       "fy-0":0,
       "fy+1":0
@@ -48,7 +48,7 @@
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":469837,
+      "fy-2":0,
       "fy-1":0,
       "fy-0":0,
       "fy+1":0
@@ -69,7 +69,7 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":443128,
+        "fy-2":0,
         "fy-1":0,
         "fy-0":0,
         "fy+1":0,
@@ -78,7 +78,7 @@
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":15940,
+        "fy-2":0,
         "fy-1":0,
         "fy-0":0,
         "fy+1":0,
@@ -87,7 +87,7 @@
       {
         "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":7571,
+        "fy-2":0,
         "fy-1":0,
         "fy-0":0,
         "fy+1":0,
@@ -96,7 +96,7 @@
       {
         "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":3198,
+        "fy-2":0,
         "fy-1":0,
         "fy-0":0,
         "fy+1":0,
@@ -123,7 +123,7 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":469837,
+        "fy-2":0,
         "fy-1":0,
         "fy-0":0,
         "fy+1":0,

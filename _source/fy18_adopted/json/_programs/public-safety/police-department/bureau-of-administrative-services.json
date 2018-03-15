@@ -4,7 +4,7 @@
   "cabinet":"Public Safety",
   "department":"Police Department",
   "file_version":"",
-  "head_name":"John Daley",
+  "head_name":"John J. Daley",
   "head_title":"Manager",
   "name":"BAT-Admin & Technology",
   "parent":"Police Department",
@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~support-services.json",
-  "source_time":"20180309173817",
+  "source_time":"20180314170308",
   "source_year":"18",
   "appropriation_code":"Organization 211300",
   "description":[
@@ -32,26 +32,26 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":32303431,
-      "fy-1":33059249,
-      "fy-0":33616991,
-      "fy+1":35115726
+      "fy-2":33059249,
+      "fy-1":35016706,
+      "fy-0":35508887,
+      "fy+1":36464665
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":13554448,
-      "fy-1":12584369,
-      "fy-0":15662659,
-      "fy+1":17056885
+      "fy-2":12584369,
+      "fy-1":14320857,
+      "fy-0":17056885,
+      "fy+1":18537927
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":45857879,
-      "fy-1":45643618,
-      "fy-0":49279650,
-      "fy+1":52172611
+      "fy-2":45643618,
+      "fy-1":49337563,
+      "fy-0":52565772,
+      "fy+1":55002592
     }
   ],
   "program_history_by_account":{
@@ -69,52 +69,52 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":32303431,
-        "fy-1":33059249,
-        "fy-0":33616991,
-        "fy+1":35115726,
-        "diff":1498735
+        "fy-2":33059249,
+        "fy-1":35016706,
+        "fy-0":35508887,
+        "fy+1":36464665,
+        "diff":955778
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":7086627,
-        "fy-1":6548777,
-        "fy-0":9009232,
-        "fy+1":10078341,
-        "diff":1069109
+        "fy-2":6548777,
+        "fy-1":7759250,
+        "fy-0":10078341,
+        "fy+1":11778608,
+        "diff":1700267
       },
       {
         "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":755745,
-        "fy-1":787640,
-        "fy-0":744164,
-        "fy+1":784061,
-        "diff":39897
+        "fy-2":787640,
+        "fy-1":896526,
+        "fy-0":784061,
+        "fy+1":848538,
+        "diff":64477
       },
       {
         "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":3889177,
-        "fy-1":4155012,
-        "fy-0":4439928,
-        "fy+1":4706428,
-        "diff":266500
+        "fy-2":4155012,
+        "fy-1":4536478,
+        "fy-0":4706428,
+        "fy+1":4481700,
+        "diff":-224728
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":968041,
-        "fy-1":1092940,
-        "fy-0":1469335,
-        "fy+1":1488055,
-        "diff":18720
+        "fy-2":1092940,
+        "fy-1":1128603,
+        "fy-0":1488055,
+        "fy+1":1429081,
+        "diff":-58974
       },
       {
         "line_title":"Other",
         "line_type":"data",
-        "fy-2":854858,
+        "fy-2":0,
         "fy-1":0,
         "fy-0":0,
         "fy+1":0,
@@ -123,11 +123,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":45857879,
-        "fy-1":45643618,
-        "fy-0":49279650,
-        "fy+1":52172611,
-        "diff":2892961
+        "fy-2":45643618,
+        "fy-1":49337563,
+        "fy-0":52565772,
+        "fy+1":55002592,
+        "diff":2436820
       }
     ]
   },

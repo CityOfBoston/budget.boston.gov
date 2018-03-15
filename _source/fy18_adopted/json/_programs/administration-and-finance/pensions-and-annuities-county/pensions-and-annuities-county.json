@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~.json",
-  "source_time":"20180309173628",
+  "source_time":"20180314170123",
   "source_year":"18",
   "appropriation_code":"Organization 749100",
   "description":[
@@ -32,8 +32,8 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":36114,
-      "fy-1":36894,
+      "fy-2":36894,
+      "fy-1":37674,
       "fy-0":100000,
       "fy+1":100000
     },
@@ -48,8 +48,8 @@
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":36114,
-      "fy-1":36894,
+      "fy-2":36894,
+      "fy-1":37674,
       "fy-0":100000,
       "fy+1":100000
     }

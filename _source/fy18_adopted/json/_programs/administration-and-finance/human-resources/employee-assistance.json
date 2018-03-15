@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~health-benefits-and-insurance.json",
-  "source_time":"20180309173624",
+  "source_time":"20180314170119",
   "source_year":"18",
   "appropriation_code":"Organization 142400",
   "description":[
@@ -32,10 +32,10 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":80730,
-      "fy-1":174328,
-      "fy-0":86456,
-      "fy+1":18927
+      "fy-2":174328,
+      "fy-1":186875,
+      "fy-0":18927,
+      "fy+1":118704
     },
     {
       "line_title":"Non Personnel",
@@ -43,15 +43,15 @@
       "fy-2":0,
       "fy-1":0,
       "fy-0":0,
-      "fy+1":0
+      "fy+1":1150
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":80730,
-      "fy-1":174328,
-      "fy-0":86456,
-      "fy+1":18927
+      "fy-2":174328,
+      "fy-1":186875,
+      "fy-0":18927,
+      "fy+1":119854
     }
   ],
   "program_history_by_account":{
@@ -69,11 +69,11 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":80730,
-        "fy-1":174328,
-        "fy-0":86456,
-        "fy+1":18927,
-        "diff":-67529
+        "fy-2":174328,
+        "fy-1":186875,
+        "fy-0":18927,
+        "fy+1":118704,
+        "diff":99777
       },
       {
         "line_title":"Contractual Services",
@@ -90,8 +90,8 @@
         "fy-2":0,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":0,
-        "diff":0
+        "fy+1":1000,
+        "diff":1000
       },
       {
         "line_title":"Current Chgs & Oblig",
@@ -99,8 +99,8 @@
         "fy-2":0,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":0,
-        "diff":0
+        "fy+1":150,
+        "diff":150
       },
       {
         "line_title":"Equipment",
@@ -123,11 +123,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":80730,
-        "fy-1":174328,
-        "fy-0":86456,
-        "fy+1":18927,
-        "diff":-67529
+        "fy-2":174328,
+        "fy-1":186875,
+        "fy-0":18927,
+        "fy+1":119854,
+        "diff":100927
       }
     ]
   },
