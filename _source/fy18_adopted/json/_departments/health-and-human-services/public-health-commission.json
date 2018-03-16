@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_departments~Health and Human Services~public-health-commission.json",
-  "source_time":"20180309173729",
+  "source_time":"20180315174024",
   "source_year":"18",
   "name":"Public Health Commission",
   "parent":"Health & Human Services",
@@ -36,37 +36,37 @@
       {
         "name":"Public Health Services",
         "line_type":"data",
-        "fy-2":61502575,
-        "fy-1":61576757,
-        "fy-0":62289011,
-        "fy+1":63966365,
+        "fy-2":61576757,
+        "fy-1":62289011,
+        "fy-0":64061311,
+        "fy+1":84641330,
         "publish_subordinates":true
       },
       {
         "name":"PHC Administration",
         "line_type":"data",
-        "fy-2":10119485,
-        "fy-1":10824191,
-        "fy-0":11345671,
-        "fy+1":11316056,
+        "fy-2":10824191,
+        "fy-1":11345673,
+        "fy-0":11383862,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Public Health Property",
         "line_type":"data",
-        "fy-2":2205092,
-        "fy-1":3754487,
-        "fy-0":3632518,
-        "fy+1":4059310,
+        "fy-2":3754487,
+        "fy-1":3632516,
+        "fy-0":4068210,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":73827152,
-        "fy-1":76155435,
-        "fy-0":77267200,
-        "fy+1":79341731
+        "fy-2":76155435,
+        "fy-1":77267200,
+        "fy-0":79513383,
+        "fy+1":84641330
       }
     ]
   },
@@ -90,18 +90,18 @@
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":73827152,
-      "fy-1":76155435,
-      "fy-0":77267200,
-      "fy+1":79341731
+      "fy-2":76155435,
+      "fy-1":77267200,
+      "fy-0":79513383,
+      "fy+1":84641330
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":73827152,
-      "fy-1":76155435,
-      "fy-0":77267200,
-      "fy+1":79341731
+      "fy-2":76155435,
+      "fy-1":77267200,
+      "fy-0":79513383,
+      "fy+1":84641330
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
@@ -162,26 +162,26 @@
         "fy-2":0,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":0,
-        "diff":0
+        "fy+1":1822352,
+        "diff":1822352
       },
       {
         "line_title":"Other",
         "line_type":"data",
-        "fy-2":73827152,
-        "fy-1":76155435,
-        "fy-0":77267200,
-        "fy+1":79341731,
-        "diff":2074531
+        "fy-2":76155435,
+        "fy-1":77267200,
+        "fy-0":79513383,
+        "fy+1":82818978,
+        "diff":3305595
       },
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":73827152,
-        "fy-1":76155435,
-        "fy-0":77267200,
-        "fy+1":79341731,
-        "diff":2074531
+        "fy-2":76155435,
+        "fy-1":77267200,
+        "fy-0":79513383,
+        "fy+1":84641330,
+        "diff":5127947
       }
     ]
   },

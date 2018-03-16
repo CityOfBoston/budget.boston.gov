@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~communications.json",
-  "source_time":"20180309173804",
+  "source_time":"20180315174121",
   "source_year":"18",
   "appropriation_code":"Organization 180600",
   "description":[
@@ -32,7 +32,7 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":986217,
+      "fy-2":0,
       "fy-1":0,
       "fy-0":0,
       "fy+1":0
@@ -40,16 +40,16 @@
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":156529,
-      "fy-1":150,
+      "fy-2":150,
+      "fy-1":0,
       "fy-0":0,
       "fy+1":0
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":1142746,
-      "fy-1":150,
+      "fy-2":150,
+      "fy-1":0,
       "fy-0":0,
       "fy+1":0
     }
@@ -69,7 +69,7 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":986217,
+        "fy-2":0,
         "fy-1":0,
         "fy-0":0,
         "fy+1":0,
@@ -78,8 +78,8 @@
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":52626,
-        "fy-1":150,
+        "fy-2":150,
+        "fy-1":0,
         "fy-0":0,
         "fy+1":0,
         "diff":0
@@ -87,7 +87,7 @@
       {
         "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":46631,
+        "fy-2":0,
         "fy-1":0,
         "fy-0":0,
         "fy+1":0,
@@ -105,7 +105,7 @@
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":57272,
+        "fy-2":0,
         "fy-1":0,
         "fy-0":0,
         "fy+1":0,
@@ -123,8 +123,8 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":1142746,
-        "fy-1":150,
+        "fy-2":150,
+        "fy-1":0,
         "fy-0":0,
         "fy+1":0,
         "diff":0

@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_departments~Environment, Energy and Open Space~inspectional-services-dept.json",
-  "source_time":"20180309173707",
+  "source_time":"20180315173945",
   "source_year":"18",
   "name":"Inspectional Services Dept",
   "parent":"Environment, Energy & Open Space",
@@ -36,46 +36,46 @@
       {
         "name":"ISD Commissioner's Office",
         "line_type":"data",
-        "fy-2":802695,
-        "fy-1":1109917,
-        "fy-0":992346,
-        "fy+1":1228907,
+        "fy-2":1109917,
+        "fy-1":1031777,
+        "fy-0":1237438,
+        "fy+1":1181847,
         "publish_subordinates":true
       },
       {
         "name":"ISD Administration & Finance",
         "line_type":"data",
-        "fy-2":3552570,
-        "fy-1":3399462,
-        "fy-0":3612990,
-        "fy+1":3517682,
+        "fy-2":3399462,
+        "fy-1":3350344,
+        "fy-0":3551250,
+        "fy+1":3222569,
         "publish_subordinates":true
       },
       {
         "name":"Buildings & Structures",
         "line_type":"data",
-        "fy-2":6038443,
-        "fy-1":6360690,
-        "fy-0":6427663,
-        "fy+1":6610738,
+        "fy-2":6360690,
+        "fy-1":6083262,
+        "fy-0":6674770,
+        "fy+1":7053767,
         "publish_subordinates":true
       },
       {
         "name":"Housing Inspections",
         "line_type":"data",
-        "fy-2":6307644,
-        "fy-1":7362854,
-        "fy-0":7923531,
-        "fy+1":7789830,
+        "fy-2":7362854,
+        "fy-1":8089868,
+        "fy-0":7913862,
+        "fy+1":7949839,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":16701352,
-        "fy-1":18232923,
-        "fy-0":18956530,
-        "fy+1":19147157
+        "fy-2":18232923,
+        "fy-1":18555251,
+        "fy-0":19377320,
+        "fy+1":19408022
       }
     ]
   },
@@ -94,37 +94,37 @@
       {
         "name":"Animal Control Fund",
         "line_type":"data",
-        "fy-2":196807,
-        "fy-1":331604,
-        "fy-0":278461,
-        "fy+1":300000,
+        "fy-2":331604,
+        "fy-1":277889,
+        "fy-0":300000,
+        "fy+1":208200,
         "publish_subordinates":true
       },
       {
         "name":"Foreclosure Fund",
         "line_type":"data",
-        "fy-2":169660,
-        "fy-1":154485,
-        "fy-0":72312,
-        "fy+1":15700,
+        "fy-2":154485,
+        "fy-1":70622,
+        "fy-0":15700,
+        "fy+1":15138,
         "publish_subordinates":true
       },
       {
         "name":"Weights & Measures",
         "line_type":"data",
-        "fy-2":78439,
-        "fy-1":109869,
-        "fy-0":22551,
-        "fy+1":89182,
+        "fy-2":109869,
+        "fy-1":41946,
+        "fy-0":89182,
+        "fy+1":21200,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":444906,
-        "fy-1":595958,
-        "fy-0":373324,
-        "fy+1":404882
+        "fy-2":595958,
+        "fy-1":390457,
+        "fy-0":404882,
+        "fy+1":244538
       }
     ]
   },
@@ -140,26 +140,26 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":14053246,
-      "fy-1":15425147,
-      "fy-0":16211887,
-      "fy+1":16436798
+      "fy-2":15425147,
+      "fy-1":15444974,
+      "fy-0":16650741,
+      "fy+1":16826762
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":2648106,
-      "fy-1":2807776,
-      "fy-0":2744643,
-      "fy+1":2710359
+      "fy-2":2807776,
+      "fy-1":3110277,
+      "fy-0":2726579,
+      "fy+1":2581260
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":16701352,
-      "fy-1":18232923,
-      "fy-0":18956530,
-      "fy+1":19147157
+      "fy-2":18232923,
+      "fy-1":18555251,
+      "fy-0":19377320,
+      "fy+1":19408022
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
@@ -189,47 +189,47 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":14053246,
-        "fy-1":15425147,
-        "fy-0":16211887,
-        "fy+1":16436798,
-        "diff":224911
+        "fy-2":15425147,
+        "fy-1":15444974,
+        "fy-0":16650741,
+        "fy+1":16826762,
+        "diff":176021
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":1458399,
-        "fy-1":1585214,
-        "fy-0":1538235,
-        "fy+1":1511546,
-        "diff":-26689
+        "fy-2":1585214,
+        "fy-1":1951018,
+        "fy-0":1520516,
+        "fy+1":1491818,
+        "diff":-28698
       },
       {
         "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":152054,
-        "fy-1":243058,
-        "fy-0":279602,
-        "fy+1":272970,
-        "diff":-6632
+        "fy-2":243058,
+        "fy-1":238806,
+        "fy-0":280220,
+        "fy+1":237501,
+        "diff":-42719
       },
       {
         "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":902323,
-        "fy-1":824451,
-        "fy-0":800035,
-        "fy+1":841940,
-        "diff":41905
+        "fy-2":824451,
+        "fy-1":799758,
+        "fy-0":841940,
+        "fy+1":770504,
+        "diff":-71436
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":135330,
-        "fy-1":155053,
-        "fy-0":126771,
-        "fy+1":83903,
-        "diff":-42868
+        "fy-2":155053,
+        "fy-1":120695,
+        "fy-0":83903,
+        "fy+1":81437,
+        "diff":-2466
       },
       {
         "line_title":"Other",
@@ -243,11 +243,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":16701352,
-        "fy-1":18232923,
-        "fy-0":18956530,
-        "fy+1":19147157,
-        "diff":190627
+        "fy-2":18232923,
+        "fy-1":18555251,
+        "fy-0":19377320,
+        "fy+1":19408022,
+        "diff":30702
       }
     ]
   },

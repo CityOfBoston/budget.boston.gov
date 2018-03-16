@@ -14,7 +14,7 @@
   "section_type_short":"C",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~health-and-human-services.json",
-  "source_time":"20180309173715",
+  "source_time":"20180315173957",
   "source_year":"18",
   "mission":[
     "The Health and Human Services Cabinet is committed to promoting the health and well-being of the City's residents particularly the most vulnerable. The provision of social, recreational, health and support services to city residents, particularly the homeless, persons with disabilities, women, the elderly, youth, immigrants and veterans, will be coordinated and made available in a customer-friendly and culturally sensitive manner. The Cabinet enforces all antidiscrimination laws and protections under the jurisdiction of the City, and advocates for the advancement of policies and legislation to address the needs of individuals and groups, supports disease and injury prevention, delivers emergency health services and health education and promotion services within the City."
@@ -53,66 +53,66 @@
       {
         "department":"boston-centers-for-youth-and-families",
         "line_type":"data",
-        "fy-2":24129637,
-        "fy-1":24917747,
-        "fy-0":25259048,
-        "fy+1":25529784
+        "fy-2":24917747,
+        "fy-1":26016856,
+        "fy-0":27877100,
+        "fy+1":27229797
       },
       {
         "department":"boston-vets",
         "line_type":"data",
-        "fy-2":4442074,
-        "fy-1":3948303,
-        "fy-0":4677730,
-        "fy+1":4708453
+        "fy-2":3948303,
+        "fy-1":3283251,
+        "fy-0":4719560,
+        "fy+1":4687029
       },
       {
         "department":"commission-for-persons-with-disabilities",
         "line_type":"data",
-        "fy-2":364997,
-        "fy-1":287325,
-        "fy-0":418195,
-        "fy+1":426618
+        "fy-2":287325,
+        "fy-1":369747,
+        "fy-0":426618,
+        "fy+1":468234
       },
       {
         "department":"fair-housing-and-equity",
         "line_type":"data",
-        "fy-2":223027,
-        "fy-1":160430,
-        "fy-0":282830,
-        "fy+1":278727
+        "fy-2":160430,
+        "fy-1":257639,
+        "fy-0":278727,
+        "fy+1":302905
       },
       {
         "department":"office-for-immigrant-advancement",
         "line_type":"data",
-        "fy-2":362790,
-        "fy-1":381363,
-        "fy-0":425021,
-        "fy+1":439937
+        "fy-2":381363,
+        "fy-1":399809,
+        "fy-0":439937,
+        "fy+1":430812
       },
       {
         "department":"public-health-commission",
         "line_type":"data",
-        "fy-2":73827152,
-        "fy-1":76155435,
-        "fy-0":77267200,
-        "fy+1":79341731
+        "fy-2":76155435,
+        "fy-1":77267200,
+        "fy-0":79513383,
+        "fy+1":84641330
       },
       {
         "department":"youth-engagement-and-employment",
         "line_type":"data",
-        "fy-2":4989679,
-        "fy-1":5759934,
-        "fy-0":6058544,
-        "fy+1":6331229
+        "fy-2":5759934,
+        "fy-1":5221595,
+        "fy-0":6331229,
+        "fy+1":6547352
       },
       {
         "total":"Total",
         "line_type":"total",
-        "fy-2":108339356,
-        "fy-1":111610537,
-        "fy-0":114388568,
-        "fy+1":117056479
+        "fy-2":111610537,
+        "fy-1":112816097,
+        "fy-0":119586554,
+        "fy+1":124307459
       }
     ],
     "capital_budget_expenditures":[
@@ -171,50 +171,42 @@
       {
         "title":"Boston Centers for Youth & Families",
         "line_type":"data",
-        "fy-2":4861028,
-        "fy-1":7915152,
-        "fy-0":9558064,
-        "fy+1":8051132
+        "fy-2":7915152,
+        "fy-1":7398628,
+        "fy-0":8051132,
+        "fy+1":5155964
       },
       {
         "title":"Fair Housing & Equity",
         "line_type":"data",
-        "fy-2":1492684,
-        "fy-1":1880370,
-        "fy-0":1164342,
-        "fy+1":1380544
+        "fy-2":1880370,
+        "fy-1":1173212,
+        "fy-0":1380544,
+        "fy+1":1614720
       },
       {
         "title":"Office for Immigrant Advancement",
         "line_type":"data",
-        "fy-2":489649,
-        "fy-1":573519,
-        "fy-0":340476,
-        "fy+1":346663
-      },
-      {
-        "title":"Public Health Commission",
-        "line_type":"data",
-        "fy-2":2186853,
-        "fy-1":0,
-        "fy-0":0,
-        "fy+1":0
+        "fy-2":573519,
+        "fy-1":426506,
+        "fy-0":346663,
+        "fy+1":340554
       },
       {
         "title":"Youth Engagement & Employment",
         "line_type":"data",
-        "fy-2":1008139,
-        "fy-1":995382,
-        "fy-0":1032851,
-        "fy+1":1171155
+        "fy-2":995382,
+        "fy-1":1065351,
+        "fy-0":1171155,
+        "fy+1":0
       },
       {
         "total":"Total Cabinet",
         "line_type":"total",
-        "fy-2":10038353,
-        "fy-1":11364423,
-        "fy-0":12095733,
-        "fy+1":10949494
+        "fy-2":11364423,
+        "fy-1":10063697,
+        "fy-0":10949494,
+        "fy+1":7111238
       }
     ]
   }

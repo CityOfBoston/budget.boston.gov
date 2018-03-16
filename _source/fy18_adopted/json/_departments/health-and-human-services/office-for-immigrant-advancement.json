@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_departments~Health and Human Services~office-for-immigrant-advancement.json",
-  "source_time":"20180309173727",
+  "source_time":"20180315174021",
   "source_year":"18",
   "name":"Office for Immigrant Advancement",
   "parent":"Health & Human Services",
@@ -36,19 +36,19 @@
       {
         "name":Null,
         "line_type":"data",
-        "fy-2":362790,
-        "fy-1":381363,
-        "fy-0":425021,
-        "fy+1":439937,
+        "fy-2":381363,
+        "fy-1":399809,
+        "fy-0":439937,
+        "fy+1":430812,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":362790,
-        "fy-1":381363,
-        "fy-0":425021,
-        "fy+1":439937
+        "fy-2":381363,
+        "fy-1":399809,
+        "fy-0":439937,
+        "fy+1":430812
       }
     ]
   },
@@ -67,46 +67,46 @@
       {
         "name":"DACA-DAPA Outreach Initiative",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":22475,
-        "fy-0":154000,
+        "fy-2":22475,
+        "fy-1":182404,
+        "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Immigrant Integration & Empowerment",
         "line_type":"data",
-        "fy-2":43947,
-        "fy-1":115893,
-        "fy-0":59799,
-        "fy+1":78163,
+        "fy-2":115893,
+        "fy-1":45537,
+        "fy-0":78163,
+        "fy+1":25219,
         "publish_subordinates":true
       },
       {
         "name":"New Americans Library Corners",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":13193,
-        "fy-0":51868,
-        "fy+1":28000,
+        "fy-2":13193,
+        "fy-1":59359,
+        "fy-0":28000,
+        "fy+1":25219,
         "publish_subordinates":true
       },
       {
         "name":"Office of Immigrant Advancement Fund",
         "line_type":"data",
-        "fy-2":445702,
-        "fy-1":322582,
-        "fy-0":154000,
-        "fy+1":240500,
+        "fy-2":322582,
+        "fy-1":270578,
+        "fy-0":240500,
+        "fy+1":283000,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":489649,
-        "fy-1":474143,
-        "fy-0":419667,
-        "fy+1":346663
+        "fy-2":474143,
+        "fy-1":557878,
+        "fy-0":346663,
+        "fy+1":333438
       }
     ]
   },
@@ -122,26 +122,26 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":335265,
-      "fy-1":366514,
-      "fy-0":408891,
-      "fy+1":406737
+      "fy-2":366514,
+      "fy-1":348469,
+      "fy-0":406737,
+      "fy+1":392562
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":27525,
-      "fy-1":14849,
-      "fy-0":16130,
-      "fy+1":33200
+      "fy-2":14849,
+      "fy-1":51340,
+      "fy-0":33200,
+      "fy+1":38250
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":362790,
-      "fy-1":381363,
-      "fy-0":425021,
-      "fy+1":439937
+      "fy-2":381363,
+      "fy-1":399809,
+      "fy-0":439937,
+      "fy+1":430812
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
@@ -160,44 +160,44 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":335265,
-        "fy-1":366514,
-        "fy-0":408891,
-        "fy+1":406737,
-        "diff":-2154
+        "fy-2":366514,
+        "fy-1":348469,
+        "fy-0":406737,
+        "fy+1":392562,
+        "diff":-14175
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":22516,
-        "fy-1":9053,
-        "fy-0":12270,
-        "fy+1":27600,
-        "diff":15330
+        "fy-2":9053,
+        "fy-1":42088,
+        "fy-0":27600,
+        "fy+1":31300,
+        "diff":3700
       },
       {
         "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":4875,
-        "fy-1":5281,
-        "fy-0":3600,
-        "fy+1":4700,
-        "diff":1100
+        "fy-2":5281,
+        "fy-1":6184,
+        "fy-0":4700,
+        "fy+1":6000,
+        "diff":1300
       },
       {
         "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":134,
-        "fy-1":515,
-        "fy-0":260,
-        "fy+1":900,
-        "diff":640
+        "fy-2":515,
+        "fy-1":2543,
+        "fy-0":900,
+        "fy+1":950,
+        "diff":50
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
         "fy-2":0,
-        "fy-1":0,
+        "fy-1":525,
         "fy-0":0,
         "fy+1":0,
         "diff":0
@@ -214,11 +214,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":362790,
-        "fy-1":381363,
-        "fy-0":425021,
-        "fy+1":439937,
-        "diff":14916
+        "fy-2":381363,
+        "fy-1":399809,
+        "fy-0":439937,
+        "fy+1":430812,
+        "diff":-9125
       }
     ]
   },

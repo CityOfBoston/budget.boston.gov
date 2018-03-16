@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_departments~Civic Engagement~elderly-commission.json",
-  "source_time":"20180309173642",
+  "source_time":"20180315173903",
   "source_year":"18",
   "name":"Elderly Commission",
   "parent":"Civic Engagement",
@@ -36,46 +36,46 @@
       {
         "name":"Elderly Administration",
         "line_type":"data",
-        "fy-2":752149,
-        "fy-1":717725,
-        "fy-0":721954,
-        "fy+1":827716,
+        "fy-2":717725,
+        "fy-1":1117194,
+        "fy-0":834490,
+        "fy+1":874567,
         "publish_subordinates":true
       },
       {
         "name":"Public Information",
         "line_type":"data",
-        "fy-2":356280,
-        "fy-1":443576,
-        "fy-0":496159,
-        "fy+1":732514,
+        "fy-2":443576,
+        "fy-1":421086,
+        "fy-0":732514,
+        "fy+1":716785,
         "publish_subordinates":true
       },
       {
         "name":"Elderly Transportation",
         "line_type":"data",
-        "fy-2":1439809,
-        "fy-1":1387659,
-        "fy-0":1509220,
-        "fy+1":1517993,
+        "fy-2":1387659,
+        "fy-1":1420166,
+        "fy-0":1517993,
+        "fy+1":1501394,
         "publish_subordinates":true
       },
       {
         "name":"Program Services",
         "line_type":"data",
-        "fy-2":546854,
-        "fy-1":522930,
-        "fy-0":527915,
-        "fy+1":142010,
+        "fy-2":522930,
+        "fy-1":262601,
+        "fy-0":142010,
+        "fy+1":336192,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":3095092,
-        "fy-1":3071890,
-        "fy-0":3255248,
-        "fy+1":3220233
+        "fy-2":3071890,
+        "fy-1":3221047,
+        "fy-0":3227007,
+        "fy+1":3428938
       }
     ]
   },
@@ -94,82 +94,82 @@
       {
         "name":"Area Agency On Aging (AAA)",
         "line_type":"data",
-        "fy-2":3563144,
-        "fy-1":3890312,
-        "fy-0":3716837,
-        "fy+1":3886088,
+        "fy-2":3890312,
+        "fy-1":3401103,
+        "fy-0":3886088,
+        "fy+1":6310542,
         "publish_subordinates":true
       },
       {
         "name":"Elderly Universal Fund",
         "line_type":"data",
-        "fy-2":53325,
-        "fy-1":53667,
-        "fy-0":82000,
-        "fy+1":85000,
+        "fy-2":53667,
+        "fy-1":2523,
+        "fy-0":85000,
+        "fy+1":101425,
         "publish_subordinates":true
       },
       {
         "name":"EOEA Formula Grant",
         "line_type":"data",
-        "fy-2":705298,
-        "fy-1":580116,
+        "fy-2":580116,
+        "fy-1":921331,
         "fy-0":880879,
-        "fy+1":880879,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Nutrition Services Incentive Program",
         "line_type":"data",
-        "fy-2":892966,
-        "fy-1":360975,
-        "fy-0":497123,
-        "fy+1":440000,
+        "fy-2":360975,
+        "fy-1":365143,
+        "fy-0":440000,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Prevention Wellness Trust Fund",
         "line_type":"data",
-        "fy-2":57724,
-        "fy-1":108541,
-        "fy-0":391625,
-        "fy+1":11200,
+        "fy-2":108541,
+        "fy-1":222054,
+        "fy-0":11200,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Retired Senior Volunteers Program",
         "line_type":"data",
-        "fy-2":104980,
-        "fy-1":128867,
-        "fy-0":130254,
-        "fy+1":130253,
+        "fy-2":128867,
+        "fy-1":108657,
+        "fy-0":130253,
+        "fy+1":124629,
         "publish_subordinates":true
       },
       {
         "name":"Senior Companion Program",
         "line_type":"data",
-        "fy-2":216627,
-        "fy-1":253374,
-        "fy-0":250250,
-        "fy+1":250252,
+        "fy-2":253374,
+        "fy-1":229458,
+        "fy-0":250252,
+        "fy+1":253871,
         "publish_subordinates":true
       },
       {
         "name":"State Elder Lunch Program",
         "line_type":"data",
-        "fy-2":1052867,
-        "fy-1":1539404,
-        "fy-0":1354928,
-        "fy+1":1363864,
+        "fy-2":1539404,
+        "fy-1":1330249,
+        "fy-0":1363864,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":6646931,
-        "fy-1":6915256,
-        "fy-0":7303896,
-        "fy+1":7047536
+        "fy-2":6915256,
+        "fy-1":6580518,
+        "fy-0":7047536,
+        "fy+1":6790467
       }
     ]
   },
@@ -185,26 +185,26 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":2623941,
-      "fy-1":2597094,
-      "fy-0":2723934,
-      "fy+1":2728061
+      "fy-2":2597094,
+      "fy-1":2698502,
+      "fy-0":2734835,
+      "fy+1":2933877
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":471151,
-      "fy-1":474796,
-      "fy-0":531314,
-      "fy+1":492172
+      "fy-2":474796,
+      "fy-1":522545,
+      "fy-0":492172,
+      "fy+1":495061
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":3095092,
-      "fy-1":3071890,
-      "fy-0":3255248,
-      "fy+1":3220233
+      "fy-2":3071890,
+      "fy-1":3221047,
+      "fy-0":3227007,
+      "fy+1":3428938
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
@@ -227,47 +227,47 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":2623941,
-        "fy-1":2597094,
-        "fy-0":2723934,
-        "fy+1":2728061,
-        "diff":4127
+        "fy-2":2597094,
+        "fy-1":2698502,
+        "fy-0":2734835,
+        "fy+1":2933877,
+        "diff":199042
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":206793,
-        "fy-1":166190,
-        "fy-0":216034,
-        "fy+1":182545,
-        "diff":-33489
+        "fy-2":166190,
+        "fy-1":226945,
+        "fy-0":182545,
+        "fy+1":208855,
+        "diff":26310
       },
       {
         "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":146194,
-        "fy-1":157674,
-        "fy-0":197433,
-        "fy+1":191222,
-        "diff":-6211
+        "fy-2":157674,
+        "fy-1":195644,
+        "fy-0":191222,
+        "fy+1":190903,
+        "diff":-319
       },
       {
         "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":68470,
-        "fy-1":66579,
-        "fy-0":61142,
-        "fy+1":61700,
-        "diff":558
+        "fy-2":66579,
+        "fy-1":43251,
+        "fy-0":61700,
+        "fy+1":61950,
+        "diff":250
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":49694,
-        "fy-1":84353,
+        "fy-2":84353,
+        "fy-1":56705,
         "fy-0":56705,
-        "fy+1":56705,
-        "diff":0
+        "fy+1":33353,
+        "diff":-23352
       },
       {
         "line_title":"Other",
@@ -281,11 +281,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":3095092,
-        "fy-1":3071890,
-        "fy-0":3255248,
-        "fy+1":3220233,
-        "diff":-35015
+        "fy-2":3071890,
+        "fy-1":3221047,
+        "fy-0":3227007,
+        "fy+1":3428938,
+        "diff":201931
       }
     ]
   },

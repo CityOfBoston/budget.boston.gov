@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_departments~Administration and Finance~workers-compensation-fund.json",
-  "source_time":"20180309173634",
+  "source_time":"20180315173846",
   "source_year":"18",
   "name":"Workers' Compensation Fund",
   "parent":"Administration & Finance",
@@ -36,8 +36,8 @@
       {
         "name":"Workers' Compensation Fund",
         "line_type":"data",
-        "fy-2":1865720,
-        "fy-1":1328170,
+        "fy-2":1328171,
+        "fy-1":1478695,
         "fy-0":2200000,
         "fy+1":2200000,
         "publish_subordinates":true
@@ -45,8 +45,8 @@
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":1865720,
-        "fy-1":1328170,
+        "fy-2":1328171,
+        "fy-1":1478695,
         "fy-0":2200000,
         "fy+1":2200000
       }
@@ -64,24 +64,24 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":0,
-      "fy-1":84431,
+      "fy-2":1328171,
+      "fy-1":1300885,
       "fy-0":2200000,
-      "fy+1":2200000
+      "fy+1":0
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":1865720,
-      "fy-1":1243739,
+      "fy-2":0,
+      "fy-1":177810,
       "fy-0":0,
-      "fy+1":0
+      "fy+1":2200000
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":1865720,
-      "fy-1":1328170,
+      "fy-2":1328171,
+      "fy-1":1478695,
       "fy-0":2200000,
       "fy+1":2200000
     }

@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_departments~Mayor's Office~election-department.json",
-  "source_time":"20180309173748",
+  "source_time":"20180315174054",
   "source_year":"18",
   "name":"Election Department",
   "parent":"Mayor's Office",
@@ -36,46 +36,46 @@
       {
         "name":"Annual Listing",
         "line_type":"data",
-        "fy-2":540870,
-        "fy-1":506691,
-        "fy-0":510551,
-        "fy+1":534712,
+        "fy-2":506691,
+        "fy-1":536687,
+        "fy-0":534712,
+        "fy+1":513725,
         "publish_subordinates":true
       },
       {
         "name":"Election Administration",
         "line_type":"data",
-        "fy-2":703866,
-        "fy-1":698418,
-        "fy-0":730869,
-        "fy+1":779455,
+        "fy-2":698418,
+        "fy-1":785999,
+        "fy-0":793971,
+        "fy+1":1090594,
         "publish_subordinates":true
       },
       {
         "name":"Voter Registration",
         "line_type":"data",
-        "fy-2":277896,
-        "fy-1":329741,
-        "fy-0":351409,
-        "fy+1":354637,
+        "fy-2":329741,
+        "fy-1":363573,
+        "fy-0":361895,
+        "fy+1":381942,
         "publish_subordinates":true
       },
       {
         "name":"Election Activities",
         "line_type":"data",
-        "fy-2":1810102,
-        "fy-1":2239947,
-        "fy-0":2736513,
-        "fy+1":2577111,
+        "fy-2":2239947,
+        "fy-1":2337960,
+        "fy-0":2584368,
+        "fy+1":2745708,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":3332734,
-        "fy-1":3774797,
-        "fy-0":4329342,
-        "fy+1":4245915
+        "fy-2":3774797,
+        "fy-1":4024219,
+        "fy-0":4274946,
+        "fy+1":4731969
       }
     ]
   },
@@ -91,26 +91,26 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":2316509,
-      "fy-1":2380547,
-      "fy-0":2788304,
-      "fy+1":2669018
+      "fy-2":2380547,
+      "fy-1":2656876,
+      "fy-0":2698049,
+      "fy+1":2888471
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":475355,
-      "fy-1":887559,
-      "fy-0":1030487,
-      "fy+1":1042185
+      "fy-2":887559,
+      "fy-1":830656,
+      "fy-0":1042185,
+      "fy+1":1329773
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":2791864,
-      "fy-1":3268106,
-      "fy-0":3818791,
-      "fy+1":3711203
+      "fy-2":3268106,
+      "fy-1":3487532,
+      "fy-0":3740234,
+      "fy+1":4218244
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
@@ -136,47 +136,47 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":2316509,
-        "fy-1":2380547,
-        "fy-0":2788304,
-        "fy+1":2669018,
-        "diff":-119286
+        "fy-2":2380547,
+        "fy-1":2656876,
+        "fy-0":2698049,
+        "fy+1":2888471,
+        "diff":190422
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":308400,
-        "fy-1":663981,
-        "fy-0":576017,
-        "fy+1":685850,
-        "diff":109833
+        "fy-2":663981,
+        "fy-1":496575,
+        "fy-0":685850,
+        "fy+1":549250,
+        "diff":-136600
       },
       {
         "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":104797,
-        "fy-1":95440,
-        "fy-0":285850,
-        "fy+1":217612,
-        "diff":-68238
+        "fy-2":95440,
+        "fy-1":264580,
+        "fy-0":217612,
+        "fy+1":318656,
+        "diff":101044
       },
       {
         "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":10184,
-        "fy-1":51274,
-        "fy-0":142633,
-        "fy+1":126250,
-        "diff":-16383
+        "fy-2":51274,
+        "fy-1":43514,
+        "fy-0":126250,
+        "fy+1":133250,
+        "diff":7000
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":51974,
-        "fy-1":76864,
-        "fy-0":25987,
-        "fy+1":12473,
-        "diff":-13514
+        "fy-2":76864,
+        "fy-1":25987,
+        "fy-0":12473,
+        "fy+1":328617,
+        "diff":316144
       },
       {
         "line_title":"Other",
@@ -190,11 +190,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":2791864,
-        "fy-1":3268106,
-        "fy-0":3818791,
-        "fy+1":3711203,
-        "diff":-107588
+        "fy-2":3268106,
+        "fy-1":3487532,
+        "fy-0":3740234,
+        "fy+1":4218244,
+        "diff":478010
       }
     ]
   }

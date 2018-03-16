@@ -14,7 +14,7 @@
   "section_type_short":"C",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~public-safety.json",
-  "source_time":"20180309173807",
+  "source_time":"20180315174124",
   "source_year":"18",
   "mission":[
     "Departments in the Public Safety Cabinet serve to protect the lives and property of City residents. The City maintains a ready state of preparedness through sufficient staffing levels, state-of-the-art equipment, and continual training and evaluation of policies and practices. The focus on neighborhood presence helps the City prevent crime, fire, incidents of terrorism, natural disasters quickly, and increases the sense of safety and security by residents and businesses."
@@ -39,34 +39,34 @@
       {
         "department":"emergency-management",
         "line_type":"data",
-        "fy-2":464649,
-        "fy-1":650928,
-        "fy-0":637722,
-        "fy+1":637209
+        "fy-2":650928,
+        "fy-1":643194,
+        "fy-0":637209,
+        "fy+1":698891
       },
       {
         "department":"fire-department",
         "line_type":"data",
-        "fy-2":211234478,
-        "fy-1":216917857,
-        "fy-0":221044561,
-        "fy+1":232299071
+        "fy-2":216917857,
+        "fy-1":219082800,
+        "fy-0":232440176,
+        "fy+1":235304987
       },
       {
         "department":"police-department",
         "line_type":"data",
-        "fy-2":337310895,
-        "fy-1":348887844,
-        "fy-0":364321048,
-        "fy+1":373814105
+        "fy-2":348887844,
+        "fy-1":364594820,
+        "fy-0":380012945,
+        "fy+1":399655620
       },
       {
         "total":"Total",
         "line_type":"total",
-        "fy-2":549010022,
-        "fy-1":566456629,
-        "fy-0":586003331,
-        "fy+1":606750385
+        "fy-2":566456629,
+        "fy-1":584320814,
+        "fy-0":613090330,
+        "fy+1":635659498
       }
     ],
     "capital_budget_expenditures":[
@@ -133,34 +133,34 @@
       {
         "title":"Emergency Management",
         "line_type":"data",
-        "fy-2":88772956,
-        "fy-1":28981008,
-        "fy-0":36121324,
-        "fy+1":44657864
+        "fy-2":28981008,
+        "fy-1":56277896,
+        "fy-0":44657864,
+        "fy+1":49390912
       },
       {
         "title":"Fire Department",
         "line_type":"data",
-        "fy-2":10290826,
-        "fy-1":47578181,
-        "fy-0":67130147,
-        "fy+1":30419935
+        "fy-2":47578181,
+        "fy-1":71991549,
+        "fy-0":30419935,
+        "fy+1":30446500
       },
       {
         "title":"Police Department",
         "line_type":"data",
-        "fy-2":71497440,
-        "fy-1":76498552,
-        "fy-0":83984104,
-        "fy+1":92055360
+        "fy-2":76498552,
+        "fy-1":80425216,
+        "fy-0":124380696,
+        "fy+1":69763472
       },
       {
         "total":"Total Cabinet",
         "line_type":"total",
-        "fy-2":170561222,
-        "fy-1":153057741,
-        "fy-0":187235575,
-        "fy+1":167133159
+        "fy-2":153057741,
+        "fy-1":208694661,
+        "fy-0":199458495,
+        "fy+1":149600884
       }
     ]
   }

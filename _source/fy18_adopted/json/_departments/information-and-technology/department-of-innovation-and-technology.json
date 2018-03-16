@@ -9,13 +9,13 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_departments~Information and Technology~department-of-innovation-and-technology.json",
-  "source_time":"20180309173742",
+  "source_time":"20180315174041",
   "source_year":"18",
   "name":"Department of Innovation & Technology",
   "parent":"Information & Technology",
   "cabinet":"Information & Technology",
   "department":"Department of Innovation & Technology",
-  "head_name":"Jascha Franklin-Hodge",
+  "head_name":"Vacant",
   "head_title":"Chief Information Officer",
   "appropriation_code":"Appropriation 149",
   "mission":[
@@ -36,64 +36,64 @@
       {
         "name":"Policy, Planning & Innovation",
         "line_type":"data",
-        "fy-2":2956351,
-        "fy-1":2986504,
-        "fy-0":3211267,
-        "fy+1":3401998,
+        "fy-2":2986504,
+        "fy-1":4423192,
+        "fy-0":3459807,
+        "fy+1":2724988,
         "publish_subordinates":true
       },
       {
         "name":"Enterprise Applications",
         "line_type":"data",
-        "fy-2":13651435,
-        "fy-1":13068158,
-        "fy-0":10365190,
-        "fy+1":9347365,
+        "fy-2":13068158,
+        "fy-1":11601389,
+        "fy-0":9574901,
+        "fy+1":11595704,
         "publish_subordinates":true
       },
       {
         "name":"eGovernment",
         "line_type":"data",
-        "fy-2":1039467,
-        "fy-1":906435,
-        "fy-0":1532129,
-        "fy+1":1331951,
+        "fy-2":906435,
+        "fy-1":1123889,
+        "fy-0":1356414,
+        "fy+1":1502118,
         "publish_subordinates":true
       },
       {
         "name":"IT Operations & Service Delivery",
         "line_type":"data",
-        "fy-2":11181620,
-        "fy-1":13283214,
-        "fy-0":12218922,
-        "fy+1":13134559,
+        "fy-2":13283214,
+        "fy-1":14320678,
+        "fy-0":13293623,
+        "fy+1":12424734,
         "publish_subordinates":true
       },
       {
         "name":"IT Technical Services",
         "line_type":"data",
-        "fy-2":1785519,
-        "fy-1":1802455,
-        "fy-0":798928,
-        "fy+1":1234627,
+        "fy-2":1802455,
+        "fy-1":462670,
+        "fy-0":1269752,
+        "fy+1":1638151,
         "publish_subordinates":true
       },
       {
         "name":"Broadband & Digital Equity",
         "line_type":"data",
         "fy-2":0,
-        "fy-1":0,
-        "fy-0":397138,
-        "fy+1":441467,
+        "fy-1":407305,
+        "fy-0":449693,
+        "fy+1":572415,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":30614392,
-        "fy-1":32046766,
-        "fy-0":28523574,
-        "fy+1":28891967
+        "fy-2":32046766,
+        "fy-1":32339123,
+        "fy-0":29404190,
+        "fy+1":30458110
       }
     ]
   },
@@ -112,26 +112,26 @@
       {
         "name":"Human Capital Management (HCM) Upgrade",
         "line_type":"data",
-        "fy-2":581509,
-        "fy-1":1800518,
-        "fy-0":1666390,
-        "fy+1":860000,
+        "fy-2":1800518,
+        "fy-1":1057448,
+        "fy-0":860000,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Knight News Challenge Grant",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":172561,
-        "fy-0":233011,
+        "fy-2":172561,
+        "fy-1":299128,
+        "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"New Urban Mechanics",
         "line_type":"data",
-        "fy-2":11164,
-        "fy-1":12319,
+        "fy-2":12319,
+        "fy-1":0,
         "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
@@ -139,10 +139,10 @@
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":592673,
-        "fy-1":1985398,
-        "fy-0":1899401,
-        "fy+1":860000
+        "fy-2":1985398,
+        "fy-1":1356576,
+        "fy-0":860000,
+        "fy+1":0
       }
     ]
   },
@@ -158,26 +158,26 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":11670759,
-      "fy-1":12231162,
-      "fy-0":13119331,
-      "fy+1":13131209
+      "fy-2":12231162,
+      "fy-1":12420230,
+      "fy-0":13643432,
+      "fy+1":14045087
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":18943633,
-      "fy-1":19815604,
-      "fy-0":15404243,
-      "fy+1":15760758
+      "fy-2":19815604,
+      "fy-1":19918893,
+      "fy-0":15760758,
+      "fy+1":16413023
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":30614392,
-      "fy-1":32046766,
-      "fy-0":28523574,
-      "fy+1":28891967
+      "fy-2":32046766,
+      "fy-1":32339123,
+      "fy-0":29404190,
+      "fy+1":30458110
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
@@ -196,47 +196,47 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":11670759,
-        "fy-1":12231162,
-        "fy-0":13119331,
-        "fy+1":13131209,
-        "diff":11878
+        "fy-2":12231162,
+        "fy-1":12420230,
+        "fy-0":13643432,
+        "fy+1":14045087,
+        "diff":401655
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":6882804,
-        "fy-1":8905171,
-        "fy-0":5402270,
-        "fy+1":5187560,
-        "diff":-214710
+        "fy-2":8905171,
+        "fy-1":8624947,
+        "fy-0":5187560,
+        "fy+1":5011495,
+        "diff":-176065
       },
       {
         "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":112712,
-        "fy-1":142663,
-        "fy-0":51100,
-        "fy+1":69000,
-        "diff":17900
+        "fy-2":142663,
+        "fy-1":45526,
+        "fy-0":69000,
+        "fy+1":44750,
+        "diff":-24250
       },
       {
         "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":9096905,
-        "fy-1":8936106,
-        "fy-0":8470000,
-        "fy+1":9179000,
-        "diff":709000
+        "fy-2":8936106,
+        "fy-1":9786531,
+        "fy-0":9179000,
+        "fy+1":10076944,
+        "diff":897944
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":2851212,
-        "fy-1":1831664,
-        "fy-0":1480873,
-        "fy+1":1325198,
-        "diff":-155675
+        "fy-2":1831664,
+        "fy-1":1461889,
+        "fy-0":1325198,
+        "fy+1":1279834,
+        "diff":-45364
       },
       {
         "line_title":"Other",
@@ -250,11 +250,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":30614392,
-        "fy-1":32046766,
-        "fy-0":28523574,
-        "fy+1":28891967,
-        "diff":368393
+        "fy-2":32046766,
+        "fy-1":32339123,
+        "fy-0":29404190,
+        "fy+1":30458110,
+        "diff":1053920
       }
     ]
   },

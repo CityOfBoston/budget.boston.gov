@@ -4,7 +4,7 @@
   "cabinet":"Information & Technology",
   "department":"Department of Innovation & Technology",
   "file_version":"",
-  "head_name":"Lauren Lockwood",
+  "head_name":"Jeanethe H. Falvey",
   "head_title":"Manager",
   "name":"Digital Engagement & Services",
   "parent":"Department of Innovation & Technology",
@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~enterprise-applications.json",
-  "source_time":"20180309173743",
+  "source_time":"20180315174044",
   "source_year":"18",
   "appropriation_code":"Organization 149300",
   "description":[
@@ -32,26 +32,26 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":615924,
-      "fy-1":777029,
-      "fy-0":792129,
-      "fy+1":631951
+      "fy-2":777029,
+      "fy-1":781191,
+      "fy-0":656414,
+      "fy+1":676218
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":423543,
-      "fy-1":129406,
-      "fy-0":740000,
-      "fy+1":700000
+      "fy-2":129406,
+      "fy-1":342698,
+      "fy-0":700000,
+      "fy+1":825900
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":1039467,
-      "fy-1":906435,
-      "fy-0":1532129,
-      "fy+1":1331951
+      "fy-2":906435,
+      "fy-1":1123889,
+      "fy-0":1356414,
+      "fy+1":1502118
     }
   ],
   "program_history_by_account":{
@@ -69,25 +69,25 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":615924,
-        "fy-1":777029,
-        "fy-0":792129,
-        "fy+1":631951,
-        "diff":-160178
+        "fy-2":777029,
+        "fy-1":781191,
+        "fy-0":656414,
+        "fy+1":676218,
+        "diff":19804
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":6629,
-        "fy-1":1295,
-        "fy-0":325000,
-        "fy+1":500000,
-        "diff":175000
+        "fy-2":1295,
+        "fy-1":30130,
+        "fy-0":500000,
+        "fy+1":500900,
+        "diff":900
       },
       {
         "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":3153,
+        "fy-2":0,
         "fy-1":0,
         "fy-0":0,
         "fy+1":0,
@@ -96,16 +96,16 @@
       {
         "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":409975,
-        "fy-1":128111,
-        "fy-0":415000,
-        "fy+1":200000,
-        "diff":-215000
+        "fy-2":128111,
+        "fy-1":312568,
+        "fy-0":200000,
+        "fy+1":325000,
+        "diff":125000
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":3786,
+        "fy-2":0,
         "fy-1":0,
         "fy-0":0,
         "fy+1":0,
@@ -123,11 +123,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":1039467,
-        "fy-1":906435,
-        "fy-0":1532129,
-        "fy+1":1331951,
-        "diff":-200178
+        "fy-2":906435,
+        "fy-1":1123889,
+        "fy-0":1356414,
+        "fy+1":1502118,
+        "diff":145704
       }
     ]
   },

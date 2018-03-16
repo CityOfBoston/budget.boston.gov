@@ -14,7 +14,7 @@
   "section_type_short":"C",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~mayors-office.json",
-  "source_time":"20180309173744",
+  "source_time":"20180315174046",
   "source_year":"18",
   "mission":[
     "The agencies reporting to the Mayor's Office represent the Mayor and the City in legal matters, public relations, and elections. The Mayor's vision for the future of the City is reflected in the policies and directions carried forward by the staff of these offices."
@@ -38,50 +38,42 @@
       {
         "department":"office-of-the-mayor",
         "line_type":"data",
-        "fy-2":2500499,
-        "fy-1":3233710,
-        "fy-0":4042281,
-        "fy+1":4159940
+        "fy-2":3233710,
+        "fy-1":3770208,
+        "fy-0":4159940,
+        "fy+1":4535899
       },
       {
         "department":"election-department",
         "line_type":"data",
-        "fy-2":2791864,
-        "fy-1":3268106,
-        "fy-0":3818791,
-        "fy+1":3711203
+        "fy-2":3268106,
+        "fy-1":3487532,
+        "fy-0":3740234,
+        "fy+1":4218244
       },
       {
         "department":"law-department",
         "line_type":"data",
-        "fy-2":5992562,
-        "fy-1":5752779,
-        "fy-0":5872444,
-        "fy+1":6513543
-      },
-      {
-        "department":"public-information",
-        "line_type":"data",
-        "fy-2":1190248,
-        "fy-1":0,
-        "fy-0":0,
-        "fy+1":0
+        "fy-2":5752779,
+        "fy-1":5252663,
+        "fy-0":6517142,
+        "fy+1":7790744
       },
       {
         "department":"womens-advancement",
         "line_type":"data",
-        "fy-2":190982,
-        "fy-1":212106,
-        "fy-0":233615,
-        "fy+1":225519
+        "fy-2":212106,
+        "fy-1":196333,
+        "fy-0":225519,
+        "fy+1":259932
       },
       {
         "total":"Total",
         "line_type":"total",
-        "fy-2":12666155,
-        "fy-1":12466701,
-        "fy-0":13967131,
-        "fy+1":14610205
+        "fy-2":12466701,
+        "fy-1":12706736,
+        "fy-0":14642835,
+        "fy+1":16804819
       }
     ],
     "capital_budget_expenditures":[
@@ -132,26 +124,26 @@
       {
         "title":"Law Department",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":108056,
+        "fy-2":108056,
+        "fy-1":1169188,
         "fy-0":2000000,
-        "fy+1":2000000
+        "fy+1":552864
       },
       {
         "title":"Mayor's Office",
         "line_type":"data",
-        "fy-2":479790,
-        "fy-1":3000360,
-        "fy-0":4635680,
-        "fy+1":5501990
+        "fy-2":3000360,
+        "fy-1":3539040,
+        "fy-0":5501990,
+        "fy+1":2627485
       },
       {
         "total":"Total Cabinet",
         "line_type":"total",
-        "fy-2":479790,
-        "fy-1":3108416,
-        "fy-0":6635680,
-        "fy+1":7501990
+        "fy-2":3108416,
+        "fy-1":4708228,
+        "fy-0":7501990,
+        "fy+1":3180349
       }
     ]
   }

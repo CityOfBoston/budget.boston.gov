@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~traffic-management-and-engineering.json",
-  "source_time":"20180309173833",
+  "source_time":"20180315174205",
   "source_year":"18",
   "appropriation_code":"Organization 251300",
   "description":[
@@ -32,26 +32,26 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":580680,
-      "fy-1":575278,
-      "fy-0":824931,
-      "fy+1":859804
+      "fy-2":575278,
+      "fy-1":799566,
+      "fy-0":883733,
+      "fy+1":957268
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":875,
-      "fy-1":267617,
+      "fy-2":267617,
+      "fy-1":70299,
       "fy-0":249500,
-      "fy+1":249500
+      "fy+1":223472
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":581555,
-      "fy-1":842895,
-      "fy-0":1074431,
-      "fy+1":1109304
+      "fy-2":842895,
+      "fy-1":869865,
+      "fy-0":1133233,
+      "fy+1":1180740
     }
   ],
   "program_history_by_account":{
@@ -69,20 +69,20 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":580680,
-        "fy-1":575278,
-        "fy-0":824931,
-        "fy+1":859804,
-        "diff":34873
+        "fy-2":575278,
+        "fy-1":799566,
+        "fy-0":883733,
+        "fy+1":957268,
+        "diff":73535
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":875,
-        "fy-1":266831,
+        "fy-2":266831,
+        "fy-1":70000,
         "fy-0":244500,
-        "fy+1":244500,
-        "diff":0
+        "fy+1":218472,
+        "diff":-26028
       },
       {
         "line_title":"Supplies & Materials",
@@ -96,8 +96,8 @@
       {
         "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":786,
+        "fy-2":786,
+        "fy-1":299,
         "fy-0":5000,
         "fy+1":5000,
         "diff":0
@@ -123,11 +123,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":581555,
-        "fy-1":842895,
-        "fy-0":1074431,
-        "fy+1":1109304,
-        "diff":34873
+        "fy-2":842895,
+        "fy-1":869865,
+        "fy-0":1133233,
+        "fy+1":1180740,
+        "diff":47507
       }
     ]
   },

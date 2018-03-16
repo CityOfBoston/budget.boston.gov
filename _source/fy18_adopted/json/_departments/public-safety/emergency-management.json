@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_departments~Public Safety~emergency-management.json",
-  "source_time":"20180309173810",
+  "source_time":"20180315174128",
   "source_year":"18",
   "name":"Emergency Management",
   "parent":"Public Safety",
@@ -36,19 +36,19 @@
       {
         "name":Null,
         "line_type":"data",
-        "fy-2":464649,
-        "fy-1":650928,
-        "fy-0":637722,
-        "fy+1":637209,
+        "fy-2":650928,
+        "fy-1":643194,
+        "fy-0":637209,
+        "fy+1":698891,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":464649,
-        "fy-1":650928,
-        "fy-0":637722,
-        "fy+1":637209
+        "fy-2":650928,
+        "fy-1":643194,
+        "fy-0":637209,
+        "fy+1":698891
       }
     ]
   },
@@ -67,25 +67,16 @@
       {
         "name":"Emergency Management Performance Grant",
         "line_type":"data",
-        "fy-2":59586,
-        "fy-1":70814,
-        "fy-0":139950,
+        "fy-2":70814,
+        "fy-1":179129,
+        "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Regional Catastrophic Grant Program",
         "line_type":"data",
-        "fy-2":2117758,
-        "fy-1":87935,
-        "fy-0":0,
-        "fy+1":0,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Transit Security Grant",
-        "line_type":"data",
-        "fy-2":62675,
+        "fy-2":87935,
         "fy-1":0,
         "fy-0":0,
         "fy+1":0,
@@ -94,19 +85,19 @@
       {
         "name":"Urban Areas Security (UASI)",
         "line_type":"data",
-        "fy-2":19953220,
-        "fy-1":7086503,
-        "fy-0":8890381,
-        "fy+1":11164466,
+        "fy-2":7086503,
+        "fy-1":13890345,
+        "fy-0":11164466,
+        "fy+1":12347728,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":22193239,
-        "fy-1":7245252,
-        "fy-0":9030331,
-        "fy+1":11164466
+        "fy-2":7245252,
+        "fy-1":14069474,
+        "fy-0":11164466,
+        "fy+1":12347728
       }
     ]
   },
@@ -122,26 +113,26 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":260949,
-      "fy-1":119153,
-      "fy-0":121721,
-      "fy+1":129766
+      "fy-2":119153,
+      "fy-1":121887,
+      "fy-0":129766,
+      "fy+1":129208
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":203700,
-      "fy-1":531775,
-      "fy-0":516001,
-      "fy+1":507443
+      "fy-2":531775,
+      "fy-1":521307,
+      "fy-0":507443,
+      "fy+1":569683
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":464649,
-      "fy-1":650928,
-      "fy-0":637722,
-      "fy+1":637209
+      "fy-2":650928,
+      "fy-1":643194,
+      "fy-0":637209,
+      "fy+1":698891
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
@@ -160,44 +151,44 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":260949,
-        "fy-1":119153,
-        "fy-0":121721,
-        "fy+1":129766,
-        "diff":8045
+        "fy-2":119153,
+        "fy-1":121887,
+        "fy-0":129766,
+        "fy+1":129208,
+        "diff":-558
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":196332,
-        "fy-1":246789,
-        "fy-0":180975,
-        "fy+1":170943,
-        "diff":-10032
+        "fy-2":246789,
+        "fy-1":183544,
+        "fy-0":170943,
+        "fy+1":220943,
+        "diff":50000
       },
       {
         "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":4949,
-        "fy-1":6441,
-        "fy-0":9891,
-        "fy+1":5000,
-        "diff":-4891
+        "fy-2":6441,
+        "fy-1":17123,
+        "fy-0":5000,
+        "fy+1":6000,
+        "diff":1000
       },
       {
         "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":2055,
-        "fy-1":265385,
-        "fy-0":325135,
-        "fy+1":331500,
-        "diff":6365
+        "fy-2":265385,
+        "fy-1":320640,
+        "fy-0":331500,
+        "fy+1":342740,
+        "diff":11240
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":364,
-        "fy-1":13160,
+        "fy-2":13160,
+        "fy-1":0,
         "fy-0":0,
         "fy+1":0,
         "diff":0
@@ -214,11 +205,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":464649,
-        "fy-1":650928,
-        "fy-0":637722,
-        "fy+1":637209,
-        "diff":-513
+        "fy-2":650928,
+        "fy-1":643194,
+        "fy-0":637209,
+        "fy+1":698891,
+        "diff":61682
       }
     ]
   },

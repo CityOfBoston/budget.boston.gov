@@ -9,13 +9,13 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_departments~Public Safety~fire-department.json",
-  "source_time":"20180309173812",
+  "source_time":"20180315174131",
   "source_year":"18",
   "name":"Fire Department",
   "parent":"Public Safety",
   "cabinet":"Public Safety",
   "department":"Fire Department",
-  "head_name":"Joseph E. Finn",
+  "head_name":"Joseph Finn",
   "head_title":"Commissioner",
   "appropriation_code":"Appropriation 221",
   "mission":[
@@ -36,73 +36,73 @@
       {
         "name":"BFD Administration",
         "line_type":"data",
-        "fy-2":18732567,
-        "fy-1":16075074,
-        "fy-0":16791443,
-        "fy+1":17032100,
+        "fy-2":16075074,
+        "fy-1":17663132,
+        "fy-0":17081542,
+        "fy+1":17693529,
         "publish_subordinates":true
       },
       {
         "name":"Boston Fire Suppression",
         "line_type":"data",
-        "fy-2":161551602,
-        "fy-1":165813092,
-        "fy-0":168908598,
-        "fy+1":177732258,
+        "fy-2":165813092,
+        "fy-1":167368301,
+        "fy-0":177742023,
+        "fy+1":179095361,
         "publish_subordinates":true
       },
       {
         "name":"Fire Alarm",
         "line_type":"data",
-        "fy-2":8388452,
-        "fy-1":9060069,
-        "fy-0":9988517,
-        "fy+1":10053437,
+        "fy-2":9060069,
+        "fy-1":9258941,
+        "fy-0":10081869,
+        "fy+1":11089909,
         "publish_subordinates":true
       },
       {
         "name":"BFD Training",
         "line_type":"data",
-        "fy-2":4565225,
-        "fy-1":4693957,
-        "fy-0":4609703,
-        "fy+1":5273218,
+        "fy-2":4693957,
+        "fy-1":4347136,
+        "fy-0":5275909,
+        "fy+1":4572975,
         "publish_subordinates":true
       },
       {
         "name":"Maintenance",
         "line_type":"data",
-        "fy-2":7606247,
-        "fy-1":9138032,
-        "fy-0":8026985,
-        "fy+1":9403985,
+        "fy-2":9138032,
+        "fy-1":7695688,
+        "fy-0":9414457,
+        "fy+1":9952195,
         "publish_subordinates":true
       },
       {
         "name":"BFD Fire Prevention",
         "line_type":"data",
-        "fy-2":10390385,
-        "fy-1":11393025,
-        "fy-0":11891971,
-        "fy+1":11977060,
+        "fy-2":11393025,
+        "fy-1":11893174,
+        "fy-0":12014672,
+        "fy+1":12210413,
         "publish_subordinates":true
       },
       {
         "name":"Firefighter Safety, Health and Wellness",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":744608,
-        "fy-0":827344,
-        "fy+1":827013,
+        "fy-2":744608,
+        "fy-1":856428,
+        "fy-0":829704,
+        "fy+1":690605,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":211234478,
-        "fy-1":216917857,
-        "fy-0":221044561,
-        "fy+1":232299071
+        "fy-2":216917857,
+        "fy-1":219082800,
+        "fy-0":232440176,
+        "fy+1":235304987
       }
     ]
   },
@@ -119,19 +119,28 @@
     },
     "data":[
       {
-        "name":"Fire Alarm",
+        "name":"Assistance to Fire Fighters",
         "line_type":"data",
-        "fy-2":2535,
+        "fy-2":0,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":0,
+        "fy+1":692000,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Engine 50 Flag Pole",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":8000,
         "publish_subordinates":true
       },
       {
         "name":"Fire Prevention and Education Fund",
         "line_type":"data",
         "fy-2":0,
-        "fy-1":0,
+        "fy-1":5006,
         "fy-0":20000,
         "fy+1":20000,
         "publish_subordinates":true
@@ -139,8 +148,8 @@
       {
         "name":"Hazardous Materials Response",
         "line_type":"data",
-        "fy-2":168950,
-        "fy-1":111843,
+        "fy-2":111843,
+        "fy-1":246514,
         "fy-0":237500,
         "fy+1":237500,
         "publish_subordinates":true
@@ -148,91 +157,109 @@
       {
         "name":"Hazmat Recovery Fund",
         "line_type":"data",
-        "fy-2":23999,
-        "fy-1":4158,
-        "fy-0":75000,
+        "fy-2":4158,
+        "fy-1":4251,
+        "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Hazmat Team Response",
         "line_type":"data",
-        "fy-2":14846,
-        "fy-1":1470,
-        "fy-0":14000,
+        "fy-2":1470,
+        "fy-1":18806,
+        "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Mass Decontam Unit (MDU)",
         "line_type":"data",
-        "fy-2":17904,
-        "fy-1":2340,
-        "fy-0":0,
+        "fy-2":2340,
+        "fy-1":33796,
+        "fy-0":40000,
         "fy+1":40000,
+        "publish_subordinates":true
+      },
+      {
+        "name":"MTA Tunnel Operations",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":196515,
+        "fy-0":0,
+        "fy+1":285000,
         "publish_subordinates":true
       },
       {
         "name":"Port Security Program Grant",
         "line_type":"data",
-        "fy-2":4644,
-        "fy-1":465957,
-        "fy-0":142500,
+        "fy-2":465957,
+        "fy-1":783,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"PSAP - Emergency",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":405664,
+        "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Safer Grant",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":4034422,
-        "fy-0":7116021,
-        "fy+1":1628205,
+        "fy-2":4034422,
+        "fy-1":7014550,
+        "fy-0":1628205,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Safety, Health and Wellness",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":4387,
+        "fy-2":4387,
+        "fy-1":2354,
         "fy-0":20000,
-        "fy+1":20000,
+        "fy+1":62000,
+        "publish_subordinates":true
+      },
+      {
+        "name":"State 911 Training Grant",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":33890,
+        "fy-0":0,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"State Training Grant",
         "line_type":"data",
-        "fy-2":1189059,
-        "fy-1":2007176,
-        "fy-0":1750000,
+        "fy-2":2007176,
+        "fy-1":2252253,
+        "fy-0":2250000,
         "fy+1":2250000,
         "publish_subordinates":true
       },
       {
         "name":"The Last Call Foundation",
         "line_type":"data",
-        "fy-2":44731,
-        "fy-1":165130,
-        "fy-0":200000,
-        "fy+1":150000,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Training Academy Revolving Fund",
-        "line_type":"data",
-        "fy-2":3450,
-        "fy-1":0,
-        "fy-0":15000,
-        "fy+1":0,
+        "fy-2":165130,
+        "fy-1":70125,
+        "fy-0":150000,
+        "fy+1":755000,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":1470118,
-        "fy-1":6796883,
-        "fy-0":9590021,
-        "fy+1":4345705
+        "fy-2":6796883,
+        "fy-1":10284507,
+        "fy-0":4345705,
+        "fy+1":4349500
       }
     ]
   },
@@ -248,26 +275,26 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":194384269,
-      "fy-1":197663921,
-      "fy-0":200080484,
-      "fy+1":209467366
+      "fy-2":197663921,
+      "fy-1":198542375,
+      "fy-0":209608471,
+      "fy+1":210403064
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":16850209,
-      "fy-1":19253936,
-      "fy-0":20964077,
-      "fy+1":22831705
+      "fy-2":19253936,
+      "fy-1":20540425,
+      "fy-0":22831705,
+      "fy+1":24901923
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":211234478,
-      "fy-1":216917857,
-      "fy-0":221044561,
-      "fy+1":232299071
+      "fy-2":216917857,
+      "fy-1":219082800,
+      "fy-0":232440176,
+      "fy+1":235304987
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
@@ -293,53 +320,53 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":194384269,
-        "fy-1":197663921,
-        "fy-0":200080484,
-        "fy+1":209467366,
-        "diff":9386882
+        "fy-2":197663921,
+        "fy-1":198542375,
+        "fy-0":209608471,
+        "fy+1":210403064,
+        "diff":794593
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":5289059,
-        "fy-1":6593189,
-        "fy-0":7525148,
-        "fy+1":8323190,
-        "diff":798042
+        "fy-2":6593189,
+        "fy-1":7134884,
+        "fy-0":8323190,
+        "fy+1":9023158,
+        "diff":699968
       },
       {
         "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":4559455,
-        "fy-1":4878452,
-        "fy-0":4937766,
-        "fy+1":4763403,
-        "diff":-174363
+        "fy-2":4878452,
+        "fy-1":4852289,
+        "fy-0":4763403,
+        "fy+1":5104048,
+        "diff":340645
       },
       {
         "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":4138653,
-        "fy-1":4268813,
-        "fy-0":4188369,
-        "fy+1":4249974,
-        "diff":61605
+        "fy-2":4268813,
+        "fy-1":4292066,
+        "fy-0":4249974,
+        "fy+1":4277668,
+        "diff":27694
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":2804942,
-        "fy-1":3501357,
-        "fy-0":4292794,
-        "fy+1":5475138,
-        "diff":1182344
+        "fy-2":3501357,
+        "fy-1":4238436,
+        "fy-0":5475138,
+        "fy+1":6477049,
+        "diff":1001911
       },
       {
         "line_title":"Other",
         "line_type":"data",
-        "fy-2":58100,
-        "fy-1":12125,
+        "fy-2":12125,
+        "fy-1":22750,
         "fy-0":20000,
         "fy+1":20000,
         "diff":0
@@ -347,11 +374,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":211234478,
-        "fy-1":216917857,
-        "fy-0":221044561,
-        "fy+1":232299071,
-        "diff":11254510
+        "fy-2":216917857,
+        "fy-1":219082800,
+        "fy-0":232440176,
+        "fy+1":235304987,
+        "diff":2864811
       }
     ]
   },

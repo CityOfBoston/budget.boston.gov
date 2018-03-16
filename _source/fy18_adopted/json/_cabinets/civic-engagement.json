@@ -14,7 +14,7 @@
   "section_type_short":"C",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~civic-engagement.json",
-  "source_time":"20180309173640",
+  "source_time":"20180315173900",
   "source_year":"18",
   "mission":[
     "The Civic Engagement Cabinet seeks to improve the delivery of City Services as well as create opportunities for all Boston Residents to participate in local government."
@@ -35,26 +35,26 @@
       {
         "department":"elderly-commission",
         "line_type":"data",
-        "fy-2":3095092,
-        "fy-1":3071890,
-        "fy-0":3255248,
-        "fy+1":3220233
+        "fy-2":3071890,
+        "fy-1":3221047,
+        "fy-0":3227007,
+        "fy+1":3428938
       },
       {
         "department":"neighborhood-services",
         "line_type":"data",
-        "fy-2":1421970,
-        "fy-1":2524900,
-        "fy-0":3194730,
-        "fy+1":3287613
+        "fy-2":2524900,
+        "fy-1":2679797,
+        "fy-0":3287613,
+        "fy+1":3391920
       },
       {
         "total":"Total",
         "line_type":"total",
-        "fy-2":4517062,
-        "fy-1":5596790,
-        "fy-0":6449978,
-        "fy+1":6507846
+        "fy-2":5596790,
+        "fy-1":5900844,
+        "fy-0":6514620,
+        "fy+1":6820858
       }
     ]
   },
@@ -73,26 +73,26 @@
       {
         "title":"Elderly Commission",
         "line_type":"data",
-        "fy-2":26587724,
-        "fy-1":27661024,
-        "fy-0":29215584,
-        "fy+1":28190144
+        "fy-2":27661024,
+        "fy-1":26322072,
+        "fy-0":28190144,
+        "fy+1":26526484
       },
       {
         "title":"Neighborhood Services",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":100000,
-        "fy-0":42000,
-        "fy+1":300000
+        "fy-2":100000,
+        "fy-1":87992,
+        "fy-0":300000,
+        "fy+1":0
       },
       {
         "total":"Total Cabinet",
         "line_type":"total",
-        "fy-2":26587724,
-        "fy-1":27761024,
-        "fy-0":29257584,
-        "fy+1":28490144
+        "fy-2":27761024,
+        "fy-1":26410064,
+        "fy-0":28490144,
+        "fy+1":26526484
       }
     ]
   }

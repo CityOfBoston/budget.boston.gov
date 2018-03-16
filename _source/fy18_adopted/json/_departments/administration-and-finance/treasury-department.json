@@ -9,13 +9,13 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_departments~Administration and Finance~treasury-department.json",
-  "source_time":"20180309173631",
+  "source_time":"20180315173840",
   "source_year":"18",
   "name":"Treasury Department",
   "parent":"Administration & Finance",
   "cabinet":"Administration & Finance",
   "department":"Treasury Department",
-  "head_name":"David Sweeney",
+  "head_name":"Emme Handy",
   "head_title":"Chief Financial Officer & Collector-Treasurer",
   "appropriation_code":"Appropriation 137",
   "mission":[
@@ -36,91 +36,122 @@
       {
         "name":"General Management",
         "line_type":"data",
-        "fy-2":657346,
-        "fy-1":707688,
-        "fy-0":579511,
-        "fy+1":553697,
+        "fy-2":707688,
+        "fy-1":547512,
+        "fy-0":566374,
+        "fy+1":574887,
         "publish_subordinates":true
       },
       {
         "name":"Treasury Administration",
         "line_type":"data",
-        "fy-2":758290,
-        "fy-1":751850,
-        "fy-0":742511,
-        "fy+1":711383,
+        "fy-2":751850,
+        "fy-1":777275,
+        "fy-0":737653,
+        "fy+1":665970,
         "publish_subordinates":true
       },
       {
         "name":"General Service/Payroll",
         "line_type":"data",
-        "fy-2":695661,
-        "fy-1":693201,
-        "fy-0":716023,
-        "fy+1":662237,
+        "fy-2":693201,
+        "fy-1":655271,
+        "fy-0":675295,
+        "fy+1":690779,
         "publish_subordinates":true
       },
       {
         "name":"Special Collections",
         "line_type":"data",
-        "fy-2":723780,
-        "fy-1":512653,
-        "fy-0":562765,
-        "fy+1":563068,
+        "fy-2":512653,
+        "fy-1":524344,
+        "fy-0":566536,
+        "fy+1":594171,
         "publish_subordinates":true
       },
       {
         "name":"Payment Services",
         "line_type":"data",
-        "fy-2":890801,
-        "fy-1":1236455,
-        "fy-0":927381,
-        "fy+1":923869,
+        "fy-2":1236455,
+        "fy-1":1135639,
+        "fy-0":929669,
+        "fy+1":988016,
         "publish_subordinates":true
       },
       {
         "name":"Accounting/Quality Control",
         "line_type":"data",
-        "fy-2":343763,
-        "fy-1":374515,
-        "fy-0":364955,
-        "fy+1":368029,
+        "fy-2":374515,
+        "fy-1":349888,
+        "fy-0":375663,
+        "fy+1":390392,
         "publish_subordinates":true
       },
       {
         "name":"Treasury Accounting",
         "line_type":"data",
-        "fy-2":163589,
-        "fy-1":155541,
-        "fy-0":172852,
-        "fy+1":172852,
+        "fy-2":155541,
+        "fy-1":159383,
+        "fy-0":178267,
+        "fy+1":188383,
         "publish_subordinates":true
       },
       {
         "name":"Accounts Receivable",
         "line_type":"data",
-        "fy-2":291570,
-        "fy-1":312704,
-        "fy-0":319637,
-        "fy+1":379042,
+        "fy-2":312704,
+        "fy-1":320467,
+        "fy-0":395578,
+        "fy+1":454862,
         "publish_subordinates":true
       },
       {
         "name":"Trust",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":184,
+        "fy-2":184,
+        "fy-1":0,
         "fy-0":0,
-        "fy+1":0,
+        "fy+1":3776,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":4524800,
-        "fy-1":4744791,
-        "fy-0":4385635,
-        "fy+1":4334177
+        "fy-2":4744791,
+        "fy-1":4469779,
+        "fy-0":4425035,
+        "fy+1":4551236
+      }
+    ]
+  },
+  "external_funds_budget":{
+    "table_type":"External Funds",
+    "table_title":"External Funds Budget",
+    "table_header":{
+      "name":"Fund Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "name":"Comminity Preservation Act",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":285393,
+        "fy+1":259456,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":285393,
+        "fy+1":259456
       }
     ]
   },
@@ -136,26 +167,26 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":1614643,
-      "fy-1":1681439,
-      "fy-0":1836063,
-      "fy+1":1810114
+      "fy-2":1681439,
+      "fy-1":1655732,
+      "fy-0":1839693,
+      "fy+1":1930194
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":1001047,
-      "fy-1":1149872,
+      "fy-2":1149872,
+      "fy-1":901651,
       "fy-0":598549,
-      "fy+1":598549
+      "fy+1":617272
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":2615690,
-      "fy-1":2831311,
-      "fy-0":2434612,
-      "fy+1":2408663
+      "fy-2":2831311,
+      "fy-1":2557383,
+      "fy-0":2438242,
+      "fy+1":2547466
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
@@ -192,44 +223,44 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":1614643,
-        "fy-1":1681439,
-        "fy-0":1836063,
-        "fy+1":1810114,
-        "diff":-25949
+        "fy-2":1681439,
+        "fy-1":1655732,
+        "fy-0":1839693,
+        "fy+1":1930194,
+        "diff":90501
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":76406,
-        "fy-1":69619,
+        "fy-2":69619,
+        "fy-1":73720,
         "fy-0":67411,
-        "fy+1":67411,
-        "diff":0
+        "fy+1":53574,
+        "diff":-13837
       },
       {
         "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":475886,
-        "fy-1":481377,
-        "fy-0":501919,
-        "fy+1":511138,
-        "diff":9219
+        "fy-2":481377,
+        "fy-1":260582,
+        "fy-0":511138,
+        "fy+1":531448,
+        "diff":20310
       },
       {
         "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":12025,
-        "fy-1":8935,
-        "fy-0":9219,
-        "fy+1":0,
-        "diff":-9219
+        "fy-2":8935,
+        "fy-1":8404,
+        "fy-0":0,
+        "fy+1":12250,
+        "diff":12250
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":17859,
-        "fy-1":14554,
+        "fy-2":14554,
+        "fy-1":119,
         "fy-0":20000,
         "fy+1":20000,
         "diff":0
@@ -237,8 +268,8 @@
       {
         "line_title":"Other",
         "line_type":"data",
-        "fy-2":418871,
-        "fy-1":575387,
+        "fy-2":575387,
+        "fy-1":558826,
         "fy-0":0,
         "fy+1":0,
         "diff":0
@@ -246,13 +277,21 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":2615690,
-        "fy-1":2831311,
-        "fy-0":2434612,
-        "fy+1":2408663,
-        "diff":-25949
+        "fy-2":2831311,
+        "fy-1":2557383,
+        "fy-0":2438242,
+        "fy+1":2547466,
+        "diff":109224
       }
     ]
-  }
+  },
+  "external_funds":[
+    {
+      "project":"Community Preservation Act",
+      "project_mission":[
+        "The Massachusetts legislature passed the Community Preservation Act in 2000. The law gave individual cities and towns authority to mount a ballot campaign to add a surcharge on real estate taxes to fund affordable housing, parks and open space improvements, and historic restoration. Boston voters approved the ballot initiative in November 2016 to adopt the Community Preservation Act. By adopting the CPA, the City created a Community Preservation Fund and finances this fund in part by a 1% property tax-based surcharge on residential and business property tax bills. Beginning in FY18, funding will be available every year for affordable housing, parks and open space improvements, and historic restoration. Additionally, a statewide Community Preservation Trust Fund gives cities and towns that passed the act a &ldquo;match.&rdquo; Real estate transfer fees from across the state provide money for the Trust Fund."
+      ]
+    }
+  ]
 }
 ---

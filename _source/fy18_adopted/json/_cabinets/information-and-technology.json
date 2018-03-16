@@ -14,7 +14,7 @@
   "section_type_short":"C",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~information-and-technology.json",
-  "source_time":"20180309173740",
+  "source_time":"20180315174038",
   "source_year":"18",
   "mission":[
     "The mission of the Information and Technology Cabinet is to provide systems and technologies that develop and support department personnel with information relative to their operations, support strategic planning, promote effective resource management, enhance customer service and promote internal and external electronic and voice communications."
@@ -36,18 +36,18 @@
       {
         "department":"department-of-innovation-and-technology",
         "line_type":"data",
-        "fy-2":30614392,
-        "fy-1":32046766,
-        "fy-0":28523574,
-        "fy+1":28891967
+        "fy-2":32046766,
+        "fy-1":32339123,
+        "fy-0":29404190,
+        "fy+1":30458110
       },
       {
         "total":"Total",
         "line_type":"total",
-        "fy-2":30614392,
-        "fy-1":32046766,
-        "fy-0":28523574,
-        "fy+1":28891967
+        "fy-2":32046766,
+        "fy-1":32339123,
+        "fy-0":29404190,
+        "fy+1":30458110
       }
     ],
     "capital_budget_expenditures":[
@@ -98,18 +98,18 @@
       {
         "title":"Department of Innovation & Technology",
         "line_type":"data",
-        "fy-2":3556038,
-        "fy-1":11912388,
-        "fy-0":11396406,
-        "fy+1":5160000
+        "fy-2":11912388,
+        "fy-1":8139456,
+        "fy-0":5160000,
+        "fy+1":0
       },
       {
         "total":"Total Cabinet",
         "line_type":"total",
-        "fy-2":3556038,
-        "fy-1":11912388,
-        "fy-0":11396406,
-        "fy+1":5160000
+        "fy-2":11912388,
+        "fy-1":8139456,
+        "fy-0":5160000,
+        "fy+1":0
       }
     ]
   }

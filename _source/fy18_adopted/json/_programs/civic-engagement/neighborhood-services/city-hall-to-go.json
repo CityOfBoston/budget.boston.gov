@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~neighborhood-serv.json",
-  "source_time":"20180309173644",
+  "source_time":"20180315173909",
   "source_year":"18",
   "appropriation_code":"Organization 412300",
   "description":[
@@ -32,26 +32,26 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":0,
-      "fy-1":120661,
-      "fy-0":174673,
-      "fy+1":161529
+      "fy-2":120661,
+      "fy-1":126831,
+      "fy-0":161529,
+      "fy+1":141665
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":0,
-      "fy-1":8201,
-      "fy-0":16757,
-      "fy+1":14400
+      "fy-2":8201,
+      "fy-1":374,
+      "fy-0":14400,
+      "fy+1":11000
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":0,
-      "fy-1":128862,
-      "fy-0":191430,
-      "fy+1":175929
+      "fy-2":128862,
+      "fy-1":127205,
+      "fy-0":175929,
+      "fy+1":152665
     }
   ],
   "program_history_by_account":{
@@ -69,26 +69,26 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":120661,
-        "fy-0":174673,
-        "fy+1":161529,
-        "diff":-13144
+        "fy-2":120661,
+        "fy-1":126831,
+        "fy-0":161529,
+        "fy+1":141665,
+        "diff":-19864
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":6892,
+        "fy-2":6892,
+        "fy-1":374,
         "fy-0":10900,
-        "fy+1":10900,
-        "diff":0
+        "fy+1":7500,
+        "diff":-3400
       },
       {
         "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":775,
+        "fy-2":775,
+        "fy-1":0,
         "fy-0":3500,
         "fy+1":3500,
         "diff":0
@@ -105,11 +105,11 @@
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":534,
-        "fy-0":2357,
+        "fy-2":534,
+        "fy-1":0,
+        "fy-0":0,
         "fy+1":0,
-        "diff":-2357
+        "diff":0
       },
       {
         "line_title":"Other",
@@ -123,11 +123,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":0,
-        "fy-1":128862,
-        "fy-0":191430,
-        "fy+1":175929,
-        "diff":-15501
+        "fy-2":128862,
+        "fy-1":127205,
+        "fy-0":175929,
+        "fy+1":152665,
+        "diff":-23264
       }
     ]
   },

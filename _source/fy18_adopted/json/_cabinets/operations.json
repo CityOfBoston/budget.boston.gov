@@ -14,7 +14,7 @@
   "section_type_short":"C",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~operations.json",
-  "source_time":"20180309173759",
+  "source_time":"20180315174112",
   "source_year":"18",
   "mission":[
     "The Operations Cabinet oversees all operational activities that intersect with the management of central facilities. The cabinet includes departments that set policies for intergovernmental relations and central municipal properties."
@@ -33,34 +33,34 @@
       {
         "department":"intergovernmental-relations",
         "line_type":"data",
-        "fy-2":1237386,
-        "fy-1":1275064,
-        "fy-0":1185169,
-        "fy+1":1165620
+        "fy-2":1275064,
+        "fy-1":1136247,
+        "fy-0":1186160,
+        "fy+1":1260425
       },
       {
         "department":"property-management",
         "line_type":"data",
-        "fy-2":23696177,
-        "fy-1":23896824,
-        "fy-0":18340814,
-        "fy+1":17172720
+        "fy-2":23896824,
+        "fy-1":20555049,
+        "fy-0":17241826,
+        "fy+1":17593703
       },
       {
         "department":"public-facilities-department",
         "line_type":"data",
         "fy-2":0,
-        "fy-1":0,
-        "fy-0":5625883,
-        "fy+1":5473478
+        "fy-1":5294852,
+        "fy-0":5665449,
+        "fy+1":6761389
       },
       {
         "total":"Total",
         "line_type":"total",
-        "fy-2":24933563,
-        "fy-1":25171888,
-        "fy-0":25151866,
-        "fy+1":23811818
+        "fy-2":25171888,
+        "fy-1":26986148,
+        "fy-0":24093435,
+        "fy+1":25615517
       }
     ],
     "capital_budget_expenditures":[

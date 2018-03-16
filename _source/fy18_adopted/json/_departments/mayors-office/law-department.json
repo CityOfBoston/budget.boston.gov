@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_departments~Mayor's Office~law-department.json",
-  "source_time":"20180309173749",
+  "source_time":"20180315174057",
   "source_year":"18",
   "name":"Law Department",
   "parent":"Mayor's Office",
@@ -36,46 +36,46 @@
       {
         "name":"Law Operations",
         "line_type":"data",
-        "fy-2":1926683,
-        "fy-1":1806057,
-        "fy-0":1696635,
-        "fy+1":1220489,
+        "fy-2":1806057,
+        "fy-1":1464518,
+        "fy-0":1224088,
+        "fy+1":1363765,
         "publish_subordinates":true
       },
       {
         "name":"Litigation",
         "line_type":"data",
-        "fy-2":2894424,
-        "fy-1":1921743,
-        "fy-0":2222309,
-        "fy+1":2580041,
+        "fy-2":1921743,
+        "fy-1":2285402,
+        "fy-0":2580041,
+        "fy+1":2694625,
         "publish_subordinates":true
       },
       {
         "name":"Legal Services",
         "line_type":"data",
-        "fy-2":1162282,
-        "fy-1":1301992,
-        "fy-0":1866260,
-        "fy+1":2713013,
+        "fy-2":1301992,
+        "fy-1":1443583,
+        "fy-0":2713013,
+        "fy+1":3732354,
         "publish_subordinates":true
       },
       {
         "name":"Office of Gaming & Accountability",
         "line_type":"data",
-        "fy-2":9173,
-        "fy-1":722987,
-        "fy-0":87240,
+        "fy-2":722987,
+        "fy-1":59160,
+        "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":5992562,
-        "fy-1":5752779,
-        "fy-0":5872444,
-        "fy+1":6513543
+        "fy-2":5752779,
+        "fy-1":5252663,
+        "fy-0":6517142,
+        "fy+1":7790744
       }
     ]
   },
@@ -94,19 +94,19 @@
       {
         "name":"Third Party Property Damages",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":27014,
+        "fy-2":27014,
+        "fy-1":292297,
         "fy-0":500000,
-        "fy+1":500000,
+        "fy+1":138216,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":0,
-        "fy-1":27014,
+        "fy-2":27014,
+        "fy-1":292297,
         "fy-0":500000,
-        "fy+1":500000
+        "fy+1":138216
       }
     ]
   },
@@ -122,26 +122,26 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":3734496,
-      "fy-1":3398720,
-      "fy-0":3783462,
-      "fy+1":4428211
+      "fy-2":3398720,
+      "fy-1":3332449,
+      "fy-0":4431810,
+      "fy+1":5543624
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":2258066,
-      "fy-1":2354059,
-      "fy-0":2088982,
-      "fy+1":2085332
+      "fy-2":2354059,
+      "fy-1":1920214,
+      "fy-0":2085332,
+      "fy+1":2247120
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":5992562,
-      "fy-1":5752779,
-      "fy-0":5872444,
-      "fy+1":6513543
+      "fy-2":5752779,
+      "fy-1":5252663,
+      "fy-0":6517142,
+      "fy+1":7790744
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
@@ -164,44 +164,44 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":3734496,
-        "fy-1":3398720,
-        "fy-0":3783462,
-        "fy+1":4428211,
-        "diff":644749
+        "fy-2":3398720,
+        "fy-1":3332449,
+        "fy-0":4431810,
+        "fy+1":5543624,
+        "diff":1111814
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":2164196,
-        "fy-1":2239565,
-        "fy-0":1971800,
-        "fy+1":1976559,
-        "diff":4759
+        "fy-2":2239565,
+        "fy-1":1828749,
+        "fy-0":1976559,
+        "fy+1":2074715,
+        "diff":98156
       },
       {
         "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":13854,
-        "fy-1":11000,
-        "fy-0":18380,
-        "fy+1":15908,
-        "diff":-2472
+        "fy-2":11000,
+        "fy-1":17331,
+        "fy-0":15908,
+        "fy+1":23325,
+        "diff":7417
       },
       {
         "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":75516,
-        "fy-1":98317,
-        "fy-0":98802,
-        "fy+1":92865,
-        "diff":-5937
+        "fy-2":98317,
+        "fy-1":59807,
+        "fy-0":92865,
+        "fy+1":149080,
+        "diff":56215
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":4500,
-        "fy-1":5177,
+        "fy-2":5177,
+        "fy-1":14327,
         "fy-0":0,
         "fy+1":0,
         "diff":0
@@ -218,11 +218,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":5992562,
-        "fy-1":5752779,
-        "fy-0":5872444,
-        "fy+1":6513543,
-        "diff":641099
+        "fy-2":5752779,
+        "fy-1":5252663,
+        "fy-0":6517142,
+        "fy+1":7790744,
+        "diff":1273602
       }
     ]
   },

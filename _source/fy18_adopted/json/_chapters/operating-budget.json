@@ -8,7 +8,7 @@
   "section_type_short":"S",
   "source_version":"Adopted",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_chapters~operating-budget.json",
-  "source_time":"20180309173058",
+  "source_time":"20180315173219",
   "source_year":"18",
   "components":[
     {
@@ -58,7 +58,10 @@
               "value":null
             },
             {
-              "Source":"Property Tax",
+              "Source":{
+                "name":"Property Tax",
+                "link":"/featured-analysis/extend-the-school-day"
+              },
               "FY15 Actual":{
                 "value":1875,
                 "filter":"delimiter",
@@ -104,7 +107,10 @@
               }
             },
             {
-              "Source":"Excises",
+              "Source":{
+                "name":"Excises",
+                "link":"/featured-analysis/excise-taxes"
+              },
               "FY15 Actual":{
                 "value":193,
                 "filter":"delimiter",
@@ -127,7 +133,10 @@
               }
             },
             {
-              "Source":"Fines",
+              "Source":{
+                "name":"Fines",
+                "link":"/featured-analysis/parking-fines"
+              },
               "FY15 Actual":{
                 "value":61,
                 "filter":"delimiter",
@@ -150,7 +159,10 @@
               }
             },
             {
-              "Source":"Interest On Investments",
+              "Source":{
+                "name":"Interest On Investments",
+                "link":"/featured-analysis/interest-on-investments"
+              },
               "FY15 Actual":{
                 "value":0,
                 "filter":"delimiter",
@@ -173,7 +185,10 @@
               }
             },
             {
-              "Source":"Payments in Lieu of Taxes",
+              "Source":{
+                "name":"Payments in Lieu of Taxes",
+                "link":"/featured-analysis/payments-in-lieu-of-taxes"
+              },
               "FY15 Actual":{
                 "value":49,
                 "filter":"delimiter",
@@ -196,7 +211,10 @@
               }
             },
             {
-              "Source":"Urban Redev Chapter 121A",
+              "Source":{
+                "name":"Urban Redev Chapter 121A",
+                "link":"/featured-analysis/urban-redevelopment-ch-121a"
+              },
               "FY15 Actual":{
                 "value":56,
                 "filter":"delimiter",
@@ -219,7 +237,10 @@
               }
             },
             {
-              "Source":"Department Revenue",
+              "Source":{
+                "name":"Department Revenue",
+                "link":"/featured-analysis/misc-dept-revenue"
+              },
               "FY15 Actual":{
                 "value":65,
                 "filter":"delimiter",
@@ -242,7 +263,10 @@
               }
             },
             {
-              "Source":"Licenses & Permits",
+              "Source":{
+                "name":"Licenses & Permits",
+                "link":"/featured-analysis/licenses-and-permits"
+              },
               "FY15 Actual":{
                 "value":73,
                 "filter":"delimiter",
@@ -265,7 +289,10 @@
               }
             },
             {
-              "Source":"Penalties & Interest",
+              "Source":{
+                "name":"Penalties & Interest",
+                "link":"/featured-analysis/penalties-and-interest"
+              },
               "FY15 Actual":{
                 "value":13,
                 "filter":"delimiter",
@@ -288,7 +315,10 @@
               }
             },
             {
-              "Source":"Available Funds",
+              "Source":{
+                "name":"Available Funds",
+                "link":"/featured-analysis/available-funds"
+              },
               "FY15 Actual":{
                 "value":19,
                 "filter":"delimiter",
@@ -311,7 +341,10 @@
               }
             },
             {
-              "Source":"State Aid",
+              "Source":{
+                "name":"State Aid",
+                "link":"/featured-analysis/state-aid"
+              },
               "FY15 Actual":{
                 "value":413,
                 "filter":"delimiter",
@@ -440,7 +473,10 @@
               "value":null
             },
             {
-              "Source":"City Appropriations",
+              "Source":{
+                "name":"City Appropriations",
+                "link":"/operating-budget/cabinets"
+              },
               "FY15 Actual":{
                 "value":1141,
                 "filter":"delimiter",
@@ -463,7 +499,10 @@
               }
             },
             {
-              "Source":"Boston Public Health Commission",
+              "Source":{
+                "name":"Boston Public Health Commission",
+                "link":"/operating-budget/cabinets/health-and-human-services/public-health-commission"
+              },
               "FY15 Actual":{
                 "value":74,
                 "filter":"delimiter",
@@ -486,7 +525,10 @@
               }
             },
             {
-              "Source":"Boston School Department",
+              "Source":{
+                "name":"Boston School Department",
+                "link":"/operating-budget/cabinets/education/boston-public-schools"
+              },
               "FY15 Actual":{
                 "value":975,
                 "filter":"delimiter",
@@ -509,7 +551,10 @@
               }
             },
             {
-              "Source":"Reserve for Collective Bargaining City",
+              "Source":{
+                "name":"Reserve for Collective Bargaining City",
+                "link":"/operating-budget/reserves-for-collective-bargaining"
+              },
               "FY15 Actual":{
                 "value":11,
                 "filter":"delimiter",
@@ -532,7 +577,10 @@
               }
             },
             {
-              "Source":"Reserve for Collective Bargaining BPS",
+              "Source":{
+                "name":"Reserve for Collective Bargaining BPS",
+                "link":"/operating-budget/reserves-for-collective-bargaining"
+              },
               "FY15 Actual":{
                 "value":0,
                 "filter":"delimiter",
@@ -555,7 +603,10 @@
               }
             },
             {
-              "Source":"Other Post Employment Benefits",
+              "Source":{
+                "name":"Other Post Employment Benefits",
+                "link":"/operating-budget/other-post-employment-benefits"
+              },
               "FY15 Actual":{
                 "value":40,
                 "filter":"delimiter",
@@ -610,7 +661,10 @@
               "value":null
             },
             {
-              "Source":"Pensions",
+              "Source":{
+                "name":"Pensions",
+                "link":"/operating-budget/pensions"
+              },
               "FY15 Actual":{
                 "value":170,
                 "filter":"delimiter",
@@ -633,7 +687,10 @@
               }
             },
             {
-              "Source":"Debt Service",
+              "Source":{
+                "name":"Debt Service",
+                "link":"/operating-budget/debt-service"
+              },
               "FY15 Actual":{
                 "value":148,
                 "filter":"delimiter",
@@ -656,7 +713,10 @@
               }
             },
             {
-              "Source":"Charter School Tuition",
+              "Source":{
+                "name":"Charter School Tuition",
+                "link":"/operating-budget/charter-school-tuition"
+              },
               "FY15 Actual":{
                 "value":126,
                 "filter":"delimiter",
@@ -702,7 +762,10 @@
               }
             },
             {
-              "Source":"Other State Assessments",
+              "Source":{
+                "name":"Other State Assessments",
+                "link":"/operating-budget/state-assessments"
+              },
               "FY15 Actual":{
                 "value":5,
                 "filter":"delimiter",
@@ -725,7 +788,10 @@
               }
             },
             {
-              "Source":"Suffolk County Sheriff Dept",
+              "Source":{
+                "name":"Suffolk County Sheriff Dept",
+                "link":"/operating-budget/suffolk-county-assessment/"
+              },
               "FY15 Actual":{
                 "value":4,
                 "filter":"delimiter",
@@ -748,7 +814,10 @@
               }
             },
             {
-              "Source":"Reserve",
+              "Source":{
+                "name":"Reserve",
+                "link":"/operating-budget/reserve"
+              },
               "FY15 Actual":{
                 "value":1,
                 "filter":"delimiter",
