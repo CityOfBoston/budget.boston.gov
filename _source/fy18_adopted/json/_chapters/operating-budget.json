@@ -55,7 +55,10 @@
           "columns":[
             {
               "Source":"REVENUES",
-              "value":null
+              "FY15 Actual":null,
+              "FY16 Actual":null,
+              "FY17 Budget":null,
+              "FY18 Budget":null
             },
             {
               "Source":{
