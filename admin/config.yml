@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: github
   branch: exec_json
   repo: jimafisk/budget.boston.gov
   base_url: https://blooming-retreat-39213.herokuapp.com
@@ -7,7 +7,8 @@ media_folder: "img/"
 collections:
   - name: "chapters"
     label: "Chapters"
-    folder: "_chapters"
+    #folder: "_chapters"
+    folder: "_source/fy18_recommended/md"
     create: true 
     #slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
