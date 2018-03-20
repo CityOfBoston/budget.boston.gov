@@ -2,7 +2,7 @@
 {
   "source_version":"Adopted",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_chapters~featured-analysis.json",
-  "source_time":"20180315173807",
+  "source_time":"20180319172103",
   "source_year":"18",
   "components":[
     {
@@ -206,10 +206,10 @@
           "card":"/featured-analysis/financial-management/"
         },
         {
-          "card":"/featured-analysis/financing-the-capital-plan/"
+          "card":"/featured-analysis/financing-the-fy18-fy22-capital-plan/"
         },
         {
-          "card":"/featured-analysis/financing-the-fy18-fy22-capital-plan/"
+          "card":"/featured-analysis/financing-the-capital-plan/"
         },
         {
           "card":"/featured-analysis/debt-management/"
@@ -261,10 +261,10 @@
           "card":"/featured-analysis/excise-tax-revenue/"
         },
         {
-          "card":"/featured-analysis/interest-on-investments/"
+          "card":"/featured-analysis/parking-fine-revenue/"
         },
         {
-          "card":"/featured-analysis/parking-fine-revenue/"
+          "card":"/featured-analysis/interest-on-investments/"
         },
         {
           "card":"/featured-analysis/pilot-revenue/"

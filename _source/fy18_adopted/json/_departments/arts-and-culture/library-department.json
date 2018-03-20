@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_departments~Arts and Culture~library-department.json",
-  "source_time":"20180315173856",
+  "source_time":"20180319172334",
   "source_year":"18",
   "name":"Library Department",
   "parent":"Arts & Culture",
@@ -36,37 +36,37 @@
       {
         "name":"Library Administration",
         "line_type":"data",
-        "fy-2":18709845,
-        "fy-1":18261015,
-        "fy-0":18584106,
-        "fy+1":19374093,
+        "fy-2":17644624,
+        "fy-1":18709845,
+        "fy-0":17260122,
+        "fy+1":18584106,
         "publish_subordinates":true
       },
       {
         "name":"Community Library Services",
         "line_type":"data",
-        "fy-2":14425177,
-        "fy-1":14523684,
-        "fy-0":15743358,
-        "fy+1":15689993,
+        "fy-2":13683174,
+        "fy-1":14425177,
+        "fy-0":15069249,
+        "fy+1":15743358,
         "publish_subordinates":true
       },
       {
         "name":"Research Library Services",
         "line_type":"data",
-        "fy-2":1727496,
-        "fy-1":1990111,
-        "fy-0":1703023,
-        "fy+1":1869148,
+        "fy-2":1963176,
+        "fy-1":1727496,
+        "fy-0":2172365,
+        "fy+1":1703023,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":34862518,
-        "fy-1":34774810,
-        "fy-0":36030487,
-        "fy+1":36933234
+        "fy-2":33290974,
+        "fy-1":34862518,
+        "fy-0":34501736,
+        "fy+1":36030487
       }
     ]
   },
@@ -85,10 +85,10 @@
       {
         "name":"Boston Public Library Affiliates",
         "line_type":"data",
-        "fy-2":618834,
-        "fy-1":1483918,
-        "fy-0":1021486,
-        "fy+1":800183,
+        "fy-2":541207,
+        "fy-1":618834,
+        "fy-0":1012748,
+        "fy+1":1021486,
         "publish_subordinates":true
       },
       {
@@ -103,46 +103,46 @@
       {
         "name":"Library for the Commonwealth",
         "line_type":"data",
-        "fy-2":2501882,
-        "fy-1":2501885,
-        "fy-0":2501883,
-        "fy+1":2501924,
+        "fy-2":2501881,
+        "fy-1":2501882,
+        "fy-0":2501882,
+        "fy+1":2501883,
         "publish_subordinates":true
       },
       {
         "name":"Other Sources",
         "line_type":"data",
-        "fy-2":3354004,
-        "fy-1":2768952,
-        "fy-0":2580365,
-        "fy+1":2696444,
+        "fy-2":2217317,
+        "fy-1":3354004,
+        "fy-0":2468835,
+        "fy+1":2580365,
         "publish_subordinates":true
       },
       {
         "name":"State Aid to Libraries",
         "line_type":"data",
-        "fy-2":782792,
-        "fy-1":517509,
-        "fy-0":678874,
-        "fy+1":676167,
+        "fy-2":553733,
+        "fy-1":782792,
+        "fy-0":679275,
+        "fy+1":678874,
         "publish_subordinates":true
       },
       {
         "name":"Trust Fund Income",
         "line_type":"data",
-        "fy-2":2260134,
-        "fy-1":1959918,
-        "fy-0":1960732,
-        "fy+1":1964079,
+        "fy-2":2030961,
+        "fy-1":2260134,
+        "fy-0":2210989,
+        "fy+1":1960732,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":9617646,
-        "fy-1":9332182,
-        "fy-0":8843340,
-        "fy+1":8738797
+        "fy-2":7945099,
+        "fy-1":9617646,
+        "fy-0":8973729,
+        "fy+1":8843340
       }
     ]
   },
@@ -158,26 +158,26 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":23164561,
-      "fy-1":23749719,
-      "fy-0":24656573,
-      "fy+1":25128092
+      "fy-2":22962590,
+      "fy-1":23164561,
+      "fy-0":24155430,
+      "fy+1":24656573
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":11697957,
-      "fy-1":11025091,
-      "fy-0":11373914,
-      "fy+1":11805142
+      "fy-2":10328384,
+      "fy-1":11697957,
+      "fy-0":10346306,
+      "fy+1":11373914
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":34862518,
-      "fy-1":34774810,
-      "fy-0":36030487,
-      "fy+1":36933234
+      "fy-2":33290974,
+      "fy-1":34862518,
+      "fy-0":34501736,
+      "fy+1":36030487
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
@@ -205,65 +205,65 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":23164561,
-        "fy-1":23749719,
-        "fy-0":24656573,
-        "fy+1":25128092,
-        "diff":471519
+        "fy-2":22962590,
+        "fy-1":23164561,
+        "fy-0":24155430,
+        "fy+1":24656573,
+        "diff":501143
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":8386833,
-        "fy-1":7886604,
-        "fy-0":7945778,
-        "fy+1":8128390,
-        "diff":182612
+        "fy-2":6958997,
+        "fy-1":8386833,
+        "fy-0":7258365,
+        "fy+1":7945778,
+        "diff":687413
       },
       {
         "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":2835582,
-        "fy-1":2741761,
-        "fy-0":2810008,
-        "fy+1":2925008,
-        "diff":115000
+        "fy-2":2721917,
+        "fy-1":2835582,
+        "fy-0":2631168,
+        "fy+1":2810008,
+        "diff":178840
       },
       {
         "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":179555,
-        "fy-1":175113,
-        "fy-0":323643,
-        "fy+1":338810,
-        "diff":15167
+        "fy-2":215970,
+        "fy-1":179555,
+        "fy-0":196666,
+        "fy+1":323643,
+        "diff":126977
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":264461,
-        "fy-1":196613,
-        "fy-0":259485,
-        "fy+1":377934,
-        "diff":118449
+        "fy-2":269823,
+        "fy-1":264461,
+        "fy-0":235107,
+        "fy+1":259485,
+        "diff":24378
       },
       {
         "line_title":"Other",
         "line_type":"data",
-        "fy-2":31526,
-        "fy-1":25000,
-        "fy-0":35000,
+        "fy-2":161677,
+        "fy-1":31526,
+        "fy-0":25000,
         "fy+1":35000,
-        "diff":0
+        "diff":10000
       },
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":34862518,
-        "fy-1":34774810,
-        "fy-0":36030487,
-        "fy+1":36933234,
-        "diff":902747
+        "fy-2":33290974,
+        "fy-1":34862518,
+        "fy-0":34501736,
+        "fy+1":36030487,
+        "diff":1528751
       }
     ]
   },

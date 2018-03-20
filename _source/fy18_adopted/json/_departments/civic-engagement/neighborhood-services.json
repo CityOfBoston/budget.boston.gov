@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_departments~Civic Engagement~neighborhood-services.json",
-  "source_time":"20180315173908",
+  "source_time":"20180319172340",
   "source_year":"18",
   "name":"Neighborhood Services",
   "parent":"Civic Engagement",
@@ -36,46 +36,46 @@
       {
         "name":"ONS Administration",
         "line_type":"data",
-        "fy-2":506835,
-        "fy-1":557037,
-        "fy-0":585698,
-        "fy+1":593514,
+        "fy-2":499453,
+        "fy-1":506835,
+        "fy-0":602016,
+        "fy+1":585698,
         "publish_subordinates":true
       },
       {
         "name":"Neighborhood Serv",
         "line_type":"data",
-        "fy-2":1009736,
-        "fy-1":1113069,
-        "fy-0":1180925,
-        "fy+1":1333359,
+        "fy-2":922517,
+        "fy-1":1009736,
+        "fy-0":1177057,
+        "fy+1":1180925,
         "publish_subordinates":true
       },
       {
         "name":"City Hall to Go",
         "line_type":"data",
-        "fy-2":128862,
-        "fy-1":127205,
-        "fy-0":175929,
-        "fy+1":152665,
+        "fy-2":0,
+        "fy-1":128862,
+        "fy-0":191430,
+        "fy+1":175929,
         "publish_subordinates":true
       },
       {
         "name":"Boston 311",
         "line_type":"data",
-        "fy-2":879467,
-        "fy-1":882486,
-        "fy-0":1345061,
-        "fy+1":1312382,
+        "fy-2":0,
+        "fy-1":879467,
+        "fy-0":1224227,
+        "fy+1":1345061,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":2524900,
-        "fy-1":2679797,
-        "fy-0":3287613,
-        "fy+1":3391920
+        "fy-2":1421970,
+        "fy-1":2524900,
+        "fy-0":3194730,
+        "fy+1":3287613
       }
     ]
   },
@@ -94,8 +94,8 @@
       {
         "name":"Boston Shines",
         "line_type":"data",
-        "fy-2":13608,
-        "fy-1":11654,
+        "fy-2":0,
+        "fy-1":13608,
         "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
@@ -103,19 +103,19 @@
       {
         "name":"Love Your Block",
         "line_type":"data",
-        "fy-2":11392,
-        "fy-1":10344,
-        "fy-0":75000,
-        "fy+1":0,
+        "fy-2":0,
+        "fy-1":11392,
+        "fy-0":10500,
+        "fy+1":75000,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":25000,
-        "fy-1":21998,
-        "fy-0":75000,
-        "fy+1":0
+        "fy-2":0,
+        "fy-1":25000,
+        "fy-0":10500,
+        "fy+1":75000
       }
     ]
   },
@@ -131,26 +131,26 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":2375934,
-      "fy-1":2526608,
-      "fy-0":3019386,
-      "fy+1":3147393
+      "fy-2":1369690,
+      "fy-1":2375934,
+      "fy-0":2904146,
+      "fy+1":3019386
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":148966,
-      "fy-1":153189,
-      "fy-0":268227,
-      "fy+1":244527
+      "fy-2":52280,
+      "fy-1":148966,
+      "fy-0":290584,
+      "fy+1":268227
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":2524900,
-      "fy-1":2679797,
-      "fy-0":3287613,
-      "fy+1":3391920
+      "fy-2":1421970,
+      "fy-1":2524900,
+      "fy-0":3194730,
+      "fy+1":3287613
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
@@ -169,35 +169,35 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":2375934,
-        "fy-1":2526608,
-        "fy-0":3019386,
-        "fy+1":3147393,
-        "diff":128007
+        "fy-2":1369690,
+        "fy-1":2375934,
+        "fy-0":2904146,
+        "fy+1":3019386,
+        "diff":115240
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":108148,
-        "fy-1":140769,
-        "fy-0":250048,
-        "fy+1":221348,
-        "diff":-28700
+        "fy-2":42239,
+        "fy-1":108148,
+        "fy-0":270048,
+        "fy+1":250048,
+        "diff":-20000
       },
       {
         "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":11252,
-        "fy-1":4132,
+        "fy-2":6308,
+        "fy-1":11252,
         "fy-0":11800,
-        "fy+1":16800,
-        "diff":5000
+        "fy+1":11800,
+        "diff":0
       },
       {
         "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":8653,
-        "fy-1":7448,
+        "fy-2":448,
+        "fy-1":8653,
         "fy-0":4779,
         "fy+1":4779,
         "diff":0
@@ -205,11 +205,11 @@
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":20913,
-        "fy-1":840,
-        "fy-0":1600,
+        "fy-2":3285,
+        "fy-1":20913,
+        "fy-0":3957,
         "fy+1":1600,
-        "diff":0
+        "diff":-2357
       },
       {
         "line_title":"Other",
@@ -223,11 +223,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":2524900,
-        "fy-1":2679797,
-        "fy-0":3287613,
-        "fy+1":3391920,
-        "diff":104307
+        "fy-2":1421970,
+        "fy-1":2524900,
+        "fy-0":3194730,
+        "fy+1":3287613,
+        "diff":92883
       }
     ]
   },

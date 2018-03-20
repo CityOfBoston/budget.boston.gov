@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_departments~Administration and Finance~auditing-department.json",
-  "source_time":"20180315173815",
+  "source_time":"20180319172305",
   "source_year":"18",
   "name":"Auditing Department",
   "parent":"Administration & Finance",
@@ -36,55 +36,55 @@
       {
         "name":"Auditing Administration",
         "line_type":"data",
-        "fy-2":412250,
-        "fy-1":386579,
-        "fy-0":517188,
-        "fy+1":554731,
+        "fy-2":412249,
+        "fy-1":412250,
+        "fy-0":533948,
+        "fy+1":506631,
         "publish_subordinates":true
       },
       {
         "name":"Accounting",
         "line_type":"data",
-        "fy-2":698402,
-        "fy-1":689484,
-        "fy-0":734866,
-        "fy+1":761854,
+        "fy-2":624304,
+        "fy-1":698402,
+        "fy-0":705579,
+        "fy+1":705159,
         "publish_subordinates":true
       },
       {
         "name":Null,
         "line_type":"data",
-        "fy-2":407001,
-        "fy-1":490310,
-        "fy-0":576003,
-        "fy+1":601811,
+        "fy-2":446054,
+        "fy-1":407001,
+        "fy-0":528653,
+        "fy+1":557665,
         "publish_subordinates":true
       },
       {
         "name":Null,
         "line_type":"data",
-        "fy-2":274648,
-        "fy-1":285061,
-        "fy-0":167949,
-        "fy+1":146595,
+        "fy-2":267190,
+        "fy-1":274648,
+        "fy-0":160867,
+        "fy+1":155076,
         "publish_subordinates":true
       },
       {
         "name":Null,
         "line_type":"data",
-        "fy-2":777960,
-        "fy-1":689644,
-        "fy-0":775539,
-        "fy+1":817832,
+        "fy-2":743717,
+        "fy-1":777960,
+        "fy-0":776322,
+        "fy+1":762032,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":2570261,
-        "fy-1":2541078,
-        "fy-0":2771545,
-        "fy+1":2882823
+        "fy-2":2493514,
+        "fy-1":2570261,
+        "fy-0":2705369,
+        "fy+1":2686563
       }
     ]
   },
@@ -103,8 +103,8 @@
       {
         "name":"BAIS Financials Upgrade",
         "line_type":"data",
-        "fy-2":279353,
-        "fy-1":6216,
+        "fy-2":110966,
+        "fy-1":279353,
         "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
@@ -113,27 +113,18 @@
         "name":"Earned Indirect",
         "line_type":"data",
         "fy-2":0,
-        "fy-1":151930,
-        "fy-0":175679,
-        "fy+1":181817,
-        "publish_subordinates":true
-      },
-      {
-        "name":"FEMA Disaster Recovery Asst",
-        "line_type":"data",
-        "fy-2":0,
-        "fy-1":405208,
-        "fy-0":0,
-        "fy+1":0,
+        "fy-1":0,
+        "fy-0":155037,
+        "fy+1":175679,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":279353,
-        "fy-1":563354,
-        "fy-0":175679,
-        "fy+1":181817
+        "fy-2":110966,
+        "fy-1":279353,
+        "fy-0":155037,
+        "fy+1":175679
       }
     ]
   },
@@ -149,26 +140,26 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":2489044,
-      "fy-1":2445406,
-      "fy-0":2710465,
-      "fy+1":2802686
+      "fy-2":2407061,
+      "fy-1":2489044,
+      "fy-0":2624872,
+      "fy+1":2625483
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":81217,
-      "fy-1":95672,
-      "fy-0":61080,
-      "fy+1":80137
+      "fy-2":86453,
+      "fy-1":81217,
+      "fy-0":80497,
+      "fy+1":61080
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":2570261,
-      "fy-1":2541078,
-      "fy-0":2771545,
-      "fy+1":2882823
+      "fy-2":2493514,
+      "fy-1":2570261,
+      "fy-0":2705369,
+      "fy+1":2686563
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
@@ -196,44 +187,44 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":2489044,
-        "fy-1":2445406,
-        "fy-0":2710465,
-        "fy+1":2802686,
-        "diff":92221
+        "fy-2":2407061,
+        "fy-1":2489044,
+        "fy-0":2624872,
+        "fy+1":2625483,
+        "diff":611
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":67076,
-        "fy-1":77990,
-        "fy-0":25575,
-        "fy+1":34018,
-        "diff":8443
+        "fy-2":65327,
+        "fy-1":67076,
+        "fy-0":65396,
+        "fy+1":25575,
+        "diff":-39821
       },
       {
         "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":6635,
-        "fy-1":6990,
-        "fy-0":8940,
-        "fy+1":12147,
-        "diff":3207
+        "fy-2":10990,
+        "fy-1":6635,
+        "fy-0":9016,
+        "fy+1":8940,
+        "diff":-76
       },
       {
         "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":3800,
-        "fy-1":10042,
-        "fy-0":26565,
-        "fy+1":33972,
-        "diff":7407
+        "fy-2":6592,
+        "fy-1":3800,
+        "fy-0":6085,
+        "fy+1":26565,
+        "diff":20480
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":3706,
-        "fy-1":650,
+        "fy-2":3544,
+        "fy-1":3706,
         "fy-0":0,
         "fy+1":0,
         "diff":0
@@ -250,11 +241,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":2570261,
-        "fy-1":2541078,
-        "fy-0":2771545,
-        "fy+1":2882823,
-        "diff":111278
+        "fy-2":2493514,
+        "fy-1":2570261,
+        "fy-0":2705369,
+        "fy+1":2686563,
+        "diff":-18806
       }
     ]
   },

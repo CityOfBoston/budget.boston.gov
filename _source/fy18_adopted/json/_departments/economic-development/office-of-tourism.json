@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_departments~Economic Development~office-of-tourism.json",
-  "source_time":"20180315173924",
+  "source_time":"20180319172349",
   "source_year":"18",
   "name":"Office of Tourism",
   "parent":"Economic Development",
@@ -36,37 +36,37 @@
       {
         "name":"MOATSE Administration",
         "line_type":"data",
-        "fy-2":403303,
-        "fy-1":514648,
-        "fy-0":404592,
-        "fy+1":478400,
+        "fy-2":352633,
+        "fy-1":403303,
+        "fy-0":408135,
+        "fy+1":404592,
         "publish_subordinates":true
       },
       {
         "name":Null,
         "line_type":"data",
-        "fy-2":557227,
-        "fy-1":602521,
-        "fy-0":844865,
-        "fy+1":849916,
+        "fy-2":566836,
+        "fy-1":557227,
+        "fy-0":656945,
+        "fy+1":844865,
         "publish_subordinates":true
       },
       {
         "name":Null,
         "line_type":"data",
-        "fy-2":132419,
-        "fy-1":272839,
-        "fy-0":76705,
-        "fy+1":93442,
+        "fy-2":92090,
+        "fy-1":132419,
+        "fy-0":334629,
+        "fy+1":76705,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":1092949,
-        "fy-1":1390008,
-        "fy-0":1326162,
-        "fy+1":1421758
+        "fy-2":1011559,
+        "fy-1":1092949,
+        "fy-0":1399709,
+        "fy+1":1326162
       }
     ]
   },
@@ -85,19 +85,19 @@
       {
         "name":"City Hall Plaza Fund",
         "line_type":"data",
-        "fy-2":109440,
-        "fy-1":118299,
+        "fy-2":87768,
+        "fy-1":109440,
         "fy-0":60000,
-        "fy+1":0,
+        "fy+1":60000,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":109440,
-        "fy-1":118299,
+        "fy-2":87768,
+        "fy-1":109440,
         "fy-0":60000,
-        "fy+1":0
+        "fy+1":60000
       }
     ]
   },
@@ -113,26 +113,26 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":744070,
-      "fy-1":823996,
-      "fy-0":771738,
-      "fy+1":865748
+      "fy-2":681373,
+      "fy-1":744070,
+      "fy-0":829419,
+      "fy+1":771738
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":348879,
-      "fy-1":566012,
-      "fy-0":554424,
-      "fy+1":556010
+      "fy-2":330186,
+      "fy-1":348879,
+      "fy-0":570290,
+      "fy+1":554424
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":1092949,
-      "fy-1":1390008,
-      "fy-0":1326162,
-      "fy+1":1421758
+      "fy-2":1011559,
+      "fy-1":1092949,
+      "fy-0":1399709,
+      "fy+1":1326162
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
@@ -154,65 +154,65 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":744070,
-        "fy-1":823996,
-        "fy-0":771738,
-        "fy+1":865748,
-        "diff":94010
+        "fy-2":681373,
+        "fy-1":744070,
+        "fy-0":829419,
+        "fy+1":771738,
+        "diff":-57681
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":43255,
-        "fy-1":236420,
+        "fy-2":38538,
+        "fy-1":43255,
         "fy-0":240803,
-        "fy+1":237753,
-        "diff":-3050
+        "fy+1":240803,
+        "diff":0
       },
       {
         "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":19400,
-        "fy-1":20898,
-        "fy-0":22372,
-        "fy+1":17372,
-        "diff":-5000
+        "fy-2":21414,
+        "fy-1":19400,
+        "fy-0":25808,
+        "fy+1":22372,
+        "diff":-3436
       },
       {
         "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":40445,
-        "fy-1":56727,
-        "fy-0":62450,
-        "fy+1":60600,
-        "diff":-1850
+        "fy-2":49544,
+        "fy-1":40445,
+        "fy-0":64365,
+        "fy+1":62450,
+        "diff":-1915
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":28248,
-        "fy-1":28368,
-        "fy-0":10514,
-        "fy+1":2000,
-        "diff":-8514
+        "fy-2":13630,
+        "fy-1":28248,
+        "fy-0":21029,
+        "fy+1":10514,
+        "diff":-10515
       },
       {
         "line_title":"Other",
         "line_type":"data",
-        "fy-2":217531,
-        "fy-1":223599,
+        "fy-2":207060,
+        "fy-1":217531,
         "fy-0":218285,
-        "fy+1":238285,
-        "diff":20000
+        "fy+1":218285,
+        "diff":0
       },
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":1092949,
-        "fy-1":1390008,
-        "fy-0":1326162,
-        "fy+1":1421758,
-        "diff":95596
+        "fy-2":1011559,
+        "fy-1":1092949,
+        "fy-0":1399709,
+        "fy+1":1326162,
+        "diff":-73547
       }
     ]
   },

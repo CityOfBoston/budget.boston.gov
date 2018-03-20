@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~legal-services.json",
-  "source_time":"20180315174059",
+  "source_time":"20180319172507",
   "source_year":"18",
   "appropriation_code":"Organization 151500",
   "description":[
@@ -32,25 +32,25 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":58987,
-      "fy-1":59160,
-      "fy-0":0,
+      "fy-2":9173,
+      "fy-1":58987,
+      "fy-0":87240,
       "fy+1":0
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":664000,
-      "fy-1":0,
+      "fy-2":0,
+      "fy-1":664000,
       "fy-0":0,
       "fy+1":0
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":722987,
-      "fy-1":59160,
-      "fy-0":0,
+      "fy-2":9173,
+      "fy-1":722987,
+      "fy-0":87240,
       "fy+1":0
     }
   ],
@@ -69,17 +69,17 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":58987,
-        "fy-1":59160,
-        "fy-0":0,
+        "fy-2":9173,
+        "fy-1":58987,
+        "fy-0":87240,
         "fy+1":0,
-        "diff":0
+        "diff":-87240
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":664000,
-        "fy-1":0,
+        "fy-2":0,
+        "fy-1":664000,
         "fy-0":0,
         "fy+1":0,
         "diff":0
@@ -123,11 +123,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":722987,
-        "fy-1":59160,
-        "fy-0":0,
+        "fy-2":9173,
+        "fy-1":722987,
+        "fy-0":87240,
         "fy+1":0,
-        "diff":0
+        "diff":-87240
       }
     ]
   }

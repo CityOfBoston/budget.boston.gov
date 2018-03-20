@@ -1,0 +1,26 @@
+---
+{
+  "section":"EXECUTIVE SUMMARY",
+  "name":"EXECUTIVE SUMMARY",
+  "section_type":"section",
+  "section_type_short":"S",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_chapters~executive-summary~education.json",
+  "source_time":"20180319171336",
+  "source_year":"18",
+  "components":[
+    {
+      "text_block":[
+        {
+          "title":"EDUCATION",
+          "body":[
+            "Extended School Day Card will appear here",
+            "Closing Opportunity and Achievement Gaps Card will appear here",
+            "BuildBPS Card will appear here"
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

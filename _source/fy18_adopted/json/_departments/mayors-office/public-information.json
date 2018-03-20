@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_departments~Mayor's Office~public-information.json",
-  "source_time":"20180315174100",
+  "source_time":"20180319172508",
   "source_year":"18",
   "name":"Public Information",
   "parent":"Mayor's Office",
@@ -21,6 +21,46 @@
   "mission":[
     "In FY16, the Public Information Communication Program will be in the Mayor&rsquo;s Office and the 24 Hour/Constituent Engagement Program will be moved to Neighborhood Services."
   ],
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "name":"Public Information Communications",
+        "line_type":"data",
+        "fy-2":469837,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Constituent/24 Hour Service",
+        "line_type":"data",
+        "fy-2":720411,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":1190248,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0
+      }
+    ]
+  },
   "selected_service_indicators":[
     {
       "line_title":"Operating Budget",
@@ -33,7 +73,7 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":0,
+      "fy-2":1147283,
       "fy-1":0,
       "fy-0":0,
       "fy+1":0
@@ -41,7 +81,7 @@
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":0,
+      "fy-2":42965,
       "fy-1":0,
       "fy-0":0,
       "fy+1":0
@@ -49,7 +89,7 @@
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":0,
+      "fy-2":1190248,
       "fy-1":0,
       "fy-0":0,
       "fy+1":0

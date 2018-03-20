@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_departments~Administration and Finance~execution-of-courts.json",
-  "source_time":"20180315173821",
+  "source_time":"20180319172309",
   "source_year":"18",
   "name":"Execution of Courts",
   "parent":"Administration & Finance",
@@ -34,8 +34,8 @@
       {
         "name":"Execution of Courts",
         "line_type":"data",
-        "fy-2":10454319,
-        "fy-1":3188450,
+        "fy-2":9698310,
+        "fy-1":10454319,
         "fy-0":5000000,
         "fy+1":5000000,
         "publish_subordinates":true
@@ -43,8 +43,8 @@
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":10454319,
-        "fy-1":3188450,
+        "fy-2":9698310,
+        "fy-1":10454319,
         "fy-0":5000000,
         "fy+1":5000000
       }
@@ -70,16 +70,16 @@
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":10454319,
-      "fy-1":3188450,
+      "fy-2":9698310,
+      "fy-1":10454319,
       "fy-0":5000000,
       "fy+1":5000000
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":10454319,
-      "fy-1":3188450,
+      "fy-2":9698310,
+      "fy-1":10454319,
       "fy-0":5000000,
       "fy+1":5000000
     }

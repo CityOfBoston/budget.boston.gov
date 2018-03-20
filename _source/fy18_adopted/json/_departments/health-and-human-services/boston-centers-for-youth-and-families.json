@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_departments~Health and Human Services~boston-centers-for-youth-and-families.json",
-  "source_time":"20180315174006",
+  "source_time":"20180319172415",
   "source_year":"18",
   "name":"Boston Centers for Youth & Families",
   "parent":"Health & Human Services",
@@ -36,46 +36,46 @@
       {
         "name":"Administrative & Policy",
         "line_type":"data",
-        "fy-2":14690449,
-        "fy-1":16078313,
-        "fy-0":14994523,
-        "fy+1":15936833,
+        "fy-2":13432555,
+        "fy-1":14690449,
+        "fy-0":14581456,
+        "fy+1":14684895,
         "publish_subordinates":true
       },
       {
         "name":Null,
         "line_type":"data",
-        "fy-2":4245241,
-        "fy-1":4192337,
-        "fy-0":6621880,
-        "fy+1":4624859,
+        "fy-2":4623425,
+        "fy-1":4245241,
+        "fy-0":4457205,
+        "fy+1":4616977,
         "publish_subordinates":true
       },
       {
         "name":Null,
         "line_type":"data",
-        "fy-2":3576048,
-        "fy-1":3663638,
-        "fy-0":3822862,
-        "fy+1":4207360,
+        "fy-2":3633059,
+        "fy-1":3576048,
+        "fy-0":3840648,
+        "fy+1":3805759,
         "publish_subordinates":true
       },
       {
         "name":Null,
         "line_type":"data",
-        "fy-2":2406009,
-        "fy-1":2082568,
-        "fy-0":2437835,
-        "fy+1":2460745,
+        "fy-2":2440598,
+        "fy-1":2406009,
+        "fy-0":2379739,
+        "fy+1":2422153,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":24917747,
-        "fy-1":26016856,
-        "fy-0":27877100,
-        "fy+1":27229797
+        "fy-2":24129637,
+        "fy-1":24917747,
+        "fy-0":25259048,
+        "fy+1":25529784
       }
     ]
   },
@@ -94,8 +94,8 @@
       {
         "name":"Boston Food Policy Council",
         "line_type":"data",
-        "fy-2":652,
-        "fy-1":0,
+        "fy-2":26048,
+        "fy-1":652,
         "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
@@ -103,62 +103,71 @@
       {
         "name":"Can Share/Project Bread",
         "line_type":"data",
-        "fy-2":68076,
-        "fy-1":67766,
+        "fy-2":70718,
+        "fy-1":68076,
         "fy-0":150000,
-        "fy+1":0,
+        "fy+1":150000,
         "publish_subordinates":true
       },
       {
         "name":"Center Based Daycare Program",
         "line_type":"data",
-        "fy-2":5070,
-        "fy-1":9976,
-        "fy-0":62034,
-        "fy+1":0,
+        "fy-2":0,
+        "fy-1":5070,
+        "fy-0":41692,
+        "fy+1":62034,
         "publish_subordinates":true
       },
       {
         "name":"Charles E Shannon Grant",
         "line_type":"data",
-        "fy-2":106661,
-        "fy-1":69132,
-        "fy-0":100000,
-        "fy+1":114714,
+        "fy-2":0,
+        "fy-1":106661,
+        "fy-0":90000,
+        "fy+1":100000,
         "publish_subordinates":true
       },
       {
         "name":"Child & Adult Care Food",
         "line_type":"data",
-        "fy-2":122,
-        "fy-1":701,
-        "fy-0":360,
-        "fy+1":5000,
+        "fy-2":2027,
+        "fy-1":122,
+        "fy-0":4076,
+        "fy+1":360,
         "publish_subordinates":true
       },
       {
         "name":"City Hall Child Care",
         "line_type":"data",
-        "fy-2":521147,
-        "fy-1":513412,
-        "fy-0":750000,
-        "fy+1":619256,
+        "fy-2":523598,
+        "fy-1":521147,
+        "fy-0":735491,
+        "fy+1":750000,
         "publish_subordinates":true
       },
       {
         "name":"Community-Based Violence Prev2",
         "line_type":"data",
-        "fy-2":49017,
-        "fy-1":10673,
-        "fy-0":127212,
+        "fy-2":0,
+        "fy-1":49017,
+        "fy-0":113976,
+        "fy+1":127212,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Food Resilience Study",
+        "line_type":"data",
+        "fy-2":140000,
+        "fy-1":0,
+        "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"James Curley Recreation Center",
         "line_type":"data",
-        "fy-2":50000,
-        "fy-1":0,
+        "fy-2":0,
+        "fy-1":50000,
         "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
@@ -166,17 +175,17 @@
       {
         "name":"Mayor's Food Security Action Plan",
         "line_type":"data",
-        "fy-2":6047,
-        "fy-1":70655,
-        "fy-0":65001,
-        "fy+1":52163,
+        "fy-2":0,
+        "fy-1":6047,
+        "fy-0":65000,
+        "fy+1":65001,
         "publish_subordinates":true
       },
       {
-        "name":"Shannon Community Safety",
+        "name":"Safe & Successful Youth Initiative Program",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":83061,
+        "fy-2":55052,
+        "fy-1":0,
         "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
@@ -184,28 +193,28 @@
       {
         "name":"Street Safe Boston",
         "line_type":"data",
-        "fy-2":1007143,
-        "fy-1":849468,
-        "fy-0":680609,
-        "fy+1":432195,
+        "fy-2":314492,
+        "fy-1":1007143,
+        "fy-0":1111710,
+        "fy+1":680609,
         "publish_subordinates":true
       },
       {
         "name":"Tiny Tots Program",
         "line_type":"data",
-        "fy-2":70847,
-        "fy-1":81177,
-        "fy-0":77567,
-        "fy+1":41163,
+        "fy-2":83322,
+        "fy-1":70847,
+        "fy-0":77571,
+        "fy+1":77567,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":1884782,
-        "fy-1":1756021,
-        "fy-0":2012783,
-        "fy+1":1264491
+        "fy-2":1215257,
+        "fy-1":1884782,
+        "fy-0":2389516,
+        "fy+1":2012783
       }
     ]
   },
@@ -221,26 +230,26 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":20563630,
-      "fy-1":20952066,
-      "fy-0":21236991,
-      "fy+1":22589475
+      "fy-2":20315845,
+      "fy-1":20563630,
+      "fy-0":20636186,
+      "fy+1":20889675
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":4354117,
-      "fy-1":5064790,
-      "fy-0":6640109,
-      "fy+1":4640322
+      "fy-2":3813792,
+      "fy-1":4354117,
+      "fy-0":4622862,
+      "fy+1":4640109
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":24917747,
-      "fy-1":26016856,
-      "fy-0":27877100,
-      "fy+1":27229797
+      "fy-2":24129637,
+      "fy-1":24917747,
+      "fy-0":25259048,
+      "fy+1":25529784
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
@@ -262,65 +271,65 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":20563630,
-        "fy-1":20952066,
-        "fy-0":21236991,
-        "fy+1":22589475,
-        "diff":1352484
+        "fy-2":20315845,
+        "fy-1":20563630,
+        "fy-0":20636186,
+        "fy+1":20889675,
+        "diff":253489
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":3845849,
-        "fy-1":4547835,
-        "fy-0":4146934,
-        "fy+1":4148587,
-        "diff":1653
+        "fy-2":3257781,
+        "fy-1":3845849,
+        "fy-0":4171235,
+        "fy+1":4146934,
+        "diff":-24301
       },
       {
         "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":234315,
-        "fy-1":305335,
-        "fy-0":235175,
-        "fy+1":235679,
-        "diff":504
+        "fy-2":113520,
+        "fy-1":234315,
+        "fy-0":240878,
+        "fy+1":235175,
+        "diff":-5703
       },
       {
         "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":114385,
-        "fy-1":121008,
-        "fy-0":155300,
-        "fy+1":156500,
-        "diff":1200
+        "fy-2":122852,
+        "fy-1":114385,
+        "fy-0":106100,
+        "fy+1":155300,
+        "diff":49200
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":159568,
-        "fy-1":90612,
-        "fy-0":102700,
-        "fy+1":99556,
-        "diff":-3144
+        "fy-2":319639,
+        "fy-1":159568,
+        "fy-0":104649,
+        "fy+1":102700,
+        "diff":-1949
       },
       {
         "line_title":"Other",
         "line_type":"data",
         "fy-2":0,
         "fy-1":0,
-        "fy-0":2000000,
+        "fy-0":0,
         "fy+1":0,
-        "diff":-2000000
+        "diff":0
       },
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":24917747,
-        "fy-1":26016856,
-        "fy-0":27877100,
-        "fy+1":27229797,
-        "diff":-647303
+        "fy-2":24129637,
+        "fy-1":24917747,
+        "fy-0":25259048,
+        "fy+1":25529784,
+        "diff":270736
       }
     ]
   },

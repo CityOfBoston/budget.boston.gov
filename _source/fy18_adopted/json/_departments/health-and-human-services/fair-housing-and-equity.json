@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_departments~Health and Human Services~fair-housing-and-equity.json",
-  "source_time":"20180315174019",
+  "source_time":"20180319172426",
   "source_year":"18",
   "name":"Fair Housing & Equity",
   "parent":"Health & Human Services",
@@ -36,28 +36,28 @@
       {
         "name":"Fair Housing Commission",
         "line_type":"data",
-        "fy-2":151260,
-        "fy-1":178889,
-        "fy-0":185723,
-        "fy+1":174909,
+        "fy-2":130776,
+        "fy-1":151260,
+        "fy-0":185959,
+        "fy+1":185723,
         "publish_subordinates":true
       },
       {
         "name":"Human Rights Commission",
         "line_type":"data",
-        "fy-2":9170,
-        "fy-1":78750,
-        "fy-0":93004,
-        "fy+1":127996,
+        "fy-2":92251,
+        "fy-1":9170,
+        "fy-0":96871,
+        "fy+1":93004,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":160430,
-        "fy-1":257639,
-        "fy-0":278727,
-        "fy+1":302905
+        "fy-2":223027,
+        "fy-1":160430,
+        "fy-0":282830,
+        "fy+1":278727
       }
     ]
   },
@@ -76,46 +76,46 @@
       {
         "name":"CDBG",
         "line_type":"data",
-        "fy-2":400350,
-        "fy-1":713025,
-        "fy-0":746220,
-        "fy+1":777442,
+        "fy-2":432943,
+        "fy-1":400350,
+        "fy-0":603742,
+        "fy+1":373110,
         "publish_subordinates":true
       },
       {
         "name":"Fair Housing Asst Prog",
         "line_type":"data",
-        "fy-2":267834,
-        "fy-1":109035,
-        "fy-0":210500,
-        "fy+1":366494,
+        "fy-2":147589,
+        "fy-1":267834,
+        "fy-0":134000,
+        "fy+1":210500,
         "publish_subordinates":true
       },
       {
         "name":"Housing Choice Program",
         "line_type":"data",
-        "fy-2":87720,
-        "fy-1":33986,
-        "fy-0":0,
+        "fy-2":81692,
+        "fy-1":87720,
+        "fy-0":20511,
         "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Regional Opportunity Counseling Program",
         "line_type":"data",
-        "fy-2":184281,
-        "fy-1":75627,
-        "fy-0":106662,
-        "fy+1":52145,
+        "fy-2":84118,
+        "fy-1":184281,
+        "fy-0":125789,
+        "fy+1":106662,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":940185,
-        "fy-1":931673,
-        "fy-0":1063382,
-        "fy+1":1196081
+        "fy-2":746342,
+        "fy-1":940185,
+        "fy-0":884042,
+        "fy+1":690272
       }
     ]
   },
@@ -131,26 +131,26 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":144446,
-      "fy-1":249067,
-      "fy-0":262027,
-      "fy+1":282617
+      "fy-2":197679,
+      "fy-1":144446,
+      "fy-0":266330,
+      "fy+1":262027
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":15984,
-      "fy-1":8572,
-      "fy-0":16700,
-      "fy+1":20288
+      "fy-2":25348,
+      "fy-1":15984,
+      "fy-0":16500,
+      "fy+1":16700
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":160430,
-      "fy-1":257639,
-      "fy-0":278727,
-      "fy+1":302905
+      "fy-2":223027,
+      "fy-1":160430,
+      "fy-0":282830,
+      "fy+1":278727
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
@@ -175,26 +175,26 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":144446,
-        "fy-1":249067,
-        "fy-0":262027,
-        "fy+1":282617,
-        "diff":20590
+        "fy-2":197679,
+        "fy-1":144446,
+        "fy-0":266330,
+        "fy+1":262027,
+        "diff":-4303
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":9016,
-        "fy-1":3046,
-        "fy-0":7700,
-        "fy+1":10548,
-        "diff":2848
+        "fy-2":10351,
+        "fy-1":9016,
+        "fy-0":7500,
+        "fy+1":7700,
+        "diff":200
       },
       {
         "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":5252,
-        "fy-1":4546,
+        "fy-2":7660,
+        "fy-1":5252,
         "fy-0":8000,
         "fy+1":8000,
         "diff":0
@@ -202,16 +202,16 @@
       {
         "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":1716,
-        "fy-1":980,
+        "fy-2":2625,
+        "fy-1":1716,
         "fy-0":1000,
-        "fy+1":1740,
-        "diff":740
+        "fy+1":1000,
+        "diff":0
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":0,
+        "fy-2":4712,
         "fy-1":0,
         "fy-0":0,
         "fy+1":0,
@@ -229,11 +229,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":160430,
-        "fy-1":257639,
-        "fy-0":278727,
-        "fy+1":302905,
-        "diff":24178
+        "fy-2":223027,
+        "fy-1":160430,
+        "fy-0":282830,
+        "fy+1":278727,
+        "diff":-4103
       }
     ]
   },
