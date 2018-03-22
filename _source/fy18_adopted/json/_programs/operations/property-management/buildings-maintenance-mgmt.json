@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~pm-administration.json",
-  "source_time":"20180315174120",
+  "source_time":"20180321121241",
   "source_year":"18",
   "appropriation_code":"Organization 180200",
   "description":[
@@ -32,26 +32,26 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":1320255,
-      "fy-1":1278599,
-      "fy-0":1368479,
-      "fy+1":1423008
+      "fy-2":1255390,
+      "fy-1":1320255,
+      "fy-0":1400009,
+      "fy+1":1355923
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":5828175,
-      "fy-1":5889162,
-      "fy-0":6724980,
-      "fy+1":6652124
+      "fy-2":5421452,
+      "fy-1":5828175,
+      "fy-0":6977451,
+      "fy+1":6724980
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":7148430,
-      "fy-1":7167761,
-      "fy-0":8093459,
-      "fy+1":8075132
+      "fy-2":6676842,
+      "fy-1":7148430,
+      "fy-0":8377460,
+      "fy+1":8080903
     }
   ],
   "program_history_by_account":{
@@ -69,47 +69,47 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":1320255,
-        "fy-1":1278599,
-        "fy-0":1368479,
-        "fy+1":1423008,
-        "diff":54529
+        "fy-2":1255390,
+        "fy-1":1320255,
+        "fy-0":1400009,
+        "fy+1":1355923,
+        "diff":-44086
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":5587033,
-        "fy-1":5681535,
-        "fy-0":6511370,
-        "fy+1":6396709,
-        "diff":-114661
+        "fy-2":5032841,
+        "fy-1":5587033,
+        "fy-0":6767969,
+        "fy+1":6511370,
+        "diff":-256599
       },
       {
         "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":174398,
-        "fy-1":145550,
-        "fy-0":185058,
-        "fy+1":187083,
-        "diff":2025
+        "fy-2":131762,
+        "fy-1":174398,
+        "fy-0":175157,
+        "fy+1":185058,
+        "diff":9901
       },
       {
         "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":7170,
-        "fy-1":12070,
-        "fy-0":8250,
-        "fy+1":8000,
-        "diff":-250
+        "fy-2":7115,
+        "fy-1":7170,
+        "fy-0":12800,
+        "fy+1":8250,
+        "diff":-4550
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":59574,
-        "fy-1":50007,
-        "fy-0":20302,
-        "fy+1":60332,
-        "diff":40030
+        "fy-2":249734,
+        "fy-1":59574,
+        "fy-0":21525,
+        "fy+1":20302,
+        "diff":-1223
       },
       {
         "line_title":"Other",
@@ -123,11 +123,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":7148430,
-        "fy-1":7167761,
-        "fy-0":8093459,
-        "fy+1":8075132,
-        "diff":-18327
+        "fy-2":6676842,
+        "fy-1":7148430,
+        "fy-0":8377460,
+        "fy+1":8080903,
+        "diff":-296557
       }
     ]
   },

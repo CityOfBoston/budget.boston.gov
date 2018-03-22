@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_departments~Streets~public-works-department.json",
-  "source_time":"20180315174151",
+  "source_time":"20180321121257",
   "source_year":"18",
   "name":"Public Works Department",
   "parent":"Streets",
@@ -36,82 +36,82 @@
       {
         "name":"PWD Commissioner's Office",
         "line_type":"data",
-        "fy-2":2841754,
-        "fy-1":2898530,
-        "fy-0":2758636,
-        "fy+1":2424504,
+        "fy-2":3571066,
+        "fy-1":2841754,
+        "fy-0":2746064,
+        "fy+1":2747146,
         "publish_subordinates":true
       },
       {
         "name":"Building/Facility Maintenance",
         "line_type":"data",
-        "fy-2":2286572,
-        "fy-1":2479443,
-        "fy-0":2782457,
-        "fy+1":2442791,
+        "fy-2":3349142,
+        "fy-1":2286572,
+        "fy-0":2826836,
+        "fy+1":2779289,
         "publish_subordinates":true
       },
       {
         "name":"Engineering",
         "line_type":"data",
-        "fy-2":1670878,
-        "fy-1":1684405,
-        "fy-0":1551798,
-        "fy+1":1681349,
+        "fy-2":2293508,
+        "fy-1":1670878,
+        "fy-0":1501940,
+        "fy+1":1530370,
         "publish_subordinates":true
       },
       {
         "name":"Highway Maintenance",
         "line_type":"data",
-        "fy-2":4690789,
-        "fy-1":3264965,
-        "fy-0":2981527,
-        "fy+1":3102912,
+        "fy-2":2324772,
+        "fy-1":4690789,
+        "fy-0":2841514,
+        "fy+1":2967655,
         "publish_subordinates":true
       },
       {
         "name":"Street Cleaning",
         "line_type":"data",
-        "fy-2":21060512,
-        "fy-1":20163092,
-        "fy-0":20089636,
-        "fy+1":20329479,
+        "fy-2":18016298,
+        "fy-1":21060512,
+        "fy-0":19957929,
+        "fy+1":20085221,
         "publish_subordinates":true
       },
       {
         "name":"Bridge Operations/Maintenance",
         "line_type":"data",
-        "fy-2":2713515,
-        "fy-1":1756432,
-        "fy-0":1857976,
-        "fy+1":1850289,
+        "fy-2":1972448,
+        "fy-1":2713515,
+        "fy-0":1790522,
+        "fy+1":1852531,
         "publish_subordinates":true
       },
       {
         "name":"Street Lighting",
         "line_type":"data",
-        "fy-2":10712131,
-        "fy-1":9225675,
-        "fy-0":11606349,
-        "fy+1":11834822,
+        "fy-2":12147672,
+        "fy-1":10712131,
+        "fy-0":10750342,
+        "fy+1":11600698,
         "publish_subordinates":true
       },
       {
         "name":"Waste Reduction",
         "line_type":"data",
-        "fy-2":39078603,
-        "fy-1":39175931,
-        "fy-0":40919855,
-        "fy+1":42057630,
+        "fy-2":38503590,
+        "fy-1":39078603,
+        "fy-0":39943364,
+        "fy+1":40899358,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":85054754,
-        "fy-1":80648473,
-        "fy-0":84548234,
-        "fy+1":85723776
+        "fy-2":82178496,
+        "fy-1":85054754,
+        "fy-0":82358511,
+        "fy+1":84462268
       }
     ]
   },
@@ -130,8 +130,8 @@
       {
         "name":"Home Composting",
         "line_type":"data",
-        "fy-2":5565,
-        "fy-1":13063,
+        "fy-2":14910,
+        "fy-1":5565,
         "fy-0":10000,
         "fy+1":10000,
         "publish_subordinates":true
@@ -139,7 +139,7 @@
       {
         "name":"Municipal Recycling",
         "line_type":"data",
-        "fy-2":0,
+        "fy-2":13126,
         "fy-1":0,
         "fy-0":10000,
         "fy+1":10000,
@@ -148,8 +148,8 @@
       {
         "name":"Spectacle Island",
         "line_type":"data",
-        "fy-2":210000,
-        "fy-1":0,
+        "fy-2":0,
+        "fy-1":210000,
         "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
@@ -157,8 +157,8 @@
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":215565,
-        "fy-1":13063,
+        "fy-2":28036,
+        "fy-1":215565,
         "fy-0":20000,
         "fy+1":20000
       }
@@ -176,26 +176,26 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":21905405,
-      "fy-1":21675116,
-      "fy-0":23232123,
-      "fy+1":23513734
+      "fy-2":21918266,
+      "fy-1":21905405,
+      "fy-0":22503101,
+      "fy+1":23146157
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":63149349,
-      "fy-1":58973357,
-      "fy-0":61316111,
-      "fy+1":62210042
+      "fy-2":60260230,
+      "fy-1":63149349,
+      "fy-0":59855410,
+      "fy+1":61316111
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":85054754,
-      "fy-1":80648473,
-      "fy-0":84548234,
-      "fy+1":85723776
+      "fy-2":82178496,
+      "fy-1":85054754,
+      "fy-0":82358511,
+      "fy+1":84462268
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
@@ -222,65 +222,65 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":21905405,
-        "fy-1":21675116,
-        "fy-0":23232123,
-        "fy+1":23513734,
-        "diff":281611
+        "fy-2":21918266,
+        "fy-1":21905405,
+        "fy-0":22503101,
+        "fy+1":23146157,
+        "diff":643056
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":56282500,
-        "fy-1":52682395,
-        "fy-0":55765920,
-        "fy+1":56959753,
-        "diff":1193833
+        "fy-2":54472025,
+        "fy-1":56282500,
+        "fy-0":54134119,
+        "fy+1":55765920,
+        "diff":1631801
       },
       {
         "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":2034025,
-        "fy-1":1456947,
-        "fy-0":1768774,
-        "fy+1":1760595,
-        "diff":-8179
+        "fy-2":2592589,
+        "fy-1":2034025,
+        "fy-0":1973746,
+        "fy+1":1768774,
+        "diff":-204972
       },
       {
         "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":667658,
-        "fy-1":627766,
-        "fy-0":559545,
-        "fy+1":589140,
-        "diff":29595
+        "fy-2":695847,
+        "fy-1":667658,
+        "fy-0":505600,
+        "fy+1":559545,
+        "diff":53945
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":2922313,
-        "fy-1":3725506,
-        "fy-0":2821872,
-        "fy+1":2500554,
-        "diff":-321318
+        "fy-2":2150194,
+        "fy-1":2922313,
+        "fy-0":2941945,
+        "fy+1":2821872,
+        "diff":-120073
       },
       {
         "line_title":"Other",
         "line_type":"data",
-        "fy-2":1242853,
-        "fy-1":480743,
-        "fy-0":400000,
+        "fy-2":349575,
+        "fy-1":1242853,
+        "fy-0":300000,
         "fy+1":400000,
-        "diff":0
+        "diff":100000
       },
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":85054754,
-        "fy-1":80648473,
-        "fy-0":84548234,
-        "fy+1":85723776,
-        "diff":1175542
+        "fy-2":82178496,
+        "fy-1":85054754,
+        "fy-0":82358511,
+        "fy+1":84462268,
+        "diff":2103757
       }
     ]
   },

@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~public-health-services.json",
-  "source_time":"20180315174025",
+  "source_time":"20180321121212",
   "source_year":"18",
   "appropriation_code":"Organization 620200",
   "description":[
@@ -40,18 +40,18 @@
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":10824191,
-      "fy-1":11345673,
-      "fy-0":11383862,
-      "fy+1":0
+      "fy-2":10119485,
+      "fy-1":10824191,
+      "fy-0":11345671,
+      "fy+1":11316056
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":10824191,
-      "fy-1":11345673,
-      "fy-0":11383862,
-      "fy+1":0
+      "fy-2":10119485,
+      "fy-1":10824191,
+      "fy-0":11345671,
+      "fy+1":11316056
     }
   ],
   "program_history_by_account":{
@@ -114,20 +114,20 @@
       {
         "line_title":"Other",
         "line_type":"data",
-        "fy-2":10824191,
-        "fy-1":11345673,
-        "fy-0":11383862,
-        "fy+1":0,
-        "diff":-11383862
+        "fy-2":10119485,
+        "fy-1":10824191,
+        "fy-0":11345671,
+        "fy+1":11316056,
+        "diff":-29615
       },
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":10824191,
-        "fy-1":11345673,
-        "fy-0":11383862,
-        "fy+1":0,
-        "diff":-11383862
+        "fy-2":10119485,
+        "fy-1":10824191,
+        "fy-0":11345671,
+        "fy+1":11316056,
+        "diff":-29615
       }
     ]
   },

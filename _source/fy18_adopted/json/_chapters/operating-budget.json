@@ -8,7 +8,7 @@
   "section_type_short":"S",
   "source_version":"Adopted",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_chapters~operating-budget.json",
-  "source_time":"20180315173219",
+  "source_time":"20180321120634",
   "source_year":"18",
   "components":[
     {
@@ -55,7 +55,10 @@
           "columns":[
             {
               "Source":"REVENUES",
-              "value":null
+              "FY15 Actual":null,
+              "FY16 Actual":null,
+              "FY17 Budget":null,
+              "FY18 Budget":null
             },
             {
               "Source":{
@@ -109,7 +112,7 @@
             {
               "Source":{
                 "name":"Excises",
-                "link":"/featured-analysis/excise-taxes"
+                "link":"/featured-analysis/excise-tax-revenue/"
               },
               "FY15 Actual":{
                 "value":193,
@@ -135,7 +138,7 @@
             {
               "Source":{
                 "name":"Fines",
-                "link":"/featured-analysis/parking-fines"
+                "link":"/featured-analysis/parking-fine-revenue/"
               },
               "FY15 Actual":{
                 "value":61,
@@ -187,7 +190,7 @@
             {
               "Source":{
                 "name":"Payments in Lieu of Taxes",
-                "link":"/featured-analysis/payments-in-lieu-of-taxes"
+                "link":"/featured-analysis/pilot-revenue/"
               },
               "FY15 Actual":{
                 "value":49,
@@ -213,7 +216,7 @@
             {
               "Source":{
                 "name":"Urban Redev Chapter 121A",
-                "link":"/featured-analysis/urban-redevelopment-ch-121a"
+                "link":"/featured-analysis/urban-redevelopment-revenue/"
               },
               "FY15 Actual":{
                 "value":56,
@@ -265,7 +268,7 @@
             {
               "Source":{
                 "name":"Licenses & Permits",
-                "link":"/featured-analysis/licenses-and-permits"
+                "link":"/featured-analysis/licenses-and-permits-revenue/"
               },
               "FY15 Actual":{
                 "value":73,
@@ -291,7 +294,7 @@
             {
               "Source":{
                 "name":"Penalties & Interest",
-                "link":"/featured-analysis/penalties-and-interest"
+                "link":"/featured-analysis/penalties-and-interest-revenue/"
               },
               "FY15 Actual":{
                 "value":13,
@@ -343,7 +346,7 @@
             {
               "Source":{
                 "name":"State Aid",
-                "link":"/featured-analysis/state-aid"
+                "link":"/featured-analysis/state-education-aid/"
               },
               "FY15 Actual":{
                 "value":413,
@@ -392,7 +395,10 @@
             },
             {
               "Source":Null,
-              "value":null
+              "FY15 Actual":null,
+              "FY16 Actual":null,
+              "FY17 Budget":null,
+              "FY18 Budget":null
             },
             {
               "Source":"Budgetary Fund Balance",
@@ -466,11 +472,17 @@
             },
             {
               "Source":Null,
-              "value":null
+              "FY15 Actual":null,
+              "FY16 Actual":null,
+              "FY17 Budget":null,
+              "FY18 Budget":null
             },
             {
               "Source":"EXPENDITURES",
-              "value":null
+              "FY15 Actual":null,
+              "FY16 Actual":null,
+              "FY17 Budget":null,
+              "FY18 Budget":null
             },
             {
               "Source":{
@@ -605,7 +617,7 @@
             {
               "Source":{
                 "name":"Other Post Employment Benefits",
-                "link":"/operating-budget/other-post-employment-benefits"
+                "link":"/featured-analysis/other-post-employement-benefits/"
               },
               "FY15 Actual":{
                 "value":40,
@@ -630,7 +642,10 @@
             },
             {
               "Source":Null,
-              "value":null
+              "FY15 Actual":null,
+              "FY16 Actual":null,
+              "FY17 Budget":null,
+              "FY18 Budget":null
             },
             {
               "Source":"Total Appropriations",
@@ -658,7 +673,10 @@
             },
             {
               "Source":Null,
-              "value":null
+              "FY15 Actual":null,
+              "FY16 Actual":null,
+              "FY17 Budget":null,
+              "FY18 Budget":null
             },
             {
               "Source":{
@@ -715,7 +733,7 @@
             {
               "Source":{
                 "name":"Charter School Tuition",
-                "link":"/operating-budget/charter-school-tuition"
+                "link":"/featured-analysis/state-assessments/"
               },
               "FY15 Actual":{
                 "value":126,
@@ -764,7 +782,7 @@
             {
               "Source":{
                 "name":"Other State Assessments",
-                "link":"/operating-budget/state-assessments"
+                "link":"/featured-analysis/state-assessments/"
               },
               "FY15 Actual":{
                 "value":5,
@@ -816,7 +834,7 @@
             {
               "Source":{
                 "name":"Reserve",
-                "link":"/operating-budget/reserve"
+                "link":"/featured-analysis/reserves-for-collective-bargaining/"
               },
               "FY15 Actual":{
                 "value":1,
@@ -865,7 +883,10 @@
             },
             {
               "Source":Null,
-              "value":null
+              "FY15 Actual":null,
+              "FY16 Actual":null,
+              "FY17 Budget":null,
+              "FY18 Budget":null
             },
             {
               "Source":"Total Expenditures",
@@ -893,7 +914,10 @@
             },
             {
               "Source":Null,
-              "value":null
+              "FY15 Actual":null,
+              "FY16 Actual":null,
+              "FY17 Budget":null,
+              "FY18 Budget":null
             },
             {
               "Source":"Surplus (Deficit)",

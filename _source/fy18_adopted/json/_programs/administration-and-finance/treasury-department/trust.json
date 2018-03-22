@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~accounts-receivable.json",
-  "source_time":"20180315173843",
+  "source_time":"20180321121119",
   "source_year":"18",
   "appropriation_code":"Organization 138600",
   "description":[
@@ -32,10 +32,10 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":184,
-      "fy-1":0,
+      "fy-2":0,
+      "fy-1":184,
       "fy-0":0,
-      "fy+1":3526
+      "fy+1":0
     },
     {
       "line_title":"Non Personnel",
@@ -43,15 +43,15 @@
       "fy-2":0,
       "fy-1":0,
       "fy-0":0,
-      "fy+1":250
+      "fy+1":0
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":184,
-      "fy-1":0,
+      "fy-2":0,
+      "fy-1":184,
       "fy-0":0,
-      "fy+1":3776
+      "fy+1":0
     }
   ],
   "program_history_by_account":{
@@ -69,11 +69,11 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":184,
-        "fy-1":0,
+        "fy-2":0,
+        "fy-1":184,
         "fy-0":0,
-        "fy+1":3526,
-        "diff":3526
+        "fy+1":0,
+        "diff":0
       },
       {
         "line_title":"Contractual Services",
@@ -90,8 +90,8 @@
         "fy-2":0,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":250,
-        "diff":250
+        "fy+1":0,
+        "diff":0
       },
       {
         "line_title":"Current Chgs & Oblig",
@@ -123,11 +123,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":184,
-        "fy-1":0,
+        "fy-2":0,
+        "fy-1":184,
         "fy-0":0,
-        "fy+1":3776,
-        "diff":3776
+        "fy+1":0,
+        "diff":0
       }
     ]
   }

@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_departments~Mayor's Office~mayors-office.json",
-  "source_time":"20180315174050",
+  "source_time":"20180321121227",
   "source_year":"18",
   "name":"Mayor's Office",
   "parent":"Mayor's Office",
@@ -36,55 +36,55 @@
       {
         "name":"Mayor's Administration",
         "line_type":"data",
-        "fy-2":1056163,
-        "fy-1":1252191,
-        "fy-0":1176580,
-        "fy+1":1458019,
+        "fy-2":1222981,
+        "fy-1":1056163,
+        "fy-0":1111758,
+        "fy+1":1176580,
         "publish_subordinates":true
       },
       {
         "name":"Mayor's Executive",
         "line_type":"data",
-        "fy-2":333987,
-        "fy-1":335482,
-        "fy-0":357465,
-        "fy+1":351865,
+        "fy-2":521583,
+        "fy-1":333987,
+        "fy-0":363272,
+        "fy+1":357465,
         "publish_subordinates":true
       },
       {
         "name":"Mayor's Policy & Planning",
         "line_type":"data",
-        "fy-2":959204,
-        "fy-1":1227631,
-        "fy-0":1439055,
-        "fy+1":1511693,
+        "fy-2":477957,
+        "fy-1":959204,
+        "fy-0":1474711,
+        "fy+1":1439055,
         "publish_subordinates":true
       },
       {
         "name":Null,
         "line_type":"data",
-        "fy-2":280703,
-        "fy-1":297862,
-        "fy-0":394536,
-        "fy+1":474409,
+        "fy-2":277978,
+        "fy-1":280703,
+        "fy-0":369381,
+        "fy+1":394536,
         "publish_subordinates":true
       },
       {
         "name":"Mayor's Communications",
         "line_type":"data",
-        "fy-2":603653,
-        "fy-1":657042,
-        "fy-0":792304,
-        "fy+1":739913,
+        "fy-2":0,
+        "fy-1":603653,
+        "fy-0":723159,
+        "fy+1":792304,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":3233710,
-        "fy-1":3770208,
-        "fy-0":4159940,
-        "fy+1":4535899
+        "fy-2":2500499,
+        "fy-1":3233710,
+        "fy-0":4042281,
+        "fy+1":4159940
       }
     ]
   },
@@ -103,10 +103,10 @@
       {
         "name":"Chief Resilience Officer Grant",
         "line_type":"data",
-        "fy-2":105685,
-        "fy-1":125335,
-        "fy-0":26740,
-        "fy+1":0,
+        "fy-2":0,
+        "fy-1":105685,
+        "fy-0":138373,
+        "fy+1":26740,
         "publish_subordinates":true
       },
       {
@@ -115,61 +115,61 @@
         "fy-2":0,
         "fy-1":0,
         "fy-0":223516,
-        "fy+1":0,
+        "fy+1":223516,
         "publish_subordinates":true
       },
       {
         "name":"Harvard Business School Service",
         "line_type":"data",
-        "fy-2":83077,
-        "fy-1":76154,
-        "fy-0":90247,
-        "fy+1":93893,
+        "fy-2":88912,
+        "fy-1":83077,
+        "fy-0":115247,
+        "fy+1":90247,
         "publish_subordinates":true
       },
       {
         "name":"Innovation Delivery Team",
         "line_type":"data",
-        "fy-2":411310,
-        "fy-1":449973,
-        "fy-0":709621,
-        "fy+1":169582,
+        "fy-2":0,
+        "fy-1":411310,
+        "fy-0":450000,
+        "fy+1":709621,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Innovations in American Government",
+        "line_type":"data",
+        "fy-2":7046,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Policy Research Grant",
         "line_type":"data",
         "fy-2":0,
-        "fy-1":31346,
-        "fy-0":25137,
-        "fy+1":50137,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":25137,
         "publish_subordinates":true
       },
       {
         "name":"Public Service Fellowship",
         "line_type":"data",
         "fy-2":0,
-        "fy-1":25000,
-        "fy-0":25137,
-        "fy+1":26081,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Strategic Partnerships",
-        "line_type":"data",
-        "fy-2":0,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":185804,
+        "fy+1":25137,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":600072,
-        "fy-1":707808,
-        "fy-0":1100398,
-        "fy+1":525497
+        "fy-2":95958,
+        "fy-1":600072,
+        "fy-0":927136,
+        "fy+1":1100398
       }
     ]
   },
@@ -185,26 +185,26 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":3039883,
-      "fy-1":3548831,
-      "fy-0":3697661,
-      "fy+1":4082620
+      "fy-2":2321348,
+      "fy-1":3039883,
+      "fy-0":3645445,
+      "fy+1":3697661
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":193827,
-      "fy-1":221377,
-      "fy-0":462279,
-      "fy+1":453279
+      "fy-2":179151,
+      "fy-1":193827,
+      "fy-0":396836,
+      "fy+1":462279
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":3233710,
-      "fy-1":3770208,
-      "fy-0":4159940,
-      "fy+1":4535899
+      "fy-2":2500499,
+      "fy-1":3233710,
+      "fy-0":4042281,
+      "fy+1":4159940
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
@@ -230,26 +230,26 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":3039883,
-        "fy-1":3548831,
-        "fy-0":3697661,
-        "fy+1":4082620,
-        "diff":384959
+        "fy-2":2321348,
+        "fy-1":3039883,
+        "fy-0":3645445,
+        "fy+1":3697661,
+        "diff":52216
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":101322,
-        "fy-1":142057,
-        "fy-0":340978,
-        "fy+1":331978,
-        "diff":-9000
+        "fy-2":119977,
+        "fy-1":101322,
+        "fy-0":297999,
+        "fy+1":340978,
+        "diff":42979
       },
       {
         "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":36064,
-        "fy-1":40497,
+        "fy-2":44224,
+        "fy-1":36064,
         "fy-0":53233,
         "fy+1":53233,
         "diff":0
@@ -257,20 +257,20 @@
       {
         "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":18640,
-        "fy-1":21847,
-        "fy-0":43068,
+        "fy-2":9990,
+        "fy-1":18640,
+        "fy-0":37644,
         "fy+1":43068,
-        "diff":0
+        "diff":5424
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":37801,
-        "fy-1":16976,
-        "fy-0":25000,
+        "fy-2":4960,
+        "fy-1":37801,
+        "fy-0":7960,
         "fy+1":25000,
-        "diff":0
+        "diff":17040
       },
       {
         "line_title":"Other",
@@ -284,11 +284,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":3233710,
-        "fy-1":3770208,
-        "fy-0":4159940,
-        "fy+1":4535899,
-        "diff":375959
+        "fy-2":2500499,
+        "fy-1":3233710,
+        "fy-0":4042281,
+        "fy+1":4159940,
+        "diff":117659
       }
     ]
   },

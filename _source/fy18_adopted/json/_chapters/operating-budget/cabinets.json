@@ -7,7 +7,7 @@
   "section_type_short":"S",
   "source_version":"Adopted",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_chapters~cabinets.json",
-  "source_time":"20180315172711",
+  "source_time":"20180321120326",
   "source_year":"18",
   "components":[
     {
@@ -47,13 +47,6 @@
       ]
     },
     {
-      "text_block":[
-        {
-          "title":"APPROPRIATIONS BY CABINET"
-        }
-      ]
-    },
-    {
       "table":[
         {
           "title":"Appropriations by Cabinet",
@@ -68,22 +61,22 @@
                 "link":"/operating-budget/cabinets/administration-and-finance"
               },
               "FY15 Actual":{
-                "value":239080587,
+                "value":226031460,
                 "filter":"delimiter",
                 "align":"right"
               },
               "FY16 Actual":{
-                "value":246386148,
+                "value":239080586,
                 "filter":"delimiter",
                 "align":"right"
               },
-              "FY17 Actual":{
-                "value":264882988,
+              "FY17 Approp":{
+                "value":254366940,
                 "filter":"delimiter",
                 "align":"right"
               },
-              "FY18 Actual":{
-                "value":270932400,
+              "FY18 Budget":{
+                "value":264570113,
                 "filter":"delimiter",
                 "align":"right"
               }
@@ -94,22 +87,22 @@
                 "link":"/operating-budget/cabinets/arts-and-culture"
               },
               "FY15 Actual":{
-                "value":46239054,
+                "value":42314681,
                 "filter":"delimiter",
                 "align":"right"
               },
               "FY16 Actual":{
-                "value":46057072,
+                "value":46239054,
                 "filter":"delimiter",
                 "align":"right"
               },
-              "FY17 Actual":{
+              "FY17 Approp":{
+                "value":46283220,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY18 Budget":{
                 "value":47956180,
-                "filter":"delimiter",
-                "align":"right"
-              },
-              "FY18 Actual":{
-                "value":47470545,
                 "filter":"delimiter",
                 "align":"right"
               }
@@ -120,22 +113,22 @@
                 "link":"/operating-budget/cabinets/civic-engagement"
               },
               "FY15 Actual":{
-                "value":12537046,
+                "value":11163993,
                 "filter":"delimiter",
                 "align":"right"
               },
               "FY16 Actual":{
-                "value":12503360,
+                "value":12537046,
                 "filter":"delimiter",
                 "align":"right"
               },
-              "FY17 Actual":{
-                "value":13637156,
+              "FY17 Approp":{
+                "value":13764374,
                 "filter":"delimiter",
                 "align":"right"
               },
-              "FY18 Actual":{
-                "value":13452479,
+              "FY18 Budget":{
+                "value":13630382,
                 "filter":"delimiter",
                 "align":"right"
               }
@@ -146,22 +139,22 @@
                 "link":"/operating-budget/cabinets/economic-development"
               },
               "FY15 Actual":{
-                "value":3834124,
+                "value":3871141,
                 "filter":"delimiter",
                 "align":"right"
               },
               "FY16 Actual":{
-                "value":7770399,
+                "value":3834124,
                 "filter":"delimiter",
                 "align":"right"
               },
-              "FY17 Actual":{
-                "value":9473152,
+              "FY17 Approp":{
+                "value":10058712,
                 "filter":"delimiter",
                 "align":"right"
               },
-              "FY18 Actual":{
-                "value":8625676,
+              "FY18 Budget":{
+                "value":9462755,
                 "filter":"delimiter",
                 "align":"right"
               }
@@ -172,22 +165,22 @@
                 "link":"/operating-budget/cabinets/education"
               },
               "FY15 Actual":{
-                "value":1142048557,
+                "value":1105294498,
                 "filter":"delimiter",
                 "align":"right"
               },
               "FY16 Actual":{
-                "value":1168304041,
+                "value":1142048558,
                 "filter":"delimiter",
                 "align":"right"
               },
-              "FY17 Actual":{
-                "value":1229413072,
+              "FY17 Approp":{
+                "value":1167025300,
                 "filter":"delimiter",
                 "align":"right"
               },
-              "FY18 Actual":{
-                "value":1241539013,
+              "FY18 Budget":{
+                "value":1198155372,
                 "filter":"delimiter",
                 "align":"right"
               }
@@ -198,22 +191,22 @@
                 "link":"/operating-budget/cabinets/environment-energy-and-open-space"
               },
               "FY15 Actual":{
-                "value":50737313,
+                "value":41619823,
                 "filter":"delimiter",
                 "align":"right"
               },
               "FY16 Actual":{
-                "value":49811399,
+                "value":50737313,
                 "filter":"delimiter",
                 "align":"right"
               },
-              "FY17 Actual":{
-                "value":49429313,
+              "FY17 Approp":{
+                "value":47163344,
                 "filter":"delimiter",
                 "align":"right"
               },
-              "FY18 Actual":{
-                "value":49280012,
+              "FY18 Budget":{
+                "value":49032198,
                 "filter":"delimiter",
                 "align":"right"
               }
@@ -224,22 +217,22 @@
                 "link":"/operating-budget/cabinets/health-and-human-services"
               },
               "FY15 Actual":{
-                "value":116098411,
+                "value":112527694,
                 "filter":"delimiter",
                 "align":"right"
               },
               "FY16 Actual":{
-                "value":116744217,
+                "value":116098411,
                 "filter":"delimiter",
                 "align":"right"
               },
-              "FY17 Actual":{
-                "value":123807427,
+              "FY17 Approp":{
+                "value":118733582,
                 "filter":"delimiter",
                 "align":"right"
               },
-              "FY18 Actual":{
-                "value":126744364,
+              "FY18 Budget":{
+                "value":121277352,
                 "filter":"delimiter",
                 "align":"right"
               }
@@ -250,22 +243,22 @@
                 "link":"/operating-budget/cabinets/housing-and-neighborhood-development"
               },
               "FY15 Actual":{
-                "value":77054682,
+                "value":67161854,
                 "filter":"delimiter",
                 "align":"right"
               },
               "FY16 Actual":{
-                "value":102380533,
+                "value":77054682,
                 "filter":"delimiter",
                 "align":"right"
               },
-              "FY17 Actual":{
+              "FY17 Approp":{
+                "value":85355232,
+                "filter":"delimiter",
+                "align":"right"
+              },
+              "FY18 Budget":{
                 "value":75148322,
-                "filter":"delimiter",
-                "align":"right"
-              },
-              "FY18 Actual":{
-                "value":92259123,
                 "filter":"delimiter",
                 "align":"right"
               }
@@ -276,22 +269,22 @@
                 "link":"/operating-budget/cabinets/information-and-technology"
               },
               "FY15 Actual":{
-                "value":34032164,
+                "value":31207065,
                 "filter":"delimiter",
                 "align":"right"
               },
               "FY16 Actual":{
-                "value":33695699,
+                "value":34032164,
                 "filter":"delimiter",
                 "align":"right"
               },
-              "FY17 Actual":{
-                "value":30264190,
+              "FY17 Approp":{
+                "value":30422975,
                 "filter":"delimiter",
                 "align":"right"
               },
-              "FY18 Actual":{
-                "value":30458110,
+              "FY18 Budget":{
+                "value":29751967,
                 "filter":"delimiter",
                 "align":"right"
               }
@@ -302,22 +295,22 @@
                 "link":"/operating-budget/cabinets/mayors-office"
               },
               "FY15 Actual":{
-                "value":13093787,
+                "value":12762113,
                 "filter":"delimiter",
                 "align":"right"
               },
               "FY16 Actual":{
-                "value":13706841,
+                "value":13093787,
                 "filter":"delimiter",
                 "align":"right"
               },
-              "FY17 Actual":{
-                "value":16243233,
+              "FY17 Approp":{
+                "value":15394267,
                 "filter":"delimiter",
                 "align":"right"
               },
-              "FY18 Actual":{
-                "value":17468532,
+              "FY18 Budget":{
+                "value":16210603,
                 "filter":"delimiter",
                 "align":"right"
               }
@@ -328,22 +321,22 @@
                 "link":"/operating-budget/cabinets/non-mayoral-departments"
               },
               "FY15 Actual":{
-                "value":6610436,
+                "value":6383774,
                 "filter":"delimiter",
                 "align":"right"
               },
               "FY16 Actual":{
-                "value":6508843,
+                "value":6610436,
                 "filter":"delimiter",
                 "align":"right"
               },
-              "FY17 Actual":{
-                "value":6851880,
+              "FY17 Approp":{
+                "value":6829647,
                 "filter":"delimiter",
                 "align":"right"
               },
-              "FY18 Actual":{
-                "value":6909126,
+              "FY18 Budget":{
+                "value":6826877,
                 "filter":"delimiter",
                 "align":"right"
               }
@@ -354,22 +347,22 @@
                 "link":"/operating-budget/cabinets/operations"
               },
               "FY15 Actual":{
-                "value":25171888,
+                "value":24933563,
                 "filter":"delimiter",
                 "align":"right"
               },
               "FY16 Actual":{
-                "value":26986148,
+                "value":25171888,
                 "filter":"delimiter",
                 "align":"right"
               },
-              "FY17 Actual":{
-                "value":24093435,
+              "FY17 Approp":{
+                "value":25151866,
                 "filter":"delimiter",
                 "align":"right"
               },
-              "FY18 Actual":{
-                "value":25615517,
+              "FY18 Budget":{
+                "value":23811818,
                 "filter":"delimiter",
                 "align":"right"
               }
@@ -380,22 +373,22 @@
                 "link":"/operating-budget/cabinets/public-safety"
               },
               "FY15 Actual":{
-                "value":590061083,
+                "value":581610559,
                 "filter":"delimiter",
                 "align":"right"
               },
               "FY16 Actual":{
-                "value":618727947,
+                "value":590061083,
                 "filter":"delimiter",
                 "align":"right"
               },
-              "FY17 Actual":{
-                "value":644148088,
+              "FY17 Approp":{
+                "value":615121696,
                 "filter":"delimiter",
                 "align":"right"
               },
-              "FY18 Actual":{
-                "value":661077160,
+              "FY18 Budget":{
+                "value":633767476,
                 "filter":"delimiter",
                 "align":"right"
               }
@@ -406,22 +399,22 @@
                 "link":"/operating-budget/cabinets/streets"
               },
               "FY15 Actual":{
-                "value":130479987,
+                "value":149974323,
                 "filter":"delimiter",
                 "align":"right"
               },
               "FY16 Actual":{
-                "value":135988436,
+                "value":130479987,
                 "filter":"delimiter",
                 "align":"right"
               },
-              "FY17 Actual":{
-                "value":140438549,
+              "FY17 Approp":{
+                "value":137011074,
                 "filter":"delimiter",
                 "align":"right"
               },
-              "FY18 Actual":{
-                "value":143577862,
+              "FY18 Budget":{
+                "value":140205055,
                 "filter":"delimiter",
                 "align":"right"
               }

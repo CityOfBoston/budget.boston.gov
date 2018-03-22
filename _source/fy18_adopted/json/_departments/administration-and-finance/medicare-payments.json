@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_departments~Administration and Finance~medicare-payments.json",
-  "source_time":"20180315173830",
+  "source_time":"20180321121113",
   "source_year":"18",
   "name":"Medicare Payments",
   "parent":"Administration & Finance",
@@ -36,18 +36,18 @@
       {
         "name":"Medicare Payments",
         "line_type":"data",
-        "fy-2":7989395,
-        "fy-1":8607598,
-        "fy-0":11000000,
+        "fy-2":8577221,
+        "fy-1":7989395,
+        "fy-0":10000000,
         "fy+1":11000000,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":7989395,
-        "fy-1":8607598,
-        "fy-0":11000000,
+        "fy-2":8577221,
+        "fy-1":7989395,
+        "fy-0":10000000,
         "fy+1":11000000
       }
     ]
@@ -64,9 +64,9 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":7989395,
-      "fy-1":8607598,
-      "fy-0":11000000,
+      "fy-2":8577221,
+      "fy-1":7989395,
+      "fy-0":10000000,
       "fy+1":11000000
     },
     {
@@ -80,9 +80,9 @@
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":7989395,
-      "fy-1":8607598,
-      "fy-0":11000000,
+      "fy-2":8577221,
+      "fy-1":7989395,
+      "fy-0":10000000,
       "fy+1":11000000
     }
   ]

@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~community-library-services.json",
-  "source_time":"20180315173900",
+  "source_time":"20180321121126",
   "source_year":"18",
   "appropriation_code":"Organization 110300",
   "description":[
@@ -32,26 +32,26 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":1722906,
-      "fy-1":1983446,
-      "fy-0":1703023,
-      "fy+1":1869148
+      "fy-2":1957589,
+      "fy-1":1722906,
+      "fy-0":2172365,
+      "fy+1":1703023
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":4590,
-      "fy-1":6665,
+      "fy-2":5587,
+      "fy-1":4590,
       "fy-0":0,
       "fy+1":0
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":1727496,
-      "fy-1":1990111,
-      "fy-0":1703023,
-      "fy+1":1869148
+      "fy-2":1963176,
+      "fy-1":1727496,
+      "fy-0":2172365,
+      "fy+1":1703023
     }
   ],
   "program_history_by_account":{
@@ -69,17 +69,17 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":1722906,
-        "fy-1":1983446,
-        "fy-0":1703023,
-        "fy+1":1869148,
-        "diff":166125
+        "fy-2":1957589,
+        "fy-1":1722906,
+        "fy-0":2172365,
+        "fy+1":1703023,
+        "diff":-469342
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":4590,
-        "fy-1":6665,
+        "fy-2":5587,
+        "fy-1":4590,
         "fy-0":0,
         "fy+1":0,
         "diff":0
@@ -123,11 +123,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":1727496,
-        "fy-1":1990111,
-        "fy-0":1703023,
-        "fy+1":1869148,
-        "diff":166125
+        "fy-2":1963176,
+        "fy-1":1727496,
+        "fy-0":2172365,
+        "fy+1":1703023,
+        "diff":-469342
       }
     ]
   },

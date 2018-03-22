@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~.json",
-  "source_time":"20180315173823",
+  "source_time":"20180321121110",
   "source_year":"18",
   "appropriation_code":"Organization 148100",
   "description":[
@@ -40,18 +40,18 @@
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":191265768,
-      "fy-1":205281017,
-      "fy-0":216180122,
-      "fy+1":220979251
+      "fy-2":180006658,
+      "fy-1":191265768,
+      "fy-0":206208108,
+      "fy+1":216180122
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":191265768,
-      "fy-1":205281017,
-      "fy-0":216180122,
-      "fy+1":220979251
+      "fy-2":180006658,
+      "fy-1":191265768,
+      "fy-0":206208108,
+      "fy+1":216180122
     }
   ],
   "program_history_by_account":{
@@ -96,11 +96,11 @@
       {
         "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":191265768,
-        "fy-1":205281017,
-        "fy-0":216180122,
-        "fy+1":220979251,
-        "diff":4799129
+        "fy-2":180006658,
+        "fy-1":191265768,
+        "fy-0":206208108,
+        "fy+1":216180122,
+        "diff":9972014
       },
       {
         "line_title":"Equipment",
@@ -123,11 +123,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":191265768,
-        "fy-1":205281017,
-        "fy-0":216180122,
-        "fy+1":220979251,
-        "diff":4799129
+        "fy-2":180006658,
+        "fy-1":191265768,
+        "fy-0":206208108,
+        "fy+1":216180122,
+        "diff":9972014
       }
     ]
   }

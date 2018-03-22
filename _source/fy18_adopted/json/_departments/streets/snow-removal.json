@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_departments~Streets~snow-removal.json",
-  "source_time":"20180315174158",
+  "source_time":"20180321121301",
   "source_year":"18",
   "name":"Snow Removal",
   "parent":"Streets",
@@ -36,19 +36,19 @@
       {
         "name":"Removal of Snow",
         "line_type":"data",
-        "fy-2":14785551,
-        "fy-1":24874567,
+        "fy-2":38453034,
+        "fy-1":14785551,
         "fy-0":22563964,
-        "fy+1":24067875,
+        "fy+1":22563964,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":14785551,
-        "fy-1":24874567,
+        "fy-2":38453034,
+        "fy-1":14785551,
         "fy-0":22563964,
-        "fy+1":24067875
+        "fy+1":22563964
       }
     ]
   },
@@ -72,18 +72,18 @@
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":14785551,
-      "fy-1":24874567,
+      "fy-2":38453034,
+      "fy-1":14785551,
       "fy-0":22563964,
-      "fy+1":24067875
+      "fy+1":22563964
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":14785551,
-      "fy-1":24874567,
+      "fy-2":38453034,
+      "fy-1":14785551,
       "fy-0":22563964,
-      "fy+1":24067875
+      "fy+1":22563964
     }
   ],
   "authorizing_statutes":[
@@ -113,20 +113,20 @@
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":14688846,
-        "fy-1":24475689,
-        "fy-0":22178292,
-        "fy+1":23554855,
-        "diff":1376563
+        "fy-2":38257391,
+        "fy-1":14688846,
+        "fy-0":22119592,
+        "fy+1":22178292,
+        "diff":58700
       },
       {
         "line_title":"Supplies & Materials",
         "line_type":"data",
         "fy-2":0,
         "fy-1":0,
-        "fy-0":52000,
-        "fy+1":57000,
-        "diff":5000
+        "fy-0":0,
+        "fy+1":52000,
+        "diff":52000
       },
       {
         "line_title":"Current Chgs & Oblig",
@@ -140,11 +140,11 @@
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":96705,
-        "fy-1":398878,
-        "fy-0":333672,
-        "fy+1":456020,
-        "diff":122348
+        "fy-2":195643,
+        "fy-1":96705,
+        "fy-0":444372,
+        "fy+1":333672,
+        "diff":-110700
       },
       {
         "line_title":"Other",
@@ -158,11 +158,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":14785551,
-        "fy-1":24874567,
+        "fy-2":38453034,
+        "fy-1":14785551,
         "fy-0":22563964,
-        "fy+1":24067875,
-        "diff":1503911
+        "fy+1":22563964,
+        "diff":0
       }
     ]
   }

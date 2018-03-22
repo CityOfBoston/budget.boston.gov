@@ -14,7 +14,7 @@
   "section_type_short":"C",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~economic-development.json",
-  "source_time":"20180315173910",
+  "source_time":"20180321121132",
   "source_year":"18",
   "mission":[
     "The mission of the Economic Development Cabinet is to lead a broad effort to streamline and support areas of focus that contribute to Boston&rsquo;s economy including tourism, jobs and employment, business development, and real estate development. The cabinet will concern itself with increasing transparency and promoting accessibility for all Bostonians, especially women- and minority-owned businesses and local businesses, to share in and benefit from the economic boom in Boston."
@@ -37,44 +37,44 @@
     "fy+1":"FY18 Budget",
     "data":[
       {
-        "department":"consumer-affairs-and-licensing",
+        "department":"Consumer Affairs and Licensing",
         "line_type":"data",
-        "fy-2":379272,
-        "fy-1":1059353,
-        "fy-0":1120512,
-        "fy+1":1173505
+        "fy-2":459930,
+        "fy-1":379272,
+        "fy-0":1177027,
+        "fy+1":1116728
       },
       {
-        "department":"licensing-board",
+        "department":"Licensing Board",
         "line_type":"data",
-        "fy-2":637735,
-        "fy-1":0,
+        "fy-2":704753,
+        "fy-1":637735,
         "fy-0":0,
         "fy+1":0
       },
       {
-        "department":"office-of-economic-development",
+        "department":"Office of Economic Development",
         "line_type":"data",
-        "fy-2":1559781,
-        "fy-1":2518724,
-        "fy-0":2480005,
-        "fy+1":2849631
+        "fy-2":1552694,
+        "fy-1":1559781,
+        "fy-0":2460613,
+        "fy+1":2473392
       },
       {
-        "department":"office-of-tourism",
+        "department":"Office of Tourism",
         "line_type":"data",
-        "fy-2":1092949,
-        "fy-1":1390008,
-        "fy-0":1326162,
-        "fy+1":1421758
+        "fy-2":1011559,
+        "fy-1":1092949,
+        "fy-0":1399709,
+        "fy+1":1326162
       },
       {
         "total":"Total",
         "line_type":"total",
-        "fy-2":3669737,
-        "fy-1":4968085,
-        "fy-0":4926679,
-        "fy+1":5444894
+        "fy-2":3728936,
+        "fy-1":3669737,
+        "fy-0":5037349,
+        "fy+1":4916282
       }
     ],
     "capital_budget_expenditures":[
@@ -125,34 +125,34 @@
       {
         "title":"Consumer Affairs & Licensing",
         "line_type":"data",
-        "fy-2":155748,
-        "fy-1":179175,
+        "fy-2":163311,
+        "fy-1":155748,
         "fy-0":156000,
-        "fy+1":7227
+        "fy+1":156000
       },
       {
         "title":"Office of Economic Development",
         "line_type":"data",
-        "fy-2":9093,
-        "fy-1":7872870,
-        "fy-0":13303419,
-        "fy+1":9535119
+        "fy-2":0,
+        "fy-1":9093,
+        "fy-0":14728089,
+        "fy+1":13303419
       },
       {
         "title":"Office of Tourism",
         "line_type":"data",
-        "fy-2":437760,
-        "fy-1":473196,
+        "fy-2":351072,
+        "fy-1":437760,
         "fy-0":240000,
-        "fy+1":0
+        "fy+1":240000
       },
       {
         "total":"Total Cabinet",
         "line_type":"total",
-        "fy-2":602601,
-        "fy-1":8525241,
-        "fy-0":13699419,
-        "fy+1":9542346
+        "fy-2":514383,
+        "fy-1":602601,
+        "fy-0":15124089,
+        "fy+1":13699419
       }
     ]
   }
