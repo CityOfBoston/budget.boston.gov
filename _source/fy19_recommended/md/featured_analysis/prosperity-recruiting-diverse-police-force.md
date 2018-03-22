@@ -6,7 +6,7 @@ card:
   - title: Recruiting a Diverse Police Force
     body: >
       Boston will add 20 police cadets for a pipeline of diverse young people
-    img: /img/featured_analysis/fa-prosperity-recruiting-diverse-police-force.jpg
+    img: /img/fa-prosperity-recruiting-diverse-police-force.jpg
     link: /featured-analysis/prosperity-recruiting-diverse-police-force/
 components:
 - breadcrumbs:

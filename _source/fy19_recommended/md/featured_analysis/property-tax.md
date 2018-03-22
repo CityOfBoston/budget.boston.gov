@@ -6,7 +6,7 @@ card:
   - title: Property Tax Revenue
     body: >
       Property tax, due to rising new growth and stagnant state aid, is a larger part of Boston’s revenue.
-    img: /img/featured_analysis/fa-property-tax.jpg
+    img: /img/fa-property-tax.jpg
     link: /featured-analysis/property-tax
 components:
 - breadcrumbs:
@@ -79,7 +79,7 @@ components:
       in FY85 at $8.4 million and reaching $50 million in FY18.</p>
 - text_col_2:
   - col:
-    - img: /img/featured_analysis/pages/property-tax-trends.png
+    - img: /img/pages/property-tax-trends.png
   - col: >
       <h5>Property tax growth</h5>
       <p>Property tax growth from new growth has exceeded that from the allowable 2.5% 
@@ -125,7 +125,7 @@ components:
       enforcement. The property tax collection rate was 99.3% of the FY16 gross 
       tax levy as of June 30, 2016.</p>
   - col:
-    - img: /img/featured_analysis/pages/property-tax-rate-below-levy-ceiling.png
+    - img: /img/pages/property-tax-rate-below-levy-ceiling.png
 - grid:
   - grid_title: More budget analysis
   - card: /featured-analysis/state-aid/

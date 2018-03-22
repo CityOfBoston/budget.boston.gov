@@ -6,7 +6,7 @@ card:
   - title: Revenue Estimates
     body: >
       How does Boston fund the city services you care about? Find out here.
-    img: /img/featured_analysis/fa-revenue-estimates.jpg
+    img: /img/fa-revenue-estimates.jpg
     link: /featured-analysis/revenue-estimates
 components:
 - breadcrumbs:
@@ -26,7 +26,7 @@ components:
     description: >
       Local sources continue to drive revenue growth in FY18, as property 
       tax and local receipts make up 93% of revenue growth over FY17.
-    right_image: /img/featured_analysis/pages/fy18-estimated-revenue.png
+    right_image: /img/pages/fy18-estimated-revenue.png
     sidebar_menu: true    
 - text_block:
   - title: Breaking down revenue

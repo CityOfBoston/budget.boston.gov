@@ -6,7 +6,7 @@ card:
   - title: Performance management
     body: >
       The City practies data-driven decision making at all levels. Learn about the results.
-    img: /img/featured_analysis/fa-performance-management.png
+    img: /img/fa-performance-management.png
     link: /featured-analysis/performance-management/
 components:
 - breadcrumbs:
@@ -69,12 +69,12 @@ components:
   - col: 
     - blurb: >
         <p>We're also investigating how to increase ambulance response efficiency and levels of care for some of the City's most vulnerable residents.</p>
-    - img: /img/featured_analysis/pages/ems-responses.png
+    - img: /img/pages/ems-responses.png
 - text_col_2:
   - col: 
     - blurb: >
         <br>
-    - img: /img/featured_analysis/pages/311-office-performance.png
+    - img: /img/pages/311-office-performance.png
   - col: >
       <h5>311 Call Center Improvements</h5>
       <p>After noticing the 311 Call Center's CityScore was below 1, we worked with the team to build 

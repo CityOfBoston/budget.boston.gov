@@ -6,7 +6,7 @@ card:
   - title: Imagine Boston Open Space
     body: >
       The City plans to carry out Imagine Boston 2030 open space goals
-    img: /img/featured_analysis/fa-streets-launching-go-boston-2030.jpg
+    img: /img/fa-streets-launching-go-boston-2030.jpg
     link: /featured-analysis/open-space-imagine-boston-2030-goals/
 components:
 - breadcrumbs:

@@ -6,7 +6,7 @@ card:
   - title: BPS Enrollment
     body: >
       Student enrollment is the foundation of the BPS budget. See why.
-    img: /img/featured_analysis/fa-bps-enrollment.jpg
+    img: /img/fa-bps-enrollment.jpg
     link: /featured-analysis/bps-enrollment
 components:
 - breadcrumbs:

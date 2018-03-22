@@ -6,7 +6,7 @@ card:
   - title: BPS External Funds
     body: >
       BPS receives revenue from external sources. Learn what these sources are and what they support.
-    img: /img/featured_analysis/fa-bps-external-funds.jpg
+    img: /img/fa-bps-external-funds.jpg
     link: /featured-analysis/bps-external-funds/
 components:
 - breadcrumbs:
@@ -37,7 +37,7 @@ components:
   - title: Overview
 - text_col_2:
   - col: 
-    - img: /img/featured_analysis/pages/external-funds-of-total-funds.png
+    - img: /img/pages/external-funds-of-total-funds.png
   - col: >
       <h5>Title I entitlement grant</h5>
       <p>One of the largest sources of federal revenue for BPS is the <a href="http://www.bostonpublicschools.org/Page/5355">Title I entitlement grant</a>. 

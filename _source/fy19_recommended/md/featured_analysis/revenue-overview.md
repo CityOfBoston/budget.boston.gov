@@ -6,7 +6,7 @@ card:
   - title: Revenue Overview
     body: >
       The City will generate over $3 billion in revenue for the first time in history. Find out how.
-    img: /img/featured_analysis/fa-revenue-overview.jpg
+    img: /img/fa-revenue-overview.jpg
     link: /featured-analysis/revenue-overview
 components:
 - breadcrumbs:
@@ -32,7 +32,7 @@ components:
       and are driven by an expanding economy. <blockquote>Ninety-three 
       percent of tax revenue growth is from locally derived sources such 
       as property tax and other local revenue.</blockquote>
-    right_image: /img/featured_analysis/pages/fy18-estimated-revenue.png
+    right_image: /img/pages/fy18-estimated-revenue.png
     sidebar_menu: true 
 - text_col_2:
   - col: >

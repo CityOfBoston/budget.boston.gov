@@ -6,7 +6,7 @@ card:
   - title: Data Analytics at Work
     body: >
       Data Analytics identifies opportunities to improve services through data
-    img: /img/featured_analysis/fa-technology-data-analytics.jpg
+    img: /img/fa-technology-data-analytics.jpg
     link: /featured-analysis/technology-data-analytics/
 components:
 - breadcrumbs:

@@ -6,7 +6,7 @@ card:
   - title: Departmental Revenue
     body: >
       Learn how the City is maximizing local revenue sources.
-    img: /img/featured_analysis/fa-misc-dept-revenue.jpg
+    img: /img/fa-misc-dept-revenue.jpg
     link: /featured-analysis/misc-dept-revenue
 components:
 - breadcrumbs:
@@ -34,7 +34,7 @@ components:
       in FY15 and $8.2 million in FY16. <blockquote>Municipal Medicaid reimbursement 
       is expected to reach budget of $7 million in FY17 and increase to $7.25 
       million in FY18.</blockquote></p>
-    right_image: /img/featured_analysis/pages/recurring-local-receipts.png
+    right_image: /img/pages/recurring-local-receipts.png
 - grid:
   - grid_title: More budget analysis
   - card: /featured-analysis/revenue-estimates/

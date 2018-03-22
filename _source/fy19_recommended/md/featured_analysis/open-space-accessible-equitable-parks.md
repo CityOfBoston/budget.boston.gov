@@ -6,7 +6,7 @@ card:
   - title: Accessible and Equitable Parks
     body: >
       The City is investing in Boston neighborhood parks
-    img: /img/featured_analysis/fa-open-space-accessible-equitable-parks.jpg
+    img: /img/fa-open-space-accessible-equitable-parks.jpg
     link: /featured-analysis/open-space-accessible-equitable-parks/
 components:
 - breadcrumbs:

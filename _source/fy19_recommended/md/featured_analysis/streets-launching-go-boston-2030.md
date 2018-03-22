@@ -6,7 +6,7 @@ card:
   - title: Launching Go Boston 2030
     body: >
       The Capital Plan will invest $709 million over five years in Go Boston 2030
-    img: /img/featured_analysis/fa-open-space-imagine-boston-2030-goals.jpg
+    img: /img/fa-open-space-imagine-boston-2030-goals.jpg
     link: /featured-analysis/streets-launching-go-boston-2030/
 components:
 - breadcrumbs:

@@ -6,7 +6,7 @@ card:
   - title: Licenses and Permits
     body: >
       FY18 Budget estimates permit revenue growth from commercial and residential real estate development.
-    img: /img/featured_analysis/fa-licenses-and-permits.jpg
+    img: /img/fa-licenses-and-permits.jpg
     link: /featured-analysis/licenses-and-permits
 components:
 - breadcrumbs:
@@ -42,7 +42,7 @@ components:
       Alcoholic beverage licenses are budgeted at $4.2 million FY17 and 
       $4.5 million in FY18.</p>
   - col: 
-    - img: /img/featured_analysis/pages/recurring-local-receipts.png
+    - img: /img/pages/recurring-local-receipts.png
 - grid:
   - grid_title: More budget analysis
   - card: /featured-analysis/revenue-estimates/

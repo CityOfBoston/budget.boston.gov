@@ -6,7 +6,7 @@ card:
   - title: Education Overview
     body: >
       Funding for Education is growing by $57.8 million (4.8%) over FY17.
-    img: /img/featured_analysis/fa-education-overview.jpg
+    img: /img/fa-education-overview.jpg
     link: /featured-analysis/education-overview/
 components:
 - breadcrumbs:

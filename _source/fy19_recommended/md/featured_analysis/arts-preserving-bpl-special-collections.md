@@ -6,7 +6,7 @@ card:
   - title: Preserving Special Collections
     body: >
       Boston Public Library will launch a project to preserve Special Collections. 
-    img: /img/featured_analysis/fa-arts-preserving-bpl-special-collections.jpg
+    img: /img/fa-arts-preserving-bpl-special-collections.jpg
     link: /featured-analysis/arts-preserving-bpl-special-collections
 components:
 - breadcrumbs:

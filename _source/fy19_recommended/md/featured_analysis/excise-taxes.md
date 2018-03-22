@@ -6,7 +6,7 @@ card:
   - title: Excise Tax Revenue
     body: >
       Boston is projecting strong room occupancy and meals excise revenue.
-    img: /img/featured_analysis/fa-excise-taxes.jpg
+    img: /img/fa-excise-taxes.jpg
     link: /featured-analysis/excise-taxes
 components:
 - breadcrumbs:
@@ -80,7 +80,7 @@ components:
         the previous quarter, but not less than five cents per gallon. Increases in 
         fuel prices lead to increased jet fuel excise revenue. Jet fuel prices have 
         decreased sharply from their peak in FY12:</p>
-    - img: /img/featured_analysis/pages/recurring-local-receipts.png
+    - img: /img/pages/recurring-local-receipts.png
     - blurb: > 
         <ul>
         <li>Jet fuel excise revenue totaled $29.7 million in FY15 and $36.8 million in FY16 due to a late payment from FY15.</li>

@@ -6,7 +6,7 @@ card:
   - title: Debt Management
     body: >
       Effective debt management policies keeps the Capital Plan affordable. Learn why.
-    img: /img/featured_analysis/fa-debt-management-policies-and-debt-implications-of-plan.jpg
+    img: /img/fa-debt-management-policies-and-debt-implications-of-plan.jpg
     link: /featured-analysis/debt-management-policies-and-debt-implications-of-plan
 components:
 - breadcrumbs:

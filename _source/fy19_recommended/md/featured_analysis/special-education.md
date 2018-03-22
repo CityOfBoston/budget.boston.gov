@@ -6,7 +6,7 @@ card:
   - title: Special Education
     body: >
       Learn how much of the FY18 BPS budgeted is dedicated to special education.
-    img: /img/featured_analysis/fa-education-legislation.jpg
+    img: /img/fa-education-legislation.jpg
     link: /featured-analysis/special-education/
 components:
 - breadcrumbs:

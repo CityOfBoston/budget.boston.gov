@@ -6,7 +6,7 @@ card:
   - title: Urban Redevelopment Revenue
     body: >
       BPDA guides development through its urban renewal powers granted under MGL Chapters 121A and 121B.
-    img: /img/featured_analysis/fa-urban-redevelopment-ch-121a.jpg
+    img: /img/fa-urban-redevelopment-ch-121a.jpg
     link: /featured-analysis/urban-redevelopment-ch-121a
 components:
 - breadcrumbs:
@@ -55,7 +55,7 @@ components:
       Section 6A collections to reach $15 million in both FY17 and 
       FY18.</blockquote></p>
   - col: >
-    img: /img/featured_analysis/pages/recurring-local-receipts.jpg
+    img: /img/pages/recurring-local-receipts.jpg
 - grid:
   - grid_title: More budget analysis
   - card: /featured-analysis/revenue-estimates/

@@ -6,7 +6,7 @@ card:
   - title: Community Libraries
     body: >
       Boston is revitalizing branch libraries throughout Boston's neighborhoods.
-    img: /img/featured_analysis/fa-arts-thriving-community-libraries.jpg
+    img: /img/fa-arts-thriving-community-libraries.jpg
     link: /featured-analysis/arts-thriving-community-libraries
 components:
 - breadcrumbs:

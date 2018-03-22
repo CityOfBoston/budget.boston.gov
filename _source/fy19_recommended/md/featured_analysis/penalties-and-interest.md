@@ -6,7 +6,7 @@ card:
   - title: Penalties and Interest Revenue
     body: >
       Penalties and interest are assessed for late payments.
-    img: /img/featured_analysis/fa-penalties-and-interest.jpg
+    img: /img/fa-penalties-and-interest.jpg
     link: /featured-analysis/penalties-and-interest/
 components:
 - breadcrumbs:
@@ -29,7 +29,7 @@ components:
       in FY15 and $14.5 million in FY16. Actual penalty and interest 
       collections for FY17 will exceed the budget of $8.5 million and 
       are projected to be $14.5 million in FY18.
-    right_image: /img/featured_analysis/pages/recurring-local-receipts.png
+    right_image: /img/pages/recurring-local-receipts.png
     sidebar_menu: true
 - grid:
   - grid_title: More budget analysis

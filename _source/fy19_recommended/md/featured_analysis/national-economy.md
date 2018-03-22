@@ -6,7 +6,7 @@ card:
   - title: National Economy
     body: >
       Economic indicators show positive real GDP growth and an improving unemployment rate.
-    img: /img/featured_analysis/fa-national-economy.jpg
+    img: /img/fa-national-economy.jpg
     link: /featured-analysis/national-economy/
 components:
 - breadcrumbs:
@@ -47,7 +47,7 @@ components:
         of 2016, real GDP growth has been positive but only averaging 0.5%. The Federal Reserve 
         reaffirmed estimates of moderate economic growth, with real GDP forecast to grow between 
         1.7% to 2.3% for the calendar year 2017 and 1.7% to 2.4% for 2018.</p>
-    - img: /img/featured_analysis/pages/real-gdp-growth.png
+    - img: /img/pages/real-gdp-growth.png
     - blurb: >
         <h5>Unemployment rate improving</h5>
         <p>The seasonally adjusted unemployment rate in the U.S. has been steadily decreasing 
@@ -55,14 +55,14 @@ components:
         recent low. <blockquote>According to Federal Reserve estimates, the unemployment rate is 
         expected to continue improving, falling to a range 4.4% to 4.7% in calendar year 2017 
         and to a range of 4.2% to 4.7% in 2018.</blockquote></p>
-    - img: /img/featured_analysis/pages/unemployment-rates.png
+    - img: /img/pages/unemployment-rates.png
   - col:
     - blurb: >
         <h5>Inflation estimates</h5>
         <p>Inflation has been below the Federal Reserve’s target of 2%. The Federal Reserve 
         projects that inflation will range from 1.7% to 2.1% in 2017 and range from 1.8% to 
         2.1% in 2018.</p>
-    - img: /img/featured_analysis/pages/federal-funds-rate-changes.png
+    - img: /img/pages/federal-funds-rate-changes.png
     - blurb: >
         <h5>Federal funds rate</h5>
         <p>Despite the improvements in the labor market and the expectation that inflation would 

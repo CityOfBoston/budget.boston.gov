@@ -6,7 +6,7 @@ card:
   - title: BPS Spending Pressures
     body: >
       Learn how BPS spending compares to other districts.
-    img: /img/featured_analysis/fa-bps-spending-pressures.jpg
+    img: /img/fa-bps-spending-pressures.jpg
     link: /featured-analysis/bps-spending-pressures
 components:
 - breadcrumbs:

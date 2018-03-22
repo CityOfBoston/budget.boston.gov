@@ -6,7 +6,7 @@ card:
   - title: Interest on Investments
     body: >
       Interested in interest rates? Learn more here.
-    img: /img/featured_analysis/fa-interest-on-investments.jpg
+    img: /img/fa-interest-on-investments.jpg
     link: /featured-analysis/interest-on-investments
 components:
 - breadcrumbs:
@@ -40,7 +40,7 @@ components:
         totaled $61 thousand in FY15 and $184.3 thousand in FY16. The City projects interest 
         income will exceed the $200 thousand budgeted in FY17.</blockquote></p>
   - col: 
-    - img: /img/featured_analysis/pages/recurring-local-receipts.png
+    - img: /img/pages/recurring-local-receipts.png
 - grid:
   - grid_title: More budget analysis
   - card: /featured-analysis/revenue-estimates/

@@ -6,7 +6,7 @@ card:
   - title: Financing the FY18-FY22 Capital Plan
     body: >
       City bonds support 60% of the Capital Plan. Learn more about how the City funds the plan.
-    img: /img/featured_analysis/fa-financing-fy18-fy22-capital-plan.jpg
+    img: /img/fa-financing-fy18-fy22-capital-plan.jpg
     link: /featured-analysis/financing-fy18-fy22-capital-plan
 components:
 - breadcrumbs:

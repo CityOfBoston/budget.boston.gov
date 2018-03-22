@@ -6,7 +6,7 @@ card:
   - title: State Education Aid
     body: >
       State education aid has not kept pace with Boston's investment in education
-    img: /img/featured_analysis/fa-education-aid.jpg
+    img: /img/fa-education-aid.jpg
     link: /featured-analysis/education-aid
 components:
 - breadcrumbs:
@@ -46,7 +46,7 @@ components:
         Charter School Tuition Assessment is projected to increase by $17.5 million, 
         or 11.2%, over the FY17 budget, as 10,599 students are projected to attend a 
         Commonwealth Charter School in FY18.</blockquote></p>
-    - img: /img/featured_analysis/pages/enrollment-net-cost.png
+    - img: /img/pages/enrollment-net-cost.png
     - blurb: >
         <p>Boston has seen its charter school costs rise dramatically since the enactment 
         of the 2010 Achievement Gap Legislation (155% or $106 million between 2011 and 
@@ -74,7 +74,7 @@ components:
         reimbursement which is meant to ease transition costs. <blockquote>In FY15 the cost was 
         $104.6 million and in FY16, $120.3 million. In FY17 the City has budgeted a $136.2 million 
         net impact, and in FY17, $150.7 million.</blockquote></p>
-    - img: /img/featured_analysis/pages/net-charter-school-costs.png
+    - img: /img/pages/net-charter-school-costs.png
 - grid:
   - grid_title: More budget analysis
   - card: /featured-analysis/state-aid/

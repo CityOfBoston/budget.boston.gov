@@ -6,7 +6,7 @@ card:
   - title: Available Funds
     body: >
       The City can make transfers to the General Fund from Available Funds.
-    img: /img/featured_analysis/fa-available-funds.jpg
+    img: /img/fa-available-funds.jpg
     link: /featured-analysis/available-funds
 components:
 - breadcrumbs:
@@ -50,7 +50,7 @@ components:
         <p>The City expects to transfer $22.5 million from the parking meter fund to the 
         general fund in FY17 and FY18. The City also plans to transfer $950 thousand 
         from the cemetery trust fund to the General Fund in FY17 and in FY18.</p>
-    - img: /img/featured_analysis/pages/recurring-local-receipts.png
+    - img: /img/pages/recurring-local-receipts.png
 - grid:
   - grid_title: More budget analysis
   - card: /financial-management/

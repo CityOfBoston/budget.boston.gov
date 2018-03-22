@@ -6,7 +6,7 @@ card:
   - title: State Revenue
     body: >
       State revenue, second largest revenue source, is a decreasing share of Boston’s recurring revenue.
-    img: /img/featured_analysis/fa-state-aid.jpg
+    img: /img/fa-state-aid.jpg
     link: /featured-analysis/state-aid
 components:
 - breadcrumbs:
@@ -45,10 +45,10 @@ components:
       has rapidly increased since the enactment of the 2010 legislation that expanded the 
       number of charter school seats.</p>
   - col:
-    - img: /img/featured_analysis/pages/change-net-state-aid.png
+    - img: /img/pages/change-net-state-aid.png
 - text_col_2:
   - col:
-    - img: /img/featured_analysis/pages/net-state-aid.png
+    - img: /img/pages/net-state-aid.png
   - col: >
       <h5>Net state aid trending down</h5>
       <p>Net state aid, which is gross state aid revenue minus state assessments, has been 
@@ -75,7 +75,7 @@ components:
       reduction to $175.7 million. The City’s FY18 state aid estimate is based on the 
       Governor’s proposed budget released in January.</p>
   - col:
-    - img: /img/featured_analysis/pages/net-state-aid.png
+    - img: /img/pages/net-state-aid.png
 - grid:
   - grid_title: More budget analysis
   - card: /featured-analysis/education-aid/

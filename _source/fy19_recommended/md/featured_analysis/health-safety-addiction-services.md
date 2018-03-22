@@ -6,7 +6,7 @@ card:
   - title: Access to Addiction Services
     body: >
       Boston is expanding the PAATHS program services to evenings and weekends
-    img: /img/featured_analysis/fa-health-safety-addiction-services.jpg
+    img: /img/fa-health-safety-addiction-services.jpg
     link: /featured-analysis/health-safety-addiction-services
 components:
 - breadcrumbs:

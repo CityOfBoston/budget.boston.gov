@@ -6,7 +6,7 @@ card:
   - title: BPS Operating Budget
     body: >
       Learn about the targeted research-backed investments BPS will make in FY18.
-    img: /img/featured_analysis/fa-education-overview.jpg
+    img: /img/fa-education-overview.jpg
     link: /featured-analysis/bps-operating-budget/
 components:
 - breadcrumbs:

@@ -6,7 +6,7 @@ card:
   - title: State and City Economies
     body: >
       Learn about the state and local economic recovery since the recent recession.
-    img: /img/featured_analysis/fa-state-and-city-economies.jpg
+    img: /img/fa-state-and-city-economies.jpg
     link: /featured-analysis/state-and-city-economies
 components:
 - breadcrumbs:
@@ -27,7 +27,7 @@ components:
     description: >
       The state remains one of the richest in terms of its GDP per capita – $64,017 
       in 2015 – 4th in the nation and 128% of the national average.
-    right_image: /img/featured_analysis/pages/real-gross-product-growth.png
+    right_image: /img/pages/real-gross-product-growth.png
     sidebar_menu: true
 - text_block:
   - title: Unemployment and wages

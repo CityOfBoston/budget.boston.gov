@@ -6,7 +6,7 @@ card:
   - title: Personnel changes
     body: >
       The City carefully monitors personnel changes and targets investments in priority areas. See more.
-    img: /img/featured_analysis/fa-personnel-changes.jpg
+    img: /img/fa-personnel-changes.jpg
     link: /featured-analysis/personnel-changes
 components:
 - breadcrumbs:
@@ -159,5 +159,5 @@ components:
       Approval Process Manager to better manage the Street Lighting division and the small cell program.</p>
 - text_block:
   - body:
-    - img: /img/featured_analysis/pages/full-time-employees-table.png
+    - img: /img/pages/full-time-employees-table.png
 ---

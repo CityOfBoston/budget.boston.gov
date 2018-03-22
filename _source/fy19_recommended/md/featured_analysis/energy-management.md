@@ -6,7 +6,7 @@ card:
   - title: Energy Management
     body: >
       Boston shrinks its energy use and reduces its carbon footprint.  See how.
-    img: /img/featured_analysis/fa-energy-management.jpg
+    img: /img/fa-energy-management.jpg
     link: /featured-analysis/energy-management/
 components:
 - breadcrumbs:

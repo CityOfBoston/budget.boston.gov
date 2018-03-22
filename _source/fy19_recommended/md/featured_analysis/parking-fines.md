@@ -6,7 +6,7 @@ card:
   - title: Parking Fine Revenue
     body: >
       Boston maintains a 92% rate of collection of parking fine tickets.
-    img: /img/featured_analysis/fa-parking-fines.jpg
+    img: /img/fa-parking-fines.jpg
     link: /featured-analysis/parking-fines
 components:
 - breadcrumbs:
@@ -39,7 +39,7 @@ components:
       <p>The City collected parking fine revenue of $57.1 million in FY15 and $57.8 
       in FY16. Parking fine revenue is expected to exceed the $57.0 million budgeted 
       in FY17 and reach $61.3 million in FY18.</p>
-    right_image: /img/featured_analysis/pages/recurring-local-receipts.png
+    right_image: /img/pages/recurring-local-receipts.png
 - grid:
   - grid_title: More budget analysis
   - card: /featured-analysis/revenue-estimates/
