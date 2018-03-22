@@ -8,9 +8,29 @@
   "section_type_short":"S",
   "source_version":"Adopted",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_chapters~executive-summary.json",
-  "source_time":"20180319171305",
+  "source_time":"20180321120329",
   "source_year":"18",
   "components":[
+    {
+      "intro":[
+        {
+          "title":"EXECUTIVE SUMMARY",
+          "sidebar_menu":true,
+          "short_desc":[
+            "\"I am proud to put forth a budget that makes strategic investments to support Boston's neighborhoods, and builds on our strong record of fiscal management.\" - Mayor Martin J. Walsh"
+          ],
+          "description":[
+            "Mayor Martin J. Walsh today presented his Fiscal Year 2018 (FY18) budget proposal, a plan that balances sustainability and increases investments in key initiatives and more fully supports Boston's neighborhoods. The proposed budget:"
+          ],
+          "list":[
+            "builds on the Walsh Administration's strong fiscal management record;",
+            "maintains high levels of support for educating Boston's students and keeping the City of Boston safe;",
+            "expands upon strategic initiatives to achieve cost savings; and",
+            "positions the City to manage through instability at the national level."
+          ]
+        }
+      ]
+    },
     {
       "text_block":[
         {
