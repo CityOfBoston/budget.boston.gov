@@ -1,0 +1,44 @@
+---
+{
+  "cabinet":"Administration and Finance",
+  "debug":"JBDCP",
+  "department":"Budget Management",
+  "file_version":"0.10",
+  "head_name":"Katie Hammer",
+  "head_title":"Director",
+  "name":"Budget Management",
+  "parent":"Administration and Finance",
+  "section_id":91,
+  "section_md5_id":"54229ABFCFA5649E7003B83DD4755294",
+  "section_type":"capital_budget",
+  "section_type_short":"L",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "mission":[
+    "The Office of Budget Management (OBM) promotes the high quality delivery of services to Boston&rsquo;s residents in a cost effective way. OBM evaluates City programs and then uses analysis to build, present, and manage the Mayor's operating budget. OBM also cr"
+  ],
+  "description_of_services":[
+    "The Office of Budget Management coordinates the analysis and presentation of the Mayor's operating budget and capital plan. The Office also assembles, analyzes and presents data with respect to revenue and debt management. In addition, the Office assists line departments to evaluate programs and to establish and use performance measures to improve the quality, effectiveness, and efficiency of City services while minimizing the cost of program delivery."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Budget and Management",
+      "strategies":[
+        "Improve use of limited city resources."
+      ]
+    },
+    {
+      "program":"Revenue Monitoring",
+      "strategies":[
+        "Maximize current and future revenues."
+      ]
+    },
+    {
+      "program":"Capital Budgeting",
+      "strategies":[
+        "Improve use of limited city resources."
+      ]
+    }
+  ]
+}
+---

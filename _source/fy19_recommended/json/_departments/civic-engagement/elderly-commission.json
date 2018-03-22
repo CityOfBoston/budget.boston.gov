@@ -1,0 +1,376 @@
+---
+{
+  "debug":"JBD",
+  "publish_subordinates":true,
+  "file_version":"0.10",
+  "section_id":39,
+  "section_md5_id":"D67D8AB4F4C10BF22AA353E27879133C",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "name":"Elderly Commission",
+  "parent":"Civic Engagement",
+  "cabinet":"Civic Engagement",
+  "department":"Elderly Commission",
+  "head_name":"Emily Shea",
+  "head_title":"Commissioner",
+  "appropriation_code":"Appropriation 387",
+  "mission":[
+    "The mission of the Elderly Commission is to enhance the quality of life for Boston's senior citizens through developing, planning, coordinating, implementing, and monitoring the delivery of programs and services to the elderly in an efficient and effective manner. These activities are provided in collaboration with various federal, state, and City agencies, along with neighborhood service providers and senior citizen groups."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Elderly Operations",
+      "debug":"JCO",
+      "strategies":[
+        "Keep older adults engaged, informed and connected to resources, services, and programs"
+      ]
+    },
+    {
+      "program":"Elderly Transportation",
+      "debug":"JCO",
+      "strategies":[
+        "Provide accessible, reliable, discounted and free transportation options to Boston's older adults"
+      ]
+    },
+    {
+      "program":"Programs and Partnerships",
+      "debug":"JCO",
+      "strategies":[
+        "Promote meaningful volunteer engagement opportunities to Boston's older adults",
+        "Set course for successful aging programs, policies and practices in Boston"
+      ]
+    }
+  ],
+  "operating_budget":{
+    "debug":"JPTR",
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "name":"Administration",
+        "line_type":"data",
+        "fy-2":752149,
+        "fy-1":717725,
+        "fy-0":721954,
+        "fy+1":827716,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Operations",
+        "line_type":"data",
+        "fy-2":356280,
+        "fy-1":443576,
+        "fy-0":496159,
+        "fy+1":732514,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Transportation",
+        "line_type":"data",
+        "fy-2":1439809,
+        "fy-1":1387659,
+        "fy-0":1487722,
+        "fy+1":1475859,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Programs and Partnerships",
+        "line_type":"data",
+        "fy-2":546854,
+        "fy-1":522930,
+        "fy-0":527915,
+        "fy+1":142010,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":3095092,
+        "fy-1":3071890,
+        "fy-0":3233750,
+        "fy+1":3178099
+      }
+    ]
+  },
+  "external_funds_budget":{
+    "debug":"JPTR",
+    "table_type":"External Funds",
+    "table_title":"External Funds Budget",
+    "table_header":{
+      "name":"Fund Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "name":"Area Agency On Aging (AAA)",
+        "line_type":"data",
+        "fy-2":3563144,
+        "fy-1":3890312,
+        "fy-0":3716837,
+        "fy+1":3886088,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Elderly Universal Fund",
+        "line_type":"data",
+        "fy-2":53325,
+        "fy-1":53667,
+        "fy-0":82000,
+        "fy+1":85000,
+        "publish_subordinates":true
+      },
+      {
+        "name":"EOEA Formula Grant",
+        "line_type":"data",
+        "fy-2":705298,
+        "fy-1":580116,
+        "fy-0":880879,
+        "fy+1":880879,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Nutrition Services Incentive Program",
+        "line_type":"data",
+        "fy-2":892966,
+        "fy-1":360975,
+        "fy-0":497123,
+        "fy+1":440000,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Prevention Wellness Trust Fund",
+        "line_type":"data",
+        "fy-2":57724,
+        "fy-1":108541,
+        "fy-0":391625,
+        "fy+1":11200,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Retired Senior Volunteers Program",
+        "line_type":"data",
+        "fy-2":104980,
+        "fy-1":128867,
+        "fy-0":130254,
+        "fy+1":130253,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Senior Companion Program",
+        "line_type":"data",
+        "fy-2":216627,
+        "fy-1":253374,
+        "fy-0":250250,
+        "fy+1":250252,
+        "publish_subordinates":true
+      },
+      {
+        "name":"State Elder Lunch Program",
+        "line_type":"data",
+        "fy-2":1052867,
+        "fy-1":1539404,
+        "fy-0":1354928,
+        "fy+1":1363864,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":6646931,
+        "fy-1":6915256,
+        "fy-0":7303896,
+        "fy+1":7047536
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":2623941,
+      "fy-1":2597094,
+      "fy-0":2708686,
+      "fy+1":2692177
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":471151,
+      "fy-1":474796,
+      "fy-0":525064,
+      "fy+1":485922
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":3095092,
+      "fy-1":3071890,
+      "fy-0":3233750,
+      "fy+1":3178099
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Enabling Legislation, CBC Ord. &sect; 12-3.1.",
+    "Powers and Duties, CBC Ord. &sect; 12-3.2."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":2623941,
+        "fy-1":2597094,
+        "fy-0":2708686,
+        "fy+1":2692177,
+        "diff":-16509
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":206793,
+        "fy-1":166190,
+        "fy-0":216034,
+        "fy+1":182545,
+        "diff":-33489
+      },
+      {
+        "line_title":"Supplies and Materials",
+        "line_type":"data",
+        "fy-2":146194,
+        "fy-1":157674,
+        "fy-0":191183,
+        "fy+1":184972,
+        "diff":-6211
+      },
+      {
+        "line_title":"Current Chgs and Oblig",
+        "line_type":"data",
+        "fy-2":68470,
+        "fy-1":66579,
+        "fy-0":61142,
+        "fy+1":61700,
+        "diff":558
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":49694,
+        "fy-1":84353,
+        "fy-0":56705,
+        "fy+1":56705,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":3095092,
+        "fy-1":3071890,
+        "fy-0":3233750,
+        "fy+1":3178099,
+        "diff":-55651
+      }
+    ]
+  },
+  "external_funds":[
+    {
+      "debug":"JEFP",
+      "project":"Area Agency on Aging",
+      "project_mission":[
+        "As Boston's Area Agency on Aging (AAA), the Elderly Commission is a sub-grantee of federal Title III funding through the Massachusetts Executive Office of Elder Affairs. The federal funding source of this annual grant is the Administration on Aging, an agency of the Department of Health and Human Services. The AAA plans and coordinates public, private and voluntary programs to provide the best possible service for Boston&rsquo;s older citizens. The AAA also provides direct funding for elderly-related services throughout Boston. The AAA Unit of the Elderly Commission monitors the agencies providing services and provides technical assistance as needed. The grant awarded in FY17 totaled $3,716,839 started on 10/01/16 and will end on 09/30/17. The FY18 award is $3,886,088."
+      ]
+    },
+    {
+      "debug":"JEFP",
+      "project":"EOEA Formula Award",
+      "project_mission":[
+        "As Boston&rsquo;s Council on Aging, the Elderly Commission receives the formula grant from the Massachusetts Executive Office of Elder Affairs. The annual grant provides for direct services including the community service advocates. The grant also provides resources to the housing unit which provides information, referral and direct assistance to Boston&rsquo;s elder tenants and homeowners. The grant starts on July 01st and ends on June 30th. Both FY17 and FY18 awards are $880,000, or $10 per senior."
+      ]
+    },
+    {
+      "debug":"JEFP",
+      "project":"Elderly Universal Fund",
+      "project_mission":[
+        "The Universal Fund is the repository for funds donated to the Commission on Affairs of the Elderly to support events and services provided by the Commission for the seniors of Boston. The projected amount to be collected in FY18 is $85,000."
+      ]
+    },
+    {
+      "debug":"JEFP",
+      "project":"Nutrition Services Incentive Program",
+      "project_mission":[
+        "The Nutrition Services Incentive Program (NSIP), formerly called the USDA Elder Lunch Program, is received as federal funding through the Massachusetts Executive Office of Elder Affairs. The federal funding source of this annual grant is the Agency on Aging within the U.S. Department of Health and Human Services. The NSIP program is a pass through grant, providing direct funding to nutritional service providers. The grant awarded in FY17 totaling $497,123 started on 10/01/16 and will end on 09/30/17. The FY18 award is $440,000."
+      ]
+    },
+    {
+      "debug":"JEFP",
+      "project":"Prevention and Wellness Trust",
+      "project_mission":[
+        "This annual grant is provided by the Boston Public Health Commission, a body politic and corporate and political subdivision of the Commonwealth of Massachusetts, to the Commission and sub-grantees for the continued operation of prevention and wellness programs to the elderly of Boston. The FY17 award was $391,624 and the remaining portion for FY18 is $11,200."
+      ]
+    },
+    {
+      "debug":"JEFP",
+      "project":"Retired Senior Volunteers Program",
+      "project_mission":[
+        "The federal funding for the Retired Senior Volunteer Program (RSVP) comes from the Corporation for National and Community Service. The purpose of RSVP is to develop a recognized role in the community and a meaningful life in retirement for older adults through significant volunteer services. RSVP recruits and places approximately 500 senior volunteers in opportunities allowing them to use their skills, acquire new skills and explore new interests. Volunteers are partially reimbursed for meals and transportation and receive insurance coverage. Volunteers must be at least 55 years old to participate. The FY17 and FY18 awards are $130,253, and each grant begins on April 1st."
+      ]
+    },
+    {
+      "debug":"JEFP",
+      "project":"Senior Companion Program",
+      "project_mission":[
+        "The Elderly Commission receives federal funding for the Senior Companion Program annually from the Corporation for National and Community Service. The Senior Companion Program offers part-time stipendiary community service opportunities for low-income persons who are 55 years and older. Volunteers provide assistance to adults with exceptional needs, development and disabilities, or other special needs throughout Boston&rsquo;s neighborhoods. These volunteers work 20 hours weekly and receive accident insurance in addition to a meal and travel allowance. The FY17 and FY18 awards are $250,250, and each grant begins on January 1st."
+      ]
+    },
+    {
+      "debug":"JEFP",
+      "project":"State Elder Lunch Program",
+      "project_mission":[
+        "This annual grant is provided by the Massachusetts Executive Office of Elder Affairs for the purpose of providing direct funding to nutritional service providers. This grant is a pass through grant, starting each year on July 1st. The FY17 award was $1,354,928 and the FY18 award is $1,363,864."
+      ]
+    }
+  ]
+}
+---

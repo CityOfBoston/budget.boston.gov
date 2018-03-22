@@ -1,0 +1,213 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Health and Human Services",
+  "department":"Boston Centers for Youth and Families",
+  "file_version":"0.10",
+  "head_name":"William Morales",
+  "head_title":"Manager",
+  "name":"Administrative and Policy",
+  "parent":"Boston Centers for Youth and Families",
+  "section_id":220,
+  "section_md5_id":"EC8CE6ABB3E952A85B8551BA726A1227",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 385100",
+  "description":[
+    "The Administrative Services Division is responsible for the overall operation of BCYF and includes budget and finance, human resources, facilities management, public relations, planning and development and information technology. The division is responsible for ensuring the fiscal integrity and effectiveness of BCYF, training BCYF staff and leveraging additional resources. The division also includes Chief of Health and Human Services and food policy program.   The division works with community centers to build their capacity to serve as neighborhood hubs for services, resources and programming and supports community outreach and partnership development, including the development of local community center site councils."
+  ],
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":11192431,
+      "fy-1":11759703,
+      "fy-0":11107115,
+      "fy+1":11344707
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":2240124,
+      "fy-1":2930746,
+      "fy-0":3474341,
+      "fy+1":3340188
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":13432555,
+      "fy-1":14690449,
+      "fy-0":14581456,
+      "fy+1":14684895
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":11192431,
+        "fy-1":11759703,
+        "fy-0":11107115,
+        "fy+1":11344707,
+        "diff":237592
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":1805125,
+        "fy-1":2434250,
+        "fy-0":3037393,
+        "fy+1":2860992,
+        "diff":-176401
+      },
+      {
+        "line_title":"Supplies and Materials",
+        "line_type":"data",
+        "fy-2":72518,
+        "fy-1":224017,
+        "fy-0":229199,
+        "fy+1":223496,
+        "diff":-5703
+      },
+      {
+        "line_title":"Current Chgs and Oblig",
+        "line_type":"data",
+        "fy-2":113969,
+        "fy-1":112911,
+        "fy-0":103100,
+        "fy+1":153000,
+        "diff":49900
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":248512,
+        "fy-1":159568,
+        "fy-0":104649,
+        "fy+1":102700,
+        "diff":-1949
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":13432555,
+        "fy-1":14690449,
+        "fy-0":14581456,
+        "fy+1":14684895,
+        "diff":103439
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To support health and wellness through community center sports, fitness, and recreation programming"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "debug":"JPM",
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of Communuity Center Visits",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"1,000,000",
+              "fy+1":"975,000"
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of Program participants",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"85,000",
+              "fy+1":"87,500"
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of Programs offered",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"4,425",
+              "fy+1":"4,500"
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of Teen visits",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":"32,000"
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of unique community center visitors",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":"150,000"
+            },
+            {
+              "line_type":"data",
+              "line_data":"% increase in evening visits",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":"2%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"% increase in weekend visits",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":"3%"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

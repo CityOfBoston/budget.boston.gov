@@ -1,0 +1,90 @@
+---
+{
+  "debug":"JBD",
+  "publish_subordinates":false,
+  "file_version":"0.10",
+  "section_id":64,
+  "section_md5_id":"EA5D2F1C4608232E07D3AA3D998E5135",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "name":"Workers' Compensation Fund",
+  "parent":"Administration and Finance",
+  "cabinet":"Administration and Finance",
+  "department":"Workers' Compensation Fund",
+  "head_name":Null,
+  "head_title":Null,
+  "appropriation_code":"Appropriation 341",
+  "mission":[
+    "The Workers' Compensation Fund provides for proper payments of compensation benefits, medical treatment and, if necessary, rehabilitation for employees permanently injured in work related accidents prior to July, 1995, or for employees from former City departments, e.g. Department of Health and Hospitals."
+  ],
+  "operating_budget":{
+    "debug":"JPTR",
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "name":"Workers' Compensation Fund",
+        "line_type":"data",
+        "fy-2":1865720,
+        "fy-1":1328170,
+        "fy-0":2200000,
+        "fy+1":2200000,
+        "publish_subordinates":false
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":1865720,
+        "fy-1":1328170,
+        "fy-0":2200000,
+        "fy+1":2200000
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":84431,
+      "fy-0":0,
+      "fy+1":2200000
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":1865720,
+      "fy-1":1243739,
+      "fy-0":2200000,
+      "fy+1":0
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1865720,
+      "fy-1":1328170,
+      "fy-0":2200000,
+      "fy+1":2200000
+    }
+  ]
+}
+---

@@ -1,0 +1,169 @@
+---
+{
+  "debug":"JCB",
+  "cabinet":"Public Safety",
+  "department":null,
+  "file_version":"0.10",
+  "head_name":Null,
+  "head_title":Null,
+  "name":"Public Safety",
+  "parent":"root",
+  "section_id":6,
+  "section_md5_id":"1679091C5A880FAF6FB5E6087EB1B2DC",
+  "section_type":"cabinet",
+  "section_type_short":"C",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "mission":[
+    "Departments in the Public Safety Cabinet serve to protect the lives and property of City residents. The City maintains a ready state of preparedness through sufficient staffing levels, state-of-the-art equipment, and continual training and evaluation of policies and practices. The focus on neighborhood presence helps the City prevent crime, fire, incidents of terrorism, natural disasters quickly, and increases the sense of safety and security by residents and businesses."
+  ],
+  "overview":[
+    "The Public Safety Cabinet, which includes the Police Department, the Fire Department, and the Office of Emergency Management, is growing by 3.5% in FY18 over FY17 appropriations. This is primarily driven by the shift of 75 firefighters from a SAFER grant onto the City&rsquo;s operating budget, contractual increases from collective bargaining agreements, and acceleration of the upcoming Police recruit class.",
+    "The Police Department&rsquo;s budget will increase by 2.6% increase over the FY17 appropriation. Due to a commitment by the Police Department to reduce overtime hours the department is projected to avoid over $10 million in costs related to overtime. Included in the FY18 budget is a replacement class of approximately 75 recruit police officers.",
+    "Building on the success of recruiting a diverse police cadet class in FY17, the FY18 budget adds another class, for a total of about 60 cadets. This addition of 20 cadets provides a stable pipeline of diverse young people for future police officer classes. The FY18 budget includes the first Detectives exam since 2011, allowing the department to fulfill its contractual obligations while refreshing the list of qualified candidates. The department will continue to focus on technological improvements: the body worn camera pilot will be extended, prior increases to existing camera maintenance have been continued, and the third year of the department wide, $56 million radio replacement project will begin. In addition, the City will replace lost grant funding for a Domestic Violence Coordinator position in the FY18 budget.",
+    "The Fire Department budget will increase substantially by 5.1% in FY18 over FY17, largely driven by moving 75 firefighters from the SAFER grant to the operating budget in the fall of 2017 as the grant expires. The FY18 operating budget also invests in five new fire apparatus, complemented by an additional eight on the capital plan, as part of the fire apparatus replacement plan launched in FY17. Also reflected is the Mayor&rsquo;s priority of firefighter health and safety: additional funds for sharps disposal boxes are included as well as $500,000 for a pilot program to provide industrial cleaning to firehouses to eliminate potentially carcinogenic compounds. Similar to the Police Department, the Fire Department budget continues to aggressively manage their overtime, for a projected $2.5 million in costs avoided in FY18. The budget contains a new firefighter recruit class, intended to replace retirees in order to ensure appropriate staffing levels.",
+    "The Office of Emergency Management budget represents decrease of 0.1%, which is the result of contractual savings."
+  ],
+  "operating_department":{
+    "table_type":"operating_department",
+    "debug":"JCB",
+    "table_title":"Operating Budget",
+    "Program Name":"Department",
+    "line_type":"title",
+    "fy-2":"FY15 Actual",
+    "fy-1":"FY16 Actual",
+    "fy-0":"FY17 Budget",
+    "fy+1":"FY18 Budget",
+    "data":[
+      {
+        "department":"Emergency Management",
+        "line_type":"data",
+        "fy-2":464649,
+        "fy-1":650928,
+        "fy-0":637722,
+        "fy+1":637209
+      },
+      {
+        "department":"Fire Department",
+        "line_type":"data",
+        "fy-2":211234478,
+        "fy-1":216917857,
+        "fy-0":220990365,
+        "fy+1":232186186
+      },
+      {
+        "department":"Police Department",
+        "line_type":"data",
+        "fy-2":337310895,
+        "fy-1":348887844,
+        "fy-0":364087493,
+        "fy+1":373380191
+      },
+      {
+        "total":"Total",
+        "line_type":"total",
+        "fy-2":549010022,
+        "fy-1":566456629,
+        "fy-0":585715580,
+        "fy+1":606203586
+      }
+    ],
+    "capital_budget_expenditures":[
+      {
+        "debug":"JCCD",
+        "table_type":"capital_budget_expenditures",
+        "table_title":"Capital Budget Expenditures",
+        "table_header":{
+          "title":"Capital Budget Expenditures",
+          "line_type":"header",
+          "fy-2":"FY15 Actual",
+          "fy-1":"FY16 Actual",
+          "fy-0":"FY17 Estimated",
+          "fy+1":"FY18 Projected"
+        },
+        "data":[
+          {
+            "title":"Emergency Management",
+            "line_type":"data",
+            "fy-2":0,
+            "fy-1":0,
+            "fy-0":500000,
+            "fy+1":50000
+          },
+          {
+            "title":"Fire Department",
+            "line_type":"data",
+            "fy-2":3705320,
+            "fy-1":3972577,
+            "fy-0":8238400,
+            "fy+1":10120290
+          },
+          {
+            "title":"Police Department",
+            "line_type":"data",
+            "fy-2":688151,
+            "fy-1":5441996,
+            "fy-0":15939366,
+            "fy+1":18684860
+          },
+          {
+            "title":"Total",
+            "line_type":"total",
+            "fy-2":4393471,
+            "fy-1":9414573,
+            "fy-0":24677766,
+            "fy+1":28855150
+          }
+        ]
+      }
+    ]
+  },
+  "external_funds_tables":{
+    "debug":"JCEXFT",
+    "table_type":"external_funds",
+    "table_title":"external_funds",
+    "table_header":{
+      "title":"Department",
+      "line_type":"header",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "title":"Emergency Management",
+        "line_type":"data",
+        "fy-2":22193239,
+        "fy-1":7034003,
+        "fy-0":8728683,
+        "fy+1":10839295
+      },
+      {
+        "title":"Fire Department",
+        "line_type":"data",
+        "fy-2":1470118,
+        "fy-1":6796883,
+        "fy-0":9590021,
+        "fy+1":4345705
+      },
+      {
+        "title":"Police Department",
+        "line_type":"data",
+        "fy-2":8798766,
+        "fy-1":9377187,
+        "fy-0":10333927,
+        "fy+1":8527089
+      },
+      {
+        "total":"Total Cabinet",
+        "line_type":"total",
+        "fy-2":32462123,
+        "fy-1":23208073,
+        "fy-0":28652631,
+        "fy+1":23712089
+      }
+    ]
+  }
+}
+---
