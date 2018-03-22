@@ -3,6 +3,7 @@ backend:
   branch: netlifycms
   repo: jimafisk/budget.boston.gov
   base_url: https://blooming-retreat-39213.herokuapp.com
+  publish_mode: editorial_workflow
 media_folder: "_source/fy19_recommended/img"
 collections:
   - name: "landing-pages"
