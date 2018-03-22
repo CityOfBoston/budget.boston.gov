@@ -3,11 +3,11 @@ backend:
   branch: netlifycms
   repo: jimafisk/budget.boston.gov
   base_url: https://blooming-retreat-39213.herokuapp.com
-media_folder: "_source/fy18_recommended/img"
+media_folder: "_source/fy19_recommended/img"
 collections:
   - name: "landing-pages"
     label: "Landing Pages"
-    folder: "_source/fy18_recommended/md"
+    folder: "_source/fy19_recommended/md"
     create: true 
     slug: "{{ title }}"
     fields: # The fields for each document, usually in front matter
@@ -18,7 +18,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "featured-analysis"
     label: "Featured Analysis"
-    folder: "_source/fy18_recommended/md/featured_analysis"
+    folder: "_source/fy19_recommended/md/featured_analysis"
     create: true 
     slug: "featured-analysis/{{ title }}"
     fields: # The fields for each document, usually in front matter
