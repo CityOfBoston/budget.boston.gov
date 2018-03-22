@@ -6,7 +6,7 @@ card:
   - title: Debt service
     body: >
       Strong financial management lowers Boston's cost of borrowing. See how.
-    img: /img/featured_analysis/cards/fa-debt-service.jpg
+    img: /img/fa-debt-service.jpg
     link: /operating-budget/debt-service/
 components:
 - breadcrumbs:

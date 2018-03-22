@@ -6,7 +6,7 @@ card:
   - title: Suffolk County Assessment
     body: >
       Covering the pension liability costs for former County employees retired before 1/1/10.
-    img: /img/featured_analysis/cards/fa-suffolk-county-sheriff-dept.jpg
+    img: /img/fa-suffolk-county-sheriff-dept.jpg
     link: /operating-budget/suffolk-county-assessment
 components:
 - breadcrumbs:

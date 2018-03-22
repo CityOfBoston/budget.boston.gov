@@ -6,7 +6,7 @@ card:
   - title: Reserves for collective bargaining
     body: >
       Preparing for future labor wage agreements.  See how.
-    img: /img/featured_analysis/cards/fa-reserves-for-collective-bargaining.jpg
+    img: /img/fa-reserves-for-collective-bargaining.jpg
     link: /featured-analysis/reserves-for-collective-bargaining
 components:
 - breadcrumbs:

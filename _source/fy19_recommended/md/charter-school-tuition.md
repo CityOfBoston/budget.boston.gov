@@ -6,7 +6,7 @@ card:
   - title: Charter school tuition
     body: >
       Charter School Tuition Assessment has risen 155% since FY11.
-    img: /img/featured_analysis/cards/fa-charter-school-tuition.jpg
+    img: /img/fa-charter-school-tuition.jpg
     link: /featured-analysis/charter-school-tuition/
 components:
 - breadcrumbs:

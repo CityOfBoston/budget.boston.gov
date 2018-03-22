@@ -6,7 +6,7 @@ card:
   - title: State assessments
     body: >
       In addition to Charter School Tuition, the State charges for MBTA and other items. Learn more.
-    img: /img/featured_analysis/cards/fa-mbta.jpg
+    img: /img/fa-mbta.jpg
     link: /operating-budget/state-assessments/
 components:
 - breadcrumbs:

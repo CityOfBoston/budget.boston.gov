@@ -6,7 +6,7 @@ card:
   - title: Pensions
     body: >
       Due to generations of underfunding, pensions require a 9.5% increase.
-    img: /img/featured_analysis/cards/fa-pensions.jpg
+    img: /img/fa-pensions.jpg
     link: /operating-budget/pensions/
 components:
 - breadcrumbs:

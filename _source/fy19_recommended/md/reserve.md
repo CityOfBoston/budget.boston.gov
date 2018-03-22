@@ -6,7 +6,7 @@ card:
   - title: Reserve
     body: >
       State law requires a reserve fund for extraordinary and unforeseen spending.  See why.
-    img: /img/featured_analysis/cards/fa-reserve.jpg
+    img: /img/fa-reserve.jpg
     link: /operating-budget/reserve/
 components:
 - breadcrumbs:
