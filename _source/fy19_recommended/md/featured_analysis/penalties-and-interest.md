@@ -6,7 +6,7 @@ card:
   - title: Penalties and Interest Revenue
     body: >
       Penalties and interest are assessed for late payments.
-    img: /img/featured_analysis/cards/fa-penalties-and-interest.jpg
+    img: /img/featured_analysis/fa-penalties-and-interest.jpg
     link: /featured-analysis/penalties-and-interest/
 components:
 - breadcrumbs:

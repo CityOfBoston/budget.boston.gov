@@ -6,7 +6,7 @@ card:
   - title: BPS External Funds
     body: >
       BPS receives revenue from external sources. Learn what these sources are and what they support.
-    img: /img/featured_analysis/cards/fa-bps-external-funds.jpg
+    img: /img/featured_analysis/fa-bps-external-funds.jpg
     link: /featured-analysis/bps-external-funds/
 components:
 - breadcrumbs:

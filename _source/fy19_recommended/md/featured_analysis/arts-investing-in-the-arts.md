@@ -6,7 +6,7 @@ card:
   - title: Investing in the Arts
     body: >
       Boston is investing in the arts, as recommended in Boston Creates.
-    img: /img/featured_analysis/cards/fa-arts-investing-in-the-arts.jpg
+    img: /img/featured_analysis/fa-arts-investing-in-the-arts.jpg
     link: /featured-analysis/arts-investing-in-the-arts
 components:
 - breadcrumbs:

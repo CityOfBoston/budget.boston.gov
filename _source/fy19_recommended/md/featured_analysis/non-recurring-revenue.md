@@ -6,7 +6,7 @@ card:
   - title: Non Recurring Revenue
     body: >
       The City relies on two sources of non-recurring revenue for non-recurring expenditures. 
-    img: /img/featured_analysis/cards/fa-non-recurring-revenue.jpg
+    img: /img/featured_analysis/fa-non-recurring-revenue.jpg
     link: /featured-analysis/non-recurring-revenue/
 components:
 - breadcrumbs:

@@ -6,7 +6,7 @@ card:
   - title: Long Term Financial Plan
     body: >
       BPS is committed to unlocking resources to invest in student success. See how.
-    img: /img/featured_analysis/cards/fa-misc-dept-revenue.jpg
+    img: /img/featured_analysis/fa-misc-dept-revenue.jpg
     link: /featured-analysis/bps-long-term-financial-plan/
 components:
 - breadcrumbs:

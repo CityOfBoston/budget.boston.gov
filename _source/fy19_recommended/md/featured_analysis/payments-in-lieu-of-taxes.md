@@ -6,7 +6,7 @@ card:
   - title: PILOT Revenue
     body: >
       Payments in Lieu of Taxes (PILOTs) are made by property tax-exempt institutions located in the City.
-    img: /img/featured_analysis/cards/fa-payments-in-lieu-of-taxes.jpg
+    img: /img/featured_analysis/fa-payments-in-lieu-of-taxes.jpg
     link: /featured-analysis/payments-in-lieu-of-taxes
 components:
 - breadcrumbs:

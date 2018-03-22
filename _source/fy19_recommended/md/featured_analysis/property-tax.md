@@ -6,7 +6,7 @@ card:
   - title: Property Tax Revenue
     body: >
       Property tax, due to rising new growth and stagnant state aid, is a larger part of Boston’s revenue.
-    img: /img/featured_analysis/cards/fa-property-tax.jpg
+    img: /img/featured_analysis/fa-property-tax.jpg
     link: /featured-analysis/property-tax
 components:
 - breadcrumbs:

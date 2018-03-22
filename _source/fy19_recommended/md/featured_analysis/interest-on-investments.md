@@ -6,7 +6,7 @@ card:
   - title: Interest on Investments
     body: >
       Interested in interest rates? Learn more here.
-    img: /img/featured_analysis/cards/fa-interest-on-investments.jpg
+    img: /img/featured_analysis/fa-interest-on-investments.jpg
     link: /featured-analysis/interest-on-investments
 components:
 - breadcrumbs:

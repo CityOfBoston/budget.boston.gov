@@ -6,7 +6,7 @@ card:
   - title: Pensions, Debt Service, and Other Fixed Costs
     body: >
       Pensions, debt service and other fixed costs consume 22% of the budget growth.
-    img: /img/featured_analysis/cards/fa-pensions-debt-service-other-fixed-costs.jpg
+    img: /img/featured_analysis/fa-pensions-debt-service-other-fixed-costs.jpg
     link: /featured-analysis/pensions-debt-service-other-fixed-costs/
 components:
 - breadcrumbs:

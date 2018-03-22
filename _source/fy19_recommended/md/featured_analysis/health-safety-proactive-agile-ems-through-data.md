@@ -6,7 +6,7 @@ card:
   - title: Data-driven EMS
     body: >
       Using data, Boston is changing the way EMTs respond to certain incidents.
-    img: /img/featured_analysis/cards/fa-health-safety-proactive-agile-ems-through-data.jpg
+    img: /img/featured_analysis/fa-health-safety-proactive-agile-ems-through-data.jpg
     link: /featured-analysis/health-safety-proactive-agile-ems-through-data/
 components:
 - breadcrumbs:

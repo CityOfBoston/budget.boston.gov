@@ -6,7 +6,7 @@ card:
   - title: State Revenue
     body: >
       State revenue, second largest revenue source, is a decreasing share of Boston’s recurring revenue.
-    img: /img/featured_analysis/cards/fa-state-aid.jpg
+    img: /img/featured_analysis/fa-state-aid.jpg
     link: /featured-analysis/state-aid
 components:
 - breadcrumbs:

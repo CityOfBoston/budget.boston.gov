@@ -6,7 +6,7 @@ card:
   - title: Homeless Action Plan
     body: >
       Boston invests in plan to end chronic and veteran homelessness
-    img: /img/featured_analysis/cards/fa-housing-homeless-action-plan.jpg
+    img: /img/featured_analysis/fa-housing-homeless-action-plan.jpg
     link: /featured-analysis/housing-homeless-action-plan/
 components:
 - breadcrumbs:

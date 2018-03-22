@@ -6,7 +6,7 @@ card:
   - title: State Education Aid
     body: >
       State education aid has not kept pace with Boston's investment in education
-    img: /img/featured_analysis/cards/fa-education-aid.jpg
+    img: /img/featured_analysis/fa-education-aid.jpg
     link: /featured-analysis/education-aid
 components:
 - breadcrumbs:

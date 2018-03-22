@@ -6,7 +6,7 @@ card:
   - title: Keeping Streets Clean and Safe
     body: >
       The FY18 budget invests in making sure city streets are clean and safe.
-    img: /img/featured_analysis/cards/fa-streets-keeping-streets-clean-safe.jpg
+    img: /img/featured_analysis/fa-streets-keeping-streets-clean-safe.jpg
     link: /featured-analysis/streets-keeping-streets-clean-safe/
 components:
 - breadcrumbs:

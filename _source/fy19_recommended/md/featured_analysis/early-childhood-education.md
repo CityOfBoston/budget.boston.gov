@@ -6,7 +6,7 @@ card:
   - title: Early Childhood Education
     body: >
       Data shows BPS prekindergarten attendees outperform their peers.  Learn how.
-    img: /img/featured_analysis/cards/fa-early-childhood-education.jpg
+    img: /img/featured_analysis/fa-early-childhood-education.jpg
     link: /featured-analysis/early-childhood-education
 components:
 - breadcrumbs:

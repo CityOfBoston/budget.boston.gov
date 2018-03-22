@@ -6,7 +6,7 @@ card:
   - title: State Education Aid Revenue
     body: >
       Boston’s education spending increased substantially, but state education funding has not kept pace.
-    img: /img/featured_analysis/cards/fa-net-state-education-revenue.jpg
+    img: /img/featured_analysis/fa-net-state-education-revenue.jpg
     link: /featured-analysis/net-state-education-revenue/
 components:
 - breadcrumbs:

@@ -6,7 +6,7 @@ card:
   - title: Available Funds
     body: >
       The City can make transfers to the General Fund from Available Funds.
-    img: /img/featured_analysis/cards/fa-available-funds.jpg
+    img: /img/featured_analysis/fa-available-funds.jpg
     link: /featured-analysis/available-funds
 components:
 - breadcrumbs:

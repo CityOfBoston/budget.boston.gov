@@ -6,7 +6,7 @@ card:
   - title: Supporting Students Most in Need
     body: >
       Learn how BPS is directing educational resources to students most in need.
-    img: /img/featured_analysis/cards/fa-supporting-students-most-in-need.jpg
+    img: /img/featured_analysis/fa-supporting-students-most-in-need.jpg
     link: /featured-analysis/supporting-students-most-in-need/
 components:
 - breadcrumbs:

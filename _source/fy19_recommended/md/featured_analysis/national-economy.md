@@ -6,7 +6,7 @@ card:
   - title: National Economy
     body: >
       Economic indicators show positive real GDP growth and an improving unemployment rate.
-    img: /img/featured_analysis/cards/fa-national-economy.jpg
+    img: /img/featured_analysis/fa-national-economy.jpg
     link: /featured-analysis/national-economy/
 components:
 - breadcrumbs:

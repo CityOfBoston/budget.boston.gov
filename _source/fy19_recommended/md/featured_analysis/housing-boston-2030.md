@@ -6,7 +6,7 @@ card:
   - title: Housing a Changing City
     body: >
       The City leverages variety of resources to meet 2030 housing goals.
-    img: /img/featured_analysis/cards/fa-housing-boston-2030.jpg
+    img: /img/featured_analysis/fa-housing-boston-2030.jpg
     link: /featured-analysis/housing-boston-2030/
 components:
 - breadcrumbs:

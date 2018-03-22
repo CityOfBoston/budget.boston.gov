@@ -6,7 +6,7 @@ card:
   - title: Urban Redevelopment Revenue
     body: >
       BPDA guides development through its urban renewal powers granted under MGL Chapters 121A and 121B.
-    img: /img/featured_analysis/cards/fa-urban-redevelopment-ch-121a.jpg
+    img: /img/featured_analysis/fa-urban-redevelopment-ch-121a.jpg
     link: /featured-analysis/urban-redevelopment-ch-121a
 components:
 - breadcrumbs:

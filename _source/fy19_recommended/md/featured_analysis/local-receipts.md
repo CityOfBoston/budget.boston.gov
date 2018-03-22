@@ -6,7 +6,7 @@ card:
   - title: Local Receipt Revenue
     body: >
       Local revenues are an increasing share of Boston’s recurring revenue.
-    img: /img/featured_analysis/cards/fa-local-receipts.jpg
+    img: /img/featured_analysis/fa-local-receipts.jpg
     link: /featured-analysis/local-receipts
 components:
 - breadcrumbs:

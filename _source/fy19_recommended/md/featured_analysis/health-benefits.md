@@ -6,7 +6,7 @@ card:
   - title: Health benefits
     body: >
       Health care costs are contained through savings initiatives but continue to grow. Learn more.
-    img: /img/featured_analysis/cards/fa-health-benefits.jpg
+    img: /img/featured_analysis/fa-health-benefits.jpg
     link: /featured-analysis/health-benefits
 components:
 - breadcrumbs:

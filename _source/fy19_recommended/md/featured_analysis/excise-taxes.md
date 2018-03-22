@@ -6,7 +6,7 @@ card:
   - title: Excise Tax Revenue
     body: >
       Boston is projecting strong room occupancy and meals excise revenue.
-    img: /img/featured_analysis/cards/fa-excise-taxes.jpg
+    img: /img/featured_analysis/fa-excise-taxes.jpg
     link: /featured-analysis/excise-taxes
 components:
 - breadcrumbs:

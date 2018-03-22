@@ -6,7 +6,7 @@ card:
   - title: State and City Economies
     body: >
       Learn about the state and local economic recovery since the recent recession.
-    img: /img/featured_analysis/cards/fa-state-and-city-economies.jpg
+    img: /img/featured_analysis/fa-state-and-city-economies.jpg
     link: /featured-analysis/state-and-city-economies
 components:
 - breadcrumbs:

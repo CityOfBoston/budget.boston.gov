@@ -6,7 +6,7 @@ card:
   - title: Performance management
     body: >
       The City practies data-driven decision making at all levels. Learn about the results.
-    img: /img/featured_analysis/cards/fa-performance-management.png
+    img: /img/featured_analysis/fa-performance-management.png
     link: /featured-analysis/performance-management/
 components:
 - breadcrumbs:

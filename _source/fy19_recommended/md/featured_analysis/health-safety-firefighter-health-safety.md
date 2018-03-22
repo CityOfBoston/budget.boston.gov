@@ -6,7 +6,7 @@ card:
   - title: Firefighter Health and Safety
     body: >
       Boston is investing in initiatives to reduce cancer risks for firefighters.
-    img: /img/featured_analysis/cards/fa-health-safety-firefighter-health-safety.jpg
+    img: /img/featured_analysis/fa-health-safety-firefighter-health-safety.jpg
     link: /featured-analysis/health-safety-firefighter-health-safety
 components:
 - breadcrumbs:

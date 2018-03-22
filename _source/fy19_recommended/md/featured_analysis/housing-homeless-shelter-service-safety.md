@@ -6,7 +6,7 @@ card:
   - title: Homeless Shelter Services
     body: >
       Budget supports front door triage and rapid rehousing at shelters
-    img: /img/featured_analysis/cards/fa-housing-homeless-shelter-service-safety.jpg
+    img: /img/featured_analysis/fa-housing-homeless-shelter-service-safety.jpg
     link: /featured-analysis/housing-homeless-shelter-service-safety/
 components:
 - breadcrumbs:

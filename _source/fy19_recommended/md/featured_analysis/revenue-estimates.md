@@ -6,7 +6,7 @@ card:
   - title: Revenue Estimates
     body: >
       How does Boston fund the city services you care about? Find out here.
-    img: /img/featured_analysis/cards/fa-revenue-estimates.jpg
+    img: /img/featured_analysis/fa-revenue-estimates.jpg
     link: /featured-analysis/revenue-estimates
 components:
 - breadcrumbs:

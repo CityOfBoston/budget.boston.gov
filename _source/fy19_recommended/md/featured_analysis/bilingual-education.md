@@ -6,7 +6,7 @@ card:
   - title: Bilingual education
     body: >
       Learn how much of the FY18 BPS budgeted is dedicated to bilingual education.
-    img: /img/featured_analysis/cards/fa-bilingual-education.jpg
+    img: /img/featured_analysis/fa-bilingual-education.jpg
     link: /featured-analysis/bilingual-education
 components:
 - breadcrumbs:

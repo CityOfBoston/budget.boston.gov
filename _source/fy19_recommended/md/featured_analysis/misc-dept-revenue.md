@@ -6,7 +6,7 @@ card:
   - title: Departmental Revenue
     body: >
       Learn how the City is maximizing local revenue sources.
-    img: /img/featured_analysis/cards/fa-misc-dept-revenue.jpg
+    img: /img/featured_analysis/fa-misc-dept-revenue.jpg
     link: /featured-analysis/misc-dept-revenue
 components:
 - breadcrumbs:

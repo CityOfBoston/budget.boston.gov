@@ -6,7 +6,7 @@ card:
   - title: Closing Opportunity and Achievement Gaps
     body: >
       Boston is committed to closing opportunity and achievement gaps. 
-    img: /img/featured_analysis/cards/fa-closing-opportunity-achievement-gaps.jpg
+    img: /img/featured_analysis/fa-closing-opportunity-achievement-gaps.jpg
     link: /featured-analysis/closing-opportunity-achievement-gaps
 components:
 - breadcrumbs:

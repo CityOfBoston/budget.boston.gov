@@ -6,7 +6,7 @@ card:
   - title: Parking Fine Revenue
     body: >
       Boston maintains a 92% rate of collection of parking fine tickets.
-    img: /img/featured_analysis/cards/fa-parking-fines.jpg
+    img: /img/featured_analysis/fa-parking-fines.jpg
     link: /featured-analysis/parking-fines
 components:
 - breadcrumbs:
