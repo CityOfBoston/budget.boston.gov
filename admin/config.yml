@@ -1,0 +1,19 @@
+backend:
+  name: github
+  branch: netlifycms
+  repo: jimafisk/budget.boston.gov
+  base_url: https://blooming-retreat-39213.herokuapp.com
+media_folder: "_source/fy18_recommended/img"
+collections:
+  - name: "chapters"
+    label: "Chapters"
+    #folder: "_chapters"
+    folder: "_source/fy18_recommended/md"
+    create: true 
+    #slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "chapters"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Permalink", name: "permalink", widget: "string"}
+      - {label: "Components", name: "components", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown"}
