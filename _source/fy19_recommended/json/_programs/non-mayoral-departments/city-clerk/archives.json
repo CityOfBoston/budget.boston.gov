@@ -1,0 +1,213 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Non-Mayoral Departments",
+  "department":"City Clerk",
+  "file_version":"0.10",
+  "head_name":"Maureen Feeney",
+  "head_title":"Manager",
+  "name":"Archives",
+  "parent":"City Clerk",
+  "section_id":108,
+  "section_md5_id":"A3C65C2974270FD093EE8A9BF8AE7D0B",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "appropriation_code":"Organization 161300",
+  "description":[
+    "The Archives oversees the preservation of significant records and facilitates improved and cost-effective access to public records by Boston municipal government and its citizens.  It also oversees the elimination of obsolete records."
+  ],
+  "selected_service_indicators":[
+    {
+      "debug":"JSSIT",
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":295369,
+      "fy-1":320819,
+      "fy-0":369150,
+      "fy+1":362337
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":18526,
+      "fy-1":36973,
+      "fy-0":58800,
+      "fy+1":68050
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":313895,
+      "fy-1":357792,
+      "fy-0":427950,
+      "fy+1":430387
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Recommended",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":295369,
+        "fy-1":320819,
+        "fy-0":369150,
+        "fy+1":362337,
+        "diff":-6813
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":10384,
+        "fy-1":29594,
+        "fy-0":51500,
+        "fy+1":51350,
+        "diff":-150
+      },
+      {
+        "line_title":"Supplies and Materials",
+        "line_type":"data",
+        "fy-2":3422,
+        "fy-1":4019,
+        "fy-0":5500,
+        "fy+1":5200,
+        "diff":-300
+      },
+      {
+        "line_title":"Current Chgs and Oblig",
+        "line_type":"data",
+        "fy-2":1865,
+        "fy-1":385,
+        "fy-0":1800,
+        "fy+1":11500,
+        "diff":9700
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":2855,
+        "fy-1":2975,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":313895,
+        "fy-1":357792,
+        "fy-0":427950,
+        "fy+1":430387,
+        "diff":2437
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To provide archives record center to City departments and the public; provide records disposition services to departments"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "debug":"JPM",
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Administrative and Constituent Consultation",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"1,800",
+              "fy+1":"1,860"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Archives Processed Cubic Feet",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"6,000",
+              "fy+1":"6,500"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Destruction Approvals Cubic Feet",
+              "fy-2":"1,141",
+              "fy-1":"3,319",
+              "fy-0":"3,000",
+              "fy+1":"3,120"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Processing Hours",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"1,680",
+              "fy+1":"1,860"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Records Digitized Immages",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"1,500",
+              "fy+1":"1,920"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Records Transfers to Archives and Offsite Storage Cubic Feet",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"2,400",
+              "fy+1":"2,520"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Records Transfers to Archives and Offsite Storage MB",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"300",
+              "fy+1":"480"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

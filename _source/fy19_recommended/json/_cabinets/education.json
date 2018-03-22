@@ -1,0 +1,119 @@
+---
+{
+  "debug":"JCB",
+  "cabinet":"Education",
+  "department":null,
+  "file_version":"0.10",
+  "head_name":"Turahn Dorsey",
+  "head_title":"Chief of Education",
+  "name":"Education",
+  "parent":"root",
+  "section_id":7,
+  "section_md5_id":"8F14E45FCEEA167A5A36DEDD4BEA2543",
+  "section_type":"cabinet",
+  "section_type_short":"C",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "mission":[
+    "The Education Cabinet will be responsible for Boston&rsquo;s education landscape and tasked with crafting and executing an education agenda for the City. From early childhood education, to kindergarten, to junior high, to higher learning institutions, to educations for seniors. The cabinet will implement the vision for academic excellence across the City."
+  ],
+  "overview":[
+    "The FY18 Boston Public Schools (BPS) budget will increase by $29.2 million, or 2.8%, from the FY17 appropriation. Additionally, a reserve for BPS collective bargaining units will increase by $11 million. This will bring the total BPS increase to $40 million, or 3.8%, once the next round of collective bargaining agreements are negotiated. Funding directed to schools will increase by almost 4%, even before the largest driver of BPS costs, employee collective bargaining increases, are negotiated.",
+    "In FY18, Boston Public Schools is proposing to make important research-backed investments to close the achievement gap. Boston is investing $14 million to give 15,000 students, from kindergarten through 8th-grade, 120 additional hours of learning time &mdash; or the equivalent of 20 more school days a year. By strengthening BPS&rsquo;s commitment to Excellence For All, more students in the fourth and fifth grade will receive the same rigorous instruction and enriched learning opportunities as those in Advanced Work Class (AWC). Boston is also making a strategic $1.2 million investment to support 3,000 BPS students identified by the district as experiencing homelessness.",
+    "Finally, BPS will be providing lower performing schools with a wide-range of differentiated supports, with a total investment of over $16 million. This includes a new $1.25 million reserve focused on supporting low level 3, 4, and 5 schools with declining enrollment. (See the Education chapter of this volume for more details.)"
+  ],
+  "operating_department":{
+    "table_type":"operating_department",
+    "debug":"JCB",
+    "table_title":"Operating Budget",
+    "Program Name":"Department",
+    "line_type":"title",
+    "fy-2":"FY15 Actual",
+    "fy-1":"FY16 Actual",
+    "fy-0":"FY17 Budget",
+    "fy+1":"FY18 Budget",
+    "data":[
+      {
+        "department":"Boston Public Schools",
+        "line_type":"data",
+        "fy-2":974020954,
+        "fy-1":1017073807,
+        "fy-0":1033709148,
+        "fy+1":1062970470
+      },
+      {
+        "total":"Total",
+        "line_type":"total",
+        "fy-2":974020954,
+        "fy-1":1017073807,
+        "fy-0":1033709148,
+        "fy+1":1062970470
+      }
+    ],
+    "capital_budget_expenditures":[
+      {
+        "debug":"JCCD",
+        "table_type":"capital_budget_expenditures",
+        "table_title":"Capital Budget Expenditures",
+        "table_header":{
+          "title":"Capital Budget Expenditures",
+          "line_type":"header",
+          "fy-2":"FY15 Actual",
+          "fy-1":"FY16 Actual",
+          "fy-0":"FY17 Estimated",
+          "fy+1":"FY18 Projected"
+        },
+        "data":[
+          {
+            "title":"Boston Public Schools",
+            "line_type":"data",
+            "fy-2":51490890,
+            "fy-1":38290691,
+            "fy-0":65676408,
+            "fy+1":110104285
+          },
+          {
+            "title":"Total",
+            "line_type":"total",
+            "fy-2":51490890,
+            "fy-1":38290691,
+            "fy-0":65676408,
+            "fy+1":110104285
+          }
+        ]
+      }
+    ]
+  },
+  "external_funds_tables":{
+    "debug":"JCEXFT",
+    "table_type":"external_funds",
+    "table_title":"external_funds",
+    "table_header":{
+      "title":"Department",
+      "line_type":"header",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "title":"Boston Public Schools",
+        "line_type":"data",
+        "fy-2":130309502,
+        "fy-1":125808543,
+        "fy-0":135366530,
+        "fy+1":137250222
+      },
+      {
+        "total":"Total Cabinet",
+        "line_type":"total",
+        "fy-2":130309502,
+        "fy-1":125808543,
+        "fy-0":135366530,
+        "fy+1":137250222
+      }
+    ]
+  }
+}
+---

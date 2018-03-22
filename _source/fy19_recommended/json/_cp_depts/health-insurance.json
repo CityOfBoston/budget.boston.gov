@@ -1,0 +1,21 @@
+---
+{
+  "cabinet":"Administration and Finance",
+  "debug":"JBDCP",
+  "department":"Health Insurance",
+  "file_version":"0.10",
+  "head_name":Null,
+  "head_title":Null,
+  "name":"Health Insurance",
+  "parent":"Administration and Finance",
+  "section_id":60,
+  "section_md5_id":"072B030BA126B2F4B2374F342BE9ED44",
+  "section_type":"capital_budget",
+  "section_type_short":"L",
+  "source_version":"Recommended",
+  "source_year":"18",
+  "mission":[
+    "The Health Insurance appropriation provides funding for a variety of health insurance, dental care, vision care, and life insurance plans to approximately 30,000 active employee and retiree subscribers within the guidelines of MGL Chapter 32B."
+  ]
+}
+---
