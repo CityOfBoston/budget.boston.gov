@@ -1,9 +1,9 @@
 backend:
   name: github
-  branch: exec_json
+  branch: netlifycms
   repo: jimafisk/budget.boston.gov
   base_url: https://blooming-retreat-39213.herokuapp.com
-media_folder: "img/"
+media_folder: "_source/fy18_recommended/img"
 collections:
   - name: "chapters"
     label: "Chapters"
