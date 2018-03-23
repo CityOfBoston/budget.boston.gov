@@ -15,7 +15,6 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "chapters"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "string"}
-      #- {label: "Components", name: "components", widget: "markdown"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "featured-analysis"
     label: "Featured Analysis"
@@ -26,7 +25,6 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "chapters"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
       - label: "Card"
         name: "card"
         widget: "object"
@@ -35,3 +33,19 @@ collections:
           - {label: "Body", name: "body", widget: "string"}
           - {label: "Image", name: "image", widget: "image"}
           - {label: "Link", name: "link", widget: "string"}
+      - label: "Components"
+        label_singular: "Component"
+        name: "components"
+        widget: "list"
+        fields:
+          - label: "Breadcrumbs"
+            name: "breadcrumbs"
+            widget: "object"
+            fields:
+              - { label: "Title", name: "title", widget: "string" }
+          - label: "Intro"
+            name: "intro"
+            widget: "object"
+            fields:
+              - { label: "Title", name: "title", widget: "string" }
+      - {label: "Body", name: "body", widget: "markdown"}
