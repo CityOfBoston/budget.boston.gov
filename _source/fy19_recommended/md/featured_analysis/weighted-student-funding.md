@@ -3,11 +3,11 @@ layout: bos_content
 permalink: /featured-analysis/weighted-student-funding/
 title: Weighted Student Funding
 card:
-  - title: Weighted Student Funding
-    body: >
-      At BPS, dollars follow the student.  Learn how schoool budgets are calculated.
-    img: /img/fa-weighted-student-funding.jpg
-    link: /featured-analysis/weighted-student-funding/
+  title: Weighted Student Funding
+  body: >
+    At BPS, dollars follow the student.  Learn how schoool budgets are calculated.
+  img: /img/fa-weighted-student-funding.jpg
+  link: /featured-analysis/weighted-student-funding/
 components:
 - breadcrumbs:
   - title: Home
