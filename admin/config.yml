@@ -10,7 +10,7 @@ collections:
     label: "Landing Pages"
     folder: "_source/fy19_recommended/md"
     create: true 
-    slug: "{{ title }}"
+    slug: "{{ slug }}"
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "chapters"}
       - {label: "Title", name: "title", widget: "string"}
@@ -21,9 +21,17 @@ collections:
     label: "Featured Analysis"
     folder: "_source/fy19_recommended/md/featured_analysis"
     create: true 
-    slug: "featured-analysis/{{ title }}"
+    slug: "featured-analysis/{{ slug }}"
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "chapters"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
+      - label: "Card"
+        name: "card"
+        widget: "object"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "string"}
+          - {label: "Image", name: "image", widget: "image"}
+          - {label: "Link", name: "link", widget: "string"}
