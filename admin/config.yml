@@ -100,68 +100,13 @@ collections:
             name: "text_col_2"
             widget: "object"
             fields:
-              - label: "Column 1"
-                name: "col1"
-                widget: "list"
-                types:
-                  - { label: "Blurb", name: "blurb", widget: "markdown" }
-                  - { label: "Image", name: "img", widget: "image" }
-                  - label: "Link"
-                    name: "img"
-                    widget: "object"
-                    fields:
-                      - { label: "Title", name: "title", widget: "string" }
-                      - { label: "Path", name: "path", widget: "string" }
-              - label: "Column 2"
-                name: "col2"
-                widget: "list"
-                types:
-                  - { label: "Blurb", name: "blurb", widget: "markdown" }
-                  - { label: "Image", name: "img", widget: "image" }
-                  - label: "Link"
-                    name: "img"
-                    widget: "object"
-                    fields:
-                      - { label: "Title", name: "title", widget: "string" }
-                      - { label: "Path", name: "path", widget: "string" }
+              - { label: "Column 1", name: "col1", widget: "markdown" }
+              - { label: "Column 2", name: "col2", widget: "markdown" }
           - label: "3 Column Text"
             name: "text_col_3"
             widget: "object"
             fields:
-              - label: "Column 1"
-                name: "col1"
-                widget: "list"
-                types:
-                  - { label: "Blurb", name: "blurb", widget: "markdown" }
-                  - { label: "Image", name: "img", widget: "image" }
-                  - label: "Link"
-                    name: "img"
-                    widget: "object"
-                    fields:
-                      - { label: "Title", name: "title", widget: "string" }
-                      - { label: "Path", name: "path", widget: "string" }
-              - label: "Column 2"
-                name: "col2"
-                widget: "list"
-                types:
-                  - { label: "Blurb", name: "blurb", widget: "markdown" }
-                  - { label: "Image", name: "img", widget: "image" }
-                  - label: "Link"
-                    name: "img"
-                    widget: "object"
-                    fields:
-                      - { label: "Title", name: "title", widget: "string" }
-                      - { label: "Path", name: "path", widget: "string" }
-              - label: "Column 3"
-                name: "col3"
-                widget: "list"
-                types:
-                  - { label: "Blurb", name: "blurb", widget: "markdown" }
-                  - { label: "Image", name: "img", widget: "image" }
-                  - label: "Link"
-                    name: "img"
-                    widget: "object"
-                    fields:
-                      - { label: "Title", name: "title", widget: "string" }
-                      - { label: "Path", name: "path", widget: "string" }
+              - { label: "Column 1", name: "col1", widget: "markdown" }
+              - { label: "Column 2", name: "col2", widget: "markdown" }
+              - { label: "Column 3", name: "col3", widget: "markdown" }
       - {label: "Body", name: "body", widget: "markdown"}
