@@ -96,6 +96,29 @@ collections:
                   - { label: "Image", name: "image", widget: "image" }
               - { label: "Body", name: "body", widget: "markdown" }
               - { label: "Right Image", name: "right_image", widget: "image" }
+          - label: "Table"
+            name: "table"
+            widget: "object"
+            fields:
+              - { label: "Title", name: "title", widget: "string" }
+              - label: "Right Text"
+                name: "right_text"
+                widget: "object"
+                fields:
+                  - { label: "Name", name: "name", widget: "string" }
+                  - { label: "Link", name: "link", widget: "string" }
+              - label: "Rows"
+                label_singular: "Row"
+                name: "rows"
+                widget: "list"
+                fields:
+                  - label: "Columns"
+                    label_singular: "Column"
+                    name: "columns"
+                    widget: "list"
+                    fields: 
+                      - { label: "Column Name", name: "column", widget: "string" }
+                      - { label: "Value", name: "value", widget: "string" }
           - label: "2 Column Text"
             name: "text_col_2"
             widget: "object"
