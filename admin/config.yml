@@ -30,7 +30,7 @@ collections:
         widget: "object"
         fields:
           - {label: "Title", name: "title", widget: "string"}
-          - {label: "Body", name: "body", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Image", name: "image", widget: "image"}
           - {label: "Link", name: "link", widget: "string"}
       - label: "Components"
@@ -46,16 +46,122 @@ collections:
               - { label: "Published", name: "published", widget: "string" }
               - label: "Links"
                 label_singular: "link"
-                name: "link"
+                name: "links"
                 widget: "list"
                 fields:
                   - { label: "Title", name: "title", widget: "string" }
                   - { label: "URL", name: "url", widget: "string" }
-                  - { label: "Local URL", name: "local", widget: "boolean", default: false}
+                  - { label: "Local URL", name: "local", widget: "boolean", default: false }
               - { label: "Current", name: "current", widget: "string" }
           - label: "Intro"
             name: "intro"
             widget: "object"
             fields:
               - { label: "Title", name: "title", widget: "string" }
+              - { label: "Short Description", name: "short_desc", widget: "string" }
+              - { label: "Description", name: "description", widget: "markdown" }
+              - { label: "Sidebar Menu", name: "sidebar_menu", widget: "boolean", default: false }
+          - label: "Text Block"
+            name: "text_block"
+            widget: "object"
+            fields:
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Body", name: "body", widget: "markdown" }
+              - { label: "Right Image", name: "right_image", widget: "image" }
+          - label: "Spanning Image"
+            name: "spanning_image"
+            widget: "object"
+            fields:
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Description", name: "desc", widget: "string" }
+              - label: "Link"
+                name: "link"
+                widget: "object"
+                fields:
+                  - { label: "Text", name: "text", widget: "string" }
+                  - { label: "URL", name: "url", widget: "string" }
+              - { label: "Image Source", name: "src", widget: "image" }
+              - { label: "Alternative Text", name: "alt", widget: "string" }
+          - label: "Grid"
+            name: "grid"
+            widget: "object"
+            fields:
+              - { label: "Grid Title", name: "grid_title", widget: "string" }
+              - label: "Card"
+                name: "card"
+                widget: "list"
+                fields:
+                  - { label: "Title", name: "title", widget: "string" }
+                  - { label: "Body", name: "body", widget: "string" }
+                  - { label: "Image", name: "image", widget: "image" }
+              - { label: "Body", name: "body", widget: "markdown" }
+              - { label: "Right Image", name: "right_image", widget: "image" }
+          - label: "2 Column Text"
+            name: "text_col_2"
+            widget: "object"
+            fields:
+              - label: "Column 1"
+                name: "col1"
+                widget: "list"
+                types:
+                  - { label: "Blurb", name: "blurb", widget: "markdown" }
+                  - { label: "Image", name: "img", widget: "image" }
+                  - label: "Link"
+                    name: "img"
+                    widget: "object"
+                    fields:
+                      - { label: "Title", name: "title", widget: "string" }
+                      - { label: "Path", name: "path", widget: "string" }
+              - label: "Column 2"
+                name: "col2"
+                widget: "list"
+                types:
+                  - { label: "Blurb", name: "blurb", widget: "markdown" }
+                  - { label: "Image", name: "img", widget: "image" }
+                  - label: "Link"
+                    name: "img"
+                    widget: "object"
+                    fields:
+                      - { label: "Title", name: "title", widget: "string" }
+                      - { label: "Path", name: "path", widget: "string" }
+          - label: "3 Column Text"
+            name: "text_col_3"
+            widget: "object"
+            fields:
+              - label: "Column 1"
+                name: "col1"
+                widget: "list"
+                types:
+                  - { label: "Blurb", name: "blurb", widget: "markdown" }
+                  - { label: "Image", name: "img", widget: "image" }
+                  - label: "Link"
+                    name: "img"
+                    widget: "object"
+                    fields:
+                      - { label: "Title", name: "title", widget: "string" }
+                      - { label: "Path", name: "path", widget: "string" }
+              - label: "Column 2"
+                name: "col2"
+                widget: "list"
+                types:
+                  - { label: "Blurb", name: "blurb", widget: "markdown" }
+                  - { label: "Image", name: "img", widget: "image" }
+                  - label: "Link"
+                    name: "img"
+                    widget: "object"
+                    fields:
+                      - { label: "Title", name: "title", widget: "string" }
+                      - { label: "Path", name: "path", widget: "string" }
+              - label: "Column 3"
+                name: "col3"
+                widget: "list"
+                types:
+                  - { label: "Blurb", name: "blurb", widget: "markdown" }
+                  - { label: "Image", name: "img", widget: "image" }
+                  - label: "Link"
+                    name: "img"
+                    widget: "object"
+                    fields:
+                      - { label: "Title", name: "title", widget: "string" }
+                      - { label: "Path", name: "path", widget: "string" }
       - {label: "Body", name: "body", widget: "markdown"}
