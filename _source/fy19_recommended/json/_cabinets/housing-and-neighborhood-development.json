@@ -1,129 +1,118 @@
 ---
 {
   "debug":"JCB",
-  "cabinet":"Housing and Neighborhood Development",
+  "cabinet":"Housing & Neighborhood Development",
   "department":null,
-  "file_version":"0.10",
+  "file_version":"",
   "head_name":"Sheila Dillon",
-  "head_title":"Chief of Housing and Neighborhood Development",
-  "name":"Housing and Neighborhood Development",
+  "head_title":"Chief of Housing & Neighborhood Development",
+  "name":"Housing & Neighborhood Development",
   "parent":"root",
   "section_id":13,
   "section_md5_id":"C51CE410C124A10E0DB5E4B97FC2AF39",
   "section_type":"cabinet",
   "section_type_short":"C",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~housing-and-neighborhood-development.json",
+  "source_time":"20180327183710",
+  "source_year":"19",
   "mission":[
     "The Cabinet is committed to making Boston the most livable city in the nation by working with its many communities to build strong neighborhoods through the strategic investment of public resources."
   ],
   "overview":[
-    "Excluding the one-time payment to the Boston Housing Authority in FY17, the FY18 budget for the Housing and Neighborhood Development Cabinet will increase by 1.3% reflecting Department of Neighborhood Development (DND) investments in Boston&rsquo;s Way Home, the City&rsquo;s plan to end chronic and veteran homelessness, and in the Office of Housing Stability.",
-    "Through Boston&rsquo;s Way Home and the Boston Homes for the Brave initiative, Boston has housed 842 homeless veterans since July 2014. Because of its commitment to ongoing investments in housing and services, Boston maintains the lowest rate of unsheltered people experiencing homelessness among all major US cities, and the lowest rate of unsheltered homelessness among individuals with chronic patterns of homelessness.",
-    "To support Boston&rsquo;s Way Home, the FY18 budget includes an increase of $150,000 in general funds to provide support services for veterans not eligible for VA programs. In addition, $50,000 in federal funds will be used to modify the Homebuyer Financial Assistance Program to provide down payment assistance to veterans who may not be eligible for the City&rsquo;s programs under current rules.",
-    "In FY18, $75,000 will be invested in the Office of Housing Stability to enhance initiatives, including offering training for both landlords and tenants, developing a tenant orientation guide, and funding families in need of emergency placement. Since July 2014 a total of 2,521 households have been able to retain their housing as a result of City services such as foreclosure and eviction prevention.",
-    "The FY18 budget continues Boston&rsquo;s annual $7.25 million general fund investment in housing. This amount includes a line item used exclusively for elderly housing production. The elderly housing investment was first introduced by Mayor Walsh in FY16. Combining these general fund dollars with federal grants, state grants, and developer fees allows the City to leverage a wide variety of sources to invest in the creation and preservation of affordable housing citywide, a key to reaching targets outlined in Mayor Walsh&rsquo;s Housing a Changing City: Boston 2030.",
-    "To solve the challenges of creating middle income housing in Boston, Mayor Walsh created the Housing Innovation Lab in 2015. The lab&rsquo;s work has led to the adoption of Boston&rsquo;s first density bonus program, which will yield hundreds of privately financed affordable housing units; the launch of a compact living development competition on City-owned vacant land; and support for an accessory dwelling units policy. As grant funding for this program is exhausted, the City will invest $97,500 in general funds to maintain the operation in FY18.",
-    "The FY18 Budget projects that DND will receive over $62 million in external funds from federal and state grants, as well as revenue from certain developer fees. Although proposed federal budget cuts raises questions about future levels of funding for Community Development Block Grant (CDBG) and HOME Investment Partnership, this budget assumes that DND will continue to receive these recurring federal entitlement grants, which provide funding for a variety of neighborhood development activities as well as competitive grants such as the Continuum of Care (CoC) program. The City will advocate that these critical programs are maintained in the federal budget. Additionally, the City uses the funding from the Inclusionary Development Fund to support the creation of affordable housing citywide."
+    "The FY19 budget for the Housing and Neighborhood Development Cabinet will increase by 5.4%, reflecting significant housing investment through the Department of Neighborhood Development (DND) in financial assistance for middle income homebuyers, creating and preserving affordable housing, and preventing evictions and displacement. This investment aimed at addressing the Cities housing shortage through long-term investments in affordable housing stock and near term solutions like middle income homebuyer assistance, tenancy and housing preservation and legal assistance for residents facing eviction.",
+    "In FY19, DND will double its annual $500, investment in down payment assistance for middle income homebuyers to $1 million. DND is also making additional investments in multiple tools that will prevent displacement of residents. A new $125,000legal assistance program will provide legal representation to tenants in housing court and district court, which is projected to prevent 140 evictions next year. DND will also invest $185,000to expand eligibility for emergency housing assistance funds and flexible tenancy preservation funds, currently only available to households under 30% AMI. Finally, DND is expanding case management capacity in its Office of Housing Stability to assist constituents in need of affordable housing.",
+    "DND also plans to use $10 million in funding from the Inclusionary Development Program to recapitalize the Acquisition Opportunity Program, which will preserve affordable housing and prevent displacement by taking occupied rentals off the speculative market, and continue the Neighborhood Homes Initiative, which utilizes city-owned land to create homeownership opportunities for low and middle income homebuyers. ",
+    "The FY19 budget continues Boston&rsquo;s annual $8.55 million general fund investment in housing. This amount includes a line item used exclusively for elderly housing production. The elderly housing investment was first introduced by Mayor Walsh in FY16. Combining these general fund dollars with federal grants, state grants, and developer fees allows the City to leverage a wide variety of sources to invest in the creation and preservation of affordable housing citywide, a key to reaching targets outlined in Mayor Walsh&rsquo;s Housing a Changing City: Boston 2030.",
+    "The FY19 Budget projects that DND will receive over $78 million in external funds from federal and state grants, as well as revenue from certain developer fees. Although proposed federal budget cuts raises questions about future levels of funding for Community Development Block Grant (CDBG) and HOME Investment Partnership, this budget assumes that DND will continue to receive these recurring federal entitlement grants, which provide funding for a variety of neighborhood development activities as well as competitive grants such as the Continuum of Care (CoC) program. The City will advocate that these critical programs are maintained in the federal budget."
   ],
   "operating_department":{
     "table_type":"operating_department",
-    "debug":"JCB",
     "table_title":"Operating Budget",
     "Program Name":"Department",
     "line_type":"title",
-    "fy-2":"FY15 Actual",
-    "fy-1":"FY16 Actual",
-    "fy-0":"FY17 Budget",
-    "fy+1":"FY18 Budget",
+    "fy-2":"FY16 Actual",
+    "fy-1":"FY17 Actual",
+    "fy-0":"FY18 Budget",
+    "fy+1":"FY19 Budget",
     "data":[
-      {
-        "department":"Leading the Way",
-        "line_type":"data",
-        "fy-2":5500000,
-        "fy-1":0,
-        "fy-0":0,
-        "fy+1":0
-      },
       {
         "department":"Neighborhood Development",
         "line_type":"data",
-        "fy-2":4968262,
-        "fy-1":11544055,
-        "fy-0":12963182,
-        "fy+1":13125615
+        "fy-2":11544055,
+        "fy-1":12926210,
+        "fy-0":13492643,
+        "fy+1":14220701
       },
       {
         "total":"Total",
         "line_type":"total",
-        "fy-2":10468262,
-        "fy-1":11544055,
-        "fy-0":12963182,
-        "fy+1":13125615
+        "fy-2":11544055,
+        "fy-1":12926210,
+        "fy-0":13492643,
+        "fy+1":14220701
       }
     ],
     "capital_budget_expenditures":[
       {
-        "debug":"JCCD",
         "table_type":"capital_budget_expenditures",
         "table_title":"Capital Budget Expenditures",
         "table_header":{
           "title":"Capital Budget Expenditures",
           "line_type":"header",
-          "fy-2":"FY15 Actual",
-          "fy-1":"FY16 Actual",
-          "fy-0":"FY17 Estimated",
-          "fy+1":"FY18 Projected"
+          "fy-2":"FY16 Actual",
+          "fy-1":"FY17 Actual",
+          "fy-0":"FY18 Estimated",
+          "fy+1":"FY19 Projected"
         },
         "data":[
           {
             "title":"Neighborhood Development",
             "line_type":"data",
-            "fy-2":854701,
-            "fy-1":129788,
-            "fy-0":1855038,
-            "fy+1":2334940
+            "fy-2":129788,
+            "fy-1":710161,
+            "fy-0":2334940,
+            "fy+1":1636412
           },
           {
             "title":"Total",
             "line_type":"total",
-            "fy-2":854701,
-            "fy-1":129788,
-            "fy-0":1855038,
-            "fy+1":2334940
+            "fy-2":129788,
+            "fy-1":710161,
+            "fy-0":2334940,
+            "fy+1":1636412
           }
         ]
       }
     ]
   },
   "external_funds_tables":{
-    "debug":"JCEXFT",
     "table_type":"external_funds",
     "table_title":"external_funds",
     "table_header":{
       "title":"Department",
       "line_type":"header",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     "data":[
       {
         "title":"Neighborhood Development",
         "line_type":"data",
-        "fy-2":56693592,
-        "fy-1":65510627,
-        "fy-0":72392050,
-        "fy+1":62022707
+        "fy-2":262042508,
+        "fy-1":357817292,
+        "fy-0":248090828,
+        "fy+1":312568132
       },
       {
         "total":"Total Cabinet",
         "line_type":"total",
-        "fy-2":56693592,
-        "fy-1":65510627,
-        "fy-0":72392050,
-        "fy+1":62022707
+        "fy-2":262042508,
+        "fy-1":357817292,
+        "fy-0":248090828,
+        "fy+1":312568132
       }
     ]
   }

@@ -1,0 +1,37 @@
+---
+{
+  "title":"Licenses and Permits Revenue",
+  "layout":"bos_content",
+  "permalink":"/featured-analysis/licenses-and-permits-revenue/",
+  "section_type":"section",
+  "section_type_short":"S",
+  "source_version":"Recommended",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~licenses-and-permits-revenue.json",
+  "source_time":"20180327182333",
+  "source_year":"19",
+  "card":[
+    {
+      "category":"Revenue",
+      "order":18,
+      "title":"Licenses and Permits Revenue",
+      "body":"FY18 Budget estimates permit revenue growth from commercial and residential real estate development.",
+      "img":"/img/cards/licenses-and-permits-revenue.jpg",
+      "link":"link"
+    }
+  ],
+  "components":[
+    {
+      "text_block":[
+        {
+          "title":"Licenses and Permits",
+          "body":[
+            "This category is dominated by building permit revenue, from which the City received $51.7 million and $52.3 million in FY15 and FY16 respectively. Building permit revenue is expected to exceed the $44.1 million budgeted in FY17, and is projected to increase to $45.0 million in FY18. This estimate is a conservative estimate based on historical trends and analysis on real estate market and investment trends.",
+            "The next largest license and permit revenue is the cable television license fee from which the City received $8.1 million in FY15 and $7.1 million in FY16. The City has budgeted $6.5 million in FY17 and FY18. ",
+            "Alcoholic beverage licensing is the only other revenue source in this category that regularly exceeds $4 million in annual revenue. Alcoholic beverage licenses are budgeted at $4.2 million FY17 and $4.5 million in FY18. "
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

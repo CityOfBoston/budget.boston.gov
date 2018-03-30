@@ -1,56 +1,57 @@
 ---
 {
   "publish_subordinates":true,
-  "cabinet":"Health and Human Services",
+  "cabinet":"Health & Human Services",
   "department":"Boston VETS",
-  "file_version":"0.10",
+  "file_version":"",
   "head_name":"Giselle Sterling",
   "head_title":"Manager",
   "name":"Veterans' Services",
   "parent":"Boston VETS",
-  "section_id":104,
-  "section_md5_id":"C9E1074F5B3F9FC8EA15D152ADD07294",
+  "section_id":68,
+  "section_md5_id":"A3F390D88E4C41F2747BFA2F1B5F87DB",
   "section_type":"program",
   "section_type_short":"P",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~.json",
+  "source_time":"20180327182509",
+  "source_year":"19",
   "appropriation_code":"Organization 741100",
   "description":[
     "The Veterans&rsquo; Services Program explores all legal avenues to provide veterans and their dependents with assistance in obtaining benefits to which they are entitled.  The Department provides emergency cash assistance to homeless or about &ndash;to-be-displaced eligible veterans and their dependents.   The Department also provides financial assistance and reimbursement of medical expenses to indigent veterans.  The Department offers employment, housing, and other referral services.  In addition, Department employees participate in the Massachusetts Veterans&rsquo; Service Officer Association to improve services to veterans."
   ],
   "selected_service_indicators":[
     {
-      "debug":"JSSIT",
       "line_title":"Operating Budget",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":662599,
-      "fy-1":687442,
-      "fy-0":896795,
-      "fy+1":921308
+      "fy-2":687442,
+      "fy-1":810882,
+      "fy-0":941402,
+      "fy+1":1021251
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":3779475,
-      "fy-1":3260861,
-      "fy-0":3780935,
-      "fy+1":3787145
+      "fy-2":3260861,
+      "fy-1":2472369,
+      "fy-0":3788645,
+      "fy+1":3670882
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":4442074,
-      "fy-1":3948303,
-      "fy-0":4677730,
-      "fy+1":4708453
+      "fy-2":3948303,
+      "fy-1":3283251,
+      "fy-0":4730047,
+      "fy+1":4692133
     }
   ],
   "program_history_by_account":{
@@ -58,54 +59,54 @@
     "table_header":{
       "line_type":"title",
       "category":"Category",
-      "fy-2":"FY15 Expenditure",
-      "fy-1":"FY16 Expenditure",
-      "fy-0":"FY17 Appropriation",
-      "fy+1":"FY18 Recommended",
-      "diff":"Inc/Dec 17 vs 18"
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
     },
     "data":[
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":662599,
-        "fy-1":687442,
-        "fy-0":896795,
-        "fy+1":921308,
-        "diff":24513
+        "fy-2":687442,
+        "fy-1":810882,
+        "fy-0":941402,
+        "fy+1":1021251,
+        "diff":79849
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":91360,
-        "fy-1":111478,
+        "fy-2":111478,
+        "fy-1":88834,
         "fy-0":101932,
         "fy+1":101932,
         "diff":0
       },
       {
-        "line_title":"Supplies and Materials",
+        "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":61986,
-        "fy-1":57207,
-        "fy-0":63650,
-        "fy+1":69650,
-        "diff":6000
+        "fy-2":57207,
+        "fy-1":53516,
+        "fy-0":71150,
+        "fy+1":71900,
+        "diff":750
       },
       {
-        "line_title":"Current Chgs and Oblig",
+        "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":3614335,
-        "fy-1":3088708,
-        "fy-0":3615353,
-        "fy+1":3615563,
-        "diff":210
+        "fy-2":3088708,
+        "fy-1":2300549,
+        "fy-0":3615563,
+        "fy+1":3497050,
+        "diff":-118513
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":11794,
-        "fy-1":3468,
+        "fy-2":3468,
+        "fy-1":29470,
         "fy-0":0,
         "fy+1":0,
         "diff":0
@@ -122,11 +123,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":4442074,
-        "fy-1":3948303,
-        "fy-0":4677730,
-        "fy+1":4708453,
-        "diff":30723
+        "fy-2":3948303,
+        "fy-1":3283251,
+        "fy-0":4730047,
+        "fy+1":4692133,
+        "diff":-37914
       }
     ]
   },
@@ -139,22 +140,21 @@
       "performance_measures":[
         {
           "table_header":{
-            "debug":"JPM",
             "Performance Goals":"Performance Measures",
             "line_type":"header",
-            "fy-2":"FY15 Actual",
-            "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Target",
-            "fy+1":"FY18 Target"
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
           },
           "data":[
             {
               "line_type":"data",
               "line_data":"# Outreach - All Other",
-              "fy-2":"217",
-              "fy-1":"42",
-              "fy-0":"24",
-              "fy+1":"24"
+              "fy-2":"42",
+              "fy-1":"24",
+              "fy-0":"16",
+              "fy+1":"18"
             }
           ]
         }
@@ -168,21 +168,20 @@
       "performance_measures":[
         {
           "table_header":{
-            "debug":"JPM",
             "Performance Goals":"Performance Measures",
             "line_type":"header",
-            "fy-2":"FY15 Actual",
-            "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Target",
-            "fy+1":"FY18 Target"
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
           },
           "data":[
             {
               "line_type":"data",
-              "line_data":"# Volunteers Participating - Operation Thank A Vet",
+              "line_data":"# of Volunteers Participating - Operation Thank A Vet",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"",
+              "fy-0":"350",
               "fy+1":"360"
             },
             {
@@ -190,8 +189,8 @@
               "line_data":"% of Veterans reached- Operation Thank A Vet (OTAV)",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"",
-              "fy+1":"100%"
+              "fy-0":"51%",
+              "fy+1":"50%"
             }
           ]
         }
@@ -205,13 +204,12 @@
       "performance_measures":[
         {
           "table_header":{
-            "debug":"JPM",
             "Performance Goals":"Performance Measures",
             "line_type":"header",
-            "fy-2":"FY15 Actual",
-            "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Target",
-            "fy+1":"FY18 Target"
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
           },
           "data":[
             {
@@ -242,13 +240,12 @@
       "performance_measures":[
         {
           "table_header":{
-            "debug":"JPM",
             "Performance Goals":"Performance Measures",
             "line_type":"header",
-            "fy-2":"FY15 Actual",
-            "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Target",
-            "fy+1":"FY18 Target"
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
           },
           "data":[
             {
@@ -256,14 +253,14 @@
               "line_data":"# of Homeless Veterans receiving CH115",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"",
-              "fy+1":"24"
+              "fy-0":"185",
+              "fy+1":"200"
             },
             {
               "line_type":"data",
               "line_data":"% Reimbursment for Aid to Vet Rate",
-              "fy-2":"80%",
-              "fy-1":"76%",
+              "fy-2":"76%",
+              "fy-1":"75%",
               "fy-0":"75%",
               "fy+1":"75%"
             },
@@ -272,16 +269,16 @@
               "line_data":"Consituent Contact- In Office",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"",
-              "fy+1":"10,000"
+              "fy-0":"16,200",
+              "fy+1":"17,000"
             },
             {
               "line_type":"data",
               "line_data":"New Chpt 115 Aid Reciepent- Shelter/Residence",
-              "fy-2":"313",
-              "fy-1":"231",
-              "fy-0":"230",
-              "fy+1":"250"
+              "fy-2":"231",
+              "fy-1":"230",
+              "fy-0":"180",
+              "fy+1":"200"
             }
           ]
         }

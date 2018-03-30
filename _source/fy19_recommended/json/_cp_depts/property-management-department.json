@@ -3,7 +3,7 @@
   "cabinet":"Operations",
   "debug":"JBDCP",
   "department":"Property Management Department",
-  "file_version":"0.10",
+  "file_version":"",
   "head_name":"Gregory Rooney",
   "head_title":"Commissioner",
   "name":"Property Management Department",
@@ -13,64 +13,45 @@
   "section_type":"capital_budget",
   "section_type_short":"L",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_cp_depts~property-management-department.json",
+  "source_time":"20180327183744",
+  "source_year":"19",
   "mission":[
-    "The mission of the Property Management Department is to manage, maintain, repair and provide security for the City's municipal buildings including City Hall and Faneuil Hall; to preserve the useful life of City facilities and reduce operating costs throug"
+    "The mission of the Property Management Department is to manage, maintain, repair and provide security for the City's municipal buildings including City Hall and Faneuil Hall; to preserve the useful life of City facilities and reduce operating costs through effective preventive maintenance measures."
   ],
   "description_of_services":[
     "The Property Management Department is responsible for the management, maintenance, security, and repair of the City's municipal buildings including City Hall, Faneuil Hall, and the Old State House. Property Management is responsible for facility layout and space planning analysis for City departments, building security, and events management."
   ],
-  "selected_performance_strategies":[
-    {
-      "program":"Building Maintenance",
-      "strategies":[
-        "To improve and maintain the operational condition of managed city-owned facilities."
-      ]
-    },
-    {
-      "program":"Alterations and Repair",
-      "strategies":[
-        "To improve and maintain the operational condition of managed city-owned facilities."
-      ]
-    },
-    {
-      "program":"Building Systems",
-      "strategies":[
-        "Maintain heating ventilation and air condition (HVAC) system in proper working order."
-      ]
-    }
-  ],
   "overview":[
-    "On-going investments in municipal structures, historic buildings and other city-owned properties ensure the City&rsquo;s facilities are well-maintained and managed. Asset preservation is of the utmost importance as Fiscal Year 2018 capital investments support a number of new and ongoing initiatives across the city."
+    "On-going investments in municipal structures, historic buildings and other city-owned properties ensure the City&rsquo;s facilities are well-maintained and managed. Asset preservation is of the utmost importance as Fiscal Year 2019 capital investments support a number of new and ongoing initiatives across the city."
   ],
   "fy_major_initiatives":[
-    "Early action items identified from the City Hall Master Plan will begin implementation, including the City Council Chamber floor accessibility improvements.",
-    "An upgrade to the elevator, boiler and chiller at Faneuil Hall will begin construction.",
-    "Brownstone, historic doors and window repairs will begin at Faneuil Hall.",
-    "Energy efficiency projects, including an upgrade of the HVAC system, will proceed. at City Hall"
+    "Early action items identified from the City Hall Master Plan will begin implementation. Projects include: a pilot program that will activate more service counters on the second floor and improve signage and wayfinding, masonry repairs on the Congress Street wall, and initial site investigation and engineering on the plaza that will support planned renovations to the North Plaza.",
+    "An upgrade to the elevator, boiler and chiller at Faneuil Hall will be completed.",
+    "Repairs at Faneuil Hall that include preservation of brownstone, and repairs to historic doors and window will continue.",
+    "Energy efficiency projects, including an upgrade of the HVAC system will proceed at City Hall."
   ],
   "capital_budget_expenditures":[
     {
-      "debug":"JBDCPCBE",
       "table_type":"capital_budget_expenditures",
       "table_title":"Capital Budget Expenditures",
       "table_header":{
         "line_type":"header",
         "title":null,
         "line_data_type":"string",
-        "fy-2":"FY15 Actual",
-        "fy-1":"FY16 Actual",
-        "fy-0":"FY17 Estimated",
-        "fy+1":"FY18 Projected"
+        "fy-2":"FY16 Actual",
+        "fy-1":"FY17 Actual",
+        "fy-0":"FY18 Estimated",
+        "fy+1":"FY19 Projected"
       },
       "data":{
         "line_type":"total",
         "line_title":"Total Department",
         "line_data_type":"total",
-        "fy-2":6463670,
-        "fy-1":2221439,
-        "fy-0":5735000,
-        "fy+1":9387575
+        "fy-2":2221439,
+        "fy-1":3538265,
+        "fy-0":9387575,
+        "fy+1":16659500
       }
     }
   ],
@@ -87,38 +68,38 @@
         "name":"Project",
         "location":"Location",
         "status":"Status",
-        "fy-0":"FY18 Projected",
+        "fy-0":"FY19 Projected",
         "project_title":"Total"
       },
       "projects_data":[
         {
-          "Arts and Culture":[
+          "Arts & Culture":[
             {
               "line_type":"data",
               "title":null,
-              "category":"Arts and Culture",
+              "category":"Arts & Culture",
               "name":"Archives Preservation Needs",
               "location":"West Roxbury",
               "section_id":"CPM24377",
               "status":"Study Underway",
               "operating_impact":"No",
-              "fy-0":200000,
+              "fy-0":400000,
               "project_total":1575000
             }
           ]
         },
         {
-          "Energy and Environment":[
+          "Energy & Environment":[
             {
               "line_type":"data",
               "title":null,
-              "category":"Energy and Environment",
+              "category":"Energy & Environment",
               "name":"Faneuil Hall",
               "location":"Government Center/Faneuil Hall",
               "section_id":"CPM24373",
               "status":"In Design",
               "operating_impact":"No",
-              "fy-0":300500,
+              "fy-0":1649500,
               "project_total":1950000
             }
           ]
@@ -129,61 +110,37 @@
               "line_type":"data",
               "title":null,
               "category":"Government Effectiveness",
-              "name":"1010 Mass. Ave. Renovation",
-              "location":"Roxbury",
-              "section_id":"CPM24723",
+              "name":"201 Rivermoor Generator",
+              "location":"West Roxbury",
+              "section_id":"CPM24777",
               "status":"New Project",
               "operating_impact":"No",
-              "fy-0":500000,
-              "project_total":3500000
+              "fy-0":0,
+              "project_total":600000
             },
             {
               "line_type":"data",
               "title":null,
               "category":"Government Effectiveness",
-              "name":"26 Court Street Renovation",
+              "name":"26 Court Street",
               "location":"Financial District/Downtown",
               "section_id":"CPM23470",
               "status":"In Design",
               "operating_impact":"No",
-              "fy-0":1700000,
+              "fy-0":5265000,
               "project_total":28245558
             },
             {
               "line_type":"data",
               "title":null,
               "category":"Government Effectiveness",
-              "name":"City Hall",
+              "name":"City Hall and City Hall Plaza",
               "location":"Government Center/Faneuil Hall",
               "section_id":"CPM24712",
-              "status":"New Project",
+              "status":"Ongoing Program",
               "operating_impact":"No",
-              "fy-0":3189000,
-              "project_total":35150000
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Government Effectiveness",
-              "name":"City Hall ADA Restroom",
-              "location":"Government Center/Faneuil Hall",
-              "section_id":"CPM24152",
-              "status":"In Design",
-              "operating_impact":"No",
-              "fy-0":5117,
-              "project_total":100000
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Government Effectiveness",
-              "name":"City Hall Plaza",
-              "location":"Government Center/Faneuil Hall",
-              "section_id":"CPM24711",
-              "status":"New Project",
-              "operating_impact":"No",
-              "fy-0":600000,
-              "project_total":25150000
+              "fy-0":9000000,
+              "project_total":60300000
             },
             {
               "line_type":"data",
@@ -194,7 +151,7 @@
               "section_id":"CPM23947",
               "status":"To Be Scheduled",
               "operating_impact":"No",
-              "fy-0":0,
+              "fy-0":60000,
               "project_total":350500
             },
             {
@@ -204,22 +161,10 @@
               "name":"Faneuil Hall HVAC",
               "location":"Government Center/Faneuil Hall",
               "section_id":"CPM24124",
-              "status":"In Design",
-              "operating_impact":"No",
-              "fy-0":2500000,
-              "project_total":4655000
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Government Effectiveness",
-              "name":"Veronica Smith Center Bathrooms and Flooring",
-              "location":"Allston/Brighton",
-              "section_id":"CPM24110",
               "status":"In Construction",
               "operating_impact":"No",
-              "fy-0":392958,
-              "project_total":683000
+              "fy-0":285000,
+              "project_total":4655000
             }
           ]
         },
@@ -242,7 +187,7 @@
       ]
     }
   ],
-  "fy-0":9387575,
-  "total":101629058
+  "fy-0":16659500,
+  "total":97946058
 }
 ---

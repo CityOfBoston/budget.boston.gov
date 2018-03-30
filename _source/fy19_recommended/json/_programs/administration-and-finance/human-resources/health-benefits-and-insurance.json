@@ -1,56 +1,57 @@
 ---
 {
   "publish_subordinates":true,
-  "cabinet":"Administration and Finance",
+  "cabinet":"Administration & Finance",
   "department":"Human Resources",
-  "file_version":"0.10",
-  "head_name":"Vivian Leonard",
+  "file_version":"",
+  "head_name":"Marianna Gil",
   "head_title":"Manager",
-  "name":"Health Benefits and Insurance",
+  "name":"Health Benefits & Insurance",
   "parent":"Human Resources",
-  "section_id":118,
-  "section_md5_id":"5EF059938BA799AAA845E1C2E8A762BD",
+  "section_id":120,
+  "section_md5_id":"DA4FB5C6E93E74D3DF8527599FA62642",
   "section_type":"program",
   "section_type_short":"P",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~affirmative-action.json",
+  "source_time":"20180327182355",
+  "source_year":"19",
   "appropriation_code":"Organization 142300",
   "description":[
     "The Health Benefits and Insurance Program is responsible for providing life insurance, dental and vision care, and a variety of health insurance plans to active and retired employees of the City of Boston as efficiently and economically as possible within the guidelines of MGL Chapter 32B."
   ],
   "selected_service_indicators":[
     {
-      "debug":"JSSIT",
       "line_title":"Operating Budget",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":529024,
-      "fy-1":543981,
-      "fy-0":640165,
-      "fy+1":713382
+      "fy-2":543981,
+      "fy-1":633946,
+      "fy-0":751592,
+      "fy+1":811832
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":61886,
-      "fy-1":49542,
-      "fy-0":82200,
-      "fy+1":80550
+      "fy-2":49542,
+      "fy-1":42340,
+      "fy-0":82300,
+      "fy+1":77600
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":590910,
-      "fy-1":593523,
-      "fy-0":722365,
-      "fy+1":793932
+      "fy-2":593523,
+      "fy-1":676286,
+      "fy-0":833892,
+      "fy+1":889432
     }
   ],
   "program_history_by_account":{
@@ -58,53 +59,53 @@
     "table_header":{
       "line_type":"title",
       "category":"Category",
-      "fy-2":"FY15 Expenditure",
-      "fy-1":"FY16 Expenditure",
-      "fy-0":"FY17 Appropriation",
-      "fy+1":"FY18 Recommended",
-      "diff":"Inc/Dec 17 vs 18"
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
     },
     "data":[
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":529024,
-        "fy-1":543981,
-        "fy-0":640165,
-        "fy+1":713382,
-        "diff":73217
+        "fy-2":543981,
+        "fy-1":633946,
+        "fy-0":751592,
+        "fy+1":811832,
+        "diff":60240
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":20009,
-        "fy-1":9305,
-        "fy-0":25050,
+        "fy-2":9305,
+        "fy-1":11737,
+        "fy-0":23400,
         "fy+1":23400,
-        "diff":-1650
-      },
-      {
-        "line_title":"Supplies and Materials",
-        "line_type":"data",
-        "fy-2":36619,
-        "fy-1":40052,
-        "fy-0":57000,
-        "fy+1":57000,
         "diff":0
       },
       {
-        "line_title":"Current Chgs and Oblig",
+        "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":124,
+        "fy-2":40052,
+        "fy-1":30418,
+        "fy-0":58750,
+        "fy+1":54000,
+        "diff":-4750
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":185,
         "fy-1":185,
         "fy-0":150,
-        "fy+1":150,
-        "diff":0
+        "fy+1":200,
+        "diff":50
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":5134,
+        "fy-2":0,
         "fy-1":0,
         "fy-0":0,
         "fy+1":0,
@@ -122,11 +123,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":590910,
-        "fy-1":593523,
-        "fy-0":722365,
-        "fy+1":793932,
-        "diff":71567
+        "fy-2":593523,
+        "fy-1":676286,
+        "fy-0":833892,
+        "fy+1":889432,
+        "diff":55540
       }
     ]
   },
@@ -139,13 +140,12 @@
       "performance_measures":[
         {
           "table_header":{
-            "debug":"JPM",
             "Performance Goals":"Performance Measures",
             "line_type":"header",
-            "fy-2":"FY15 Actual",
-            "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Target",
-            "fy+1":"FY18 Target"
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
           },
           "data":[
             {
@@ -153,16 +153,16 @@
               "line_data":"# of Benefits Information and Education Sessions Held",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"",
-              "fy+1":"8"
+              "fy-0":"18",
+              "fy+1":"20"
             },
             {
               "line_type":"data",
               "line_data":"# of Visits on Health Benefits Webpages",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"",
-              "fy+1":"3,600"
+              "fy-0":"4,000",
+              "fy+1":"4,400"
             }
           ]
         }

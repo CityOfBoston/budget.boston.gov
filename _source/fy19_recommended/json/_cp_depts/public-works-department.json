@@ -3,7 +3,7 @@
   "cabinet":"Streets",
   "debug":"JBDCP",
   "department":"Public Works Department",
-  "file_version":"0.10",
+  "file_version":"",
   "head_name":"Chris Osgood",
   "head_title":"Interim Commissioner",
   "name":"Public Works Department",
@@ -13,80 +13,54 @@
   "section_type":"capital_budget",
   "section_type_short":"L",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_cp_depts~public-works-department.json",
+  "source_time":"20180327183805",
+  "source_year":"19",
   "mission":[
-    "The mission of the Public Works Department is to provide a quality environment for the City of Boston and ensure that the City's roadways, streets and bridge infrastructures are safe, clean and attractive. The Public Works Department also maintains street"
+    "The mission of the Public Works Department is to provide a quality environment for the City of Boston and ensure that the City's roadways, streets and bridge infrastructures are safe, clean and attractive. The Public Works Department also maintains street lights, traffic signals, provides snow removal and garbage collection and disposal as well as curbside recycling."
   ],
   "description_of_services":[
     "The Public Works Department directs the general construction, maintenance, and cleaning of approximately 802 miles of roadways throughout the City. It also provides snow and ice control for all City streets. In addition, it operates two major drawbridges, maintains 68,055 City-owned street lights, and supervises contracts for the removal and disposal of approximately 260,000 tons of solid waste. The Department also operates the City's recycling program with an annual diversion of approximately 50,000 tons."
-  ],
-  "selected_performance_strategies":[
-    {
-      "program":"Construction Management",
-      "strategies":[
-        "Ensure that Boston&rsquo;s streets, sidewalks, and bridges are safe, clean and attractive.",
-        "Ensure that Boston&rsquo;s streets, sidewalks, and bridges are safe, clean and attractive."
-      ]
-    },
-    {
-      "program":"Highway Field Operations",
-      "strategies":[
-        "Effectively control and manage Boston's public space.",
-        "Ensure that Boston&rsquo;s streets, sidewalks, and bridges are safe, clean and attractive."
-      ]
-    },
-    {
-      "program":"Street Lights",
-      "strategies":[
-        "Efficiently deliver services.",
-        "Improve neighborhood quality of life."
-      ]
-    },
-    {
-      "program":"Waste Reduction",
-      "strategies":[
-        "Effectively control and manage Boston's public space.",
-        "Efficiently deliver services."
-      ]
-    }
   ],
   "overview":[
     "This Capital Plan invests deeply in the core goals of Go Boston 2030: streets that are safer for all users of our roads and sidewalks, particularly pedestrians and cyclists; travel that is more reliable and predictable, and quality transportation choices that improve access to interconnect Boston neighborhoods for all modes of travel."
   ],
   "fy_major_initiatives":[
     "Walkable Streets will focus on longer, contiguous sections of sidewalks to improve overall mobility.",
-    "Construction will begin in Hyde Square to reconstruct Centre Street with wider sidewalks, new lighting, pedestrian safety improvements and the installation of public art.",
-    "Construction will begin on the streets and sidewalks in and around North Square.",
-    "Construction will be completed on the multi-year Connect Historic Boston project.",
-    "The reconstruction and installation of pedestrian ramps on sidewalks will continue throughout the City, to improve accessibility.",
-    "Design processes with community input for major neighborhood improvements at Commonwealth Avenue Phase 3 and 4 in Brighton will continue.",
-    "Whittier Street housing redevelopment roadways supporting recent $30 million HUD grant to the Boston Housing Authority to revitalize the housing development and surrounding neighborhood.",
-    "Elevator improvements are planned at the Central Maintenance Facility as well as improved water service.",
-    "Construction is expected to begin on a new North Washington Street Bridge.",
-    "Ongoing roadway reconstruction, resurfacing, and sidewalk repairs are planned throughout the City."
+    "Construction will begin on Beach Street, from Atlantic Avenue to JFK Surface Road with new sidewalks, new lighting, trees, and street furniture.",
+    "Construction will begin at New England Avenue, from Talbot Avenue to Norfolk Avenue with new sidewalks and lighting.",
+    "Construction will continue on the streets and sidewalks in and around North Square.",
+    "The reconstruction and installation of pedestrian ramps on sidewalks will continue throughout the City, to improve accessibility. Funding for pedestrian ramp installations will increase $500K in FY19.",
+    "State Street will be re-designed adhering to Complete Streets guidelines.",
+    "Cummins Highway from Mattapan Square to Harvard Street will be re-designed with Complete Streets guidelines in mind.",
+    "Ruggles Street from Tremont Street to Shawmut Street will also be re-designed adhering to Complete Streets standard.",
+    "Construction will begin on a new North Washington Street Bridge.",
+    "Construction is expected to begin on a new Long Island Bridge.",
+    "Design is expected to begin on the Northern Avenue Bridge.",
+    "Upgrades to a series of bridges in an effort to bring all bridges to a State of Good Repair by 2030.",
+    "Funding for roadway reconstruction, resurfacing, and sidewalk improvements will be increased by $3.75 million this year. Repairs are planned throughout the City."
   ],
   "capital_budget_expenditures":[
     {
-      "debug":"JBDCPCBE",
       "table_type":"capital_budget_expenditures",
       "table_title":"Capital Budget Expenditures",
       "table_header":{
         "line_type":"header",
         "title":null,
         "line_data_type":"string",
-        "fy-2":"FY15 Actual",
-        "fy-1":"FY16 Actual",
-        "fy-0":"FY17 Estimated",
-        "fy+1":"FY18 Projected"
+        "fy-2":"FY16 Actual",
+        "fy-1":"FY17 Actual",
+        "fy-0":"FY18 Estimated",
+        "fy+1":"FY19 Projected"
       },
       "data":{
         "line_type":"total",
         "line_title":"Total Department",
         "line_data_type":"total",
-        "fy-2":79108290,
-        "fy-1":52826257,
-        "fy-0":84717890,
-        "fy+1":69134494
+        "fy-2":52826257,
+        "fy-1":49512782,
+        "fy-0":75434494,
+        "fy+1":88893442
       }
     }
   ],
@@ -103,7 +77,7 @@
         "name":"Project",
         "location":"Location",
         "status":"Status",
-        "fy-0":"FY18 Projected",
+        "fy-0":"FY19 Projected",
         "project_title":"Total"
       },
       "projects_data":[
@@ -118,8 +92,8 @@
               "section_id":"CPW24703",
               "status":"In Design",
               "operating_impact":"No",
-              "fy-0":2320000,
-              "project_total":3820000
+              "fy-0":100000,
+              "project_total":2215000
             },
             {
               "line_type":"data",
@@ -136,11 +110,11 @@
           ]
         },
         {
-          "Energy and Environment":[
+          "Energy & Environment":[
             {
               "line_type":"data",
               "title":null,
-              "category":"Energy and Environment",
+              "category":"Energy & Environment",
               "name":"Street Light Gas Lamps",
               "location":"Various neighborhoods",
               "section_id":"CPW23999",
@@ -148,22 +122,18 @@
               "operating_impact":"No",
               "fy-0":150000,
               "project_total":1137500
-            }
-          ]
-        },
-        {
-          "Energy and Environment":[
+            },
             {
               "line_type":"data",
               "title":null,
-              "category":"Energy and Environment",
+              "category":"Energy & Environment",
               "name":"Street Light LED Conversion",
               "location":"Citywide",
               "section_id":"CPW23416",
               "status":"Annual Program",
               "operating_impact":"No",
               "fy-0":0,
-              "project_total":24013182
+              "project_total":25529031
             }
           ]
         },
@@ -178,7 +148,7 @@
               "section_id":"CPW23996",
               "status":"In Design",
               "operating_impact":"No",
-              "fy-0":1500000,
+              "fy-0":1550000,
               "project_total":3050000
             },
             {
@@ -188,10 +158,26 @@
               "name":"Whittier Street Housing Development Roadways",
               "location":"Roxbury",
               "section_id":"CPW24699",
-              "status":"New Project",
+              "status":"In Design",
               "operating_impact":"No",
-              "fy-0":200000,
+              "fy-0":800000,
               "project_total":1000000
+            }
+          ]
+        },
+        {
+          "Open Space":[
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Open Space",
+              "name":"Neighborhood Commons",
+              "location":"Various neighborhoods",
+              "section_id":"CPW23597",
+              "status":"In Construction",
+              "operating_impact":"No",
+              "fy-0":250000,
+              "project_total":1460000
             }
           ]
         },
@@ -218,8 +204,20 @@
               "section_id":"CPW21955",
               "status":"In Construction",
               "operating_impact":"No",
-              "fy-0":400000,
-              "project_total":64402307
+              "fy-0":7950000,
+              "project_total":81700000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Transportation",
+              "name":"Amory Street Extension",
+              "location":"Roxbury",
+              "section_id":"CPW24785",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":200000,
+              "project_total":1000000
             },
             {
               "line_type":"data",
@@ -230,7 +228,7 @@
               "section_id":"CPW24696",
               "status":"In Design",
               "operating_impact":"No",
-              "fy-0":500000,
+              "fy-0":950000,
               "project_total":1250000
             },
             {
@@ -240,9 +238,9 @@
               "name":"Boylston Street Sidewalks",
               "location":"Back Bay",
               "section_id":"CPW24564",
-              "status":"New Project",
+              "status":"In Design",
               "operating_impact":"No",
-              "fy-0":560000,
+              "fy-0":500000,
               "project_total":2261000
             },
             {
@@ -266,7 +264,7 @@
               "section_id":"CPW20586",
               "status":"To Be Scheduled",
               "operating_impact":"No",
-              "fy-0":100000,
+              "fy-0":1650000,
               "project_total":2750000
             },
             {
@@ -276,10 +274,10 @@
               "name":"Central Maintenance Facility Complex",
               "location":"South End",
               "section_id":"CPW23454",
-              "status":"To Be Scheduled",
+              "status":"In Design",
               "operating_impact":"No",
-              "fy-0":1500000,
-              "project_total":18160673
+              "fy-0":1510000,
+              "project_total":18166588
             },
             {
               "line_type":"data",
@@ -290,8 +288,8 @@
               "section_id":"CPW23637",
               "status":"In Design",
               "operating_impact":"No",
-              "fy-0":1500000,
-              "project_total":3130000
+              "fy-0":2000000,
+              "project_total":5010000
             },
             {
               "line_type":"data",
@@ -302,7 +300,7 @@
               "section_id":"CPW24330",
               "status":"In Construction",
               "operating_impact":"No",
-              "fy-0":470173,
+              "fy-0":170913,
               "project_total":20066250
             },
             {
@@ -314,7 +312,7 @@
               "section_id":"CPW23783",
               "status":"In Design",
               "operating_impact":"No",
-              "fy-0":200000,
+              "fy-0":10000,
               "project_total":2900000
             },
             {
@@ -324,9 +322,9 @@
               "name":"Congress Street",
               "location":"South Boston",
               "section_id":"CPW24704",
-              "status":"New Project",
+              "status":"To Be Scheduled",
               "operating_impact":"No",
-              "fy-0":0,
+              "fy-0":250000,
               "project_total":250000
             },
             {
@@ -338,8 +336,20 @@
               "section_id":"CPW23925",
               "status":"In Construction",
               "operating_impact":"No",
-              "fy-0":11544783,
-              "project_total":30006896
+              "fy-0":529481,
+              "project_total":29293700
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Transportation",
+              "name":"Cummins Highway",
+              "location":"Mattapan",
+              "section_id":"CPW24786",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":100000,
+              "project_total":4000000
             },
             {
               "line_type":"data",
@@ -348,22 +358,46 @@
               "name":"Dalton Street Bridge",
               "location":"Back Bay",
               "section_id":"CPW24619",
-              "status":"New Project",
+              "status":"To Be Scheduled",
               "operating_impact":"No",
-              "fy-0":0,
+              "fy-0":150000,
               "project_total":600000
             },
             {
               "line_type":"data",
               "title":null,
               "category":"Transportation",
-              "name":"Hyde Square",
-              "location":"Jamaica Plain",
-              "section_id":"CPW24623",
-              "status":"In Construction",
+              "name":"Dana Avenue Bridge",
+              "location":"Hyde Park",
+              "section_id":"CPW24787",
+              "status":"New Project",
               "operating_impact":"No",
-              "fy-0":700000,
-              "project_total":1250000
+              "fy-0":2000000,
+              "project_total":5000000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Transportation",
+              "name":"Downtown Crossing",
+              "location":"Financial District/Downtown",
+              "section_id":"CPW24789",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":250000,
+              "project_total":500000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Transportation",
+              "name":"Emerald Necklace",
+              "location":"Various neighborhoods",
+              "section_id":"CPW24803",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":100000,
+              "project_total":300000
             },
             {
               "line_type":"data",
@@ -374,8 +408,8 @@
               "section_id":"CPW24057",
               "status":"In Design",
               "operating_impact":"No",
-              "fy-0":0,
-              "project_total":32379436
+              "fy-0":9000000,
+              "project_total":108758144
             },
             {
               "line_type":"data",
@@ -386,8 +420,8 @@
               "section_id":"CPW20554",
               "status":"In Construction",
               "operating_impact":"No",
-              "fy-0":182572,
-              "project_total":17952769
+              "fy-0":300000,
+              "project_total":18319769
             },
             {
               "line_type":"data",
@@ -396,10 +430,22 @@
               "name":"McArdle Bridge",
               "location":"East Boston",
               "section_id":"CPW24616",
-              "status":"In Design",
+              "status":"To Be Scheduled",
               "operating_impact":"No",
-              "fy-0":0,
+              "fy-0":500000,
               "project_total":3000000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Transportation",
+              "name":"New England Avenue",
+              "location":"Dorchester",
+              "section_id":"CPW24748",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":400000,
+              "project_total":1500000
             },
             {
               "line_type":"data",
@@ -408,9 +454,9 @@
               "name":"North Square",
               "location":"North End",
               "section_id":"CPW23787",
-              "status":"In Design",
+              "status":"In Construction",
               "operating_impact":"No",
-              "fy-0":1400000,
+              "fy-0":950000,
               "project_total":2500000
             },
             {
@@ -422,8 +468,8 @@
               "section_id":"CPW22494",
               "status":"In Design",
               "operating_impact":"No",
-              "fy-0":2000000,
-              "project_total":165067844
+              "fy-0":6700000,
+              "project_total":218957519
             },
             {
               "line_type":"data",
@@ -431,11 +477,11 @@
               "category":"Transportation",
               "name":"Northern Avenue Bridge",
               "location":"South Boston",
-              "section_id":"CPW21751",
-              "status":"In Design",
+              "section_id":"CPW24736",
+              "status":"New Project",
               "operating_impact":"No",
-              "fy-0":1500000,
-              "project_total":55609765
+              "fy-0":2500000,
+              "project_total":100000000
             },
             {
               "line_type":"data",
@@ -458,8 +504,8 @@
               "section_id":"CPW24709",
               "status":"Annual Program",
               "operating_impact":"No",
-              "fy-0":9000000,
-              "project_total":45000000
+              "fy-0":13750000,
+              "project_total":66750000
             },
             {
               "line_type":"data",
@@ -468,9 +514,9 @@
               "name":"Ruggles Street",
               "location":"Roxbury",
               "section_id":"CPW24707",
-              "status":"New Project",
+              "status":"To Be Scheduled",
               "operating_impact":"No",
-              "fy-0":0,
+              "fy-0":200000,
               "project_total":1800000
             },
             {
@@ -482,8 +528,20 @@
               "section_id":"CPW24534",
               "status":"Annual Program",
               "operating_impact":"No",
-              "fy-0":5075000,
-              "project_total":31050000
+              "fy-0":7000000,
+              "project_total":41050000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Transportation",
+              "name":"State Street",
+              "location":"Financial District/Downtown",
+              "section_id":"CPW24784",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":100000,
+              "project_total":1500000
             },
             {
               "line_type":"data",
@@ -494,7 +552,7 @@
               "section_id":"CPW22562",
               "status":"Annual Program",
               "operating_impact":"No",
-              "fy-0":1020487,
+              "fy-0":1000000,
               "project_total":20147167
             },
             {
@@ -506,7 +564,7 @@
               "section_id":"CPW22629",
               "status":"In Design",
               "operating_impact":"No",
-              "fy-0":953768,
+              "fy-0":900000,
               "project_total":14759403
             },
             {
@@ -516,9 +574,9 @@
               "name":"Summer Street",
               "location":"South Boston",
               "section_id":"CPW24626",
-              "status":"In Design",
+              "status":"In Construction",
               "operating_impact":"No",
-              "fy-0":200000,
+              "fy-0":2500000,
               "project_total":7400000
             },
             {
@@ -528,17 +586,17 @@
               "name":"Walkable Streets",
               "location":"Various neighborhoods",
               "section_id":"CPW24182",
-              "status":"In Construction",
+              "status":"Annual Program",
               "operating_impact":"No",
-              "fy-0":1000000,
-              "project_total":6000000
+              "fy-0":1750000,
+              "project_total":8000000
             }
           ]
         }
       ]
     }
   ],
-  "fy-0":47976783,
-  "total":610264192
+  "fy-0":72720394,
+  "total":851431071
 }
 ---

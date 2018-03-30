@@ -1,0 +1,173 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Health & Human Services",
+  "department":"Boston Centers for Youth & Families",
+  "file_version":"",
+  "head_name":"Hector Alvarez",
+  "head_title":"Manager",
+  "name":"Sports & Fitness",
+  "parent":"Boston Centers for Youth & Families",
+  "section_id":55,
+  "section_md5_id":"B53B3A3D6AB90CE0268229151C9BDE11",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~null-no-data.json",
+  "source_time":"20180327182505",
+  "source_year":"19",
+  "appropriation_code":"Organization 385200",
+  "description":[
+    "The Sports and Fitness Division is responsible for developing and coordinating citywide sports and fitness programming for children and youth including various clinics, leagues, and classes aimed at developing athletic skills and sense of sportsmanship. The division works to address the obesity epidemic and support the health and wellness of Boston residents through partnerships and programming. The division also provides training for community center athletic staff and volunteers."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":4181993,
+      "fy-1":4190887,
+      "fy-0":4598198,
+      "fy+1":4690374
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":63248,
+      "fy-1":1450,
+      "fy-0":2150000,
+      "fy+1":0
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":4245241,
+      "fy-1":4192337,
+      "fy-0":6748198,
+      "fy+1":4690374
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":4181993,
+        "fy-1":4190887,
+        "fy-0":4598198,
+        "fy+1":4690374,
+        "diff":92176
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":63248,
+        "fy-1":1450,
+        "fy-0":150000,
+        "fy+1":0,
+        "diff":-150000
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":2000000,
+        "fy+1":0,
+        "diff":-2000000
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":4245241,
+        "fy-1":4192337,
+        "fy-0":6748198,
+        "fy+1":4690374,
+        "diff":-2057824
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To support health and wellness through community center sports, fitness, and recreation programming"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of Aquatic Program Participants",
+              "fy-2":"",
+              "fy-1":"10,187",
+              "fy-0":"24,000",
+              "fy+1":"20,000"
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of girls program participants",
+              "fy-2":"",
+              "fy-1":"3,061",
+              "fy-0":"2,300",
+              "fy+1":"2,500"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

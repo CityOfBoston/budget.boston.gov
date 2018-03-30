@@ -3,54 +3,55 @@
   "publish_subordinates":true,
   "cabinet":"Non-Mayoral Departments",
   "department":"City Council",
-  "file_version":"0.10",
-  "head_name":"Daisy De La Rosa",
+  "file_version":"",
+  "head_name":"Yuleidy Valdez",
   "head_title":"Manager",
   "name":"Legislative/Financial Support",
   "parent":"City Council",
-  "section_id":111,
-  "section_md5_id":"698D51A19D8A121CE581499D7B701668",
+  "section_id":81,
+  "section_md5_id":"43EC517D68B6EDD3015B3EDC9A11367B",
   "section_type":"program",
   "section_type_short":"P",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~city-councilors.json",
+  "source_time":"20180327183739",
+  "source_year":"19",
   "appropriation_code":"Organization 112300",
   "description":[
     "The mission of the Legislative/Financial Support Program is to provide research and draft legislation to be filed by City Councilors and provide analysis of legislation introduced by the Mayor.  The program also provides a comprehensive analysis of the operating and capital budgets.  The program maintains the Council's municipal reference library, furnishing City departments and the general public with information on municipal government."
   ],
   "selected_service_indicators":[
     {
-      "debug":"JSSIT",
       "line_title":"Operating Budget",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":498326,
-      "fy-1":540417,
-      "fy-0":526355,
-      "fy+1":525521
+      "fy-2":540417,
+      "fy-1":495148,
+      "fy-0":525521,
+      "fy+1":531969
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":23451,
-      "fy-1":3737,
-      "fy-0":37600,
+      "fy-2":3737,
+      "fy-1":2868,
+      "fy-0":38500,
       "fy+1":38500
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":521777,
-      "fy-1":544154,
-      "fy-0":563955,
-      "fy+1":564021
+      "fy-2":544154,
+      "fy-1":498016,
+      "fy-0":564021,
+      "fy+1":570469
     }
   ],
   "program_history_by_account":{
@@ -58,54 +59,54 @@
     "table_header":{
       "line_type":"title",
       "category":"Category",
-      "fy-2":"FY15 Expenditure",
-      "fy-1":"FY16 Expenditure",
-      "fy-0":"FY17 Appropriation",
-      "fy+1":"FY18 Recommended",
-      "diff":"Inc/Dec 17 vs 18"
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
     },
     "data":[
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":498326,
-        "fy-1":540417,
-        "fy-0":526355,
-        "fy+1":525521,
-        "diff":-834
+        "fy-2":540417,
+        "fy-1":495148,
+        "fy-0":525521,
+        "fy+1":531969,
+        "diff":6448
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":174,
+        "fy-2":174,
+        "fy-1":1234,
         "fy-0":5500,
         "fy+1":5500,
         "diff":0
       },
       {
-        "line_title":"Supplies and Materials",
+        "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":571,
+        "fy-2":0,
         "fy-1":0,
         "fy-0":500,
         "fy+1":500,
         "diff":0
       },
       {
-        "line_title":"Current Chgs and Oblig",
+        "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":4012,
-        "fy-1":3328,
-        "fy-0":16600,
+        "fy-2":3328,
+        "fy-1":1549,
+        "fy-0":17500,
         "fy+1":17500,
-        "diff":900
+        "diff":0
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":18868,
-        "fy-1":235,
+        "fy-2":235,
+        "fy-1":85,
         "fy-0":15000,
         "fy+1":15000,
         "diff":0
@@ -122,11 +123,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":521777,
-        "fy-1":544154,
-        "fy-0":563955,
-        "fy+1":564021,
-        "diff":66
+        "fy-2":544154,
+        "fy-1":498016,
+        "fy-0":564021,
+        "fy+1":570469,
+        "diff":6448
       }
     ]
   }

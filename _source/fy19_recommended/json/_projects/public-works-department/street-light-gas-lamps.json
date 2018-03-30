@@ -1,9 +1,9 @@
 ---
 {
-  "category":"Energy and Environment",
+  "category":"Energy & Environment",
   "category_desc":"Initiatives to support a healthy environment, reduce energy consumption and greenhouse gas emissions, and prepare for climate change.",
   "department":"Public Works Department",
-  "file_version":"0.10",
+  "file_version":"",
   "location":"Various neighborhoods",
   "managing_department":"Public Works Department",
   "mission":"Using utility subsidies, this program is designed to retrofit solar powered timers to activate gas lamp street lights.",
@@ -13,20 +13,21 @@
   "section_type":"projects",
   "section_type_short":"R",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_projects~public-works-department~street-light-gas-lamps.json",
+  "source_time":"20180327183807",
+  "source_year":"19",
   "status":"Annual Program",
   "expenditures_detail":{
-    "debug":"JCP1",
     "table_title":"Expenditures (Actual and Planned)",
     "table_header":{
       "line_type":"header",
       "line_title":null,
       "line_data_type":"string",
       "source":"Source",
-      "past_spending":"Through 6/30/16",
-      "fy-1":"FY17 Budget",
-      "fy-0":"FY18 Budget",
-      "fy+1-4":"FY19-22 Budget",
+      "past_spending":"Through 6/30/17",
+      "fy-1":"FY18 Budget",
+      "fy-0":"FY19 Budget",
+      "fy+1-4":"FY20-23 Budget",
       "total":"Total"
     },
     "data":[
@@ -65,7 +66,6 @@
       }
     ],
     "authorizations_table":{
-      "debug":"JCP2",
       "table_title":"Authorizations",
       "table_header":{
         "line_type":"header",
@@ -73,7 +73,7 @@
         "line_data_type":"string",
         "source":"Source",
         "existing":"Existing",
-        "fy-0":"FY18",
+        "fy-0":"FY19",
         "fy-0++":"Future",
         "other":"Non Capital Fund",
         "total":"Total"
@@ -84,8 +84,8 @@
           "line_title":null,
           "line_data_type":"number",
           "source":"City Capital",
-          "existing":800000,
-          "fy-0":150000,
+          "existing":950000,
+          "fy-0":0,
           "fy-0++":0,
           "other":0,
           "total":950000
@@ -106,8 +106,8 @@
           "line_title":"Totals",
           "line_data_type":"number",
           "source":"Totals",
-          "existing":987500,
-          "fy-0":150000,
+          "existing":1137500,
+          "fy-0":0,
           "fy-0++":0,
           "other":0,
           "total":1137500

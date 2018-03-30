@@ -3,7 +3,7 @@
   "category":"Open Space",
   "category_desc":"Initiatives to strengthen our existing park system and invest in new open spaces.",
   "department":"Parks and Recreation Department",
-  "file_version":"0.10",
+  "file_version":"",
   "location":"Fenway/Kenmore",
   "managing_department":"Parks and Recreation Department",
   "mission":"Dredge main channel and restore habitat along the Muddy River. Project will be implemented through the Army Corps of Engineers. Additional project funding is provided by the Army Corps of Engineers, the Commonwealth, and the Town of Brookline.",
@@ -13,20 +13,21 @@
   "section_type":"projects",
   "section_type_short":"R",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_projects~parks-and-recreation-department~muddy-river.json",
+  "source_time":"20180327182449",
+  "source_year":"19",
   "status":"In Design",
   "expenditures_detail":{
-    "debug":"JCP1",
     "table_title":"Expenditures (Actual and Planned)",
     "table_header":{
       "line_type":"header",
       "line_title":null,
       "line_data_type":"string",
       "source":"Source",
-      "past_spending":"Through 6/30/16",
-      "fy-1":"FY17 Budget",
-      "fy-0":"FY18 Budget",
-      "fy+1-4":"FY19-22 Budget",
+      "past_spending":"Through 6/30/17",
+      "fy-1":"FY18 Budget",
+      "fy-0":"FY19 Budget",
+      "fy+1-4":"FY20-23 Budget",
       "total":"Total"
     },
     "data":[
@@ -35,10 +36,10 @@
         "line_title":null,
         "line_date_type":"number",
         "source":"City Capital",
-        "past_spending":2272141,
-        "fy-1":14180,
+        "past_spending":2350166,
+        "fy-1":100000,
         "fy-0":500000,
-        "fy+1-4":7566179,
+        "fy+1-4":7402334,
         "total":10352500
       },
       {
@@ -57,15 +58,14 @@
         "line_title":null,
         "line_date_type":"number",
         "source":"Totals",
-        "past_spending":3224914,
-        "fy-1":14180,
+        "past_spending":3302939,
+        "fy-1":100000,
         "fy-0":610000,
-        "fy+1-4":7780492,
+        "fy+1-4":7616647,
         "total":11629586
       }
     ],
     "authorizations_table":{
-      "debug":"JCP2",
       "table_title":"Authorizations",
       "table_header":{
         "line_type":"header",
@@ -73,7 +73,7 @@
         "line_data_type":"string",
         "source":"Source",
         "existing":"Existing",
-        "fy-0":"FY18",
+        "fy-0":"FY19",
         "fy-0++":"Future",
         "other":"Non Capital Fund",
         "total":"Total"

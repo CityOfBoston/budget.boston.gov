@@ -1,0 +1,35 @@
+---
+{
+  "title":"Revenue Overview",
+  "layout":"bos_content",
+  "permalink":"/featured-analysis/revenue-overview/",
+  "section_type":"section",
+  "section_type_short":"S",
+  "source_version":"Recommended",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~revenue-overview.json",
+  "source_time":"20180327182225",
+  "source_year":"19",
+  "card":[
+    {
+      "category":"Revenue",
+      "order":1,
+      "title":"Revenue Overview",
+      "body":"The City will generate over $3 billion in revenue for the first time in history. Find out how.",
+      "img":"/img/cards/revenue-overview.jpg",
+      "link":"link"
+    }
+  ],
+  "components":[
+    {
+      "text_block":[
+        {
+          "title":"OVERVIEW",
+          "body":[
+            "This chapter begins with a review of national, state, and local economic trends that impact the Boston area economy and the City&rsquo;s revenue. That is followed by a discussion of recent state budget trends and development of the FY18 state budget. Following these sections is a discussion of the City&rsquo;s FY18 revenue estimates by major category including: the property tax levy -- the City&rsquo;s largest single revenue source, state aid, and local receipts. This is followed by a brief discussion of non-recurring revenue."
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

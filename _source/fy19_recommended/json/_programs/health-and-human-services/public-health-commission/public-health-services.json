@@ -1,32 +1,33 @@
 ---
 {
   "publish_subordinates":true,
-  "cabinet":"Health and Human Services",
+  "cabinet":"Health & Human Services",
   "department":"Public Health Commission",
-  "file_version":"0.10",
+  "file_version":"",
   "head_name":"Monica Valdes Lupi",
   "head_title":"Executive Director",
   "name":"Public Health Services",
   "parent":"Public Health Commission",
-  "section_id":103,
-  "section_md5_id":"6974CE5AC660610B44D9B9FED0FF9548",
+  "section_id":4,
+  "section_md5_id":"A87FF679A2F3E71D9181A67B7542122C",
   "section_type":"program",
   "section_type_short":"P",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~.json",
+  "source_time":"20180327182521",
+  "source_year":"19",
   "appropriation_code":"Organization 620100",
   "description":[
     "The Boston Public Health Commission promotes the health of the people of Boston by protecting and fostering the three core functions of public health: assessment, assurance and policy development. It carries out these functions through a wide variety of activities including health promotion and disease prevention initiatives (such as neighborhood outreach and community education); provision of critical health services for vulnerable, under-served and at-risk populations (such as health and wellness clinical and education services for school aged children, emergency shelter and transitional housing and support services for the homeless, and substance abuse treatment for those suffering from addiction); emergency preparedness and response (such as pre-hospital emergency medical care and transport , infectious disease surveillance and outbreak control, and environmental hazards prevention and response); monitoring and reporting on the health status of the city&rsquo;s residents (such as city wide and disease specific health status reports); and development of public policy approaches that support positive health outcomes (such as tobacco control, banning the use of transfats in food establishments, regulating biological laboratories, and environmental health regulations)."
   ],
   "selected_service_indicators":[
     {
-      "debug":"JSSIT",
       "line_title":"Operating Budget",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     {
       "line_title":"Personnel Services",
@@ -39,18 +40,18 @@
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":0,
-      "fy-1":0,
-      "fy-0":0,
-      "fy+1":0
+      "fy-2":61576757,
+      "fy-1":62289011,
+      "fy-0":64061311,
+      "fy+1":84881543
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":0,
-      "fy-1":0,
-      "fy-0":0,
-      "fy+1":0
+      "fy-2":61576757,
+      "fy-1":62289011,
+      "fy-0":64061311,
+      "fy+1":84881543
     }
   ],
   "program_history_by_account":{
@@ -58,11 +59,11 @@
     "table_header":{
       "line_type":"title",
       "category":"Category",
-      "fy-2":"FY15 Expenditure",
-      "fy-1":"FY16 Expenditure",
-      "fy-0":"FY17 Appropriation",
-      "fy+1":"FY18 Recommended",
-      "diff":"Inc/Dec 17 vs 18"
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
     },
     "data":[
       {
@@ -84,7 +85,7 @@
         "diff":0
       },
       {
-        "line_title":"Supplies and Materials",
+        "line_title":"Supplies & Materials",
         "line_type":"data",
         "fy-2":0,
         "fy-1":0,
@@ -93,7 +94,7 @@
         "diff":0
       },
       {
-        "line_title":"Current Chgs and Oblig",
+        "line_title":"Current Chgs & Oblig",
         "line_type":"data",
         "fy-2":0,
         "fy-1":0,
@@ -107,26 +108,26 @@
         "fy-2":0,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":0,
-        "diff":0
+        "fy+1":1822352,
+        "diff":1822352
       },
       {
         "line_title":"Other",
         "line_type":"data",
-        "fy-2":61502575,
-        "fy-1":61576757,
-        "fy-0":62289011,
-        "fy+1":79077172,
-        "diff":16788161
+        "fy-2":61576757,
+        "fy-1":62289011,
+        "fy-0":64061311,
+        "fy+1":83059191,
+        "diff":18997880
       },
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":61502575,
-        "fy-1":61576757,
-        "fy-0":62289011,
-        "fy+1":79077172,
-        "diff":16788161
+        "fy-2":61576757,
+        "fy-1":62289011,
+        "fy-0":64061311,
+        "fy+1":84881543,
+        "diff":20820232
       }
     ]
   },
@@ -139,23 +140,14 @@
       "performance_measures":[
         {
           "table_header":{
-            "debug":"JPM",
             "Performance Goals":"Performance Measures",
             "line_type":"header",
-            "fy-2":"FY15 Actual",
-            "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Target",
-            "fy+1":"FY18 Target"
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
           },
           "data":[
-            {
-              "line_type":"data",
-              "line_data":"% HIV services clients from communities of color",
-              "fy-2":"70%",
-              "fy-1":"71%",
-              "fy-0":"75%",
-              "fy+1":"75%"
-            },
             {
               "line_type":"data",
               "line_data":"Number of individuals who receive trauma-informed services",
@@ -171,170 +163,26 @@
     {
       "section_name":"Performance",
       "strategy":[
-        "Increase health knowledge and healthy behavior"
-      ],
-      "performance_measures":[
-        {
-          "table_header":{
-            "debug":"JPM",
-            "Performance Goals":"Performance Measures",
-            "line_type":"header",
-            "fy-2":"FY15 Actual",
-            "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Target",
-            "fy+1":"FY18 Target"
-          },
-          "data":[
-            {
-              "line_type":"data",
-              "line_data":"ED visits for asthma in children ages 5 and under",
-              "fy-2":"",
-              "fy-1":"",
-              "fy-0":"20 encounters per 1,000 residents",
-              "fy+1":"20 encounters per 1,000 residents"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "section_name":"Performance",
-      "strategy":[
-        "Maintain fast, efficient response to emergency medical calls"
-      ],
-      "performance_measures":[
-        {
-          "table_header":{
-            "debug":"JPM",
-            "Performance Goals":"Performance Measures",
-            "line_type":"header",
-            "fy-2":"FY15 Actual",
-            "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Target",
-            "fy+1":"FY18 Target"
-          },
-          "data":[
-            {
-              "line_type":"data",
-              "line_data":"Median response time for Priority 1 calls",
-              "fy-2":"7",
-              "fy-1":"6",
-              "fy-0":"6",
-              "fy+1":"6"
-            },
-            {
-              "line_type":"data",
-              "line_data":"Median response time for Priority 2 calls",
-              "fy-2":"9",
-              "fy-1":"8",
-              "fy-0":"7",
-              "fy+1":"7"
-            },
-            {
-              "line_type":"data",
-              "line_data":"Median response time for Priority 3 calls",
-              "fy-2":"9",
-              "fy-1":"8",
-              "fy-0":"8",
-              "fy+1":"8"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "section_name":"Performance",
-      "strategy":[
         "Respond to critical public health issues"
       ],
       "performance_measures":[
         {
           "table_header":{
-            "debug":"JPM",
             "Performance Goals":"Performance Measures",
             "line_type":"header",
-            "fy-2":"FY15 Actual",
-            "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Target",
-            "fy+1":"FY18 Target"
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
           },
           "data":[
-            {
-              "line_type":"data",
-              "line_data":"% of active Boston TB cases completing an adequate course of treatment",
-              "fy-2":"98%",
-              "fy-1":"100%",
-              "fy-0":"100%",
-              "fy+1":"100%"
-            },
-            {
-              "line_type":"data",
-              "line_data":"% of babies who are low birthweight",
-              "fy-2":"9%",
-              "fy-1":"9%",
-              "fy-0":"9%",
-              "fy+1":"9%"
-            },
-            {
-              "line_type":"data",
-              "line_data":"% tobacco retailers adhering to youth access regulations",
-              "fy-2":"90%",
-              "fy-1":"90%",
-              "fy-0":"85%",
-              "fy+1":"85%"
-            },
-            {
-              "line_type":"data",
-              "line_data":"Adult smoking rate",
-              "fy-2":"",
-              "fy-1":"",
-              "fy-0":"15",
-              "fy+1":"15"
-            },
-            {
-              "line_type":"data",
-              "line_data":"Homeless clients placed in permanent housing",
-              "fy-2":"",
-              "fy-1":"",
-              "fy-0":"200",
-              "fy+1":"200"
-            },
             {
               "line_type":"data",
               "line_data":"Number of individuals placed in recovery services",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"2,400",
-              "fy+1":"2,400"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "section_name":"Performance",
-      "strategy":[
-        "Strengthen partnerships with healthcare"
-      ],
-      "performance_measures":[
-        {
-          "table_header":{
-            "debug":"JPM",
-            "Performance Goals":"Performance Measures",
-            "line_type":"header",
-            "fy-2":"FY15 Actual",
-            "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Target",
-            "fy+1":"FY18 Target"
-          },
-          "data":[
-            {
-              "line_type":"data",
-              "line_data":"The number of individuals who become enrolled in a health insurance plan as a result of assistance received from the Mayor's Health Line",
-              "fy-2":"",
-              "fy-1":"",
-              "fy-0":"1,000",
-              "fy+1":"1,000"
+              "fy-0":"8,000",
+              "fy+1":"8,000"
             }
           ]
         }
@@ -343,495 +191,26 @@
   ],
   "project_details":[
     {
-      "bureau":"Child, Adolescent and Family Health Bureau",
+      "bureau":"Child, Adolescent & Family Health Bureau",
       "programs":[
         {
           "table_header":{
-            "debug":"JPPHCDET",
             "program":"Program",
             "line_type":"header",
-            "fy-3":"FY15 Actual",
-            "fy-2":"FY16 Actual",
-            "fy-1":"FY17 Budget",
-            "fy-0":"FY18 Budget"
+            "fy-3":"FY16 Actual",
+            "fy-2":"FY17 Actual",
+            "fy-1":"FY18 Budget",
+            "fy-0":"FY19 Budget"
           },
           "data":[
             {
               "line_type":"data",
-              "fy-3":3250576,
-              "fy-2":3403175,
-              "fy-1":3400254,
-              "fy-0":3537180
+              "fy-3":3403175
             },
-            {
-              "line_type":"data",
-              "fy-3":534714,
-              "fy-2":428142,
-              "fy-1":429483,
-              "fy-0":538860
-            },
-            {
-              "line_type":"data",
-              "fy-3":342132,
-              "fy-2":352479,
-              "fy-1":349988,
-              "fy-0":346617
-            },
-            {
-              "line_type":"data",
-              "fy-3":3712155,
-              "fy-2":3629035,
-              "fy-1":3859893,
-              "fy-0":3826803
-            },
-            {
-              "line_type":"data",
-              "fy-3":2133634,
-              "fy-2":2319266,
-              "fy-1":2547355,
-              "fy-0":2618529
-            },
-            {
-              "line_type":"data",
-              "fy-3":639098,
-              "fy-2":507047,
-              "fy-1":598928,
-              "fy-0":593801
-            },
-            {
-              "program":"Bureau Total",
-              "line_type":"total",
-              "fy-3":42449236,
-              "fy-2":42556576,
-              "fy-1":44743604,
-              "fy-0":45847160
-            }
+            {}
           ]
         }
       ]
-    },
-    {
-      "bureau":"Community Initiatives Bureau",
-      "programs":[
-        {
-          "table_header":{
-            "debug":"JPPHCDET",
-            "program":"Program",
-            "line_type":"header",
-            "fy-3":"FY15 Actual",
-            "fy-2":"FY16 Actual",
-            "fy-1":"FY17 Budget",
-            "fy-0":"FY18 Budget"
-          },
-          "data":[
-            {
-              "line_type":"data",
-              "fy-3":389551,
-              "fy-2":514394,
-              "fy-1":571920,
-              "fy-0":654409
-            },
-            {
-              "line_type":"data",
-              "fy-3":139262,
-              "fy-2":140992,
-              "fy-1":144405,
-              "fy-0":145694
-            },
-            {
-              "line_type":"data",
-              "fy-3":687892,
-              "fy-2":753886,
-              "fy-1":797083,
-              "fy-0":800810
-            },
-            {
-              "line_type":"data",
-              "fy-3":1199628,
-              "fy-2":1190031,
-              "fy-1":1259384,
-              "fy-0":1248733
-            },
-            {
-              "line_type":"data",
-              "fy-3":736966,
-              "fy-2":775635,
-              "fy-1":866074,
-              "fy-0":826240
-            },
-            {
-              "line_type":"data",
-              "fy-3":185909,
-              "fy-2":211960,
-              "fy-1":216725,
-              "fy-0":218645
-            },
-            {
-              "line_type":"data",
-              "fy-3":217029,
-              "fy-2":303749,
-              "fy-1":246878,
-              "fy-0":288404
-            },
-            {
-              "line_type":"data",
-              "fy-3":371427,
-              "fy-2":323536,
-              "fy-1":387904,
-              "fy-0":393196
-            },
-            {
-              "line_type":"data",
-              "fy-3":177772,
-              "fy-2":172909,
-              "fy-1":199893,
-              "fy-0":176337
-            },
-            {
-              "line_type":"data",
-              "fy-3":18381,
-              "fy-2":41803,
-              "fy-1":47665,
-              "fy-0":35936
-            },
-            {
-              "line_type":"data",
-              "fy-3":249033,
-              "fy-2":351862,
-              "fy-1":600033,
-              "fy-0":331779
-            },
-            {
-              "line_type":"data",
-              "fy-3":128379,
-              "fy-2":115248,
-              "fy-1":81368,
-              "fy-0":75233
-            },
-            {
-              "program":"Bureau Total",
-              "line_type":"total",
-              "fy-3":18004916,
-              "fy-2":19584020,
-              "fy-1":21677328,
-              "fy-0":20781664
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "bureau":"Infectious Diseases Bureau",
-      "programs":[
-        {
-          "table_header":{
-            "debug":"JPPHCDET",
-            "program":"Program",
-            "line_type":"header",
-            "fy-3":"FY15 Actual",
-            "fy-2":"FY16 Actual",
-            "fy-1":"FY17 Budget",
-            "fy-0":"FY18 Budget"
-          },
-          "data":[
-            {
-              "line_type":"data",
-              "fy-3":1980746,
-              "fy-2":2006023,
-              "fy-1":2313525,
-              "fy-0":2208495
-            },
-            {
-              "line_type":"data",
-              "fy-3":1609101,
-              "fy-2":1702017,
-              "fy-1":1491817,
-              "fy-0":1598196
-            },
-            {
-              "line_type":"data",
-              "fy-3":497309,
-              "fy-2":377464,
-              "fy-1":484244,
-              "fy-0":487649
-            },
-            {
-              "line_type":"data",
-              "fy-3":100000,
-              "fy-2":100000,
-              "fy-1":100000,
-              "fy-0":100000
-            },
-            {
-              "line_type":"data",
-              "fy-3":209,
-              "fy-2":0,
-              "fy-1":0,
-              "fy-0":0
-            },
-            {
-              "program":"Bureau Total",
-              "line_type":"total",
-              "fy-3":16749460,
-              "fy-2":16742016,
-              "fy-1":17558344,
-              "fy-0":17577360
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "bureau":"Public Health Program Revenue Offset",
-      "programs":[
-        {
-          "table_header":{
-            "debug":"JPPHCDET",
-            "program":"Program",
-            "line_type":"header",
-            "fy-3":"FY15 Actual",
-            "fy-2":"FY16 Actual",
-            "fy-1":"FY17 Budget",
-            "fy-0":"FY18 Budget"
-          },
-          "data":[
-            {
-              "line_type":"data",
-              "fy-3":-35855311,
-              "fy-2":-35605467,
-              "fy-1":-34296117,
-              "fy-0":-36808416
-            },
-            {
-              "line_type":"data",
-              "fy-3":-1094800,
-              "fy-2":-803212,
-              "fy-1":-1437163,
-              "fy-0":-506500
-            },
-            {
-              "line_type":"data",
-              "fy-3":-36950110,
-              "fy-2":-36408679,
-              "fy-1":-35733280,
-              "fy-0":-37314916
-            },
-            {
-              "program":"Bureau Total",
-              "line_type":"total",
-              "fy-3":-295600884,
-              "fy-2":-291269432,
-              "fy-1":-285866240,
-              "fy-0":-298519328
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "bureau":"Public Health Service Centers",
-      "programs":[
-        {
-          "table_header":{
-            "debug":"JPPHCDET",
-            "program":"Program",
-            "line_type":"header",
-            "fy-3":"FY15 Actual",
-            "fy-2":"FY16 Actual",
-            "fy-1":"FY17 Budget",
-            "fy-0":"FY18 Budget"
-          },
-          "data":[
-            {
-              "line_type":"data",
-              "fy-3":0,
-              "fy-2":0,
-              "fy-1":0,
-              "fy-0":235209
-            },
-            {
-              "line_type":"data",
-              "fy-3":258263,
-              "fy-2":342203,
-              "fy-1":386064,
-              "fy-0":394653
-            },
-            {
-              "line_type":"data",
-              "fy-3":3960887,
-              "fy-2":3937938,
-              "fy-1":3786772,
-              "fy-0":3786772
-            },
-            {
-              "line_type":"data",
-              "fy-3":787496,
-              "fy-2":837543,
-              "fy-1":994523,
-              "fy-0":1069141
-            },
-            {
-              "line_type":"data",
-              "fy-3":537963,
-              "fy-2":533861,
-              "fy-1":0,
-              "fy-0":0
-            },
-            {
-              "line_type":"data",
-              "fy-3":3769349,
-              "fy-2":3580527,
-              "fy-1":3661665,
-              "fy-0":3818992
-            },
-            {
-              "line_type":"data",
-              "fy-3":185125,
-              "fy-2":204868,
-              "fy-1":235949,
-              "fy-0":249513
-            },
-            {
-              "line_type":"data",
-              "fy-3":2766977,
-              "fy-2":2747002,
-              "fy-1":2614973,
-              "fy-0":2587839
-            },
-            {
-              "line_type":"data",
-              "fy-3":33457,
-              "fy-2":117951,
-              "fy-1":87778,
-              "fy-0":186753
-            },
-            {
-              "line_type":"data",
-              "fy-3":785441,
-              "fy-2":776110,
-              "fy-1":981779,
-              "fy-0":881964
-            },
-            {
-              "line_type":"data",
-              "fy-3":1089170,
-              "fy-2":1224177,
-              "fy-1":1358766,
-              "fy-0":1397927
-            },
-            {
-              "program":"Bureau Total",
-              "line_type":"total",
-              "fy-3":56696512,
-              "fy-2":57208720,
-              "fy-1":56433076,
-              "fy-0":58435052
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "bureau":"Public Health Services Expenditures",
-      "programs":[
-        {
-          "table_header":{
-            "debug":"JPPHCDET",
-            "program":"Program",
-            "line_type":"header",
-            "fy-3":"FY15 Actual",
-            "fy-2":"FY16 Actual",
-            "fy-1":"FY17 Budget",
-            "fy-0":"FY18 Budget"
-          },
-          "data":[
-            {
-              "line_type":"data",
-              "fy-3":0,
-              "fy-2":95801052,
-              "fy-1":98022291,
-              "fy-0":101016722
-            },
-            {
-              "program":"Bureau Total",
-              "line_type":"total",
-              "fy-3":0,
-              "fy-2":383204208,
-              "fy-1":392089164,
-              "fy-0":404066888
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "bureau":"Recovery Services Bureau",
-      "programs":[
-        {
-          "table_header":{
-            "debug":"JPPHCDET",
-            "program":"Program",
-            "line_type":"header",
-            "fy-3":"FY15 Actual",
-            "fy-2":"FY16 Actual",
-            "fy-1":"FY17 Budget",
-            "fy-0":"FY18 Budget"
-          },
-          "data":[
-            {
-              "line_type":"data",
-              "fy-3":460461,
-              "fy-2":680522,
-              "fy-1":515747,
-              "fy-0":509108
-            },
-            {
-              "line_type":"data",
-              "fy-3":374192,
-              "fy-2":932855,
-              "fy-1":582066,
-              "fy-0":912988
-            },
-            {
-              "line_type":"data",
-              "fy-3":469754,
-              "fy-2":835447,
-              "fy-1":989750,
-              "fy-0":1319182
-            },
-            {
-              "line_type":"data",
-              "fy-3":44920,
-              "fy-2":132948,
-              "fy-1":480929,
-              "fy-0":742843
-            },
-            {
-              "line_type":"data",
-              "fy-3":1003029,
-              "fy-2":976665,
-              "fy-1":1035325,
-              "fy-0":1140349
-            },
-            {
-              "program":"Bureau Total",
-              "line_type":"total",
-              "fy-3":154054920,
-              "fy-2":518194188,
-              "fy-1":476474300,
-              "fy-0":424992473
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "program":"Grand Total",
-      "line_type":"total",
-      "fy-3":154054920,
-      "fy-2":518194188,
-      "fy-1":476474300,
-      "fy-0":424992473
     }
   ]
 }

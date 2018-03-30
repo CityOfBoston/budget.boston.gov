@@ -2,13 +2,15 @@
 {
   "debug":"JBD",
   "publish_subordinates":true,
-  "file_version":"0.10",
+  "file_version":"",
   "section_id":50,
   "section_md5_id":"C0C7C76D30BD3DCAEFC96F40275BDC0A",
   "section_type":"department",
   "section_type_short":"D",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Non-Mayoral Departments~city-clerk.json",
+  "source_time":"20180327183736",
+  "source_year":"19",
   "name":"City Clerk",
   "parent":"Non-Mayoral Departments",
   "cabinet":"Non-Mayoral Departments",
@@ -19,155 +21,87 @@
   "mission":[
     "The mission of the City Clerk's office is to accept, file, record, and maintain all municipal records. The City Clerk publishes the agenda for all City Council meetings, records all Council and related Mayoral actions, and edits and compiles the minutes of Council meetings. The Department also maintains the City Council document system database and publishes all ordinances and amended codes on a yearly basis. The City Clerk is also responsible for overseeing the work of the Archives Commission."
   ],
-  "selected_performance_strategies":[
-    {
-      "program":"Legislative Support",
-      "debug":"JCO",
-      "strategies":[
-        "To distribute copies of the Municipal Code and Annual Supplements",
-        "To receive, prepare, record and distribute financial and legislative documents",
-        "To Update the Ordinance section of the Municipal Code and distribute supplements"
-      ]
-    },
-    {
-      "program":"Document Filing",
-      "debug":"JCO",
-      "strategies":[
-        "City Council meeting are created,updated, and published on the City of Boston website",
-        "Scanning and indexing documents",
-        "Time used for processing documents"
-      ]
-    },
-    {
-      "program":"Document Filing",
-      "debug":"JCO",
-      "strategies":[
-        "To receive and record statuory filings as required by law"
-      ]
-    },
-    {
-      "program":"Archives",
-      "debug":"JCO",
-      "strategies":[
-        "To provide archives record center to City departments and the public; provide records disposition services to departments"
-      ]
-    }
-  ],
   "operating_budget":{
-    "debug":"JPTR",
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
       "name":"Program Name",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     "data":[
       {
         "name":"Legislative Support",
         "line_type":"data",
-        "fy-2":360319,
-        "fy-1":372578,
-        "fy-0":376601,
-        "fy+1":279833,
+        "fy-2":372578,
+        "fy-1":347912,
+        "fy-0":285285,
+        "fy+1":297755,
         "publish_subordinates":true
       },
       {
         "name":"Document Filing",
         "line_type":"data",
-        "fy-2":399491,
-        "fy-1":416672,
-        "fy-0":415845,
-        "fy+1":504605,
+        "fy-2":416672,
+        "fy-1":429171,
+        "fy-0":517898,
+        "fy+1":523907,
         "publish_subordinates":true
       },
       {
         "name":"Archives",
         "line_type":"data",
-        "fy-2":313895,
-        "fy-1":357792,
-        "fy-0":427950,
-        "fy+1":430387,
+        "fy-2":357792,
+        "fy-1":383988,
+        "fy-0":443919,
+        "fy+1":480692,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":1073705,
-        "fy-1":1147042,
-        "fy-0":1220396,
-        "fy+1":1214825
-      }
-    ]
-  },
-  "external_funds_budget":{
-    "debug":"JPTR",
-    "table_type":"External Funds",
-    "table_title":"External Funds Budget",
-    "table_header":{
-      "name":"Fund Name",
-      "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
-    },
-    "data":[
-      {
-        "name":"National Historical Publications & Records Commission (NHPRC)",
-        "line_type":"data",
-        "fy-2":15319,
-        "fy-1":0,
-        "fy-0":0,
-        "fy+1":0,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Total",
-        "line_type":"total",
-        "fy-2":15319,
-        "fy-1":0,
-        "fy-0":0,
-        "fy+1":0
+        "fy-2":1147042,
+        "fy-1":1161071,
+        "fy-0":1247102,
+        "fy+1":1302354
       }
     ]
   },
   "selected_service_indicators":[
     {
-      "debug":"JSSIT",
       "line_title":"Operating Budget",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":1024103,
-      "fy-1":1077234,
-      "fy-0":1123971,
-      "fy+1":1111322
+      "fy-2":1077234,
+      "fy-1":1063989,
+      "fy-0":1142599,
+      "fy+1":1189596
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":49602,
-      "fy-1":69808,
-      "fy-0":96425,
-      "fy+1":103503
+      "fy-2":69808,
+      "fy-1":97082,
+      "fy-0":104503,
+      "fy+1":112758
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":1073705,
-      "fy-1":1147042,
-      "fy-0":1220396,
-      "fy+1":1214825
+      "fy-2":1147042,
+      "fy-1":1161071,
+      "fy-0":1247102,
+      "fy+1":1302354
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
@@ -181,54 +115,54 @@
     "table_header":{
       "line_type":"title",
       "category":"Category",
-      "fy-2":"FY15 Expenditure",
-      "fy-1":"FY16 Expenditure",
-      "fy-0":"FY17 Appropriation",
-      "fy+1":"FY18 Recommended",
-      "diff":"Inc/Dec 17 vs 18"
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
     },
     "data":[
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":1024103,
-        "fy-1":1077234,
-        "fy-0":1123971,
-        "fy+1":1111322,
-        "diff":-12649
+        "fy-2":1077234,
+        "fy-1":1063989,
+        "fy-0":1142599,
+        "fy+1":1189596,
+        "diff":46997
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":26499,
-        "fy-1":45931,
-        "fy-0":71325,
-        "fy+1":70623,
-        "diff":-702
+        "fy-2":45931,
+        "fy-1":60813,
+        "fy-0":70623,
+        "fy+1":87178,
+        "diff":16555
       },
       {
-        "line_title":"Supplies and Materials",
+        "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":14323,
-        "fy-1":13371,
-        "fy-0":15500,
-        "fy+1":15200,
-        "diff":-300
+        "fy-2":13371,
+        "fy-1":14985,
+        "fy-0":16200,
+        "fy+1":17450,
+        "diff":1250
       },
       {
-        "line_title":"Current Chgs and Oblig",
+        "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":5475,
-        "fy-1":4841,
-        "fy-0":9600,
-        "fy+1":17680,
-        "diff":8080
+        "fy-2":4841,
+        "fy-1":5682,
+        "fy-0":17680,
+        "fy+1":8130,
+        "diff":-9550
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":3305,
-        "fy-1":5665,
+        "fy-2":5665,
+        "fy-1":15602,
         "fy-0":0,
         "fy+1":0,
         "diff":0
@@ -245,22 +179,13 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":1073705,
-        "fy-1":1147042,
-        "fy-0":1220396,
-        "fy+1":1214825,
-        "diff":-5571
+        "fy-2":1147042,
+        "fy-1":1161071,
+        "fy-0":1247102,
+        "fy+1":1302354,
+        "diff":55252
       }
     ]
-  },
-  "external_funds":[
-    {
-      "debug":"JEFP",
-      "project":"National Historical Publications and Records Commission (NHPRC)",
-      "project_mission":[
-        "The National Historical Publications and Records Commission (NHPRC) is the grant-making affiliate of the National Archives and Records Administration (NARA). The NHPRC helps non-Federal institutions preserve and make broadly accessible records that are of historical value to the United States. NHPRC has granted the City of Boston an award of up to $91,604 for the Project to Consolidate and Preserve the Archival Records of the City of Boston. The project will conduct a survey of departments and compile an inventory of the City&rsquo;s permanent records, both hard copy and electronic; secure hard-copy archives at the newly-renovated City Archives Center; and plan for the preservation of electronic archives. The accomplishment of this goal will advance the City Archives mission to achieve the comprehensive and systematic preservation of the City&rsquo;s archival records, and to ensure ready access to essential evidence that documents the rights of citizens, the actions of municipal officials and Boston's historical municipal experience."
-      ]
-    }
-  ]
+  }
 }
 ---

@@ -1,0 +1,173 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Streets",
+  "department":"Central Fleet Management",
+  "file_version":"",
+  "head_name":"William Coughlin",
+  "head_title":"Director",
+  "name":"Fleet Services",
+  "parent":"Central Fleet Management",
+  "section_id":75,
+  "section_md5_id":"D09BF41544A3365A46C9077EBB5E35C3",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~.json",
+  "source_time":"20180327183803",
+  "source_year":"19",
+  "appropriation_code":"Organization 321100",
+  "description":[
+    "The Fleet Services Program is responsible for the preventive maintenance and routine or emergency repair of vehicles in all City departments excluding public safety agencies.  Preventive maintenance includes oil change, brake repair, and fluid changes.  Routine and emergency repair includes engine servicing, body work, transmission repair, and glass replacement.  The Fleet Services Program also conducts emission testing and registration functions."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":1715569,
+      "fy-1":1904840,
+      "fy-0":2099713,
+      "fy+1":2169899
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":433150,
+      "fy-1":417192,
+      "fy-0":729456,
+      "fy+1":806621
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":2148719,
+      "fy-1":2322032,
+      "fy-0":2829169,
+      "fy+1":2976520
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":1715569,
+        "fy-1":1904840,
+        "fy-0":2099713,
+        "fy+1":2169899,
+        "diff":70186
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":63409,
+        "fy-1":556264,
+        "fy-0":288732,
+        "fy+1":329383,
+        "diff":40651
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":91716,
+        "fy-1":-379428,
+        "fy-0":159332,
+        "fy+1":140457,
+        "diff":-18875
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":18128,
+        "fy-1":6373,
+        "fy-0":12850,
+        "fy+1":12850,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":259897,
+        "fy-1":233983,
+        "fy-0":268542,
+        "fy+1":323931,
+        "diff":55389
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":2148719,
+        "fy-1":2322032,
+        "fy-0":2829169,
+        "fy+1":2976520,
+        "diff":147351
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Efficiently Deliver Services"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of preventative maintenace (PM) actions completed in 24 hours",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"95%",
+              "fy+1":"95%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"% of preventative maintenace (PM) services complete within 30 days of schedule",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"90%",
+              "fy+1":"90%"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

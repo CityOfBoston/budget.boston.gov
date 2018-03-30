@@ -1,21 +1,23 @@
 ---
 {
-  "cabinet":"Administration and Finance",
+  "cabinet":"Administration & Finance",
   "debug":"JBDCP",
   "department":"Unemployment Compensation",
-  "file_version":"0.10",
+  "file_version":"",
   "head_name":Null,
   "head_title":Null,
   "name":"Unemployment Compensation",
-  "parent":"Administration and Finance",
+  "parent":"Administration & Finance",
   "section_id":66,
   "section_md5_id":"3295C76ACBF4CAAED33C36B1B5FC2CB1",
   "section_type":"capital_budget",
   "section_type_short":"L",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_cp_depts~unemployment-compensation.json",
+  "source_time":"20180327182407",
+  "source_year":"19",
   "mission":[
-    "The Unemployment Compensation appropriation provides funds to carry out provisions of the Massachusetts Unemployment Security Law, MGLA c. 151A, as it pertains to former City and County employees. The appropriation facilitates payment of unemployment cla"
+    "The Unemployment Compensation appropriation provides funds to carry out provisions of the Massachusetts Unemployment Security Law, MGLA c. 151A, as it pertains to former City and County employees. The appropriation facilitates payment of unemployment claims."
   ]
 }
 ---

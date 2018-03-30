@@ -3,7 +3,7 @@
   "category":"Public Safety",
   "category_desc":"Initiatives to support infrastructure and equipment utilized by Boston's first responders.",
   "department":"Fire Department",
-  "file_version":"0.10",
+  "file_version":"",
   "location":"Various neighborhoods",
   "managing_department":"Public Facilities Department",
   "mission":"Roof and masonry repairs at Engine 4, 14 and 55.",
@@ -13,20 +13,21 @@
   "section_type":"projects",
   "section_type_short":"R",
   "source_version":"Recommended",
-  "source_year":"18",
-  "status":"In Design",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_projects~fire-department~roof-and-masonry-repairs-at-engine-4-14-and-55.json",
+  "source_time":"20180327183754",
+  "source_year":"19",
+  "status":"In Construction",
   "expenditures_detail":{
-    "debug":"JCP1",
     "table_title":"Expenditures (Actual and Planned)",
     "table_header":{
       "line_type":"header",
       "line_title":null,
       "line_data_type":"string",
       "source":"Source",
-      "past_spending":"Through 6/30/16",
-      "fy-1":"FY17 Budget",
-      "fy-0":"FY18 Budget",
-      "fy+1-4":"FY19-22 Budget",
+      "past_spending":"Through 6/30/17",
+      "fy-1":"FY18 Budget",
+      "fy-0":"FY19 Budget",
+      "fy+1-4":"FY20-23 Budget",
       "total":"Total"
     },
     "data":[
@@ -35,10 +36,10 @@
         "line_title":null,
         "line_date_type":"number",
         "source":"City Capital",
-        "past_spending":0,
-        "fy-1":145213,
-        "fy-0":750000,
-        "fy+1-4":704787,
+        "past_spending":55847,
+        "fy-1":500000,
+        "fy-0":710000,
+        "fy+1-4":334153,
         "total":1600000
       },
       {
@@ -57,15 +58,14 @@
         "line_title":null,
         "line_date_type":"number",
         "source":"Totals",
-        "past_spending":0,
-        "fy-1":145213,
-        "fy-0":750000,
-        "fy+1-4":704787,
+        "past_spending":55847,
+        "fy-1":500000,
+        "fy-0":710000,
+        "fy+1-4":334153,
         "total":1600000
       }
     ],
     "authorizations_table":{
-      "debug":"JCP2",
       "table_title":"Authorizations",
       "table_header":{
         "line_type":"header",
@@ -73,7 +73,7 @@
         "line_data_type":"string",
         "source":"Source",
         "existing":"Existing",
-        "fy-0":"FY18",
+        "fy-0":"FY19",
         "fy-0++":"Future",
         "other":"Non Capital Fund",
         "total":"Total"

@@ -1,54 +1,55 @@
 ---
 {
   "publish_subordinates":true,
-  "cabinet":"Housing and Neighborhood Development",
+  "cabinet":"Housing & Neighborhood Development",
   "department":"Neighborhood Development",
-  "file_version":"0.10",
+  "file_version":"",
   "head_name":Null,
   "head_title":Null,
   "name":"Business Services",
   "parent":"Neighborhood Development",
-  "section_id":199,
-  "section_md5_id":"84D9EE44E457DDEF7F2C4F25DC8FA865",
+  "section_id":148,
+  "section_md5_id":"47D1E990583C9C67424D369F3414728E",
   "section_type":"program",
   "section_type_short":"P",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~null-no-data.json",
+  "source_time":"20180327183715",
+  "source_year":"19",
   "appropriation_code":"Organization 188500",
   "description":[
     "The Business Services Program will be transferred to the Economic Development Department in FY17."
   ],
   "selected_service_indicators":[
     {
-      "debug":"JSSIT",
       "line_title":"Operating Budget",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":192565,
-      "fy-1":289672,
+      "fy-2":289672,
+      "fy-1":0,
       "fy-0":0,
       "fy+1":0
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":369801,
-      "fy-1":390807,
+      "fy-2":390807,
+      "fy-1":0,
       "fy-0":0,
       "fy+1":0
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":562366,
-      "fy-1":680479,
+      "fy-2":680479,
+      "fy-1":0,
       "fy-0":0,
       "fy+1":0
     }
@@ -58,18 +59,18 @@
     "table_header":{
       "line_type":"title",
       "category":"Category",
-      "fy-2":"FY15 Expenditure",
-      "fy-1":"FY16 Expenditure",
-      "fy-0":"FY17 Appropriation",
-      "fy+1":"FY18 Recommended",
-      "diff":"Inc/Dec 17 vs 18"
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
     },
     "data":[
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":192565,
-        "fy-1":289672,
+        "fy-2":289672,
+        "fy-1":0,
         "fy-0":0,
         "fy+1":0,
         "diff":0
@@ -77,14 +78,14 @@
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":369620,
-        "fy-1":390472,
+        "fy-2":390472,
+        "fy-1":0,
         "fy-0":0,
         "fy+1":0,
         "diff":0
       },
       {
-        "line_title":"Supplies and Materials",
+        "line_title":"Supplies & Materials",
         "line_type":"data",
         "fy-2":0,
         "fy-1":0,
@@ -93,10 +94,10 @@
         "diff":0
       },
       {
-        "line_title":"Current Chgs and Oblig",
+        "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":181,
-        "fy-1":335,
+        "fy-2":335,
+        "fy-1":0,
         "fy-0":0,
         "fy+1":0,
         "diff":0
@@ -122,8 +123,8 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":562366,
-        "fy-1":680479,
+        "fy-2":680479,
+        "fy-1":0,
         "fy-0":0,
         "fy+1":0,
         "diff":0

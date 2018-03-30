@@ -3,7 +3,7 @@
   "cabinet":"Streets",
   "debug":"JBDCP",
   "department":"Transportation Department",
-  "file_version":"0.10",
+  "file_version":"",
   "head_name":"Gina Fiandaca",
   "head_title":"Commissioner",
   "name":"Transportation Department",
@@ -13,76 +13,48 @@
   "section_type":"capital_budget",
   "section_type_short":"L",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_cp_depts~transportation-department.json",
+  "source_time":"20180327183813",
+  "source_year":"19",
   "mission":[
-    "The mission of the Boston Transportation Department is to promote public safety, manage the City's transportation network, and enhance the quality of life for residents of our City neighborhoods. Accomplishment of our mission is ensured through the use of"
+    "The mission of the Boston Transportation Department is to promote public safety, manage the City's transportation network, and enhance the quality of life for residents of our City neighborhoods. Accomplishment of our mission is ensured through the use of planning, coordinated engineering, education and enforcement. The Transportation Department strives to improve circulation in and around the City, enhance public transportation services, gain efficiencies in the management of parking resources, adjudicate and collect fines, collaborate with relevant agencies and encourage the use of alternate transportation modes."
   ],
   "description_of_services":[
     "The Transportation Department regulates traffic and parking for 802 miles of roadway and 3,708 public streets. In order to ensure an efficient yet safe flow of traffic and to balance competing demands for parking resources, the Department enforces 42 parking regulations, maintains and collects from the City's 7,100 parking meters, and annually replaces or repairs several thousand of the City's 300,000 street and traffic signs. The Department also continually responds to the changing transportation needs of the City and its neighborhoods by re-evaluating traffic patterns, increasing parking enforcement in response to neighborhood requests, incorporating the City's interests into state and federal roadway developments, and working to promote alternative modes of transportation for commuters."
-  ],
-  "selected_performance_strategies":[
-    {
-      "program":"Traffic Management and Engineering",
-      "strategies":[
-        "Design, construct, and maintain streetscapes that prioritize moving people safely.",
-        "Encourage multimodal, active transportation.",
-        "Enhance Boston's walkability and neighborhood interconnectedness."
-      ]
-    },
-    {
-      "program":"Policy and Planning",
-      "strategies":[
-        "Design, construct, and maintain streetscapes that prioritize moving people safely.",
-        "Encourage multimodal, active transportation."
-      ]
-    },
-    {
-      "program":"Traffic Enforcement",
-      "strategies":[
-        "Design, construct, and maintain streetscapes that prioritize moving people safely."
-      ]
-    },
-    {
-      "program":"Traffic Operations",
-      "strategies":[
-        "Enhance Boston's walkability and neighborhood interconnectedness."
-      ]
-    }
   ],
   "overview":[
     "This Capital Plan invests deeply in the core goals of Go Boston 2030: streets that are safer for all users of our roads and sidewalks, particularly pedestrians and cyclists; travel that is more reliable and predictable, and quality transportation choices that improve access to interconnect Boston neighborhoods for all modes of travel."
   ],
   "fy_major_initiatives":[
-    "Vision Zero will continue to deliver safety on Boston&rsquo;s streets. Programs include Priority Corridors and Safe Crossings.",
-    "Implement Neighborhood Slow Streets projects in Stonybrook (Jamaica Plain) and the Talbot Norfolk Triangle (Dorchester).",
-    "The reconstruction of Central Square in East Boston will be completed. This project will improve multimodal transportation flows as well as storm water runoff.",
+    "Vision Zero will continue to deliver targeted safety improvements in both our residential neighborhoods and along some of our most challenging corridors.",
+    "A citywide, multi-year campaign to bring all painted crosswalks, lane markings, and bike lanes into a state of good repair continues this year.",
+    "Implement Neighborhood Slow Streets projects in Chinatown, Grove Hall/Quincy Corridor (Dorchester and Roxbury), Highland Park (Roxbury), Mount Hope/Canterbury Street (Roslindale), and West of Washington Coalition (Dorchester).",
     "Design of the reconstruction of Melnea Cass Boulevard will continue.",
-    "\tNew traffic safety improvements are scheduled at Father Hart Bridge and Wolcott Square in Hyde Park.",
-    "Installation of new traffic signals at American Legion at Plaza Driveway, Newbury Street at Fairfield, Geneva Ave. at Olney, and Blue Hill Ave. at Castlegate Rd.",
+    "The addition of protected bicycle lanes on &ldquo;Great Streets&rdquo; projects by continuing and increasing the annual investment in the Strategic Bicycle Network",
+    "New traffic safety improvements are scheduled at Father Hart Bridge and Wolcott Square in Hyde Park.",
     "A multi-year effort begins that will renew all painted crosswalks, lane markings, and bike lanes."
   ],
   "capital_budget_expenditures":[
     {
-      "debug":"JBDCPCBE",
       "table_type":"capital_budget_expenditures",
       "table_title":"Capital Budget Expenditures",
       "table_header":{
         "line_type":"header",
         "title":null,
         "line_data_type":"string",
-        "fy-2":"FY15 Actual",
-        "fy-1":"FY16 Actual",
-        "fy-0":"FY17 Estimated",
-        "fy+1":"FY18 Projected"
+        "fy-2":"FY16 Actual",
+        "fy-1":"FY17 Actual",
+        "fy-0":"FY18 Estimated",
+        "fy+1":"FY19 Projected"
       },
       "data":{
         "line_type":"total",
         "line_title":"Total Department",
         "line_data_type":"total",
-        "fy-2":79108290,
-        "fy-1":52826257,
-        "fy-0":84717890,
-        "fy+1":69134494
+        "fy-2":52826257,
+        "fy-1":49512782,
+        "fy-0":75434494,
+        "fy+1":88893442
       }
     }
   ],
@@ -99,7 +71,7 @@
         "name":"Project",
         "location":"Location",
         "status":"Status",
-        "fy-0":"FY18 Projected",
+        "fy-0":"FY19 Projected",
         "project_title":"Total"
       },
       "projects_data":[
@@ -114,8 +86,24 @@
               "section_id":"CTD23218",
               "status":"In Design",
               "operating_impact":"No",
-              "fy-0":800000,
+              "fy-0":1600000,
               "project_total":9000000
+            }
+          ]
+        },
+        {
+          "Open Space":[
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Open Space",
+              "name":"Green Links",
+              "location":"Various Neighborhoods",
+              "section_id":"CTD24791",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":100000,
+              "project_total":400000
             }
           ]
         },
@@ -128,9 +116,9 @@
               "name":"Father Hart Bridge Traffic Improvements",
               "location":"Hyde Park",
               "section_id":"CTD24695",
-              "status":"New Project",
+              "status":"In Design",
               "operating_impact":"No",
-              "fy-0":1300000,
+              "fy-0":200000,
               "project_total":1375000
             },
             {
@@ -142,7 +130,7 @@
               "section_id":"CTD24561",
               "status":"In Construction",
               "operating_impact":"No",
-              "fy-0":400000,
+              "fy-0":2888,
               "project_total":800000
             },
             {
@@ -166,7 +154,7 @@
               "section_id":"CTD23451",
               "status":"In Design",
               "operating_impact":"No",
-              "fy-0":0,
+              "fy-0":11416,
               "project_total":3487107
             }
           ]
@@ -182,7 +170,7 @@
               "section_id":"CTD24146",
               "status":"In Design",
               "operating_impact":"No",
-              "fy-0":433797,
+              "fy-0":400000,
               "project_total":463807
             },
             {
@@ -218,20 +206,8 @@
               "section_id":"CTD23937",
               "status":"In Construction",
               "operating_impact":"No",
-              "fy-0":1680184,
+              "fy-0":0,
               "project_total":3800000
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Transportation",
-              "name":"Central Square",
-              "location":"East Boston",
-              "section_id":"CTD23216",
-              "status":"In Construction",
-              "operating_impact":"No",
-              "fy-0":2862460,
-              "project_total":7850000
             },
             {
               "line_type":"data",
@@ -252,9 +228,9 @@
               "name":"Crosswalk and Lane Marking Revitalization",
               "location":"Citywide",
               "section_id":"CTD24718",
-              "status":"New Project",
+              "status":"In Construction",
               "operating_impact":"No",
-              "fy-0":1640000,
+              "fy-0":2640000,
               "project_total":4650000
             },
             {
@@ -266,7 +242,7 @@
               "section_id":"CTD23354",
               "status":"In Construction",
               "operating_impact":"No",
-              "fy-0":3500000,
+              "fy-0":475074,
               "project_total":7987722
             },
             {
@@ -278,8 +254,8 @@
               "section_id":"CTD23219",
               "status":"In Design",
               "operating_impact":"No",
-              "fy-0":700000,
-              "project_total":9537105
+              "fy-0":350000,
+              "project_total":27640000
             },
             {
               "line_type":"data",
@@ -290,8 +266,20 @@
               "section_id":"CTD23584",
               "status":"Annual Program",
               "operating_impact":"No",
-              "fy-0":250000,
+              "fy-0":300000,
               "project_total":2856226
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Transportation",
+              "name":"Operations Center at 12 Channel Street",
+              "location":"South Boston",
+              "section_id":"CTD24790",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":175000,
+              "project_total":2500000
             },
             {
               "line_type":"data",
@@ -302,7 +290,7 @@
               "section_id":"CTD23314",
               "status":"In Design",
               "operating_impact":"No",
-              "fy-0":233000,
+              "fy-0":96505,
               "project_total":4233000
             },
             {
@@ -314,20 +302,20 @@
               "section_id":"CTD24701",
               "status":"Annual Program",
               "operating_impact":"No",
-              "fy-0":900000,
-              "project_total":4500000
+              "fy-0":1250000,
+              "project_total":4850000
             },
             {
               "line_type":"data",
               "title":null,
               "category":"Transportation",
-              "name":"Street Rule Book",
-              "location":"N/A",
-              "section_id":"CTD24321",
-              "status":"Implementation Underway",
+              "name":"Traffic Signal Construction at 4 Locations",
+              "location":"Various neighborhoods",
+              "section_id":"CTD24732",
+              "status":"In Design",
               "operating_impact":"No",
-              "fy-0":210000,
-              "project_total":500000
+              "fy-0":1000000,
+              "project_total":1350000
             },
             {
               "line_type":"data",
@@ -348,10 +336,10 @@
               "name":"Vision Zero",
               "location":"Various neighborhoods",
               "section_id":"CTD24299",
-              "status":"Implementation Underway",
+              "status":"Annual Program",
               "operating_impact":"No",
-              "fy-0":3100000,
-              "project_total":17922192
+              "fy-0":3900000,
+              "project_total":18922192
             },
             {
               "line_type":"data",
@@ -362,15 +350,15 @@
               "section_id":"CTD23225",
               "status":"In Design",
               "operating_impact":"No",
-              "fy-0":248270,
-              "project_total":2977900
+              "fy-0":572165,
+              "project_total":3343974
             }
           ]
         }
       ]
     }
   ],
-  "fy-0":21357711,
-  "total":99669996
+  "fy-0":16173048,
+  "total":115388965
 }
 ---

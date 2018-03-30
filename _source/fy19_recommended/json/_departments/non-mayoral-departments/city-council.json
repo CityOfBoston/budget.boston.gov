@@ -2,117 +2,106 @@
 {
   "debug":"JBD",
   "publish_subordinates":true,
-  "file_version":"0.10",
+  "file_version":"",
   "section_id":49,
   "section_md5_id":"F457C545A9DED88F18ECEE47145A72C0",
   "section_type":"department",
   "section_type_short":"D",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Non-Mayoral Departments~city-council.json",
+  "source_time":"20180327183738",
+  "source_year":"19",
   "name":"City Council",
   "parent":"Non-Mayoral Departments",
   "cabinet":"Non-Mayoral Departments",
   "department":"City Council",
-  "head_name":"Michelle Wu",
+  "head_name":"Andrea Campbell",
   "head_title":"Council President",
   "appropriation_code":"Appropriation 112",
   "mission":[
     "As the Legislative body of the City, the City Council serves as a link between the citizens of Boston and their municipal government. Through the filing of legislation, the enactment of orders, ordinances and resolutions, the Council actively represents the diverse interests of Bostonians while ensuring the efficient and cost effective delivery of services. The Council fulfills its obligation as the appropriating authority by analyzing appropriations and loan orders."
   ],
-  "selected_performance_strategies":[
-    {
-      "program":"City Councilors",
-      "debug":"JCO",
-      "strategies":[
-        "To ensure the sustainable and efficient delivery of city services for Boston residents",
-        "To maximize opportunities for citizen input into the Council's legislative process",
-        "To review, create and/or strengthen policies and laws that address the current and future needs of Boston residents, businesses and organizations"
-      ]
-    }
-  ],
   "operating_budget":{
-    "debug":"JPTR",
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
       "name":"Program Name",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     "data":[
       {
-        "name":"Administration",
+        "name":"City Council Administration",
         "line_type":"data",
-        "fy-2":362745,
-        "fy-1":338734,
-        "fy-0":354426,
-        "fy+1":358664,
+        "fy-2":338734,
+        "fy-1":328994,
+        "fy-0":358664,
+        "fy+1":409177,
         "publish_subordinates":true
       },
       {
         "name":"City Councilors",
         "line_type":"data",
-        "fy-2":4176754,
-        "fy-1":4323562,
-        "fy-0":4422396,
-        "fy+1":4418092,
+        "fy-2":4323562,
+        "fy-1":4257060,
+        "fy-0":4418092,
+        "fy+1":4414540,
         "publish_subordinates":true
       },
       {
         "name":"Legislative/Financial Support",
         "line_type":"data",
-        "fy-2":521777,
-        "fy-1":544154,
-        "fy-0":563955,
-        "fy+1":564021,
+        "fy-2":544154,
+        "fy-1":498016,
+        "fy-0":564021,
+        "fy+1":570469,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":5061276,
-        "fy-1":5206450,
+        "fy-2":5206450,
+        "fy-1":5084070,
         "fy-0":5340777,
-        "fy+1":5340777
+        "fy+1":5394186
       }
     ]
   },
   "selected_service_indicators":[
     {
-      "debug":"JSSIT",
       "line_title":"Operating Budget",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":4841047,
-      "fy-1":5021729,
-      "fy-0":5079217,
-      "fy+1":5073513
+      "fy-2":5021729,
+      "fy-1":4937864,
+      "fy-0":5073513,
+      "fy+1":5126922
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":220229,
-      "fy-1":184721,
-      "fy-0":261560,
+      "fy-2":184721,
+      "fy-1":146206,
+      "fy-0":267264,
       "fy+1":267264
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":5061276,
-      "fy-1":5206450,
+      "fy-2":5206450,
+      "fy-1":5084070,
       "fy-0":5340777,
-      "fy+1":5340777
+      "fy+1":5394186
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
@@ -125,54 +114,54 @@
     "table_header":{
       "line_type":"title",
       "category":"Category",
-      "fy-2":"FY15 Expenditure",
-      "fy-1":"FY16 Expenditure",
-      "fy-0":"FY17 Appropriation",
-      "fy+1":"FY18 Recommended",
-      "diff":"Inc/Dec 17 vs 18"
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
     },
     "data":[
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":4841047,
-        "fy-1":5021729,
-        "fy-0":5079217,
-        "fy+1":5073513,
-        "diff":-5704
+        "fy-2":5021729,
+        "fy-1":4937864,
+        "fy-0":5073513,
+        "fy+1":5126922,
+        "diff":53409
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":137727,
-        "fy-1":116037,
-        "fy-0":170460,
+        "fy-2":116037,
+        "fy-1":106896,
+        "fy-0":170940,
         "fy+1":170940,
-        "diff":480
+        "diff":0
       },
       {
-        "line_title":"Supplies and Materials",
+        "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":32883,
-        "fy-1":30245,
-        "fy-0":38000,
+        "fy-2":30245,
+        "fy-1":20462,
+        "fy-0":42224,
         "fy+1":42224,
-        "diff":4224
+        "diff":0
       },
       {
-        "line_title":"Current Chgs and Oblig",
+        "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":17099,
-        "fy-1":13098,
-        "fy-0":22100,
+        "fy-2":13098,
+        "fy-1":13019,
+        "fy-0":23100,
         "fy+1":23100,
-        "diff":1000
+        "diff":0
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":32520,
-        "fy-1":25341,
+        "fy-2":25341,
+        "fy-1":5829,
         "fy-0":31000,
         "fy+1":31000,
         "diff":0
@@ -189,11 +178,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":5061276,
-        "fy-1":5206450,
+        "fy-2":5206450,
+        "fy-1":5084070,
         "fy-0":5340777,
-        "fy+1":5340777,
-        "diff":0
+        "fy+1":5394186,
+        "diff":53409
       }
     ]
   }

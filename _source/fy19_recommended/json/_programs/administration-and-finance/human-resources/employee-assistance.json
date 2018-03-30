@@ -1,40 +1,41 @@
 ---
 {
   "publish_subordinates":true,
-  "cabinet":"Administration and Finance",
+  "cabinet":"Administration & Finance",
   "department":"Human Resources",
-  "file_version":"0.10",
-  "head_name":"Vivian Leonard",
-  "head_title":"Director",
+  "file_version":"",
+  "head_name":"Wendolyn M. Costello-Cook",
+  "head_title":"Manager",
   "name":"Employee Assistance",
   "parent":"Human Resources",
-  "section_id":119,
-  "section_md5_id":"07E1CD7DCA89A1678042477183B7AC3F",
+  "section_id":121,
+  "section_md5_id":"4C56FF4CE4AAF9573AA5DFF913DF997A",
   "section_type":"program",
   "section_type_short":"P",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~health-benefits-and-insurance.json",
+  "source_time":"20180327182355",
+  "source_year":"19",
   "appropriation_code":"Organization 142400",
   "description":[
-    "The Employee Assistance Program (EAP) is designed to attract and assist employees who experience personal problems.  The program will assist employees in the identification and resolution of productivity problems associated with employees impaired by personal concerns including but not limited to: health, marital, financial, alcohol, drug, emotional stress and other personal concerns which may adversely affect job performance."
+    "The Employee Assistance Program (EAP) is designed to attract and assist employees who experience personal problems.  The program will assist employees in the identification and resolution of productivity problems associated with employees impaired by personal concerns including but not limited to: health, marital, financial, substance abuse, emotional stress and other personal concerns which may adversely affect job performance."
   ],
   "selected_service_indicators":[
     {
-      "debug":"JSSIT",
       "line_title":"Operating Budget",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":80730,
-      "fy-1":174328,
-      "fy-0":86456,
-      "fy+1":18927
+      "fy-2":174328,
+      "fy-1":186875,
+      "fy-0":18927,
+      "fy+1":118704
     },
     {
       "line_title":"Non Personnel",
@@ -42,15 +43,15 @@
       "fy-2":0,
       "fy-1":0,
       "fy-0":0,
-      "fy+1":0
+      "fy+1":1150
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":80730,
-      "fy-1":174328,
-      "fy-0":86456,
-      "fy+1":18927
+      "fy-2":174328,
+      "fy-1":186875,
+      "fy-0":18927,
+      "fy+1":119854
     }
   ],
   "program_history_by_account":{
@@ -58,21 +59,21 @@
     "table_header":{
       "line_type":"title",
       "category":"Category",
-      "fy-2":"FY15 Expenditure",
-      "fy-1":"FY16 Expenditure",
-      "fy-0":"FY17 Appropriation",
-      "fy+1":"FY18 Recommended",
-      "diff":"Inc/Dec 17 vs 18"
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
     },
     "data":[
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":80730,
-        "fy-1":174328,
-        "fy-0":86456,
-        "fy+1":18927,
-        "diff":-67529
+        "fy-2":174328,
+        "fy-1":186875,
+        "fy-0":18927,
+        "fy+1":118704,
+        "diff":99777
       },
       {
         "line_title":"Contractual Services",
@@ -84,22 +85,22 @@
         "diff":0
       },
       {
-        "line_title":"Supplies and Materials",
+        "line_title":"Supplies & Materials",
         "line_type":"data",
         "fy-2":0,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":0,
-        "diff":0
+        "fy+1":1000,
+        "diff":1000
       },
       {
-        "line_title":"Current Chgs and Oblig",
+        "line_title":"Current Chgs & Oblig",
         "line_type":"data",
         "fy-2":0,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":0,
-        "diff":0
+        "fy+1":150,
+        "diff":150
       },
       {
         "line_title":"Equipment",
@@ -122,11 +123,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":80730,
-        "fy-1":174328,
-        "fy-0":86456,
-        "fy+1":18927,
-        "diff":-67529
+        "fy-2":174328,
+        "fy-1":186875,
+        "fy-0":18927,
+        "fy+1":119854,
+        "diff":100927
       }
     ]
   },
@@ -139,13 +140,12 @@
       "performance_measures":[
         {
           "table_header":{
-            "debug":"JPM",
             "Performance Goals":"Performance Measures",
             "line_type":"header",
-            "fy-2":"FY15 Actual",
-            "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Target",
-            "fy+1":"FY18 Target"
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
           },
           "data":[
             {
@@ -153,7 +153,7 @@
               "line_data":"% Complete - EAP Service Delivery Model during Times of Crisis",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"",
+              "fy-0":"100%",
               "fy+1":"100%"
             },
             {
@@ -161,7 +161,7 @@
               "line_data":"% Complete - EAP Training Program for Front Line Supervisors - Developed and Delivered",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"",
+              "fy-0":"95%",
               "fy+1":"100%"
             }
           ]

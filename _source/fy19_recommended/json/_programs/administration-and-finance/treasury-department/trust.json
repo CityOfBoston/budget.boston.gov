@@ -1,54 +1,55 @@
 ---
 {
   "publish_subordinates":true,
-  "cabinet":"Administration and Finance",
+  "cabinet":"Administration & Finance",
   "department":"Treasury Department",
-  "file_version":"0.10",
+  "file_version":"",
   "head_name":"Richard DePiano",
   "head_title":"Manager",
   "name":"Trust",
   "parent":"Treasury Department",
-  "section_id":198,
-  "section_md5_id":"0E65972DCE68DAD4D52D063967F0A705",
+  "section_id":39,
+  "section_md5_id":"D67D8AB4F4C10BF22AA353E27879133C",
   "section_type":"program",
   "section_type_short":"P",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~accounts-receivable.json",
+  "source_time":"20180327182406",
+  "source_year":"19",
   "appropriation_code":"Organization 138600",
   "description":[
     "The Trust Program is charged with the responsibility of providing technical assistance to the City's various boards of trustees in the oversight of the investment programs for the more than 250 testamentary trust funds that have been entrusted to the City while ensuring that all beneficiary distributions are made in accordance with each benefactor's instructions."
   ],
   "selected_service_indicators":[
     {
-      "debug":"JSSIT",
       "line_title":"Operating Budget",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":0,
-      "fy-1":184,
-      "fy-0":0,
-      "fy+1":0
+      "fy-2":184,
+      "fy-1":0,
+      "fy-0":-250,
+      "fy+1":-250
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
       "fy-2":0,
       "fy-1":0,
-      "fy-0":0,
-      "fy+1":0
+      "fy-0":250,
+      "fy+1":250
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":0,
-      "fy-1":184,
+      "fy-2":184,
+      "fy-1":0,
       "fy-0":0,
       "fy+1":0
     }
@@ -58,20 +59,20 @@
     "table_header":{
       "line_type":"title",
       "category":"Category",
-      "fy-2":"FY15 Expenditure",
-      "fy-1":"FY16 Expenditure",
-      "fy-0":"FY17 Appropriation",
-      "fy+1":"FY18 Recommended",
-      "diff":"Inc/Dec 17 vs 18"
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
     },
     "data":[
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":184,
-        "fy-0":0,
-        "fy+1":0,
+        "fy-2":184,
+        "fy-1":0,
+        "fy-0":-250,
+        "fy+1":-250,
         "diff":0
       },
       {
@@ -84,16 +85,16 @@
         "diff":0
       },
       {
-        "line_title":"Supplies and Materials",
+        "line_title":"Supplies & Materials",
         "line_type":"data",
         "fy-2":0,
         "fy-1":0,
-        "fy-0":0,
-        "fy+1":0,
+        "fy-0":250,
+        "fy+1":250,
         "diff":0
       },
       {
-        "line_title":"Current Chgs and Oblig",
+        "line_title":"Current Chgs & Oblig",
         "line_type":"data",
         "fy-2":0,
         "fy-1":0,
@@ -122,8 +123,8 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":0,
-        "fy-1":184,
+        "fy-2":184,
+        "fy-1":0,
         "fy-0":0,
         "fy+1":0,
         "diff":0

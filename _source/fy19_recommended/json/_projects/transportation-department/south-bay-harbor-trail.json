@@ -3,7 +3,7 @@
   "category":"Transportation",
   "category_desc":"Initiatives to support an accessible multimodal transportation system that gets Bostonians where they need to go reliably and safely.",
   "department":"Transportation Department",
-  "file_version":"0.10",
+  "file_version":"",
   "location":"South End",
   "managing_department":"Transportation Department",
   "mission":"Design and construct an important link in the City's Greenway, connecting trails from the Fenway, the Southwest Corridor, Charles River Park, Broadway Bridge, and the Central Artery parks.",
@@ -13,20 +13,21 @@
   "section_type":"projects",
   "section_type_short":"R",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_projects~transportation-department~south-bay-harbor-trail.json",
+  "source_time":"20180327183815",
+  "source_year":"19",
   "status":"In Design",
   "expenditures_detail":{
-    "debug":"JCP1",
     "table_title":"Expenditures (Actual and Planned)",
     "table_header":{
       "line_type":"header",
       "line_title":null,
       "line_data_type":"string",
       "source":"Source",
-      "past_spending":"Through 6/30/16",
-      "fy-1":"FY17 Budget",
-      "fy-0":"FY18 Budget",
-      "fy+1-4":"FY19-22 Budget",
+      "past_spending":"Through 6/30/17",
+      "fy-1":"FY18 Budget",
+      "fy-0":"FY19 Budget",
+      "fy+1-4":"FY20-23 Budget",
       "total":"Total"
     },
     "data":[
@@ -36,8 +37,8 @@
         "line_date_type":"number",
         "source":"City Capital",
         "past_spending":0,
-        "fy-1":150000,
-        "fy-0":233000,
+        "fy-1":300000,
+        "fy-0":83000,
         "fy+1-4":0,
         "total":383000
       },
@@ -46,9 +47,9 @@
         "line_title":null,
         "line_date_type":"number",
         "source":"Grants/Other",
-        "past_spending":383391,
-        "fy-1":96609,
-        "fy-0":0,
+        "past_spending":446495,
+        "fy-1":20000,
+        "fy-0":13505,
         "fy+1-4":0,
         "total":3850000
       },
@@ -57,15 +58,14 @@
         "line_title":null,
         "line_date_type":"number",
         "source":"Totals",
-        "past_spending":383391,
-        "fy-1":246609,
-        "fy-0":233000,
+        "past_spending":446495,
+        "fy-1":320000,
+        "fy-0":96505,
         "fy+1-4":0,
         "total":863000
       }
     ],
     "authorizations_table":{
-      "debug":"JCP2",
       "table_title":"Authorizations",
       "table_header":{
         "line_type":"header",
@@ -73,7 +73,7 @@
         "line_data_type":"string",
         "source":"Source",
         "existing":"Existing",
-        "fy-0":"FY18",
+        "fy-0":"FY19",
         "fy-0++":"Future",
         "other":"Non Capital Fund",
         "total":"Total"

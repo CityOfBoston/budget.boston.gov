@@ -3,54 +3,55 @@
   "publish_subordinates":true,
   "cabinet":"Streets",
   "department":"Public Works Department",
-  "file_version":"0.10",
+  "file_version":"",
   "head_name":"Fouad Hamzeh",
   "head_title":"Manager",
   "name":"Building/Facility Maintenance",
   "parent":"Public Works Department",
-  "section_id":3,
-  "section_md5_id":"ECCBC87E4B5CE2FE28308FD9F2A7BAF3",
+  "section_id":10,
+  "section_md5_id":"D3D9446802A44259755D38E6D163E820",
   "section_type":"program",
   "section_type_short":"P",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~pwd-commissioners-office.json",
+  "source_time":"20180327183809",
+  "source_year":"19",
   "appropriation_code":"Organization 311200",
   "description":[
     "The Building/Facility Maintenance Program ensures that Department personnel work in clean, properly maintained buildings.  The program is also charged with maintaining telephone communications at the Department's operations center."
   ],
   "selected_service_indicators":[
     {
-      "debug":"JSSIT",
       "line_title":"Operating Budget",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":656633,
-      "fy-1":709392,
-      "fy-0":692584,
-      "fy+1":680893
+      "fy-2":709392,
+      "fy-1":624743,
+      "fy-0":703017,
+      "fy+1":729037
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":2692509,
-      "fy-1":1577180,
-      "fy-0":2123197,
-      "fy+1":2076440
+      "fy-2":1577180,
+      "fy-1":1854700,
+      "fy-0":2079440,
+      "fy+1":1713754
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":3349142,
-      "fy-1":2286572,
-      "fy-0":2815781,
-      "fy+1":2757333
+      "fy-2":2286572,
+      "fy-1":2479443,
+      "fy-0":2782457,
+      "fy+1":2442791
     }
   ],
   "program_history_by_account":{
@@ -58,57 +59,57 @@
     "table_header":{
       "line_type":"title",
       "category":"Category",
-      "fy-2":"FY15 Expenditure",
-      "fy-1":"FY16 Expenditure",
-      "fy-0":"FY17 Appropriation",
-      "fy+1":"FY18 Recommended",
-      "diff":"Inc/Dec 17 vs 18"
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
     },
     "data":[
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":656633,
-        "fy-1":709392,
-        "fy-0":692584,
-        "fy+1":680893,
-        "diff":-11691
+        "fy-2":709392,
+        "fy-1":624743,
+        "fy-0":703017,
+        "fy+1":729037,
+        "diff":26020
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":2556609,
-        "fy-1":1444920,
-        "fy-0":1999683,
-        "fy+1":1975124,
-        "diff":-24559
+        "fy-2":1444920,
+        "fy-1":1600592,
+        "fy-0":1975124,
+        "fy+1":1614949,
+        "diff":-360175
       },
       {
-        "line_title":"Supplies and Materials",
+        "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":57843,
-        "fy-1":65283,
-        "fy-0":67520,
-        "fy+1":68090,
-        "diff":570
+        "fy-2":65283,
+        "fy-1":74510,
+        "fy-0":71090,
+        "fy+1":68646,
+        "diff":-2444
       },
       {
-        "line_title":"Current Chgs and Oblig",
+        "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":62219,
-        "fy-1":32157,
-        "fy-0":8970,
-        "fy+1":5570,
-        "diff":-3400
+        "fy-2":32157,
+        "fy-1":1956,
+        "fy-0":5570,
+        "fy+1":3170,
+        "diff":-2400
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":15838,
-        "fy-1":34820,
-        "fy-0":47024,
-        "fy+1":27656,
-        "diff":-19368
+        "fy-2":34820,
+        "fy-1":177642,
+        "fy-0":27656,
+        "fy+1":26989,
+        "diff":-667
       },
       {
         "line_title":"Other",
@@ -122,11 +123,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":3349142,
-        "fy-1":2286572,
-        "fy-0":2815781,
-        "fy+1":2757333,
-        "diff":-58448
+        "fy-2":2286572,
+        "fy-1":2479443,
+        "fy-0":2782457,
+        "fy+1":2442791,
+        "diff":-339666
       }
     ]
   }

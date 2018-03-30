@@ -2,16 +2,18 @@
 {
   "debug":"JBD",
   "publish_subordinates":true,
-  "file_version":"0.10",
+  "file_version":"",
   "section_id":42,
   "section_md5_id":"A1D0C6E83F027327D8461063F4AC58A6",
   "section_type":"department",
   "section_type_short":"D",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Health and Human Services~boston-vets.json",
+  "source_time":"20180327182508",
+  "source_year":"19",
   "name":"Boston VETS",
-  "parent":"Health and Human Services",
-  "cabinet":"Health and Human Services",
+  "parent":"Health & Human Services",
+  "cabinet":"Health & Human Services",
   "department":"Boston VETS",
   "head_name":"Giselle Sterling",
   "head_title":"Commissioner",
@@ -19,83 +21,69 @@
   "mission":[
     "The mission of the Boston Office of Veterans Engagement, Transition, and Services (Boston VETS) is to provide benefits to veterans and their dependents residing in Boston and eligible under M.G.L. c. 115 and 108 CMR; pay the funeral and burial expenses for indigent veterans under prescribed regulations; assist all veterans with obtaining federal, state, or local benefits to which they may be entitled; oversee the decoration of veterans graves and hero squares on Memorial Day; and carry out commemorative activities related to Boston veterans."
   ],
-  "selected_performance_strategies":[
-    {
-      "program":"Veterans' Services",
-      "debug":"JCO",
-      "strategies":[
-        "Advocate-To support events, pannels, legislation and summits aimed at meeting the needs of local veterans",
-        "Engage-To reach out to all 22,000 veterans that call Boston their home through meaningful community engagement",
-        "Recognize- to recognize the services of veterans who have died in service to their country and to assist with burial costs as needed",
-        "Serve-To serve our (600+) homeless and low income veterans through a financial assistance program aimed to increase the housing stability of veterans and their families based on household need"
-      ]
-    }
-  ],
   "operating_budget":{
-    "debug":"JPTR",
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
       "name":"Program Name",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     "data":[
       {
         "name":"Veterans' Services",
         "line_type":"data",
-        "fy-2":4442074,
-        "fy-1":3948303,
-        "fy-0":4677730,
-        "fy+1":4708453,
+        "fy-2":3948303,
+        "fy-1":3283251,
+        "fy-0":4730047,
+        "fy+1":4692133,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":4442074,
-        "fy-1":3948303,
-        "fy-0":4677730,
-        "fy+1":4708453
+        "fy-2":3948303,
+        "fy-1":3283251,
+        "fy-0":4730047,
+        "fy+1":4692133
       }
     ]
   },
   "selected_service_indicators":[
     {
-      "debug":"JSSIT",
       "line_title":"Operating Budget",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":662599,
-      "fy-1":687442,
-      "fy-0":896795,
-      "fy+1":921308
+      "fy-2":687442,
+      "fy-1":810882,
+      "fy-0":941402,
+      "fy+1":1021251
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":3779475,
-      "fy-1":3260861,
-      "fy-0":3780935,
-      "fy+1":3787145
+      "fy-2":3260861,
+      "fy-1":2472369,
+      "fy-0":3788645,
+      "fy+1":3670882
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":4442074,
-      "fy-1":3948303,
-      "fy-0":4677730,
-      "fy+1":4708453
+      "fy-2":3948303,
+      "fy-1":3283251,
+      "fy-0":4730047,
+      "fy+1":4692133
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
@@ -109,54 +97,54 @@
     "table_header":{
       "line_type":"title",
       "category":"Category",
-      "fy-2":"FY15 Expenditure",
-      "fy-1":"FY16 Expenditure",
-      "fy-0":"FY17 Appropriation",
-      "fy+1":"FY18 Recommended",
-      "diff":"Inc/Dec 17 vs 18"
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
     },
     "data":[
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":662599,
-        "fy-1":687442,
-        "fy-0":896795,
-        "fy+1":921308,
-        "diff":24513
+        "fy-2":687442,
+        "fy-1":810882,
+        "fy-0":941402,
+        "fy+1":1021251,
+        "diff":79849
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":91360,
-        "fy-1":111478,
+        "fy-2":111478,
+        "fy-1":88834,
         "fy-0":101932,
         "fy+1":101932,
         "diff":0
       },
       {
-        "line_title":"Supplies and Materials",
+        "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":61986,
-        "fy-1":57207,
-        "fy-0":63650,
-        "fy+1":69650,
-        "diff":6000
+        "fy-2":57207,
+        "fy-1":53516,
+        "fy-0":71150,
+        "fy+1":71900,
+        "diff":750
       },
       {
-        "line_title":"Current Chgs and Oblig",
+        "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":3614335,
-        "fy-1":3088708,
-        "fy-0":3615353,
-        "fy+1":3615563,
-        "diff":210
+        "fy-2":3088708,
+        "fy-1":2300549,
+        "fy-0":3615563,
+        "fy+1":3497050,
+        "diff":-118513
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":11794,
-        "fy-1":3468,
+        "fy-2":3468,
+        "fy-1":29470,
         "fy-0":0,
         "fy+1":0,
         "diff":0
@@ -173,11 +161,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":4442074,
-        "fy-1":3948303,
-        "fy-0":4677730,
-        "fy+1":4708453,
-        "diff":30723
+        "fy-2":3948303,
+        "fy-1":3283251,
+        "fy-0":4730047,
+        "fy+1":4692133,
+        "diff":-37914
       }
     ]
   }

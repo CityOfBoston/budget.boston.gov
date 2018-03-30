@@ -3,30 +3,31 @@
   "category":"Technology",
   "category_desc":"Initiatives to make Boston&rsquo;s infrastructure and services dynamic and responsive to residents' needs in real-time.",
   "department":"Department of Innovation and Technology",
-  "file_version":"0.10",
+  "file_version":"",
   "location":"N/A",
   "managing_department":"DoIT",
   "mission":"Replace the City's property tax billing and collecting system with a new enterprise solution.",
   "name":"Tax Billing and Collecting System",
-  "operating_impact":"No",
+  "operating_impact":"Yes",
   "section_id":"CMS23830",
   "section_type":"projects",
   "section_type_short":"R",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_projects~department-of-innovation-and-technology~tax-billing-and-collecting-system.json",
+  "source_time":"20180327183719",
+  "source_year":"19",
   "status":"Implementation Underway",
   "expenditures_detail":{
-    "debug":"JCP1",
     "table_title":"Expenditures (Actual and Planned)",
     "table_header":{
       "line_type":"header",
       "line_title":null,
       "line_data_type":"string",
       "source":"Source",
-      "past_spending":"Through 6/30/16",
-      "fy-1":"FY17 Budget",
-      "fy-0":"FY18 Budget",
-      "fy+1-4":"FY19-22 Budget",
+      "past_spending":"Through 6/30/17",
+      "fy-1":"FY18 Budget",
+      "fy-0":"FY19 Budget",
+      "fy+1-4":"FY20-23 Budget",
       "total":"Total"
     },
     "data":[
@@ -36,10 +37,10 @@
         "line_date_type":"number",
         "source":"City Capital",
         "past_spending":2536649,
-        "fy-1":349875,
-        "fy-0":113476,
+        "fy-1":364516,
+        "fy-0":0,
         "fy+1-4":0,
-        "total":3000000
+        "total":2901165
       },
       {
         "line_type":"data",
@@ -58,14 +59,13 @@
         "line_date_type":"number",
         "source":"Totals",
         "past_spending":2536649,
-        "fy-1":349875,
-        "fy-0":113476,
+        "fy-1":364516,
+        "fy-0":0,
         "fy+1-4":0,
-        "total":3000000
+        "total":2901165
       }
     ],
     "authorizations_table":{
-      "debug":"JCP2",
       "table_title":"Authorizations",
       "table_header":{
         "line_type":"header",
@@ -73,7 +73,7 @@
         "line_data_type":"string",
         "source":"Source",
         "existing":"Existing",
-        "fy-0":"FY18",
+        "fy-0":"FY19",
         "fy-0++":"Future",
         "other":"Non Capital Fund",
         "total":"Total"
@@ -84,11 +84,11 @@
           "line_title":null,
           "line_data_type":"number",
           "source":"City Capital",
-          "existing":3000000,
+          "existing":2901165,
           "fy-0":0,
           "fy-0++":0,
           "other":0,
-          "total":3000000
+          "total":2901165
         },
         {
           "line_type":"data",
@@ -106,11 +106,11 @@
           "line_title":"Totals",
           "line_data_type":"number",
           "source":"Totals",
-          "existing":3000000,
+          "existing":2901165,
           "fy-0":0,
           "fy-0++":0,
           "other":0,
-          "total":3000000
+          "total":2901165
         }
       ]
     }

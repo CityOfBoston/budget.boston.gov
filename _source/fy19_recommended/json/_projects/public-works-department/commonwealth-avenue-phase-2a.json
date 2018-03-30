@@ -3,7 +3,7 @@
   "category":"Transportation",
   "category_desc":"Initiatives to support an accessible multimodal transportation system that gets Bostonians where they need to go reliably and safely.",
   "department":"Public Works Department",
-  "file_version":"0.10",
+  "file_version":"",
   "location":"Allston/Brighton",
   "managing_department":"Transportation Department",
   "mission":"Improve roadway between Amory Street and Alcorn Street by upgrading pavement and drainage conditions, improving facilities for bikes and pedestrians and widening the MBTA reservation. State and federal construction funds are anticipated.",
@@ -13,20 +13,21 @@
   "section_type":"projects",
   "section_type_short":"R",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_projects~public-works-department~commonwealth-avenue-phase-2a.json",
+  "source_time":"20180327183807",
+  "source_year":"19",
   "status":"In Construction",
   "expenditures_detail":{
-    "debug":"JCP1",
     "table_title":"Expenditures (Actual and Planned)",
     "table_header":{
       "line_type":"header",
       "line_title":null,
       "line_data_type":"string",
       "source":"Source",
-      "past_spending":"Through 6/30/16",
-      "fy-1":"FY17 Budget",
-      "fy-0":"FY18 Budget",
-      "fy+1-4":"FY19-22 Budget",
+      "past_spending":"Through 6/30/17",
+      "fy-1":"FY18 Budget",
+      "fy-0":"FY19 Budget",
+      "fy+1-4":"FY20-23 Budget",
       "total":"Total"
     },
     "data":[
@@ -35,9 +36,9 @@
         "line_title":null,
         "line_date_type":"number",
         "source":"City Capital",
-        "past_spending":173490,
-        "fy-1":156337,
-        "fy-0":470173,
+        "past_spending":329087,
+        "fy-1":300000,
+        "fy-0":170913,
         "fy+1-4":0,
         "total":800000
       },
@@ -57,15 +58,14 @@
         "line_title":null,
         "line_date_type":"number",
         "source":"Totals",
-        "past_spending":173490,
-        "fy-1":156337,
-        "fy-0":470173,
+        "past_spending":329087,
+        "fy-1":300000,
+        "fy-0":170913,
         "fy+1-4":0,
         "total":800000
       }
     ],
     "authorizations_table":{
-      "debug":"JCP2",
       "table_title":"Authorizations",
       "table_header":{
         "line_type":"header",
@@ -73,7 +73,7 @@
         "line_data_type":"string",
         "source":"Source",
         "existing":"Existing",
-        "fy-0":"FY18",
+        "fy-0":"FY19",
         "fy-0++":"Future",
         "other":"Non Capital Fund",
         "total":"Total"

@@ -3,7 +3,7 @@
   "debug":"JCB",
   "cabinet":"Education",
   "department":null,
-  "file_version":"0.10",
+  "file_version":"",
   "head_name":"Turahn Dorsey",
   "head_title":"Chief of Education",
   "name":"Education",
@@ -13,105 +13,106 @@
   "section_type":"cabinet",
   "section_type_short":"C",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~education.json",
+  "source_time":"20180327182433",
+  "source_year":"19",
   "mission":[
     "The Education Cabinet will be responsible for Boston&rsquo;s education landscape and tasked with crafting and executing an education agenda for the City. From early childhood education, to kindergarten, to junior high, to higher learning institutions, to educations for seniors. The cabinet will implement the vision for academic excellence across the City."
   ],
   "overview":[
-    "The FY18 Boston Public Schools (BPS) budget will increase by $29.2 million, or 2.8%, from the FY17 appropriation. Additionally, a reserve for BPS collective bargaining units will increase by $11 million. This will bring the total BPS increase to $40 million, or 3.8%, once the next round of collective bargaining agreements are negotiated. Funding directed to schools will increase by almost 4%, even before the largest driver of BPS costs, employee collective bargaining increases, are negotiated.",
-    "In FY18, Boston Public Schools is proposing to make important research-backed investments to close the achievement gap. Boston is investing $14 million to give 15,000 students, from kindergarten through 8th-grade, 120 additional hours of learning time &mdash; or the equivalent of 20 more school days a year. By strengthening BPS&rsquo;s commitment to Excellence For All, more students in the fourth and fifth grade will receive the same rigorous instruction and enriched learning opportunities as those in Advanced Work Class (AWC). Boston is also making a strategic $1.2 million investment to support 3,000 BPS students identified by the district as experiencing homelessness.",
-    "Finally, BPS will be providing lower performing schools with a wide-range of differentiated supports, with a total investment of over $16 million. This includes a new $1.25 million reserve focused on supporting low level 3, 4, and 5 schools with declining enrollment. (See the Education chapter of this volume for more details.)"
+    "The FY19 Boston Public Schools (BPS) budget will increase by $48 million, or 4.5%, from the FY18 appropriation. This will bring the total investment in BPS since the Mayor took office in FY14 to $170 million. Funding directed to schools will increase by almost 6%, even before the largest driver of BPS costs, employee collective bargaining increases, are negotiated.",
+    "Nurses/Counselor/Psychologist investment ",
+    "The BPS budget proposes $4 million in investments to close opportunity and achievement gaps and support students most in need. These include a $1.2 million increase in funding for translations for students with IEPs and their families, $700,000 to grow Excellence for All by rolling classes up to the 6th grade, $500,000 to expand Becoming a Man, a school-based group counseling program for young men in grades 7-12, and $500,000in curriculum investments for English language learners, social and emotional learning, and expanding successful curriculum pilots.",
+    "BPS is also proposing $10 million in investments that enable schools to direct funds to their highest-need students. $3 million will be allocated to school budgets through the Opportunity Index, an innovative tool that quantifies differences in experiences, opportunities, and needs between students, allowing BPS to allocate resources more equitably. In addition, BPS is investing $3 million in additional funds for English Language Learners, $2.8 million for schools with declining enrollments, $1 million for lower performing schools, and $500,000thousand in additional funding for students experiencing homelessness.",
+    "BPS will continue its three research-backed major investments: extended learning time for students, high quality teachers, and early childhood education. With Extended Learning Time, the district has made an almost $20 million annual investment in adding the equivalent of 20 days of instruction to the school day for almost 60 elementary schools. In the area of teacher quality, BPS will spend $38 million in FY19 on increased salaries and benefits for educators, making them among the highest paid in the country. And in the field of early education, BPS has made steady progress in adding K1 seats, increasing the number of students by 725 since Mayor Walsh took office."
   ],
   "operating_department":{
     "table_type":"operating_department",
-    "debug":"JCB",
     "table_title":"Operating Budget",
     "Program Name":"Department",
     "line_type":"title",
-    "fy-2":"FY15 Actual",
-    "fy-1":"FY16 Actual",
-    "fy-0":"FY17 Budget",
-    "fy+1":"FY18 Budget",
+    "fy-2":"FY16 Actual",
+    "fy-1":"FY17 Actual",
+    "fy-0":"FY18 Budget",
+    "fy+1":"FY19 Budget",
     "data":[
       {
-        "department":"Boston Public Schools",
+        "department":"School Department",
         "line_type":"data",
-        "fy-2":974020954,
-        "fy-1":1017073807,
-        "fy-0":1033709148,
-        "fy+1":1062970470
+        "fy-2":1016278852,
+        "fy-1":1031628517,
+        "fy-0":1092190485,
+        "fy+1":1108740381
       },
       {
         "total":"Total",
         "line_type":"total",
-        "fy-2":974020954,
-        "fy-1":1017073807,
-        "fy-0":1033709148,
-        "fy+1":1062970470
+        "fy-2":1016278852,
+        "fy-1":1031628517,
+        "fy-0":1092190485,
+        "fy+1":1108740381
       }
     ],
     "capital_budget_expenditures":[
       {
-        "debug":"JCCD",
         "table_type":"capital_budget_expenditures",
         "table_title":"Capital Budget Expenditures",
         "table_header":{
           "title":"Capital Budget Expenditures",
           "line_type":"header",
-          "fy-2":"FY15 Actual",
-          "fy-1":"FY16 Actual",
-          "fy-0":"FY17 Estimated",
-          "fy+1":"FY18 Projected"
+          "fy-2":"FY16 Actual",
+          "fy-1":"FY17 Actual",
+          "fy-0":"FY18 Estimated",
+          "fy+1":"FY19 Projected"
         },
         "data":[
           {
             "title":"Boston Public Schools",
             "line_type":"data",
-            "fy-2":51490890,
-            "fy-1":38290691,
-            "fy-0":65676408,
-            "fy+1":110104285
+            "fy-2":38290691,
+            "fy-1":60450528,
+            "fy-0":110704285,
+            "fy+1":90153386
           },
           {
             "title":"Total",
             "line_type":"total",
-            "fy-2":51490890,
-            "fy-1":38290691,
-            "fy-0":65676408,
-            "fy+1":110104285
+            "fy-2":38290691,
+            "fy-1":60450528,
+            "fy-0":110704285,
+            "fy+1":90153386
           }
         ]
       }
     ]
   },
   "external_funds_tables":{
-    "debug":"JCEXFT",
     "table_type":"external_funds",
     "table_title":"external_funds",
     "table_header":{
       "title":"Department",
       "line_type":"header",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     "data":[
       {
         "title":"Boston Public Schools",
         "line_type":"data",
-        "fy-2":130309502,
-        "fy-1":125808543,
-        "fy-0":135366530,
-        "fy+1":137250222
+        "fy-2":1257509990,
+        "fy-1":1384142130,
+        "fy-0":1372225870,
+        "fy+1":1412871440
       },
       {
         "total":"Total Cabinet",
         "line_type":"total",
-        "fy-2":130309502,
-        "fy-1":125808543,
-        "fy-0":135366530,
-        "fy+1":137250222
+        "fy-2":1257509990,
+        "fy-1":1384142130,
+        "fy-0":1372225870,
+        "fy+1":1412871440
       }
     ]
   }

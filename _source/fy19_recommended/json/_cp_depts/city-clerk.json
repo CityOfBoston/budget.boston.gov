@@ -3,7 +3,7 @@
   "cabinet":"Non-Mayoral Departments",
   "debug":"JBDCP",
   "department":"City Clerk",
-  "file_version":"0.10",
+  "file_version":"",
   "head_name":"Maureen Feeney",
   "head_title":"City Clerk",
   "name":"City Clerk",
@@ -13,42 +13,14 @@
   "section_type":"capital_budget",
   "section_type_short":"L",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_cp_depts~city-clerk.json",
+  "source_time":"20180327183736",
+  "source_year":"19",
   "mission":[
-    "The mission of the City Clerk's office is to accept, file, record, and maintain all municipal records. The City Clerk publishes the agenda for all City Council meetings, records all Council and related Mayoral actions, and edits and compiles the minutes"
+    "The mission of the City Clerk's office is to accept, file, record, and maintain all municipal records. The City Clerk publishes the agenda for all City Council meetings, records all Council and related Mayoral actions, and edits and compiles the minutes of Council meetings. The Department also maintains the City Council document system database and publishes all ordinances and amended codes on a yearly basis. The City Clerk is also responsible for overseeing the work of the Archives Commission."
   ],
   "description_of_services":[
     "Services to the public include the sale of various licenses and permits, notarizing and attesting to documents, and filing, recording, and copying papers in the custody of the Clerk. Services to City government consist of providing informational resources and technical assistance, administration of oaths of office, attestation of various legal papers, custody of records, and administration of the state's open meeting law. The Archives Commission oversees the protection of City records, files, and other items of historic interest."
-  ],
-  "selected_performance_strategies":[
-    {
-      "program":"Legislative Support",
-      "strategies":[
-        "To distribute copies of the Municipal Code and Annual Supplements.",
-        "To receive, prepare, record and distribute financial and legislative documents.",
-        "To Update the Ordinance section of the Municipal Code and distribute supplements."
-      ]
-    },
-    {
-      "program":"Document Filing",
-      "strategies":[
-        "City Council meeting are created,updated, and published on the City of Boston website.",
-        "Scanning and indexing documents.",
-        "Time used for processing documents."
-      ]
-    },
-    {
-      "program":"Document Filing",
-      "strategies":[
-        "To receive and record statuory filings as required by law."
-      ]
-    },
-    {
-      "program":"Archives",
-      "strategies":[
-        "To provide archives record center to City departments and the public; provide records disposition services to departments."
-      ]
-    }
   ]
 }
 ---

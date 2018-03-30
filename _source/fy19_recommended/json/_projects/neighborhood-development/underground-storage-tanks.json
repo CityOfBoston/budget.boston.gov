@@ -1,32 +1,33 @@
 ---
 {
-  "category":"Energy and Environment",
+  "category":"Energy & Environment",
   "category_desc":"Initiatives to support a healthy environment, reduce energy consumption and greenhouse gas emissions, and prepare for climate change.",
   "department":"Neighborhood Development",
-  "file_version":"0.10",
+  "file_version":"",
   "location":"Various neighborhoods",
   "managing_department":"Neighborhood Development",
-  "mission":"Closeout phase for three underground storage tank locations: 560 Huntington Avenue, 641 Columbia Road and 364 Warren Street.",
+  "mission":"Closeout phase for three underground storage tank locations: 560 Huntington Avenue, 641 Columbia Road, and 364 Warren Street.",
   "name":"Underground Storage Tanks",
   "operating_impact":"No",
   "section_id":"CND24524",
   "section_type":"projects",
   "section_type_short":"R",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_projects~neighborhood-development~underground-storage-tanks.json",
+  "source_time":"20180327183714",
+  "source_year":"19",
   "status":"Annual Program",
   "expenditures_detail":{
-    "debug":"JCP1",
     "table_title":"Expenditures (Actual and Planned)",
     "table_header":{
       "line_type":"header",
       "line_title":null,
       "line_data_type":"string",
       "source":"Source",
-      "past_spending":"Through 6/30/16",
-      "fy-1":"FY17 Budget",
-      "fy-0":"FY18 Budget",
-      "fy+1-4":"FY19-22 Budget",
+      "past_spending":"Through 6/30/17",
+      "fy-1":"FY18 Budget",
+      "fy-0":"FY19 Budget",
+      "fy+1-4":"FY20-23 Budget",
       "total":"Total"
     },
     "data":[
@@ -35,11 +36,11 @@
         "line_title":null,
         "line_date_type":"number",
         "source":"City Capital",
-        "past_spending":0,
-        "fy-1":300200,
-        "fy-0":50000,
-        "fy+1-4":50000,
-        "total":400200
+        "past_spending":213588,
+        "fy-1":300000,
+        "fy-0":86412,
+        "fy+1-4":0,
+        "total":600000
       },
       {
         "line_type":"data",
@@ -57,15 +58,14 @@
         "line_title":null,
         "line_date_type":"number",
         "source":"Totals",
-        "past_spending":0,
-        "fy-1":300200,
-        "fy-0":50000,
-        "fy+1-4":50000,
-        "total":400200
+        "past_spending":213588,
+        "fy-1":300000,
+        "fy-0":86412,
+        "fy+1-4":0,
+        "total":600000
       }
     ],
     "authorizations_table":{
-      "debug":"JCP2",
       "table_title":"Authorizations",
       "table_header":{
         "line_type":"header",
@@ -73,7 +73,7 @@
         "line_data_type":"string",
         "source":"Source",
         "existing":"Existing",
-        "fy-0":"FY18",
+        "fy-0":"FY19",
         "fy-0++":"Future",
         "other":"Non Capital Fund",
         "total":"Total"
@@ -84,11 +84,11 @@
           "line_title":null,
           "line_data_type":"number",
           "source":"City Capital",
-          "existing":400200,
+          "existing":600000,
           "fy-0":0,
           "fy-0++":0,
           "other":0,
-          "total":400200
+          "total":600000
         },
         {
           "line_type":"data",
@@ -106,11 +106,11 @@
           "line_title":"Totals",
           "line_data_type":"number",
           "source":"Totals",
-          "existing":400200,
+          "existing":600000,
           "fy-0":0,
           "fy-0++":0,
           "other":0,
-          "total":400200
+          "total":600000
         }
       ]
     }

@@ -1,0 +1,51 @@
+---
+{
+  "title":"Community Libraries",
+  "layout":"bos_content",
+  "permalink":"/featured-analysis/community-libraries/",
+  "section_type":"section",
+  "section_type_short":"S",
+  "source_version":"Recommended",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~community-libraries.json",
+  "source_time":"20180327182015",
+  "source_year":"19",
+  "card":[
+    {
+      "category":"Budget Priorities",
+      "order":16,
+      "title":"Community Libraries",
+      "body":"Boston is revitalizing branch libraries throughout Boston's neighborhoods.",
+      "img":"/img/cards/community-libraries.jpg",
+      "link":"link"
+    }
+  ],
+  "components":[
+    {
+      "text_block":[
+        {
+          "title":"Building Thriving Community Libraries",
+          "body":[
+            "The FY18 Operating Budget and FY18-22 Capital Plan continue to demonstrate Mayor Walsh&rsquo;s strong commitment to revitalizing branches throughout Boston&rsquo;s neighborhoods. Since the Chinatown Branch was torn down in 1954, Chinatown has remained without its own library location. Reestablishing a branch in the neighborhood has been a high priority for members of this community, and under Mayor Walsh&rsquo;s FY18 budget, library services in the neighborhood will be restored to Chinatown after 54 years. With this reinstitution, the community will have easy access to many valuable services, including a community gathering space, a place for teens and children to study and learn, and a location to access critical 21st century services, including internet and computers. ",
+            "In FY18, the Mayor&rsquo;s Capital Plan launches projects for new or renovated spaces at the Uphams Corner and Fields Corner branches. It also includes funding for new smaller scale facilities improvement projects, including interior updates at the South End, Lower Mills, and West Roxbury branches, and landscaping and exterior space upgrades at the South Boston Branch.",
+            "In FY18, construction will begin at the Dudley Branch. This $14.7 million project includes reorienting the entrance to reconnect it with the heart of Dudley Square, interior renovations to improve connections between the building&rsquo;s spaces, and enhanced community and programming space so the branch can better serve the many people who utilize this important resource. ",
+            "The Capital Plan supports design activity at the Roslindale and Adams Street branches in the upcoming year as well. The recently completed programming study and community process for the Adams Street Branch resulted in recommendations for new construction that will expand the building footprint, add new meeting rooms, provide an enhanced teen space, and create redesigned outdoor spaces."
+          ]
+        }
+      ]
+    },
+    {
+      "grid":[
+        {
+          "grid_title":"More Budget Priorities"
+        },
+        {
+          "card":"/featured-analysis/preserving-special-collections/"
+        },
+        {
+          "card":"/featured-analysis/investing-in-the-arts/"
+        }
+      ]
+    }
+  ]
+}
+---

@@ -1,56 +1,57 @@
 ---
 {
   "publish_subordinates":true,
-  "cabinet":"Administration and Finance",
+  "cabinet":"Administration & Finance",
   "department":"Treasury Department",
-  "file_version":"0.10",
+  "file_version":"",
   "head_name":"Michael Hutchinson",
   "head_title":"Manager",
   "name":"Special Collections",
   "parent":"Treasury Department",
-  "section_id":169,
-  "section_md5_id":"3636638817772E42B59D74CFF571FBB3",
+  "section_id":35,
+  "section_md5_id":"1C383CD30B7C298AB50293ADFECB7B18",
   "section_type":"program",
   "section_type_short":"P",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~general-management.json",
+  "source_time":"20180327182405",
+  "source_year":"19",
   "appropriation_code":"Organization 137200",
   "description":[
     "The Special Collections Program is responsible for collecting delinquent real estate, personal property and motor vehicle excise taxes.  It manages City's recording of its legal title to properties with delinquent and actions involving each account up through and including foreclosure or payment of the tax liability."
   ],
   "selected_service_indicators":[
     {
-      "debug":"JSSIT",
       "line_title":"Operating Budget",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":518113,
-      "fy-1":511078,
-      "fy-0":557088,
-      "fy+1":557391
+      "fy-2":511078,
+      "fy-1":522782,
+      "fy-0":573734,
+      "fy+1":587959
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":205667,
-      "fy-1":1575,
-      "fy-0":5677,
-      "fy+1":5677
+      "fy-2":1575,
+      "fy-1":1562,
+      "fy-0":7427,
+      "fy+1":6212
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":723780,
-      "fy-1":512653,
-      "fy-0":562765,
-      "fy+1":563068
+      "fy-2":512653,
+      "fy-1":524344,
+      "fy-0":581161,
+      "fy+1":594171
     }
   ],
   "program_history_by_account":{
@@ -58,44 +59,44 @@
     "table_header":{
       "line_type":"title",
       "category":"Category",
-      "fy-2":"FY15 Expenditure",
-      "fy-1":"FY16 Expenditure",
-      "fy-0":"FY17 Appropriation",
-      "fy+1":"FY18 Recommended",
-      "diff":"Inc/Dec 17 vs 18"
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
     },
     "data":[
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":518113,
-        "fy-1":511078,
-        "fy-0":557088,
-        "fy+1":557391,
-        "diff":303
+        "fy-2":511078,
+        "fy-1":522782,
+        "fy-0":573734,
+        "fy+1":587959,
+        "diff":14225
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":1675,
-        "fy-1":1575,
+        "fy-2":1575,
+        "fy-1":1562,
         "fy-0":5677,
-        "fy+1":5677,
-        "diff":0
+        "fy+1":3962,
+        "diff":-1715
       },
       {
-        "line_title":"Supplies and Materials",
+        "line_title":"Supplies & Materials",
         "line_type":"data",
         "fy-2":0,
         "fy-1":0,
-        "fy-0":0,
-        "fy+1":0,
-        "diff":0
+        "fy-0":1750,
+        "fy+1":2250,
+        "diff":500
       },
       {
-        "line_title":"Current Chgs and Oblig",
+        "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":853,
+        "fy-2":0,
         "fy-1":0,
         "fy-0":0,
         "fy+1":0,
@@ -113,7 +114,7 @@
       {
         "line_title":"Other",
         "line_type":"data",
-        "fy-2":203139,
+        "fy-2":0,
         "fy-1":0,
         "fy-0":0,
         "fy+1":0,
@@ -122,11 +123,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":723780,
-        "fy-1":512653,
-        "fy-0":562765,
-        "fy+1":563068,
-        "diff":303
+        "fy-2":512653,
+        "fy-1":524344,
+        "fy-0":581161,
+        "fy+1":594171,
+        "diff":13010
       }
     ]
   }

@@ -1,58 +1,64 @@
 ---
 {
-  "cabinet":"Environment, Energy and Open Space",
+  "cabinet":"Environment, Energy & Open Space",
   "debug":"JBDCP",
   "department":"Parks and Recreation Department",
-  "file_version":"0.10",
+  "file_version":"",
   "head_name":"Christopher Cook",
   "head_title":"Commissioner",
   "name":"Parks and Recreation Department",
-  "parent":"Environment, Energy and Open Space",
+  "parent":"Environment, Energy & Open Space",
   "section_id":4,
   "section_md5_id":"A87FF679A2F3E71D9181A67B7542122C",
   "section_type":"capital_budget",
   "section_type_short":"L",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_cp_depts~parks-and-recreation-department.json",
+  "source_time":"20180327182447",
+  "source_year":"19",
   "mission":[
     "The mission of the Parks and Recreation Department is to maintain clean, green, safe, accessible and well-programmed park land for the City's residents."
   ],
   "description_of_services":[
     "The Department is responsible for 217 City parks, playgrounds and athletic fields, 2 golf courses, 65 squares, 17 fountains, 75 game courts, 16 historic and 3 active cemeteries, urban wilds, 4 High School Athletic Fields, and approximately 125,000 trees, all covering 2,346 acres, 1,000 of which comprise the historic Emerald Necklace. In addition, the Parks Department is responsible for more than 35,000 street trees. The department annually beautifies these park and open space areas with ornamental plantings of trees, shrubs, and flowers. The department schedules events and programs for the participation and enjoyment of the public."
   ],
-  "selected_performance_strategies":[
-    {
-      "program":"Parks and Recreation Administration",
-      "strategies":[
-        "To provide yearlong arts and cultural programs."
-      ]
-    },
-    {
-      "program":"Parks Operations",
-      "strategies":[
-        "To maintain clean, green, safe, attractive parks and playgrounds."
-      ]
-    },
-    {
-      "program":"Parks Design and Construction",
-      "strategies":[
-        "To design and construct capital projects."
-      ]
-    }
-  ],
   "overview":[
-    "Boston&rsquo;s parks and open spaces provide environmental, recreational, social and economic benefits to the City&rsquo;s residents and visitors. As part of Boston&rsquo;s implementation of Imagine Boston 2030, the City will make a robust new investment in urban signature parks projects reflecting the Walsh Administration&rsquo;s priority focus in this area. Many of these investments tackle environmental justice issues and have the ability to stabilize neighborhoods. Ongoing capital investment in parks, playgrounds, and other recreational areas utilized by the City&rsquo;s visitors, youth and families, help to protect and enrich a park system that is among the nation&rsquo;s best."
+    "Boston&rsquo;s parks and open spaces provide environmental, recreational, social and economic benefits to the City&rsquo;s residents and visitors. The City will make a robust investment in urban signature parks projects reflecting the Walsh Administration&rsquo;s priority focus in this area. Many of these investments tackle environmental justice issues and have the ability to stabilize neighborhoods. Ongoing capital investment in parks, playgrounds, and other recreational areas utilized by the City&rsquo;s visitors, youth and families, help to protect and enrich a park system that is among the nation&rsquo;s best."
   ],
   "fy_major_initiatives":[
-    "Phase II of the Franklin Park Pathways Improvement project will improve park access and expand recreation for park users.",
-    "Rehabilitate pathways at Jamaica Pond to improve accessibility, site conditions, and drainage.",
-    "Complete construction on the Martin Richard Park in South Boston.",
-    "Complete construction of Ramsey Playground in the South End.",
+    "Construction will begin at Noyes Playground in East Boston, Reservation Road Park in Hyde Park, Garvey Playground in Dorchester, and McConnell Playground in Dorchester.",
+    "Construction will also begin at the Paul Revere Mall. This project will improve accessibility, repair the fountain, restore the plaques, planters, brick walls and paving, and will improve drainage.",
+    "The Franklin Park Pathways Improvement project which will improve park access and expand recreation for park users will be completed this year.",
+    "Funding for Phase 2 improvements at Harambee Park and Smith Playground are added in this year&rsquo;s capital plan.",
     "Begin construction of the 45 acre Harambee Park with field renovations, pedestrian pathways and envirnonmental improvements.",
-    "Begin construction to improve sidewalks near Boston Common Parkman Plaza.",
-    "Begin construction of the Paul Revere Mall.",
+    "The pathways around Jamaica Pond will be repaved this year.",
+    "Construction will be completed this fall at the new Martin Richard Park in South Boston.",
     "Begin construction of major park renovation projects at Smith Playground in Allston.",
     "Begin design for projects at Ryan Playground in Charlestown, Mary Hannon Playground in Roxbury, and Reservation Road Park in Hyde Park."
+  ],
+  "capital_budget_expenditures":[
+    {
+      "table_type":"capital_budget_expenditures",
+      "table_title":"Capital Budget Expenditures",
+      "table_header":{
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "fy-2":"FY16 Actual",
+        "fy-1":"FY17 Actual",
+        "fy-0":"FY18 Estimated",
+        "fy+1":"FY19 Projected"
+      },
+      "data":{
+        "line_type":"total",
+        "line_title":"Total Department",
+        "line_data_type":"total",
+        "fy-2":18096572,
+        "fy-1":15130530,
+        "fy-0":33234033,
+        "fy+1":42706892
+      }
+    }
   ],
   "projects":[
     {
@@ -67,7 +73,7 @@
         "name":"Project",
         "location":"Location",
         "status":"Status",
-        "fy-0":"FY18 Projected",
+        "fy-0":"FY19 Projected",
         "project_title":"Total"
       },
       "projects_data":[
@@ -77,25 +83,49 @@
               "line_type":"data",
               "title":null,
               "category":"Open Space",
-              "name":"Back Bay Fens Westland Avenue Entrance",
-              "location":"Fenway/Kenmore",
-              "section_id":"CPR24228",
-              "status":"In Construction",
+              "name":"Amatucci Playground",
+              "location":"Hyde Park",
+              "section_id":"CPR24796",
+              "status":"New Project",
               "operating_impact":"No",
-              "fy-0":500000,
-              "project_total":820000
+              "fy-0":60000,
+              "project_total":500000
             },
             {
               "line_type":"data",
               "title":null,
               "category":"Open Space",
-              "name":"Boston Common Parkman Plaza",
-              "location":"Beacon Hill",
-              "section_id":"CPR24021",
-              "status":"In Construction",
+              "name":"Back Bay Fens Westland Avenue Entrance",
+              "location":"Fenway/Kenmore",
+              "section_id":"CPR24228",
+              "status":"In Design",
               "operating_impact":"No",
-              "fy-0":1459000,
-              "project_total":4300000
+              "fy-0":700000,
+              "project_total":1069985
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Open Space",
+              "name":"Beauford Playground",
+              "location":"Roxbury",
+              "section_id":"CPR24797",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":50000,
+              "project_total":450000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Open Space",
+              "name":"Boston Common Master Plan",
+              "location":"Beacon Hill",
+              "section_id":"CPR24737",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":100000,
+              "project_total":500000
             },
             {
               "line_type":"data",
@@ -104,9 +134,9 @@
               "name":"Boston Common Tadpole Play Lot",
               "location":"Beacon Hill",
               "section_id":"CPR24507",
-              "status":"New Project",
+              "status":"In Design",
               "operating_impact":"No",
-              "fy-0":150000,
+              "fy-0":0,
               "project_total":150000
             },
             {
@@ -116,9 +146,9 @@
               "name":"Boston Common Utility Study",
               "location":"Beacon Hill",
               "section_id":"CPR24219",
-              "status":"Study Underway",
+              "status":"In Design",
               "operating_impact":"No",
-              "fy-0":44500,
+              "fy-0":7100,
               "project_total":100000
             },
             {
@@ -128,10 +158,22 @@
               "name":"Bussey Brook Wall",
               "location":"Jamaica Plain",
               "section_id":"CPR24227",
-              "status":"In Construction",
+              "status":"In Design",
               "operating_impact":"No",
-              "fy-0":10000,
-              "project_total":125000
+              "fy-0":500000,
+              "project_total":600000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Open Space",
+              "name":"Cassidy Field",
+              "location":"Allston/Brighton",
+              "section_id":"CPR23884",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":1000000,
+              "project_total":4415000
             },
             {
               "line_type":"data",
@@ -142,20 +184,8 @@
               "section_id":"CPR24305",
               "status":"In Design",
               "operating_impact":"No",
-              "fy-0":1000000,
-              "project_total":1689358
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Open Space",
-              "name":"Cassidy Field Master Plan Implementation",
-              "location":"Allston/Brighton",
-              "section_id":"CPR23884",
-              "status":"In Design",
-              "operating_impact":"No",
-              "fy-0":309000,
-              "project_total":4005030
+              "fy-0":1500000,
+              "project_total":2752000
             },
             {
               "line_type":"data",
@@ -164,9 +194,9 @@
               "name":"Christopher Columbus Park",
               "location":"North End",
               "section_id":"CPR24241",
-              "status":"In Construction",
+              "status":"In Design",
               "operating_impact":"No",
-              "fy-0":110000,
+              "fy-0":200000,
               "project_total":260000
             },
             {
@@ -178,8 +208,20 @@
               "section_id":"CPR22955",
               "status":"Annual Program",
               "operating_impact":"No",
-              "fy-0":650000,
-              "project_total":7576081
+              "fy-0":750000,
+              "project_total":8767444
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Open Space",
+              "name":"Dewitt Playground",
+              "location":"Roxbury",
+              "section_id":"CPR24729",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":150000,
+              "project_total":1780000
             },
             {
               "line_type":"data",
@@ -190,8 +232,20 @@
               "section_id":"CPR24462",
               "status":"To Be Scheduled",
               "operating_impact":"No",
-              "fy-0":0,
-              "project_total":1650000
+              "fy-0":100000,
+              "project_total":1120000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Open Space",
+              "name":"Dorchester Park",
+              "location":"Dorchester",
+              "section_id":"CPR24802",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":60000,
+              "project_total":500000
             },
             {
               "line_type":"data",
@@ -200,9 +254,9 @@
               "name":"Downer Avenue Park",
               "location":"Dorchester",
               "section_id":"CPR23796",
-              "status":"In Construction",
+              "status":"In Design",
               "operating_impact":"No",
-              "fy-0":795000,
+              "fy-0":600000,
               "project_total":1150000
             },
             {
@@ -226,20 +280,20 @@
               "section_id":"CPR24238",
               "status":"In Design",
               "operating_impact":"No",
-              "fy-0":117000,
-              "project_total":703000
+              "fy-0":500000,
+              "project_total":1400000
             },
             {
               "line_type":"data",
               "title":null,
               "category":"Open Space",
-              "name":"Field Lights at Doherty-Gibson Playground",
-              "location":"Dorchester",
-              "section_id":"CPR24546",
-              "status":"In Construction",
+              "name":"Field Lights at Various Parks",
+              "location":"Various neighborhoods",
+              "section_id":"CPR24793",
+              "status":"New Project",
               "operating_impact":"No",
-              "fy-0":400000,
-              "project_total":500000
+              "fy-0":350000,
+              "project_total":2700000
             },
             {
               "line_type":"data",
@@ -248,10 +302,22 @@
               "name":"Flaherty Park",
               "location":"South Boston",
               "section_id":"CPR24463",
-              "status":"In Construction",
+              "status":"In Design",
               "operating_impact":"No",
-              "fy-0":550000,
+              "fy-0":250000,
               "project_total":715000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Open Space",
+              "name":"Franklin Park Master Plan",
+              "location":"Various neighborhoods",
+              "section_id":"CPR24738",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":100000,
+              "project_total":800000
             },
             {
               "line_type":"data",
@@ -262,7 +328,7 @@
               "section_id":"CPR24132",
               "status":"Study Underway",
               "operating_impact":"No",
-              "fy-0":75000,
+              "fy-0":15000,
               "project_total":75000
             },
             {
@@ -272,9 +338,9 @@
               "name":"Franklin Park Pathway Improvements",
               "location":"Various neighborhoods",
               "section_id":"CPR24554",
-              "status":"In Design",
+              "status":"In Construction",
               "operating_impact":"No",
-              "fy-0":3000000,
+              "fy-0":2000000,
               "project_total":5000000
             },
             {
@@ -286,7 +352,7 @@
               "section_id":"CPR23572",
               "status":"In Design",
               "operating_impact":"No",
-              "fy-0":125800,
+              "fy-0":100800,
               "project_total":150000
             },
             {
@@ -298,7 +364,7 @@
               "section_id":"CPR24133",
               "status":"In Design",
               "operating_impact":"No",
-              "fy-0":60000,
+              "fy-0":75000,
               "project_total":150000
             },
             {
@@ -310,7 +376,7 @@
               "section_id":"CPR24545",
               "status":"In Design",
               "operating_impact":"No",
-              "fy-0":4070000,
+              "fy-0":861544,
               "project_total":5000000
             },
             {
@@ -322,8 +388,8 @@
               "section_id":"CPR23077",
               "status":"Annual Program",
               "operating_impact":"No",
-              "fy-0":500000,
-              "project_total":5934980
+              "fy-0":750000,
+              "project_total":5941515
             },
             {
               "line_type":"data",
@@ -334,7 +400,7 @@
               "section_id":"CPR24528",
               "status":"In Design",
               "operating_impact":"No",
-              "fy-0":350000,
+              "fy-0":1250000,
               "project_total":1400000
             },
             {
@@ -346,8 +412,8 @@
               "section_id":"CPR24419",
               "status":"Study Underway",
               "operating_impact":"No",
-              "fy-0":75000,
-              "project_total":75000
+              "fy-0":70000,
+              "project_total":120000
             },
             {
               "line_type":"data",
@@ -359,7 +425,7 @@
               "status":"Annual Program",
               "operating_impact":"No",
               "fy-0":200000,
-              "project_total":2769486
+              "project_total":2931698
             },
             {
               "line_type":"data",
@@ -368,9 +434,9 @@
               "name":"Green Infrastructure Plan",
               "location":"Citywide",
               "section_id":"CPR24486",
-              "status":"Study Underway",
+              "status":"In Design",
               "operating_impact":"No",
-              "fy-0":50000,
+              "fy-0":33567,
               "project_total":100000
             },
             {
@@ -380,22 +446,22 @@
               "name":"Harambee Park Master Plan Implementation",
               "location":"Dorchester",
               "section_id":"CPR24509",
-              "status":"In Design",
+              "status":"In Construction",
               "operating_impact":"No",
-              "fy-0":2285000,
-              "project_total":3700000
+              "fy-0":1750000,
+              "project_total":2700000
             },
             {
               "line_type":"data",
               "title":null,
               "category":"Open Space",
-              "name":"Healy Field Playground",
-              "location":"Roslindale",
-              "section_id":"CPR24220",
-              "status":"In Construction",
+              "name":"Harambee Park Phase 2",
+              "location":"Dorchester",
+              "section_id":"CPR24783",
+              "status":"New Project",
               "operating_impact":"No",
-              "fy-0":471243,
-              "project_total":665000
+              "fy-0":300000,
+              "project_total":3500000
             },
             {
               "line_type":"data",
@@ -407,7 +473,31 @@
               "status":"Annual Program",
               "operating_impact":"No",
               "fy-0":140000,
-              "project_total":2358313
+              "project_total":2384117
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Open Space",
+              "name":"Hobart Playground",
+              "location":"Allston/Brighton",
+              "section_id":"CPR24798",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":15000,
+              "project_total":150000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Open Space",
+              "name":"Holborn Street Playground",
+              "location":"Roxbury",
+              "section_id":"CPR24794",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":50000,
+              "project_total":400000
             },
             {
               "line_type":"data",
@@ -418,8 +508,8 @@
               "section_id":"CPR23755",
               "status":"In Design",
               "operating_impact":"No",
-              "fy-0":115900,
-              "project_total":144000
+              "fy-0":0,
+              "project_total":210000
             },
             {
               "line_type":"data",
@@ -428,9 +518,9 @@
               "name":"Jamaica Pond Pathways and Perimeter Improvements",
               "location":"Jamaica Plain",
               "section_id":"CPR24226",
-              "status":"New Project",
+              "status":"In Design",
               "operating_impact":"No",
-              "fy-0":300000,
+              "fy-0":3650000,
               "project_total":4770000
             },
             {
@@ -442,8 +532,8 @@
               "section_id":"CPR24003",
               "status":"In Design",
               "operating_impact":"No",
-              "fy-0":104765,
-              "project_total":152000
+              "fy-0":200000,
+              "project_total":930000
             },
             {
               "line_type":"data",
@@ -454,8 +544,20 @@
               "section_id":"CPR24007",
               "status":"In Construction",
               "operating_impact":"No",
-              "fy-0":149000,
-              "project_total":170000
+              "fy-0":20000,
+              "project_total":250000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Open Space",
+              "name":"Lambert Avenue Playground",
+              "location":"Roxbury",
+              "section_id":"CPR24795",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":60000,
+              "project_total":500000
             },
             {
               "line_type":"data",
@@ -464,10 +566,22 @@
               "name":"Langone Park and Puopolo Playground",
               "location":"North End",
               "section_id":"CPR24218",
-              "status":"To Be Scheduled",
+              "status":"In Design",
               "operating_impact":"No",
-              "fy-0":0,
-              "project_total":5460000
+              "fy-0":750000,
+              "project_total":6160000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Open Space",
+              "name":"Liberty Tree Plaza",
+              "location":"Chinatown",
+              "section_id":"CPR22437",
+              "status":"In Construction",
+              "operating_impact":"No",
+              "fy-0":42259,
+              "project_total":1187086
             },
             {
               "line_type":"data",
@@ -476,9 +590,9 @@
               "name":"Martin's Park",
               "location":"South Boston",
               "section_id":"CPR24420",
-              "status":"In Design",
+              "status":"In Construction",
               "operating_impact":"No",
-              "fy-0":500000,
+              "fy-0":0,
               "project_total":7000000
             },
             {
@@ -488,9 +602,9 @@
               "name":"Mary Hannon Playground Phase II",
               "location":"Roxbury",
               "section_id":"CPR24313",
-              "status":"To Be Scheduled",
+              "status":"In Design",
               "operating_impact":"No",
-              "fy-0":50000,
+              "fy-0":653000,
               "project_total":896000
             },
             {
@@ -502,20 +616,8 @@
               "section_id":"CPR24235",
               "status":"In Design",
               "operating_impact":"No",
-              "fy-0":1193000,
-              "project_total":3690000
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Open Space",
-              "name":"Medal of Honor Park and Lee Playground",
-              "location":"South Boston",
-              "section_id":"CPR24231",
-              "status":"In Construction",
-              "operating_impact":"No",
-              "fy-0":510000,
-              "project_total":2010000
+              "fy-0":1261700,
+              "project_total":3790000
             },
             {
               "line_type":"data",
@@ -524,9 +626,9 @@
               "name":"Moakley Park Master Plan",
               "location":"South Boston",
               "section_id":"CPR24424",
-              "status":"Study Underway",
+              "status":"In Design",
               "operating_impact":"No",
-              "fy-0":150000,
+              "fy-0":90000,
               "project_total":180000
             },
             {
@@ -536,10 +638,10 @@
               "name":"Mt. Hope Street Parcel",
               "location":"Roslindale",
               "section_id":"CPR24521",
-              "status":"To Be Scheduled",
+              "status":"In Construction",
               "operating_impact":"No",
-              "fy-0":30000,
-              "project_total":50000
+              "fy-0":10000,
+              "project_total":60000
             },
             {
               "line_type":"data",
@@ -562,8 +664,8 @@
               "section_id":"CPR24232",
               "status":"In Design",
               "operating_impact":"No",
-              "fy-0":1400000,
-              "project_total":3110000
+              "fy-0":2110000,
+              "project_total":3910000
             },
             {
               "line_type":"data",
@@ -572,10 +674,10 @@
               "name":"Odom Serenity Garden",
               "location":"Dorchester",
               "section_id":"CPR24645",
-              "status":"New Project",
+              "status":"In Design",
               "operating_impact":"No",
-              "fy-0":50000,
-              "project_total":50000
+              "fy-0":0,
+              "project_total":550000
             },
             {
               "line_type":"data",
@@ -584,10 +686,22 @@
               "name":"Olmsted Park Landscape Restoration",
               "location":"Jamaica Plain",
               "section_id":"CPR24242",
-              "status":"In Construction",
+              "status":"In Design",
               "operating_impact":"No",
-              "fy-0":618038,
+              "fy-0":16660,
               "project_total":679000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Open Space",
+              "name":"Orton Field",
+              "location":"South Boston",
+              "section_id":"CPR24779",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":50000,
+              "project_total":510000
             },
             {
               "line_type":"data",
@@ -598,7 +712,7 @@
               "section_id":"CPR24487",
               "status":"To Be Scheduled",
               "operating_impact":"No",
-              "fy-0":90000,
+              "fy-0":45000,
               "project_total":90000
             },
             {
@@ -620,9 +734,9 @@
               "name":"Parkman Playground",
               "location":"Roslindale",
               "section_id":"CPR24229",
-              "status":"In Construction",
+              "status":"In Design",
               "operating_impact":"No",
-              "fy-0":311000,
+              "fy-0":750000,
               "project_total":1740000
             },
             {
@@ -634,8 +748,8 @@
               "section_id":"CPR24512",
               "status":"In Design",
               "operating_impact":"No",
-              "fy-0":1200000,
-              "project_total":1900000
+              "fy-0":500000,
+              "project_total":2831475
             },
             {
               "line_type":"data",
@@ -644,10 +758,10 @@
               "name":"Peter's Park",
               "location":"South End",
               "section_id":"CPR24663",
-              "status":"New Project",
+              "status":"In Design",
               "operating_impact":"No",
-              "fy-0":40000,
-              "project_total":100000
+              "fy-0":0,
+              "project_total":370000
             },
             {
               "line_type":"data",
@@ -656,22 +770,10 @@
               "name":"Public Garden Lagoon",
               "location":"Beacon Hill",
               "section_id":"CPR23600",
-              "status":"To Be Scheduled",
+              "status":"In Design",
               "operating_impact":"No",
-              "fy-0":41187,
+              "fy-0":100000,
               "project_total":1085428
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Open Space",
-              "name":"Public Garden Pathways",
-              "location":"Beacon Hill",
-              "section_id":"CPR23482",
-              "status":"To Be Scheduled",
-              "operating_impact":"No",
-              "fy-0":0,
-              "project_total":1459737
             },
             {
               "line_type":"data",
@@ -680,10 +782,10 @@
               "name":"Ramsay Park",
               "location":"South End",
               "section_id":"CPR24425",
-              "status":"In Design",
+              "status":"In Construction",
               "operating_impact":"No",
-              "fy-0":1568000,
-              "project_total":2020000
+              "fy-0":1500000,
+              "project_total":2395500
             },
             {
               "line_type":"data",
@@ -694,8 +796,32 @@
               "section_id":"CPR24233",
               "status":"In Design",
               "operating_impact":"No",
-              "fy-0":200000,
-              "project_total":3960000
+              "fy-0":1200000,
+              "project_total":4260000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Open Space",
+              "name":"Ringer Park Master Plan",
+              "location":"Allston/Brighton",
+              "section_id":"CPR24780",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":0,
+              "project_total":75000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Open Space",
+              "name":"Robert G. Shaw/Fifty-Fourth Regiment Memorial",
+              "location":"Beacon Hill",
+              "section_id":"CPR24781",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":500000,
+              "project_total":3000000
             },
             {
               "line_type":"data",
@@ -704,9 +830,9 @@
               "name":"Ross Playground",
               "location":"Hyde Park",
               "section_id":"CPR23797",
-              "status":"In Design",
+              "status":"In Construction",
               "operating_impact":"No",
-              "fy-0":1183500,
+              "fy-0":24600,
               "project_total":1220000
             },
             {
@@ -718,8 +844,8 @@
               "section_id":"CPR24573",
               "status":"In Construction",
               "operating_impact":"No",
-              "fy-0":175000,
-              "project_total":250000
+              "fy-0":500000,
+              "project_total":600000
             },
             {
               "line_type":"data",
@@ -728,10 +854,22 @@
               "name":"Smith Playground",
               "location":"Allston/Brighton",
               "section_id":"CPR24426",
-              "status":"In Design",
+              "status":"In Construction",
               "operating_impact":"No",
-              "fy-0":1500000,
+              "fy-0":2200000,
               "project_total":6285000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Open Space",
+              "name":"Smith Playground Phase 2",
+              "location":"Allston/Brighton",
+              "section_id":"CPR24782",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":100000,
+              "project_total":2480000
             },
             {
               "line_type":"data",
@@ -742,8 +880,20 @@
               "section_id":"CPR24548",
               "status":"In Design",
               "operating_impact":"No",
-              "fy-0":100000,
+              "fy-0":0,
               "project_total":150000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Open Space",
+              "name":"Stonehill Playground",
+              "location":"Hyde Park",
+              "section_id":"CPR24800",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":60000,
+              "project_total":500000
             },
             {
               "line_type":"data",
@@ -755,7 +905,19 @@
               "status":"Annual Program",
               "operating_impact":"No",
               "fy-0":700000,
-              "project_total":7880692
+              "project_total":8397943
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Open Space",
+              "name":"Thetford Evans Playground",
+              "location":"Dorchester",
+              "section_id":"CPR24801",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":60000,
+              "project_total":500000
             },
             {
               "line_type":"data",
@@ -778,8 +940,20 @@
               "section_id":"CPR21491",
               "status":"Annual Program",
               "operating_impact":"No",
-              "fy-0":350000,
-              "project_total":3269419
+              "fy-0":352000,
+              "project_total":3562589
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Open Space",
+              "name":"Walker Playground",
+              "location":"Mattapan",
+              "section_id":"CPR24799",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":60000,
+              "project_total":600000
             },
             {
               "line_type":"data",
@@ -788,9 +962,9 @@
               "name":"William Devine Clubhouse Roof Replacement",
               "location":"Roxbury",
               "section_id":"CPR24610",
-              "status":"New Project",
+              "status":"To Be Scheduled",
               "operating_impact":"No",
-              "fy-0":300000,
+              "fy-0":1529362,
               "project_total":1679362
             },
             {
@@ -803,14 +977,14 @@
               "status":"Annual Program",
               "operating_impact":"No",
               "fy-0":200000,
-              "project_total":2467929
+              "project_total":2960065
             }
           ]
         }
       ]
     }
   ],
-  "fy-0":31285933,
-  "total":207629840
+  "fy-0":34542592,
+  "total":228686232
 }
 ---

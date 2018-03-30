@@ -3,8 +3,8 @@
   "cabinet":"Mayor's Office",
   "debug":"JBDCP",
   "department":"Office of New Urban Mechanics",
-  "file_version":"0.10",
-  "head_name":"Daniel Koh",
+  "file_version":"",
+  "head_name":"David Sweeney",
   "head_title":"Chief of Staff",
   "name":"Office of New Urban Mechanics",
   "parent":"Mayor's Office",
@@ -13,7 +13,9 @@
   "section_type":"capital_budget",
   "section_type_short":"L",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_cp_depts~office-of-new-urban-mechanics.json",
+  "source_time":"20180327183725",
+  "source_year":"19",
   "mission":[
     "The mission of the Office of the Mayor is to provide executive leadership, as well as setting priorities and goals for the City and its neighborhoods."
   ],
@@ -28,24 +30,23 @@
   ],
   "capital_budget_expenditures":[
     {
-      "debug":"JBDCPCBE",
       "table_type":"capital_budget_expenditures",
       "table_title":"Capital Budget Expenditures",
       "table_header":{
         "line_type":"header",
         "title":null,
         "line_data_type":"string",
-        "fy-2":"FY15 Actual",
-        "fy-1":"FY16 Actual",
-        "fy-0":"FY17 Estimated",
-        "fy+1":"FY18 Projected"
+        "fy-2":"FY16 Actual",
+        "fy-1":"FY17 Actual",
+        "fy-0":"FY18 Estimated",
+        "fy+1":"FY19 Projected"
       },
       "data":{
         "line_type":"total",
         "line_title":"Total Department",
         "line_data_type":"total",
         "fy-2":0,
-        "fy-1":0,
+        "fy-1":30250,
         "fy-0":100000,
         "fy+1":100000
       }
@@ -64,7 +65,7 @@
         "name":"Project",
         "location":"Location",
         "status":"Status",
-        "fy-0":"FY18 Projected",
+        "fy-0":"FY19 Projected",
         "project_title":"Total"
       },
       "projects_data":[

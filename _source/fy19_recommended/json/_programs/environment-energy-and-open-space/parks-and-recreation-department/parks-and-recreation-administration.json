@@ -1,0 +1,165 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Environment, Energy & Open Space",
+  "department":"Parks & Recreation Department",
+  "file_version":"",
+  "head_name":"Christopher Cook",
+  "head_title":"Commissioner",
+  "name":"Parks & Recreation Administration",
+  "parent":"Parks & Recreation Department",
+  "section_id":163,
+  "section_md5_id":"0777D5C17D4066B82AB86DFF8A46AF6F",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~.json",
+  "source_time":"20180327182453",
+  "source_year":"19",
+  "appropriation_code":"Organization 300100",
+  "description":[
+    "The Administration Program provides administrative, financial, and personnel support for all departmental units.  This program is also responsible for monitoring MOAs, contractual arrangements, licensing of major park facilities, coordination of community-based organizations, solicitation of corporate sponsorship, and communication with the public."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":2064092,
+      "fy-1":2157919,
+      "fy-0":2127083,
+      "fy+1":2266102
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":1277998,
+      "fy-1":1048760,
+      "fy-0":1084131,
+      "fy+1":1072285
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":3342090,
+      "fy-1":3206679,
+      "fy-0":3211214,
+      "fy+1":3338387
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":2064092,
+        "fy-1":2157919,
+        "fy-0":2127083,
+        "fy+1":2266102,
+        "diff":139019
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":709380,
+        "fy-1":547090,
+        "fy-0":539374,
+        "fy+1":470701,
+        "diff":-68673
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":38326,
+        "fy-1":27012,
+        "fy-0":28050,
+        "fy+1":121050,
+        "diff":93000
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":475898,
+        "fy-1":430990,
+        "fy-0":438978,
+        "fy+1":411405,
+        "diff":-27573
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":54394,
+        "fy-1":43668,
+        "fy-0":77729,
+        "fy+1":69129,
+        "diff":-8600
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":3342090,
+        "fy-1":3206679,
+        "fy-0":3211214,
+        "fy+1":3338387,
+        "diff":127173
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Committment to contributing to the livability of our city and providing access to our open spaces. Consistent with Mayor Walsh's Parks First agenda: Access, Equity and Excellence"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Attendance at Parks Department organized events",
+              "fy-2":"",
+              "fy-1":"74,784",
+              "fy-0":"70,000",
+              "fy+1":"70,000"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

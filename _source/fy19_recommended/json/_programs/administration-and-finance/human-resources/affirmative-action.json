@@ -1,55 +1,56 @@
 ---
 {
   "publish_subordinates":true,
-  "cabinet":"Administration and Finance",
+  "cabinet":"Administration & Finance",
   "department":"Human Resources",
-  "file_version":"0.10",
+  "file_version":"",
   "head_name":"Vivian Leonard",
   "head_title":"Manager",
   "name":"Affirmative Action",
   "parent":"Human Resources",
-  "section_id":117,
-  "section_md5_id":"EB160DE1DE89D9058FCB0B968DBBBD68",
+  "section_id":119,
+  "section_md5_id":"07E1CD7DCA89A1678042477183B7AC3F",
   "section_type":"program",
   "section_type_short":"P",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~personnel.json",
+  "source_time":"20180327182355",
+  "source_year":"19",
   "appropriation_code":"Organization 142200",
   "description":[
     "The Affirmative Action Program is responsible for implementing the City's Affirmative Action Plan.  It reviews the city's hiring practices and employment policies, audits affirmative action statistics, implements anti-harassment policies, ensures city compliance with federal and state EEO requirements and provides affirmative action assistance to all city departments."
   ],
   "selected_service_indicators":[
     {
-      "debug":"JSSIT",
       "line_title":"Operating Budget",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":44061,
-      "fy-1":28243,
-      "fy-0":44907,
+      "fy-2":28243,
+      "fy-1":0,
+      "fy-0":0,
       "fy+1":0
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":33136,
-      "fy-1":25500,
-      "fy-0":27500,
+      "fy-2":25500,
+      "fy-1":27000,
+      "fy-0":30500,
       "fy+1":30500
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":77197,
-      "fy-1":53743,
-      "fy-0":72407,
+      "fy-2":53743,
+      "fy-1":27000,
+      "fy-0":30500,
       "fy+1":30500
     }
   ],
@@ -58,33 +59,33 @@
     "table_header":{
       "line_type":"title",
       "category":"Category",
-      "fy-2":"FY15 Expenditure",
-      "fy-1":"FY16 Expenditure",
-      "fy-0":"FY17 Appropriation",
-      "fy+1":"FY18 Recommended",
-      "diff":"Inc/Dec 17 vs 18"
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
     },
     "data":[
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":44061,
-        "fy-1":28243,
-        "fy-0":44907,
+        "fy-2":28243,
+        "fy-1":0,
+        "fy-0":0,
         "fy+1":0,
-        "diff":-44907
+        "diff":0
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":32636,
+        "fy-2":25000,
         "fy-1":25000,
-        "fy-0":25000,
+        "fy-0":28000,
         "fy+1":28000,
-        "diff":3000
+        "diff":0
       },
       {
-        "line_title":"Supplies and Materials",
+        "line_title":"Supplies & Materials",
         "line_type":"data",
         "fy-2":0,
         "fy-1":0,
@@ -93,10 +94,10 @@
         "diff":0
       },
       {
-        "line_title":"Current Chgs and Oblig",
+        "line_title":"Current Chgs & Oblig",
         "line_type":"data",
         "fy-2":500,
-        "fy-1":500,
+        "fy-1":2000,
         "fy-0":2500,
         "fy+1":2500,
         "diff":0
@@ -122,11 +123,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":77197,
-        "fy-1":53743,
-        "fy-0":72407,
+        "fy-2":53743,
+        "fy-1":27000,
+        "fy-0":30500,
         "fy+1":30500,
-        "diff":-41907
+        "diff":0
       }
     ]
   },
@@ -139,46 +140,45 @@
       "performance_measures":[
         {
           "table_header":{
-            "debug":"JPM",
             "Performance Goals":"Performance Measures",
             "line_type":"header",
-            "fy-2":"FY15 Actual",
-            "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Target",
-            "fy+1":"FY18 Target"
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
           },
           "data":[
             {
               "line_type":"data",
-              "line_data":"% Increase - People of Color Promoted in the Workforce",
-              "fy-2":"",
-              "fy-1":"3%",
-              "fy-0":"2%",
-              "fy+1":"2%"
+              "line_data":"% City Workforce - people of color",
+              "fy-2":"36%",
+              "fy-1":"36%",
+              "fy-0":"37%",
+              "fy+1":"38%"
             },
             {
               "line_type":"data",
-              "line_data":"% Increase - People of Color within the Workforce",
-              "fy-2":"",
-              "fy-1":"1%",
-              "fy-0":"1%",
-              "fy+1":"1%"
+              "line_data":"% City Workforce - women",
+              "fy-2":"30%",
+              "fy-1":"30%",
+              "fy-0":"30%",
+              "fy+1":"32%"
             },
             {
               "line_type":"data",
-              "line_data":"% Increase - Women Promoted in the Workforce",
-              "fy-2":"",
-              "fy-1":"3%",
-              "fy-0":"2%",
-              "fy+1":"2%"
+              "line_data":"% of total promotions - people of color",
+              "fy-2":"32%",
+              "fy-1":"39%",
+              "fy-0":"38%",
+              "fy+1":"38%"
             },
             {
               "line_type":"data",
-              "line_data":"% Increase - Women within the Workforce",
-              "fy-2":"",
-              "fy-1":"-5",
-              "fy-0":"1%",
-              "fy+1":"1%"
+              "line_data":"% of total promotions - women",
+              "fy-2":"34%",
+              "fy-1":"42%",
+              "fy-0":"34%",
+              "fy+1":"36%"
             }
           ]
         }

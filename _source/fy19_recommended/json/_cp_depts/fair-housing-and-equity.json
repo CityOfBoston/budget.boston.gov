@@ -1,33 +1,49 @@
 ---
 {
-  "cabinet":"Health and Human Services",
+  "cabinet":"Health & Human Services",
   "debug":"JBDCP",
-  "department":"Fair Housing and Equity",
-  "file_version":"0.10",
-  "head_name":"Janine Anzalota",
+  "department":"Fair Housing & Equity",
+  "file_version":"",
+  "head_name":"Vacant",
   "head_title":"Director",
-  "name":"Fair Housing and Equity",
-  "parent":"Health and Human Services",
+  "name":"Fair Housing & Equity",
+  "parent":"Health & Human Services",
   "section_id":41,
   "section_md5_id":"3416A75F4CEA9109507CACD8E2F2AEFC",
   "section_type":"capital_budget",
   "section_type_short":"L",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_cp_depts~fair-housing-and-equity.json",
+  "source_time":"20180327182515",
+  "source_year":"19",
   "mission":[
-    "The mission of the Fair Housing and Equity Department is to eliminate discrimination and ensure fair and equal access to housing, public services, accommodations and participation in activities. The Office strives to reduce procedural, attitudinal and commu"
+    "The mission of the Office of Fair Housing and Equity is to ensure fair and equitable access to housing opportunities. We strive to increase equity and reduce barriers to opportunity for persons living and working in the City of Boston."
   ],
   "description_of_services":[
-    "The Department is responsible for investigating and enforcing anti-discrimination laws, providing information and referral services, advocating in support of civil rights issues, conducting education and outreach to constituents, and coordinating the City&rsquo;s compliance with the Americans with Disabilities Act (ADA)."
+    "The Boston Fair Housing Commission is responsible for investigating and enforcing all of the City&rsquo;s anti-discrimination laws, conducting education and outreach, and advocating for internal and external policies that advance fair housing protections. The Affirmative Fair Housing Marketing Program promotes equal access to government-assisted housing for all persons by establishing standards for public outreach, advertising and tenant/buyer selection criteria. The BFHC oversees the development and implementation of affirmative marketing plans that promote housing opportunity and monitors compliance with fair housing law."
   ],
-  "selected_performance_strategies":[
+  "capital_budget_expenditures":[
     {
-      "program":"Fair Housing Commission",
-      "strategies":[
-        "Increase access to housing opportunities through enforcement.",
-        "Increase access to housing opportunity through community engagement.",
-        "Increase equitable access to City assisted housing development."
-      ]
+      "table_type":"capital_budget_expenditures",
+      "table_title":"Capital Budget Expenditures",
+      "table_header":{
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "fy-2":"FY16 Actual",
+        "fy-1":"FY17 Actual",
+        "fy-0":"FY18 Estimated",
+        "fy+1":"FY19 Projected"
+      },
+      "data":{
+        "line_type":"total",
+        "line_title":"Total Department",
+        "line_data_type":"total",
+        "fy-2":15844506,
+        "fy-1":9933195,
+        "fy-0":11499363,
+        "fy+1":7659294
+      }
     }
   ]
 }

@@ -3,7 +3,7 @@
   "cabinet":"Mayor's Office",
   "debug":"JBDCP",
   "department":"Public Information",
-  "file_version":"0.10",
+  "file_version":"",
   "head_name":"Laura Oggeri",
   "head_title":"Press Secretary",
   "name":"Public Information",
@@ -13,7 +13,9 @@
   "section_type":"capital_budget",
   "section_type_short":"L",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_cp_depts~public-information.json",
+  "source_time":"20180327183732",
+  "source_year":"19",
   "mission":[
     "In FY16, the Public Information Communication Program will be in the Mayor&rsquo;s Office and the 24 Hour/Constituent Engagement Program will be moved to Neighborhood Services."
   ],
@@ -22,24 +24,23 @@
   ],
   "capital_budget_expenditures":[
     {
-      "debug":"JBDCPCBE",
       "table_type":"capital_budget_expenditures",
       "table_title":"Capital Budget Expenditures",
       "table_header":{
         "line_type":"header",
         "title":null,
         "line_data_type":"string",
-        "fy-2":"FY15 Actual",
-        "fy-1":"FY16 Actual",
-        "fy-0":"FY17 Estimated",
-        "fy+1":"FY18 Projected"
+        "fy-2":"FY16 Actual",
+        "fy-1":"FY17 Actual",
+        "fy-0":"FY18 Estimated",
+        "fy+1":"FY19 Projected"
       },
       "data":{
         "line_type":"total",
         "line_title":"Total Department",
         "line_data_type":"total",
         "fy-2":0,
-        "fy-1":0,
+        "fy-1":30250,
         "fy-0":100000,
         "fy+1":100000
       }

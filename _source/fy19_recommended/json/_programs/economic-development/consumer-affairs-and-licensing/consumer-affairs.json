@@ -2,55 +2,56 @@
 {
   "publish_subordinates":true,
   "cabinet":"Economic Development",
-  "department":"Consumer Affairs and Licensing",
-  "file_version":"0.10",
+  "department":"Consumer Affairs & Licensing",
+  "file_version":"",
   "head_name":"Christine Pulgini",
   "head_title":"Director",
   "name":"Consumer Affairs",
-  "parent":"Consumer Affairs and Licensing",
-  "section_id":7,
-  "section_md5_id":"8F14E45FCEEA167A5A36DEDD4BEA2543",
+  "parent":"Consumer Affairs & Licensing",
+  "section_id":83,
+  "section_md5_id":"FE9FC289C3FF0AF142B6D3BEAD98A923",
   "section_type":"program",
   "section_type_short":"P",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~.json",
+  "source_time":"20180327182427",
+  "source_year":"19",
   "appropriation_code":"Organization 114200",
   "description":[
     "The Consumer Affairs Program educates, advocates and mediates on behalf of Boston consumers.  The office monitors businesses to deter unfair and deceptive business practices affecting consumers and serves as a resource to the Mayor's Office on consumer issues.  The office works closely with the Office of the Attorney General."
   ],
   "selected_service_indicators":[
     {
-      "debug":"JSSIT",
       "line_title":"Operating Budget",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":84520,
-      "fy-1":86537,
-      "fy-0":97475,
-      "fy+1":99671
+      "fy-2":86537,
+      "fy-1":89803,
+      "fy-0":99671,
+      "fy+1":105077
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":0,
-      "fy-1":69,
-      "fy-0":3600,
-      "fy+1":900
+      "fy-2":69,
+      "fy-1":6297,
+      "fy-0":900,
+      "fy+1":1400
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":84520,
-      "fy-1":86606,
-      "fy-0":101075,
-      "fy+1":100571
+      "fy-2":86606,
+      "fy-1":96100,
+      "fy-0":100571,
+      "fy+1":106477
     }
   ],
   "program_history_by_account":{
@@ -58,45 +59,45 @@
     "table_header":{
       "line_type":"title",
       "category":"Category",
-      "fy-2":"FY15 Expenditure",
-      "fy-1":"FY16 Expenditure",
-      "fy-0":"FY17 Appropriation",
-      "fy+1":"FY18 Recommended",
-      "diff":"Inc/Dec 17 vs 18"
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
     },
     "data":[
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":84520,
-        "fy-1":86537,
-        "fy-0":97475,
-        "fy+1":99671,
-        "diff":2196
+        "fy-2":86537,
+        "fy-1":89803,
+        "fy-0":99671,
+        "fy+1":105077,
+        "diff":5406
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":54,
-        "fy-0":2400,
+        "fy-2":54,
+        "fy-1":342,
+        "fy-0":600,
         "fy+1":600,
-        "diff":-1800
+        "diff":0
       },
       {
-        "line_title":"Supplies and Materials",
+        "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":15,
-        "fy-0":1200,
-        "fy+1":300,
-        "diff":-900
+        "fy-2":15,
+        "fy-1":796,
+        "fy-0":300,
+        "fy+1":800,
+        "diff":500
       },
       {
-        "line_title":"Current Chgs and Oblig",
+        "line_title":"Current Chgs & Oblig",
         "line_type":"data",
         "fy-2":0,
-        "fy-1":0,
+        "fy-1":5159,
         "fy-0":0,
         "fy+1":0,
         "diff":0
@@ -122,44 +123,13 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":84520,
-        "fy-1":86606,
-        "fy-0":101075,
-        "fy+1":100571,
-        "diff":-504
+        "fy-2":86606,
+        "fy-1":96100,
+        "fy-0":100571,
+        "fy+1":106477,
+        "diff":5906
       }
     ]
-  },
-  "performance_strategies":[
-    {
-      "section_name":"Performance",
-      "strategy":[
-        "To track the number of cases closed"
-      ],
-      "performance_measures":[
-        {
-          "table_header":{
-            "debug":"JPM",
-            "Performance Goals":"Performance Measures",
-            "line_type":"header",
-            "fy-2":"FY15 Actual",
-            "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Target",
-            "fy+1":"FY18 Target"
-          },
-          "data":[
-            {
-              "line_type":"data",
-              "line_data":"Consumer cases closed",
-              "fy-2":"",
-              "fy-1":"",
-              "fy-0":"600",
-              "fy+1":"720"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+  }
 }
 ---

@@ -2,55 +2,56 @@
 {
   "publish_subordinates":true,
   "cabinet":"Economic Development",
-  "department":"Consumer Affairs and Licensing",
-  "file_version":"0.10",
+  "department":"Consumer Affairs & Licensing",
+  "file_version":"",
   "head_name":"Christine Pulgini",
   "head_title":"Director",
   "name":"Licensing Board",
-  "parent":"Consumer Affairs and Licensing",
-  "section_id":279,
-  "section_md5_id":"D395771085AAB05244A4FB8FD91BF4EE",
+  "parent":"Consumer Affairs & Licensing",
+  "section_id":85,
+  "section_md5_id":"3EF815416F775098FE977004015C6193",
   "section_type":"program",
   "section_type_short":"P",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~consumer-licensing.json",
+  "source_time":"20180327182427",
+  "source_year":"19",
   "appropriation_code":"Organization 114300",
   "description":[
     "The Licensing Program regulates all licenses for retail sales of alcoholic and non-alcoholic beverages, restaurant food, and lodgings.  The Licensing Board conducts business hearings, disciplinary hearings, and public meetings.  This program performs outreach to the community to inform citizens of the work of the Licensing Board."
   ],
   "selected_service_indicators":[
     {
-      "debug":"JSSIT",
       "line_title":"Operating Budget",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     {
       "line_title":"Personnel Services",
       "line_type":"data",
       "fy-2":0,
-      "fy-1":0,
-      "fy-0":679390,
-      "fy+1":621814
+      "fy-1":535989,
+      "fy-0":632077,
+      "fy+1":646563
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
       "fy-2":0,
-      "fy-1":0,
-      "fy-0":34100,
-      "fy+1":31850
+      "fy-1":34283,
+      "fy-0":32850,
+      "fy+1":36460
     },
     {
       "line_title":"Total",
       "line_type":"total",
       "fy-2":0,
-      "fy-1":0,
-      "fy-0":713490,
-      "fy+1":653664
+      "fy-1":570272,
+      "fy-0":664927,
+      "fy+1":683023
     }
   ],
   "program_history_by_account":{
@@ -58,54 +59,54 @@
     "table_header":{
       "line_type":"title",
       "category":"Category",
-      "fy-2":"FY15 Expenditure",
-      "fy-1":"FY16 Expenditure",
-      "fy-0":"FY17 Appropriation",
-      "fy+1":"FY18 Recommended",
-      "diff":"Inc/Dec 17 vs 18"
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
     },
     "data":[
       {
         "line_title":"Personnel Services",
         "line_type":"data",
         "fy-2":0,
-        "fy-1":0,
-        "fy-0":679390,
-        "fy+1":621814,
-        "diff":-57576
+        "fy-1":535989,
+        "fy-0":632077,
+        "fy+1":646563,
+        "diff":14486
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
         "fy-2":0,
-        "fy-1":0,
-        "fy-0":12200,
-        "fy+1":10650,
-        "diff":-1550
+        "fy-1":5743,
+        "fy-0":10650,
+        "fy+1":8300,
+        "diff":-2350
       },
       {
-        "line_title":"Supplies and Materials",
+        "line_title":"Supplies & Materials",
         "line_type":"data",
         "fy-2":0,
-        "fy-1":0,
-        "fy-0":10900,
-        "fy+1":10200,
-        "diff":-700
+        "fy-1":14228,
+        "fy-0":11200,
+        "fy+1":16250,
+        "diff":5050
       },
       {
-        "line_title":"Current Chgs and Oblig",
+        "line_title":"Current Chgs & Oblig",
         "line_type":"data",
         "fy-2":0,
-        "fy-1":0,
+        "fy-1":9222,
         "fy-0":11000,
-        "fy+1":11000,
-        "diff":0
+        "fy+1":11910,
+        "diff":910
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
         "fy-2":0,
-        "fy-1":0,
+        "fy-1":5090,
         "fy-0":0,
         "fy+1":0,
         "diff":0
@@ -123,10 +124,10 @@
         "line_title":"Total",
         "line_type":"total",
         "fy-2":0,
-        "fy-1":0,
-        "fy-0":713490,
-        "fy+1":653664,
-        "diff":-59826
+        "fy-1":570272,
+        "fy-0":664927,
+        "fy+1":683023,
+        "diff":18096
       }
     ]
   },
@@ -139,13 +140,12 @@
       "performance_measures":[
         {
           "table_header":{
-            "debug":"JPM",
             "Performance Goals":"Performance Measures",
             "line_type":"header",
-            "fy-2":"FY15 Actual",
-            "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Target",
-            "fy+1":"FY18 Target"
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
           },
           "data":[
             {
@@ -153,14 +153,14 @@
               "line_data":"% non live entertainment licenses granted in 14 days from application",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"",
+              "fy-0":"100%",
               "fy+1":"100%"
             },
             {
               "line_type":"data",
               "line_data":"% of live entertainment licenses granted in statutory time",
               "fy-2":"",
-              "fy-1":"",
+              "fy-1":"100%",
               "fy-0":"100%",
               "fy+1":"100%"
             }

@@ -3,7 +3,7 @@
   "category":"Open Space",
   "category_desc":"Initiatives to strengthen our existing park system and invest in new open spaces.",
   "department":"Parks and Recreation Department",
-  "file_version":"0.10",
+  "file_version":"",
   "location":"Dorchester",
   "managing_department":"Parks and Recreation Department",
   "mission":"Comprehensive park renovation to include play lot, three fields, passive park, parking lot and address access issues.",
@@ -13,20 +13,21 @@
   "section_type":"projects",
   "section_type_short":"R",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_projects~parks-and-recreation-department~mcconnell-playground.json",
+  "source_time":"20180327182450",
+  "source_year":"19",
   "status":"In Design",
   "expenditures_detail":{
-    "debug":"JCP1",
     "table_title":"Expenditures (Actual and Planned)",
     "table_header":{
       "line_type":"header",
       "line_title":null,
       "line_data_type":"string",
       "source":"Source",
-      "past_spending":"Through 6/30/16",
-      "fy-1":"FY17 Budget",
-      "fy-0":"FY18 Budget",
-      "fy+1-4":"FY19-22 Budget",
+      "past_spending":"Through 6/30/17",
+      "fy-1":"FY18 Budget",
+      "fy-0":"FY19 Budget",
+      "fy+1-4":"FY20-23 Budget",
       "total":"Total"
     },
     "data":[
@@ -36,10 +37,10 @@
         "line_date_type":"number",
         "source":"City Capital",
         "past_spending":0,
-        "fy-1":247000,
-        "fy-0":1193000,
-        "fy+1-4":2250000,
-        "total":3690000
+        "fy-1":850000,
+        "fy-0":1261700,
+        "fy+1-4":1678300,
+        "total":3790000
       },
       {
         "line_type":"data",
@@ -58,14 +59,13 @@
         "line_date_type":"number",
         "source":"Totals",
         "past_spending":0,
-        "fy-1":247000,
-        "fy-0":1193000,
-        "fy+1-4":2250000,
-        "total":3690000
+        "fy-1":850000,
+        "fy-0":1261700,
+        "fy+1-4":1678300,
+        "total":3790000
       }
     ],
     "authorizations_table":{
-      "debug":"JCP2",
       "table_title":"Authorizations",
       "table_header":{
         "line_type":"header",
@@ -73,7 +73,7 @@
         "line_data_type":"string",
         "source":"Source",
         "existing":"Existing",
-        "fy-0":"FY18",
+        "fy-0":"FY19",
         "fy-0++":"Future",
         "other":"Non Capital Fund",
         "total":"Total"
@@ -85,10 +85,10 @@
           "line_data_type":"number",
           "source":"City Capital",
           "existing":3690000,
-          "fy-0":0,
+          "fy-0":100000,
           "fy-0++":0,
           "other":0,
-          "total":3690000
+          "total":3790000
         },
         {
           "line_type":"data",
@@ -107,10 +107,10 @@
           "line_data_type":"number",
           "source":"Totals",
           "existing":3690000,
-          "fy-0":0,
+          "fy-0":100000,
           "fy-0++":0,
           "other":0,
-          "total":3690000
+          "total":3790000
         }
       ]
     }

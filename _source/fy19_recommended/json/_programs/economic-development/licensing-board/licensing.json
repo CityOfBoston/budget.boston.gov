@@ -1,54 +1,55 @@
 ---
 {
-  "publish_subordinates":false,
+  "publish_subordinates":true,
   "cabinet":"Economic Development",
   "department":"Licensing Board",
-  "file_version":"0.10",
+  "file_version":"",
   "head_name":"Peter Wong",
   "head_title":"Manager",
   "name":"Licensing",
   "parent":"Licensing Board",
-  "section_id":113,
-  "section_md5_id":"73278A4A86960EEB576A8FD4C9EC6997",
+  "section_id":138,
+  "section_md5_id":"013D407166EC4FA56EB1E1F8CBE183B9",
   "section_type":"program",
   "section_type_short":"P",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~.json",
+  "source_time":"20180327182429",
+  "source_year":"19",
   "appropriation_code":"Organization 252100",
   "description":[
     "The Licensing Program regulates all licenses for retail sales of alcoholic and non-alcoholic beverages, restaurant food, and lodgings.  The Licensing Board conducts business hearings, disciplinary hearings, and public meetings.  This program performs outreach to the community to inform citizens of the work of the Licensing Board."
   ],
   "selected_service_indicators":[
     {
-      "debug":"JSSIT",
       "line_title":"Operating Budget",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":681080,
-      "fy-1":609247,
+      "fy-2":609247,
+      "fy-1":0,
       "fy-0":0,
       "fy+1":0
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":23673,
-      "fy-1":28488,
+      "fy-2":28488,
+      "fy-1":0,
       "fy-0":0,
       "fy+1":0
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":704753,
-      "fy-1":637735,
+      "fy-2":637735,
+      "fy-1":0,
       "fy-0":0,
       "fy+1":0
     }
@@ -58,18 +59,18 @@
     "table_header":{
       "line_type":"title",
       "category":"Category",
-      "fy-2":"FY15 Expenditure",
-      "fy-1":"FY16 Expenditure",
-      "fy-0":"FY17 Appropriation",
-      "fy+1":"FY18 Recommended",
-      "diff":"Inc/Dec 17 vs 18"
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
     },
     "data":[
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":681080,
-        "fy-1":609247,
+        "fy-2":609247,
+        "fy-1":0,
         "fy-0":0,
         "fy+1":0,
         "diff":0
@@ -77,26 +78,26 @@
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":5548,
-        "fy-1":6680,
+        "fy-2":6680,
+        "fy-1":0,
         "fy-0":0,
         "fy+1":0,
         "diff":0
       },
       {
-        "line_title":"Supplies and Materials",
+        "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":8736,
-        "fy-1":12498,
+        "fy-2":12498,
+        "fy-1":0,
         "fy-0":0,
         "fy+1":0,
         "diff":0
       },
       {
-        "line_title":"Current Chgs and Oblig",
+        "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":8369,
-        "fy-1":9310,
+        "fy-2":9310,
+        "fy-1":0,
         "fy-0":0,
         "fy+1":0,
         "diff":0
@@ -104,7 +105,7 @@
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":1020,
+        "fy-2":0,
         "fy-1":0,
         "fy-0":0,
         "fy+1":0,
@@ -122,8 +123,8 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":704753,
-        "fy-1":637735,
+        "fy-2":637735,
+        "fy-1":0,
         "fy-0":0,
         "fy+1":0,
         "diff":0

@@ -1,0 +1,135 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Information & Technology",
+  "department":"Department of Innovation & Technology",
+  "file_version":"",
+  "head_name":"Patricia Boyle-McKenna",
+  "head_title":"Manager",
+  "name":"DoIT Operations",
+  "parent":"Department of Innovation & Technology",
+  "section_id":86,
+  "section_md5_id":"93DB85ED909C13838FF95CCFA94CEBD9",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~.json",
+  "source_time":"20180327183720",
+  "source_year":"19",
+  "appropriation_code":"Organization 149100",
+  "description":[
+    "The Operations program provides project management, business consulting services, and administrative support to agencies so that they can effectively develop and maintain new IT applications and improve service delivery through effective integration of innovative technology solutions."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":1367805,
+      "fy-1":2182828,
+      "fy-0":1836342,
+      "fy+1":708219
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":1618699,
+      "fy-1":2240364,
+      "fy-0":1628750,
+      "fy+1":2016769
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":2986504,
+      "fy-1":4423192,
+      "fy-0":3465092,
+      "fy+1":2724988
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":1367805,
+        "fy-1":2182828,
+        "fy-0":1836342,
+        "fy+1":708219,
+        "diff":-1128123
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":932351,
+        "fy-1":1538973,
+        "fy-0":905000,
+        "fy+1":823075,
+        "diff":-81925
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":45627,
+        "fy-1":19281,
+        "fy-0":69750,
+        "fy+1":16750,
+        "diff":-53000
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":640721,
+        "fy-1":644587,
+        "fy-0":654000,
+        "fy+1":1176944,
+        "diff":522944
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":37523,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":2986504,
+        "fy-1":4423192,
+        "fy-0":3465092,
+        "fy+1":2724988,
+        "diff":-740104
+      }
+    ]
+  }
+}
+---

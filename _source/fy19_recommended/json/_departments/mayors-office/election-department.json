@@ -2,13 +2,15 @@
 {
   "debug":"JBD",
   "publish_subordinates":true,
-  "file_version":"0.10",
+  "file_version":"",
   "section_id":8,
   "section_md5_id":"C9F0F895FB98AB9159F51FD0297E236D",
   "section_type":"department",
   "section_type_short":"D",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Mayor's Office~election-department.json",
+  "source_time":"20180327183728",
+  "source_year":"19",
   "name":"Election Department",
   "parent":"Mayor's Office",
   "cabinet":"Mayor's Office",
@@ -19,121 +21,96 @@
   "mission":[
     "The mission of the Election Department is to ensure that all municipal, state and federal elections conducted within the City of Boston are properly managed in accordance with City, state and federal laws. The Department also seeks to ensure that all eligible citizens are registered to vote and that a comprehensive juror list is provided to the State Jury Commissioner."
   ],
-  "selected_performance_strategies":[
-    {
-      "program":"Election Administration",
-      "debug":"JCO",
-      "strategies":[
-        "Administer Elections in a manner that allows all eligible voters to exercise their right to vote without unreasonable impediments, and in accordance with the applicable laws and regulations"
-      ]
-    },
-    {
-      "program":"Annual Listing",
-      "debug":"JCO",
-      "strategies":[
-        "Conduct an annual census of all residents age 17 and over. Annually submit a list to the State Jury Commissioner of residents who are eligible to be jurors"
-      ]
-    },
-    {
-      "program":"Voter Registration",
-      "debug":"JCO",
-      "strategies":[
-        "Encourage and facilitate the registration of eligible voters, with an emphasis on increasing electronic voter registrations"
-      ]
-    }
-  ],
   "operating_budget":{
-    "debug":"JPTR",
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
       "name":"Program Name",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     "data":[
       {
         "name":"Annual Listing",
         "line_type":"data",
-        "fy-2":540870,
-        "fy-1":506691,
-        "fy-0":510551,
-        "fy+1":534712,
+        "fy-2":506691,
+        "fy-1":536687,
+        "fy-0":534712,
+        "fy+1":513725,
         "publish_subordinates":true
       },
       {
-        "name":"Administration",
+        "name":"Election Administration",
         "line_type":"data",
-        "fy-2":703866,
-        "fy-1":698418,
-        "fy-0":730869,
-        "fy+1":779455,
+        "fy-2":698418,
+        "fy-1":785999,
+        "fy-0":793971,
+        "fy+1":1090594,
         "publish_subordinates":true
       },
       {
         "name":"Voter Registration",
         "line_type":"data",
-        "fy-2":277896,
-        "fy-1":329741,
-        "fy-0":351409,
-        "fy+1":354637,
+        "fy-2":329741,
+        "fy-1":363573,
+        "fy-0":365253,
+        "fy+1":381942,
         "publish_subordinates":true
       },
       {
         "name":"Election Activities",
         "line_type":"data",
-        "fy-2":1810102,
-        "fy-1":2239947,
-        "fy-0":2736513,
-        "fy+1":2577111,
+        "fy-2":2239947,
+        "fy-1":2337960,
+        "fy-0":2606992,
+        "fy+1":2745708,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":3332734,
-        "fy-1":3774797,
-        "fy-0":4329342,
-        "fy+1":4245915
+        "fy-2":3774797,
+        "fy-1":4024219,
+        "fy-0":4300928,
+        "fy+1":4731969
       }
     ]
   },
   "selected_service_indicators":[
     {
-      "debug":"JSSIT",
       "line_title":"Operating Budget",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":2316509,
-      "fy-1":2380547,
-      "fy-0":2788304,
-      "fy+1":2669018
+      "fy-2":2380547,
+      "fy-1":2656876,
+      "fy-0":2720031,
+      "fy+1":2888471
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":475355,
-      "fy-1":887559,
-      "fy-0":1030487,
-      "fy+1":1042185
+      "fy-2":887559,
+      "fy-1":830656,
+      "fy-0":1046185,
+      "fy+1":1329773
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":2791864,
-      "fy-1":3268106,
-      "fy-0":3818791,
-      "fy+1":3711203
+      "fy-2":3268106,
+      "fy-1":3487532,
+      "fy-0":3766216,
+      "fy+1":4218244
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
@@ -149,57 +126,57 @@
     "table_header":{
       "line_type":"title",
       "category":"Category",
-      "fy-2":"FY15 Expenditure",
-      "fy-1":"FY16 Expenditure",
-      "fy-0":"FY17 Appropriation",
-      "fy+1":"FY18 Recommended",
-      "diff":"Inc/Dec 17 vs 18"
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
     },
     "data":[
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":2316509,
-        "fy-1":2380547,
-        "fy-0":2788304,
-        "fy+1":2669018,
-        "diff":-119286
+        "fy-2":2380547,
+        "fy-1":2656876,
+        "fy-0":2720031,
+        "fy+1":2888471,
+        "diff":168440
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":308400,
-        "fy-1":663981,
-        "fy-0":576017,
-        "fy+1":685850,
-        "diff":109833
+        "fy-2":663981,
+        "fy-1":496575,
+        "fy-0":685850,
+        "fy+1":549250,
+        "diff":-136600
       },
       {
-        "line_title":"Supplies and Materials",
+        "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":104797,
-        "fy-1":95440,
-        "fy-0":285850,
-        "fy+1":217612,
-        "diff":-68238
+        "fy-2":95440,
+        "fy-1":264580,
+        "fy-0":221612,
+        "fy+1":318656,
+        "diff":97044
       },
       {
-        "line_title":"Current Chgs and Oblig",
+        "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":10184,
-        "fy-1":51274,
-        "fy-0":142633,
-        "fy+1":126250,
-        "diff":-16383
+        "fy-2":51274,
+        "fy-1":43514,
+        "fy-0":126250,
+        "fy+1":133250,
+        "diff":7000
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":51974,
-        "fy-1":76864,
-        "fy-0":25987,
-        "fy+1":12473,
-        "diff":-13514
+        "fy-2":76864,
+        "fy-1":25987,
+        "fy-0":12473,
+        "fy+1":328617,
+        "diff":316144
       },
       {
         "line_title":"Other",
@@ -213,11 +190,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":2791864,
-        "fy-1":3268106,
-        "fy-0":3818791,
-        "fy+1":3711203,
-        "diff":-107588
+        "fy-2":3268106,
+        "fy-1":3487532,
+        "fy-0":3766216,
+        "fy+1":4218244,
+        "diff":452028
       }
     ]
   }

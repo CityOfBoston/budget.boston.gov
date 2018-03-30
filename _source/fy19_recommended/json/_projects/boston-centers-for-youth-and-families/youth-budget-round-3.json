@@ -3,7 +3,7 @@
   "category":"Government Effectiveness",
   "category_desc":"Initiatives to maintain or enhance the efficiency of government operations.",
   "department":"Boston Centers for Youth and Families",
-  "file_version":"0.10",
+  "file_version":"",
   "location":"Citywide",
   "managing_department":"Boston Centers for Youth and Families",
   "mission":"Project implementation of \"Youth Lead the Change\" participatory budgeting. Winning projects include more trash cans and recycling bins in neighborhoods, a jobs and resource finder app, expanded free Wi-Fi, and digital billboards in schools.",
@@ -13,20 +13,21 @@
   "section_type":"projects",
   "section_type_short":"R",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_projects~boston-centers-for-youth-and-families~youth-budget-round-3.json",
+  "source_time":"20180327182502",
+  "source_year":"19",
   "status":"Implementation Underway",
   "expenditures_detail":{
-    "debug":"JCP1",
     "table_title":"Expenditures (Actual and Planned)",
     "table_header":{
       "line_type":"header",
       "line_title":null,
       "line_data_type":"string",
       "source":"Source",
-      "past_spending":"Through 6/30/16",
-      "fy-1":"FY17 Budget",
-      "fy-0":"FY18 Budget",
-      "fy+1-4":"FY19-22 Budget",
+      "past_spending":"Through 6/30/17",
+      "fy-1":"FY18 Budget",
+      "fy-0":"FY19 Budget",
+      "fy+1-4":"FY20-23 Budget",
       "total":"Total"
     },
     "data":[
@@ -35,10 +36,10 @@
         "line_title":null,
         "line_date_type":"number",
         "source":"City Capital",
-        "past_spending":0,
-        "fy-1":113000,
-        "fy-0":300000,
-        "fy+1-4":587000,
+        "past_spending":145492,
+        "fy-1":225000,
+        "fy-0":400000,
+        "fy+1-4":229508,
         "total":1000000
       },
       {
@@ -57,15 +58,14 @@
         "line_title":null,
         "line_date_type":"number",
         "source":"Totals",
-        "past_spending":0,
-        "fy-1":113000,
-        "fy-0":300000,
-        "fy+1-4":587000,
+        "past_spending":145492,
+        "fy-1":225000,
+        "fy-0":400000,
+        "fy+1-4":229508,
         "total":1000000
       }
     ],
     "authorizations_table":{
-      "debug":"JCP2",
       "table_title":"Authorizations",
       "table_header":{
         "line_type":"header",
@@ -73,7 +73,7 @@
         "line_data_type":"string",
         "source":"Source",
         "existing":"Existing",
-        "fy-0":"FY18",
+        "fy-0":"FY19",
         "fy-0++":"Future",
         "other":"Non Capital Fund",
         "total":"Total"

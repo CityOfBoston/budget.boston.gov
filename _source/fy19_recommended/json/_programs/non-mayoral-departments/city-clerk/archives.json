@@ -3,54 +3,55 @@
   "publish_subordinates":true,
   "cabinet":"Non-Mayoral Departments",
   "department":"City Clerk",
-  "file_version":"0.10",
+  "file_version":"",
   "head_name":"Maureen Feeney",
   "head_title":"Manager",
   "name":"Archives",
   "parent":"City Clerk",
-  "section_id":108,
-  "section_md5_id":"A3C65C2974270FD093EE8A9BF8AE7D0B",
+  "section_id":78,
+  "section_md5_id":"35F4A8D465E6E1EDC05F3D8AB658C551",
   "section_type":"program",
   "section_type_short":"P",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~document-filing.json",
+  "source_time":"20180327183737",
+  "source_year":"19",
   "appropriation_code":"Organization 161300",
   "description":[
     "The Archives oversees the preservation of significant records and facilitates improved and cost-effective access to public records by Boston municipal government and its citizens.  It also oversees the elimination of obsolete records."
   ],
   "selected_service_indicators":[
     {
-      "debug":"JSSIT",
       "line_title":"Operating Budget",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":295369,
-      "fy-1":320819,
-      "fy-0":369150,
-      "fy+1":362337
+      "fy-2":320819,
+      "fy-1":357689,
+      "fy-0":375869,
+      "fy+1":406487
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":18526,
-      "fy-1":36973,
-      "fy-0":58800,
-      "fy+1":68050
+      "fy-2":36973,
+      "fy-1":26299,
+      "fy-0":68050,
+      "fy+1":74205
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":313895,
-      "fy-1":357792,
-      "fy-0":427950,
-      "fy+1":430387
+      "fy-2":357792,
+      "fy-1":383988,
+      "fy-0":443919,
+      "fy+1":480692
     }
   ],
   "program_history_by_account":{
@@ -58,54 +59,54 @@
     "table_header":{
       "line_type":"title",
       "category":"Category",
-      "fy-2":"FY15 Expenditure",
-      "fy-1":"FY16 Expenditure",
-      "fy-0":"FY17 Appropriation",
-      "fy+1":"FY18 Recommended",
-      "diff":"Inc/Dec 17 vs 18"
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
     },
     "data":[
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":295369,
-        "fy-1":320819,
-        "fy-0":369150,
-        "fy+1":362337,
-        "diff":-6813
+        "fy-2":320819,
+        "fy-1":357689,
+        "fy-0":375869,
+        "fy+1":406487,
+        "diff":30618
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":10384,
-        "fy-1":29594,
-        "fy-0":51500,
-        "fy+1":51350,
-        "diff":-150
+        "fy-2":29594,
+        "fy-1":18248,
+        "fy-0":51350,
+        "fy+1":67105,
+        "diff":15755
       },
       {
-        "line_title":"Supplies and Materials",
+        "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":3422,
-        "fy-1":4019,
-        "fy-0":5500,
-        "fy+1":5200,
-        "diff":-300
+        "fy-2":4019,
+        "fy-1":6446,
+        "fy-0":5200,
+        "fy+1":5150,
+        "diff":-50
       },
       {
-        "line_title":"Current Chgs and Oblig",
+        "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":1865,
-        "fy-1":385,
-        "fy-0":1800,
-        "fy+1":11500,
-        "diff":9700
+        "fy-2":385,
+        "fy-1":1605,
+        "fy-0":11500,
+        "fy+1":1950,
+        "diff":-9550
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":2855,
-        "fy-1":2975,
+        "fy-2":2975,
+        "fy-1":0,
         "fy-0":0,
         "fy+1":0,
         "diff":0
@@ -122,11 +123,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":313895,
-        "fy-1":357792,
-        "fy-0":427950,
-        "fy+1":430387,
-        "diff":2437
+        "fy-2":357792,
+        "fy-1":383988,
+        "fy-0":443919,
+        "fy+1":480692,
+        "diff":36773
       }
     ]
   },
@@ -139,13 +140,12 @@
       "performance_measures":[
         {
           "table_header":{
-            "debug":"JPM",
             "Performance Goals":"Performance Measures",
             "line_type":"header",
-            "fy-2":"FY15 Actual",
-            "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Target",
-            "fy+1":"FY18 Target"
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
           },
           "data":[
             {
@@ -153,56 +153,48 @@
               "line_data":"Administrative and Constituent Consultation",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"1,800",
-              "fy+1":"1,860"
+              "fy-0":"1,698",
+              "fy+1":"1,600"
             },
             {
               "line_type":"data",
-              "line_data":"Archives Processed Cubic Feet",
+              "line_data":"Destruction Approvals (Cu. Ft.)",
               "fy-2":"",
-              "fy-1":"",
-              "fy-0":"6,000",
-              "fy+1":"6,500"
-            },
-            {
-              "line_type":"data",
-              "line_data":"Destruction Approvals Cubic Feet",
-              "fy-2":"1,141",
-              "fy-1":"3,319",
-              "fy-0":"3,000",
-              "fy+1":"3,120"
+              "fy-1":"3,000",
+              "fy-0":"1,500",
+              "fy+1":"1,500"
             },
             {
               "line_type":"data",
               "line_data":"Processing Hours",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"1,680",
-              "fy+1":"1,860"
+              "fy-0":"2,500",
+              "fy+1":"1,920"
             },
             {
               "line_type":"data",
               "line_data":"Records Digitized Immages",
               "fy-2":"",
-              "fy-1":"",
-              "fy-0":"1,500",
-              "fy+1":"1,920"
+              "fy-1":"6,844",
+              "fy-0":"2,000",
+              "fy+1":"1,500"
             },
             {
               "line_type":"data",
-              "line_data":"Records Transfers to Archives and Offsite Storage Cubic Feet",
+              "line_data":"Records Transfers to Archives & Offsite Storage Cubic Feet",
               "fy-2":"",
-              "fy-1":"",
-              "fy-0":"2,400",
-              "fy+1":"2,520"
+              "fy-1":"496",
+              "fy-0":"2,000",
+              "fy+1":"1,500"
             },
             {
               "line_type":"data",
-              "line_data":"Records Transfers to Archives and Offsite Storage MB",
+              "line_data":"Records Transfers to Archives & Offsite Storage MB",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"300",
-              "fy+1":"480"
+              "fy-0":"350,000",
+              "fy+1":"150,000"
             }
           ]
         }

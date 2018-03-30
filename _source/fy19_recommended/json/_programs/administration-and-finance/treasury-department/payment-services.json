@@ -1,56 +1,57 @@
 ---
 {
   "publish_subordinates":true,
-  "cabinet":"Administration and Finance",
+  "cabinet":"Administration & Finance",
   "department":"Treasury Department",
-  "file_version":"0.10",
+  "file_version":"",
   "head_name":"Nancy Cincotti",
   "head_title":"Manager",
   "name":"Payment Services",
   "parent":"Treasury Department",
-  "section_id":170,
-  "section_md5_id":"149E9677A5989FD342AE44213DF68868",
+  "section_id":36,
+  "section_md5_id":"19CA14E7EA6328A42E0EB13D585E4C22",
   "section_type":"program",
   "section_type_short":"P",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~special-collections.json",
+  "source_time":"20180327182405",
+  "source_year":"19",
   "appropriation_code":"Organization 137300",
   "description":[
     "The Payment Services Program processes all funds received by the City from taxpayers and City departments. It mails all current tax notices, resolves questions from taxpayers and financial institutions, provides duplicate tax bills, and processes all refunds and abatements."
   ],
   "selected_service_indicators":[
     {
-      "debug":"JSSIT",
       "line_title":"Operating Budget",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":309134,
-      "fy-1":329103,
-      "fy-0":417011,
-      "fy+1":413499
+      "fy-2":329103,
+      "fy-1":333430,
+      "fy-0":426421,
+      "fy+1":454168
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":581667,
-      "fy-1":907352,
-      "fy-0":510370,
-      "fy+1":510370
+      "fy-2":907352,
+      "fy-1":802209,
+      "fy-0":511620,
+      "fy+1":533848
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":890801,
-      "fy-1":1236455,
-      "fy-0":927381,
-      "fy+1":923869
+      "fy-2":1236455,
+      "fy-1":1135639,
+      "fy-0":938041,
+      "fy+1":988016
     }
   ],
   "program_history_by_account":{
@@ -58,42 +59,42 @@
     "table_header":{
       "line_type":"title",
       "category":"Category",
-      "fy-2":"FY15 Expenditure",
-      "fy-1":"FY16 Expenditure",
-      "fy-0":"FY17 Appropriation",
-      "fy+1":"FY18 Recommended",
-      "diff":"Inc/Dec 17 vs 18"
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
     },
     "data":[
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":309134,
-        "fy-1":329103,
-        "fy-0":417011,
-        "fy+1":413499,
-        "diff":-3512
+        "fy-2":329103,
+        "fy-1":333430,
+        "fy-0":426421,
+        "fy+1":454168,
+        "diff":27747
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":38664,
-        "fy-1":17610,
+        "fy-2":17610,
+        "fy-1":20354,
         "fy-0":4451,
-        "fy+1":4451,
-        "diff":0
+        "fy+1":1650,
+        "diff":-2801
       },
       {
-        "line_title":"Supplies and Materials",
+        "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":399132,
-        "fy-1":405000,
-        "fy-0":485919,
-        "fy+1":485919,
-        "diff":0
+        "fy-2":405000,
+        "fy-1":222910,
+        "fy-0":487169,
+        "fy+1":512198,
+        "diff":25029
       },
       {
-        "line_title":"Current Chgs and Oblig",
+        "line_title":"Current Chgs & Oblig",
         "line_type":"data",
         "fy-2":0,
         "fy-1":0,
@@ -105,7 +106,7 @@
         "line_title":"Equipment",
         "line_type":"data",
         "fy-2":0,
-        "fy-1":0,
+        "fy-1":119,
         "fy-0":20000,
         "fy+1":20000,
         "diff":0
@@ -113,8 +114,8 @@
       {
         "line_title":"Other",
         "line_type":"data",
-        "fy-2":143871,
-        "fy-1":484742,
+        "fy-2":484742,
+        "fy-1":558826,
         "fy-0":0,
         "fy+1":0,
         "diff":0
@@ -122,11 +123,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":890801,
-        "fy-1":1236455,
-        "fy-0":927381,
-        "fy+1":923869,
-        "diff":-3512
+        "fy-2":1236455,
+        "fy-1":1135639,
+        "fy-0":938041,
+        "fy+1":988016,
+        "diff":49975
       }
     ]
   }

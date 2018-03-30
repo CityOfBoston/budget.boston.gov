@@ -3,30 +3,31 @@
   "category":"Open Space",
   "category_desc":"Initiatives to strengthen our existing park system and invest in new open spaces.",
   "department":"Parks and Recreation Department",
-  "file_version":"0.10",
+  "file_version":"",
   "location":"Citywide",
   "managing_department":"Parks and Recreation Department",
-  "mission":"Renovation of walls, walkways, and signage within urban wilds owned by Environment and Parks Department.",
+  "mission":"Renovate walls, walkways, and signage within urban wilds owned by the Environment Department and the Parks and Recreation Department.",
   "name":"Urban Wilds Renovations",
   "operating_impact":"No",
   "section_id":"CPR21491",
   "section_type":"projects",
   "section_type_short":"R",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_projects~parks-and-recreation-department~urban-wilds-renovations.json",
+  "source_time":"20180327182449",
+  "source_year":"19",
   "status":"Annual Program",
   "expenditures_detail":{
-    "debug":"JCP1",
     "table_title":"Expenditures (Actual and Planned)",
     "table_header":{
       "line_type":"header",
       "line_title":null,
       "line_data_type":"string",
       "source":"Source",
-      "past_spending":"Through 6/30/16",
-      "fy-1":"FY17 Budget",
-      "fy-0":"FY18 Budget",
-      "fy+1-4":"FY19-22 Budget",
+      "past_spending":"Through 6/30/17",
+      "fy-1":"FY18 Budget",
+      "fy-0":"FY19 Budget",
+      "fy+1-4":"FY20-23 Budget",
       "total":"Total"
     },
     "data":[
@@ -35,20 +36,20 @@
         "line_title":null,
         "line_date_type":"number",
         "source":"City Capital",
-        "past_spending":723774,
-        "fy-1":250859,
+        "past_spending":1167589,
+        "fy-1":350000,
         "fy-0":350000,
-        "fy+1-4":1649786,
-        "total":2974419
+        "fy+1-4":1400000,
+        "total":3267589
       },
       {
         "line_type":"data",
         "line_title":null,
         "line_date_type":"number",
         "source":"Grants/Other",
-        "past_spending":221960,
-        "fy-1":73040,
-        "fy-0":0,
+        "past_spending":293000,
+        "fy-1":0,
+        "fy-0":2000,
         "fy+1-4":0,
         "total":295000
       },
@@ -57,15 +58,14 @@
         "line_title":null,
         "line_date_type":"number",
         "source":"Totals",
-        "past_spending":945734,
-        "fy-1":323899,
-        "fy-0":350000,
-        "fy+1-4":1649786,
-        "total":3269419
+        "past_spending":1460589,
+        "fy-1":350000,
+        "fy-0":352000,
+        "fy+1-4":1400000,
+        "total":3562589
       }
     ],
     "authorizations_table":{
-      "debug":"JCP2",
       "table_title":"Authorizations",
       "table_header":{
         "line_type":"header",
@@ -73,7 +73,7 @@
         "line_data_type":"string",
         "source":"Source",
         "existing":"Existing",
-        "fy-0":"FY18",
+        "fy-0":"FY19",
         "fy-0++":"Future",
         "other":"Non Capital Fund",
         "total":"Total"
@@ -84,11 +84,11 @@
           "line_title":null,
           "line_data_type":"number",
           "source":"City Capital",
-          "existing":1641000,
-          "fy-0":0,
-          "fy-0++":1333419,
+          "existing":1500900,
+          "fy-0":450000,
+          "fy-0++":1316689,
           "other":0,
-          "total":2974419
+          "total":3267589
         },
         {
           "line_type":"data",
@@ -106,11 +106,11 @@
           "line_title":"Totals",
           "line_data_type":"number",
           "source":"Totals",
-          "existing":1936000,
-          "fy-0":0,
-          "fy-0++":1333419,
+          "existing":1795900,
+          "fy-0":450000,
+          "fy-0++":1316689,
           "other":0,
-          "total":3269419
+          "total":3562589
         }
       ]
     }

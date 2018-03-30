@@ -1,56 +1,57 @@
 ---
 {
   "publish_subordinates":true,
-  "cabinet":"Health and Human Services",
-  "department":"Fair Housing and Equity",
-  "file_version":"0.10",
-  "head_name":"Janine Anzalota",
+  "cabinet":"Health & Human Services",
+  "department":"Fair Housing & Equity",
+  "file_version":"",
+  "head_name":"Vacant",
   "head_title":"Manager",
   "name":"Fair Housing Commission",
-  "parent":"Fair Housing and Equity",
-  "section_id":91,
-  "section_md5_id":"54229ABFCFA5649E7003B83DD4755294",
+  "parent":"Fair Housing & Equity",
+  "section_id":106,
+  "section_md5_id":"F0935E4CD5920AA6C7C996A5EE53A70F",
   "section_type":"program",
   "section_type_short":"P",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~.json",
+  "source_time":"20180327182516",
+  "source_year":"19",
   "appropriation_code":"Organization 403100",
   "description":[
     "The Fair Housing Commission works to eliminate discrimination and increase access to housing in Boston through investigation and enforcement, affirmative marketing, and interagency coordination. The Fair Housing Commission also manages a computerized listing service of available housing opportunities in an effort to provide low-income households increased access to housing in 106 cities and towns in metropolitan Boston."
   ],
   "selected_service_indicators":[
     {
-      "debug":"JSSIT",
       "line_title":"Operating Budget",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":110577,
-      "fy-1":135276,
-      "fy-0":169459,
-      "fy+1":169023
+      "fy-2":135276,
+      "fy-1":170317,
+      "fy-0":174023,
+      "fy+1":174909
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":20199,
-      "fy-1":15984,
-      "fy-0":16500,
-      "fy+1":16700
+      "fy-2":15984,
+      "fy-1":8572,
+      "fy-0":16700,
+      "fy+1":0
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":130776,
-      "fy-1":151260,
-      "fy-0":185959,
-      "fy+1":185723
+      "fy-2":151260,
+      "fy-1":178889,
+      "fy-0":190723,
+      "fy+1":174909
     }
   ],
   "program_history_by_account":{
@@ -58,53 +59,53 @@
     "table_header":{
       "line_type":"title",
       "category":"Category",
-      "fy-2":"FY15 Expenditure",
-      "fy-1":"FY16 Expenditure",
-      "fy-0":"FY17 Appropriation",
-      "fy+1":"FY18 Recommended",
-      "diff":"Inc/Dec 17 vs 18"
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
     },
     "data":[
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":110577,
-        "fy-1":135276,
-        "fy-0":169459,
-        "fy+1":169023,
-        "diff":-436
+        "fy-2":135276,
+        "fy-1":170317,
+        "fy-0":174023,
+        "fy+1":174909,
+        "diff":886
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":8269,
-        "fy-1":9016,
-        "fy-0":7500,
-        "fy+1":7700,
-        "diff":200
+        "fy-2":9016,
+        "fy-1":3046,
+        "fy-0":7700,
+        "fy+1":0,
+        "diff":-7700
       },
       {
-        "line_title":"Supplies and Materials",
+        "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":6966,
-        "fy-1":5252,
+        "fy-2":5252,
+        "fy-1":4546,
         "fy-0":8000,
-        "fy+1":8000,
-        "diff":0
+        "fy+1":0,
+        "diff":-8000
       },
       {
-        "line_title":"Current Chgs and Oblig",
+        "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":2206,
-        "fy-1":1716,
+        "fy-2":1716,
+        "fy-1":980,
         "fy-0":1000,
-        "fy+1":1000,
-        "diff":0
+        "fy+1":0,
+        "diff":-1000
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":2758,
+        "fy-2":0,
         "fy-1":0,
         "fy-0":0,
         "fy+1":0,
@@ -122,11 +123,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":130776,
-        "fy-1":151260,
-        "fy-0":185959,
-        "fy+1":185723,
-        "diff":-236
+        "fy-2":151260,
+        "fy-1":178889,
+        "fy-0":190723,
+        "fy+1":174909,
+        "diff":-15814
       }
     ]
   },
@@ -139,22 +140,29 @@
       "performance_measures":[
         {
           "table_header":{
-            "debug":"JPM",
             "Performance Goals":"Performance Measures",
             "line_type":"header",
-            "fy-2":"FY15 Actual",
-            "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Target",
-            "fy+1":"FY18 Target"
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
           },
           "data":[
             {
               "line_type":"data",
+              "line_data":"# of Dual Filed investigation completed",
+              "fy-2":"11",
+              "fy-1":"33",
+              "fy-0":"20",
+              "fy+1":"30"
+            },
+            {
+              "line_type":"data",
               "line_data":"# Discrimination inquiries/intakes",
-              "fy-2":"618",
-              "fy-1":"676",
-              "fy-0":"900",
-              "fy+1":"900"
+              "fy-2":"676",
+              "fy-1":"1,628",
+              "fy-0":"1,500",
+              "fy+1":"1,500"
             },
             {
               "line_type":"data",
@@ -166,19 +174,11 @@
             },
             {
               "line_type":"data",
-              "line_data":"Increase # of Dual Filed investigation completions by 36% from FY16",
-              "fy-2":"15",
-              "fy-1":"11",
-              "fy-0":"15",
-              "fy+1":"20"
-            },
-            {
-              "line_type":"data",
-              "line_data":"Reduce the average age of open case inventory by 30% to bring our case age average down to no greater than 200 days",
+              "line_data":"Average Age of Open Cases",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"280",
-              "fy+1":"250"
+              "fy-0":"180",
+              "fy+1":"150"
             }
           ]
         }
@@ -192,29 +192,28 @@
       "performance_measures":[
         {
           "table_header":{
-            "debug":"JPM",
             "Performance Goals":"Performance Measures",
             "line_type":"header",
-            "fy-2":"FY15 Actual",
-            "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Target",
-            "fy+1":"FY18 Target"
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
           },
           "data":[
             {
               "line_type":"data",
               "line_data":"# community members engaged and reached at events, meetings and workshops",
-              "fy-2":"3,992",
-              "fy-1":"3,328",
-              "fy-0":"1,000",
-              "fy+1":"1,000"
+              "fy-2":"3,328",
+              "fy-1":"3,496",
+              "fy-0":"3,400",
+              "fy+1":"3,400"
             },
             {
               "line_type":"data",
               "line_data":"% Current year cases investigated within 200 days",
-              "fy-2":"N/A%",
-              "fy-1":"N/A%",
-              "fy-0":"50%",
+              "fy-2":"",
+              "fy-1":"62%",
+              "fy-0":"45%",
               "fy+1":"45%"
             }
           ]
@@ -229,13 +228,12 @@
       "performance_measures":[
         {
           "table_header":{
-            "debug":"JPM",
             "Performance Goals":"Performance Measures",
             "line_type":"header",
-            "fy-2":"FY15 Actual",
-            "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Target",
-            "fy+1":"FY18 Target"
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
           },
           "data":[
             {
@@ -249,7 +247,7 @@
             {
               "line_type":"data",
               "line_data":"Affirmative Marketing plans evaluated within 15 days",
-              "fy-2":"22",
+              "fy-2":"24",
               "fy-1":"24",
               "fy-0":"25",
               "fy+1":"25"

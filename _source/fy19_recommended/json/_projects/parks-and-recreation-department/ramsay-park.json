@@ -3,7 +3,7 @@
   "category":"Open Space",
   "category_desc":"Initiatives to strengthen our existing park system and invest in new open spaces.",
   "department":"Parks and Recreation Department",
-  "file_version":"0.10",
+  "file_version":"",
   "location":"South End",
   "managing_department":"Parks and Recreation Department",
   "mission":"Park renovation including play lot, basketball courts, tennis courts, plazas, passive areas and lighting.",
@@ -13,20 +13,21 @@
   "section_type":"projects",
   "section_type_short":"R",
   "source_version":"Recommended",
-  "source_year":"18",
-  "status":"In Design",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_projects~parks-and-recreation-department~ramsay-park.json",
+  "source_time":"20180327182451",
+  "source_year":"19",
+  "status":"In Construction",
   "expenditures_detail":{
-    "debug":"JCP1",
     "table_title":"Expenditures (Actual and Planned)",
     "table_header":{
       "line_type":"header",
       "line_title":null,
       "line_data_type":"string",
       "source":"Source",
-      "past_spending":"Through 6/30/16",
-      "fy-1":"FY17 Budget",
-      "fy-0":"FY18 Budget",
-      "fy+1-4":"FY19-22 Budget",
+      "past_spending":"Through 6/30/17",
+      "fy-1":"FY18 Budget",
+      "fy-0":"FY19 Budget",
+      "fy+1-4":"FY20-23 Budget",
       "total":"Total"
     },
     "data":[
@@ -35,11 +36,11 @@
         "line_title":null,
         "line_date_type":"number",
         "source":"City Capital",
-        "past_spending":0,
-        "fy-1":0,
-        "fy-0":1568000,
-        "fy+1-4":452000,
-        "total":2020000
+        "past_spending":146022,
+        "fy-1":300000,
+        "fy-0":1500000,
+        "fy+1-4":449478,
+        "total":2395500
       },
       {
         "line_type":"data",
@@ -57,15 +58,14 @@
         "line_title":null,
         "line_date_type":"number",
         "source":"Totals",
-        "past_spending":0,
-        "fy-1":0,
-        "fy-0":1568000,
-        "fy+1-4":452000,
-        "total":2020000
+        "past_spending":146022,
+        "fy-1":300000,
+        "fy-0":1500000,
+        "fy+1-4":449478,
+        "total":2395500
       }
     ],
     "authorizations_table":{
-      "debug":"JCP2",
       "table_title":"Authorizations",
       "table_header":{
         "line_type":"header",
@@ -73,7 +73,7 @@
         "line_data_type":"string",
         "source":"Source",
         "existing":"Existing",
-        "fy-0":"FY18",
+        "fy-0":"FY19",
         "fy-0++":"Future",
         "other":"Non Capital Fund",
         "total":"Total"
@@ -84,11 +84,11 @@
           "line_title":null,
           "line_data_type":"number",
           "source":"City Capital",
-          "existing":500000,
+          "existing":2395500,
           "fy-0":0,
-          "fy-0++":1520000,
+          "fy-0++":0,
           "other":0,
-          "total":2020000
+          "total":2395500
         },
         {
           "line_type":"data",
@@ -106,11 +106,11 @@
           "line_title":"Totals",
           "line_data_type":"number",
           "source":"Totals",
-          "existing":500000,
+          "existing":2395500,
           "fy-0":0,
-          "fy-0++":1520000,
+          "fy-0++":0,
           "other":0,
-          "total":2020000
+          "total":2395500
         }
       ]
     }

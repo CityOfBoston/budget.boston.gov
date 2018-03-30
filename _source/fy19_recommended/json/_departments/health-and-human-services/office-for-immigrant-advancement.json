@@ -2,16 +2,18 @@
 {
   "debug":"JBD",
   "publish_subordinates":true,
-  "file_version":"0.10",
+  "file_version":"",
   "section_id":59,
   "section_md5_id":"093F65E080A295F8076B1C5722A46AA2",
   "section_type":"department",
   "section_type_short":"D",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Health and Human Services~office-for-immigrant-advancement.json",
+  "source_time":"20180327182518",
+  "source_year":"19",
   "name":"Office for Immigrant Advancement",
-  "parent":"Health and Human Services",
-  "cabinet":"Health and Human Services",
+  "parent":"Health & Human Services",
+  "cabinet":"Health & Human Services",
   "department":"Office for Immigrant Advancement",
   "head_name":"Alejandra St. Guillen",
   "head_title":"Director",
@@ -19,141 +21,127 @@
   "mission":[
     "The mission of the Office for Immigrant Advancement is to strengthen the ability of immigrants, and the diverse cultural and linguistic communities of which they are a part, to fully participate in the economic, civic, social, and cultural life of the City of Boston, and to promote the commemoration and public understanding of the contributions of immigrants."
   ],
-  "selected_performance_strategies":[
-    {
-      "program":"Immigrant Advancement",
-      "debug":"JCO",
-      "strategies":[
-        "Empowerment-develop resources to build and strengthen immigrant organizations capacity",
-        "Engagement-Provide access to immigration information and community resources; Promote diversity and inclusiveness",
-        "Immigrant integration - Collaboration with city departments to improve access to city services"
-      ]
-    }
-  ],
   "operating_budget":{
-    "debug":"JPTR",
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
       "name":"Program Name",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     "data":[
       {
-        "name":"Immigrant Advancement",
+        "name":Null,
         "line_type":"data",
-        "fy-2":362790,
-        "fy-1":381363,
-        "fy-0":425021,
-        "fy+1":439937,
+        "fy-2":381363,
+        "fy-1":399809,
+        "fy-0":439937,
+        "fy+1":435916,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":362790,
-        "fy-1":381363,
-        "fy-0":425021,
-        "fy+1":439937
+        "fy-2":381363,
+        "fy-1":399809,
+        "fy-0":439937,
+        "fy+1":435916
       }
     ]
   },
   "external_funds_budget":{
-    "debug":"JPTR",
     "table_type":"External Funds",
     "table_title":"External Funds Budget",
     "table_header":{
       "name":"Fund Name",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     "data":[
       {
         "name":"DACA-DAPA Outreach Initiative",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":121851,
-        "fy-0":74809,
+        "fy-2":22475,
+        "fy-1":182404,
+        "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Immigrant Integration & Empowerment",
         "line_type":"data",
-        "fy-2":43947,
-        "fy-1":115893,
-        "fy-0":59799,
-        "fy+1":78163,
+        "fy-2":115893,
+        "fy-1":45537,
+        "fy-0":78163,
+        "fy+1":25219,
         "publish_subordinates":true
       },
       {
         "name":"New Americans Library Corners",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":13193,
-        "fy-0":51868,
-        "fy+1":41660,
+        "fy-2":13193,
+        "fy-1":59359,
+        "fy-0":28000,
+        "fy+1":25219,
         "publish_subordinates":true
       },
       {
-        "name":"New Bostonians Contributions",
+        "name":"Office of Immigrant Advancement Fund",
         "line_type":"data",
-        "fy-2":445702,
-        "fy-1":322582,
-        "fy-0":154000,
-        "fy+1":366000,
+        "fy-2":22475,
+        "fy-1":270578,
+        "fy-0":240500,
+        "fy+1":283000,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":489649,
-        "fy-1":573519,
-        "fy-0":340476,
-        "fy+1":485823
+        "fy-2":174036,
+        "fy-1":557878,
+        "fy-0":346663,
+        "fy+1":333438
       }
     ]
   },
   "selected_service_indicators":[
     {
-      "debug":"JSSIT",
       "line_title":"Operating Budget",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":335265,
-      "fy-1":366514,
-      "fy-0":408891,
-      "fy+1":406737
+      "fy-2":366514,
+      "fy-1":348469,
+      "fy-0":406737,
+      "fy+1":397666
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":27525,
-      "fy-1":14849,
-      "fy-0":16130,
-      "fy+1":33200
+      "fy-2":14849,
+      "fy-1":51340,
+      "fy-0":33200,
+      "fy+1":38250
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":362790,
-      "fy-1":381363,
-      "fy-0":425021,
-      "fy+1":439937
+      "fy-2":381363,
+      "fy-1":399809,
+      "fy-0":439937,
+      "fy+1":435916
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
@@ -162,54 +150,54 @@
     "table_header":{
       "line_type":"title",
       "category":"Category",
-      "fy-2":"FY15 Expenditure",
-      "fy-1":"FY16 Expenditure",
-      "fy-0":"FY17 Appropriation",
-      "fy+1":"FY18 Recommended",
-      "diff":"Inc/Dec 17 vs 18"
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
     },
     "data":[
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":335265,
-        "fy-1":366514,
-        "fy-0":408891,
-        "fy+1":406737,
-        "diff":-2154
+        "fy-2":366514,
+        "fy-1":348469,
+        "fy-0":406737,
+        "fy+1":397666,
+        "diff":-9071
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":22516,
-        "fy-1":9053,
-        "fy-0":12270,
-        "fy+1":27600,
-        "diff":15330
+        "fy-2":9053,
+        "fy-1":42088,
+        "fy-0":27600,
+        "fy+1":31300,
+        "diff":3700
       },
       {
-        "line_title":"Supplies and Materials",
+        "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":4875,
-        "fy-1":5281,
-        "fy-0":3600,
-        "fy+1":4700,
-        "diff":1100
+        "fy-2":5281,
+        "fy-1":6184,
+        "fy-0":4700,
+        "fy+1":6000,
+        "diff":1300
       },
       {
-        "line_title":"Current Chgs and Oblig",
+        "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":134,
-        "fy-1":515,
-        "fy-0":260,
-        "fy+1":900,
-        "diff":640
+        "fy-2":515,
+        "fy-1":2543,
+        "fy-0":900,
+        "fy+1":950,
+        "diff":50
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
         "fy-2":0,
-        "fy-1":0,
+        "fy-1":525,
         "fy-0":0,
         "fy+1":0,
         "diff":0
@@ -226,41 +214,37 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":362790,
-        "fy-1":381363,
-        "fy-0":425021,
-        "fy+1":439937,
-        "diff":14916
+        "fy-2":381363,
+        "fy-1":399809,
+        "fy-0":439937,
+        "fy+1":435916,
+        "diff":-4021
       }
     ]
   },
   "external_funds":[
     {
-      "debug":"JEFP",
       "project":"DACA-DAPA Outreach Initiative",
       "project_mission":[
-        "Purpose of funding the Deferred Action for Childhood Arrivals (DACA) and Deferred Action for Parental Accountability (DAPA) Outreach Initiative to provide programs that enable New Bostonians to play an active role in the economic, civic, social and cultural life of the city of Boston."
+        "Purpose of funding the Deferred Action for Childhood Arrivals (DACA) & Deferred Action for Parental Accountability (DAPA) Outreach Initiative to provide programs that enable New Bostonians to play an active role in the economic, civic, social and cultural life of the city of Boston."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"Immigrant Integration & Empowerment",
       "project_mission":[
         "The Immigrant Integration and Empower Initiative seeks to develop a detailed action plan for all City Departments and launch a citywide media and public relations campaign in mainstream, ethnic, and local media outlets to change the rhetoric about immigrants and maximize engagement and participation, and partner with nonprofits to facilitate four annual &ldquo;Community Leadership Institutes&rdquo; for immigrant communities that offer leadership training on taking a more active role on decision-making bodies and navigating city government services and resources. Funding is provided by the BARR Foundation that totals $262,500 over a time frame of 30 months."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"New Americans Library Corners",
       "project_mission":[
         "New Americans Library Corners Initiative, to provide citizenship information, financial empowerment, and legal assistance information, and other crucial programs that enable New Bostonians to play an active role in the economic, civic, social and cultural life of the city of Boston."
       ]
     },
     {
-      "debug":"JEFP",
-      "project":"New Bostonian Contributions",
+      "project":"Office of Immigrant Advancement Fund",
       "project_mission":[
-        "The New Bostonians Contribution Fund is funded by small, private donations from the public for the purpose of supporting programs at the Mayor&rsquo;s Office of New Bostonians. It is used to supplement and enhance existing programs that continue to link new city residents with services and opportunities."
+        "Purpose of funding the Immigrant Integration and Empowerment Initiative, Immigrant Information Corners, Immigration Advice Clinics, Citizenship Day, Mini-grants to Immigrant-led non-profit organizations, the English for New Bostonians Initiative, a city-private-community partnership providing access to English classes, and other crucial programs that enable New Bostonians to play an active role in the economic, civic, social and cultural life of the city of Boston and, to promote the commemoration and public understanding of the contributions of immigrants to become full participants in Boston."
       ]
     }
   ]

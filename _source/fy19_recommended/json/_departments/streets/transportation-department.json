@@ -2,13 +2,15 @@
 {
   "debug":"JBD",
   "publish_subordinates":true,
-  "file_version":"0.10",
+  "file_version":"",
   "section_id":46,
   "section_md5_id":"D9D4F495E875A2E075A1A4A6E1B9770F",
   "section_type":"department",
   "section_type_short":"D",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Streets~transportation-department.json",
+  "source_time":"20180327183814",
+  "source_year":"19",
   "name":"Transportation Department",
   "parent":"Streets",
   "cabinet":"Streets",
@@ -19,152 +21,117 @@
   "mission":[
     "The mission of the Boston Transportation Department is to promote public safety, manage the City's transportation network, and enhance the quality of life for residents of our City neighborhoods. Accomplishment of our mission is ensured through the use of planning, coordinated engineering, education and enforcement. The Transportation Department strives to improve circulation in and around the City, enhance public transportation services, gain efficiencies in the management of parking resources, adjudicate and collect fines, collaborate with relevant agencies and encourage the use of alternate transportation modes."
   ],
-  "selected_performance_strategies":[
-    {
-      "program":"Traffic Management and Engineering",
-      "debug":"JCO",
-      "strategies":[
-        "Design, construct, and maintain streetscapes that prioritize moving people safely",
-        "Encourage multimodal, active transportation",
-        "Enhance Boston's walkability and neighborhood interconnectedness"
-      ]
-    },
-    {
-      "program":"Policy and Planning",
-      "debug":"JCO",
-      "strategies":[
-        "Design, construct, and maintain streetscapes that prioritize moving people safely",
-        "Encourage multimodal, active transportation"
-      ]
-    },
-    {
-      "program":"Traffic Enforcement",
-      "debug":"JCO",
-      "strategies":[
-        "Design, construct, and maintain streetscapes that prioritize moving people safely"
-      ]
-    },
-    {
-      "program":"Traffic Operations",
-      "debug":"JCO",
-      "strategies":[
-        "Enhance Boston's walkability and neighborhood interconnectedness"
-      ]
-    }
-  ],
   "operating_budget":{
-    "debug":"JPTR",
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
       "name":"Program Name",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     "data":[
       {
-        "name":"Parking Clerk",
+        "name":Null,
         "line_type":"data",
-        "fy-2":7751878,
-        "fy-1":7916535,
-        "fy-0":8342323,
-        "fy+1":8473171,
+        "fy-2":7916535,
+        "fy-1":8323289,
+        "fy-0":8625655,
+        "fy+1":8817493,
         "publish_subordinates":true
       },
       {
-        "name":"Commissioner's Office",
+        "name":"Traffic Commissioner's Office",
         "line_type":"data",
-        "fy-2":2185410,
-        "fy-1":1802029,
-        "fy-0":1090456,
-        "fy+1":1092435,
+        "fy-2":1802029,
+        "fy-1":1496624,
+        "fy-0":1104631,
+        "fy+1":1507794,
         "publish_subordinates":true
       },
       {
-        "name":"Traffic Management and Engineering",
+        "name":"Traffic Management & Engineering",
         "line_type":"data",
-        "fy-2":2876214,
-        "fy-1":2136190,
-        "fy-0":1891376,
-        "fy+1":1914220,
+        "fy-2":2136190,
+        "fy-1":2442468,
+        "fy-0":2036834,
+        "fy+1":2453207,
         "publish_subordinates":true
       },
       {
-        "name":"Policy and Planning",
+        "name":Null,
         "line_type":"data",
-        "fy-2":581555,
-        "fy-1":842895,
-        "fy-0":1074431,
-        "fy+1":1109304,
+        "fy-2":842895,
+        "fy-1":869865,
+        "fy-0":1133233,
+        "fy+1":1760338,
         "publish_subordinates":true
       },
       {
-        "name":"Enforcement",
+        "name":"Traffic Enforcement",
         "line_type":"data",
-        "fy-2":13361550,
-        "fy-1":13862642,
-        "fy-0":14521934,
-        "fy+1":14530449,
+        "fy-2":13862642,
+        "fy-1":13970731,
+        "fy-0":15234148,
+        "fy+1":15335833,
         "publish_subordinates":true
       },
       {
-        "name":"Operations",
+        "name":"Traffic Operations",
         "line_type":"data",
-        "fy-2":4500437,
-        "fy-1":6231742,
-        "fy-0":6254005,
-        "fy+1":6985380,
+        "fy-2":6231742,
+        "fy-1":6366139,
+        "fy-0":7129155,
+        "fy+1":8049065,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":31257044,
-        "fy-1":32792033,
-        "fy-0":33174525,
-        "fy+1":34104959
+        "fy-2":32792033,
+        "fy-1":33469116,
+        "fy-0":35263656,
+        "fy+1":37923730
       }
     ]
   },
   "external_funds_budget":{
-    "debug":"JPTR",
     "table_type":"External Funds",
     "table_title":"External Funds Budget",
     "table_header":{
       "name":"Fund Name",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     "data":[
       {
         "name":"Boston Bike Share",
         "line_type":"data",
-        "fy-2":609653,
-        "fy-1":862846,
+        "fy-2":862846,
+        "fy-1":784507,
         "fy-0":1575084,
-        "fy+1":1575084,
+        "fy+1":730000,
         "publish_subordinates":true
       },
       {
         "name":"Boston Mobility Action Plan",
         "line_type":"data",
-        "fy-2":66082,
-        "fy-1":88995,
-        "fy-0":55039,
+        "fy-2":88995,
+        "fy-1":32672,
+        "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Parking Facilities Fund",
         "line_type":"data",
-        "fy-2":737542,
-        "fy-1":365290,
+        "fy-2":365290,
+        "fy-1":348301,
         "fy-0":263500,
         "fy+1":263500,
         "publish_subordinates":true
@@ -172,8 +139,8 @@
       {
         "name":"Partnerships/Community Health",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":103001,
+        "fy-2":103001,
+        "fy-1":1452,
         "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
@@ -181,55 +148,54 @@
       {
         "name":"Traffic Management Center",
         "line_type":"data",
-        "fy-2":363446,
-        "fy-1":271254,
-        "fy-0":178302,
-        "fy+1":90666,
+        "fy-2":271254,
+        "fy-1":184301,
+        "fy-0":90666,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":1776723,
-        "fy-1":1691386,
-        "fy-0":2071925,
-        "fy+1":1929250
+        "fy-2":1691386,
+        "fy-1":1351233,
+        "fy-0":1929250,
+        "fy+1":993500
       }
     ]
   },
   "selected_service_indicators":[
     {
-      "debug":"JSSIT",
       "line_title":"Operating Budget",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":18099181,
-      "fy-1":18992165,
-      "fy-0":19762659,
-      "fy+1":19861389
+      "fy-2":18992165,
+      "fy-1":19571011,
+      "fy-0":20786852,
+      "fy+1":23072094
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":5405985,
-      "fy-1":5883333,
-      "fy-0":5069543,
-      "fy+1":5770399
+      "fy-2":5883333,
+      "fy-1":5574816,
+      "fy-0":5851149,
+      "fy+1":6034143
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":23505166,
-      "fy-1":24875498,
-      "fy-0":24832202,
-      "fy+1":25631788
+      "fy-2":24875498,
+      "fy-1":25145827,
+      "fy-0":26638001,
+      "fy+1":29106237
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
@@ -245,57 +211,57 @@
     "table_header":{
       "line_type":"title",
       "category":"Category",
-      "fy-2":"FY15 Expenditure",
-      "fy-1":"FY16 Expenditure",
-      "fy-0":"FY17 Appropriation",
-      "fy+1":"FY18 Recommended",
-      "diff":"Inc/Dec 17 vs 18"
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
     },
     "data":[
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":18099181,
-        "fy-1":18992165,
-        "fy-0":19762659,
-        "fy+1":19861389,
-        "diff":98730
+        "fy-2":18992165,
+        "fy-1":19571011,
+        "fy-0":20786852,
+        "fy+1":23072094,
+        "diff":2285242
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":3397840,
-        "fy-1":3768275,
-        "fy-0":2755843,
-        "fy+1":3472471,
-        "diff":716628
+        "fy-2":3768275,
+        "fy-1":3547735,
+        "fy-0":3476971,
+        "fy+1":3372347,
+        "diff":-104624
       },
       {
-        "line_title":"Supplies and Materials",
+        "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":910608,
-        "fy-1":1076597,
-        "fy-0":1312917,
-        "fy+1":1211334,
-        "diff":-101583
+        "fy-2":1076597,
+        "fy-1":1144327,
+        "fy-0":1287584,
+        "fy+1":1415430,
+        "diff":127846
       },
       {
-        "line_title":"Current Chgs and Oblig",
+        "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":416990,
-        "fy-1":395106,
-        "fy-0":320612,
-        "fy+1":315612,
-        "diff":-5000
+        "fy-2":395106,
+        "fy-1":315831,
+        "fy-0":315612,
+        "fy+1":345255,
+        "diff":29643
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":680547,
-        "fy-1":643355,
-        "fy-0":680171,
-        "fy+1":770982,
-        "diff":90811
+        "fy-2":643355,
+        "fy-1":566923,
+        "fy-0":770982,
+        "fy+1":901111,
+        "diff":130129
       },
       {
         "line_title":"Other",
@@ -309,58 +275,53 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":23505166,
-        "fy-1":24875498,
-        "fy-0":24832202,
-        "fy+1":25631788,
-        "diff":799586
+        "fy-2":24875498,
+        "fy-1":25145827,
+        "fy-0":26638001,
+        "fy+1":29106237,
+        "diff":2468236
       }
     ]
   },
   "external_funds":[
     {
-      "debug":"JEFP",
       "project":"Boston Bike Share",
       "project_mission":[
-        "Various funding sources will support the Boston Bike Share program, including grants from the Federal Transit Authority, sponsorship donations, funds from the Boston Public Health Commission&rsquo;s ARRA grant, the BARR Foundation and other state funding sources. The program began in FY12 and has 1,092 bicycles at publically accessible stations for member use."
+        "Various funding sources will support the Boston Bike Share program, including grants from the Federal Transit Authority, sponsorship donations, funds from the Boston Public Health Commission&rsquo;s ARRA grant, the BARR Foundation and other state funding sources. The program began in FY12 and has 1,800 bicycles at publically accessible stations for member use."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"Boston Mobility Action Plan",
       "project_mission":[
-        "The Mobility Plan will develop a long term vision to guide transportation policy and investments coupled with an action plan of projects. BARR funding supports a full time position for 2 years starting in FY15 to manage an ongoing capital program. The grant ends in Fy17."
+        "The Mobility Plan developed a long term vision to guide transportation policy and investments coupled with an action plan of projects. BARR funding supports a full time position for 2 years starting in FY15 to manage an ongoing capital program. The grant ended in Fy17."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"Connect Historic Boston",
       "project_mission":[
         "The National Park Service funded the creation of an intermodal design plan to connect visitors from regional transportation systems and existing bicycle and pedestrian paths to National Park sites and the Boston Harbor Islands. The design was completed in FY14."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"Parking Facilities Fund",
       "project_mission":[
         "The City owns and operates several revenue producing parking lots. The resulting revenue from these lots goes into the fund to support their non-personnel operating expenses. This is an ongoing revolving account."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"Traffic Management Center",
       "project_mission":[
-        "The Traffic Management Center grant will provide new financial resources to expand operational coverage in order to fully utilize existing technology and help monitor and improve the flow of traffic through the City. Funding has been provided thru FY18 by the Federal Highway Administration and Massachusetts Executive Office of Transportation and Construction."
+        "The Traffic Management Center grant provided new financial resources to expand operational coverage in order to fully utilize existing technology and help monitor and improve the flow of traffic through the City. Funding has been provided thru FY18 by the Federal Highway Administration and Massachusetts Executive Office of Transportation and Construction."
       ]
     }
   ],
   "fy_major_initiatives":[
-    "Vision Zero will continue to deliver safety on Boston&rsquo;s streets. Programs include Priority Corridors and Safe Crossings.",
-    "Implement Neighborhood Slow Streets projects in Stonybrook (Jamaica Plain) and the Talbot Norfolk Triangle (Dorchester).",
-    "The reconstruction of Central Square in East Boston will be completed. This project will improve multimodal transportation flows as well as storm water runoff.",
+    "Vision Zero will continue to deliver targeted safety improvements in both our residential neighborhoods and along some of our most challenging corridors.",
+    "A citywide, multi-year campaign to bring all painted crosswalks, lane markings, and bike lanes into a state of good repair continues this year.",
+    "Implement Neighborhood Slow Streets projects in Chinatown, Grove Hall/Quincy Corridor (Dorchester and Roxbury), Highland Park (Roxbury), Mount Hope/Canterbury Street (Roslindale), and West of Washington Coalition (Dorchester).",
     "Design of the reconstruction of Melnea Cass Boulevard will continue.",
-    "\tNew traffic safety improvements are scheduled at Father Hart Bridge and Wolcott Square in Hyde Park.",
-    "Installation of new traffic signals at American Legion at Plaza Driveway, Newbury Street at Fairfield, Geneva Ave. at Olney, and Blue Hill Ave. at Castlegate Rd.",
+    "The addition of protected bicycle lanes on &ldquo;Great Streets&rdquo; projects by continuing and increasing the annual investment in the Strategic Bicycle Network",
+    "New traffic safety improvements are scheduled at Father Hart Bridge and Wolcott Square in Hyde Park.",
     "A multi-year effort begins that will renew all painted crosswalks, lane markings, and bike lanes."
   ]
 }

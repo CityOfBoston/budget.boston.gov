@@ -3,30 +3,31 @@
   "category":"Transportation",
   "category_desc":"Initiatives to support an accessible multimodal transportation system that gets Bostonians where they need to go reliably and safely.",
   "department":"Public Works Department",
-  "file_version":"0.10",
+  "file_version":"",
   "location":"South Boston",
   "managing_department":"Public Works Department",
-  "mission":"Design and engineering services and ongoing repairs to the bridge.",
+  "mission":"Refurbish and/or restore the existing bridge.",
   "name":"Northern Avenue Bridge",
   "operating_impact":"No",
-  "section_id":"CPW21751",
+  "section_id":"CPW24736",
   "section_type":"projects",
   "section_type_short":"R",
   "source_version":"Recommended",
-  "source_year":"18",
-  "status":"In Design",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_projects~public-works-department~northern-avenue-bridge.json",
+  "source_time":"20180327183808",
+  "source_year":"19",
+  "status":"New Project",
   "expenditures_detail":{
-    "debug":"JCP1",
     "table_title":"Expenditures (Actual and Planned)",
     "table_header":{
       "line_type":"header",
       "line_title":null,
       "line_data_type":"string",
       "source":"Source",
-      "past_spending":"Through 6/30/16",
-      "fy-1":"FY17 Budget",
-      "fy-0":"FY18 Budget",
-      "fy+1-4":"FY19-22 Budget",
+      "past_spending":"Through 6/30/17",
+      "fy-1":"FY18 Budget",
+      "fy-0":"FY19 Budget",
+      "fy+1-4":"FY20-23 Budget",
       "total":"Total"
     },
     "data":[
@@ -35,37 +36,36 @@
         "line_title":null,
         "line_date_type":"number",
         "source":"City Capital",
-        "past_spending":3239873,
-        "fy-1":40828,
+        "past_spending":0,
+        "fy-1":0,
         "fy-0":0,
-        "fy+1-4":24896498,
-        "total":28177199
+        "fy+1-4":31055000,
+        "total":31055000
       },
       {
         "line_type":"data",
         "line_title":null,
         "line_date_type":"number",
         "source":"Grants/Other",
-        "past_spending":22965,
-        "fy-1":0,
-        "fy-0":1500000,
-        "fy+1-4":14509601,
-        "total":27432566
+        "past_spending":0,
+        "fy-1":800000,
+        "fy-0":2500000,
+        "fy+1-4":11700000,
+        "total":68945000
       },
       {
         "line_type":"total",
         "line_title":null,
         "line_date_type":"number",
         "source":"Totals",
-        "past_spending":3262838,
-        "fy-1":40828,
-        "fy-0":1500000,
-        "fy+1-4":39406099,
-        "total":44209765
+        "past_spending":0,
+        "fy-1":800000,
+        "fy-0":2500000,
+        "fy+1-4":42755000,
+        "total":46055000
       }
     ],
     "authorizations_table":{
-      "debug":"JCP2",
       "table_title":"Authorizations",
       "table_header":{
         "line_type":"header",
@@ -73,7 +73,7 @@
         "line_data_type":"string",
         "source":"Source",
         "existing":"Existing",
-        "fy-0":"FY18",
+        "fy-0":"FY19",
         "fy-0++":"Future",
         "other":"Non Capital Fund",
         "total":"Total"
@@ -84,33 +84,33 @@
           "line_title":null,
           "line_data_type":"number",
           "source":"City Capital",
-          "existing":20002628,
-          "fy-0":0,
-          "fy-0++":8174571,
+          "existing":17365000,
+          "fy-0":13690000,
+          "fy-0++":0,
           "other":0,
-          "total":28177199
+          "total":31055000
         },
         {
           "line_type":"data",
           "line_title":"Grants/Other",
           "line_data_type":"number",
           "source":"Grants/Other",
-          "existing":16032566,
+          "existing":15000000,
           "fy-0":0,
           "fy-0++":0,
-          "other":11400000,
-          "total":27432566
+          "other":53945000,
+          "total":68945000
         },
         {
           "line_type":"total",
           "line_title":"Totals",
           "line_data_type":"number",
           "source":"Totals",
-          "existing":36035194,
-          "fy-0":0,
-          "fy-0++":8174571,
-          "other":11400000,
-          "total":55609765
+          "existing":32365000,
+          "fy-0":13690000,
+          "fy-0++":0,
+          "other":53945000,
+          "total":100000000
         }
       ]
     }

@@ -1,0 +1,94 @@
+---
+{
+  "cabinet":"Environment, Energy & Open Space",
+  "debug":"JBDCP",
+  "department":"Inspectional Services Department",
+  "file_version":"",
+  "head_name":"William Christopher",
+  "head_title":"Commissioner",
+  "name":"Inspectional Services Department",
+  "parent":"Environment, Energy & Open Space",
+  "section_id":45,
+  "section_md5_id":"6C8349CC7260AE62E3B1396831A8398F",
+  "section_type":"capital_budget",
+  "section_type_short":"L",
+  "source_version":"Recommended",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_cp_depts~inspectional-services-department.json",
+  "source_time":"20180327182445",
+  "source_year":"19",
+  "mission":[
+    "The mission of the Inspectional Services Department (ISD) is to serve the public by protecting the health, safety, and environmental stability of Boston's business and residential communities. To this end, ISD effectively administers and consistently enforces building, housing, and environmental regulations within the City of Boston. The department will continue to use its resources to protect and improve the quality of life in Boston&rsquo;s neighborhoods by providing public information, education, and enforcement."
+  ],
+  "description_of_services":[
+    "The Inspectional Services Department provides a broad range of regulatory services that include the inspection of buildings for compliance with building and public safety regulations, general housing inspections, and retail food establishment inspections for compliance with public health regulations. The Department provides services to victims of serious incidents such as fire, building collapse, power failure, etc., by providing coordination and assistance with building board-ups, hazard waste removal, short term make-safe repair activities and counseling. The Department works in cooperation with other public safety, human service, and law enforcement agencies to investigate and prosecute fraudulent contractors, environmental violators and others engaged in illegal activities that could have a negative impact on the quality of life. The Inspectional Services Department continues to develop and implement public information programs about the services and activities available through this agency. Inspectional Services also administers the Animal Care and Control unit which enforces regulations pertaining to public safety of both residents and animals."
+  ],
+  "overview":[
+    "The City&rsquo;s capital plan for Inspectional Services is targeted at increasing the Department&rsquo;s capacity to issue permits and licences, and perform inspections to ensure the safety of city residents."
+  ],
+  "fy_major_initiatives":[
+    "\tA study will begin in FY19 to develop a building program and provide site options for a new animal shelter."
+  ],
+  "capital_budget_expenditures":[
+    {
+      "table_type":"capital_budget_expenditures",
+      "table_title":"Capital Budget Expenditures",
+      "table_header":{
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "fy-2":"FY16 Actual",
+        "fy-1":"FY17 Actual",
+        "fy-0":"FY18 Estimated",
+        "fy+1":"FY19 Projected"
+      },
+      "data":{
+        "line_type":"total",
+        "line_title":"Total Department",
+        "line_data_type":"total",
+        "fy-2":18096572,
+        "fy-1":15130530,
+        "fy-0":33234033,
+        "fy+1":42706892
+      }
+    }
+  ],
+  "projects":[
+    {
+      "table_type":"capital_projects_by_category",
+      "table_title":"Capital Projects by Category",
+      "header":{
+        "debug":"JBDCPDP",
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "category":"Category",
+        "name":"Project",
+        "location":"Location",
+        "status":"Status",
+        "fy-0":"FY19 Projected",
+        "project_title":"Total"
+      },
+      "projects_data":[
+        {
+          "Government Effectiveness":[
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Government Effectiveness",
+              "name":"Animal Shelter",
+              "location":"Roxbury",
+              "section_id":"CIS24761",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":100000,
+              "project_total":100000
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "fy-0":100000,
+  "total":100000
+}
+---

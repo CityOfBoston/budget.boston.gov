@@ -1,69 +1,60 @@
 ---
 {
-  "cabinet":"Information and Technology",
+  "cabinet":"Information & Technology",
   "debug":"JBDCP",
   "department":"Department of Innovation and Technology",
-  "file_version":"0.10",
-  "head_name":"Jascha Franklin-Hodge",
+  "file_version":"",
+  "head_name":"Vacant",
   "head_title":"Chief Information Officer",
   "name":"Department of Innovation and Technology",
-  "parent":"Information and Technology",
+  "parent":"Information & Technology",
   "section_id":17,
   "section_md5_id":"70EFDF2EC9B086079795C442636B55FB",
   "section_type":"capital_budget",
   "section_type_short":"L",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_cp_depts~department-of-innovation-and-technology.json",
+  "source_time":"20180327183719",
+  "source_year":"19",
   "mission":[
-    "The Department of Innovation and Technology is the City&rsquo;s enterprise wide technology services organization providing solutions that enable our business partners across all City departments. DoIT&rsquo;s primary day-to-day responsibility is to ensure that the ne"
+    "The Department of Innovation and Technology is the City&rsquo;s enterprise wide technology services organization providing solutions that enable our business partners across all City departments. DoIT&rsquo;s primary day-to-day responsibility is to ensure that the networks, desktop computers, e-mail systems, and applications that support the business of City government are continuously available and operating effectively. DoIT embraces its responsibility to help manage costs through difficult financial times by continuously improving the cost structure of the City&rsquo;s technology without compromising service. Our commitment to being environmentally responsible is often synergistic with these economic and service responsibilities."
   ],
   "description_of_services":[
     "The Department of Innovation and Technology (DoIT) improves the delivery of government services to the public through the effective management of the City&rsquo;s existing and emerging technologies. DoIT introduces innovative technologies and processes designed to drive efficiency into government operations. DoIT also provides professional project management and business analysis services, in addition to maintaining the hardware and software platforms necessary to support the daily technical and communication operations of the City. Personnel skilled in programming, analysis, hardware and software support, training, communications, and general technology consulting work with user departments on enhancing and maintaining their information systems."
-  ],
-  "selected_performance_strategies":[
-    {
-      "program":"Enterprise Applications",
-      "strategies":[
-        "Improving constituent satisfaction with government services.",
-        "Modernization of paper based processes to digital formats.",
-        "Modernizing our IT infrastructure."
-      ]
-    },
-    {
-      "program":"Digital Engagement and Services",
-      "strategies":[
-        "Improving how the City interacts with constituents."
-      ]
-    },
-    {
-      "program":"Core Infrastructure",
-      "strategies":[
-        "Modernizing our IT infrastructure.",
-        "To provide City Hall employees with the IT tools to effectively execute their job."
-      ]
-    },
-    {
-      "program":"Data and Analytics",
-      "strategies":[
-        "Using data to improve government services."
-      ]
-    },
-    {
-      "program":"Broadband and Digital Equity",
-      "strategies":[
-        "Closing the digital equity gap.",
-        "Improving broadband services."
-      ]
-    }
   ],
   "overview":[
     "Capital investment in technology enables the City to work more efficiently at a lower cost; to be more responsive to citizens; and to provide convenience for Boston&rsquo;s residents, businesses and visitors. Ongoing and new initiatives will build upon this progress, ensuring the City remains competitive and coordinated in computer information and communication technology."
   ],
   "fy_major_initiatives":[
-    "In FY18, the Computer Aided Mass Appraisal (CAMA), an 18-year-old system, will begin to be replaced as part of a multi-year project.",
-    "Expansion of the City&rsquo;s fiber optic network (BoNet), including connection to over 100 Boston Public School Buildings will continue in FY18.",
-    "Begin a feasibility study to determine a cost effective and efficient way to expand and sustain the infrastructure that supports multiple City radio systems.",
-    "In Enterprise Applications, DoIT will continue to assist the Fire Department in the development and implementation of a new time management system."
+    "Expansion of the City&rsquo;s fiber optic network (BoNet) will continue in FY19. The fiber network will connect additional Boston Public School buildings.",
+    "DoIT will continue a feasibility study to determine a cost effective and efficient way to expand and sustain the infrastructure that supports multiple City radio systems.",
+    "In Enterprise Applications, DoIT will continue developing Constituent Relations Management tools such as 311 and expand to more departments.",
+    "In Digital Service Delivery and Engagement, DoIT will continue modernization of multiple digital tools and public applications to improve user experience engaging with the city online.",
+    "Begin procurement of IT solutions identified in an innovative proposal and evaluation process that will support various City departments, including Boston Centers for Youth and Families, Boston Fire Department, Neighborhood Development, and Public Works."
+  ],
+  "capital_budget_expenditures":[
+    {
+      "table_type":"capital_budget_expenditures",
+      "table_title":"Capital Budget Expenditures",
+      "table_header":{
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "fy-2":"FY16 Actual",
+        "fy-1":"FY17 Actual",
+        "fy-0":"FY18 Estimated",
+        "fy+1":"FY19 Projected"
+      },
+      "data":{
+        "line_type":"total",
+        "line_title":"Total Department",
+        "line_data_type":"total",
+        "fy-2":13209480,
+        "fy-1":8732893,
+        "fy-0":19056812,
+        "fy+1":19423000
+      }
+    }
   ],
   "projects":[
     {
@@ -78,7 +69,7 @@
         "name":"Project",
         "location":"Location",
         "status":"Status",
-        "fy-0":"FY18 Projected",
+        "fy-0":"FY19 Projected",
         "project_title":"Total"
       },
       "projects_data":[
@@ -91,10 +82,10 @@
               "name":"City-wide Radio System Study",
               "location":"Citywide",
               "section_id":"CMS24705",
-              "status":"New Project",
-              "operating_impact":"No",
-              "fy-0":250000,
-              "project_total":500000
+              "status":"To Be Scheduled",
+              "operating_impact":"Yes",
+              "fy-0":300000,
+              "project_total":425000
             },
             {
               "line_type":"data",
@@ -105,8 +96,8 @@
               "section_id":"CMS23369",
               "status":"Implementation Underway",
               "operating_impact":"No",
-              "fy-0":784859,
-              "project_total":16858212
+              "fy-0":0,
+              "project_total":16282834
             },
             {
               "line_type":"data",
@@ -117,8 +108,8 @@
               "section_id":"CMS24556",
               "status":"Annual Program",
               "operating_impact":"No",
-              "fy-0":600000,
-              "project_total":9700000
+              "fy-0":1135000,
+              "project_total":8669773
             },
             {
               "line_type":"data",
@@ -129,8 +120,8 @@
               "section_id":"CMS24177",
               "status":"Annual Program",
               "operating_impact":"No",
-              "fy-0":1200000,
-              "project_total":3118979
+              "fy-0":700000,
+              "project_total":6658049
             },
             {
               "line_type":"data",
@@ -141,8 +132,8 @@
               "section_id":"CMS24178",
               "status":"Annual Program",
               "operating_impact":"No",
-              "fy-0":350000,
-              "project_total":4265516
+              "fy-0":1200000,
+              "project_total":6631165
             },
             {
               "line_type":"data",
@@ -153,8 +144,8 @@
               "section_id":"CMS24159",
               "status":"Annual Program",
               "operating_impact":"No",
-              "fy-0":600000,
-              "project_total":8433296
+              "fy-0":1100000,
+              "project_total":9411905
             },
             {
               "line_type":"data",
@@ -164,9 +155,9 @@
               "location":"N/A",
               "section_id":"CMS23490",
               "status":"Annual Program",
-              "operating_impact":"No",
-              "fy-0":5558477,
-              "project_total":33695817
+              "operating_impact":"Yes",
+              "fy-0":5788000,
+              "project_total":32372542
             },
             {
               "line_type":"data",
@@ -176,9 +167,33 @@
               "location":"Various neighborhoods",
               "section_id":"CMS24001",
               "status":"Implementation Underway",
+              "operating_impact":"Yes",
+              "fy-0":6200000,
+              "project_total":13020523
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Technology",
+              "name":"IT Investment Proposals",
+              "location":"N/A",
+              "section_id":"CMS24765",
+              "status":"New Project",
+              "operating_impact":"Yes",
+              "fy-0":3000000,
+              "project_total":3000000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Technology",
+              "name":"Reserve for Future DoIT Projects",
+              "location":"N/A",
+              "section_id":"CMS24766",
+              "status":"New Project",
               "operating_impact":"No",
-              "fy-0":9600000,
-              "project_total":12310690
+              "fy-0":0,
+              "project_total":10341131
             },
             {
               "line_type":"data",
@@ -188,16 +203,16 @@
               "location":"N/A",
               "section_id":"CMS23830",
               "status":"Implementation Underway",
-              "operating_impact":"No",
-              "fy-0":113476,
-              "project_total":3000000
+              "operating_impact":"Yes",
+              "fy-0":0,
+              "project_total":2901165
             }
           ]
         }
       ]
     }
   ],
-  "fy-0":19056812,
-  "total":91882510
+  "fy-0":19423000,
+  "total":109714087
 }
 ---

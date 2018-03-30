@@ -1,0 +1,135 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Mayor's Office",
+  "department":"Mayor's Office",
+  "file_version":"",
+  "head_name":"Laura Oggeri",
+  "head_title":"Manager",
+  "name":"Mayor's Communications",
+  "parent":"Mayor's Office",
+  "section_id":143,
+  "section_md5_id":"903CE9225FCA3E988C2AF215D4E544D3",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~null-no-data.json",
+  "source_time":"20180327183727",
+  "source_year":"19",
+  "appropriation_code":"Organization 111500",
+  "description":[
+    "The Communications Program uses print and electronic media to inform the public of the City&rsquo;s handling of the local issues that affect them.  The program conducts press conferences, arranges media interviews with the Mayor and City officials, issues press releases on events and initiatives,  responds to media and public inquiries, and provides photographs of City events and programs for use by outside media outlets and City departments."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":589708,
+      "fy-1":642583,
+      "fy-0":839949,
+      "fy+1":742962
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":13945,
+      "fy-1":14459,
+      "fy-0":27355,
+      "fy+1":27355
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":603653,
+      "fy-1":657042,
+      "fy-0":867304,
+      "fy+1":770317
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":589708,
+        "fy-1":642583,
+        "fy-0":839949,
+        "fy+1":742962,
+        "diff":-96987
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":5931,
+        "fy-1":2359,
+        "fy-0":9950,
+        "fy+1":9950,
+        "diff":0
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":2021,
+        "fy-1":2308,
+        "fy-0":4550,
+        "fy+1":4550,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":1613,
+        "fy-1":5652,
+        "fy-0":12855,
+        "fy+1":12855,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":4380,
+        "fy-1":4140,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":603653,
+        "fy-1":657042,
+        "fy-0":867304,
+        "fy+1":770317,
+        "diff":-96987
+      }
+    ]
+  }
+}
+---

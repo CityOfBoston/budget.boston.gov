@@ -1,11 +1,13 @@
 ---
 {
-  "file_version":"0.10",
+  "file_version":"",
   "name":"Health",
   "section_type":"Capital Budget",
   "section_type_short":"L",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_categories~health.json",
+  "source_time":"20180327183827",
+  "source_year":"19",
   "description":[
     "Initiatives to increase access to quality healthcare and improve public health."
   ],
@@ -25,7 +27,7 @@
         "name":"Project",
         "location":"Location",
         "status":"Status",
-        "fy-0":"FY18 Projected",
+        "fy-0":"FY19 Projected",
         "project_title":"Total"
       },
       "projects_data":[
@@ -45,23 +47,34 @@
             {
               "line_type":"data",
               "title":null,
-              "project_title":15000000,
-              "fy-0":150000,
+              "project_title":200000,
+              "fy-0":100000,
               "category":"Health",
-              "name":"BCYF Curley Community Center",
-              "location":"South Boston",
+              "name":"BCYF Community Center Program Studies",
+              "location":"Various neighborhoods",
               "status":"New Project",
               "operating_impact":"No"
             },
             {
               "line_type":"data",
               "title":null,
+              "project_title":15000000,
+              "fy-0":850000,
+              "category":"Health",
+              "name":"BCYF Curley Community Center",
+              "location":"South Boston",
+              "status":"To Be Scheduled",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
               "project_title":2960000,
-              "fy-0":2398248,
+              "fy-0":252278,
               "category":"Health",
               "name":"BCYF Gallivan Community Center",
               "location":"Mattapan",
-              "status":"In Design",
+              "status":"In Construction",
               "operating_impact":"No"
             },
             {
@@ -72,25 +85,14 @@
               "category":"Health",
               "name":"BCYF Mattahunt Community Center",
               "location":"Mattapan",
-              "status":"New Project",
+              "status":"To Be Scheduled",
               "operating_impact":"No"
             },
             {
               "line_type":"data",
               "title":null,
-              "project_title":12375000,
-              "fy-0":1000000,
-              "category":"Health",
-              "name":"BCYF Paris Street Community Center",
-              "location":"East Boston",
-              "status":"In Construction",
-              "operating_impact":"No"
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "project_title":5000000,
-              "fy-0":520000,
+              "project_title":8900000,
+              "fy-0":800000,
               "category":"Health",
               "name":"BCYF Paris Street Pool",
               "location":"East Boston",
@@ -100,30 +102,19 @@
             {
               "line_type":"data",
               "title":null,
-              "project_title":950000,
-              "fy-0":790000,
+              "project_title":5340000,
+              "fy-0":2300000,
               "category":"Health",
-              "name":"BCYF Tobin Community Center",
-              "location":"Mission Hill",
+              "name":"BCYF Vine Street Community Center",
+              "location":"Roxbury",
               "status":"In Construction",
               "operating_impact":"No"
             },
             {
               "line_type":"data",
               "title":null,
-              "project_title":5340000,
-              "fy-0":4000000,
-              "category":"Health",
-              "name":"BCYF Vine Street Community Center",
-              "location":"Roxbury",
-              "status":"In Design",
-              "operating_impact":"No"
-            },
-            {
-              "line_type":"data",
-              "title":null,
               "project_title":100000,
-              "fy-0":100000,
+              "fy-0":0,
               "category":"Health",
               "name":"North End Community Center",
               "location":"North End",
@@ -133,7 +124,18 @@
             {
               "line_type":"data",
               "title":null,
-              "project_title":3830675,
+              "project_title":3000000,
+              "fy-0":500000,
+              "category":"Health",
+              "name":"North End Community Center Design",
+              "location":"North End",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":4030000,
               "fy-0":200000,
               "category":"Health",
               "name":"Pool Repairs",
@@ -148,8 +150,19 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":1300000,
+              "fy-0":50000,
+              "category":"Health",
+              "name":"201 River Street Roof",
+              "location":"Mattapan",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
               "project_title":100000,
-              "fy-0":40000,
+              "fy-0":8702,
               "category":"Health",
               "name":"EMS Station Study",
               "location":"South Boston",
@@ -159,12 +172,45 @@
             {
               "line_type":"data",
               "title":null,
-              "project_title":1129000,
-              "fy-0":379117,
+              "project_title":50000,
+              "fy-0":50000,
+              "category":"Health",
+              "name":"Engagement Center Study",
+              "location":"Dorchester",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1390000,
+              "fy-0":322472,
               "category":"Health",
               "name":"South End Fitness Center Pool",
               "location":"South End",
-              "status":"In Design",
+              "status":"In Construction",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1646000,
+              "fy-0":125000,
+              "category":"Health",
+              "name":"Southampton Street Shelter Generator",
+              "location":"Dorchester",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":852300,
+              "fy-0":75000,
+              "category":"Health",
+              "name":"Woods Mullen Shelter Elevator",
+              "location":"South End",
+              "status":"New Project",
               "operating_impact":"No"
             }
           ]
@@ -172,7 +218,7 @@
       ]
     }
   ],
-  "fy-0":9727365,
-  "total":51384675
+  "fy-0":5783452,
+  "total":49468300
 }
 ---

@@ -2,16 +2,18 @@
 {
   "debug":"JBD",
   "publish_subordinates":true,
-  "file_version":"0.10",
+  "file_version":"",
   "section_id":20,
   "section_md5_id":"98F13708210194C475687BE6106A3B84",
   "section_type":"department",
   "section_type_short":"D",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Administration and Finance~purchasing-division.json",
+  "source_time":"20180327182400",
+  "source_year":"19",
   "name":"Purchasing Division",
-  "parent":"Administration and Finance",
-  "cabinet":"Administration and Finance",
+  "parent":"Administration & Finance",
+  "cabinet":"Administration & Finance",
   "department":"Purchasing Division",
   "head_name":"Kevin Coyne",
   "head_title":"Purchasing Agent",
@@ -19,102 +21,87 @@
   "mission":[
     "The mission of the Purchasing Department is to purchase the best quality products at the lowest possible price and to deliver those products to City departments promptly. The department is also responsible for surplus property, processing mail, providing copier service and publishing the City Record."
   ],
-  "selected_performance_strategies":[
-    {
-      "program":"Procurement",
-      "debug":"JCO",
-      "strategies":[
-        "The Procurement Office in the City of Boston uses a 100% electronic format. Creating a contract should be a seamless and relatively quick process. This is achieved by continiously monitoring and reviewing this process",
-        "To display the percentage of savings the departments are able to achieve from request to the time of order",
-        "To measure the amount of time that it takes to produce a purchase order (should be less than seven days). There are certain cases where there is need to be publically bid, and it will be longer",
-        "To simplify conducting business with the City of Boston. To provide an exceptional expierence and a superior level of customer service for all vendors. To supply support to vendors at all stages of procurement",
-        "Verifying and validating department requests that are being bid using sound business practices, to ensure the best product at the appropriate cost is purchased"
-      ]
-    }
-  ],
   "operating_budget":{
-    "debug":"JPTR",
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
       "name":"Program Name",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     "data":[
       {
-        "name":"Administration",
+        "name":"Purchasing Administration",
         "line_type":"data",
-        "fy-2":290972,
-        "fy-1":385461,
-        "fy-0":575079,
-        "fy+1":660118,
+        "fy-2":385461,
+        "fy-1":520700,
+        "fy-0":674495,
+        "fy+1":659967,
         "publish_subordinates":true
       },
       {
         "name":"Procurement",
         "line_type":"data",
-        "fy-2":1036133,
-        "fy-1":1110016,
-        "fy-0":960352,
-        "fy+1":900378,
+        "fy-2":1110016,
+        "fy-1":986075,
+        "fy-0":929805,
+        "fy+1":958993,
         "publish_subordinates":true
       },
       {
         "name":"Central Services",
         "line_type":"data",
-        "fy-2":218097,
-        "fy-1":276091,
-        "fy-0":296938,
-        "fy+1":214871,
+        "fy-2":276091,
+        "fy-1":219280,
+        "fy-0":221666,
+        "fy+1":232803,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":1545202,
-        "fy-1":1771568,
-        "fy-0":1832369,
-        "fy+1":1775367
+        "fy-2":1771568,
+        "fy-1":1726055,
+        "fy-0":1825966,
+        "fy+1":1851763
       }
     ]
   },
   "selected_service_indicators":[
     {
-      "debug":"JSSIT",
       "line_title":"Operating Budget",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":1457810,
-      "fy-1":1649445,
-      "fy-0":1688953,
-      "fy+1":1633651
+      "fy-2":1649445,
+      "fy-1":1598607,
+      "fy-0":1681000,
+      "fy+1":1748471
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":87392,
-      "fy-1":122123,
-      "fy-0":143416,
-      "fy+1":141716
+      "fy-2":122123,
+      "fy-1":127448,
+      "fy-0":144966,
+      "fy+1":103292
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":1545202,
-      "fy-1":1771568,
-      "fy-0":1832369,
-      "fy+1":1775367
+      "fy-2":1771568,
+      "fy-1":1726055,
+      "fy-0":1825966,
+      "fy+1":1851763
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
@@ -129,63 +116,63 @@
     "table_header":{
       "line_type":"title",
       "category":"Category",
-      "fy-2":"FY15 Expenditure",
-      "fy-1":"FY16 Expenditure",
-      "fy-0":"FY17 Appropriation",
-      "fy+1":"FY18 Recommended",
-      "diff":"Inc/Dec 17 vs 18"
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
     },
     "data":[
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":1457810,
-        "fy-1":1649445,
-        "fy-0":1688953,
-        "fy+1":1633651,
-        "diff":-55302
+        "fy-2":1649445,
+        "fy-1":1598607,
+        "fy-0":1681000,
+        "fy+1":1748471,
+        "diff":67471
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":34199,
-        "fy-1":53359,
-        "fy-0":45505,
-        "fy+1":44005,
-        "diff":-1500
+        "fy-2":53359,
+        "fy-1":45025,
+        "fy-0":44005,
+        "fy+1":43919,
+        "diff":-86
       },
       {
-        "line_title":"Supplies and Materials",
+        "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":6915,
-        "fy-1":5351,
-        "fy-0":7200,
-        "fy+1":8200,
-        "diff":1000
+        "fy-2":5351,
+        "fy-1":7248,
+        "fy-0":11450,
+        "fy+1":12125,
+        "diff":675
       },
       {
-        "line_title":"Current Chgs and Oblig",
+        "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":800,
-        "fy-1":3177,
-        "fy-0":5465,
-        "fy+1":4265,
-        "diff":-1200
+        "fy-2":3177,
+        "fy-1":3763,
+        "fy-0":4265,
+        "fy+1":4625,
+        "diff":360
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":17675,
-        "fy-1":43530,
+        "fy-2":43530,
+        "fy-1":99967,
         "fy-0":85246,
-        "fy+1":85246,
-        "diff":0
+        "fy+1":42623,
+        "diff":-42623
       },
       {
         "line_title":"Other",
         "line_type":"data",
-        "fy-2":27803,
-        "fy-1":16706,
+        "fy-2":16706,
+        "fy-1":-28555,
         "fy-0":0,
         "fy+1":0,
         "diff":0
@@ -193,11 +180,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":1545202,
-        "fy-1":1771568,
-        "fy-0":1832369,
-        "fy+1":1775367,
-        "diff":-57002
+        "fy-2":1771568,
+        "fy-1":1726055,
+        "fy-0":1825966,
+        "fy+1":1851763,
+        "diff":25797
       }
     ]
   }

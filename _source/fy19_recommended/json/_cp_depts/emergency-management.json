@@ -3,7 +3,7 @@
   "cabinet":"Public Safety",
   "debug":"JBDCP",
   "department":"Emergency Management",
-  "file_version":"0.10",
+  "file_version":"",
   "head_name":"Rene Fielding",
   "head_title":"Director",
   "name":"Emergency Management",
@@ -13,50 +13,42 @@
   "section_type":"capital_budget",
   "section_type_short":"L",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_cp_depts~emergency-management.json",
+  "source_time":"20180327183751",
+  "source_year":"19",
   "mission":[
-    "The Mayor&rsquo;s Office of Emergency Management advances the City&rsquo;s capability to effectively prevent, respond to and recover from incidents of terrorism, natural disasters and other emergency conditions by coordinating and directing Boston&rsquo;s inter-departmenta"
+    "The Mayor&rsquo;s Office of Emergency Management advances the City&rsquo;s capability to effectively prevent, respond to and recover from incidents of terrorism, natural disasters and other emergency conditions by coordinating and directing Boston&rsquo;s inter-departmental and multi-jurisdictional activities, advising the Mayor on homeland security issues, and obtaining and managing outside funding."
   ],
   "description_of_services":[
     "The Mayor&rsquo;s Office of Emergency Management coordinates the City's comprehensive Emergency Management Program, supports line departments in their individual homeland security responsibilities, promotes regular communication across all departments and disciplines, and brings departments together to jointly implement a unified citywide strategy for emergency preparedness. The Office also bears primary responsibility for the resource development and management of state and federal funds that support the City&rsquo;s emergency preparedness strategy."
-  ],
-  "selected_performance_strategies":[
-    {
-      "program":"Homeland Security",
-      "strategies":[
-        "To have the ability to shelter 5,000 Residents.",
-        "To provide professional development training for first responders."
-      ]
-    }
   ],
   "overview":[
     "The capital plan for the Office of Emergency Management works to provide OEM a space that is flexible, sustainable, secure, strategically located, and fully interoperable."
   ],
   "fy_major_initiatives":[
-    "\tWith a program developed, the project will identify and assess potential sites for a new Emergency Operations Center."
+    "With a program developed, the project will identify and assess potential sites for a new Emergency Operations Center."
   ],
   "capital_budget_expenditures":[
     {
-      "debug":"JBDCPCBE",
       "table_type":"capital_budget_expenditures",
       "table_title":"Capital Budget Expenditures",
       "table_header":{
         "line_type":"header",
         "title":null,
         "line_data_type":"string",
-        "fy-2":"FY15 Actual",
-        "fy-1":"FY16 Actual",
-        "fy-0":"FY17 Estimated",
-        "fy+1":"FY18 Projected"
+        "fy-2":"FY16 Actual",
+        "fy-1":"FY17 Actual",
+        "fy-0":"FY18 Estimated",
+        "fy+1":"FY19 Projected"
       },
       "data":{
         "line_type":"total",
         "line_title":"Total Department",
         "line_data_type":"total",
-        "fy-2":4393471,
-        "fy-1":9414573,
-        "fy-0":24677766,
-        "fy+1":28855150
+        "fy-2":9414573,
+        "fy-1":13472532,
+        "fy-0":28855150,
+        "fy+1":38307148
       }
     }
   ],
@@ -73,7 +65,7 @@
         "name":"Project",
         "location":"Location",
         "status":"Status",
-        "fy-0":"FY18 Projected",
+        "fy-0":"FY19 Projected",
         "project_title":"Total"
       },
       "projects_data":[

@@ -2,16 +2,18 @@
 {
   "debug":"JBD",
   "publish_subordinates":true,
-  "file_version":"0.10",
+  "file_version":"",
   "section_id":16,
   "section_md5_id":"C74D97B01EAE257E44AA9D5BADE97BAF",
   "section_type":"department",
   "section_type_short":"D",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Administration and Finance~human-resources.json",
+  "source_time":"20180327182354",
+  "source_year":"19",
   "name":"Human Resources",
-  "parent":"Administration and Finance",
-  "cabinet":"Administration and Finance",
+  "parent":"Administration & Finance",
+  "cabinet":"Administration & Finance",
   "department":"Human Resources",
   "head_name":"Vivian Leonard",
   "head_title":"Director",
@@ -19,145 +21,105 @@
   "mission":[
     "The mission of the Office of Human Resources is to help departments attract, motivate, retain, manage, and develop qualified and productive employees. The Office also provides unemployment benefits where necessary, as well as health and life insurance and workers' compensation benefits."
   ],
-  "selected_performance_strategies":[
-    {
-      "program":"Personnel",
-      "debug":"JCO",
-      "strategies":[
-        "Enhanced Employee Experience",
-        "Improved Recruitment Process to Better Meet Needs of COB Departments"
-      ]
-    },
-    {
-      "program":"Affirmative Action",
-      "debug":"JCO",
-      "strategies":[
-        "Increase Diversity in COB Workforce"
-      ]
-    },
-    {
-      "program":"Health Benefits and Insurance",
-      "debug":"JCO",
-      "strategies":[
-        "Enhanced Employee Experience"
-      ]
-    },
-    {
-      "program":"Employee Assistance",
-      "debug":"JCO",
-      "strategies":[
-        "Continued Expansion of Scope of EAP Services"
-      ]
-    },
-    {
-      "program":"Workers Comp",
-      "debug":"JCO",
-      "strategies":[
-        "Adoption of Case Management Approach in Workers Comp Unit"
-      ]
-    }
-  ],
   "operating_budget":{
-    "debug":"JPTR",
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
       "name":"Program Name",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     "data":[
       {
         "name":"Personnel",
         "line_type":"data",
-        "fy-2":1813038,
-        "fy-1":1750447,
-        "fy-0":2232258,
-        "fy+1":2265403,
+        "fy-2":1750447,
+        "fy-1":1833024,
+        "fy-0":2769644,
+        "fy+1":3215944,
         "publish_subordinates":true
       },
       {
         "name":"Affirmative Action",
         "line_type":"data",
-        "fy-2":77197,
-        "fy-1":53743,
-        "fy-0":72407,
+        "fy-2":53743,
+        "fy-1":27000,
+        "fy-0":30500,
         "fy+1":30500,
         "publish_subordinates":true
       },
       {
-        "name":"Health Benefits and Insurance",
+        "name":"Health Benefits & Insurance",
         "line_type":"data",
-        "fy-2":590910,
-        "fy-1":593523,
-        "fy-0":722365,
-        "fy+1":793932,
+        "fy-2":593523,
+        "fy-1":676286,
+        "fy-0":833892,
+        "fy+1":889432,
         "publish_subordinates":true
       },
       {
         "name":"Employee Assistance",
         "line_type":"data",
-        "fy-2":80730,
-        "fy-1":174328,
-        "fy-0":86456,
-        "fy+1":18927,
+        "fy-2":174328,
+        "fy-1":186875,
+        "fy-0":18927,
+        "fy+1":119854,
         "publish_subordinates":true
       },
       {
-        "name":"Workers Compensation",
+        "name":"Workers Comp",
         "line_type":"data",
-        "fy-2":923347,
-        "fy-1":924982,
-        "fy-0":1019347,
-        "fy+1":828171,
+        "fy-2":924982,
+        "fy-1":830547,
+        "fy-0":853906,
+        "fy+1":763795,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":3485222,
-        "fy-1":3497023,
-        "fy-0":4132833,
-        "fy+1":3936933
+        "fy-2":3497023,
+        "fy-1":3553732,
+        "fy-0":4506869,
+        "fy+1":5019525
       }
     ]
   },
   "selected_service_indicators":[
     {
-      "debug":"JSSIT",
       "line_title":"Operating Budget",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":3132304,
-      "fy-1":3179511,
-      "fy-0":3722593,
-      "fy+1":3480335
+      "fy-2":3179511,
+      "fy-1":3206951,
+      "fy-0":3598099,
+      "fy+1":3736400
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":352918,
-      "fy-1":317512,
-      "fy-0":410240,
-      "fy+1":456598
+      "fy-2":317512,
+      "fy-1":346781,
+      "fy-0":908770,
+      "fy+1":1283125
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":3485222,
-      "fy-1":3497023,
-      "fy-0":4132833,
-      "fy+1":3936933
+      "fy-2":3497023,
+      "fy-1":3553732,
+      "fy-0":4506869,
+      "fy+1":5019525
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
@@ -180,54 +142,54 @@
     "table_header":{
       "line_type":"title",
       "category":"Category",
-      "fy-2":"FY15 Expenditure",
-      "fy-1":"FY16 Expenditure",
-      "fy-0":"FY17 Appropriation",
-      "fy+1":"FY18 Recommended",
-      "diff":"Inc/Dec 17 vs 18"
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
     },
     "data":[
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":3132304,
-        "fy-1":3179511,
-        "fy-0":3722593,
-        "fy+1":3480335,
-        "diff":-242258
+        "fy-2":3179511,
+        "fy-1":3206951,
+        "fy-0":3598099,
+        "fy+1":3736400,
+        "diff":138301
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":110188,
-        "fy-1":93457,
-        "fy-0":144950,
-        "fy+1":203300,
-        "diff":58350
+        "fy-2":93457,
+        "fy-1":134694,
+        "fy-0":203300,
+        "fy+1":225475,
+        "diff":22175
       },
       {
-        "line_title":"Supplies and Materials",
+        "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":50963,
-        "fy-1":56050,
-        "fy-0":72200,
-        "fy+1":71566,
-        "diff":-634
+        "fy-2":56050,
+        "fy-1":42458,
+        "fy-0":75816,
+        "fy+1":71430,
+        "diff":-4386
       },
       {
-        "line_title":"Current Chgs and Oblig",
+        "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":181948,
-        "fy-1":166812,
-        "fy-0":193090,
-        "fy+1":181732,
-        "diff":-11358
+        "fy-2":166812,
+        "fy-1":164979,
+        "fy-0":629654,
+        "fy+1":986220,
+        "diff":356566
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":9819,
-        "fy-1":1193,
+        "fy-2":1193,
+        "fy-1":4650,
         "fy-0":0,
         "fy+1":0,
         "diff":0
@@ -244,11 +206,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":3485222,
-        "fy-1":3497023,
-        "fy-0":4132833,
-        "fy+1":3936933,
-        "diff":-195900
+        "fy-2":3497023,
+        "fy-1":3553732,
+        "fy-0":4506869,
+        "fy+1":5019525,
+        "diff":512656
       }
     ]
   }

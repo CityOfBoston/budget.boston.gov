@@ -1,56 +1,57 @@
 ---
 {
   "publish_subordinates":true,
-  "cabinet":"Environment, Energy and Open Space",
+  "cabinet":"Environment, Energy & Open Space",
   "department":"Inspectional Services Dept",
-  "file_version":"0.10",
+  "file_version":"",
   "head_name":"Gary P. Moccia",
   "head_title":"Manager",
-  "name":"Buildings and Structures",
+  "name":"Buildings & Structures",
   "parent":"Inspectional Services Dept",
-  "section_id":75,
-  "section_md5_id":"D09BF41544A3365A46C9077EBB5E35C3",
+  "section_id":124,
+  "section_md5_id":"C8FFE9A587B126F152ED3D89A146B445",
   "section_type":"program",
   "section_type_short":"P",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~isd-administration-and-finance.json",
+  "source_time":"20180327182447",
+  "source_year":"19",
   "appropriation_code":"Organization 260300",
   "description":[
-    "The Inspector of Buildings oversees all building permit application processing, plans and zoning reviews, field inspections, and the investigative and regulatory enforcement activities administered by the Department.  The Buildings and Structures management staff is responsible for issuing building permits for repair and installation, certificates of occupancy, building licenses, and inspecting buildings for safety and compliance with the allowable uses and applicable laws and codes. \r\n \r\nThe Plans and Zoning staff responds to all permit applications and reviews building plans for zoning compliance.  Zoning Materials and Zoning Clinics are available at 1010 Massachusetts Avenue and neighborhood libraries to assist individuals and businesses.  \r\n\r\nBuilding, Electrical and Mechanical inspectors inspect all construction or renovation work to ensure that proper safety standards are followed.  Inspectors respond to all community complaints about non-permitted work and zoning violations, including the use of land and structures beyond the allowable use and occupancy."
+    "The Inspector of Buildings oversees all building permit application processing, plans and zoning reviews, field inspections, and the investigative and regulatory enforcement activities administered by the Department.  The Buildings and Structures management staff is responsible for issuing building permits for repair and installation, certificates of occupancy, building licenses, and inspecting buildings for safety and compliance with the allowable uses and applicable laws and codes. \n \nThe Plans and Zoning staff responds to all permit applications and reviews building plans for zoning compliance.  Zoning Materials and Zoning Clinics are available at 1010 Massachusetts Avenue and neighborhood libraries to assist individuals and businesses.  \n\nBuilding, Electrical and Mechanical inspectors inspect all construction or renovation work to ensure that proper safety standards are followed.  Inspectors respond to all community complaints about non-permitted work and zoning violations, including the use of land and structures beyond the allowable use and occupancy."
   ],
   "selected_service_indicators":[
     {
-      "debug":"JSSIT",
       "line_title":"Operating Budget",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":5733170,
-      "fy-1":5903178,
-      "fy-0":5890166,
-      "fy+1":5744945
+      "fy-2":5903178,
+      "fy-1":5678454,
+      "fy-0":6227361,
+      "fy+1":6600647
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":305273,
-      "fy-1":457512,
-      "fy-0":479957,
-      "fy+1":426209
+      "fy-2":457512,
+      "fy-1":404808,
+      "fy-0":447409,
+      "fy+1":453120
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":6038443,
-      "fy-1":6360690,
-      "fy-0":6370123,
-      "fy+1":6171154
+      "fy-2":6360690,
+      "fy-1":6083262,
+      "fy-0":6674770,
+      "fy+1":7053767
     }
   ],
   "program_history_by_account":{
@@ -58,57 +59,57 @@
     "table_header":{
       "line_type":"title",
       "category":"Category",
-      "fy-2":"FY15 Expenditure",
-      "fy-1":"FY16 Expenditure",
-      "fy-0":"FY17 Appropriation",
-      "fy+1":"FY18 Recommended",
-      "diff":"Inc/Dec 17 vs 18"
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
     },
     "data":[
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":5733170,
-        "fy-1":5903178,
-        "fy-0":5890166,
-        "fy+1":5744945,
-        "diff":-145221
+        "fy-2":5903178,
+        "fy-1":5678454,
+        "fy-0":6227361,
+        "fy+1":6600647,
+        "diff":373286
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":267844,
-        "fy-1":415295,
-        "fy-0":449840,
-        "fy+1":389340,
-        "diff":-60500
+        "fy-2":415295,
+        "fy-1":360426,
+        "fy-0":399040,
+        "fy+1":406230,
+        "diff":7190
       },
       {
-        "line_title":"Supplies and Materials",
+        "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":14875,
-        "fy-1":28277,
-        "fy-0":24042,
-        "fy+1":24933,
-        "diff":891
+        "fy-2":28277,
+        "fy-1":34219,
+        "fy-0":36433,
+        "fy+1":33190,
+        "diff":-3243
       },
       {
-        "line_title":"Current Chgs and Oblig",
+        "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":985,
-        "fy-1":5524,
+        "fy-2":5524,
+        "fy-1":5078,
         "fy-0":1014,
-        "fy+1":1014,
-        "diff":0
+        "fy+1":985,
+        "diff":-29
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":21569,
-        "fy-1":8416,
-        "fy-0":5061,
-        "fy+1":10922,
-        "diff":5861
+        "fy-2":8416,
+        "fy-1":5085,
+        "fy-0":10922,
+        "fy+1":12715,
+        "diff":1793
       },
       {
         "line_title":"Other",
@@ -122,11 +123,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":6038443,
-        "fy-1":6360690,
-        "fy-0":6370123,
-        "fy+1":6171154,
-        "diff":-198969
+        "fy-2":6360690,
+        "fy-1":6083262,
+        "fy-0":6674770,
+        "fy+1":7053767,
+        "diff":378997
       }
     ]
   },
@@ -139,13 +140,12 @@
       "performance_measures":[
         {
           "table_header":{
-            "debug":"JPM",
             "Performance Goals":"Performance Measures",
             "line_type":"header",
-            "fy-2":"FY15 Actual",
-            "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Target",
-            "fy+1":"FY18 Target"
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
           },
           "data":[
             {
@@ -153,7 +153,7 @@
               "line_data":"# long form permits issued",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"4,800",
+              "fy-0":"5,000",
               "fy+1":"5,000"
             },
             {
@@ -168,8 +168,8 @@
               "line_type":"data",
               "line_data":"Violations issued",
               "fy-2":"",
-              "fy-1":"",
-              "fy-0":"1,100",
+              "fy-1":"1,105",
+              "fy-0":"1,300",
               "fy+1":"1,300"
             }
           ]

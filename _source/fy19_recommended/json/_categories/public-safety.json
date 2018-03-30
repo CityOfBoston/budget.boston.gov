@@ -1,11 +1,13 @@
 ---
 {
-  "file_version":"0.10",
+  "file_version":"",
   "name":"Public Safety",
   "section_type":"Capital Budget",
   "section_type_short":"L",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_categories~public-safety.json",
+  "source_time":"20180327183832",
+  "source_year":"19",
   "description":[
     "Initiatives to support infrastructure and equipment utilized by Boston's first responders."
   ],
@@ -27,7 +29,7 @@
         "name":"Project",
         "location":"Location",
         "status":"Status",
-        "fy-0":"FY18 Projected",
+        "fy-0":"FY19 Projected",
         "project_title":"Total"
       },
       "projects_data":[
@@ -51,8 +53,8 @@
             {
               "line_type":"data",
               "title":null,
-              "project_title":19000000,
-              "fy-0":200000,
+              "project_title":24700000,
+              "fy-0":1250000,
               "category":"Public Safety",
               "name":"Engine 17",
               "location":"Dorchester",
@@ -73,43 +75,43 @@
             {
               "line_type":"data",
               "title":null,
-              "project_title":19675356,
-              "fy-0":750000,
+              "project_title":23560000,
+              "fy-0":4454624,
               "category":"Public Safety",
               "name":"Engine 42",
               "location":"Roxbury",
               "status":"In Design",
-              "operating_impact":"No"
+              "operating_impact":"Yes"
             },
             {
               "line_type":"data",
               "title":null,
-              "project_title":1925000,
-              "fy-0":1520290,
+              "project_title":2175000,
+              "fy-0":852524,
               "category":"Public Safety",
               "name":"Engine 5",
               "location":"East Boston",
-              "status":"In Design",
+              "status":"In Construction",
               "operating_impact":"No"
             },
             {
               "line_type":"data",
               "title":null,
               "project_title":3810000,
-              "fy-0":1300000,
+              "fy-0":2000000,
               "category":"Public Safety",
               "name":"Engine 50",
               "location":"Charlestown",
-              "status":"In Design",
+              "status":"In Construction",
               "operating_impact":"No"
             },
             {
               "line_type":"data",
               "title":null,
-              "project_title":5250000,
-              "fy-0":5250000,
+              "project_title":3850000,
+              "fy-0":3850000,
               "category":"Public Safety",
-              "name":"Fire Equipment FY18",
+              "name":"Fire Equipment FY19",
               "location":"Citywide",
               "status":"Annual Program",
               "operating_impact":"No"
@@ -117,10 +119,10 @@
             {
               "line_type":"data",
               "title":null,
-              "project_title":14550000,
+              "project_title":12831000,
               "fy-0":0,
               "category":"Public Safety",
-              "name":"Fire Equipment FY19-FY22",
+              "name":"Fire Equipment FY20-FY23",
               "location":"Citywide",
               "status":"Annual Program",
               "operating_impact":"No"
@@ -129,11 +131,26 @@
               "line_type":"data",
               "title":null,
               "project_title":1600000,
-              "fy-0":750000,
+              "fy-0":710000,
               "category":"Public Safety",
               "name":"Roof and Masonry Repairs at Engine 4, 14 and 55",
               "location":"Various neighborhoods",
-              "status":"In Design",
+              "status":"In Construction",
+              "operating_impact":"No"
+            }
+          ]
+        },
+        {
+          "Neighborhood Development":[
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1500000,
+              "fy-0":750000,
+              "category":"Public Safety",
+              "name":"Security Cameras at BHA",
+              "location":"Various neighborhoods",
+              "status":"New Project",
               "operating_impact":"No"
             }
           ]
@@ -144,7 +161,7 @@
               "line_type":"data",
               "title":null,
               "project_title":2500000,
-              "fy-0":430000,
+              "fy-0":2300000,
               "category":"Public Safety",
               "name":"Area A-1 and Area D-4 Stations",
               "location":"Various neighborhoods",
@@ -155,7 +172,7 @@
               "line_type":"data",
               "title":null,
               "project_title":560000,
-              "fy-0":100000,
+              "fy-0":485000,
               "category":"Public Safety",
               "name":"Area B-3 Roof Replacement",
               "location":"Mattapan",
@@ -166,7 +183,7 @@
               "line_type":"data",
               "title":null,
               "project_title":360000,
-              "fy-0":100000,
+              "fy-0":310000,
               "category":"Public Safety",
               "name":"Area D-14 Station",
               "location":"Allston/Brighton",
@@ -177,7 +194,7 @@
               "line_type":"data",
               "title":null,
               "project_title":500000,
-              "fy-0":100000,
+              "fy-0":450000,
               "category":"Public Safety",
               "name":"Area E-5 Roof Replacement",
               "location":"West Roxbury",
@@ -188,7 +205,7 @@
               "line_type":"data",
               "title":null,
               "project_title":714000,
-              "fy-0":100000,
+              "fy-0":560000,
               "category":"Public Safety",
               "name":"Area E-5 Station",
               "location":"West Roxbury",
@@ -199,18 +216,18 @@
               "line_type":"data",
               "title":null,
               "project_title":48000000,
-              "fy-0":13000000,
+              "fy-0":13600000,
               "category":"Public Safety",
               "name":"Communications Infrastructure Upgrades",
               "location":"Citywide",
               "status":"Implementation Underway",
-              "operating_impact":"No"
+              "operating_impact":"Yes"
             },
             {
               "line_type":"data",
               "title":null,
-              "project_title":25540000,
-              "fy-0":2650000,
+              "project_title":29900000,
+              "fy-0":5500000,
               "category":"Public Safety",
               "name":"East Boston Police Station",
               "location":"East Boston",
@@ -231,24 +248,35 @@
             {
               "line_type":"data",
               "title":null,
-              "project_title":100000,
-              "fy-0":100000,
+              "project_title":75000,
+              "fy-0":75000,
               "category":"Public Safety",
-              "name":"Garage for Specialized Vehicles",
+              "name":"Evidence/Archives/Central Supply Study",
               "location":"N/A",
-              "status":"To Be Scheduled",
+              "status":"New Project",
               "operating_impact":"No"
             },
             {
               "line_type":"data",
               "title":null,
-              "project_title":3050000,
-              "fy-0":2054860,
+              "project_title":1970000,
+              "fy-0":860000,
               "category":"Public Safety",
-              "name":"Gun Range at Moon Island",
-              "location":"Harbor Islands",
-              "status":"In Construction",
+              "name":"Police Headquarters Security",
+              "location":"Roxbury",
+              "status":"New Project",
               "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":2850000,
+              "fy-0":500000,
+              "category":"Public Safety",
+              "name":"Records Management Replacement",
+              "location":"Citywide",
+              "status":"New Project",
+              "operating_impact":"Yes"
             }
           ]
         },
@@ -257,8 +285,19 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":800000,
+              "fy-0":200000,
+              "category":"Public Safety",
+              "name":"EMS Training Academy",
+              "location":"N/A",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
               "project_title":50000,
-              "fy-0":50000,
+              "fy-0":0,
               "category":"Public Safety",
               "name":"EMS Training Academy Study",
               "location":"N/A",
@@ -270,7 +309,7 @@
       ]
     }
   ],
-  "fy-0":28555150,
-  "total":149534356
+  "fy-0":38807148,
+  "total":164655000
 }
 ---

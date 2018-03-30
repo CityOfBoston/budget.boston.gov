@@ -3,54 +3,55 @@
   "publish_subordinates":true,
   "cabinet":"Non-Mayoral Departments",
   "department":"City Clerk",
-  "file_version":"0.10",
+  "file_version":"",
   "head_name":"Maureen Feeney",
   "head_title":"Manager",
   "name":"Legislative Support",
   "parent":"City Clerk",
-  "section_id":106,
-  "section_md5_id":"F0935E4CD5920AA6C7C996A5EE53A70F",
+  "section_id":76,
+  "section_md5_id":"FBD7939D674997CDB4692D34DE8633C4",
   "section_type":"program",
   "section_type_short":"P",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~.json",
+  "source_time":"20180327183736",
+  "source_year":"19",
   "appropriation_code":"Organization 161100",
   "description":[
     "The Legislative Support Program carries out government functions required by state and local law and manages and maintains the City Council document system database.  The program also administers oaths of office and maintains records relative to the appointment or election of City officers.  The program maintains and updates the City of Boston Code, advises City officials on the Commonwealth's open meeting law, and maintains copies of City of Boston official reports."
   ],
   "selected_service_indicators":[
     {
-      "debug":"JSSIT",
       "line_title":"Operating Budget",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":338012,
-      "fy-1":345642,
-      "fy-0":355501,
-      "fy+1":258640
+      "fy-2":345642,
+      "fy-1":294700,
+      "fy-0":264092,
+      "fy+1":272262
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":22307,
-      "fy-1":26936,
-      "fy-0":21100,
-      "fy+1":21193
+      "fy-2":26936,
+      "fy-1":53212,
+      "fy-0":21193,
+      "fy+1":25493
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":360319,
-      "fy-1":372578,
-      "fy-0":376601,
-      "fy+1":279833
+      "fy-2":372578,
+      "fy-1":347912,
+      "fy-0":285285,
+      "fy+1":297755
     }
   ],
   "program_history_by_account":{
@@ -58,54 +59,54 @@
     "table_header":{
       "line_type":"title",
       "category":"Category",
-      "fy-2":"FY15 Expenditure",
-      "fy-1":"FY16 Expenditure",
-      "fy-0":"FY17 Appropriation",
-      "fy+1":"FY18 Recommended",
-      "diff":"Inc/Dec 17 vs 18"
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
     },
     "data":[
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":338012,
-        "fy-1":345642,
-        "fy-0":355501,
-        "fy+1":258640,
-        "diff":-96861
+        "fy-2":345642,
+        "fy-1":294700,
+        "fy-0":264092,
+        "fy+1":272262,
+        "diff":8170
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":13883,
-        "fy-1":14830,
-        "fy-0":12800,
-        "fy+1":12748,
-        "diff":-52
+        "fy-2":14830,
+        "fy-1":39296,
+        "fy-0":12748,
+        "fy+1":13548,
+        "diff":800
       },
       {
-        "line_title":"Supplies and Materials",
+        "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":5259,
-        "fy-1":5437,
+        "fy-2":5437,
+        "fy-1":5566,
         "fy-0":4500,
-        "fy+1":4500,
-        "diff":0
+        "fy+1":8000,
+        "diff":3500
       },
       {
-        "line_title":"Current Chgs and Oblig",
+        "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":3165,
-        "fy-1":4021,
-        "fy-0":3800,
+        "fy-2":4021,
+        "fy-1":2693,
+        "fy-0":3945,
         "fy+1":3945,
-        "diff":145
+        "diff":0
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":2648,
+        "fy-2":2648,
+        "fy-1":5657,
         "fy-0":0,
         "fy+1":0,
         "diff":0
@@ -122,15 +123,43 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":360319,
-        "fy-1":372578,
-        "fy-0":376601,
-        "fy+1":279833,
-        "diff":-96768
+        "fy-2":372578,
+        "fy-1":347912,
+        "fy-0":285285,
+        "fy+1":297755,
+        "diff":12470
       }
     ]
   },
   "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "City Council meeting are created,updated, and published on the City of Boston website"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Records Digitized",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"2,500",
+              "fy+1":"2,600"
+            }
+          ]
+        }
+      ]
+    },
     {
       "section_name":"Performance",
       "strategy":[
@@ -139,22 +168,21 @@
       "performance_measures":[
         {
           "table_header":{
-            "debug":"JPM",
             "Performance Goals":"Performance Measures",
             "line_type":"header",
-            "fy-2":"FY15 Actual",
-            "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Target",
-            "fy+1":"FY18 Target"
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
           },
           "data":[
             {
               "line_type":"data",
               "line_data":"Codes and Supplements distributed",
-              "fy-2":"66",
-              "fy-1":"291",
-              "fy-0":"255",
-              "fy+1":"255"
+              "fy-2":"291",
+              "fy-1":"161",
+              "fy-0":"175",
+              "fy+1":"180"
             }
           ]
         }
@@ -168,30 +196,21 @@
       "performance_measures":[
         {
           "table_header":{
-            "debug":"JPM",
             "Performance Goals":"Performance Measures",
             "line_type":"header",
-            "fy-2":"FY15 Actual",
-            "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Target",
-            "fy+1":"FY18 Target"
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
           },
           "data":[
-            {
-              "line_type":"data",
-              "line_data":"Distribution of financial and legislative documents",
-              "fy-2":"",
-              "fy-1":"",
-              "fy-0":"1,570",
-              "fy+1":"1,570"
-            },
             {
               "line_type":"data",
               "line_data":"Processing Hours",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"1,680",
-              "fy+1":"1,680"
+              "fy-0":"1,800",
+              "fy+1":"1,900"
             }
           ]
         }
@@ -205,13 +224,12 @@
       "performance_measures":[
         {
           "table_header":{
-            "debug":"JPM",
             "Performance Goals":"Performance Measures",
             "line_type":"header",
-            "fy-2":"FY15 Actual",
-            "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Target",
-            "fy+1":"FY18 Target"
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
           },
           "data":[
             {

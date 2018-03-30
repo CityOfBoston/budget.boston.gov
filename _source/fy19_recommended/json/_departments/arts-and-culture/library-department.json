@@ -2,111 +2,93 @@
 {
   "debug":"JBD",
   "publish_subordinates":true,
-  "file_version":"0.10",
+  "file_version":"",
   "section_id":3,
   "section_md5_id":"ECCBC87E4B5CE2FE28308FD9F2A7BAF3",
   "section_type":"department",
   "section_type_short":"D",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Arts and Culture~library-department.json",
+  "source_time":"20180327182415",
+  "source_year":"19",
   "name":"Library Department",
-  "parent":"Arts and Culture",
-  "cabinet":"Arts and Culture",
+  "parent":"Arts & Culture",
+  "cabinet":"Arts & Culture",
   "department":"Library Department",
   "head_name":"David Leonard",
   "head_title":"President",
   "appropriation_code":"Appropriation 110",
   "mission":[
-    "The Boston Public Library&rsquo;s mission is to preserve and provide access to the historical record of our society, and to serve the cultural, educational, and informational needs of the City and the Commonwealth."
-  ],
-  "selected_performance_strategies":[
-    {
-      "program":"Community Library Services",
-      "debug":"JCO",
-      "strategies":[
-        "To provide customer satisfaction through daily operations, program events, and special collection events",
-        "To provide improved access to programs, services and collections",
-        "To support improved youth literacy"
-      ]
-    },
-    {
-      "program":"Research Services",
-      "debug":"JCO",
-      "strategies":[
-        "To provide improved access to programs, services and collections"
-      ]
-    }
+    "Boston Public Library provides educational and cultural enrichment free to all for the residents of Boston, Massachusetts and beyond, through its collections, services, programs, and spaces."
   ],
   "operating_budget":{
-    "debug":"JPTR",
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
       "name":"Program Name",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     "data":[
       {
-        "name":"Administration",
+        "name":"Library Administration",
         "line_type":"data",
-        "fy-2":17644624,
-        "fy-1":18709845,
-        "fy-0":17260122,
-        "fy+1":18584106,
+        "fy-2":18709845,
+        "fy-1":18261015,
+        "fy-0":18584106,
+        "fy+1":19339463,
         "publish_subordinates":true
       },
       {
         "name":"Community Library Services",
         "line_type":"data",
-        "fy-2":13683174,
-        "fy-1":14425177,
-        "fy-0":15069249,
-        "fy+1":15743358,
+        "fy-2":14425177,
+        "fy-1":14523684,
+        "fy-0":15743358,
+        "fy+1":15637758,
         "publish_subordinates":true
       },
       {
-        "name":"Research Services",
+        "name":"Research Library Services",
         "line_type":"data",
-        "fy-2":1963176,
-        "fy-1":1727496,
-        "fy-0":2172365,
-        "fy+1":1703023,
+        "fy-2":1727496,
+        "fy-1":1990111,
+        "fy-0":1703023,
+        "fy+1":1869148,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":33290974,
-        "fy-1":34862518,
-        "fy-0":34501736,
-        "fy+1":36030487
+        "fy-2":34862518,
+        "fy-1":34774810,
+        "fy-0":36030487,
+        "fy+1":36846369
       }
     ]
   },
   "external_funds_budget":{
-    "debug":"JPTR",
     "table_type":"External Funds",
     "table_title":"External Funds Budget",
     "table_header":{
       "name":"Fund Name",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     "data":[
       {
         "name":"Boston Public Library Affiliates",
         "line_type":"data",
-        "fy-2":541207,
-        "fy-1":618834,
-        "fy-0":1012748,
-        "fy+1":1021486,
+        "fy-2":618834,
+        "fy-1":1483918,
+        "fy-0":1021486,
+        "fy+1":800183,
         "publish_subordinates":true
       },
       {
@@ -121,82 +103,81 @@
       {
         "name":"Library for the Commonwealth",
         "line_type":"data",
-        "fy-2":2501881,
-        "fy-1":2501882,
-        "fy-0":2501882,
+        "fy-2":2501882,
+        "fy-1":2501885,
+        "fy-0":2501883,
         "fy+1":2501883,
         "publish_subordinates":true
       },
       {
         "name":"Other Sources",
         "line_type":"data",
-        "fy-2":2217317,
-        "fy-1":3354004,
-        "fy-0":2468835,
-        "fy+1":2580365,
+        "fy-2":3354004,
+        "fy-1":2768952,
+        "fy-0":2580365,
+        "fy+1":2696444,
         "publish_subordinates":true
       },
       {
         "name":"State Aid to Libraries",
         "line_type":"data",
-        "fy-2":553733,
-        "fy-1":782792,
-        "fy-0":679275,
-        "fy+1":678874,
+        "fy-2":782792,
+        "fy-1":517509,
+        "fy-0":678874,
+        "fy+1":676167,
         "publish_subordinates":true
       },
       {
         "name":"Trust Fund Income",
         "line_type":"data",
-        "fy-2":2030961,
-        "fy-1":2260134,
-        "fy-0":2210989,
-        "fy+1":1960732,
+        "fy-2":2260134,
+        "fy-1":1959918,
+        "fy-0":1960732,
+        "fy+1":1964079,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":7945099,
-        "fy-1":9617646,
-        "fy-0":8973729,
-        "fy+1":8843340
+        "fy-2":9617646,
+        "fy-1":9332182,
+        "fy-0":8843340,
+        "fy+1":8738756
       }
     ]
   },
   "selected_service_indicators":[
     {
-      "debug":"JSSIT",
       "line_title":"Operating Budget",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":22962590,
-      "fy-1":23164561,
-      "fy-0":24155430,
-      "fy+1":24656573
+      "fy-2":23164561,
+      "fy-1":23749719,
+      "fy-0":24656573,
+      "fy+1":25041227
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":10328384,
-      "fy-1":11697957,
-      "fy-0":10346306,
-      "fy+1":11373914
+      "fy-2":11697957,
+      "fy-1":11025091,
+      "fy-0":11373914,
+      "fy+1":11805142
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":33290974,
-      "fy-1":34862518,
-      "fy-0":34501736,
-      "fy+1":36030487
+      "fy-2":34862518,
+      "fy-1":34774810,
+      "fy-0":36030487,
+      "fy+1":36846369
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
@@ -214,116 +195,110 @@
     "table_header":{
       "line_type":"title",
       "category":"Category",
-      "fy-2":"FY15 Expenditure",
-      "fy-1":"FY16 Expenditure",
-      "fy-0":"FY17 Appropriation",
-      "fy+1":"FY18 Recommended",
-      "diff":"Inc/Dec 17 vs 18"
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
     },
     "data":[
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":22962590,
-        "fy-1":23164561,
-        "fy-0":24155430,
-        "fy+1":24656573,
-        "diff":501143
+        "fy-2":23164561,
+        "fy-1":23749719,
+        "fy-0":24656573,
+        "fy+1":25041227,
+        "diff":384654
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":6958997,
-        "fy-1":8386833,
-        "fy-0":7258365,
-        "fy+1":7945778,
-        "diff":687413
+        "fy-2":8386833,
+        "fy-1":7886604,
+        "fy-0":7945778,
+        "fy+1":8128390,
+        "diff":182612
       },
       {
-        "line_title":"Supplies and Materials",
+        "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":2721917,
-        "fy-1":2835582,
-        "fy-0":2631168,
-        "fy+1":2810008,
-        "diff":178840
+        "fy-2":2835582,
+        "fy-1":2741761,
+        "fy-0":2810008,
+        "fy+1":2925008,
+        "diff":115000
       },
       {
-        "line_title":"Current Chgs and Oblig",
+        "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":215970,
-        "fy-1":179555,
-        "fy-0":196666,
-        "fy+1":323643,
-        "diff":126977
+        "fy-2":179555,
+        "fy-1":175113,
+        "fy-0":323643,
+        "fy+1":338810,
+        "diff":15167
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":269823,
-        "fy-1":264461,
-        "fy-0":235107,
-        "fy+1":259485,
-        "diff":24378
+        "fy-2":264461,
+        "fy-1":196613,
+        "fy-0":259485,
+        "fy+1":377934,
+        "diff":118449
       },
       {
         "line_title":"Other",
         "line_type":"data",
-        "fy-2":161677,
-        "fy-1":31526,
-        "fy-0":25000,
+        "fy-2":31526,
+        "fy-1":25000,
+        "fy-0":35000,
         "fy+1":35000,
-        "diff":10000
+        "diff":0
       },
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":33290974,
-        "fy-1":34862518,
-        "fy-0":34501736,
-        "fy+1":36030487,
-        "diff":1528751
+        "fy-2":34862518,
+        "fy-1":34774810,
+        "fy-0":36030487,
+        "fy+1":36846369,
+        "diff":815882
       }
     ]
   },
   "external_funds":[
     {
-      "debug":"JEFP",
       "project":"Boston Public Library Affiliates",
       "project_mission":[
         "Represents funding received through the Library&rsquo;s fundraising partners, including the Boston Public Library Foundation, the Associates of the Boston Public Library, the Boston Public Library&rsquo;s City-wide Friends group, and Boston Public Library branch Friends&rsquo; groups."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"InterLibrary Loan Grant",
       "project_mission":[
         "Interlibrary loan (ILL) is a service through which a user of one library can borrow materials or receive electronic copies of documents (usually journal or magazine articles) that are owned by another library. Massachusetts Library System contracts with the Boston Public Library to supply copies of documents electronically to all Massachusetts Library System members. These documents come either from the Boston Public Library&rsquo;s own collection or BPL&rsquo;s ILL staff will locate and request documents fromlibraries around the world. BPL is uniquely suited to provide documents to the state because of BPL&rsquo;s large and diverse collection that is second in size only to the Library of Congress."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"Library for the Commonwealth",
       "project_mission":[
         "The Library for the Commonwealth (LFC) provides reference and research services for all residents of theCommonwealth of Massachusetts at the Boston Public Library through developing, maintaining, and preserving comprehensive collections to supplement library resources available throughout Massachusetts. The Massachusetts Board of Library Commissioners provides this appropriation for the BPL to support personnel, purchase materials, digitize content, and develop a digitial repository. The appropriation is calculated on a statewide per capita basis and distributed annually."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"Other sources",
       "project_mission":[
         "Represents revenue from private events, royalties, commissions, pay for print, etc."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"State Aid To Libraries",
       "project_mission":[
         "The Library Incentive Grant/Municipal Equalization Grant is annual granted by the Commonwealth of Massachusetts Board of Library Commissioners to the Trustees of the Boston Public Library.The Library is required to meet certain minimum standards of free public service established by the Board to receive the grant. Four important measures are used to determine eligibility: the Municipal Appropriation Requirement (MAR), the percent of the total budget spent on library materials, the hours of operation, and the ability to lend books to other libraries in the Commonwealth."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"Trust funds and other donations",
       "project_mission":[
         "Represents gifts received from individuals, corporations, and other private donors. Donations made via trusts are held in accordance with the intention of the donor, and the principle is invested in securities that generate an annual income. This income is used to purchase library materials, support specific library positions, and enhance library programming."
@@ -331,11 +306,11 @@
     }
   ],
   "fy_major_initiatives":[
-    "The design for a new Adams Branch Library will begin to address program and facility needs.",
-    "The design for a renovation project at the Central Library in Copley Square will begin, to enhance preservation of historic special collections of rare books and manuscripts.",
-    "The City will launch a new Upham&rsquo;s Corner Branch Library project.",
-    "Construction for a comprehensive building renovation will begin at the Dudley Branch Library.",
-    "Design work will begin on a renovation of the Roslindale Branch library."
+    "Construction of a new Adams Branch Library will begin.",
+    "A major renovation project at the Roslindale Branch Library will also begin. The project includes a new entrance and a major redesign of the interior space.",
+    "Construction for a comprehensive building renovation will continue at the Dudley Branch Library.",
+    "A programming study for a new Fields Corner Branch Library will be completed.",
+    "A renovation project at the Central Library in Copley Square, to enhance preservation of historic special collections of rare books and manuscripts, will begin construction."
   ]
 }
 ---

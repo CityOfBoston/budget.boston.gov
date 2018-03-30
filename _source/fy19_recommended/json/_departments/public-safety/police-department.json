@@ -2,13 +2,15 @@
 {
   "debug":"JBD",
   "publish_subordinates":true,
-  "file_version":"0.10",
+  "file_version":"",
   "section_id":29,
   "section_md5_id":"6EA9AB1BAA0EFB9E19094440C317E21B",
   "section_type":"department",
   "section_type_short":"D",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Public Safety~police-department.json",
+  "source_time":"20180327183757",
+  "source_year":"19",
   "name":"Police Department",
   "parent":"Public Safety",
   "cabinet":"Public Safety",
@@ -19,195 +21,135 @@
   "mission":[
     "The mission of the Police Department is Neighborhood Policing. The Department dedicates itself to work in partnership with the community to fight crime, reduce fear, and improve the quality of life in Boston's neighborhoods."
   ],
-  "selected_performance_strategies":[
-    {
-      "program":"Police Commissioner's Office",
-      "debug":"JCO",
-      "strategies":[
-        "Connections to services",
-        "Engage with the community",
-        "Prevent and reduce crime and violence"
-      ]
-    },
-    {
-      "program":"BAT-Operations",
-      "debug":"JCO",
-      "strategies":[
-        "Timely and efficient response to crime and calls for service"
-      ]
-    },
-    {
-      "program":"BAT-Admin and Technology",
-      "debug":"JCO",
-      "strategies":[
-        "Effectively manage overtime"
-      ]
-    },
-    {
-      "program":"Bureau of Field Services",
-      "debug":"JCO",
-      "strategies":[
-        "Engage with the community",
-        "Prevent and reduce crime and violence"
-      ]
-    },
-    {
-      "program":"Bureau of Investigative Services",
-      "debug":"JCO",
-      "strategies":[
-        "Timely and efficient response to crime and calls for service"
-      ]
-    }
-  ],
   "operating_budget":{
-    "debug":"JPTR",
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
       "name":"Program Name",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     "data":[
       {
-        "name":"Police Commissioner's Office",
+        "name":"Office of the Police Commissioner",
         "line_type":"data",
-        "fy-2":8444527,
-        "fy-1":8621069,
-        "fy-0":7214089,
-        "fy+1":7914616,
+        "fy-2":8621069,
+        "fy-1":9246592,
+        "fy-0":7806120,
+        "fy+1":7786502,
         "publish_subordinates":true
       },
       {
-        "name":"BAT-Operations",
+        "name":"Support Services",
         "line_type":"data",
-        "fy-2":19645566,
-        "fy-1":19483314,
-        "fy-0":22061791,
-        "fy+1":20818913,
+        "fy-2":19483314,
+        "fy-1":20630072,
+        "fy-0":21082594,
+        "fy+1":21825365,
         "publish_subordinates":true
       },
       {
-        "name":"BAT-Admin and Technology",
+        "name":"Bureau of Administrative Services",
         "line_type":"data",
-        "fy-2":45857879,
-        "fy-1":45643618,
-        "fy-0":49277277,
-        "fy+1":51683475,
+        "fy-2":45643618,
+        "fy-1":49337563,
+        "fy-0":53380826,
+        "fy+1":55502592,
         "publish_subordinates":true
       },
       {
-        "name":"Bureau of Professional Development",
+        "name":"Training and Education",
         "line_type":"data",
-        "fy-2":7954912,
-        "fy-1":8056091,
-        "fy-0":7232606,
-        "fy+1":7391955,
+        "fy-2":8056091,
+        "fy-1":8650342,
+        "fy-0":7534031,
+        "fy+1":10436484,
         "publish_subordinates":true
       },
       {
         "name":"Bureau of Field Services",
         "line_type":"data",
-        "fy-2":183019618,
-        "fy-1":185672652,
-        "fy-0":208099334,
-        "fy+1":215600302,
+        "fy-2":185672652,
+        "fy-1":193457518,
+        "fy-0":220148479,
+        "fy+1":227970411,
         "publish_subordinates":true
       },
       {
         "name":"Bureau of Professional Standards",
         "line_type":"data",
-        "fy-2":8001451,
-        "fy-1":8465414,
-        "fy-0":7504188,
-        "fy+1":7586349,
+        "fy-2":8465414,
+        "fy-1":8824485,
+        "fy-0":8050722,
+        "fy+1":7885622,
         "publish_subordinates":true
       },
       {
         "name":"Bureau of Investigative Services",
         "line_type":"data",
-        "fy-2":61083835,
-        "fy-1":69615348,
-        "fy-0":59577578,
-        "fy+1":59425903,
+        "fy-2":69615348,
+        "fy-1":71017514,
+        "fy-0":64365861,
+        "fy+1":65508794,
         "publish_subordinates":true
       },
       {
-        "name":"Bureau of Intelligence and Analysis",
+        "name":"Bureau of Intelligence & Analysis",
         "line_type":"data",
-        "fy-2":3303107,
-        "fy-1":3330338,
-        "fy-0":3120630,
-        "fy+1":2958678,
+        "fy-2":3330338,
+        "fy-1":3430734,
+        "fy-0":3194239,
+        "fy+1":3259905,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":337310895,
-        "fy-1":348887844,
-        "fy-0":364087493,
-        "fy+1":373380191
+        "fy-2":348887844,
+        "fy-1":364594820,
+        "fy-0":385562872,
+        "fy+1":400175675
       }
     ]
   },
   "external_funds_budget":{
-    "debug":"JPTR",
     "table_type":"External Funds",
     "table_title":"External Funds Budget",
     "table_header":{
       "name":"Fund Name",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     "data":[
       {
-        "name":"Abekam Foundation",
-        "line_type":"data",
-        "fy-2":5000,
-        "fy-1":0,
-        "fy-0":0,
-        "fy+1":0,
-        "publish_subordinates":true
-      },
-      {
         "name":"Academy Revolving Fund",
         "line_type":"data",
-        "fy-2":36320,
-        "fy-1":86897,
-        "fy-0":65000,
+        "fy-2":86897,
+        "fy-1":35080,
+        "fy-0":100000,
         "fy+1":100000,
         "publish_subordinates":true
       },
       {
         "name":"Boston Multi-Cultural Advocacy Support",
         "line_type":"data",
-        "fy-2":219150,
-        "fy-1":209701,
-        "fy-0":346985,
+        "fy-2":209701,
+        "fy-1":32849,
+        "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Boston Reentry Initiative",
         "line_type":"data",
-        "fy-2":979673,
-        "fy-1":1112055,
-        "fy-0":671335,
-        "fy+1":0,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Bullet Proof Vests Program",
-        "line_type":"data",
-        "fy-2":8582,
-        "fy-1":0,
+        "fy-2":1112055,
+        "fy-1":686178,
         "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
@@ -216,43 +158,43 @@
         "name":"Byrne JAG Reallocation",
         "line_type":"data",
         "fy-2":0,
-        "fy-1":0,
-        "fy-0":0,
-        "fy+1":32478,
+        "fy-1":48710,
+        "fy-0":113608,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Canine Revolving Fund",
         "line_type":"data",
-        "fy-2":26197,
-        "fy-1":39999,
-        "fy-0":50000,
+        "fy-2":38647,
+        "fy-1":13012,
+        "fy-0":75000,
         "fy+1":75000,
         "publish_subordinates":true
       },
       {
-        "name":"Cold Case Project",
+        "name":"CEASE Boston",
         "line_type":"data",
-        "fy-2":63169,
+        "fy-2":0,
         "fy-1":0,
-        "fy-0":0,
+        "fy-0":41412,
         "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Community Based Violence Prevention",
         "line_type":"data",
-        "fy-2":622456,
-        "fy-1":331874,
-        "fy-0":502815,
-        "fy+1":398613,
+        "fy-2":331874,
+        "fy-1":353795,
+        "fy-0":604082,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"COPS Hiring Program (CHRP)",
         "line_type":"data",
-        "fy-2":1302861,
-        "fy-1":747138,
+        "fy-2":747138,
+        "fy-1":624,
         "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
@@ -260,89 +202,89 @@
       {
         "name":"Coverdell N.F.S.I.",
         "line_type":"data",
-        "fy-2":131105,
-        "fy-1":96732,
-        "fy-0":15474,
-        "fy+1":12500,
+        "fy-2":96732,
+        "fy-1":25237,
+        "fy-0":5715,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"DMH/Jail Diversion Program",
         "line_type":"data",
-        "fy-2":83748,
-        "fy-1":66185,
-        "fy-0":120000,
-        "fy+1":120000,
+        "fy-2":66185,
+        "fy-1":105811,
+        "fy-0":303807,
+        "fy+1":106825,
         "publish_subordinates":true
       },
       {
         "name":"DNA Laboratory Initiative",
         "line_type":"data",
-        "fy-2":248166,
-        "fy-1":175283,
-        "fy-0":343442,
-        "fy+1":385128,
+        "fy-2":175283,
+        "fy-1":300960,
+        "fy-0":459224,
+        "fy+1":215547,
         "publish_subordinates":true
       },
       {
         "name":"Downtown Boston Business Improv",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":11701,
-        "fy-0":165083,
-        "fy+1":150000,
+        "fy-2":11701,
+        "fy-1":149594,
+        "fy-0":300000,
+        "fy+1":57053,
         "publish_subordinates":true
       },
       {
         "name":"EOPSS BRIC Allocation",
         "line_type":"data",
         "fy-2":0,
-        "fy-1":0,
-        "fy-0":0,
-        "fy+1":396334,
+        "fy-1":21000,
+        "fy-0":871669,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"EOPSS JAG Youth Engagement",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":42661,
-        "fy-0":34995,
-        "fy+1":27996,
+        "fy-2":42661,
+        "fy-1":78873,
+        "fy-0":17589,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"First Responder Naloxone",
         "line_type":"data",
-        "fy-2":49624,
+        "fy-2":0,
         "fy-1":0,
-        "fy-0":0,
-        "fy+1":0,
+        "fy-0":50000,
+        "fy+1":50000,
         "publish_subordinates":true
       },
       {
         "name":"Hackney Revolving Fund",
         "line_type":"data",
-        "fy-2":38206,
-        "fy-1":74806,
-        "fy-0":37550,
+        "fy-2":59526,
+        "fy-1":33407,
+        "fy-0":120000,
         "fy+1":100000,
         "publish_subordinates":true
       },
       {
         "name":"Injury Surveillance Project",
         "line_type":"data",
-        "fy-2":4978,
-        "fy-1":4511,
-        "fy-0":5000,
-        "fy+1":0,
+        "fy-2":4511,
+        "fy-1":5888,
+        "fy-0":10000,
+        "fy+1":5000,
         "publish_subordinates":true
       },
       {
         "name":"JAG Equipment Grant",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":28203,
+        "fy-2":28203,
+        "fy-1":135899,
         "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
@@ -350,27 +292,27 @@
       {
         "name":"Justice & Mental Health Expansion Project",
         "line_type":"data",
-        "fy-2":92937,
-        "fy-1":74140,
-        "fy-0":66666,
-        "fy+1":114286,
+        "fy-2":74140,
+        "fy-1":32259,
+        "fy-0":114159,
+        "fy+1":84962,
         "publish_subordinates":true
       },
       {
         "name":"Justice Assistance Grant (JAG)",
         "line_type":"data",
-        "fy-2":591057,
-        "fy-1":623517,
-        "fy-0":669651,
-        "fy+1":732939,
+        "fy-2":623517,
+        "fy-1":589129,
+        "fy-0":830079,
+        "fy+1":619930,
         "publish_subordinates":true
       },
       {
         "name":"Massachusetts Office for Victims Assistance",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":105346,
-        "fy-0":227594,
+        "fy-2":105346,
+        "fy-1":162477,
+        "fy-0":47862,
         "fy+1":0,
         "publish_subordinates":true
       },
@@ -379,15 +321,15 @@
         "line_type":"data",
         "fy-2":0,
         "fy-1":0,
-        "fy-0":0,
-        "fy+1":1241441,
+        "fy-0":880376,
+        "fy+1":1292146,
         "publish_subordinates":true
       },
       {
         "name":"National Forum Capacity Building Demonstration",
         "line_type":"data",
-        "fy-2":194475,
-        "fy-1":239784,
+        "fy-2":239784,
+        "fy-1":30496,
         "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
@@ -395,17 +337,17 @@
       {
         "name":"NEU ALERT- Active Shooter",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":62091,
+        "fy-2":62091,
+        "fy-1":0,
         "fy-0":0,
-        "fy+1":0,
+        "fy+1":50193,
         "publish_subordinates":true
       },
       {
         "name":"Nuestra Comunidad Development Corp",
         "line_type":"data",
-        "fy-2":6825,
-        "fy-1":905,
+        "fy-2":905,
+        "fy-1":0,
         "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
@@ -413,89 +355,89 @@
       {
         "name":"OCEDTF: Fugitive Unit Vehicles",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":55173,
-        "fy-0":24000,
-        "fy+1":0,
+        "fy-2":55173,
+        "fy-1":0,
+        "fy-0":26579,
+        "fy+1":32248,
         "publish_subordinates":true
       },
       {
         "name":"OJJDP Yth Violence Prevention Enhancement Project",
         "line_type":"data",
         "fy-2":0,
-        "fy-1":0,
-        "fy-0":126031,
-        "fy+1":65787,
+        "fy-1":54701,
+        "fy-0":196301,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Police Auction",
         "line_type":"data",
         "fy-2":0,
-        "fy-1":0,
-        "fy-0":3200,
-        "fy+1":4007,
+        "fy-1":900,
+        "fy-0":47391,
+        "fy+1":1200,
         "publish_subordinates":true
       },
       {
         "name":"Police Fitness Center Revolving Fund",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":167275,
-        "fy-0":187232,
+        "fy-2":160325,
+        "fy-1":156762,
+        "fy-0":339449,
         "fy+1":250000,
         "publish_subordinates":true
       },
       {
         "name":"Port Security",
         "line_type":"data",
-        "fy-2":2770,
-        "fy-1":50589,
-        "fy-0":527791,
-        "fy+1":39689,
+        "fy-2":50589,
+        "fy-1":412391,
+        "fy-0":118974,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"PSAP - Emergency",
         "line_type":"data",
-        "fy-2":2352763,
-        "fy-1":3147889,
-        "fy-0":3248440,
-        "fy+1":2248440,
+        "fy-2":3147889,
+        "fy-1":3428203,
+        "fy-0":4483352,
+        "fy+1":3253317,
         "publish_subordinates":true
       },
       {
         "name":"Safe & Successful Youth Initiative",
         "line_type":"data",
-        "fy-2":20703,
-        "fy-1":0,
-        "fy-0":800001,
-        "fy+1":851809,
+        "fy-2":0,
+        "fy-1":1296235,
+        "fy-0":1953635,
+        "fy+1":815917,
         "publish_subordinates":true
       },
       {
         "name":"Shannon Community Safety",
         "line_type":"data",
-        "fy-2":1460743,
-        "fy-1":1380195,
-        "fy-0":1266550,
-        "fy+1":1242494,
+        "fy-2":1380195,
+        "fy-1":1350159,
+        "fy-0":1978333,
+        "fy+1":1076884,
         "publish_subordinates":true
       },
       {
         "name":"Smart Policing",
         "line_type":"data",
-        "fy-2":143062,
-        "fy-1":165466,
-        "fy-0":86044,
-        "fy+1":142092,
+        "fy-2":165466,
+        "fy-1":74506,
+        "fy-0":163028,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Social Research in Forensic",
         "line_type":"data",
-        "fy-2":4353,
-        "fy-1":4059,
+        "fy-2":4059,
+        "fy-1":0,
         "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
@@ -503,91 +445,90 @@
       {
         "name":"State 911 Training Grant",
         "line_type":"data",
-        "fy-2":62897,
-        "fy-1":156192,
-        "fy-0":750000,
+        "fy-2":156192,
+        "fy-1":161962,
+        "fy-0":803878,
         "fy+1":750000,
         "publish_subordinates":true
       },
       {
         "name":"Sustained Traffic Enforcement-STEP",
         "line_type":"data",
-        "fy-2":123783,
-        "fy-1":232528,
-        "fy-0":140937,
-        "fy+1":204740,
+        "fy-2":232528,
+        "fy-1":225256,
+        "fy-0":220824,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"US Marshal's Vehicle Retrofit",
         "line_type":"data",
-        "fy-2":14994,
+        "fy-2":0,
         "fy-1":0,
-        "fy-0":0,
+        "fy-0":41412,
         "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Violence Against Women",
         "line_type":"data",
-        "fy-2":46583,
-        "fy-1":54401,
-        "fy-0":12232,
-        "fy+1":16147,
+        "fy-2":54401,
+        "fy-1":69766,
+        "fy-0":21261,
+        "fy+1":15831,
         "publish_subordinates":true
       },
       {
         "name":"Walk Boston",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":15023,
-        "fy-0":3965,
+        "fy-2":15023,
+        "fy-1":3965,
+        "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":8937180,
-        "fy-1":9562319,
-        "fy-0":10498013,
-        "fy+1":9701920
+        "fy-2":9538737,
+        "fy-1":10076084,
+        "fy-0":15338999,
+        "fy+1":8952053
       }
     ]
   },
   "selected_service_indicators":[
     {
-      "debug":"JSSIT",
       "line_title":"Operating Budget",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":307420986,
-      "fy-1":319608659,
-      "fy-0":328452783,
-      "fy+1":338019660
+      "fy-2":319608659,
+      "fy-1":332157566,
+      "fy-0":349603563,
+      "fy+1":361579213
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":29889909,
-      "fy-1":29279185,
-      "fy-0":35634710,
-      "fy+1":35360531
+      "fy-2":29279185,
+      "fy-1":32437254,
+      "fy-0":35959309,
+      "fy+1":38596462
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":337310895,
-      "fy-1":348887844,
-      "fy-0":364087493,
-      "fy+1":373380191
+      "fy-2":348887844,
+      "fy-1":364594820,
+      "fy-0":385562872,
+      "fy+1":400175675
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
@@ -605,62 +546,62 @@
     "table_header":{
       "line_type":"title",
       "category":"Category",
-      "fy-2":"FY15 Expenditure",
-      "fy-1":"FY16 Expenditure",
-      "fy-0":"FY17 Appropriation",
-      "fy+1":"FY18 Recommended",
-      "diff":"Inc/Dec 17 vs 18"
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
     },
     "data":[
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":307420986,
-        "fy-1":319608659,
-        "fy-0":328452783,
-        "fy+1":338019660,
-        "diff":9566877
+        "fy-2":319608659,
+        "fy-1":332157566,
+        "fy-0":349603563,
+        "fy+1":361579213,
+        "diff":11975650
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":11437084,
-        "fy-1":11288032,
-        "fy-0":14727780,
-        "fy+1":14293964,
-        "diff":-433816
+        "fy-2":11288032,
+        "fy-1":12921206,
+        "fy-0":14778492,
+        "fy+1":17191638,
+        "diff":2413146
       },
       {
-        "line_title":"Supplies and Materials",
+        "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":7660810,
-        "fy-1":7214170,
-        "fy-0":8556204,
-        "fy+1":7566811,
-        "diff":-989393
+        "fy-2":7214170,
+        "fy-1":7174838,
+        "fy-0":7681061,
+        "fy+1":7616764,
+        "diff":-64297
       },
       {
-        "line_title":"Current Chgs and Oblig",
+        "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":4381905,
-        "fy-1":4712823,
-        "fy-0":4962478,
-        "fy+1":5324670,
-        "diff":362192
+        "fy-2":4712823,
+        "fy-1":5141198,
+        "fy-0":5324670,
+        "fy+1":5083050,
+        "diff":-241620
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":5555252,
-        "fy-1":6064160,
-        "fy-0":7388248,
-        "fy+1":8175086,
-        "diff":786838
+        "fy-2":6064160,
+        "fy-1":7200012,
+        "fy-0":8175086,
+        "fy+1":8705010,
+        "diff":529924
       },
       {
         "line_title":"Other",
         "line_type":"data",
-        "fy-2":854858,
+        "fy-2":0,
         "fy-1":0,
         "fy-0":0,
         "fy+1":0,
@@ -669,297 +610,226 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":337310895,
-        "fy-1":348887844,
-        "fy-0":364087493,
-        "fy+1":373380191,
-        "diff":9292698
+        "fy-2":348887844,
+        "fy-1":364594820,
+        "fy-0":385562872,
+        "fy+1":400175675,
+        "diff":14612803
       }
     ]
   },
   "external_funds":[
     {
-      "debug":"JEFP",
-      "project":"Abekam Foundation",
-      "project_mission":[
-        "Privately donated funds from the Abekam Foundation utilized for the BPD's Human Trafficking Unit, to support covering Overtime in the execution of sex trafficking \"stings\" and is related to CEASE Boston, an initiative of the Mayor's Office, Demand Abolition and the BPD."
-      ]
-    },
-    {
-      "debug":"JEFP",
       "project":"Academy Revolving Fund",
       "project_mission":[
         "The purpose of the fund authorized by (Chapter 44, Section 53E 1/2) was for purchasing training equipment, certifying instructors, updating facilities, and providing funds for other training needs not otherwise budgeted for. This revolving fund is funded by receipts of tuition and other fees paid by outside law enforcement agencies for training at the Boston Police Academy."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"Boston Multi-cultural Advocacy Support Project (BMASP)",
       "project_mission":[
         "Funded by the U.S. Department of Justice, Office of Violence Against Women, under the Grants to Encourage Arrest Policies and Enforcement of Protection Orders Program, these funds support civilian advocates at the Family Justice Center and in three districts who provide crisis intervention, referrals, and safety plans for victims of domestic violence."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"Boston Reentry Initiative",
       "project_mission":[
         "Funded by the U.S. Department of Justice, Bureau of Justice Assistance, this award supports the continuation and enhancement of services delivered through the Boston Reentry Initiative, through the provision of Case Manager-Mentor support, subsidized employment and vocational training, transitional housing, and other services. Funding ended in FY17."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"Byrne JAG Reallocation",
       "project_mission":[
         "Funded by the Executive Office of Public Safety and Security, through the Office of Justice Programs, these funds will be utilized to implement the objectives of the Sex Offender Registry Notification Act (SORNA) by implementing the Address Verification Pilot Program (AVPP) in Boston. This program intends to identify, investigate, and locate offenders known to be in violation of their registration obligations."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"Canine Revolving Fund",
       "project_mission":[
         "The purpose of the fund authorized by (Chapter 44, Section 53E 1/2) is for purchasing training equipment, certifying instructors, updating facilities to support its Canine Unit training programs for officers and police dogs for non-City of Boston law enforcement agencies, and providing funds for other training needs. This revolving fund is funded by receipts of tuition and other fees paid by outside law enforcement agencies for training with the Canine Unit at the Boston Police Department Special Operations Division."
       ]
     },
     {
-      "debug":"JEFP",
-      "project":"Cold Case Project",
-      "project_mission":[
-        "Funds are provided by the U.S. Department of Justice, National Institute of Justice. This funding will allow the department to significantly increase the number of unsolved cold homicide cases identified and reviewed for DNA evidence, enhance the Crime Lab&rsquo;s capacity to analyze cold case evidence through a cold case analyst, and will improve the department&rsquo;s ability to pursue cold case investigations to prosecution."
-      ]
-    },
-    {
-      "debug":"JEFP",
       "project":"Community Based Violence Prevention Demonstration Program",
       "project_mission":[
         "Funded by the Office of Juvenile Justice and Delinquency Prevention (OJJDP). The goal of this funding is to reduce youth homicides and shootings in Mattapan by increasing enforcement and accountability; providing violence interruption, conflict resolution, and opportunities to our 'shooters' and their families; and mobilizing the community through a saturated social norms and consequences campaign."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"COPS Hiring Program (CHRP)",
       "project_mission":[
         "Funded by US Department of Justice, Office of Community Oriented Policing Services to supplement the cost of hiring 15 military veteran sworn officer positions for a period of 3 years. The City of Boston is responsible for maintaining CHRP funded positions for at least one additional year beyond the award period (year four). Funding ended in the spring of FY16."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"Department of Mental Health Jail Diversion Program",
       "project_mission":[
         "Funded by the MA Department of Mental Health, this grant allows for a Boston Emergency Services Team (BEST) clinician to be housed in the BPD District B-2 station. This position gives B2 officers and the BPD Street Outreach Team direct clinician access for assistance with emotionally disturbed individuals, ideally decreasing the likelihood of these individuals being arrested."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"DNA Laboratory Initiative",
       "project_mission":[
         "The project is funded by the U.S. Department of Justice, National Institute of Justice. This grant is intended to focus resources on solving old homicide and sexual assault cases where there is no suspect identified - &ldquo;cold cases&rdquo;. Funds are being used for overtime for detectives to further investigate these cases, and for criminalists to process evidence (DNA testing, etc.). Funds are also used to purchase supplies necessary for DNA testing of evidence in these cases."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"Downtown Boston Business Improvement",
       "project_mission":[
         "These funds will be used for the purchase and installation of electronic equipment Downtown Boston Business Improvement District (BID). The purpose of the funding is to assist the Boston Police Department in enhancing public safety and improving quality of life in the downtown area. Funding was awarded in FY16."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"EOPSS BRIC Allocation",
       "project_mission":[
         "For the Boston Regional Intelligence Center, or BRIC, to upgrade, expand, and integrate technology and protocols related to antiterrorism, anticrime, antigang and emergency response. Funds were awarded on 6/24/16 and expire on 12/31/17."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"EOPSS JAG Youth Engagement",
       "project_mission":[
         "The Edward Byrne Memorial Justice Assistance Grant (JAG), funded through the Executive Office of Public Safety, will be utilized to continue to create positive relationships between youth and police and deliver youth/police engagement in hot-spot neighborhoods."
       ]
     },
     {
-      "debug":"JEFP",
-      "project":"Executive Office of Public Safety and Security (EOPSS) BRIC Allocation",
-      "project_mission":[
-        "The Massachusetts Executive Office of Public Safety and Security has awarded funds to the Boston Regional Intelligence Center, or BRIC, to upgrade, expand, and integrate technology and protocols related to antiterrorism, anticrime, antigang and emergency response. The BRIC shall provide technology required to access the intelligence with its municipal partners, the department of state police, the Massachusetts Bay Transportation Authority, the Massachusetts Port Authority and appropriate federal agencies to assure maximum interagency collaboration for public safety and homeland security."
-      ]
-    },
-    {
-      "debug":"JEFP",
       "project":"First Responder Naloxone Grant",
       "project_mission":[
         "As part of the Commonwealth&rsquo;s comprehensive strategy to address the opioid overdose epidemic in Massachusetts, the Department of Public Health awarded funds for the Boston Police Department to carry and administer naloxone, an opioid overdose antidote. The funds will be utilized to purchase naloxone and related costs."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"Hackney Revolving Fund",
       "project_mission":[
         "The purpose of the fund authorized by (Chapter 44, Section 53E 1/2) is for purchasing, leasing, or renting space, materials and equipment to be partially or wholly used for instructional purposes for new hackney carriage driver applicants and provide funds for other educational needs. The fund is funded from a one-time $75 new applicant fee that drivers pay for Hackney Carriage Driver Training Class."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"JAG Equipment Grant",
       "project_mission":[
         "The FY15 Law Enforcement Equipment Grant funded by the Edward Byrne Memorial Justice Assistance Grant (JAG) will be utilized for the purpose of purchasing printers to be installed in police cruisers as part of the Data-Driven Approaches to Crime and Traffic Safety (DDACTS) crime and traffic safety program pilot project."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"Justice and Mental Health Expansion Project",
       "project_mission":[
         "Funded by the U.S. Department of Justice, Bureau of Justice Assistance, these funds allow the BPD to expand on its collaborative partnership with the Boston Emergency Services Team through increased services for persons in need of mental health assistance and training for police officers in the event of an encounter with such persons."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"Justice Assistance Grant (JAG)",
       "project_mission":[
         "The grant was awarded by the U.S. Department of Justice, Bureau of Justice Assistance. These funds provide for the continuation of several successful initiatives, including: Domestic Violence Advocacy at the District Level, the Youth Service Providers Network, Crime and Intelligence Analysis, Research and Analysis Capacity at the Youth Violence Strike Force, Strategic Planning and Policy Analysis, and Improving Crime Reporting Capabilities."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"National Crime Statistics Exchange",
       "project_mission":[
         "2016 National Crime Statistics Exchange (NCS-X) Implementation Assistance Program: Phase III- Support for Large Local Agencies, awarded on 10/01/16 , will be provided to support the transition to incident-based reporting (IBR) among agencies with 750 or more sworn officers that currently do not report IBR data to their state UCR Program or to the FBI's NIBRS. BJS and the FBI are implementing the NCS-X program to further the Department's mission to work with the justice community to develop innovative strategies that support information sharing between and across sectors of the justice community. The grant expires on 9/30/18."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"National Forum Capacity Building Demonstration",
       "project_mission":[
         "Funding by the U.S. Department of Justice, Office of Juvenile Justice Delinquency Prevention. This funding will be used for the enhancement and implementation of Boston&rsquo;s Youth Violence Prevention Forum and the Boston Public Schools PBIS."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"National Violent Death Reporting Grant (aka Injury Surveillance Project)",
       "project_mission":[
         "Funded by the US Department of Justice, this grant will provide funds to support the transition to incident-based reporting (IBR) among agencies with 750 or more sworn officers. BJS and the FBI are implementing the NCS-X program to further the Department's mission to work with the justice community to develop innovative strategies that support information sharing between and across sectors of the justice community."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"NEU ALERT- Active Shooter",
       "project_mission":[
         "Funds were awarded from the U.S. Department of Homeland Security Science and Technology Directorate. This supported a cooperative agreement between the BPD and Northeastern University to hold the Combating Terrorism Technology Evaluation Program (CTTEP) Training at Fenway Park."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"Nuestra Comunidad Development Corporation",
       "project_mission":[
         "Funds will be utilized to purchase 2 bicycles for area B-2 Safe Street Team Officers and for youth events in the Blue Hill Avenue Corridor Area."
       ]
     },
     {
-      "debug":"JEFP",
-      "project":"Office of Violence Against Women",
-      "project_mission":[
-        "Funding is provided by the U.S. Department of Justice, Office of Violence Against Women. These funds are used to coordinate and more broadly utilize domestic violence advocacy resources to provide culturally responsive advocacy services to victims presenting at Dorchester Municipal Court, the Suffolk County Family Justice Center (SCFJC), four Boston Police district stations, the Asian Task Force Against Domestic Violence (ATASK) and/or the Association of Haitian Women in Boston (AFAB)."
-      ]
-    },
-    {
-      "debug":"JEFP",
       "project":"OJJDP- Opportunities to Reduce Recidivism",
       "project_mission":[
-        "Funded by the U.S. Department of Justice, Office of Juvenile Justice Delinquency Prevention, earmarked funds provided for YSPN social worker support through a subcontract with Boys and Girls Clubs of Boston and additional support services for the Human Trafficking Unit, Operation Homefront and Operation NightLight Initiatives."
+        "Funded by the U.S. Department of Justice, Office of Juvenile Justice Delinquency Prevention, earmarked funds provided for YSPN social worker support through a subcontract with Boys & Girls Clubs of Boston and additional support services for the Human Trafficking Unit, Operation Homefront and Operation NightLight Initiatives."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"Paul Coverdell National Forensic Grant",
       "project_mission":[
         "This grant was awarded by the U.S. Department of Justice, National Institute of Justice programs. Funds are utilized to hire a vendor who provides LIMS services and items based on a comprehensive assessment and best suited to the Boston Police Department."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"Police Auction",
       "project_mission":[
         "The Police Auction fund pays for the rental of a trailer used by the department during vehicle auctions and occasionally pays for paid details associated with the auction."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"Police Fitness Center Revolving Fund",
       "project_mission":[
         "The purpose of the fund authorized by (Chapter 44, Section 53E 1/2 is to pay salaries and benefits of employees and to purchase supplies and equipment necessary to operate the Police Department Fitness Center. The revolving fund is funded from monthly membership fees."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"Port Security Grant",
       "project_mission":[
         "Funded by the U.S. Department of Homeland Security, this grant supports the security of Boston&rsquo;s waterfront through the acquisition of new engines for two Boston Police Department Harbor Patrol vessels (the Guardian and the Protector) and ensure proper maintenance of these new engines as well as the Harbor Patrol&rsquo;s SAFE boat over the course of the grant period. FY17 expenses include a donation from the Boston Police Foundation as local matching funds."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"Public Safety Answering Point (PSAP)-Emergency",
       "project_mission":[
         "Funded by the Executive Office of Public Safety and Security-State 911 Department funds will provide upgrade support to the Boston Police Department 911 Center."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"Safe and Successful Youth Initiative",
       "project_mission":[
         "The Massachusetts&rsquo; Executive Office of Health and Human Services has awarded the Boston Police Department funds, with the Boston Public Health Commission as the Lead Community Based Agency, to administer and coordinate programming that will serve high risk young men and women most likely to be involving in gun violence in a wide range of areas, i.e. case management, physical and mental health services, education, job training, etc."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"Shannon Community Safety Initiative award",
       "project_mission":[
         "Funded by the Executive Office of Public Safety and Security in partnership with proven successful faith and community based organizations and city agencies for focused Prevention, Intervention and Suppression support services to youth at risk or involved in gang related activity in hopes of reducing gun and gang related violence in hot spot areas of city."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"Smart Policing Evidence-Based Law Enforcement Program",
       "project_mission":[
         "Funded by the U.S. Department of Justice, Bureau of Justice Assistance for the purpose of the evaluation and invigoration of people and place based initiatives through data-driven evidence-based approach to a crime problem or criminogenic circumstance in their jurisdiction."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"Social Sciences Research in Forensic Science",
       "project_mission":[
         "Funded by the University of Illinois, the BPD will support the research project on forensic evidence in sexual assault case. BPD will contribute to the proposed research by supplying information from police incident data files. This data will be combined with data from the Provider Sexual Crime Report Database and data from the BPD Crime Laboratory to analyze the relationship of forensic evident to criminal justice evidence."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"State 911 Training Grant",
       "project_mission":[
         "Funded by the Executive Office of Public Safety and Security-State 911 Department for the continuation of training support services for the Boston Police Department 911 Center staff, Boston Fire Department and Emergency Medical Services."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"Sustained Traffic Enforcement Program-STEP",
       "project_mission":[
         "Funded by the Executive Office of Public Safety and Security, Highway Safety Division, this funding will be utilized to improve City of Boston collision/crash data in the three categories of motor vehicle, pedestrian and bicycle; to implement DDACTS in four Districts and to deliver STEP mobilizations citywide."
       ]
     },
     {
-      "debug":"JEFP",
-      "project":"U.S. Marshals: Vehicle Retrofit",
-      "project_mission":[
-        "Donated by the U.S. Marshals Office, this funding supports retrofitting, i.e. the addition of new equipment, to three vehicles donated by the same office."
-      ]
-    },
-    {
-      "debug":"JEFP",
       "project":"VAWA STOP Project",
       "project_mission":[
         "Funded by the Office of Violence Against Women, pass thru the Executive Office of Public Safety and Security. Funds will support a Civilian Domestic Violence Advocate who will provide referrals to shelters and assistance with obtaining restraining orders, safety planning, service referral, and assistance in navigating the criminal justice process, and advocacy for victims of domestic violence."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"Walk Boston",
       "project_mission":[
         "Walk Boston awarded the Boston Police Department's Academy funds in FY16 to produce a pedestrian safety e-learning video for law enforcement."
@@ -967,10 +837,11 @@
     }
   ],
   "fy_major_initiatives":[
-    "Design will begin on a new East Boston Police Station.",
-    "Construction will be completed on a new training facility at Moon Island Gun Range",
-    "The project to upgrade the Police Department&rsquo;s communications infrastructure will continue into its third year.",
-    "Several studies will help evaluate needs at both central facilities and district stations."
+    "Site work will begin on a new East Boston Police Station.",
+    "A project to replace the existing records management system will begin.",
+    "The Police Department will continue its phased communications infrastructure upgrade project.",
+    "The project is expected to be completed in FY20.",
+    "A study to replace the Evidence Management, Archives, and Central Supply facility will begin."
   ]
 }
 ---

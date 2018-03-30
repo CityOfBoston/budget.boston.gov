@@ -2,13 +2,15 @@
 {
   "debug":"JBD",
   "publish_subordinates":true,
-  "file_version":"0.10",
+  "file_version":"",
   "section_id":12,
   "section_md5_id":"C20AD4D76FE97759AA27A0C99BFF6710",
   "section_type":"department",
   "section_type_short":"D",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Mayor's Office~law-department.json",
+  "source_time":"20180327183730",
+  "source_year":"19",
   "name":"Law Department",
   "parent":"Mayor's Office",
   "cabinet":"Mayor's Office",
@@ -19,101 +21,81 @@
   "mission":[
     "The mission of the Law Department is to provide a high level of professional legal services to its clients, the Mayor, City Council and City departments, supporting all official capacities within City government, in a timely and cost effective manner. Law Department personnel are committed to upholding the highest ethical standards and to assuming a professional and caring attitude toward their clients, and among themselves."
   ],
-  "selected_performance_strategies":[
-    {
-      "program":"Litigation",
-      "debug":"JCO",
-      "strategies":[
-        "To defend the City against legal claims",
-        "To maximize the recovery of funds to the City, including deliquent taxes"
-      ]
-    },
-    {
-      "program":"Government services",
-      "debug":"JCO",
-      "strategies":[
-        "To maximize the recovery of funds to the City, including deliquent taxes",
-        "To provide consultation services that include rendering legal opinions, drafting and approving legal instruments such as contracts, agreements, licensing and indemnity agreements, zoning issues, public record requests and subpoena responses"
-      ]
-    }
-  ],
   "operating_budget":{
-    "debug":"JPTR",
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
       "name":"Program Name",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     "data":[
       {
-        "name":"Operations",
+        "name":"Law Operations",
         "line_type":"data",
-        "fy-2":1926683,
-        "fy-1":1806057,
-        "fy-0":1696635,
-        "fy+1":1220489,
+        "fy-2":1806057,
+        "fy-1":1464518,
+        "fy-0":1246354,
+        "fy+1":1374294,
         "publish_subordinates":true
       },
       {
         "name":"Litigation",
         "line_type":"data",
-        "fy-2":2894424,
-        "fy-1":1921743,
-        "fy-0":2222309,
-        "fy+1":2580041,
+        "fy-2":1921743,
+        "fy-1":2285402,
+        "fy-0":2710041,
+        "fy+1":2694625,
         "publish_subordinates":true
       },
       {
-        "name":"Government Services",
+        "name":"Legal Services",
         "line_type":"data",
-        "fy-2":1162282,
-        "fy-1":1301992,
-        "fy-0":1866260,
-        "fy+1":2049372,
+        "fy-2":1301992,
+        "fy-1":1443583,
+        "fy-0":2783013,
+        "fy+1":3731884,
         "publish_subordinates":true
       },
       {
-        "name":"Office of Gaming and Accountability",
+        "name":"Office of Gaming & Accountability",
         "line_type":"data",
-        "fy-2":9173,
-        "fy-1":722987,
-        "fy-0":87240,
+        "fy-2":722987,
+        "fy-1":59160,
+        "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":5992562,
-        "fy-1":5752779,
-        "fy-0":5872444,
-        "fy+1":5849902
+        "fy-2":5752779,
+        "fy-1":5252663,
+        "fy-0":6739408,
+        "fy+1":7800803
       }
     ]
   },
   "external_funds_budget":{
-    "debug":"JPTR",
     "table_type":"External Funds",
     "table_title":"External Funds Budget",
     "table_header":{
       "name":"Fund Name",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     "data":[
       {
         "name":"Third Party Property Damages",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":27014,
+        "fy-2":27014,
+        "fy-1":292297,
         "fy-0":500000,
         "fy+1":500000,
         "publish_subordinates":true
@@ -121,8 +103,8 @@
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":0,
-        "fy-1":27014,
+        "fy-2":27014,
+        "fy-1":292297,
         "fy-0":500000,
         "fy+1":500000
       }
@@ -130,37 +112,36 @@
   },
   "selected_service_indicators":[
     {
-      "debug":"JSSIT",
       "line_title":"Operating Budget",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":3734496,
-      "fy-1":3398720,
-      "fy-0":3783462,
-      "fy+1":3764570
+      "fy-2":3398720,
+      "fy-1":3332449,
+      "fy-0":4541576,
+      "fy+1":5553683
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":2258066,
-      "fy-1":2354059,
-      "fy-0":2088982,
-      "fy+1":2085332
+      "fy-2":2354059,
+      "fy-1":1920214,
+      "fy-0":2197832,
+      "fy+1":2247120
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":5992562,
-      "fy-1":5752779,
-      "fy-0":5872444,
-      "fy+1":5849902
+      "fy-2":5752779,
+      "fy-1":5252663,
+      "fy-0":6739408,
+      "fy+1":7800803
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
@@ -173,54 +154,54 @@
     "table_header":{
       "line_type":"title",
       "category":"Category",
-      "fy-2":"FY15 Expenditure",
-      "fy-1":"FY16 Expenditure",
-      "fy-0":"FY17 Appropriation",
-      "fy+1":"FY18 Recommended",
-      "diff":"Inc/Dec 17 vs 18"
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
     },
     "data":[
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":3734496,
-        "fy-1":3398720,
-        "fy-0":3783462,
-        "fy+1":3764570,
-        "diff":-18892
+        "fy-2":3398720,
+        "fy-1":3332449,
+        "fy-0":4541576,
+        "fy+1":5553683,
+        "diff":1012107
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":2164196,
-        "fy-1":2239565,
-        "fy-0":1971800,
-        "fy+1":1976559,
-        "diff":4759
+        "fy-2":2239565,
+        "fy-1":1828749,
+        "fy-0":2086559,
+        "fy+1":2074715,
+        "diff":-11844
       },
       {
-        "line_title":"Supplies and Materials",
+        "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":13854,
-        "fy-1":11000,
-        "fy-0":18380,
-        "fy+1":15908,
-        "diff":-2472
+        "fy-2":11000,
+        "fy-1":17331,
+        "fy-0":18408,
+        "fy+1":23325,
+        "diff":4917
       },
       {
-        "line_title":"Current Chgs and Oblig",
+        "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":75516,
-        "fy-1":98317,
-        "fy-0":98802,
-        "fy+1":92865,
-        "diff":-5937
+        "fy-2":98317,
+        "fy-1":59807,
+        "fy-0":92865,
+        "fy+1":149080,
+        "diff":56215
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":4500,
-        "fy-1":5177,
+        "fy-2":5177,
+        "fy-1":14327,
         "fy-0":0,
         "fy+1":0,
         "diff":0
@@ -237,17 +218,16 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":5992562,
-        "fy-1":5752779,
-        "fy-0":5872444,
-        "fy+1":5849902,
-        "diff":-22542
+        "fy-2":5752779,
+        "fy-1":5252663,
+        "fy-0":6739408,
+        "fy+1":7800803,
+        "diff":1061395
       }
     ]
   },
   "external_funds":[
     {
-      "debug":"JEFP",
       "project":"Third Party Property Damages",
       "project_mission":[
         "A revolving fund authorized by (Chapter 44, Section 53E 1/2) for purchasing goods and services to pay for repairs to city property from receipts from recoveries for damages to city property caused by third parties."

@@ -1,56 +1,57 @@
 ---
 {
   "publish_subordinates":true,
-  "cabinet":"Environment, Energy and Open Space",
+  "cabinet":"Environment, Energy & Open Space",
   "department":"Environment Department",
-  "file_version":"0.10",
+  "file_version":"",
   "head_name":"Carl Spector",
   "head_title":"Manager",
   "name":"Environment",
   "parent":"Environment Department",
-  "section_id":72,
-  "section_md5_id":"32BB90E8976AAB5298D5DA10FE66F21D",
+  "section_id":104,
+  "section_md5_id":"C9E1074F5B3F9FC8EA15D152ADD07294",
   "section_type":"program",
   "section_type_short":"P",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~.json",
+  "source_time":"20180327182445",
+  "source_year":"19",
   "appropriation_code":"Organization 303100",
   "description":[
     "The Environment Program works to enhance the quality of Boston&rsquo;s air, water, and land, and the integrity of its architecture and historic resources. The program researches and writes study reports, prepares National Register nominations, and performs design review of properties subject to landmark, local, district, and National Register review. The Program is focused on implementing the Mayor&rsquo;s commitment to sustainable development, climate protection, and the environment by reviewing environmental impact assessments, issuing permits and providing information and referral services on environmental issues.  Through participation in various local, state, and federal review processes, the program seeks to increase the accessibility and quality of Boston&rsquo;s water and riverfronts.  The program provides improved access to energy efficiency services for both residents and businesses."
   ],
   "selected_service_indicators":[
     {
-      "debug":"JSSIT",
       "line_title":"Operating Budget",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":1508792,
-      "fy-1":1471276,
-      "fy-0":1802700,
-      "fy+1":1988560
+      "fy-2":1471276,
+      "fy-1":1646513,
+      "fy-0":1988560,
+      "fy+1":2082972
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":509650,
-      "fy-1":426139,
-      "fy-0":430244,
-      "fy+1":529169
+      "fy-2":426139,
+      "fy-1":520465,
+      "fy-0":529169,
+      "fy+1":835028
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":2018442,
-      "fy-1":1897415,
-      "fy-0":2232944,
-      "fy+1":2517729
+      "fy-2":1897415,
+      "fy-1":2166978,
+      "fy-0":2517729,
+      "fy+1":2918000
     }
   ],
   "program_history_by_account":{
@@ -58,54 +59,54 @@
     "table_header":{
       "line_type":"title",
       "category":"Category",
-      "fy-2":"FY15 Expenditure",
-      "fy-1":"FY16 Expenditure",
-      "fy-0":"FY17 Appropriation",
-      "fy+1":"FY18 Recommended",
-      "diff":"Inc/Dec 17 vs 18"
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
     },
     "data":[
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":1508792,
-        "fy-1":1471276,
-        "fy-0":1802700,
-        "fy+1":1988560,
-        "diff":185860
+        "fy-2":1471276,
+        "fy-1":1646513,
+        "fy-0":1988560,
+        "fy+1":2082972,
+        "diff":94412
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":465724,
-        "fy-1":393807,
-        "fy-0":408129,
-        "fy+1":501329,
-        "diff":93200
+        "fy-2":393807,
+        "fy-1":474069,
+        "fy-0":501329,
+        "fy+1":804363,
+        "diff":303034
       },
       {
-        "line_title":"Supplies and Materials",
+        "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":17626,
-        "fy-1":26367,
-        "fy-0":19500,
-        "fy+1":25225,
-        "diff":5725
+        "fy-2":26367,
+        "fy-1":30288,
+        "fy-0":25225,
+        "fy+1":28000,
+        "diff":2775
       },
       {
-        "line_title":"Current Chgs and Oblig",
+        "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":8048,
-        "fy-1":3645,
+        "fy-2":3645,
+        "fy-1":1281,
         "fy-0":2615,
-        "fy+1":2615,
-        "diff":0
+        "fy+1":2665,
+        "diff":50
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":18252,
-        "fy-1":2320,
+        "fy-2":2320,
+        "fy-1":14827,
         "fy-0":0,
         "fy+1":0,
         "diff":0
@@ -122,11 +123,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":2018442,
-        "fy-1":1897415,
-        "fy-0":2232944,
-        "fy+1":2517729,
-        "diff":284785
+        "fy-2":1897415,
+        "fy-1":2166978,
+        "fy-0":2517729,
+        "fy+1":2918000,
+        "diff":400271
       }
     ]
   },
@@ -134,35 +135,26 @@
     {
       "section_name":"Performance",
       "strategy":[
-        "Reduce GHG Emissions"
+        "Engage Community"
       ],
       "performance_measures":[
         {
           "table_header":{
-            "debug":"JPM",
             "Performance Goals":"Performance Measures",
             "line_type":"header",
-            "fy-2":"FY15 Actual",
-            "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Target",
-            "fy+1":"FY18 Target"
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
           },
           "data":[
             {
               "line_type":"data",
-              "line_data":"Mass Save and ABCD WAP work completed (insulation/air sealing, heating system replacement)",
+              "line_data":"# of social media followers (multiple platforms)",
               "fy-2":"",
-              "fy-1":"",
-              "fy-0":"3,200",
-              "fy+1":"3,200"
-            },
-            {
-              "line_type":"data",
-              "line_data":"Total capacity (Megawatts) of solar and combined heat and power systems",
-              "fy-2":"6",
-              "fy-1":"6",
-              "fy-0":"6",
-              "fy+1":"8"
+              "fy-1":"29,208",
+              "fy-0":"29,000",
+              "fy+1":"30,000"
             }
           ]
         }
@@ -171,35 +163,122 @@
     {
       "section_name":"Performance",
       "strategy":[
-        "To promote conservation of the City's architectural resources through administration of local preservation district guidelines and through federal, state and local regulation and review."
+        "Increase sustainability"
       ],
       "performance_measures":[
         {
           "table_header":{
-            "debug":"JPM",
             "Performance Goals":"Performance Measures",
             "line_type":"header",
-            "fy-2":"FY15 Actual",
-            "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Target",
-            "fy+1":"FY18 Target"
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
           },
           "data":[
             {
               "line_type":"data",
-              "line_data":"# of Boston Landmarks and # of historic districts",
+              "line_data":"Average LEED rating level of new buildings (building permit stage)",
               "fy-2":"",
-              "fy-1":"",
-              "fy-0":"102",
+              "fy-1":"3",
+              "fy-0":"3",
+              "fy+1":"3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Protect historic resources"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of preservation violations",
+              "fy-2":"",
+              "fy-1":"48",
+              "fy-0":"48",
+              "fy+1":"48"
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of protected buildings and sites",
+              "fy-2":"",
+              "fy-1":"102",
+              "fy-0":"103",
               "fy+1":"103"
             },
             {
               "line_type":"data",
-              "line_data":"% across all historic commissions",
+              "line_data":"% of approved hearing items",
               "fy-2":"",
-              "fy-1":"",
+              "fy-1":"92%",
               "fy-0":"97%",
               "fy+1":"97%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Reduce GHG Emissions"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# significant residential energy actions through Renew Boston",
+              "fy-2":"",
+              "fy-1":"3,174",
+              "fy-0":"3,200",
+              "fy+1":"3,200"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Annual community GHG emissions (compared to 2005)",
+              "fy-2":"",
+              "fy-1":"-12",
+              "fy-0":"-15",
+              "fy+1":"-17"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Annual municipal GHG emissions (compared to 2005)",
+              "fy-2":"",
+              "fy-1":"-27",
+              "fy-0":"-28",
+              "fy+1":"-28"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Municipal PV +CHP capacity",
+              "fy-2":"6",
+              "fy-1":"6",
+              "fy-0":"6",
+              "fy+1":"6"
             }
           ]
         }
@@ -213,145 +292,36 @@
       "performance_measures":[
         {
           "table_header":{
-            "debug":"JPM",
             "Performance Goals":"Performance Measures",
             "line_type":"header",
-            "fy-2":"FY15 Actual",
-            "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Target",
-            "fy+1":"FY18 Target"
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
           },
           "data":[
             {
               "line_type":"data",
-              "line_data":"4th-highest 8-hour readding at MA DEP Harrison Avenue site",
+              "line_data":"# of noise complaints",
               "fy-2":"",
-              "fy-1":"",
+              "fy-1":"651",
+              "fy-0":"425",
+              "fy+1":"425"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Average PM2.5 (particulate matter) level (micrograms/m3)",
+              "fy-2":"",
+              "fy-1":"6",
               "fy-0":"",
               "fy+1":""
             },
             {
               "line_type":"data",
-              "line_data":"Mean level at MA DEP Harrison Avenue site (FRM)",
+              "line_data":"Ozone level (ppm)",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"6",
-              "fy+1":"6"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "section_name":"Performance",
-      "strategy":[
-        "To protect the public from air and noise pollution by enforcing Air Pollution Control Commission and other regulations"
-      ],
-      "performance_measures":[
-        {
-          "table_header":{
-            "debug":"JPM",
-            "Performance Goals":"Performance Measures",
-            "line_type":"header",
-            "fy-2":"FY15 Actual",
-            "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Target",
-            "fy+1":"FY18 Target"
-          },
-          "data":[
-            {
-              "line_type":"data",
-              "line_data":"Number of complaints submitted to APCC",
-              "fy-2":"354 (calendar year)",
-              "fy-1":"495 (calendar year)",
-              "fy-0":"425",
-              "fy+1":"425"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "section_name":"Performance",
-      "strategy":[
-        "To protect wetlands and water quality through administration of the Massachusetts Wetlands Protection Act"
-      ],
-      "performance_measures":[
-        {
-          "table_header":{
-            "debug":"JPM",
-            "Performance Goals":"Performance Measures",
-            "line_type":"header",
-            "fy-2":"FY15 Actual",
-            "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Target",
-            "fy+1":"FY18 Target"
-          },
-          "data":[
-            {
-              "line_type":"data",
-              "line_data":"# of wetlands and water quality public hearings",
-              "fy-2":"17",
-              "fy-1":"22",
-              "fy-0":"20",
-              "fy+1":""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "section_name":"Performance",
-      "strategy":[
-        "To protect the public from air and noise pollution by enforcing Air Pollution Control Commission and other regulations"
-      ],
-      "performance_measures":[
-        {
-          "table_header":{
-            "debug":"JPM",
-            "Performance Goals":"Performance Measures",
-            "line_type":"header",
-            "fy-2":"FY15 Actual",
-            "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Target",
-            "fy+1":"FY18 Target"
-          },
-          "data":[
-            {
-              "line_type":"data",
-              "line_data":"Air quality complaints responded to",
-              "fy-2":"47",
-              "fy-1":"75",
-              "fy-0":"75",
-              "fy+1":"75"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "section_name":"Performance",
-      "strategy":[
-        "To protect the public from air and noise pollution by enforcing Air Pollution Control Commission and other regulations."
-      ],
-      "performance_measures":[
-        {
-          "table_header":{
-            "debug":"JPM",
-            "Performance Goals":"Performance Measures",
-            "line_type":"header",
-            "fy-2":"FY15 Actual",
-            "fy-1":"FY16 Actual",
-            "fy-0":"FY17 Target",
-            "fy+1":"FY18 Target"
-          },
-          "data":[
-            {
-              "line_type":"data",
-              "line_data":"Noise level complaints responded to",
-              "fy-2":"285",
-              "fy-1":"405",
-              "fy-0":"410",
+              "fy-0":"",
               "fy+1":""
             }
           ]

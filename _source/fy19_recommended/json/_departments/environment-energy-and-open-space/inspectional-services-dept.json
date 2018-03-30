@@ -2,16 +2,18 @@
 {
   "debug":"JBD",
   "publish_subordinates":true,
-  "file_version":"0.10",
+  "file_version":"",
   "section_id":45,
   "section_md5_id":"6C8349CC7260AE62E3B1396831A8398F",
   "section_type":"department",
   "section_type_short":"D",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Environment, Energy and Open Space~inspectional-services-dept.json",
+  "source_time":"20180327182446",
+  "source_year":"19",
   "name":"Inspectional Services Dept",
-  "parent":"Environment, Energy and Open Space",
-  "cabinet":"Environment, Energy and Open Space",
+  "parent":"Environment, Energy & Open Space",
+  "cabinet":"Environment, Energy & Open Space",
   "department":"Inspectional Services Dept",
   "head_name":"William Christopher",
   "head_title":"Commissioner",
@@ -19,248 +21,215 @@
   "mission":[
     "The mission of the Inspectional Services Department (ISD) is to serve the public by protecting the health, safety, and environmental stability of Boston's business and residential communities. To this end, ISD effectively administers and consistently enforces building, housing, and environmental regulations within the City of Boston. The department will continue to use its resources to protect and improve the quality of life in Boston&rsquo;s neighborhoods by providing public information, education, and enforcement."
   ],
-  "selected_performance_strategies":[
-    {
-      "program":"ISD Administration and Finance",
-      "debug":"JCO",
-      "strategies":[
-        "Ensure compliance w. City's foreclosed/vacant bldg ord",
-        "Manage the department's legal case load",
-        "To hear Zoning Board of Appeal cases in a timely manner",
-        "To improve responsiveness to constituent requests"
-      ]
-    },
-    {
-      "program":"Buildings and Structures",
-      "debug":"JCO",
-      "strategies":[
-        "To ensure the safety of buildings by tracking their compliance with codes by means of scheduled inspections"
-      ]
-    },
-    {
-      "program":"Field Services",
-      "debug":"JCO",
-      "strategies":[
-        "Prevent housing emergencies and violations",
-        "Reduce risk of foodborne illness or disease",
-        "Respond to cleanliness and environmental safety complaints",
-        "To ensure devices that vendors use to weigh and measure products are accurate",
-        "To respond to animal control issues and complaints"
-      ]
-    }
-  ],
   "operating_budget":{
-    "debug":"JPTR",
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
       "name":"Program Name",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     "data":[
       {
-        "name":"Commissioner's Office",
+        "name":"ISD Commissioner's Office",
         "line_type":"data",
-        "fy-2":802695,
-        "fy-1":1109917,
-        "fy-0":990718,
-        "fy+1":1225752,
+        "fy-2":1109917,
+        "fy-1":1031777,
+        "fy-0":1237438,
+        "fy+1":1193278,
         "publish_subordinates":true
       },
       {
-        "name":"Administration and Finance",
+        "name":"ISD Administration & Finance",
         "line_type":"data",
-        "fy-2":3552570,
-        "fy-1":3399462,
-        "fy-0":3598182,
-        "fy+1":3487909,
+        "fy-2":3399462,
+        "fy-1":3350344,
+        "fy-0":3551250,
+        "fy+1":3222569,
         "publish_subordinates":true
       },
       {
-        "name":"Buildings and Structures",
+        "name":"Buildings & Structures",
         "line_type":"data",
-        "fy-2":6038443,
-        "fy-1":6360690,
-        "fy-0":6370123,
-        "fy+1":6171154,
+        "fy-2":6360690,
+        "fy-1":6083262,
+        "fy-0":6674770,
+        "fy+1":7053767,
         "publish_subordinates":true
       },
       {
-        "name":"Field Services",
+        "name":"Housing Inspections",
         "line_type":"data",
-        "fy-2":6307644,
-        "fy-1":7362854,
-        "fy-0":7853667,
-        "fy+1":7628714,
+        "fy-2":7362854,
+        "fy-1":8089868,
+        "fy-0":7919023,
+        "fy+1":7949839,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":16701352,
-        "fy-1":18232923,
-        "fy-0":18812690,
-        "fy+1":18513529
+        "fy-2":18232923,
+        "fy-1":18555251,
+        "fy-0":19382481,
+        "fy+1":19419453
       }
     ]
   },
   "external_funds_budget":{
-    "debug":"JPTR",
     "table_type":"External Funds",
     "table_title":"External Funds Budget",
     "table_header":{
       "name":"Fund Name",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     "data":[
       {
         "name":"Animal Control Fund",
         "line_type":"data",
-        "fy-2":196807,
-        "fy-1":331604,
-        "fy-0":278461,
+        "fy-2":320812,
+        "fy-1":288499,
+        "fy-0":300000,
         "fy+1":300000,
         "publish_subordinates":true
       },
       {
         "name":"Foreclosure Fund",
         "line_type":"data",
-        "fy-2":169660,
-        "fy-1":154485,
-        "fy-0":72312,
-        "fy+1":15700,
+        "fy-2":154485,
+        "fy-1":70622,
+        "fy-0":15700,
+        "fy+1":15138,
         "publish_subordinates":true
       },
       {
         "name":"Weights & Measures",
         "line_type":"data",
-        "fy-2":78439,
-        "fy-1":109869,
-        "fy-0":22551,
-        "fy+1":89182,
+        "fy-2":109869,
+        "fy-1":41946,
+        "fy-0":89182,
+        "fy+1":21200,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":444906,
-        "fy-1":595958,
-        "fy-0":373324,
-        "fy+1":404882
+        "fy-2":585166,
+        "fy-1":401067,
+        "fy-0":404882,
+        "fy+1":336338
       }
     ]
   },
   "selected_service_indicators":[
     {
-      "debug":"JSSIT",
       "line_title":"Operating Budget",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":14053246,
-      "fy-1":15425147,
-      "fy-0":16099047,
-      "fy+1":15854970
+      "fy-2":15425147,
+      "fy-1":15444974,
+      "fy-0":16655152,
+      "fy+1":16838193
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":2648106,
-      "fy-1":2807776,
-      "fy-0":2713643,
-      "fy+1":2658559
+      "fy-2":2807776,
+      "fy-1":3110277,
+      "fy-0":2727329,
+      "fy+1":2581260
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":16701352,
-      "fy-1":18232923,
-      "fy-0":18812690,
-      "fy+1":18513529
+      "fy-2":18232923,
+      "fy-1":18555251,
+      "fy-0":19382481,
+      "fy+1":19419453
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
   "authorizing_statutes":[
     "Establishment, CBC Ord. &sect;&sect; 9-9.1, 9-9.5-9-9.7.",
-    "Building and Structural Regulation; Swimming Pool; Elderly/Handicapped, State Building Code, 780 CMR; CBC St. 9 &sect; 207; CBC Ord. &sect; 9-9.10; CBC Ord. &sect;&sect; 9-9.11.1-9-9.11.6.",
+    "Building & Structural Regulation; Swimming Pool; Elderly/Handicapped, State Building Code, 780 CMR; CBC St. 9 &sect; 207; CBC Ord. &sect; 9-9.10; CBC Ord. &sect;&sect; 9-9.11.1-9-9.11.6.",
     "Housing Inspection, CBC Ord. 9, s. 1-2; State Sanitary Code, 5 CMR 400-419; Ord. 1984, c. 26, 39.",
     "Health Inspection, State Sanitary Code, 5 CMR 590-595.",
-    "Weights and Measures; Transient Vendors and Hawkers; Inspection and Sale of Food, Drugs, Various Articles, 1817 Mass. Acts ch. 50, &sect;&sect; 1-6; CBC St.9 &sect; 10; CBC Ord. &sect; 9-2.1; M.G.L.A. cc. 6, 94, 101; M.G.L.A. c. 98, &sect; 56.",
+    "Weights & Measures; Transient Vendors & Hawkers; Inspection & Sale of Food, Drugs, Various Articles, 1817 Mass. Acts ch. 50, &sect;&sect; 1-6; CBC St.9 &sect; 10; CBC Ord. &sect; 9-2.1; M.G.L.A. cc. 6, 94, 101; M.G.L.A. c. 98, &sect; 56.",
     "Rodent Control, State Sanitary Code, 105 CMR 550.",
     "Board of Appeals, CBC St. 9 &sect;&sect; 150-152; CBC Ord. &sect;&sect; 9-4.1-9-4.2, 9-9.5.",
     "Board of Examiners, CBC St.9 &sect;&sect; 150-152; CBC Ord. &sect;&sect; 9-8.1-9-8.2, 9-9.5.",
-    "Animal Control/Dog Registration and Licensing, M.G.L.A. c. 140, &sect;&sect; 137, 141, 151a; CBC Ord. &sect;&sect; 7-9.1-7-9.3; CBC Ord. &sect;&sect; 16-1.9-16-1.9E(15), 16-1.10-16-1.10A."
+    "Animal Control/Dog Registration & Licensing, M.G.L.A. c. 140, &sect;&sect; 137, 141, 151a; CBC Ord. &sect;&sect; 7-9.1-7-9.3; CBC Ord. &sect;&sect; 16-1.9-16-1.9E(15), 16-1.10-16-1.10A."
   ],
   "department_history_by_account":{
     "table_title":"Department History by Account",
     "table_header":{
       "line_type":"title",
       "category":"Category",
-      "fy-2":"FY15 Expenditure",
-      "fy-1":"FY16 Expenditure",
-      "fy-0":"FY17 Appropriation",
-      "fy+1":"FY18 Recommended",
-      "diff":"Inc/Dec 17 vs 18"
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
     },
     "data":[
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":14053246,
-        "fy-1":15425147,
-        "fy-0":16099047,
-        "fy+1":15854970,
-        "diff":-244077
+        "fy-2":15425147,
+        "fy-1":15444974,
+        "fy-0":16655152,
+        "fy+1":16838193,
+        "diff":183041
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":1458399,
-        "fy-1":1585214,
-        "fy-0":1538235,
-        "fy+1":1490746,
-        "diff":-47489
+        "fy-2":1585214,
+        "fy-1":1951018,
+        "fy-0":1520516,
+        "fy+1":1491818,
+        "diff":-28698
       },
       {
-        "line_title":"Supplies and Materials",
+        "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":152054,
-        "fy-1":243058,
-        "fy-0":248602,
-        "fy+1":241970,
-        "diff":-6632
+        "fy-2":243058,
+        "fy-1":238806,
+        "fy-0":280970,
+        "fy+1":237501,
+        "diff":-43469
       },
       {
-        "line_title":"Current Chgs and Oblig",
+        "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":902323,
-        "fy-1":824451,
-        "fy-0":800035,
-        "fy+1":841940,
-        "diff":41905
+        "fy-2":824451,
+        "fy-1":799758,
+        "fy-0":841940,
+        "fy+1":770504,
+        "diff":-71436
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":135330,
-        "fy-1":155053,
-        "fy-0":126771,
-        "fy+1":83903,
-        "diff":-42868
+        "fy-2":155053,
+        "fy-1":120695,
+        "fy-0":83903,
+        "fy+1":81437,
+        "diff":-2466
       },
       {
         "line_title":"Other",
@@ -274,36 +243,36 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":16701352,
-        "fy-1":18232923,
-        "fy-0":18812690,
-        "fy+1":18513529,
-        "diff":-299161
+        "fy-2":18232923,
+        "fy-1":18555251,
+        "fy-0":19382481,
+        "fy+1":19419453,
+        "diff":36972
       }
     ]
   },
   "external_funds":[
     {
-      "debug":"JEFP",
       "project":"Animal Control Fund",
       "project_mission":[
         "The Animal Control Fund authorized by (Chapter 44, Section 53E 1/2) generates monies derived from dog licenses and animal violations. The revolving fund is used to defer and supplement the costs of the animal control program such as veterinary care, animal food, spay and neuter services, and public service television programming."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"Foreclosure Fund",
       "project_mission":[
         "The Foreclosure Fund was created in 2008 in compliance with the M.G.L. c.59, s57D, M.G.L. c,,156D, s5.02 and the 950CMR 113,20 requirement to register vacant or foreclosed properties. The fund allows Inspectional Services to charge an annual $100 fee for the registration of each foreclosed property. Monies collected are to be used to offset costs to track and secure foreclosed properties."
       ]
     },
     {
-      "debug":"JEFP",
       "project":"Weights and Measures Enforcement Fund",
       "project_mission":[
         "The fund was created in 1998 in order to be in compliance with MGL c. 98 s. 29A, which was amended in 1998 to allow local weights and measures departments to issue civil citations (fines). The amended law specifically required that the revenue collected from said fines be retained and expended only for the purposes of enforcing &ldquo;item pricing&rdquo; and weights and measures laws."
       ]
     }
+  ],
+  "fy_major_initiatives":[
+    "\tA study will begin in FY19 to develop a building program and provide site options for a new animal shelter."
   ]
 }
 ---

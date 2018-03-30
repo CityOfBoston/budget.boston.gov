@@ -3,8 +3,8 @@
   "cabinet":"Non-Mayoral Departments",
   "debug":"JBDCP",
   "department":"City Council",
-  "file_version":"0.10",
-  "head_name":"Michelle Wu",
+  "file_version":"",
+  "head_name":"Andrea Campbell",
   "head_title":"Council President",
   "name":"City Council",
   "parent":"Non-Mayoral Departments",
@@ -13,22 +13,14 @@
   "section_type":"capital_budget",
   "section_type_short":"L",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_cp_depts~city-council.json",
+  "source_time":"20180327183737",
+  "source_year":"19",
   "mission":[
-    "As the Legislative body of the City, the City Council serves as a link between the citizens of Boston and their municipal government. Through the filing of legislation, the enactment of orders, ordinances and resolutions, the Council actively represents"
+    "As the Legislative body of the City, the City Council serves as a link between the citizens of Boston and their municipal government. Through the filing of legislation, the enactment of orders, ordinances and resolutions, the Council actively represents the diverse interests of Bostonians while ensuring the efficient and cost effective delivery of services. The Council fulfills its obligation as the appropriating authority by analyzing appropriations and loan orders."
   ],
   "description_of_services":[
     "Members draft and file legislation on a wide range of public affairs in Boston designed to improve the quality of life for its citizens. Each year the Council conducts an extensive series of public hearings to review the Mayor's appropriation request for the subsequent fiscal year. After a thorough analysis and determination that the request is fiscally sound, the Council approves an appropriation. Constituent needs are served as directed by each individual councilor."
-  ],
-  "selected_performance_strategies":[
-    {
-      "program":"City Councilors",
-      "strategies":[
-        "To ensure the sustainable and efficient delivery of city services for Boston residents.",
-        "To maximize opportunities for citizen input into the Council's legislative process.",
-        "To review, create and/or strengthen policies and laws that address the current and future needs of Boston residents, businesses and organizations."
-      ]
-    }
   ]
 }
 ---

@@ -2,13 +2,15 @@
 {
   "debug":"JBD",
   "publish_subordinates":true,
-  "file_version":"0.10",
+  "file_version":"",
   "section_id":67,
   "section_md5_id":"735B90B4568125ED6C3F678819B6E058",
   "section_type":"department",
   "section_type_short":"D",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Economic Development~boston-planning-and-development-agency.json",
+  "source_time":"20180327182424",
+  "source_year":"19",
   "name":"Boston Planning and Development Agency",
   "parent":"Economic Development",
   "cabinet":"Economic Development",
@@ -18,13 +20,14 @@
   "appropriation_code":"Appropriation 171",
   "mission":[
     "In partnership with communities, the BPDA plans Boston&rsquo;s future while respecting its past. We prepare our residents for new opportunities through training, human services and job creation. The BPDA guides physical, social, and economic change in Boston&rsquo;s neighborhoods and its downtown to shape a more prosperous, comfortable, and beautiful city for all.",
-    "",
+    Null,
     "*The Boston Planning and Development Agency's operating budget is not funded by the City&rsquo;s general fund but is included in the City&rsquo;s capital plan."
   ],
   "fy_major_initiatives":[
-    "\tAnalyze the transportation capacity and develop conceptual design and cost for future infrastructure improvements at Dorchester Avenue in South Boston.",
-    "\tAddress ongoing structural issues at Long Wharf related to flooding caused by high tides.",
-    "\tResurface Black Falcon Ave and Terminal Street, and replace sidewalks and streetlights."
+    "Complete resurfacing of Black Falcon Avenue and Terminal Street and replacing sidewalk and improve street lighting.",
+    "Complete analysis of the transportation capacity and develop conceptual design and cost for future infrastructure improvements at Dorchester Avenue in South Boston.",
+    "Complete addressing ongoing structural issues at Long Wharf related to flooding caused by high tides.",
+    "Begin construction of street lights and other improvements on Northern Ave."
   ]
 }
 ---

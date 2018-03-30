@@ -1,11 +1,13 @@
 ---
 {
-  "file_version":"0.10",
+  "file_version":"",
   "name":"Government Effectiveness",
   "section_type":"Capital Budget",
   "section_type_short":"L",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_categories~government-effectiveness.json",
+  "source_time":"20180327183826",
+  "source_year":"19",
   "description":[
     "Initiatives to maintain or enhance the efficiency of government operations."
   ],
@@ -26,23 +28,12 @@
         "name":"Project",
         "location":"Location",
         "status":"Status",
-        "fy-0":"FY18 Projected",
+        "fy-0":"FY19 Projected",
         "project_title":"Total"
       },
       "projects_data":[
         {
           "Boston Centers for Youth and Families":[
-            {
-              "line_type":"data",
-              "title":null,
-              "project_title":500000,
-              "fy-0":475000,
-              "category":"Government Effectiveness",
-              "name":"BCYF Mattahunt Community Center Exterior Lighting",
-              "location":"Mattapan",
-              "status":"In Design",
-              "operating_impact":"No"
-            },
             {
               "line_type":"data",
               "title":null,
@@ -58,7 +49,7 @@
               "line_type":"data",
               "title":null,
               "project_title":1000000,
-              "fy-0":400000,
+              "fy-0":0,
               "category":"Government Effectiveness",
               "name":"Youth Budget Round 2",
               "location":"Citywide",
@@ -69,7 +60,7 @@
               "line_type":"data",
               "title":null,
               "project_title":1000000,
-              "fy-0":300000,
+              "fy-0":400000,
               "category":"Government Effectiveness",
               "name":"Youth Budget Round 3",
               "location":"Citywide",
@@ -80,7 +71,7 @@
               "line_type":"data",
               "title":null,
               "project_title":1000000,
-              "fy-0":0,
+              "fy-0":200000,
               "category":"Government Effectiveness",
               "name":"Youth Budget Round 4",
               "location":"Citywide",
@@ -95,6 +86,17 @@
               "category":"Government Effectiveness",
               "name":"Youth Budget Round 5",
               "location":"Citywide",
+              "status":"To Be Scheduled",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1000000,
+              "fy-0":0,
+              "category":"Government Effectiveness",
+              "name":"Youth Budget Round 6",
+              "location":"Citywide",
               "status":"New Project",
               "operating_impact":"No"
             }
@@ -106,11 +108,26 @@
               "line_type":"data",
               "title":null,
               "project_title":2017500,
-              "fy-0":0,
+              "fy-0":150000,
               "category":"Government Effectiveness",
               "name":"Building Envelope Repairs at Various Stations",
               "location":"Citywide",
               "status":"In Design",
+              "operating_impact":"No"
+            }
+          ]
+        },
+        {
+          "Inspectional Services Department":[
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":100000,
+              "fy-0":100000,
+              "category":"Government Effectiveness",
+              "name":"Animal Shelter",
+              "location":"Roxbury",
+              "status":"New Project",
               "operating_impact":"No"
             }
           ]
@@ -135,11 +152,11 @@
             {
               "line_type":"data",
               "title":null,
-              "project_title":3500000,
-              "fy-0":500000,
+              "project_title":600000,
+              "fy-0":0,
               "category":"Government Effectiveness",
-              "name":"1010 Mass. Ave. Renovation",
-              "location":"Roxbury",
+              "name":"201 Rivermoor Generator",
+              "location":"West Roxbury",
               "status":"New Project",
               "operating_impact":"No"
             },
@@ -147,9 +164,9 @@
               "line_type":"data",
               "title":null,
               "project_title":28245558,
-              "fy-0":1700000,
+              "fy-0":5265000,
               "category":"Government Effectiveness",
-              "name":"26 Court Street Renovation",
+              "name":"26 Court Street",
               "location":"Financial District/Downtown",
               "status":"In Design",
               "operating_impact":"No"
@@ -157,41 +174,19 @@
             {
               "line_type":"data",
               "title":null,
-              "project_title":35150000,
-              "fy-0":3189000,
+              "project_title":60300000,
+              "fy-0":9000000,
               "category":"Government Effectiveness",
-              "name":"City Hall",
+              "name":"City Hall and City Hall Plaza",
               "location":"Government Center/Faneuil Hall",
-              "status":"New Project",
-              "operating_impact":"No"
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "project_title":100000,
-              "fy-0":5117,
-              "category":"Government Effectiveness",
-              "name":"City Hall ADA Restroom",
-              "location":"Government Center/Faneuil Hall",
-              "status":"In Design",
-              "operating_impact":"No"
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "project_title":25150000,
-              "fy-0":600000,
-              "category":"Government Effectiveness",
-              "name":"City Hall Plaza",
-              "location":"Government Center/Faneuil Hall",
-              "status":"New Project",
+              "status":"Ongoing Program",
               "operating_impact":"No"
             },
             {
               "line_type":"data",
               "title":null,
               "project_title":350500,
-              "fy-0":0,
+              "fy-0":60000,
               "category":"Government Effectiveness",
               "name":"Family Justice Center Elevator",
               "location":"Allston/Brighton",
@@ -202,21 +197,10 @@
               "line_type":"data",
               "title":null,
               "project_title":4655000,
-              "fy-0":2500000,
+              "fy-0":285000,
               "category":"Government Effectiveness",
               "name":"Faneuil Hall HVAC",
               "location":"Government Center/Faneuil Hall",
-              "status":"In Design",
-              "operating_impact":"No"
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "project_title":683000,
-              "fy-0":392958,
-              "category":"Government Effectiveness",
-              "name":"Veronica Smith Center Bathrooms and Flooring",
-              "location":"Allston/Brighton",
               "status":"In Construction",
               "operating_impact":"No"
             }
@@ -228,11 +212,11 @@
               "line_type":"data",
               "title":null,
               "project_title":500000,
-              "fy-0":200000,
+              "fy-0":122840,
               "category":"Government Effectiveness",
               "name":"BPHC Budget Software",
               "location":"Citywide",
-              "status":"New Project",
+              "status":"In Design",
               "operating_impact":"No"
             }
           ]
@@ -240,7 +224,7 @@
       ]
     }
   ],
-  "fy-0":10362075,
-  "total":106051558
+  "fy-0":15682840,
+  "total":102968558
 }
 ---

@@ -3,7 +3,7 @@
   "category":"Transportation",
   "category_desc":"Initiatives to support an accessible multimodal transportation system that gets Bostonians where they need to go reliably and safely.",
   "department":"Transportation Department",
-  "file_version":"0.10",
+  "file_version":"",
   "location":"Fenway/Kenmore",
   "managing_department":"Public Works Department",
   "mission":"Infrastructure improvements for Boylston Street and Audubon Circle. Develop a bicycle and pedestrian path connecting the Riverway with Fenway and Yawkey Stations.",
@@ -13,20 +13,21 @@
   "section_type":"projects",
   "section_type_short":"R",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_projects~transportation-department~fenway-longwood-kenmore-improvements.json",
+  "source_time":"20180327183816",
+  "source_year":"19",
   "status":"In Construction",
   "expenditures_detail":{
-    "debug":"JCP1",
     "table_title":"Expenditures (Actual and Planned)",
     "table_header":{
       "line_type":"header",
       "line_title":null,
       "line_data_type":"string",
       "source":"Source",
-      "past_spending":"Through 6/30/16",
-      "fy-1":"FY17 Budget",
-      "fy-0":"FY18 Budget",
-      "fy+1-4":"FY19-22 Budget",
+      "past_spending":"Through 6/30/17",
+      "fy-1":"FY18 Budget",
+      "fy-0":"FY19 Budget",
+      "fy+1-4":"FY20-23 Budget",
       "total":"Total"
     },
     "data":[
@@ -46,10 +47,10 @@
         "line_title":null,
         "line_date_type":"number",
         "source":"Grants/Other",
-        "past_spending":1489191,
-        "fy-1":2400000,
-        "fy-0":3500000,
-        "fy+1-4":598531,
+        "past_spending":3512648,
+        "fy-1":4000000,
+        "fy-0":475074,
+        "fy+1-4":0,
         "total":7987722
       },
       {
@@ -57,15 +58,14 @@
         "line_title":null,
         "line_date_type":"number",
         "source":"Totals",
-        "past_spending":1489191,
-        "fy-1":2400000,
-        "fy-0":3500000,
-        "fy+1-4":598531,
+        "past_spending":3512648,
+        "fy-1":4000000,
+        "fy-0":475074,
+        "fy+1-4":0,
         "total":7987722
       }
     ],
     "authorizations_table":{
-      "debug":"JCP2",
       "table_title":"Authorizations",
       "table_header":{
         "line_type":"header",
@@ -73,7 +73,7 @@
         "line_data_type":"string",
         "source":"Source",
         "existing":"Existing",
-        "fy-0":"FY18",
+        "fy-0":"FY19",
         "fy-0++":"Future",
         "other":"Non Capital Fund",
         "total":"Total"

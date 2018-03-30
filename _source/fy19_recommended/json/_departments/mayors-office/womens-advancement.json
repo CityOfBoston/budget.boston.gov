@@ -2,13 +2,15 @@
 {
   "debug":"JBD",
   "publish_subordinates":true,
-  "file_version":"0.10",
+  "file_version":"",
   "section_id":44,
   "section_md5_id":"F7177163C833DFF4B38FC8D2872F1EC6",
   "section_type":"department",
   "section_type_short":"D",
   "source_version":"Recommended",
-  "source_year":"18",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Mayor's Office~womens-advancement.json",
+  "source_time":"20180327183734",
+  "source_year":"19",
   "name":"Women's Advancement",
   "parent":"Mayor's Office",
   "cabinet":"Mayor's Office",
@@ -19,80 +21,69 @@
   "mission":[
     "The mission of the Mayor's Office of Women&rsquo;s Advancement is to advocate for equal opportunity for women in all arenas of our city. The Office provides educational opportunities for women that emphasize economic equality, child care, programs for young girls and the health and safety of all women."
   ],
-  "selected_performance_strategies":[
-    {
-      "program":"Women's Advancement",
-      "debug":"JCO",
-      "strategies":[
-        "Decrease the wage gap for women in Boston"
-      ]
-    }
-  ],
   "operating_budget":{
-    "debug":"JPTR",
     "table_type":"Operating Budget",
     "table_title":"Operating Budget",
     "table_header":{
       "name":"Program Name",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     "data":[
       {
-        "name":"Women's Advancement",
+        "name":"Women's Commission",
         "line_type":"data",
-        "fy-2":190982,
-        "fy-1":212106,
-        "fy-0":233615,
-        "fy+1":225519,
+        "fy-2":212106,
+        "fy-1":196333,
+        "fy-0":235519,
+        "fy+1":265035,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":190982,
-        "fy-1":212106,
-        "fy-0":233615,
-        "fy+1":225519
+        "fy-2":212106,
+        "fy-1":196333,
+        "fy-0":235519,
+        "fy+1":265035
       }
     ]
   },
   "selected_service_indicators":[
     {
-      "debug":"JSSIT",
       "line_title":"Operating Budget",
       "line_type":"title",
-      "fy-2":"FY15 Actual",
-      "fy-1":"FY16 Actual",
-      "fy-0":"FY17 Budget",
-      "fy+1":"FY18 Budget"
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
     },
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":190051,
-      "fy-1":209796,
-      "fy-0":230046,
-      "fy+1":222994
+      "fy-2":209796,
+      "fy-1":193635,
+      "fy-0":232994,
+      "fy+1":262510
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":931,
-      "fy-1":2310,
-      "fy-0":3569,
+      "fy-2":2310,
+      "fy-1":2698,
+      "fy-0":2525,
       "fy+1":2525
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":190982,
-      "fy-1":212106,
-      "fy-0":233615,
-      "fy+1":225519
+      "fy-2":212106,
+      "fy-1":196333,
+      "fy-0":235519,
+      "fy+1":265035
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
@@ -101,45 +92,45 @@
     "table_header":{
       "line_type":"title",
       "category":"Category",
-      "fy-2":"FY15 Expenditure",
-      "fy-1":"FY16 Expenditure",
-      "fy-0":"FY17 Appropriation",
-      "fy+1":"FY18 Recommended",
-      "diff":"Inc/Dec 17 vs 18"
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
     },
     "data":[
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":190051,
-        "fy-1":209796,
-        "fy-0":230046,
-        "fy+1":222994,
-        "diff":-7052
+        "fy-2":209796,
+        "fy-1":193635,
+        "fy-0":232994,
+        "fy+1":262510,
+        "diff":29516
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":895,
-        "fy-1":1048,
-        "fy-0":2469,
+        "fy-2":1048,
+        "fy-1":781,
+        "fy-0":1425,
         "fy+1":1425,
-        "diff":-1044
+        "diff":0
       },
       {
-        "line_title":"Supplies and Materials",
+        "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":36,
-        "fy-1":0,
+        "fy-2":0,
+        "fy-1":47,
         "fy-0":900,
         "fy+1":900,
         "diff":0
       },
       {
-        "line_title":"Current Chgs and Oblig",
+        "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":18,
+        "fy-2":18,
+        "fy-1":526,
         "fy-0":200,
         "fy+1":200,
         "diff":0
@@ -147,8 +138,8 @@
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":0,
-        "fy-1":1244,
+        "fy-2":1244,
+        "fy-1":1344,
         "fy-0":0,
         "fy+1":0,
         "diff":0
@@ -165,11 +156,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":190982,
-        "fy-1":212106,
-        "fy-0":233615,
-        "fy+1":225519,
-        "diff":-8096
+        "fy-2":212106,
+        "fy-1":196333,
+        "fy-0":235519,
+        "fy+1":265035,
+        "diff":29516
       }
     ]
   }
