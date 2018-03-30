@@ -42,8 +42,7 @@ collections:
             name: "breadcrumbs"
             widget: "object"
             fields:
-              - { label: "Title", name: "title", widget: "string" }
-              - { label: "Published", name: "published", widget: "string" }
+              - { label: "Published", name: "published", widget: "date" }
               - label: "Links"
                 label_singular: "link"
                 name: "links"
