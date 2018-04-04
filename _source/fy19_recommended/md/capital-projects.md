@@ -528,6 +528,27 @@ components:
         "Total":
            value: 71888712
            filter: delimiter
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
+           
       - "Department":
           name: Neighborhood Development
           link: /capital-projects/neighborhood-development
