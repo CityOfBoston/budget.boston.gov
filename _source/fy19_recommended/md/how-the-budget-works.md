@@ -14,7 +14,7 @@ components:
     short_desc: >
       <p>Preparing the City of Boston's budget takes over 6 months from start to finish, but 
       that doesn't mean you can't understand it in 2 minutes. Below, find a 
-      quick video overview of how Boston's budget works. If you want more detail, 
+      quick video overview of how Boston's budget works. For even more information, 
       read the text below the video.</p>
       <p><a class="button" href="https://www.boston.gov/public-notices?title=FY18+Budget&field_contact_target_id%5B%5D=441">Attend a budget hearing</a></p>
     description: >
@@ -47,30 +47,30 @@ components:
         "City Charter": 
           value: No requirement
           align: left
-        "FY18 timeline": 
-          value: 1/13/18
+        "FY19 timeline": 
+          value: Late Fall
           align: left
       - "Action required": School Superintendent's proposed budget to School Committee on or before 1st Wednesday in February.
         "City Charter": Ch. 613 Acts of 1987 
-        "FY18 timeline": 2/7/18
+        "FY19 timeline": 2/7/18
       - "Action required": Mayoral meetings with Departments to discuss funding, policy, and performance.
         "City Charter": No requirement
-        "FY18 timeline": January - March
+        "FY19 timeline": January - March
       - "Action required": School Committee action taken on budget on or before 4th Wednesday in March.
         "City Charter": Ch. 613 Acts of 1987
-        "FY18 timeline": 3/28/18
+        "FY19 timeline": 3/28/18
       - "Action required": Mayor's recommended budget and capital plan submitted to City Council on or before 2nd Wednesday in April.
         "City Charter": Ch. 190 Acts of 1982, as amended by Ch. 701 Acts of 1986, and by practice
-        "FY18 timeline": 4/11/18
+        "FY19 timeline": 4/11/18
       - "Action required": Public Hearings held prior to budget adoption.
         "City Charter": No requirement
-        "FY18 timeline": April - June
+        "FY19 timeline": April - June
       - "Action required": City Council action on  budget on or before 2nd Wednesday in June.
         "City Charter": Ch. 190 Acts of 1982, as amended by Ch. 701 Acts of 1986 
-        "FY18 timeline": 6/13/18
+        "FY19 timeline": 6/13/18
       - "Action required": Mayor's approval of FY18 budget adopted by City Council on or before July 1, 2017.
         "City Charter": No requirement
-        "FY18 timeline": 6/27/18 (Last regularly scheduled Council meeting before FY18)
+        "FY19 timeline": 6/27/18 (Last regularly scheduled Council meeting before FY18)
 - text_block:
   - title: Budget Presentation (Budget Website and PDFs of Budget Books)
     body: >
