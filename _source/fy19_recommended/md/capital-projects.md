@@ -109,16 +109,16 @@ components:
       - "Category":
           name: Arts and Culture
           link: /capital-projects/arts-and-culture
-        "Through 6/30/16":
+        "Through 6/30/17":
            value: 4294414
            filter: delimiter
-        "FY17 Budget":
+        "FY18 Budget":
            value: 5847277
            filter: delimiter
-        "FY18 Budget":
+        "FY19 Budget":
            value: 17903292
            filter: delimiter
-        "FY19-22 Budget":
+        "FY20-23 Budget":
            value: 111516539
            filter: delimiter
         "Non-Capital Fund":
@@ -130,16 +130,16 @@ components:
       - "Category":
           name: Economy
           link: /capital-projects/economy
-        "Through 6/30/16":
+        "Through 6/30/17":
            value: 518450
            filter: delimiter
-        "FY17 Budget":
+        "FY18 Budget":
            value: 403733
            filter: delimiter
-        "FY18 Budget":
+        "FY19 Budget":
            value: 3970000
            filter: delimiter
-        "FY19-22 Budget":
+        "FY20-23 Budget":
            value: 10327817
            filter: delimiter
         "Non-Capital Fund":
@@ -151,16 +151,16 @@ components:
       - "Category":
           name: Education
           link: /capital-projects/education
-        "Through 6/30/16":
+        "Through 6/30/17":
            value: 22771793
            filter: delimiter
-        "FY17 Budget":
+        "FY18 Budget":
            value: 50989196
            filter: delimiter
-        "FY18 Budget":
+        "FY19 Budget":
            value: 110104985
            filter: delimiter
-        "FY19-22 Budget":
+        "FY20-23 Budget":
            value: 415505293
            filter: delimiter
         "Non-Capital Fund":
@@ -172,16 +172,16 @@ components:
       - "Category":
           name: Energy and Environment
           link: /capital-projects/energy-and-environment
-        "Through 6/30/16":
+        "Through 6/30/17":
            value: 22357384
            filter: delimiter
-        "FY17 Budget":
+        "FY18 Budget":
            value: 2624386
            filter: delimiter
-        "FY18 Budget":
+        "FY19 Budget":
            value: 2773600
            filter: delimiter
-        "FY19-22 Budget":
+        "FY20-23 Budget":
            value: 14704368
            filter: delimiter
         "Non-Capital Fund":
@@ -193,16 +193,16 @@ components:
       - "Category":
           name: Government Effectiveness
           link: /capital-projects/government-effectiveness
-        "Through 6/30/16":
+        "Through 6/30/17":
            value: 1949730
            filter: delimiter
-        "FY17 Budget":
+        "FY18 Budget":
            value: 2313328
            filter: delimiter
-        "FY18 Budget":
+        "FY19 Budget":
            value: 10362075
            filter: delimiter
-        "FY19-22 Budget":
+        "FY20-23 Budget":
            value: 91426425
            filter: delimiter
         "Non-Capital Fund":
@@ -214,16 +214,16 @@ components:
       - "Category":
           name: Health
           link: /capital-projects/health
-        "Through 6/30/16":
+        "Through 6/30/17":
            value: 4706130
            filter: delimiter
-        "FY17 Budget":
+        "FY18 Budget":
            value: 10144742
            filter: delimiter
-        "FY18 Budget":
+        "FY19 Budget":
            value: 9727365
            filter: delimiter
-        "FY19-22 Budget":
+        "FY20-23 Budget":
            value: 26806438
            filter: delimiter
         "Non-Capital Fund":
@@ -235,16 +235,16 @@ components:
       - "Category":
           name: Housing
           link: /capital-projects/housing
-        "Through 6/30/16":
-           value: 0
-           filter: delimiter
-        "FY17 Budget":
+        "Through 6/30/17":
            value: 0
            filter: delimiter
         "FY18 Budget":
+           value: 0
+           filter: delimiter
+        "FY19 Budget":
            value: 2046998
            filter: delimiter
-        "FY19-22 Budget":
+        "FYFY20-23 Budget":
            value: 3350000
            filter: delimiter
         "Non-Capital Fund":
@@ -256,16 +256,16 @@ components:
       - "Category":
           name: Open Space
           link: /capital-projects/open-space
-        "Through 6/30/16":
+        "Through 6/30/17":
            value: 20446829
            filter: delimiter
-        "FY17 Budget":
+        "FY18 Budget":
            value: 9845566
            filter: delimiter
-        "FY18 Budget":
+        "FY19 Budget":
            value: 31285933
            filter: delimiter
-        "FY19-22 Budget":
+        "FY20-23 Budget":
            value: 59194339
            filter: delimiter
         "Non-Capital Fund":
@@ -277,16 +277,16 @@ components:
       - "Category":
           name: Public Safety
           link: /capital-projects/public-safety
-        "Through 6/30/16":
+        "Through 6/30/17":
            value: 5232171
            filter: delimiter
-        "FY17 Budget":
+        "FY18 Budget":
            value: 13457859
            filter: delimiter
-        "FY18 Budget":
+        "FY19 Budget":
            value: 28555150
            filter: delimiter
-        "FY19-22 Budget":
+        "FY20-23 Budget":
            value: 102289176
            filter: delimiter
         "Non-Capital Fund":
@@ -298,16 +298,16 @@ components:
       - "Category":
           name: Technology
           link: /capital-projects/technology
-        "Through 6/30/16":
+        "Through 6/30/17":
            value: 26580483
            filter: delimiter
-        "FY17 Budget":
+        "FY18 Budget":
            value: 9267124
            filter: delimiter
-        "FY18 Budget":
+        "FY19 Budget":
            value: 23306812
            filter: delimiter
-        "FY19-22 Budget":
+        "FY20-23 Budget":
            value: 47953999
            filter: delimiter
         "Non-Capital Fund":
@@ -319,16 +319,16 @@ components:
       - "Category":
          name: Transportation
          link: /capital-projects/transportation
-        "Through 6/30/16":
+        "Through 6/30/17":
            value: 73238777
            filter: delimiter
-        "FY17 Budget":
+        "FY18 Budget":
            value: 45154408
            filter: delimiter
-        "FY18 Budget":
+        "FY19 Budget":
            value: 60564494
            filter: delimiter
-        "FY19-22 Budget":
+        "FY20-23 Budget":
            value: 200933670
            filter: delimiter
         "Non-Capital Fund":
@@ -339,16 +339,16 @@ components:
            filter: delimiter
       - "Category": <b>Totals</b>
         "total": true
-        "Through 6/30/16":
+        "Through 6/30/17":
            value: 182096161
            filter: delimiter
-        "FY17 Budget":
+        "FY18 Budget":
            value: 150047619
            filter: delimiter
-        "FY18 Budget":
+        "FY19 Budget":
            value: 300600004
            filter: delimiter
-        "FY19-22 Budget":
+        "FY20-23 Budget":
            value: 1084008064
            filter: delimiter
         "Non-Capital Fund":
@@ -363,16 +363,16 @@ components:
       - "Department":
           name: Boston Centers for Youth and Families
           link: /capital-projects/boston-centers-for-youth-and-families
-        "Through 6/30/16":
+        "Through 6/30/17":
            value: 5474929
            filter: delimiter
-        "FY17 Budget":
+        "FY18 Budget":
            value: 10603232
            filter: delimiter
-        "FY18 Budget":
+        "FY19 Budget":
            value: 10483248
            filter: delimiter
-        "FY19-22 Budget":
+        "FY20-23 Budget":
            value: 29094266
            filter: delimiter
         "Non-Capital Fund":
@@ -384,16 +384,16 @@ components:
       - "Department":
           name: Boston Planning and Development Agency
           link: /capital-projects/boston-planning-and-development-agency
-        "Through 6/30/16":
+        "Through 6/30/17":
            value: 0
            filter: delimiter
-        "FY17 Budget":
+        "FY18 Budget":
            value: 50000
            filter: delimiter
-        "FY18 Budget":
+        "FY19 Budget":
            value: 1500000
            filter: delimiter
-        "FY19-22 Budget":
+        "FY20-23 Budget":
            value: 1050000
            filter: delimiter
         "Non-Capital Fund":
@@ -405,16 +405,16 @@ components:
       - "Department":
           name: Boston Public Library
           link: /capital-projects/boston-public-library
-        "Through 6/30/16":
+        "Through 6/30/17":
            value: 4276282
            filter: delimiter
-        "FY17 Budget":
+        "FY18 Budget":
            value: 5568827
            filter: delimiter
-        "FY18 Budget":
+        "FY19 Budget":
            value: 13768352
            filter: delimiter
-        "FY19-22 Budget":
+        "FY20-23 Budget":
            value: 102189539
            filter: delimiter
         "Non-Capital Fund":
@@ -426,16 +426,16 @@ components:
       - "Department":
           name: Boston Public Schools
           link: /capital-projects/boston-public-schools
-        "Through 6/30/16":
+        "Through 6/30/17":
            value: 22771793
            filter: delimiter
-        "FY17 Budget":
+        "FY18 Budget":
            value: 50989196
            filter: delimiter
-        "FY18 Budget":
+        "FY19 Budget":
            value: 110104285
            filter: delimiter
-        "FY19-22 Budget":
+        "FY20-23 Budget":
            value: 415505293
            filter: delimiter
         "Non-Capital Fund":
@@ -447,16 +447,16 @@ components:
       - "Department":
           name: Department of Innovation and Technology
           link: /capital-projects/department-of-innovation-and-technology
-        "Through 6/30/16":
+        "Through 6/30/17":
            value: 26331883
            filter: delimiter
-        "FY17 Budget":
+        "FY18 Budget":
            value: 8539817
            filter: delimiter
-        "FY18 Budget":
+        "FY19 Budget":
            value: 19056812
            filter: delimiter
-        "FY19-22 Budget":
+        "FY20-23 Budget":
            value: 37953999
            filter: delimiter
         "Non-Capital Fund":
@@ -468,16 +468,16 @@ components:
       - "Department":
           name: Emergency Management
           link: /capital-projects/emergency-management
-        "Through 6/30/16":
+        "Through 6/30/17":
            value: 0
            filter: delimiter
-        "FY17 Budget":
+        "FY18 Budget":
            value: 25000
            filter: delimiter
-        "FY18 Budget":
+        "FY19 Budget":
            value: 50000
            filter: delimiter
-        "FY19-22 Budget":
+        "FY20-23 Budget":
            value: 1425000
            filter: delimiter
         "Non-Capital Fund":
@@ -489,16 +489,16 @@ components:
       - "Department":
           name: Environment Department
           link: /capital-projects/environment-department
-        "Through 6/30/16":
+        "Through 6/30/17":
            value: 0
            filter: delimiter
-        "FY17 Budget":
+        "FY18 Budget":
            value: 38400
            filter: delimiter
-        "FY18 Budget":
+        "FY19 Budget":
            value: 1673100
            filter: delimiter
-        "FY19-22 Budget":
+        "FY20-23 Budget":
            value: 9686500
            filter: delimiter
         "Non-Capital Fund":
@@ -510,16 +510,16 @@ components:
       - "Department":
           name: Fire Department
           link: /capital-projects/fire-department
-        "Through 6/30/16":
+        "Through 6/30/17":
            value: 1204474
            filter: delimiter
-        "FY17 Budget":
+        "FY18 Budget":
            value: 1133109
            filter: delimiter
-        "FY18 Budget":
+        "FY19 Budget":
            value: 10120290
            filter: delimiter
-        "FY19-22 Budget":
+        "FY20-23 Budget":
            value: 59430839
            filter: delimiter
         "Non-Capital Fund":
@@ -531,16 +531,16 @@ components:
       - "Department":
           name: Neighborhood Development
           link: /capital-projects/neighborhood-development
-        "Through 6/30/16":
+        "Through 6/30/17":
            value: 18132
            filter: delimiter
-        "FY17 Budget":
+        "FY18 Budget":
            value: 568650
            filter: delimiter
-        "FY18 Budget":
+        "FY19 Budget":
            value: 2334940
            filter: delimiter
-        "FY19-22 Budget":
+        "FY20-23 Budget":
            value: 462000
            filter: delimiter
         "Non-Capital Fund":
@@ -552,16 +552,16 @@ components:
       - "Department":
           name: Office of Arts and Culture
           link: /capital-projects/office-of-arts-and-culture
-        "Through 6/30/16":
-           value: 0
-           filter: delimiter
-        "FY17 Budget":
+        "Through 6/30/17":
            value: 0
            filter: delimiter
         "FY18 Budget":
+           value: 0
+           filter: delimiter
+        "FY19 Budget":
            value: 1700000
            filter: delimiter
-        "FY19-22 Budget":
+        "FY20-23 Budget":
            value: 7600000
            filter: delimiter
         "Non-Capital Fund":
@@ -573,16 +573,16 @@ components:
       - "Department":
           name: Office of New Urban Mechanics
           link: /capital-projects/office-of-new-urban-mechanics
-        "Through 6/30/16":
+        "Through 6/30/17":
            value: 0
-           filter: delimiter
-        "FY17 Budget":
-           value: 100000
            filter: delimiter
         "FY18 Budget":
            value: 100000
            filter: delimiter
-        "FY19-22 Budget":
+        "FY19 Budget":
+           value: 100000
+           filter: delimiter
+        "FY20-23 Budget":
            value: 0
            filter: delimiter
         "Non-Capital Fund":
@@ -594,16 +594,16 @@ components:
       - "Department":
           name: Parks and Recreation Department
           link: /capital-projects/parks-and-recreation-department
-        "Through 6/30/16":
+        "Through 6/30/17":
            value: 20446829
            filter: delimiter
-        "FY17 Budget":
+        "FY18 Budget":
            value: 9845566
            filter: delimiter
-        "FY18 Budget":
+        "FY19 Budget":
            value: 31285933
            filter: delimiter
-        "FY19-22 Budget":
+        "FY20-23 Budget":
            value: 58924339
            filter: delimiter
         "Non-Capital Fund":
@@ -615,16 +615,16 @@ components:
       - "Department":
           name: Police Department
           link: /capital-projects/police-department
-        "Through 6/30/16":
+        "Through 6/30/17":
            value: 5225050
            filter: delimiter
-        "FY17 Budget":
+        "FY18 Budget":
            value: 12910536
            filter: delimiter
-        "FY18 Budget":
+        "FY19 Budget":
            value: 18684860
            filter: delimiter
-        "FY19-22 Budget":
+        "FY20-23 Budget":
            value: 44553554
            filter: delimiter
         "Non-Capital Fund":
@@ -636,16 +636,16 @@ components:
       - "Department":
           name: Property Management Department
           link: /capital-projects/property-management-department
-        "Through 6/30/16":
+        "Through 6/30/17":
            value: 1163397
            filter: delimiter
-        "FY17 Budget":
+        "FY18 Budget":
            value: 1719838
            filter: delimiter
-        "FY18 Budget":
+        "FY19 Budget":
            value: 9387575
            filter: delimiter
-        "FY19-22 Budget":
+        "FY20-23 Budget":
            value: 89358248
            filter: delimiter
         "Non-Capital Fund":
@@ -657,16 +657,16 @@ components:
       - "Department":
           name: Public Health Commission
           link: /capital-projects/public-health-commission
-        "Through 6/30/16":
+        "Through 6/30/17":
            value: 17534
            filter: delimiter
-        "FY17 Budget":
+        "FY18 Budget":
            value: 120000
            filter: delimiter
-        "FY18 Budget":
+        "FY19 Budget":
            value: 1016115
            filter: delimiter
-        "FY19-22 Budget":
+        "FY20-23 Budget":
            value: 1972349
            filter: delimiter
         "Non-Capital Fund":
@@ -678,16 +678,16 @@ components:
       - "Department":
           name: Public Works Department
           link: /capital-projects/public-works-department
-        "Through 6/30/16":
+        "Through 6/30/17":
            value: 86500166
            filter: delimiter
-        "FY17 Budget":
+        "FY18 Budget":
            value: 35533695
            filter: delimiter
-        "FY18 Budget":
+        "FY19 Budget":
            value: 47976783
            filter: delimiter
-        "FY19-22 Budget":
+        "FY20-23 Budget":
            value: 183878502
            filter: delimiter
         "Non-Capital Fund":
@@ -699,16 +699,16 @@ components:
       - "Department":
           name: Transportation Department
           link: /capital-projects/transportation-department
-        "Through 6/30/16":
+        "Through 6/30/17":
            value: 8665692
            filter: delimiter
-        "FY17 Budget":
+        "FY18 Budget":
            value: 12301753
            filter: delimiter
-        "FY18 Budget":
+        "FY19 Budget":
            value: 21357711
            filter: delimiter
-        "FY19-22 Budget":
+        "FY20-23 Budget":
            value: 40923636
            filter: delimiter
         "Non-Capital Fund":
@@ -719,16 +719,16 @@ components:
            filter: delimiter
       - "Department": <b>Totals</b>
         "total": true
-        "Through 6/30/16":
+        "Through 6/30/17":
            value: 182096161
            filter: delimiter
-        "FY17 Budget":
+        "FY18 Budget":
            value: 150047619
            filter: delimiter
-        "FY18 Budget":
+        "FY19 Budget":
            value: 300600004
            filter: delimiter
-        "FY19-22 Budget":
+        "FY20-23 Budget":
            value: 1084008064
            filter: delimiter
         "Non-Capital Fund":
