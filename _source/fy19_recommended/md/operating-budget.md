@@ -8,11 +8,11 @@ components:
     url: "/"
     local: true
   - current: Operating Budget
-  - published: 4/13/17
+  - published: 4/11/18
 - intro:
   - title: Operating Budget
     short_desc: >
-      The FY18 Recommended Operating Budget totals $3.14 billion and represents an increase of $144 million or 4.8% over FY17. The FY18 budget continues the City’s record of strong fiscal management. Expanding on savings initiatives launched during Mayor Walsh’s Administration to offset growth in fixed costs. The FY18 budget features data-driven investments in a thriving, healthy, and innovative city.
+      The FY19 Recommended Operating Budget totals $3.294 billion and represents an increase of $137 million or 4.3% over FY18. The FY19 budget continues the City’s record of strong fiscal management. Expanding on savings initiatives launched during Mayor Walsh’s Administration to offset growth in fixed costs. The FY19 budget features data-driven investments in a thriving, healthy, and innovative city.
     sidebar_menu: true
 - text_col_2: 
   - col: >
@@ -21,27 +21,27 @@ components:
       </p>
   - col: >
       <h5>Expenditures</h5>
-      On the expenditure side, the FY18 budget reflects an increase of $144 million or 4.8% over the FY17 budget. Of that growth, 40% is dedicated to education (including Boston Public Schools and Charter School Tuition Assessment), 38% will go to all other City Services (such as Police, Fire, and Public Works) and the Public Health Commission, and the remaining 22% of growth will be consumed by pension, debt service and other fixed cost expenditures.
+      On the expenditure side, the FY19 budget reflects an increase of $137 million or 4.3% over the FY18 budget. Of that growth, 27% is dedicated to education (including Boston Public Schools and Charter School Tuition Assessment), 38% will go to all other City Services (such as Police, Fire, and Public Works) and the Public Health Commission, and the remaining 22% of growth will be consumed by pension, debt service and other fixed cost expenditures.
     sidebar_menu: true
 - table:
   - title: Budget summary
     right_text: (dollars in millions)
     columns:
       - "Category": Total revenues
-        "FY15 Actual": 2,780.42
         "FY16 Actual": 2,883.01
-        "FY17 Budget": 2,996.09
-        "FY18 Budget": 3,139.79
+        "FY17 Actual": 2,996.81
+        "FY18 Budget": 3,157.62
+        "FY19 Budget": 3,294.58
       - "Category": Total expenditures
-        "FY15 Actual": 2,773.06
         "FY16 Actual": 2,881.09
-        "FY17 Budget": 2,996.09
-        "FY18 Budget": 3,139.79
+        "FY17 Actual": 2,990.13
+        "FY18 Budget": 3,157.62
+        "FY19 Budget": 3,294.58
       - "Category": Surplus (Deficit)
-        "FY15 Actual": 7.36
         "FY16 Actual": 1.92
-        "FY17 Budget": 0.00
+        "FY17 Actual": 6.69
         "FY18 Budget": 0.00
+        "FY19 Budget": 0.00
 - table:
   - title: Revenues
     right_text: (dollars in millions)
@@ -49,107 +49,107 @@ components:
     - "Source": 
         name: Property Tax
         link: /featured-analysis/property-tax/
-      "FY15 Actual": 1,875.15
       "FY16 Actual": 1,963.09
-      "FY17 Budget": 2,086.68
-      "FY18 Budget": 2,189.02
+      "FY17 Actual": 2,092.14
+      "FY18 Budget": 2,216.49
+      "FY19 Budget": 2,327.02
     - "Source": Property Tax Overlay
-      "FY15 Actual": (35.87)
       "FY16 Actual": (38.05)
-      "FY17 Budget": (38.74)
-      "FY18 Budget": (30.36)
+      "FY17 Actual": (38.74)
+      "FY18 Budget": (30.60)
+      "FY19 Budget": (23.04)
     - "Source": 
         name: Excises
         link: /featured-analysis/excise-taxes
-      "FY15 Actual": 192.62
       "FY16 Actual": 223.82
-      "FY17 Budget": 188.32
-      "FY18 Budget": 189.04
+      "FY17 Actual": 190.55
+      "FY18 Budget": 188.09
+      "FY19 Budget": 197.29
     - "Source": 
         name: Fines
         link: /featured-analysis/parking-fines
-      "FY15 Actual": 60.65
       "FY16 Actual": 61.05
-      "FY17 Budget": 59.71
+      "FY17 Actual": 63.25
       "FY18 Budget": 63.85
+      "FY19 Budget": 69.08
     - "Source": 
         name: Interest on Investments
         link: /featured-analysis/interest-on-investments
-      "FY15 Actual": 0.06
       "FY16 Actual": 0.18
-      "FY17 Budget": 0.20
+      "FY17 Actual": 2.33
       "FY18 Budget": 2.00
+      "FY19 Budget": 5.00
     - "Source": 
         name: Payments in Lieu of Taxes
         link: /featured-analysis/payments-in-lieu-of-taxes
-      "FY15 Actual": 49.41
       "FY16 Actual": 51.20
-      "FY17 Budget": 44.47
+      "FY17 Actual": 53.57
       "FY18 Budget": 45.00
+      "FY19 Budget": 46.02
     - "Source": 
         name: Urban Redev Ch. 121A
         link: /featured-analysis/urban-redevelopment-ch-121a
-      "FY15 Actual": 55.62
       "FY16 Actual": 48.11
-      "FY17 Budget": 31.50
-      "FY18 Budget": 31.50
+      "FY17 Actual": 47.51
+      "FY18 Budget": 33.50
+      "FY19 Budget": 27.50
     - "Source": 
         name: Department Revenue
         link: /featured-analysis/misc-dept-revenue
-      "FY15 Actual": 64.73
       "FY16 Actual": 63.09
-      "FY17 Budget": 55.70
-      "FY18 Budget": 65.37
+      "FY17 Actual": 66.37
+      "FY18 Budget": 60.70
+      "FY19 Budget": 62.03
     - "Source": 
         name: Licenses and Permits
         link: /featured-analysis/licenses-and-permits
-      "FY15 Actual": 72.54
       "FY16 Actual": 74.44
-      "FY17 Budget": 62.44
-      "FY18 Budget": 65.93
+      "FY17 Actual": 84.09
+      "FY18 Budget": 67.06
+      "FY19 Budget": 66.26
     - "Source": 
         name: Penalties and Interest
         link: /featured-analysis/penalties-and-interest
-      "FY15 Actual": 13.08
       "FY16 Actual": 14.48
-      "FY17 Budget": 8.51
-      "FY18 Budget": 14.46
+      "FY17 Actual": 10.81
+      "FY18 Budget": 7.51
+      "FY19 Budget": 9.01
     - "Source": 
         name: Available Funds
         link: /featured-analysis/available-funds
-      "FY15 Actual": 19.00
       "FY16 Actual": 0.00
-      "FY17 Budget": 23.45
+      "FY17 Actual": 0.00
       "FY18 Budget": 23.45
+      "FY19 Budget": 23.45
     - "Source": 
         name: State Aid
         link: /featured-analysis/state-aid
-      "FY15 Actual": 413.43
       "FY16 Actual": 421.58
-      "FY17 Budget": 429.85
-      "FY18 Budget": 440.54
+      "FY17 Actual": 424.93
+      "FY18 Budget": 440.58
+      "FY19 Budget": 444.97
     - "Source": Total recurring revenue
       "subtotal": true
-      "FY15 Actual": 2,780.42
       "FY16 Actual": 2,883.01
-      "FY17 Budget": 2,952.09
-      "FY18 Budget": 3,099.79
+      "FY17 Actual": 2,996.81
+      "FY18 Budget": 3,117.62
+      "FY19 Budget": 3,254.58
     - "Source": Budgetary fund balance
-      "FY15 Actual": 0.00
       "FY16 Actual": 0.00
-      "FY17 Budget": 40.00
+      "FY17 Actual": 0.00
       "FY18 Budget": 40.00
+      "FY19 Budget": 40.00
     - "Source": Surplus property fund
-      "FY15 Actual": 0.00
       "FY16 Actual": 0.00
-      "FY17 Budget": 4.00
+      "FY17 Actual": 0.00
       "FY18 Budget": 0.00
+      "FY19 Budget": 0.00
     - "Source": Total revenues
       "total": true
-      "FY15 Actual": 2,780.42
       "FY16 Actual": 2,883.01
-      "FY17 Budget": 2,996.09
-      "FY18 Budget": 3,139.79
+      "FY17 Actual": 2,996.81
+      "FY18 Budget": 2,157.62
+      "FY19 Budget": 3,294.58
 - table:
   - title: Expenditures
     right_text: (dollars in millions)
@@ -157,105 +157,105 @@ components:
     - "Expenditure":
         name: City Appropriations
         link: /operating-budget/cabinets
-      "FY15 Actual": 1,139.43
       "FY16 Actual": 1,158.96
-      "FY17 Budget": 1,207.23
-      "FY18 Budget": 1,239.23
+      "FY17 Actual": 1,200.51
+      "FY18 Budget": 1,261.34
+      "FY19 Budget": 1,298.74
     - "Expenditure":
         name: Public Health Commission
         link: /operating-budget/cabinets/health-and-human-services/public-health-commission
-      "FY15 Actual": 73.83
       "FY16 Actual": 76.16
-      "FY17 Budget": 77.27
-      "FY18 Budget": 79.08
+      "FY17 Actual": 77.27
+      "FY18 Budget": 79.51
+      "FY19 Budget": 84.88
     - "Expenditure":
         name: Boston Public Schools
         link: /operating-budget/cabinets/education/boston-public-schools
-      "FY15 Actual": 974.93
       "FY16 Actual": 1,016.28
-      "FY17 Budget": 1,031.68
-      "FY18 Budget": 1,060.93
+      "FY17 Actual": 1,031.63
+      "FY18 Budget": 1,092.19
+      "FY19 Budget": 1,108.74
     - "Expenditure":
         name: City Reserve for Collective Bargaining
         link: /operating-budget/reserves-for-collective-bargaining
-      "FY15 Actual": 10.79
       "FY16 Actual": 0.02
-      "FY17 Budget": 7.00
-      "FY18 Budget": 27.00
+      "FY17 Actual": 28.00
+      "FY18 Budget": 11.39
+      "FY19 Budget": 41.00
     - "Expenditure":
         name: BPS Reserve for Collective Bargaining
         link: /operating-budget/reserves-for-collective-bargaining
-      "FY15 Actual": 0.00
       "FY16 Actual": 0.00
-      "FY17 Budget": 9.00
-      "FY18 Budget": 20.00
+      "FY17 Actual": 0.00
+      "FY18 Budget": 0.00
+      "FY19 Budget": 0.00
     - "Expenditure":
         name: Other Post Employment Benefits
         link: /operating-budget/other-post-employment-benefits
-      "FY15 Actual": 40.00
       "FY16 Actual": 40.00
-      "FY17 Budget": 40.00
+      "FY17 Actual": 40.00
       "FY18 Budget": 40.00
+      "FY19 Budget": 40.00
     - "Expenditure": Total appropriations
       "subtotal": true
-      "FY15 Actual": 2,238.97
       "FY16 Actual": 2,291.41
-      "FY17 Budget": 2,372.18
-      "FY18 Budget": 2,466.24
+      "FY17 Actual": 2,377.41
+      "FY18 Budget": 2,484.43
+      "FY19 Budget": 2,573.36
     - "Expenditure":
         name: Pensions
         link: /operating-budget/pensions
-      "FY15 Actual": 169.62
       "FY16 Actual": 196.55
-      "FY17 Budget": 199.28
-      "FY18 Budget": 218.21
+      "FY17 Actual": 199.28
+      "FY18 Budget": 221.30
+      "FY19 Budget": 238.71
     - "Expenditure":
         name: Debt Service
         link: /operating-budget/debt-service
-      "FY15 Actual": 148.01
       "FY16 Actual": 157.69
-      "FY17 Budget": 174.95
-      "FY18 Budget": 185.58
+      "FY17 Actual": 165.31
+      "FY18 Budget": 183.57
+      "FY19 Budget": 191.28
     - "Expenditure":
         name: Charter School Tuition
         link: /operating-budget/charter-school-tuition
-      "FY15 Actual": 125.81
       "FY16 Actual": 142.79
-      "FY17 Budget": 156.83
-      "FY18 Budget": 174.37
+      "FY17 Actual": 151.82
+      "FY18 Budget": 173.78
+      "FY19 Budget": 194.24
     - "Expenditure":
         name: State Assessments
         link: /operating-budget/state-assessments
-      "FY15 Actual": 85.85
       "FY16 Actual": 87.79
-      "FY17 Budget": 88.97
-      "FY18 Budget": 90.52
+      "FY17 Actual": 88.63 
+      "FY18 Budget": 90.66 
+      "FY19 Budget": 93.11 
     - "Expenditure":
         name: Suffolk County Assessment
         link: /operating-budget/suffolk-county-assessment/
-      "FY15 Actual": 3.87
       "FY16 Actual": 3.87
-      "FY17 Budget": 3.87
+      "FY17 Actual": 3.87
       "FY18 Budget": 3.87
+      "FY19 Budget": 3.87
     - "Expenditure":
         name: Reserve
         link: /operating-budget/reserve
-      "FY15 Actual": 0.92
       "FY16 Actual": 0.99
-      "FY17 Budget": 0.00
-      "FY18 Budget": 1.00
+      "FY17 Actual": 3.81
+      "FY18 Budget": 0.00
+      "FY19 Budget": 0.00
     - "Expenditure": Total fixed costs
       "subtotal": true
-      "FY15 Actual": 534.08
       "FY16 Actual": 589.68
-      "FY17 Budget": 623.91
-      "FY18 Budget": 673.55
+      "FY17 Actual": 612.72
+      "FY18 Budget": 673.19
+      "FY19 Budget": 721.21
     - "Expenditure": Totals
       "total": true
-      "FY15 Actual": 2,773.06
       "FY16 Actual": 2,881.09
-      "FY17 Budget": 2,996.09
-      "FY18 Budget": 3,139.79
+      "FY17 Actual": 2,990.13
+      "FY18 Budget": 3,157.62
+      "FY19 Budget": 3,294.58
 - text_block:
   - title: Overview
 - text_col_2:
