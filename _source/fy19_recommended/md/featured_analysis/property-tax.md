@@ -26,10 +26,10 @@ components:
       source of revenue and is fundamental to the financial health 
       of the City. 
     description: >
-      In FY17 the net property tax levy (levy less a reserve for abatements) 
-      totals $2.048 billion, providing 69.6% of recurring revenue. In FY18, 
-      the net property tax levy is estimated to total $2.159 billion and 
-      accounts for 69.6% of budgeted recurring revenues.
+      In FY18 the net property tax levy (levy less a reserve for abatements) 
+      totals $2.186 billion, providing 70.1% of recurring revenue. In FY19, 
+      the net property tax levy is estimated to total $2.304 billion and 
+      accounts for 70.8% of budgeted recurring revenues.
     sidebar_menu: true    
 - text_block:
   - title: Effects of Proposition 2 &frac12;
