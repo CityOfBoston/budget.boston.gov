@@ -21,9 +21,9 @@ components:
 - intro:
   - title: Energy management
     short_desc: >
-      In FY18, department energy budgets total $49.1 million with 
-      electricity costs making up 53% of the budget, natural gas costs 
-      making up 26% of the budget and gasoline/diesel comprising 9% of 
+      In FY19, department energy budgets total $48.8 million with 
+      electricity costs making up 54% of the budget, natural gas costs 
+      making up 25% of the budget and gasoline/diesel comprising 8% of 
       the budget. The remaining 12% of the budget funds water and sewer, 
       steam, and heating oil.
     description: >
@@ -33,7 +33,7 @@ components:
 - text_col_2:
   - col: >
       <h5>Efficient Streetlights</h5>
-      <p>Since 2014, the City has performed 18,551 streetlight LED retrofits. The FY18 Budget reflects an avoidance of 33.6 mWh, or $5.8 million in energy costs, directly attributable to this work.</p>
+      <p>Over the past seven years, the City has achieved operational savings through the conversion of street lights to newer fixtures using Light Emitting Diode (“LED”) technology.</p>
       <h5>Renew Boston Trust</h5>
       <p>In FY18, the Walsh Administration plans to make energy efficiency 
       improvements to City buildings, under an initiative entitled “Renew Boston Trust”. This initiative aims to bundle municipal energy efficiency renovation projects and capture the resulting financial savings. The City plans to finance the program with general obligation bonds payable with the financial savings resulting from reduced energy consumption. <blockquote>The City expects to implement the program through contracts with energy service companies (ESCOs). The contracts will include performance guarantees to ensure the energy savings produced will sufficiently offset anticipated debt service costs.</blockquote></p>
