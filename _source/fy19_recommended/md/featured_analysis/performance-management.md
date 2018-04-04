@@ -22,7 +22,7 @@ components:
   - title: Performance management
     short_desc: >
       Boston’s Performance Management efforts, driven in partnership between the Citywide 
-      Analytics Team and the Budget Office, exist to ensure that the city delivers the most
+      Analytics Team and the Office of Budget Management, exist to ensure that the city delivers the most
       effective and efficient services possible.
     description: >
       We work with departments across the City to solve challenging problems, build a more 
@@ -55,20 +55,16 @@ components:
   - title: Accomplishments this year
 - text_col_3:
   - col: >
-      <h5>Continued Development of CityScore</h5>
-      <p>Launched in January of 2016, CityScore is designed to inform the Mayor, City managers, and the 
-      public about quality of life and the performance of City government by aggregating key performance 
-      metrics into one number. Over the course of the year, CityScore has improved the efficiency of core 
-      City services, including increased resources for emergency medical services.</p>
-      <p>Additionally, we developed a toolkit this year to make CityScore shareable so that any</p>
+      <h5>What Works Cities Certification</h5>
+      <p>Boston was one of nine U.S. cities awarded certification from Bloomberg Philanthropies’ What Works Cities program. The program recognizes our commitment to the use of data and analytics to improve residents’ quality of life.</p>
+      <p>Through What Works Cities, Boston will share insights with a community of peers, </p>
   - col: >
-      <p>government or organization can recognize the same benefits that we have here in Boston.</p>
-      <p><a class="button" href="https://github.com/CityOfBoston/CityScoreToolkit">View the toolkit</a></p>
-      <h5>EMS Ambulance Allocation</h5>
-      <p>We worked with Boston EMS to analyze how to best allocate resources in response to a growing call volume. Focusing on a subset of calls, incidents, and outcomes over multiple years, the analysis has prompted EMS to adjust the priority of calls to increase resource availability for higher-need medical incidents.</p>
+      <p>helping cities lead the way on big challenges ranging from equity to climate change.</p>
+         <h5>EMS Community Assistance Teams</h5>
+      <p>As part of our ongoing collaboration with Boston EMS, we assisted with the creation of a new Community Assistance Team to provide specialized care for residents dealing with issues such as substance abuse and homelessness.</p>
   - col: 
     - blurb: >
-        <p>We're also investigating how to increase ambulance response efficiency and levels of care for some of the City's most vulnerable residents.</p>
+        <p>Known as Squad 80, this team works in high-demand areas and can help connect patients with the long-term support and services they need.</p>
     - img: /img/pages/ems-responses.png
 - text_col_2:
   - col: 
@@ -76,12 +72,8 @@ components:
         <br>
     - img: /img/pages/311-office-performance.png
   - col: >
-      <h5>311 Call Center Improvements</h5>
-      <p>After noticing the 311 Call Center's CityScore was below 1, we worked with the team to build 
-      dashboards and reports to better highlight performance trends and more quickly identify issues. To 
-      supplement these tools, we also developed a broader performance improvement strategy that aims to 
-      improve call center efficiency and increase constituent satisfaction, with implementation beginning 
-      in early 2017.</p>
+      <h5>Imagine Boston 2030</h5>
+      <p>We designed a set of dashboards to visualize progress in implementing the City’s Imagine Boston 2030 plan. These visualizations use data to help illustrate where we stand on the goals set by the Imagine Boston 2030 plan, and will be updated annually. Going forward, the tool will help the public to understand long-term trends affecting quality of life in Boston, such as housing costs, economic opportunity, and public health and safety.</p>
 - text_block:
   - title: Delivering results
     body: >
@@ -89,21 +81,21 @@ components:
 - text_col_3:
   - col: >
       <ul>
-      <li>Additional resources so our Emergency Medical Response team can better serve those in need of emergency services.</li>
-      <li>A 5% increase in the average number of calls answered within 30 seconds at the 311 Call Center, resulting in more expedient customer service for those interacting with the City.</li>
+      <li>Streamlined performance reporting that connects the day-to-day operational work of our departments with the City’s cross-cabinet strategic priorities.</li>
+      <li>A 15% increase in the average number of calls answered within 30 seconds at the 311 Call Center, resulting in more expedient customer service for those interacting with the City.</li>
       </ul>  
   - col: >
       <ul>
-      <li>New Financial Insight Tools for the City to track progress toward cost saving measures and to ensure fair and equitable opportunities for those competing for city contracts.</li>
-      <li>A 10% increase in the number of traffic signals repaired within 24 hours, ensuring that the City’s streets are safe and functioning properly.</li>
+      <li>New Transportation Insight Tools to allow the City to better understand mobility in Boston and support long-term planning.</li>
+      <li>A 3D base map of Boston, used by the Boston Planning and Development Agency to understand the impact of new development.</li>
       </ul>  
   - col: > 
       <ul>
-      <li>A clearer understanding of the demographics of city staff to help create a workforce that reflects our City’s residents.</li>
+      <li>A user-focused open data portal that makes it easier than ever for the public or internal staff to explore City data and conduct analyses.</li>
       </ul>
       <h5>Looking toward next year</h5>
       <p>Our work next year will continue to build upon the successes we’ve recognized this year 
-      in the areas of customer service, permitting, recruitment, and public safety. You can learn more 
+      in the areas of customer service, transportation and mobility, recruitment, finance analytics, and public safety. You can learn more 
       about our work and check out our progress at:</p>
       <p><a class="button" href="https://www.boston.gov/departments/analytics-team">boston.gov/analytics</a></p>
 - text_block:
@@ -143,15 +135,14 @@ components:
       <p><strong>STREETLIGHT ON-TIME %:</strong><br/> Target 80% completed within 10 business days</p>
       <p><strong>TREE MAINTENANCE ON-TIME %:</strong><br/> Target 80% completed within 365 calendar days</p>
 - text_block:
-  - title: Priority FY18 performance goals
+  - title: Priority FY19 performance goals
     body: >
       The Mayor’s FY18 budget priorities highlight the vision to create an environment that promotes 
       equity, builds community, and helps fulfill Boston’s great promise. The performance measures listed 
       below reflect the City’s top priorities and the partnerships necessary to achieve these ambitious 
-      goals. To track progress against these goals, visit the 
-      <a href="https://www.boston.gov/finance/boston-about-results">Boston About Results website</a>.
+      goals.
 - table:
-  - title: Budget summary
+  - title: FY19 Performance Goals
     columns:
       - "Category": Education
         "Performance Measure": 
@@ -160,8 +151,8 @@ components:
         "Responsible Department":
           value: Schools
           align: left
-        "FY17 Target": 200
-        "FY18 Target": 100
+        "FY18 Projected": 109
+        "FY19 Target": 160
       - "Category": Education
         "Performance Measure": 
           value: Participants in the Early Literacy Program
@@ -169,9 +160,11 @@ components:
         "Responsible Department":
           value: Boston Public Library
           align: left
-        "FY17 Target": NA
-        "FY18 Target": 
-          value: 60000
+        "FY18 Projected": 
+          value: 30000
+          filter:delimiter
+        "FY19 Target": 
+          value: 55000
           filter: delimiter
       - "Category": Housing
         "Performance Measure": 
@@ -180,8 +173,8 @@ components:
         "Responsible Department":
           value: Neighborhood Development
           align: left
-        "FY17 Target": 210
-        "FY18 Target": 200
+        "FY18 Projected": 200
+        "FY19 Target": 200
       - "Category": Housing
         "Performance Measure": 
           value: "# of low income housing units permitted (deed restricted and IDP)"
@@ -189,8 +182,8 @@ components:
         "Responsible Department":
           value: Neighborhood Development
           align: left
-        "FY17 Target": N/A
-        "FY18 Target": 325
+        "FY18 Projected": 347
+        "FY19 Target": 347
       - "Category": Housing
         "Performance Measure": 
           value: "# of middle income housing units permitted (deed restricted and market)"
@@ -198,10 +191,10 @@ components:
         "Responsible Department":
           value: Neighborhood Development
           align: left
-        "FY17 Target": 
-          value: 1000
+        "FY18 Projected": 
+          value: 1500
           filter: delimiter
-        "FY18 Target": 
+        "FY19 Target": 
           value: 1000
           filter: delimiter
       - "Category": Housing
@@ -211,8 +204,8 @@ components:
         "Responsible Department":
           value: Neighborhood Development
           align: left
-        "FY17 Target": N/A 
-        "FY18 Target": 500 
+        "FY18 Projected": 500 
+        "FY19 Target": 500 
       - "Category": Mobility
         "Performance Measure": 
           value: Average annual PCI rating of Boston’s roads
@@ -220,21 +213,21 @@ components:
         "Responsible Department":
           value: Public Works
           align: left
-        "FY17 Target": 67
-        "FY18 Target": 66
+        "FY18 Projected": 66
+        "FY19 Target": 67
       - "Category": Mobility
         "Performance Measure": 
-          value: Average cost per streetlight
+          value: % of street light outages addressed on time
           align: left
         "Responsible Department":
           value: Public Works
           align: left
-        "FY17 Target":
-          value: 162
-          filter: money
-        "FY18 Target":
-          value: 160
-          filter: money
+        "FY18 Projected":
+          value: 75
+          filter: percent
+        "FY19 Target":
+          value: 80
+          filter: percent
       - "Category": Mobility
         "Performance Measure": 
           value: "% of crosswalks in good repair"
@@ -242,11 +235,11 @@ components:
         "Responsible Department":
           value: Transportation
           align: left
-        "FY17 Target": 
-          value: 90
+        "FY18 Projected": 
+          value: 47
           filter: percent
-        "FY18 Target":
-          value: 90
+        "FY19 Target":
+          value: 65
           filter: percent
       - "Category": Mobility
         "Performance Measure": 
@@ -255,11 +248,11 @@ components:
         "Responsible Department":
           value: Public Works
           align: left
-        "FY17 Target": 
-          value: 1000 
+        "FY18 Projected": 
+          value: 2800 
           filter: delimiter
-        "FY18 Target": 
-          value: 1000
+        "FY19 Target": 
+          value: 3000
           filter: delimiter
       - "Category": Prosperity and Equity
         "Performance Measure": 
@@ -268,10 +261,9 @@ components:
         "Responsible Department":
           value: Neighborhood Services
           align: left
-        "FY17 Target": N/A
-        "FY18 Target": 
-          value: 3000
-          filter: delimiter
+        "FY18 Projected": 290
+        "FY19 Target": 
+          value: 300
       - "Category": Prosperity and Equity
         "Performance Measure": 
           value: "# of MWBE companies with the City of Boston"
@@ -279,55 +271,33 @@ components:
         "Responsible Department":
           value: Economic Development
           align: left
-        "FY17 Target": 52
-        "FY18 Target": 60
+        "FY18 Projected": 52
+        "FY19 Target": 60
       - "Category": Prosperity and Equity
         "Performance Measure": 
-          value: "# of businesses recruited for Boston’s 100% Talent Compact"
+          value: "# of employees in companies newly signing Boston’s 100% Talent Compact"
           align: left
         "Responsible Department":
           value: Women’s Advancement
           align: left
-        "FY17 Target": N/A
-        "FY18 Target": 250
-      - "Category": Prosperity and Equity
-        "Performance Measure": 
-          value: Broadband adoption by families (i.e. households with children under 18)
-          align: left
-        "Responsible Department":
-          value: Innovation and Technology
-          align: left
-        "FY17 Target":
-          value: 100
-          filter: percent
-        "FY18 Target":
-          value: 100
-          filter: percent
+        "FY18 Projected": 
+          value: 2000
+          filter: delimiter
+        "FY19 Target": 
+          value: 2500
+          filter: delimiter
       - "Category": Arts, Culture, and Creativity
         "Performance Measure": 
-          value: "% growth in grant dollars"
+          value: "% of first time Boston Cultural Council organizational grant awardees"
           align: left
         "Responsible Department":
           value: Arts and Culture
           align: left
-        "FY17 Target":
-          value: 25
+        "FY18 Projected":
+          value: 24
           filter: percent
-        "FY18 Target":
-          value: 25
-          filter: percent
-      - "Category": Arts, Culture, and Creativity
-        "Performance Measure": 
-          value: "% of first time BCC organizational grant awardees"
-          align: left
-        "Responsible Department":
-          value: Arts and Culture
-          align: left
-        "FY17 Target":
-          value: 10
-          filter: percent
-        "FY18 Target":
-          value: 10
+        "FY19 Target":
+          value: 15
           filter: percent
       - "Category": Arts, Culture, and Creativity
         "Performance Measure": 
@@ -336,11 +306,11 @@ components:
         "Responsible Department":
           value: Boston Public Library
           align: left
-        "FY17 Target": 
-          value: 3300000 
+        "FY18 Projected": 
+          value: 3000000 
           filter: delimiter
-        "FY18 Target": 
-          value: 3400000
+        "FY19 Target": 
+          value: 3000000
           filter: delimiter
       - "Category": Arts, Culture, and Creativity
         "Performance Measure": 
@@ -349,9 +319,11 @@ components:
         "Responsible Department":
           value: Boston Public Library
           align: left
-        "FY17 Target": N/A 
-        "FY18 Target": 
-          value: 40000
+        "FY18 Projected": 
+          value: 175000
+          filter: delimiter
+        "FY19 Target": 
+          value: 175000
           filter: delimiter
       - "Category": Health and Safety 
         "Performance Measure": 
@@ -360,28 +332,27 @@ components:
         "Responsible Department":
           value: Public Health Commission
           align: left
-        "FY17 Target": 6 Min
-        "FY18 Target": 6 Min
+        "FY18 Projected": 6 Min
+        "FY19 Target": 6 Min
+      - "Category": Health and Safety 
+         "Performance Measure": 
+          value: # of individuals placed in recovery services
+          align: left
+        "Responsible Department":
+          value: Public Health Commission
+          align: left
+        "FY18 Projected": 
+          value: 8000
+          filter: delimiter
+        "FY19 Target": 
+          value: 6000
+          filter: delimiter
       - "Category": Health and Safety 
         "Performance Measure": 
           value: "# of mediations conducted by streetworkers"
           align: left
-        "Responsible Department":
-          value: Boston Centers for Youth and Family
-          align: left
-        "FY17 Target": 400
-        "FY18 Target": 450
-      - "Category": Health and Safety 
-        "Performance Measure": 
-          value: "# of unique community center visitors"
-          align: left
-        "Responsible Department":
-          value: Boston Centers for Youth and Families
-          align: left
-        "FY17 Target": NA
-        "FY18 Target": 
-          value: 150000
-          filter: delimiter
+        "FY18 Projected": 440     
+        "FY19 Target": 450
       - "Category": Health and Safety 
         "Performance Measure": 
           value: Firefighters attending resiliency, health, and safety symposiums
@@ -389,8 +360,8 @@ components:
         "Responsible Department":
           value: Fire Department
           align: left
-        "FY17 Target": 720 
-        "FY18 Target": 720
+        "FY18 Projected": 840 
+        "FY19 Target": 800
       - "Category": Health and Safety 
         "Performance Measure": 
           value: YouthConnect referrals
@@ -398,6 +369,6 @@ components:
         "Responsible Department":
           value: Police Department
           align: left
-        "FY17 Target": 800
-        "FY18 Target": 840
+        "FY18 Projected": 840
+        "FY19 Target": 800
 ---
