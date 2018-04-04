@@ -39,11 +39,11 @@ components:
       <li>Boston Public Schools;</li>
       <li>Neighborhood Development;</li>
       <li>Public Health Commission;</li>
+      <li>Treasury Department;</li>
       <li>Emergency Management;</li>
       <li>Police;</li>
-      <li>Library;</li>
-      <li>Elderly Commission; and</li>
-      <li>the Parks and Recreation Department.</li>
+      <li>Library; and</li>
+      <li>the Elderly Commission.</li>
       </ul>
       <p>Other departments that also have significant grant funding are the Office of Economic Development and the Fire Department. Descriptions and amounts of grants by department can be found on department pages.</p>
   - col: >
@@ -68,94 +68,94 @@ components:
           value: 137062144
           filter: delimiter
       - "Department": Neighborhood Development
-        "FY16 Expenditure": 
-          value: 65510635
-          filter: delimiter
-        "FY17 Estimated":
-          value: 72392049
+        "FY17 Expenditure": 
+          value: 89454325
           filter: delimiter
         "FY18 Estimated":
           value: 62022708
           filter: delimiter
-      - "Department": Public Health Commission
-        "FY16 Expenditure": 
-          value: 48003626
+        "FY19 Estimated":
+          value: 78142034
           filter: delimiter
-        "FY17 Estimated":
+      - "Department": Public Health Commission
+        "FY17 Expenditure": 
           value: 49051487
           filter: delimiter
         "FY18 Estimated":
           value: 41717478
           filter: delimiter
-      - "Department": Emergency Management
-        "FY16 Expenditure": 
-          value: 7245252
+        "FY19 Estimated":
+          value: 46515679
           filter: delimiter
-        "FY17 Estimated":
-          value: 9030330
+      - "Department": Treasury Department
+        "FY17 Expenditure": 
+          value: 0
+          filter: delimiter
+        "FY18 Estimated":
+          value: 18180001
+          filter: delimiter
+        "FY19 Estimated":
+          value: 23861250
+          filter: delimiter
+      - "Department": Emergency Management
+        "FY17 Expenditure": 
+          value: 14069475
           filter: delimiter
         "FY18 Estimated":
           value: 11164466
           filter: delimiter
-      - "Department": Police Department
-        "FY16 Expenditure": 
-          value: 9562321
+        "FY19 Estimated":
+          value: 12347728
           filter: delimiter
-        "FY17 Estimated":
-          value: 10498017
+      - "Department": Police Department
+        "FY17 Expenditure": 
+          value: 10502260
           filter: delimiter
         "FY18 Estimated":
-          value: 9706922
+          value: 15547590
+          filter: delimiter
+        "FY19 Estimated":
+          value: 8990677
           filter: delimiter
       - "Department": Library Department
-        "FY16 Expenditure": 
-          value: 9617643
-          filter: delimiter
-        "FY17 Estimated":
-          value: 8973729
+        "FY17 Expenditure": 
+          value: 9332170
           filter: delimiter
         "FY18 Estimated":
           value: 8843340
           filter: delimiter
-      - "Department": Elderly Commission
-        "FY16 Expenditure": 
-          value: 6915255
+        "FY19 Estimated":
+          value: 8738756
           filter: delimiter
-        "FY17 Estimated":
-          value: 7303896
+      - "Department": Elderly Commission
+        "FY17 Expenditure": 
+          value: 6580517
           filter: delimiter
         "FY18 Estimated":
           value: 7047534
           filter: delimiter
-      - "Department": Parks and Recreation Department
-        "FY16 Expenditure": 
-          value: 7592067
-          filter: delimiter
-        "FY17 Estimated":
-          value: 6001283
-          filter: delimiter
-        "FY18 Estimated":
-          value: 5798788
+        "FY19 Estimated":
+          value: 6643278
           filter: delimiter
       - "Department": Other
-        "FY16 Expenditure": 
-          value: 18460127
-          filter: delimiter
-        "FY17 Estimated":
-          value: 27576059
+        "FY17 Expenditure": 
+          value: 29998122
           filter: delimiter
         "FY18 Estimated":
-          value: 21377598
+          value: 31494031
+          filter: delimiter
+        "FY19 Estimated":
+          value: 27737284
           filter: delimiter
       - "Department": Total
         "total": true
-        "FY16 Expenditure": 
-          value: 298676630
-          filter: delimiter
-        "FY17 Estimated":
-          value: 326168140
+        "FY17 Expenditure": 
+          value: 347402549
           filter: delimiter
         "FY18 Estimated":
-          value: 304901438
+          value: 333239752
+          filter: delimiter
+        "FY19 Estimated":
+          value: 350038830
           filter: delimiter
 ---
