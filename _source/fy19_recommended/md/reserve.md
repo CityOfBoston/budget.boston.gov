@@ -45,8 +45,8 @@ components:
         "FY17 Actual": 
           value: 3813197
           filter: delimiter
-        "FY17 Budget": 0
-        "FY18 Budget": 
+        "FY18 Budget": 0
+        "FY19 Budget": 
           value: 0
           filter: delimiter
 ---
