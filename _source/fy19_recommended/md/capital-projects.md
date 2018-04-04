@@ -302,19 +302,19 @@ components:
            value: 31365582
            filter: delimiter
         "FY18 Budget":
-           value: 18705977
+           value: 18905977
            filter: delimiter
         "FY19 Budget":
-           value: 22637304
+           value: 23637304
            filter: delimiter
         "FY20-23 Budget":
-           value: 53416131
+           value: 53566131
            filter: delimiter
         "Non-Capital Fund":
            value: 3036200
            filter: delimiter
         "Total":
-           value: 129161194
+           value: 130511194
            filter: delimiter
       - "Category":
          name: Transportation
@@ -323,19 +323,19 @@ components:
            value: 96366571
            filter: delimiter
         "FY18 Budget":
-           value: 68168418
+           value: 67968418
            filter: delimiter
         "FY19 Budget":
-           value: 82479138
+           value: 81479138
            filter: delimiter
         "FY20-23 Budget":
-           value: 282566807
+           value: 282416807
            filter: delimiter
         "Non-Capital Fund":
            value: 375435464
            filter: delimiter
         "Total":
-           value: 905016398
+           value: 903666398
            filter: delimiter
       - "Category": <b>Totals</b>
         "total": true
