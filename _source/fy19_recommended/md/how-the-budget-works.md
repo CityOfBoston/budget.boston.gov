@@ -12,8 +12,8 @@ components:
 - intro:
   - title: How the budget works
     short_desc: >
-      <p>The City of Boston's budgeting process takes at least 6 months to do, but 
-      that doesn't mean you can't understand it in 90 seconds. Below, find a 
+      <p>Preparing the City of Boston's budget takes over 6 months from start to finish, but 
+      that doesn't mean you can't understand it in 2 minutes. Below, find a 
       quick video overview of how Boston's budget works. If you want more detail, 
       read the text below the video.</p>
       <p><a class="button" href="https://www.boston.gov/public-notices?title=FY18+Budget&field_contact_target_id%5B%5D=441">Attend a budget hearing</a></p>
@@ -48,29 +48,29 @@ components:
           value: No requirement
           align: left
         "FY18 timeline": 
-          value: 1/17/17
+          value: 1/13/18
           align: left
       - "Action required": School Superintendent's proposed budget to School Committee on or before 1st Wednesday in February.
         "City Charter": Ch. 613 Acts of 1987 
-        "FY18 timeline": 2/1/17
+        "FY18 timeline": 2/7/18
       - "Action required": Mayoral meetings with Departments to discuss funding, policy, and performance.
         "City Charter": No requirement
         "FY18 timeline": January - March
       - "Action required": School Committee action taken on budget on or before 4th Wednesday in March.
         "City Charter": Ch. 613 Acts of 1987
-        "FY18 timeline": 3/22/17
+        "FY18 timeline": 3/28/18
       - "Action required": Mayor's recommended budget and capital plan submitted to City Council on or before 2nd Wednesday in April.
         "City Charter": Ch. 190 Acts of 1982, as amended by Ch. 701 Acts of 1986, and by practice
-        "FY18 timeline": 4/12/17
+        "FY18 timeline": 4/11/18
       - "Action required": Public Hearings held prior to budget adoption.
         "City Charter": No requirement
         "FY18 timeline": April - June
       - "Action required": City Council action on  budget on or before 2nd Wednesday in June.
         "City Charter": Ch. 190 Acts of 1982, as amended by Ch. 701 Acts of 1986 
-        "FY18 timeline": 6/14/17
+        "FY18 timeline": 6/13/18
       - "Action required": Mayor's approval of FY18 budget adopted by City Council on or before July 1, 2017.
         "City Charter": No requirement
-        "FY18 timeline": 6/28/17 (Last regularly scheduled Council meeting before FY18)
+        "FY18 timeline": 6/27/18 (Last regularly scheduled Council meeting before FY18)
 - text_block:
   - title: Budget Presentation (Budget Website and PDFs of Budget Books)
     body: >
@@ -88,7 +88,7 @@ components:
 - text_block: 
   - title: Organization of the Budget
     body: >
-      <p>The City of Boston’s program budget provides information related to City services and their associated costs. The operating and capital budgets present the recommended resource allocations in terms of personnel, facilities, goods, and services. The budget document also describes the services provided by each City department and the performance targets that have been set for FY18.</p>
+      <p>The City of Boston’s program budget provides information related to City services and their associated costs. The operating and capital budgets present the recommended resource allocations in terms of personnel, facilities, goods, and services. The budget document also describes the services provided by each City department and the performance targets that have been set for FY19.</p>
       <h5>Departmental Operating Budgets</h5>
       <p>Activities and services of the City are grouped into programs for budgeting and management purposes. The operating budget for each department is presented by program. A “program” is defined as an organized group of activities directed toward attaining one or more related objectives, and the resources to execute them.</p>
       <p>A program can consist of direct services to the public and neighborhoods of 
@@ -121,7 +121,7 @@ components:
       ordinances that create departments as well as endow them with legal powers.</li>
       <li><strong>Operating Budget:</strong> The operating budget presentation includes 
       a table displaying total operating and external budgets by program beginning with 
-      FY15 actual expenses through the FY18 budget.</li>
+      FY16 actual expenses through the FY19 budget.</li>
       </ul>
       <h5>Program Level</h5>
       <ul>
@@ -138,31 +138,31 @@ components:
       <p>The financial data tables identify the major groups and expenditure account codes 
       (for example, Personnel Services/Overtime, Supplies and Materials/Office Supplies), 
       historical expenditures in each, and the proposed appropriations in each group and 
-      account in FY18. Two financial data sheets are provided for the FY18 operating 
+      account in FY19. Two financial data sheets are provided for the FY18 operating 
       budget: Department History and Department Personnel.</p>
       <h5>Department History</h5>
       <p>Expenditure account codes are listed within six expenditure groups. Dollar amounts 
       are shown for:</p>
       <ul>
-      <li>FY15 actual expenditures,</li>
       <li>FY16 actual expenditures,</li>
-      <li>FY17 appropriations,</li>
-      <li>FY18 adopted budgets, and</li>
-      <li>The difference between the FY17 appropriation and the FY18 adopted appropriation.</li>
+      <li>FY17 actual expenditures,</li>
+      <li>FY18 appropriations,</li>
+      <li>FY19 adopted budgets, and</li>
+      <li>The difference between the FY18 appropriation and the FY19 adopted appropriation.</li>
       </ul>
       <h5>External Funds</h5>
       <p>Historical expenditures and the proposed appropriations in these 
-      accounts in FY18 are shown. External Funds Projects lists a 
+      accounts in FY19 are shown. External Funds Projects lists a 
       description of each project’s mission.</p>
       <h5>Capital Budget</h5>
       <p>The capital budget section provides an overview of projects and major initiatives for 
       departments charged with managing facilities and major equipment assets. Dollar amounts 
       are shown for:</p>
       <ul>
-      <li>FY15 actual capital expenditures,</li>
       <li>FY16 actual capital expenditures,</li>
-      <li>FY17 estimated capital expenditures,</li>
-      <li>FY18 projected capital expenditures</li>
+      <li>FY17 actual capital expenditures,</li>
+      <li>FY18 estimated capital expenditures,</li>
+      <li>FY19 projected capital expenditures</li>
       </ul>
-      <p>Following this overview are capital project profiles, including descriptions of each project mission, the department managing the project, the status and location of each project, and if there are operating budget impacts. A table summarizes the total capital funds authorized for projected expenditures in FY18 and for future years, as well as whether the source is City authorization or other funding such as federal and state infrastructure grants or trust funds. A listing of actual and planned capital expenditures in comparison to authorized dollars is also provided.</p>
+      <p>Following this overview are capital project profiles, including descriptions of each project mission, the department managing the project, the status and location of each project, and if there are operating budget impacts. A table summarizes the total capital funds authorized for projected expenditures in FY19 and for future years, as well as whether the source is City authorization or other funding such as federal and state infrastructure grants or trust funds. A listing of actual and planned capital expenditures in comparison to authorized dollars is also provided.</p>
 ---
