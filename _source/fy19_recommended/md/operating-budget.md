@@ -279,7 +279,7 @@ components:
 - text_block:
   - title: Expenditures
     body: >
-      Expenditures are broken down into two primary groups: (1) appropriations directly related to departmental services and (2) fixed and mandated costs. FY18 appropriations are subdivided into three subgroups as follows:
+      Expenditures are broken down into two primary groups: (1) appropriations directly related to departmental services and (2) fixed and mandated costs. FY19 appropriations are subdivided into three subgroups as follows:
       <ul>
       <li>City Appropriations, which includes all operating department 
       appropriations, centrally budgeted costs such as health insurance and 
@@ -296,13 +296,9 @@ components:
     - blurb: >
         Personnel Services include salaries, overtime, unemployment compensation and 
         workers’ compensation, and collective bargaining reserves for estimated wage 
-        increases for union employees whose agreements are not settled. Most of the 
-        City’s collective bargaining agreements expired in FY17.
+        increases for union employees whose agreements are not settled. The majority of departments had employees who reached agreement on collective bargaining contracts, so department growth reflects those wage and cost of living increases, while outstanding contracts are reserved centrally.
         <br /><br />
-        Negotiations for successor agreements are ongoing. Avoiding arbitration, 
-        the City and the Boston Police Patrolmen’s Association agreed to a new 
-        contract through June 30, 2020.  The agreement includes annual general 
-        wage increases of 2%, other benefit enhancements, and full restoration of Quinn Bill benefits reduced by the State in 2009.
+        Negotiations for successor agreements are ongoing. 
         <br /><br />
         The 
     - link: 
