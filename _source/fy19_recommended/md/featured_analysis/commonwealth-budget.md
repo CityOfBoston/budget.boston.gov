@@ -1,9 +1,9 @@
 ---
 layout: bos_content
 permalink: /featured-analysis/commonwealth-budget/
-title: Commonwealth Budget
+title: State Revenue and Assessments
 card:
-  - title: Commonwealth Budget
+  - title: State Revenue and Assessments
     body: >
       Revenue from the State has been declining as a share of recurring revenue.
     img: /img/fa-commonwealth-budget.jpg
@@ -16,98 +16,69 @@ components:
   - title: Featured Analysis
     url: "/featured-analysis/"
     local: true
-  - current: Commonwealth Budget
+  - current: State Revenue and Assessments
   - published: 4/13/17
 - intro:
-  - title: Commonwealth budget
+  - title: State Revenue and Assessments
     short_desc: >
-      State aid to the City represents its second largest single source of 
-      general fund revenue, although it has been declining as a share of recurring 
-      revenue. The State also provides many grants that support city programs 
-      and expenditures.
-    description: >
-      Often, changes to law or policy recommendations that affect City expenditures 
-      and revenue generating capacity occur within or alongside budget language. As 
-      a result, the state budget is of great interest to the City.
-    sidebar_menu: true    
+ State aid to the City represents its second largest single source of general fund revenue, although it has been declining as a share of recurring revenue. The State also provides many grants that support city programs and expenditures.
+    
+        sidebar_menu: true    
 - text_block:
-  - title: State budget
-- text_col_2:
-  - col: >
-      <h5>Recent State Budget History</h5>
-      <p>The State has faced several very difficult years of structural budget imbalance 
-      and is facing more difficult years ahead despite recent revenue increases. The 
-      State has made use of its stabilization or “rainy day” fund in addition to 
-      reductions in expenditures and increases in revenue to deal with its structural 
-      imbalance.</p>
-      <p>At the close of FY08, the stabilization fund balance was approximately $2.1 
-      billion. The State had drawn down the balance considerably by the close of FY10 
-      to a low of about $670 million before revenues began to increase again in FY11. 
-      The fund has since increased and stood at about $1.29 billion at the close of 
-      FY16. The remaining balance at the end of FY17 is expected to be $1.30 billion.</p>
-  - col: >
-      <h5>FY18 State Budget</h5>
-      <p>As the time of submitting Mayor Walsh’s proposed FY18 Budget, the State is 
-      in the middle stage of development of its FY18 budget with only the Governor’s 
-      budget having been submitted.</p>
-      <p>The Governor’s budget includes a modest increase in state aid 2.5%, or $10.7 
-      million. The Governor’s budget (H.1) increased Unrestricted General Government 
-      Aid (UGGA) by 3.9%, or $7 million. UGGA is the main driver in the increase in 
-      state aid in FY18, while Chapter 70 Education Aid only grew by 0.6%, or $1.3 
-      million and Charter School reimbursements grew by $3 million, or 14%.</p>
+  - title: State Budget
+<p>Boston’s net State aid, which is gross State revenue minus State assessments, has been trending down steeply since FY02. With a decrease in net State aid for FY19, Boston is 65.5%, or $207.4 million, below its FY08 level of net State aid. The rapid annual increase in the charter school tuition assessment contributed to this trend. This loss of revenue has put extraordinary pressure on the property tax and other local revenue sources as well as levels of expenditures.</p>
+
+<p>The City’s FY19 estimates of state revenue and state assessments is based on the Governor’s proposed budget as the legislature will release the final version of the state budget following release of the City’s recommended budget. Net State aid amounted to $191.0 million in FY16 and $184.5 million in FY17.  FY18 budgeted net State aid totals $176.1 million and the FY19 budget assumes a reduction to $157.6 million.</p> 
+
+right_image- revenue Figure 1 08 vs 19
+
 - text_block:
-  - title: Education funding
-- text_col_2:
-  - col: >
-      <h5>State charter school funding</h5>
-      <p>While Boston’s charter school assessment has risen by 155% since the enactment 
-      of the 2010 Achievement Gap Legislation, the State’s statutory obligation to fund 
-      charter school reimbursement has not kept pace.</p>
-      <p>As a result, the City of Boston lost $48 million over three years (FY15 – FY17). 
-      Based on H.1, Boston is projected to lose another $25 million in FY18. Without a 
-      change of course in how the state funds this critical local aid line item, the 
-      City of Boston will be left to make difficult budgetary decisions that will impact 
-      the quality of life for not only our residents but for the hundreds of thousands more 
-      who work and visit this City every day.</p>
-  - col:
-    - img: /img/education-spending-revenue.png
-- text_col_2:
-  - col: >
-      <h5>Education finance reforms</h5>
-      <p>Given these challenges, Mayor Walsh is building on his commitment to Boston’s 
-      students and proposed <a href="http://bostonpublicschools.org/financialplan">transformative 
-      education finance legislation</a> to expand access to high-quality education for 
-      students of all ages. Mayor Walsh, partnering with 
-      Boston’s State Legislators, proposed targeted state education finance reforms that 
-      will increase annual funding to Boston by $35 million in its first year of implementation, 
-      and position Boston to receive $150 million in additional annual Chapter 70 aid 
-      within a few years if the state identifies a new revenue source for investments 
-      in education.</p>
-      <p>In concert with the <a href="http://bostonpublicschools.org/financialplan">Boston 
-      Public School Long-Term Financial Plan</a>, the additional revenue will allow for 
-      the continued expansion of investments necessary to support all of Boston’s children.</p>
-  - col: >
-      <h5>Education proposals</h5>
-      <p>The package would unlock resources that would improve educational outcomes in Boston’s 
-      district, charter, and non-profit settings. The proposals would:</p>
-      <ul>
-      <li>grant charter schools access to the Massachusetts School Building Authority and 
-      relieve the State General Fund of the of the cost of charter facilities, creating 
-      additional capacity for state funding for charter transition costs;</li>
-      <li>streamline charter school transition funding in a way that limits state and 
-      City costs; provide every Boston 4-year old with a high quality Pre-K seat;</li>
-      <li>increase districts’ reimbursements for the highest-need and highest-cost students; and</li>
-      <li>make transformational education funding available for Boston if the State 
-      identifies a new education revenue source.</li>
-      </ul>
+  - title: State Budget
+
+<p>The City’s FY19 estimates of state revenue and state assessments is based on the Governor’s proposed budget as the legislature will release the final version of the state budget following release of the City’s recommended budget. Net State aid amounted to $191.0 million in FY16 and $184.5 million in FY17.  FY18 budgeted net State aid totals $176.1 million and the FY19 budget assumes a reduction to $157.6 million. <\p> 
+
+- text_block:
+  - title: State Revenue
+body: >
+
+<p>State revenue, the City’s second largest revenue source, has been reduced substantially over the course of the last two recessions.  State revenue has declined as a share of total recurring revenues from 30% in FY02 to 14% in FY19.</p>
+<p>The primary sources of aid from the State to municipalities are education aid, including Chapter 70 and charter school tuition reimbursement, and unrestricted general government aid. The Commonwealth also distributes aid for libraries and provides some other reimbursements to municipalities.</p> 
+<p>The FY19 recommended budget includes a modest increase in State aid of 1.0%, or $4.4 million.</p> 
+<li>Unrestricted General Government Aid (UGGA) is the main driver in the increase in State aid in FY19. UGGA is expected to increase by 3.5%, or $6.6 million.</li>
+<li>While Boston’s spending on education has increased substantially, Boston’s state education funding has not kept pace. Boston’s Chapter 70 education aid grew by only $1.3 million, or 0.6%, in the Governor’s proposed budget, a stark contrast to the $67 million more Boston expects to spend on education in FY19.</li>
+<li>The Charter School Tuition Reimbursement is budgeted at $21.3 million in FY19, $1.8 million lower than FY18, and a projected $27 million lower than the Commonwealth’s obligation under the 2010 Achievement Gap Legislation.</li>
+<p>Without a change in how the State funds this critical local aid line item, the City of Boston will be left to make difficult budgetary decisions that will impact the quality of life for not only our residents but for the hundreds of thousands more who work and visit the city every day.</p>
+
+<blockquote>The Chapter 70 education aid formula does not work for Boston. Despite the Commonwealth adding over $1.125 billion to Chapter 70 Aid since FY08, Boston’s Chapter 70 Aid has increased only $3.5 million in the same period.</blockquote>
+
+- text_block:
+  - title: State Assessments
+body: >
+<p>State Assessments are charged by the Commonwealth to municipalities for items such as charter school tuition reimbursement and MBTA service. State aid distributions are reduced by the amount of assessments charged to a municipality. The City paid $230.6 million in FY16 and $240.4 million in FY17. The City expects to pay $264.4 million in assessments in FY18 and is budgeting $287.4 million in FY19.</p>
+<li>MBTA increase</li>
+<li>Boston’s charter school tuition assessment is projected to increase by $20.5 million, or 11.8%, over the FY18 budget, as 11,084 students are projected to attend a Commonwealth Charter School in FY19.</li>
+
+<p>Boston’s charter school tuition assessment has risen dramatically by 184% since the enactment of the 2010 Achievement Gap Legislation that expanded the number of charter school seats. </p> 
+
+- text_block:
+  - title: Net Education Aid
+body: >
+
+<p>If recent trends hold - rising charter school assessment and declining charter school reimbursement and stagnant Chapter 70- it’s likely that in three years Boston will receive no State education aid. This will mean Boston’s 57,000 students will be entirely funded by the City’s General Fund. Net education aid will decrease by $21 million in FY19.</p>
+<p>While Boston’s overall spending on education has increased substantially in recent years, Boston’s State education funding has not kept pace. </p> 
+<li>While Boston’s charter school assessment has risen by 184% since the enactment of the 2010 Achievement Gap Legislation, the State’s statutory obligation to fund charter school reimbursement has not kept pace.</li>
+<li>As a result, the City of Boston has lost a total of $100 million in five years (FY14-FY19), and $27 million alone under the Governor’s FY19 budget.</li>
+<li>Additionally, the Chapter 70 education aid formula does not work for Boston. Chapter 70 is expected to grow by only $1.3 million, or less than 1% in FY19.</li>
+<p>Mayor Walsh has raised concerns about this trend since taking office and has been proactive in addressing the underlying challenges of the State’s education aid system. In 2017, the Mayor filed comprehensive education finance reform legislation that aims to invest equitably and expand access to high-quality public education for students of all ages. By proposing a creative revenue solution to provide every Boston four-year-old a high-quality seat, fixing the broken charter school transition funding model, and increasing reimbursements for the highest-need students, the proposals would increase annual education funding to Boston by $35 million in its first year of implementation. The proposal would also position Boston to receive $150 million in additional annual Chapter 70 aid within a few years if the State identifies a new revenue source for education. The Mayor continues to advocate for these common sense pieces of legislation, as well as full funding of local aid reimbursement accounts. </p>
+
+right_image: 
+
+
+
 - grid: 
   - grid_title: More budget analysis
   - card: /featured-analysis/revenue-estimates/
   - card: /featured-analysis/state-aid/
   - card: /featured-analysis/education-aid/
-  - card: /featured-analysis/unrestricted-general-govt-aid/
-  - card: /featured-analysis/state-and-city-economies/
-  - card: /featured-analysis/net-state-education-revenue/
-  - card: /featured-analysis/bps-long-term-financial-plan/
-  - card: /featured-analysis/education-legislation/
+
 ---
