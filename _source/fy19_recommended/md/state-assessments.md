@@ -22,8 +22,8 @@ components:
   - title: State assessments
     short_desc: >
       Accompanying the local aid distributions on the State’s Cherry Sheet are charges to the City 
-      from the Commonwealth. The City expects to be assessed $264.9 million by the Commonwealth in 
-      FY18, $19.0 million over the previous year.
+      from the Commonwealth. The City expects to be assessed $287.4 million by the Commonwealth in 
+      FY19, $22.9 million over the previous year.
     description:
     - blurb: >
        Aside from the assessments for 
