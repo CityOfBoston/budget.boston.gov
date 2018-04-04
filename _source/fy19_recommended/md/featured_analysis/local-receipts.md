@@ -3,7 +3,7 @@ layout: bos_content
 permalink: /featured-analysis/local-receipts/
 title: Local Receipts
 card:
-  - title: Local Receipt Revenue
+  - title: Local Revenue
     body: >
       Local revenues are an increasing share of Boston’s recurring revenue.
     img: /img/fa-local-receipts.jpg
@@ -19,12 +19,12 @@ components:
   - current: Local Receipts
   - published: 4/13/17
 - intro:
-  - title: Local receipts
+  - title: Local Revenue 
     short_desc: >
       The City annually collects a significant amount of recurring revenues 
       other than Property Tax or State Aid.
     description: >
-      Approximately 16% of the City’s budgeted recurring revenue in FY18 is 
+      Approximately 16% of the City’s budgeted recurring revenue in FY19 is 
       comprised of:
       <ul>
       <li>excise taxes, fines, and payments-in-lieu-of-taxes (including Chapter 121A)</li>
@@ -96,10 +96,4 @@ components:
   - card: /featured-analysis/revenue-estimates/
   - card: /featured-analysis/excise-taxes/
   - card: /featured-analysis/parking-fines/
-  - card: /featured-analysis/interest-on-investments/
-  - card: /featured-analysis/payments-in-lieu-of-taxes/
-  - card: /featured-analysis/urban-redevelopment-ch-121a/
-  - card: /featured-analysis/misc-dept-revenue/
-  - card: /featured-analysis/licences-and-permits/
-  - card: /featured-analysis/penalties-and-interest/
 ---
