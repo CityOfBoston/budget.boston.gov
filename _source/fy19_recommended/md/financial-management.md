@@ -264,25 +264,28 @@ components:
         "Ending Year Balance": 102.397
       - "Fiscal Year": FY16
         "Beginning Year Balance": 102.397
-        "Funds Out": (6.500)**
+        "Funds Out": (6.500)
         "Funds In": 14.397
         "Ending Year Balance": 110.294
-      - "Fiscal Year": FY17*
+      - "Fiscal Year": FY17
         "Beginning Year Balance": 110.294
-        "Funds Out": (37.500)***
-        "Funds In": 22.139
-        "Ending Year Balance": 94.932
+        "Funds Out": (15.000)
+        "Funds In": 26.491
+        "Ending Year Balance": 121.785
       - "Fiscal Year": FY18*
-        "Beginning Year Balance": 94.932
-        "Funds Out": (67.885)****
-        "Funds In": 17.500
-        "Ending Year Balance": 44.547
+        "Beginning Year Balance": 121.785
+        "Funds Out": (68.885)
+        "Funds In": 25.000
+        "Ending Year Balance": 77.900
+      - "Fiscal Year": FY19*
+        "Beginning Year Balance": 77.900
+        "Funds Out": (53.803)
+        "Funds In": 25.000
+        "Ending Year Balance": 49.097        
 - text_block: 
   - body: >
       *Projected<br>
-      **Includes $6.5 milllion capital expenditure<br>
-      ***Includes $15 million capital expenditure<br>
-      ****Includes $45.4 million capital expenditure<br>
+      FY16-FY19 funds out include capital expenditures<br>
 - table:
   - title: Cemetery Trust Fund
     right_text: (dollars in millions)
@@ -322,16 +325,21 @@ components:
         "Funds Out": 0.000
         "Funds In**": 0.433
         "Ending Year Balance": 10.999
-      - "Fiscal Year": FY17*
+      - "Fiscal Year": FY17
         "Beginning Year Balance": 10.999
-        "Funds Out": (0.950)
-        "Funds In**": 1.000
-        "Ending Year Balance": 11.049
+        "Funds Out": 
+        "Funds In**": 1.818
+        "Ending Year Balance": 12.817
       - "Fiscal Year": FY18*
-        "Beginning Year Balance": 11.049
+        "Beginning Year Balance": 12.817
         "Funds Out": (0.950)
         "Funds In**": 1.000
-        "Ending Year Balance": 11.099
+        "Ending Year Balance": 12.867
+      - "Fiscal Year": FY19*
+        "Beginning Year Balance": 12.867
+        "Funds Out": (0.950)
+        "Funds In**": 1.000
+        "Ending Year Balance": 12.917        
 - text_block: 
   - body: >
       *Projected<br>
@@ -375,18 +383,22 @@ components:
         "Funds Out": 0.000
         "Funds In": 1.742
         "Ending Year Balance": 17.027
-      - "Fiscal Year": FY17*
+      - "Fiscal Year": FY17
         "Beginning Year Balance": 17.027
-        "Funds Out": (4.000)**
-        "Funds In": 1.145
-        "Ending Year Balance": 14.172
+        "Funds Out": 0.000
+        "Funds In": 4.010
+        "Ending Year Balance": 21.037
       - "Fiscal Year": FY18*
-        "Beginning Year Balance": 14.172
+        "Beginning Year Balance": 21.037
         "Funds Out": 0.000
         "Funds In": 1.145
-        "Ending Year Balance": 15.317
+        "Ending Year Balance": 22.182
+      - "Fiscal Year": FY19*
+        "Beginning Year Balance": 22.182
+        "Funds Out": (1.600)
+        "Funds In": 1.145
+        "Ending Year Balance": 21.727        
 - text_block: 
   - body: >
       *Projected<br>
-      **Includes a $4 million supplemental for the Boston Housing Authority
 ---
