@@ -21,9 +21,8 @@ components:
 - intro:
   - title: Public Safety for a Growing City
     short_desc: >
-      As part of the Imagine Boston 2030 initiative to reduce cancer risks for 
-      firefighters, the FY18 budget will include $500,000 for a pilot program to 
-      provide industrial level cleaning for firehouses. 
+      The FY19 Budget provides marquee investments, including more police officers, EMT’s, and firefighters, equipped with 21st century technology to meet the public safety needs of a growing City.
+      
     description: >
       These funds will pay to thoroughly clean ductwork, replace ceilings and/or 
       repaint where necessary and replace fabric furniture that has become contaminated 
