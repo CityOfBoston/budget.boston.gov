@@ -31,18 +31,7 @@ components:
       name: Back to all expenditures
       link: /operating-budget
     columns:
-      - "": City Reserve for Collective Bargaining
-        "FY16 Actual": 0.02
-        "FY17 Actual": 28.00
-        "FY18 Budget": 11.39
-        "FY19 Budget": 41.00
-      - "": BPS Reserve for Collective Bargaining
-        "FY16 Actual": 0.00
-        "FY17 Actual": 0.00
-        "FY18 Budget": 0.00
-        "FY19 Budget": 0.00  
-      - "": Totals
-        "total": true
+      - "": Reserve for Collective Bargaining
         "FY16 Actual": 0.02
         "FY17 Actual": 28.00
         "FY18 Budget": 11.39
