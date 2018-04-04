@@ -17,12 +17,12 @@ components:
     url: "/operating-budget/"
     local: true
   - current: Suffolk County Assessment
-  - published: 4/13/17
+  - published: 4/11/18
 - intro:
   - title: Suffolk County Assessment
     short_desc: >
       The Suffolk County budget is a fixed cost mandated by state legislation, 
-      budgeted at $3.9 million in FY18. State legislation converted all existing 
+      budgeted at $3.9 million in FY19. State legislation converted all existing 
       and future Suffolk County Sheriff employees to state employees effective 
       January 1, 2010.
     description: >
@@ -39,16 +39,16 @@ components:
       link: /operating-budget
     columns:
       - "": Total
-        "FY15 Actual": 
-          value: 3874532
-          filter: delimiter
         "FY16 Actual": 
           value: 3874532
           filter: delimiter
-        "FY17 Budget": 
+        "FY17 Actual": 
           value: 3874532
           filter: delimiter
         "FY18 Budget": 
+          value: 3874532
+          filter: delimiter
+        "FY19 Budget": 
           value: 3874532
           filter: delimiter
 ---
