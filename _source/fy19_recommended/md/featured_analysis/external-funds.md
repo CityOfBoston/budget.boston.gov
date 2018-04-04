@@ -21,8 +21,8 @@ components:
 - intro:
   - title: External funds
     short_desc: >
-      The City’s $3.14 billion operating budget is supplemented by 
-      approximately $304.9 million in external funds. These funds consist 
+      The City’s $3.29 billion operating budget is supplemented by 
+      approximately $350 million in external funds. These funds consist 
       mainly of federal, state, and private funding earmarked for specific 
       purposes. 
     description: >
@@ -34,7 +34,7 @@ components:
 - text_col_2:
   - col: >
       <h5>Departments and external funding</h5>
-      <p>Twenty-seven departments and agencies expect to receive federal, state or other forms of external funding in FY18. Over 93% of the City’s external funds are found in eight of those twenty-six departments. These eight departments are:</p>
+      <p>Twenty-six departments and agencies expect to receive federal, state or other forms of external funding in FY19. Over 92% of the City’s external funds are found in eight of those twenty-six departments. These eight departments are:</p>
       <ul>
       <li>Boston Public Schools;</li>
       <li>Neighborhood Development;</li>
@@ -58,14 +58,14 @@ components:
       link: /operating-budget
     columns: 
       - "Department": Boston Public Schools
-        "FY16 Expenditure": 
-          value: 125769704
-          filter: delimiter
-        "FY17 Estimated":
-          value: 135341288
+        "FY17 Expenditure": 
+          value: 138414193
           filter: delimiter
         "FY18 Estimated":
           value: 137222603
+          filter: delimiter
+        "FY19 Estimated":
+          value: 137062144
           filter: delimiter
       - "Department": Neighborhood Development
         "FY16 Expenditure": 
