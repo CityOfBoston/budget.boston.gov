@@ -1,13 +1,13 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/health-safety-firefighter-health-safety/
+permalink: /featured-analysis/public-safety-for-a-growing-city/
 title: Public Safety for a Growing City
 card:
   - title: Public Safety for a Growing City
     body: >
       Boston is investing in initiatives to to meet the public safety needs of a growing City.
     img: /img/fa-health-safety-firefighter-health-safety.jpg
-    link: /featured-analysis/health-safety-firefighter-health-safety
+    link: /featured-analysis/public-safety-for-a-growing-city
 components:
 - breadcrumbs:
   - title: Home
@@ -34,7 +34,12 @@ components:
     body: >
       <p>Mayor Walsh has made investing in EMS a priority since taking office. In FY17, the Mayor added 20 new EMTs which curbed the rising Priority 1 response times and reduced calls referred to private ambulances. In FY18, Mayor Walsh launched an innovative Community Assistance Team that uses data to change the way EMTs are deployed to areas including the Boston Common and Recovery Road to improve patient outcomes and ambulance utilization.</p>
       <p>The FY19 budget again adds 20 more new EMTs, bringing the total uniformed force to nearly 400 citywide. These crews will work in neighborhoods across the city to continue responding to the growing number of EMS calls. The FY19 budget will also include eight replacement ambulances to support the new EMTs. This commitment by Mayor Walsh will make real progress to ensuring a high-level of service for all neighborhoods, and aims to have ambulances arrive on scene for Priority 1 calls within six minutes of the initial call. This builds on the Mayors commitment to permanently increase EMS service in East Boston.</p>
-      
+- text_block:
+  - title: A 21st Century Firefighting Force
+    body: >
+      <p>The FY19 budget includes a significant technology investment in new equipment, including the replacement of six fire trucks for a total of 39 over four years, the replacement of vital radios, dual capacity routers and accompanying equipment. These investments will help ensure BFD has the tools it needs to respond when called upon.</p>
+      <p>Reflecting the Mayor's priority of firefighter health and safety, the Imagine Boston 2030 initiative to reduce cancer risks for firefighters is furthered in FY19. The budget continues a $500,000 program to provide industrial level cleaning for firehouses. These funds will pay to thoroughly clean ductwork, replace ceilings and/or repaint where necessary, and replace fabric furniture that has become contaminated with potentially carcinogenic compounds.</p>      
+      <p>Starting in FY16, the Fire Department, in conjunction with the Public Facilities Department, studied best practices for firehouse design and now has an enhanced set of building programs for new and renovated firehouses. The results of this cutting edge research and planning are reflected in the replacements of fire houses for Engines 42 and 17, at a total investment of $48 million. These two brand new houses will be among of the first firehouses in the nation to reflect these enhancements.</p>
 - grid: 
   - grid_title: More budget analysis
   - card: /featured-analysis/health-safety-proactive-agile-ems-through-data/
