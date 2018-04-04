@@ -16,10 +16,10 @@ components:
   - title: Featured Analysis
     url: "/featured-analysis/"
     local: true
-  - current: Promoting Firefighter Health and Safety
+  - current: Public Safety for a Growing City
   - published: 4/13/17
 - intro:
-  - title: Promoting firefighter health and safety
+  - title: Public Safety for a Growing City
     short_desc: >
       As part of the Imagine Boston 2030 initiative to reduce cancer risks for 
       firefighters, the FY18 budget will include $500,000 for a pilot program to 
