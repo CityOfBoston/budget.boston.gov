@@ -139,11 +139,6 @@ components:
       "FY17 Actual": 0.00
       "FY18 Budget": 40.00
       "FY19 Budget": 40.00
-    - "Source": Surplus property fund
-      "FY16 Actual": 0.00
-      "FY17 Actual": 0.00
-      "FY18 Budget": 0.00
-      "FY19 Budget": 0.00
     - "Source": Total revenues
       "total": true
       "FY16 Actual": 2,883.01
@@ -182,13 +177,6 @@ components:
       "FY17 Actual": 28.00
       "FY18 Budget": 11.39
       "FY19 Budget": 41.00
-    - "Expenditure":
-        name: BPS Reserve for Collective Bargaining
-        link: /operating-budget/reserves-for-collective-bargaining
-      "FY16 Actual": 0.00
-      "FY17 Actual": 0.00
-      "FY18 Budget": 0.00
-      "FY19 Budget": 0.00
     - "Expenditure":
         name: Other Post Employment Benefits
         link: /operating-budget/other-post-employment-benefits
