@@ -29,8 +29,8 @@ components:
   - title: Overview
     body:
     - blurb: > 
-        The City benefits from its strong financial policies and practices and has recently been 
-        affirmed with a AAA bond ratings from Moody’s and Standard and Poor’s. Strong bond 
+        The City benefits from its strong financial policies and practices. In February 2017, Boston's
+        triple A bond rating was affirmed by Moody’s Investors Service and Standard and Poor’s. Strong bond        
         ratings are an assessment of the City’s long-term financial stability and lower the cost 
         of borrowing. <blockquote>As the City borrows more over ten years to support investments 
         in its schools, debt service is projected to increase as well. In FY19 Debt Service is 
@@ -55,7 +55,7 @@ components:
           value: 157690624
           filter: delimiter
         "FY17 Actual": 
-          value: 1165305765
+          value: 165305765
           filter: delimiter
         "FY18 Budget": 
           value: 183566988
