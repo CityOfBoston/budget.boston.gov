@@ -17,11 +17,11 @@ components:
 - text_col_2: 
   - col: >
       <h5>Revenue</h5>
-      <p>Local sources continue to drive revenue growth in FY18, as property tax and local receipts make up 93% of revenue growth over FY17. While the City is expected to experience continued robust property tax growth in FY18, overall revenue growth is expected to be hampered by sluggish state revenue growth. State revenue, the City’s second largest revenue source, never recovered following the last recession, and in FY18, Boston’s state revenue is budgeted to grow at 2.5% over FY17. Net State Aid (state aid net of assessments) is budgeted to decline as continued increases in state assessments for charter school tuition surpass stagnant budgeted state revenue.
+      <p>Local sources continue to drive revenue growth in FY19, as property tax and local receipts make up 97% of revenue growth over FY18. While the City is expected to experience continued robust property tax growth in FY19, overall revenue growth is expected to be hampered by sluggish state revenue growth. State revenue, the City’s second largest revenue source, never recovered following the last recession, and in FY19, Boston’s state revenue is budgeted to only grow at 1.0% over FY18.  Net State Aid (state aid net of assessments) is budgeted to decline as continued increases in state assessments for charter school tuition outpace stagnant budgeted state revenue.
       </p>
   - col: >
       <h5>Expenditures</h5>
-      On the expenditure side, the FY19 budget reflects an increase of $137 million or 4.3% over the FY18 budget. Of that growth, 27% is dedicated to education (including Boston Public Schools and Charter School Tuition Assessment), 38% will go to all other City Services (such as Police, Fire, and Public Works) and the Public Health Commission, and the remaining 22% of growth will be consumed by pension, debt service and other fixed cost expenditures.
+      On the expenditure side, the FY19 budget reflects an increase of $137 million or 4.3% over the FY18 budget.  Of that growth, 27% is dedicated to education, including Boston Public Schools (BPS) and Charter School Tuition Assessment, and 31% will go to all other city services, such as Police, Fire, and Public Works, and the Public Health Commission. 22% of the growth comes from estimated employee wage increases in the collective bargaining reserve that will ultimately be transferred to education or city services and the remaining 20% of the growth will be consumed by pension, debt service and other fixed cost expenditures.
     sidebar_menu: true
 - table:
   - title: Budget summary
@@ -261,31 +261,20 @@ components:
 - text_col_2:
   - col: >
       <h5>Revenues</h5>
-      <p>The City’s projected revenues provide the basis for planning FY18 appropriations to maintain a balanced budget. Selected FY18 budgeted City revenues compare with FY17 budgeted revenues as follows: the net property tax levy increases $110.7 million or 5.4%; excises increase $720 thousand or 0.4%; miscellaneous department revenues increase by $9.7 million or 17.4%; licenses and permits increase by $3.5 million or 5.6%, and state aid increases by $10.7 million or 2.5%.</p>
+      <p>The City’s projected revenues provide the basis for planning FY19 appropriations to maintain a balanced budget. Selected FY19 budgeted City revenues compare with FY18 budgeted revenues as follows:  the net property tax levy increases $118.1 million or 5.4%; excises increase $9.2 million or 4.9%; fines increase $5.2 million or 8.2%; miscellaneous department revenues increase by $1.3 million or 2.2%; state aid increases by $4.4 million or 1.0%.</p>
       <h5>Expenditures</h5>
-      <p>On the expenditure side of the budget, total appropriations increase 
-      by $94.1 million or 4.0% and fixed costs increase by $49.6 million or 
-      8.0%. Selected FY18 budgeted appropriations compare with FY17 budgeted 
-      appropriations as follows: City Appropriations increase $32.0 million or 2.7%; the Boston Public Health Commission increases by $1.8 million or 2.3%; and the School Department increases $29.2 million or 2.8%. In 
-      addition, collective bargaining reserves are set aside for the School 
-      Department at $20 million and City Departments at $27 million; when 
-      collective bargaining agreements are negotiated, these reserves will be 
-      used to cover those increased costs. Within City Appropriations, actual 
-      City Departments are increasing by $25.6 million or 2.7% over FY17.</p>
+      <p>On the expenditure side of the budget, total appropriations increase by $89 million or 3.6% and fixed costs increase by $48 million or 7.1%. Selected FY19 budgeted appropriations compare with FY18 budgeted appropriations as follows: City appropriations increase $37.4 million or 3%; the Boston Public Health Commission increases by $5.4 million or 6.8%; and the School Department increases $16.5 million or 1.5%. In addition, a collective bargaining reserve has been set aside at $41 million; when the outstanding collective bargaining agreements are negotiated, these reserves will be used to cover those increased costs in City departments and at BPS. Within City Appropriations, actual City Departments are increasing by $32.5 million or 3.2% over FY18.</p>
   - col: >
       <h5>Other increases</h5>
-      <p>These departmental increases are low relative to other years due to the expiration of nearly
-      all collective bargaining agreements, 11 central appropriations, including a large appropriation 
-      for Health Insurance totaling $216.9 million which is increasing by $10.6 million or 5.2% and 
-      is also included within City Appropriations.</p>
-      <p>FY18 budgeted fixed costs are increasing by $49.6 million and compare with FY17 budgeted 
+      <p>These departmental increases now include wage increases for union contracts that have settled. City Appropriations also consist of 11 central appropriations, including a large appropriation for Health Insurance totaling $221 million, which has an increase of $4.8 million or 2.2%.</p>
+      <p>FY19 budgeted fixed costs are increasing by $48 million and compare with FY18 budgeted 
       fixed costs as follows:</p>
       <ul>
-        <li>Pensions increase $18.9 million or 9.5%;</li>
-        <li>Debt Service increases $10.6 million or 6.1%;</li>
-        <li>Charter School Tuition state assessment increases $17.5 million or 11.2%;</li>
-        <li>MBTA state assessment increases by $0.8 million or 1.0%; and</li>
-        <li>other state assessments increases $69 thousand or 1.5%.</li>
+        <li>Pensions increase $17.4 million or 7.9%;</li>
+        <li>Debt Service increases $7.7 million or 4.2%;</li>
+        <li>Charter School Tuition state assessment increases $20.5 million or 11.8%;</li>
+        <li>MBTA state assessment increases by $2.4 million or 2.8%; and</li>
+        <li>other state assessments increases $46 thousand or 1.0%.</li>
       </ul>
 - text_block:
   - title: Expenditures
