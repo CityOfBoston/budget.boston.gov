@@ -42,7 +42,7 @@ right_image: Exec Summary Figure 2 Growth Value v Net Prop Tax
 - text_block:
   - title: Keeping Boston Affordable
 body: >
-</blockquote>Despite these constraints, the Mayor is committed to keeping residential property tax bills down to retain more low and middle class homeowners in the city. Policies the Mayor has pursued are demonstrating success, as residential taxes fall 41% below last year’s statewide average.</blockquote>  
+<blockquote>Despite these constraints, the Mayor is committed to keeping residential property tax bills down to retain more low and middle class homeowners in the city. Policies the Mayor has pursued are demonstrating success, as residential taxes fall 41% below last year’s statewide average.</blockquote>  
 <p>Mayor Walsh advocated for a change in State law that increased the residential exemption limit from 30% to 35% of the average assessed value of all Class One residential properties. This year, the City Council, with the approval of the Mayor, once again chose the maximum exemption allowed by law. The FY18 residential exemption amount increased by $106 over last year’s amount.<p>
 <p>Additionally, the FY18 classified tax rates decreased from the FY17 levels, resulting in substantial savings for the City’s residential taxpayers, while still maximizing its taxable levy.<p>
 right_image: Revenue Chapter- Figure 6 – Boston Property Tax Trends
