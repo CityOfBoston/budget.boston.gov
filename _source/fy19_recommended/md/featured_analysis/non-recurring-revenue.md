@@ -24,10 +24,6 @@ components:
       The surplus property disposition fund contains the proceeds from 
       the sale of various City land or buildings. The use of these funds 
       is usually restricted to one-time expenditures.
-    description: >
-      The FY17 budget included a one-time transfer of $4 million from 
-      the surplus property disposition fund to the Boston Housing Authority. 
-      No funds are included in the FY18 Budget from this revenue source.
     sidebar_menu: true    
 - text_col_2:
   - col: >
@@ -40,10 +36,10 @@ components:
       appropriate for spending.</p>
   - col: >
       <h5>Using recurring revenue</h5>
-      <p>The FY15 and FY16 budget did not use any fund balance, instead using 
+      <p>The FY16 and FY17 budget did not use any fund balance, instead using 
       recurring revenue to support the appropriation for Other Post-employment 
       Benefits (OPEB), the liability associated with retiree health insurance costs. 
-      The FY17 and FY18 budget assume the use of $40.0 million to support OPEB.</p>
+      The FY18 and FY19 budget assumes the use of $40.0 million to support OPEB.</p>
 - grid:
   - grid_title: More budget analysis
   - card: /financial-management/
