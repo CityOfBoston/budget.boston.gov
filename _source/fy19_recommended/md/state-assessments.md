@@ -17,7 +17,7 @@ components:
     url: "/operating-budget/"
     local: true
   - current: State assessments
-  - published: 4/13/17
+  - published: 4/11/18
 - intro:
   - title: State assessments
     short_desc: >
@@ -42,17 +42,17 @@ components:
       name: Back to all expenditures
       link: /operating-budget/
     columns:
-    - "FY15 Actual": 
-        value: 81269504
-        filter: delimiter
-      "FY16 Actual": 
+    - "FY16 Actual": 
         value: 82998018
         filter: delimiter
-      "FY17 Budget": 
+      "FY17 Actual": 
         value: 83822948
         filter: delimiter
       "FY18 Budget": 
-        value: 85805225
+        value: 85895225
+        filter: delimiter
+      "FY19 Budget": 
+        value: 88209579
         filter: delimiter
 - table: 
   - title: Other State assessments
@@ -61,16 +61,16 @@ components:
       link: /operating-budget/
     columns:
     - "": Total
-      "FY15 Actual": 
-        value: 4583391
-        filter: delimiter
       "FY16 Actual": 
         value: 4789935
         filter: delimiter
-      "FY17 Budget": 
-        value: 5147939
+      "FY17 Actual": 
+        value: 4805273
         filter: delimiter
       "FY18 Budget": 
-        value: 4709987
+        value: 4856159
+        filter: delimiter
+      "FY19 Budget": 
+        value: 4902471
         filter: delimiter
 ---
