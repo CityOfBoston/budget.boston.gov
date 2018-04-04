@@ -5,7 +5,7 @@ title: Improving and Expanding Addiction Services
 card:
   - title: Access to Addiction Services
     body: >
-      Boston is expanding the PAATHS program services to evenings and weekends
+      Boston is expanding prevention and recovery services for young people.
     img: /img/fa-health-safety-addiction-services.jpg
     link: /featured-analysis/health-safety-addiction-services
 components:
@@ -21,39 +21,39 @@ components:
 - intro:
   - title: Improving and expanding addiction services
     short_desc: >
-      Throughout his Administration, Mayor Walsh has dedicated increased resources for 
-      helping those in need of substance use and addiction supports, including 55 
-      clinicians, outreach workers, homeless caseworkers and coordinators and other 
-      recovery staff at the Boston Public Health Commission (BPHC). 
+      Throughout his Administration, Mayor Walsh has continuously increased resources to those in need of substance use and addiction supports. 
     description: >
-      In August 2015, he created the Mayor’s Office of Recovery Services (ORS), the 
-      first municipal office in the U.S. solely dedicated to addressing substance use 
-      and addiction. In the past year, ORS initiated a partnership with Boston Fire, 
-      Police, and Emergency Medical Services (EMS) to provide recovery resources to 
-      residents following overdoses and teamed up with UMass-Boston to support 
-      its Student Recovery Communities.
+      While every new dollar and reform so far has helped someone struggling with addiction, the Mayor knows more needs to be done.
     sidebar_menu: true
 - text_block:
-  - title: Overview
-- text_col_2:
-  - col: >
-      <h5>311 for Recovery Services</h5>
-      <p>Last year, the Mayor launched 311 for Recovery Services, the City of Boston's 
-      new hotline support system designed to help people struggling with substance use and 
-      addiction to access recovery resources. The investment linked 311 service with the 
-      PAATHS (Providing Access to Addictions Treatment, Hope and Support) 
-      Program, a one-stop shop for individuals, families, community partners, and 
-      other treatment providers looking for information about, or access to, 
-      addiction treatment services. <blockquote>Due to this investment, PAATHS has seen 
-      a 50% increase in calls and a 74% increase in walk-ins, while the number of new 
-  - col: 
-    - blurb: >
-        <h5>PAATHS program</h5>
-        <p>In FY18, the City will build on the success of the PAATHS program and enable it 
-        to expand services to evenings and weekends. This new investment, which includes 
-        funding for three Public Health Advocates, a Clinician, and a Program Director, 
-        allows the program to remain open until 7:00 pm on weekdays and from 
-        9:00 am to 4:00 pm on weekends.</p>
+  - title: Tackling the Opioid Crisis and Substance Use Disorder
+  - body: >
+  <ul>
+  <li>In FY16, the Mayor created the Mayor’s Office of Recovery Services (ORS), the first municipal office in the U.S. solely dedicated to addressing addiction and recovery.</li>
+<li>In FY17, the Mayor launched 311 for Recovery Services. This hotline support system helps people struggling with substance abuse and addiction to access recovery resources.</li>
+<li>In FY18, the City expanded the Providing Access to Addictions Treatment, Hope and Support (PAATHS) Program services to evenings and weekends. The City also doubled the size of the Mobile Sharps team to pick up improperly discarded hypodermic needles, and added four new mental health clinicians to the Boston Emergency Services Team (BEST). This team responds with BPD, helping people exhibiting signs of mental illness and diverting people from arrest to mental health resources.</li>
+<li>In FY19, the Mayor will build on existing substance use disorder and addiction infrastructure at the Boston Public Health Commission (BPHC) to better serve prevention and recovery for young people.</li>
+  </ul>
+  
+- text_block:
+  - title: Long Island Bridge
+  - body: >
+  <p>In the FY19 budget, Mayor Walsh dedicates $80 million in new funding to rebuild the Long Island Bridge, the largest increase in funding for any city funded project. The Mayor will also set the stage for planning the comprehensive, long-term recovery campus that the City and State desperately need to tackle the opioid crisis.</p>
+  <ul>
+  <li>This $92 million bridge project will be funded through a combination of the City’s general obligation bonds and an appropriation from the Parking Meter Fund.</li>
+<li>Construction on the Bridge will begin in 2019, and will be completed within 3 years, unlocking the Island for a new comprehensive, long-term recovery campus.</li>
+<li>The City will also begin a programming and planning study to review the buildings currently on Long Island and updates needed to provide the new programming.</li>
+  </ul>
+  
+  - text_block:
+  - title: Permanent Engagement Center
+  - body: >
+<p>When open, Long Island will become part of the continuum of care for people struggling to reclaim their lives, from detox to residential treatment to transitional housing. In the meantime, Mayor Walsh is committed to providing more services to people battling addiction.</p>
+<p>The Engagement Center is a welcoming, low-threshold drop-in space for individuals receiving services in the Newmarket Square neighborhood. It was opened in August 2017 as a six-month pilot and provides space for participants to connect with recovery support services and to get connected with housing services offered by the City and partners.</p>
+<p>Since August, over 140,000 guests have accessed the Engagement Center in some form; either through daily nursing services, to reconnect with health insurance, to make primary care appointments, or to receive routine medical care. Building on the success of the pilot, Mayor Walsh is dedicating $1.8 million to make the Engagement Center permanent. This vital service will continue to be a lifeline for those suffering from addiction and homelessness.</p>
+
+  </ul>
+
     - img: /img/paaths-investments.png
 - grid: 
   - grid_title: More budget analysis
