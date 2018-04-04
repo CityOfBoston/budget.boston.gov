@@ -8,7 +8,7 @@ components:
     url: "/"
     local: true
   - current: Capital Projects
-  - published: 4/13/17
+  - published: 4/11/18
 - intro:
   - title: Capital Projects
     short_desc: >
@@ -28,7 +28,7 @@ components:
 - text_col_2:
   - col: >
       <p>With Imagine Boston 2030 and other City Planning efforts guiding many of
-      the investments in this plan, projects in the FY18-22 Capital Plan are categorized
+      the investments in this plan, projects in the FY19-23 Capital Plan are categorized
       within the Imagine Boston 2030 initiatives below.</p>
   - col: >
       <p>These capital investments are planned and funded through the City’s capital
@@ -38,7 +38,7 @@ components:
 - text_block:
   - title: Imagine Boston 2030
     body: >
-      Mayor Walsh’s $2.08 billion FY18-22 Capital Plan will make critical
+      Mayor Walsh’s $2.43 billion FY19-23 Capital Plan will make critical
       investments in the City’s infrastructure in every Boston neighborhood,
       guided by Imagine Boston 2030 and the schools, streets, arts, climate
       and resilience plans under its umbrella. <blockquote>More than 14,000 residents
@@ -57,12 +57,12 @@ components:
         </ul>
   - col: >
       <h5>Imagine Boston Capital Plan</h5>
-      <p>In FY18, Mayor Walsh is launching the Imagine Boston Capital Plan to move
+      <p>In FY18, Mayor Walsh launched the Imagine Boston Capital Plan to move
       Boston residents’ priorities from idea to action, and invest in creating the
       city Bostonians imagine for the future. Under the Imagine Boston 2030 umbrella,
       the City is investing deeply in the core goals of BuildBPS, Go Boston 2030,
-      Boston Creates, and Climate Ready Boston. An estimated 77% of the investment
-      in the FY18-22 Capital Plan is aligned with the City’s planning efforts:</p>
+      Boston Creates, and Climate Ready Boston. An estimated 84% of the investment
+      in the FY19-23 Capital Plan is aligned with the City’s planning efforts:</p>
 - text_col_2:
   - col: >
       <h5>Moving into the 21st century</h5>
@@ -759,9 +759,9 @@ components:
            value: 2433226069
            filter: delimiter
 - text_block:
-  - title: FY18 Expenditures Allocation
+  - title: FY19 Expenditures Allocation
     body: >
-      The City estimates FY18 capital expenditures will total $301 million from all sources
+      The City estimates FY19 capital expenditures will total $335 million from all sources
       (see Figure 2). All projects in the capital plan are categorized as
       Upkeep, Upgrade, New/Major Renovation, Planning or Matching Funds. OBM tracks
       the overall distribution of these categories to maintain a balance between the
@@ -771,7 +771,7 @@ components:
     - img: /img/capital-expenditures.png
   - col: >
       <h5>Upkeep</h5>
-      <p>Upkeep represents projects that maintain the City’s assets, a fundamental priority of the Capital Plan. In FY18, 21% of projected spending supports Upkeep projects. These include:</p>
+      <p>Upkeep represents projects that maintain the City’s assets, a fundamental priority of the Capital Plan. In FY19, 22% of projected spending supports Upkeep projects. These include:</p>
       <ul>
       <li>roof and masonry repairs;</li>
       <li>the replacement of play equipment in parks;</li>
@@ -785,13 +785,13 @@ components:
   - col: >
       <h5>Upgrade</h5>
       <p>Upgrade represents projects that improve existing assets by adding new capacity
-      or innovations. This year’s upgrade allocations account for 51% of projected spending,
+      or innovations. This year’s upgrade allocations account for 38% of projected spending,
       and includes projects such as Connect Historic Boston – the redesign of several Downtown
       streets with support from a Federal grant – and new equipment for the police radio
       system.</p>
   - col: >      
       <h5>New/Major Renovations</h5>
-      <p>New/Major Renovations represents 26% of the FY18 allocations. New facilities and
+      <p>New/Major Renovations represents 35% of the FY19 allocations. New facilities and
       rehabilitation projects for schools, libraries, parks and community centers enable
       the City’s facilities to adapt to fit the needs of today’s programs, improve the ‘green’
       performance of facilities, and extend the useful life of older assets. Highlights in
@@ -800,12 +800,10 @@ components:
 - text_col_2:
   - col: >
       <h5>Planning or Matching Funds</h5>
-      <p>About 2% of the FY18 budget is assigned to matching fund requirements and to
+      <p>About 1% of the FY19 budget is assigned to matching fund requirements and to
       planning projects. Comprehensive planning projects, which analyze a group of buildings or
       program needs, provide the groundwork for targeted investments in the categories of Upgrade
-      and New/Major Renovations. Projects in this category include funds for a master plan of
-      the Frog Pond at Boston Common and a transportation study of the Bowdoin Street/Geneva
-      Avenue area of Dorchester.</p>
+      and New/Major Renovations.</p>
   - col: >
       <h5>Other projects</h5>
       <p>The Matching fund category includes projects where the City covers the cost of design
