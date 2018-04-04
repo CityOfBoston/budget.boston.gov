@@ -1,13 +1,13 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/streets-keeping-streets-clean-safe/
-title: Keeping Boston's Streets Clean and Safe
+permalink: /featured-analysis/streets/
+title: Streets
 card:
   - title: Keeping Streets Clean and Safe
     body: >
-      The FY18 budget invests in making sure city streets are clean and safe.
+      The FY19 budget invests in making sure city streets are clean and safe.
     img: /img/fa-streets-keeping-streets-clean-safe.jpg
-    link: /featured-analysis/streets-keeping-streets-clean-safe/
+    link: /featured-analysis/streets/
 components:
 - breadcrumbs:
   - title: Home
@@ -16,34 +16,23 @@ components:
   - title: Featured Analysis
     url: "/featured-analysis/"
     local: true
-  - current: Keeping Boston's Streets Clean and Safe
+  - current: Streets
   - published: 4/13/17
 - intro:
-  - title: Keeping Boston's streets clean and safe
+  - title: streets
     short_desc: >
-      As part of the Mayor’s focus on basic quality of life issues, the FY18 
-      budget invests in making sure that city streets in every neighborhood are clean.
+      The FY19 budget utilizes new transportation revenue to encourage better traffic management and allow the City to dramatically accelerate implementation of Go Boston 2030 projects.
     description: >
-      To enhance service levels for all of Boston’s neighborhoods, the FY18 budget 
-      includes additional resources for the hokey program, where City hokeys (street 
-      cleaners) patrol neighborhoods, empty out litter baskets, and pick up trash around 
-      the City. <blockquote>This investment will fund an additional six full time hokeys, 
-      allowing the department to staff one hokey in each of Boston’s ten Public Works 
-      Districts.</blockquote> 
+      ?? s.
     sidebar_menu: true
 - text_block:
-  - title: Overview
+  - title: Transforming the Future of Transportation
+  body: >
+    Mayor Walsh released Go Boston 2030 in March 2017 to push Boston for streets and sidewalks that are safer, travel that is more    reliable and predictable, and quality transportation choices that improve access and interconnect our neighborhoods for all modes of travel. Driven by these core goals of safety, reliability, equity and access, Mayor Walsh’s FY19 operating and FY19-FY23 capital budget dedicates transformational funding for transportation projects. By increasing certain parking fines in FY19, the City will produce positive results by changing driver behavior and reducing congestion in high traffic areas, as well as allow the City to make $5 million in signature investments in transportation projects.
 - text_col_2:
   - col: >
-      <h5>Clear lane markings</h5>
-      <p>To improve safety and expand access to our streets, Boston is launching a citywide, 
-      multi-year campaign to bring all crosswalks, lane markings, and bike lanes into a 
-      state of good repair. As Boston works to expand access to make Boston's neighborhoods 
-      interconnected for all modes of travel, including driving, cycling, and walking, it is 
-      important to ensure that our roadways are designed to maximize the safety of such modes 
-      of travel. Clear lane markings including crosswalks, "Don't Block the Box" markings 
-      at key intersections, and well marked bike lanes with appropriate insignia all help to 
-      reduce collisions, making our roadways safer for all users.
+      <h5>Investing in Streets & Signals</h5>
+      <p>A subset of the $5 million investment is focused on improving the basics of the City's 800 miles of streets, 1,600 miles of sidewalks, and over 800 traffic signals. 
       </p>
   - col: >
       <h5>Repairing sidewalks</h5>
