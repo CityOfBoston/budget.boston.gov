@@ -21,7 +21,7 @@ components:
 - intro:
   - title: BuildBPS
     short_desc: >
-      The FY18-22 Capital Plan funds facility and technology projects that support education and youth 
+      The FY19-23 Capital Plan funds facility and technology projects that support education and youth 
       achievement in all neighborhoods across the City. Mayor Walsh announced a $1 billion investment 
       to modernize Boston's public school infrastructure, and the 
       <a href="http://www.bostonpublicschools.org/buildbps">BuildBPS plan</a> will guide that process.
