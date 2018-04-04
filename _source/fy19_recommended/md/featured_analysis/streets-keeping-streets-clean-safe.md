@@ -22,8 +22,6 @@ components:
   - title: streets
     short_desc: >
       The FY19 budget utilizes new transportation revenue to encourage better traffic management and allow the City to dramatically accelerate implementation of Go Boston 2030 projects.
-    description: >
-      ?? s.
     sidebar_menu: true
 - text_block:
   - title: Transforming the Future of Transportation
@@ -32,7 +30,15 @@ components:
 - text_col_2:
   - col: >
       <h5>Investing in Streets & Signals</h5>
-      <p>A subset of the $5 million investment is focused on improving the basics of the City's 800 miles of streets, 1,600 miles of sidewalks, and over 800 traffic signals. 
+      <p>A subset of the $5 million investment is focused on improving the basics of the City's 800 miles of streets, 1,600 miles of sidewalks, and over 800 traffic signals, including:
+  <ul>
+    <li>$2 million increase in investment for roadway resurfacing and sidewalk repairs.</li>
+    <li>$150,000 for stormwater interventions on our roadways to better manage high precipitation events.</li>
+    <li>One new traffic signal engineer to manage and retime traffic signals to increase safety, and reduce traffic congestion and related vehicle emissions.<li>
+    <li>Two new traffic signal mechanics to keep signals working as designed.</li>
+  </ul>
+  
+      
       </p>
   - col: >
       <h5>Repairing sidewalks</h5>
