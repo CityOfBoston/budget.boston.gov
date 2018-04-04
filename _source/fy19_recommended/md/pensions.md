@@ -46,16 +46,16 @@ components:
       link: /operating-budget
     columns:
       - "": Total
-        "FY15 Actual": 
-          value: 169624584
-          filter: delimiter
         "FY16 Actual": 
           value: 196548695
           filter: delimiter
-        "FY17 Budget": 
+        "FY17 Actual": 
           value: 199279888
           filter: delimiter
         "FY18 Budget": 
-          value: 218208797
+          value: 221301615
+          filter: delimiter
+        "FY19 Budget": 
+          value: 238710065
           filter: delimiter
 ---
