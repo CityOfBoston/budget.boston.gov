@@ -95,6 +95,10 @@ components:
   - card: /featured-analysis/education-overview/
   - card: /featured-analysis/city-services/
   - card: /featured-analysis/pensions-debt-service-other-fixed-costs/
+  - link:
+      title: View more education priorities
+      path: /featured-analysis#education
+      button: true
 - text_block:
   - title: FY18 Budget Priorities
     body: >

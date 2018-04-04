@@ -71,6 +71,11 @@
           {% endif %}
         {% endfor %}
       {% endif %}
+      {% if item.link %}
+      <p>
+      <a href="{{ site.url }}{{ item.link.path }}" {% if item.link.button %}class="button"{% endif %}>{{ item.link.title }}</a>
+      </p>
+      {% endif %}
     {% endfor %}
     </div>
   </div>
