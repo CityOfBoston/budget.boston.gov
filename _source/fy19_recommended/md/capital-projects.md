@@ -77,7 +77,7 @@ components:
           engagement.</li>
         </ul>
       <h5>Core initiatives</h5>
-      <p>Boston, in collaboration with State and Federal sources, will invest $709
+      <p>Boston, in collaboration with State and Federal sources, will invest $967
       million over the next five years in implementing the core initiatives outlined
       in Go Boston 2030:</p>
         <ul>
@@ -811,7 +811,7 @@ components:
       construction funds on projects such as the new North Washington Street Bridge and the
       South Bay Harbor Trail.</p>
 - text_block:
-  - title: FY18-FY22 Project Highlights
+  - title: FY19-FY23 Project Highlights
 - text_col_3:
   - col: >
       <ul>
