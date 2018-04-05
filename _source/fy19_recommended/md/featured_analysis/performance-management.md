@@ -137,7 +137,7 @@ components:
 - text_block:
   - title: Priority FY19 performance goals
     body: >
-      The Mayor’s FY18 budget priorities highlight the vision to create an environment that promotes 
+      The Mayor’s FY19 budget priorities highlight the vision to create an environment that promotes 
       equity, builds community, and helps fulfill Boston’s great promise. The performance measures listed 
       below reflect the City’s top priorities and the partnerships necessary to achieve these ambitious 
       goals.
