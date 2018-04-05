@@ -1,13 +1,13 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/financing-fy18-fy22-capital-plan/
+permalink: /featured-analysis/financing-fy19-fy23-capital-plan/
 title: Financing the FY19-FY23 Capital Plan
 card:
   - title: Financing the FY19-FY23 Capital Plan
     body: >
       City bonds support 60% of the Capital Plan. Learn more about how the City funds the plan.
     img: /img/fa-financing-fy18-fy22-capital-plan.jpg
-    link: /featured-analysis/financing-fy18-fy22-capital-plan
+    link: /featured-analysis/financing-fy19-fy23-capital-plan
 components:
 - breadcrumbs:
   - title: Home
@@ -98,30 +98,23 @@ components:
       <p>City sources of Other Funds include the Street Opening Account which funds the permanent 
       repair of utility cuts and pavement restoration. Transfers from the Surplus Property Fund, 
       Parking Meter Fund, and the General Fund are also categorized as Other Funds.</p>
-      <p>In fiscal 2018, the City proposes transferring $45.4 million from the Parking Meter 
-      Fund to the Capital Grants Fund and appropriating it for sixteen one-time capital projects, 
-      including:</p>
+      <p>In fiscal 2019, the City proposes transferring $53.8 million from the Parking Meter 
+      Fund to the Capital Grants Fund and appropriating it for ten projects including:</p> 
         <ul>
-          <li>the reconstruction of pathways around Jamaica Pond;
+          <li>the construction of a new Long Island Bridge;
           <li>a Crosswalk and Lane Marking Revitalization initiative; and</li>
-          <li>the reconstruction of Beach Street.</li>
+          <li>the reconstruction of Ruggles Street.</li>
         </ul>
       <p>Using the Parking Meter Fund revenue in this way allows the City to make increased 
       investments in infrastructure at the same time that increased investment in the BuildBPS 
       program is supported by additional debt issuance.</p>
   - col: >      
-      <h5>Constraints of debt</h5>
-      <p>The constraints of our debt affordability policies limit the City’s capacity to 
-      address both needs through debt issuance alone. This is an opportunity to use available 
-      Parking Meter Fund balances for investments in one-time projects aligned with Go Boston 
-      2030, the City’s transportation master plan. Through this appropriation, the City will 
-      address important transportation capital needs.</p>
       <h5>Non-City sources of Other Funds</h5>
       <p>Non-City sources of Other Funds include grants from the Boston Planning and Development 
       Agency for roadway construction or other capital projects, as is the case with Harrison 
       Avenue and Connect Historic Boston. Other Funds also include incentive rebates provided by 
       utilities to carry out energy efficiency projects. Altogether, these City and non-City 
-      sources of capital funds are estimated at $145.8 million.</p>
+      sources of capital funds are estimated at $243.5 million.</p>
 - grid: 
   - grid_title: More budget analysis
   - card: /featured-analysis/bps-long-term-financial-plan
