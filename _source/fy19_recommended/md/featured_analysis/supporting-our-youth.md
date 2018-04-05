@@ -48,9 +48,9 @@ components:
       <p>The FY19 budget enhances and maintains successful programs that expose youth to opportunity through summer and year-round jobs</p> 
 - text_col_2: 
   - col: >
-    <ul><li>The FY19 budget continues to invest in 3,300 summer jobs for youth and 500 school-year jobs to grow career paths and opportunities for Boston’s youth</li></ul>
+      <ul><li>The FY19 budget continues to invest in 3,300 summer jobs for youth and 500 school-year jobs to grow career paths and opportunities for Boston’s youth</li></ul>
   - col: >
-    <ul><li>In FY19 the Police Department will again fund $250,000 in youth development grants to complement the City’s existing programs like Summer Jobs, the Shannon Grant program and the Safe and Successful Youth Initiative.</li></ul> 
+      <ul><li>In FY19 the Police Department will again fund $250,000 in youth development grants to complement the City’s existing programs like Summer Jobs, the Shannon Grant program and the Safe and Successful Youth Initiative.</li></ul> 
 - grid: 
   - grid_title: More budget analysis
   - card: /featured-analysis/prosperity-racial-equity-diversity-economic-mobility/

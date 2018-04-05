@@ -46,12 +46,12 @@ components:
   - col: >
       <h5>Ambitious initiatives</h5>
       <p>An ambitious set of initiatives form the foundation of the Imagine Boston 2030 plan. Taken together, these initiatives will support Boston's dynamic economy and improve quality of life for residents by:
-        <ul>
-          <li>encouraging affordability;</li>
-          <li>increasing access to opportunity;</li>
-          <li>promoting a healthy environment; and</li>
-          <li>guiding investment in the public realm.</li>
-        </ul>
+      <ul>
+      <li>encouraging affordability;</li>
+      <li>increasing access to opportunity;</li>
+      <li>promoting a healthy environment; and</li>
+      <li>guiding investment in the public realm.</li>
+      </ul>
   - col: >
       <h5>Imagine Boston Capital Plan</h5>
       <p>In FY18, Mayor Walsh launched the Imagine Boston Capital Plan to move
@@ -103,9 +103,9 @@ components:
 - table:
   - title: Spending By Investment Category
     columns:
- - "Category":
-          name: Arts and Culture
-          link: /capital-projects/arts-and-culture
+      - "Category":
+           name: Arts and Culture
+           link: /capital-projects/arts-and-culture
         "Through 6/30/17":
            value: 597583
            filter: delimiter
@@ -125,8 +125,8 @@ components:
            value: 145000000
            filter: delimiter
       - "Category":
-          name: Economy
-          link: /capital-projects/economy
+           name: Economy
+           link: /capital-projects/economy
         "Through 6/30/17":
            value: 518450
            filter: delimiter
@@ -146,8 +146,8 @@ components:
            value: 13615000
            filter: delimiter
       - "Category":
-          name: Education
-          link: /capital-projects/education
+           name: Education
+           link: /capital-projects/education
         "Through 6/30/17":
            value: 67359434
            filter: delimiter
@@ -167,8 +167,8 @@ components:
            value: 591175917
            filter: delimiter
       - "Category":
-          name: Energy and Environment
-          link: /capital-projects/energy-and-environment
+           name: Energy and Environment
+           link: /capital-projects/energy-and-environment
         "Through 6/30/17":
            value: 24856162
            filter: delimiter
@@ -188,8 +188,8 @@ components:
            value: 95649470
            filter: delimiter
       - "Category":
-          name: Government Effectiveness
-          link: /capital-projects/government-effectiveness
+           name: Government Effectiveness
+           link: /capital-projects/government-effectiveness
         "Through 6/30/17":
            value: 3880198
            filter: delimiter
@@ -209,8 +209,8 @@ components:
            value: 102968558
            filter: delimiter
       - "Category":
-          name: Health
-          link: /capital-projects/health
+           name: Health
+           link: /capital-projects/health
         "Through 6/30/17":
            value: 3030356
            filter: delimiter
@@ -230,8 +230,8 @@ components:
            value: 49468300
            filter: delimiter
       - "Category":
-          name: Housing
-          link: /capital-projects/housing
+           name: Housing
+           link: /capital-projects/housing
         "Through 6/30/17":
            value: 47263
            filter: delimiter
@@ -251,8 +251,8 @@ components:
            value: 5550000
            filter: delimiter
       - "Category":
-          name: Open Space
-          link: /capital-projects/open-space
+           name: Open Space
+           link: /capital-projects/open-space
         "Through 6/30/17":
            value: 24194541
            filter: delimiter
@@ -272,8 +272,8 @@ components:
            value: 230966232
            filter: delimiter
       - "Category":
-          name: Public Safety
-          link: /capital-projects/public-safety
+           name: Public Safety
+           link: /capital-projects/public-safety
         "Through 6/30/17":
            value: 11966296
            filter: delimiter
@@ -293,8 +293,8 @@ components:
            value: 164655000
            filter: delimiter
       - "Category":
-          name: Technology
-          link: /capital-projects/technology
+           name: Technology
+           link: /capital-projects/technology
         "Through 6/30/17":
            value: 31365582
            filter: delimiter
@@ -314,8 +314,8 @@ components:
            value: 130511194
            filter: delimiter
       - "Category":
-         name: Transportation
-         link: /capital-projects/transportation
+           name: Transportation
+           link: /capital-projects/transportation
         "Through 6/30/17":
            value: 96366571
            filter: delimiter
@@ -358,8 +358,8 @@ components:
   - title: Spending By Department
     columns:
       - "Department":
-          name: Boston Centers for Youth and Families
-          link: /capital-projects/boston-centers-for-youth-and-families
+           name: Boston Centers for Youth and Families
+           link: /capital-projects/boston-centers-for-youth-and-families
         "Through 6/30/17":
            value: 4334638
            filter: delimiter
@@ -379,8 +379,8 @@ components:
            value: 50130000
            filter: delimiter
       - "Department":
-          name: Boston Planning and Development Agency
-          link: /capital-projects/boston-planning-and-development-agency
+           name: Boston Planning and Development Agency
+           link: /capital-projects/boston-planning-and-development-agency
         "Through 6/30/17":
            value: 0
            filter: delimiter
@@ -400,8 +400,8 @@ components:
            value: 3000000
            filter: delimiter
       - "Department":
-          name: Boston Public Library
-          link: /capital-projects/boston-public-library
+           name: Boston Public Library
+           link: /capital-projects/boston-public-library
         "Through 6/30/17":
            value: 410722
            filter: delimiter
@@ -421,8 +421,8 @@ components:
            value: 128535000
            filter: delimiter
       - "Department":
-          name: Boston Public Schools
-          link: /capital-projects/boston-public-schools
+           name: Boston Public Schools
+           link: /capital-projects/boston-public-schools
         "Through 6/30/17":
            value: 67359434
            filter: delimiter
@@ -442,8 +442,8 @@ components:
            value: 591175917
            filter: delimiter
       - "Department":
-          name: Department of Innovation and Technology
-          link: /capital-projects/department-of-innovation-and-technology
+           name: Department of Innovation and Technology
+           link: /capital-projects/department-of-innovation-and-technology
         "Through 6/30/17":
            value: 30934979
            filter: delimiter
@@ -463,8 +463,8 @@ components:
            value: 109714087
            filter: delimiter
       - "Department":
-          name: Emergency Management
-          link: /capital-projects/emergency-management
+           name: Emergency Management
+           link: /capital-projects/emergency-management
         "Through 6/30/17":
            value: 0
            filter: delimiter
@@ -484,8 +484,8 @@ components:
            value: 1500000
            filter: delimiter
       - "Department":
-          name: Environment Department
-          link: /capital-projects/environment-department
+           name: Environment Department
+           link: /capital-projects/environment-department
         "Through 6/30/17":
            value: 38400
            filter: delimiter
@@ -505,8 +505,8 @@ components:
            value: 61625000
            filter: delimiter
       - "Department":
-          name: Fire Department
-          link: /capital-projects/fire-department
+           name: Fire Department
+           link: /capital-projects/fire-department
         "Through 6/30/17":
            value: 2234885
            filter: delimiter
@@ -526,8 +526,8 @@ components:
            value: 78851439
            filter: delimiter
       - "Department":
-          name: Inspectional Services Department
-          link: /capital-projects/inspectional-services-department
+           name: Inspectional Services Department
+           link: /capital-projects/inspectional-services-department
         "Through 6/30/17":
            value: 0
            filter: delimiter
@@ -547,8 +547,8 @@ components:
            value: 100000
            filter: delimiter
       - "Department":
-          name: Neighborhood Development
-          link: /capital-projects/neighborhood-development
+           name: Neighborhood Development
+           link: /capital-projects/neighborhood-development
         "Through 6/30/17":
            value: 400449
            filter: delimiter
@@ -568,8 +568,8 @@ components:
            value: 5490000
            filter: delimiter
       - "Department":
-          name: Office of Arts and Culture
-          link: /capital-projects/office-of-arts-and-culture
+           name: Office of Arts and Culture
+           link: /capital-projects/office-of-arts-and-culture
         "Through 6/30/17":
            value: 0
            filter: delimiter
@@ -589,8 +589,8 @@ components:
            value: 11600000
            filter: delimiter
       - "Department":
-          name: Office of New Urban Mechanics
-          link: /capital-projects/office-of-new-urban-mechanics
+           name: Office of New Urban Mechanics
+           link: /capital-projects/office-of-new-urban-mechanics
         "Through 6/30/17":
            value: 30250
            filter: delimiter
@@ -610,8 +610,8 @@ components:
            value: 200000
            filter: delimiter
       - "Department":
-          name: Parks and Recreation Department
-          link: /capital-projects/parks-and-recreation-department
+           name: Parks and Recreation Department
+           link: /capital-projects/parks-and-recreation-department
         "Through 6/30/17":
            value: 24194541
            filter: delimiter
@@ -631,8 +631,8 @@ components:
            value: 228686232
            filter: delimiter
       - "Department":
-          name: Police Department
-          link: /capital-projects/police-department
+           name: Police Department
+           link: /capital-projects/police-department
         "Through 6/30/17":
            value: 11534450
            filter: delimiter
@@ -652,8 +652,8 @@ components:
            value: 87479000
            filter: delimiter
       - "Department":
-          name: Property Management Department
-          link: /capital-projects/property-management-department
+           name: Property Management Department
+           link: /capital-projects/property-management-department
         "Through 6/30/17":
            value: 2400840
            filter: delimiter
@@ -673,8 +673,8 @@ components:
            value: 97946058
            filter: delimiter
       - "Department":
-          name: Public Health Commission
-          link: /capital-projects/public-health-commission
+           name: Public Health Commission
+           link: /capital-projects/public-health-commission
         "Through 6/30/17":
            value: 192089
            filter: delimiter
@@ -694,8 +694,8 @@ components:
            value: 10688300
            filter: delimiter
       - "Department":
-          name: Public Works Department
-          link: /capital-projects/public-works-department
+           name: Public Works Department
+           link: /capital-projects/public-works-department
         "Through 6/30/17":
            value: 107469497
            filter: delimiter
@@ -715,8 +715,8 @@ components:
            value: 851431071
            filter: delimiter
       - "Department":
-          name: Transportation Department
-          link: /capital-projects/transportation-department
+           name: Transportation Department
+           link: /capital-projects/transportation-department
         "Through 6/30/17":
            value: 12647262
            filter: delimiter
