@@ -38,25 +38,27 @@ components:
 - text_block:
   - title: Imagine Boston 2030
     body: >
-      Mayor Walsh’s $2.4 billion Imagine Boston FY19-23 capital plan will make critical investments in the City’s infrastructure in every Boston neighborhood, guided by Imagine Boston 2030 and the schools, streets, arts, climate and resilience plans under its umbrella. <blockquote>More than 14,000 residents
-      have shaped Imagine Boston 2030 by articulating the challenges Boston faces,
-      setting goals for the city in 2030, and generating ideas about policies and
-      investments to help achieve these goals.</blockquote>
+      Mayor Walsh’s $2.4 billion Imagine Boston FY19-23 capital plan will make critical 
+      investments in the City’s infrastructure in every Boston neighborhood, guided by
+      Imagine Boston 2030 and the schools, streets, arts, climate and resilience plans 
+      under its umbrella. <blockquote>More than 14,000 residents have shaped Imagine Boston
+      2030 by articulating the challenges Boston faces, setting goals for the city in 2030, 
+      and generating ideas about policies and investments to help achieve these goals.</blockquote>
 - text_col_2:
   - col: >
       <h5>Ambitious initiatives</h5>
       <p>An ambitious set of initiatives form the foundation of the Imagine Boston 2030 plan. Taken together, these initiatives will support Boston's dynamic economy and improve quality of life for residents by:
         <ul>
-          <li>encouraging affordability;</li>
-          <li>increasing access to opportunity;</li>
-          <li>promoting a healthy environment; and</li>
-          <li>guiding investment in the public realm.</li>
+          <li>Encouraging affordability;</li>
+          <li>Increasing access to opportunity;</li>
+          <li>Promoting a healthy environment; and</li>
+          <li>Guiding investment in the public realm</li>
         </ul>
   - col: >
       <h5>Imagine Boston Capital Plan</h5>
-      <p>In FY18, Mayor Walsh launched the Imagine Boston Capital Plan to move
+      <p>Last Year, Mayor Walsh launched the Imagine Boston Capital Plan to move
       Boston residents’ priorities from idea to action, and invest in creating the
-      city Bostonians imagine for the future. Under the Imagine Boston 2030 umbrella,
+      city Bostonians imagine for the future. This year, under the Imagine Boston 2030 umbrella,
       the City is investing deeply in the core goals of BuildBPS, Go Boston 2030,
       Boston Creates, and Climate Ready Boston. An estimated 84% of the investment
       in the FY19-23 Capital Plan is aligned with the City’s planning efforts:</p>
@@ -69,7 +71,8 @@ components:
         <ul>
           <li>21st century classrooms;</li>
           <li>MSBA Accelerated Repair Program partnerships;</li>
-          <li>Completion of projects in the pipeline; and</li>
+          <li>Completion of projects in the pipeline;</li>
+          <li>School kitchen renovations that support the delivery of fresh, nutrishious food; and</li>
           <li>Reserves for future projects identified by BuildBPS community
           engagement.</li>
         </ul>
@@ -92,7 +95,7 @@ components:
       park for the city, completing the Emerald Necklace, and restoring Boston Common to
       its full vibrancy.</p>
       <h5>Preparing for climate change</h5>
-      <p>Boston will prepare for climate change by investing City dollars and outside funding
+      <p>Boston will prepare for climate change by investing City capital dollars and external funding
       to develop more detailed climate plans for Boston neighborhoods, especially those most
       at risk for coastal flooding, as recommended in Climate Ready Boston.</p>
       <h5>Percent for Art Program</h5>
@@ -758,9 +761,9 @@ components:
 - text_block:
   - title: FY19 Expenditures Allocation
     body: >
-      The City estimates FY19 capital expenditures will total $335 million from all sources
-      (see Figure 2). All projects in the capital plan are categorized as
-      Upkeep, Upgrade, New/Major Renovation, Planning or Matching Funds. OBM tracks
+      The City estimates FY19 capital expenditures from all sources will total $335 million
+      from all sources (see Figure 2). All projects in the capital plan are categorized as
+      Upkeep, Upgrade, New/Major Renovation, Planning or Matching Funds. The City tracks
       the overall distribution of these categories to maintain a balance between the
       upkeep of existing assets and the expansion or introduction of new ones.
 - text_col_2:
@@ -770,10 +773,10 @@ components:
       <h5>Upkeep</h5>
       <p>Upkeep represents projects that maintain the City’s assets, a fundamental priority of the Capital Plan. In FY19, 22% of projected spending supports Upkeep projects. These include:</p>
       <ul>
-      <li>roof and masonry repairs;</li>
-      <li>the replacement of play equipment in parks;</li>
+      <li>Roof and masonry repairs;</li>
+      <li>Replacement of play equipment in parks;</li>
       <li>HVAC and boiler replacement; and</li>
-      <li>critical repair funds for departments to address relatively small but vital repair projects not covered by routine maintenance.</li>
+      <li>Critical repair funds for departments to address relatively small but vital repair projects not covered by routine maintenance.</li>
       </ul>
       <p>A substantial portion of the Upkeep category supports on-going bridge, street,
       sidewalk, and street lighting repairs that ensure the City’s roads and sidewalks
@@ -788,7 +791,7 @@ components:
       system.</p>
   - col: >      
       <h5>New/Major Renovations</h5>
-      <p>New/Major Renovations represents 35% of the FY19 allocations. New facilities and
+      <p>New/Major Renovations represents 34% of the FY19 allocations. New facilities and
       rehabilitation projects for schools, libraries, parks and community centers enable
       the City’s facilities to adapt to fit the needs of today’s programs, improve the ‘green’
       performance of facilities, and extend the useful life of older assets. Highlights in
@@ -813,25 +816,29 @@ components:
   - col: >
       <ul>
         <li>Education</li>
+        <li>Boston Arts Academy</li>
+        <li>My Way Cafe Kitchen Program</li>
         <li>BuildBPS: 21st Century Schools Fund</li>
-        <li>Dearborn STEM Academy</li>
         <li>Transportation</li>
         <li>Boylston Street Sidewalks</li>
         <li>Vision Zero</li>
-        <li>Hyde Square</li>
+        <li>Road and Sidewalk Reconstruction</li>
+        <li>Long Island Bridge</li>
         <li>Technology</li>
         <li>Digital Engagement Upgrades</li>
-        <li>Father Hart Bridge Traffic Improvements</li>
         <li>Open Space</li>
-         <li>Jamaica Pond Pathways and Perimeter</li>
+        <li>Franklin Park Planning</li>
       </ul>
   - col: >
       <ul>
-        <li>Martin’s Park</li>
+        <li>Boston Common Planning</li>
+        <li>Jamaica Pond Pathways & Perimeter</li>
+        <li>Martin's Park</li>
         <li>Energy and Environment</li>
-        <li>Climate Ready Boston</li>
+        <li>Climate Ready Bostont</li>
         <li>Renew Boston Trust</li>
         <li>Health</li>
+        <li>BCYF Vine Street Pool</li>
         <li>BCYF Curley Community Center</li>
         <li>BCYF Gallivan Community Center</li>
         <li>Housing</li>
@@ -842,13 +849,14 @@ components:
   - col: >
       <ul>
         <li>Percent for Arts</li>
-        <li>Central Library: Rare Books Dept.</li>
+        <li>Adams Street Branch Library</li>
+        <li>Roslindale Branch Library</li>  
         <li>Economy</li>
         <li>Harrison Avenue / Washington Street</li>
         <li>Dudley Street</li>
         <li>Public Safety</li>
         <li>New East Boston Police Station</li>
-        <li>New Engine 42 Fire Station</li>
+        <li>New Engine 17 and 43 Fire Stations</li>
         <li>Government Effectiveness</li>
         <li>City Hall and Plaza Master Plan</li>
         <li>Youth Fund</li>
