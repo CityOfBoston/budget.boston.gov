@@ -26,23 +26,25 @@ components:
   - card: /featured-analysis/buildbps/
   - card: /featured-analysis/early-childhood-education/
   - card: /featured-analysis/special-education/
-  - card: /featured-analysis/charter-school-tuition/
 - grid: 
   - grid_title: City Budget Priorities
-  - card: /featured-analysis/streets-keeping-streets-clean-safe/
-  - card: /featured-analysis/housing-boston-2030/
-  - card: /featured-analysis/health-safety-addiction-services/
-  - card: /featured-analysis/prosperity-racial-equity-diversity-economic-mobility/
+  - card: /featured-analysis/arts-and-culture/  
   - card: /featured-analysis/energy-environment-preparing-for-climate-change/
-  - card: /featured-analysis/open-space-accessible-equitable-parks/          
-  - card: /featured-analysis/arts-investing-in-the-arts/                     
+  - card: /featured-analysis/improving-expanding-addiction-services/
+  - card: /featured-analysis/public-safety-for-growing-city
+  - card: /featured-analysis/open-space-imagine-boston-2030-goals/
+  - card: /featured-analysis/prosperity-racial-equity-diversity-economic-mobility/
+  - card: /featured-analysis/supporting-our-youth
+  - card: /featured-analysis/housing-boston-2030/
+  - card: /featured-analysis/streets/                   
 - grid: 
   - grid_title: Revenue
   - card: /featured-analysis/revenue-overview/
-  - card: /featured-analysis/economy-overview/
+  - card: /featured-analysis/national-economy/
+  - card: /featured-analysis/state-and-city-economies/
   - card: /featured-analysis/property-tax/
-  - card: /featured-analysis/state-revenue/
-  - card: /featured-analysis/local-revenue/
+  - card: /featured-analysis/revenue-estimates/
+  - card: /featured-analysis/local-receipts/
   - card: /featured-analysis/non-recurring-revenue/
 - grid: 
   - grid_title: Centralized and Fixed Costs
