@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/commonwealth-budget/
+permalink: /featured-analysis/state-revenue/
 title: State Revenue and Assessments
 card:
   - title: State Revenue and Assessments
@@ -77,7 +77,7 @@ right_image:
 
 - grid: 
   - grid_title: More budget analysis
-  - card: /featured-analysis/revenue-estimates/
+  - card: /featured-analysis/revenue-overview/
   - card: /featured-analysis/state-aid/
   - card: /featured-analysis/education-aid/
 
