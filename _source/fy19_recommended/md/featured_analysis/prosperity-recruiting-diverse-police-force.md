@@ -1,13 +1,13 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/prosperity-recruiting-diverse-police-force/
-title: Recruiting a Diverse Police Force
+permalink: /featured-analysis/supporting-our-youth/
+title: Supporting our Youth
 card:
-  - title: Recruiting a Diverse Police Force
+  - title: Supporting our Youth
     body: >
-      Boston will add 20 police cadets for a pipeline of diverse young people
+      Investment in the city’s youth is an investment in the city’s future
     img: /img/fa-prosperity-recruiting-diverse-police-force.jpg
-    link: /featured-analysis/prosperity-recruiting-diverse-police-force/
+    link: /featured-analysis/supporting-our-youth/
 components:
 - breadcrumbs:
   - title: Home
@@ -16,33 +16,41 @@ components:
   - title: Featured Analysis
     url: "/featured-analysis/"
     local: true
-  - current: Recruiting a Diverse Police Force
+  - current: Supporting our Youth
   - published: 4/13/17
 - intro:
-  - title: Recruiting a diverse police force
+  - title: Supporting our Youth
     short_desc: >
-      In November of 2016, Mayor Walsh and Police Commissioner Evans swore in 
-      the first class of Police Cadets since 2009, a training program for Boston's youth seeking a career in law enforcement.
-    description: >
-      Building on the success of recruiting a diverse class of 42 included 74% cadets 
-      of color and 36% female cadets, Mayor Walsh’s FY18 budget adds another class, 
-      for a total of about 60 cadets.
+      Mayor Walsh understands that an investment in the city’s youth is an investment in the city’s future. In FY19, departments citywide will expand services and supports for our youth.
     sidebar_menu: true
 - text_block:
-  - title: Creating a stable pipeline
-- text_col_2:
+  - title: Healthy and Active
+    body: >
+      The Boston Center for Youth and Families (BCYF) will continue to grow it’s footprint in the city and reach more underserved children and neighborhoods.
+- text_col_3:
   - col: >
-      <h5>Cadet classes</h5>
-      <p>This addition of 20 cadets provides a stable pipeline of diverse young 
-      people for future police officer classes. Once cadets have served for two years 
-      (and pass other requirements), they are eligible to join the next Police recruit 
-      class. <blockquote>Up to 30% of a given recruit class can be made up of cadets, thus providing 
-      a route for local young people to join the force.</blockquote></p>
-      <p>The current class of cadets will be eligible to join the recruit classes 
-      of FY19 and FY20, while the FY18 cadet class of 20 will be eligible to join the 
-      recruit class of FY21.</p>
-  - col: 
-      img: /img/police-cadets.png
+      <h5>Community Centers</h5>
+      <p>In FY19 BCYF will reopen the Marshall Community Center in Dorchester, and expand hours at the Condon Community Center in South Boston to give kids a welcoming, safe and engaging place to visit.</p>
+  - col: >
+      <h5>Farmers Markerts</h5>
+      <p>The Office of Food Access will launch a new marketing campaign to highlight farmers market as healthy affordable options for families.</p>
+  - col: >
+      <h5>Addiction and Substance Abuse</h5>
+      <p>In FY19, the Mayor will build on existing substance use disorder and addiction infrastructure at the Boston Public Health Commission (BPHC) to better serve prevention and recovery for young people.</p>
+- text_block:
+  - title: Responding to Trauma
+    body: >
+      <p>In FY19, the City will make new investments to ensure children who experience traumatic events have the tools to recover and thrive. BPHC will expend an additional $284,000 on new supports for Neighborhood Trauma Teams. These community based organizations are on the ground responding to children and families to provide post-trauma supports. This investment will further strengthen the five existing teams, and add one additional team in FY19.</p> 
+      <p>These investments, in conjunction with the $2.4 million BPS social and emotional wellness investment, will help ensure the city’s youth have the supports to succeed.</p>
+- text_block:
+  - title: Pathways to Careers
+    body: >
+      <p>The FY19 budget enhances and maintains successful programs that expose youth to opportunity through summer and year-round jobs</p> 
+- text_col_2: 
+  - col: >
+    <ul><li>The FY19 budget continues to invest in 3,300 summer jobs for youth and 500 school-year jobs to grow career paths and opportunities for Boston’s youth</li></ul>
+  - col: >
+    <ul><li>In FY19 the Police Department will again fund $250,000 in youth development grants to complement the City’s existing programs like Summer Jobs, the Shannon Grant program and the Safe and Successful Youth Initiative.</li></ul> 
 - grid: 
   - grid_title: More budget analysis
   - card: /featured-analysis/prosperity-racial-equity-diversity-economic-mobility/
