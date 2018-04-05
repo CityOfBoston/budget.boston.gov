@@ -53,7 +53,7 @@ components:
       <li>an additional $2.25 million deposit by the BPHC into the Trust.</li>
       </ul>
   - col: 
-    - img: /img/fy18-annual-required-contribution.png
+    - img: /img/fy19-annual-required-contribution.PNG
     - blurb: >
         <h5>Funding the OPEB liability</h5>
         <p>The City is currently on a schedule that targets reducing its pension liability by 2025, and then plans on redirecting some portion of its annual pension contribution to further reduce the OPEB liability.  However, this schedule is illustrative only of the currently expected funding schedule, and actual circumstances that will occur will likely vary from current assumptions.</p>
