@@ -143,7 +143,7 @@ components:
       "total": true
       "FY16 Actual": 2,883.01
       "FY17 Actual": 2,996.81
-      "FY18 Budget": 2,157.62
+      "FY18 Budget": 3,157.62
       "FY19 Budget": 3,294.58
 - table:
   - title: Expenditures
