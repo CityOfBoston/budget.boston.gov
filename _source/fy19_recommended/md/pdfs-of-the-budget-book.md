@@ -136,25 +136,25 @@ components:
         <li>
     - link:
         title: Economic Development Cabinet
-        path: /img/pdfs/05-Economic-Development-Cabinet.pdf
+        path: /img/pdfs/04-Economic-Development-Cabinet.pdf
     - blurb: >
         </li>
         <li>
     - link:
         title: Education Cabinet
-        path: /img/pdfs/06-Education-Cabinet.pdf
+        path: /img/pdfs/05-Education-Cabinet.pdf
     - blurb: >
         </li>
         <li>
     - link:
         title: Environment, Energy, and Open Space Cabinet
-        path: /img/pdfs/07-Environment-Energy-and-Open-Space-Cabinet.pdf
+        path: /img/pdfs/06-Environment-Energy-and-Open-Space-Cabinet.pdf
     - blurb: >
         </li>
         <li>
     - link:
         title: Administration and Finance Cabinet
-        path: /img/pdfs/08-Administration-and-Finance-Cabinet.pdf
+        path: /img/pdfs/07-Administration-and-Finance-Cabinet.pdf
     - blurb: >
         </li>
         </ul>
@@ -165,37 +165,37 @@ components:
         <li>
     - link:
         title: Health and Human Services Cabinet
-        path: /img/pdfs/09-Health-and-Human-Services-Cabinet.pdf
+        path: /img/pdfs/08-Health-and-Human-Services-Cabinet.pdf
     - blurb: >
         </li>
         <li>
     - link:
         title: Housing and Neighborhood Development Cabinet
-        path: /img/pdfs/10-Housing-and-Neighborhood-Development-Cabinet.pdf
+        path: /img/pdfs/09-Housing-and-Neighborhood-Development-Cabinet.pdf
     - blurb: >
         </li>
         <li>
     - link:
         title: Information and Technology Cabinet
-        path: /img/pdfs/11-Information-and-Technology-Cabinet.pdf
+        path: /img/pdfs/10-Information-and-Technology-Cabinet.pdf
     - blurb: >
         </li>
         <li>
     - link:
         title: Public Safety Cabinet
-        path: /img/pdfs/12-Public-Safety-Cabinet.pdf
+        path: /img/pdfs/11-Public-Safety-Cabinet.pdf
     - blurb: >
         </li>
         <li>
     - link:
         title: Streets Cabinet
-        path: /img/pdfs/13-Streets-Cabinet.pdf
+        path: /img/pdfs/12-Streets-Cabinet.pdf
     - blurb: >
         </li>
         <li>
     - link:
         title: Non Mayoral Departments Cabinet
-        path: /img/pdfs/14-Non-Mayoral-Departments-Cabinet.pdf
+        path: /img/pdfs/13-Non-Mayoral-Departments-Cabinet.pdf
     - blurb: >
         </li>
         </ul>
