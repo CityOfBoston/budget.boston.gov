@@ -28,14 +28,13 @@ components:
 - text_block:
   - title: CityScore achievements
   - body: >
-  <p>Over the course of FY18, CityScore has contributed to a number of City achievements, including:</p>
+      <p>Over the course of FY18, CityScore has contributed to a number of City achievements, including:</p>
       <ul>
         <li>19% increase in the average number of Boston Public Library users</li>
         <li>5% increase in the number of traffic signals repaired on-time, resulting in safer and more efficient streets</li>
         <li>15% increase in the average number of calls answered within 30 seconds at the 311 Call Center, resulting in more expedient customer service for those interacting with the City</li>
         <li>5% increase in constituent satisfaction in engagements with the 311 Call Center</li>
       </ul>
-
 - grid: 
   - grid_title: More budget analysis
   - card: /featured-analysis/technology-data-analytics/

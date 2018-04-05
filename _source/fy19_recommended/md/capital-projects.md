@@ -49,12 +49,12 @@ components:
   - col: >
       <h5>Ambitious initiatives</h5>
       <p>An ambitious set of initiatives form the foundation of the Imagine Boston 2030 plan. Taken together, these initiatives will support Boston's dynamic economy and improve quality of life for residents by:
-        <ul>
-          <li>encouraging affordability;</li>
-          <li>increasing access to opportunity;</li>
-          <li>promoting a healthy environment; and</li>
-          <li>guiding investment in the public realm.</li>
-        </ul>
+      <ul>
+      <li>encouraging affordability;</li>
+      <li>increasing access to opportunity;</li>
+      <li>promoting a healthy environment; and</li>
+      <li>guiding investment in the public realm.</li>
+      </ul>
   - col: >
       <h5>Imagine Boston Capital Plan</h5>
       <p>In FY18, Mayor Walsh launched the Imagine Boston Capital Plan to move
@@ -69,24 +69,21 @@ components:
       <p>Mayor Walsh committed $1 billion over ten years to bring Boston's school
       buildings into the 21st century, and this Capital Plan launches that investment
       with funding for:</p>
-        <ul>
-          <li>21st century classrooms;</li>
-          <li>MSBA Accelerated Repair Program partnerships;</li>
-          <li>completion of projects in the pipeline; and</li>
-          <li>reserves for future projects identified by BuildBPS community
-          engagement.</li>
-        </ul>
+      <ul>
+      <li>21st century classrooms;</li>
+      <li>MSBA Accelerated Repair Program partnerships;</li>
+      <li>completion of projects in the pipeline; and</li>
+      <li>reserves for future projects identified by BuildBPS community engagement.</li>
+      </ul>
       <h5>Core initiatives</h5>
       <p>Boston, in collaboration with State and Federal sources, will invest $967
       million over the next five years in implementing the core initiatives outlined
       in Go Boston 2030:</p>
-        <ul>
-          <li>streets that are safer for all users of our roads and sidewalks,
-          particularly pedestrians and cyclists;</li>
-          <li>travel that is more reliable and predictable; and</li>
-          <li>quality transportation choices that improve access to interconnect our
-          neighborhoods for all modes of travel.</li>
-        </ul>
+      <ul>
+      <li>streets that are safer for all users of our roads and sidewalks, particularly pedestrians and cyclists;</li>
+      <li>travel that is more reliable and predictable; and</li>
+      <li>quality transportation choices that improve access to interconnect our neighborhoods for all modes of travel.</li>
+      </ul>
   - col: >
       <h5>Open Space goals</h5>
       <p>Through the use of Winthrop Square proceeds, City capital dollars, and leveraging
@@ -106,257 +103,257 @@ components:
 - table:
   - title: Spending By Investment Category
     columns:
- - "Category":
+      - "Category":
           name: Arts and Culture
           link: /capital-projects/arts-and-culture
         "Through 6/30/17":
-           value: 597583
-           filter: delimiter
+          value: 597583
+          filter: delimiter
         "FY18 Budget":
-           value: 13242639
-           filter: delimiter
+          value: 13242639
+          filter: delimiter
         "FY19 Budget":
-           value: 29416574
-           filter: delimiter
+          value: 29416574
+          filter: delimiter
         "FY20-23 Budget":
-           value: 101743204
-           filter: delimiter
+          value: 101743204
+          filter: delimiter
         "Non-Capital Fund":
-           value: 0
-           filter: delimiter
+          value: 0
+          filter: delimiter
         "Total":
-           value: 145000000
-           filter: delimiter
+          value: 145000000
+          filter: delimiter
       - "Category":
           name: Economy
           link: /capital-projects/economy
         "Through 6/30/17":
-           value: 518450
-           filter: delimiter
+          value: 518450
+          filter: delimiter
         "FY18 Budget":
-           value: 950000
-           filter: delimiter
+          value: 950000
+          filter: delimiter
         "FY19 Budget":
-           value: 1900000
-           filter: delimiter
+          value: 1900000
+          filter: delimiter
         "FY20-23 Budget":
-           value: 10246550
-           filter: delimiter
+          value: 10246550
+          filter: delimiter
         "Non-Capital Fund":
-           value: 0
-           filter: delimiter
+          value: 0
+          filter: delimiter
         "Total":
-           value: 13615000
-           filter: delimiter
+          value: 13615000
+          filter: delimiter
       - "Category":
           name: Education
           link: /capital-projects/education
         "Through 6/30/17":
-           value: 67359434
-           filter: delimiter
+          value: 67359434
+          filter: delimiter
         "FY18 Budget":
-           value: 85720576
-           filter: delimiter
+          value: 85720576
+          filter: delimiter
         "FY19 Budget":
-           value: 90153386
-           filter: delimiter
+          value: 90153386
+          filter: delimiter
         "FY20-23 Budget":
-           value: 347942521
-           filter: delimiter
+          value: 347942521
+          filter: delimiter
         "Non-Capital Fund":
-           value: 0
-           filter: delimiter
+          value: 0
+          filter: delimiter
         "Total":
-           value: 591175917
-           filter: delimiter
+          value: 591175917
+          filter: delimiter
       - "Category":
           name: Energy and Environment
           link: /capital-projects/energy-and-environment
         "Through 6/30/17":
-           value: 24856162
-           filter: delimiter
+          value: 24856162
+          filter: delimiter
         "FY18 Budget":
-           value: 1975000
-           filter: delimiter
+          value: 1975000
+          filter: delimiter
         "FY19 Budget":
-           value: 10500212
-           filter: delimiter
+          value: 10500212
+          filter: delimiter
         "FY20-23 Budget":
-           value: 53191096
-           filter: delimiter
+          value: 53191096
+          filter: delimiter
         "Non-Capital Fund":
-           value: 5127000
-           filter: delimiter
+          value: 5127000
+          filter: delimiter
         "Total":
-           value: 95649470
-           filter: delimiter
+          value: 95649470
+          filter: delimiter
       - "Category":
           name: Government Effectiveness
           link: /capital-projects/government-effectiveness
         "Through 6/30/17":
-           value: 3880198
-           filter: delimiter
+          value: 3880198
+          filter: delimiter
         "FY18 Budget":
-           value: 8662139
-           filter: delimiter
+          value: 8662139
+          filter: delimiter
         "FY19 Budget":
-           value: 15682840
-           filter: delimiter
+          value: 15682840
+          filter: delimiter
         "FY20-23 Budget":
-           value: 74743381
-           filter: delimiter
+          value: 74743381
+          filter: delimiter
         "Non-Capital Fund":
-           value: 0
-           filter: delimiter
+          value: 0
+          filter: delimiter
         "Total":
-           value: 102968558
-           filter: delimiter
+          value: 102968558
+          filter: delimiter
       - "Category":
           name: Health
           link: /capital-projects/health
         "Through 6/30/17":
-           value: 3030356
-           filter: delimiter
+          value: 3030356
+          filter: delimiter
         "FY18 Budget":
-           value: 6008164
-           filter: delimiter
+          value: 6008164
+          filter: delimiter
         "FY19 Budget":
-           value: 5783452
-           filter: delimiter
+          value: 5783452
+          filter: delimiter
         "FY20-23 Budget":
-           value: 34646328
-           filter: delimiter
+          value: 34646328
+          filter: delimiter
         "Non-Capital Fund":
-           value: 0
-           filter: delimiter
+          value: 0
+          filter: delimiter
         "Total":
-           value: 49468300
-           filter: delimiter
+          value: 49468300
+          filter: delimiter
       - "Category":
           name: Housing
           link: /capital-projects/housing
         "Through 6/30/17":
-           value: 47263
-           filter: delimiter
+          value: 47263
+          filter: delimiter
         "FY18 Budget":
-           value: 2899735
-           filter: delimiter
+          value: 2899735
+          filter: delimiter
         "FY19 Budget":
-           value: 2603002
-           filter: delimiter
+          value: 2603002
+          filter: delimiter
         "FY20-23 Budget":
-           value: 0
-           filter: delimiter
+          value: 0
+          filter: delimiter
         "Non-Capital Fund":
-           value: 0
-           filter: delimiter
+          value: 0
+          filter: delimiter
         "Total":
-           value: 5550000
-           filter: delimiter
+          value: 5550000
+          filter: delimiter
       - "Category":
           name: Open Space
           link: /capital-projects/open-space
         "Through 6/30/17":
-           value: 24194541
-           filter: delimiter
+          value: 24194541
+          filter: delimiter
         "FY18 Budget":
-           value: 17281658
-           filter: delimiter
+          value: 17281658
+          filter: delimiter
         "FY19 Budget":
-           value: 34892592
-           filter: delimiter
+          value: 34892592
+          filter: delimiter
         "FY20-23 Budget":
-           value: 61338722
-           filter: delimiter
+          value: 61338722
+          filter: delimiter
         "Non-Capital Fund":
-           value: 93258719
-           filter: delimiter
+          value: 93258719
+          filter: delimiter
         "Total":
-           value: 230966232
-           filter: delimiter
+          value: 230966232
+          filter: delimiter
       - "Category":
           name: Public Safety
           link: /capital-projects/public-safety
         "Through 6/30/17":
-           value: 11966296
-           filter: delimiter
+          value: 11966296
+          filter: delimiter
         "FY18 Budget":
-           value: 22950000
-           filter: delimiter
+          value: 22950000
+          filter: delimiter
         "FY19 Budget":
-           value: 38807148
-           filter: delimiter
+          value: 38807148
+          filter: delimiter
         "FY20-23 Budget":
-           value: 90931556
-           filter: delimiter
+          value: 90931556
+          filter: delimiter
         "Non-Capital Fund":
-           value: 0
-           filter: delimiter
+          value: 0
+          filter: delimiter
         "Total":
-           value: 164655000
-           filter: delimiter
+          value: 164655000
+          filter: delimiter
       - "Category":
           name: Technology
           link: /capital-projects/technology
         "Through 6/30/17":
-           value: 31365582
-           filter: delimiter
+          value: 31365582
+          filter: delimiter
         "FY18 Budget":
-           value: 18905977
-           filter: delimiter
+          value: 18905977
+          filter: delimiter
         "FY19 Budget":
-           value: 23637304
-           filter: delimiter
+          value: 23637304
+          filter: delimiter
         "FY20-23 Budget":
-           value: 53566131
-           filter: delimiter
+          value: 53566131
+          filter: delimiter
         "Non-Capital Fund":
-           value: 3036200
-           filter: delimiter
+          value: 3036200
+          filter: delimiter
         "Total":
-           value: 130511194
-           filter: delimiter
+          value: 130511194
+          filter: delimiter
       - "Category":
-         name: Transportation
-         link: /capital-projects/transportation
+          name: Transportation
+          link: /capital-projects/transportation
         "Through 6/30/17":
-           value: 96366571
-           filter: delimiter
+          value: 96366571
+          filter: delimiter
         "FY18 Budget":
-           value: 67968418
-           filter: delimiter
+          value: 67968418
+          filter: delimiter
         "FY19 Budget":
-           value: 81479138
-           filter: delimiter
+          value: 81479138
+          filter: delimiter
         "FY20-23 Budget":
-           value: 282416807
-           filter: delimiter
+          value: 282416807
+          filter: delimiter
         "Non-Capital Fund":
-           value: 375435464
-           filter: delimiter
+          value: 375435464
+          filter: delimiter
         "Total":
-           value: 903666398
-           filter: delimiter
+          value: 903666398
+          filter: delimiter
       - "Category": <b>Totals</b>
         "total": true
         "Through 6/30/17":
-           value: 264182436
-           filter: delimiter
+          value: 264182436
+          filter: delimiter
         "FY18 Budget":
-           value: 246564306
-           filter: delimiter
+          value: 246564306
+          filter: delimiter
         "FY19 Budget":
-           value: 334855648
-           filter: delimiter
+          value: 334855648
+          filter: delimiter
         "FY20-23 Budget":
-           value: 1110766296
-           filter: delimiter
+          value: 1110766296
+          filter: delimiter
         "Non-Capital Fund":
-           value: 476857383
-           filter: delimiter
+          value: 476857383
+          filter: delimiter
         "Total":
-           value: 2433226069
-           filter: delimiter
+          value: 2433226069
+          filter: delimiter
 - table:
   - title: Spending By Department
     columns:

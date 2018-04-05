@@ -87,14 +87,14 @@ components:
       has fluctuated with the timing of retirements and new classes. In FY19 the projected January to January increase in the Fire Department is due to the timing of the FY19 class in fall 2018 as opposed to the FY18 class which came on in spring 2018. The goal of the department is to have enough firefighters in the suppression force to cover the minimum manning level of 262 and to reduce overtime. The Police Department is projected to increase the sworn force by 30 officers with the FY19 recruit class in the fall of 2018.</p>
       <h5>Mayor's Office and Arts and Culture Cabinets</h5>
       <p>The Mayor’s Office Cabinet has a projected increase of 7 FTEs, primarily due to transfers between departments. The Law Department will grow by an additional 4 positions since January 2018 with the completion of a citywide legal staff consolidation. Women’s Advancement is adding an assistant position, which is transferring from Neighborhood Services in the Civic Engagement Cabinet.  The Arts and Culture Cabinet will remain level.  The Office of Arts and Culture will hire a manager for the percent for the arts program, which will be offset in the FTE count by the transfer of the mural crew manager to the Parks Department.</p>
-     <h5>Operations Cabinet</h5>
+      <h5>Operations Cabinet</h5>
       <p>The Operations Cabinet is anticipated to increase by 3 FTEs. Intergovernmental Relations will hire a census outreach coordinator in advance of the 2020 U.S. Census. Public Facilities will add a project manager and a design review position to support the growing citywide construction program.</p>
   - col: >
-    <h5>Environment, Energy and Open Space Cabinet</h5>
-    <p>The Environment, Energy and Open Space Cabinet is expected to grow by 10 FTEs by filling vacant positions and adding targeted new positions. Inspectional Services will add 2 plans examiners to reduce the architectural review wait time for residents and developers. Parks and Recreation is adding a park ranger position and the mural crew manager, who is being transferred from Arts and Culture. </p>
+      <h5>Environment, Energy and Open Space Cabinet</h5>
+      <p>The Environment, Energy and Open Space Cabinet is expected to grow by 10 FTEs by filling vacant positions and adding targeted new positions. Inspectional Services will add 2 plans examiners to reduce the architectural review wait time for residents and developers. Parks and Recreation is adding a park ranger position and the mural crew manager, who is being transferred from Arts and Culture. </p>
       <h5>Administration and Finance Cabinet</h5>
       <p>The Administration & Finance Cabinet projects a net increase of 2 FTEs with talent acquisition and compliance position in Human Resources and a new account receivable specialist in the Treasury Department.</p>
-   <h5>Health and Human Services Cabinet</h5>
+      <h5>Health and Human Services Cabinet</h5>
       <p>The Health and Human Services Cabinet will increase by 28 FTEs primarily due to key investment in the Public Health Commission’s Emergency Medical Services (EMS). EMS will add 20 EMTs to better meet the demands of a growing population and improve their capacity to provide a quick response to urgent calls city-wide. The Public Health Commission will also add 2 recovery services youth prevention program managers. Boston Centers for Youth and Families is adding 3 positions to support the re-opening of the Marshall Community Center as well as 2 new positions to allow for Saturday hours at the Condon Community Center. The Elderly Commission will hire a new housing unit position to meet the rising demand for assistance in this area.</p>
   - col: >
       <h5>Housing and Neighborhood Development Cabinet</h5>
@@ -104,6 +104,6 @@ components:
       <h5>Streets Cabinet</h5>
       <p>The Streets Cabinet is projected to increase by 22 FTEs. The Transportation Department will add 20 positions to support transformational investments in transportation projects throughout the City. These investments include 3 FTEs to better manage traffic signals to increase safety and reduce congestion, 8 FTEs (2 planners, 2 engineers, 2 maintenance/operations positions, and 2 forepersons) for Vision Zero to build 15 slow streets, 15 miles of protected bike lanes and fix 15 of the most challenging intersections in the next four years, and 6 FTEs for the City’s new transit team which will improve coordination with the MBTA. The Public Works Department is adding a data manager for roadway utility coordination. The Office of Streets plans to hire a manager to oversee operational reforms in the cabinet.</p>
 - text_block:
-  - body:
-    - img: /img/pages/full-time-employees-table.png
+  - body: ""
+  - right_image: /img/pages/full-time-employees-table.png
 ---

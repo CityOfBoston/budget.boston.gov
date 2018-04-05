@@ -162,7 +162,7 @@ components:
           align: left
         "FY18 Projected": 
           value: 30000
-          filter:delimiter
+          filter: delimiter
         "FY19 Target": 
           value: 55000
           filter: delimiter
@@ -217,7 +217,7 @@ components:
         "FY19 Target": 67
       - "Category": Mobility
         "Performance Measure": 
-          value: % of street light outages addressed on time
+          value: "% of street light outages addressed on time"
           align: left
         "Responsible Department":
           value: Public Works
@@ -335,8 +335,8 @@ components:
         "FY18 Projected": 6 Min
         "FY19 Target": 6 Min
       - "Category": Health and Safety 
-         "Performance Measure": 
-          value: # of individuals placed in recovery services
+        "Performance Measure": 
+          value: "# of individuals placed in recovery services"
           align: left
         "Responsible Department":
           value: Public Health Commission
