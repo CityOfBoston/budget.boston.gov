@@ -1,9 +1,9 @@
 ---
 layout: bos_content
 permalink: /featured-analysis/economy-overview/
-title: National economy
+title: National, State, and Local Economies
 card:
-  - title: National, State, and Local Economy
+  - title: National, State, and Local  Economies
     body: >
       Economic indicators show positive real GDP growth and an improving unemployment rate.
     img: /img/fa-national-economy.jpg
@@ -16,10 +16,10 @@ components:
   - title: Featured Analysis
     url: "/featured-analysis/"
     local: true
-  - current: National, State, and Local Economy
+  - current: National, State, and Local  Economies
   - published: 4/13/17
 - text_block:
-  - title: National, State and Local Economy
+  - title: National, State and Local  Economies
     body: >
 Mayor Walsh continues to strive to grow jobs, housing and the economy for all Bostonians. But the city is subject to market forces limiting its ability to effect economic condition in the near term. And a city’s economic condition can positively or negatively affect its ability to raise revenue. As such, the State and national economies are of great importance to the City’s well-being.
 The nation’s economic recovery is now ten years removed from a deep recession. Since the recession, the U.S. economy has grown in fits and starts since June 2009 as evidenced by GDP growth. Accommodative monetary policy and extended unemployment insurance back-stopped any slide back into recession.  The labor market has continued to strengthen and economic activity has been rising moderately. Recently, job gains have been strong and the unemployment rate has remained low.
