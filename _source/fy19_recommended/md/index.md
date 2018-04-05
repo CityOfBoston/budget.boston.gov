@@ -104,10 +104,29 @@ components:
     body: >
       <p>Building on Mayor Walsh’s record of achieving improved outcomes across the City’s services - from education to housing, basic city services to the arts - the Mayor is proposing data-driven investments that are aimed at creating a <strong>thriving, healthy and innovative city</strong>. Operating budget investments are made possible due to the smart savings initiatives the City has pursued over the past four years. Through the Imagine Boston Capital Plan, the Mayor is making new capital investments in Boston’s schools, roads, bridges, parks, libraries, community centers, fire stations and other community assets to build the City that Bostonians imagined.</p>
 - grid:
+  - grid_title: Budget Priorities
+  - card: /featured-analysis/extended-school-day/
+  - card: /featured-analysis/housing-homeless-action-plan/
+  - card: /featured-analysis/prosperity-racial-equity-diversity-economic-mobility/
+  - card: /featured-analysis/streets-keeping-streets-clean-safe/
+  - card: /featured-analysis/open-space-imagine-boston-2030-goals/
+  - card: /featured-analysis/energy-environment-preparing-for-climate-change/
+  - card: /featured-analysis/arts-investing-in-the-arts/
+  - card: /featured-analysis/health-safety-addiction-services/
+  - card: /featured-analysis/technology-data-analytics/
+  - link:
+      title: View more budget priorities
+      path: /featured-analysis/index.html#grid-budget-priorities
+      button: true
+- grid:
   - grid_title: Revenue
   - card: /featured-analysis/revenue-overview/
   - card: /featured-analysis/property-tax/
   - card: /featured-analysis/state-aid/
+  - link:
+      title: View more revenue priorities
+      path: /featured-analysis/index.html#grid-revenue
+      button: true
 - text_block:
   - title: Imagine Boston Capital Plan
     body: >
@@ -138,47 +157,7 @@ components:
 - text_col_2:
   - col: 
       - link:
-          title: View the Capital Plan
+          title: View Education Priorities
           path: /capital-projects
           button: true
-- grid:
-  - grid_title: Education
-  - card: /featured-analysis/extended-school-day/
-  - card: /featured-analysis/closing-opportunity-achievement-gaps/
-  - card: /featured-analysis/supporting-students-most-in-need
-  - card: /featured-analysis/buildbps/
-- grid:
-  - grid_title: Housing
-  - card: /featured-analysis/housing-homeless-action-plan/
-  - card: /featured-analysis/housing-homeless-shelter-service-safety/
-  - card: /featured-analysis/housing-boston-2030/
-- grid: 
-  - grid_title: Prosperity and Equity
-  - card: /featured-analysis/prosperity-racial-equity-diversity-economic-mobility/
-  - card: /featured-analysis/prosperity-recruiting-diverse-police-force/
-- grid: 
-  - grid_title: Streets
-  - card: /featured-analysis/streets-launching-go-boston-2030/
-  - card: /featured-analysis/streets-keeping-streets-clean-safe/
-- grid: 
-  - grid_title: Open Space
-  - card: /featured-analysis/open-space-imagine-boston-2030-goals/
-  - card: /featured-analysis/open-space-accessible-equitable-parks/
-- grid: 
-  - grid_title: Energy and Environment
-  - card: /featured-analysis/energy-environment-preparing-for-climate-change/
-- grid: 
-  - grid_title: Arts and Culture
-  - card: /featured-analysis/arts-investing-in-the-arts/
-  - card: /featured-analysis/arts-preserving-bpl-special-collections/
-  - card: /featured-analysis/arts-thriving-community-libraries/
-- grid:
-  - grid_title: Health and Safety
-  - card: /featured-analysis/health-safety-addiction-services/
-  - card: /featured-analysis/health-safety-proactive-agile-ems-through-data/
-  - card: /featured-analysis/health-safety-firefighter-health-safety/
-- grid: 
-  - grid_title: Technology
-  - card: /featured-analysis/technology-data-analytics/
-  - card: /featured-analysis/technology-city-services-through-cityscore/
 ---
