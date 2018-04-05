@@ -46,7 +46,7 @@ components:
 <p>Many of the City’s local receipts are sensitive to existing economic conditions and the City takes a cautious approach when estimating local receipts.</p>  
 <p>With limited revenue tools, the City is continuing an initiative in the FY19 budget to better maximize the local revenue tools. This City will also work to maximize federal health insurance reimbursements and address past due bills to recover revenue.</p>
 <p>FY19 revenue for local receipts is estimated at $505.6 million.</p>  
-right_image: Figure 11
+right_image: 
 <p>The following is a brief description of selected local receipts and their expectations for FY19:</p>
 <h5>Excises</h5>
 <li> Motor vehicle excise revenue began to recover in FY14 and has remained steady with the strengthening economy.  Revenue is estimated at $52.0 million in FY19.</li>
@@ -71,7 +71,7 @@ right_image: Figure 11
 
 - grid:
   - grid_title: More budget analysis
-  - card: /featured-analysis/revenue-estimates/
+  - card: /featured-analysis/revenue-overview/
   - card: /featured-analysis/excise-taxes/
   - card: /featured-analysis/parking-fines/
 ---
