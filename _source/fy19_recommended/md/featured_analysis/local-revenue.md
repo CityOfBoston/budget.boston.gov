@@ -1,13 +1,13 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/local-receipts/
+permalink: /featured-analysis/local-revenue/
 title: Local Receipts
 card:
   - title: Local Revenue
     body: >
       Local revenues are an increasing share of Boston’s recurring revenue.
     img: /img/fa-local-receipts.jpg
-    link: /featured-analysis/local-receipts
+    link: /featured-analysis/local-revenue/
 components:
 - breadcrumbs:
   - title: Home
@@ -16,7 +16,7 @@ components:
   - title: Featured Analysis
     url: "/featured-analysis/"
     local: true
-  - current: Local Receipts
+  - current: Local Revenue
   - published: 4/13/17
 - intro:
   - title: Local Revenue 
@@ -70,6 +70,6 @@ right_image:
 - grid:
   - grid_title: More budget analysis
   - card: /featured-analysis/revenue-overview/
-  - card: /featured-analysis/excise-taxes/
-  - card: /featured-analysis/parking-fines/
+  - card: /featured-analysis/state-revenue/
+  - card: /featured-analysis/property-tax/
 ---
