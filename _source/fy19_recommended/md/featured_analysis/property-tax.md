@@ -38,6 +38,7 @@ components:
 right_image: /img/ value-vs-tax-revenue.png
 <blockquote>This means that while total property value has grown 54% since FY14, property tax revenue has grown by only 25%. In each year since FY85, the City has increased its levy by the 2.5% allowable under the limits set forth in Proposition 2 &frac12;</blockquote>
 
+right_image: /img/ property-tax-rate-below-levy-ceiling.png
 - text_block:
   - title: Keeping Boston Affordable
 body: >
