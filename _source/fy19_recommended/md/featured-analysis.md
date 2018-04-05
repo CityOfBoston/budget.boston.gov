@@ -21,21 +21,12 @@ components:
     sidebar_menu: true
 - grid:
   - grid_title: Education
-  - card: /featured-analysis/bps-long-term-financial-plan/
-  - card: /featured-analysis/bps-spending-pressures/
-  - card: /featured-analysis/net-state-education-revenue/
-  - card: /featured-analysis/education-legislation/
-  - card: /featured-analysis/bps-operating-budget/
   - card: /featured-analysis/bps-enrollment/
+  - card: /featured-analysis/bps-operating-budget/
+  - card: /featured-analysis/buildbps/
   - card: /featured-analysis/early-childhood-education/
   - card: /featured-analysis/special-education/
-  - card: /featured-analysis/bps-external-funds/
-  - card: /featured-analysis/bps-performance/
-  - card: /featured-analysis/buildbps/
   - card: /featured-analysis/charter-school-tuition/
-- grid: 
-  - grid_title: Expenditure Growth
-  - card: /featured-analysis/education-overview/
 - grid: 
   - grid_title: City Budget Priorities
   - card: /featured-analysis/streets-keeping-streets-clean-safe/
@@ -45,7 +36,6 @@ components:
   - card: /featured-analysis/energy-environment-preparing-for-climate-change/
   - card: /featured-analysis/open-space-accessible-equitable-parks/          
   - card: /featured-analysis/arts-investing-in-the-arts/                     
-  - card: /featured-analysis/extended-school-day/
 - grid: 
   - grid_title: Revenue
   - card: /featured-analysis/revenue-overview/
