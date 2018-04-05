@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Education~boston-public-schools.json",
-  "source_time":"20180404163438",
+  "source_time":"20180405124807",
   "source_year":"19",
   "name":"Boston Public Schools",
   "parent":"Education",
@@ -36,19 +36,19 @@
       {
         "name":"General School Purposes",
         "line_type":"data",
-        "fy-2":1016278852,
-        "fy-1":1031628517,
-        "fy-0":1092190485,
-        "fy+1":1108740381,
+        "fy-2":414433631,
+        "fy-1":480448649,
+        "fy-0":451044532,
+        "fy+1":452355272,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":1016278852,
-        "fy-1":1031628517,
-        "fy-0":1092190485,
-        "fy+1":1108740381
+        "fy-2":414433631,
+        "fy-1":480448649,
+        "fy-0":451044532,
+        "fy+1":452355272
       }
     ]
   },
@@ -67,8 +67,8 @@
       {
         "name":"21st Century Community Learn",
         "line_type":"data",
-        "fy-2":1062531,
-        "fy-1":1392618,
+        "fy-2":639704,
+        "fy-1":1017838,
         "fy-0":949490,
         "fy+1":730184,
         "publish_subordinates":true
@@ -85,34 +85,25 @@
       {
         "name":"Adult Career Pathways",
         "line_type":"data",
-        "fy-2":107730,
-        "fy-1":106461,
-        "fy-0":104295,
-        "fy+1":87700,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Adult Education",
-        "line_type":"data",
-        "fy-2":0,
-        "fy-1":1623,
-        "fy-0":0,
-        "fy+1":20971,
+        "fy-2":7398,
+        "fy-1":6723,
+        "fy-0":2772,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Adult Education Fund",
         "line_type":"data",
-        "fy-2":160766,
-        "fy-1":216359,
-        "fy-0":185749,
-        "fy+1":155718,
+        "fy-2":24235,
+        "fy-1":45403,
+        "fy-0":4936,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Adult Education Learning Center",
         "line_type":"data",
-        "fy-2":1548,
+        "fy-2":537,
         "fy-1":0,
         "fy-0":0,
         "fy+1":0,
@@ -121,8 +112,8 @@
       {
         "name":"ARABIC Summer Academy",
         "line_type":"data",
-        "fy-2":59312,
-        "fy-1":126832,
+        "fy-2":6896,
+        "fy-1":3492,
         "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
@@ -130,18 +121,9 @@
       {
         "name":"ARRA - School Improvement",
         "line_type":"data",
-        "fy-2":2632184,
-        "fy-1":957652,
+        "fy-2":284837,
+        "fy-1":90020,
         "fy-0":7602,
-        "fy+1":0,
-        "publish_subordinates":true
-      },
-      {
-        "name":"At Risk",
-        "line_type":"data",
-        "fy-2":0,
-        "fy-1":40000,
-        "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
       },
@@ -166,8 +148,8 @@
       {
         "name":"Boston Marathon Bombing Behavioral Response",
         "line_type":"data",
-        "fy-2":213442,
-        "fy-1":1094923,
+        "fy-2":35299,
+        "fy-1":246745,
         "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
@@ -185,7 +167,7 @@
         "name":"Career and Technical Education",
         "line_type":"data",
         "fy-2":0,
-        "fy-1":448784,
+        "fy-1":262083,
         "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
@@ -200,46 +182,28 @@
         "publish_subordinates":true
       },
       {
-        "name":"Choice Neighborhood Grant",
-        "line_type":"data",
-        "fy-2":79947,
-        "fy-1":177607,
-        "fy-0":0,
-        "fy+1":0,
-        "publish_subordinates":true
-      },
-      {
-        "name":"College and Career Readiness",
-        "line_type":"data",
-        "fy-2":0,
-        "fy-1":31049,
-        "fy-0":0,
-        "fy+1":0,
-        "publish_subordinates":true
-      },
-      {
         "name":"Community Partnership Program",
         "line_type":"data",
-        "fy-2":1216240,
-        "fy-1":355929,
-        "fy-0":334837,
-        "fy+1":163070,
+        "fy-2":1005116,
+        "fy-1":74940,
+        "fy-0":11107,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Comprehensive Behavorial Health Model Initiative",
         "line_type":"data",
         "fy-2":0,
-        "fy-1":258078,
-        "fy-0":100000,
-        "fy+1":250000,
+        "fy-1":19639,
+        "fy-0":2657,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Construct Trades Voc Equipment",
         "line_type":"data",
-        "fy-2":35541,
-        "fy-1":13789,
+        "fy-2":1206,
+        "fy-1":1615,
         "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
@@ -250,15 +214,6 @@
         "fy-2":0,
         "fy-1":837700,
         "fy-0":837699,
-        "fy+1":0,
-        "publish_subordinates":true
-      },
-      {
-        "name":"DOJ Youth Forum Cities",
-        "line_type":"data",
-        "fy-2":8867,
-        "fy-1":0,
-        "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
       },
@@ -301,17 +256,8 @@
       {
         "name":"English for New Bostonians",
         "line_type":"data",
-        "fy-2":20545,
-        "fy-1":28118,
-        "fy-0":0,
-        "fy+1":22500,
-        "publish_subordinates":true
-      },
-      {
-        "name":"English Language Learners",
-        "line_type":"data",
-        "fy-2":0,
-        "fy-1":29219,
+        "fy-2":4162,
+        "fy-1":5501,
         "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
@@ -319,19 +265,19 @@
       {
         "name":"Expanded Learning Time",
         "line_type":"data",
-        "fy-2":1766349,
-        "fy-1":1458163,
-        "fy-0":1369053,
-        "fy+1":1332257,
+        "fy-2":225468,
+        "fy-1":444836,
+        "fy-0":36382,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"External Diploma",
         "line_type":"data",
-        "fy-2":105108,
-        "fy-1":103923,
-        "fy-0":103001,
-        "fy+1":86174,
+        "fy-2":22575,
+        "fy-1":19736,
+        "fy-0":2737,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
@@ -353,15 +299,6 @@
         "publish_subordinates":true
       },
       {
-        "name":"Food and Nutrition Services",
-        "line_type":"data",
-        "fy-2":0,
-        "fy-1":24723,
-        "fy-0":0,
-        "fy+1":0,
-        "publish_subordinates":true
-      },
-      {
         "name":"Fresh Fruit & Vegetable Program",
         "line_type":"data",
         "fy-2":722080,
@@ -373,28 +310,19 @@
       {
         "name":"Full Service Community School",
         "line_type":"data",
-        "fy-2":197102,
+        "fy-2":137341,
         "fy-1":0,
         "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
       },
       {
-        "name":"GED Test Score",
-        "line_type":"data",
-        "fy-2":4739,
-        "fy-1":5063,
-        "fy-0":5000,
-        "fy+1":5000,
-        "publish_subordinates":true
-      },
-      {
         "name":"IDEA",
         "line_type":"data",
-        "fy-2":16412751,
-        "fy-1":17090818,
-        "fy-0":17863102,
-        "fy+1":17426883,
+        "fy-2":4042522,
+        "fy-1":4084691,
+        "fy-0":5266360,
+        "fy+1":4704268,
         "publish_subordinates":true
       },
       {
@@ -409,19 +337,10 @@
       {
         "name":"Indirect",
         "line_type":"data",
-        "fy-2":3154182,
-        "fy-1":1786054,
-        "fy-0":2141386,
-        "fy+1":1580071,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Innovation School Planning",
-        "line_type":"data",
-        "fy-2":10441,
-        "fy-1":-493,
-        "fy-0":0,
-        "fy+1":0,
+        "fy-2":2973063,
+        "fy-1":1716027,
+        "fy-0":2087192,
+        "fy+1":1525566,
         "publish_subordinates":true
       },
       {
@@ -454,8 +373,8 @@
       {
         "name":"MassGrad Implemenation",
         "line_type":"data",
-        "fy-2":132191,
-        "fy-1":54306,
+        "fy-2":5813,
+        "fy-1":6244,
         "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
@@ -463,10 +382,10 @@
       {
         "name":"McKinney Homeless",
         "line_type":"data",
-        "fy-2":42937,
-        "fy-1":41553,
-        "fy-0":60000,
-        "fy+1":60000,
+        "fy-2":1386,
+        "fy-1":2086,
+        "fy-0":1594,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
@@ -497,19 +416,10 @@
         "publish_subordinates":true
       },
       {
-        "name":"Partnerships in Social Emotion",
-        "line_type":"data",
-        "fy-2":0,
-        "fy-1":0,
-        "fy-0":0,
-        "fy+1":1500000,
-        "publish_subordinates":true
-      },
-      {
         "name":"Pathway to Support At-Risk Students",
         "line_type":"data",
-        "fy-2":17308,
-        "fy-1":1682,
+        "fy-2":720,
+        "fy-1":0,
         "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
@@ -517,10 +427,10 @@
       {
         "name":"Perkins Vocational Education",
         "line_type":"data",
-        "fy-2":1275399,
-        "fy-1":1582663,
-        "fy-0":1541899,
-        "fy+1":1360293,
+        "fy-2":114321,
+        "fy-1":116142,
+        "fy-0":42605,
+        "fy+1":106932,
         "publish_subordinates":true
       },
       {
@@ -553,8 +463,8 @@
       {
         "name":"Quality Full-Day Kindergarten",
         "line_type":"data",
-        "fy-2":1628676,
-        "fy-1":250228,
+        "fy-2":723708,
+        "fy-1":175207,
         "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
@@ -580,8 +490,8 @@
       {
         "name":"Reimbursable",
         "line_type":"data",
-        "fy-2":4630092,
-        "fy-1":5490363,
+        "fy-2":1616049,
+        "fy-1":2714078,
         "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
@@ -589,17 +499,17 @@
       {
         "name":"ROTC",
         "line_type":"data",
-        "fy-2":849347,
-        "fy-1":780696,
-        "fy-0":845000,
-        "fy+1":732224,
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":117564,
         "publish_subordinates":true
       },
       {
         "name":"Safe Schools",
         "line_type":"data",
         "fy-2":0,
-        "fy-1":93836,
+        "fy-1":4116,
         "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
@@ -616,17 +526,17 @@
       {
         "name":"School Improvement",
         "line_type":"data",
-        "fy-2":1049744,
-        "fy-1":1821796,
-        "fy-0":2089641,
-        "fy+1":700120,
+        "fy-2":61084,
+        "fy-1":559681,
+        "fy-0":55531,
+        "fy+1":84125,
         "publish_subordinates":true
       },
       {
         "name":"School Lunch - Food Services",
         "line_type":"data",
-        "fy-2":33230610,
-        "fy-1":32308044,
+        "fy-2":24782903,
+        "fy-1":24448446,
         "fy-0":35393782,
         "fy+1":34165793,
         "publish_subordinates":true
@@ -635,16 +545,7 @@
         "name":"Social Emotional Learning",
         "line_type":"data",
         "fy-2":0,
-        "fy-1":159421,
-        "fy-0":0,
-        "fy+1":0,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Special Education",
-        "line_type":"data",
-        "fy-2":0,
-        "fy-1":42395,
+        "fy-1":4824,
         "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
@@ -652,45 +553,18 @@
       {
         "name":"Special Education / Professional Dev",
         "line_type":"data",
-        "fy-2":124748,
-        "fy-1":197260,
-        "fy-0":173784,
+        "fy-2":0,
+        "fy-1":5150,
+        "fy-0":4618,
         "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Special Education 188 Early Childhood",
         "line_type":"data",
-        "fy-2":362707,
-        "fy-1":619600,
-        "fy-0":480204,
-        "fy+1":470600,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Special Education Circuit Breaker",
-        "line_type":"data",
-        "fy-2":8041636,
-        "fy-1":15173004,
-        "fy-0":15628194,
-        "fy+1":15468259,
-        "publish_subordinates":true
-      },
-      {
-        "name":"SPED 188 Early Childhood",
-        "line_type":"data",
-        "fy-2":0,
-        "fy-1":8658,
-        "fy-0":0,
-        "fy+1":0,
-        "publish_subordinates":true
-      },
-      {
-        "name":"SPED IDEA",
-        "line_type":"data",
-        "fy-2":0,
-        "fy-1":33534,
-        "fy-0":0,
+        "fy-2":80947,
+        "fy-1":91436,
+        "fy-0":12761,
         "fy+1":0,
         "publish_subordinates":true
       },
@@ -700,7 +574,7 @@
         "fy-2":0,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":925735,
+        "fy+1":84527,
         "publish_subordinates":true
       },
       {
@@ -709,7 +583,7 @@
         "fy-2":0,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":400000,
+        "fy+1":175773,
         "publish_subordinates":true
       },
       {
@@ -769,7 +643,7 @@
       {
         "name":"TILT - Turnaround with Inc Learn Time",
         "line_type":"data",
-        "fy-2":135699,
+        "fy-2":116781,
         "fy-1":0,
         "fy-0":0,
         "fy+1":0,
@@ -778,16 +652,16 @@
       {
         "name":"Title I",
         "line_type":"data",
-        "fy-2":31145744,
-        "fy-1":33633191,
-        "fy-0":37442667,
-        "fy+1":41624266,
+        "fy-2":16496504,
+        "fy-1":17355891,
+        "fy-0":20717381,
+        "fy+1":21673248,
         "publish_subordinates":true
       },
       {
         "name":"Title I - School Support",
         "line_type":"data",
-        "fy-2":133695,
+        "fy-2":4529,
         "fy-1":0,
         "fy-0":0,
         "fy+1":0,
@@ -798,34 +672,25 @@
         "line_type":"data",
         "fy-2":5834059,
         "fy-1":5870144,
-        "fy-0":5668189,
+        "fy-0":5356726,
         "fy+1":2717004,
         "publish_subordinates":true
       },
       {
         "name":"Title III - Bilingual Lang Acq",
         "line_type":"data",
-        "fy-2":1560979,
-        "fy-1":2374677,
-        "fy-0":2335228,
-        "fy+1":2287510,
+        "fy-2":108733,
+        "fy-1":271033,
+        "fy-0":47705,
+        "fy+1":394356,
         "publish_subordinates":true
       },
       {
         "name":"Title III - Summer Grant",
         "line_type":"data",
-        "fy-2":82263,
-        "fy-1":69878,
-        "fy-0":69877,
-        "fy+1":0,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Title III Bilingual Lang Acq",
-        "line_type":"data",
-        "fy-2":0,
-        "fy-1":52316,
-        "fy-0":0,
+        "fy-2":2130,
+        "fy-1":1397,
+        "fy-0":1370,
         "fy+1":0,
         "publish_subordinates":true
       },
@@ -859,10 +724,10 @@
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":125750999,
-        "fy-1":138414213,
-        "fy-0":138473884,
-        "fy+1":140077644
+        "fy-2":67583866,
+        "fy-1":71672840,
+        "fy-0":83587212,
+        "fy+1":82284652
       }
     ]
   },

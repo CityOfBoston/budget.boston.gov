@@ -6,7 +6,7 @@
   "section_type_short":"L",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_categories~technology.json",
-  "source_time":"20180404163629",
+  "source_time":"20180405124924",
   "source_year":"19",
   "description":[
     "Initiatives to make Boston&rsquo;s infrastructure and services dynamic and responsive to residents' needs in real-time."
@@ -204,12 +204,23 @@
             {
               "line_type":"data",
               "title":null,
-              "project_title":800000,
+              "project_title":485000,
               "fy-0":2888,
               "category":"Technology",
               "name":"Traffic Signal Construction at 4 Intersections",
               "location":"Various neighborhoods",
               "status":"In Construction",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1350000,
+              "fy-0":1000000,
+              "category":"Technology",
+              "name":"Traffic Signal Construction at 4 Locations",
+              "location":"Various neighborhoods",
+              "status":"In Design",
               "operating_impact":"No"
             },
             {
@@ -239,7 +250,7 @@
       ]
     }
   ],
-  "fy-0":22637304,
-  "total":129476194
+  "fy-0":23637304,
+  "total":130511194
 }
 ---

@@ -14,7 +14,7 @@
   "section_type_short":"R",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_projects~transportation-department~traffic-signal-construction-at-4-intersections.json",
-  "source_time":"20180404163614",
+  "source_time":"20180405124912",
   "source_year":"19",
   "status":"In Construction",
   "expenditures_detail":{
@@ -39,8 +39,8 @@
         "past_spending":11112,
         "fy-1":471000,
         "fy-0":2888,
-        "fy+1-4":315000,
-        "total":800000
+        "fy+1-4":0,
+        "total":485000
       },
       {
         "line_type":"data",
@@ -61,8 +61,8 @@
         "past_spending":11112,
         "fy-1":471000,
         "fy-0":2888,
-        "fy+1-4":315000,
-        "total":800000
+        "fy+1-4":0,
+        "total":485000
       }
     ],
     "authorizations_table":{
@@ -84,11 +84,11 @@
           "line_title":null,
           "line_data_type":"number",
           "source":"City Capital",
-          "existing":800000,
+          "existing":485000,
           "fy-0":0,
           "fy-0++":0,
           "other":0,
-          "total":800000
+          "total":485000
         },
         {
           "line_type":"data",
@@ -106,11 +106,11 @@
           "line_title":"Totals",
           "line_data_type":"number",
           "source":"Totals",
-          "existing":800000,
+          "existing":485000,
           "fy-0":0,
           "fy-0++":0,
           "other":0,
-          "total":800000
+          "total":485000
         }
       ]
     }

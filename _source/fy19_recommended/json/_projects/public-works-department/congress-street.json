@@ -6,7 +6,7 @@
   "file_version":"",
   "location":"South Boston",
   "managing_department":"Public Works Department",
-  "mission":"Reconstruct Congress Street from the Fort Point Channel to West Service Road, to Complete Streets standards where applicable, in order to provide safe, livable and multi-modal city streets, including new sidewalks, street lights, trees and street furnitur",
+  "mission":"Reconstruct Congress Street from the Fort Point Channel to West Service Road, to Complete Streets standards where applicable, in order to provide safe, livable and multi-modal city streets, including sidewalks, street lights, trees, and street furniture.",
   "name":"Congress Street",
   "operating_impact":"No",
   "section_id":"CPW24704",
@@ -14,7 +14,7 @@
   "section_type_short":"R",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_projects~public-works-department~congress-street.json",
-  "source_time":"20180404163609",
+  "source_time":"20180405124909",
   "source_year":"19",
   "status":"To Be Scheduled",
   "expenditures_detail":{

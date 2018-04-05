@@ -14,7 +14,7 @@
   "section_type_short":"L",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_cp_depts~transportation-department.json",
-  "source_time":"20180404163612",
+  "source_time":"20180405124912",
   "source_year":"19",
   "mission":[
     "The mission of the Boston Transportation Department is to promote public safety, manage the City's transportation network, and enhance the quality of life for residents of our City neighborhoods. Accomplishment of our mission is ensured through the use of planning, coordinated engineering, education and enforcement. The Transportation Department strives to improve circulation in and around the City, enhance public transportation services, gain efficiencies in the management of parking resources, adjudicate and collect fines, collaborate with relevant agencies and encourage the use of alternate transportation modes."
@@ -131,7 +131,19 @@
               "status":"In Construction",
               "operating_impact":"No",
               "fy-0":2888,
-              "project_total":800000
+              "project_total":485000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Technology",
+              "name":"Traffic Signal Construction at 4 Locations",
+              "location":"Various neighborhoods",
+              "section_id":"CTD24732",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":1000000,
+              "project_total":1350000
             },
             {
               "line_type":"data",
@@ -309,18 +321,6 @@
               "line_type":"data",
               "title":null,
               "category":"Transportation",
-              "name":"Traffic Signal Construction at 4 Locations",
-              "location":"Various neighborhoods",
-              "section_id":"CTD24732",
-              "status":"In Design",
-              "operating_impact":"No",
-              "fy-0":1000000,
-              "project_total":1350000
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Transportation",
               "name":"Transportation Planning",
               "location":"Citywide",
               "section_id":"CTD23177",
@@ -359,6 +359,6 @@
     }
   ],
   "fy-0":16173048,
-  "total":115388965
+  "total":115073965
 }
 ---

@@ -6,7 +6,7 @@
   "section_type_short":"L",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_categories~education.json",
-  "source_time":"20180404163618",
+  "source_time":"20180405124916",
   "source_year":"19",
   "description":[
     "Initiatives to strengthen education, job training, and career connections."
@@ -93,8 +93,8 @@
             {
               "line_type":"data",
               "title":null,
-              "project_title":17470742,
-              "fy-0":642400,
+              "project_title":16546742,
+              "fy-0":550000,
               "category":"Education",
               "name":"BuildBPS: Capital Maintenance",
               "location":"Citywide",
@@ -140,7 +140,7 @@
               "project_title":1600000,
               "fy-0":800000,
               "category":"Education",
-              "name":"Carter Development Center",
+              "name":"Carter School",
               "location":"South End",
               "status":"To Be Scheduled",
               "operating_impact":"No"
@@ -181,8 +181,8 @@
             {
               "line_type":"data",
               "title":null,
-              "project_title":365400,
-              "fy-0":28840,
+              "project_title":1289400,
+              "fy-0":121240,
               "category":"Education",
               "name":"Electrical Improvements at 4 Schools",
               "location":"Various neighborhoods",

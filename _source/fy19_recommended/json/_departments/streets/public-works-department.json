@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Streets~public-works-department.json",
-  "source_time":"20180404163608",
+  "source_time":"20180405124908",
   "source_year":"19",
   "name":"Public Works Department",
   "parent":"Streets",
@@ -61,7 +61,7 @@
         "publish_subordinates":true
       },
       {
-        "name":"Highway Maintenance",
+        "name":"Construction Management",
         "line_type":"data",
         "fy-2":4690789,
         "fy-1":3264965,
@@ -70,7 +70,7 @@
         "publish_subordinates":true
       },
       {
-        "name":"Street Cleaning",
+        "name":"Highway Field Operations",
         "line_type":"data",
         "fy-2":21060512,
         "fy-1":20163092,
@@ -88,7 +88,7 @@
         "publish_subordinates":true
       },
       {
-        "name":"Street Lighting",
+        "name":"Street Lights",
         "line_type":"data",
         "fy-2":10712131,
         "fy-1":9225675,

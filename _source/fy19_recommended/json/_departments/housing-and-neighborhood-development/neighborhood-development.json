@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Housing and Neighborhood Development~neighborhood-development.json",
-  "source_time":"20180404163519",
+  "source_time":"20180405124835",
   "source_year":"19",
   "name":"Neighborhood Development",
   "parent":"Housing & Neighborhood Development",
@@ -53,7 +53,7 @@
         "publish_subordinates":true
       },
       {
-        "name":"Neighborhood Housing Development",
+        "name":"Housing Development & Services",
         "line_type":"data",
         "fy-2":7846242,
         "fy-1":9744725,
@@ -517,12 +517,6 @@
       "project":"Home Investment Partnership (HOME)",
       "project_mission":[
         "The HOME Partnership Program is an annual entitlement grant from the U.S. Department of Housing and Urban Development (HUD) to the City of Boston to support the development of affordable housing. Eligible activities include new construction or rehabilitation of housing, tenant-based rental assistance for up to two years, and assistance to first-time homebuyers. All HOME funds must be used to benefit low and moderate income households. Fifteen percent of HOME funds are set aside for Community Housing Development Organizations. HOME grants are four years in duration. The Home awards in FY14, FY15, and FY16 were; $4,418,285, $4,524,340, $$3,998,161 respectively. The FY17 and FY18 awards are both $4,143,556."
-      ]
-    },
-    {
-      "project":"HomeCorp",
-      "project_mission":[
-        "Homecorp were grants from the Commonwealth of Massachusetts Attorney General&rsquo;s Office. The purpose of the funding was to help the City mitigate the impact of the foreclosure crisis, revitalize distressed neighborhoods that suffered the impact of foreclosure clusters, and to promote homeownership and affordable housing. The HomeCorp awards began on 9/21/2012 and ended 12/31/2014."
       ]
     },
     {

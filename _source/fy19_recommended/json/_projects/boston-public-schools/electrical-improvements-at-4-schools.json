@@ -14,7 +14,7 @@
   "section_type_short":"R",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_projects~boston-public-schools~electrical-improvements-at-4-schools.json",
-  "source_time":"20180404163439",
+  "source_time":"20180405124807",
   "source_year":"19",
   "status":"New Project",
   "expenditures_detail":{
@@ -38,9 +38,9 @@
         "source":"City Capital",
         "past_spending":0,
         "fy-1":0,
-        "fy-0":28840,
-        "fy+1-4":336560,
-        "total":365400
+        "fy-0":121240,
+        "fy+1-4":1168160,
+        "total":1289400
       },
       {
         "line_type":"data",
@@ -60,9 +60,9 @@
         "source":"Totals",
         "past_spending":0,
         "fy-1":0,
-        "fy-0":28840,
-        "fy+1-4":336560,
-        "total":365400
+        "fy-0":121240,
+        "fy+1-4":1168160,
+        "total":1289400
       }
     ],
     "authorizations_table":{
@@ -85,10 +85,10 @@
           "line_data_type":"number",
           "source":"City Capital",
           "existing":0,
-          "fy-0":365400,
+          "fy-0":1289400,
           "fy-0++":0,
           "other":0,
-          "total":365400
+          "total":1289400
         },
         {
           "line_type":"data",
@@ -107,10 +107,10 @@
           "line_data_type":"number",
           "source":"Totals",
           "existing":0,
-          "fy-0":365400,
+          "fy-0":1289400,
           "fy-0++":0,
           "other":0,
-          "total":365400
+          "total":1289400
         }
       ]
     }

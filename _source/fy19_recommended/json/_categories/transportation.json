@@ -6,7 +6,7 @@
   "section_type_short":"L",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_categories~transportation.json",
-  "source_time":"20180404163631",
+  "source_time":"20180405124925",
   "source_year":"19",
   "description":[
     "Initiatives to support an accessible multimodal transportation system that gets Bostonians where they need to go reliably and safely."
@@ -587,17 +587,6 @@
             {
               "line_type":"data",
               "title":null,
-              "project_title":1350000,
-              "fy-0":1000000,
-              "category":"Transportation",
-              "name":"Traffic Signal Construction at 4 Locations",
-              "location":"Various neighborhoods",
-              "status":"In Design",
-              "operating_impact":"No"
-            },
-            {
-              "line_type":"data",
-              "title":null,
               "project_title":2898849,
               "fy-0":300000,
               "category":"Transportation",
@@ -633,7 +622,7 @@
       ]
     }
   ],
-  "fy-0":82479138,
-  "total":905016398
+  "fy-0":81479138,
+  "total":903666398
 }
 ---

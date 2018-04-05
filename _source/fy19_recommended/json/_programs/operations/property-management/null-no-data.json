@@ -4,21 +4,21 @@
   "cabinet":"Operations",
   "department":"Property Management",
   "file_version":"",
-  "head_name":"William G. Joyce",
-  "head_title":"Manager",
-  "name":"Enforcement",
+  "head_name":null,
+  "head_title":null,
+  "name":"Capital Construction",
   "parent":"Property Management",
-  "section_id":181,
-  "section_md5_id":"FC221309746013AC554571FBD180E1C8",
+  "section_id":1,
+  "section_md5_id":"C4CA4238A0B923820DCC509A6F75849B",
   "section_type":"program",
   "section_type_short":"P",
   "source_version":"Recommended",
-  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~alteration-and-repair.json",
-  "source_time":"20180404163549",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~.json",
+  "source_time":"20180405124854",
   "source_year":"19",
-  "appropriation_code":"Organization 180400",
+  "appropriation_code":"Organization 180900",
   "description":[
-    "The Municipal Protective Services Division (MPSD) protects City property from vandalism, arson, and theft in City buildings."
+    "The Capital Construction program is responsible for the renovation, repair and new construction of City-owned facilities. The program provides professional planning, design and construction management services for capital funded projects at 425 City facilities.\n\n* In FY17 the Capital Construction program has been established as a new city department."
   ],
   "selected_service_indicators":[
     {
@@ -32,26 +32,26 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":3719683,
-      "fy-1":3185419,
-      "fy-0":2114162,
-      "fy+1":2065819
+      "fy-2":4673843,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":331651,
-      "fy-1":263786,
-      "fy-0":279649,
-      "fy+1":232317
+      "fy-2":1956310,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":4051334,
-      "fy-1":3449205,
-      "fy-0":2393811,
-      "fy+1":2298136
+      "fy-2":6630153,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0
     }
   ],
   "program_history_by_account":{
@@ -69,47 +69,47 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":3719683,
-        "fy-1":3185419,
-        "fy-0":2114162,
-        "fy+1":2065819,
-        "diff":-48343
+        "fy-2":4673843,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":121154,
-        "fy-1":112461,
-        "fy-0":127002,
-        "fy+1":109459,
-        "diff":-17543
+        "fy-2":1859414,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
       },
       {
         "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":62587,
-        "fy-1":71551,
-        "fy-0":71491,
-        "fy+1":80816,
-        "diff":9325
+        "fy-2":36784,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
       },
       {
         "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":12587,
-        "fy-1":7674,
-        "fy-0":9720,
-        "fy+1":8000,
-        "diff":-1720
+        "fy-2":20042,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":135323,
-        "fy-1":72100,
-        "fy-0":71436,
-        "fy+1":34042,
-        "diff":-37394
+        "fy-2":40070,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
       },
       {
         "line_title":"Other",
@@ -123,11 +123,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":4051334,
-        "fy-1":3449205,
-        "fy-0":2393811,
-        "fy+1":2298136,
-        "diff":-95675
+        "fy-2":6630153,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
       }
     ]
   }

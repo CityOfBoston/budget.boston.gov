@@ -14,7 +14,7 @@
   "section_type_short":"R",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_projects~boston-public-schools~buildbps-capital-maintenance.json",
-  "source_time":"20180404163438",
+  "source_time":"20180405124808",
   "source_year":"19",
   "status":"Annual Program",
   "expenditures_detail":{
@@ -38,9 +38,9 @@
         "source":"City Capital",
         "past_spending":0,
         "fy-1":2006447,
-        "fy-0":642400,
-        "fy+1-4":14821895,
-        "total":17470742
+        "fy-0":550000,
+        "fy+1-4":13990295,
+        "total":16546742
       },
       {
         "line_type":"data",
@@ -60,9 +60,9 @@
         "source":"Totals",
         "past_spending":0,
         "fy-1":2006447,
-        "fy-0":642400,
-        "fy+1-4":14821895,
-        "total":17470742
+        "fy-0":550000,
+        "fy+1-4":13990295,
+        "total":16546742
       }
     ],
     "authorizations_table":{
@@ -85,10 +85,10 @@
           "line_data_type":"number",
           "source":"City Capital",
           "existing":9254000,
-          "fy-0":8216742,
+          "fy-0":7292742,
           "fy-0++":0,
           "other":0,
-          "total":17470742
+          "total":16546742
         },
         {
           "line_type":"data",
@@ -107,10 +107,10 @@
           "line_data_type":"number",
           "source":"Totals",
           "existing":9254000,
-          "fy-0":8216742,
+          "fy-0":7292742,
           "fy-0++":0,
           "other":0,
-          "total":17470742
+          "total":16546742
         }
       ]
     }

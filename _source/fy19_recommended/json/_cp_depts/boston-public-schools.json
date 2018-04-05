@@ -14,7 +14,7 @@
   "section_type_short":"L",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_cp_depts~boston-public-schools.json",
-  "source_time":"20180404163437",
+  "source_time":"20180405124807",
   "source_year":"19",
   "mission":[
     "We welcome the children of this city into the Boston Public Schools, where effective teaching and learning prepare all of our students to achieve at high levels, and where the entire community works together to focus on children."
@@ -130,8 +130,8 @@
               "section_id":"CPS24710",
               "status":"Annual Program",
               "operating_impact":"No",
-              "fy-0":642400,
-              "project_total":17470742
+              "fy-0":550000,
+              "project_total":16546742
             },
             {
               "line_type":"data",
@@ -173,7 +173,7 @@
               "line_type":"data",
               "title":null,
               "category":"Education",
-              "name":"Carter Development Center",
+              "name":"Carter School",
               "location":"South End",
               "section_id":"CPS24154",
               "status":"To Be Scheduled",
@@ -226,8 +226,8 @@
               "section_id":"CPS24746",
               "status":"New Project",
               "operating_impact":"No",
-              "fy-0":28840,
-              "project_total":365400
+              "fy-0":121240,
+              "project_total":1289400
             },
             {
               "line_type":"data",
