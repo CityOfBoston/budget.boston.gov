@@ -1,0 +1,35 @@
+---
+{
+  "title":"Suffolk County Assessment",
+  "layout":"bos_content",
+  "permalink":"/featured-analysis/suffolk-county-assessment/",
+  "section_type":"section",
+  "section_type_short":"S",
+  "source_version":"Recommended",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~suffolk-county-assessment.json",
+  "source_time":"20180404163225",
+  "source_year":"19",
+  "card":[
+    {
+      "category":"Expenditures",
+      "order":8,
+      "title":"Suffolk County Assessment",
+      "body":"Covering the pension liability costs for former County employees retired before 1/1/10.",
+      "img":"img/cards/suffolk-county-assessment.jpg",
+      "link":"link"
+    }
+  ],
+  "components":[
+    {
+      "text_block":[
+        {
+          "title":"Suffolk County",
+          "body":[
+            "The Suffolk County budget is a fixed cost mandated by state legislation, budgeted at $4.0 million in FY18. State legislation converted all existing and future Suffolk County Sheriff employees to state employees effective January 1, 2010. The State charges the City for Suffolk County through an assessment based on the residual unfunded pension liability for former Sherriff employees who retired prior to January 1, 2010. Once the unfunded pension liability is fully extinguished, the budget for Suffolk County will no longer be necessary."
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

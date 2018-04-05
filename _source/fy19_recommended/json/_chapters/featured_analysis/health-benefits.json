@@ -1,0 +1,45 @@
+---
+{
+  "title":"Health Benefits",
+  "layout":"bos_content",
+  "permalink":"/featured-analysis/health-benefits/",
+  "section_type":"section",
+  "section_type_short":"S",
+  "source_version":"Recommended",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~health-benefits.json",
+  "source_time":"20180404163213",
+  "source_year":"19",
+  "card":[
+    {
+      "category":"Expenditures",
+      "order":1,
+      "title":"Health Benefits",
+      "body":"Health care costs are contained through savings initiatives but continue to grow. Learn more.",
+      "img":"img/cards/health-benefits.jpg",
+      "link":"link"
+    }
+  ],
+  "components":[
+    {
+      "text_block":[
+        {
+          "title":"Health Claims Trends",
+          "body":[
+            "Nationally, lower health claims costs contributed to lower premium increases from FY11 &ndash; FY14, which were followed by higher premium increases in FY16 and FY17 largely due to higher pharmaceutical costs. The City is limited in its ability to influence the multiple causes behind health care cost swings, which can include increasing medical provider charges, an aging population, overuse of certain services, and high utilization of more expensive hospitals. "
+          ]
+        }
+      ]
+    },
+    {
+      "grid":[
+        {
+          "grid_title":"More Expenditures"
+        },
+        {
+          "card":"/featured-analysis/other-post-employement-benefits/"
+        }
+      ]
+    }
+  ]
+}
+---

@@ -1,0 +1,51 @@
+---
+{
+  "title":"Housing a Changing City",
+  "layout":"bos_content",
+  "permalink":"/featured-analysis/housing-a-changing-city/",
+  "section_type":"section",
+  "section_type_short":"S",
+  "source_version":"Recommended",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~housing-a-changing-city.json",
+  "source_time":"20180404163104",
+  "source_year":"19",
+  "card":[
+    {
+      "category":"Budget Priorities",
+      "order":6,
+      "title":"Housing a Changing City",
+      "body":"The City leverages variety of resources to meet 2030 housing goals.",
+      "img":"img/cards/housing-a-changing-city.jpg",
+      "link":"link"
+    }
+  ],
+  "components":[
+    {
+      "text_block":[
+        {
+          "body":[
+            "Housing",
+            "In 2014, Mayor Walsh released Housing a Changing City: Boston 2030, the Administration&rsquo;s comprehensive plan to accommodate Boston's rapid growth and stabilize the housing market over the next 15 years. Through the strategies outlined in the plan, more than 19,200 new housing units have already been completed or are currently in construction. This represents 36% of the City&rsquo;s 53,000-unit target for 2030. The City combines General Fund dollars with federal grants, state grants, and developer fees to leverage a wide variety of sources to invest in the creation and preservation of affordable housing citywide. ",
+            "Municipal finance law does not allow the City to use city capital dollars to support private housing, but public infrastructure projects can enable housing development. Investments in this Capital Plan serve as critical component to several public and private residential projects. Mayor Walsh&rsquo;s Capital Plan invests in reconstruction of roads and sidewalks in the Whittier Street housing development in conjunction with a $30 million Housing and Urban Development grant to revitalize the development and surrounding neighborhood. Known as Whittier Choice, the project will ultimately create a total of 387 mixed-income rental units.",
+            "The City is also in design of various street reconstructions in the Madison Park Village of Roxbury, bounded by Melnea Cass Boulevard and Tremont Street, enhancing the area ahead of new housing development along Melnea Cass in Lower Roxbury. The Madison Park Infill project will be comprised of a four-story building with 16 units and a five-story building with 60 units located just southwest of the Ruggles MBTA Orange Line station. ",
+            "Boston will also be renovating the second floor of the Woods Mullen Shelter to increase the programming space, including housing search services and front door triage that enables shelter staff to meet with every new guest entering the shelters to conduct an in-depth assessment. This assessment leads to the development of a client-centered plan to exit the shelter system into safe, supported, and stable housing as quickly as possible."
+          ]
+        }
+      ]
+    },
+    {
+      "grid":[
+        {
+          "grid_title":"More Budget Priorities"
+        },
+        {
+          "card":"/featured-analysis/homeless-action-plan/"
+        },
+        {
+          "card":"/featured-analysis/homeless-shelter-services/"
+        }
+      ]
+    }
+  ]
+}
+---

@@ -1,0 +1,175 @@
+---
+{
+  "section":"How the Budget Works",
+  "name":"How the Budget Works",
+  "permalink":"how-the-budget-works/",
+  "file_version":"",
+  "section_type":"section",
+  "section_type_short":"S",
+  "source_version":"Recommended",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_chapters~how-the-budget-works.json",
+  "source_time":"20180404162926",
+  "source_year":"19",
+  "components":[
+    {
+      "text_block":[
+        {
+          "title":"INTRODUCTION",
+          "body":[
+            "Boston&rsquo;s Performance Management efforts, driven in partnership between the Citywide Analytics Team and the Budget Office, exist to ensure that the city delivers the most effective and efficient services possible. We work with departments across the City to solve challenging problems, build a more effective government, and deliver better outcomes for people who live and work in Boston. ",
+            "This chapter highlights our approach, recent accomplishments, and plans for the upcoming year."
+          ]
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "title":"OUR APPROACH"
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "body":[
+            "Executive Insight",
+            "One of our top priorities is providing City leadership with performance data where and when they need it. We provide the Mayor, Cabinet Chiefs, and City leadership with dashboards and reports that provide up-to-date information so they can stay regularly informed about the effectiveness of programs, day-to-day operations, and progress toward accomplishing strategic goals."
+          ]
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "body":[
+            "Optimizing Process",
+            "Along with building the tools to understand how well the City is performing, we work collaboratively across 14 Cabinets to help identify pain points and develop immediate and potential long-term performance and process improvements. These direct engagements create lasting improvements for the City. "
+          ]
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "body":[
+            "Engaging with the Public",
+            "The public plays a critical role in our work. To promote transparency, we publish City and departmental performance scorecards so people can see how the City is performing at delivering services, and to encourage innovation, we share our data so the public can create new tools and propose new ways for the City to deliver services."
+          ]
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "title":"ACCOMPLISHMENTS THIS YEAR"
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "body":[
+            "Continued Development of CityScore",
+            "Launched in January of 2016, CityScore is designed to inform the Mayor, City managers, and the public about quality of life and the performance of City government by aggregating key performance metrics into one number. ",
+            "Over the course of the year, CityScore has improved the efficiency of core City services, including increased resources for emergency medical services. Additionally, we developed a toolkit this year to make CityScore shareable so that any government or organization can recognize the same benefits that we have here in Boston. The toolkit can be found at: github.com/CityOfBoston/CityScoreToolkit. "
+          ]
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "body":[
+            "EMS Ambulance Allocation",
+            "We worked with Boston EMS to analyze how to best allocate resources in response to a growing call volume. Focusing on a subset of calls, incidents, and outcomes over multiple years, the analysis has prompted EMS to adjust the priority of calls to increase resource availability for higher-need medical incidents. We're also investigating how to increase ambulance response efficiency and levels of care for some of the City's most vulnerable residents."
+          ]
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "body":[
+            "311 Call Center Improvements ",
+            "After noticing the 311 Call Center's CityScore was below 1, we worked with the team to build dashboards and reports to better highlight performance trends and more quickly identify issues. To supplement these tools, we also developed a broader performance improvement strategy that aims to improve call center efficiency and increase constituent satisfaction, with implementation beginning in early 2017."
+          ]
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "title":"DELIVERING RESULTS",
+          "body":[
+            "Our work this year has also contributed to the following improvements:",
+            "Additional resources so our Emergency Medical Response team can better serve those in need of emergency services.",
+            "A 5% increase in the average number of calls answered within 30 seconds at the 311 Call Center, resulting in more expedient customer service for those interacting with the City.",
+            "New Financial Insight Tools for the City to track progress toward cost saving measures and to ensure fair and equitable opportunities for those competing for city contracts.",
+            "A 10% increase in the number of traffic signals repaired within 24 hours, ensuring that the City&rsquo;s streets are safe and functioning properly.",
+            "A clearer understanding of the demographics of city staff to help create a workforce that reflects our City&rsquo;s residents."
+          ]
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "title":"LOOKING TOWARD NEXT YEAR",
+          "body":[
+            "Our work next year will continue to build upon the successes we&rsquo;ve recognized this year in the areas of customer service, permitting, recruitment, and public safety. You can learn more about our work and check out our progress at: boston.gov/departments/analytics-team."
+          ]
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "title":"CITYSCORE",
+          "body":[
+            "CityScore&rsquo;s 22 metrics are monitored daily to get an understanding of the quality of life in Boston, and the performance of City government. Since inception, CityScore has prompted key process improvements, increased data-driven decision-making at all levels of city government, and informed the budget process.",
+            "The following list details the performance metrics and targets that currently make up CityScore. Daily scores and additional information can be found at: boston.gov/cityscore",
+            "311 CALL CENTER PERFORMANCE - Target 95% of calls answered within 30 seconds",
+            "311 CONSTITUENT EXPERIENCE SURVEYS - Target 4 on a 5 point rating scale",
+            "BOSTON FIRE DEPARTMENT INCIDENTS - Fewer incidents than previous years",
+            "BOSTON FIRE DEPARTMENT RESPONSE TIME - Target 90% of responses in 4 minutes or less",
+            "BOSTON PUBLIC SCHOOLS ATTENDANCE - Target 95% of all students ",
+            "CITY SERVICES SATISFACTION SURVEYS - Target 4 on a 5 point rating scale",
+            "BOSTON EMERGENCY MEDICAL SERVICES INCIDENTS - Fewer incidents than previous years",
+            "BOSTON EMERGENCY MEDICAL SERVICES RESPONSE TIME - Target median of 6 minutes",
+            "GRAFFITI ON-TIME % - Target 80% completed within 45 business days",
+            "HOMICIDES (TREND) - Fewer incidents than previous years",
+            "LIBRARY USERS - More users than previous years",
+            "MISSED TRASH ON-TIME % - Target 80% completed within 1 business day",
+            "ON-TIME PERMIT REVIEWS - Target 75% completed within 20 business days",
+            "PARKS MAINTENANCE ON-TIME % - Target 80% lighting issues completed within 7 business days; 80% all other issues completed within 5 business days",
+            "PART 1 CRIMES - Fewer incidents than previous years",
+            "POTHOLE ON-TIME % - Target 80% completed within 1 business day",
+            "SHOOTINGS (TREND) - Fewer incidents than previous years",
+            "SIGN INSTALLATION ON-TIME % - Target 80% completed within 30 business days",
+            "SIGNAL REPAIR ON-TIME % - Target 80% completed within 24 hours",
+            "STABBINGS (TREND) - Fewer incidents than previous years",
+            "STREETLIGHT ON-TIME % - Target 80% completed within 10 business days",
+            "TREE MAINTENANCE ON-TIME % - Target 80% completed within 365 calendar days"
+          ]
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "title":"PRIORITY FY18 PERFORMANCE GOALS",
+          "body":[
+            "The Mayor&rsquo;s FY18 budget priorities highlight the vision to create an environment that promotes equity, builds community, and helps fulfill Boston&rsquo;s great promise. The performance measures listed below reflect the City&rsquo;s top priorities and the partnerships necessary to achieve these ambitious goals. To track progress against these goals, visit the Boston About Results website at: boston.gov/finance/boston-about-results"
+          ]
+        }
+      ]
+    },
+    {
+      "table":[
+        {}
+      ]
+    }
+  ]
+}
+---

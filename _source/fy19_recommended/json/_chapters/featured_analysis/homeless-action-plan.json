@@ -1,0 +1,50 @@
+---
+{
+  "title":"Homeless Action Plan",
+  "layout":"bos_content",
+  "permalink":"/featured-analysis/homeless-action-plan/",
+  "section_type":"section",
+  "section_type_short":"S",
+  "source_version":"Recommended",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~homeless-action-plan.json",
+  "source_time":"20180404163101",
+  "source_year":"19",
+  "card":[
+    {
+      "category":"Budget Priorities",
+      "order":4,
+      "title":"Homeless Action Plan",
+      "body":"Boston invests in plan to end chronic and veteran homelessness",
+      "img":"img/cards/homeless-action-plan.jpg",
+      "link":"link"
+    }
+  ],
+  "components":[
+    {
+      "text_block":[
+        {
+          "title":"Implementing Boston&rsquo;s Homeless Action Plan",
+          "body":[
+            "With the 2015 publication of Boston&rsquo;s Way Home, the City&rsquo;s plan to end chronic and veteran homelessness, Mayor Walsh reinforced the City&rsquo;s commitment to the most vulnerable populations in our community. Boston&rsquo;s Way Home calls for a single, integrated homeless system, which will not only quickly move homeless individuals from Boston's streets and shelters into permanent housing, but also provide them the support they need to remain stable.",
+            "As part of the Boston&rsquo;s Way Home and Boston Homes for the Brave initiatives, Boston has housed 842 homeless veterans since July 2014, and put an end to chronic veteran homelessness in Boston. In addition, of all major cities in the U.S., Boston has the second lowest rate of unsheltered homeless veterans. To support Boston&rsquo;s Way Home, Mayor Walsh&rsquo;s FY18 budget includes an increase of $150,000 in federal funds to provide support services for veterans not eligible for VA programs, and an investment of $50,000 in federal funds to modify the City&rsquo;s Homebuyer Financial Assistance Program to provide down payment assistance to veterans. ",
+            "Because of its commitment to ongoing investments in housing and services, Boston maintains the lowest rate of unsheltered people experiencing homelessness among all major US cities, and the lowest rate of unsheltered homelessness among individuals with chronic patterns of homelessness. Although the City, working with its partners, has been able to house more than 1,000 formerly homeless individuals in the last two years, Boston also serves as a regional hub for services, which continues to increase the need for homeless housing supports. Mayor Walsh&rsquo;s FY18 budget includes more than $25 million in both City and external resources to continue the City&rsquo;s efforts to end chronic homelessness and provide supportive housing services to formerly homeless individuals. "
+          ]
+        }
+      ]
+    },
+    {
+      "grid":[
+        {
+          "grid_title":"More Budget Priorities"
+        },
+        {
+          "card":"/featured-analysis/homeless-shelter-services/"
+        },
+        {
+          "card":"/featured-analysis/housing-a-changing-city/"
+        }
+      ]
+    }
+  ]
+}
+---

@@ -1,0 +1,35 @@
+---
+{
+  "title":"Responding to Demand for Inspection Services",
+  "layout":"bos_content",
+  "permalink":"/featured-analysis/responding-to-demand-for-inspection-services/",
+  "section_type":"section",
+  "section_type_short":"S",
+  "source_version":"Recommended",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~responding-to-demand-for-inspection-services.json",
+  "source_time":"20180404163348",
+  "source_year":"19",
+  "card":[
+    {
+      "category":null,
+      "order":22,
+      "title":"Responding to Demand for Inspection Services",
+      "body":"<div>This is the blurb</div>",
+      "img":"img/cards/responding-to-demand-for-inspection-services.jpg",
+      "link":"link"
+    }
+  ],
+  "components":[
+    {
+      "text_block":[
+        {
+          "title":"Planning or Matching Funds:",
+          "body":[
+            "About 2% of the FY18 budget is assigned to matching fund requirements and to planning projects. Comprehensive planning projects, which analyze a group of buildings or program needs, provide the groundwork for targeted investments in the categories of Upgrade and New/Major Renovations. Projects in this category include funds for design and engineering services related to the construction of a new North Washington Street bridge, which will help leverage state construction funds."
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

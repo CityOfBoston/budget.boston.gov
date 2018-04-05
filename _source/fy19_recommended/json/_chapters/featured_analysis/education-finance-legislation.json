@@ -1,0 +1,53 @@
+---
+{
+  "title":"Education Finance Legislation",
+  "layout":"bos_content",
+  "permalink":"/featured-analysis/education-finance-legislation/",
+  "section_type":"section",
+  "section_type_short":"S",
+  "source_version":"Recommended",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~education-finance-legislation.json",
+  "source_time":"20180404163129",
+  "source_year":"19",
+  "card":[
+    {
+      "category":"Education",
+      "order":3,
+      "title":"Education Finance Legislation",
+      "body":"Mayor Walsh filed education finance reform legislation to invest in students.",
+      "img":"img/cards/education-finance-legislation.jpg",
+      "link":"link"
+    }
+  ],
+  "components":[
+    {
+      "text_block":[
+        {
+          "body":[
+            "Education Legislation",
+            "In light of the growing chasm between education costs and state revenue, Mayor Walsh filed comprehensive education finance reform legislation that aims to invest equitably in public education and expand access to high-quality education for students of all ages. In addition to the internal changes recommended to be explored at BPS, the Long-Term Financial Plan&rsquo;s 10 Big Ideas included a call to &ldquo;Advocate to Realign State Education Formulas&rdquo; and to &ldquo;Advocate to Give Boston More Flexibility to Modify its Revenue Structure.&rdquo; Based on these findings, the Mayor has filed comprehensive education finance reform legislation that would increase annual available funding for Boston by about $35 million for increased investment in education in its first year of implementation. The package would fix the broken charter school finance model, more fully fund the cost of the Commonwealth&rsquo;s highest need students, and redirect existing tax revenue produced in Boston back to its residents. In addition, if more state revenue becomes available for education, the Mayor&rsquo;s Chapter 70 Education Aid proposal would fundamentally change Boston&rsquo;s stagnant state education aid and provide an additional $150 million per year to Boston students within several years.",
+            "To fix the broken Charter School Transition Funding Model, the Mayor&rsquo;s proposed legislation would relieve the State General Fund of the cost of charter facilities, creating additional capacity for state funding for charter transition costs. The proposal also streamlines charter school transition funding in a way that limits state and city costs by committing the Commonwealth&rsquo;s support for additional charter school seats by providing 3 years of transitional funding directly to the charter schools (100% of the tuition in year 1, 50% in year 2, and 25% in year 3, with the municipality responsible for the balance in Years 2 and 3 and thereafter). The legislation also addresses a flaw in the current charter assessment formula that directly penalizes communities that have had their charter reimbursement appropriations underfunded. Finally, it grants charter schools access to the Massachusetts School Building Authority.",
+            "To provide every Boston 4-year old with a high quality Pre-Kindergarten seat, the Mayor proposed legislation dedicating $16.5 million to early education. The Universal Pre-Kindergarten Taskforce gained important insight into the supply and demand of pre-K seats in Boston. It found that Boston had solved the overall access challenge, but continued to face a significant shortage of quality seats. The taskforce estimates a 1,350 seat gap in Boston between the number of quality seats?&mdash;?roughly 4,000?&mdash;?and the current number of 4-year olds (5,350). Mayor Walsh is proposing to close the &ldquo;quality gap&rdquo; in pre-kindergarten seats in Boston by investing in programs at public schools and community based organizations with surplus revenue raised in Boston from the Convention Center Fund. The proposed legislation redirects the surplus amounts generated from two Convention Center Fund revenues that are produced exclusively in Boston, the Boston Sightseeing Surcharge and the Boston Vehicular Rental Transaction Surcharge.",
+            "Boston Public School students face more significant and more numerous disabilities than students in other districts.  BPS&rsquo;s students in out of district educational programs cost an average of $84,000 per pupil. Currently, the state reimburses districts for 75% of costs above 4 times the statewide average foundation per pupil rate, subject to appropriation. To increase districts&rsquo; reimbursements for the highest-need and highest-cost students, the Mayor has proposed legislation that would change this threshold to 3 times the average pupil cost.",
+            "The Mayor has also proposed legislation to make transformational education funding available for Boston if the State identifies a new education revenue source. The proposal fixes the Chapter 70 Education Aid formula for communities like Boston that serve the Commonwealth&rsquo;s most economically disadvantaged students, are investing more in their students than is required, but are receiving stagnant education aid each year. If new state revenue is identified for education aid, the proposal caps the municipal revenue growth factor at 2 &frac12;% for communities like Boston, and implements needed foundation budget updates for economically disadvantaged, special education, and English Language Learning students. If adopted, Boston could fundamentally change its State Education Aid picture and invest an additional $150 million per year in its students within the next several years. ",
+            "Additionally, the City and BPS are advocating for restoration of funding for Kindergarten Expansion Grants that was cut in the FY17 state budget. This line item was a critical source of revenue assisting BPS in providing access to full day kindergarten to all five-year olds in Boston. This year, BPS had to divert funding to minimize the impact of this $1.8 million cut on students, funding that could have been used to expand learning hours or K1 seats, and for many other purposes."
+          ]
+        }
+      ]
+    },
+    {
+      "grid":[
+        {
+          "grid_title":"More Education"
+        },
+        {
+          "card":"/featured-analysis/bps-spending-pressures/"
+        },
+        {
+          "card":"/featured-analysis/long-term-financial-plan/"
+        }
+      ]
+    }
+  ]
+}
+---

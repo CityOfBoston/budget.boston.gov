@@ -1,0 +1,35 @@
+---
+{
+  "title":"BPS External Funds",
+  "layout":"bos_content",
+  "permalink":"/featured-analysis/bps-external-funds/",
+  "section_type":"section",
+  "section_type_short":"S",
+  "source_version":"Recommended",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~bps-external-funds.json",
+  "source_time":"20180404163145",
+  "source_year":"19",
+  "card":[
+    {
+      "category":"Education",
+      "order":10,
+      "title":"BPS External Funds",
+      "body":"BPS receives revenue from external sources.  Learn what these sources are and what they support.",
+      "img":"img/cards/bps-external-funds.jpg",
+      "link":"link"
+    }
+  ],
+  "components":[
+    {
+      "text_block":[
+        {
+          "body":[
+            "School Improvement Grants",
+            "BPS anticipates $2.09 million in School Improvement Grants from the Commonwealth in FY18. This funding is provided to the lowest performing schools in BPS, also known as turnaround schools, to extend the instructional day by at least 30 minutes, hold an additional 100 professional development hours for teachers, and provide other school based support, such as after school tutors and literacy coaches. In FY18, the district has applied for funding for Grew Elementary, Dorchester Academy, Madison Park Technical Vocational High School, Excel High School, and Brighton High School. Although previous School Improvement Grants have expired, the district has shifted these activities to the operating budget to continue the work of turning around low performing schools. The FY18 budget includes an additional $750 thousand in funding to transition the Dearborn and the Mattapan Early Elementary, School where previous School Improvement Grants have ended.  Also, as mentioned previously, an additional $1.25 million reserve will be set up for Level 3, 4, and 5 schools that are experiencing declining enrollment."
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

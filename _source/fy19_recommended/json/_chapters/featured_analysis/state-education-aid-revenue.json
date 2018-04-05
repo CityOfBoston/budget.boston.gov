@@ -1,0 +1,70 @@
+---
+{
+  "title":"State Education Aid Revenue",
+  "layout":"bos_content",
+  "permalink":"/featured-analysis/state-education-aid-revenue/",
+  "section_type":"section",
+  "section_type_short":"S",
+  "source_version":"Recommended",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~state-education-aid-revenue.json",
+  "source_time":"20180404163322",
+  "source_year":"19",
+  "card":[
+    {
+      "category":"Revenue",
+      "order":9,
+      "title":"State Education Aid Revenue",
+      "body":"Boston&rsquo;s education spending increased substantially, but state education funding has not kept pace.",
+      "img":"img/cards/state-education-aid-revenue.jpg",
+      "link":"link"
+    }
+  ],
+  "components":[
+    {
+      "text_block":[
+        {
+          "body":[
+            "State Aid",
+            "State aid refers primarily to distributions from the Commonwealth to municipalities for Chapter 70 Education Aid, Unrestricted General Government Aid, Charter School Tuition Reimbursement along with other relatively small Commonwealth programs such as library aid and various reimbursements. State aid, as it is used here, excludes any grants to or offsets for direct expenditure by City departments. It also includes reimbursements from the Massachusetts School Building Authority (MSBA).",
+            "The City received general fund gross state aid totaling $413.4 million in FY15 and $421.6 million in FY16. The City expects to receive $429.9 million in state aid in FY17 and has budgeted $440.5 million in gross state aid in FY18, 2.5% over FY17.",
+            "&ldquo;Municipal Charges&rdquo;, also known as, &ldquo;State Assessments&rdquo; are charged by the Commonwealth to municipalities for items such as Charter School Tuition Reimbursement and MBTA service. State aid distributions are reduced by the amount of assessments charged to a municipality. The City paid $211.7 million in FY15 and $230.6 million in FY16. The City expects to pay $245.8 million in assessments in FY17 and is budgeting $264.9 million in FY18. The largest assessments are those of the Charter School Tuition and MBTA. The former has rapidly increased since the enactment of the 2010 legislation that expanded the number of charter school seats.",
+            "Net state aid, which is gross state aid revenue minus state assessments, has been trending down steeply since FY02. The rapid annual increase in the Charter School Tuition Assessment, combined with reductions in education and general government aid, contributed to this trend. With a decrease in net state aid for FY18, Boston is $189.4 million, or 52%, below its FY08 level of net state aid of $365.1 million. This loss of resources has put extraordinary pressure on the property tax and other local revenue sources as well as levels of expenditures. To mitigate some of this loss, the state expanded local option taxing authority and created savings opportunities, but their combined value does not offset the aggregate losses in net state aid. ",
+            "{04 Revenue Estimates - Revenue Estimates.xlsx:G-Net State Aid}",
+            "Figure 8 &ndash; Net State Aid",
+            "FY08-FY18",
+            "Net state aid amounted to $201.8 million in FY15 and $191.0 million in FY16. FY17 budgeted net state aid totals $184.1 million and the FY18 Budget assumes a reduction to $175.7 million."
+          ]
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "title":"Education Aid",
+          "body":[
+            "In 1993, the Commonwealth began an effort to increase and equalize funding for local education. The Chapter 70 formula derived from that effort establishes a foundation budget, or a minimum level of education spending in each school district, which the state and district then share the cost of funding. The Chapter 70 Education Aid formula does not work for Boston. Despite the Commonwealth adding over $994 million to Chapter 70 Aid since FY08, in FY18 Boston&rsquo;s Chapter 70 Aid is only $1.6 million higher than it was in FY08. The City received Chapter 70 education aid totaling $211.0 million in FY15 and $212.6 million in FY16. The City expects to receive $216.1 million from the state in FY17 and $217.4 million in FY18, a 0.6% increase from FY17. ",
+            "Boston&rsquo;s Charter School Tuition Assessment is projected to increase by $17.5 million, or 11.2%, over the FY17 budget, as 10,599 students are projected to attend a Commonwealth Charter School in FY18. Boston has seen its charter school costs rise dramatically since the enactment of the 2010 Achievement Gap Legislation (155% or $106 million between 2011 and 2018). ",
+            "Unfortunately the Commonwealth has not fulfilled its obligation under the 2010 law to fund Charter School Tuition Reimbursement, totaling a projected $73 million in lost revenue for Boston in FY15 and FY18. ",
+            "In the 2010 law, when tuition payments increase for a given school district over the prior year, the state reimburses that district for 100% of the increased cost in the first year (when the formula is fully-funded). The state then reimburses 25% of this first year increase amount for each of the subsequent five years. Cities and town are also reimbursed for the portion of the charter school assessment related to facilities. Because the Commonwealth has underfunded the appropriation, the Commonwealth has only funded a portion of the first year costs, and cities and towns have not been reimbursed for the subsequent five years. ",
+            "The net cost of charter schools to the City has been increasing rapidly: in FY15 the cost was $104.6 million and in FY16, $120.3 million. In FY17 the City has budgeted a $136.2 million net impact, and in FY17, $150.7 million. The net cost has grown more rapidly since the Commonwealth stopped fully funding the charter school reimbursement which is meant to ease transition costs. ",
+            "{04 Revenue Estimates - Revenue Estimates.xlsx:G-Net Charter Costs}",
+            "Figure 9 &ndash; Net Charter School Costs",
+            "FY08-FY18"
+          ]
+        }
+      ]
+    },
+    {
+      "text_block":[
+        {
+          "title":"Unrestricted General Government Aid (UGGA)",
+          "body":[
+            "For the FY10 budget and going forward, the Governor and the Legislature combined general government aid from Additional Assistance and Lottery into one account - UGGA. Revenue derived from the State&rsquo;s lottery now accounts for nearly all funds dispersed through UGGA. The current distribution of UGGA is a weighted average of both Lottery and Additional Assistance distributions of the past.",
+            "For Boston, the combined accounts totaled $168.6 million in FY15 and $174.7 million in FY16. In FY17, the City will receive $182.2 million and has budgeted for an increase to $189.3 million for FY18."
+          ]
+        }
+      ]
+    }
+  ]
+}
+---
