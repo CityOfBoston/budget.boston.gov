@@ -42,7 +42,8 @@ components:
       The FY18 and FY19 budget assumes the use of $40.0 million to support OPEB.</p>
 - grid:
   - grid_title: More budget analysis
-  - card: /financial-management/
-  - card: /operating-budget/other-post-employment-benefits/
   - card: /featured-analysis/revenue-overview/
+  - card: /featured-analysis/property-tax/
+  - card: /featured-analysis/state-revenue/
+ 
 ---

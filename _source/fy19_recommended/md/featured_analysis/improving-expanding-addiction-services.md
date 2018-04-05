@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/health-safety-addiction-services/
+permalink: /featured-analysis/improving-expanding-addiction-services/
 title: Improving and Expanding Addiction Services
 card:
   - title: Access to Addiction Services

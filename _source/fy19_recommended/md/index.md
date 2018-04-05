@@ -91,7 +91,7 @@ components:
     - col:
       - img: /img/budget-growth.png
 - grid:
-  - grid_title: Education overview
+  - grid_title: Education
   - card: /featured-analysis/education-overview/
   - card: /featured-analysis/city-services/
   - card: /featured-analysis/pensions-debt-service-other-fixed-costs/
@@ -100,11 +100,11 @@ components:
       path: /featured-analysis/index.html#grid-education
       button: true
 - text_block:
-  - title: FY18 Budget Priorities
+  - title: FY19 Budget Priorities
     body: >
       <p>Building on Mayor Walsh’s record of achieving improved outcomes across the City’s services - from education to housing, basic city services to the arts - the Mayor is proposing data-driven investments that are aimed at creating a <strong>thriving, healthy and innovative city</strong>. Operating budget investments are made possible due to the smart savings initiatives the City has pursued over the past four years. Through the Imagine Boston Capital Plan, the Mayor is making new capital investments in Boston’s schools, roads, bridges, parks, libraries, community centers, fire stations and other community assets to build the City that Bostonians imagined.</p>
 - grid:
-  - grid_title: Budget Priorities
+  - grid_title: City Budget Priorities
   - card: /featured-analysis/extended-school-day/
   - card: /featured-analysis/housing-homeless-action-plan/
   - card: /featured-analysis/prosperity-racial-equity-diversity-economic-mobility/
@@ -157,7 +157,7 @@ components:
 - text_col_2:
   - col: 
       - link:
-          title: View Education Priorities
+          title: View the Capital Plan
           path: /capital-projects
           button: true
 ---

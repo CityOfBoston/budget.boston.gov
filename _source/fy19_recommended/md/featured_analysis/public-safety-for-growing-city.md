@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/public-safety-for-a-growing-city/
+permalink: /featured-analysis/public-safety-for-growing-city/
 title: Public Safety for a Growing City
 card:
   - title: Public Safety for a Growing City
