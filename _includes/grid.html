@@ -1,3 +1,7 @@
+{% if include.arg[0].grid_title %}
+  <section id="grid-{{ include.arg[0].grid_title | slugify }}"></section>
+  <br /><br />
+{% endif %}
 <div class="view-places">
   <div class="view-content">
     {% if include.arg[0].grid_title %}
