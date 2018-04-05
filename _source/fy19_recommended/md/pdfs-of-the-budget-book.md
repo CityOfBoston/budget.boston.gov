@@ -15,20 +15,8 @@ components:
       This PDF represents the FY19 recommended budget document, the data in the interactive part of this site located at 
       <a href="https://budget.boston.gov">https://budget.boston.gov</a>.
     description:
-    - link: 
-        title: Complete Volume 1
-        path: /img/pdfs/volume-1-complete.pdf
-        button: true
-    - link:
-        title: Complete Volume 2
-        path: /img/pdfs/volume-2-complete.pdf
-        button: true
-    - link:
-        title: Complete Volume 3
-        path: /img/pdfs/volume-3-complete.pdf
-        button: true
     - blurb: >
-        <p><a href="https://www.boston.gov/departments/budget#past-budgets">Go to Boston.gov</a> 
+        <p><a href="https://www.boston.gov/departments/budget#past-budgets">Visit Boston.gov</a> 
         to see the books from prior budget years</p>
     sidebar_menu: true
 - text_block:
@@ -130,7 +118,7 @@ components:
         <li>
     - link:
         title: Arts and Culture Cabinet
-        path: /img/pdfs/04-Arts-and-Culture-Cabinet.pdf
+        path: /img/pdfs/03A-Arts-and-Culture-Cabinet.pdf
     - blurb: >
         </li>
         <li>
