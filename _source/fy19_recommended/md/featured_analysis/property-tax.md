@@ -64,7 +64,7 @@ right_image:
 - grid:
   - grid_title: More budget analysis
   - card: /featured-analysis/revenue-overview/
-  - card: /featured-analysis/local-receipts/
+  - card: /featured-analysis/local-revenue/
   - card: /featured-analysis/state-revenue/
 
 ---
