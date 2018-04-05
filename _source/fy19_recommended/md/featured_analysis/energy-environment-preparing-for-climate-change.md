@@ -21,16 +21,11 @@ components:
 - intro:
   - title: Preparing for climate change
     short_desc: >
-      As part of Boston’s implementation of Imagine Boston 2030, Mayor Walsh’s FY18-22 
+      As part of Boston’s implementation of Imagine Boston 2030, Mayor Walsh’s FY19-23 
       Capital Plan includes investments to support a healthy environment, reduce energy
       consumption and greenhouse gas emissions, and prepare for climate change.
     description: >
-      Leveraging outside funding, the Capital Plan allows for development of more 
-      detailed climate plans for Boston neighborhoods, especially those most at 
-      risk for coastal flooding, as recommended in Climate Ready Boston. <blockquote>These 
-      plans are essential for protecting the safety and vitality of existing residents, 
-      businesses, and institutions, and for ensuring the implementation of continued
-      growth and development, as envisioned in Imagine Boston 2030.</blockquote> 
+      Building on the success of the first phase of Climate Ready Boston in East Boston and Charlestown, the capital plan will allocate an additional $1.6 million to further resiliency initiatives to protect the city and provide more detailed reviews of additional neighborhoods. 
     sidebar_menu: true
 - text_block:
   - title: Renew Boston Trust
