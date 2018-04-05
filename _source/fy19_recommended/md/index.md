@@ -17,14 +17,14 @@ components:
       on our strong record of fiscal management." - Mayor 
       Martin J. Walsh
     description: >
-     sidebar_menu: true
+    sidebar_menu: true
 - text_block:
   - title: Introduction
     body: >
       Mayor Martin J. Walsh’s Fiscal Year 2019 (FY19) budget affirms a commitment to progress, opportunity and innovation by investing in Boston’s neighborhoods while maintaining the Mayor’s strong record of financial management. The $3.29 billion plan is balanced, sustainable, and accelerates progress across public policy areas. The budget contains historic levels of funding for public education, new investments in public safety, continued efforts to create affordable and middle income housing, expanded services for residents struggling with substance use disorders and addiction, and new initiatives that will transform the future of transportation in Boston.
     right_image: /img/recommended-expenditures.png
 - text_block:
-  - body: >
+    body: >
       <h5>Spending</h5>
       <p>Boston is a growing city, with an evolving population that needs new and expanded city services. In his first term in office, Mayor Walsh improved outcomes across the City’s services, from education to housing, economic security to quality of life, and open space to the arts. In FY19, the Mayor proposes to build on those successes and make real, meaningful changes to the future of Boston’s landscape. Investments in public safety, education, transportation, housing, public health, and many other areas reflect a City committed to providing the services to <strong>expand opportunity and security to Boston’s middle class</strong>.</p>
       <h5>Revenue</h5>
@@ -41,7 +41,7 @@ components:
       </ul>
       <p>In their credit rating affirming Boston’s AAA rating with a stable outlook, Moody’s wrote: <blockquote>"The AAA rating reflects the city's strong fiscal management and stable financial position."</blockquote></p>
       <p>Disciplined financial practices have better positioned Boston to manage through changes in local, state, and federal policy and funding levels.</p>
-     </ul>
+      </ul>
 - spanning_image:
   - title: Extending the school day
     desc: Working to close achievement and opportunity gaps
@@ -51,8 +51,6 @@ components:
     src: /img/students-on-a-computer.jpg
     alt: Three students all looking at a computer
 - text_block:
-  - body: >
- -text_block:
   - title: Overall Spending
 - text_col_2:
     - col: >
