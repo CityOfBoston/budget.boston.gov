@@ -39,11 +39,10 @@ components:
 - grid: 
   - grid_title: Revenue
   - card: /featured-analysis/revenue-overview/
-  - card: /featured-analysis/national-economy/
-  - card: /featured-analysis/state-and-city-economies/
+  - card: /featured-analysis/economy-overview/
   - card: /featured-analysis/property-tax/
-  - card: /featured-analysis/revenue-estimates/
-  - card: /featured-analysis/local-receipts/
+  - card: /featured-analysis/state-revenue/
+  - card: /featured-analysis/local-revenue/
   - card: /featured-analysis/non-recurring-revenue/
 - grid: 
   - grid_title: Centralized and Fixed Costs
