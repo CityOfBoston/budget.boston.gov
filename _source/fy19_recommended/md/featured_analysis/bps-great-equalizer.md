@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/bps-operating-budget/
+permalink: /featured-analysis/bps-great-equalizer/
 title: BPS Operating Budget
 card:
   - title: BPS Operating Budget
