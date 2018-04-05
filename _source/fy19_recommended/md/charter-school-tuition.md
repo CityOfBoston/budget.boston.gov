@@ -26,8 +26,8 @@ components:
       independently from local school committee and district bargaining rules 
       and regulations.
     description: >
-Boston’s Charter School Tuition Assessment is projected to increase by $20.5 million (11.8%) over the FY18 budget, as about 11,084 students are projected to attend a Commonwealth Charter School in FY19. This increase brings Boston’s Charter School Tuition Assessment to $194.2 million. Boston has seen its charter school costs rise dramatically since the enactment of the 2010 Achievement Gap Legislation (184% or $126 million between FY11 and FY19 Budget). Although the proposed charter school cap ballot initiative did not pass in 2016, the City anticipates that its assessment will continue to rise as tuition rates increase and the cap allows a moderate number of new seats each year
-<blockquote>Boston’s charter school assessment has risen by 184% since the enactment of the 2010 Achievement Gap Legislation.</blockquote>
+      Boston’s Charter School Tuition Assessment is projected to increase by $20.5 million (11.8%) over the FY18 budget, as about 11,084 students are projected to attend a Commonwealth Charter School in FY19. This increase brings Boston’s Charter School Tuition Assessment to $194.2 million. Boston has seen its charter school costs rise dramatically since the enactment of the 2010 Achievement Gap Legislation (184% or $126 million between FY11 and FY19 Budget). Although the proposed charter school cap ballot initiative did not pass in 2016, the City anticipates that its assessment will continue to rise as tuition rates increase and the cap allows a moderate number of new seats each year
+      <blockquote>Boston’s charter school assessment has risen by 184% since the enactment of the 2010 Achievement Gap Legislation.</blockquote>
     sidebar_menu: true
 - text_block:
   - title: Total spending

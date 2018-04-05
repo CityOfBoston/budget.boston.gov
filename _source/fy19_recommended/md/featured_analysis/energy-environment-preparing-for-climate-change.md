@@ -36,7 +36,6 @@ components:
       <li>The City is investing in the implementation of nation-leading city ordinances for Community Choice Aggregation and single-use bags that will help beautify our city and lower emissions.</li>
       <li>The City will purchase a deployable floodwall for the East Boston Greenway to help mitigate damage related to coastal storms.</li>
       </ul>
-     sidebar_menu: true
 - text_block:
   - title: Renew Boston Trust
     body: >
