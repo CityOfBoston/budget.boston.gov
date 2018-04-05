@@ -21,11 +21,11 @@ components:
     sidebar_menu: true
 - grid:
   - grid_title: Education
-  - card: /featured-analysis/bps-enrollment/
-  - card: /featured-analysis/bps-operating-budget/
+  - card: /featured-analysis/bps-scaling-successful-programs/
+  - card: /featured-analysis/bps-great-equalizer/
   - card: /featured-analysis/buildbps/
   - card: /featured-analysis/early-childhood-education/
-  - card: /featured-analysis/special-education/
+  - card: /featured-analysis/health-social-emotional-wellness/
 - grid: 
   - grid_title: City Budget Priorities
   - card: /featured-analysis/arts-and-culture/  
