@@ -32,10 +32,9 @@ components:
       <p>The majority of departments had employees who reached agreement on collective bargaining contracts, so department growth reflects those wage and cost of living increases, while outstanding contracts are reserved centrally. 
       <blockquote>Average department growth is projected to be 3.5% in FY19. </blockquote>
       Funding for unsettled City and BPS collective bargaining contracts are centralized in a $41 million collective bargaining reserve.</p>
-      <p>To make targeted investments further detailed below, the City is pursuing 
+      <p>To make targeted investments, the City is pursuing 
       smart savings initiatives in the FY19 Budget:</p>
   - col: 
-    - img: /img/15-average-dept-increase.png
 - text_block:
   - title: Reforms and savings
 - text_col_2:
