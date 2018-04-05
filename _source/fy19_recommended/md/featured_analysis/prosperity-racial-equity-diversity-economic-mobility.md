@@ -21,46 +21,31 @@ components:
 - intro:
   - title: Advancing racial equity, diversity, and economic mobility
     short_desc: >
-      In 2015, Mayor Walsh appointed Boston’s first Chief Resilience Officer 
-      to lead the City’s efforts to develop an integrated Resilience Strategy 
-      that will help Boston thrive in both good and challenging times. 
+      In July 2017, Mayor Walsh released Boston's first citywide Resilience Strategy to ensure every resident can reach their full potential regardless of their background, and remove the barriers of systemic racism that hinder Bostonians from having access to opportunities. 
     description: >
-      While this strategy will address a wide range of issues, achieving 
-      racial equity has emerged at the very core of Boston’s efforts to build 
-      resilience. Boston is bringing conversations about racism, healing and 
-      policy work into its neighborhoods.
+     The FY19 budget begins to deliver on that promise through meaningful investment that looks at the root problems of systemic racism and ensures Boston is a city where everyone thrives. These investments include:
+- text_col_2:
+  - col: >
+     <ul>
+      <li>A disparity study to identify and address gaps, and ultimately strengthen the City's procurement practices across all departments and provide an enhanced platform for future equity-based policies.</li>
+      <li>An updated Economic Inclusion and Equity Agenda, the Mayor’s strategy for creating an inclusive economy in Boston.</li>
+     </ul>
+  - col: >
+     <ul>
+      <li>The City plans to review the 35 year old Boston Main Streets program on how it will be best suited to serve Boston and its underserved districts and Main streets.</li>
+      <li>Through the Economic Mobility Lab, the City will advance economic mobility for Bostonians.</li>
+     </ul>
     sidebar_menu: true
 - text_block:
-  - title: Overview
-- text_col_3:
-  - col: >
-      <h5>Developing the Resilience Strategy</h5>
-      <p>The FY18 budget replaces Rockefeller Foundation grant funding ending 
-      in FY18 and will allow the Mayor’s Office of Resilience and Racial Equity 
-      to continue efforts in developing and implementing an integrated Resilience 
-      Strategy that will help Boston:</p>
-      <ul>
-        <li>diversify its workforce</li>
-        <li>create shared prosperity by exploring ways to impact economic mobility 
-        close achievement gaps, and</li>
-        <li>work to address systemic and generational challenges to racial equity.</li>
-       </ul>
-  - col: >
-      <h5>Recruitment campaign</h5>
-      <p>Additional resources for the Mayor’s Diversity Office will fund a proactive 
-      recruitment campaign that includes a series of job fairs and an enhanced matching tool 
-      for potential applicants and postings. The budget for the Diversity Office will 
-      also support an internal employee development program to help employees achieve an 
-      undergraduate degree tuition free, by partnering with local universities.</p>
-  - col: >
-      <h5>Digital Equity Pilot Grant Program</h5>
-      <p>The new Digital Equity Pilot Grant Program will explore ways to address digital 
-      equity gaps in the City of Boston. Roughly 15% of Bostonians lack internet access at 
-      home. This limits access to educational, employment, and civic engagement opportunities.
-      <blockquote>By providing seed funding for programs that help get more people online, the City 
-      hopes to identify promising strategies that can attract outside funding and help create 
-      a City where everyone has the tools and skills they need to succeed in the 
-      21st century.</blockquote></p>
+  - title: Ensuring every Bostonian is Counted
+    body: >
+      <p>FY19 marks the beginning of planning for the 2020 U.S. Census and Boston is dedicated to ensuring every person who lives in Boston is counted.</p>
+      <p>New outreach staff will work to identify opportunities to raise awareness about the Census, with a particular focus on harder to reach populations: students, children, recent immigrants, households with poor internet access, and non-English speakers.</p>
+- text_block:
+  - title: Recruiting a Diverse Police Force
+    body: >
+      <p>In November 2016, Mayor Walsh and Police Commissioner Evans swore in the first class of police cadets since 2009, a training program for Boston's youth seeking a career in law enforcement.</p>
+      <p>Building on the success of recruiting a diverse class of 42, which included 74% cadets of color and 36% female cadets, the City will add another class of 31 in the Spring of 2018. The FY19 budget funds an additional class of 20 cadets in the Spring of 2019.</p> 
 - grid: 
   - grid_title: More budget analysis
   - card: /featured-analysis/prosperity-recruiting-diverse-police-force/
