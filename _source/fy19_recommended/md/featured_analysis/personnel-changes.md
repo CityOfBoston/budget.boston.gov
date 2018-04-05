@@ -104,6 +104,7 @@ components:
       <h5>Streets Cabinet</h5>
       <p>The Streets Cabinet is projected to increase by 22 FTEs. The Transportation Department will add 20 positions to support transformational investments in transportation projects throughout the City. These investments include 3 FTEs to better manage traffic signals to increase safety and reduce congestion, 8 FTEs (2 planners, 2 engineers, 2 maintenance/operations positions, and 2 forepersons) for Vision Zero to build 15 slow streets, 15 miles of protected bike lanes and fix 15 of the most challenging intersections in the next four years, and 6 FTEs for the City’s new transit team which will improve coordination with the MBTA. The Public Works Department is adding a data manager for roadway utility coordination. The Office of Streets plans to hire a manager to oversee operational reforms in the cabinet.</p>
 - text_block:
-  - body: ""
-  - right_image: /img/pages/full-time-employees-table.png
+  - title: ""
+    body: ""
+    right_image: /img/pages/full-time-employees-table.png
 ---

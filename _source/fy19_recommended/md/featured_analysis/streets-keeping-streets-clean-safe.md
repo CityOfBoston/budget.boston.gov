@@ -25,8 +25,8 @@ components:
     sidebar_menu: true
 - text_block:
   - title: Transforming the Future of Transportation
-  body: >
-    Mayor Walsh released Go Boston 2030 in March 2017 to push Boston for streets and sidewalks that are safer, travel that is more    reliable and predictable, and quality transportation choices that improve access and interconnect our neighborhoods for all modes of travel. Driven by these core goals of safety, reliability, equity and access, Mayor Walsh’s FY19 operating and FY19-FY23 capital budget dedicates transformational funding for transportation projects. By increasing certain parking fines in FY19, the City will produce positive results by changing driver behavior and reducing congestion in high traffic areas, as well as allow the City to make $5 million in signature investments in transportation projects.
+    body: >
+      Mayor Walsh released Go Boston 2030 in March 2017 to push Boston for streets and sidewalks that are safer, travel that is more    reliable and predictable, and quality transportation choices that improve access and interconnect our neighborhoods for all modes of travel. Driven by these core goals of safety, reliability, equity and access, Mayor Walsh’s FY19 operating and FY19-FY23 capital budget dedicates transformational funding for transportation projects. By increasing certain parking fines in FY19, the City will produce positive results by changing driver behavior and reducing congestion in high traffic areas, as well as allow the City to make $5 million in signature investments in transportation projects.
 - text_col_2:
   - col: >
       <h5>Investing in Streets & Signals</h5>

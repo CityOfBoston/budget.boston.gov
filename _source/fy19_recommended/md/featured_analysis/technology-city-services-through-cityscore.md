@@ -27,7 +27,7 @@ components:
     sidebar_menu: true
 - text_block:
   - title: CityScore achievements
-  - body: >
+    body: >
       <p>Over the course of FY18, CityScore has contributed to a number of City achievements, including:</p>
       <ul>
         <li>19% increase in the average number of Boston Public Library users</li>

@@ -25,17 +25,17 @@ components:
     sidebar_menu: true
 - text_block:
   - title: State Budget
-  - body >
+    body: >
       <p>Boston’s net State aid, which is gross State revenue minus State assessments, has been trending down steeply since FY02. With a decrease in net State aid for FY19, Boston is 65.5%, or $207.4 million, below its FY08 level of net State aid. The rapid annual increase in the charter school tuition assessment contributed to this trend. This loss of revenue has put extraordinary pressure on the property tax and other local revenue sources as well as levels of expenditures.</p>
       <p>The City’s FY19 estimates of state revenue and state assessments is based on the Governor’s proposed budget as the legislature will release the final version of the state budget following release of the City’s recommended budget. Net State aid amounted to $191.0 million in FY16 and $184.5 million in FY17.  FY18 budgeted net State aid totals $176.1 million and the FY19 budget assumes a reduction to $157.6 million.</p>
-  - right_image: revenue Figure 1 08 vs 19 (NEEDS TO LINK TO ACTUAL IMAGE)
+    right_image: revenue Figure 1 08 vs 19 (NEEDS TO LINK TO ACTUAL IMAGE)
 - text_block:
   - title: State Budget
-  - body >
+    body: >
       <p>The City’s FY19 estimates of state revenue and state assessments is based on the Governor’s proposed budget as the legislature will release the final version of the state budget following release of the City’s recommended budget. Net State aid amounted to $191.0 million in FY16 and $184.5 million in FY17.  FY18 budgeted net State aid totals $176.1 million and the FY19 budget assumes a reduction to $157.6 million. </p> 
 - text_block:
   - title: State Revenue
-  - body: >
+    body: >
       <p>State revenue, the City’s second largest revenue source, has been reduced substantially over the course of the last two recessions.  State revenue has declined as a share of total recurring revenues from 30% in FY02 to 14% in FY19.</p>
       <p>The primary sources of aid from the State to municipalities are education aid, including Chapter 70 and charter school tuition reimbursement, and unrestricted general government aid. The Commonwealth also distributes aid for libraries and provides some other reimbursements to municipalities.</p> 
       <p>The FY19 recommended budget includes a modest increase in State aid of 1.0%, or $4.4 million.</p> 
@@ -46,14 +46,14 @@ components:
       <blockquote>The Chapter 70 education aid formula does not work for Boston. Despite the Commonwealth adding over $1.125 billion to Chapter 70 Aid since FY08, Boston’s Chapter 70 Aid has increased only $3.5 million in the same period.</blockquote>
 - text_block:
   - title: State Assessments
-  - body: >
+    body: >
       <p>State Assessments are charged by the Commonwealth to municipalities for items such as charter school tuition reimbursement and MBTA service. State aid distributions are reduced by the amount of assessments charged to a municipality. The City paid $230.6 million in FY16 and $240.4 million in FY17. The City expects to pay $264.4 million in assessments in FY18 and is budgeting $287.4 million in FY19.</p>
       <li>MBTA increase</li>
       <li>Boston’s charter school tuition assessment is projected to increase by $20.5 million, or 11.8%, over the FY18 budget, as 11,084 students are projected to attend a Commonwealth Charter School in FY19.</li>
       <p>Boston’s charter school tuition assessment has risen dramatically by 184% since the enactment of the 2010 Achievement Gap Legislation that expanded the number of charter school seats. </p>
 - text_block:
   - title: Net Education Aid
-  - body: >
+    body: >
       <p>If recent trends hold - rising charter school assessment and declining charter school reimbursement and stagnant Chapter 70- it’s likely that in three years Boston will receive no State education aid. This will mean Boston’s 57,000 students will be entirely funded by the City’s General Fund. Net education aid will decrease by $21 million in FY19.</p>
       <p>While Boston’s overall spending on education has increased substantially in recent years, Boston’s State education funding has not kept pace. </p> 
       <li>While Boston’s charter school assessment has risen by 184% since the enactment of the 2010 Achievement Gap Legislation, the State’s statutory obligation to fund charter school reimbursement has not kept pace.</li>

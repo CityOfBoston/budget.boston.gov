@@ -27,7 +27,7 @@ components:
     sidebar_menu: true    
 - text_block:
   - title: School funding
-  - body: >
+    body: >
       <p>Three-quarters of the $40 million will go directly to educators to ensure Boston attracts and retains the best talent nationwide. This funding will improve student performance and better prepare students for success.</p>
       <p>The remaining $10 million is directed to schools facing challenges that need additional supports, including:</p>
       <ul>
