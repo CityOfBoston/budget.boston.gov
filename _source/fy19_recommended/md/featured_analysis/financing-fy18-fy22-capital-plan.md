@@ -1,9 +1,9 @@
 ---
 layout: bos_content
 permalink: /featured-analysis/financing-fy18-fy22-capital-plan/
-title: Financing the FY18-FY22 Capital Plan
+title: Financing the FY19-FY23 Capital Plan
 card:
-  - title: Financing the FY18-FY22 Capital Plan
+  - title: Financing the FY19-FY23 Capital Plan
     body: >
       City bonds support 60% of the Capital Plan. Learn more about how the City funds the plan.
     img: /img/fa-financing-fy18-fy22-capital-plan.jpg
@@ -16,27 +16,27 @@ components:
   - title: Featured Analysis
     url: "/featured-analysis/"
     local: true
-  - current: Financing the FY18-FY22 Capital Plan
-  - published: 4/13/17
+  - current: Financing the FY19-FY23 Capital Plan
+  - published: 4/11/18
 - intro:
-  - title: Financing the FY18-FY22 capital plan
+  - title: Financing the FY19-FY23 capital plan
     short_desc: >
       The capital plan is financed with general obligation bonds issued by the City, 
       other City funds, state grants, federal grants, and private grants.
     description: >
-      General obligation bonds represent 60.2% of all project funding. This year’s 
-      plan assumes $950 million in new general obligation borrowings over the next 
-      five years, a 22.5% increase to last year’s plan. This borrowing level remains 
+      General obligation bonds represent 61.1% of all project funding. This year’s 
+      plan assumes $1.01 billion in new general obligation borrowings over the next 
+      five years, a 4.6% increase to last year’s plan. This borrowing level remains 
       sustainable within the City’s debt affordability policy.
     sidebar_menu: true
 - text_block:
   - title: State and Federal Funds
     body: > 
-      State and federal financing represent 32.8% of all project funding. Programs, such 
+      State and federal financing represent 28.9% of all project funding. Programs, such 
       as the School Building Assistance program, Chapter 90 and the Transportation 
-      Improvement Program, provide key resources for Boston’s capital plan. Funds for 
-      capital financing are currently estimated at $379.0 million from state programs 
-      and $301.4 million from federal programs.
+      Improvement Program, provide key resources for Boston’s Capital Plan. Funds for 
+      capital financing are currently estimated at $353.2 million from State programs 
+      and $349.8 million from Federal programs .
 - text_block:
   - title: School Building Assistance Program
     body: >
@@ -51,28 +51,28 @@ components:
       <p>The MSBA operates two major programs – the Core Program and the Accelerated 
       Repair Program (ARP). Major renovation and new construction projects are funded 
       through the Core Program. The ARP funds roof, boiler, and window replacement projects 
-      in school buildings that are otherwise sound. <blockquote>The City currently has three 
+      in school buildings that are otherwise sound. <blockquote>The City currently has four 
       projects in the Core Program — the Dearborn STEM Academy, the Boston Arts Academy, 
-      and the Josiah Quincy Upper Pilot School.</blockquote></p>
+      and the Josiah Quincy Upper Pilot School, and the Carter School.</blockquote></p>
       <p>Construction of the new Dearborn STEM Academy is underway and will open for students 
       in September 2018. The MSBA has approved a maximum project grant totaling $37.4 million 
       which covers 50.8% of the current project budget.</p>
-      <p>Feasibility studies are underway for the Boston Arts Academy and the Josiah Quincy 
-      Upper School. The City expects to select a preferred option for each of these projects 
-      in the first half of fiscal 2018.</p>
+      <p>The City expects to enter into a Project Funding Agreement with the MSBA for the Boston Arts
+      Academy project before the end of the fiscal year. The MSBA has approved a maximum project grant
+      totaling $48.9 million, which covers 39.2% of the current $124.8 million project budget.</p>
+      <p>The Josiah Quincy Upper School project is currently in the Feasibility Study phase. In December
+      2017, the MSBA Board authorized an extension of time through December 31, 2020 to the Feasibility
+      Study Agreement so that the City can further consider its site selection and to complete a new
+      preliminary design program, a new preferred schematic report, and a new schematic design.</p>
+      <p>The City’s Eligibility Period for the Carter School begins on July 2, 2018 and ends
+      on March 29, 2019. During this time, the City must complete preliminary requirements established by
+      the MSBA including forming a school building committee, completing an educational profile, agreeing
+      on a planned enrollment level, and entering into a feasibility study agreement.</p>
   - col: >
       <h5>Other projects</h5>
-      <p>The City has two projects underway through the Accelerated Repair Program. The City 
-      entered into a Project Funding Agreement last year for a window and door replacement 
-      project at seven schools. The MSBA’s maximum grant totals nearly $16.4 million. The total 
-      project cost is over $29 million. Construction will begin on the window project in June 
-      and is expected to be completed before the end of the calendar year.</p>
-      <p>The City expects to complete a roof and boiler project at five schools later this year. 
-      The MSBA’s grant covers up to $6.4 million of this $9.8 million project.</p>
-      <p>For the period FY18-22, total payments from the MSBA for legacy projects are estimated 
-      at $14.3 million. The state payments offset debt service costs for school building assistance 
-      projects approved by the Department of Education prior to the creation of the MSBA in 2004.</p>
-- text_block:
+      <p>The City has three projects underway through the Accelerated Repair Program. The City entered into a Project Funding Agreement last year for a window and door replacement project at seven schools. The MSBA’s maximum grant totals nearly $16.4 million. The total project cost is over $29 million. Construction will begin on the window project in June and is expected to be completed before the end of the calendar year.</p>
+      <p>The City expects to complete roof and boiler projects at five schools later this year. The MSBA’s grant covers up to $6.4 million of the estimated $9.8 million project costs.</p>
+  - text_block:
   - title: Chapter 90 Funds
     body: >
       Administered by the Massachusetts Highway Department, Chapter 90 funds are allocated by 
