@@ -38,25 +38,27 @@ components:
 - text_block:
   - title: Imagine Boston 2030
     body: >
-      Mayor Walsh’s $2.4 billion Imagine Boston FY19-23 capital plan will make critical investments in the City’s infrastructure in every Boston neighborhood, guided by Imagine Boston 2030 and the schools, streets, arts, climate and resilience plans under its umbrella. <blockquote>More than 14,000 residents
-      have shaped Imagine Boston 2030 by articulating the challenges Boston faces,
-      setting goals for the city in 2030, and generating ideas about policies and
-      investments to help achieve these goals.</blockquote>
+      Mayor Walsh’s $2.4 billion Imagine Boston FY19-23 capital plan will make critical 
+      investments in the City’s infrastructure in every Boston neighborhood, guided by
+      Imagine Boston 2030 and the schools, streets, arts, climate and resilience plans 
+      under its umbrella. <blockquote>More than 14,000 residents have shaped Imagine Boston
+      2030 by articulating the challenges Boston faces, setting goals for the city in 2030, 
+      and generating ideas about policies and investments to help achieve these goals.</blockquote>
 - text_col_2:
   - col: >
       <h5>Ambitious initiatives</h5>
       <p>An ambitious set of initiatives form the foundation of the Imagine Boston 2030 plan. Taken together, these initiatives will support Boston's dynamic economy and improve quality of life for residents by:
-      <ul>
-      <li>encouraging affordability;</li>
-      <li>increasing access to opportunity;</li>
-      <li>promoting a healthy environment; and</li>
-      <li>guiding investment in the public realm.</li>
-      </ul>
+        <ul>
+          <li>Encouraging affordability;</li>
+          <li>Increasing access to opportunity;</li>
+          <li>Promoting a healthy environment; and</li>
+          <li>Guiding investment in the public realm</li>
+        </ul>
   - col: >
       <h5>Imagine Boston Capital Plan</h5>
-      <p>In FY18, Mayor Walsh launched the Imagine Boston Capital Plan to move
+      <p>Last Year, Mayor Walsh launched the Imagine Boston Capital Plan to move
       Boston residents’ priorities from idea to action, and invest in creating the
-      city Bostonians imagine for the future. Under the Imagine Boston 2030 umbrella,
+      city Bostonians imagine for the future. This year, under the Imagine Boston 2030 umbrella,
       the City is investing deeply in the core goals of BuildBPS, Go Boston 2030,
       Boston Creates, and Climate Ready Boston. An estimated 84% of the investment
       in the FY19-23 Capital Plan is aligned with the City’s planning efforts:</p>
@@ -69,7 +71,8 @@ components:
         <ul>
           <li>21st century classrooms;</li>
           <li>MSBA Accelerated Repair Program partnerships;</li>
-          <li>Completion of projects in the pipeline; and</li>
+          <li>Completion of projects in the pipeline;</li>
+          <li>School kitchen renovations that support the delivery of fresh, nutrishious food; and</li>
           <li>Reserves for future projects identified by BuildBPS community
           engagement.</li>
         </ul>
@@ -92,7 +95,7 @@ components:
       park for the city, completing the Emerald Necklace, and restoring Boston Common to
       its full vibrancy.</p>
       <h5>Preparing for climate change</h5>
-      <p>Boston will prepare for climate change by investing City dollars and outside funding
+      <p>Boston will prepare for climate change by investing City capital dollars and external funding
       to develop more detailed climate plans for Boston neighborhoods, especially those most
       at risk for coastal flooding, as recommended in Climate Ready Boston.</p>
       <h5>Percent for Art Program</h5>
@@ -103,9 +106,9 @@ components:
 - table:
   - title: Spending By Investment Category
     columns:
-      - "Category":
-           name: Arts and Culture
-           link: /capital-projects/arts-and-culture
+ - "Category":
+          name: Arts and Culture
+          link: /capital-projects/arts-and-culture
         "Through 6/30/17":
            value: 597583
            filter: delimiter
@@ -125,8 +128,8 @@ components:
            value: 145000000
            filter: delimiter
       - "Category":
-           name: Economy
-           link: /capital-projects/economy
+          name: Economy
+          link: /capital-projects/economy
         "Through 6/30/17":
            value: 518450
            filter: delimiter
@@ -146,8 +149,8 @@ components:
            value: 13615000
            filter: delimiter
       - "Category":
-           name: Education
-           link: /capital-projects/education
+          name: Education
+          link: /capital-projects/education
         "Through 6/30/17":
            value: 67359434
            filter: delimiter
@@ -167,8 +170,8 @@ components:
            value: 591175917
            filter: delimiter
       - "Category":
-           name: Energy and Environment
-           link: /capital-projects/energy-and-environment
+          name: Energy and Environment
+          link: /capital-projects/energy-and-environment
         "Through 6/30/17":
            value: 24856162
            filter: delimiter
@@ -188,8 +191,8 @@ components:
            value: 95649470
            filter: delimiter
       - "Category":
-           name: Government Effectiveness
-           link: /capital-projects/government-effectiveness
+          name: Government Effectiveness
+          link: /capital-projects/government-effectiveness
         "Through 6/30/17":
            value: 3880198
            filter: delimiter
@@ -209,8 +212,8 @@ components:
            value: 102968558
            filter: delimiter
       - "Category":
-           name: Health
-           link: /capital-projects/health
+          name: Health
+          link: /capital-projects/health
         "Through 6/30/17":
            value: 3030356
            filter: delimiter
@@ -230,8 +233,8 @@ components:
            value: 49468300
            filter: delimiter
       - "Category":
-           name: Housing
-           link: /capital-projects/housing
+          name: Housing
+          link: /capital-projects/housing
         "Through 6/30/17":
            value: 47263
            filter: delimiter
@@ -251,8 +254,8 @@ components:
            value: 5550000
            filter: delimiter
       - "Category":
-           name: Open Space
-           link: /capital-projects/open-space
+          name: Open Space
+          link: /capital-projects/open-space
         "Through 6/30/17":
            value: 24194541
            filter: delimiter
@@ -272,8 +275,8 @@ components:
            value: 230966232
            filter: delimiter
       - "Category":
-           name: Public Safety
-           link: /capital-projects/public-safety
+          name: Public Safety
+          link: /capital-projects/public-safety
         "Through 6/30/17":
            value: 11966296
            filter: delimiter
@@ -293,8 +296,8 @@ components:
            value: 164655000
            filter: delimiter
       - "Category":
-           name: Technology
-           link: /capital-projects/technology
+          name: Technology
+          link: /capital-projects/technology
         "Through 6/30/17":
            value: 31365582
            filter: delimiter
@@ -314,8 +317,8 @@ components:
            value: 130511194
            filter: delimiter
       - "Category":
-           name: Transportation
-           link: /capital-projects/transportation
+         name: Transportation
+         link: /capital-projects/transportation
         "Through 6/30/17":
            value: 96366571
            filter: delimiter
@@ -358,8 +361,8 @@ components:
   - title: Spending By Department
     columns:
       - "Department":
-           name: Boston Centers for Youth and Families
-           link: /capital-projects/boston-centers-for-youth-and-families
+          name: Boston Centers for Youth and Families
+          link: /capital-projects/boston-centers-for-youth-and-families
         "Through 6/30/17":
            value: 4334638
            filter: delimiter
@@ -379,8 +382,8 @@ components:
            value: 50130000
            filter: delimiter
       - "Department":
-           name: Boston Planning and Development Agency
-           link: /capital-projects/boston-planning-and-development-agency
+          name: Boston Planning and Development Agency
+          link: /capital-projects/boston-planning-and-development-agency
         "Through 6/30/17":
            value: 0
            filter: delimiter
@@ -400,8 +403,8 @@ components:
            value: 3000000
            filter: delimiter
       - "Department":
-           name: Boston Public Library
-           link: /capital-projects/boston-public-library
+          name: Boston Public Library
+          link: /capital-projects/boston-public-library
         "Through 6/30/17":
            value: 410722
            filter: delimiter
@@ -421,8 +424,8 @@ components:
            value: 128535000
            filter: delimiter
       - "Department":
-           name: Boston Public Schools
-           link: /capital-projects/boston-public-schools
+          name: Boston Public Schools
+          link: /capital-projects/boston-public-schools
         "Through 6/30/17":
            value: 67359434
            filter: delimiter
@@ -442,8 +445,8 @@ components:
            value: 591175917
            filter: delimiter
       - "Department":
-           name: Department of Innovation and Technology
-           link: /capital-projects/department-of-innovation-and-technology
+          name: Department of Innovation and Technology
+          link: /capital-projects/department-of-innovation-and-technology
         "Through 6/30/17":
            value: 30934979
            filter: delimiter
@@ -463,8 +466,8 @@ components:
            value: 109714087
            filter: delimiter
       - "Department":
-           name: Emergency Management
-           link: /capital-projects/emergency-management
+          name: Emergency Management
+          link: /capital-projects/emergency-management
         "Through 6/30/17":
            value: 0
            filter: delimiter
@@ -484,8 +487,8 @@ components:
            value: 1500000
            filter: delimiter
       - "Department":
-           name: Environment Department
-           link: /capital-projects/environment-department
+          name: Environment Department
+          link: /capital-projects/environment-department
         "Through 6/30/17":
            value: 38400
            filter: delimiter
@@ -505,8 +508,8 @@ components:
            value: 61625000
            filter: delimiter
       - "Department":
-           name: Fire Department
-           link: /capital-projects/fire-department
+          name: Fire Department
+          link: /capital-projects/fire-department
         "Through 6/30/17":
            value: 2234885
            filter: delimiter
@@ -526,8 +529,8 @@ components:
            value: 78851439
            filter: delimiter
       - "Department":
-           name: Inspectional Services Department
-           link: /capital-projects/inspectional-services-department
+          name: Inspectional Services Department
+          link: /capital-projects/inspectional-services-department
         "Through 6/30/17":
            value: 0
            filter: delimiter
@@ -547,8 +550,8 @@ components:
            value: 100000
            filter: delimiter
       - "Department":
-           name: Neighborhood Development
-           link: /capital-projects/neighborhood-development
+          name: Neighborhood Development
+          link: /capital-projects/neighborhood-development
         "Through 6/30/17":
            value: 400449
            filter: delimiter
@@ -568,8 +571,8 @@ components:
            value: 5490000
            filter: delimiter
       - "Department":
-           name: Office of Arts and Culture
-           link: /capital-projects/office-of-arts-and-culture
+          name: Office of Arts and Culture
+          link: /capital-projects/office-of-arts-and-culture
         "Through 6/30/17":
            value: 0
            filter: delimiter
@@ -589,8 +592,8 @@ components:
            value: 11600000
            filter: delimiter
       - "Department":
-           name: Office of New Urban Mechanics
-           link: /capital-projects/office-of-new-urban-mechanics
+          name: Office of New Urban Mechanics
+          link: /capital-projects/office-of-new-urban-mechanics
         "Through 6/30/17":
            value: 30250
            filter: delimiter
@@ -610,8 +613,8 @@ components:
            value: 200000
            filter: delimiter
       - "Department":
-           name: Parks and Recreation Department
-           link: /capital-projects/parks-and-recreation-department
+          name: Parks and Recreation Department
+          link: /capital-projects/parks-and-recreation-department
         "Through 6/30/17":
            value: 24194541
            filter: delimiter
@@ -631,8 +634,8 @@ components:
            value: 228686232
            filter: delimiter
       - "Department":
-           name: Police Department
-           link: /capital-projects/police-department
+          name: Police Department
+          link: /capital-projects/police-department
         "Through 6/30/17":
            value: 11534450
            filter: delimiter
@@ -652,8 +655,8 @@ components:
            value: 87479000
            filter: delimiter
       - "Department":
-           name: Property Management Department
-           link: /capital-projects/property-management-department
+          name: Property Management Department
+          link: /capital-projects/property-management-department
         "Through 6/30/17":
            value: 2400840
            filter: delimiter
@@ -673,8 +676,8 @@ components:
            value: 97946058
            filter: delimiter
       - "Department":
-           name: Public Health Commission
-           link: /capital-projects/public-health-commission
+          name: Public Health Commission
+          link: /capital-projects/public-health-commission
         "Through 6/30/17":
            value: 192089
            filter: delimiter
@@ -694,8 +697,8 @@ components:
            value: 10688300
            filter: delimiter
       - "Department":
-           name: Public Works Department
-           link: /capital-projects/public-works-department
+          name: Public Works Department
+          link: /capital-projects/public-works-department
         "Through 6/30/17":
            value: 107469497
            filter: delimiter
@@ -715,8 +718,8 @@ components:
            value: 851431071
            filter: delimiter
       - "Department":
-           name: Transportation Department
-           link: /capital-projects/transportation-department
+          name: Transportation Department
+          link: /capital-projects/transportation-department
         "Through 6/30/17":
            value: 12647262
            filter: delimiter
@@ -758,22 +761,22 @@ components:
 - text_block:
   - title: FY19 Expenditures Allocation
     body: >
-      The City estimates FY19 capital expenditures will total $335 million from all sources
-      (see Figure 2). All projects in the capital plan are categorized as
-      Upkeep, Upgrade, New/Major Renovation, Planning or Matching Funds. OBM tracks
+      The City estimates FY19 capital expenditures from all sources will total $335 million
+      from all sources. All projects in the capital plan are categorized as
+      Upkeep, Upgrade, New/Major Renovation, Planning, or Matching Funds. The City tracks
       the overall distribution of these categories to maintain a balance between the
       upkeep of existing assets and the expansion or introduction of new ones.
 - text_col_2:
   - col:
-    - img: /img/capital-expenditures.png
+   - img: /img/capital-expenditures.png
   - col: >
       <h5>Upkeep</h5>
       <p>Upkeep represents projects that maintain the City’s assets, a fundamental priority of the Capital Plan. In FY19, 22% of projected spending supports Upkeep projects. These include:</p>
       <ul>
-      <li>roof and masonry repairs;</li>
-      <li>the replacement of play equipment in parks;</li>
+      <li>Roof and masonry repairs;</li>
+      <li>Replacement of play equipment in parks;</li>
       <li>HVAC and boiler replacement; and</li>
-      <li>critical repair funds for departments to address relatively small but vital repair projects not covered by routine maintenance.</li>
+      <li>Critical repair funds for departments to address relatively small but vital repair projects not covered by routine maintenance.</li>
       </ul>
       <p>A substantial portion of the Upkeep category supports on-going bridge, street,
       sidewalk, and street lighting repairs that ensure the City’s roads and sidewalks
@@ -788,7 +791,7 @@ components:
       system.</p>
   - col: >      
       <h5>New/Major Renovations</h5>
-      <p>New/Major Renovations represents 35% of the FY19 allocations. New facilities and
+      <p>New/Major Renovations represents 34% of the FY19 allocations. New facilities and
       rehabilitation projects for schools, libraries, parks and community centers enable
       the City’s facilities to adapt to fit the needs of today’s programs, improve the ‘green’
       performance of facilities, and extend the useful life of older assets. Highlights in
@@ -813,25 +816,29 @@ components:
   - col: >
       <ul>
         <li>Education</li>
+        <li>Boston Arts Academy</li>
+        <li>My Way Cafe Kitchen Program</li>
         <li>BuildBPS: 21st Century Schools Fund</li>
-        <li>Dearborn STEM Academy</li>
         <li>Transportation</li>
         <li>Boylston Street Sidewalks</li>
         <li>Vision Zero</li>
-        <li>Hyde Square</li>
+        <li>Road and Sidewalk Reconstruction</li>
+        <li>Long Island Bridge</li>
         <li>Technology</li>
         <li>Digital Engagement Upgrades</li>
-        <li>Father Hart Bridge Traffic Improvements</li>
         <li>Open Space</li>
-         <li>Jamaica Pond Pathways and Perimeter</li>
+        <li>Franklin Park Planning</li>
       </ul>
   - col: >
       <ul>
-        <li>Martin’s Park</li>
+        <li>Boston Common Planning</li>
+        <li>Jamaica Pond Pathways & Perimeter</li>
+        <li>Martin's Park</li>
         <li>Energy and Environment</li>
-        <li>Climate Ready Boston</li>
+        <li>Climate Ready Bostont</li>
         <li>Renew Boston Trust</li>
         <li>Health</li>
+        <li>BCYF Vine Street Pool</li>
         <li>BCYF Curley Community Center</li>
         <li>BCYF Gallivan Community Center</li>
         <li>Housing</li>
@@ -842,13 +849,14 @@ components:
   - col: >
       <ul>
         <li>Percent for Arts</li>
-        <li>Central Library: Rare Books Dept.</li>
+        <li>Adams Street Branch Library</li>
+        <li>Roslindale Branch Library</li>  
         <li>Economy</li>
         <li>Harrison Avenue / Washington Street</li>
         <li>Dudley Street</li>
         <li>Public Safety</li>
         <li>New East Boston Police Station</li>
-        <li>New Engine 42 Fire Station</li>
+        <li>New Engine 17 and 43 Fire Stations</li>
         <li>Government Effectiveness</li>
         <li>City Hall and Plaza Master Plan</li>
         <li>Youth Fund</li>
@@ -868,19 +876,15 @@ components:
         button: true
     - blurb: <br /><br />
     - link: 
-        title: Debt service requirements FY15-22
+        title: Debt service requirements FY16-23
         path: /img/pdfs/debt-service-requirements-fy15-fy22.pdf
         button: true
     - blurb: <br /><br />
   - col: 
     - link: 
-        title: Outstanding principal by statute
+        title: Outstanding principal by purpose
         path: /img/pdfs/outstanding-principal-by-statute-4-30-17.pdf
         button: true
     - blurb: <br /><br />
-    - link: 
-        title: Rate of principal retirement on G.O. bonds
-        path: /img/pdfs/rate-principal-retirement-on-general-obligation-bonds.pdf
-        button: true
-    - blurb: <br /><br />
+    
 ---

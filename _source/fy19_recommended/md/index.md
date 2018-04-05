@@ -17,46 +17,31 @@ components:
       on our strong record of fiscal management." - Mayor 
       Martin J. Walsh
     description: >
-      Mayor Martin J. Walsh today presented his Fiscal Year 2018 (FY18) budget 
-      proposal, a plan that balances sustainability and increases investments 
-      in key initiatives and more fully supports Boston's neighborhoods. The 
-      proposed budget:
-      <ul>
-      <li>builds on the Walsh Administration's strong fiscal 
-      management record;</li>
-      <li>maintains high levels of support for educating Boston's students 
-      and keeping the City of Boston safe;</li>
-      <li>expands upon strategic initiatives to achieve cost savings; and</li>
-      <li>positions the City to manage through instability at the national level.</li>
-      </ul>
-    sidebar_menu: true
+     sidebar_menu: true
 - text_block:
   - title: Introduction
     body: >
-      Mayor Martin J. Walsh’s proposed $3.14 billion Fiscal Year 2018 (FY18) budget balances sustainability, increased investment, and fiscal responsibility. Continuing trends seen in recent years, the Mayor’s proposed FY18 budget relies on growth in property tax and other local receipt revenue, but requires control of growth in departmental spending to offset weak state aid revenue and high fixed cost growth. Budgetary growth is maintained at a responsible level given the need to maintain flexibility in the face of continuing uncertainty at other levels of government. Despite these challenges, the budget makes strong statements about the City’s priorities, as is reflected in the proposed investments.
+      Mayor Martin J. Walsh’s Fiscal Year 2019 (FY19) budget affirms a commitment to progress, opportunity and innovation by investing in Boston’s neighborhoods while maintaining the Mayor’s strong record of financial management. The $3.29 billion plan is balanced, sustainable, and accelerates progress across public policy areas. The budget contains historic levels of funding for public education, new investments in public safety, continued efforts to create affordable and middle income housing, expanded services for residents struggling with substance use disorders and addiction, and new initiatives that will transform the future of transportation in Boston.
     right_image: /img/recommended-expenditures.png
 - text_block:
   - body: >
-      <h5>Expanding on savings</h5>
-      <p>Even with strong growth in locally derived revenues, it is only through continued tightening within City departments that the City will be able to afford new and expanded investments after reserving for costs associated with collective bargaining, being assessed for its increasing charter school costs, funding its pension obligations, and paying its debt service. <blockquote>The FY18 proposal builds off of past budgets by expanding savings initiatives, and allows for dollars to be used in high impact areas.</blockquote></p>
-      <h5>Federal challenges</h5>
-      <p>Mayor Walsh’s FY18 budget stands in contrast to national efforts to dismantle the urban safety net, as seen in the proposed Federal budget. The President has proposed to eliminate critical federal programs that support the production of affordable housing, revitalize Boston’s Main Streets, make heating bills affordable to 20,000 Boston residents, and provide Boston students with valuable after-school programs.</p>
-      <h5>Taking advantage of data</h5>
-      <p>In contrast, Mayor Walsh is proposing data-driven investments that meet the core needs of Bostonians, including:</p>
+      <h5>Spending</h5>
+      <p>Boston is a growing city, with an evolving population that needs new and expanded city services. In his first term in office, Mayor Walsh improved outcomes across the City’s services, from education to housing, economic security to quality of life, and open space to the arts. In FY19, the Mayor proposes to build on those successes and make real, meaningful changes to the future of Boston’s landscape. Investments in public safety, education, transportation, housing, public health, and many other areas reflect a City committed to providing the services to <strong>expand opportunity and security to Boston’s middle class</strong>.</p>
+      <h5>Revenue</h5>
+      <p>Boston’s expanding economy is generating growing revenue to support investments in city neighborhoods. Property tax growth remains the main driver and far exceeds previous growth realized in the City. Local receipts, such as fines, fees and excise tax also continue to grow modestly as a result of an expanding economy. The City continues to weather reductions to net State aid, a decade-long trend of disinvestment driven by modest growth in State aid revenue and large increases in State assessments.</p>
+      <h5>Maintaining fiscal discipline</h5>
+      <p>The commitment Mayor Walsh made to fiscal responsibility at the beginning of his Administration is yielding tangible results. The City’s efforts to control health care costs have saved $50 million since FY15, its pension liability is on track to be fully paid by 2025, faster than most Massachusetts cities, and City services are more efficient, effective and responsive to the needs of Boston’s residents than ever before. The FY19 budget continues those steps by:</p>
       <ul>
-      <li>targeting research-backed education investments - including extending the school day for 15,000 students - to close achievement and opportunity gaps;</li>
-      <li>directing educational resources to students most in need, including 3,000 BPS students experiencing homelessness;</li>
-      <li>building on early success from the Mayor’s homeless action plan implementation;</li>
-      <li>further extending access to addiction treatment services;</li>
-      <li>using data to change the way Boston deploys emergency services to Boston Common and Recovery Road;</li>
-      <li>making sure that city streets in every neighborhood are clean and safe with revitalized lane markings and crosswalks;</li>
-      <li>continuing efforts to diversify Boston’s Police force by adding police cadets;</li>
-      <li>ensuring that Boston’s open spaces are among the nation’s most equitable and accessible;</li>
-      <li>supporting local artists through grantmaking and residencies;</li>
-      <li>launching infrastructure projects driven by Imagine Boston 2030 and Go Boston 
-      2030, moving from engagement and planning to action; and</li>
-      <li>setting funding aside for future projects coming out of the BuildBPS engagement process and partnerships with the Massachusetts School Building Authority (MSBA).</li>
+      <li>Paying down the City’s long-term liabilities</li>
+      <li>Controlling fixed costs and health insurance</li>
+      <li>Data-based new investments</li>
+      <li>Proactive fiscal management</li>
+      <li>maximizing revenue from local revenue</li>
+      <li>Growing in-line with the City's projected revenue growth</li>
       </ul>
+      <p>In their credit rating affirming Boston’s AAA rating with a stable outlook, Moody’s wrote: <blockquote>"The AAA rating reflects the city's strong fiscal management and stable financial position."</blockquote></p>
+      <p>Disciplined financial practices have better positioned Boston to manage through changes in local, state, and federal policy and funding levels.</p>
+     </ul>
 - spanning_image:
   - title: Extending the school day
     desc: Working to close achievement and opportunity gaps
@@ -67,29 +52,11 @@ components:
     alt: Three students all looking at a computer
 - text_block:
   - body: >
-      <h5>City approach vs. federal approach</h5>
-      <p>The City’s data-driven investment and spending reform approach to budgeting illustrates an alternative to the type of budget being contemplated at the Federal level. The City’s spending approach continues to emphasize the preservation and expansion of offerings to our most vulnerable residents, made possible by the implementation of strategic reforms. <blockquote>In this budget, the City is avoiding $60 million in costs through reforms implemented since Mayor Walsh’s first budget.</blockquote> These strategic savings initiatives allow Boston to meet its fixed cost obligations and make targeted investments in a thriving, healthy, and innovative city. Conversely, the President’s proposed budget would eliminate valuable programs aiding some of our most vulnerable residents.</p>
-      <h5>Effects of state and federal budget</h5>
-      <p>Boston faces increased uncertainty due to national and state level challenges. In addition to federal budget proposals to eliminate over $24 million in Community Development Block Grant funds flowing through the City of Boston, the President has signed an executive order aimed at cutting funding for “Sanctuary Cities,” and has supported health care legislation that would have created over a $1 billion hole in the Commonwealth of Massachusetts’ budget. Further federal divestment from its Public Housing Authority is also possible, and reduced federal education grants to serve students in poverty have been proposed.</p>
-      <p>At the state level, Boston continues to struggle with the Commonwealth’s underfunding of the Charter School Tuition Reimbursement, from which the City is projected to lose $25 million in FY18 alone.</p>
-      <h5>Maintaining fiscal discipline</h5>
-      <p>Cities cannot afford to replace this level of funding cuts, and Massachusetts communities, with revenue tightly constrained by state law, will be particularly challenged in the event of federal or state divestment. This instability from the federal and state level requires increased stability and strong fiscal management at the City level. Mayor Walsh’s FY18 budget continues the fiscal discipline that was recently praised by rating agencies by:</p>
-      <ul>
-      <li>paying down the City’s long-term pension and other post-employment benefits obligations;</li>
-      <li>managing personnel and health costs;</li>
-      <li>continuing savings initiatives;</li>
-      <li>maintaining conservative fiscal management policies; and</li>
-      <li>maximizing revenue from local receipt sources.</li>
-      </ul>
-      <p>In their credit rating affirming Boston’s AAA rating with a stable outlook, Moody’s wrote: <blockquote>"The AAA rating reflects the city's strong fiscal management and stable financial position."</blockquote></p>
-      <p>Disciplined financial practices have better positioned Boston to manage through changes in state and federal policy and funding levels.</p>
-- text_block: 
+ -text_block:
   - title: Overall Spending
 - text_col_2:
     - col: >
-        <p>FY18 expenditures are increasing by $143.7 million (4.8%) over FY17 budgeted expenditures. This reflects 4% appropriation growth and 8% fixed cost growth. Of that growth, 40% is dedicated to education 38% will go to all other City Services (such as Police, Fire, and Public Works) and the Public Health Commission, and the remaining 22% of growth will be consumed by pension, debt service and other fixed cost expenditures.</p>
-    - col:
-      - img: /img/budget-growth.png
+        <p>FY19 expenditures are increasing by $137 million or 4.3% over the FY18 budget, for a total of $3.29 billion. Funding for city services, like streets, parks, public health and public safety will grow by $43 million, including $12 million in new data-driven investments. Education funding will increase by $68 million compared to FY18 adopted and $37 million compared to FY18 current appropriation, funding for collective bargaining will increase $30 million over FY18 and other fixed costs like pensions and debt service make up the remaining growth of $28 million.</p>
 - grid:
   - grid_title: Education
   - card: /featured-analysis/education-overview/
@@ -102,7 +69,7 @@ components:
 - text_block:
   - title: FY19 Budget Priorities
     body: >
-      <p>Building on Mayor Walsh’s record of achieving improved outcomes across the City’s services - from education to housing, basic city services to the arts - the Mayor is proposing data-driven investments that are aimed at creating a <strong>thriving, healthy and innovative city</strong>. Operating budget investments are made possible due to the smart savings initiatives the City has pursued over the past four years. Through the Imagine Boston Capital Plan, the Mayor is making new capital investments in Boston’s schools, roads, bridges, parks, libraries, community centers, fire stations and other community assets to build the City that Bostonians imagined.</p>
+      <p>The Mayor’s FY19 budget builds on four years of investment in the areas that mean the most to Bostonians. Those investments are returning tremendous results, and this budget contains historic levels of funding for public education in our schools, new investments in public safety, continued efforts to create affordable and middle income housing, expanded services for residents struggling with substance use and addiction disorders, and new initiatives that will transform the future of transportation in Boston.</p>
 - grid:
   - grid_title: City Budget Priorities
   - card: /featured-analysis/extended-school-day/
@@ -130,9 +97,9 @@ components:
 - text_block:
   - title: Imagine Boston Capital Plan
     body: >
-      Over 14,000 Boston voices shaped the Mayor’s vision for Boston in 2030. They envisioned a city that will expand opportunity for all, support a dynamic economy, enhance quality of life, and prepare for climate change.
+      Mayor Walsh’s $2.43 billion FY19-FY23 Capital Plan moves Boston residents’ priorities from idea to action, and invests in creating the city Bostonians imagine for the future. Under the Imagine Boston 2030 umbrella, the City is investing deeply in the core goals of BuildBPS, Go Boston 2030, Boston Creates, and Climate Ready Boston.Over 14,000 Boston voices shaped the Mayor’s vision for Boston in 2030. They envisioned a city that will expand opportunity for all, support a dynamic economy, enhance quality of life, and prepare for climate change.
       <h5>From idea to action</h5>
-      <p>Imagine Boston 2030 identifies key areas where Boston can take action to:</p>
+      <p>Over 14,000 Boston voices shaped the Mayor’s vision for Boston in 2030. They envisioned a city that will expand opportunity for all, support a dynamic economy, enhance quality of life, and prepare for climate change. Imagine Boston 2030 identifies key areas where Boston can take action to:</p>
       <ul>
       <li>enhance neighborhoods’ vitality;</li>
       <li>encourage mixed-use job centers;</li>
@@ -140,18 +107,14 @@ components:
       <li>create a waterfront for future generations; and</li>
       <li>connect historically underserved neighborhoods to more opportunities.</li>
       </ul>
-      <p>Mayor Walsh’s $2.43 billion FY19-FY23 Capital Plan moves Boston residents’ priorities from idea to action, and invests in creating the city Bostonians imagine for the future. Under the Imagine Boston 2030 umbrella, the City is investing deeply in the core goals of BuildBPS, Go Boston 2030, Boston Creates, and Climate Ready Boston.</p>
       <h5>Investing in core goals</h5>
-      <p>Mayor Walsh’s $2.43 billion FY9-FY23 Capital Plan moves Boston residents’ priorities from idea to action, and invests in creating the city Bostonians imagine for the future. Under the Imagine Boston 2030 umbrella, the City is investing deeply in the core goals of BuildBPS, Go Boston 2030, Boston Creates, and Climate Ready Boston.</p>
-      <p>An estimated 84% of projects in the FY19-23 Capital Plan are aligned with the City’s planning efforts:</p>
+      <p>Mayor Walsh’s $2.43 billion FY9-FY23 Capital Plan moves Boston residents’ priorities from idea to action, and invests in creating the city Bostonians imagine for the future. An estimated 84% of projects in the FY19-23 Capital Plan are aligned with the City’s planning efforts:</p>
       <ul>
-      <li>Mayor Walsh committed $1 billion over ten years to bring Boston's school buildings into the 21st Century, and this Capital Plan launches that investment with funding for 21st Century Classrooms, MSBA Accelerated Repair Program partnerships, completion of projects in the pipeline, and reserves for future projects coming out of BuildBPS community engagement.</li>
-      <li>Boston, in collaboration with State and Federal sources, will invest $967 million over the next five years in implementing the core initiatives outlined in Go Boston 2030: streets that are safer for all users of our roads and sidewalks, particularly pedestrians and cyclists; travel that is more reliable and predictable; and quality transportation choices that improve access to interconnect our neighborhoods for all modes of travel. </li>
+      <li>Last year, Mayor Walsh committed $1 billion over ten years to bring Boston's school buildings into the 21st Century. After spending close to $100 million in the first year, this Plan sets the stage for continued investment in 21st century classrooms, new and expanded schools, new kitchens to serve fresh food, school safety upgrades and funding for future projects coming out of the BuildBPS community engagement process.</li>
+      <li>Boston, in collaboration with State and Federal sources, will invest $967 million over the next five years in implementing the core initiatives outlined in Go Boston 2030: streets that are safer for all users of our roads and sidewalks, travel that is more reliable and predictable, and quality transportation choices that improve access to interconnect our neighborhoods for all modes of travel. </li>
       <li>Through the use of Winthrop Square proceeds, City capital dollars, and leveraging external funds, Mayor Walsh plans to carry out early actions to implement Imagine Boston 2030’s Open Space goals, including investing in Franklin Park as a keystone park for the city, completing the Emerald Necklace, and restoring Boston Common to its full vibrancy.</li>
-      </ul>
-      <ul>
       <li>Boston will prepare for climate change by investing City dollars and outside funding to develop more detailed climate plans for Boston neighborhoods, especially those most at risk for coastal flooding, as recommended in Climate Ready Boston.</li>
-      <li>The Percent for Art Program, funded for the first time in this Capital Plan, demonstrates the City’s leadership and commitment to sustainable funding for the arts by setting aside one percent of the City’s annual capital borrowing for the commissioning of public art.</li>
+      <li>Continuing the Percent for Art Program, funded for the first time in last years Capital Plan, demonstrates the City’s leadership and commitment to sustainable funding for the commissioning of public art.</li>
       </ul>
       <p>With investments in roads, bridges, schools, libraries, parks, firehouses, and community centers, the Imagine Boston Capital Plan touches each neighborhood and shapes a City that over 14,000 voices told us they want to see.</p>
 - text_col_2:
