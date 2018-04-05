@@ -35,7 +35,7 @@ components:
     body: >
 <p> Due to the Mayor’s commitment to new housing construction and the strength of Boston’s development climate, property tax growth exceeds trends over the past decade. Taxes paid by new construction adds to Boston’s property tax levy, which is otherwise statutorily limited to an increase of 2 ½ percent annually. In FY19, the net property tax levy (levy less a reserve for abatements) is estimated to total $2.304 billion, an increase of $110.0 million, or 5%. The net property tax levy accounts for over 70% of budgeted recurring revenues.</p>
 <p> In Massachusetts, Proposition 2 ½ constrains the amount of property tax revenue the City can raise each year from its existing tax base. This means that while total property value has grown 54% since FY14, property tax revenue has grown by only 25%.</p>
-Right_image: 
+Right_image: /img/ value-vs-tax-revenue.png
 <p> Despite these constraints, the Mayor is committed to keeping residential property tax bills down to retain more low and middle class homeowners in the City. Policies the Mayor has pursued are demonstrating success, as residential taxes fall 41% below last year’s statewide average.</p>
 <p> Mayor Walsh advocated for a change in State law that increased the residential exemption limit from 30% to 35% of the average assessed value of all Class One residential properties. This year, the City Council, with the approval of the Mayor, once again chose the maximum exemption allowed by law. The FY18 residential exemption amount increased by $106 over last year’s amount.</p>
 <p> Additionally, the FY18 classified tax rates decreased from the FY17 levels, resulting in substantial savings for the City’s residential taxpayers, while still maximizing its taxable levy.</p>  
@@ -48,7 +48,7 @@ Right_image:
 Right_image:
 <p> While Boston’s overall spending on education has increased substantially in recent years, Boston’s State education funding has not kept pace. The Chapter 70 education aid formula does not work for Boston and is expected to grow by $1 million, or less than 1% in FY19. While Boston’s charter school assessment has risen by 184% since the enactment of the 2010 Achievement Gap Legislation, the State’s statutory obligation to fund charter school reimbursement has not kept pace. As a result, the City of Boston will lose $27 million under the Governor’s FY19 budget, and a total of $100 million over the past five years (FY14-FY19).</p>
 <p> If recent trends hold - rising charter school assessment and declining charter school reimbursement and stagnant Chapter 70- it’s likely that in three years Boston will receive no education State aid. This will mean Boston’s 57,000 students will be entirely funded by the City’s General Fund.</p>
-Right_image: 
+Right_image: /img/ net-education-aid.png
 <p> Mayor Walsh has raised concerns about this trend since taking office and has been proactive in addressing the underlying challenges of the State’s education aid system. In 2017, the Mayor filed comprehensive education finance reform legislation that aims to invest equitably and expand access to high-quality public education for students of all ages.</p>
 <p> By proposing a creative revenue solution to provide every Boston four-year-old a high-quality seat, fixing the broken charter school transition funding model, and increasing reimbursements for the highest-need students, Mayor Walsh’s proposals would increase annual education funding to Boston by $35 million in its first year of implementation. The proposal would also position Boston to receive $150 million in additional annual Chapter 70 aid within a few years if the State identifies a new revenue source for education. The Mayor continues to advocate for these common sense pieces of legislation, as well as full funding of local aid reimbursement accounts.</p>
 - text_block:
@@ -59,7 +59,7 @@ Right_image:
 <li>The budget again includes $2 million in new revenue as a result of the State legislation that passed in 2016 to create a per-ride assessment collected from transportation network companies (TNCs), such as Uber and Lyft.</li>
 <li>The budget also expects $5 million in increased revenue from parking fines based on the Mayor’s proposal to update certain fines. This additional funding will be directed towards transportation projects contained in both the operating and capital budgets.</li>
 <p> With limited revenue tools, the City is continuing to maximize local revenue. In FY19, the Office of Budget Management (OBM) will continue to work with departments citywide to review collections, understand revenue drivers, and maximize Federal health insurance reimbursements and revenue recovery efforts.</p>
-Right_image: 
+Right_image: img: /img/ recurring-local-revenue.png
 - grid:
   - grid_title: More budget analysis
   - card: /featured-analysis/national-economy/
