@@ -56,5 +56,9 @@ components:
 - title: Preserving Boston Public Library’s Special Collections
     body: >
       The City will begin construction on a major capital project in FY19 to help preserve the Library’s valuable and historic special collections of rare books and manuscripts. This $15.7 million project includes an inventory of the Central Library in Copley Square’s Rare Books & Manuscripts Department’s nearly 250,000 rare books and one million manuscripts.
-   
+ - grid:
+  - grid_title: More budget analysis
+  - card: /featured-analysis/housing-boston-2030/
+  - card: /featured-analysis/Streets/
+  - card: /featured-analysis/city-services/
 ---
