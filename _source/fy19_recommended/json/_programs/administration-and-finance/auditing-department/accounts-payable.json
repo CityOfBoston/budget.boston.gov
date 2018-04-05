@@ -1,0 +1,249 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Administration & Finance",
+  "department":"Auditing Department",
+  "file_version":"",
+  "head_name":"Julie Ann Tippett",
+  "head_title":"Manager",
+  "name":"Accounts Payable",
+  "parent":"Auditing Department",
+  "section_id":52,
+  "section_md5_id":"9A1158154DFA42CADDBD0694A4E9BDC8",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~grants-monitoring.json",
+  "source_time":"20180405124737",
+  "source_year":"19",
+  "appropriation_code":"Organization 131500",
+  "description":[
+    "The Accounts Payable Program is responsible for approving procurement documents and processing payment documents completely, accurately, and on-time while maintaining expenditure controls to limit deficit spending citywide."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":731805,
+      "fy-1":662053,
+      "fy-0":778768,
+      "fy+1":800877
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":46155,
+      "fy-1":27591,
+      "fy-0":11101,
+      "fy+1":16955
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":777960,
+      "fy-1":689644,
+      "fy-0":789869,
+      "fy+1":817832
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":731805,
+        "fy-1":662053,
+        "fy-0":778768,
+        "fy+1":800877,
+        "diff":22109
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":44748,
+        "fy-1":26733,
+        "fy-0":6163,
+        "fy+1":11852,
+        "diff":5689
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":1357,
+        "fy-1":858,
+        "fy-0":4838,
+        "fy+1":4838,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":50,
+        "fy-1":0,
+        "fy-0":100,
+        "fy+1":265,
+        "diff":165
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":777960,
+        "fy-1":689644,
+        "fy-0":789869,
+        "fy+1":817832,
+        "diff":27963
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "% contracts routed within 3 days of receipt"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% contracts routed within 3 days of receipt",
+              "fy-2":"86%",
+              "fy-1":"84%",
+              "fy-0":"100%",
+              "fy+1":"100%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "% procurement documents approved within 3 days"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% procurement documents approved within 3 days",
+              "fy-2":"93%",
+              "fy-1":"97%",
+              "fy-0":"100%",
+              "fy+1":"100%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "% vendor invoices processed within 5 days"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% vendor invoices processed within 5 days",
+              "fy-2":"99%",
+              "fy-1":"99%",
+              "fy-0":"100%",
+              "fy+1":"100%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Improvement through the use of technology & resources to manage the City's Accounts Payable"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of Standard Contracts Completed On-Line",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"50%",
+              "fy+1":"50%"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

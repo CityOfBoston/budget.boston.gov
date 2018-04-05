@@ -1,0 +1,173 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Streets",
+  "department":"Public Works Department",
+  "file_version":"",
+  "head_name":"Katie Choe",
+  "head_title":"Manager",
+  "name":"Construction Management",
+  "parent":"Public Works Department",
+  "section_id":12,
+  "section_md5_id":"C20AD4D76FE97759AA27A0C99BFF6710",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~engineering.json",
+  "source_time":"20180405124910",
+  "source_year":"19",
+  "appropriation_code":"Organization 311400",
+  "description":[
+    "The Construction Management Program is responsible for the construction and maintenance of the highway infrastructure of the City.  Responsibilities include installing pedestrian ramps, and managing major capital improvements in business districts.  Engineering and inspection is provided for reconstruction and resurfacing projects and for the permanent restoration of damaged public ways.  By inspecting public ways, analyzing and programming field data and estimating recovery cost, this program seeks to minimize the damages to roadways and sidewalks by utility companies and contractors."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":2352743,
+      "fy-1":2379378,
+      "fy-0":2850921,
+      "fy+1":2929272
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":2338046,
+      "fy-1":885587,
+      "fy-0":130606,
+      "fy+1":177837
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":4690789,
+      "fy-1":3264965,
+      "fy-0":2981527,
+      "fy+1":3107109
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":2352743,
+        "fy-1":2379378,
+        "fy-0":2850921,
+        "fy+1":2929272,
+        "diff":78351
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":2220166,
+        "fy-1":770026,
+        "fy-0":69650,
+        "fy+1":76750,
+        "diff":7100
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":12772,
+        "fy-1":20006,
+        "fy-0":24180,
+        "fy+1":23404,
+        "diff":-776
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":3576,
+        "fy-1":15511,
+        "fy-0":5380,
+        "fy+1":7030,
+        "diff":1650
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":101532,
+        "fy-1":80044,
+        "fy-0":31396,
+        "fy+1":70653,
+        "diff":39257
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":4690789,
+        "fy-1":3264965,
+        "fy-0":2981527,
+        "fy+1":3107109,
+        "diff":125582
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Ensure that Boston&rsquo;s streets, sidewalks, and bridges are safe, clean and attractive"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Annual basis of the PCI for Boston's Streets",
+              "fy-2":"",
+              "fy-1":"67",
+              "fy-0":"66",
+              "fy+1":"67"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Average PCI of the Roads being resurfaced",
+              "fy-2":"",
+              "fy-1":"34",
+              "fy-0":"33",
+              "fy+1":"33"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

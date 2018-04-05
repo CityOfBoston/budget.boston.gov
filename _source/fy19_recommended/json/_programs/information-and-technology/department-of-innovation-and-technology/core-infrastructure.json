@@ -1,0 +1,165 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Information & Technology",
+  "department":"Department of Innovation & Technology",
+  "file_version":"",
+  "head_name":"Daniel Rothman",
+  "head_title":"Manager",
+  "name":"Core Infrastructure",
+  "parent":"Department of Innovation & Technology",
+  "section_id":89,
+  "section_md5_id":"7647966B7343C29048673252E490F736",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~digital-engagement-and-services.json",
+  "source_time":"20180405124840",
+  "source_year":"19",
+  "appropriation_code":"Organization 149400",
+  "description":[
+    "Core Infrastructure is responsible for the development and maintenance of City technology systems, data storage, and networks. Functional areas include server and mainframe technology, network and telecommunications, security, and electronic communication services."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":3003560,
+      "fy-1":4001229,
+      "fy-0":4387385,
+      "fy+1":4585689
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":10279654,
+      "fy-1":10319449,
+      "fy-0":8925858,
+      "fy+1":7767634
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":13283214,
+      "fy-1":14320678,
+      "fy-0":13313243,
+      "fy+1":12353323
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":3003560,
+        "fy-1":4001229,
+        "fy-0":4387385,
+        "fy+1":4585689,
+        "diff":198304
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":2834461,
+        "fy-1":3806098,
+        "fy-0":2098160,
+        "fy+1":1660300,
+        "diff":-437860
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":96172,
+        "fy-1":26245,
+        "fy-0":2500,
+        "fy+1":27500,
+        "diff":25000
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":5524819,
+        "fy-1":5062740,
+        "fy-0":5500000,
+        "fy+1":4800000,
+        "diff":-700000
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":1824202,
+        "fy-1":1424366,
+        "fy-0":1325198,
+        "fy+1":1279834,
+        "diff":-45364
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":13283214,
+        "fy-1":14320678,
+        "fy-0":13313243,
+        "fy+1":12353323,
+        "diff":-959920
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To provide City Hall employees with the IT tools to effectively execute their job"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Overall customer satisfaction with IT tools and support (including equipment/software available, support, wifi, phones, etc.) (out of 5)",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"5",
+              "fy+1":"5"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---
