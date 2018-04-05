@@ -102,7 +102,7 @@ components:
         <li>
     - link:
         title: City Council Orders
-        path: /img/pdfs/11-City-Council-Orders-Chapter.pdf
+        path: /img/pdfs/11-City-Council-Orders.pdf
     - blurb: >
         </li>
         </ul>
