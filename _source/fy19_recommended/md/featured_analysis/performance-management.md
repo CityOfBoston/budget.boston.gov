@@ -360,8 +360,8 @@ components:
         "Responsible Department":
           value: Fire Department
           align: left
-        "FY18 Projected": 840 
-        "FY19 Target": 800
+        "FY18 Projected": 550 
+        "FY19 Target": 600
       - "Category": Health and Safety 
         "Performance Measure": 
           value: YouthConnect referrals
