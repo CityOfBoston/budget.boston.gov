@@ -50,7 +50,7 @@ components:
       <p>The Engagement Center is a welcoming, low-threshold drop-in space for individuals receiving services in the Newmarket Square neighborhood. It was opened in August 2017 as a six-month pilot and provides space for participants to connect with recovery support services and to get connected with housing services offered by the City and partners.</p>
       <p>Since August, over 140,000 guests have accessed the Engagement Center in some form; either through daily nursing services, to reconnect with health insurance, to make primary care appointments, or to receive routine medical care. Building on the success of the pilot, Mayor Walsh is dedicating $1.8 million to make the Engagement Center permanent. This vital service will continue to be a lifeline for those suffering from addiction and homelessness.</p>
       </ul>
-  - img: /img/paaths-investments.png
+    right_image: /img/paaths-investments.png
 - grid: 
   - grid_title: More budget analysis
   - card: /featured-analysis/health-safety-proactive-agile-ems-through-data/

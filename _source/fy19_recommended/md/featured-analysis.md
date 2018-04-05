@@ -36,8 +36,6 @@ components:
 - grid: 
   - grid_title: Expenditure Growth
   - card: /featured-analysis/education-overview/
-  - card: /featured-analysis/city-services/
-  - card: /featured-analysis/pensions-debt-service-other-fixed-costs/
 - grid: 
   - grid_title: City Budget Priorities
   - card: /featured-analysis/streets-keeping-streets-clean-safe/
@@ -59,12 +57,19 @@ components:
   - card: /featured-analysis/non-recurring-revenue/
 - grid: 
   - grid_title: Centralized and Fixed Costs
-  - card: /featured-analysis/health-benefits/
-  - card: /operating-budget/other-post-employment-benefits/ 
-  - card: /featured-analysis/energy-management/  
-  - card: /operating-budget/reserve-for-collective-bargaining/
+  - card: /featured-analysis/city-services/
   - card: /operating-budget/debt-service/
+  - card: /featured-analysis/energy-management/ 
+  - card: /featured-analysis/external-funds/
+  - card: /featured-analysis/health-benefits/
+  - card: /operating-budget/other-post-employment-benefits/
+  - card: /featured-analysis/pensions-debt-service-other-fixed-costs/
   - card: /operating-budget/pensions/
+  - card: /featured-analysis/personnel-changes/
+  - card: /operating-budget/reserve/
+  - card: /operating-budget/reserve-for-collective-bargaining/
+  - card: /operating-budget/state-assessments/
+  - card: /operating-budget/suffolk-county-assessment/
 - grid:
   - grid_title: Financial and Performance Management
   - card: /financial-management/

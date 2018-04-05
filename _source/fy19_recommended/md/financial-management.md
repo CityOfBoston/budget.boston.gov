@@ -327,7 +327,7 @@ components:
         "Ending Year Balance": 10.999
       - "Fiscal Year": FY17
         "Beginning Year Balance": 10.999
-        "Funds Out": 
+        "Funds Out": 0.000
         "Funds In**": 1.818
         "Ending Year Balance": 12.817
       - "Fiscal Year": FY18*
