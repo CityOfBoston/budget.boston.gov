@@ -140,13 +140,13 @@ components:
       <li>create a waterfront for future generations; and</li>
       <li>connect historically underserved neighborhoods to more opportunities.</li>
       </ul>
-      <p>Mayor Walsh’s $2.08 billion FY18-FY22 Capital Plan moves Boston residents’ priorities from idea to action, and invests in creating the city Bostonians imagine for the future. Under the Imagine Boston 2030 umbrella, the City is investing deeply in the core goals of BuildBPS, Go Boston 2030, Boston Creates, and Climate Ready Boston.</p>
+      <p>Mayor Walsh’s $2.43 billion FY19-FY23 Capital Plan moves Boston residents’ priorities from idea to action, and invests in creating the city Bostonians imagine for the future. Under the Imagine Boston 2030 umbrella, the City is investing deeply in the core goals of BuildBPS, Go Boston 2030, Boston Creates, and Climate Ready Boston.</p>
       <h5>Investing in core goals</h5>
-      <p>Mayor Walsh’s $2.08 billion FY18-FY22 Capital Plan moves Boston residents’ priorities from idea to action, and invests in creating the city Bostonians imagine for the future. Under the Imagine Boston 2030 umbrella, the City is investing deeply in the core goals of BuildBPS, Go Boston 2030, Boston Creates, and Climate Ready Boston.</p>
-      <p>An estimated 77% of projects in the FY18-22 Capital Plan are aligned with the City’s planning efforts:</p>
+      <p>Mayor Walsh’s $2.43 billion FY9-FY23 Capital Plan moves Boston residents’ priorities from idea to action, and invests in creating the city Bostonians imagine for the future. Under the Imagine Boston 2030 umbrella, the City is investing deeply in the core goals of BuildBPS, Go Boston 2030, Boston Creates, and Climate Ready Boston.</p>
+      <p>An estimated 84% of projects in the FY19-23 Capital Plan are aligned with the City’s planning efforts:</p>
       <ul>
       <li>Mayor Walsh committed $1 billion over ten years to bring Boston's school buildings into the 21st Century, and this Capital Plan launches that investment with funding for 21st Century Classrooms, MSBA Accelerated Repair Program partnerships, completion of projects in the pipeline, and reserves for future projects coming out of BuildBPS community engagement.</li>
-      <li>Boston, in collaboration with State and Federal sources, will invest $709 million over the next five years in implementing the core initiatives outlined in Go Boston 2030: streets that are safer for all users of our roads and sidewalks, particularly pedestrians and cyclists; travel that is more reliable and predictable; and quality transportation choices that improve access to interconnect our neighborhoods for all modes of travel. </li>
+      <li>Boston, in collaboration with State and Federal sources, will invest $967 million over the next five years in implementing the core initiatives outlined in Go Boston 2030: streets that are safer for all users of our roads and sidewalks, particularly pedestrians and cyclists; travel that is more reliable and predictable; and quality transportation choices that improve access to interconnect our neighborhoods for all modes of travel. </li>
       <li>Through the use of Winthrop Square proceeds, City capital dollars, and leveraging external funds, Mayor Walsh plans to carry out early actions to implement Imagine Boston 2030’s Open Space goals, including investing in Franklin Park as a keystone park for the city, completing the Emerald Necklace, and restoring Boston Common to its full vibrancy.</li>
       </ul>
       <ul>
