@@ -1,13 +1,13 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/national-economy/
+permalink: /featured-analysis/economy-overview/
 title: National economy
 card:
-  - title: National Economy
+  - title: National, State, and Local Economy
     body: >
       Economic indicators show positive real GDP growth and an improving unemployment rate.
     img: /img/fa-national-economy.jpg
-    link: /featured-analysis/national-economy/
+    link: /featured-analysis/economy-overview/
 components:
 - breadcrumbs:
   - title: Home
@@ -16,7 +16,7 @@ components:
   - title: Featured Analysis
     url: "/featured-analysis/"
     local: true
-  - current: National economy
+  - current: National, State, and Local Economy
   - published: 4/13/17
 - text_block:
   - title: National, State and Local Economy
@@ -47,7 +47,7 @@ Massachusetts wage and salary income in the fourth quarter of 2017 rose 6.3% ove
 
 - grid:
   - grid_title: More budget analysis
-  - card: /featured-analysis/state-and-city-economies/
-  - card: /featured-analysis/commonwealth-budget/
-  - card: /featured-analysis/revenue-estimates/
+  - card: /featured-analysis/revenue-overview/
+  - card: /featured-analysis/state-revenue/
+  - card: /featured-analysis/property-tax/
 ---
