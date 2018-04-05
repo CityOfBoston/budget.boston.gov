@@ -5,7 +5,7 @@ title: Pensions, Debt Service, and Other Fixed Costs
 card:
   - title: Pensions, Debt Service, and Other Fixed Costs
     body: >
-      Pensions, debt service and other fixed costs consume 22% of the budget growth.
+      Pensions, debt service and other fixed costs consume 20% of the budget growth.
     img: /img/fa-pensions-debt-service-other-fixed-costs.jpg
     link: /featured-analysis/pensions-debt-service-other-fixed-costs/
 components:
@@ -21,16 +21,13 @@ components:
 - intro:
   - title: Pensions, debt service, and other fixed costs
     short_desc: >
-      Finally, $32 million (22%) of the budget growth is committed to addressing the 
-      City’s long-term obligations and paying off debt taken on for school buildings, 
-      roads and bridges, police and fire stations, parks, and other public assets. 
+      $28 million of the budget growth is committed to funding the City’s long-term obligations, like pensions and paying off debt incurred while building new schools, reconstructing roads and bridges, renovating police and fire stations, parks, libraries and other public assets.
     description: >
-      Due to generations of underfunding the City’s pension obligations, the City’s 
-      pension schedule requires a 9.5% increase this year. This budget again dedicates 
+      The City’s pension schedule requires an 8% increase next year in order to maintain our commitment to fully fund the pension by 2025.  This budget again dedicates 
       $40 million toward reducing the City’s long term other post-employment benefits 
       (OPEB) liability. <blockquote>Actively addressing the City’s long-term liabilities 
       is not only fiscally responsible, it is critical to maintaining Boston’s AAA bond 
-      rating, which unlocks additional capacity to fund more capital projects.</blockquote>
+      rating. Maintaining this rating is crucial for the City’s ability to fund critical capital investments contained in BuildBPS, Go Boston 2030, Climate Ready Boston and other master planning efforts.</blockquote>
     sidebar_menu: true
 - text_col_2:
   - col: >
@@ -41,7 +38,7 @@ components:
       position as an attractive investment. This high bond rating will be integral to 
       unlocking a $1 billion investment in Boston schools over the next 10 years.</p>
       <p>Even with the recent favorable borrowings, debt service costs are projected
-      to increase by $10.6 million (6.1%) in FY18.</p> 
+      to increase by $7.7 million (4.2%) in FY19.</p> 
   - col:
     - img: /img/pension-schedule.png
 - grid: 

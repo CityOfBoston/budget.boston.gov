@@ -55,35 +55,32 @@ components:
       <p>For further discussion of the City’s financial policies and management controls, refer 
       to the chapter on Financial Management.</p>
   - col: >
-      <p>The City’s debt service forecast assumes general obligation borrowing of $173 million 
-      in FY18, $177 million in FY19, $200 million in FY20, $200 million in FY21, and $200 million 
-      in FY22. On March 7, 2017, the City sold $150 million in general obligation bonds to fund 
-      its capital improvement projects.</p>
+      <p>The City’s debt service forecast assumes general obligation borrowing of $177 million 
+      in FY19, $203 million in FY20, $220 million in FY21, $215 million in FY22, and $200 million 
+      in FY23.</p>
       <p>The debt tables at the end of this chapter detail the City’s outstanding debt service 
       obligations and demonstrate the City’s rapid retirement of its debt.</p>
 - text_col_2:
   - col: >
       <a href="http://placehold.it"><img src="http://placehold.it/300x400"></a>
       <p><em>Figure 3 – Gross Debt Service as a Percent of Total General Fund Expenditures 
-      FY15-FY22</em></p>
+      FY16-FY23</em></p>
       <p>The City’s gross debt service requirement will remain under 7% of total General Fund expenditures 
-      through FY22 (See Figure 3).</p>
+      through FY23 (See Figure 3).</p>
   - col: >
       <a href="http://placehold.it"><img src="http://placehold.it/300x400"></a>
-      <p><em>Figure 4 – Gross Debt Service as a Percent of the Net Property Tax Levy FY15-FY22</em></p>
+      <p><em>Figure 4 – Gross Debt Service as a Percent of the Net Property Tax Levy FY16-FY23</em></p>
       <p>The ratio of debt service to the City’s primary revenue source, the property tax levy, is 
-      projected to increase through FY22 (See Figure 4). Even with the increase, the ratio is not 
+      projected to increase through FY23 (See Figure 4). Even with the increase, the ratio is not 
       expected to exceed the City’s policy ceiling.</p>
 - text_col_2:
   - col: >
       <h5>City debt burden</h5>
       <p>The City’s current overall debt burden (net direct debt to assessed property value of 
-      $143.58 billion) is approximately 0.91% as of April 30, 2017. The City’s net direct 
-      debt per capita currently stands at approximately $1,942 as of April 30, 2017.</p>
+      $143.58 billion) is approximately 0.84% as of March 1, 2018. The City’s net direct 
+      debt per capita currently stands at approximately $1,804 as of March 1, 2018.</p>
       <p>Boston has been conservative about assuming long-term debt and aggressive about retiring 
-      debt expeditiously. <blockquote>As of April 30, 2017, the City’s debt retirement schedule shows 
-      that 42.7% of its principal will be retired five years out, before the end of FY22 (See the 
-      Debt Retirement table at the end of this chapter).</blockquote></p>
+      debt expeditiously. <blockquote>Over 40% of the City’s outstanding debt will be retired within the next five years.</blockquote></p>
       <h5>Credit rating</h5>
       <p>In February of 2017, Moody’s Investors Service and Standard and Poor’s reaffirmed Boston’s 
       credit rating at Aaa, and AAA, respectively. A bond rating is a statement of credit quality 

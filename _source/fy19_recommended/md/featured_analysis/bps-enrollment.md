@@ -1,13 +1,13 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/bps-enrollment/
-title: BPS Enrollment
+permalink: /featured-analysis/bps-scaling-successful-programs/
+title: Scaling Successful District-Wide Programs
 card:
-  - title: BPS Enrollment
+  - title: Scaling Successful District-Wide Programs
     body: >
       Student enrollment is the foundation of the BPS budget. See why.
     img: /img/fa-bps-enrollment.jpg
-    link: /featured-analysis/bps-enrollment
+    link: /featured-analysis/bps-scaling-successful-programs
 components:
 - breadcrumbs:
   - title: Home
@@ -16,40 +16,21 @@ components:
   - title: Featured Analysis
     url: "/featured-analysis/"
     local: true
-  - current: BPS Enrollment
+  - current: Scaling Successful District-Wide Programs
   - published: 4/13/17
 - intro:
-  - title: BPS enrollment
+  - title: Scaling Successful District-Wide Programs
     short_desc: >
-      Student enrollment is the foundation of the BPS budget. The preliminary stage of 
-      the budget process involves enrollment projections for each program, grade, and 
-      school, which are based on historic trends and current data. 
+      In addition to the $10 million in additional supports going directly to schools, BPS is expanding system-wide initiatives that are closing opportunity and achievement gaps for students across the city. 
     description: >
-      The projected enrollment at each school for the upcoming school year determines 
-      the allocation of resources at the school level through the weighted student funding formula. 
-      <blockquote>The FY18 budget development process included a more rigorous use of data 
-      and collaboration between school leaders and BPS finance to develop accurate 
-      enrollment projections.</blockquote>
+      These programs include:
+      <ul>
+      <li>$1.2 million to support translations and interpretations for students with individualized education plans (IEPs) and their families.</li>
+      <li>$700,000 to grow Excellence for All for the third year, serving 6th graders in both K-8 programs and extended to 6th graders for feeder middle schools. With a total investment of $2.6 million, this improves equity of access to rigorous academic programming.</li>
+      <li>$500,000 to expand Becoming a Man, a school-based group counseling program that guides young men in 7-12th grades to learn, internalize and practice social cognitive skills, make responsible decisions for their future and become positive members of their school and community.</li>
+      <li>$500,000 in curriculum investments and professional development for English language learner classrooms and teaching staff, investments in social and emotional learning curriculum for students in grades K-2, and expanding successful curriculum pilots.</li>
+      </ul>
     sidebar_menu: true    
-- text_block:
-  - title: Enrollment at schools
-- text_col_2:
-  - col: >
-      <h5>Enrollment numbers</h5>
-      <p> In FY18, the BPS projected budgeted enrollment is approximately 57,200, including 
-      an additional 100 prekindergarten seats.</p>
-      <p>Overall enrollment has remained consistent over the past 5 years, ranging from a 
-      high of 56,959 students in 2014-15, to a low of 56,404 in the 2016-2017 school year. 
-      This trend is anticipated to continue.</p>
-  - col: >
-      <h5>Shifts in enrollment</h5>
-      <p>At a school level, BPS has seen some shifts in enrollment. BPS gives parents a voice 
-      in where their child attends schools, which means that they see shifts from year to year. 
-      The <a href="http://www.bostonpublicschools.org/domain/162">BPS School Committee</a> 
-      has also supported school communities that have requested to 
-      expand grades in recent years, which have led to shifts in enrollment. It is projected that 
-      600 more students will be enrolled in the District’s highest performing schools 
-      next year.</p>
 - grid:
   - grid_title: More budget analysis
   - card: /featured-analysis/weighted-student-funding/

@@ -17,7 +17,7 @@ components:
     url: "/operating-budget/"
     local: true
   - current: Reserve
-  - published: 4/13/17
+  - published: 4/11/18
 - intro:
   - title: Reserve
     short_desc: >
@@ -25,8 +25,8 @@ components:
       the City of Boston to maintain a reserve of 2.5% of the prior year 
       appropriations, not including the School department, on its balance sheet.  
     description: >
-      The current balance of this reserve is $31.4 million, and the City is required 
-      to budget $1 million in FY18 to meet reserve requirements. <blockquote>The reserve can be 
+      The current balance of this reserve is $35.2 million,with this balance Boston has met its reserve requirements.
+      <blockquote>The reserve can be 
       used to provide for extraordinary and unforeseen expenditures and the Mayor 
       may make drafts or transfers against this fund with City Council approval after 
       June first of each fiscal year.</blockquote> Since the establishment of this reserve, the 
@@ -39,14 +39,14 @@ components:
       link: /operating-budget
     columns:
       - "": Total
-        "FY15 Actual": 
-          value: 915357
-          filter: delimiter
         "FY16 Actual": 
           value: 988660
           filter: delimiter
-        "FY17 Budget": 0
-        "FY18 Budget": 
-          value: 1000000
+        "FY17 Actual": 
+          value: 3813197
+          filter: delimiter
+        "FY18 Budget": 0
+        "FY19 Budget": 
+          value: 0
           filter: delimiter
 ---

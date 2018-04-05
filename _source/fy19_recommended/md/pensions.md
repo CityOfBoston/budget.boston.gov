@@ -5,7 +5,7 @@ title: Pensions
 card:
   - title: Pensions
     body: >
-      Due to generations of underfunding, pensions require a 9.5% increase.
+      Due to generations of underfunding, pensions require a 7.9% increase.
     img: /img/fa-pensions.jpg
     link: /operating-budget/pensions/
 components:
@@ -17,7 +17,7 @@ components:
     url: "/operating-budget/"
     local: true
   - current: Pensions
-  - published: 4/13/17
+  - published: 4/11/18
 - intro:
   - title: Pensions
     short_desc: >
@@ -25,8 +25,8 @@ components:
       schedule approved by Boston’s Retirement Board. 
     description: >
       Due to generations of underfunding the City’s Pension obligations, 
-      the City’s Pension schedule requires an $18.9 million or 9.5% 
-      increase in FY18.
+      the City’s Pension schedule requires an $17..4 million or 7.9% 
+      increase in FY19.
     sidebar_menu: true
 - text_block:
   - title: Boston Retirement System
@@ -46,16 +46,16 @@ components:
       link: /operating-budget
     columns:
       - "": Total
-        "FY15 Actual": 
-          value: 169624584
-          filter: delimiter
         "FY16 Actual": 
           value: 196548695
           filter: delimiter
-        "FY17 Budget": 
+        "FY17 Actual": 
           value: 199279888
           filter: delimiter
         "FY18 Budget": 
-          value: 218208797
+          value: 221301615
+          filter: delimiter
+        "FY19 Budget": 
+          value: 238710065
           filter: delimiter
 ---

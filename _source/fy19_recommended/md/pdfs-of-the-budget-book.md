@@ -8,12 +8,11 @@ components:
     url: "/"
     local: true
   - current: PDFs of the budget book
-  - published: 4/13/17
+  - published: 4/11/18
 - intro:
   - title: PDFs of the budget volumes
     short_desc: >
-      This PDF represents the FY18 adopted budget document, we are in the process of updating
-      the data in the interactive part of this site located at 
+      This PDF represents the FY19 recommended budget document, the data in the interactive part of this site located at 
       <a href="https://budget.boston.gov">https://budget.boston.gov</a>.
     description:
     - link: 

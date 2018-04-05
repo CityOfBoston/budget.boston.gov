@@ -69,7 +69,7 @@ components:
       revenue sources that fit well with its economic strengths.</p>
   - col: >
       <blockquote>The City’s tax base has experienced significant growth. Based on assessed values 
-      as of January 1, 2016, Fiscal 2017 assessments totaled $143.9 billion, a 44% increase over 
+      as of January 1, 2017, Fiscal 2018 assessments totaled $153.9 billion, a 54% increase over 
       Fiscal 2014 assessments.</blockquote>
       <h5>Multi-Year Planning</h5>
       <p>The City develops a financial forecast as part of its yearly budget process. Preparing a 
@@ -98,8 +98,8 @@ components:
       benefits.  In FY08, the City followed new Governmental Accounting Standards Board (GASB) 
       requirements to identify and disclose this estimated unfunded liability and also began to include 
       an annual appropriation in the budget.  These funds are held in an irrevocable Trust Fund authorized 
-      through the City’s acceptance of MGL Ch.32B s.20.  As of December 31, 2016 the Fund had a balance of 
-      $437 million.</p>
+      through the City’s acceptance of MGL Ch.32B s.20.  As of December 31, 2017 the Fund had a balance of 
+      $547 million.</p>
 - text_block:
   - title: Financial policies, procedures, and controls
     body: 
@@ -173,7 +173,9 @@ components:
   - col: 
     - blurb: >
         <h5>Performance Management and Program Evaluation</h5>
-        <p>Boston About Results (BAR) is the City’s performance management and evaluation program that helps drive operational improvement throughout the City. The BAR program provides city leaders and departmental managers with the tools and analysis needed to track service delivery, evaluate performance, and identify areas of improvement.</p>
+        <p>Boston's performance management efforts, driven in partnership between the Citywide Analytics Team and the Budget Office, exist to ensure that the city delivers the most effective and efficient services possible.  Building the tools to understand how well the city is performing, helping identify pain points and developing immediate and potential long-term performance and process improvements create lasting improvements for the city. </p>
+        <p>These efforts are summarized in CityScore and are designed to inform the Mayor, City managers, and the public about the quality of life and the performance of City government by aggregating key performance metrics into one number. </p>
+        <p>Boston About Results continues to be the city's sustainable and reliable performance management system which captures the core functions of City departments and citywide strategic goals, assists in the decision-making process, identifies areas of improvement, and effectively communicates performance results to a broad range of stakeholders. </p> 
         <blockquote>A Citywide Analytics Team works across cabinets to help identify pain points and develop immediate and potential long-term performance and process improvements (
     - link: 
         title: see featured analysis on performance management 
@@ -188,10 +190,7 @@ components:
       efficiency of the City’s new construction and capital improvement projects.</p>
       <blockquote>The conversion of street lights to newer fixtures using Light Emitting Diode (“LED”) technology 
       has achieved significant operational savings.</blockquote>
-      <p>In FY18, an Energy Service Company (“ESCO”) will conduct an Investment Grade Audit (“IGA”) of the City’s 
-      facilities portfolio to identify projects with significant utility savings potential. This “Renew Boston 
-      Trust” initiative will result in savings for City facilities by bundling municipal utility cost savings 
-      projects.</p>
+      <p>In fiscal 2019, the City plans to begin implementing improvements which will result in utility cost savings for City facilities, under an initiative entitled “Renew Boston Trust.” This initiative is not a trust in the traditional sense, but a program to bundle municipal utility cost savings projects. The initial step was to have an Energy Service Company (“ESCO”) conducting an Investment Grade Audit (“IGA”) of the City’s facilities portfolio to identify projects with significant utility savings potential. The City expects to select projects based upon the IGA analysis and implement the program through one or more contracts with the ESCO that will provide long-term financial guarantees on the net savings for such projects. The City plans to finance the program with general obligation bonds with debt service expected to be offset by the long-term energy savings guaranteed by the ESCO.</p>
 - text_block:
   - title: Fund structure and uses
     body: >
@@ -265,25 +264,28 @@ components:
         "Ending Year Balance": 102.397
       - "Fiscal Year": FY16
         "Beginning Year Balance": 102.397
-        "Funds Out": (6.500)**
+        "Funds Out": (6.500)
         "Funds In": 14.397
         "Ending Year Balance": 110.294
-      - "Fiscal Year": FY17*
+      - "Fiscal Year": FY17
         "Beginning Year Balance": 110.294
-        "Funds Out": (37.500)***
-        "Funds In": 22.139
-        "Ending Year Balance": 94.932
+        "Funds Out": (15.000)
+        "Funds In": 26.491
+        "Ending Year Balance": 121.785
       - "Fiscal Year": FY18*
-        "Beginning Year Balance": 94.932
-        "Funds Out": (67.885)****
-        "Funds In": 17.500
-        "Ending Year Balance": 44.547
+        "Beginning Year Balance": 121.785
+        "Funds Out": (68.885)
+        "Funds In": 25.000
+        "Ending Year Balance": 77.900
+      - "Fiscal Year": FY19*
+        "Beginning Year Balance": 77.900
+        "Funds Out": (53.803)
+        "Funds In": 25.000
+        "Ending Year Balance": 49.097        
 - text_block: 
   - body: >
       *Projected<br>
-      **Includes $6.5 milllion capital expenditure<br>
-      ***Includes $15 million capital expenditure<br>
-      ****Includes $45.4 million capital expenditure<br>
+      FY16-FY19 funds out include capital expenditures<br>
 - table:
   - title: Cemetery Trust Fund
     right_text: (dollars in millions)
@@ -323,16 +325,21 @@ components:
         "Funds Out": 0.000
         "Funds In**": 0.433
         "Ending Year Balance": 10.999
-      - "Fiscal Year": FY17*
+      - "Fiscal Year": FY17
         "Beginning Year Balance": 10.999
-        "Funds Out": (0.950)
-        "Funds In**": 1.000
-        "Ending Year Balance": 11.049
+        "Funds Out": 
+        "Funds In**": 1.818
+        "Ending Year Balance": 12.817
       - "Fiscal Year": FY18*
-        "Beginning Year Balance": 11.049
+        "Beginning Year Balance": 12.817
         "Funds Out": (0.950)
         "Funds In**": 1.000
-        "Ending Year Balance": 11.099
+        "Ending Year Balance": 12.867
+      - "Fiscal Year": FY19*
+        "Beginning Year Balance": 12.867
+        "Funds Out": (0.950)
+        "Funds In**": 1.000
+        "Ending Year Balance": 12.917        
 - text_block: 
   - body: >
       *Projected<br>
@@ -376,18 +383,22 @@ components:
         "Funds Out": 0.000
         "Funds In": 1.742
         "Ending Year Balance": 17.027
-      - "Fiscal Year": FY17*
+      - "Fiscal Year": FY17
         "Beginning Year Balance": 17.027
-        "Funds Out": (4.000)**
-        "Funds In": 1.145
-        "Ending Year Balance": 14.172
+        "Funds Out": 0.000
+        "Funds In": 4.010
+        "Ending Year Balance": 21.037
       - "Fiscal Year": FY18*
-        "Beginning Year Balance": 14.172
+        "Beginning Year Balance": 21.037
         "Funds Out": 0.000
         "Funds In": 1.145
-        "Ending Year Balance": 15.317
+        "Ending Year Balance": 22.182
+      - "Fiscal Year": FY19*
+        "Beginning Year Balance": 22.182
+        "Funds Out": (1.600)
+        "Funds In": 1.145
+        "Ending Year Balance": 21.727        
 - text_block: 
   - body: >
       *Projected<br>
-      **Includes a $4 million supplemental for the Boston Housing Authority
 ---
