@@ -34,7 +34,6 @@ components:
 <li>In FY18, the City expanded the Providing Access to Addictions Treatment, Hope and Support (PAATHS) Program services to evenings and weekends. The City also doubled the size of the Mobile Sharps team to pick up improperly discarded hypodermic needles, and added four new mental health clinicians to the Boston Emergency Services Team (BEST). This team responds with BPD, helping people exhibiting signs of mental illness and diverting people from arrest to mental health resources.</li>
 <li>In FY19, the Mayor will build on existing substance use disorder and addiction infrastructure at the Boston Public Health Commission (BPHC) to better serve prevention and recovery for young people.</li>
   </ul>
-  
 - text_block:
   - title: Long Island Bridge
   - body: >
@@ -44,16 +43,13 @@ components:
 <li>Construction on the Bridge will begin in 2019, and will be completed within 3 years, unlocking the Island for a new comprehensive, long-term recovery campus.</li>
 <li>The City will also begin a programming and planning study to review the buildings currently on Long Island and updates needed to provide the new programming.</li>
   </ul>
-  
   - text_block:
   - title: Permanent Engagement Center
   - body: >
 <p>When open, Long Island will become part of the continuum of care for people struggling to reclaim their lives, from detox to residential treatment to transitional housing. In the meantime, Mayor Walsh is committed to providing more services to people battling addiction.</p>
 <p>The Engagement Center is a welcoming, low-threshold drop-in space for individuals receiving services in the Newmarket Square neighborhood. It was opened in August 2017 as a six-month pilot and provides space for participants to connect with recovery support services and to get connected with housing services offered by the City and partners.</p>
 <p>Since August, over 140,000 guests have accessed the Engagement Center in some form; either through daily nursing services, to reconnect with health insurance, to make primary care appointments, or to receive routine medical care. Building on the success of the pilot, Mayor Walsh is dedicating $1.8 million to make the Engagement Center permanent. This vital service will continue to be a lifeline for those suffering from addiction and homelessness.</p>
-
   </ul>
-
     - img: /img/paaths-investments.png
 - grid: 
   - grid_title: More budget analysis
