@@ -38,10 +38,7 @@ components:
 - text_block:
   - title: Imagine Boston 2030
     body: >
-      Mayor Walsh’s $2.43 billion FY19-23 Capital Plan will make critical
-      investments in the City’s infrastructure in every Boston neighborhood,
-      guided by Imagine Boston 2030 and the schools, streets, arts, climate
-      and resilience plans under its umbrella. <blockquote>More than 14,000 residents
+      Mayor Walsh’s $2.4 billion Imagine Boston FY19-23 capital plan will make critical investments in the City’s infrastructure in every Boston neighborhood, guided by Imagine Boston 2030 and the schools, streets, arts, climate and resilience plans under its umbrella. <blockquote>More than 14,000 residents
       have shaped Imagine Boston 2030 by articulating the challenges Boston faces,
       setting goals for the city in 2030, and generating ideas about policies and
       investments to help achieve these goals.</blockquote>
@@ -72,8 +69,8 @@ components:
         <ul>
           <li>21st century classrooms;</li>
           <li>MSBA Accelerated Repair Program partnerships;</li>
-          <li>completion of projects in the pipeline; and</li>
-          <li>reserves for future projects identified by BuildBPS community
+          <li>Completion of projects in the pipeline; and</li>
+          <li>Reserves for future projects identified by BuildBPS community
           engagement.</li>
         </ul>
       <h5>Core initiatives</h5>
@@ -81,10 +78,10 @@ components:
       million over the next five years in implementing the core initiatives outlined
       in Go Boston 2030:</p>
         <ul>
-          <li>streets that are safer for all users of our roads and sidewalks,
+          <li>Streets that are safer for all users of our roads and sidewalks,
           particularly pedestrians and cyclists;</li>
-          <li>travel that is more reliable and predictable; and</li>
-          <li>quality transportation choices that improve access to interconnect our
+          <li>Travel that is more reliable and predictable; and</li>
+          <li>Quality transportation choices that improve access to interconnect our
           neighborhoods for all modes of travel.</li>
         </ul>
   - col: >
