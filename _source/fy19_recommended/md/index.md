@@ -116,7 +116,7 @@ components:
   - card: /featured-analysis/technology-data-analytics/
   - link:
       title: View more budget priorities
-      path: /featured-analysis/index.html#grid-budget-priorities
+      path: /featured-analysis/index.html#grid-city-budget-priorities
       button: true
 - grid:
   - grid_title: Revenue
