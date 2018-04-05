@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/health-and-social-emotional/
+permalink: /featured-analysis/health-social-emotional-wellness/
 title: Special Education
 card:
   - title: Health and Social Emotional Wellness
