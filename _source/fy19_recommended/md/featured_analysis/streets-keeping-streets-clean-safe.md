@@ -61,6 +61,7 @@ components:
   - col: >
       <h5>Creating opportunities for older adults to engage in activities throughout the community</h5>
       <p>The Public Works Department will purchase and install 45 new benches in neighborhoods around the city. Benches not only improve the practical walkability of a neighborhood, they provide a public amenity that enhances local streetscapes and enables people to come together.</p>
+  - col: >
       <h5>Significant investments in City-owned bridges</h5>
       <p>The FY19-FY23 capital plan will also make significant investments in City-owned bridges. These vital connections allow people and commerce to move about the city, and replacing or upgrading keeps Boston moving. Bridge Projects in FY19 include: 
   <ul>
