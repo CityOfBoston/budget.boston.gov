@@ -60,18 +60,24 @@ body: >
 
 <p>Boston’s charter school tuition assessment has risen dramatically by 184% since the enactment of the 2010 Achievement Gap Legislation that expanded the number of charter school seats. </p> 
 
+right_image: /img/ charter-schools-enrollment-net-cost.png
+
 - text_block:
   - title: Net Education Aid
 body: >
 
 <p>If recent trends hold - rising charter school assessment and declining charter school reimbursement and stagnant Chapter 70- it’s likely that in three years Boston will receive no State education aid. This will mean Boston’s 57,000 students will be entirely funded by the City’s General Fund. Net education aid will decrease by $21 million in FY19.</p>
+right_image: /img/ net-education-aid.png
+
 <p>While Boston’s overall spending on education has increased substantially in recent years, Boston’s State education funding has not kept pace. </p> 
 <li>While Boston’s charter school assessment has risen by 184% since the enactment of the 2010 Achievement Gap Legislation, the State’s statutory obligation to fund charter school reimbursement has not kept pace.</li>
 <li>As a result, the City of Boston has lost a total of $100 million in five years (FY14-FY19), and $27 million alone under the Governor’s FY19 budget.</li>
 <li>Additionally, the Chapter 70 education aid formula does not work for Boston. Chapter 70 is expected to grow by only $1.3 million, or less than 1% in FY19.</li>
+
+right_image: /img/ net-charter-school-cost.png
+
 <p>Mayor Walsh has raised concerns about this trend since taking office and has been proactive in addressing the underlying challenges of the State’s education aid system. In 2017, the Mayor filed comprehensive education finance reform legislation that aims to invest equitably and expand access to high-quality public education for students of all ages. By proposing a creative revenue solution to provide every Boston four-year-old a high-quality seat, fixing the broken charter school transition funding model, and increasing reimbursements for the highest-need students, the proposals would increase annual education funding to Boston by $35 million in its first year of implementation. The proposal would also position Boston to receive $150 million in additional annual Chapter 70 aid within a few years if the State identifies a new revenue source for education. The Mayor continues to advocate for these common sense pieces of legislation, as well as full funding of local aid reimbursement accounts. </p>
 
-right_image: 
 
 
 
