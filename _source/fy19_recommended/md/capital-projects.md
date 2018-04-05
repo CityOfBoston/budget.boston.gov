@@ -762,13 +762,13 @@ components:
   - title: FY19 Expenditures Allocation
     body: >
       The City estimates FY19 capital expenditures from all sources will total $335 million
-      from all sources (see Figure 2). All projects in the capital plan are categorized as
-      Upkeep, Upgrade, New/Major Renovation, Planning or Matching Funds. The City tracks
+      from all sources. All projects in the capital plan are categorized as
+      Upkeep, Upgrade, New/Major Renovation, Planning, or Matching Funds. The City tracks
       the overall distribution of these categories to maintain a balance between the
       upkeep of existing assets and the expansion or introduction of new ones.
 - text_col_2:
   - col:
-    - img: /img/capital-expenditures.png
+   - img: /img/capital-expenditures.png
   - col: >
       <h5>Upkeep</h5>
       <p>Upkeep represents projects that maintain the City’s assets, a fundamental priority of the Capital Plan. In FY19, 22% of projected spending supports Upkeep projects. These include:</p>
@@ -876,19 +876,15 @@ components:
         button: true
     - blurb: <br /><br />
     - link: 
-        title: Debt service requirements FY15-22
+        title: Debt service requirements FY16-23
         path: /img/pdfs/debt-service-requirements-fy15-fy22.pdf
         button: true
     - blurb: <br /><br />
   - col: 
     - link: 
-        title: Outstanding principal by statute
+        title: Outstanding principal by purpose
         path: /img/pdfs/outstanding-principal-by-statute-4-30-17.pdf
         button: true
     - blurb: <br /><br />
-    - link: 
-        title: Rate of principal retirement on G.O. bonds
-        path: /img/pdfs/rate-principal-retirement-on-general-obligation-bonds.pdf
-        button: true
-    - blurb: <br /><br />
+    
 ---
