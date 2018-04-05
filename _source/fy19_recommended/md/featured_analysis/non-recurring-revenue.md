@@ -43,6 +43,7 @@ components:
 - grid:
   - grid_title: More budget analysis
   - card: /featured-analysis/revenue-overview/
-  - card: /featured-analysis/state-revenue/
   - card: /featured-analysis/property-tax/
+  - card: /featured-analysis/state-revenue/
+ 
 ---
