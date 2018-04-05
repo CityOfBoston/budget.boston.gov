@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Operations~property-management.json",
-  "source_time":"20180327183744",
+  "source_time":"20180404163548",
   "source_year":"19",
   "name":"Property Management",
   "parent":"Operations",
@@ -61,7 +61,7 @@
         "publish_subordinates":true
       },
       {
-        "name":Null,
+        "name":"Enforcement",
         "line_type":"data",
         "fy-2":4051334,
         "fy-1":3449205,
@@ -97,7 +97,7 @@
         "publish_subordinates":true
       },
       {
-        "name":Null,
+        "name":"Capital Construction",
         "line_type":"data",
         "fy-2":6630153,
         "fy-1":0,

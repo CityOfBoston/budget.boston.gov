@@ -4,8 +4,8 @@
   "cabinet":"Administration & Finance",
   "department":"Pensions & Annuities - City",
   "file_version":"",
-  "head_name":Null,
-  "head_title":Null,
+  "head_name":null,
+  "head_title":null,
   "name":"Pensions & Annuities - City",
   "parent":"Pensions & Annuities - City",
   "section_id":168,
@@ -14,11 +14,11 @@
   "section_type_short":"P",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~.json",
-  "source_time":"20180327182358",
+  "source_time":"20180404163404",
   "source_year":"19",
   "appropriation_code":"Organization 374100",
   "description":[
-    Null
+    null
   ],
   "selected_service_indicators":[
     {

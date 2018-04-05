@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Administration and Finance~budget-management.json",
-  "source_time":"20180327182350",
+  "source_time":"20180404163356",
   "source_year":"19",
   "name":"Budget Management",
   "parent":"Administration & Finance",
@@ -43,7 +43,7 @@
         "publish_subordinates":true
       },
       {
-        "name":Null,
+        "name":"Budget & Management",
         "line_type":"data",
         "fy-2":551482,
         "fy-1":600750,
@@ -61,7 +61,7 @@
         "publish_subordinates":true
       },
       {
-        "name":Null,
+        "name":"Capital Budgeting",
         "line_type":"data",
         "fy-2":473233,
         "fy-1":501718,
@@ -70,7 +70,7 @@
         "publish_subordinates":true
       },
       {
-        "name":Null,
+        "name":"Risk Management",
         "line_type":"data",
         "fy-2":176751,
         "fy-1":176513,

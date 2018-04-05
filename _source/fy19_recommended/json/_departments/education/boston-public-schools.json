@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Education~boston-public-schools.json",
-  "source_time":"20180327182437",
+  "source_time":"20180404163438",
   "source_year":"19",
   "name":"Boston Public Schools",
   "parent":"Education",
@@ -34,7 +34,7 @@
     },
     "data":[
       {
-        "name":null,
+        "name":"General School Purposes",
         "line_type":"data",
         "fy-2":1016278852,
         "fy-1":1031628517,
@@ -1016,7 +1016,7 @@
   "fy_major_initiatives":[
     "\tThe new $73 million Dearborn STEM 6-12 Academy will open to students in September 2019. The City and District have partnered with the MSBA in the development and funding of this new school.",
     "\tThe City will begin final design and site work on the new $124 million Boston Arts Academy building, funded in partnership with the MSBA.",
-    "Kitchen upgrades at 25 schools located in East Boston, Mattapan, and Roxbury will occur this summer to enable implementation of the &ldquo;My Way Cafe&rdquo;, an innovative fresh food program that will launch in early fall 2018 in partnership with the Shah Family Foundation",
+    "Kitchen upgrades at 25 schools located in East Boston, Mattapan, and Roxbury will occur this summer to enable implementation of the &ldquo;My Way Caf&eacute;&rdquo;, an innovative fresh food program that will launch in early fall 2018 in partnership with the Shah Family Foundation",
     "Through the BuildBPS 21st Century Fund, every school will choose from among new technology and comfortable, moveable furniture options that promote learner-centric programs, and provide greater flexibility in current and future learning spaces.",
     "Funding has been set aside for future projects coming out of the BuildBPS engagement process and accelerated repair partnerships with the Massachusetts School Building Authority (MSBA).",
     "BPS will continue upgrading school building security with expanded card access systems, re-keying doors, installing cameras at entrances and other critical areas, installing motion detectors, and other related improvements."

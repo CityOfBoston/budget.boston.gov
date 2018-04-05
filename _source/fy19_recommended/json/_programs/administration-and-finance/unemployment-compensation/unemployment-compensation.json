@@ -4,8 +4,8 @@
   "cabinet":"Administration & Finance",
   "department":"Unemployment Compensation",
   "file_version":"",
-  "head_name":Null,
-  "head_title":Null,
+  "head_name":null,
+  "head_title":null,
   "name":"Unemployment Compensation",
   "parent":"Unemployment Compensation",
   "section_id":40,
@@ -14,11 +14,11 @@
   "section_type_short":"P",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~.json",
-  "source_time":"20180327182408",
+  "source_time":"20180404163411",
   "source_year":"19",
   "appropriation_code":"Organization 199100",
   "description":[
-    Null
+    null
   ],
   "selected_service_indicators":[
     {

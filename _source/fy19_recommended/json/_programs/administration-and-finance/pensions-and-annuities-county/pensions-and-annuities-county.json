@@ -4,8 +4,8 @@
   "cabinet":"Administration & Finance",
   "department":"Pensions & Annuities - County",
   "file_version":"",
-  "head_name":Null,
-  "head_title":Null,
+  "head_name":null,
+  "head_title":null,
   "name":"Pensions & Annuities - County",
   "parent":"Pensions & Annuities - County",
   "section_id":169,
@@ -14,11 +14,11 @@
   "section_type_short":"P",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~.json",
-  "source_time":"20180327182400",
+  "source_time":"20180404163405",
   "source_year":"19",
   "appropriation_code":"Organization 749100",
   "description":[
-    Null
+    null
   ],
   "selected_service_indicators":[
     {

@@ -9,14 +9,14 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Administration and Finance~health-insurance.json",
-  "source_time":"20180327182353",
+  "source_time":"20180404163358",
   "source_year":"19",
   "name":"Health Insurance",
   "parent":"Administration & Finance",
   "cabinet":"Administration & Finance",
   "department":"Health Insurance",
-  "head_name":Null,
-  "head_title":Null,
+  "head_name":null,
+  "head_title":null,
   "appropriation_code":"Appropriation 148",
   "mission":[
     "The Health Insurance appropriation provides funding for a variety of health insurance, dental care, vision care, and life insurance plans to approximately 30,000 active employee and retiree subscribers within the guidelines of MGL Chapter 32B."

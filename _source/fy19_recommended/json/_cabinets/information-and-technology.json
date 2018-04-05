@@ -4,8 +4,8 @@
   "cabinet":"Information & Technology",
   "department":null,
   "file_version":"",
-  "head_name":"Jascha Franklin-Hodge",
-  "head_title":"Chief Information Officer",
+  "head_name":"Patricia Boyle-McKenna",
+  "head_title":"Interim Chief Information Officer",
   "name":"Information & Technology",
   "parent":"root",
   "section_id":17,
@@ -14,14 +14,14 @@
   "section_type_short":"C",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~information-and-technology.json",
-  "source_time":"20180327183716",
+  "source_time":"20180404163523",
   "source_year":"19",
   "mission":[
     "The mission of the Information and Technology Cabinet is to provide systems and technologies that develop and support department personnel with information relative to their operations, support strategic planning, promote effective resource management, enhance customer service and promote internal and external electronic and voice communications."
   ],
   "overview":[
     "The Department of Innovation and Technology (DoIT) will see a 3.4% increase over its FY18 appropriation. The FY19 budget invests in technologies that will allow DoIT to work more efficiently. As part of the City&rsquo;s efforts to implement smart savings initiatives, DoIT will reduce contractor costs without reducing service.",
-    "Building on the success of the program in FY18, in FY19, DoIT will triple the Digital Equity Grant Program. This grant explores ways to address digital equity gaps in the City of Boston. Roughly 15% of Bostonians lack internet access at home. This limits access to educational, employment, and civic engagement opportunities. By providing seed funding for programs that help get more people online, the City hopes to identify promising strategies that can attract outside funding and help create a City where everyone has the tools and skills they need to succeed in the 21st century."
+    "Building on the success of the program in FY18, in FY19, DoIT will triple the Digital Equity Grant Program. This grant explores ways to address digital equity gaps. Roughly 15% of Bostonians lack internet access at home. This limits access to educational, employment, and civic engagement opportunities. By providing seed funding for programs that help get more people online, the City hopes to identify promising strategies that can attract outside funding and help create a City where everyone has the tools and skills they need to succeed in the 21st century."
   ],
   "operating_department":{
     "table_type":"operating_department",

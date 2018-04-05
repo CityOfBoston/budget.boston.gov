@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Streets~transportation-department.json",
-  "source_time":"20180327183814",
+  "source_time":"20180404163613",
   "source_year":"19",
   "name":"Transportation Department",
   "parent":"Streets",
@@ -34,7 +34,7 @@
     },
     "data":[
       {
-        "name":Null,
+        "name":"Parking Clerk",
         "line_type":"data",
         "fy-2":7916535,
         "fy-1":8323289,
@@ -61,7 +61,7 @@
         "publish_subordinates":true
       },
       {
-        "name":Null,
+        "name":"Policy & Planning",
         "line_type":"data",
         "fy-2":842895,
         "fy-1":869865,

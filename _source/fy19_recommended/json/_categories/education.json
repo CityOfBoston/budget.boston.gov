@@ -6,19 +6,26 @@
   "section_type_short":"L",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_categories~education.json",
-  "source_time":"20180327183822",
+  "source_time":"20180404163618",
   "source_year":"19",
   "description":[
     "Initiatives to strengthen education, job training, and career connections."
   ],
   "vol1_category_copy":[
-    "Mayor Walsh announced a $1 billion investment to modernize Boston's public school infrastructure, and the BuildBPS plan will guide that process. Through a dedication of City capital funds and a strong working relationship with the Massachusetts School Building Authority (MSBA), the plan will more than double the capital spending on BPS facilities over the next decade. In total, Boston will invest $312 million in City Capital funds in BPS capital projects over the next five years, with an additional $418 million committed for the following five years. Mayor Walsh&rsquo;s FY18-22 Capital Plan implements early action BuildBPS initiatives and reserves funding for projects identified by the BuildBPS engagement process.",
-    "The $13 million BuildBPS 21st Century Schools Fund will provide schools with 21st century tools, including new technology and comfortable, movable furniture. This initiative will promote learner-centric programs, benefit professional development, and provide greater flexibility in both current and future learning spaces. Relative to larger-scale building renovations and repairs, these upgrades can be done at lower cost and on an accelerated timeline. BPS will create a menu of 21st century packages that schools will be able to select from, depending on their needs. BPS will work with school leaders to complete these upgrades in the 2017-18 school year.",
-    "Boston has also successfully ramped up its efforts to leverage MSBA Accelerated Repair Program (ARP) dollars to provide much needed improvements to its schools. This summer, Boston will invest $13.6 million to unlock a $16.3 million grant from the MSBA to provide seven BPS schools with new windows. In addition, the MSBA has approved a $6.4 million grant, with Boston providing $3.4 million in matching funds, to replace roofs and boilers at five BPS schools. The Mayor&rsquo;s Capital Plan sets aside an additional $24 million over five years to position Boston to further leverage MSBA ARP dollars in the future. ",
+    "Mayor Walsh announced a $1 billion investment to modernize Boston's public school infrastructure, and the BuildBPS plan will guide that process. Through a dedication of City capital funds and a strong working relationship with the Massachusetts School Building Authority (MSBA), the plan will more than double the capital spending on BPS facilities over the next decade. The FY19-23 capital plan will invest $415 million in City Capital funds in BPS projects, as part of an overall commitment to provide $730 million over the ten year life of BuildBPS. Mayor Walsh&rsquo;s FY19-23 Capital Plan implements early action BuildBPS initiatives and reserves funding for projects identified by the BuildBPS engagement process.",
+    "The $13 million BuildBPS 21st Century Schools Fund will provide schools with 21st century tools, including new technology and comfortable, movable furniture. This initiative promotes learner-centric programs, benefits professional development, and provides greater flexibility in both current and future learning spaces. BPS created a menu of 21st century packages that schools selected from, based on their specific needs. BPS will work with school leaders to complete these upgrades by the time school opens in September.",
+    "Boston has also successfully ramped up its efforts to leverage MSBA Accelerated Repair Program (ARP) dollars to provide much needed improvements to its schools. This summer, construction will be underway at five schools to replace four boilers and install one new roof. An additional school will have new windows installed during summer 2019. Altogether, these projects represent an investment totaling $13.8 million with $9.0 million supported by a grant from the MSBA. The Mayor&rsquo;s Capital Plan sets aside an additional $26.7 million over five years to position Boston to further leverage MSBA ARP dollars in the future.",
     "This Capital Plan allows Boston to invest in BPS projects already in the pipeline:",
-    "Slated to be completed in winter of 2017/2018, the $73 million Dearborn STEM Academy will open for students in September 2018. The project, which leverages a projected $37 million match from the MSBA, is designed based upon a project-based learning curriculum, with an emphasis on STEM education. ",
-    "Over the next two years, the Eliot School construction projects will be completed. The new $23 million North Bennet Street building will welcome 5th to 8th graders this fall into a 21st century learning environment, while this summer, the final phase of construction will begin at the Commercial Street building. ",
-    "The Capital Plan provides for Boston&rsquo;s matching investment in the Josiah Quincy Upper School (JQUS) and Boston Arts Academy (BAA), which are collaborative projects with the Massachusetts School Building Authority (MSBA). "
+    {
+      "bullets":[
+        "The $73 million Dearborn STEM Academy will open for students in September 2018. The project, which leverages a projected $37 million match from the MSBA, is designed based upon a project-based learning curriculum, with an emphasis on STEM education.",
+        "Over the next year, the $18.5 million renovation of the Eliot School at 585 Commercial Street will be completed.",
+        "BPS is partnering with the Shah Family Foundation to provide 25 new schools with full-service kitchens. This is the first phase in a multi-year kitchen renovation program. The investment will close food security gaps that prevent many children from learning to their full potential.",
+        "Construction will begin this fall on the new$124.8 million Boston Arts Academy project. The MSBA has committed a maximum project grant totaling $48.9 million. ",
+        "The capital plan provides for Boston&rsquo;s matching investment in the Josiah Quincy Upper School (JQUS) and the Carter School. Programming and planning on both projects continues in FY19. ",
+        "BPS will increase its investment in school security to a total of $5 million. The project includes upgrades to external and internal doors, locks and key cards, and cameras."
+      ]
+    }
   ],
   "projects":[
     {

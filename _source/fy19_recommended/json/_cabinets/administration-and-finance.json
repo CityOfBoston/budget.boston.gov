@@ -4,7 +4,7 @@
   "cabinet":"Administration & Finance",
   "department":null,
   "file_version":"",
-  "head_name":"David Sweeney",
+  "head_name":"Emme Handy",
   "head_title":"Chief Financial Officer & Collector-Treasurer",
   "name":"Administration & Finance",
   "parent":"root",
@@ -14,14 +14,14 @@
   "section_type_short":"C",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~administration-and-finance.json",
-  "source_time":"20180327182343",
+  "source_time":"20180404163350",
   "source_year":"19",
   "mission":[
     "The Administration and Finance Cabinet ensures that city services are delivered with high quality, with high ethical standards, are financially prudent, are responsive to the needs of the citizens of Boston, and consistent with the laws and ordinances governing municipal government."
   ],
   "overview":[
-    "The Administration & Finance (A&F) Cabinet contains the majority of the central departments responsible for the City&rsquo;s administration functions. Boston has been recognized for its strong financial policies and practices and sound management of both its human and financial capital. The cabinet will see a 2.2% increase in FY19, the cabinet increase can be primarily attributed to the growth in the health insurance appropriation.",
-    "The A&F cabinet has budgeted resources in FY19 to continue the successful program of independent operational audits, and to pursue revenue maximization.",
+    "The Administration & Finance (A&F) Cabinet contains the majority of the central departments responsible for the City&rsquo;s administrative functions. Boston has been recognized for its strong financial policies and practices and sound management of both its human and financial capital. The cabinet will see a 2.2% increase in FY19, primarily due to the growth in the health insurance appropriation.",
+    "The A&F cabinet has budgeted resources in FY19 to continue independent operational audits and to pursue revenue maximization.",
     "In FY19, the A&F cabinet will continue a citywide review of collections to better optimize the City&rsquo;s non-tax revenues. The City will also continue to work to maximize federal health insurance reimbursements and revenue recovery efforts."
   ],
   "operating_department":{

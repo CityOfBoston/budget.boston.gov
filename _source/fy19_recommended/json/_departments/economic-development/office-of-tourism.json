@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Economic Development~office-of-tourism.json",
-  "source_time":"20180327182431",
+  "source_time":"20180404163432",
   "source_year":"19",
   "name":"Office of Tourism",
   "parent":"Economic Development",
@@ -43,7 +43,7 @@
         "publish_subordinates":true
       },
       {
-        "name":Null,
+        "name":"Film & Special Events",
         "line_type":"data",
         "fy-2":557227,
         "fy-1":602521,
@@ -52,7 +52,7 @@
         "publish_subordinates":true
       },
       {
-        "name":Null,
+        "name":"Tourism",
         "line_type":"data",
         "fy-2":132419,
         "fy-1":272839,

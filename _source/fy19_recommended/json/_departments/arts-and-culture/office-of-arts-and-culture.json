@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Arts and Culture~office-of-arts-and-culture.json",
-  "source_time":"20180327182412",
+  "source_time":"20180404163414",
   "source_year":"19",
   "name":"Office of Arts & Culture",
   "parent":"Arts & Culture",
@@ -34,7 +34,7 @@
     },
     "data":[
       {
-        "name":Null,
+        "name":"Arts & Culture",
         "line_type":"data",
         "fy-2":1274583,
         "fy-1":1246828,
@@ -304,7 +304,7 @@
     {
       "project":"Boston Public Art Fund",
       "project_mission":[
-        "The purpose of this fund is to purchase goods and services to support public art throughout the City of Boston. Funding is received by receipts from easements granted by the Public Improvement Commission per G.L.c44, &sect;53E 1/2."
+        "The purpose of this fund is to purchase goods and services to support public art throughout the City of Boston. Funding is received by receipts from easements granted by the Public Improvement Commission per G.L.c44, &sect;53E &frac12;."
       ]
     },
     {
@@ -328,7 +328,7 @@
     {
       "project":"Strand Theatre Revolving Fund",
       "project_mission":[
-        "The purpose of the fund authorized by (Chapter 44, Section 53E 1/2) is to pay for expenses related to the operations of the Strand Theatre. This revolving fund is funded from rental fees that are paid when the theater is rented."
+        "The purpose of the fund authorized by (Chapter 44, Section 53E &frac12;) is to pay for expenses related to the operations of the Strand Theatre. This revolving fund is funded from rental fees that are paid when the theater is rented."
       ]
     }
   ],

@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Mayor's Office~law-department.json",
-  "source_time":"20180327183730",
+  "source_time":"20180404163534",
   "source_year":"19",
   "name":"Law Department",
   "parent":"Mayor's Office",
@@ -230,7 +230,7 @@
     {
       "project":"Third Party Property Damages",
       "project_mission":[
-        "A revolving fund authorized by (Chapter 44, Section 53E 1/2) for purchasing goods and services to pay for repairs to city property from receipts from recoveries for damages to city property caused by third parties."
+        "A revolving fund authorized by (Chapter 44, Section 53E &frac12;) for purchasing goods and services to pay for repairs to city property from receipts from recoveries for damages to city property caused by third parties."
       ]
     }
   ]

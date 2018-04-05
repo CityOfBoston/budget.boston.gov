@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Public Safety~fire-department.json",
-  "source_time":"20180327183754",
+  "source_time":"20180404163556",
   "source_year":"19",
   "name":"Fire Department",
   "parent":"Public Safety",
@@ -413,13 +413,13 @@
     {
       "project":"Hazmat Recovery Fund",
       "project_mission":[
-        "Authorized by Ch.21E of Mass. General Laws, the Hazmat Recovery Fund provides the department with the authority to invoice private vehicles and companies for responses the department makes to hazmat spills and incidents. Funds are received on a per incident basis. The funds received can only be used to re-supply the hazmat team for supplies, materials, and instruments and other equipment. This revolving fund is authorized by (Chapter 44, Section 53E 1/2)."
+        "Authorized by Ch.21E of Mass. General Laws, the Hazmat Recovery Fund provides the department with the authority to invoice private vehicles and companies for responses the department makes to hazmat spills and incidents. Funds are received on a per incident basis. The funds received can only be used to re-supply the hazmat team for supplies, materials, and instruments and other equipment. This revolving fund is authorized by (Chapter 44, Section 53E &frac12;)."
       ]
     },
     {
       "project":"Hazmat Team Response",
       "project_mission":[
-        "A revolving fund authorized by (Chapter 44, Section 53E 1/2) for personnel costs associated with the Massachusetts Oil and Hazardous Materials Release Prevention and Response Act. The Fire Department shall be authorized to expend from such fund for the purpose of paying employee salary and related costs."
+        "A revolving fund authorized by (Chapter 44, Section 53E &frac12;) for personnel costs associated with the Massachusetts Oil and Hazardous Materials Release Prevention and Response Act. The Fire Department shall be authorized to expend from such fund for the purpose of paying employee salary and related costs."
       ]
     },
     {
@@ -449,7 +449,7 @@
     {
       "project":"Training Academy Revolving Fund",
       "project_mission":[
-        "A revolving fund authorized by (Chapter 44, Section 53E 1/2) for the purposes of purchasing training equipment, certifying instructors, updating facilities and providing funds for other training needs not otherwise budgeted for. This fund shall be funded by receipts for tuition and other fees paid by outside departments for use of BFD facilities and resources."
+        "A revolving fund authorized by (Chapter 44, Section 53E &frac12;) for the purposes of purchasing training equipment, certifying instructors, updating facilities and providing funds for other training needs not otherwise budgeted for. This fund shall be funded by receipts for tuition and other fees paid by outside departments for use of BFD facilities and resources."
       ]
     }
   ],

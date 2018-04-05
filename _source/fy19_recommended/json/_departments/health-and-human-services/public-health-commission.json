@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Health and Human Services~public-health-commission.json",
-  "source_time":"20180327182519",
+  "source_time":"20180404163511",
   "source_year":"19",
   "name":"Public Health Commission",
   "parent":"Health & Human Services",
@@ -199,10 +199,1086 @@
             {
               "project_grant_name":"HIV Emergency Relief Subcontracts",
               "line_type":"data"
+            },
+            {
+              "project_grant_name":"RWCA Administration",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"RWCA Quality Management",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"RWCA Support Services",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
             }
           ]
         }
       ]
+    },
+    {
+      "program":"Asthma Prevention and Healthy Homes",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Asthma Initiatives",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"BHAPPY",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Electronic Asthma Referral Systems",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Partners in Health and Housing",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Biological Safety",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Bio-Safety",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Boston Healthy Start Initiatives",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"BHSI - Administration",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"CAHD Health Services",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Family Planning Services",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Model State Supported AHEC",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"School Based Health",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"School Health Programs-Income",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"CDC - Public Health Preparedness",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Public Health Preparedness (EPI)",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Communicable Diseases Control",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"CDC Suffolk County Jail",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"I-3 Immunization",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Communications",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"PHEP Public Information",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Community Initiatives Bureau",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Community Initiatives Income",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Prevention and Wellness Trust",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Community Prevention Services",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"MOAPC",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Consortium for Professional Development",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"CHEC Income",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Death Registry/Burial Permits",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Death Registry/ Burial Permits",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Early Childhood Mental Health",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Mental Health Systems of Care",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Project Launch Expansion",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Emergency Medical Services",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"911 PSAP Support and Initiatives",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Boston EMS Details",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Bragdon Street Lease",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"CMED Grant",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"EMS Community Program",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"State 911 Training Grant",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Environmental Hazards",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Asbestos Removal Permits",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"BPHC Permits",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"DPH (Statutory) Permits",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Medical Marijuana",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Safe Shops Nail Salons",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Health Promotion",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Mass in Motion",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"PICH",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Healthy Baby/Healthy Child",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Boston Healthy Start",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Collaborative Home Visits",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Healthy Baby/Child-Income",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Rate Based Welcome Family",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Welcome Family",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"HIV Dental",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Dental Ombudsman",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Dental Ombudsperson",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"RWTMA Training",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Homeless Services Bureau",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"BSAS (SAMHSA)",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"CPS-CSPECH",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"DHCD 112 Southampton",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"DHCD Permanent Housing",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"DHCD Serving Ourselves",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"DHCD Woods Mullen Shelter",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Emergency Solutions Grant",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"ESG 112 Southampton Shelter",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"External Food Contracts",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Friends Fund",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"General Funds-Homeless Service",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Home Program Client Fees",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"HOPWA",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Housing and Stabilization",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Long Term Stayers Home",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Long Term Stayers Housing",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Mental Health for Homeless",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"New Rapid Re-housing Program",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Pay for Success - Income",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Pay for Success - MBHP",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Pay For Success_3rd Party",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Priority 1 Supportive Services for Vetarans Family Program",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Project SOAR",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Rapid Rehousing",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Re-Entry Revenue",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"RWCA - Case Management",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"RWPS-Psychologial Support",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Serving Ourselves",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Shelter Plus Care - MBHP",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Wyman Reentry Center (BSAS)",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Injury Prevention",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Childhood Injury Prevention",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Lead Poisoning Prevention",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":null,
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Lead Poisoning Prevention",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Childhood Lead Poisoning Prevention",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Lead Training Income",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Mayor's Health Line",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Connecting Consumers with Care",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"MHL- Health Resource Directory",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Oral Health",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Residency Training Agreement",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Public Health Preparedness",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"HMCC - ASPR",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"HMCC - MRC Reserve",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"OPHP Income",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Public Health Preparedness",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Statewide Training",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"UASI - CBRNE",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"UASI - ESF 8",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"UASI - MedSurge Training",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"UASI All Hazards Pyschological Trauma",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"UASI Comm Resilience",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"UASI Mutual Aid",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"UASI Patient TrackingUASI SS ResilienceUASI SS Resilence",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"UASI SS ResilienceUASI SS ResilienceUASI SS Resilence",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Racial Equity and Health Improvement",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"GHC Fellows Internship",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Residential Services",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Entre Familia Residential",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Minority Women HIV/A Treatment",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Re-Entry Revenue Wyman",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"The PAATHS Project",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Transitions",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Women and Families Division",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Resources and Referral Center",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Behavioral Health Services",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"DON PAATHS Navigator",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Risk Reduction and Overdose Prevention",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Enhanced Needle Exchange",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Specialized Outpatient Counseling Services",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Drug Free Counseling-Income",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Men's Substance Abuse Income",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"MOM's Project- Income",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"South Boston Collaborative Inc",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Substance Abuse Prevention Collaboration",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Tobacco Control",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Boston Tobacco Control - DPH",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Boston Tobacco Control - Fines",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Boston Tobacco Control - Ordinance Permits",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Tuberculosis Clinic",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"TB Clinic Fee Portion",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"TB Clinic-3rd Party Reimbursement",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"VIP/Trauma Prevention",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Byrne CJI Program",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Choice Neighborhood Initiative",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Dating Violence Intervention",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Defending Childhood Initiatives",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Determination of Need",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"EC Trauma Informed Learning",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Safe and Successful Youth Initiatives",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Teen Dating Violence",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "line_type":"total",
+      "FY19":0
     }
   ],
   "external_funds":[
@@ -624,12 +1700,6 @@
         "Income generated from fees for training programs offered through the DelValle Institute for Emergency Preparedness."
       ]
     },
-    {
-      "project":"Public Health Preparedness",
-      "project_mission":[
-        "Funding from the Centers for Disease Control and Prevention (CDC) passed through the Massachusetts Department of Public Health (MDPH) to support public health activities that fall under the 15 Public Health Preparedness (PHP) capabilities outlined in the CDC document &ldquo;Public Health Preparedness Capabilities: National Standards for State and Local Planning.&rdquo;."
-      ]
-    },
     "Lead Poisoning Prevention",
     {
       "project":"Lead Training Income",
@@ -638,6 +1708,12 @@
       ]
     },
     "Public Health Preparedness",
+    {
+      "project":"Public Health Preparedness",
+      "project_mission":[
+        "Funding from the Centers for Disease Control and Prevention (CDC) passed through the Massachusetts Department of Public Health (MDPH) to support public health activities that fall under the 15 Public Health Preparedness (PHP) capabilities outlined in the CDC document &ldquo;Public Health Preparedness Capabilities: National Standards for State and Local Planning.&rdquo;."
+      ]
+    },
     {
       "project":"Statewide Training",
       "project_mission":[
