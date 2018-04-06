@@ -35,5 +35,5 @@ components:
   - grid_title: More budget analysis
   - card: /featured-analysis/early-childhood-education/
   - card: /featured-analysis/bps-great-equalizer/
-  - card: /featured-analysis/health-and-social-emotional/
+  - card: /featured-analysis/health-social-emotional-wellness/
 ---
