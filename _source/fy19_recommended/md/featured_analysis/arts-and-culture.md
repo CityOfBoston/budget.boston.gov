@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Arts and Culture
-  - published: 4/13/17
+  - published: 4/11/18
 - intro:
   - title: Arts and Culture
     short_desc: >
@@ -60,6 +60,6 @@ components:
 - grid:
   - grid_title: More budget analysis
   - card: /featured-analysis/housing-boston-2030/
-  - card: /featured-analysis/Streets/
+  - card: /featured-analysis/transformational-investments-in-streets-and-transportation/
   - card: /featured-analysis/city-services/
 ---
