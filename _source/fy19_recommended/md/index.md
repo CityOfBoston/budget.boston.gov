@@ -41,6 +41,8 @@ components:
       </ul>
       <p>In their credit rating affirming Boston’s AAA rating with a stable outlook, Moody’s wrote: <blockquote>"The AAA rating reflects the city's strong fiscal management and stable financial position."</blockquote></p>
       <p>Disciplined financial practices have better positioned Boston to manage through changes in local, state, and federal policy and funding levels.</p>
+      <h5>State and Federal Dynamics</h5>
+      <p>Justin enter text here</p>
       </ul>
 - spanning_image:
   - title: Dive Into the Budget
@@ -108,6 +110,7 @@ components:
       Mayor Walsh’s $2.43 billion FY19-FY23 Capital Plan moves Boston residents’ priorities from idea to action, and invests in creating the city Bostonians imagine for the future. Under the Imagine Boston 2030 umbrella, the City is investing deeply in the core goals of BuildBPS, Go Boston 2030, Boston Creates, and Climate Ready Boston.Over 14,000 Boston voices shaped the Mayor’s vision for Boston in 2030. They envisioned a city that will expand opportunity for all, support a dynamic economy, enhance quality of life, and prepare for climate change.
       <h5>From idea to action</h5>
       <p>Over 14,000 Boston voices shaped the Mayor’s vision for Boston in 2030. They envisioned a city that will expand opportunity for all, support a dynamic economy, enhance quality of life, and prepare for climate change. Imagine Boston 2030 identifies key areas where Boston can take action to:</p>
+          right_image: /img/Expenditures by category.png
       <ul>
       <li>Enhance neighborhoods’ vitality;</li>
       <li>Encourage mixed-use job centers;</li>

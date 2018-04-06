@@ -1,13 +1,13 @@
 ---
 layout: bos_content
 permalink: /featured-analysis/bps-great-equalizer/
-title: BPS Operating Budget
+title: Schools as the Great Equalizer
 card:
-  - title: BPS Operating Budget
+  - title: Schools as the Great Equalizer
     body: >
       Learn about the targeted research-backed investments BPS will make in FY18.
     img: /img/fa-education-overview.jpg
-    link: /featured-analysis/bps-operating-budget/
+    link: /featured-analysis/bps-great-equalizer/
 components:
 - breadcrumbs:
   - title: Home
@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: BPS Operating Budget
-  - published: 4/13/17
+  - published: 4/11/18
 - intro:
   - title: BPS operating budget
     short_desc: >
@@ -54,6 +54,6 @@ components:
 - grid:
   - grid_title: More budget analysis
   - card: /featured-analysis/early-childhood-education/
-  - card: /featured-analysis/special-education/
-  - card: /featured-analysis/supporting-students-most-in-need/
+  - card: /featured-analysis/buildbps/
+  - card: /featured-analysis/health-social-emotional-wellness/
 ---

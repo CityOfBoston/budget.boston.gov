@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Preparing for Climate Change
-  - published: 4/13/17
+  - published: 4/11/18
 - intro:
   - title: Preparing for climate change
     short_desc: >
@@ -42,7 +42,7 @@ components:
       Renew Boston Trust launched during the Walsh Administration has systematically identified energy projects in the City’s 315 buildings to both lower energy bills and reduce emissions. The City finances the program through general obligation bonds and utilities efficiency incentives, and it will be paid for from reduced energy consumption at City departments. A $12 million Phase 1 is set to begin construction this year, and the FY19-23 capital plan will nearly triple the size of the program to $35 million in Phase 2.
 - grid: 
   - grid_title: More budget analysis
-  - card: /featured-analysis/open-space-accessible-equitable-parks/
+  - card: /featured-analysis/transformational-investments-in-streets-and-transportation/
   - card: /featured-analysis/open-space-imagine-boston-2030-goals/
   - card: /featured-analysis/city-services/
 ---

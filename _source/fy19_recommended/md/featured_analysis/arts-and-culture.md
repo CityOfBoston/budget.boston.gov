@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Arts and Culture
-  - published: 4/13/17
+  - published: 4/11/18
 - intro:
   - title: Arts and Culture
     short_desc: >
@@ -36,7 +36,7 @@ components:
 - text_col_2:
   - col: >
       <h5>The Percent for Art Program</h5>
-      <p>The City budgeted $1.7 million in public art projects in FY18. In FY19, the City will budget $17 million in new capital dollars along with a new dedicated project manager to ensure the seamless rollout of public art projects into the future. This innovative model funds public art projects as a part of the City’s expanding capital plan.</p>
+      <p>The City budgeted $1.7 million in public art projects in FY18. In FY19, the City will budget $1.7 million in new capital dollars along with a new dedicated project manager to ensure the seamless rollout of public art projects into the future. This innovative model funds public art projects as a part of the City’s expanding capital plan.</p>
   - col: >
       <h5>Artist Fellowship Programs</h5> 
       <p>In FY19 the City will launch the second round of an artist fellowship program in response to feedback in the Boston Creates process that we identify new funding streams for Boston artists. The fellowship supports elevating Boston creatives and five artists were awarded in FY18.</p>
@@ -60,6 +60,6 @@ components:
 - grid:
   - grid_title: More budget analysis
   - card: /featured-analysis/housing-boston-2030/
-  - card: /featured-analysis/Streets/
+  - card: /featured-analysis/transformational-investments-in-streets-and-transportation/
   - card: /featured-analysis/city-services/
 ---

@@ -1,13 +1,13 @@
 ---
 layout: bos_content
 permalink: /featured-analysis/health-social-emotional-wellness/
-title: Special Education
+title: Health and Social Emotional Wellness
 card:
   - title: Health and Social Emotional Wellness
     body: >
       Mayor Walsh is making a comprehensive investment in nurses, psychologists, and social workers.
     img: /img/fa-education-legislation.jpg
-    link: /featured-analysis/health-and-social-emotional/
+    link: /featured-analysis/health-social-emotional-wellness/
 components:
 - breadcrumbs:
   - title: Home
@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Health and Social Emotional Wellness
-  - published: 4/13/17
+  - published: 4/11/18
 - intro:
   - title: Health and Social Emotional Wellness
     short_desc: >
@@ -36,7 +36,7 @@ components:
       <p>To support these additional front-line staff, BPS will also add a Director of Social Work Services, who will coordinate professional development, technical assistance, and formal supervision for school-based social workers, along with developing partnerships with mental health organizations and higher education institutions.</p>
 - grid: 
   - grid_title: More budget analysis
-  - card: /featured-analysis/closing-opportunity-achievement-gaps/
-  - card: /featured-analysis/weighted-student-funding/
-  - card: /featured-analysis/supporting-students-most-in-need/
+  - card: /featured-analysis/early-childhood-education/
+  - card: /featured-analysis/buildbps/
+  - card: /featured-analysis/bps-scaling-successful-programs/
 ---

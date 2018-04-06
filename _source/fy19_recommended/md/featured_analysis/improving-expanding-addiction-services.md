@@ -3,11 +3,11 @@ layout: bos_content
 permalink: /featured-analysis/improving-expanding-addiction-services/
 title: Improving and Expanding Addiction Services
 card:
-  - title: Access to Addiction Services
+  - title: Improving and Expanding Addiction Services
     body: >
       Boston is expanding prevention and recovery services for young people.
     img: /img/fa-health-safety-addiction-services.jpg
-    link: /featured-analysis/health-safety-addiction-services
+    link: /featured-analysis/improving-expanding-addiction-services
 components:
 - breadcrumbs:
   - title: Home
@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Improving and Expanding Addiction Services
-  - published: 4/13/17
+  - published: 4/11/18
 - intro:
   - title: Improving and expanding addiction services
     short_desc: >
@@ -53,7 +53,7 @@ components:
     right_image: /img/paaths-investments.png
 - grid: 
   - grid_title: More budget analysis
-  - card: /featured-analysis/health-safety-proactive-agile-ems-through-data/
-  - card: /featured-analysis/health-safety-firefighter-health-safety/
-  - card: /featured-analysis/city-services/
+  - card: /featured-analysis/energy-environment-preparing-for-climate-change/
+  - card: /featured-analysis/open-space-imagine-boston-2030-goals/
+  - card: /featured-analysis/housing-boston-2030/
 ---

@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Ensuring Accessible and Equitable Parks
-  - published: 4/13/17
+  - published: 4/11/18
 - intro:
   - title: Ensuring Accessible and Equitable Parks
     short_desc: >
@@ -108,6 +108,6 @@ components:
 - grid: 
   - grid_title: More budget analysis
   - card: /featured-analysis/open-space-imagine-boston-2030-goals/
-  - card: /featured-analysis/streets-launching-go-boston-2030/
-  - card: /featured-analysis/streets-keeping-streets-clean-safe/
+  - card: /featured-analysis/transformational-investments-in-streets-and-transportation/
+  - card: /featured-analysis/arts-and-culture
 ---

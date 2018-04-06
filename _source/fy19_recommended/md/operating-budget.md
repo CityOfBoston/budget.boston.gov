@@ -339,7 +339,7 @@ components:
         value: 1,108.74
         align: right
     - "Expenditure":
-        name: City Reserve for Collective Bargaining
+        name: Reserve for Collective Bargaining
         link: /operating-budget/reserves-for-collective-bargaining
       "FY16 Actual":
         value: 0.02

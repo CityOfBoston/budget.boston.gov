@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Housing a Changing City - Boston 2030
-  - published: 4/13/17
+  - published: 4/11/18
 - intro:
   - title: Housing a changing City - Boston 2030
     short_desc: >
@@ -33,7 +33,7 @@ components:
       <p>More than 26,000 new housing units have already been completed or are currently in construction, and another 26,000 are under review. This represents 98 percent of the City’s 53,000-unit target for 2030.</p>
       <p>Next year, the Department of Neighborhood Development (DND) will double its down payment assistance program to $1 million, allowing dozens of middle class families to access zero-interest loans to cover down payments.  This $500,000 increase will promote homeownership among moderate and middle income homebuyers in Boston.</p>
       <p>DND will also leverage non-operating budget revenue sources, such as Inclusionary Development Program funds and Linkage funds administered through the Neighborhood Housing Trust. DND will use these revenue sources to continue the Acquisition Opportunity Program and Neighborhood Homes Initiative, which are creating more affordable rental and homeownership opportunities in Boston.</p>
-      right_image: /img/progress-toward-housing-2030-goals.png
+    right_image: /img/progress-toward-housing-2030-goals.png
 - text_block:
   - title: Preventing Displacement and Preserving Tenancy
     body: >
@@ -53,7 +53,7 @@ components:
       <p>Mayor Walsh also announced the creation of the Boston’s Way Home fund in 2018. This fund will raise $10 million in private donations over the course of four years to create 200 new units of supportive, sustainable, long-term housing for chronically homeless men and women. As of March 2018, the fund had already received over $3 million in contributions.</p>
 - grid: 
   - grid_title: More budget analysis
-  - card: /featured-analysis/housing-homeless-action-plan/
-  - card: /featured-analysis/housing-homeless-shelter-service-safety/
-  - card: /featured-analysis/health-safety-addiction-services/
+  - card: /featured-analysis/arts-and-culture/
+  - card: /featured-analysis/open-space-imagine-boston-2030-goals/
+  - card: /featured-analysis/prosperity-racial-equity-diversity-economic-mobility/
 ---

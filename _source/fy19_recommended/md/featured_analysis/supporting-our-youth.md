@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Supporting our Youth
-  - published: 4/13/17
+  - published: 4/11/18
 - intro:
   - title: Supporting our Youth
     short_desc: >
@@ -54,6 +54,6 @@ components:
 - grid: 
   - grid_title: More budget analysis
   - card: /featured-analysis/prosperity-racial-equity-diversity-economic-mobility/
-  - card: /featured-analysis/open-space-accessible-equitable-parks/
+  - card: /featured-analysis/health-social-emotional-wellness/
   - card: /featured-analysis/open-space-imagine-boston-2030-goals/
 ---
