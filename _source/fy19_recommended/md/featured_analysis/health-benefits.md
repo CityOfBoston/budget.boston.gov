@@ -222,8 +222,6 @@ components:
 - text_block:
   - body: >
       <p class="intro-text supporting-text">In FY15, the City and the PEC entered into their second agreement, which is projected to reduce projected costs by approximately $50 million over five years. This most recent agreement is unique because it includes not only a continued increase in member cost share, but also multiple other approaches to containing total costs for both the City and members, including:</p>
-- text_col_2:
-  - col: >
       <h5>Competitive bidding and refinement of the City’s health plan options</h5>
       <p>After the elimination of a costly indemnity plan in FY12 saving several million dollars 
       annually, non-Medicare health plan options were further reduced in FY16 to three 
@@ -238,7 +236,6 @@ components:
       self-insurance. Prior to FY13, the City self-insured 20% of these costs, which increased 
       to 92% in FY13, saving $12 million per year. In FY19, 99% of the City’s health care costs 
       will be self-insured, saving an additional $1 million.</p>
-  - col: >
       <h5>More cost effective prescription drug</h5>
       <p>Within the current agreement, the City and the PEC began analyzing options for more cost effective management of the City’s prescription benefits, which now total roughly $100 million per year for all plans. A lower cost Medicare prescription drug product will be included in the replacement plan for BCBS Master Medical, which is projected to save the City $1.4 million per year. The City and PEC will also continue to analyze options for carving out prescription drug management through a separate contract, as well as rebidding of the City’s six Medicare plans.</p>
       <h5>Expanded wellness program</h5>
