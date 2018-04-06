@@ -39,13 +39,11 @@ components:
 - text_block:
   - title: Ensuring every Bostonian is Counted
     body: >
-      <p>FY19 marks the beginning of planning for the 2020 U.S. Census and Boston is dedicated to ensuring every person who lives in Boston is counted.</p>
-      <p>New outreach staff will work to identify opportunities to raise awareness about the Census, with a particular focus on harder to reach populations: students, children, recent immigrants, households with poor internet access, and non-English speakers.</p>
+      <p>FY19 marks the beginning of planning for the 2020 U.S. Census and Boston is dedicated to ensuring every person who lives in Boston is counted. New outreach staff will work to identify opportunities to raise awareness about the Census, with a particular focus on harder to reach populations: students, children, recent immigrants, households with poor internet access, and non-English speakers.</p>
 - text_block:
   - title: Recruiting a Diverse Police Force
     body: >
-      <p>In November 2016, Mayor Walsh and Police Commissioner Evans swore in the first class of police cadets since 2009, a training program for Boston's youth seeking a career in law enforcement.</p>
-      <p>Building on the success of recruiting a diverse class of 42, which included 74% cadets of color and 36% female cadets, the City will add another class of 31 in the Spring of 2018. The FY19 budget funds an additional class of 20 cadets in the Spring of 2019.</p> 
+      <p>In November 2016, Mayor Walsh and Police Commissioner Evans swore in the first class of police cadets since 2009, a training program for Boston's youth seeking a career in law enforcement. Building on the success of recruiting a diverse class of 42, which included 74% cadets of color and 36% female cadets, the City will add another class of 31 in the Spring of 2018. The FY19 budget funds an additional class of 20 cadets in the Spring of 2019.</p> 
 - grid: 
   - grid_title: More budget analysis
   - card: /featured-analysis/prosperity-recruiting-diverse-police-force/
