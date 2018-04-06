@@ -63,13 +63,11 @@ components:
          <h5>EMS Community Assistance Teams</h5>
       <p>As part of our ongoing collaboration with Boston EMS, we assisted with the creation of a new Community Assistance Team to provide specialized care for residents dealing with issues such as substance abuse and homelessness.</p>
   - col: 
-    - blurb: >
         <p>Known as Squad 80, this team works in high-demand areas and can help connect patients with the long-term support and services they need.</p>
 - text_col_2:
   - col: 
-    - blurb: >
         <br>
-    - img: /img/pages/imagine-boston.PNG
+  left_image: /img/imagine-boston.PNG
   - col: >
       <h5>Imagine Boston 2030</h5>
       <p>We designed a set of dashboards to visualize progress in implementing the City’s Imagine Boston 2030 plan. These visualizations use data to help illustrate where we stand on the goals set by the Imagine Boston 2030 plan, and will be updated annually. Going forward, the tool will help the public to understand long-term trends affecting quality of life in Boston, such as housing costs, economic opportunity, and public health and safety.</p>
