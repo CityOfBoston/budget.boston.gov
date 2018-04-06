@@ -130,4 +130,15 @@ components:
           title: View the Capital Plan
           path: /capital-projects
           button: true
+- text_block:
+  - title: How the Budget Works
+    body: >
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/vKcWmRxe2e8?ecver=1" frameborder="0" allowfullscreen></iframe>
+- text_col_2:
+  - col:
+      - blurb: Learn more about
+      - link:
+          title: how the Budget works
+          path: /how-the-budget-works
+          button: false
 ---
