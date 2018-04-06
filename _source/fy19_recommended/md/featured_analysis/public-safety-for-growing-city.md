@@ -26,14 +26,14 @@ components:
 - text_block:
   - title: Robust, Effective and Accountable
     body: >
--text_col_3:
-- col: >
+- text_col_3:
+  - col: >
     <h5>Boston Police Force</h5> 
       <p>With a growing population and changing neighborhoods, Boston needs a police force sized to meet the demands. In FY19, the City will grow the size of the police force by 30 officers to over 2,210 officers. These additional officers will boost the City's policing capacity to the largest level in over a decade.</p> 
-- col: >
+  - col: >
     <h5>Diverse Police Cadet Class</h5>
       <p>Boston is a diverse city, and it needs a police force that respects and reflects all Bostonians. Building on the continued success of recruiting a diverse police cadet class in FY18, the FY19 budget adds another cadet class in spring 2019, the third cadet class. This addition of 20 cadets continues to provide a stable pipeline of diverse young people from our neighborhoods for future police officer classes.</p>
-- col: >
+  - col: >
     <h5>Police Worn Body Cameras</h5>
       <p>While specifics of its implementation are pending the results of findings of the Northeastern University analysis, to be completed in June, we have budgeted $2 million towards a phase-in of police worn body cameras.</p>
 - text_block:
