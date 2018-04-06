@@ -883,7 +883,7 @@ components:
   - col: 
     - link: 
         title: Outstanding principal by purpose
-        path: /img/pdfs/outstanding-principal-by-statute-4-30-17.pdf
+        path: /img/pdfs/outstanding-principal-by-purpose.pdf
         button: true
     - blurb: <br /><br />
 ---
