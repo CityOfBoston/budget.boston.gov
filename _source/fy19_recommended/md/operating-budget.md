@@ -28,20 +28,44 @@ components:
     right_text: (dollars in millions)
     columns:
       - "Category": Total revenues
-        "FY16 Actual": 2,883.01
-        "FY17 Actual": 2,996.81
-        "FY18 Budget": 3,157.62
-        "FY19 Budget": 3,294.58
+        "FY16 Actual":
+           value: 2,883.01
+           align: right
+        "FY17 Actual":
+           value: 2,996.81
+           align: right
+        "FY18 Budget":
+           value: 3,157.62
+           align: right
+        "FY19 Budget": 
+           value: 3,294.58
+           align: right
       - "Category": Total expenditures
-        "FY16 Actual": 2,881.09
-        "FY17 Actual": 2,990.13
-        "FY18 Budget": 3,157.62
-        "FY19 Budget": 3,294.58
+        "FY16 Actual":
+           value: 2,881.09
+           align: right
+        "FY17 Actual":
+           value: 2,990.13
+           align: right
+        "FY18 Budget":
+           value: 3,157.62
+           align: right
+        "FY19 Budget":
+           value: 3,294.58
+           align: right
       - "Category": Surplus (Deficit)
-        "FY16 Actual": 1.92
-        "FY17 Actual": 6.69
-        "FY18 Budget": 0.00
-        "FY19 Budget": 0.00
+        "FY16 Actual":
+           value: 1.92
+           align: right
+        "FY17 Actual":
+           value: 6.69
+           align: right
+        "FY18 Budget":
+           value: 0.00
+           align: right
+        "FY19 Budget":
+           value: 0.00
+           align: right
 - table:
   - title: Revenues
     right_text: (dollars in millions)
@@ -49,102 +73,222 @@ components:
     - "Source": 
         name: Property Tax
         link: /featured-analysis/property-tax/
-      "FY16 Actual": 1,963.09
-      "FY17 Actual": 2,092.14
-      "FY18 Budget": 2,216.49
-      "FY19 Budget": 2,327.02
+      "FY16 Actual":
+           value: 1,963.09
+           align: right
+      "FY17 Actual":
+           value: 2,092.14
+           align: right
+      "FY18 Budget":
+           value: 2,216.49
+           align: right
+      "FY19 Budget":
+           value: 2,327.02
+           align: right
     - "Source": Property Tax Overlay
-      "FY16 Actual": (38.05)
-      "FY17 Actual": (38.74)
-      "FY18 Budget": (30.60)
-      "FY19 Budget": (23.04)
+      "FY16 Actual": 
+           value: (38.05)
+           align: right
+      "FY17 Actual":
+           value: (38.74)
+           align: right
+      "FY18 Budget":
+           value: (30.60)
+           align: right
+      "FY19 Budget":
+           value: (23.04)
+           align: right
     - "Source": 
-        name: Excises
-        link: /featured-analysis/excise-taxes
-      "FY16 Actual": 223.82
-      "FY17 Actual": 190.55
-      "FY18 Budget": 188.09
-      "FY19 Budget": 197.29
+           name: Excises
+           link: /featured-analysis/excise-taxes
+      "FY16 Actual":
+           value: 223.82
+           align: right
+      "FY17 Actual":
+           value: 190.55
+           align: right
+      "FY18 Budget":
+           value: 188.09
+           align: right
+      "FY19 Budget":
+           value: 197.29
+           align: right
     - "Source": 
-        name: Fines
-        link: /featured-analysis/parking-fines
-      "FY16 Actual": 61.05
-      "FY17 Actual": 63.25
-      "FY18 Budget": 63.85
-      "FY19 Budget": 69.08
+           name: Fines
+           link: /featured-analysis/parking-fines
+      "FY16 Actual":
+           value: 61.05
+           align: right
+      "FY17 Actual":
+           value: 63.25
+           align: right
+      "FY18 Budget":
+           value: 63.85
+           align: right
+      "FY19 Budget":
+           value: 69.08
+           align: right
     - "Source": 
-        name: Interest on Investments
-        link: /featured-analysis/interest-on-investments
-      "FY16 Actual": 0.18
-      "FY17 Actual": 2.33
-      "FY18 Budget": 2.00
-      "FY19 Budget": 5.00
+           name: Interest on Investments
+           link: /featured-analysis/interest-on-investments
+      "FY16 Actual":
+           value: 0.18
+           align: right
+      "FY17 Actual":
+           value: 2.33
+           align: right
+      "FY18 Budget":
+           value: 2.00
+           align: right
+      "FY19 Budget":
+           value: 5.00
+           align: right
     - "Source": 
-        name: Payments in Lieu of Taxes
-        link: /featured-analysis/payments-in-lieu-of-taxes
-      "FY16 Actual": 51.20
-      "FY17 Actual": 53.57
-      "FY18 Budget": 45.00
-      "FY19 Budget": 46.02
+           name: Payments in Lieu of Taxes
+           link: /featured-analysis/payments-in-lieu-of-taxes
+      "FY16 Actual":
+           value: 51.20
+           align: right
+      "FY17 Actual":
+           value: 53.57
+           align: right
+      "FY18 Budget":
+           value: 45.00
+           align: right
+      "FY19 Budget":
+           value: 46.02
+           align: right
     - "Source": 
-        name: Urban Redev Ch. 121A
-        link: /featured-analysis/urban-redevelopment-ch-121a
-      "FY16 Actual": 48.11
-      "FY17 Actual": 47.51
-      "FY18 Budget": 33.50
-      "FY19 Budget": 27.50
+           name: Urban Redev Ch. 121A
+           link: /featured-analysis/urban-redevelopment-ch-121a
+      "FY16 Actual":
+           value: 48.11
+           align: right
+      "FY17 Actual":
+           value: 47.51
+           align: right
+      "FY18 Budget":
+           value: 33.50
+           align: right
+      "FY19 Budget":
+           value: 27.50
+           align: right
     - "Source": 
-        name: Department Revenue
-        link: /featured-analysis/misc-dept-revenue
-      "FY16 Actual": 63.09
-      "FY17 Actual": 66.37
-      "FY18 Budget": 60.70
-      "FY19 Budget": 62.03
+           name: Department Revenue
+           link: /featured-analysis/misc-dept-revenue
+      "FY16 Actual":
+           value: 63.09
+           align: right
+      "FY17 Actual":
+           value: 66.37
+           align: right
+      "FY18 Budget":
+           value: 60.70
+           align: right
+      "FY19 Budget":
+           value: 62.03
+           align: right
     - "Source": 
-        name: Licenses and Permits
-        link: /featured-analysis/licenses-and-permits
-      "FY16 Actual": 74.44
-      "FY17 Actual": 84.09
-      "FY18 Budget": 67.06
-      "FY19 Budget": 66.26
+           name: Licenses and Permits
+           link: /featured-analysis/licenses-and-permits
+      "FY16 Actual":
+           value: 74.44
+           align: right
+      "FY17 Actual":
+           value: 84.09
+           align: right
+      "FY18 Budget":
+           value: 67.06
+           align: right
+      "FY19 Budget":
+           value: 66.26
+           align: right
     - "Source": 
-        name: Penalties and Interest
-        link: /featured-analysis/penalties-and-interest
-      "FY16 Actual": 14.48
-      "FY17 Actual": 10.81
-      "FY18 Budget": 7.51
-      "FY19 Budget": 9.01
+           name: Penalties and Interest
+           link: /featured-analysis/penalties-and-interest
+      "FY16 Actual":
+           value: 14.48
+           align: right
+      "FY17 Actual":
+           value: 10.81
+           align: right
+      "FY18 Budget":
+           value: 7.51
+           align: right
+      "FY19 Budget":
+           value: 9.01
+           align: right
     - "Source": 
-        name: Available Funds
-        link: /featured-analysis/available-funds
-      "FY16 Actual": 0.00
-      "FY17 Actual": 0.00
-      "FY18 Budget": 23.45
-      "FY19 Budget": 23.45
+           name: Available Funds
+           link: /featured-analysis/available-funds
+      "FY16 Actual":
+           value: 0.00
+           align: right
+      "FY17 Actual":
+           value: 0.00
+           align: right
+      "FY18 Budget":
+           value: 23.45
+           align: right
+      "FY19 Budget":
+           value: 23.45
+           align: right
     - "Source": 
-        name: State Aid
-        link: /featured-analysis/state-aid
-      "FY16 Actual": 421.58
-      "FY17 Actual": 424.93
-      "FY18 Budget": 440.58
-      "FY19 Budget": 444.97
+           name: State Aid
+           link: /featured-analysis/state-aid
+      "FY16 Actual":
+           value: 421.58
+           align: right
+      "FY17 Actual":
+           value: 424.93
+           align: right
+      "FY18 Budget":
+           value: 440.58
+           align: right
+      "FY19 Budget":
+           value: 444.97
+           align: right
     - "Source": Total recurring revenue
       "subtotal": true
-      "FY16 Actual": 2,883.01
-      "FY17 Actual": 2,996.81
-      "FY18 Budget": 3,117.62
-      "FY19 Budget": 3,254.58
+      "FY16 Actual":
+           value: 2,883.01
+           align: right
+      "FY17 Actual":
+           value: 2,996.81
+           align: right
+      "FY18 Budget":
+           value: 3,117.62
+           align: right
+      "FY19 Budget":
+           value: 3,254.58
+           align: right
     - "Source": Budgetary fund balance
-      "FY16 Actual": 0.00
-      "FY17 Actual": 0.00
-      "FY18 Budget": 40.00
-      "FY19 Budget": 40.00
+      "FY16 Actual":
+           value: 0.00
+           align: right
+      "FY17 Actual":
+           value: 0.00
+           align: right
+      "FY18 Budget":
+           value: 40.00
+           align: right
+      "FY19 Budget":
+           value: 40.00
+           align: right
     - "Source": Total revenues
       "total": true
-      "FY16 Actual": 2,883.01
-      "FY17 Actual": 2,996.81
-      "FY18 Budget": 3,157.62
-      "FY19 Budget": 3,294.58
+      "FY16 Actual":
+           value: 2,883.01
+           align: right
+      "FY17 Actual":
+           value: 2,996.81
+           align: right
+      "FY18 Budget":
+           value: 3,157.62
+           align: right
+      "FY19 Budget":
+           value: 3,294.58
+           align: right
 - table:
   - title: Expenditures
     right_text: (dollars in millions)
@@ -152,98 +296,210 @@ components:
     - "Expenditure":
         name: City Appropriations
         link: /operating-budget/cabinets
-      "FY16 Actual": 1,158.96
-      "FY17 Actual": 1,200.51
-      "FY18 Budget": 1,261.34
-      "FY19 Budget": 1,298.74
+      "FY16 Actual":
+        value: 1,158.96
+        align: right
+      "FY17 Actual":
+        value: 1,200.51
+        align: right
+      "FY18 Budget":
+        value: 1,261.34
+        align: right
+      "FY19 Budget":
+        value: 1,298.74
+        align: right
     - "Expenditure":
         name: Public Health Commission
         link: /operating-budget/cabinets/health-and-human-services/public-health-commission
-      "FY16 Actual": 76.16
-      "FY17 Actual": 77.27
-      "FY18 Budget": 79.51
-      "FY19 Budget": 84.88
+      "FY16 Actual":
+        value: 76.16
+        align: right
+      "FY17 Actual":
+        value: 77.27
+        align: right
+      "FY18 Budget":
+        value: 79.51
+        align: right
+      "FY19 Budget":
+        value: 84.88
+        align: right
     - "Expenditure":
         name: Boston Public Schools
         link: /operating-budget/cabinets/education/boston-public-schools
-      "FY16 Actual": 1,016.28
-      "FY17 Actual": 1,031.63
-      "FY18 Budget": 1,092.19
-      "FY19 Budget": 1,108.74
+      "FY16 Actual":
+        value: 1,016.28
+        align: right
+      "FY17 Actual":
+        value: 1,031.63
+        align: right
+      "FY18 Budget":
+        value: 1,092.19
+        align: right
+      "FY19 Budget":
+        value: 1,108.74
+        align: right
     - "Expenditure":
         name: City Reserve for Collective Bargaining
         link: /operating-budget/reserves-for-collective-bargaining
-      "FY16 Actual": 0.02
-      "FY17 Actual": 28.00
-      "FY18 Budget": 11.39
-      "FY19 Budget": 41.00
+      "FY16 Actual":
+        value: 0.02
+        align: right
+      "FY17 Actual":
+        value: 28.00
+        align: right
+      "FY18 Budget":
+        value: 11.39
+        align: right
+      "FY19 Budget":
+        value: 41.00
+        align: right
     - "Expenditure":
         name: Other Post Employment Benefits
         link: /operating-budget/other-post-employment-benefits
-      "FY16 Actual": 40.00
-      "FY17 Actual": 40.00
-      "FY18 Budget": 40.00
-      "FY19 Budget": 40.00
+      "FY16 Actual":
+        value: 40.00
+        align: right
+      "FY17 Actual":
+        value: 40.00
+        align: right
+      "FY18 Budget":
+        value: 40.00
+        align: right
+      "FY19 Budget":
+        value: 40.00
+        align: right
     - "Expenditure": Total appropriations
       "subtotal": true
-      "FY16 Actual": 2,291.41
-      "FY17 Actual": 2,377.41
-      "FY18 Budget": 2,484.43
-      "FY19 Budget": 2,573.36
+      "FY16 Actual":
+        value: 2,291.41
+        align: right
+      "FY17 Actual":
+        value: 2,377.41
+        align: right
+      "FY18 Budget":
+        value: 2,484.43
+        align: right
+      "FY19 Budget":
+        value: 2,573.36
+        align: right
     - "Expenditure":
         name: Pensions
         link: /operating-budget/pensions
-      "FY16 Actual": 196.55
-      "FY17 Actual": 199.28
-      "FY18 Budget": 221.30
-      "FY19 Budget": 238.71
+      "FY16 Actual":
+        value: 196.55
+        align: right
+      "FY17 Actual":
+        value: 199.28
+        align: right
+      "FY18 Budget":
+        value: 221.30
+        align: right
+      "FY19 Budget":
+        value: 238.71
+        align: right
     - "Expenditure":
         name: Debt Service
         link: /operating-budget/debt-service
-      "FY16 Actual": 157.69
-      "FY17 Actual": 165.31
-      "FY18 Budget": 183.57
-      "FY19 Budget": 191.28
+      "FY16 Actual":
+        value: 157.69
+        align: right
+      "FY17 Actual":
+        value: 165.31
+        align: right
+      "FY18 Budget":
+        value: 183.57
+        align: right
+      "FY19 Budget":
+        value: 191.28
+        align: right
     - "Expenditure":
         name: Charter School Tuition
         link: /operating-budget/charter-school-tuition
-      "FY16 Actual": 142.79
-      "FY17 Actual": 151.82
-      "FY18 Budget": 173.78
-      "FY19 Budget": 194.24
+      "FY16 Actual":
+        value: 142.79
+        align: right
+      "FY17 Actual":
+        value: 151.82
+        align: right
+      "FY18 Budget":
+        value: 173.78
+        align: right
+      "FY19 Budget":
+        value: 194.24
+        align: right
     - "Expenditure":
         name: State Assessments
         link: /operating-budget/state-assessments
-      "FY16 Actual": 87.79
-      "FY17 Actual": 88.63 
-      "FY18 Budget": 90.66 
-      "FY19 Budget": 93.11 
+      "FY16 Actual":
+        value: 87.79
+        align: right
+      "FY17 Actual":
+        value: 88.63 
+        align: right
+      "FY18 Budget":
+        value: 90.66 
+        align: right
+      "FY19 Budget":
+        value: 93.11 
+        align: right
     - "Expenditure":
         name: Suffolk County Assessment
         link: /operating-budget/suffolk-county-assessment/
-      "FY16 Actual": 3.87
-      "FY17 Actual": 3.87
-      "FY18 Budget": 3.87
-      "FY19 Budget": 3.87
+      "FY16 Actual":
+        value: 3.87
+        align: right
+      "FY17 Actual":
+        value: 3.87
+        align: right
+      "FY18 Budget":
+        value: 3.87
+        align: right
+      "FY19 Budget":
+        value: 3.87
+        align: right
     - "Expenditure":
         name: Reserve
         link: /operating-budget/reserve
-      "FY16 Actual": 0.99
-      "FY17 Actual": 3.81
-      "FY18 Budget": 0.00
-      "FY19 Budget": 0.00
+      "FY16 Actual":
+        value: 0.99
+        align: right
+      "FY17 Actual":
+        value: 3.81
+        align: right
+      "FY18 Budget":
+        value: 0.00
+        align: right
+      "FY19 Budget":
+        align: 0.00
+        align: right
     - "Expenditure": Total fixed costs
       "subtotal": true
-      "FY16 Actual": 589.68
-      "FY17 Actual": 612.72
-      "FY18 Budget": 673.19
-      "FY19 Budget": 721.21
+      "FY16 Actual":
+        value: 589.68
+        align: right
+      "FY17 Actual":
+        value: 612.72
+        align: right
+      "FY18 Budget":
+        value: 673.19
+        align: right
+      "FY19 Budget":
+        value: 721.21
+        align: right
     - "Expenditure": Totals
       "total": true
-      "FY16 Actual": 2,881.09
-      "FY17 Actual": 2,990.13
-      "FY18 Budget": 3,157.62
-      "FY19 Budget": 3,294.58
+      "FY16 Actual":
+        value: 2,881.09
+        align: right
+      "FY17 Actual":
+        value: 2,990.13
+        align: right
+      "FY18 Budget":
+        value: 3,157.62
+        align: right
+      "FY19 Budget":
+        value: 3,294.58
+        align: right
 - text_block:
   - title: Overview
 - text_col_2:

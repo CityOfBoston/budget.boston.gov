@@ -42,208 +42,264 @@ components:
         "FY16 Actual":
            value: 240,714,716
            filter: delimiter
+           align: right
         "FY17 Actual":
            value: 247735185
            filter: delimiter
+           align: right
         "FY18 Budget":
            value: 266927582
            filter: delimiter
+           align: right
         "FY19 Budget":
            value: 272781373
            filter: delimiter
+           align: right
       - "Cabinet":
           name: Arts and Culture
           link: /operating-budget/cabinets/arts-and-culture
         "FY16 Actual":
            value: 36137102
            filter: delimiter
+           align: right
         "FY17 Actual":
            value: 36021635
            filter: delimiter
+           align: right
         "FY18 Budget":
            value: 37389419
            filter: delimiter
+           align: right
         "FY19 Budget":
            value: 38335507
            filter: delimiter
+           align: right
       - "Cabinet":
           name: Civic Engagement
           link: /operating-budget/cabinets/civic-engagement
         "FY16 Actual":
            value: 2524900
            filter: delimiter
+           align: right
         "FY17 Actual":
            value: 2679794
            filter: delimiter
+           align: right
         "FY18 Budget":
            value: 3287613
            filter: delimiter
+           align: right
         "FY19 Budget":
            value: 3408216
            filter: delimiter
+           align: right
       - "Cabinet":
           name: Economic Development
           link: /operating-budget/cabinets/economic-development
         "FY16 Actual":
            value: 3669738
            filter: delimiter
+           align: right
         "FY17 Actual":
            value: 4968088
            filter: delimiter
+           align: right
         "FY18 Budget":
            value: 5072549
            filter: delimiter
+           align: right
         "FY19 Budget":
            value: 5530979
            filter: delimiter
+           align: right
       - "Cabinet":
           name: Education
           link: /operating-budget/cabinets/education
         "FY16 Actual":
            value: 1016278855
            filter: delimiter
+           align: right
         "FY17 Actual":
            value: 1031628494
            filter: delimiter
+           align: right
         "FY18 Budget":
            value: 1092190484
            filter: delimiter
+           align: right
         "FY19 Budget":
            value: 1108740381
            filter: delimiter
+           align: right
       - "Cabinet":
           name: Environment, Energy, and Open Space
           link: /operating-budget/cabinets/environment-energy-and-open-space
         "FY16 Actual":
            value: 43778467
            filter: delimiter
+           align: right
         "FY17 Actual":
            value: 43006669
            filter: delimiter
+           align: right
         "FY18 Budget":
            value: 44456398
            filter: delimiter
+           align: right
         "FY19 Budget":
            value: 45852485
            filter: delimiter
+           align: right
       - "Cabinet":
           name: Health and Human Services
           link: /operating-budget/cabinets/health-and-human-services
         "FY16 Actual":
            value: 114682426
            filter: delimiter
+           align: right
         "FY17 Actual":
            value: 116037147
            filter: delimiter
+           align: right
         "FY18 Budget":
            value: 123264010
            filter: delimiter
+           align: right
         "FY19 Budget":
            value: 128062540
            filter: delimiter
+           align: right
       - "Cabinet":
           name: Housing and Neighborhood Development
           link: /operating-budget/cabinets/housing-and-neighborhood-development
         "FY16 Actual":
            value: 11544054
            filter: delimiter
+           align: right
         "FY17 Actual":
            value: 16926212
            filter: delimiter
+           align: right
         "FY18 Budget":
            value: 13492642
            filter: delimiter
+           align: right
         "FY19 Budget":
            value: 14220701
            filter: delimiter
+           align: right
       - "Cabinet":
           name: Information and Technology
           link: /operating-budget/cabinets/information-and-technology
         "FY16 Actual":
            value: 32046766
            filter: delimiter
+           align: right
         "FY17 Actual":
            value: 32339128
            filter: delimiter
+           align: right
         "FY18 Budget":
            value: 29433344
            filter: delimiter
+           align: right
         "FY19 Budget":
            value: 30444344
            filter: delimiter
+           align: right
       - "Cabinet":
           name: Mayor's Office
           link: /operating-budget/cabinets/mayors-office
         "FY16 Actual":
            value: 12973396
            filter: delimiter
+           align: right
         "FY17 Actual":
            value: 13243425
            filter: delimiter
+           align: right
         "FY18 Budget":
            value: 15735796
            filter: delimiter
+           align: right
         "FY19 Budget":
            value: 17396812
            filter: delimiter
+           align: right
       - "Cabinet":
           name: Non-Mayoral Departments
           link: /operating-budget/cabinets/non-mayoral-departments
         "FY16 Actual":
            value: 6610434
            filter: delimiter
+           align: right
         "FY17 Actual":
            value: 6508839
            filter: delimiter
+           align: right
         "FY18 Budget":
            value: 6866154
            filter: delimiter
+           align: right
         "FY19 Budget":
            value: 6979689
            filter: delimiter
+           align: right
       - "Cabinet":
           name: Operations
           link: /operating-budget/cabinets/operations
         "FY16 Actual":
            value: 25171890
            filter: delimiter
+           align: right
         "FY17 Actual":
            value: 26986150
            filter: delimiter
+           align: right
         "FY18 Budget":
            value: 24234614
            filter: delimiter
+           align: right
         "FY19 Budget":
            value: 25676766
            filter: delimiter
+           align: right
       - "Cabinet":
           name: Public Safety
           link: /operating-budget/cabinets/public-safety
         "FY16 Actual":
            value: 566456632
            filter: delimiter
+           align: right
         "FY17 Actual":
            value: 584320813
            filter: delimiter
+           align: right
         "FY18 Budget":
            value: 618645257
            filter: delimiter
+           align: right
         "FY19 Budget":
            value: 637107039
            filter: delimiter
+           align: right
       - "Cabinet":
           name: Streets
           link: /operating-budget/cabinets/streets
         "FY16 Actual":
            value: 136430805
            filter: delimiter
+           align: right
         "FY17 Actual":
            value: 142947436
            filter: delimiter
+           align: right
         "FY18 Budget":
            value: 147214950
            filter: delimiter
+           align: right
         "FY19 Budget":
            value: 152924942
            filter: delimiter
+           align: right
 ---
