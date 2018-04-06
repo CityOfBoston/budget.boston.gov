@@ -31,10 +31,10 @@ components:
   - card: /featured-analysis/arts-and-culture/  
   - card: /featured-analysis/energy-environment-preparing-for-climate-change/
   - card: /featured-analysis/improving-expanding-addiction-services/
-  - card: /featured-analysis/public-safety-for-growing-city
+  - card: /featured-analysis/public-safety-for-growing-city/
   - card: /featured-analysis/open-space-imagine-boston-2030-goals/
   - card: /featured-analysis/prosperity-racial-equity-diversity-economic-mobility/
-  - card: /featured-analysis/supporting-our-youth
+  - card: /featured-analysis/supporting-our-youth/
   - card: /featured-analysis/housing-boston-2030/
   - card: /featured-analysis/streets/ 
 - grid: 
