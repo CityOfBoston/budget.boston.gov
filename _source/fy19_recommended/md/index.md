@@ -58,7 +58,7 @@ components:
           url: /operating-budget/
           title: Operating Budget
       - blurb: breaks down where the money goes to keep the City running.
-    src: /img/students-on-a-computer.jpg
+    src: /img/imagine-boston-2030-launch.jpg
     alt: Three students all looking at a computer
 - text_block:
   - title: Overall Spending
