@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: BuildBPS
-  - published: 4/13/17
+  - published: 4/11/18
 - intro:
   - title: BuildBPS
     short_desc: >
@@ -63,7 +63,7 @@ components:
       </ul>
 - grid:
   - grid_title: More budget analysis
-  - card: /featured-analysis/closing-opportunity-achievement-gaps/
-  - card: /featured-analysis/extended-school-day/
-  - card: /featured-analysis/bps-long-term-financial-plan/
+  - card: /featured-analysis/early-childhood-education/
+  - card: /featured-analysis/bps-great-equalizer/
+  - card: /featured-analysis/bps-scaling-successful-programs/
 ---
