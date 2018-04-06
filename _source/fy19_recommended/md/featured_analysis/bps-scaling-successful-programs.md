@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Scaling Successful District-Wide Programs
-  - published: 4/13/17
+  - published: 4/11/18
 - intro:
   - title: Scaling Successful District-Wide Programs
     short_desc: >
@@ -33,7 +33,7 @@ components:
     sidebar_menu: true    
 - grid:
   - grid_title: More budget analysis
-  - card: /featured-analysis/weighted-student-funding/
-  - card: /featured-analysis/bps-operating-budget/
-  - card: /featured-analysis/special-education/
+  - card: /featured-analysis/early-childhood-education/
+  - card: /featured-analysis/bps-great-equalizer/
+  - card: /featured-analysis/health-and-social-emotional/
 ---
