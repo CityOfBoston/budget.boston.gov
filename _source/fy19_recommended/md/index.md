@@ -42,7 +42,7 @@ components:
       <p>In their credit rating affirming Boston’s AAA rating with a stable outlook, Moody’s wrote: <blockquote>"The AAA rating reflects the city's strong fiscal management and stable financial position."</blockquote></p>
       <p>Disciplined financial practices have better positioned Boston to manage through changes in local, state, and federal policy and funding levels.</p>
       <h5>State and Federal Dynamics</h5>
-      <p>Justin enter text here</p>
+      <p>However, frustrating declines in state support and the continued uncertainty surrounding federal aid and the President’s proposed cuts to programs that support Boston's most vulnerable put increased pressures on municipalities. In Boston, we are creating new jobs and spurring development, allowing us to continue to invest in our City while we grapple with these uncertainties. Our commitment to disciplined financial practices has enabled us to continue to provide critical, quality services to our residents despite these gaps in state and federal funding. We will need to work together to advocate for greater investment by our partners at the state and federal levels to ensure continued prosperity for the City and the state.</p>
       </ul>
 - spanning_image:
   - title: Dive Into the Budget
