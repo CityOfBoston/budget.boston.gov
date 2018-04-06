@@ -171,7 +171,7 @@ components:
       "FY18 Budget": 1,092.19
       "FY19 Budget": 1,108.74
     - "Expenditure":
-        name: City Reserve for Collective Bargaining
+        name: Reserve for Collective Bargaining
         link: /operating-budget/reserves-for-collective-bargaining
       "FY16 Actual": 0.02
       "FY17 Actual": 28.00
