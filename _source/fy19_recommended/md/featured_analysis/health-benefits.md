@@ -144,7 +144,7 @@ components:
       "% Change":
         value: -2.6
         filter: percent
-    - "Fiscal Year": FY016
+    - "Fiscal Year": FY16
       "Total Cost": 312.2
       "$ Change": 15.7
       "% Change":
