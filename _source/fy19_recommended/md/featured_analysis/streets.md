@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Transformational Investments in Streets and Transportation
-  - published: 4/13/17
+  - published: 4/11/18
 - intro:
   - title: Transformational Investments in Streets and Transportation
     short_desc: >
@@ -66,7 +66,7 @@ components:
       <p>The Public Works Department will purchase and install 45 new benches in neighborhoods around the city. Benches not only improve the practical walkability of a neighborhood, they provide a public amenity that enhances local streetscapes and enables people to come together.</p>
 - grid: 
   - grid_title: More budget analysis
-  - card: /featured-analysis/streets-launching-go-boston-2030/
+  - card: /featured-analysis/energy-environment-preparing-for-climate-change/
   - card: /featured-analysis/technology-city-services-through-cityscore/
-  - card: /featured-analysis/technology-data-analytics/
+  - card: /featured-analysis/open-space-imagine-boston-2030-goals/
 ---
