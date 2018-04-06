@@ -108,11 +108,11 @@ components:
       <h5>From idea to action</h5>
       <p>Over 14,000 Boston voices shaped the Mayor’s vision for Boston in 2030. They envisioned a city that will expand opportunity for all, support a dynamic economy, enhance quality of life, and prepare for climate change. Imagine Boston 2030 identifies key areas where Boston can take action to:</p>
       <ul>
-      <li>enhance neighborhoods’ vitality;</li>
-      <li>encourage mixed-use job centers;</li>
-      <li>provide spaces for new housing and jobs as we grow;</li>
-      <li>create a waterfront for future generations; and</li>
-      <li>connect historically underserved neighborhoods to more opportunities.</li>
+      <li>Enhance neighborhoods’ vitality;</li>
+      <li>Encourage mixed-use job centers;</li>
+      <li>Provide spaces for new housing and jobs as we grow;</li>
+      <li>Create a waterfront for future generations; and</li>
+      <li>Connect historically underserved neighborhoods to more opportunities.</li>
       </ul>
       <h5>Investing in core goals</h5>
       <p>Mayor Walsh’s $2.43 billion FY9-FY23 Capital Plan moves Boston residents’ priorities from idea to action, and invests in creating the city Bostonians imagine for the future. An estimated 84% of projects in the FY19-23 Capital Plan are aligned with the City’s planning efforts:</p>
