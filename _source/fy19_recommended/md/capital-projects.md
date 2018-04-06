@@ -99,10 +99,9 @@ components:
       to develop more detailed climate plans for Boston neighborhoods, especially those most
       at risk for coastal flooding, as recommended in Climate Ready Boston.</p>
       <h5>Percent for Art Program</h5>
-      <p>The Percent for Art Program, funded for the first time in this Capital Plan,
-      demonstrates the City’s leadership and commitment to sustainable funding for the arts
-      by setting aside one percent of the City’s annual capital borrowing for the
-      commissioning of public art.</p>
+      <p>The Percent for Art Program demonstrates the City’s leadership and commitment to
+      sustainable funding for the arts by setting aside one percent of the City’s annual capital
+      borrrowing for the commissioning of public art.</p>
 - table:
   - title: Spending By Investment Category
     columns:
