@@ -24,12 +24,13 @@ components:
       In 2014, Mayor Walsh released <a href="https://www.boston.gov/departments/neighborhood-development/housing-changing-city-boston-2030">Housing a Changing City - Boston 2030</a>, the
       Administration’s comprehensive plan to accommodate Boston's rapid growth 
       and stabilize the housing market over the next 15 years. 
-    description: > Building on his commitment to increase affordable housing, Mayor Walsh announced Boston  has made significant strides in stabilizing the housing market, accommodating population growth, and increasing affordability.
+    description: >
+      Building on his commitment to increase affordable housing, Mayor Walsh announced Boston  has made significant strides in stabilizing the housing market, accommodating population growth, and increasing affordability.
     sidebar_menu: true
 - text_block:
   - title: Creating and Preserving Affordable Housing for All Income Levels
     body: >
-    <p>More than 26,000 new housing units have already been completed or are currently in construction, and another 26,000 are under review. This represents 98 percent of the City’s 53,000-unit target for 2030.</p>
+      <p>More than 26,000 new housing units have already been completed or are currently in construction, and another 26,000 are under review. This represents 98 percent of the City’s 53,000-unit target for 2030.</p>
       <p>Next year, the Department of Neighborhood Development (DND) will double its down payment assistance program to $1 million, allowing dozens of middle class families to access zero-interest loans to cover down payments.  This $500,000 increase will promote homeownership among moderate and middle income homebuyers in Boston.</p>
       <p>DND will also leverage non-operating budget revenue sources, such as Inclusionary Development Program funds and Linkage funds administered through the Neighborhood Housing Trust. DND will use these revenue sources to continue the Acquisition Opportunity Program and Neighborhood Homes Initiative, which are creating more affordable rental and homeownership opportunities in Boston.</p>
       right_image: /img/progress-toward-housing-2030-goals.png
