@@ -64,7 +64,7 @@ components:
   - title: Overall Spending
     body: >
       <p>FY19 expenditures are increasing by $137 million or 4.3% over the FY18 budget, for a total of $3.29 billion. Funding for city services, like streets, parks, public health and public safety will grow by $43 million, including $12 million in new data-driven investments. Education funding will increase by $68 million compared to FY18 adopted and $37 million compared to FY18 current appropriation, funding for collective bargaining will increase $30 million over FY18 and other fixed costs like pensions and debt service make up the remaining growth of $28 million.</p>
-    right_image: /img/budget-growth.png
+    right_image: /img/FY19 recommended expenditures.png
 - grid:
   - grid_title: Education
   - card: /featured-analysis/education-overview/

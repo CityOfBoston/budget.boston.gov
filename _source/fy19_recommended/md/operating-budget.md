@@ -279,7 +279,7 @@ components:
       Appropriations are also presented by expenditure category across the three subgroups. (Figure 6)
 - text_col_2: 
   - col: 
-    - img: /img/fy18-appropriations-by-category.png
+    - img: /img/fy19-appropriations-by-category.png
   - col:
     - blurb: >
         Personnel Services include salaries, overtime, unemployment compensation and 
