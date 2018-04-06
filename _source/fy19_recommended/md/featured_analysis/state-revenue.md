@@ -27,10 +27,10 @@ components:
   - title: State Budget
     body: >
       <p>The City’s FY19 estimates of state revenue and state assessments is based on the Governor’s proposed budget as the legislature will release the final version of the state budget following release of the City’s recommended budget. Net State aid amounted to $191.0 million in FY16 and $184.5 million in FY17.  FY18 budgeted net State aid totals $176.1 million and the FY19 budget assumes a reduction to $157.6 million.</p> 
-    right_image: /img/ net-state-aid.png
+   - right_image: /img/ net-state-aid.png
   
       <p>Boston’s net State aid, which is gross State revenue minus State assessments, has been trending down steeply since FY02. With a decrease in net State aid for FY19, Boston is 65.5%, or $207.4 million, below its FY08 level of net State aid. The rapid annual increase in the charter school tuition assessment contributed to this trend. This loss of revenue has put extraordinary pressure on the property tax and other local revenue sources as well as levels of expenditures.</p>
-    right_image: /img/ FY19-recurring-revenue.png      
+    - right_image: /img/ FY19-recurring-revenue.png      
 - text_block:
   - title: State Budget
     body: >
@@ -53,7 +53,7 @@ components:
     body: >
       <p>State Assessments are charged by the Commonwealth to municipalities for items such as charter school tuition reimbursement and MBTA service. State aid distributions are reduced by the amount of assessments charged to a municipality. The City paid $230.6 million in FY16 and $240.4 million in FY17. The City expects to pay $264.4 million in assessments in FY18 and is budgeting $287.4 million in FY19.</p>
       <ul>
-      <li>MBTA increase</li>
+      <li>The MBTA state assessment increased by $2.4 million or 2.8%.</li>
       <li>Boston’s charter school tuition assessment is projected to increase by $20.5 million, or 11.8%, over the FY18 budget, as 11,084 students are projected to attend a Commonwealth Charter School in FY19.</li>
       </ul>
       <p>Boston’s charter school tuition assessment has risen dramatically by 184% since the enactment of the 2010 Achievement Gap Legislation that expanded the number of charter school seats. </p> 
@@ -62,7 +62,7 @@ components:
   - title: Net Education Aid
     body: >
       <p>If recent trends hold - rising charter school assessment and declining charter school reimbursement and stagnant Chapter 70- it’s likely that in three years Boston will receive no State education aid. This will mean Boston’s 57,000 students will be entirely funded by the City’s General Fund. Net education aid will decrease by $21 million in FY19.</p>
-    right_image: /img/ net-education-aid.png
+   - right_image: /img/ net-education-aid.png
 - text_block:
     body: >
       <p>While Boston’s overall spending on education has increased substantially in recent years, Boston’s State education funding has not kept pace. </p> 
@@ -72,7 +72,7 @@ components:
       <li>Additionally, the Chapter 70 education aid formula does not work for Boston. Chapter 70 is expected to grow by only $1.3 million, or less than 1% in FY19.</li>
       </ul>
       <p>Mayor Walsh has raised concerns about this trend since taking office and has been proactive in addressing the underlying challenges of the State’s education aid system. In 2017, the Mayor filed comprehensive education finance reform legislation that aims to invest equitably and expand access to high-quality public education for students of all ages. By proposing a creative revenue solution to provide every Boston four-year-old a high-quality seat, fixing the broken charter school transition funding model, and increasing reimbursements for the highest-need students, the proposals would increase annual education funding to Boston by $35 million in its first year of implementation. The proposal would also position Boston to receive $150 million in additional annual Chapter 70 aid within a few years if the State identifies a new revenue source for education. The Mayor continues to advocate for these common sense pieces of legislation, as well as full funding of local aid reimbursement accounts. </p>
-    right_image: /img/ net-charter-school-cost.png
+   - right_image: /img/ net-charter-school-cost.png
 - grid: 
   - grid_title: More budget analysis
   - card: /featured-analysis/revenue-overview/
