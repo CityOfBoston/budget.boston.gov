@@ -54,6 +54,6 @@ components:
 - grid: 
   - grid_title: More budget analysis
   - card: /featured-analysis/prosperity-racial-equity-diversity-economic-mobility/
-  - card: /featured-analysis/health-and-social-emotional/
+  - card: /featured-analysis/health-social-emotional-wellness/
   - card: /featured-analysis/open-space-imagine-boston-2030-goals/
 ---
