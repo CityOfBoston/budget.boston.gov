@@ -107,7 +107,7 @@ components:
         <p>Along with certain statutes and ordinances (
     - link:
         title: see PDF of Statutes and Ordinances Chapter
-        path: /img/pdfs/volume-1-by-cabinet/09-statutes-and-ordinances-governing-bostons-operating-and-capital-budgets.pdf
+        path: /img/pdfs/09-Statutes-and-Ordinances-Governing-Bostons-Operating-and-Capital-Budgets.pdf
     - blurb: >
         ), well-established policies and internal controls govern the financial operations of the City. Designed 
         to maximize revenue collection, safeguard assets, track operating and capital spending, and evaluate 
@@ -230,7 +230,7 @@ components:
         <p class="intro-text supporting-text">The below tables provide a history of the available funds used to support the City’s operating budget. View a 
     - link: 
         title: summary of the budget's appropriated funds
-        path: /img/pdfs/budget-summary-appropriations-table.pdf
+        path: /img/pdfs/Fin-Mn-Appp-by-Funds.pdf
     - blurb: >
         .</p>
 - table:
