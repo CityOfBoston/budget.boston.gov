@@ -62,10 +62,10 @@ components:
   - card: /featured-analysis/technology-data-analytics/
 - grid: 
   - grid_title: Revenue
+  - card: /featured-analysis/revenue-overview/
+  - card: /featured-analysis/property-tax/  
   - card: /featured-analysis/state-revenue/
   - card: /featured-analysis/local-revenue/
-  - card: /featured-analysis/economy-overview/
   - card: /featured-analysis/non-recurring-revenue/
-  - card: /featured-analysis/property-tax/  
-  - card: /featured-analysis/revenue-overview/
+  - card: /featured-analysis/economy-overview/
 ---
