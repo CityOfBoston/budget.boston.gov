@@ -44,12 +44,8 @@ components:
   - title: Budget timeline
     columns: 
       - "Action required": Departments proposed budgets to Office of Budget Management.
-        "City Charter": 
-          value: No requirement
-          align: left
-        "FY19 timeline": 
-          value: Late Fall
-          align: left
+        "City Charter": No requirement
+        "FY19 timeline":  Late Fall
       - "Action required": School Superintendent's proposed budget to School Committee on or before 1st Wednesday in February.
         "City Charter": Ch. 613 Acts of 1987 
         "FY19 timeline": 2/7/18
