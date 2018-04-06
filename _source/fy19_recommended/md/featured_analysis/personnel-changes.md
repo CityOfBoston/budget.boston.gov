@@ -25,7 +25,7 @@ components:
         The 
     - link:
         title: Personnel Summary table
-        path: /img/pdfs/full-time-employees-table.pdf
+        path: /img/pdfs/FTE-Table.pdf
     - blurb: > 
         at the bottom of this page, shows a four-year comparison of city-funded and filled full-time equivalent (FTE) positions. 
     description: >
@@ -106,5 +106,5 @@ components:
 - text_block:
   - title: ""
     body: ""
-    right_image: /img/pages/full-time-employees-table.png
+    right_image: /img/pages/FTE-Table.pdf
 ---
