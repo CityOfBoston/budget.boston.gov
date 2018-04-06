@@ -24,7 +24,7 @@ components:
       Mayor Martin J. Walsh’s Fiscal Year 2019 (FY19) budget affirms a commitment to progress, opportunity and innovation by investing in Boston’s neighborhoods while maintaining the Mayor’s strong record of financial management. The $3.29 billion plan is balanced, sustainable, and accelerates progress across public policy areas. The budget contains historic levels of funding for public education, new investments in public safety, continued efforts to create affordable and middle income housing, expanded services for residents struggling with substance use disorders and addiction, and new initiatives that will transform the future of transportation in Boston.
     right_image: /img/recommended-expenditures.png
 - text_block:
-    body: >
+  - body: >
       <h5>Spending</h5>
       <p>Boston is a growing city, with an evolving population that needs new and expanded city services. In his first term in office, Mayor Walsh improved outcomes across the City’s services, from education to housing, economic security to quality of life, and open space to the arts. In FY19, the Mayor proposes to build on those successes and make real, meaningful changes to the future of Boston’s landscape. Investments in public safety, education, transportation, housing, public health, and many other areas reflect a City committed to providing the services to <strong>expand opportunity and security to Boston’s middle class</strong>.</p>
       <h5>Revenue</h5>
@@ -43,18 +43,27 @@ components:
       <p>Disciplined financial practices have better positioned Boston to manage through changes in local, state, and federal policy and funding levels.</p>
       </ul>
 - spanning_image:
-  - title: Extending the school day
-    desc: Working to close achievement and opportunity gaps
-    link:
-      - text: Learn more
-        url: /featured-analysis/extended-school-day/
+  - title: Dive Into the Budget
+    desc:
+      - blurb: On our
+      - link:
+          url: /featured-analysis/
+          title: "Featured Analysis page"
+      - blurb: "you'll find information on key investment areas. Our "
+      - link:
+          url: /capital-projects/
+          title: Capital Projects section
+      - blurb: details funding for this important City initiative. The 
+      - link:
+          url: /operating-budget/
+          title: Operating Budget
+      - blurb: breaks down where the money goes to keep the City running.
     src: /img/students-on-a-computer.jpg
     alt: Three students all looking at a computer
 - text_block:
   - title: Overall Spending
-- text_col_2:
-    - col: >
-        <p>FY19 expenditures are increasing by $137 million or 4.3% over the FY18 budget, for a total of $3.29 billion. Funding for city services, like streets, parks, public health and public safety will grow by $43 million, including $12 million in new data-driven investments. Education funding will increase by $68 million compared to FY18 adopted and $37 million compared to FY18 current appropriation, funding for collective bargaining will increase $30 million over FY18 and other fixed costs like pensions and debt service make up the remaining growth of $28 million.</p>
+    body: >
+      <p>FY19 expenditures are increasing by $137 million or 4.3% over the FY18 budget, for a total of $3.29 billion. Funding for city services, like streets, parks, public health and public safety will grow by $43 million, including $12 million in new data-driven investments. Education funding will increase by $68 million compared to FY18 adopted and $37 million compared to FY18 current appropriation, funding for collective bargaining will increase $30 million over FY18 and other fixed costs like pensions and debt service make up the remaining growth of $28 million.</p>
 - grid:
   - grid_title: Education
   - card: /featured-analysis/education-overview/
