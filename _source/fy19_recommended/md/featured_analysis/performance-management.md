@@ -144,21 +144,13 @@ components:
   - title: FY19 Performance Goals
     columns:
       - "Category": Education
-        "Performance Measure": 
-          value: New K1 seats available
-          align: left
-        "Responsible Department":
-          value: Schools
-          align: left
+        "Performance Measure": New K1 seats available
+        "Responsible Department": Schools
         "FY18 Projected": 109
         "FY19 Target": 160
       - "Category": Education
-        "Performance Measure": 
-          value: Participants in the Early Literacy Program
-          align: left
-        "Responsible Department":
-          value: Boston Public Library
-          align: left
+        "Performance Measure": Participants in the Early Literacy Program
+        "Responsible Department": Boston Public Library
         "FY18 Projected": 
           value: 30000
           filter: delimiter
@@ -166,30 +158,18 @@ components:
           value: 55000
           filter: delimiter
       - "Category": Housing
-        "Performance Measure": 
-          value: "# of homeless Veterans placed in permanent housing"
-          align: left
-        "Responsible Department":
-          value: Neighborhood Development
-          align: left
+        "Performance Measure": "# of homeless Veterans placed in permanent housing"
+        "Responsible Department": Neighborhood Development
         "FY18 Projected": 200
         "FY19 Target": 200
       - "Category": Housing
-        "Performance Measure": 
-          value: "# of low income housing units permitted (deed restricted and IDP)"
-          align: left
-        "Responsible Department":
-          value: Neighborhood Development
-          align: left
+        "Performance Measure": "# of low income housing units permitted (deed restricted and IDP)"
+        "Responsible Department": Neighborhood Development
         "FY18 Projected": 347
         "FY19 Target": 347
       - "Category": Housing
-        "Performance Measure": 
-          value: "# of middle income housing units permitted (deed restricted and market)"
-          align: left
-        "Responsible Department":
-          value: Neighborhood Development
-          align: left
+        "Performance Measure": "# of middle income housing units permitted (deed restricted and market)"
+        "Responsible Department": Neighborhood Development
         "FY18 Projected": 
           value: 1500
           filter: delimiter
@@ -197,30 +177,18 @@ components:
           value: 1000
           filter: delimiter
       - "Category": Housing
-        "Performance Measure": 
-          value: "# of potential evictions averted"
-          align: left
-        "Responsible Department":
-          value: Neighborhood Development
-          align: left
+        "Performance Measure": "# of potential evictions averted"
+        "Responsible Department": Neighborhood Development
         "FY18 Projected": 500 
         "FY19 Target": 500 
       - "Category": Mobility
-        "Performance Measure": 
-          value: Average annual PCI rating of Boston’s roads
-          align: left
-        "Responsible Department":
-          value: Public Works
-          align: left
+        "Performance Measure": Average annual PCI rating of Boston’s roads
+        "Responsible Department": Public Works
         "FY18 Projected": 66
         "FY19 Target": 67
       - "Category": Mobility
-        "Performance Measure": 
-          value: "% of street light outages addressed on time"
-          align: left
-        "Responsible Department":
-          value: Public Works
-          align: left
+        "Performance Measure": "% of street light outages addressed on time"
+        "Responsible Department": Public Works
         "FY18 Projected":
           value: 75
           filter: percent
@@ -228,12 +196,8 @@ components:
           value: 80
           filter: percent
       - "Category": Mobility
-        "Performance Measure": 
-          value: "% of crosswalks in good repair"
-          align: left
-        "Responsible Department":
-          value: Transportation
-          align: left
+        "Performance Measure": "% of crosswalks in good repair"
+        "Responsible Department": Transportation
         "FY18 Projected": 
           value: 47
           filter: percent
@@ -241,12 +205,8 @@ components:
           value: 65
           filter: percent
       - "Category": Mobility
-        "Performance Measure": 
-          value: Average personnel hours on a hokey route (hand cleaning streets/sidewalks)
-          align: left
-        "Responsible Department":
-          value: Public Works
-          align: left
+        "Performance Measure": Average personnel hours on a hokey route (hand cleaning streets/sidewalks)
+        "Responsible Department": Public Works
         "FY18 Projected": 
           value: 2800 
           filter: delimiter
@@ -254,31 +214,18 @@ components:
           value: 3000
           filter: delimiter
       - "Category": Prosperity and Equity
-        "Performance Measure": 
-          value: Average usage of City Hall to Go
-          align: left
-        "Responsible Department":
-          value: Neighborhood Services
-          align: left
+        "Performance Measure": Average usage of City Hall to Go
+        "Responsible Department": Neighborhood Services
         "FY18 Projected": 290
-        "FY19 Target": 
-          value: 300
+        "FY19 Target": 300
       - "Category": Prosperity and Equity
-        "Performance Measure": 
-          value: "# of MWBE companies with the City of Boston"
-          align: left
-        "Responsible Department":
-          value: Economic Development
-          align: left
+        "Performance Measure": "# of MWBE companies with the City of Boston"
+        "Responsible Department": Economic Development
         "FY18 Projected": 52
         "FY19 Target": 60
       - "Category": Prosperity and Equity
-        "Performance Measure": 
-          value: "# of employees in companies newly signing Boston’s 100% Talent Compact"
-          align: left
-        "Responsible Department":
-          value: Women’s Advancement
-          align: left
+        "Performance Measure": "# of employees in companies newly signing Boston’s 100% Talent Compact"
+        "Responsible Department": Women’s Advancement
         "FY18 Projected": 
           value: 2000
           filter: delimiter
@@ -286,12 +233,8 @@ components:
           value: 2500
           filter: delimiter
       - "Category": Arts, Culture, and Creativity
-        "Performance Measure": 
-          value: "% of first time Boston Cultural Council organizational grant awardees"
-          align: left
-        "Responsible Department":
-          value: Arts and Culture
-          align: left
+        "Performance Measure": "% of first time Boston Cultural Council organizational grant awardees"
+        "Responsible Department": Arts and Culture
         "FY18 Projected":
           value: 24
           filter: percent
@@ -299,12 +242,8 @@ components:
           value: 15
           filter: percent
       - "Category": Arts, Culture, and Creativity
-        "Performance Measure": 
-          value: Library card daily usage   
-          align: left
-        "Responsible Department":
-          value: Boston Public Library
-          align: left
+        "Performance Measure": Library card daily usage   
+        "Responsible Department": Boston Public Library
         "FY18 Projected": 
           value: 3000000 
           filter: delimiter
@@ -312,12 +251,8 @@ components:
           value: 3000000
           filter: delimiter
       - "Category": Arts, Culture, and Creativity
-        "Performance Measure": 
-          value: Average number of Ebook holds   
-          align: left
-        "Responsible Department":
-          value: Boston Public Library
-          align: left
+        "Performance Measure": Average number of Ebook holds   
+        "Responsible Department": Boston Public Library
         "FY18 Projected": 
           value: 175000
           filter: delimiter
@@ -325,21 +260,13 @@ components:
           value: 175000
           filter: delimiter
       - "Category": Health and Safety 
-        "Performance Measure": 
-          value: EMS median response time for Priority 1 calls
-          align: left
-        "Responsible Department":
-          value: Public Health Commission
-          align: left
+        "Performance Measure": EMS median response time for Priority 1 calls
+        "Responsible Department": Public Health Commission
         "FY18 Projected": 6 Min
         "FY19 Target": 6 Min
       - "Category": Health and Safety 
-        "Performance Measure": 
-          value: "# of individuals placed in recovery services"
-          align: left
-        "Responsible Department":
-          value: Public Health Commission
-          align: left
+        "Performance Measure": "# of individuals placed in recovery services"
+        "Responsible Department": Public Health Commission
         "FY18 Projected": 
           value: 8000
           filter: delimiter
@@ -347,27 +274,17 @@ components:
           value: 6000
           filter: delimiter
       - "Category": Health and Safety 
-        "Performance Measure": 
-          value: "# of mediations conducted by streetworkers"
-          align: left
+        "Performance Measure": "# of mediations conducted by streetworkers"
         "FY18 Projected": 440     
         "FY19 Target": 450
       - "Category": Health and Safety 
-        "Performance Measure": 
-          value: Firefighters attending resiliency, health, and safety symposiums
-          align: left
-        "Responsible Department":
-          value: Fire Department
-          align: left
+        "Performance Measure": Firefighters attending resiliency, health, and safety symposiums
+        "Responsible Department": Fire Department
         "FY18 Projected": 550 
         "FY19 Target": 600
       - "Category": Health and Safety 
-        "Performance Measure": 
-          value: YouthConnect referrals
-          align: left
-        "Responsible Department":
-          value: Police Department
-          align: left
+        "Performance Measure": YouthConnect referrals
+        "Responsible Department": Police Department
         "FY18 Projected": 840
         "FY19 Target": 800
 ---
