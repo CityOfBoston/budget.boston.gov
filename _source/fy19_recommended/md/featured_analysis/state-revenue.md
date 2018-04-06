@@ -63,7 +63,7 @@ components:
   - title: Net Education Aid
     body: >
       <p>If recent trends hold - rising charter school assessment and declining charter school reimbursement and stagnant Chapter 70- it’s likely that in three years Boston will receive no State education aid. This will mean Boston’s 57,000 students will be entirely funded by the City’s General Fund. Net education aid will decrease by $21 million in FY19.</p>
-    right_image: /img/ net-education-aid.png
+    right_image: /img/net-education-aid.png
 - text_block:
     body: >
       <p>While Boston’s overall spending on education has increased substantially in recent years, Boston’s State education funding has not kept pace. </p> 
