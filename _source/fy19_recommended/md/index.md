@@ -22,7 +22,7 @@ components:
   - title: Introduction
     body: >
       Mayor Martin J. Walsh’s Fiscal Year 2019 (FY19) budget affirms a commitment to progress, opportunity and innovation by investing in Boston’s neighborhoods while maintaining the Mayor’s strong record of financial management. The $3.29 billion plan is balanced, sustainable, and accelerates progress across public policy areas. The budget contains historic levels of funding for public education, new investments in public safety, continued efforts to create affordable and middle income housing, expanded services for residents struggling with substance use disorders and addiction, and new initiatives that will transform the future of transportation in Boston.
-    right_image: /img/fy19-appropriations-by-cabinet.png
+    right_image: /img/Estimated Expenses.png
 - text_block:
     body: >
       <h5>Spending</h5>
