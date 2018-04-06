@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Promoting a Proactive and Agile Boston EMS through Data
-  - published: 4/13/17
+  - published: 4/11/18
 - intro:
   - title: Promoting a proactive and agile Boston EMS through data
     short_desc: >
@@ -69,6 +69,6 @@ components:
 - grid: 
   - grid_title: More budget analysis
   - card: /featured-analysis/health-safety-addiction-services/
-  - card: /featured-analysis/health-safety-firefighter-health-safety/
+  - card: /featured-analysis/transformational-investments-in-streets-and-transportation/
   - card: /featured-analysis/city-services/
 ---
