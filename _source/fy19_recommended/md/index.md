@@ -49,11 +49,11 @@ components:
       - link:
           url: /featured-analysis/
           title: "Featured Analysis page"
-      - blurb: "you'll find information on key investment areas. Our "
+      - blurb: "you'll find information on key investment areas.<br /><br /> Our "
       - link:
           url: /capital-projects/
           title: Capital Projects section
-      - blurb: details funding for this important City initiative. The 
+      - blurb: details funding for this important City initiative.<br /><br /> The 
       - link:
           url: /operating-budget/
           title: Operating Budget
