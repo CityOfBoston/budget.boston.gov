@@ -59,7 +59,7 @@ components:
       in FY19, $203 million in FY20, $220 million in FY21, $215 million in FY22, and $200 million 
       in FY23.</p>
       <p>The debt tables at the end of this chapter detail the City’s outstanding debt service 
-      obligations and demonstrate the City’s rapid retirement of its debt.</p>
+      obligations.</p>
 - text_col_2:
   - col: >
       <a href="http://placehold.it"><img src="http://placehold.it/300x400"></a>
