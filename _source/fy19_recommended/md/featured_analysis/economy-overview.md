@@ -34,9 +34,9 @@ components:
       <h5>Wage Growth</h5> 
       <p>Massachusetts wage and salary income in the fourth quarter of 2017 rose 6.3% over the same quarter 2016, continuing a trend of positive year-over-year quarterly growth rates since first quarter 2010. Earnings growth by industry grouping over the period of the last quarter in 2016 to 2017 was strongest in “Finance and Insurance” and “Utilities”, while “Government and Government Enterprises” and “State and Local” showed the weakest growth during the same period.</p>
       <blockquote>Massachusetts’ seasonally adjusted total personal income rose 4.9% from 2016 to 2017, 9th out of the 50 states and DC in terms of growth and above the national average of 4.0%.</blockquote>
-    right_image: /img/ real-gdp-growth.png
+    right_image: /img/real-gdp-growth.png
     #right_image: /img/unemployment-rates.png
-    #right_image: /img/ federal-funds-rate-changes.png
+    #right_image: /img/federal-funds-rate-changes.png
 - grid:
   - grid_title: More budget analysis
   - card: /featured-analysis/revenue-overview/
