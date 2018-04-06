@@ -33,6 +33,7 @@ components:
     sidebar_menu: true
 - text_block:
   - title: Ensuring Accessible and Equitable Parks
+    body: >
       <p>In FY17, Mayor Walsh announced Parks First, a comprehensive initiative ensuring that Boston’s open spaces are among the most accessible and equitable in the nation. In FY19, Boston will continue its commitment to achieving these goals through investments in excellence in design and management.</p>
       <p>To date, the Walsh Administration has increased the Parks Department’s operating funding by $5.7 million or 32% and in FY19 will dedicate $17.7 million to new capital projects in Boston’s parks.</p>
 - grid: 

@@ -32,7 +32,7 @@ components:
   - title: Investing in the Arts
     body: >
       The Mayor is continuing groundbreaking arts investments made in FY17 that are 
-      key to implementing Boston Creates.
+      key to implementing Boston Creates:
 - text_col_2:
   - col: >
       <h5>The Percent for Art Program</h5>

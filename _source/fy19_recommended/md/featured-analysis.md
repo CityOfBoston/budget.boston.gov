@@ -46,7 +46,7 @@ components:
   - card: /operating-budget/state-assessments/
   - card: /operating-budget/suffolk-county-assessment/  
   - grid:
-  - grid_title: Education
+ - grid_title: Education
   - card: /featured-analysis/bps-scaling-successful-programs/
   - card: /featured-analysis/bps-great-equalizer/
   - card: /featured-analysis/buildbps/
@@ -61,7 +61,7 @@ components:
   - card: /featured-analysis/technology-city-services-through-cityscore/
   - card: /featured-analysis/technology-data-analytics/
   - grid: 
-  - grid_title: Revenue
+ - grid_title: Revenue
   - card: /featured-analysis/state-revenue/
   - card: /featured-analysis/local-revenue/
   - card: /featured-analysis/economy-overview/
