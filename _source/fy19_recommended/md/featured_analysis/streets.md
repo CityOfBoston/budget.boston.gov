@@ -1,9 +1,9 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/streets/
-title: Streets
+permalink: /featured-analysis/transformational-investments-in-streets-and-transportation/
+title: Transformational Investments in Streets and Transportation
 card:
-  - title: Keeping Streets Clean and Safe
+  - title: Transformational Investments in Streets and Transportation
     body: >
       The FY19 budget invests in making sure city streets are clean and safe.
     img: /img/fa-streets-keeping-streets-clean-safe.jpg
@@ -16,10 +16,10 @@ components:
   - title: Featured Analysis
     url: "/featured-analysis/"
     local: true
-  - current: Streets
+  - current: Transformational Investments in Streets and Transportation
   - published: 4/13/17
 - intro:
-  - title: streets
+  - title: Transformational Investments in Streets and Transportation
     short_desc: >
       The FY19 budget utilizes new transportation revenue to encourage better traffic management and allow the City to dramatically accelerate implementation of Go Boston 2030 projects.
     sidebar_menu: true
