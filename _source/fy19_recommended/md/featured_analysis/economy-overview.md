@@ -1,9 +1,9 @@
 ---
 layout: bos_content
 permalink: /featured-analysis/economy-overview/
-title: National, State, and Local Economies
+title: The Economy
 card:
-  - title: National, State, and Local  Economies
+  - title: The Economy
     body: >
       Economic indicators show positive real GDP growth and an improving unemployment rate.
     img: /img/fa-national-economy.jpg
@@ -16,14 +16,14 @@ components:
   - title: Featured Analysis
     url: "/featured-analysis/"
     local: true
-  - current: National, State, and Local  Economies
+  - current: The Economy
   - published: 4/13/17
   - intro:
-  - title: National, State, and Local  Economies
+  - title: The Economy
     short_desc: >      
-      <p>A City’s economic condition can positively or negatively affect its ability to raise revenue. As such, the State and national economies are of great importance to the City’s well-being.</p>
+      A City’s economic condition can positively or negatively affect its ability to raise revenue. As such, the State and national economies are of great importance to the City’s well-being.
       description:>
-        <p>The nation’s economic recovery is now ten years removed from a deep recession. Since the recession, the U.S. economy has grown in fits and starts since June 2009 as evidenced by GDP growth. Accommodative monetary policy and extended unemployment insurance back-stopped any slide back into recession.  The labor market has continued to strengthen and economic activity has been rising moderately. Recently, job gains have been strong and the unemployment rate has remained low.</p>    
+        The nation’s economic recovery is now ten years removed from a deep recession. Since the recession, the U.S. economy has grown in fits and starts since June 2009 as evidenced by GDP growth. Accommodative monetary policy and extended unemployment insurance back-stopped any slide back into recession.  The labor market has continued to strengthen and economic activity has been rising moderately. Recently, job gains have been strong and the unemployment rate has remained low.
     sidebar_menu: true
 - text_block:
   - title: Gross Domestic Product Growth
