@@ -21,26 +21,22 @@ components:
 - intro:
   - title: State Revenue and Assessments
     short_desc: >
-      State aid to the City represents its second largest single source of general fund revenue, although it has been declining as a share of recurring revenue. The State also provides many grants that support city programs and expenditures.    
+      State aid to the City represents its second largest single source of general fund revenue, although it has been declining as a share of recurring revenue.    
+     description: >
+      <p>FY18 budgeted net State aid, State revenue minus State assessments, totals $176.1 million and the FY19 budget assumes a reduction to $157.6 million.</p>
     sidebar_menu: true
 - text_block:
-  - title: State Budget
+  - title: Net State Aid
     body: >
-      <p>The City’s FY19 estimates of state revenue and state assessments is based on the Governor’s proposed budget as the legislature will release the final version of the state budget following release of the City’s recommended budget. Net State aid amounted to $191.0 million in FY16 and $184.5 million in FY17.  FY18 budgeted net State aid totals $176.1 million and the FY19 budget assumes a reduction to $157.6 million.</p> 
+     <p>Boston’s net State aid, which is gross State revenue minus State assessments, has been trending down steeply since FY02. With a decrease in net State aid for FY19, Boston is 65.5%, or $207.4 million, below its FY08 level of net State aid. The rapid annual increase in the charter school tuition assessment contributed to this trend. This loss of revenue has put extraordinary pressure on the property tax and other local revenue sources as well as levels of expenditures.</p>
     right_image: /img/net-state-aid.png  
-- text_block:
-  - body: >
-      <p>Boston’s net State aid, which is gross State revenue minus State assessments, has been trending down steeply since FY02. With a decrease in net State aid for FY19, Boston is 65.5%, or $207.4 million, below its FY08 level of net State aid. The rapid annual increase in the charter school tuition assessment contributed to this trend. This loss of revenue has put extraordinary pressure on the property tax and other local revenue sources as well as levels of expenditures.</p>
-    right_image: /img/FY19-recurring-revenue.png      
-- text_block:
-  - title: State Budget
-    body: >
-      <p>The City’s FY19 estimates of state revenue and state assessments is based on the Governor’s proposed budget as the legislature will release the final version of the state budget following release of the City’s recommended budget. Net State aid amounted to $191.0 million in FY16 and $184.5 million in FY17.  FY18 budgeted net State aid totals $176.1 million and the FY19 budget assumes a reduction to $157.6 million. <\p> 
+      <p>The City’s FY19 estimates of state revenue and state assessments is based on the Governor’s proposed budget as the legislature will release the final version of the state budget following release of the City’s recommended budget.<\p> 
 - text_block:
   - title: State Revenue
     body: >
       <p>State revenue, the City’s second largest revenue source, has been reduced substantially over the course of the last two recessions.  State revenue has declined as a share of total recurring revenues from 30% in FY02 to 14% in FY19.</p>
-      <p>The primary sources of aid from the State to municipalities are education aid, including Chapter 70 and charter school tuition reimbursement, and unrestricted general government aid. The Commonwealth also distributes aid for libraries and provides some other reimbursements to municipalities.</p> 
+      <p>The primary sources of aid from the State to municipalities are education aid, including Chapter 70 and charter school tuition reimbursement, and unrestricted general government aid. The Commonwealth also distributes aid for libraries and provides some other reimbursements to municipalities.</p>
+     right_image: /img/FY19-recurring-revenue.png
       <p>The FY19 recommended budget includes a modest increase in State aid of 1.0%, or $4.4 million.</p> 
       <ul>
       <li>Unrestricted General Government Aid (UGGA) is the main driver in the increase in State aid in FY19. UGGA is expected to increase by 3.5%, or $6.6 million.</li>
@@ -57,7 +53,7 @@ components:
       <li>The MBTA state assessment increased by $2.4 million or 2.8%.</li>
       <li>Boston’s charter school tuition assessment is projected to increase by $20.5 million, or 11.8%, over the FY18 budget, as 11,084 students are projected to attend a Commonwealth Charter School in FY19.</li>
       </ul>
-      <p>Boston’s charter school tuition assessment has risen dramatically by 184% since the enactment of the 2010 Achievement Gap Legislation that expanded the number of charter school seats. </p> 
+      <blockquote>Boston’s charter school tuition assessment has risen dramatically by 184% since the enactment of the 2010 Achievement Gap Legislation that expanded the number of charter school seats. </blockquote>
     right_image: /img/charter-schools-enrollment-net-cost.png
 - text_block:
   - title: Net Education Aid
