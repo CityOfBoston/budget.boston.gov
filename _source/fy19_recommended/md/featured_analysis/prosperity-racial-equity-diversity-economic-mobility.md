@@ -18,8 +18,8 @@ components:
     local: true
   - current: Advancing Racial Equity, Diversity, and Economic Mobility
   - published: 4/11/18
-- intro:
-  - title: Advancing racial equity, diversity, and economic mobility
+  - text_block:
+   - title: Advancing racial equity, diversity, and economic mobility
     short_desc: >
       In July 2017, Mayor Walsh released Boston's first citywide Resilience Strategy to ensure every resident can reach their full potential regardless of their background, and remove the barriers of systemic racism that hinder Bostonians from having access to opportunities. 
     description: >
@@ -46,7 +46,7 @@ components:
       <p>In November 2016, Mayor Walsh and Police Commissioner Evans swore in the first class of police cadets since 2009, a training program for Boston's youth seeking a career in law enforcement. Building on the success of recruiting a diverse class of 42, which included 74% cadets of color and 36% female cadets, the City will add another class of 31 in the Spring of 2018. The FY19 budget funds an additional class of 20 cadets in the Spring of 2019.</p> 
 - grid: 
   - grid_title: More budget analysis
-  - card: /featured-analysis/city-services
-  - card: /featured-analysis/transformational-investments-in-streets-and-transportation/
+  - card: /featured-analysis/city-services/
+  - card: /featured-analysis/supporting-our-youth/
   - card: /featured-analysis/open-space-imagine-boston-2030-goals/
 ---
