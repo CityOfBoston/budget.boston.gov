@@ -27,7 +27,7 @@ components:
       <p>Thanks to Mayor Walsh, the FY19 BPS budget includes a $2.4 million investment to add 8 nurses, 7 psychologists, 4 social workers, and a Director of social work services. This comprehensive investment in Social Emotional Learning and Wellness will make transformative impacts on the social emotional wellbeing of students at BPS.</p>
     sidebar_menu: true    
 - text_block:
-  - title: Overview
+  - title: Supporting the wellbeing of Students
     body: >
       <p>8 new nurses to will bring the number of schools with at least one full-time nurse to 74. The investment will decrease the student to nurse ratio from 438:1 to 405:1, which is 40% lower than the ratio recommended by the CDC and National Association of School Nurses of 750:1.</p>
       <p>The addition of 7 new psychologists, including 5 bilingual school psychologists and 2 district-wide psychologists will lower the student to psychologist ratio by 10% and significantly increase the level of culturally and linguistically appropriate services.</p>
