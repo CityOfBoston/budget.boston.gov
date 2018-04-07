@@ -1,7 +1,7 @@
 ---
 layout: bos_content
 permalink: /featured-analysis/property-tax/
-title: Property Tax
+title: Property Tax Revenue
 card:
   - title: Property Tax Revenue
     body: >
