@@ -21,8 +21,9 @@ components:
   - intro:
   - title: National, State, and Local  Economies
     short_desc: >      
-      <p>Mayor Walsh continues to strive to grow jobs, housing and the economy for all Bostonians. But the city is subject to market forces limiting its ability to effect economic condition in the near term. And a city’s economic condition can positively or negatively affect its ability to raise revenue. As such, the State and national economies are of great importance to the City’s well-being.</p>
-      <p>The nation’s economic recovery is now ten years removed from a deep recession. Since the recession, the U.S. economy has grown in fits and starts since June 2009 as evidenced by GDP growth. Accommodative monetary policy and extended unemployment insurance back-stopped any slide back into recession.  The labor market has continued to strengthen and economic activity has been rising moderately. Recently, job gains have been strong and the unemployment rate has remained low.</p>    
+      <p>A City’s economic condition can positively or negatively affect its ability to raise revenue. As such, the State and national economies are of great importance to the City’s well-being.</p>
+      description:>
+        <p>The nation’s economic recovery is now ten years removed from a deep recession. Since the recession, the U.S. economy has grown in fits and starts since June 2009 as evidenced by GDP growth. Accommodative monetary policy and extended unemployment insurance back-stopped any slide back into recession.  The labor market has continued to strengthen and economic activity has been rising moderately. Recently, job gains have been strong and the unemployment rate has remained low.</p>    
     sidebar_menu: true
 - text_block:
   - title: Gross Domestic Product Growth
