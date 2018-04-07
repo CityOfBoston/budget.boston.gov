@@ -29,7 +29,7 @@ components:
       <p>At Franklin Park, long considered the crown jewel of Frederick Law Olmsted’s Emerald Necklace park system, work is already taking place. Last year, the Mayor committed to transformational funding for Franklin Park through the sale of the city owned Winthrop Square Garage. This $28 million investment to fully renovate Boston’s largest park, will begin planning in FY19.</p>
   - col: >
       <h5>Boston Common</h5>
-      <p>Mayor Walsh has also committed $28 million from the Winthrop Square garage sale to augment the current historic levels of investment in Boston Common and fully renovate America’s First Park.The Parks department along with other stakeholders will begin planning efforts in FY19 with a budget of $500,000 to ensure future generations will enjoy the park in its full vibrancy.</p>
+      <p>Mayor Walsh has also committed $28 million from the Winthrop Square garage sale to augment the current historic levels of investment in Boston Common and fully renovate America’s First Park. The Parks department along with other stakeholders will begin planning efforts in FY19 with a budget of $500,000 to ensure future generations will enjoy the park in its full vibrancy.</p>
     sidebar_menu: true
 - text_block:
   - title: Ensuring Accessible and Equitable Parks
