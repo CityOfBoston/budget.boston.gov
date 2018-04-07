@@ -81,7 +81,7 @@ components:
       <p>The Mayor’s FY19 budget builds on four years of investment in the areas that mean the most to Bostonians. Those investments are returning tremendous results, and this budget contains historic levels of funding for public education in our schools, new investments in public safety, continued efforts to create affordable and middle income housing, expanded services for residents struggling with substance use and addiction disorders, and new initiatives that will transform the future of transportation in Boston.</p>
 - grid:
   - grid_title: City Budget Priorities
-  - card: /featured-analysis/transformational-investments-in-streets-and-transportation/
+  - card: /featured-analysis/streets/
   - card: /featured-analysis/housing-boston-2030/
   - card: /featured-analysis/prosperity-racial-equity-diversity-economic-mobility/
   - card: /featured-analysis/public-safety-for-a-growing-city/
