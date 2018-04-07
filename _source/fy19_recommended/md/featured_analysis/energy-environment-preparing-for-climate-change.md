@@ -39,10 +39,10 @@ components:
 - text_block:
   - title: Renew Boston Trust
     body: >
-      Renew Boston Trust launched during the Walsh Administration has systematically identified energy projects in the City’s 315 buildings to both lower energy bills and reduce emissions. The City finances the program through general obligation bonds and utilities efficiency incentives, and it will be paid for from reduced energy consumption at City departments. A $12 million Phase 1 is set to begin construction this year, and the FY19-23 capital plan will nearly triple the size of the program to $35 million in Phase 2.
+      The Renew Boston Trust was launched during the Walsh Administration and has systematically identified energy projects in the City’s 315 buildings to both lower energy bills and reduce emissions. The City finances the program through general obligation bonds and utilities efficiency incentives, and it will be paid for from reduced energy consumption at City departments. A $12 million Phase 1 is set to begin construction this year, and the FY19-23 capital plan will nearly triple the size of the program to $35 million in Phase 2.
 - grid: 
   - grid_title: More budget analysis
-  - card: /featured-analysis/transformational-investments-in-streets-and-transportation/
+  - card: /featured-analysis/supporting-our-youth/
   - card: /featured-analysis/open-space-imagine-boston-2030-goals/
-  - card: /featured-analysis/city-services/
+  - card: /featured-analysis/arts-and-culture/
 ---
