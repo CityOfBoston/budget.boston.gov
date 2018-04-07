@@ -28,8 +28,8 @@ components:
 - text_block:
   - title: Tackling the Opioid Crisis and Substance Use Disorder
     body: >
-        <p>Throughout his Administration, Mayor Walsh has continuously increased resources to those in need of substance use and addiction supports</p>
-    <ul>
+      <p>Throughout his Administration, Mayor Walsh has continuously increased resources to those in need of substance use and addiction supports</p>
+      <ul>
       <li>In FY16, the Mayor created the Mayor’s Office of Recovery Services (ORS), the first municipal office in the U.S. solely dedicated to addressing addiction and recovery.</li>
       <li>In FY17, the Mayor launched 311 for Recovery Services. This hotline support system helps people struggling with substance abuse and addiction to access recovery resources.</li>
       <li>In FY18, the City expanded the Providing Access to Addictions Treatment, Hope and Support (PAATHS) Program services to evenings and weekends. The City also doubled the size of the Mobile Sharps team to pick up improperly discarded hypodermic needles, and added four new mental health clinicians to the Boston Emergency Services Team (BEST). This team responds with BPD, helping people exhibiting signs of mental illness and diverting people from arrest to mental health resources.</li>

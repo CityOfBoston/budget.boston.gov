@@ -18,8 +18,8 @@ components:
     local: true
   - current: Advancing Racial Equity, Diversity, and Economic Mobility
   - published: 4/11/18
-  - text_block:
-   - title: Advancing racial equity, diversity, and economic mobility
+- text_block:
+  - title: Advancing racial equity, diversity, and economic mobility
     short_desc: >
       In July 2017, Mayor Walsh released Boston's first citywide Resilience Strategy to ensure every resident can reach their full potential regardless of their background, and remove the barriers of systemic racism that hinder Bostonians from having access to opportunities. 
     description: >

@@ -28,7 +28,7 @@ components:
 - text_block:
   - title: Gross Domestic Product Growth
     body: >
-    <p>Overall economic value as measured by real Gross Domestic Product (GDP) has been positive, but growth has been relatively slow. For all but two of the thirty-two quarters after the recession’s official end in the second quarter of 2009 through the fourth quarter of 2017, real GDP growth has been positive but only averaging 0.5%. The Federal Reserve reaffirmed estimates of moderate economic growth. During the period of 2007 to 2016, Massachusetts’ annualized growth rate of 1.3% in real Gross Domestic Product (GDP) by state, ranking 14th out of all 50 states and DC, according to the Bureau of Economic Analysis (BEA).</p>
+      <p>Overall economic value as measured by real Gross Domestic Product (GDP) has been positive, but growth has been relatively slow. For all but two of the thirty-two quarters after the recession’s official end in the second quarter of 2009 through the fourth quarter of 2017, real GDP growth has been positive but only averaging 0.5%. The Federal Reserve reaffirmed estimates of moderate economic growth. During the period of 2007 to 2016, Massachusetts’ annualized growth rate of 1.3% in real Gross Domestic Product (GDP) by state, ranking 14th out of all 50 states and DC, according to the Bureau of Economic Analysis (BEA).</p>
       <blockquote>The State remains one of the wealthiest in terms of its GDP per capita -- $65,281 in 2016 – 2nd in the nation and 129% of the national average.</blockquote>
     right_image: /img/real-gdp-growth.png
 - text_block:

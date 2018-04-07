@@ -26,7 +26,7 @@ components:
      sidebar_menu: true    
 - text_block:
   - title: Targeted Investments District-Wide
-   body: >
+    body: >
       <p>Targeted funding across the district is critical to identiftying gaps, and making targeted investment to improve student outcomes and close achievement and opportunity gaps</p>
       <p>To that end, the FY19 budget increases proven programs to benefit more students and families:</p>
       <ul>
