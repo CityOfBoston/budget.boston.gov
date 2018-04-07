@@ -24,16 +24,6 @@ components:
       The City annually collects a significant amount of recurring revenues 
       other than Property Tax or State Aid.
     description: >
-      Approximately 16% of the City’s budgeted recurring revenue in FY19 is 
-      comprised of:
-      <ul>
-      <li>excise taxes, fines, and payments-in-lieu-of-taxes (including Chapter 121A)</li>
-      <li>investment income</li>
-      <li>departmental revenue</li>
-      <li>licenses and permits</li>
-      <li>penalties and interest, and</li>
-      <li>available funds.</li>
-      </ul>
       The FY17 Budget included $474.3 million in local receipt revenue, and the FY18 
       budget budgets an increase to $500.6 million.
     sidebar_menu: true
