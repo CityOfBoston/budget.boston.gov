@@ -1,6 +1,6 @@
 ---
 layout: bos_content
-permalink: /featured-analysis/transformational-investments-in-streets-and-transportation/
+permalink: /featured-analysis/streets/
 title: Transformational Investments in Streets and Transportation
 card:
   - title: Transformational Investments in Streets and Transportation

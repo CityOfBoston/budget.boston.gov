@@ -36,7 +36,7 @@ components:
     body: >
       <p>Thanks to a surging economy and smart policies implemented by Mayor Walsh, property values in Boston continue to rise steadily. In FY17, property values increased by $15.9 billion or 12.4%, and in FY18, property values increased by $9.9 billion or 6.9% to $153.9 billion.</p>
       <p>However, in Massachusetts, Proposition 2 ½ constrains the amount of property tax revenue the City can raise each year from its existing tax base. Proposition 2 ½ limits the property tax levy in a city or town to no more than 2.5% of the total fair cash value of all taxable real and personal property.  It also limits the total property tax levy to no more than a 2.5% increase over the prior year’s total levy with certain provisions for new construction.</p>
-    right_image: /img/ property-tax-rate-below-levy-ceiling.png 
+    right_image: /img/property-tax-rate-below-levy-ceiling.png 
 - text_block:
   - body: >
       <blockquote>This means that while total property value has grown 54% since FY14, property tax revenue has grown by only 25%. In each year since FY85, the City has increased its levy by the 2.5% allowable under the limits set forth in Proposition 2 &frac12;</blockquote>
