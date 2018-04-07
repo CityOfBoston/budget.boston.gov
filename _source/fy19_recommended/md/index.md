@@ -84,7 +84,7 @@ components:
   - card: /featured-analysis/streets/
   - card: /featured-analysis/housing-boston-2030/
   - card: /featured-analysis/prosperity-racial-equity-diversity-economic-mobility/
-  - card: /featured-analysis/public-safety-for-a-growing-city/
+  - card: /featured-analysis/public-safety-for-growing-city/
   - card: /featured-analysis/improving-and-expanding-addiction-service/
   - card: /featured-analysis/energy-environment-preparing-for-climate-change/
   - link:
