@@ -21,7 +21,7 @@ components:
 - intro:
   - title: Public Safety for a Growing City
     short_desc: >
-      The FY19 Budget provides marquee investments, including more police officers, EMT’s, and firefighters, equipped with 21st century technology to meet the public safety needs of a growing City.
+      The FY19 Budget provides investments in more police officers, EMT’s, and firefighters, equipped with 21st century technology to meet the public safety needs of a growing City.
     sidebar_menu: true
 - text_block:
   - title: Robust, Effective and Accountable
@@ -46,10 +46,10 @@ components:
     body: >
       <p>The FY19 budget includes a significant technology investment in new equipment, including the replacement of six fire trucks for a total of 39 over four years, the replacement of vital radios, dual capacity routers and accompanying equipment. These investments will help ensure BFD has the tools it needs to respond when called upon.</p>
       <p>Reflecting the Mayor's priority of firefighter health and safety, the Imagine Boston 2030 initiative to reduce cancer risks for firefighters is furthered in FY19. The budget continues a $500,000 program to provide industrial level cleaning for firehouses. These funds will pay to thoroughly clean ductwork, replace ceilings and/or repaint where necessary, and replace fabric furniture that has become contaminated with potentially carcinogenic compounds.</p>      
-      <p>Starting in FY16, the Fire Department, in conjunction with the Public Facilities Department, studied best practices for firehouse design and now has an enhanced set of building programs for new and renovated firehouses. The results of this cutting edge research and planning are reflected in the replacements of fire houses for Engines 42 and 17, at a total investment of $48 million. These two brand new houses will be among of the first firehouses in the nation to reflect these enhancements.</p>
+      <p>Starting in FY16, the Fire Department, in conjunction with the Public Facilities Department, studied best practices for firehouse design and now has an enhanced set of building programs for new and renovated firehouses. The results of this cutting edge research and planning are reflected in the replacements of fire houses for Engines 42 and 17, at a total investment of $48 million. These two brand new houses will be among of the first firehouses in the nation to reflect these health and safety enhancements.</p>
 - grid: 
   - grid_title: More budget analysis
-  - card: /featured-analysis/health-safety-proactive-agile-ems-through-data/
-  - card: /featured-analysis/health-safety-addiction-services/
+  - card: /featured-analysis/improving-expanding-addiction-services/
+  - card: /featured-analysis/housing-boston-2030/
   - card: /featured-analysis/city-services/
 ---
