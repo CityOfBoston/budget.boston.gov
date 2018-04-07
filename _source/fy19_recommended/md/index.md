@@ -12,10 +12,10 @@ components:
 - intro:
   - title: Executive Summary
     short_desc: >
-      "I am proud to put forth a budget that makes strategic 
-      investments to support Boston's neighborhoods, and builds 
-      on our strong record of fiscal management." - Mayor 
-      Martin J. Walsh
+      "This budget represents an investment in our values as a city,
+      and will allow us to build upon the strong foundations  
+      we’ve set in supporting all of Boston neighborhoods" -
+      Mayor Martin J. Walsh
     description: >
     sidebar_menu: true
 - text_block:
@@ -39,10 +39,9 @@ components:
       <li>maximizing revenue from local revenue</li>
       <li>Growing in-line with the City's projected revenue growth</li>
       </ul>
-      <p>In their credit rating affirming Boston’s AAA rating with a stable outlook, Moody’s wrote: <blockquote>"The AAA rating reflects the city's strong fiscal management and stable financial position."</blockquote></p>
-      <p>Disciplined financial practices have better positioned Boston to manage through changes in local, state, and federal policy and funding levels.</p>
+      <p> These discpline financial practices have been affirmed by Boston’s AAA credit rating and have better positioned Boston to manage through changes in local, state, and federal policy and funding levels.</p>
       <h5>State and Federal Dynamics</h5>
-      <p>Despite this discipline, frustrating declines in state support and the continued uncertainty surrounding federal aid and the President’s proposed cuts to programs that support Boston's most vulnerable put increased pressures on municipalities. In Boston, we are creating new jobs and spurring development, allowing us to continue to invest in our City while we grapple with these uncertainties. Our commitment to disciplined financial practices has enabled us to continue to provide critical, quality services to our residents despite these gaps in state and federal funding. We will need to work together to advocate for greater investment by our partners at the state and federal levels to ensure continued prosperity for the City and the state.</p>
+      <p>Declines in state support and the continued uncertainty surrounding federal aid and the President’s proposed cuts to programs that support Boston's most vulnerable put increased pressures on municipalities. In Boston, we are creating new jobs and spurring development, allowing us to continue to invest in our City while we grapple with these uncertainties. Our commitment to disciplined financial practices has enabled us to continue to provide critical, quality services to our residents despite these gaps in state and federal funding. We will need to work together to advocate for greater investment by our partners at the state and federal levels to ensure continued prosperity for the City and the state.</p>
       </ul>
 - spanning_image:
   - title: Dive Into the Budget
@@ -65,13 +64,13 @@ components:
 - text_block:
   - title: Overall Spending
     body: >
-      <p>FY19 expenditures are increasing by $137 million or 4.3% over the FY18 budget, for a total of $3.29 billion. Funding for city services, like streets, parks, public health and public safety will grow by $43 million, including $12 million in new data-driven investments. Education funding will increase by $68 million compared to FY18 adopted and $37 million compared to FY18 current appropriation, funding for collective bargaining will increase $30 million over FY18 and other fixed costs like pensions and debt service make up the remaining growth of $28 million.</p>
+      <p>FY19 expenditures are increasing by $137 million or 4.3% over the FY18 budget, for a total of $3.29 billion. Funding for city services, like streets, parks, public health and public safety will grow by $43 million, including $12 million in new data-driven investments. Education funding will increase by $68 million compared to FY18 adopted, funding for collective bargaining will increase $30 million over the FY18 budget and other fixed costs like pensions and debt service make up the remaining growth of $28 million.</p>
     right_image: /img/fy19-recommended-expenditures.png
 - grid:
   - grid_title: Education
   - card: /featured-analysis/education-overview/
-  - card: /featured-analysis/city-services/
-  - card: /featured-analysis/pensions-debt-service-other-fixed-costs/
+  - card: /featured-analysis/bps-great-equalizer/
+  - card: /featured-analysis/health-social-emotional-wellness/
   - link:
       title: View more education priorities
       path: /featured-analysis/index.html#grid-education
@@ -106,23 +105,15 @@ components:
     body: >
       Mayor Walsh’s $2.43 billion FY19-FY23 Capital Plan moves Boston residents’ priorities from idea to action, and invests in creating the city Bostonians imagine for the future. Under the Imagine Boston 2030 umbrella, the City is investing deeply in the core goals of BuildBPS, Go Boston 2030, Boston Creates, and Climate Ready Boston.Over 14,000 Boston voices shaped the Mayor’s vision for Boston in 2030. They envisioned a city that will expand opportunity for all, support a dynamic economy, enhance quality of life, and prepare for climate change.
       <h5>From idea to action</h5>
-      <p>Over 14,000 Boston voices shaped the Mayor’s vision for Boston in 2030. They envisioned a city that will expand opportunity for all, support a dynamic economy, enhance quality of life, and prepare for climate change. Imagine Boston 2030 identifies key areas where Boston can take action to:</p>
-          right_image: /img/Expenditures by category.png
-      <ul>
-      <li>Enhance neighborhoods’ vitality;</li>
-      <li>Encourage mixed-use job centers;</li>
-      <li>Provide spaces for new housing and jobs as we grow;</li>
-      <li>Create a waterfront for future generations; and</li>
-      <li>Connect historically underserved neighborhoods to more opportunities.</li>
-      </ul>
+      <p>Over 14,000 Boston voices shaped the Mayor’s vision for Boston in 2030. They envisioned a city that will expand opportunity for all, support a dynamic economy, enhance quality of life, and prepare for climate change. Imagine Boston 2030 identifies key areas where Boston can take action to,Enhance neighborhoods’ vitality, encourage mixed-use job centers, provide spaces for new housing and jobs as we grow, create a waterfront for future generations; and connect historically underserved neighborhoods to more opportunities.
       <h5>Investing in core goals</h5>
       <p>Mayor Walsh’s $2.43 billion FY9-FY23 Capital Plan moves Boston residents’ priorities from idea to action, and invests in creating the city Bostonians imagine for the future. An estimated 84% of projects in the FY19-23 Capital Plan are aligned with the City’s planning efforts:</p>
       <ul>
-      <li>Last year, Mayor Walsh committed $1 billion over ten years to bring Boston's school buildings into the 21st Century. After spending close to $100 million in the first year, this Plan sets the stage for continued investment in 21st century classrooms, new and expanded schools, new kitchens to serve fresh food, school safety upgrades and funding for future projects coming out of the BuildBPS community engagement process.</li>
-      <li>Boston, in collaboration with State and Federal sources, will invest $967 million over the next five years in implementing the core initiatives outlined in Go Boston 2030: streets that are safer for all users of our roads and sidewalks, travel that is more reliable and predictable, and quality transportation choices that improve access to interconnect our neighborhoods for all modes of travel. </li>
-      <li>Through the use of Winthrop Square proceeds, City capital dollars, and leveraging external funds, Mayor Walsh plans to carry out early actions to implement Imagine Boston 2030’s Open Space goals, including investing in Franklin Park as a keystone park for the city, completing the Emerald Necklace, and restoring Boston Common to its full vibrancy.</li>
-      <li>Boston will prepare for climate change by investing City dollars and outside funding to develop more detailed climate plans for Boston neighborhoods, especially those most at risk for coastal flooding, as recommended in Climate Ready Boston.</li>
-      <li>Continuing the Percent for Art Program, funded for the first time in last years Capital Plan, demonstrates the City’s leadership and commitment to sustainable funding for the commissioning of public art.</li>
+      <li><strong>$1 billion over ten years to bring Boston's school buildings into the 21st Century</strong>. After spending close to $100 million in the first year, this Plan sets the stage for continued investment in 21st century classrooms, new and expanded schools, new kitchens to serve fresh food, school safety upgrades and funding for future projects coming out of the BuildBPS community engagement process.</li>
+      <li>In collaboration with State and Federal sources, will invest <strong>$967 million over the next five years in implementing the core initiatives outlined in Go Boston 2030</strong>: streets that are safer for all users of our roads and sidewalks, travel that is more reliable and predictable, and quality transportation choices that improve access to interconnect our neighborhoods for all modes of travel. </li>
+      <li><strong>Implement Imagine Boston 2030’s Open Space goals </strong>, including early action items, investing in Franklin Park as a keystone park for the city, completing the Emerald Necklace, and restoring Boston Common to its full vibrancy.</li>
+      <li>Boston will <strong>prepare for climate change</strong> by investing City dollars and outside funding to develop more detailed climate plans for Boston neighborhoods, especially those most at risk for coastal flooding.</li>
+      <li>Continuing the Percent for Art Program, funded for the first time in last years Capital Plan, demonstrates the City’s leadership and commitment to <strong>sustainable funding for the commissioning of public art.</strong></li>
       </ul>
       <p>With investments in roads, bridges, schools, libraries, parks, firehouses, and community centers, the Imagine Boston Capital Plan touches each neighborhood and shapes a City that over 14,000 voices told us they want to see.</p>
 - text_col_2:
