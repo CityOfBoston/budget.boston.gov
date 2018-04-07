@@ -106,5 +106,5 @@ components:
 - text_block:
   - title: ""
     body: ""
-    right_image: /img/pages/FTE-Table.pdf
+    right_image: /img/pages/fte-table.pdf
 ---
