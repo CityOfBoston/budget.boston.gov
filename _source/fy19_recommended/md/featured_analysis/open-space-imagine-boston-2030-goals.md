@@ -38,7 +38,7 @@ components:
       <p>To date, the Walsh Administration has increased the Parks Department’s operating funding by $5.7 million or 32% and in FY19 will dedicate $17.7 million to new capital projects in Boston’s parks.</p>
 - grid: 
   - grid_title: More budget analysis
-  - card: /featured-analysis/open-space-accessible-equitable-parks/
-  - card: /featured-analysis/streets-launching-go-boston-2030/
-  - card: /featured-analysis/streets-keeping-streets-clean-safe/
+  - card: /featured-analysis/energy-environment-preparing-for-climate-change/
+  - card: /featured-analysis/streets/
+  - card: /featured-analysis/arts-and-culture/
 ---
