@@ -14,7 +14,7 @@
   "section_type_short":"C",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~economic-development.json",
-  "source_time":"20180405124758",
+  "source_time":"20180407160945",
   "source_year":"19",
   "mission":[
     "The mission of the Economic Development Cabinet is to lead a broad effort to streamline and support areas of focus that contribute to Boston&rsquo;s economy including tourism, jobs and employment, business development, and real estate development. The cabinet will concern itself with increasing transparency and promoting accessibility for all Bostonians, especially women- and minority-owned businesses and local businesses, to share in and benefit from the economic boom in Boston."
@@ -123,34 +123,34 @@
       {
         "title":"Consumer Affairs & Licensing",
         "line_type":"data",
-        "fy-2":155748,
-        "fy-1":179175,
-        "fy-0":156000,
-        "fy+1":163227
+        "fy-2":51916,
+        "fy-1":59725,
+        "fy-0":52000,
+        "fy+1":54409
       },
       {
         "title":"Office of Economic Development",
         "line_type":"data",
-        "fy-2":9093,
-        "fy-1":7872870,
-        "fy-0":13303419,
-        "fy+1":14007624
+        "fy-2":3031,
+        "fy-1":2624290,
+        "fy-0":4434473,
+        "fy+1":4669208
       },
       {
         "title":"Office of Tourism",
         "line_type":"data",
-        "fy-2":437760,
-        "fy-1":486796,
-        "fy-0":600000,
-        "fy+1":600000
+        "fy-2":109440,
+        "fy-1":121699,
+        "fy-0":150000,
+        "fy+1":150000
       },
       {
         "total":"Total Cabinet",
         "line_type":"total",
-        "fy-2":602601,
-        "fy-1":8538841,
-        "fy-0":14059419,
-        "fy+1":14770851
+        "fy-2":164387,
+        "fy-1":2805714,
+        "fy-0":4636473,
+        "fy+1":4873617
       }
     ]
   }

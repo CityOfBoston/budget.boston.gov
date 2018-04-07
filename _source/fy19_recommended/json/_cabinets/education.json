@@ -14,7 +14,7 @@
   "section_type_short":"C",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~education.json",
-  "source_time":"20180405124804",
+  "source_time":"20180407160942",
   "source_year":"19",
   "mission":[
     "The Education Cabinet will be responsible for Boston&rsquo;s education landscape and tasked with crafting and executing an education agenda for the City. From early childhood education, to kindergarten, to junior high, to higher learning institutions, to educations for seniors. The cabinet will implement the vision for academic excellence across the City."
@@ -67,7 +67,7 @@
         },
         "data":[
           {
-            "title":"Boston Public Schools",
+            "title":"School Department",
             "line_type":"data",
             "fy-2":38290691,
             "fy-1":60450528,

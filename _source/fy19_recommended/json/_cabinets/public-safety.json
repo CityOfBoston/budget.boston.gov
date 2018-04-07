@@ -14,7 +14,7 @@
   "section_type_short":"C",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~public-safety.json",
-  "source_time":"20180405124856",
+  "source_time":"20180407160938",
   "source_year":"19",
   "mission":[
     "Departments in the Public Safety Cabinet serve to protect the lives and property of City residents. The City maintains a ready state of preparedness through sufficient staffing levels, state-of-the-art equipment, and continual training and evaluation of policies and practices. The focus on neighborhood presence helps the City prevent crime, fire, incidents of terrorism, natural disasters quickly, and increases the sense of safety and security by residents and businesses."
@@ -133,34 +133,34 @@
       {
         "title":"Emergency Management",
         "line_type":"data",
-        "fy-2":28981008,
-        "fy-1":56277896,
-        "fy-0":44657864,
-        "fy+1":49390912
+        "fy-2":7245252,
+        "fy-1":14069474,
+        "fy-0":11164466,
+        "fy+1":12347728
       },
       {
         "title":"Fire Department",
         "line_type":"data",
-        "fy-2":47578181,
-        "fy-1":72101799,
-        "fy-0":30419935,
-        "fy+1":30446500
+        "fy-2":6796883,
+        "fy-1":10300257,
+        "fy-0":4345705,
+        "fy+1":4349500
       },
       {
         "title":"Police Department",
         "line_type":"data",
-        "fy-2":76309896,
-        "fy-1":80608672,
-        "fy-0":124380696,
-        "fy+1":71925416
+        "fy-2":9538737,
+        "fy-1":10076084,
+        "fy-0":15547587,
+        "fy+1":8990677
       },
       {
         "total":"Total Cabinet",
         "line_type":"total",
-        "fy-2":152869085,
-        "fy-1":208988367,
-        "fy-0":199458495,
-        "fy+1":151762828
+        "fy-2":23580872,
+        "fy-1":34445815,
+        "fy-0":31057758,
+        "fy+1":25687905
       }
     ]
   }

@@ -14,7 +14,7 @@
   "section_type_short":"C",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~arts-and-culture.json",
-  "source_time":"20180405124750",
+  "source_time":"20180407160841",
   "source_year":"19",
   "mission":[
     "The mission of the Arts & Culture Cabinet is to foster the growth and well-being of the cultural community and promote participation in the arts. Recognizing the importance of creativity across all policy areas, the cabinet seeks to promote access to arts and culture to all the City&rsquo;s residents, and to make Boston a municipal arts leader. The Cabinet includes the Boston Public Library as a city department, and provides oversight and support of the Library&rsquo;s vision and operation."
@@ -73,20 +73,20 @@
         },
         "data":[
           {
-            "title":"Library Department",
-            "line_type":"data",
-            "fy-2":37347302,
-            "fy-1":14891807,
-            "fy-0":13768352,
-            "fy+1":26416574
-          },
-          {
             "title":"Office of Arts & Culture",
             "line_type":"data",
             "fy-2":0,
             "fy-1":0,
             "fy-0":1700000,
             "fy+1":1800000
+          },
+          {
+            "title":"Library Department",
+            "line_type":"data",
+            "fy-2":37347302,
+            "fy-1":14891807,
+            "fy-0":13768352,
+            "fy+1":26416574
           },
           {
             "title":"Total",
@@ -115,10 +115,10 @@
       {
         "title":"Library Department",
         "line_type":"data",
-        "fy-2":28852938,
-        "fy-1":27996546,
-        "fy-0":26530020,
-        "fy+1":26216268
+        "fy-2":9617646,
+        "fy-1":9332182,
+        "fy-0":8843340,
+        "fy+1":8738756
       },
       {
         "title":"Office of Arts & Culture",
@@ -131,10 +131,10 @@
       {
         "total":"Total Cabinet",
         "line_type":"total",
-        "fy-2":28972521,
-        "fy-1":28462806,
-        "fy-0":27881789,
-        "fy+1":27250937
+        "fy-2":9737229,
+        "fy-1":9798442,
+        "fy-0":10195109,
+        "fy+1":9773425
       }
     ]
   }

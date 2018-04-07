@@ -14,7 +14,7 @@
   "section_type_short":"C",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~housing-and-neighborhood-development.json",
-  "source_time":"20180405124831",
+  "source_time":"20180407160954",
   "source_year":"19",
   "mission":[
     "The Cabinet is committed to making Boston the most livable city in the nation by working with its many communities to build strong neighborhoods through the strategic investment of public resources."
@@ -101,18 +101,18 @@
       {
         "title":"Neighborhood Development",
         "line_type":"data",
-        "fy-2":262042508,
-        "fy-1":357817292,
-        "fy-0":248090828,
-        "fy+1":312568132
+        "fy-2":65510627,
+        "fy-1":89454323,
+        "fy-0":62022707,
+        "fy+1":78142033
       },
       {
         "total":"Total Cabinet",
         "line_type":"total",
-        "fy-2":262042508,
-        "fy-1":357817292,
-        "fy-0":248090828,
-        "fy+1":312568132
+        "fy-2":65510627,
+        "fy-1":89454323,
+        "fy-0":62022707,
+        "fy+1":78142033
       }
     ]
   }

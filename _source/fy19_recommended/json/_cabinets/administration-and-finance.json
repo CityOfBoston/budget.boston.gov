@@ -14,7 +14,7 @@
   "section_type_short":"C",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~administration-and-finance.json",
-  "source_time":"20180405124732",
+  "source_time":"20180407160934",
   "source_year":"19",
   "mission":[
     "The Administration and Finance Cabinet ensures that city services are delivered with high quality, with high ethical standards, are financially prudent, are responsive to the needs of the citizens of Boston, and consistent with the laws and ordinances governing municipal government."
@@ -187,26 +187,18 @@
       {
         "title":"Auditing Department",
         "line_type":"data",
-        "fy-2":1396765,
-        "fy-1":790730,
-        "fy-0":878395,
-        "fy+1":909085
-      },
-      {
-        "title":"Treasury Department",
-        "line_type":"data",
-        "fy-2":0,
-        "fy-1":0,
-        "fy-0":90900005,
-        "fy+1":119306250
+        "fy-2":279353,
+        "fy-1":158146,
+        "fy-0":175679,
+        "fy+1":181817
       },
       {
         "total":"Total Cabinet",
         "line_type":"total",
-        "fy-2":1396765,
-        "fy-1":790730,
-        "fy-0":91778400,
-        "fy+1":120215335
+        "fy-2":279353,
+        "fy-1":158146,
+        "fy-0":175679,
+        "fy+1":181817
       }
     ]
   }

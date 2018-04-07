@@ -14,7 +14,7 @@
   "section_type_short":"C",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~civic-engagement.json",
-  "source_time":"20180405124755",
+  "source_time":"20180407160843",
   "source_year":"19",
   "mission":[
     "The Civic Engagement Cabinet seeks to improve the delivery of City Services as well as create opportunities for all Boston Residents to participate in local government."
@@ -65,17 +65,17 @@
       {
         "title":"Neighborhood Services",
         "line_type":"data",
-        "fy-2":100000,
-        "fy-1":87992,
-        "fy-0":300000,
+        "fy-2":25000,
+        "fy-1":21998,
+        "fy-0":75000,
         "fy+1":0
       },
       {
         "total":"Total Cabinet",
         "line_type":"total",
-        "fy-2":100000,
-        "fy-1":87992,
-        "fy-0":300000,
+        "fy-2":25000,
+        "fy-1":21998,
+        "fy-0":75000,
         "fy+1":0
       }
     ]

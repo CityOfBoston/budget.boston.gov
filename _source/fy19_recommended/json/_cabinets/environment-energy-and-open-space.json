@@ -14,7 +14,7 @@
   "section_type_short":"C",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~environment-energy-and-open-space.json",
-  "source_time":"20180405124809",
+  "source_time":"20180407160949",
   "source_year":"19",
   "mission":[
     "The mission of the Environment, Energy and Open Space Cabinet is to coordinate several City departments and programs to enhance sustainability, preserve historic and open space resources, protect the health and safety of the built environment, prepare for climate change, and provide public spaces to gather and recreate in Boston. The Environment, Energy and Open Space Cabinet includes initiatives that reduce energy use in municipal buildings and in the community with Renew Boston, enforce the right to a healthy home, engage the community on sustainability with Greenovate Boston, promote waste reduction, and expand the network of street trees."
@@ -89,7 +89,7 @@
             "fy+1":8064300
           },
           {
-            "title":"Inspectional Services Dept",
+            "title":"Inspectional Services Department",
             "line_type":"data",
             "fy-2":0,
             "fy-1":45098,
@@ -139,26 +139,26 @@
       {
         "title":"Inspectional Services Dept",
         "line_type":"data",
-        "fy-2":2340664,
-        "fy-1":1604268,
-        "fy-0":1619528,
-        "fy+1":1345352
+        "fy-2":585166,
+        "fy-1":401067,
+        "fy-0":404882,
+        "fy+1":336338
       },
       {
         "title":"Parks & Recreation Department",
         "line_type":"data",
-        "fy-2":30368268,
-        "fy-1":31632540,
-        "fy-0":23195152,
-        "fy+1":23101844
+        "fy-2":7592067,
+        "fy-1":7908135,
+        "fy-0":5798788,
+        "fy+1":5775461
       },
       {
         "total":"Total Cabinet",
         "line_type":"total",
-        "fy-2":33542979,
-        "fy-1":33976872,
-        "fy-0":26081862,
-        "fy+1":25170364
+        "fy-2":9011280,
+        "fy-1":9049266,
+        "fy-0":7470852,
+        "fy+1":6834967
       }
     ]
   }

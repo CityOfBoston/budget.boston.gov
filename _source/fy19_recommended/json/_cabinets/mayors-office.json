@@ -14,7 +14,7 @@
   "section_type_short":"C",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~mayors-office.json",
-  "source_time":"20180405124840",
+  "source_time":"20180407160845",
   "source_year":"19",
   "mission":[
     "The agencies reporting to the Mayor's Office represent the Mayor and the City in legal matters, public relations, and elections. The Mayor's vision for the future of the City is reflected in the policies and directions carried forward by the staff of these offices."
@@ -90,7 +90,7 @@
         },
         "data":[
           {
-            "title":"Mayor's Office",
+            "title":"Office of the Mayor",
             "line_type":"data",
             "fy-2":0,
             "fy-1":30250,
@@ -124,26 +124,26 @@
       {
         "title":"Law Department",
         "line_type":"data",
-        "fy-2":108056,
-        "fy-1":1169188,
-        "fy-0":2000000,
-        "fy+1":2000000
+        "fy-2":27014,
+        "fy-1":292297,
+        "fy-0":500000,
+        "fy+1":500000
       },
       {
         "title":"Mayor's Office",
         "line_type":"data",
-        "fy-2":3000360,
-        "fy-1":3539040,
-        "fy-0":5501990,
-        "fy+1":4024535
+        "fy-2":600072,
+        "fy-1":707808,
+        "fy-0":1100398,
+        "fy+1":804907
       },
       {
         "total":"Total Cabinet",
         "line_type":"total",
-        "fy-2":3108416,
-        "fy-1":4708228,
-        "fy-0":7501990,
-        "fy+1":6024535
+        "fy-2":627086,
+        "fy-1":1000105,
+        "fy-0":1600398,
+        "fy+1":1304907
       }
     ]
   }
