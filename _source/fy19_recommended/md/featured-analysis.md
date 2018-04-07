@@ -12,15 +12,15 @@ components:
 - intro:
   - title: Featured Analysis
     short_desc: >
-      Through operational reviews, data-driven initiatives, and
+      Boston is a growing and thriving city, whose residents need
+      new and expanded services. Throuhgh data-driven initiatives,
       other planning efforts, the Walsh Administration has 
-      identified need for investment in key areas. Cards below.
+      identified new areas for investment in key areas highlighted below.
     description: >
-      Mayor Walsh presented a balanced budget that maintains 
-      high levels of support in critical areas such as education and public safety, makes limited strategic investments,continues the City's commitment to addressing its long-term liabilities, and builds on the Administration's record of strong fiscal management. This is made possible by the Administration's achievement of efficiencies and savings. The City's data-driven managerial approach was recently validated by the affirmation of Boston's triple A bond rating.
-    sidebar_menu: true
+     sidebar_menu: true
 - grid:
   - grid_title: Education
+  - card: /featured-analysis/education-overview/
   - card: /featured-analysis/bps-scaling-successful-programs/
   - card: /featured-analysis/bps-great-equalizer/
   - card: /featured-analysis/buildbps/
@@ -28,15 +28,15 @@ components:
   - card: /featured-analysis/health-social-emotional-wellness/
 - grid: 
   - grid_title: City Budget Priorities
-  - card: /featured-analysis/arts-and-culture/  
-  - card: /featured-analysis/energy-environment-preparing-for-climate-change/
-  - card: /featured-analysis/improving-expanding-addiction-services/
   - card: /featured-analysis/public-safety-for-growing-city/
-  - card: /featured-analysis/open-space-imagine-boston-2030-goals/
-  - card: /featured-analysis/prosperity-racial-equity-diversity-economic-mobility/
-  - card: /featured-analysis/supporting-our-youth/
   - card: /featured-analysis/housing-boston-2030/
   - card: /featured-analysis/streets/ 
+  - card: /featured-analysis/supporting-our-youth/
+  - card: /featured-analysis/improving-expanding-addiction-services/ 
+  - card: /featured-analysis/prosperity-racial-equity-diversity-economic-mobility/
+  - card: /featured-analysis/arts-and-culture/  
+  - card: /featured-analysis/energy-environment-preparing-for-climate-change/
+  - card: /featured-analysis/open-space-imagine-boston-2030-goals/
 - grid: 
   - grid_title: Centralized and Fixed Costs
   - card: /featured-analysis/city-services/
