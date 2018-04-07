@@ -28,11 +28,11 @@ components:
     body: >
       <p>Mayor Walsh released Go Boston 2030 in March 2017 to push Boston for streets and sidewalks that are safer, travel that is more    reliable and predictable, and quality transportation choices that improve access and interconnect our neighborhoods for all modes of travel. Driven by these core goals of safety, reliability, equity and access, Mayor Walsh’s FY19 operating and FY19-FY23 capital budget dedicates transformational funding for transportation projects. By increasing certain parking fines in FY19, the City will produce positive results by changing driver behavior and reducing congestion in high traffic areas, as well as allow the City to make $5 million in signature investments in transportation projects.</p>
       <h5>Investing in Streets & Signals</h5>
-      <p>A subset of the $5 million investment is focused on improving the basics of the City's 800 miles of streets, 1,600 miles of sidewalks, and over 800 traffic signals, including:</p>
+      <p>A portion of the $5 million investment is focused on improving the basics of the City's 800 miles of streets, 1,600 miles of sidewalks, and over 800 traffic signals, including:</p>
       <ul>
       <li>$2 million increase in investment for roadway resurfacing and sidewalk repairs.</li>
       <li>$150,000 for stormwater interventions on our roadways to better manage high precipitation events.</li>
-      <li>One new traffic signal engineer to manage and retime traffic signals to increase safety, and reduce traffic congestion and related vehicle emissions.<li>
+      <li>One new traffic signal engineer to manage and retime traffic signals to increase safety, and reduce traffic congestion and related vehicle emissions.
       <li>Two new traffic signal mechanics to keep signals working as designed.</li>
       </ul>  
       <h5>Increasing Safety for Walking & Biking</h5>
