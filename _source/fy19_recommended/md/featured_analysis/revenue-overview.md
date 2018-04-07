@@ -44,6 +44,7 @@ components:
       <blockquote> Mayor Walsh advocated for a change in State law that increased the residential exemption limit from 30% to 35% of the average assessed value of all Class One residential properties. This year, the City Council, with the approval of the Mayor, once again chose the maximum exemption allowed by law. The FY18 residential exemption amount increased by $106 over last year’s amount.</blockquote>
       <p>Additionally, the FY18 classified tax rates decreased from the FY17 levels, resulting in substantial savings for the City’s residential taxpayers, while still maximizing its taxable levy.</p>  
       <p>Thanks to efforts to attract business development and grow its housing stock, Boston experienced unprecedented new growth in property tax revenue over the past two fiscal years. In FY19, we expect new growth to continue, but will likely not exceed experiences in FY17 and FY18.</p>
+    img: /img/net-state-aid.png  
 - text_block:
   - title: State Revenue Overview
     body: >
