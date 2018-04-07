@@ -5,7 +5,7 @@ title: Revenue overview
 card:
   - title: Revenue Overview
     body: >
-      The City will generate over $3 billion in revenue for the first time in history. Find out how.
+      Boston’s expanding economy is generating growing revenue to support investments in city neighborhoods.
     img: /img/fa-revenue-overview.jpg
     link: /featured-analysis/revenue-overview
 components:
@@ -21,14 +21,19 @@ components:
 - intro:
   - title: Revenue overview
     short_desc: >      
-      The FY19 budget is balanced on projections of revenue streams including the property tax, State aid and other local receipts.
+      The FY19 budget is balanced on projections of revenue including the property tax, State aid and other local receipts.
     description: >
-      <p>Boston’s expanding economy is generating growing revenue to support investments in city neighborhoods. Property tax growth remains the main driver and far exceeds previous growth realized in the City. Local receipts, such as fines, fees and excise tax also continue to grow modestly as a result of an expanding economy. The City continues to weather reductions to net State aid, a decade-long trend of disinvestment driven by modest growth in State aid revenue and large increases in State assessments. Net State Aid (state aid net of assessments) is budgeted to decline as continued increases in state assessments for charter school tuition outpace stagnant budgeted state revenue.</p>
+      <p>The FY19 budget relies on $3.29 billion in revenue.</p>
     sidebar_menu: true 
 - text_block:
-  - title: Revenue Overview
+  - title: Revenue Growth
     body: >
-      <p>FY19 relies on $3.29 billion in revenue, a $137 million (4.3%) increase over FY18. Local sources continue to drive revenue growth in FY19, as property tax and local receipts make up 97% of revenue growth over FY18. Of the $137 million in new revenue, $118 million (86%) is projected to come from property tax growth. Other local receipts account for $14 million (11%), while State revenue is projected to grow by $4 million (3%). </p>
+    <p>FY19 relies on $3.29 billion in revenue, a $137 million, or 4.3%, increase over FY18. Local sources continue to drive revenue growth in FY19, as property tax and local receipts make up 97% of revenue growth over FY18. The $137 million increase is broken down as follows:</p>
+  <li>$118 million is projected to come from property tax growth</li>
+  <li>Other local receipts account for $14 million</li>
+  <li>While State revenue is projected to grow by $4 million, </li>
+    <p>Property tax growth remains the main driver in revenue growth and far exceeds previous growth realized in the City. Local receipts, such as fines, fees and excise tax also continue to grow modestly as a result of an expanding economy.  After a decade-long trend of modest growth in State revenue and large increases in State assessments, the City continues to weather reductions to net State aid (state revenue net of assessments).</p>
+  <blockquote>Net State Aid is budgeted to decline as continued increases in state assessments for charter school tuition outpace stagnant budgeted state revenue.</blockquote>
 - text_block:
   - title: Property Tax Overview
     body: >
