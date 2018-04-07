@@ -12,7 +12,7 @@ components:
 - intro:
   - title: Operating Budget
     short_desc: >
-      The FY19 Recommended Operating Budget totals $3.294 billion and represents an increase of $137 million or 4.3% over FY18. The FY19 budget continues the City’s record of strong fiscal management. Expanding on savings initiatives launched during Mayor Walsh’s Administration to offset growth in fixed costs. The FY19 budget features data-driven investments in a thriving, healthy, and innovative city.
+      The FY19 Recommended Operating Budget totals $3.29 billion and represents an increase of $137 million or 4.3% over FY18. The FY19 budget continues the City’s record of strong fiscal management. Expanding on savings initiatives launched during Mayor Walsh’s Administration to offset growth in fixed costs. The FY19 budget features data-driven investments in a thriving, healthy, and innovative city.
     sidebar_menu: true
 - text_col_2: 
   - col: >
