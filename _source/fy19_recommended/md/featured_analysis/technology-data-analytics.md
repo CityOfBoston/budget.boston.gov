@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Putting Data Analytics to Work
-  - published: 4/13/17
+  - published: 4/11/18
 - intro:
   - title: Putting data analytics to work
     short_desc: >
@@ -29,7 +29,7 @@ components:
     sidebar_menu: true
 - text_block:
   - title: Analytics work
-  - body: >
+    body: >
       <ul>
       <li>Launching the City of Boston’s second-generation open data portal, Analyze Boston. The site curates more than a hundred datasets and pairs them with tools for data exploration and analysis</li>
       <li>Implementing algorithms to generate a prioritized list of rental unit inspections for the Inspectional Services Department</li>
@@ -48,7 +48,6 @@ components:
       <li>help students at risk of failing or dropping out of school; and</li>
       <li>promote safe, affordable, and accessible housing for all residents.</li>
       </ul>
-
 - grid: 
   - grid_title: More budget analysis
   - card: /featured-analysis/technology-city-services-through-cityscore/
