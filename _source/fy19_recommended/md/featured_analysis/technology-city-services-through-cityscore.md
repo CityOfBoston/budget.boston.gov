@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Improving City Services through CityScore
-  - published: 4/13/17
+  - published: 4/11/18
 - intro:
   - title: Improving City services through CityScore
     short_desc: >
