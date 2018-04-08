@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: State Revenue and Assessments
-  - published: 4/13/17
+  - published: 4/11/18
 - intro:
   - title: State Revenue and Assessments
     short_desc: >
