@@ -27,9 +27,10 @@ components:
   - title: Revenue Growth
     body: >
       <p>FY19 relies on $3.29 billion in revenue, a $137 million, or 4.3%, increase over FY18. Local sources continue to drive revenue growth in FY19, as property tax and local receipts make up 97% of revenue growth over FY18. The $137 million increase is broken down as follows:</p>
+      <ul>
       <li>$118 million is projected to come from property tax growth</li>
       <li>Other local receipts account for $14 million</li>
-      <li>While State revenue is projected to grow by $4 million, </li>
+      <li>While State revenue is projected to grow by $4 million, </li></ul>
       <p>Property tax growth remains the main driver in revenue growth and far exceeds previous growth realized in the City. Local receipts, such as fines, fees and excise tax also continue to grow modestly as a result of an expanding economy.  After a decade-long trend of modest growth in State revenue and large increases in State assessments, the City continues to weather reductions to net State aid (state revenue net of assessments).</p>
       <blockquote>Net State Aid is budgeted to decline as continued increases in state assessments for charter school tuition outpace stagnant budgeted state revenue.</blockquote>
 - text_block:
