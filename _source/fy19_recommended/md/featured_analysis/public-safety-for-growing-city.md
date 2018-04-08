@@ -7,7 +7,7 @@ card:
     body: >
       Boston is investing in initiatives to to meet the public safety needs of a growing City.
     img: /img/fa-health-safety-firefighter-health-safety.jpg
-    link: /featured-analysis/public-safety-for-a-growing-city
+    link: /featured-analysis/public-safety-for-growing-city
 components:
 - breadcrumbs:
   - title: Home
