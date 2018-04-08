@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: The Economy
-  - published: 4/13/17
+  - published: 4/11/18
   - intro:
   - title: The Economy
     short_desc: >      
