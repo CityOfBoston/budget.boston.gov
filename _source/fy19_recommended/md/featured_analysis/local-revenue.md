@@ -30,7 +30,7 @@ components:
     body: >
       <p>Many of the City’s local receipts are sensitive to existing economic conditions and the City takes a cautious approach when estimating local receipts.</p>  
       <p>With limited revenue tools, the City is continuing an initiative in the FY19 budget to better maximize the local revenue tools. This City will also work to maximize federal health insurance reimbursements and address past due bills to recover revenue.</p> 
-    -img: /img/recurring-local-revenue.png
+    right_image: /img/recurring-local-revenue.png
       <p>The following is a brief description of selected local receipts and their expectations for FY19:</p>
       <h5>Excises</h5>
       <ul>
