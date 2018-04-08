@@ -22,7 +22,6 @@ components:
   - title: Scaling Successful District-Wide Programs
     short_desc: >
       In addition to the $10 million in additional supports going directly to schools, BPS is expanding system-wide initiatives that are closing opportunity and achievement gaps for students across the city. 
-    description: >
      sidebar_menu: true    
 - text_block:
   - title: Targeted Investments District-Wide
