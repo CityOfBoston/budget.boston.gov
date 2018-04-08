@@ -17,14 +17,12 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Local Revenue
-  - published: 4/13/17
+  - published: 4/11/18
 - intro:
   - title: Local Revenue 
     short_desc: >
       The City annually collects a significant amount of recurring revenues 
-      other than Property Tax or State Aid.
-    description: >
-      The FY17 Budget included $474.3 million in local receipt revenue, and the FY18 
+      other than Property Tax or State Aid. The FY17 Budget included $474.3 million in local receipt revenue, and the FY18 
       budget budgets an increase to $500.6 million.
     sidebar_menu: true
 - text_block:
