@@ -8,7 +8,7 @@ components:
     url: "/"
     local: true
   - current: How the budget works
-  - published: 4/13/17
+  - published: 4/11/18
 - intro:
   - title: How the budget works
     short_desc: >
