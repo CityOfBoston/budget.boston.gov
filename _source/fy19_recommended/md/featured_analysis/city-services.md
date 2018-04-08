@@ -23,7 +23,7 @@ components:
     short_desc: >
      City Services such as Police, Fire, Public Works, Housing, Public Health, and other central funds are projected to increase by a total of $42.8 million (3.1%). 
     description: >
-      Public safety costs are rising by 3.0% in FY18. The appropriation for the Public Health Commission is growing by 6.8% with a significant increase in EMS services and full funding for a permanent engagement center in response to substance issues. 
+      Public safety costs are rising by 3.5% in FY19. The appropriation for the Public Health Commission is growing by 6.8% with a significant increase in EMS services and full funding for a permanent engagement center in response to substance issues. 
     sidebar_menu: true
 - text_block: 
   - title: Other City departments
