@@ -90,6 +90,7 @@ components:
         differentiated supports, which total over $16 million. This includes a new $1.25 
         million reserve focused on supporting low level 3, 4 and 5 schools with declining 
         enrollment.
+       <br/><br/>
     - link:
         title: View the BPS Operating Budget
         path: /operating-budget/cabinets/education/boston-public-schools
