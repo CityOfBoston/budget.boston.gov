@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Promoting Firefighter Health and Safety
-  - published: 4/13/17
+  - published: 4/11/18
 - intro:
   - title: Promoting firefighter health and safety
     short_desc: >
