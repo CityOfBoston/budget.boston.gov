@@ -29,7 +29,7 @@ components:
   - title: Net State Aid
     body: >
       <p>Boston’s net State aid, which is gross State revenue minus State assessments, has been trending down steeply since FY02. With a decrease in net State aid for FY19, Boston is 65.5%, or $207.4 million, below its FY08 level of net State aid. The rapid annual increase in the charter school tuition assessment contributed to this trend. This loss of revenue has put extraordinary pressure on the property tax and other local revenue sources as well as levels of expenditures.</p>
-      <p>The City’s FY19 estimates of state revenue and state assessments is based on the Governor’s proposed budget as the legislature will release the final version of the state budget following release of the City’s recommended budget.<\p> 
+      <p>The City’s FY19 estimates of state revenue and state assessments is based on the Governor’s proposed budget as the legislature will release the final version of the state budget following release of the City’s recommended budget.</p> 
     right_image: /img/net-state-aid.png
 - text_block:
   - title: State Revenue
