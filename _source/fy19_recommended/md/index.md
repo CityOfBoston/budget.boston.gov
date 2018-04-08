@@ -130,8 +130,8 @@ components:
   - col:
       - blurb: Learn more about
       - link:
-          title: how the Budget works
+          title: how the Budget works,
           path: /how-the-budget-works
           button: false
-      - blurb: ", including its timeline and how its organized."
+      - blurb: "including its timeline and how its organized."
 ---
