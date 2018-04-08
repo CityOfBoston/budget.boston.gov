@@ -17,14 +17,12 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Revenue overview
-  - published: 4/13/17
+  - published: 4/11/18
 - intro:
   - title: Revenue overview
     short_desc: >      
-      The FY19 budget is balanced on projections of revenue including the property tax, State aid and other local receipts.
-    description: >
-      <p>The FY19 budget relies on $3.29 billion in revenue coming from mostly propoerty, tax and a smaller mis of local recipts and State Revenue.</p>
-    sidebar_menu: true 
+      The FY19 budget is balanced on projections of revenue including the property tax, State aid and other local receipts. The FY19 budget relies on $3.29 billion in revenue coming from mostly propoerty, tax and a smaller mis of local recipts and State Revenue.
+    sidebar_menu: true
 - text_block:
   - title: Revenue Growth
     body: >
