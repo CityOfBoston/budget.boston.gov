@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Building Thriving Community Libraries
-  - published: 4/13/17
+  - published: 4/11/18
 - intro:
   - title: Building thriving community libraries
     short_desc: >
