@@ -62,7 +62,7 @@ components:
       obligations.</p>
 - text_col_2:
   - col: >
-      <a href="http://debt-service-percent-of-total-general-fund-expenditures.png"><img src="http://debt-service-percent-of-total-     general-fund-expenditures.png/300x400"></a>
+      <a href="http://debt-service-percent-of-total-general-fund-expenditures.png"><img src="http://debt-service-percent-of-total-general-fund-expenditures.png/300x400"></a>
       <p><em>Debt Service as a Percent of Total General Fund Expenditures 
       FY16-FY23</em></p>
       <p>The City’s gross debt service requirement will remain under 7% of total General Fund expenditures 
