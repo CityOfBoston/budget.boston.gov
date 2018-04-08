@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Non-recurring Revenue
-  - published: 4/13/17
+  - published: 4/11/18
 - intro:
   - title: Non-recurring revenue
     short_desc: >
