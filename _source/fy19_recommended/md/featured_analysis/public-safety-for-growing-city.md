@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Public Safety for a Growing City
-  - published: 4/13/17
+  - published: 4/11/18
 - intro:
   - title: Public Safety for a Growing City
     short_desc: >
