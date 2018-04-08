@@ -14,7 +14,7 @@ components:
     url: "/"
     local: true
   - current: Financial management
-  - published: 4/13/17
+  - published: 4/11/18
 - intro:
   - title: Financial Management
     short_desc: >
