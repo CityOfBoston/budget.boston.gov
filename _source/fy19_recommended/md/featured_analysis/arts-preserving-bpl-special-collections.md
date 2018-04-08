@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Preserving Boston Public Library's Special Collections
-  - published: 4/13/17
+  - published: 4/11/18
 - intro:
   - title: Preserving Boston Public Library's special collections
     short_desc: >
