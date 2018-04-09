@@ -134,8 +134,8 @@ components:
       <p>Target 75% completed within 20 business days</p>
       <h5>PARKS MAINTENANCE ON-TIME %</h5>
       <p>Target 80% lighting issues completed within 7 business days; 80% all other issues completed within 5 business days</p>
-     <h5>PART 1 CRIMES</h5>
-     <p>Fewer incidents than previous years</p>
+      <h5>PART 1 CRIMES</h5>
+      <p>Fewer incidents than previous years</p>
   - col: >
       <h5>POTHOLE ON-TIME %</h5>
       <p>Target 80% completed within 1 business day</p>

@@ -16,7 +16,7 @@ components:
       new and expanded services. Throuhgh data-driven initiatives,
       other planning efforts, the Walsh Administration has 
       identified new areas for investment in key areas highlighted below.
-     sidebar_menu: true
+    sidebar_menu: true
 - grid:
   - grid_title: Education
   - card: /featured-analysis/education-overview/
