@@ -58,16 +58,16 @@ components:
       <h5>What Works Cities Certification</h5>
       <p>Boston was one of nine U.S. cities awarded certification from Bloomberg Philanthropies’ What Works Cities program. The program recognizes our commitment to the use of data and analytics to improve residents’ quality of life.</p>
       <p>Through What Works Cities, Boston will share insights with a community of peers, </p>
-  - col: >
       <p>helping cities lead the way on big challenges ranging from equity to climate change.</p>
-         <h5>EMS Community Assistance Teams</h5>
+  - col: >
+      <h5>EMS Community Assistance Teams</h5>
       <p>As part of our ongoing collaboration with Boston EMS, we assisted with the creation of a new Community Assistance Team to provide specialized care for residents dealing with issues such as substance abuse and homelessness.</p>
-  - col: 
-        <p>Known as Squad 80, this team works in high-demand areas and can help connect patients with the long-term support and services they need.</p>
-   - col: >
-      <h5>Imagine Boston 2030</h5>
-      <p>We designed a set of dashboards to visualize progress in implementing the City’s Imagine Boston 2030 plan. These visualizations use data to help illustrate where we stand on the goals set by the Imagine Boston 2030 plan, and will be updated annually. Going forward, the tool will help the public to understand long-term trends affecting quality of life in Boston, such as housing costs, economic opportunity, and public health and safety.</p>
-  right_image: /img/imagine-boston.PNG
+      <p>Known as Squad 80, this team works in high-demand areas and can help connect patients with the long-term support and services they need.</p>
+  - col:
+    - blurb: >
+        <h5>Imagine Boston 2030</h5>
+        <p>We designed a set of dashboards to visualize progress in implementing the City’s Imagine Boston 2030 plan. These visualizations use data to help illustrate where we stand on the goals set by the Imagine Boston 2030 plan, and will be updated annually. Going forward, the tool will help the public to understand long-term trends affecting quality of life in Boston, such as housing costs, economic opportunity, and public health and safety.</p>
+    - img: /img/imagine-boston.PNG
 - text_block:
   - title: Delivering results
     body: >
