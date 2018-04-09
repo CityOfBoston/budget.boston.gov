@@ -6,7 +6,7 @@ card:
   - title: Schools as the Great Equalizer
     body: >
       Learn about the targeted research-backed investments BPS will make in FY18.
-    img: /img/fa-education-overview.jpg
+    img: /img/fa-charter-school-tuition.jpg
     link: /featured-analysis/bps-great-equalizer/
 components:
 - breadcrumbs:
