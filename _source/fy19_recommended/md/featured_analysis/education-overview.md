@@ -28,8 +28,7 @@ components:
 - text_block:
   - title: Boston Public Schools budget
     body: >
-      <p>his spring, the School Committee unanimously approved a $1.109 billion budget for BPS which marks the largest BPS budget in history.</p>
-      <p>With this investment, Mayor Walsh has increased funding for the BPS annual budget by $48 million from the FY18 adopted budget, and the number of BPS educators will have increased by approximately 358 since he took office. Funding directed to schools will increase by $40 million or almost 6% in FY19, even before the largest driver of BPS costs, employee collective bargaining increases, are negotiated.</p>
+      <p>This spring, the School Committee unanimously approved a $1.109 billion budget for BPS which marks the largest BPS budget in history. With this investment, Mayor Walsh has increased funding for the BPS annual budget by $48 million from the FY18 adopted budget, and the number of BPS educators will have increased by approximately 358 since he took office. Funding directed to schools will increase by $40 million or almost 6% in FY19, even before the largest driver of BPS costs, employee collective bargaining increases, are negotiated.</p>
 - table:
   - title: Budget breakdown
     columns:
