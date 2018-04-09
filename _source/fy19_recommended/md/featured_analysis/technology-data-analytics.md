@@ -38,7 +38,7 @@ components:
       <li>Making great strides toward moving more of our data infrastructure to the Cloud with the goal of developing a platform that combines modern, scalable, data warehousing technology with tools that make it easier for staff to develop and use the data we collect</li>
       <li>Implementing the FY18 Community Assistance Team pilot program in conjunction with Boston EMS.</li>
       </ul>
-      <h5>Analytics work in FY19>
+      <h5>Analytics work in FY19</h5>
       <p>In FY19, the Analytics Team will continue to build on its infrastructure investments by undertaking additional development of its data warehousing, data science, open data, GIS, and performance management platforms. This work will expand the team’s own capabilities and capacity, provide a more efficient and user-friendly toolkit for analysts across departments, and enable greater transparency and accessibility for constituents who benefit from the City’s data resources.</p>
       <h5>Future work</h5>
       <p>In the future, these efforts will give the City new resources to more efficiently:</p>
