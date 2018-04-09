@@ -6,7 +6,7 @@ card:
   - title: Supporting our Youth
     body: >
       Investment in the city’s youth is an investment in the city’s future
-    img: /img/fa-prosperity-recruiting-diverse-police-force.jpg
+    img: /img/Mayor_with_students.jpg
     link: /featured-analysis/supporting-our-youth/
 components:
 - breadcrumbs:

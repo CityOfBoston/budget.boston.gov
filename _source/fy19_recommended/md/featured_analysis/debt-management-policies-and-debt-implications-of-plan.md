@@ -53,12 +53,12 @@ components:
           bonded debt (the City has no variable debt).</li>
         </ul>
       <p>For further discussion of the City’s financial policies and management controls, refer 
-      to the chapter on Financial Management.</p>
+      to the pdf chapter (Volume I) on Financial Management.</p>
   - col: >
       <p>The City’s debt service forecast assumes general obligation borrowing of $177 million 
       in FY19, $203 million in FY20, $220 million in FY21, $215 million in FY22, and $200 million 
       in FY23.</p>
-      <p>The debt tables at the end of this chapter detail the City’s outstanding debt service 
+      <p>The debt tables at the end of the pdf chapter (Volume I) on Capital Planning detail the City’s outstanding debt service 
       obligations.</p>
 - text_col_2:
   - col:
