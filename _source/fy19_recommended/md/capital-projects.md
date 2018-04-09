@@ -62,7 +62,7 @@ components:
       the City is investing deeply in the core goals of BuildBPS, Go Boston 2030,
       Boston Creates, and Climate Ready Boston. An estimated 84% of the investment
       in the FY19-23 Capital Plan is aligned with the City’s planning efforts:</p>
-                right_image: /img/Expenditures by category.png
+  right_image: /img/Expenditures by category.png
 - text_col_2:
   - col: >
       <h5>Moving into the 21st century</h5>
