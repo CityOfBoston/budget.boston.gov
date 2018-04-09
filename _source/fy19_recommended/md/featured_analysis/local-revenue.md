@@ -30,7 +30,6 @@ components:
     body: >
       <p>Many of the City’s local receipts are sensitive to existing economic conditions and the City takes a cautious approach when estimating local receipts.</p>  
       <p>With limited revenue tools, the City is continuing an initiative in the FY19 budget to better maximize the local revenue tools. This City will also work to maximize federal health insurance reimbursements and address past due bills to recover revenue.</p> 
-    right_image: /img/recurring-local-revenue.png
       <p>The following is a brief description of selected local receipts and their expectations for FY19:</p>
       <h5>Excises</h5>
       <ul>
@@ -57,7 +56,7 @@ components:
       <h5>Available Funds</h5>
       <p>Most of the City’s General Fund budget is supported by the revenues that are estimated to come in during the course of the fiscal year, including property tax, excises, State aid, and the various other categories of revenues described above. Available funds are linked to a separate category of expenditure appropriation - those supported by immediately available fund transfers.</p>  
       <p>The only two significant available funds that the City generally budgets each year are parking meter revenues to support the Transportation Department, and cemetery trust monies which are used to support the City’s maintenance of its public cemeteries. Both special funds have fees collected during the course of the year. By transferring out less than what is collected over the years, the City has built up the balances in these funds. Trust fund balances, such as the cemetery trust, also benefit from the opportunity to invest in securities offering a higher return than short-term fixed-income investments. The City did not transfer any funds to the General Fund in FY16 or FY17. The City expects to transfer $22.5 million from the parking meter fund to the General Fund in FY18 and FY19. The City also plans to transfer $950,000 from the cemetery trust fund to the General Fund in FY18 and in FY19.</p>
-    
+    right_image: /img/recurring-local-revenue.png 
 - grid:
   - grid_title: More budget analysis
   - card: /featured-analysis/revenue-overview/
