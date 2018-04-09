@@ -13,7 +13,7 @@ components:
   - title: How the budget works
     short_desc: >
       <p>Preparing the City's budget takes more than six months from start to finish. Learn more about the process in two minutes.</p>
-      <p><a class="button" style="font-style: normal;" href="https://www.boston.gov/public-notices?title=FY19+Budget/">Attend a budget hearing</a></p>
+      <p><a class="button" style="font-style: normal;" href="https://www.boston.gov/public-notices?title=FY19+Budget&field_contact_target_id%5B%5D=441">Attend a budget hearing</a></p>
     description: >
       <iframe width="560" height="315" src="https://www.youtube.com/embed/vKcWmRxe2e8?ecver=1" frameborder="0" allowfullscreen></iframe>
     sidebar_menu: true
