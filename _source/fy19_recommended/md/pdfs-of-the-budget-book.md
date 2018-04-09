@@ -12,8 +12,7 @@ components:
 - intro:
   - title: PDFs of the budget volumes
     short_desc: >
-      This PDF represents the FY19 recommended budget document, the data in the interactive part of this site located at 
-      <a href="https://budget.boston.gov">https://budget.boston.gov</a>.
+      These PDFs represent the three-volume set of documents used to support the FY19 recommended budget.</a>.
     description:
     - blurb: >
         <p><a href="https://www.boston.gov/departments/budget#past-budgets">Visit Boston.gov</a> 
