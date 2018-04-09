@@ -61,18 +61,20 @@ components:
       <p>The debt tables at the end of this chapter detail the City’s outstanding debt service 
       obligations.</p>
 - text_col_2:
-  - col: >
-      <a href="http://debt-service-percent-of-total-general-fund-expenditures.png"><img src="http://debt-service-percent-of-total-general-fund-expenditures.png/300x400"></a>
-      <p><em>Debt Service as a Percent of Total General Fund Expenditures 
-      FY16-FY23</em></p>
-      <p>The City’s gross debt service requirement will remain under 7% of total General Fund expenditures 
-      through FY23.</p>
-  - col: >
-      <a href="http://debt-service-percent-of-net-property-tax-levy.png"><img src="http://debt-service-percent-of-net-property-tax-levy.png/300x400"></a>
-      <p><em>Debt Service as a Percent of the Net Property Tax Levy FY16-FY23</em></p>
-      <p>The ratio of debt service to the City’s primary revenue source, the property tax levy, is 
-      projected to increase through FY23. Even with the increase, the ratio is not 
-      expected to exceed the City’s policy ceiling.</p>
+  - col:
+    - img: /img/debt-service-percent-of-total-general-fund-expenditures.png
+    - blurb: >
+        <p><em>Debt Service as a Percent of Total General Fund Expenditures 
+        FY16-FY23</em></p>
+        <p>The City’s gross debt service requirement will remain under 7% of total General Fund expenditures 
+        through FY23.</p>
+  - col:
+    - img: /img/debt-service-percent-of-net-tax-levy.png
+    - blurb: >
+        <p><em>Debt Service as a Percent of the Net Property Tax Levy FY16-FY23</em></p>
+        <p>The ratio of debt service to the City’s primary revenue source, the property tax levy, is 
+        projected to increase through FY23. Even with the increase, the ratio is not 
+        expected to exceed the City’s policy ceiling.</p>
 - text_col_2:
   - col: >
       <h5>City debt burden</h5>
