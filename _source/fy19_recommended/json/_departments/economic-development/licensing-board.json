@@ -1,0 +1,57 @@
+---
+{
+  "debug":"JBD",
+  "publish_subordinates":false,
+  "file_version":"",
+  "section_id":52,
+  "section_md5_id":"9A1158154DFA42CADDBD0694A4E9BDC8",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Recommended",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Economic Development~licensing-board.json",
+  "source_time":"20180407210437",
+  "source_year":"19",
+  "name":"Licensing Board",
+  "parent":"Economic Development",
+  "cabinet":"Economic Development",
+  "department":"Licensing Board",
+  "head_name":null,
+  "head_title":null,
+  "appropriation_code":"Appropriation 252",
+  "mission":[
+    "The Board grants and regulates various types of alcohol and food licenses for restaurants, nightclubs, private clubs, package stores, hotels, inns, common victuallers (food only), bowling alleys, pool tables, lodging houses, dormitories (fraternities which are a category of dormitory licenses), and fortune tellers. The City of Boston Licensing Board consists of 3 Commissioners. The Commissioners are appointed by the Mayor and serve a 6 year term. The Boston Police officers act as agents of the Board, they report violations of the alcoholic and other laws of the Commonwealth to the Board. The Board holds hearings on these violations and issues penalties.",
+    "*In FY17 the Licensing Board was added to the Consumer Affairs & Licensing budget."
+  ],
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    "data":[
+      {
+        "name":"Licensing",
+        "line_type":"data",
+        "fy-2":637735,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":637735,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0
+      }
+    ]
+  }
+}
+---

@@ -1,0 +1,309 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Environment, Energy & Open Space",
+  "department":"Parks & Recreation Department",
+  "file_version":"",
+  "head_name":"Vacant",
+  "head_title":"Manager",
+  "name":"Parks Operations",
+  "parent":"Parks & Recreation Department",
+  "section_id":164,
+  "section_md5_id":"FA7CDFAD1A5AAF8370EBEDA47A1FF1C3",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~parks-and-recreation-administration.json",
+  "source_time":"20180407210532",
+  "source_year":"19",
+  "appropriation_code":"Organization 300200",
+  "description":[
+    "The Operations Program provides clean, hazard-free, and physically attractive areas for public use. This includes the Maintenance Division that maintains the grounds and equipment in squares, parks, all City athletic fields and playgrounds and the Park Ranger Unit that patrols parks to ensure public safety and park protection."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":7460425,
+      "fy-1":7718214,
+      "fy-0":7951924,
+      "fy+1":8391900
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":4455679,
+      "fy-1":5512737,
+      "fy-0":5621450,
+      "fy+1":5902674
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":11916104,
+      "fy-1":13230951,
+      "fy-0":13573374,
+      "fy+1":14294574
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":7460425,
+        "fy-1":7718214,
+        "fy-0":7951924,
+        "fy+1":8391900,
+        "diff":439976
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":2197240,
+        "fy-1":2867549,
+        "fy-0":3051020,
+        "fy+1":3152603,
+        "diff":101583
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":676917,
+        "fy-1":788754,
+        "fy-0":750974,
+        "fy+1":724557,
+        "diff":-26417
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":14057,
+        "fy-1":13345,
+        "fy-0":11465,
+        "fy+1":11465,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":482709,
+        "fy-1":391257,
+        "fy-0":334986,
+        "fy+1":499112,
+        "diff":164126
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":1084756,
+        "fy-1":1451832,
+        "fy-0":1473005,
+        "fy+1":1514937,
+        "diff":41932
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":11916104,
+        "fy-1":13230951,
+        "fy-0":13573374,
+        "fy+1":14294574,
+        "diff":721200
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Department being a successful steward to the environment. Consistent with Mayor Walsh's Parks First agenda: Access, Equity and Excellence"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Estimated tons of recycling removed",
+              "fy-2":"",
+              "fy-1":"3",
+              "fy-0":"5",
+              "fy+1":"5"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Estimated tons of waste removed",
+              "fy-2":"",
+              "fy-1":"1,918",
+              "fy-0":"2,080",
+              "fy+1":"2,080"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Developing a consistent measure for the Department's goal of providing a conistent high level of quality across all open spaces . Consistent with Mayor Walsh's Parks First agenda: Access, Equity and Excellence"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Park Quality Rating",
+              "fy-2":"",
+              "fy-1":"4",
+              "fy-0":"4",
+              "fy+1":"4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Parks goal of welcoming people of all abilities into our city's open spaces. Consistent with Mayor Walsh's Parks First agenda: Access, Equity and Excellence"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of Parks that have inclusive (ADA) play structures",
+              "fy-2":"",
+              "fy-1":"17%",
+              "fy-0":"3%",
+              "fy+1":"3%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To maintain clean, green, safe, attractive parks and playgrounds"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% Park maintenance requests completed on time",
+              "fy-2":"69%",
+              "fy-1":"79%",
+              "fy-0":"80%",
+              "fy+1":"80%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Park maintenance requests completed on time",
+              "fy-2":"3,157",
+              "fy-1":"3,132",
+              "fy-0":"3,000",
+              "fy+1":"3,000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To manage a street tree maintenance program"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% Tree maintenance work orders closed within 365 calendar days",
+              "fy-2":"97%",
+              "fy-1":"95%",
+              "fy-0":"80%",
+              "fy+1":"80%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Average time to complete a tree emergency request (Days)",
+              "fy-2":"1",
+              "fy-1":"1",
+              "fy-0":"1",
+              "fy+1":"1"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Tree maintenance requests completed on time",
+              "fy-2":"3,883",
+              "fy-1":"3,999",
+              "fy-0":"3,500",
+              "fy+1":"2,500"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

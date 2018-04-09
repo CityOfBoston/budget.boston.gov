@@ -1,0 +1,165 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Public Safety",
+  "department":"Fire Department",
+  "file_version":"",
+  "head_name":"James Lonergan",
+  "head_title":"Manager",
+  "name":"Firefighter Safety, Health and Wellness",
+  "parent":"Fire Department",
+  "section_id":115,
+  "section_md5_id":"2B44928AE11FB9384C4CF38708677C48",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~bfd-fire-prevention.json",
+  "source_time":"20180407210400",
+  "source_year":"19",
+  "appropriation_code":"Organization 221800",
+  "description":[
+    "The Firefighter Safety, Health and Wellness program works to protect and promote the well-being of Firefighters as they perform physically challenging responsibilities.  The program includes creating awareness through fitness and medical evaluations, encouraging physical fitness and healthy eating and living, improving personal protective equipment, and providing safe driver training.  Firefighters who are more physically fit, in addition to benefiting from general wellness benefits, encounter fewer workplace injuries from physically challenging repetitive situations."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":703944,
+      "fy-1":789449,
+      "fy-0":756904,
+      "fy+1":615305
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":40664,
+      "fy-1":66979,
+      "fy-0":72800,
+      "fy+1":75300
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":744608,
+      "fy-1":856428,
+      "fy-0":829704,
+      "fy+1":690605
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":703944,
+        "fy-1":789449,
+        "fy-0":756904,
+        "fy+1":615305,
+        "diff":-141599
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":22118,
+        "fy-1":43719,
+        "fy-0":40000,
+        "fy+1":41000,
+        "diff":1000
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":11414,
+        "fy-1":22043,
+        "fy-0":17200,
+        "fy+1":18700,
+        "diff":1500
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":600,
+        "fy+1":600,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":7132,
+        "fy-1":1217,
+        "fy-0":15000,
+        "fy+1":15000,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":744608,
+        "fy-1":856428,
+        "fy-0":829704,
+        "fy+1":690605,
+        "diff":-139099
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To protect City of Boston constituents and to ensure the safety, health and wellness of the fire fighters by preventing exposure to carcinogenic toxins and avoiding injuries."
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Firefighters attending resiliency, health and safety symposiums",
+              "fy-2":"",
+              "fy-1":"375",
+              "fy-0":"550",
+              "fy+1":"600"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

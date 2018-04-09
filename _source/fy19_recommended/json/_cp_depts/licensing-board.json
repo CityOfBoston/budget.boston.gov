@@ -1,0 +1,51 @@
+---
+{
+  "cabinet":"Economic Development",
+  "debug":"JBDCP",
+  "department":"Licensing Board",
+  "file_version":"",
+  "head_name":null,
+  "head_title":null,
+  "name":"Licensing Board",
+  "parent":"Economic Development",
+  "section_id":52,
+  "section_md5_id":"9A1158154DFA42CADDBD0694A4E9BDC8",
+  "section_type":"capital_budget",
+  "section_type_short":"L",
+  "source_version":"Recommended",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_cp_depts~licensing-board.json",
+  "source_time":"20180407210437",
+  "source_year":"19",
+  "mission":[
+    "The Board grants and regulates various types of alcohol and food licenses for restaurants, nightclubs, private clubs, package stores, hotels, inns, common victuallers (food only), bowling alleys, pool tables, lodging houses, dormitories (fraternities which are a category of dormitory licenses), and fortune tellers. The City of Boston Licensing Board consists of 3 Commissioners. The Commissioners are appointed by the Mayor and serve a 6 year term. The Boston Police officers act as agents of the Board, they report violations of the alcoholic and other laws of the Commonwealth to the Board. The Board holds hearings on these violations and issues penalties.",
+    "*In FY17 the Licensing Board was added to the Consumer Affairs & Licensing budget."
+  ],
+  "description_of_services":[
+    "The Board grants and regulates various types of alcohol and food licenses for restaurants, nightclubs, private clubs, package stores, hotels, inns, common victuallers (food only), bowling alleys, pool tables, lodging houses, dormitories or fraternities, and fortune tellers. The Board&rsquo;s jurisdiction is within the confines of the City of Boston for all of the aforementioned licenses. The Boston Police officers act as agents of the Board, they report violations of the alcoholic and other laws of the Commonwealth to the Board."
+  ],
+  "capital_budget_expenditures":[
+    {
+      "table_type":"capital_budget_expenditures",
+      "table_title":"Capital Budget Expenditures",
+      "table_header":{
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "fy-2":"FY16 Actual",
+        "fy-1":"FY17 Actual",
+        "fy-0":"FY18 Estimated",
+        "fy+1":"FY19 Projected"
+      },
+      "data":{
+        "line_type":"total",
+        "line_title":"Total Department",
+        "line_data_type":"total",
+        "fy-2":1569354,
+        "fy-1":4727854,
+        "fy-0":1500000,
+        "fy+1":1100000
+      }
+    }
+  ]
+}
+---

@@ -1,0 +1,228 @@
+---
+{
+  "debug":"JBD",
+  "publish_subordinates":true,
+  "file_version":"",
+  "section_id":89,
+  "section_md5_id":"7647966B7343C29048673252E490F736",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Recommended",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Economic Development~office-of-tourism.json",
+  "source_time":"20180407210442",
+  "source_year":"19",
+  "name":"Office of Tourism",
+  "parent":"Economic Development",
+  "cabinet":"Economic Development",
+  "department":"Office of Tourism",
+  "head_name":"Amy B. Yandle",
+  "head_title":"Interim Director",
+  "appropriation_code":"Appropriation 416",
+  "mission":[
+    "The mission of the Office of Tourism is to advance tourism in Boston and promote participation in public celebrations."
+  ],
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    "data":[
+      {
+        "name":"MOATSE Administration",
+        "line_type":"data",
+        "fy-2":403303,
+        "fy-1":514648,
+        "fy-0":464592,
+        "fy+1":478490,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Film & Special Events",
+        "line_type":"data",
+        "fy-2":557227,
+        "fy-1":602521,
+        "fy-0":844865,
+        "fy+1":849916,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Tourism",
+        "line_type":"data",
+        "fy-2":132419,
+        "fy-1":272839,
+        "fy-0":76705,
+        "fy+1":93442,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":1092949,
+        "fy-1":1390008,
+        "fy-0":1386162,
+        "fy+1":1421848
+      }
+    ]
+  },
+  "external_funds_budget":{
+    "table_type":"External Funds",
+    "table_title":"External Funds Budget",
+    "table_header":{
+      "name":"Fund Name",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    "data":[
+      {
+        "name":"City Hall Plaza Fund",
+        "line_type":"data",
+        "fy-2":109440,
+        "fy-1":121699,
+        "fy-0":150000,
+        "fy+1":150000,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":109440,
+        "fy-1":121699,
+        "fy-0":150000,
+        "fy+1":150000
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":744070,
+      "fy-1":823996,
+      "fy-0":831738,
+      "fy+1":865838
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":348879,
+      "fy-1":566012,
+      "fy-0":554424,
+      "fy+1":556010
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1092949,
+      "fy-1":1390008,
+      "fy-0":1386162,
+      "fy+1":1421848
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Enabling Legislation, CBC Ord. &sect;&sect; 15-3.1-15-3.2."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":744070,
+        "fy-1":823996,
+        "fy-0":831738,
+        "fy+1":865838,
+        "diff":34100
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":43255,
+        "fy-1":236420,
+        "fy-0":240803,
+        "fy+1":237753,
+        "diff":-3050
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":19400,
+        "fy-1":20898,
+        "fy-0":22372,
+        "fy+1":17372,
+        "diff":-5000
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":40445,
+        "fy-1":56727,
+        "fy-0":62450,
+        "fy+1":60600,
+        "diff":-1850
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":28248,
+        "fy-1":28368,
+        "fy-0":10514,
+        "fy+1":2000,
+        "diff":-8514
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":217531,
+        "fy-1":223599,
+        "fy-0":218285,
+        "fy+1":238285,
+        "diff":20000
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":1092949,
+        "fy-1":1390008,
+        "fy-0":1386162,
+        "fy+1":1421848,
+        "diff":35686
+      }
+    ]
+  },
+  "external_funds":[
+    {
+      "project":"City Hall Plaza Fund",
+      "project_mission":[
+        "The purpose of this fund is to purchase goods and services to support events and programming on and around City Hall Plaza to advance tourism and promote participation in public celebrations, civic, and cultural events from lease revenue received from the rental of City Hall Plaza."
+      ]
+    }
+  ]
+}
+---

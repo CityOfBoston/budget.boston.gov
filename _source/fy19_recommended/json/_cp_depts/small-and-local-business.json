@@ -1,0 +1,26 @@
+---
+{
+  "cabinet":"Advocacy and Strategic Investment",
+  "debug":"JBDCP",
+  "department":"Small & Local Business",
+  "file_version":"",
+  "head_name":"Keith Williams",
+  "head_title":"Director",
+  "name":"Small & Local Business",
+  "parent":"Advocacy and Strategic Investment",
+  "section_id":34,
+  "section_md5_id":"E369853DF766FA44E1ED0FF613F563BD",
+  "section_type":"capital_budget",
+  "section_type_short":"L",
+  "source_version":"Recommended",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_cp_depts~small-and-local-business.json",
+  "source_time":"20180407210300",
+  "source_year":"19",
+  "mission":[
+    "The mission of the Small and Local Business Enterprise Office is to create economic opportunity by certifying the availability of and advocating for minority and women-owned business enterprises (MWBEs) to City departments, and advocating on behalf of small and Boston-based business enterprises (SLBEs) to help them compete successfully for City contracts as well as in the Boston area's economy as a whole."
+  ],
+  "description_of_services":[
+    "The Small and Local Business Enterprise Office assists City departments to contract with minority and women-owned businesses and small and Boston-based businesses. The Office provides outreach to minority, women, small and local businesses and assistance to City departments. It also monitors the performance of City departments and produces quarterly and annual performance reports. The Office promotes MWBE and SLBE participation on all City of Boston construction projects."
+  ]
+}
+---

@@ -1,0 +1,170 @@
+---
+{
+  "debug":"JBD",
+  "publish_subordinates":false,
+  "file_version":"",
+  "section_id":71,
+  "section_md5_id":"E2C420D928D4BF8CE0FF2EC19B371514",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Recommended",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Streets~snow-removal.json",
+  "source_time":"20180407210458",
+  "source_year":"19",
+  "name":"Snow Removal",
+  "parent":"Streets",
+  "cabinet":"Streets",
+  "department":"Snow Removal",
+  "head_name":null,
+  "head_title":null,
+  "appropriation_code":"Appropriation 331",
+  "mission":[
+    "The Snow Removal appropriation supports the City of Boston's efforts to clear ice and snow from Boston streets and property. Snow removal is done by City personnel supplemented and assisted by private contractors."
+  ],
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    "data":[
+      {
+        "name":"Removal of Snow",
+        "line_type":"data",
+        "fy-2":14785551,
+        "fy-1":24874567,
+        "fy-0":22563964,
+        "fy+1":24067875,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":14785551,
+        "fy-1":24874567,
+        "fy-0":22563964,
+        "fy+1":24067875
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":14785551,
+      "fy-1":24874567,
+      "fy-0":22563964,
+      "fy+1":24067875
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":14785551,
+      "fy-1":24874567,
+      "fy-0":22563964,
+      "fy+1":24067875
+    }
+  ],
+  "authorizing_statutes":[
+    "Vehicles Interfering with the Removal of Snow, CBC Ord. &sect; 11-6.43."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":14688846,
+        "fy-1":24475689,
+        "fy-0":22178292,
+        "fy+1":23554855,
+        "diff":1376563
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":52000,
+        "fy+1":57000,
+        "diff":5000
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":96705,
+        "fy-1":398878,
+        "fy-0":333672,
+        "fy+1":456020,
+        "diff":122348
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":14785551,
+        "fy-1":24874567,
+        "fy-0":22563964,
+        "fy+1":24067875,
+        "diff":1503911
+      }
+    ]
+  }
+}
+---

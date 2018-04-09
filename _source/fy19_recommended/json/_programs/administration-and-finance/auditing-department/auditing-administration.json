@@ -1,0 +1,135 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Administration & Finance",
+  "department":"Auditing Department",
+  "file_version":"",
+  "head_name":"Vacant",
+  "head_title":"Manager",
+  "name":"Auditing Administration",
+  "parent":"Auditing Department",
+  "section_id":48,
+  "section_md5_id":"642E92EFB79421734881B53E1E1B18B6",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~.json",
+  "source_time":"20180407210309",
+  "source_year":"19",
+  "appropriation_code":"Organization 131100",
+  "description":[
+    "The Administration Program is responsible for executive operations and provides administrative and human resource support to all programs."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":399462,
+      "fy-1":363094,
+      "fy-0":503498,
+      "fy+1":556555
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":12788,
+      "fy-1":23485,
+      "fy-0":13690,
+      "fy+1":9681
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":412250,
+      "fy-1":386579,
+      "fy-0":517188,
+      "fy+1":566236
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":399462,
+        "fy-1":363094,
+        "fy-0":503498,
+        "fy+1":556555,
+        "diff":53057
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":6836,
+        "fy-1":17768,
+        "fy-0":9437,
+        "fy+1":5763,
+        "diff":-3674
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":2517,
+        "fy-1":3374,
+        "fy-0":1263,
+        "fy+1":3374,
+        "diff":2111
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":809,
+        "fy-1":1693,
+        "fy-0":2990,
+        "fy+1":544,
+        "diff":-2446
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":2626,
+        "fy-1":650,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":412250,
+        "fy-1":386579,
+        "fy-0":517188,
+        "fy+1":566236,
+        "diff":49048
+      }
+    ]
+  }
+}
+---

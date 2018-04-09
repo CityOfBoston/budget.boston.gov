@@ -1,0 +1,135 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Administration & Finance",
+  "department":"Administration & Finance",
+  "file_version":"",
+  "head_name":"Emme Handy",
+  "head_title":"Chief Financial Office & Collector Treasurer",
+  "name":"A & F",
+  "parent":"Administration & Finance",
+  "section_id":44,
+  "section_md5_id":"F7177163C833DFF4B38FC8D2872F1EC6",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~.json",
+  "source_time":"20180407210304",
+  "source_year":"19",
+  "appropriation_code":"Organization 144100",
+  "description":[
+    "The Administration and Finance program assists in supporting the City&rsquo;s long-term growth and stability by working with all departments to strengthen and improve the City&rsquo;s financial and administrative resources."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":754643,
+      "fy-1":704581,
+      "fy-0":749710,
+      "fy+1":762679
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":133592,
+      "fy-1":144232,
+      "fy-0":335600,
+      "fy+1":333583
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":888235,
+      "fy-1":848813,
+      "fy-0":1085310,
+      "fy+1":1096262
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":754643,
+        "fy-1":704581,
+        "fy-0":749710,
+        "fy+1":762679,
+        "diff":12969
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":130944,
+        "fy-1":140170,
+        "fy-0":330200,
+        "fy+1":329075,
+        "diff":-1125
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":1040,
+        "fy-1":1501,
+        "fy-0":3500,
+        "fy+1":2000,
+        "diff":-1500
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":1608,
+        "fy-1":2561,
+        "fy-0":1900,
+        "fy+1":2508,
+        "diff":608
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":888235,
+        "fy-1":848813,
+        "fy-0":1085310,
+        "fy+1":1096262,
+        "diff":10952
+      }
+    ]
+  }
+}
+---

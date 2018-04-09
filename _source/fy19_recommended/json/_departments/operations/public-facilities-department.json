@@ -1,0 +1,172 @@
+---
+{
+  "debug":"JBD",
+  "publish_subordinates":true,
+  "file_version":"",
+  "section_id":111,
+  "section_md5_id":"698D51A19D8A121CE581499D7B701668",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Recommended",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Operations~public-facilities-department.json",
+  "source_time":"20180407210239",
+  "source_year":"19",
+  "name":"Public Facilities Department",
+  "parent":"Operations",
+  "cabinet":"Operations",
+  "department":"Public Facilities Department",
+  "head_name":"Patricia M. Lyons",
+  "head_title":"Director",
+  "appropriation_code":"Appropriation 181",
+  "mission":[
+    "The Public Facilities Department seeks to execute the most efficient and economical construction and alterations of municipal buildings. The Public Facilities Department is under charge of a three member board known as the Public Facilities Commission appointed by the Mayor."
+  ],
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    "data":[
+      {
+        "name":"PFD Capital Construction",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":5294852,
+        "fy-0":5718530,
+        "fy+1":6772671,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":0,
+        "fy-1":5294852,
+        "fy-0":5718530,
+        "fy+1":6772671
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":5141970,
+      "fy-0":5400282,
+      "fy+1":6474592
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":152882,
+      "fy-0":318248,
+      "fy+1":298079
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":0,
+      "fy-1":5294852,
+      "fy-0":5718530,
+      "fy+1":6772671
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Enabling Legislation, 1966. Mass Acts Ch 642."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":5141970,
+        "fy-0":5400282,
+        "fy+1":6474592,
+        "diff":1074310
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":85481,
+        "fy-0":251785,
+        "fy+1":246935,
+        "diff":-4850
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":20415,
+        "fy-0":42225,
+        "fy+1":40508,
+        "diff":-1717
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":9470,
+        "fy-0":17000,
+        "fy+1":4836,
+        "diff":-12164
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":37516,
+        "fy-0":7238,
+        "fy+1":5800,
+        "diff":-1438
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":0,
+        "fy-1":5294852,
+        "fy-0":5718530,
+        "fy+1":6772671,
+        "diff":1054141
+      }
+    ]
+  },
+  "fy_major_initiatives":[]
+}
+---

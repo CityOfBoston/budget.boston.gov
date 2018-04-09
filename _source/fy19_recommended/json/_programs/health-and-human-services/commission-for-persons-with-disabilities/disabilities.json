@@ -1,0 +1,293 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Health & Human Services",
+  "department":"Commission for Persons With Disabilities",
+  "file_version":"",
+  "head_name":"Kristen McCosh",
+  "head_title":"Manager",
+  "name":"Disabilities",
+  "parent":"Commission for Persons With Disabilities",
+  "section_id":82,
+  "section_md5_id":"9778D5D219C5080B9A6A17BEF029331C",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~.json",
+  "source_time":"20180407210550",
+  "source_year":"19",
+  "appropriation_code":"Organization 404100",
+  "description":[
+    "The Commission facilitates full and equal participation in all aspects of life by persons with disabilities in the City of Boston.  The Commission strives to reduce architectural, procedural, attitudinal, and communication barriers which affect persons with disabilities.  The Commission coordinates and monitors the City&rsquo;s compliance with civil rights laws for persons with disabilities."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":278876,
+      "fy-1":354890,
+      "fy-0":414518,
+      "fy+1":451238
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":8449,
+      "fy-1":14857,
+      "fy-0":22100,
+      "fy+1":22100
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":287325,
+      "fy-1":369747,
+      "fy-0":436618,
+      "fy+1":473338
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":278876,
+        "fy-1":354890,
+        "fy-0":414518,
+        "fy+1":451238,
+        "diff":36720
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":3610,
+        "fy-1":9425,
+        "fy-0":14000,
+        "fy+1":14600,
+        "diff":600
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":3710,
+        "fy-1":5432,
+        "fy-0":8100,
+        "fy+1":7500,
+        "diff":-600
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":1129,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":287325,
+        "fy-1":369747,
+        "fy-0":436618,
+        "fy+1":473338,
+        "diff":36720
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Assure adherence to all architectural access guidelines in Boston's built environment"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# Developer Trainings",
+              "fy-2":"",
+              "fy-1":"4",
+              "fy-0":"5",
+              "fy+1":"5"
+            },
+            {
+              "line_type":"data",
+              "line_data":"% Answered Technical Assistance Requests",
+              "fy-2":"",
+              "fy-1":"100%",
+              "fy-0":"100%",
+              "fy+1":"100%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Connect the public to the Commission, particularly underserved residents with disabilities"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# APS Residents Reached",
+              "fy-2":"",
+              "fy-1":"200",
+              "fy-0":"300",
+              "fy+1":"300"
+            },
+            {
+              "line_type":"data",
+              "line_data":"# Neighborhood meetings",
+              "fy-2":"",
+              "fy-1":"3",
+              "fy-0":"8",
+              "fy+1":"8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Ensure COB compliance with Title II of the ADA, Advise City of Boston agencies on policies and practices that increase access and opportunities for people with disabilities"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# City Dept Trainings",
+              "fy-2":"",
+              "fy-1":"7",
+              "fy-0":"11",
+              "fy+1":"10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Promote interactive participation between disabled residents and City government"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# City Resident Trainings",
+              "fy-2":"",
+              "fy-1":"1",
+              "fy-0":"7",
+              "fy+1":"10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Provide effective & prompt services, including warm hand-offs and follow-up, to constituents"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Average days to review HP applications",
+              "fy-2":"",
+              "fy-1":"75",
+              "fy-0":"30",
+              "fy+1":"30"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

@@ -1,0 +1,59 @@
+---
+{
+  "debug":"JBD",
+  "publish_subordinates":false,
+  "file_version":"",
+  "section_id":78,
+  "section_md5_id":"35F4A8D465E6E1EDC05F3D8AB658C551",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Recommended",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Housing and Neighborhood Development~leading-the-way.json",
+  "source_time":"20180407210612",
+  "source_year":"19",
+  "name":"Leading the Way",
+  "parent":"Housing & Neighborhood Development",
+  "cabinet":"Housing & Neighborhood Development",
+  "department":"Leading the Way",
+  "head_name":null,
+  "head_title":null,
+  "appropriation_code":"Appropriation 189",
+  "mission":[
+    "The mission of the Leading the Way (LTW) campaign was to expand and protect Boston&rsquo;s housing supply and stabilize neighborhoods adversely affected by the economic downturn and foreclosure boom. The campaign focused all of the City&rsquo;s housing agencies around a strategy to address Boston&rsquo;s housing needs in four key areas: 1) Housing Boston&rsquo;s workforce through new production and enhanced access to the market; 2) Preventing foreclosures and mitigating the negative effects of foreclosures on Boston&rsquo;s neighborhoods; 3) Reversing the rise in homelessness, and 4) Preserving and stabilizing the rental housing stock. In 2014, Mayor Walsh announced his Boston 2030 plan which outlines a new comprehensive approach to accommodating Boston's complex housing needs over the next 15 years. Funding committed for the new plan has been renamed the &ldquo;Housing 2030 Fund&rdquo; which is now included under the Neighborhood Development Operating Budget in \"Program 3: Housing Development and Services.\""
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0
+    }
+  ]
+}
+---

@@ -1,0 +1,135 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Administration & Finance",
+  "department":"Treasury Department",
+  "file_version":"",
+  "head_name":"Maureen Garceau",
+  "head_title":"Manager",
+  "name":"Accounts Receivable",
+  "parent":"Treasury Department",
+  "section_id":38,
+  "section_md5_id":"A5771BCE93E200C36F7CD9DFD0E5DEAA",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~accounting-quality-control.json",
+  "source_time":"20180407210335",
+  "source_year":"19",
+  "appropriation_code":"Organization 138500",
+  "description":[
+    "The Accounts Receivable Program is responsible for establishing policies and procedures, monitoring compliance, and providing a central resource to revenue generating departments that utilize the accounts receivable and billing systems."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":300104,
+      "fy-1":319892,
+      "fy-0":382329,
+      "fy+1":442879
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":12600,
+      "fy-1":575,
+      "fy-0":15600,
+      "fy+1":15600
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":312704,
+      "fy-1":320467,
+      "fy-0":397929,
+      "fy+1":458479
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":300104,
+        "fy-1":319892,
+        "fy-0":382329,
+        "fy+1":442879,
+        "diff":60550
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":600,
+        "fy-1":575,
+        "fy-0":600,
+        "fy+1":600,
+        "diff":0
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":12000,
+        "fy-1":0,
+        "fy-0":15000,
+        "fy+1":15000,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":312704,
+        "fy-1":320467,
+        "fy-0":397929,
+        "fy+1":458479,
+        "diff":60550
+      }
+    ]
+  }
+}
+---

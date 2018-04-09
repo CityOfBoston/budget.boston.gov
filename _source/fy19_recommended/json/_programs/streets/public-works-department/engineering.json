@@ -1,0 +1,135 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Streets",
+  "department":"Public Works Department",
+  "file_version":"",
+  "head_name":"Para Jayasinghe, P.E.",
+  "head_title":"Manager",
+  "name":"Engineering",
+  "parent":"Public Works Department",
+  "section_id":11,
+  "section_md5_id":"6512BD43D9CAA6E02C990B0A82652DCA",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~building-facility-maintenance.json",
+  "source_time":"20180407210455",
+  "source_year":"19",
+  "appropriation_code":"Organization 311300",
+  "description":[
+    "The Engineering Program plans, designs, schedules and prepares contracts for the reconstruction of sidewalks, roadways and bridges.  Engineering firms are used to supplement staff and all work is coordinated with other City and state planning agencies.  Through the Public Improvement Commission, the program reviews any proposed changes on, over, or under public ways by outside groups.  The program also maintains the official records of all City-owned land and streets."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":1277830,
+      "fy-1":1357740,
+      "fy-0":1425837,
+      "fy+1":1500123
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":393048,
+      "fy-1":326665,
+      "fy-0":125961,
+      "fy+1":331226
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1670878,
+      "fy-1":1684405,
+      "fy-0":1551798,
+      "fy+1":1831349
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":1277830,
+        "fy-1":1357740,
+        "fy-0":1425837,
+        "fy+1":1500123,
+        "diff":74286
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":318794,
+        "fy-1":266211,
+        "fy-0":77745,
+        "fy+1":260345,
+        "diff":182600
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":16648,
+        "fy-1":12508,
+        "fy-0":23060,
+        "fy+1":22468,
+        "diff":-592
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":7147,
+        "fy-1":11114,
+        "fy-0":7095,
+        "fy+1":13160,
+        "diff":6065
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":50459,
+        "fy-1":36832,
+        "fy-0":18061,
+        "fy+1":35253,
+        "diff":17192
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":1670878,
+        "fy-1":1684405,
+        "fy-0":1551798,
+        "fy+1":1831349,
+        "diff":279551
+      }
+    ]
+  }
+}
+---

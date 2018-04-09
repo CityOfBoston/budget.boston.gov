@@ -1,0 +1,119 @@
+---
+{
+  "category":"Education",
+  "category_desc":"Initiatives to strengthen education, job training, and career connections.",
+  "department":"Boston Public Schools",
+  "file_version":"",
+  "location":"Roxbury",
+  "managing_department":"Public Facilities Department",
+  "mission":"Design and construct a new STEM (Science, Technology, Engineering and Mathematics) school for grades 6 through 12 on the site of the current Dearborn School. The MSBA will partner with the City in the development and funding of this new school.",
+  "name":"Dearborn 6-12 STEM / Early College Academy",
+  "operating_impact":"No",
+  "section_id":"CPS22878",
+  "section_type":"projects",
+  "section_type_short":"R",
+  "source_version":"Recommended",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_projects~boston-public-schools~dearborn-6-12-stem-early-college-academy.json",
+  "source_time":"20180407210416",
+  "source_year":"19",
+  "status":"In Construction",
+  "expenditures_detail":{
+    "table_title":"Expenditures (Actual and Planned)",
+    "table_header":{
+      "line_type":"header",
+      "line_title":null,
+      "line_data_type":"string",
+      "source":"Source",
+      "past_spending":"Through 6/30/17",
+      "fy-1":"FY18 Budget",
+      "fy-0":"FY19 Budget",
+      "fy+1-4":"FY20-23 Budget",
+      "total":"Total"
+    },
+    "data":[
+      {
+        "line_type":"data",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"City Capital",
+        "past_spending":13387829,
+        "fy-1":21739824,
+        "fy-0":1000000,
+        "fy+1-4":0,
+        "total":36127653
+      },
+      {
+        "line_type":"data",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"Grants/Other",
+        "past_spending":29453679,
+        "fy-1":7916963,
+        "fy-0":0,
+        "fy+1-4":0,
+        "total":37370642
+      },
+      {
+        "line_type":"total",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"Totals",
+        "past_spending":42841508,
+        "fy-1":29656787,
+        "fy-0":1000000,
+        "fy+1-4":0,
+        "total":73498295
+      }
+    ],
+    "authorizations_table":{
+      "table_title":"Authorizations",
+      "table_header":{
+        "line_type":"header",
+        "line_title":null,
+        "line_data_type":"string",
+        "source":"Source",
+        "existing":"Existing",
+        "fy-0":"FY19",
+        "fy-0++":"Future",
+        "other":"Non Capital Fund",
+        "total":"Total"
+      },
+      "data":[
+        {
+          "line_type":"data",
+          "line_title":null,
+          "line_data_type":"number",
+          "source":"City Capital",
+          "existing":36127653,
+          "fy-0":0,
+          "fy-0++":0,
+          "other":0,
+          "total":36127653
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "line_data_type":"number",
+          "source":"Grants/Other",
+          "existing":37370642,
+          "fy-0":0,
+          "fy-0++":0,
+          "other":0,
+          "total":37370642
+        },
+        {
+          "line_type":"total",
+          "line_title":"Totals",
+          "line_data_type":"number",
+          "source":"Totals",
+          "existing":73498295,
+          "fy-0":0,
+          "fy-0++":0,
+          "other":0,
+          "total":73498295
+        }
+      ]
+    }
+  }
+}
+---

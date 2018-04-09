@@ -1,0 +1,175 @@
+---
+{
+  "debug":"JBD",
+  "publish_subordinates":true,
+  "file_version":"",
+  "section_id":96,
+  "section_md5_id":"26657D5FF9020D2ABEFE558796B99584",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Recommended",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Health and Human Services~commission-for-persons-with-disabilities.json",
+  "source_time":"20180407210550",
+  "source_year":"19",
+  "name":"Commission for Persons With Disabilities",
+  "parent":"Health & Human Services",
+  "cabinet":"Health & Human Services",
+  "department":"Commission for Persons With Disabilities",
+  "head_name":"Kristen McCosh",
+  "head_title":"Commissioner",
+  "appropriation_code":"Appropriation 404",
+  "mission":[
+    "The mission of the Commission is to increase opportunities for people with disabilities by facilitating full and equal participation in all aspects of life within the City of Boston. This includes reducing architectural, procedural, attitudinal, and communication barriers as well as promoting equity in housing, education, employment, transportation, and civic activities."
+  ],
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    "data":[
+      {
+        "name":"Disabilities",
+        "line_type":"data",
+        "fy-2":287325,
+        "fy-1":369747,
+        "fy-0":436618,
+        "fy+1":473338,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":287325,
+        "fy-1":369747,
+        "fy-0":436618,
+        "fy+1":473338
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":278876,
+      "fy-1":354890,
+      "fy-0":414518,
+      "fy+1":451238
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":8449,
+      "fy-1":14857,
+      "fy-0":22100,
+      "fy+1":22100
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":287325,
+      "fy-1":369747,
+      "fy-0":436618,
+      "fy+1":473338
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Enabling Legislation, CBC Ord. &sect;&sect; 12-4.1-12-4.9.",
+    "Powers and Duties, CBC Ord. &sect;&sect; 12-4.1-12-4.9.",
+    "Responsibilities of City Agencies, CBC Ord. &sect;&sect; 12-4.1-12-4.9.",
+    "Access to Public Buildings by Physically Handicapped, CBC Ord. &sect;&sect; 21-4.1-21-4.10.",
+    "Issuance of Temporary Parking Permits, CBC Ord. &sect; 6-7.3."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":278876,
+        "fy-1":354890,
+        "fy-0":414518,
+        "fy+1":451238,
+        "diff":36720
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":3610,
+        "fy-1":9425,
+        "fy-0":14000,
+        "fy+1":14600,
+        "diff":600
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":3710,
+        "fy-1":5432,
+        "fy-0":8100,
+        "fy+1":7500,
+        "diff":-600
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":1129,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":287325,
+        "fy-1":369747,
+        "fy-0":436618,
+        "fy+1":473338,
+        "diff":36720
+      }
+    ]
+  }
+}
+---

@@ -1,0 +1,165 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Health & Human Services",
+  "department":"Boston Centers for Youth & Families",
+  "file_version":"",
+  "head_name":"Christopher Byner",
+  "head_title":"Manager",
+  "name":"Youth & Family Services",
+  "parent":"Boston Centers for Youth & Families",
+  "section_id":54,
+  "section_md5_id":"A684ECEEE76FC522773286A895BC8436",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~child-care-and-out-of-school.json",
+  "source_time":"20180407210545",
+  "source_year":"19",
+  "appropriation_code":"Organization 385300",
+  "description":[
+    "The Youth Development and Family Services Division is responsible for providing resources and access to educational and skill development programming for youth and adults.  The division oversees adult education and youth leadership.  The division also includes the Streetworker outreach and intervention program."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":3524724,
+      "fy-1":3663063,
+      "fy-0":3822862,
+      "fy+1":4161360
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":51324,
+      "fy-1":575,
+      "fy-0":0,
+      "fy+1":46000
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":3576048,
+      "fy-1":3663638,
+      "fy-0":3822862,
+      "fy+1":4207360
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":3524724,
+        "fy-1":3663063,
+        "fy-0":3822862,
+        "fy+1":4161360,
+        "diff":338498
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":51022,
+        "fy-1":575,
+        "fy-0":0,
+        "fy+1":1000,
+        "diff":1000
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":302,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":45000,
+        "diff":45000
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":3576048,
+        "fy-1":3663638,
+        "fy-0":3822862,
+        "fy+1":4207360,
+        "diff":384498
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To provide outreach, intervention, support, and referral services for youth"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of mediations conducted by streetworkers",
+              "fy-2":"",
+              "fy-1":"303",
+              "fy-0":"440",
+              "fy+1":"450"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

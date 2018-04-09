@@ -1,0 +1,119 @@
+---
+{
+  "category":"Energy & Environment",
+  "category_desc":"Initiatives to support a healthy environment, reduce energy consumption and greenhouse gas emissions, and prepare for climate change.",
+  "department":"Environment Department",
+  "file_version":"",
+  "location":"N/A",
+  "managing_department":"Environment Department",
+  "mission":"Support the development of a study that will examine the feasibility of constructing a barrier in Boston Harbor in response to expected sea level rise due to climate change.",
+  "name":"Climate Ready Boston Harbor Study",
+  "operating_impact":"No",
+  "section_id":"CED24758",
+  "section_type":"projects",
+  "section_type_short":"R",
+  "source_version":"Recommended",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_projects~environment-department~climate-ready-boston-harbor-study.json",
+  "source_time":"20180407210514",
+  "source_year":"19",
+  "status":"New Project",
+  "expenditures_detail":{
+    "table_title":"Expenditures (Actual and Planned)",
+    "table_header":{
+      "line_type":"header",
+      "line_title":null,
+      "line_data_type":"string",
+      "source":"Source",
+      "past_spending":"Through 6/30/17",
+      "fy-1":"FY18 Budget",
+      "fy-0":"FY19 Budget",
+      "fy+1-4":"FY20-23 Budget",
+      "total":"Total"
+    },
+    "data":[
+      {
+        "line_type":"data",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"City Capital",
+        "past_spending":0,
+        "fy-1":0,
+        "fy-0":250000,
+        "fy+1-4":750000,
+        "total":1000000
+      },
+      {
+        "line_type":"data",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"Grants/Other",
+        "past_spending":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1-4":0,
+        "total":4000000
+      },
+      {
+        "line_type":"total",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"Totals",
+        "past_spending":0,
+        "fy-1":0,
+        "fy-0":250000,
+        "fy+1-4":750000,
+        "total":1000000
+      }
+    ],
+    "authorizations_table":{
+      "table_title":"Authorizations",
+      "table_header":{
+        "line_type":"header",
+        "line_title":null,
+        "line_data_type":"string",
+        "source":"Source",
+        "existing":"Existing",
+        "fy-0":"FY19",
+        "fy-0++":"Future",
+        "other":"Non Capital Fund",
+        "total":"Total"
+      },
+      "data":[
+        {
+          "line_type":"data",
+          "line_title":null,
+          "line_data_type":"number",
+          "source":"City Capital",
+          "existing":0,
+          "fy-0":1000000,
+          "fy-0++":0,
+          "other":0,
+          "total":1000000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "line_data_type":"number",
+          "source":"Grants/Other",
+          "existing":0,
+          "fy-0":0,
+          "fy-0++":0,
+          "other":4000000,
+          "total":4000000
+        },
+        {
+          "line_type":"total",
+          "line_title":"Totals",
+          "line_data_type":"number",
+          "source":"Totals",
+          "existing":0,
+          "fy-0":1000000,
+          "fy-0++":0,
+          "other":4000000,
+          "total":5000000
+        }
+      ]
+    }
+  }
+}
+---

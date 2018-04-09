@@ -1,0 +1,135 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Administration & Finance",
+  "department":"Treasury Department",
+  "file_version":"",
+  "head_name":"W. Drew Smith",
+  "head_title":"Manager",
+  "name":"Treasury Administration",
+  "parent":"Treasury Department",
+  "section_id":31,
+  "section_md5_id":"C16A5320FA475530D9583C34FD356EF5",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~.json",
+  "source_time":"20180407210333",
+  "source_year":"19",
+  "appropriation_code":"Organization 138100",
+  "description":[
+    "The Administration Program hires, trains, and manages all Treasury Division personnel and ensures overall effective and efficient fund management."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":603017,
+      "fy-1":626966,
+      "fy-0":587703,
+      "fy+1":523370
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":148833,
+      "fy-1":150309,
+      "fy-0":149950,
+      "fy+1":142600
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":751850,
+      "fy-1":777275,
+      "fy-0":737653,
+      "fy+1":665970
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":603017,
+        "fy-1":626966,
+        "fy-0":587703,
+        "fy+1":523370,
+        "diff":-64333
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":130449,
+        "fy-1":126920,
+        "fy-0":118350,
+        "fy+1":120350,
+        "diff":2000
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":13118,
+        "fy-1":13439,
+        "fy-0":15000,
+        "fy+1":15000,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":5266,
+        "fy-1":9950,
+        "fy-0":16600,
+        "fy+1":7250,
+        "diff":-9350
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":751850,
+        "fy-1":777275,
+        "fy-0":737653,
+        "fy+1":665970,
+        "diff":-71683
+      }
+    ]
+  }
+}
+---

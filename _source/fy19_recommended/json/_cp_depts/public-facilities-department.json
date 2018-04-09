@@ -1,0 +1,60 @@
+---
+{
+  "cabinet":"Operations",
+  "debug":"JBDCP",
+  "department":"Public Facilities Department",
+  "file_version":"",
+  "head_name":"Patricia M. Lyons",
+  "head_title":"Director",
+  "name":"Public Facilities Department",
+  "parent":"Operations",
+  "section_id":111,
+  "section_md5_id":"698D51A19D8A121CE581499D7B701668",
+  "section_type":"capital_budget",
+  "section_type_short":"L",
+  "source_version":"Recommended",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_cp_depts~public-facilities-department.json",
+  "source_time":"20180407210238",
+  "source_year":"19",
+  "mission":[
+    "The Public Facilities Department seeks to execute the most efficient and economical construction and alterations of municipal buildings. The Public Facilities Department is under charge of a three member board known as the Public Facilities Commission appointed by the Mayor."
+  ],
+  "description_of_services":[
+    "The Public Facilities Department is responsible for the the coordination of capital improvement projects for approximately 370 buildings within its jurisdiction."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"PFD Capital Construction",
+      "strategies":[
+        "Accelerate front end administration of projects, thereby helping projects stay on schedule.",
+        "Accurately estimate construction costs and yearly escalation.",
+        "Keep change order costs under control, keeping projects on budget."
+      ]
+    }
+  ],
+  "capital_budget_expenditures":[
+    {
+      "table_type":"capital_budget_expenditures",
+      "table_title":"Capital Budget Expenditures",
+      "table_header":{
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "fy-2":"FY16 Actual",
+        "fy-1":"FY17 Actual",
+        "fy-0":"FY18 Estimated",
+        "fy+1":"FY19 Projected"
+      },
+      "data":{
+        "line_type":"total",
+        "line_title":"Total Department",
+        "line_data_type":"total",
+        "fy-2":2221439,
+        "fy-1":3538265,
+        "fy-0":9387575,
+        "fy+1":16659500
+      }
+    }
+  ]
+}
+---

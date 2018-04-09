@@ -1,0 +1,135 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Economic Development",
+  "department":"Office of Economic Development",
+  "file_version":"",
+  "head_name":"John Barros",
+  "head_title":"Manager",
+  "name":"Economic Development",
+  "parent":"Office of Economic Development",
+  "section_id":157,
+  "section_md5_id":"6C4B761A28B734FE93831E3FB400CE87",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~small-and-local-business.json",
+  "source_time":"20180407210440",
+  "source_year":"19",
+  "appropriation_code":"Organization 182100",
+  "description":[
+    "The Economic Development Program will focus on fostering economic development in all of Boston&rsquo;s neighborhoods through marketing Boston on a national and international scale; ensuring access to employment, pathways to careers, and strong job growth; streamlining licensing and permitting processes; and supporting small businesses."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":599713,
+      "fy-1":795781,
+      "fy-0":752490,
+      "fy+1":832357
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":80830,
+      "fy-1":141894,
+      "fy-0":119125,
+      "fy+1":214202
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":680543,
+      "fy-1":937675,
+      "fy-0":871615,
+      "fy+1":1046559
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":599713,
+        "fy-1":795781,
+        "fy-0":752490,
+        "fy+1":832357,
+        "diff":79867
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":50336,
+        "fy-1":94926,
+        "fy-0":89825,
+        "fy+1":178902,
+        "diff":89077
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":10224,
+        "fy-1":16164,
+        "fy-0":9000,
+        "fy+1":15000,
+        "diff":6000
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":14810,
+        "fy-1":17479,
+        "fy-0":16300,
+        "fy+1":16300,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":5460,
+        "fy-1":13325,
+        "fy-0":4000,
+        "fy+1":4000,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":680543,
+        "fy-1":937675,
+        "fy-0":871615,
+        "fy+1":1046559,
+        "diff":174944
+      }
+    ]
+  }
+}
+---

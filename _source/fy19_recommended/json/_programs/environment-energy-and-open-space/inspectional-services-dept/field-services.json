@@ -1,0 +1,309 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Environment, Energy & Open Space",
+  "department":"Inspectional Services Dept",
+  "file_version":"",
+  "head_name":"William Christopher",
+  "head_title":"Manager",
+  "name":"Field Services",
+  "parent":"Inspectional Services Dept",
+  "section_id":125,
+  "section_md5_id":"3DEF184AD8F4755FF269862EA77393DD",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~buildings-and-structures.json",
+  "source_time":"20180407210520",
+  "source_year":"19",
+  "appropriation_code":"Organization 260400",
+  "description":[
+    "The Field Services program consists of four divisions: Health, Housing, Environmental Services and Weights & Measures.  The Health Division's role is to protect the public health by permitting and inspecting food establishments, restaurants, caterers, health clubs, massage practitioners, and recreational camps.  The Housing Division's role is to ensure the availability of clean, safe living conditions as required by the State Sanitary Code.  The Environmental Services Division is responsible for the abatement and prevention of rodent infestation, the implementation of the City's site cleanliness ordinance, the boarding and securing of abandoned properties, and the coordination of the vacant lot maintenance program.  The Weights and Measures Division is charged with protecting consumers by ensuring accuracy in retail establishment pricing and proper readings on gas pumps, taxi meters, scales and fuel truck meters.  Animal Care and Control issues dog licenses, protects the public from dangerous animals and holds clinics on rabies awareness."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":6863102,
+      "fy-1":7247435,
+      "fy-0":7387595,
+      "fy+1":7480803
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":499752,
+      "fy-1":842433,
+      "fy-0":531428,
+      "fy+1":469036
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":7362854,
+      "fy-1":8089868,
+      "fy-0":7919023,
+      "fy+1":7949839
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":6863102,
+        "fy-1":7247435,
+        "fy-0":7387595,
+        "fy+1":7480803,
+        "diff":93208
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":326784,
+        "fy-1":696497,
+        "fy-0":368432,
+        "fy+1":359223,
+        "diff":-9209
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":53535,
+        "fy-1":75512,
+        "fy-0":118515,
+        "fy+1":64490,
+        "diff":-54025
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":4897,
+        "fy-1":3052,
+        "fy-0":5340,
+        "fy+1":4525,
+        "diff":-815
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":114536,
+        "fy-1":67372,
+        "fy-0":39141,
+        "fy+1":40798,
+        "diff":1657
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":7362854,
+        "fy-1":8089868,
+        "fy-0":7919023,
+        "fy+1":7949839,
+        "diff":30816
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Prevent housing emergencies and violations"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of new units registered in rental register",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"10,000",
+              "fy+1":"10,000"
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of rental housing inspections attempted",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"4,800",
+              "fy+1":"4,800"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Reduce risk of foodborne illness or disease"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# restaurants inspections",
+              "fy-2":"",
+              "fy-1":"7,800",
+              "fy-0":"825",
+              "fy+1":"825"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Respond to cleanliness & environmental safety complaints"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# Locations baited",
+              "fy-2":"",
+              "fy-1":"266",
+              "fy-0":"156",
+              "fy+1":"156"
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of Environmental complaints",
+              "fy-2":"",
+              "fy-1":"3,071",
+              "fy-0":"720",
+              "fy+1":"720"
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of sewers or sites baited",
+              "fy-2":"",
+              "fy-1":"1,004",
+              "fy-0":"543",
+              "fy+1":"543"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Average hours response time to Environmental complaints",
+              "fy-2":"",
+              "fy-1":"24",
+              "fy-0":"24",
+              "fy+1":"24"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To ensure devices that vendors use to weigh and measure products are accurate"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of Weights and Measure Inspections",
+              "fy-2":"",
+              "fy-1":"331",
+              "fy-0":"315",
+              "fy+1":"315"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To respond to animal control issues and complaints"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Average hours response time to animal complaint",
+              "fy-2":"",
+              "fy-1":"24",
+              "fy-0":"24",
+              "fy+1":"24"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

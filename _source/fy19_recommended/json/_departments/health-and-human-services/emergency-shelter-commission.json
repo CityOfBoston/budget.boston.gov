@@ -1,0 +1,148 @@
+---
+{
+  "debug":"JBD",
+  "publish_subordinates":true,
+  "file_version":"",
+  "section_id":38,
+  "section_md5_id":"A5771BCE93E200C36F7CD9DFD0E5DEAA",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Recommended",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Health and Human Services~emergency-shelter-commission.json",
+  "source_time":"20180407210555",
+  "source_year":"19",
+  "name":"Emergency Shelter Commission",
+  "parent":"Health & Human Services",
+  "cabinet":"Health & Human Services",
+  "department":"Emergency Shelter Commission",
+  "head_name":"James Greene",
+  "head_title":"Executive Director",
+  "appropriation_code":"Appropriation 406",
+  "mission":[
+    "The mission of the Emergency Shelter Commission is to coordinate a safety net of services for Boston's homeless and for persons in need of food assistance. * In FY11, Emergency Shelter Commission was consolidated into the Public Health Commission."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Enabling Legislation, Ord. 1983, c.10, s. 200."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      }
+    ]
+  },
+  "external_funds":[
+    {
+      "project":"Elder Street Homeless Initiative",
+      "project_mission":[
+        "The Elder Street Homeless Initiative is a coordinated effort to alleviate homelessness among Boston&rsquo;s elderly population. This three year $180,000 initiative, funded through the financial support of Citizens Bank, has allowed for targeted efforts to identify and facilitate housing access for all elderly homeless living on the streets of Boston."
+      ]
+    }
+  ]
+}
+---

@@ -1,0 +1,165 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Public Safety",
+  "department":"Police Department",
+  "file_version":"",
+  "head_name":"Gregory Long",
+  "head_title":"Manager",
+  "name":"Bureau of Investigative Services",
+  "parent":"Police Department",
+  "section_id":176,
+  "section_md5_id":"38AF86134B65D0F10FE33D30DD76442E",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~bureau-of-professional-standards.json",
+  "source_time":"20180407210408",
+  "source_year":"19",
+  "appropriation_code":"Organization 211700",
+  "description":[
+    "The Bureau of Investigative Services is responsible for providing investigative and forensic technical support to all victims, witnesses and crime prevention units of the department.  The Bureau of Investigative Services will be comprised of  the Major Case Division and the Criminal Investigative Division.  The program coordinates all specialized units (e.g. homicide, sexual assault, drug control, domestic violence district detectives), and the general investigative units (e.g. auto theft, fugitive, fraud and missing person/exploited children and also includes the Community Disorders Unit)."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":68313810,
+      "fy-1":69670771,
+      "fy-0":63268972,
+      "fy+1":64454783
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":1301538,
+      "fy-1":1346743,
+      "fy-0":1096889,
+      "fy+1":1054011
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":69615348,
+      "fy-1":71017514,
+      "fy-0":64365861,
+      "fy+1":65508794
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":68313810,
+        "fy-1":69670771,
+        "fy-0":63268972,
+        "fy+1":64454783,
+        "diff":1185811
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":309916,
+        "fy-1":316768,
+        "fy-0":443953,
+        "fy+1":435105,
+        "diff":-8848
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":615055,
+        "fy-1":644354,
+        "fy-0":356220,
+        "fy+1":338695,
+        "diff":-17525
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":132604,
+        "fy-1":144499,
+        "fy-0":118639,
+        "fy+1":107469,
+        "diff":-11170
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":243963,
+        "fy-1":241122,
+        "fy-0":178077,
+        "fy+1":172742,
+        "diff":-5335
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":69615348,
+        "fy-1":71017514,
+        "fy-0":64365861,
+        "fy+1":65508794,
+        "diff":1142933
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Timely and efficient response to crime and calls for service"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Part 1 Crime Clearance Rate %",
+              "fy-2":"15",
+              "fy-1":"13",
+              "fy-0":"13",
+              "fy+1":"13"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---
