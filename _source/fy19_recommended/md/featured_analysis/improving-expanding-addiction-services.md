@@ -28,7 +28,7 @@ components:
 - text_block:
   - title: Tackling the Opioid Crisis and Substance Use Disorder
     body: >
-      <p>Throughout his Administration, Mayor Walsh has continuously increased resources to those in need of substance use and addiction supports</p>
+      <p>In FY19, Mayor Walsh will continue the progress made over the past few years offering multiple avenues for people to access support.</p>
       <ul>
       <li>In FY16, the Mayor created the Mayor’s Office of Recovery Services (ORS), the first municipal office in the U.S. solely dedicated to addressing addiction and recovery.</li>
       <li>In FY17, the Mayor launched 311 for Recovery Services. This hotline support system helps people struggling with substance abuse and addiction to access recovery resources.</li>
