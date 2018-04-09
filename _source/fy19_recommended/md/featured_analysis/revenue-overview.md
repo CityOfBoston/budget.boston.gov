@@ -38,12 +38,14 @@ components:
     body: >
       <p>Due to the Mayor’s commitment to new housing construction and the strength of Boston’s development climate, property tax growth exceeds trends over the past decade. Taxes paid by new construction adds to Boston’s property tax levy, which is otherwise statutorily limited to an increase of 2 ½ percent annually. In FY19, the net property tax levy (levy less a reserve for abatements) is estimated to total $2.304 billion, an increase of $110.0 million, or 5%. The net property tax levy accounts for over 70% of budgeted recurring revenues.</p>
       <p>In Massachusetts, Proposition 2 ½ constrains the amount of property tax revenue the City can raise each year from its existing tax base. This means that while total property value has grown 54% since FY14, property tax revenue has grown by only 25%.</p> 
-      right_image: /img/value-vs-tax-revenue.png
+    right_image: /img/value-vs-tax-revenue.png
+- text_block:
+  - body: >
       <p>Despite these constraints, the Mayor is committed to keeping residential property tax bills down to retain more low and middle class homeowners in the City. Policies the Mayor has pursued are demonstrating success, as residential taxes fall 41% below last year’s statewide average.</p>
       <blockquote> Mayor Walsh advocated for a change in State law that increased the residential exemption limit from 30% to 35% of the average assessed value of all Class One residential properties. This year, the City Council, with the approval of the Mayor, once again chose the maximum exemption allowed by law. The FY18 residential exemption amount increased by $106 over last year’s amount.</blockquote>
       <p>Additionally, the FY18 classified tax rates decreased from the FY17 levels, resulting in substantial savings for the City’s residential taxpayers, while still maximizing its taxable levy.</p>  
       <p>Thanks to efforts to attract business development and grow its housing stock, Boston experienced unprecedented new growth in property tax revenue over the past two fiscal years. In FY19, we expect new growth to continue, but will likely not exceed experiences in FY17 and FY18.</p>
-    img: /img/net-state-aid.png  
+    right_image: /img/net-state-aid.png  
 - text_block:
   - title: State Revenue Overview
     body: >
