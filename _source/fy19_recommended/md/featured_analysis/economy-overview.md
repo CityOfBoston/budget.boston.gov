@@ -35,7 +35,7 @@ components:
   - title: Unemployment Rate Improving
     body: >
       <p>The seasonally adjusted unemployment rate in the U.S.,  Massachusetts and Boston has been steadily decreasing since the end of the recession. The rate in Massachusetts has since fallen to 3.5% as of December 2017, which is still higher than the 2.6% seen in the year 2000; however, this is due to growth in the labor force. The State and local economies have regained all jobs lost during the recent recessions. Boston’s unemployment rate is at 3.2% as of December 2017. According to Federal Reserve estimates, the unemployment rate is expected to continue improving.</p>
-  right_image: /img/unemployment-rates.png
+    right_image: /img/unemployment-rates.png
 - text_block:
   - title: Inflation Estimates
     body: >
