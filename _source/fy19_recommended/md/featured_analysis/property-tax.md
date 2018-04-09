@@ -64,7 +64,7 @@ components:
     body: >
       <p>Any significant decline in property values can present a problem for cities as dependent on the property tax as Boston. As property values decreased in the early 1990’s, and the City continued each year to maximize the allowable levy increase under Proposition 2 ½, the levy rapidly approached the levy ceiling of 2.5% of total assessed value. Reaching the 2.5% ceiling would have further limited the City’s capacity to increase the annual levy.</p>
       <p>However, due to years of strong new growth increases, the City has some space between its FY18 net effective tax rate of 1.44% and the tax levy ceiling of 2.5%. If the real estate market were to depreciate, the City’s lack of proximity to the 2.5% property tax rate threshold will insulate revenues from an immediate shock. However, if values were depressed long enough, future growth of the property tax would be impaired.</p>
-    right image: /img/property-tax-rate-below-levy-ceiling.png
+    right_image: /img/property-tax-rate-below-levy-ceiling.png
 - grid:
   - grid_title: More budget analysis
   - card: /featured-analysis/revenue-overview/

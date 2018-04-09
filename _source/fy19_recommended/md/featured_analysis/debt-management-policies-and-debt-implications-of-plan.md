@@ -91,7 +91,7 @@ components:
       for the City.</p>
 - grid: 
   - grid_title: More budget analysis
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
-  - card: /featured-analysis/bps-long-term-financial-plan
+  - card: /featured-analysis/pensions-debt-service-other-fixed-costs/
+  - card: /featured-analysis/health-benefits/
+  - card: /featured-analysis/financial-management/
 ---

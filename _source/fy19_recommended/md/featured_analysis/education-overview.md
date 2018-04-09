@@ -5,7 +5,7 @@ title: Education Overview
 card:
   - title: Education Overview
     body: >
-      Funding for Education is growing by $57.8 million (4.8%) over FY17.
+      Funding for Education is growing by $67 million over FY18.
     img: /img/fa-education-overview.jpg
     link: /featured-analysis/education-overview/
 components:
@@ -21,90 +21,55 @@ components:
 - intro:
   - title: Education overview
     short_desc: >
-      The City of Boston is investing in its students to invest in its future. Education comprises 40% of the FY18 budget with a projected $1.081 billion to support Boston Public Schools and $174.3 million to support approximately 10,600 Boston students in charter schools.
+      The City of Boston is investing in its students to invest in its future. Education comprises 40% of the FY19 budget with a projected $1.109 billion to support 57,000 students at Boston Public Schools (BPS) and $194.2 million to support 11,000 Boston students in charter schools. 
     description: >
-      <p>Education also comprises 40% of the growth in the budget, with an increase of $57.8 million (4.8%) over FY17. This increase is in spite of a projected increase of just $1 million in Chapter 70 Education Aid and a charter reimbursement that is projected to be underfunded by $25 million by the state.</p>
-      <p>Over the last 4 years, Boston has increased its annual spending on education by $207 milliion despite a reduction in education funding from the state.</p>
+      Overall education funding is increasing by $67 million, despite a projected increase of just $1.3 million in Chapter 70 Education Aid and a charter reimbursement that is projected to be underfunded by $27.3 million by the state. Since Mayor Walsh took office, Boston has increased its annual spending on education by $170 million despite a $1.4 million reduction in education funding from the state.
     sidebar_menu: true
 - text_block:
   - title: Boston Public Schools budget
-    body: 
-    - blurb: > 
-        This spring, the School Committee approved a $1.061 billion budget for the 
-        Boston Public Schools. At a $1.061 billion appropriation plus a 
-    - link:
-        title: $20 million collective bargaining reserve
-        path: /operating-budget/reserves-for-collective-bargaining/
-    - blurb: >
-        , this marks the largest Boston Public Schools budget in history. With this 
-        investment, Mayor Walsh has increased funding for the Boston Public Schools’ 
-        annual budget by $143 million, and BPS staff levels will have increased by 
-        approximately 250 since taking office. <blockquote>Funding directed to schools 
-        will increase by almost 4%, even before the largest driver of BPS costs, employee 
-        collective bargaining increases, are negotiated, a $25 million increase over 
-        FY17.</blockquote>
+    body: >
+    <p>his spring, the School Committee unanimously approved a $1.109 billion budget for BPS which marks the largest BPS budget in history.</p>
+<p>With this investment, Mayor Walsh has increased funding for the BPS annual budget by $48 million from the FY18 adopted budget, and the number of BPS educators will have increased by approximately 358 since he took office. Funding directed to schools will increase by $40 million or almost 6% in FY19, even before the largest driver of BPS costs, employee collective bargaining increases, are negotiated.</p>
+
 - table:
   - title: Budget breakdown
     columns:
-      - "": Direct School Expenses
-        "FY17": 667M
+      - "Category": Direct School Expenses
         "FY18": 692M
-        "$ Change": 25M
-      - "": School Services Budgeted Centrally
-        "FY17": 300M
-        "FY18": 308M
-        "$ Change": 8M
-      - "": Central Administration
-        "FY17": 65M
-        "FY18": 62M
-        "$ Change": -3M
-      - "": Total Appropriation
-        "FY17": 1.03B
-        "FY18": 1.06B
-        "$ Change": 29M
-      - "": Reserve for Collective Bargaining
-        "FY17": 9M
-        "FY18": 20M
-        "$ Change": 11M
-      - "": Projected Total Budget
-        "FY17": 1.04B
-        "FY18": 1.08B
+        "FY19": 733M
         "$ Change": 40M
-- text_col_2:
-  - col:
-    - blurb: >
-        <h5>Closing the opportunity and achievement gap</h5>
-        <p>In FY18, Boston Public Schools is proposing to make important research-backed 
-        investments to close the opportunity and achievement gap.</p>
-        <ul>
-        <li>Boston is investing $14 million to give 15,000 students, from kindergarten 
-        through 8th-grade, 120 additional hours of learning time — or the equivalent of 20 
-        more school days a year.</li>
-        <li>In addition, by strengthening BPS’s commitment to Excellence For All, more 
-        students in the fourth and fifth grade will receive the same rigorous instruction 
-        and enriched learning opportunities as those in Advanced Work Class (AWC).</li>
-        <li>Boston is also making a strategic $1.2 million investment to support 3,000 
-        BPS students identified by the district as experiencing homelessness.</li>
-        </ul>
-        <p>BPS will also be providing lower performing schools with a wide-range of 
-        differentiated supports, which total over $16 million. This includes a new $1.25 
-        million reserve focused on supporting low level 3, 4 and 5 schools with declining 
-        enrollment.
-        <br/><br/>
+      - "Category": School Services Budgeted Centrally
+        "FY18": 308M
+        "FY19": 313M
+        "$ Change": 6M
+      - "Category": Central Administration
+        "FY18": 62M
+        "FY19": 63M
+        "$ Change": 2M
+      - "Category": Total Appropriation
+        "total": true
+        "FY18": 1.061B
+        "FY19": 1.109B
+        "$ Change": 48M
+- text_block:
+  - title: FY19 Investments
+    body: >
+    <p>The FY19 budget includes strategic investments in line with the BPS guiding principles for budget equity: closing opportunity and achievement gaps, making system-wide investments, and enabling school-led investments.</p>
+    <h5>More funding directed at schools</h5>
+    <p>$10 million of new investments are targeted to schools with concentrations of high need as well as a series of new supports for schools with declining enrollments, particularly those that are lower performing. These include $3 million that will be targeted to English language learners, and $3 million that will be allocated using the Opportunity Index, an innovative approach to identifying high-need students.</p>
+    <h5>Strategic investments to close opportunity and achievement gaps</h5>
+    <p>The budget also includes a series of targeted high-impact investments to support physical and mental health and close opportunity and achievement gaps that total $6 million. These include the addition of 20 new social emotional wellness professionals, expanding Excellence for All to the 6th grade, and expanding Becoming a Man, a program that serves young men of color by providing school-based group counseling and mentoring services.</p>
+    <p>Boston is also continuing its signature investments made under Mayor Walsh by sustaining Expanded Learning Time, adding nearly 150 new high-quality pre-K seats, and increasing supports for students experiencing homelessness.</p>
+    <h5>Reducing central spending</h5>
+<p>The FY19 budget also continues the focus on finding central office and transportation efficiencies to pour back into schools and supports.  Efforts to tighten budget management and identify efficiencies, along with Mayor Walsh’s commitment to education funding, make possible $16 million in new BPS investments beyond increases for teacher salaries. While the School Committee approved a balanced budget for FY19, the District still has underlying challenges that require structural changes to allow Boston to continue to effectively invest in its students in future years.</p>
     - link:
         title: View the BPS Operating Budget
         path: /operating-budget/cabinets/education/boston-public-schools
         button: true
-  - col: >
-      <h5>Long-Term Financial Planning project</h5>
-      <p>Efforts to tighten budget management and identify efficiencies, along with Mayor 
-      Walsh’s commitment to education funding, make possible $20M of BPS investments. 
-      While the School Committee approved a balanced budget for FY18, the District still 
-      has underlying challenges that require structural changes to allow Boston to continue 
-      to effectively invest in its students in future years.</p>
+  
 - grid: 
   - grid_title: More budget analysis
-  - card: /featured-analysis/bps-operating-budget/
-  - card: /featured-analysis/bps-long-term-financial-plan/
-  - card: /featured-analysis/charter-school-tuition/
+  - card: /featured-analysis/bps-great-equalizer/
+  - card: /featured-analysis/bps-scaling-successful-programs/
+  - card: /featured-analysis/health-social-emotional-wellness/
 ---

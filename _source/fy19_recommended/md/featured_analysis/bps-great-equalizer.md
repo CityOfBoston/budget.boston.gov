@@ -6,7 +6,7 @@ card:
   - title: Schools as the Great Equalizer
     body: >
       Learn about the targeted research-backed investments BPS will make in FY18.
-    img: /img/fa-education-overview.jpg
+    img: /img/fa-charter-school-tuition.jpg
     link: /featured-analysis/bps-great-equalizer/
 components:
 - breadcrumbs:
@@ -16,10 +16,10 @@ components:
   - title: Featured Analysis
     url: "/featured-analysis/"
     local: true
-  - current: BPS Operating Budget
+  - current: Schools as the Great Equalizer
   - published: 4/11/18
 - intro:
-  - title: BPS operating budget
+  - title: Schools as the Great Equalizer
     short_desc: >
       A cornerstone of Mayor Walsh’s FY19 budget is the investment in public education. Since taking office, Mayor Walsh has increased spending by $170 million, and results are showing. Graduation rates are at a historic high and Boston Public Schools has more high performing schools than ever before.
     description: >

@@ -39,7 +39,7 @@ components:
       <li>maximizing revenue from local revenue</li>
       <li>Growing in-line with the City's projected revenue growth</li>
       </ul>
-      <p> These discpline financial practices have been affirmed by Boston’s AAA credit rating and have better positioned Boston to manage through changes in local, state, and federal policy and funding levels.</p>
+      <p> These discplined financial practices have been affirmed by Boston’s AAA credit rating and have better positioned Boston to manage through changes in local, state, and federal policy and funding levels.</p>
       <h5>State and Federal Dynamics</h5>
       <p>Declines in state support and the continued uncertainty surrounding federal aid and the President’s proposed cuts to programs that support Boston's most vulnerable put increased pressures on municipalities. In Boston, we are creating new jobs and spurring development, allowing us to continue to invest in our City while we grapple with these uncertainties. Our commitment to disciplined financial practices has enabled us to continue to provide critical, quality services to our residents despite these gaps in state and federal funding. We will need to work together to advocate for greater investment by our partners at the state and federal levels to ensure continued prosperity for the City and the state.</p>
       </ul>
@@ -85,7 +85,7 @@ components:
   - card: /featured-analysis/housing-boston-2030/
   - card: /featured-analysis/prosperity-racial-equity-diversity-economic-mobility/
   - card: /featured-analysis/public-safety-for-growing-city/
-  - card: /featured-analysis/improving-and-expanding-addiction-service/
+  - card: /featured-analysis/improving-expanding-addiction-services/
   - card: /featured-analysis/energy-environment-preparing-for-climate-change/
   - link:
       title: View more budget priorities
