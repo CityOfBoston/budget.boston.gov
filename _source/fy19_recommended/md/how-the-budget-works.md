@@ -16,7 +16,7 @@ components:
       that doesn't mean you can't understand it in 2 minutes. Below, find a 
       quick video overview of how Boston's budget works. For even more information, 
       read the text below the video.</p>
-      <p><a class="button" href="https://www.boston.gov/public-notices?title=FY18+Budget&field_contact_target_id%5B%5D=441">Attend a budget hearing</a></p>
+      <p><a class="button" style="font-style: normal;" href="https://www.boston.gov/public-notices?title=FY18+Budget&field_contact_target_id%5B%5D=441">Attend a budget hearing</a></p>
     description: >
       <iframe width="560" height="315" src="https://www.youtube.com/embed/vKcWmRxe2e8?ecver=1" frameborder="0" allowfullscreen></iframe>
     sidebar_menu: true
