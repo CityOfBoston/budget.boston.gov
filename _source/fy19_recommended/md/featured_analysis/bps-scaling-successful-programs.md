@@ -35,7 +35,7 @@ components:
       <p>Boston Public Schools is the first district outside of Chicago to adopt this program, which research has shown increases school engagement, social-emotional skills, and graduation rates, while decreasing arrest rates. The program guides young men in 7-12th grades to learn, internalize and practice social cognitive skills, make responsible decisions for their future, and become positive members of their school and community.</p>
       <h5>Expanding innovative curriculum</h5>
       <p>BPS is making a $500,000 investment in curriculum development. This investment will support a core ESL curriculum for English language learner classrooms and professional development for teaching staff, as well as investments in social and emotional learning curriculum for students in grades K-2.</p>
-  <p>The funding will also expand successful curriculum pilots. These include 9th grade math curriculum, expeditionary learning for sixth to eighth grade, and Focus on Second, which allows second graders to investigate science and engineering topics.</p>
+      <p>The funding will also expand successful curriculum pilots. These include 9th grade math curriculum, expeditionary learning for sixth to eighth grade, and Focus on Second, which allows second graders to investigate science and engineering topics.</p>
 - grid:
   - grid_title: More budget analysis
   - card: /featured-analysis/early-childhood-education/
