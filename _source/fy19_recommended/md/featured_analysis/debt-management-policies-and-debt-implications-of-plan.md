@@ -42,7 +42,7 @@ components:
       maintain a conservative level of outstanding debt, and ensure the City’s continued positive 
       financial standing with the bond market.
 - text_col_2:
-  - col: >
+  - col:
     - blurb: >
         <p>Key components of the debt management policies ensure that:</p>
         <ul>
@@ -53,18 +53,18 @@ components:
           <li>variable rate debt does not exceed 20% of the City’s total currently outstanding 
           bonded debt (the City has no variable debt).</li>
         </ul>
-      <p>For further discussion of the City’s financial policies and management controls, refer 
-      to the 
+        <p>For further discussion of the City’s financial policies and management controls, refer 
+        to the 
     - link: 
        title: pdf chapter (Volume I) on Financial Management.
        path: /img/pdfs/08-Financial-Management-of-the-City.pdf/</p>
-  - col: >
+  - col:
     - blurb: >     
-      <p>The City’s debt service forecast assumes general obligation borrowing of $177 million 
-      in FY19, $203 million in FY20, $220 million in FY21, $215 million in FY22, and $200 million 
-      in FY23.</p>
-      <p>The debt tables at the end of the 
-    - link
+        <p>The City’s debt service forecast assumes general obligation borrowing of $177 million 
+        in FY19, $203 million in FY20, $220 million in FY21, $215 million in FY22, and $200 million 
+        in FY23.</p>
+        <p>The debt tables at the end of the 
+    - link:
        title: pdf chapter (Volume I) on Capital Planning
        path: /xx
     - blurb: detail the City’s outstanding debt service obligations.</p>
