@@ -1001,49 +1001,49 @@ components:
 - text_col_3:
   - col: >
       <ul>
-        <li>Education</li>
+        <h5>Education</h5>
         <li>Boston Arts Academy</li>
         <li>My Way Cafe Kitchen Program</li>
         <li>BuildBPS: 21st Century Schools Fund</li>
-        <li>Transportation</li>
+        <h5>Transportation</h5>
         <li>Boylston Street Sidewalks</li>
         <li>Vision Zero</li>
         <li>Road and Sidewalk Reconstruction</li>
         <li>Long Island Bridge</li>
-        <li>Technology</li>
+        <h5>Technology</h5>
         <li>Digital Engagement Upgrades</li>
-        <li>Open Space</li>
+        <h5>Open Space</h5>
         <li>Franklin Park Planning</li>
-      </ul>
-  - col: >
-      <ul>
         <li>Boston Common Planning</li>
         <li>Jamaica Pond Pathways & Perimeter</li>
         <li>Martin's Park</li>
-        <li>Energy and Environment</li>
-        <li>Climate Ready Bostont</li>
-        <li>Renew Boston Trust</li>
-        <li>Health</li>
-        <li>BCYF Vine Street Pool</li>
-        <li>BCYF Curley Community Center</li>
-        <li>BCYF Gallivan Community Center</li>
-        <li>Housing</li>
-        <li>Whittier Street Roadways</li>
-        <li>Madison Park Village</li>
-        <li>Arts and Culture</li>
       </ul>
   - col: >
       <ul>
+        <h5>Energy and Environment</h5>
+        <li>Climate Ready Bostont</li>
+        <li>Renew Boston Trust</li>
+        <h5>Health</h5>
+        <li>BCYF Vine Street Pool</li>
+        <li>BCYF Curley Community Center</li>
+        <li>BCYF Gallivan Community Center</li>
+        <h5>Housing</h5>
+        <li>Whittier Street Roadways</li>
+        <li>Madison Park Village</li>
+        <h5>Arts and Culture</h5>
         <li>Percent for Arts</li>
         <li>Adams Street Branch Library</li>
         <li>Roslindale Branch Library</li>  
-        <li>Economy</li>
+      </ul>
+  - col: >
+      <ul>
+        <h5>Economy</h5>
         <li>Harrison Avenue / Washington Street</li>
         <li>Dudley Street</li>
-        <li>Public Safety</li>
+        <h5>Public Safety</h5>
         <li>New East Boston Police Station</li>
         <li>New Engine 17 and 43 Fire Stations</li>
-        <li>Government Effectiveness</li>
+        <h5>Government Effectiveness</h5>
         <li>City Hall and Plaza Master Plan</li>
         <li>Youth Fund</li>
       </ul>
