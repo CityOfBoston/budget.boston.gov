@@ -218,7 +218,7 @@ components:
       <h5>Reduced City share</h5>
       <p>Through the City and PEC’s two coalition bargaining agreements signed in 2011 and 2015, City employees and retirees are now paying a higher share of total health care costs through increased premium share and higher co-pays for office visits and pharmaceutical costs. The City’s share of total costs for its most popular non-Medicare health plan reduced from approximately 82% in FY11 to 77% in FY19. This is still higher than the estimated 68% employer share for a state employee enrolled in the Group Insurance Commission (GIC). <blockquote>Today, the City’s total annual health care costs are estimated to be over $27 million lower than they would have been if not for these changes.</blockquote></p>
   - col: 
-    - img: /img/health-care-cost-sharing.png
+    - img: /img/health-care-costs-sharing.png
 - text_block:
   - body: >
       <p class="intro-text supporting-text">In FY15, the City and the PEC entered into their second agreement, which is projected to reduce projected costs by approximately $50 million over five years. This most recent agreement is unique because it includes not only a continued increase in member cost share, but also multiple other approaches to containing total costs for both the City and members, including:</p>

@@ -54,15 +54,16 @@ components:
       <li>Promoting a healthy environment; and</li>
       <li>Guiding investment in the public realm</li>
       </ul>
-  - col: >
-      <h5>Imagine Boston Capital Plan</h5>
-      <p>Last Year, Mayor Walsh launched the Imagine Boston Capital Plan to move
-      Boston residents’ priorities from idea to action, and invest in creating the
-      city Bostonians imagine for the future. This year, under the Imagine Boston 2030 umbrella,
-      the City is investing deeply in the core goals of BuildBPS, Go Boston 2030,
-      Boston Creates, and Climate Ready Boston. An estimated 84% of the investment
-      in the FY19-23 Capital Plan is aligned with the City’s planning efforts:</p>
-  right_image: /img/Expenditures-by-category.png
+  - col:
+    - blurb: >
+        <h5>Imagine Boston Capital Plan</h5>
+        <p>Last Year, Mayor Walsh launched the Imagine Boston Capital Plan to move
+        Boston residents’ priorities from idea to action, and invest in creating the
+        city Bostonians imagine for the future. This year, under the Imagine Boston 2030 umbrella,
+        the City is investing deeply in the core goals of BuildBPS, Go Boston 2030,
+        Boston Creates, and Climate Ready Boston. An estimated 84% of the investment
+        in the FY19-23 Capital Plan is aligned with the City’s planning efforts:</p>
+    - img: /img/expenditures-by-category.png
 - text_col_2:
   - col: >
       <h5>Moving into the 21st century</h5>
