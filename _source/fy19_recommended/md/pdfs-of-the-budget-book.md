@@ -183,10 +183,4 @@ components:
     - blurb: >
         </li>
         </ul>
-    - link:
-        title: Test PDF 4-9-18
-        path: /img/pdfs/01-Mayors-Office-Cabinet-Test-4-9-18.pdf
-    - blurb: >
-        </li>
-        </ul>
 ---
