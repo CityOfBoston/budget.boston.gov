@@ -4,6 +4,8 @@ layout: bos_wrapper
 
 {% include hero.html %}
 
+<div id="bos_content">
+
 {% for component in page.components %}
 
   {% if component.breadcrumbs %}
@@ -47,3 +49,5 @@ layout: bos_wrapper
   {% endif %}
 
 {% endfor %}
+
+</div>
