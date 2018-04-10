@@ -92,6 +92,7 @@ components:
       debt per capita currently stands at approximately $1,804 as of March 1, 2018.</p>
       <p>Boston has been conservative about assuming long-term debt and aggressive about retiring 
       debt expeditiously. <blockquote>Over 40% of the City’s outstanding debt will be retired within the next five years.</blockquote></p>
+  - col: >   
       <h5>Credit rating</h5>
       <p>In February of 2017, Moody’s Investors Service and Standard and Poor’s reaffirmed Boston’s 
       credit rating at Aaa, and AAA, respectively. A bond rating is a statement of credit quality 
