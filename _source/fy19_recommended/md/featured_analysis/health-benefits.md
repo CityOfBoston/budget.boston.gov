@@ -97,77 +97,137 @@ components:
     right_text: (dollars in millions)
     columns:
     - "Fiscal Year": FY08
-      "Total Cost": 270.6
-      "$ Change": 20.9
+      "Total Cost":
+        value: 270.6
+        align: right
+      "$ Change":
+        value: 20.9
+        align: right
       "% Change":
         value: 8.4
         filter: percent
+        align: right
     - "Fiscal Year": FY09
-      "Total Cost": 278.8
-      "$ Change": 8.1
+      "Total Cost":
+        value: 278.8
+        align: right
+      "$ Change":
+        value: 8.1
+        align: right
       "% Change":
         value: 3.0
         filter: percent
+        align: right
     - "Fiscal Year": FY10
-      "Total Cost": 296.1
-      "$ Change": 17.3
+      "Total Cost":
+        value: 296.1
+        align: right
+      "$ Change":
+        value: 17.3
+        align: right
       "% Change":
         value: 6.2
         filter: percent
+        align: right
     - "Fiscal Year": FY11
-      "Total Cost": 308.0
-      "$ Change": 11.9
+      "Total Cost":
+        value: 308.0
+        align: right
+      "$ Change":
+        value: 11.9
+        align: right
       "% Change":
         value: 4.0
         filter: percent
+        align: right
     - "Fiscal Year": FY12
-      "Total Cost": 318.9
-      "$ Change": 10.9
+      "Total Cost":
+        value: 318.9
+        align: right
+      "$ Change":
+        value: 10.9
+        align: right
       "% Change":
         value: 3.5
         filter: percent
+        align: right
     - "Fiscal Year": FY13
-      "Total Cost": 293.3
-      "$ Change": -25.5
+      "Total Cost":
+        value: 293.3
+        align: right
+      "$ Change":
+        value: -25.5
+        align: right
       "% Change":
         value: -8.0
         filter: percent
+        align: right
     - "Fiscal Year": FY14
-      "Total Cost": 304.4
-      "$ Change": 11.1
+      "Total Cost":
+        value: 304.4
+        align: right
+      "$ Change":
+        value: 11.1
+        align: right
       "% Change":
         value: 3.8
         filter: percent
+        align: right
     - "Fiscal Year": FY15
-      "Total Cost": 296.5
-      "$ Change": -7.9
+      "Total Cost":
+        value: 296.5
+        align: right
+      "$ Change":
+        value: -7.9
+        align: right
       "% Change":
         value: -2.6
         filter: percent
+        align: right
     - "Fiscal Year": FY16
-      "Total Cost": 312.2
-      "$ Change": 15.7
+      "Total Cost":
+        value: 312.2
+        align: right
+      "$ Change":
+        value: 15.7
+        align: right
       "% Change":
         value: 5.1
         filter: percent
+        align: right
     - "Fiscal Year": FY17
-      "Total Cost": 328.1
-      "$ Change": 15.9
+      "Total Cost":
+        value: 328.1
+        align: right
+      "$ Change":
+        value: 15.9
+        align: right
       "% Change":
         value: 5.1
         filter: percent
+        align: right
     - "Fiscal Year": FY18*
-      "Total Cost": 352.4
-      "$ Change": 24.3
+      "Total Cost":
+        value: 352.4
+        align: right
+      "$ Change":
+        value: 24.3
+        align: right
       "% Change":
         value: 7.4
         filter: percent
+        align: right
     - "Fiscal Year": FY19*
-      "Total Cost": 362.9
-      "$ Change": 10.5
+      "Total Cost":
+        value: 362.9
+        align: right
+      "$ Change":
+        value: 10.5
+        align: right
       "% Change":
         value: 3.0
         filter: percent
+        align: right
 - text_block: 
   - body: >
       *Budget estimates
@@ -175,40 +235,55 @@ components:
   - title: Healthplan Subscribers Feb 2018
     columns:
     - "Health Plan": Indemnity
-      "Active": 819
-      "Retiree": 911
+      "Active":
+        value: 819
+        align: right
+      "Retiree":
+        value: 911
+        align: right
       "Total": 
         value: 1730
         filter: delimiter
+        align: right
     - "Health Plan": HMO
       "Active": 
         value: 14293
         filter: delimiter
+        align: right
       "Retiree": 
         value: 2511
         filter: delimiter
+        align: right
       "Total": 
         value: 16804
         filter: delimiter
+        align: right
     - "Health Plan": Medicare
-      "Active": 1
+      "Active":
+        value: 1
+        align: right
       "Retiree": 
         value: 11369
         filter: delimiter
+        align: right
       "Total": 
         value: 11370
         filter: delimiter
+        align: right
     - "Health Plan": Total
       "total": true
       "Active": 
         value: 15113
         filter: delimiter
+        align: right
       "Retiree": 
         value: 14791
         filter: delimiter
+        align: right
       "Total": 
         value: 29904
         filter: delimiter
+        align: right
 - text_block:
   - title: City - Union Partnership
     body: >

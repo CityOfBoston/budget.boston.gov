@@ -33,22 +33,46 @@ components:
   - title: Budget breakdown
     columns:
       - "Category": Direct School Expenses
-        "FY18": 692M
-        "FY19": 733M
-        "$ Change": 40M
+        "FY18":
+          value: 692M
+          align: right
+        "FY19":
+          value: 733M
+          align: right
+        "$ Change":
+          value: 40M
+          align: right
       - "Category": School Services Budgeted Centrally
-        "FY18": 308M
-        "FY19": 313M
-        "$ Change": 6M
+        "FY18":
+          value: 308M
+          align: right
+        "FY19":
+          value: 313M
+          align: right
+        "$ Change":
+          value: 6M
+          align: right
       - "Category": Central Administration
-        "FY18": 62M
-        "FY19": 63M
-        "$ Change": 2M
+        "FY18":
+          value: 62M
+          align: right
+        "FY19":
+          value: 63M
+          align: right
+        "$ Change":
+          value: 2M
+          align: right
       - "Category": Total Appropriation
         "total": true
-        "FY18": 1.061B
-        "FY19": 1.109B
-        "$ Change": 48M
+        "FY18":
+          value: 1.061B
+          align: right
+        "FY19":
+          value: 1.109B
+          align: right
+        "$ Change":
+          value: 48M
+          align: right
 - text_block:
   - title: FY19 Investments
     body: >

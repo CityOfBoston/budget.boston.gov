@@ -236,50 +236,122 @@ components:
     right_text: (dollars in millions)
     columns:
       - "Fiscal Year": FY11
-        "Beginning Year Balance": 59.362
-        "Funds Out": (15.000)
-        "Funds In": 14.729
-        "Ending Year Balance": 59.091
+        "Beginning Year Balance":
+          value: 59.362
+          align: right
+        "Funds Out":
+          value: (15.000)
+          align: right
+        "Funds In":
+          value: 14.729
+          align: right
+        "Ending Year Balance":
+          value: 59.091
+          align: right
       - "Fiscal Year": FY12
-        "Beginning Year Balance": 59.091
-        "Funds Out": 0.000
-        "Funds In": 16.560
-        "Ending Year Balance": 75.651
+        "Beginning Year Balance":
+          value: 59.091
+          align: right
+        "Funds Out":
+          value: 0.000
+          align: right
+        "Funds In":
+          value: 16.560
+          align: right
+        "Ending Year Balance":
+          value: 75.651
+          align: right
       - "Fiscal Year": FY13
-        "Beginning Year Balance": 75.651
-        "Funds Out": 0.000
-        "Funds In": 15.514
-        "Ending Year Balance": 91.165
+        "Beginning Year Balance":
+          value: 75.651
+          align: right
+        "Funds Out":
+          value: 0.000
+          align: right
+        "Funds In":
+          value: 15.514
+          align: right
+        "Ending Year Balance":
+          value: 91.165
+          align: right
       - "Fiscal Year": FY14
-        "Beginning Year Balance": 91.165
-        "Funds Out": 0.000
-        "Funds In": 15.547
-        "Ending Year Balance": 106.712
+        "Beginning Year Balance":
+          value: 91.165
+          align: right
+        "Funds Out":
+          value: 0.000
+          align: right
+        "Funds In":
+          value: 15.547
+          align: right
+        "Ending Year Balance":
+          value: 106.712
+          align: right
       - "Fiscal Year": FY15
-        "Beginning Year Balance": 106.712
-        "Funds Out": (19.000)
-        "Funds In": 14.685
-        "Ending Year Balance": 102.397
+        "Beginning Year Balance":
+          value: 106.712
+          align: right
+        "Funds Out":
+          value: (19.000)
+          align: right
+        "Funds In":
+          value: 14.685
+          align: right
+        "Ending Year Balance":
+          value: 102.397
+          align: right
       - "Fiscal Year": FY16
-        "Beginning Year Balance": 102.397
-        "Funds Out": (6.500)
-        "Funds In": 14.397
-        "Ending Year Balance": 110.294
+        "Beginning Year Balance":
+          value: 102.397
+          align: right
+        "Funds Out":
+          value: (6.500)
+          align: right
+        "Funds In":
+          value: 14.397
+          align: right
+        "Ending Year Balance":
+          value: 110.294
+          align: right
       - "Fiscal Year": FY17
-        "Beginning Year Balance": 110.294
-        "Funds Out": (15.000)
-        "Funds In": 26.491
-        "Ending Year Balance": 121.785
+        "Beginning Year Balance":
+          value: 110.294
+          align: right
+        "Funds Out":
+          value: (15.000)
+          align: right
+        "Funds In":
+          value: 26.491
+          align: right
+        "Ending Year Balance":
+          value: 121.785
+          align: right
       - "Fiscal Year": FY18*
-        "Beginning Year Balance": 121.785
-        "Funds Out": (68.885)
-        "Funds In": 25.000
-        "Ending Year Balance": 77.900
+        "Beginning Year Balance":
+          value: 121.785
+          align: right
+        "Funds Out":
+          value: (68.885)
+          align: right
+        "Funds In":
+          value: 25.000
+          align: right
+        "Ending Year Balance":
+          value: 77.900
+          align: right
       - "Fiscal Year": FY19*
-        "Beginning Year Balance": 77.900
-        "Funds Out": (53.803)
-        "Funds In": 25.000
-        "Ending Year Balance": 49.097        
+        "Beginning Year Balance":
+          value: 77.900
+          align: right
+        "Funds Out":
+          value: (53.803)
+          align: right
+        "Funds In":
+          value: 25.000
+          align: right
+        "Ending Year Balance":
+          value: 49.097        
+          align: right
 - text_block: 
   - body: >
       *Projected<br>
@@ -289,55 +361,135 @@ components:
     right_text: (dollars in millions)
     columns:
       - "Fiscal Year": FY10
-        "Beginning Year Balance": 7.711
-        "Funds Out": (2.507)
-        "Funds In**": 2.264
-        "Ending Year Balance": 7.468
+        "Beginning Year Balance":
+          value: 7.711
+          align: right
+        "Funds Out":
+          value: (2.507)
+          align: right
+        "Funds In**":
+          value: 2.264
+          align: right
+        "Ending Year Balance":
+          value: 7.468
+          align: right
       - "Fiscal Year": FY11
-        "Beginning Year Balance": 7.468
-        "Funds Out": (2.651)
-        "Funds In**": 2.477
-        "Ending Year Balance": 7.293
+        "Beginning Year Balance":
+          value: 7.468
+          align: right
+        "Funds Out":
+          value: (2.651)
+          align: right
+        "Funds In**":
+          value: 2.477
+          align: right
+        "Ending Year Balance":
+          value: 7.293
+          align: right
       - "Fiscal Year": FY12
-        "Beginning Year Balance": 7.293
-        "Funds Out": 0.000
-        "Funds In**": (1.152)
-        "Ending Year Balance": 6.141
+        "Beginning Year Balance":
+          value: 7.293
+          align: right
+        "Funds Out":
+          value: 0.000
+          align: right
+        "Funds In**":
+          value: (1.152)
+          align: right
+        "Ending Year Balance":
+          value: 6.141
+          align: right
       - "Fiscal Year": FY13
-        "Beginning Year Balance": 6.141
-        "Funds Out": 0.000
-        "Funds In**": 2.260
-        "Ending Year Balance": 8.401
+        "Beginning Year Balance":
+          value: 6.141
+          align: right
+        "Funds Out":
+          value: 0.000
+          align: right
+        "Funds In**":
+          value: 2.260
+          align: right
+        "Ending Year Balance":
+          value: 8.401
+          align: right
       - "Fiscal Year": FY14
-        "Beginning Year Balance": 8.401
-        "Funds Out": 0.000
-        "Funds In**": 1.088
-        "Ending Year Balance": 9.489
+        "Beginning Year Balance":
+          value: 8.401
+          align: right
+        "Funds Out":
+          value: 0.000
+          align: right
+        "Funds In**":
+          value: 1.088
+          align: right
+        "Ending Year Balance":
+          value: 9.489
+          align: right
       - "Fiscal Year": FY15
-        "Beginning Year Balance": 9.489
-        "Funds Out": 0.000
-        "Funds In**": 1.077
-        "Ending Year Balance": 10.566
+        "Beginning Year Balance":
+          value: 9.489
+          align: right
+        "Funds Out":
+          value: 0.000
+          align: right
+        "Funds In**":
+          value: 1.077
+          align: right
+        "Ending Year Balance":
+          value: 10.566
+          align: right
       - "Fiscal Year": FY16
-        "Beginning Year Balance": 10.566
-        "Funds Out": 0.000
-        "Funds In**": 0.433
-        "Ending Year Balance": 10.999
+        "Beginning Year Balance":
+          value: 10.566
+          align: right
+        "Funds Out":
+          value: 0.000
+          align: right
+        "Funds In**":
+          value: 0.433
+          align: right
+        "Ending Year Balance":
+          value: 10.999
+          align: right
       - "Fiscal Year": FY17
-        "Beginning Year Balance": 10.999
-        "Funds Out": 0.000
-        "Funds In**": 1.818
-        "Ending Year Balance": 12.817
+        "Beginning Year Balance":
+          value: 10.999
+          align: right
+        "Funds Out":
+          value: 0.000
+          align: right
+        "Funds In**":
+          value: 1.818
+          align: right
+        "Ending Year Balance":
+          value: 12.817
+          align: right
       - "Fiscal Year": FY18*
-        "Beginning Year Balance": 12.817
-        "Funds Out": (0.950)
-        "Funds In**": 1.000
-        "Ending Year Balance": 12.867
+        "Beginning Year Balance":
+          value: 12.817
+          align: right
+        "Funds Out":
+          value: (0.950)
+          align: right
+        "Funds In**":
+          value: 1.000
+          align: right
+        "Ending Year Balance":
+          value: 12.867
+          align: right
       - "Fiscal Year": FY19*
-        "Beginning Year Balance": 12.867
-        "Funds Out": (0.950)
-        "Funds In**": 1.000
-        "Ending Year Balance": 12.917        
+        "Beginning Year Balance":
+          value: 12.867
+          align: right
+        "Funds Out":
+          value: (0.950)
+          align: right
+        "Funds In**":
+          value: 1.000
+          align: right
+        "Ending Year Balance":
+          value: 12.917        
+          align: right
 - text_block: 
   - body: >
       *Projected<br>
@@ -347,55 +499,135 @@ components:
     right_text: (dollars in millions)
     columns:
       - "Fiscal Year": FY10
-        "Beginning Year Balance": 30.087
-        "Funds Out": (5.979)
-        "Funds In": 0.000
-        "Ending Year Balance": 24.108
+        "Beginning Year Balance":
+          value: 30.087
+          align: right
+        "Funds Out":
+          value: (5.979)
+          align: right
+        "Funds In":
+          value: 0.000
+          align: right
+        "Ending Year Balance":
+          value: 24.108
+          align: right
       - "Fiscal Year": FY11
-        "Beginning Year Balance": 24.108
-        "Funds Out": 0.000
-        "Funds In": 0.972
-        "Ending Year Balance": 25.080
+        "Beginning Year Balance":
+          value: 24.108
+          align: right
+        "Funds Out":
+          value: 0.000
+          align: right
+        "Funds In":
+          value: 0.972
+          align: right
+        "Ending Year Balance":
+          value: 25.080
+          align: right
       - "Fiscal Year": FY12
-        "Beginning Year Balance": 25.080
-        "Funds Out": 0.000
-        "Funds In": 1.291
-        "Ending Year Balance": 26.371
+        "Beginning Year Balance":
+          value: 25.080
+          align: right
+        "Funds Out":
+          value: 0.000
+          align: right
+        "Funds In":
+          value: 1.291
+          align: right
+        "Ending Year Balance":
+          value: 26.371
+          align: right
       - "Fiscal Year": FY13
-        "Beginning Year Balance": 26.371
-        "Funds Out": (22.120)
-        "Funds In": 5.057
-        "Ending Year Balance": 9.307
+        "Beginning Year Balance":
+          value: 26.371
+          align: right
+        "Funds Out":
+          value: (22.120)
+          align: right
+        "Funds In":
+          value: 5.057
+          align: right
+        "Ending Year Balance":
+          value: 9.307
+          align: right
       - "Fiscal Year": FY14
-        "Beginning Year Balance": 9.307
-        "Funds Out": 0.000
-        "Funds In": 0.550
-        "Ending Year Balance": 9.857
+        "Beginning Year Balance":
+          value: 9.307
+          align: right
+        "Funds Out":
+          value: 0.000
+          align: right
+        "Funds In":
+          value: 0.550
+          align: right
+        "Ending Year Balance":
+          value: 9.857
+          align: right
       - "Fiscal Year": FY15
-        "Beginning Year Balance": 9.857
-        "Funds Out": (5.250)
-        "Funds In": 10.678
-        "Ending Year Balance": 15.285
+        "Beginning Year Balance":
+          value: 9.857
+          align: right
+        "Funds Out":
+          value: (5.250)
+          align: right
+        "Funds In":
+          value: 10.678
+          align: right
+        "Ending Year Balance":
+          value: 15.285
+          align: right
       - "Fiscal Year": FY16
-        "Beginning Year Balance": 15.285
-        "Funds Out": 0.000
-        "Funds In": 1.742
-        "Ending Year Balance": 17.027
+        "Beginning Year Balance":
+          value: 15.285
+          align: right
+        "Funds Out":
+          value: 0.000
+          align: right
+        "Funds In":
+          value: 1.742
+          align: right
+        "Ending Year Balance":
+          value: 17.027
+          align: right
       - "Fiscal Year": FY17
-        "Beginning Year Balance": 17.027
-        "Funds Out": 0.000
-        "Funds In": 4.010
-        "Ending Year Balance": 21.037
+        "Beginning Year Balance":
+          value: 17.027
+          align: right
+        "Funds Out":
+          value: 0.000
+          align: right
+        "Funds In":
+          value: 4.010
+          align: right
+        "Ending Year Balance":
+          value: 21.037
+          align: right
       - "Fiscal Year": FY18*
-        "Beginning Year Balance": 21.037
-        "Funds Out": 0.000
-        "Funds In": 1.145
-        "Ending Year Balance": 22.182
+        "Beginning Year Balance":
+          value: 21.037
+          align: right
+        "Funds Out":
+          value: 0.000
+          align: right
+        "Funds In":
+          value: 1.145
+          align: right
+        "Ending Year Balance":
+          value: 22.182
+          align: right
       - "Fiscal Year": FY19*
-        "Beginning Year Balance": 22.182
-        "Funds Out": (1.600)
-        "Funds In": 1.145
-        "Ending Year Balance": 21.727        
+        "Beginning Year Balance":
+          value: 22.182
+          align: right
+        "Funds Out":
+          value: (1.600)
+          align: right
+        "Funds In":
+          value: 1.145
+          align: right
+        "Ending Year Balance":
+          value: 21.727        
+          align: right
 - text_block: 
   - body: >
       *Projected<br>

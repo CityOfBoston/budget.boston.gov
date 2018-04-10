@@ -61,101 +61,131 @@ components:
         "FY17 Expenditure": 
           value: 138414193
           filter: delimiter
+          align: right
         "FY18 Estimated":
           value: 137222603
           filter: delimiter
+          align: right
         "FY19 Estimated":
           value: 137062144
           filter: delimiter
+          align: right
       - "Department": Neighborhood Development
         "FY17 Expenditure": 
           value: 89454325
           filter: delimiter
+          align: right
         "FY18 Estimated":
           value: 62022708
           filter: delimiter
+          align: right
         "FY19 Estimated":
           value: 78142034
           filter: delimiter
+          align: right
       - "Department": Public Health Commission
         "FY17 Expenditure": 
           value: 49051487
           filter: delimiter
+          align: right
         "FY18 Estimated":
           value: 41717478
           filter: delimiter
+          align: right
         "FY19 Estimated":
           value: 46515679
           filter: delimiter
+          align: right
       - "Department": Treasury Department
         "FY17 Expenditure": 
           value: 0
           filter: delimiter
+          align: right
         "FY18 Estimated":
           value: 18180001
           filter: delimiter
+          align: right
         "FY19 Estimated":
           value: 23861250
           filter: delimiter
+          align: right
       - "Department": Emergency Management
         "FY17 Expenditure": 
           value: 14069475
           filter: delimiter
+          align: right
         "FY18 Estimated":
           value: 11164466
           filter: delimiter
+          align: right
         "FY19 Estimated":
           value: 12347728
           filter: delimiter
+          align: right
       - "Department": Police Department
         "FY17 Expenditure": 
           value: 10502260
           filter: delimiter
+          align: right
         "FY18 Estimated":
           value: 15547590
           filter: delimiter
+          align: right
         "FY19 Estimated":
           value: 8990677
           filter: delimiter
+          align: right
       - "Department": Library Department
         "FY17 Expenditure": 
           value: 9332170
           filter: delimiter
+          align: right
         "FY18 Estimated":
           value: 8843340
           filter: delimiter
+          align: right
         "FY19 Estimated":
           value: 8738756
           filter: delimiter
+          align: right
       - "Department": Elderly Commission
         "FY17 Expenditure": 
           value: 6580517
           filter: delimiter
+          align: right
         "FY18 Estimated":
           value: 7047534
           filter: delimiter
+          align: right
         "FY19 Estimated":
           value: 6643278
           filter: delimiter
+          align: right
       - "Department": Other
         "FY17 Expenditure": 
           value: 29998122
           filter: delimiter
+          align: right
         "FY18 Estimated":
           value: 31494031
           filter: delimiter
+          align: right
         "FY19 Estimated":
           value: 27737284
           filter: delimiter
+          align: right
       - "Department": Total
         "total": true
         "FY17 Expenditure": 
           value: 347402549
           filter: delimiter
+          align: right
         "FY18 Estimated":
           value: 333239752
           filter: delimiter
+          align: right
         "FY19 Estimated":
           value: 350038830
           filter: delimiter
+          align: right
 ---
