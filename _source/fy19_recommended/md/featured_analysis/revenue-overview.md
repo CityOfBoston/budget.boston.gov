@@ -33,6 +33,7 @@ components:
       <li>While State revenue is projected to grow by $4 million, </li></ul>
       <p>Property tax growth remains the main driver in revenue growth and far exceeds previous growth realized in the City. Local receipts, such as fines, fees and excise tax also continue to grow modestly as a result of an expanding economy.  After a decade-long trend of modest growth in State revenue and large increases in State assessments, the City continues to weather reductions to net State aid (state revenue net of assessments).</p>
       <blockquote>Net State Aid is budgeted to decline as continued increases in state assessments for charter school tuition outpace stagnant budgeted state revenue.</blockquote>
+    right_image: /img/net-state-aid.png
 - text_block:
   - title: Property Tax Overview
     body: >
@@ -44,8 +45,8 @@ components:
       <p>Despite these constraints, the Mayor is committed to keeping residential property tax bills down to retain more low and middle class homeowners in the City. Policies the Mayor has pursued are demonstrating success, as residential taxes fall 41% below last year’s statewide average.</p>
       <blockquote> Mayor Walsh advocated for a change in State law that increased the residential exemption limit from 30% to 35% of the average assessed value of all Class One residential properties. This year, the City Council, with the approval of the Mayor, once again chose the maximum exemption allowed by law. The FY18 residential exemption amount increased by $106 over last year’s amount.</blockquote>
       <p>Additionally, the FY18 classified tax rates decreased from the FY17 levels, resulting in substantial savings for the City’s residential taxpayers, while still maximizing its taxable levy.</p>  
+    right_image: /img/property-tax-rate-below-levy-ceiling.png  
       <p>Thanks to efforts to attract business development and grow its housing stock, Boston experienced unprecedented new growth in property tax revenue over the past two fiscal years. In FY19, we expect new growth to continue, but will likely not exceed experiences in FY17 and FY18.</p>
-    right_image: /img/net-state-aid.png  
 - text_block:
   - title: State Revenue Overview
     body: >
