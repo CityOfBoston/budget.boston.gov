@@ -18,12 +18,13 @@ components:
     local: true
   - current: Advancing Racial Equity, Diversity, and Economic Mobility
   - published: 4/11/18
-- text_block:
+- intro:
   - title: Advancing racial equity, diversity, and economic mobility
     short_desc: >
       In July 2017, Mayor Walsh released Boston's first citywide Resilience Strategy to ensure every resident can reach their full potential regardless of their background, and remove the barriers of systemic racism that hinder Bostonians from having access to opportunities. 
     description: >
-     The FY19 budget begins to deliver on that promise through meaningful investment that looks at the root problems of systemic racism and ensures Boston is a city where everyone thrives. These investments include:
+      The FY19 budget begins to deliver on that promise through meaningful investment that looks at the root problems of systemic racism and ensures Boston is a city where everyone thrives. These investments include:
+    sidebar_menu: true
 - text_col_2:
   - col: >
      <ul>
