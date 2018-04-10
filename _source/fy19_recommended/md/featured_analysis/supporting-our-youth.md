@@ -5,7 +5,7 @@ title: Supporting our Youth
 card:
   - title: Supporting our Youth
     body: >
-      Investment in the city’s youth is an investment in the city’s future
+      Investment in the City’s youth is an investment in the City’s future
     img: /img/fa-mayor_with_students.jpg
     link: /featured-analysis/supporting-our-youth/
 components:
@@ -21,12 +21,12 @@ components:
 - intro:
   - title: Supporting our Youth
     short_desc: >
-      Mayor Walsh understands that an investment in the city’s youth is an investment in the city’s future. In FY19, departments citywide will expand services and supports for our youth.
+      Mayor Walsh understands that an investment in the city’s youth is an investment in the City’s future. In FY19, departments citywide will expand services and supports for our youth.
     sidebar_menu: true
 - text_block:
   - title: Healthy and Active
     body: >
-      The Boston Center for Youth and Families (BCYF) will continue to grow it’s footprint in the city and reach more underserved children and neighborhoods.
+      The Boston Center for Youth and Families (BCYF) will continue to grow it’s footprint in the City and reach more underserved children and neighborhoods.
 - text_col_3:
   - col: >
       <h5>Community Centers</h5>
@@ -41,7 +41,7 @@ components:
   - title: Responding to Trauma
     body: >
       <p>In FY19, the City will make new investments to ensure children who experience traumatic events have the tools to recover and thrive. BPHC will expend an additional $284,000 on new supports for Neighborhood Trauma Teams. These community based organizations are on the ground responding to children and families to provide post-trauma supports. This investment will further strengthen the five existing teams, and add one additional team in FY19.</p> 
-      <p>These investments, in conjunction with the $2.4 million BPS social and emotional wellness investment, will help ensure the city’s youth have the supports to succeed.</p>
+      <p>These investments, in conjunction with the $2.4 million BPS social and emotional wellness investment, will help ensure the City’s youth have the supports to succeed.</p>
 - text_block:
   - title: Pathways to Careers
     body: >
