@@ -57,7 +57,8 @@ components:
         to the 
     - link: 
        title: pdf chapter (Volume I) on Financial Management.
-       path: /img/pdfs/08-Financial-Management-of-the-City.pdf/</p>
+       path: /img/pdfs/08-Financial-Management-of-the-City.pdf
+        </p>
   - col:
     - blurb: >     
         <p>The City’s debt service forecast assumes general obligation borrowing of $177 million 
@@ -66,7 +67,7 @@ components:
         <p>The debt tables at the end of the 
     - link:
        title: pdf chapter (Volume I) on Capital Planning
-       path: /xx
+       path: /img/pdfs/05-Capital-Planning.pdf
     - blurb: detail the City’s outstanding debt service obligations.</p>
 - text_col_2:
   - col:
