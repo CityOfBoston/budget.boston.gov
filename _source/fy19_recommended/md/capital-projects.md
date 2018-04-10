@@ -59,7 +59,9 @@ components:
         the City is investing deeply in the core goals of BuildBPS, Go Boston 2030,
         Boston Creates, and Climate Ready Boston. An estimated 84% of the investment
         in the FY19-23 Capital Plan is aligned with the City’s planning efforts:</p>
-      right_image: /img/expenditures-by-category.png
+    right_image: /img/expenditures-by-category.png
+- text_block:
+  - body: >
       <h5>Moving into the 21st century</h5>
       <p>Mayor Walsh committed $1 billion over ten years to bring Boston's school
       buildings into the 21st century, and this Capital Plan launches that investment
