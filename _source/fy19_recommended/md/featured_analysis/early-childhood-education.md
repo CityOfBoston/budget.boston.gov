@@ -40,7 +40,7 @@ components:
         <p>BPS will continue to strengthen and expand programs, including full-day K1 classrooms for four-year-olds. More than 60% of BPS early childhood classrooms have earned accreditation from the National Association for the Education of Young Children (NAEYC), affirming that these programs offer high-quality, state-of-the-art education to help get children off to successful starts.</p>
 - grid: 
   - grid_title: More budget analysis
-  - card: /featured-analysis/health-social-emotional-wellness
-  - card: /featured-analysis/bps-great-equalizer
+  - card: /featured-analysis/health-social-emotional-wellness/
+  - card: /featured-analysis/bps-great-equalizer/
   - card: /featured-analysis/bps-scaling-successful-programs/
 ---
