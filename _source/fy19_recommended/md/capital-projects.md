@@ -1036,7 +1036,7 @@ components:
         <li>Dudley Street</li>
         <h5>Public Safety</h5>
         <li>New East Boston Police Station</li>
-        <li>New Engine 17 and 43 Fire Stations</li>
+        <li>New Engine 17 and 42 Fire Stations</li>
         <h5>Government Effectiveness</h5>
         <li>City Hall and Plaza Master Plan</li>
         <li>Youth Fund</li>
