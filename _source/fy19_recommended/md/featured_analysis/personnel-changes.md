@@ -108,7 +108,4 @@ components:
         title: View FTE Table 
         path: /img/pdfs/fte-table.pdf
         button: true
-- text_block:
-  - body:
-    - img: /img/full-time-employees-table.png
 ---
