@@ -27,8 +27,6 @@ components:
     sidebar_menu: true
 - text_block: 
   - title: Other City departments
-- text_col_2:
-  - col: >
       <p>The majority of departments had employees who reached agreement on collective bargaining contracts, so department growth reflects those wage and cost of living increases, while outstanding contracts are reserved centrally. 
       <blockquote>Average department growth is projected to be 3.5% in FY19. </blockquote>
       Funding for unsettled City and BPS collective bargaining contracts are centralized in a $41 million collective bargaining reserve.</p>
@@ -37,8 +35,6 @@ components:
   - col: 
 - text_block:
   - title: Reforms and savings
-- text_col_2:
-  - col: >
       <ul>
       <li>Managing overtime continues to be a priority. Although overtime budgets will increase due to collective bargaining wage increases, the budgeted hours have been established at achievable levels and are intended to produce an estimated $6.9 million in savings.</li>
       <li>Boston will realize $11.6 million in avoided health care costs in FY19, $1.5 million of which are related to FY19 specific changes.</li>
