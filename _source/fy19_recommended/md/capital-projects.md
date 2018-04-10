@@ -1045,27 +1045,24 @@ components:
       </ul>
 - text_block:
   - title: More resources
-- text_col_2:
-  - col: 
-    - link: 
-        title: All funds budget table
-        path: /img/pdfs/all-funds-budget.pdf
-        button: true
-    - blurb: <br /><br />
-    - link: 
-        title: Capital project financing table
-        path: /img/pdfs/capital-project-financing.pdf
-        button: true
-    - blurb: <br /><br />
-    - link: 
-        title: Debt service requirements FY16-23
-        path: /img/pdfs/debt-service-requirements-fy16-fy23.pdf
-        button: true
-    - blurb: <br /><br />
-  - col: 
-    - link: 
-        title: Outstanding principal by purpose
-        path: /img/pdfs/outstanding-principal-by-purpose.pdf
-        button: true
-    - blurb: <br /><br />
+    body:
+      - blurb: >
+          <f5>Learn more about the City's capital projects by viewing:</f5>
+          <ul><li>
+      - link:
+          title: All Funds Budget Table
+          path: /img/pdfs/all-funds-budget.pdf
+      - blurb: </li><li>
+      - link:
+          title: Capital Project Financing Table
+          path: /img/pdfs/capital-project-financing.pdf
+      - blurb: </li><li>
+      - link:
+          title: Debt Service Requirements FY16-23
+          path: /img/pdfs/debt-service-requirements-fy16-fy23.pdf
+      - blurb: </li><li>
+      - link:
+          title: Outstanding Principal by Purpose
+          path: /img/pdfs/outstanding-principal-by-purpose.pdf
+      - blurb: </li><ul>
 ---
