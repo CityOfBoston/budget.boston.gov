@@ -24,7 +24,7 @@ components:
       As part of Boston’s implementation of Imagine Boston 2030, Mayor Walsh’s FY19-23 
       Capital Plan includes investments to support a healthy environment, reduce energy
       consumption and greenhouse gas emissions, and prepare for climate change.
-    description: >
+    sidebar_menu: true
 - text_col_2:
   - col: >
       <ul>
