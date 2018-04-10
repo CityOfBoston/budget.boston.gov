@@ -83,8 +83,8 @@ components:
       <h5>Looking toward next year</h5>
       <p>Our work next year will continue to build upon the successes we’ve recognized this year 
       in the areas of customer service, transportation and mobility, recruitment, finance analytics, and public safety. You can learn more 
-      about our work and check out our progress at:</p>
-      <p><a class="button" href="https://www.boston.gov/departments/analytics-team">boston.gov/analytics</a></p>
+      about our work and check out our progress on the</p>
+      <p><a href="https://www.boston.gov/departments/analytics-team">boston.gov/analytics</a>Analytics Team webpage</p>
 - text_block:
   - title: Cityscore
     body: >
@@ -93,7 +93,8 @@ components:
       prompted key process improvements, increased data-driven decision-making at all levels 
       of city government, and informed the budget process.</p>
       <p>The following list details the performance metrics and targets that currently make up
-      CityScore. Daily scores and additional information can be found at: boston.gov/cityscore.</p>
+      CityScore. Daily scores and additional information can be found at</p>
+      <p> <a href="https://boston.gov/cityscore</a>boston.gov/cityscore.</p>
 - text_col_3:
   - col: >
       <h5>311 CALL CENTER PERFORMANCE</h5>
