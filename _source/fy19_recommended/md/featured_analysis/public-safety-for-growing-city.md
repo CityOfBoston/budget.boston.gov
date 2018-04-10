@@ -24,7 +24,7 @@ components:
       The FY19 Budget provides investments in more police officers, EMT’s, and firefighters, equipped with 21st century technology to meet the public safety needs of a growing City.
     sidebar_menu: true
 - text_block:
-  - title: Robust, Effective and Accountable
+  - title: Robust, Effective, and Accountable
     body: >
 - text_col_3:
   - col: >
