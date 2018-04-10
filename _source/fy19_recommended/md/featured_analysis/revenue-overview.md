@@ -56,7 +56,7 @@ components:
     right_image: /img/net-education-aid.png
 - text_block:
   - body: >
-      <p>Mayor Walsh has raised concerns about this trend since taking office and has been proactive in addressing the underlying challenges of the State’s education aid system. In 2017, the Mayor filed comprehensive education finance reform legislation that aims to invest equitably and expand access to high-quality public education for students of all ages.</p>
+      <blockquote>Mayor Walsh has raised concerns about this trend since taking office and has been proactive in addressing the underlying challenges of the State’s education aid system. In 2017, the Mayor filed comprehensive education finance reform legislation that aims to invest equitably and expand access to high-quality public education for students of all ages.</blockquote>
       <p>By proposing a creative revenue solution to provide every Boston four-year-old a high-quality seat, fixing the broken charter school transition funding model, and increasing reimbursements for the highest-need students, Mayor Walsh’s proposals would increase annual education funding to Boston by $35 million in its first year of implementation. The proposal would also position Boston to receive $150 million in additional annual Chapter 70 aid within a few years if the State identifies a new revenue source for education. The Mayor continues to advocate for these common sense pieces of legislation, as well as full funding of local aid reimbursement accounts.</p>
 - text_block:
   - title: Local Revenue Overview
