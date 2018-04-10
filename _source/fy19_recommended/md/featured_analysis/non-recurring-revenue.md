@@ -25,8 +25,7 @@ components:
       the sale of various City land or buildings. The use of these funds 
       is usually restricted to one-time expenditures.
     sidebar_menu: true    
-- text_col_2:
-  - col: >
+- text_block:
       <h5>Budgetary Fund Balance</h5>
       <p>Budgetary Fund Balance can be appropriated for use during the fiscal 
       year after certification by the DOR. Budgetary Fund Balance is more commonly 
@@ -34,7 +33,6 @@ components:
       described as the portion of available reserves, generated to a considerable 
       degree by annual operating surpluses, which the City can responsibly 
       appropriate for spending.</p>
-  - col: >
       <h5>Using recurring revenue</h5>
       <p>The FY16 and FY17 budget did not use any fund balance, instead using 
       recurring revenue to support the appropriation for Other Post-employment 
