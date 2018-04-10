@@ -14,7 +14,7 @@ components:
     short_desc: >
       <a href="http://arcg.is/1ema5i" target="_blank"><img src="https://budget.boston.gov/img/capital-map.jpg" alt="Map of Capital Projects in Boston" style="width: 100%" /></a>
       <p>
-      <a href="http://arcg.is/1ema5i" target="_blank">View the map in a new tab</a>
+      <a href="http://arcg.is/1ema5i" target="_blank">View the map of capital projects projects in Boston in a new tab</a>
       </p>
     sidebar_menu: true
 - text_block:
