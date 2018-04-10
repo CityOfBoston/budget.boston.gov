@@ -224,13 +224,13 @@ components:
       <li>Private Purpose Trust Funds.</li>
       </ul>
 - text_block:
-    - blurb: >
-        <p>The City’s operating and capital budgets are also supported by certain appropriations from other available funds. The City may appropriate parking meter revenues (Special Revenue Fund) to support the Transportation Department and capital projects related to traffic and parking. Cemetery trust monies (Other Governmental Funds) support the City’s maintenance of its public cemeteries.</p>
-        <p>The below tables provide a history of the available funds used to support the City’s operating budget. View a 
-    - link: 
-        title: summary of the budget's appropriated funds
-        path: /img/pdfs/Fin-Mn-Appp-by-Funds.pdf
-    </p>
+    - body:
+      - blurb: >
+          <p>The City’s operating and capital budgets are also supported by certain appropriations from other available funds. The City may appropriate parking meter revenues (Special Revenue Fund) to support the Transportation Department and capital projects related to traffic and parking. Cemetery trust monies (Other Governmental Funds) support the City’s maintenance of its public cemeteries.</p>
+      - blurb: The below tables provide a history of the available funds used to support the City’s operating budget. View a 
+      - link:
+          title: summary of the budget's appropriated funds
+          path: /img/pdfs/Fin-Mn-Appp-by-Funds.pdf
 - table:
   - title: Parking Meter Fund
     right_text: (dollars in millions)
