@@ -77,3 +77,13 @@ a.tab-li-a {
   .text-left { text-align: left; }
   .text-center {text-align: center; }
 }
+
+/*********************/
+/*** Anchor Offset ***/
+/*********************/
+.anchor-offset:target:before {
+  content:"";
+  display:block;
+  height:60px; /* fixed header height*/
+  margin:-60px 0 0; /* negative fixed header height */
+}
