@@ -6,7 +6,7 @@ card:
   - title: City Services
     body: >
       Learn about City Services funding levels and savings initiatives.
-    img: /img/fa-prosperity-recruiting-diverse-police-force.jpg
+    img: /img/police-car.jpg
     link: /featured-analysis/city-services
 components:
 - breadcrumbs:
