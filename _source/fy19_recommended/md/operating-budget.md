@@ -568,7 +568,6 @@ components:
   - title: More resources
     body: 
     - link: 
-        title: All funds budget table
+        title: View the all funds budget table.
         path: /img/pdfs/all-funds-budget.pdf
-        button: true
 ---
