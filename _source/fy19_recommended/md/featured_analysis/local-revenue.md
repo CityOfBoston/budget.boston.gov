@@ -39,11 +39,11 @@ components:
       <li>Jet Fuel excise collections are expected to remain level at $18.0 million in FY19.</li>
       <li>The City of Boston adopted a 3% local option sales tax for the sale of recreational marijuana, effective July 1, 2018. The FY19 Recommended Budget includes $2.25 million in new revenue for the marijuana local option sales tax.
       <li>As result of 2016 state legislation to create a per-ride assessment collected from transportation network companies (TNCs), the City expects to receive $2 million in FY19.</li>
-      <li>The vehicle rental surcharge is a revenue-sharing arrangement with the Commonwealth. Under this arrangement, all vehicle rental contracts originating in the City are subject to a $10 surcharge. The City receives $1 of this surcharge. The City budgeted $1.5 million in FY19 for vehicle rental surcharge revenue.</li>
+      <li>The vehicle rental surcharge is a revenue-sharing arrangement with the Commonwealth. Under this arrangement, all vehicle rental contracts originating in the City are subject to a $10 surcharge. The City receives $1 of this surcharge. The City budgeted $1.5 million in FY19 for vehicle rental surcharge revenue.</li></ul>
       <h5>Payments in Lieu of Taxes (PILOTs) and 121 Agreements</h5>
       <ul>
       <li>Payments in Lieu of Taxes (PILOTs) are payments made by property tax-exempt institutions located in the City, including hospitals, universities, and cultural institutions. These are voluntary contributions for municipal services such as police and fire protection, street cleaning, and snow removal. Growth in PILOT revenue comes from new agreements, escalations that adjust the payments for inflation, and re-negotiation or expansion of current agreements. The Massachusetts Port Authority (MassPort) currently provides 35% of the PILOT revenue the City receives annually. Voluntary PILOTS are expected to increase slightly to an estimated $46 million in FY19.</li>
-      <li>Chapter 121A agreements are payments in lieu of tax for property under tax agreements.  Those that qualify pay different taxes on income and property as determined under Chapter 121A of Massachusetts General Law. 121A payments are budgeted at $27.5 million in FY19.</li>
+      <li>Chapter 121A agreements are payments in lieu of tax for property under tax agreements.  Those that qualify pay different taxes on income and property as determined under Chapter 121A of Massachusetts General Law. 121A payments are budgeted at $27.5 million in FY19.</li></ul>
       </ul>
       <h5>Other Sources of Local Revenue</h5>
       <ul>
