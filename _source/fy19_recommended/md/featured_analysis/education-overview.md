@@ -86,10 +86,12 @@ components:
       <p>The FY19 budget also continues the focus on finding central office and transportation efficiencies to pour back into schools and supports.  Efforts to tighten budget management and identify efficiencies, along with Mayor Walsh’s commitment to education funding, make possible $16 million in new BPS investments beyond increases for teacher salaries. While the School Committee approved a balanced budget for FY19, the District still has underlying challenges that require structural changes to allow Boston to continue to effectively invest in its students in future years.</p>
 - text_col_2:
   - col:
+    - blurb: <div>
     - link:
         title: View the BPS Operating Budget
         path: /operating-budget/cabinets/education/boston-public-schools
         button: true
+    - blurb: </div><br />
 - grid: 
   - grid_title: More budget analysis
   - card: /featured-analysis/bps-great-equalizer/
