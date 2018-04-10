@@ -44,8 +44,6 @@ components:
       under its umbrella. <blockquote>More than 14,000 residents have shaped Imagine Boston
       2030 by articulating the challenges Boston faces, setting goals for the city in 2030, 
       and generating ideas about policies and investments to help achieve these goals.</blockquote>
-- text_col_2:
-  - col: >
       <h5>Ambitious initiatives</h5>
       <p>An ambitious set of initiatives form the foundation of the Imagine Boston 2030 plan. Taken together, these initiatives will support Boston's dynamic economy and improve quality of life for residents by:
       <ul>
@@ -54,18 +52,14 @@ components:
       <li>Promoting a healthy environment; and</li>
       <li>Guiding investment in the public realm</li>
       </ul>
-  - col:
-    - blurb: >
-        <h5>Imagine Boston Capital Plan</h5>
-        <p>Last Year, Mayor Walsh launched the Imagine Boston Capital Plan to move
+      <h5>Imagine Boston Capital Plan</h5>
+      <p>Last Year, Mayor Walsh launched the Imagine Boston Capital Plan to move
         Boston residents’ priorities from idea to action, and invest in creating the
         city Bostonians imagine for the future. This year, under the Imagine Boston 2030 umbrella,
         the City is investing deeply in the core goals of BuildBPS, Go Boston 2030,
         Boston Creates, and Climate Ready Boston. An estimated 84% of the investment
         in the FY19-23 Capital Plan is aligned with the City’s planning efforts:</p>
-    - img: /img/expenditures-by-category.png
-- text_col_2:
-  - col: >
+      right_image: /img/expenditures-by-category.png
       <h5>Moving into the 21st century</h5>
       <p>Mayor Walsh committed $1 billion over ten years to bring Boston's school
       buildings into the 21st century, and this Capital Plan launches that investment
@@ -89,7 +83,6 @@ components:
           <li>Quality transportation choices that improve access to interconnect our
           neighborhoods for all modes of travel.</li>
         </ul>
-  - col: >
       <h5>Open Space goals</h5>
       <p>Through the use of Winthrop Square proceeds, City capital dollars, and leveraging
       external funds, Mayor Walsh plans to carry out early actions to implement Imagine
