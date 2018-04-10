@@ -107,7 +107,7 @@ components:
         <p>Along with certain statutes and ordinances (
     - link:
         title: see PDF of Statutes and Ordinances Chapter
-        path: /img/pdfs/09-Statutes-and-Ordinances-Governing-Bostons-Operating-and-Capital-Budgets.pdf
+        path: /img/pdfs/09-Statutes-and-Ordinances-Governing-Boston's-Operating-and-Capital-Budgets.pdf
     - blurb: >
         ), well-established policies and internal controls govern the financial operations of the City. Designed 
         to maximize revenue collection, safeguard assets, track operating and capital spending, and evaluate 
