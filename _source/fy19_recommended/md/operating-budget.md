@@ -100,7 +100,7 @@ components:
            align: right
     - "Source": 
            name: Excises
-           link: /featured-analysis/excise-taxes
+           link: /featured-analysis/local-revenue/
       "FY16 Actual":
            value: 223.82
            align: right
@@ -115,7 +115,7 @@ components:
            align: right
     - "Source": 
            name: Fines
-           link: /featured-analysis/parking-fines
+           link: /featured-analysis/local-revenue/
       "FY16 Actual":
            value: 61.05
            align: right
@@ -130,7 +130,7 @@ components:
            align: right
     - "Source": 
            name: Interest on Investments
-           link: /featured-analysis/interest-on-investments
+           link: /featured-analysis/local-revenue/
       "FY16 Actual":
            value: 0.18
            align: right
@@ -145,7 +145,7 @@ components:
            align: right
     - "Source": 
            name: Payments in Lieu of Taxes
-           link: /featured-analysis/payments-in-lieu-of-taxes
+           link: /featured-analysis/local-revenue/
       "FY16 Actual":
            value: 51.20
            align: right
@@ -160,7 +160,7 @@ components:
            align: right
     - "Source": 
            name: Urban Redev Ch. 121A
-           link: /featured-analysis/urban-redevelopment-ch-121a
+           link: /featured-analysis/local-revenue/
       "FY16 Actual":
            value: 48.11
            align: right
@@ -175,7 +175,7 @@ components:
            align: right
     - "Source": 
            name: Department Revenue
-           link: /featured-analysis/misc-dept-revenue
+           link: /featured-analysis/local-revenue/
       "FY16 Actual":
            value: 63.09
            align: right
@@ -190,7 +190,7 @@ components:
            align: right
     - "Source": 
            name: Licenses and Permits
-           link: /featured-analysis/licenses-and-permits
+           link: /featured-analysis/local-revenue/
       "FY16 Actual":
            value: 74.44
            align: right
@@ -205,7 +205,7 @@ components:
            align: right
     - "Source": 
            name: Penalties and Interest
-           link: /featured-analysis/penalties-and-interest
+           link: /featured-analysis/local-revenue/
       "FY16 Actual":
            value: 14.48
            align: right
@@ -220,7 +220,7 @@ components:
            align: right
     - "Source": 
            name: Available Funds
-           link: /featured-analysis/available-funds
+           link: /featured-analysis/local-revenue/
       "FY16 Actual":
            value: 0.00
            align: right
@@ -235,7 +235,7 @@ components:
            align: right
     - "Source": 
            name: State Aid
-           link: /featured-analysis/state-aid
+           link: /featured-analysis/state-revenue/
       "FY16 Actual":
            value: 421.58
            align: right
@@ -262,7 +262,9 @@ components:
       "FY19 Budget":
            value: 3,254.58
            align: right
-    - "Source": Budgetary fund balance
+    - "Source": 
+           name: Budgetary fund balance
+           link: /featured-analysis/non-recurring-revenue/
       "FY16 Actual":
            value: 0.00
            align: right
