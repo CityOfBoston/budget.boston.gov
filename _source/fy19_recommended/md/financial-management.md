@@ -52,9 +52,9 @@ components:
         requires careful planning and constant scrutiny. The Massachusetts Department of Revenue 
         approves property tax rates during the tax certification process governed under Massachusetts 
         General Laws (MGL) Ch.59, S.23, ensuring a balanced budget and a tax levy within the limits 
-        set by Proposition 2 &frac12; (
+        set by Proposition 2 &frac12;( 
     - link: 
-        title: see Property Tax featured analysis card 
+        title: see Property Tax webpage 
         path: /featured-analysis/property-tax
     - blurb: >
         ). Managing discretionary spending and controlling 
