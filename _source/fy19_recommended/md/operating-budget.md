@@ -538,32 +538,29 @@ components:
 - text_col_2: 
   - col: 
     - img: /img/fy19-appropriations-by-category.png
-  - col:
     - blurb: >
-        Personnel Services include salaries, overtime, unemployment compensation and 
+        <p>Personnel Services include salaries, overtime, unemployment compensation and 
         workers’ compensation, and collective bargaining reserves for estimated wage 
-        increases for union employees whose agreements are not settled. The majority of departments had employees who reached agreement on collective bargaining contracts, so department growth reflects those wage and cost of living increases, while outstanding contracts are reserved centrally.
-        <br /><br />
-        Negotiations for successor agreements are ongoing. 
-        <br /><br />
-        The 
+        increases for union employees whose agreements are not settled. The majority of departments had employees who reached agreement on collective bargaining contracts, so department growth reflects those wage and cost of living increases, while outstanding contracts are reserved centrally.</p>
+  - col:
+    - blurb: 
+        <p>Negotiations for successor agreements are ongoing.</p>
+        <p>The
     - link: 
         title: Health Benefits category
         path: /featured-analysis/health-benefits
     - blurb: > 
         includes the cost of health, dental and life insurance for City, BPS and PHC 
         employees and retirees, employer Medicare payroll taxes, and the appropriation 
-        for Other Post-Employment Benefits (OPEB).
-        <br /><br />
-        The Contractual Services category includes expenditures for communications, 
+        for Other Post-Employment Benefits (OPEB).</p>
+        <p>The Contractual Services category includes expenditures for communications, 
         repairs and service to buildings, equipment and vehicles, transportation, trash 
-        collection and disposal, as well as outside legal, advertising, and printing expenses.
-        <br /><br />
-        Included in the “Other” category are supplies and materials such as gasoline, uniform 
+        collection and disposal, as well as outside legal, advertising, and printing expenses.</p>
+        <p>Included in the “Other” category are supplies and materials such as gasoline, uniform 
         allowances, office supplies, workers’ compensation medical expenses, medical indemnification 
         in the Fire and Police Departments, legal liabilities, and aid to veterans. Also included 
         in the “Other” category are appropriations for equipment, vehicles, a risk retention reserve, 
-        the Housing Trust Fund, tax title, and funding for the City’s outside audit.
+        the Housing Trust Fund, tax title, and funding for the City’s outside audit.</p>
 - text_block:
   - title: More resources
     body: 
