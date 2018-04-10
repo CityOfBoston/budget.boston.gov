@@ -22,7 +22,7 @@ components:
   - title: Implementing Imagine Boston 2030's open space goals
     short_desc: >
       Mayor Walsh is prioritizing activating and re-envisioning Boston’s parks and is taking concrete steps to implement Imagine Boston 2030’s open space goals. 
-    description: >
+    sidebar_menu: true
 - text_col_2:
   - col: >
       <h5>Franklin Park</h5>
