@@ -5,7 +5,7 @@ title: Education Overview
 card:
   - title: Education Overview
     body: >
-      Funding for Education is growing by $67 million over FY18.
+      Funding for Education is growing by $68 million over FY18.
     img: /img/fa-education-overview.jpg
     link: /featured-analysis/education-overview/
 components:
@@ -23,7 +23,7 @@ components:
     short_desc: >
       The City of Boston is investing in its students to invest in its future. Education comprises 40% of the FY19 budget with a projected $1.109 billion to support 57,000 students at Boston Public Schools (BPS) and $194.2 million to support 11,000 Boston students in charter schools. 
     description: >
-      Overall education funding is increasing by $67 million, despite a projected increase of just $1.3 million in Chapter 70 Education Aid and a charter reimbursement that is projected to be underfunded by $27.3 million by the state. Since Mayor Walsh took office, Boston has increased its annual spending on education by $170 million despite a $1.4 million reduction in education funding from the state.
+      Overall education funding is increasing by $68 million, despite a projected increase of just $1.3 million in Chapter 70 Education Aid and a charter reimbursement that is projected to be underfunded by $27.3 million by the state. Since Mayor Walsh took office, Boston has increased its annual spending on education by $170 million despite a $1.4 million reduction in education funding from the state.
     sidebar_menu: true
 - text_block:
   - title: Boston Public Schools budget
