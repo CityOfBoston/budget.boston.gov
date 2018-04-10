@@ -15,11 +15,16 @@ components:
       <p>Preparing the City's budget takes more than six months from start to finish. Learn more about the process in two minutes.</p>
       <p><a class="button" style="font-style: normal;" href="https://www.boston.gov/public-notices?title=FY19+Budget&field_contact_target_id%5B%5D=441">Attend a budget hearing</a></p>
     description: >
-      <iframe width="560" height="315" src="https://youtu.be/HOijEB6fy40" frameborder="0" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/HOijEB6fy40?ecver=1" frameborder="0" allowfullscreen></iframe>
     sidebar_menu: true
 - text_block:
-    body: >
-      <p>The City of Boston’s budget process is governed by the City’s Charter* and practices designed to provide transparency and gather public feedback. The chief executive officer of the City is the Mayor. Martin J. Walsh, the Mayor of the City, was elected to serve his first term from January 2014 through January 2018. The Mayor has general supervision of and control over the City’s boards, commissions, officers, and departments. The portion of 
+  - body: >
+      <p>The City of Boston’s budget process is governed by the City’s Charter* 
+      and practices designed to provide transparency and gather public feedback. 
+      The chief executive officer of the City is the Mayor. Martin J. Walsh, the 
+      Mayor of the City, was elected to serve his first term from January 2014 
+      through January 2018. The Mayor has general supervision of and control over 
+      the City’s boards, commissions, officers, and departments. The portion of 
       the budget covering appropriations for all departments and operations of 
       the City, except the Boston Public Schools, is prepared under the direction 
       of the Mayor. The Boston Public Schools follow a separate process which 
