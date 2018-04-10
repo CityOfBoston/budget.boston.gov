@@ -352,10 +352,18 @@ components:
         "Ending Year Balance":
           value: 49.097        
           align: right
-- text_block: 
-  - body: >
-      *Projected<br>
-      FY16-FY19 funds out include capital expenditures<br>
+      - "Fiscal Year": "*Projected"
+        total: true
+        "Beginning Year Balance": null
+        "Funds Out": null
+        "Funds In": null
+        "Ending Year Balance": null
+      - "Fiscal Year": "FY16-FY19 funds out include capital expenditures"
+        total: true
+        "Beginning Year Balance": null
+        "Funds Out": null
+        "Funds In": null
+        "Ending Year Balance": null
 - table:
   - title: Cemetery Trust Fund
     right_text: (dollars in millions)
@@ -490,10 +498,18 @@ components:
         "Ending Year Balance":
           value: 12.917        
           align: right
-- text_block: 
-  - body: >
-      *Projected<br>
-      **Includes investment return
+      - "Fiscal Year": "*Projected"
+        total: true
+        "Beginning Year Balance": null
+        "Funds Out": null
+        "Funds In**": null
+        "Ending Year Balance": null
+      - "Fiscal Year": "**Includes investment return"
+        total: true
+        "Beginning Year Balance": null
+        "Funds Out": null
+        "Funds In**": null
+        "Ending Year Balance": null
 - table:
   - title: Surplus Property Disposition Fund
     right_text: (dollars in millions)
@@ -628,7 +644,10 @@ components:
         "Ending Year Balance":
           value: 21.727        
           align: right
-- text_block: 
-  - body: >
-      *Projected<br>
+      - "Fiscal Year": "*Projected"
+        total: true
+        "Beginning Year Balance": null
+        "Funds Out": null
+        "Funds In": null
+        "Ending Year Balance": null
 ---

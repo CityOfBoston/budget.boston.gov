@@ -228,9 +228,11 @@ components:
         value: 3.0
         filter: percent
         align: right
-- text_block: 
-  - body: >
-      *Budget estimates
+    - "Fiscal Year": "*Budget estimates"
+      total: true
+      "Total Cost": null
+      "$ Change": null
+      "% Change": null
 - table:
   - title: Healthplan Subscribers Feb 2018
     columns:
