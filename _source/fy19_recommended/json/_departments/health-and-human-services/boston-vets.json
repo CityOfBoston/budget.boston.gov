@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Health and Human Services~boston-vets.json",
-  "source_time":"20180407210547",
+  "source_time":"20180409203147",
   "source_year":"19",
   "name":"Boston VETS",
   "parent":"Health & Human Services",
@@ -20,6 +20,18 @@
   "appropriation_code":"Appropriation 741",
   "mission":[
     "The mission of the Boston Office of Veterans Engagement, Transition, and Services (Boston VETS) is to provide benefits to veterans and their dependents residing in Boston and eligible under M.G.L. c. 115 and 108 CMR; pay the funeral and burial expenses for indigent veterans under prescribed regulations; assist all veterans with obtaining federal, state, or local benefits to which they may be entitled; oversee the decoration of veterans graves and hero squares on Memorial Day; and carry out commemorative activities related to Boston veterans."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Veterans' Services",
+      "debug":"JCO",
+      "strategies":[
+        "Advocate-To support events, pannels, legislation and summits aimed at meeting the needs of local veterans",
+        "Engage-To reach out to all 22,000 veterans that call Boston their home through meaningful community engagement",
+        "Recognize- to recognize the services of veterans who have died in service to their country and to assist with burial costs as needed",
+        "Serve-To serve our (600+) homeless and low income veterans through a financial assistance program aimed to increase the housing stability of veterans and their families based on household need"
+      ]
+    }
   ],
   "operating_budget":{
     "table_type":"Operating Budget",

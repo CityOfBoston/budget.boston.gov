@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Housing and Neighborhood Development~neighborhood-development.json",
-  "source_time":"20180407210615",
+  "source_time":"20180409203214",
   "source_year":"19",
   "name":"Neighborhood Development",
   "parent":"Housing & Neighborhood Development",
@@ -21,6 +21,34 @@
   "mission":[
     "The Cabinet is committed to making Boston the most livable city in the nation by working with its many communities to build strong neighborhoods through the strategic investment of public resources.",
     "In 2014, Mayor Walsh announced his Boston 2030 plan which outlines a new comprehensive approach to accommodating Boston's complex housing needs over the next 15 years. Funding committed for the new plan has been renamed the &ldquo;Housing 2030 Fund&rdquo; which is included in the Neighborhood Development Operating Budget in &ldquo;Program 3. Housing Development and Services.&rdquo;"
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Neighborhood Development Administration",
+      "debug":"JCO",
+      "strategies":[
+        "Collect loan repayments in a timely manner"
+      ]
+    },
+    {
+      "program":"Real Estate Management & Sales",
+      "debug":"JCO",
+      "strategies":[
+        "Dispose of tax-foreclosed and surplus property"
+      ]
+    },
+    {
+      "program":"Housing Development & Services",
+      "debug":"JCO",
+      "strategies":[
+        "Assist existing homeowners in retaining their homes",
+        "Assist tenants and landlords to preserve their tenancies",
+        "Ensure growth and affordability in Boston's Housing Market",
+        "Foster Homeownership in Boston Neighborhoods",
+        "Help Homeowners Improve their Homes and Communities",
+        "Provide assistance towards ending homelessness in Boston"
+      ]
+    }
   ],
   "operating_budget":{
     "table_type":"Operating Budget",

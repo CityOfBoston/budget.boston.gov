@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Administration and Finance~treasury-department.json",
-  "source_time":"20180407210332",
+  "source_time":"20180409202950",
   "source_year":"19",
   "name":"Treasury Department",
   "parent":"Administration & Finance",
@@ -223,38 +223,38 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":1681439,
-        "fy-1":1655732,
-        "fy-0":1867086,
-        "fy+1":1930194,
-        "diff":63108
+        "fy-2":3181844,
+        "fy-1":3148756,
+        "fy-0":3428832,
+        "fy+1":3505255,
+        "diff":76423
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":69619,
-        "fy-1":73720,
-        "fy-0":67411,
-        "fy+1":53574,
-        "diff":-13837
+        "fy-2":217127,
+        "fy-1":217401,
+        "fy-0":218461,
+        "fy+1":201624,
+        "diff":-16837
       },
       {
         "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":481377,
-        "fy-1":260582,
-        "fy-0":515388,
-        "fy+1":531448,
+        "fy-2":741678,
+        "fy-1":526323,
+        "fy-0":788638,
+        "fy+1":804698,
         "diff":16060
       },
       {
         "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":8935,
-        "fy-1":8404,
-        "fy-0":0,
-        "fy+1":12250,
-        "diff":12250
+        "fy-2":14201,
+        "fy-1":18354,
+        "fy-0":16600,
+        "fy+1":19500,
+        "diff":2900
       },
       {
         "line_title":"Equipment",
@@ -277,11 +277,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":2831311,
-        "fy-1":2557383,
-        "fy-0":2469885,
-        "fy+1":2547466,
-        "diff":77581
+        "fy-2":4744791,
+        "fy-1":4469779,
+        "fy-0":4472531,
+        "fy+1":4551077,
+        "diff":78546
       }
     ]
   },

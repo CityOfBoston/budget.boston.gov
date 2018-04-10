@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Mayor's Office~law-department.json",
-  "source_time":"20180407210253",
+  "source_time":"20180409202904",
   "source_year":"19",
   "name":"Law Department",
   "parent":"Mayor's Office",
@@ -20,6 +20,24 @@
   "appropriation_code":"Appropriation 151",
   "mission":[
     "The mission of the Law Department is to provide a high level of professional legal services to its clients, the Mayor, City Council and City departments, supporting all official capacities within City government, in a timely and cost effective manner. Law Department personnel are committed to upholding the highest ethical standards and to assuming a professional and caring attitude toward their clients, and among themselves."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Litigation",
+      "debug":"JCO",
+      "strategies":[
+        "To defend the City against legal claims",
+        "To maximize the recovery of funds to the City, including deliquent taxes"
+      ]
+    },
+    {
+      "program":"Government services",
+      "debug":"JCO",
+      "strategies":[
+        "To maximize the recovery of funds to the City, including deliquent taxes",
+        "To provide consultation services that include rendering legal opinions, drafting and approving legal instruments such as contracts, agreements, licensing and indemnity agreements, zoning issues, public record requests and subpoena responses"
+      ]
+    }
   ],
   "operating_budget":{
     "table_type":"Operating Budget",

@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Public Safety~fire-department.json",
-  "source_time":"20180407210356",
+  "source_time":"20180409203009",
   "source_year":"19",
   "name":"Fire Department",
   "parent":"Public Safety",
@@ -20,6 +20,36 @@
   "appropriation_code":"Appropriation 221",
   "mission":[
     "We, the Boston Fire Department, are an organization of dedicated professionals who are committed to serving the community by protecting life, property, and the environment through prevention, education, emergency medical, civil defense and fire service. We will provide fire protection and emergency service throughout the City of Boston by adequately staffing, training, and equipping firefighters at specific locations within the city."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"BFD Training",
+      "debug":"JCO",
+      "strategies":[
+        "To ensure the safety, health and wellness of the City of Boston fire fighters by providing training in all aspects of Fire Services (including education in prevention) to ensure public safety"
+      ]
+    },
+    {
+      "program":"Maintenance",
+      "debug":"JCO",
+      "strategies":[
+        "To ensure City of Boston citizens are safe and protected from all emergencies with adequate fire fighting capacity in the field"
+      ]
+    },
+    {
+      "program":"BFD Fire Prevention",
+      "debug":"JCO",
+      "strategies":[
+        "To ensure City of Boston citizens are safe and protected from all emergencies with adequate fire fighting capacity in the field"
+      ]
+    },
+    {
+      "program":"Firefighter Safety, Health and Wellness",
+      "debug":"JCO",
+      "strategies":[
+        "To protect City of Boston constituents and to ensure the safety, health and wellness of the fire fighters by preventing exposure to carcinogenic toxins and avoiding injuries"
+      ]
+    }
   ],
   "operating_budget":{
     "table_type":"Operating Budget",

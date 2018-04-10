@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Administration and Finance~registry-division.json",
-  "source_time":"20180407210330",
+  "source_time":"20180409202947",
   "source_year":"19",
   "name":"Registry Division",
   "parent":"Administration & Finance",
@@ -20,6 +20,23 @@
   "appropriation_code":"Appropriation 163",
   "mission":[
     "The mission of the Registry Division is to promptly and accurately register, amend, maintain, and issue certified copies of birth, marriage and death records while following Massachusetts General Laws regulating these documents."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Administration",
+      "debug":"JCO",
+      "strategies":[
+        "Expand crosstraining"
+      ]
+    },
+    {
+      "program":"Vital Statistics",
+      "debug":"JCO",
+      "strategies":[
+        "Online Death requests",
+        "Register new records and issue certified copies"
+      ]
+    }
   ],
   "operating_budget":{
     "table_type":"Operating Budget",

@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Public Safety~police-department.json",
-  "source_time":"20180407210402",
+  "source_time":"20180409203014",
   "source_year":"19",
   "name":"Police Department",
   "parent":"Public Safety",
@@ -20,6 +20,46 @@
   "appropriation_code":"Appropriation 211",
   "mission":[
     "The mission of the Police Department is Neighborhood Policing. The Department dedicates itself to work in partnership with the community to fight crime, reduce fear, and improve the quality of life in Boston's neighborhoods."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Police Commissioner's Office",
+      "debug":"JCO",
+      "strategies":[
+        "Connections to services",
+        "Engage with the community",
+        "Prevent and reduce crime and violence"
+      ]
+    },
+    {
+      "program":"BAT-Operations",
+      "debug":"JCO",
+      "strategies":[
+        "Timely and efficient response to crime and calls for service"
+      ]
+    },
+    {
+      "program":"BAT-Admin & Technology",
+      "debug":"JCO",
+      "strategies":[
+        "Effectively manage overtime"
+      ]
+    },
+    {
+      "program":"Bureau of Field Services",
+      "debug":"JCO",
+      "strategies":[
+        "Engage with the community",
+        "Prevent and reduce crime and violence"
+      ]
+    },
+    {
+      "program":"Bureau of Investigative Services",
+      "debug":"JCO",
+      "strategies":[
+        "Timely and efficient response to crime and calls for service"
+      ]
+    }
   ],
   "operating_budget":{
     "table_type":"Operating Budget",

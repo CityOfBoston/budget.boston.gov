@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Administration and Finance~human-resources.json",
-  "source_time":"20180407210319",
+  "source_time":"20180409202934",
   "source_year":"19",
   "name":"Human Resources",
   "parent":"Administration & Finance",
@@ -20,6 +20,44 @@
   "appropriation_code":"Appropriation 142",
   "mission":[
     "The mission of the Office of Human Resources is to help departments attract, motivate, retain, manage, and develop qualified and productive employees. The Office also provides unemployment benefits where necessary, as well as health and life insurance and workers' compensation benefits."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Personnel",
+      "debug":"JCO",
+      "strategies":[
+        "Enhanced Employee Experience",
+        "Improved Recruitment Process to Better Meet Needs of COB Departments"
+      ]
+    },
+    {
+      "program":"Affirmative Action",
+      "debug":"JCO",
+      "strategies":[
+        "Increase Diversity in COB Workforce"
+      ]
+    },
+    {
+      "program":"Health Benefits & Insurance",
+      "debug":"JCO",
+      "strategies":[
+        "Enhanced Employee Experience"
+      ]
+    },
+    {
+      "program":"Employee Assistance",
+      "debug":"JCO",
+      "strategies":[
+        "Continued Expansion of Scope of EAP Services"
+      ]
+    },
+    {
+      "program":"Workers Comp",
+      "debug":"JCO",
+      "strategies":[
+        "Adoption of Case Management Approach in Workers Comp Unit"
+      ]
+    }
   ],
   "operating_budget":{
     "table_type":"Operating Budget",

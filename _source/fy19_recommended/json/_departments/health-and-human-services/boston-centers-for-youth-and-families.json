@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Health and Human Services~boston-centers-for-youth-and-families.json",
-  "source_time":"20180407210542",
+  "source_time":"20180409203141",
   "source_year":"19",
   "name":"Boston Centers for Youth & Families",
   "parent":"Health & Human Services",
@@ -20,6 +20,22 @@
   "appropriation_code":"Appropriation 385",
   "mission":[
     "The mission of Boston Centers for Youth & Families (BCYF) is to enhance the quality of life for Boston residents by partnering with community center councils, agencies and businesses to support children, youth, individuals and families. BCYF accomplishes its mission through a wide range of comprehensive programs and services according to neighborhood needs."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Sports & Fitness",
+      "debug":"JCO",
+      "strategies":[
+        "To support health and wellness through community center sports, fitness, and recreation programming"
+      ]
+    },
+    {
+      "program":"Youth & Family Services",
+      "debug":"JCO",
+      "strategies":[
+        "To provide outreach, intervention, support, and referral services for youth"
+      ]
+    }
   ],
   "operating_budget":{
     "table_type":"Operating Budget",

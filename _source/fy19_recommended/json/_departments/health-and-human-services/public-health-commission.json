@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Health and Human Services~public-health-commission.json",
-  "source_time":"20180407210601",
+  "source_time":"20180409203204",
   "source_year":"19",
   "name":"Public Health Commission",
   "parent":"Health & Human Services",
@@ -20,6 +20,18 @@
   "appropriation_code":"Appropriation 620",
   "mission":[
     "The mission of the Boston Public Health Commission is to protect, preserve and promote the health and well being of Boston residents, particularly those who are most vulnerable."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Public Health Services",
+      "debug":"JCO",
+      "strategies":[
+        "Advance Healthy Equity",
+        "Improve median response times",
+        "Respond to critical public health issues",
+        "Strengthen partnerships with healthcare"
+      ]
+    }
   ],
   "operating_budget":{
     "table_type":"Operating Budget",

@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Environment, Energy and Open Space~parks-and-recreation-department.json",
-  "source_time":"20180407210523",
+  "source_time":"20180409203127",
   "source_year":"19",
   "name":"Parks & Recreation Department",
   "parent":"Environment, Energy & Open Space",
@@ -20,6 +20,33 @@
   "appropriation_code":"Appropriation 300",
   "mission":[
     "The mission of the Parks and Recreation Department is to maintain clean, green, safe, accessible and well-programmed park land for the City's residents."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Parks & Recreation Administration",
+      "debug":"JCO",
+      "strategies":[
+        "Committment to contributing to the livability of our city and providing access to our open spaces. Consistent with Mayor Walsh's Parks First agenda: Access, Equity and Excellence"
+      ]
+    },
+    {
+      "program":"Parks Operations",
+      "debug":"JCO",
+      "strategies":[
+        "Department being a successful steward to the environment. Consistent with Mayor Walsh's Parks First agenda: Access, Equity and Excellence",
+        "Developing a consistent measure for the Department's goal of providing a conistent high level of quality across all open spaces . Consistent with Mayor Walsh's Parks First agenda: Access, Equity and Excellence",
+        "Parks goal of welcoming people of all abilities into our city's open spaces. Consistent with Mayor Walsh's Parks First agenda: Access, Equity and Excellence",
+        "To maintain clean, green, safe, attractive parks and playgrounds",
+        "To manage a street tree maintenance program"
+      ]
+    },
+    {
+      "program":"Parks Design & Construction",
+      "debug":"JCO",
+      "strategies":[
+        "Efficiently managing public resources. Consistent with Mayor Walsh's Parks First agenda: Access, Equity and Excellence"
+      ]
+    }
   ],
   "operating_budget":{
     "table_type":"Operating Budget",

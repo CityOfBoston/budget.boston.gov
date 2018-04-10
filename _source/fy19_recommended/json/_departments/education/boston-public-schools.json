@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Education~boston-public-schools.json",
-  "source_time":"20180407210416",
+  "source_time":"20180409203022",
   "source_year":"19",
   "name":"Boston Public Schools",
   "parent":"Education",
@@ -20,6 +20,16 @@
   "appropriation_code":"Appropriation 101",
   "mission":[
     "We welcome the children of this city into the Boston Public Schools, where effective teaching and learning prepare all of our students to achieve at high levels, and where the entire community works together to focus on children."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"General School Purposes",
+      "debug":"JCO",
+      "strategies":[
+        "BPS will provide rigorous, effective, and engaging curriculum, instruction, and enrichment",
+        "To graduate all students from high school prepared for college and career success"
+      ]
+    }
   ],
   "operating_budget":{
     "table_type":"Operating Budget",

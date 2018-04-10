@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Operations~public-facilities-department.json",
-  "source_time":"20180407210239",
+  "source_time":"20180409202854",
   "source_year":"19",
   "name":"Public Facilities Department",
   "parent":"Operations",
@@ -20,6 +20,17 @@
   "appropriation_code":"Appropriation 181",
   "mission":[
     "The Public Facilities Department seeks to execute the most efficient and economical construction and alterations of municipal buildings. The Public Facilities Department is under charge of a three member board known as the Public Facilities Commission appointed by the Mayor."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"PFD Capital Construction",
+      "debug":"JCO",
+      "strategies":[
+        "Accelerate front end administration of projects, thereby helping projects stay on schedule",
+        "Accurately estimate construction costs and yearly escalation",
+        "Keep change order costs under control, keeping projects on budget"
+      ]
+    }
   ],
   "operating_budget":{
     "table_type":"Operating Budget",

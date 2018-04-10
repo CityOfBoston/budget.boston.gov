@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Administration and Finance~budget-management.json",
-  "source_time":"20180407210312",
+  "source_time":"20180409202927",
   "source_year":"19",
   "name":"Budget Management",
   "parent":"Administration & Finance",
@@ -20,6 +20,38 @@
   "appropriation_code":"Appropriation 141",
   "mission":[
     "The Office of Budget Management (OBM) promotes the high quality delivery of services to Boston&rsquo;s residents in a cost effective way. OBM evaluates City programs and then uses analysis to build, present, and manage the Mayor's operating budget. OBM also creates the capital plan. The capital plan is a strategic document that shows how the City's investment in its infrastructure, such as bridges and roads, contributes to Boston's future. The City also uses the plan to make smart spending decisions and protect its assets."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Budget & Management",
+      "debug":"JCO",
+      "strategies":[
+        "Improve use of limited city resources"
+      ]
+    },
+    {
+      "program":"Revenue Monitoring",
+      "debug":"JCO",
+      "strategies":[
+        "Ensure long-term financial stability",
+        "Maximize current and future revenues"
+      ]
+    },
+    {
+      "program":"Capital Budgeting",
+      "debug":"JCO",
+      "strategies":[
+        "Ensure long-term financial stability",
+        "Improve use of limited city resources"
+      ]
+    },
+    {
+      "program":"Risk Management",
+      "debug":"JCO",
+      "strategies":[
+        "Ensure long-term financial stability"
+      ]
+    }
   ],
   "operating_budget":{
     "table_type":"Operating Budget",

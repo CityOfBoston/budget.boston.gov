@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Health and Human Services~fair-housing-and-equity.json",
-  "source_time":"20180407210556",
+  "source_time":"20180409203159",
   "source_year":"19",
   "name":"Fair Housing & Equity",
   "parent":"Health & Human Services",
@@ -20,6 +20,17 @@
   "appropriation_code":"Appropriation 403",
   "mission":[
     "The mission of the Office of Fair Housing and Equity is to ensure fair and equitable access to housing opportunities. We strive to increase equity and reduce barriers to opportunity for persons living and working in the City of Boston."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Fair Housing Commission",
+      "debug":"JCO",
+      "strategies":[
+        "Increase access to housing opportunities through enforcement",
+        "Increase access to housing opportunity through community engagement",
+        "Increase equitable access to City assisted housing development"
+      ]
+    }
   ],
   "operating_budget":{
     "table_type":"Operating Budget",

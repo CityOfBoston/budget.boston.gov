@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Civic Engagement~neighborhood-services.json",
-  "source_time":"20180407210227",
+  "source_time":"20180409202842",
   "source_year":"19",
   "name":"Neighborhood Services",
   "parent":"Civic Engagement",
@@ -20,6 +20,29 @@
   "appropriation_code":"Appropriation 412",
   "mission":[
     "The Mayor's Office of Neighborhood Services (ONS) encourages, facilitates and maximizes citizen input and participation in all aspects of government through service requests, neighborhood meetings, mailings, and emergency responses. Also included in ONS is the Mobile City Hall to Go truck that visits Boston&rsquo;s neighborhoods offering a select menu of services directly to constituents. The Boston 311 Program provides a wide-ranging information and referral function as well as coordinates emergency response after business hours. The program also responds to citizens&rsquo; requests for service through direct interaction with City departments."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Neighborhood Serv",
+      "debug":"JCO",
+      "strategies":[
+        "Increase public access to city services"
+      ]
+    },
+    {
+      "program":"City Hall to Go",
+      "debug":"JCO",
+      "strategies":[
+        "Increase public access to city services"
+      ]
+    },
+    {
+      "program":"Boston 311",
+      "debug":"JCO",
+      "strategies":[
+        "Maintain a high level of constituent service"
+      ]
+    }
   ],
   "operating_budget":{
     "table_type":"Operating Budget",

@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Health and Human Services~commission-for-persons-with-disabilities.json",
-  "source_time":"20180407210550",
+  "source_time":"20180409203151",
   "source_year":"19",
   "name":"Commission for Persons With Disabilities",
   "parent":"Health & Human Services",
@@ -20,6 +20,19 @@
   "appropriation_code":"Appropriation 404",
   "mission":[
     "The mission of the Commission is to increase opportunities for people with disabilities by facilitating full and equal participation in all aspects of life within the City of Boston. This includes reducing architectural, procedural, attitudinal, and communication barriers as well as promoting equity in housing, education, employment, transportation, and civic activities."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Disabilities",
+      "debug":"JCO",
+      "strategies":[
+        "Assure adherence to all architectural access guidelines in Boston's built environment",
+        "Connect the public to the Commission, particularly underserved residents with disabilities",
+        "Ensure COB compliance with Title II of the ADA, Advise City of Boston agencies on policies and practices that increase access and opportunities for people with disabilities",
+        "Promote interactive participation between disabled residents and City government",
+        "Provide effective & prompt services, including warm hand-offs and follow-up, to constituents"
+      ]
+    }
   ],
   "operating_budget":{
     "table_type":"Operating Budget",

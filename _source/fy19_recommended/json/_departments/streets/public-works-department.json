@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Streets~public-works-department.json",
-  "source_time":"20180407210450",
+  "source_time":"20180409203054",
   "source_year":"19",
   "name":"Public Works Department",
   "parent":"Streets",
@@ -20,6 +20,39 @@
   "appropriation_code":"Appropriation 311",
   "mission":[
     "The mission of the Public Works Department is to provide a quality environment for the City of Boston and ensure that the City's roadways, streets and bridge infrastructures are safe, clean and attractive. The Public Works Department also maintains street lights, traffic signals, provides snow removal and garbage collection and disposal as well as curbside recycling."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Construction Management",
+      "debug":"JCO",
+      "strategies":[
+        "Ensure that Boston&rsquo;s streets, sidewalks, and bridges are safe, clean and attractive"
+      ]
+    },
+    {
+      "program":"Highway Field Operations",
+      "debug":"JCO",
+      "strategies":[
+        "Ensure that Boston&rsquo;s streets, sidewalks, and bridges are safe, clean and attractive",
+        "Improve neighborhood quality of life"
+      ]
+    },
+    {
+      "program":"Street Lights",
+      "debug":"JCO",
+      "strategies":[
+        "Efficiently deliver services",
+        "Improve neighborhood quality of life"
+      ]
+    },
+    {
+      "program":"Waste Reduction",
+      "debug":"JCO",
+      "strategies":[
+        "Effectively control and manage Boston's public space",
+        "Efficiently deliver services"
+      ]
+    }
   ],
   "operating_budget":{
     "table_type":"Operating Budget",

@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Administration and Finance~auditing-department.json",
-  "source_time":"20180407210308",
+  "source_time":"20180409202923",
   "source_year":"19",
   "name":"Auditing Department",
   "parent":"Administration & Finance",
@@ -20,6 +20,39 @@
   "appropriation_code":"Appropriation 131",
   "mission":[
     "The mission of the Auditing Department is to present a complete and accurate statement of the City's financial condition."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Accounting",
+      "debug":"JCO",
+      "strategies":[
+        "Ensure Stability of Financial Reporting"
+      ]
+    },
+    {
+      "program":"Central Payroll",
+      "debug":"JCO",
+      "strategies":[
+        "Improvement through the use of technology & resources to manage the City's Payroll"
+      ]
+    },
+    {
+      "program":"Grants Monitoring",
+      "debug":"JCO",
+      "strategies":[
+        "Ensure Stability of Financial Reporting"
+      ]
+    },
+    {
+      "program":"Accounts Payable",
+      "debug":"JCO",
+      "strategies":[
+        "% contracts routed within 3 days of receipt",
+        "% procurement documents approved within 3 days",
+        "% vendor invoices processed within 5 days",
+        "Improvement through the use of technology & resources to manage the City's Accounts Payable"
+      ]
+    }
   ],
   "operating_budget":{
     "table_type":"Operating Budget",

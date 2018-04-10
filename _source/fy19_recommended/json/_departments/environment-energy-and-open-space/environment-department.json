@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Environment, Energy and Open Space~environment-department.json",
-  "source_time":"20180407210513",
+  "source_time":"20180409203114",
   "source_year":"19",
   "name":"Environment Department",
   "parent":"Environment, Energy & Open Space",
@@ -20,6 +20,19 @@
   "appropriation_code":"Appropriation 303",
   "mission":[
     "The mission of the Environment Department is to enhance the quality of life in Boston by protecting air, water, climate and land resources, and by preserving and improving the integrity of Boston's architectural and historic resources."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Environment",
+      "debug":"JCO",
+      "strategies":[
+        "Engage Community",
+        "Increase sustainability",
+        "Protect historic resources",
+        "Reduce GHG Emissions",
+        "To protect environmental quality and resources"
+      ]
+    }
   ],
   "operating_budget":{
     "table_type":"Operating Budget",

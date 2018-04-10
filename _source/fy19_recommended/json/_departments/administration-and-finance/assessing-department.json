@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Administration and Finance~assessing-department.json",
-  "source_time":"20180407210306",
+  "source_time":"20180409202920",
   "source_year":"19",
   "name":"Assessing Department",
   "parent":"Administration & Finance",
@@ -20,6 +20,22 @@
   "appropriation_code":"Appropriation 136",
   "mission":[
     "The mission of the Assessing Department is to accurately assess property and provide prompt and courteous responses to requests for service from the public."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Assessing Operations",
+      "debug":"JCO",
+      "strategies":[
+        "To review abatement applications in a timely manner"
+      ]
+    },
+    {
+      "program":"Executive",
+      "debug":"JCO",
+      "strategies":[
+        "To resolve taxpayer inquiries responsively and quickly"
+      ]
+    }
   ],
   "operating_budget":{
     "table_type":"Operating Budget",

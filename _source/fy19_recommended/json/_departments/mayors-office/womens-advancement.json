@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Mayor's Office~womens-advancement.json",
-  "source_time":"20180407210258",
+  "source_time":"20180409202910",
   "source_year":"19",
   "name":"Women's Advancement",
   "parent":"Mayor's Office",
@@ -20,6 +20,15 @@
   "appropriation_code":"Appropriation 417",
   "mission":[
     "The mission of the Mayor's Office of Women&rsquo;s Advancement is to advocate for equal opportunity for women in all arenas of our city. The Office provides educational opportunities for women that emphasize economic equality, child care, programs for young girls and the health and safety of all women."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Women's Advancement",
+      "debug":"JCO",
+      "strategies":[
+        "Decrease the wage gap for women in Boston"
+      ]
+    }
   ],
   "operating_budget":{
     "table_type":"Operating Budget",

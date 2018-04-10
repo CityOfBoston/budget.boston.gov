@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Information and Technology~department-of-innovation-and-technology.json",
-  "source_time":"20180407210343",
+  "source_time":"20180409202959",
   "source_year":"19",
   "name":"Department of Innovation & Technology",
   "parent":"Information & Technology",
@@ -20,6 +20,38 @@
   "appropriation_code":"Appropriation 149",
   "mission":[
     "The Department of Innovation and Technology is the City&rsquo;s enterprise wide technology services organization providing solutions that enable our business partners across all City departments. DoIT&rsquo;s primary day-to-day responsibility is to ensure that the networks, desktop computers, e-mail systems, and applications that support the business of City government are continuously available and operating effectively. DoIT embraces its responsibility to help manage costs through difficult financial times by continuously improving the cost structure of the City&rsquo;s technology without compromising service. Our commitment to being environmentally responsible is often synergistic with these economic and service responsibilities."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Enterprise Applications",
+      "debug":"JCO",
+      "strategies":[
+        "Improving constituent satisfaction with government services",
+        "Modernization of paper based processes to digital formats"
+      ]
+    },
+    {
+      "program":"Digital Engagement & Services",
+      "debug":"JCO",
+      "strategies":[
+        "Improving how the City interacts with constituents"
+      ]
+    },
+    {
+      "program":"Core Infrastructure",
+      "debug":"JCO",
+      "strategies":[
+        "To provide City Hall employees with the IT tools to effectively execute their job"
+      ]
+    },
+    {
+      "program":"Broadband & Digital Equity",
+      "debug":"JCO",
+      "strategies":[
+        "Closing the digital equity gap",
+        "Improving broadband services"
+      ]
+    }
   ],
   "operating_budget":{
     "table_type":"Operating Budget",

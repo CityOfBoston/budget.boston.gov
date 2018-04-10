@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Operations~property-management.json",
-  "source_time":"20180407210234",
+  "source_time":"20180409202849",
   "source_year":"19",
   "name":"Property Management",
   "parent":"Operations",
@@ -20,6 +20,30 @@
   "appropriation_code":"Appropriation 180",
   "mission":[
     "The mission of the Property Management Department is to manage, maintain, repair and provide security for the City's municipal buildings including City Hall and Faneuil Hall; to preserve the useful life of City facilities and reduce operating costs through effective preventive maintenance measures."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Building Maintenance",
+      "debug":"JCO",
+      "strategies":[
+        "Remove graffiti from public property in a timely manner",
+        "To improve and maintain the operational condition of managed city-owned facilities"
+      ]
+    },
+    {
+      "program":"Alterations & Repair",
+      "debug":"JCO",
+      "strategies":[
+        "To improve and maintain the operational condition of managed city-owned facilities"
+      ]
+    },
+    {
+      "program":"Building Systems",
+      "debug":"JCO",
+      "strategies":[
+        "Maintain heating ventilation and air condition (HVAC) system in proper working order"
+      ]
+    }
   ],
   "operating_budget":{
     "table_type":"Operating Budget",

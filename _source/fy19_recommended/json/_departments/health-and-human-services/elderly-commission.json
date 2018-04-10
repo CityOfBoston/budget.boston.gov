@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Health and Human Services~elderly-commission.json",
-  "source_time":"20180407210552",
+  "source_time":"20180409203154",
   "source_year":"19",
   "name":"Elderly Commission",
   "parent":"Health & Human Services",
@@ -20,6 +20,30 @@
   "appropriation_code":"Appropriation 387",
   "mission":[
     "The mission of the Elderly Commission is to enhance the quality of life for Boston's senior citizens through developing, planning, coordinating, implementing, and monitoring the delivery of programs and services to the elderly in an efficient and effective manner. These activities are provided in collaboration with various federal, state, and City agencies, along with neighborhood service providers and senior citizen groups."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Elderly Operations",
+      "debug":"JCO",
+      "strategies":[
+        "Keep older adults engaged, informed and connected to resources, services, and programs"
+      ]
+    },
+    {
+      "program":"Elderly Transportation",
+      "debug":"JCO",
+      "strategies":[
+        "Provide accessible, reliable, discounted and free transportation options to Boston's older adults"
+      ]
+    },
+    {
+      "program":"Programs & Partnerships",
+      "debug":"JCO",
+      "strategies":[
+        "Promote meaningful volunteer engagement opportunities to Boston's older adults",
+        "Set course for successful aging programs, policies and practices in Boston"
+      ]
+    }
   ],
   "operating_budget":{
     "table_type":"Operating Budget",

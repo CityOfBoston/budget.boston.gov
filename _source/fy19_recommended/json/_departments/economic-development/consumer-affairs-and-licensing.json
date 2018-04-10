@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Economic Development~consumer-affairs-and-licensing.json",
-  "source_time":"20180407210434",
+  "source_time":"20180409203032",
   "source_year":"19",
   "name":"Consumer Affairs & Licensing",
   "parent":"Economic Development",
@@ -20,6 +20,24 @@
   "appropriation_code":"Appropriation 114",
   "mission":[
     "The Consumer Affairs & Licensing Department contributes to the overall mission of improving the quality of life in the City of Boston by maintaining safety and order in the restaurant community through the licensing of entertainment activities and monitoring compliance with relevant laws. The office also educates and mediates on behalf of Boston area consumers in order to facilitate successful resolution of consumer related complaints. The Licensing Board grants and regulates various types of alcohol, food licenses and other licenses for restaurants, nightclubs, private clubs, liquor stores. The Licensing Board consists of 3 Commissioners appointed by the Mayor. Boston Police officers support the office and report violations of the alcoholic and other laws of the Commonwealth. The Licensing Board holds hearings on these violations and issues penalties."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Consumer Licensing",
+      "debug":"JCO",
+      "strategies":[
+        "Close cases in a short amount of time for better service to consumers",
+        "More resolved cases from consumer complaints filed with our department",
+        "To track cases closed per month"
+      ]
+    },
+    {
+      "program":"Licensing Board",
+      "debug":"JCO",
+      "strategies":[
+        "To process applications and issue alcoholic beverage licenses or other licenses"
+      ]
+    }
   ],
   "operating_budget":{
     "table_type":"Operating Budget",

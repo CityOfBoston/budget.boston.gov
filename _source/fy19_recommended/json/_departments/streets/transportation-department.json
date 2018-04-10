@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Streets~transportation-department.json",
-  "source_time":"20180407210501",
+  "source_time":"20180409203105",
   "source_year":"19",
   "name":"Transportation Department",
   "parent":"Streets",
@@ -20,6 +20,46 @@
   "appropriation_code":"Appropriation 251",
   "mission":[
     "The mission of the Boston Transportation Department is to promote public safety, manage the City's transportation network, and enhance the quality of life for residents of our City neighborhoods. Accomplishment of our mission is ensured through the use of planning, coordinated engineering, education and enforcement. The Transportation Department strives to improve circulation in and around the City, enhance public transportation services, gain efficiencies in the management of parking resources, adjudicate and collect fines, collaborate with relevant agencies and encourage the use of alternate transportation modes."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Parking Clerk",
+      "debug":"JCO",
+      "strategies":[
+        "Provide people-focused service"
+      ]
+    },
+    {
+      "program":"Traffic Management & Engineering",
+      "debug":"JCO",
+      "strategies":[
+        "Design, construct, and maintain streetscapes that prioritize moving people safely and provide people focuses of service.",
+        "Encourage multimodal, active transportation",
+        "Enhance Boston's walkability and neighborhood interconnectedness"
+      ]
+    },
+    {
+      "program":"Policy & Planning",
+      "debug":"JCO",
+      "strategies":[
+        "Design, construct, and maintain streetscapes that prioritize moving people safely"
+      ]
+    },
+    {
+      "program":"Traffic Enforcement",
+      "debug":"JCO",
+      "strategies":[
+        "Design, construct, and maintain streetscapes that prioritize moving people safely"
+      ]
+    },
+    {
+      "program":"Traffic Operations",
+      "debug":"JCO",
+      "strategies":[
+        "Enhance Boston's walkability and neighborhood interconnectedness",
+        "To efficiently maintain traffic signs and parking meters throughout the city"
+      ]
+    }
   ],
   "operating_budget":{
     "table_type":"Operating Budget",
@@ -221,46 +261,46 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":18992165,
-        "fy-1":19571011,
-        "fy-0":20786852,
-        "fy+1":23072094,
-        "diff":2285242
+        "fy-2":21729242,
+        "fy-1":22357852,
+        "fy-0":23719863,
+        "fy+1":26032587,
+        "diff":2312724
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":3768275,
-        "fy-1":3547735,
-        "fy-0":3476971,
-        "fy+1":3372347,
-        "diff":-104624
+        "fy-2":8607274,
+        "fy-1":8878500,
+        "fy-0":8890115,
+        "fy+1":8950847,
+        "diff":60732
       },
       {
         "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":1076597,
-        "fy-1":1144327,
-        "fy-0":1287584,
-        "fy+1":1415430,
+        "fy-2":1405587,
+        "fy-1":1346009,
+        "fy-0":1557584,
+        "fy+1":1685430,
         "diff":127846
       },
       {
         "line_title":"Current Chgs & Oblig",
         "line_type":"data",
-        "fy-2":395106,
-        "fy-1":315831,
-        "fy-0":315612,
-        "fy+1":345255,
-        "diff":29643
+        "fy-2":401751,
+        "fy-1":317734,
+        "fy-0":319112,
+        "fy+1":347755,
+        "diff":28643
       },
       {
         "line_title":"Equipment",
         "line_type":"data",
-        "fy-2":643355,
-        "fy-1":566923,
-        "fy-0":770982,
-        "fy+1":901111,
+        "fy-2":648179,
+        "fy-1":569021,
+        "fy-0":776982,
+        "fy+1":907111,
         "diff":130129
       },
       {
@@ -275,11 +315,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":24875498,
-        "fy-1":25145827,
-        "fy-0":26638001,
-        "fy+1":29106237,
-        "diff":2468236
+        "fy-2":32792033,
+        "fy-1":33469116,
+        "fy-0":35263656,
+        "fy+1":37923730,
+        "diff":2660074
       }
     ]
   },

@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Arts and Culture~library-department.json",
-  "source_time":"20180407210221",
+  "source_time":"20180409202835",
   "source_year":"19",
   "name":"Library Department",
   "parent":"Arts & Culture",
@@ -20,6 +20,24 @@
   "appropriation_code":"Appropriation 110",
   "mission":[
     "Boston Public Library provides educational and cultural enrichment free to all for the residents of Boston, Massachusetts and beyond, through its collections, services, programs, and spaces."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Community Library Services",
+      "debug":"JCO",
+      "strategies":[
+        "To provide customer satisfaction through daily operations, program events, and special collection events",
+        "To provide improved access to programs, services and collections",
+        "To support improved youth literacy"
+      ]
+    },
+    {
+      "program":"Research Services",
+      "debug":"JCO",
+      "strategies":[
+        "To provide improved access to programs, services and collections"
+      ]
+    }
   ],
   "operating_budget":{
     "table_type":"Operating Budget",

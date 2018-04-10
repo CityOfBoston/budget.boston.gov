@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Mayor's Office~election-department.json",
-  "source_time":"20180407210249",
+  "source_time":"20180409202901",
   "source_year":"19",
   "name":"Election Department",
   "parent":"Mayor's Office",
@@ -20,6 +20,29 @@
   "appropriation_code":"Appropriation 121",
   "mission":[
     "The mission of the Election Department is to ensure that all municipal, state and federal elections conducted within the City of Boston are properly managed in accordance with City, state and federal laws. The Department also seeks to ensure that all eligible citizens are registered to vote and that a comprehensive juror list is provided to the State Jury Commissioner."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Election Administration",
+      "debug":"JCO",
+      "strategies":[
+        "Administer Elections in a manner that allows all eligible voters to exercise their right to vote without unreasonable impediments, and in accordance with the applicable laws and regulations"
+      ]
+    },
+    {
+      "program":"Annual Listing",
+      "debug":"JCO",
+      "strategies":[
+        "Conduct an annual census of all residents age 17 and over. Annually submit a list to the State Jury Commissioner of residents who are eligible to be jurors"
+      ]
+    },
+    {
+      "program":"Voter Registration",
+      "debug":"JCO",
+      "strategies":[
+        "Encourage and facilitate the registration of eligible voters, with an emphasis on increasing electronic voter registrations"
+      ]
+    }
   ],
   "operating_budget":{
     "table_type":"Operating Budget",
@@ -136,29 +159,29 @@
       {
         "line_title":"Personnel Services",
         "line_type":"data",
-        "fy-2":2380547,
-        "fy-1":2656876,
-        "fy-0":2720031,
-        "fy+1":2888471,
-        "diff":168440
+        "fy-2":2673127,
+        "fy-1":2984622,
+        "fy-0":3038493,
+        "fy+1":3199646,
+        "diff":161153
       },
       {
         "line_title":"Contractual Services",
         "line_type":"data",
-        "fy-2":663981,
-        "fy-1":496575,
-        "fy-0":685850,
-        "fy+1":549250,
+        "fy-2":689742,
+        "fy-1":522853,
+        "fy-0":713850,
+        "fy+1":577250,
         "diff":-136600
       },
       {
         "line_title":"Supplies & Materials",
         "line_type":"data",
-        "fy-2":95440,
-        "fy-1":264580,
-        "fy-0":221612,
-        "fy+1":318656,
-        "diff":97044
+        "fy-2":283790,
+        "fy-1":447243,
+        "fy-0":409862,
+        "fy+1":493206,
+        "diff":83344
       },
       {
         "line_title":"Current Chgs & Oblig",
@@ -190,11 +213,11 @@
       {
         "line_title":"Total",
         "line_type":"total",
-        "fy-2":3268106,
-        "fy-1":3487532,
-        "fy-0":3766216,
-        "fy+1":4218244,
-        "diff":452028
+        "fy-2":3774797,
+        "fy-1":4024219,
+        "fy-0":4300928,
+        "fy+1":4731969,
+        "diff":431041
       }
     ]
   }

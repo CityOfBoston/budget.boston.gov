@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Administration and Finance~labor-relations.json",
-  "source_time":"20180407210322",
+  "source_time":"20180409202938",
   "source_year":"19",
   "name":"Labor Relations",
   "parent":"Administration & Finance",
@@ -20,6 +20,15 @@
   "appropriation_code":"Appropriation 147",
   "mission":[
     "The mission of the Office of Labor Relations is to create and promote a productive work environment that fosters an efficient and effective relationship between labor and management."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Labor Relations",
+      "debug":"JCO",
+      "strategies":[
+        "To negotiate labor contracts and meet other bargaining obligations with the City's labor unions"
+      ]
+    }
   ],
   "operating_budget":{
     "table_type":"Operating Budget",

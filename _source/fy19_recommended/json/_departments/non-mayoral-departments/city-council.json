@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Non-Mayoral Departments~city-council.json",
-  "source_time":"20180407210623",
+  "source_time":"20180409203225",
   "source_year":"19",
   "name":"City Council",
   "parent":"Non-Mayoral Departments",
@@ -20,6 +20,17 @@
   "appropriation_code":"Appropriation 112",
   "mission":[
     "As the Legislative body of the City, the City Council serves as a link between the citizens of Boston and their municipal government. Through the filing of legislation, the enactment of orders, ordinances and resolutions, the Council actively represents the diverse interests of Bostonians while ensuring the efficient and cost effective delivery of services. The Council fulfills its obligation as the appropriating authority by analyzing appropriations and loan orders."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"City Councilors",
+      "debug":"JCO",
+      "strategies":[
+        "To ensure the sustainable and efficient delivery of city services for Boston residents",
+        "To maximize opportunities for citizen input into the Council's legislative process",
+        "To review, create and/or strengthen policies and laws that address the current and future needs of Boston residents, businesses and organizations"
+      ]
+    }
   ],
   "operating_budget":{
     "table_type":"Operating Budget",

@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Public Safety~emergency-management.json",
-  "source_time":"20180407210352",
+  "source_time":"20180409203005",
   "source_year":"19",
   "name":"Emergency Management",
   "parent":"Public Safety",
@@ -20,6 +20,16 @@
   "appropriation_code":"Appropriation 231",
   "mission":[
     "The Mayor&rsquo;s Office of Emergency Management advances the City&rsquo;s capability to effectively prevent, respond to and recover from incidents of terrorism, natural disasters and other emergency conditions by coordinating and directing Boston&rsquo;s inter-departmental and multi-jurisdictional activities, advising the Mayor on homeland security issues, and obtaining and managing outside funding."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Homeland Security",
+      "debug":"JCO",
+      "strategies":[
+        "To have the ability to shelter 5,000 Residents",
+        "To provide professional development training for first responders"
+      ]
+    }
   ],
   "operating_budget":{
     "table_type":"Operating Budget",
