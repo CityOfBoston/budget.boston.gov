@@ -33,7 +33,7 @@ components:
       <li>While State revenue is projected to grow by $4 million, </li></ul>
       <p>Property tax growth remains the main driver in revenue growth and far exceeds previous growth realized in the City. Local receipts, such as fines, fees and excise tax also continue to grow modestly as a result of an expanding economy.  After a decade-long trend of modest growth in State revenue and large increases in State assessments, the City continues to weather reductions to net State aid (state revenue net of assessments).</p>
       <blockquote>Net State Aid is budgeted to decline as continued increases in state assessments for charter school tuition outpace stagnant budgeted state revenue.</blockquote>
-    img: /img/net-state-aid.png
+      right_image: /img/net-state-aid.png
 - text_block:
   - title: Property Tax Overview
     body: >
