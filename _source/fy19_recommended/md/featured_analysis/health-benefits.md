@@ -287,7 +287,7 @@ components:
 - text_block:
   - title: City - Union Partnership
     body: >
-      <p class="intro-text supporting-text">Assisted by 2011 Municipal Health Care Reform, the City adopted MGL Chapter 32B S.19 and began working closely with its thirty six unions, as represented through the Public Employee Committee (PEC), in making health care changes.</p>
+      <p>Assisted by 2011 Municipal Health Care Reform, the City adopted MGL Chapter 32B S.19 and began working closely with its thirty six unions, as represented through the Public Employee Committee (PEC), in making health care changes.</p>
 - text_col_2:
   - col: >
       <h5>Reduced City share</h5>
@@ -296,7 +296,7 @@ components:
     - img: /img/health-care-costs-sharing.png
 - text_block:
   - body: >
-      <p class="intro-text supporting-text">In FY15, the City and the PEC entered into their second agreement, which is projected to reduce projected costs by approximately $50 million over five years. This most recent agreement is unique because it includes not only a continued increase in member cost share, but also multiple other approaches to containing total costs for both the City and members, including:</p>
+      <p>In FY15, the City and the PEC entered into their second agreement, which is projected to reduce projected costs by approximately $50 million over five years. This most recent agreement is unique because it includes not only a continued increase in member cost share, but also multiple other approaches to containing total costs for both the City and members, including:</p>
       <h5>Competitive bidding and refinement of the City’s health plan options</h5>
       <p>After the elimination of a costly indemnity plan in FY12 saving several million dollars 
       annually, non-Medicare health plan options were further reduced in FY16 to three 
