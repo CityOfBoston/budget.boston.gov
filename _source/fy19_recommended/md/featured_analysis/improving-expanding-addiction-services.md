@@ -50,8 +50,7 @@ components:
       <p>When open, Long Island will become part of the continuum of care for people struggling to reclaim their lives, from detox to residential treatment to transitional housing. In the meantime, Mayor Walsh is committed to providing more services to people battling addiction.</p>
       <p>The Engagement Center is a welcoming, low-threshold drop-in space for individuals receiving services in the Newmarket Square neighborhood. It was opened in August 2017 as a pilot and provides space for participants to connect with recovery support services and to get connected with housing services offered by the City and partners.</p>
       <p>Since August, over 140,000 guests have accessed the Engagement Center in some form; either through daily nursing services, to reconnect with health insurance, to make primary care appointments, or to receive routine medical care. Building on the success of the pilot, Mayor Walsh is dedicating $1.8 million to make the Engagement Center permanent. This vital service will continue to be a lifeline for those suffering from addiction and homelessness.</p>
-      </ul>
-  - grid: 
+- grid: 
   - grid_title: More budget analysis
   - card: /featured-analysis/energy-environment-preparing-for-climate-change/
   - card: /featured-analysis/open-space-imagine-boston-2030-goals/
