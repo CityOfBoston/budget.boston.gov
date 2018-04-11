@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~.json",
-  "source_time":"20180409203016",
+  "source_time":"20180410202401",
   "source_year":"19",
   "appropriation_code":"Organization 211100",
   "description":[
@@ -151,7 +151,7 @@
             {
               "line_type":"data",
               "line_data":"YouthConnect referrals",
-              "fy-2":"",
+              "fy-2":"0",
               "fy-1":"810",
               "fy-0":"840",
               "fy+1":"800"

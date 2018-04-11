@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~traffic-commissioners-office.json",
-  "source_time":"20180409203109",
+  "source_time":"20180410202550",
   "source_year":"19",
   "appropriation_code":"Organization 251200",
   "description":[
@@ -181,16 +181,16 @@
               "line_data":"Traffic Congestion Index (AM)",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"2",
-              "fy+1":"2"
+              "fy-0":"1.6",
+              "fy+1":"1.6"
             },
             {
               "line_type":"data",
               "line_data":"Traffic Congestion Index (PM)",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"2",
-              "fy+1":"2"
+              "fy-0":"1.8",
+              "fy+1":"1.7"
             }
           ]
         }

@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Health and Human Services~public-health-commission.json",
-  "source_time":"20180409203204",
+  "source_time":"20180410202741",
   "source_year":"19",
   "name":"Public Health Commission",
   "parent":"Health & Human Services",
@@ -51,7 +51,7 @@
         "fy-2":61576757,
         "fy-1":62289011,
         "fy-0":64061311,
-        "fy+1":84881543,
+        "fy+1":68667692,
         "publish_subordinates":true
       },
       {
@@ -60,7 +60,7 @@
         "fy-2":10824191,
         "fy-1":11345673,
         "fy-0":11383862,
-        "fy+1":0,
+        "fy+1":12403543,
         "publish_subordinates":true
       },
       {
@@ -69,7 +69,7 @@
         "fy-2":3754487,
         "fy-1":3632516,
         "fy-0":4068210,
-        "fy+1":0,
+        "fy+1":3810307,
         "publish_subordinates":true
       },
       {
@@ -78,7 +78,7 @@
         "fy-2":76155435,
         "fy-1":77267200,
         "fy-0":79513383,
-        "fy+1":84881543
+        "fy+1":84881542
       }
     ]
   },
@@ -105,7 +105,7 @@
       "fy-2":76155435,
       "fy-1":77267200,
       "fy-0":79513383,
-      "fy+1":84881543
+      "fy+1":84881542
     },
     {
       "line_title":"Total",
@@ -113,7 +113,7 @@
       "fy-2":76155435,
       "fy-1":77267200,
       "fy-0":79513383,
-      "fy+1":84881543
+      "fy+1":84881542
     }
   ],
   "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
@@ -174,8 +174,8 @@
         "fy-2":0,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":1822352,
-        "diff":1822352
+        "fy+1":0,
+        "diff":0
       },
       {
         "line_title":"Other",
@@ -183,8 +183,8 @@
         "fy-2":76155435,
         "fy-1":77267200,
         "fy-0":79513383,
-        "fy+1":83059191,
-        "diff":3545808
+        "fy+1":84881542,
+        "diff":5368159
       },
       {
         "line_title":"Total",
@@ -192,8 +192,8 @@
         "fy-2":76155435,
         "fy-1":77267200,
         "fy-0":79513383,
-        "fy+1":84881543,
-        "diff":5368160
+        "fy+1":84881542,
+        "diff":5368159
       }
     ]
   },

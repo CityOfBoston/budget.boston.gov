@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~.json",
-  "source_time":"20180409202834",
+  "source_time":"20180410201911",
   "source_year":"19",
   "appropriation_code":"Organization 414100",
   "description":[
@@ -196,7 +196,7 @@
               "line_type":"data",
               "line_data":"% of zip codes with approved public art applications",
               "fy-2":"",
-              "fy-1":"42%",
+              "fy-1":"41.8%",
               "fy-0":"50%",
               "fy+1":"75%"
             }
@@ -223,7 +223,7 @@
             {
               "line_type":"data",
               "line_data":"Number of Percent for Art Projects initiated",
-              "fy-2":"",
+              "fy-2":"0",
               "fy-1":"1",
               "fy-0":"3",
               "fy+1":"6"
@@ -267,7 +267,7 @@
             {
               "line_type":"data",
               "line_data":"Number of artists who have applied for an opportunity through MOAC",
-              "fy-2":"",
+              "fy-2":"0",
               "fy-1":"367",
               "fy-0":"1,200",
               "fy+1":"1,500"
@@ -275,7 +275,7 @@
             {
               "line_type":"data",
               "line_data":"Number of artists who have recieved an Opportunity Fund Grant",
-              "fy-2":"",
+              "fy-2":"0",
               "fy-1":"93",
               "fy-0":"40",
               "fy+1":"200"
@@ -283,7 +283,7 @@
             {
               "line_type":"data",
               "line_data":"Number of Boston Certified Artists",
-              "fy-2":"",
+              "fy-2":"0",
               "fy-1":"252",
               "fy-0":"500",
               "fy+1":"500"

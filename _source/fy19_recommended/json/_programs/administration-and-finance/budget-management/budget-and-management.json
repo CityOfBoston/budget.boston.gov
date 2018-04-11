@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~budget-administration.json",
-  "source_time":"20180409202929",
+  "source_time":"20180410202116",
   "source_year":"19",
   "appropriation_code":"Organization 141200",
   "description":[
@@ -151,7 +151,7 @@
             {
               "line_type":"data",
               "line_data":"% achieved of savings identified in budget process",
-              "fy-2":"",
+              "fy-2":"0%",
               "fy-1":"79%",
               "fy-0":"74%",
               "fy+1":"100%"
@@ -159,18 +159,18 @@
             {
               "line_type":"data",
               "line_data":"% of new investments implemented",
-              "fy-2":"",
-              "fy-1":"",
+              "fy-2":"0%",
+              "fy-1":"0%",
               "fy-0":"95%",
               "fy+1":"100%"
             },
             {
               "line_type":"data",
               "line_data":"New healthcare savings achieved through the Public Employee Committee (PEC)",
-              "fy-2":"6",
-              "fy-1":"2",
-              "fy-0":"3",
-              "fy+1":"2"
+              "fy-2":"5.9",
+              "fy-1":"1.6",
+              "fy-0":"2.6",
+              "fy+1":"1.5"
             }
           ]
         }

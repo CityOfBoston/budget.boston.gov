@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~bridge-operations-maintenance.json",
-  "source_time":"20180409203100",
+  "source_time":"20180410202529",
   "source_year":"19",
   "appropriation_code":"Organization 311700",
   "description":[
@@ -153,8 +153,8 @@
               "line_data":"Personnel hours per Street light outage repair",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"2",
-              "fy+1":"1"
+              "fy-0":"1.5",
+              "fy+1":"1.3"
             }
           ]
         }

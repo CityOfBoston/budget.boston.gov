@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~.json",
-  "source_time":"20180409202949",
+  "source_time":"20180410202158",
   "source_year":"19",
   "appropriation_code":"Organization 163100",
   "description":[
@@ -151,7 +151,7 @@
             {
               "line_type":"data",
               "line_data":"75% of staff competent in 2 areas",
-              "fy-2":"",
+              "fy-2":"0",
               "fy-1":"47",
               "fy-0":"68",
               "fy+1":"80"

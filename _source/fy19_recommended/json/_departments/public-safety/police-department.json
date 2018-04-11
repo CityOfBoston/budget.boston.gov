@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Public Safety~police-department.json",
-  "source_time":"20180409203014",
+  "source_time":"20180410202351",
   "source_year":"19",
   "name":"Police Department",
   "parent":"Public Safety",
@@ -280,7 +280,7 @@
         "line_type":"data",
         "fy-2":0,
         "fy-1":21000,
-        "fy-0":871669,
+        "fy-0":1121669,
         "fy+1":0,
         "publish_subordinates":true
       },
@@ -348,6 +348,15 @@
         "publish_subordinates":true
       },
       {
+        "name":"LPC Commercial Camera Project",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":50193,
+        "publish_subordinates":true
+      },
+      {
         "name":"Massachusetts Office for Victims Assistance",
         "line_type":"data",
         "fy-2":105346,
@@ -380,7 +389,7 @@
         "fy-2":62091,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":50193,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
@@ -434,7 +443,7 @@
         "fy-2":50589,
         "fy-1":412391,
         "fy-0":118974,
-        "fy+1":0,
+        "fy+1":38624,
         "publish_subordinates":true
       },
       {
@@ -532,8 +541,8 @@
         "line_type":"total",
         "fy-2":9538737,
         "fy-1":10076084,
-        "fy-0":15338999,
-        "fy+1":8952053
+        "fy-0":15588999,
+        "fy+1":8990677
       }
     ]
   },
@@ -879,8 +888,7 @@
   "fy_major_initiatives":[
     "Site work will begin on a new East Boston Police Station.",
     "A project to replace the existing records management system will begin.",
-    "The Police Department will continue its phased communications infrastructure upgrade project.",
-    "The project is expected to be completed in FY20.",
+    "The Police Department will continue its phased communications infrastructure upgrade project. The project is expected to be completed in FY20.",
     "A study to replace the Evidence Management, Archives, and Central Supply facility will begin."
   ]
 }

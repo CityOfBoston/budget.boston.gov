@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~police-commissioners-office.json",
-  "source_time":"20180409203016",
+  "source_time":"20180410202401",
   "source_year":"19",
   "appropriation_code":"Organization 211200",
   "description":[
@@ -152,7 +152,7 @@
               "line_type":"data",
               "line_data":"Median Response Time Priority One Calls: Receipt to arrival (mins)",
               "fy-2":"9",
-              "fy-1":"9",
+              "fy-1":"8.8",
               "fy-0":"9",
               "fy+1":"8"
             }

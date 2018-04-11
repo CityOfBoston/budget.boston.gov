@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~city-hall-to-go.json",
-  "source_time":"20180409202844",
+  "source_time":"20180410201929",
   "source_year":"19",
   "appropriation_code":"Organization 412400",
   "description":[
@@ -153,15 +153,15 @@
               "line_data":"% of calls answered within 30 seconds",
               "fy-2":"100%",
               "fy-1":"95%",
-              "fy-0":"83%",
+              "fy-0":"83.4%",
               "fy+1":"90%"
             },
             {
               "line_type":"data",
               "line_data":"Average call handle time (minutes)",
-              "fy-2":"2",
-              "fy-1":"2",
-              "fy-0":"2",
+              "fy-2":"1.9",
+              "fy-1":"1.8",
+              "fy-0":"2.1",
               "fy+1":"2"
             }
           ]

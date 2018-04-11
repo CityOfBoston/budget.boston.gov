@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~doit-operations.json",
-  "source_time":"20180409203002",
+  "source_time":"20180410202222",
   "source_year":"19",
   "appropriation_code":"Organization 149200",
   "description":[
@@ -151,8 +151,8 @@
             {
               "line_type":"data",
               "line_data":"BAIS - iCIMS applicant experience (out of 5)",
-              "fy-2":"",
-              "fy-1":"",
+              "fy-2":"0",
+              "fy-1":"0",
               "fy-0":"5",
               "fy+1":"5"
             },
@@ -187,8 +187,8 @@
             {
               "line_type":"data",
               "line_data":"- % of total requests received over digital channels",
-              "fy-2":"",
-              "fy-1":"",
+              "fy-2":"0",
+              "fy-1":"0",
               "fy-0":"100",
               "fy+1":"100"
             }

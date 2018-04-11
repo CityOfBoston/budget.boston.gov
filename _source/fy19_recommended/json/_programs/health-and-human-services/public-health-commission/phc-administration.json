@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~public-health-services.json",
-  "source_time":"20180409203207",
+  "source_time":"20180410202750",
   "source_year":"19",
   "appropriation_code":"Organization 620200",
   "description":[
@@ -43,7 +43,7 @@
       "fy-2":10824191,
       "fy-1":11345673,
       "fy-0":11383862,
-      "fy+1":0
+      "fy+1":12403543
     },
     {
       "line_title":"Total",
@@ -51,7 +51,7 @@
       "fy-2":10824191,
       "fy-1":11345673,
       "fy-0":11383862,
-      "fy+1":0
+      "fy+1":12403543
     }
   ],
   "program_history_by_account":{
@@ -117,8 +117,8 @@
         "fy-2":10824191,
         "fy-1":11345673,
         "fy-0":11383862,
-        "fy+1":0,
-        "diff":-11383862
+        "fy+1":12403543,
+        "diff":1019681
       },
       {
         "line_title":"Total",
@@ -126,8 +126,8 @@
         "fy-2":10824191,
         "fy-1":11345673,
         "fy-0":11383862,
-        "fy+1":0,
-        "diff":-11383862
+        "fy+1":12403543,
+        "diff":1019681
       }
     ]
   }

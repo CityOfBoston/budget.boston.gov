@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~.json",
-  "source_time":"20180409203117",
+  "source_time":"20180410202605",
   "source_year":"19",
   "appropriation_code":"Organization 303100",
   "description":[
@@ -224,7 +224,7 @@
               "line_type":"data",
               "line_data":"% of approved hearing items",
               "fy-2":"",
-              "fy-1":"92%",
+              "fy-1":"91.9%",
               "fy-0":"97%",
               "fy+1":"97%"
             }
@@ -276,9 +276,9 @@
               "line_type":"data",
               "line_data":"Municipal PV +CHP capacity",
               "fy-2":"6",
-              "fy-1":"6",
-              "fy-0":"6",
-              "fy+1":"6"
+              "fy-1":"5.7",
+              "fy-0":"5.7",
+              "fy+1":"5.7"
             }
           ]
         }
@@ -312,14 +312,14 @@
               "line_type":"data",
               "line_data":"Average PM2.5 (particulate matter) level (micrograms/m3)",
               "fy-2":"",
-              "fy-1":"6",
+              "fy-1":"6.1",
               "fy-0":"",
               "fy+1":""
             },
             {
               "line_type":"data",
               "line_data":"Ozone level (ppm)",
-              "fy-2":"",
+              "fy-2":"0.1",
               "fy-1":"",
               "fy-0":"",
               "fy+1":""

@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~parks-and-recreation-administration.json",
-  "source_time":"20180409203134",
+  "source_time":"20180410202631",
   "source_year":"19",
   "appropriation_code":"Organization 300200",
   "description":[
@@ -152,7 +152,7 @@
               "line_type":"data",
               "line_data":"Estimated tons of recycling removed",
               "fy-2":"",
-              "fy-1":"3",
+              "fy-1":"2.5",
               "fy-0":"5",
               "fy+1":"5"
             },
@@ -160,7 +160,7 @@
               "line_type":"data",
               "line_data":"Estimated tons of waste removed",
               "fy-2":"",
-              "fy-1":"1,918",
+              "fy-1":"1,917.9",
               "fy-0":"2,080",
               "fy+1":"2,080"
             }
@@ -188,9 +188,9 @@
               "line_type":"data",
               "line_data":"Park Quality Rating",
               "fy-2":"",
-              "fy-1":"4",
-              "fy-0":"4",
-              "fy+1":"4"
+              "fy-1":"3.5",
+              "fy-0":"3.5",
+              "fy+1":"3.5"
             }
           ]
         }
@@ -243,8 +243,8 @@
             {
               "line_type":"data",
               "line_data":"% Park maintenance requests completed on time",
-              "fy-2":"69%",
-              "fy-1":"79%",
+              "fy-2":"68.9%",
+              "fy-1":"79.2%",
               "fy-0":"80%",
               "fy+1":"80%"
             },
@@ -279,16 +279,16 @@
             {
               "line_type":"data",
               "line_data":"% Tree maintenance work orders closed within 365 calendar days",
-              "fy-2":"97%",
-              "fy-1":"95%",
+              "fy-2":"96.9%",
+              "fy-1":"95.4%",
               "fy-0":"80%",
               "fy+1":"80%"
             },
             {
               "line_type":"data",
               "line_data":"Average time to complete a tree emergency request (Days)",
-              "fy-2":"1",
-              "fy-1":"1",
+              "fy-2":"0.9",
+              "fy-1":"0.9",
               "fy-0":"1",
               "fy+1":"1"
             },

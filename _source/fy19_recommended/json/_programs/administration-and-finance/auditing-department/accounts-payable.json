@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~grants-monitoring.json",
-  "source_time":"20180409202926",
+  "source_time":"20180410202108",
   "source_year":"19",
   "appropriation_code":"Organization 131500",
   "description":[
@@ -151,7 +151,7 @@
             {
               "line_type":"data",
               "line_data":"% contracts routed within 3 days of receipt",
-              "fy-2":"86%",
+              "fy-2":"85.7%",
               "fy-1":"84%",
               "fy-0":"100%",
               "fy+1":"100%"
@@ -179,7 +179,7 @@
             {
               "line_type":"data",
               "line_data":"% procurement documents approved within 3 days",
-              "fy-2":"93%",
+              "fy-2":"92.7%",
               "fy-1":"97%",
               "fy-0":"100%",
               "fy+1":"100%"
@@ -207,7 +207,7 @@
             {
               "line_type":"data",
               "line_data":"% vendor invoices processed within 5 days",
-              "fy-2":"99%",
+              "fy-2":"98.8%",
               "fy-1":"99%",
               "fy-0":"100%",
               "fy+1":"100%"

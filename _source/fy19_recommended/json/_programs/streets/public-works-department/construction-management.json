@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~engineering.json",
-  "source_time":"20180409203059",
+  "source_time":"20180410202528",
   "source_year":"19",
   "appropriation_code":"Organization 311400",
   "description":[
@@ -152,16 +152,16 @@
               "line_type":"data",
               "line_data":"Annual basis of the PCI for Boston's Streets",
               "fy-2":"",
-              "fy-1":"67",
-              "fy-0":"66",
-              "fy+1":"67"
+              "fy-1":"66.9",
+              "fy-0":"66.4",
+              "fy+1":"66.9"
             },
             {
               "line_type":"data",
               "line_data":"Average PCI of the Roads being resurfaced",
               "fy-2":"",
-              "fy-1":"34",
-              "fy-0":"33",
+              "fy-1":"33.9",
+              "fy-0":"32.8",
               "fy+1":"33"
             }
           ]

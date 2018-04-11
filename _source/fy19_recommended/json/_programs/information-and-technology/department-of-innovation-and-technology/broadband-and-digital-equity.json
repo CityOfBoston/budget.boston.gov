@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~data-and-analytics.json",
-  "source_time":"20180409203003",
+  "source_time":"20180410202223",
   "source_year":"19",
   "appropriation_code":"Organization 149600",
   "description":[
@@ -151,8 +151,8 @@
             {
               "line_type":"data",
               "line_data":"# of IT specific trainings available within the last quarter",
-              "fy-2":"",
-              "fy-1":"",
+              "fy-2":"0",
+              "fy-1":"0",
               "fy-0":"10",
               "fy+1":"10"
             }
@@ -179,8 +179,8 @@
             {
               "line_type":"data",
               "line_data":"Wicked free wifi customer satisfaction rate (out of 5)",
-              "fy-2":"",
-              "fy-1":"",
+              "fy-2":"0",
+              "fy-1":"0",
               "fy-0":"5",
               "fy+1":"5"
             }

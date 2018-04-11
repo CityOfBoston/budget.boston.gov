@@ -14,7 +14,7 @@
   "section_type_short":"R",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_projects~transportation-department~traffic-signals-at-9-locations.json",
-  "source_time":"20180409203106",
+  "source_time":"20180410202540",
   "source_year":"19",
   "status":"In Design",
   "expenditures_detail":{
@@ -51,7 +51,7 @@
         "fy-1":0,
         "fy-0":0,
         "fy+1-4":0,
-        "total":3036200
+        "total":0
       },
       {
         "line_type":"total",
@@ -99,7 +99,7 @@
           "fy-0":0,
           "fy-0++":0,
           "other":3036200,
-          "total":3036200
+          "total":0
         },
         {
           "line_type":"total",

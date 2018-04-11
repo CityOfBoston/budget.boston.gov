@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~consumer-affairs.json",
-  "source_time":"20180409203034",
+  "source_time":"20180410202430",
   "source_year":"19",
   "appropriation_code":"Organization 114100",
   "description":[
@@ -151,8 +151,8 @@
             {
               "line_type":"data",
               "line_data":"Average days until case results are communicated",
-              "fy-2":"",
-              "fy-1":"",
+              "fy-2":"0",
+              "fy-1":"0",
               "fy-0":"47",
               "fy+1":"45"
             }
@@ -207,7 +207,7 @@
             {
               "line_type":"data",
               "line_data":"Number of consumer cases closed",
-              "fy-2":"",
+              "fy-2":"0",
               "fy-1":"451",
               "fy-0":"425",
               "fy+1":"600"

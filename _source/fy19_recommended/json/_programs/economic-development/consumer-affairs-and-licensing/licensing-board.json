@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~consumer-licensing.json",
-  "source_time":"20180409203035",
+  "source_time":"20180410202431",
   "source_year":"19",
   "appropriation_code":"Organization 114300",
   "description":[
@@ -151,15 +151,15 @@
             {
               "line_type":"data",
               "line_data":"% non live entertainment licenses granted in 14 days from application",
-              "fy-2":"",
-              "fy-1":"",
+              "fy-2":"0%",
+              "fy-1":"0%",
               "fy-0":"100%",
               "fy+1":"100%"
             },
             {
               "line_type":"data",
               "line_data":"% of live entertainment licenses granted in statutory time",
-              "fy-2":"",
+              "fy-2":"0%",
               "fy-1":"100%",
               "fy-0":"100%",
               "fy+1":"100%"

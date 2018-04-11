@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Health and Human Services~elderly-commission.json",
-  "source_time":"20180409203154",
+  "source_time":"20180410202706",
   "source_year":"19",
   "name":"Elderly Commission",
   "parent":"Health & Human Services",
@@ -139,7 +139,7 @@
         "fy-2":580116,
         "fy-1":921331,
         "fy-0":880879,
-        "fy+1":0,
+        "fy+1":866372,
         "publish_subordinates":true
       },
       {
@@ -148,7 +148,7 @@
         "fy-2":360975,
         "fy-1":365143,
         "fy-0":440000,
-        "fy+1":0,
+        "fy+1":255734,
         "publish_subordinates":true
       },
       {
@@ -184,7 +184,7 @@
         "fy-2":1539404,
         "fy-1":1330249,
         "fy-0":1363864,
-        "fy+1":0,
+        "fy+1":1363864,
         "publish_subordinates":true
       },
       {
@@ -193,7 +193,7 @@
         "fy-2":6915256,
         "fy-1":6580518,
         "fy-0":7047536,
-        "fy+1":6805963
+        "fy+1":9291933
       }
     ]
   },

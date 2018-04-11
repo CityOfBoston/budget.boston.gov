@@ -14,7 +14,7 @@
   "section_type_short":"C",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~health-and-human-services.json",
-  "source_time":"20180409203136",
+  "source_time":"20180410202632",
   "source_year":"19",
   "mission":[
     "The Health and Human Services Cabinet is committed to promoting the health and well-being of the City's residents particularly the most vulnerable. The provision of social, recreational, health and support services to city residents, particularly the homeless, persons with disabilities, women, the elderly, youth, immigrants and veterans, will be coordinated and made available in a customer-friendly and culturally sensitive manner. The Cabinet enforces all antidiscrimination laws and protections under the jurisdiction of the City, and advocates for the advancement of policies and legislation to address the needs of individuals and groups, supports disease and injury prevention, delivers emergency health services and health education and promotion services within the City."
@@ -100,7 +100,7 @@
         "fy-2":76155435,
         "fy-1":77267200,
         "fy-0":79513383,
-        "fy+1":84881543
+        "fy+1":84881542
       },
       {
         "department":"Youth Engagement & Employment",
@@ -116,7 +116,7 @@
         "fy-2":114682427,
         "fy-1":116037144,
         "fy-0":123264009,
-        "fy+1":128062541
+        "fy+1":128062540
       }
     ],
     "capital_budget_expenditures":[

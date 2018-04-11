@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~.json",
-  "source_time":"20180409203207",
+  "source_time":"20180410202750",
   "source_year":"19",
   "appropriation_code":"Organization 620100",
   "description":[
@@ -43,7 +43,7 @@
       "fy-2":61576757,
       "fy-1":62289011,
       "fy-0":64061311,
-      "fy+1":84881543
+      "fy+1":68667692
     },
     {
       "line_title":"Total",
@@ -51,7 +51,7 @@
       "fy-2":61576757,
       "fy-1":62289011,
       "fy-0":64061311,
-      "fy+1":84881543
+      "fy+1":68667692
     }
   ],
   "program_history_by_account":{
@@ -108,8 +108,8 @@
         "fy-2":0,
         "fy-1":0,
         "fy-0":0,
-        "fy+1":1822352,
-        "diff":1822352
+        "fy+1":0,
+        "diff":0
       },
       {
         "line_title":"Other",
@@ -117,8 +117,8 @@
         "fy-2":61576757,
         "fy-1":62289011,
         "fy-0":64061311,
-        "fy+1":83059191,
-        "diff":18997880
+        "fy+1":68667692,
+        "diff":4606381
       },
       {
         "line_title":"Total",
@@ -126,8 +126,8 @@
         "fy-2":61576757,
         "fy-1":62289011,
         "fy-0":64061311,
-        "fy+1":84881543,
-        "diff":20820232
+        "fy+1":68667692,
+        "diff":4606381
       }
     ]
   },
@@ -187,25 +187,25 @@
             {
               "line_type":"data",
               "line_data":"Median response time for Priority 1 calls",
-              "fy-2":"6",
-              "fy-1":"6",
-              "fy-0":"6",
+              "fy-2":"6.2",
+              "fy-1":"6.4",
+              "fy-0":"6.3",
               "fy+1":"6"
             },
             {
               "line_type":"data",
               "line_data":"Median response time for Priority 2 calls",
-              "fy-2":"8",
-              "fy-1":"9",
-              "fy-0":"8",
+              "fy-2":"8.2",
+              "fy-1":"8.7",
+              "fy-0":"8.5",
               "fy+1":"7"
             },
             {
               "line_type":"data",
               "line_data":"Median response time for Priority 3 calls",
-              "fy-2":"8",
-              "fy-1":"9",
-              "fy-0":"9",
+              "fy-2":"8.4",
+              "fy-1":"8.7",
+              "fy-0":"8.6",
               "fy+1":"8"
             }
           ]
@@ -239,16 +239,16 @@
             {
               "line_type":"data",
               "line_data":"% of babies who are low birthweight",
-              "fy-2":"9%",
-              "fy-1":"9%",
-              "fy-0":"9%",
-              "fy+1":"9%"
+              "fy-2":"8.8%",
+              "fy-1":"8.6%",
+              "fy-0":"8.6%",
+              "fy+1":"8.6%"
             },
             {
               "line_type":"data",
               "line_data":"% of tobacco retailers adhering to youth access regulations",
               "fy-2":"86%",
-              "fy-1":"82%",
+              "fy-1":"82.4%",
               "fy-0":"85%",
               "fy+1":"85%"
             },

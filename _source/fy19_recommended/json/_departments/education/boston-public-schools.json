@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Education~boston-public-schools.json",
-  "source_time":"20180409203022",
+  "source_time":"20180410202406",
   "source_year":"19",
   "name":"Boston Public Schools",
   "parent":"Education",
@@ -305,7 +305,7 @@
         "fy-2":1486910,
         "fy-1":3078382,
         "fy-0":2600000,
-        "fy+1":5200000,
+        "fy+1":2600000,
         "publish_subordinates":true
       },
       {
@@ -638,7 +638,7 @@
         "fy-2":26696,
         "fy-1":60225,
         "fy-0":1500000,
-        "fy+1":3000000,
+        "fy+1":1500000,
         "publish_subordinates":true
       },
       {
@@ -719,7 +719,7 @@
         "fy-2":38990,
         "fy-1":221329,
         "fy-0":125000,
-        "fy+1":250000,
+        "fy+1":125000,
         "publish_subordinates":true
       },
       {
@@ -737,7 +737,7 @@
         "fy-2":67583866,
         "fy-1":71672840,
         "fy-0":83587212,
-        "fy+1":82284652
+        "fy+1":78059652
       }
     ]
   },

@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~neighborhood-development-administration.json",
-  "source_time":"20180409203217",
+  "source_time":"20180410202812",
   "source_year":"19",
   "appropriation_code":"Organization 188300",
   "description":[
@@ -215,7 +215,7 @@
             {
               "line_type":"data",
               "line_data":"# of low income housing units permitted (Deed restricted and IDP)",
-              "fy-2":"",
+              "fy-2":"0",
               "fy-1":"279",
               "fy-0":"347",
               "fy+1":"347"

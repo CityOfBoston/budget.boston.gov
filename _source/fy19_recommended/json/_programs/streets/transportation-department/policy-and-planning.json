@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~traffic-management-and-engineering.json",
-  "source_time":"20180409203110",
+  "source_time":"20180410202551",
   "source_year":"19",
   "appropriation_code":"Organization 251300",
   "description":[
@@ -154,7 +154,7 @@
               "fy-2":"895",
               "fy-1":"772",
               "fy-0":"778",
-              "fy+1":""
+              "fy+1":"0"
             },
             {
               "line_type":"data",
@@ -162,7 +162,7 @@
               "fy-2":"364",
               "fy-1":"378",
               "fy-0":"409",
-              "fy+1":""
+              "fy+1":"0"
             }
           ]
         }

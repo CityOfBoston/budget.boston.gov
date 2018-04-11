@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~document-filing.json",
-  "source_time":"20180409203224",
+  "source_time":"20180410202830",
   "source_year":"19",
   "appropriation_code":"Organization 161300",
   "description":[
@@ -184,7 +184,7 @@
               "line_type":"data",
               "line_data":"Records Transfers to Archives & Offsite Storage Cubic Feet",
               "fy-2":"",
-              "fy-1":"496",
+              "fy-1":"496.5",
               "fy-0":"2,000",
               "fy+1":"1,500"
             },

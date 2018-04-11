@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~litigation.json",
-  "source_time":"20180409202906",
+  "source_time":"20180410202023",
   "source_year":"19",
   "appropriation_code":"Organization 151300",
   "description":[
@@ -188,7 +188,7 @@
               "line_type":"data",
               "line_data":"% contract reviews completed within 14 days-Actual",
               "fy-2":"97%",
-              "fy-1":"92%",
+              "fy-1":"91.6%",
               "fy-0":"90%",
               "fy+1":"90%"
             },

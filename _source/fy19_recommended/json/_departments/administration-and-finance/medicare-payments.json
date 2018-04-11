@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Administration and Finance~medicare-payments.json",
-  "source_time":"20180409202940",
+  "source_time":"20180410202137",
   "source_year":"19",
   "name":"Medicare Payments",
   "parent":"Administration & Finance",
@@ -40,7 +40,7 @@
         "fy-1":8607598,
         "fy-0":11000000,
         "fy+1":11000000,
-        "publish_subordinates":true
+        "publish_subordinates":false
       },
       {
         "name":"Total",

@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~.json",
-  "source_time":"20180409203156",
+  "source_time":"20180410202714",
   "source_year":"19",
   "appropriation_code":"Organization 387400",
   "description":[
@@ -187,16 +187,16 @@
             {
               "line_type":"data",
               "line_data":"Age-Friendly Boston Action Items Completed",
-              "fy-2":"",
-              "fy-1":"",
+              "fy-2":"0",
+              "fy-1":"0",
               "fy-0":"12",
               "fy+1":"14"
             },
             {
               "line_type":"data",
               "line_data":"Number of Older Adults Served by Grantees",
-              "fy-2":"",
-              "fy-1":"",
+              "fy-2":"0",
+              "fy-1":"0",
               "fy-0":"16,000",
               "fy+1":"18,000"
             }

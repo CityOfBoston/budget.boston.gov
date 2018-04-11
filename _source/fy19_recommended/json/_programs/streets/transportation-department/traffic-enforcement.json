@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~policy-and-planning.json",
-  "source_time":"20180409203110",
+  "source_time":"20180410202551",
   "source_year":"19",
   "appropriation_code":"Organization 251400",
   "description":[
@@ -153,7 +153,7 @@
               "line_data":"% of abandoned vehicle requests completed on time",
               "fy-2":"76%",
               "fy-1":"63%",
-              "fy-0":"80%",
+              "fy-0":"56%",
               "fy+1":"80%"
             },
             {
@@ -161,7 +161,7 @@
               "line_data":"Average time to complete an abandoned vehicle request (days)",
               "fy-2":"13",
               "fy-1":"19",
-              "fy-0":"12",
+              "fy-0":"18",
               "fy+1":"12"
             }
           ]

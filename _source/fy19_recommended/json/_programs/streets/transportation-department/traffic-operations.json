@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~traffic-enforcement.json",
-  "source_time":"20180409203110",
+  "source_time":"20180410202551",
   "source_year":"19",
   "appropriation_code":"Organization 251500",
   "description":[
@@ -212,15 +212,15 @@
               "line_type":"data",
               "line_data":"Average time to complete a missing sign request (days)",
               "fy-2":"9",
-              "fy-1":"11",
-              "fy-0":"10",
+              "fy-1":"11.3",
+              "fy-0":"10.5",
               "fy+1":"10"
             },
             {
               "line_type":"data",
               "line_data":"Average time to complete a parking meter repair request (days)",
-              "fy-2":"28",
-              "fy-1":"8",
+              "fy-2":"28.1",
+              "fy-1":"7.8",
               "fy-0":"6",
               "fy+1":"5"
             },

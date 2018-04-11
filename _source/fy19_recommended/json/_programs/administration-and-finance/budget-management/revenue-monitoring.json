@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~improving-management-project.json",
-  "source_time":"20180409202929",
+  "source_time":"20180410202117",
   "source_year":"19",
   "appropriation_code":"Organization 141300",
   "description":[
@@ -151,10 +151,10 @@
             {
               "line_type":"data",
               "line_data":"% by which actual revenues exceed actual expenditures",
-              "fy-2":"",
-              "fy-1":"",
-              "fy-0":"",
-              "fy+1":""
+              "fy-2":"0.1%",
+              "fy-1":"0.3%",
+              "fy-0":"0.5%",
+              "fy+1":"0.5%"
             }
           ]
         }
@@ -179,7 +179,7 @@
             {
               "line_type":"data",
               "line_data":"% achieved of new revenue identified in budget process",
-              "fy-2":"",
+              "fy-2":"0%",
               "fy-1":"45%",
               "fy-0":"87%",
               "fy+1":"100%"

@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~.json",
-  "source_time":"20180409203027",
+  "source_time":"20180410202417",
   "source_year":"19",
   "appropriation_code":"Organization 101000",
   "description":[
@@ -151,8 +151,8 @@
             {
               "line_type":"data",
               "line_data":"4 year unadjusted graduation rate",
-              "fy-2":"72",
-              "fy-1":"73",
+              "fy-2":"72.4",
+              "fy-1":"72.7",
               "fy-0":"",
               "fy+1":""
             }
@@ -179,8 +179,8 @@
             {
               "line_type":"data",
               "line_data":"Annual dropout rate % - High School",
-              "fy-2":"4",
-              "fy-1":"4",
+              "fy-2":"4.5",
+              "fy-1":"3.6",
               "fy-0":"",
               "fy+1":""
             }

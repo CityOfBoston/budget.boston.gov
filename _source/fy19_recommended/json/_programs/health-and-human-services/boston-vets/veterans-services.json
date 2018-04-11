@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~.json",
-  "source_time":"20180409203150",
+  "source_time":"20180410202657",
   "source_year":"19",
   "appropriation_code":"Organization 741100",
   "description":[
@@ -179,16 +179,16 @@
             {
               "line_type":"data",
               "line_data":"# of Volunteers Participating - Operation Thank A Vet",
-              "fy-2":"",
-              "fy-1":"",
+              "fy-2":"0",
+              "fy-1":"0",
               "fy-0":"350",
               "fy+1":"360"
             },
             {
               "line_type":"data",
               "line_data":"% of Veterans reached- Operation Thank A Vet (OTAV)",
-              "fy-2":"",
-              "fy-1":"",
+              "fy-2":"0%",
+              "fy-1":"0%",
               "fy-0":"51%",
               "fy+1":"50%"
             }
@@ -251,15 +251,15 @@
             {
               "line_type":"data",
               "line_data":"# of Homeless Veterans receiving CH115",
-              "fy-2":"",
-              "fy-1":"",
+              "fy-2":"0",
+              "fy-1":"0",
               "fy-0":"185",
               "fy+1":"200"
             },
             {
               "line_type":"data",
               "line_data":"% Reimbursment for Aid to Vet Rate",
-              "fy-2":"76%",
+              "fy-2":"75.5%",
               "fy-1":"75%",
               "fy-0":"75%",
               "fy+1":"75%"
@@ -267,8 +267,8 @@
             {
               "line_type":"data",
               "line_data":"Consituent Contact- In Office",
-              "fy-2":"",
-              "fy-1":"",
+              "fy-2":"0",
+              "fy-1":"0",
               "fy-0":"16,200",
               "fy+1":"17,000"
             },

@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~purchasing-administration.json",
-  "source_time":"20180409202946",
+  "source_time":"20180410202148",
   "source_year":"19",
   "appropriation_code":"Organization 143200",
   "description":[
@@ -181,7 +181,7 @@
               "line_data":"Requisition to Purchase Order savings in percents",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"2",
+              "fy-0":"1.5",
               "fy+1":"3"
             }
           ]
@@ -209,7 +209,7 @@
               "line_data":"Average Requisition to Purchase Order timeline (days)",
               "fy-2":"",
               "fy-1":"",
-              "fy-0":"7",
+              "fy-0":"7.2",
               "fy+1":"7"
             }
           ]

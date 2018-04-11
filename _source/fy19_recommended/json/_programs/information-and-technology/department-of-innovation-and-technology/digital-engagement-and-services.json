@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~enterprise-applications.json",
-  "source_time":"20180409203002",
+  "source_time":"20180410202222",
   "source_year":"19",
   "appropriation_code":"Organization 149300",
   "description":[
@@ -151,16 +151,16 @@
             {
               "line_type":"data",
               "line_data":"Customer Satisfaction of boston.gov",
-              "fy-2":"",
-              "fy-1":"",
+              "fy-2":"0",
+              "fy-1":"0",
               "fy-0":"100",
               "fy+1":"100"
             },
             {
               "line_type":"data",
               "line_data":"Response time on constituent feedback",
-              "fy-2":"",
-              "fy-1":"",
+              "fy-2":"0",
+              "fy-1":"0",
               "fy-0":"80",
               "fy+1":"80"
             }
