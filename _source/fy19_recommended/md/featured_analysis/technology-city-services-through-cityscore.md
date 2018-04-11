@@ -5,7 +5,7 @@ title: Improving City Services through CityScore
 card:
   - title: CityScore Improves Services
     body: >
-      CityScore informs the Mayor, managers and the public about performance
+      CityScore informs the Mayor, managers, and the public about performance.
     img: /img/fa-technology-city-services-through-cityscore.jpg
     link: /featured-analysis/technology-city-services-through-cityscore/
 components:

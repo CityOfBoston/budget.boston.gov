@@ -5,7 +5,7 @@ title: Advancing Racial Equity, Diversity, and Economic Mobility
 card:
   - title: "Equity, Diversity, and Mobility"
     body: >
-      Boston is working to advance racial equity, diversity and economic mobility.
+      Boston is working to advance racial equity, diversity, and economic mobility.
     img: /img/fa-prosperity-racial-equity-diversity-economic-mobility.jpg
     link: /featured-analysis/prosperity-racial-equity-diversity-economic-mobility/
 components:

@@ -36,7 +36,7 @@ components:
       <li>Controlling fixed costs and health insurance</li>
       <li>Data-based new investments</li>
       <li>Proactive fiscal management</li>
-      <li>maximizing revenue from local revenue</li>
+      <li>Maximizing revenue from local revenue</li>
       <li>Growing in-line with the City's projected revenue growth</li>
       </ul>
       <p> These discplined financial practices have been affirmed by Boston’s AAA credit rating and have better positioned Boston to manage through changes in local, state, and federal policy and funding levels.</p>
@@ -110,7 +110,7 @@ components:
       <ul>
       <li><strong>$1 billion over ten years to bring Boston's school buildings into the 21st Century</strong>. After spending close to $100 million in the first year, this Plan sets the stage for continued investment in 21st century classrooms, new and expanded schools, new kitchens to serve fresh food, school safety upgrades and funding for future projects coming out of the BuildBPS community engagement process.</li>
       <li>In collaboration with State and Federal sources, will invest <strong>$967 million over the next five years in implementing the core initiatives outlined in Go Boston 2030</strong>: streets that are safer for all users of our roads and sidewalks, travel that is more reliable and predictable, and quality transportation choices that improve access to interconnect our neighborhoods for all modes of travel. </li>
-      <li><strong>Implement Imagine Boston 2030’s Open Space goals </strong>, including early action items, investing in Franklin Park as a keystone park for the city, completing the Emerald Necklace, and restoring Boston Common to its full vibrancy.</li>
+      <li><strong>Implement Imagine Boston 2030’s Open Space goals,</strong> including early action items, investing in Franklin Park as a keystone park for the city, completing the Emerald Necklace, and restoring Boston Common to its full vibrancy.</li>
       <li>Boston will <strong>prepare for climate change</strong> by investing City dollars and outside funding to develop more detailed climate plans for Boston neighborhoods, especially those most at risk for coastal flooding.</li>
       <li>Continuing the Percent for Art Program, funded for the first time in last years Capital Plan, demonstrates the City’s leadership and commitment to <strong>sustainable funding for the commissioning of public art.</strong></li>
       </ul>
