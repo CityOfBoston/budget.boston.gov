@@ -342,7 +342,7 @@ components:
         align: right
     - "Expenditure":
         name: Reserve for Collective Bargaining
-        link: /operating-budget/reserves-for-collective-bargaining
+        link: /operating-budget/reserve-for-collective-bargaining
       "FY16 Actual":
         value: 0.02
         align: right
