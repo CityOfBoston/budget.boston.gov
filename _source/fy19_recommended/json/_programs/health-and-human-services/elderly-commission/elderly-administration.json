@@ -1,0 +1,135 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Health & Human Services",
+  "department":"Elderly Commission",
+  "file_version":"",
+  "head_name":"Francis Thomas",
+  "head_title":"Manager",
+  "name":"Elderly Administration",
+  "parent":"Elderly Commission",
+  "section_id":92,
+  "section_md5_id":"92CC227532D17E56E07902B254DFAD10",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~programs-and-partnerships.json",
+  "source_time":"20180410202714",
+  "source_year":"19",
+  "appropriation_code":"Organization 387100",
+  "description":[
+    "The Administration Program provides fiscal supervision of all Commission programs,  and procures resources to ensure that all programs perform their mission on time and on budget.  The program provides data management, purchasing, staff training, program evaluation and analysis.  The Administration Program maintains a close relationship with senior citizen groups, and service providers through administrating and monitoring providers supported by Area Agency on Aging grants.  Administration staff is responsible for initiating systems that increase productivity and community outreach.  Administration is also responsible for financially preparing the Commission to serve the growing needs of our multicultural and linguistically diverse clients and staff and the eventual boom in the elder population."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":653254,
+      "fy-1":1007818,
+      "fy-0":838167,
+      "fy+1":834671
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":64471,
+      "fy-1":109376,
+      "fy-0":48251,
+      "fy+1":45000
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":717725,
+      "fy-1":1117194,
+      "fy-0":886418,
+      "fy+1":879671
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":653254,
+        "fy-1":1007818,
+        "fy-0":838167,
+        "fy+1":834671,
+        "diff":-3496
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":38758,
+        "fy-1":89459,
+        "fy-0":24800,
+        "fy+1":24800,
+        "diff":0
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":14570,
+        "fy-1":10905,
+        "fy-0":16751,
+        "fy+1":13250,
+        "diff":-3501
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":11143,
+        "fy-1":9012,
+        "fy-0":6700,
+        "fy+1":6950,
+        "diff":250
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":717725,
+        "fy-1":1117194,
+        "fy-0":886418,
+        "fy+1":879671,
+        "diff":-6747
+      }
+    ]
+  }
+}
+---

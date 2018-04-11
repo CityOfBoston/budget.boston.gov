@@ -1,0 +1,67 @@
+---
+{
+  "debug":"JCB",
+  "cabinet":"Non-Mayoral Departments",
+  "department":null,
+  "file_version":"",
+  "head_name":null,
+  "head_title":null,
+  "name":"Non-Mayoral Departments",
+  "parent":"root",
+  "section_id":11,
+  "section_md5_id":"6512BD43D9CAA6E02C990B0A82652DCA",
+  "section_type":"cabinet",
+  "section_type_short":"C",
+  "source_version":"Recommended",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~non-mayoral-departments.json",
+  "source_time":"20180410202821",
+  "source_year":"19",
+  "mission":[
+    "These departments are governed independently by appointed or elected officials, but are financed by the City: City Clerk (elected by the City Council); City Council (elected position); Finance Commission (appointed by Governor)."
+  ],
+  "operating_department":{
+    "table_type":"operating_department",
+    "table_title":"Operating Budget",
+    "Program Name":"Department",
+    "line_type":"title",
+    "fy-2":"FY16 Actual",
+    "fy-1":"FY17 Actual",
+    "fy-0":"FY18 Budget",
+    "fy+1":"FY19 Budget",
+    "data":[
+      {
+        "department":"City Clerk",
+        "line_type":"data",
+        "fy-2":1147042,
+        "fy-1":1161071,
+        "fy-0":1247102,
+        "fy+1":1302354
+      },
+      {
+        "department":"City Council",
+        "line_type":"data",
+        "fy-2":5206450,
+        "fy-1":5084070,
+        "fy-0":5340777,
+        "fy+1":5394186
+      },
+      {
+        "department":"Finance Commission",
+        "line_type":"data",
+        "fy-2":256944,
+        "fy-1":263702,
+        "fy-0":278275,
+        "fy+1":283150
+      },
+      {
+        "total":"Total",
+        "line_type":"total",
+        "fy-2":6610436,
+        "fy-1":6508843,
+        "fy-0":6866154,
+        "fy+1":6979690
+      }
+    ]
+  }
+}
+---

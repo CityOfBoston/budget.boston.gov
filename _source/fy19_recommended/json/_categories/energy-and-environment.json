@@ -1,0 +1,208 @@
+---
+{
+  "file_version":"",
+  "name":"Energy & Environment",
+  "section_type":"Capital Budget",
+  "section_type_short":"L",
+  "source_version":"Recommended",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_categories~energy-and-environment.json",
+  "source_time":"20180410202850",
+  "source_year":"19",
+  "description":[
+    "Initiatives to support a healthy environment, reduce energy consumption and greenhouse gas emissions, and prepare for climate change."
+  ],
+  "projects":[
+    {
+      "table_type":"capital_projects_by_department",
+      "table_title":"Capital Projects by Department",
+      "header":{
+        "debug":"JCCPBYD",
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "category":"Department",
+        "name":"Project",
+        "location":"Location",
+        "status":"Status",
+        "fy-0":"FY19 Projected",
+        "project_title":"Total"
+      },
+      "projects_data":[
+        {
+          "Boston Planning and Development Agency":[
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":300000,
+              "fy-0":50000,
+              "category":"Energy & Environment",
+              "name":"Long Wharf",
+              "location":"Financial District/Downtown",
+              "status":"To Be Scheduled",
+              "operating_impact":"No"
+            }
+          ]
+        },
+        {
+          "Environment Department":[
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1700000,
+              "fy-0":286500,
+              "category":"Energy & Environment",
+              "name":"Climate Ready Boston",
+              "location":"Citywide",
+              "status":"Study Underway",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":5000000,
+              "fy-0":250000,
+              "category":"Energy & Environment",
+              "name":"Climate Ready Boston Harbor Study",
+              "location":"N/A",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":600000,
+              "fy-0":50000,
+              "category":"Energy & Environment",
+              "name":"Climate Ready Boston Phase 2",
+              "location":"Citywide",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":325000,
+              "fy-0":177800,
+              "category":"Energy & Environment",
+              "name":"Energy Efficiency Design Services",
+              "location":"Citywide",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":12000000,
+              "fy-0":7200000,
+              "category":"Energy & Environment",
+              "name":"Renew Boston Trust",
+              "location":"Citywide",
+              "status":"Implementation Underway",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":42000000,
+              "fy-0":100000,
+              "category":"Energy & Environment",
+              "name":"Renew Boston Trust Phase 2",
+              "location":"Citywide",
+              "status":"New Project",
+              "operating_impact":"No"
+            }
+          ]
+        },
+        {
+          "Fire Department":[
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":3507939,
+              "fy-0":300000,
+              "category":"Energy & Environment",
+              "name":"HVAC / Boiler Replacement at Various Stations",
+              "location":"Various neighborhoods",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            }
+          ]
+        },
+        {
+          "Neighborhood Development":[
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":600000,
+              "fy-0":86412,
+              "category":"Energy & Environment",
+              "name":"Underground Storage Tanks",
+              "location":"Various neighborhoods",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            }
+          ]
+        },
+        {
+          "Property Management Department":[
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1950000,
+              "fy-0":1649500,
+              "category":"Energy & Environment",
+              "name":"Faneuil Hall",
+              "location":"Government Center/Faneuil Hall",
+              "status":"In Design",
+              "operating_impact":"No"
+            }
+          ]
+        },
+        {
+          "Public Health Commission":[
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1000000,
+              "fy-0":200000,
+              "category":"Energy & Environment",
+              "name":"Long Island Study",
+              "location":"Harbor Islands",
+              "status":"New Project",
+              "operating_impact":"No"
+            }
+          ]
+        },
+        {
+          "Public Works Department":[
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1137500,
+              "fy-0":150000,
+              "category":"Energy & Environment",
+              "name":"Street Light Gas Lamps",
+              "location":"Various neighborhoods",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":25529031,
+              "fy-0":0,
+              "category":"Energy & Environment",
+              "name":"Street Light LED Conversion",
+              "location":"Citywide",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "fy-0":10500212,
+  "total":95649470
+}
+---

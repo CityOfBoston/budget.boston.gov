@@ -1,0 +1,50 @@
+---
+{
+  "cabinet":"Health & Human Services",
+  "debug":"JBDCP",
+  "department":"Emergency Shelter Commission",
+  "file_version":"",
+  "head_name":"James Greene",
+  "head_title":"Executive Director",
+  "name":"Emergency Shelter Commission",
+  "parent":"Health & Human Services",
+  "section_id":38,
+  "section_md5_id":"A5771BCE93E200C36F7CD9DFD0E5DEAA",
+  "section_type":"capital_budget",
+  "section_type_short":"L",
+  "source_version":"Recommended",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_cp_depts~emergency-shelter-commission.json",
+  "source_time":"20180410202715",
+  "source_year":"19",
+  "mission":[
+    "The mission of the Emergency Shelter Commission is to coordinate a safety net of services for Boston's homeless and for persons in need of food assistance. * In FY11, Emergency Shelter Commission was consolidated into the Public Health Commission."
+  ],
+  "description_of_services":[
+    "The Commission monitors the number of shelter beds available in the City and provides homeless persons and those in need of food assistance with information and referral to appropriate services. The Commission also provides funding assistance to homeless and emergency food providers, coordinates federal funding applications, and monitors federal and state policy issues which impact homeless and hunger programs."
+  ],
+  "capital_budget_expenditures":[
+    {
+      "table_type":"capital_budget_expenditures",
+      "table_title":"Capital Budget Expenditures",
+      "table_header":{
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "fy-2":"FY16 Actual",
+        "fy-1":"FY17 Actual",
+        "fy-0":"FY18 Estimated",
+        "fy+1":"FY19 Projected"
+      },
+      "data":{
+        "line_type":"total",
+        "line_title":"Total Department",
+        "line_data_type":"total",
+        "fy-2":15844506,
+        "fy-1":9933195,
+        "fy-0":11499363,
+        "fy+1":7659294
+      }
+    }
+  ]
+}
+---

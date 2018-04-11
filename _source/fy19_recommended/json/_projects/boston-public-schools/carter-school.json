@@ -1,0 +1,119 @@
+---
+{
+  "category":"Education",
+  "category_desc":"Initiatives to strengthen education, job training, and career connections.",
+  "department":"Boston Public Schools",
+  "file_version":"",
+  "location":"South End",
+  "managing_department":"Public Facilities Department",
+  "mission":"Conduct a feasibility study and develop schematic design plans in conjunction with the MSBA that will include spaces for beneficial and critical instructional activities including aquatic, physical, creative arts, and multi-sensory therapies.",
+  "name":"Carter School",
+  "operating_impact":"No",
+  "section_id":"CPS24154",
+  "section_type":"projects",
+  "section_type_short":"R",
+  "source_version":"Recommended",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_projects~boston-public-schools~carter-school.json",
+  "source_time":"20180410202407",
+  "source_year":"19",
+  "status":"To Be Scheduled",
+  "expenditures_detail":{
+    "table_title":"Expenditures (Actual and Planned)",
+    "table_header":{
+      "line_type":"header",
+      "line_title":null,
+      "line_data_type":"string",
+      "source":"Source",
+      "past_spending":"Through 6/30/17",
+      "fy-1":"FY18 Budget",
+      "fy-0":"FY19 Budget",
+      "fy+1-4":"FY20-23 Budget",
+      "total":"Total"
+    },
+    "data":[
+      {
+        "line_type":"data",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"City Capital",
+        "past_spending":0,
+        "fy-1":0,
+        "fy-0":280000,
+        "fy+1-4":272480,
+        "total":552480
+      },
+      {
+        "line_type":"data",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"Grants/Other",
+        "past_spending":0,
+        "fy-1":0,
+        "fy-0":520000,
+        "fy+1-4":527520,
+        "total":1047520
+      },
+      {
+        "line_type":"total",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"Totals",
+        "past_spending":0,
+        "fy-1":0,
+        "fy-0":800000,
+        "fy+1-4":800000,
+        "total":1600000
+      }
+    ],
+    "authorizations_table":{
+      "table_title":"Authorizations",
+      "table_header":{
+        "line_type":"header",
+        "line_title":null,
+        "line_data_type":"string",
+        "source":"Source",
+        "existing":"Existing",
+        "fy-0":"FY19",
+        "fy-0++":"Future",
+        "other":"Non Capital Fund",
+        "total":"Total"
+      },
+      "data":[
+        {
+          "line_type":"data",
+          "line_title":null,
+          "line_data_type":"number",
+          "source":"City Capital",
+          "existing":552480,
+          "fy-0":0,
+          "fy-0++":0,
+          "other":0,
+          "total":552480
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "line_data_type":"number",
+          "source":"Grants/Other",
+          "existing":1047520,
+          "fy-0":0,
+          "fy-0++":0,
+          "other":0,
+          "total":1047520
+        },
+        {
+          "line_type":"total",
+          "line_title":"Totals",
+          "line_data_type":"number",
+          "source":"Totals",
+          "existing":1600000,
+          "fy-0":0,
+          "fy-0++":0,
+          "other":0,
+          "total":1600000
+        }
+      ]
+    }
+  }
+}
+---

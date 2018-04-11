@@ -1,0 +1,206 @@
+---
+{
+  "debug":"JCB",
+  "cabinet":"Administration & Finance",
+  "department":null,
+  "file_version":"",
+  "head_name":"Emme Handy",
+  "head_title":"Chief Financial Officer & Collector-Treasurer",
+  "name":"Administration & Finance",
+  "parent":"root",
+  "section_id":4,
+  "section_md5_id":"A87FF679A2F3E71D9181A67B7542122C",
+  "section_type":"cabinet",
+  "section_type_short":"C",
+  "source_version":"Recommended",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~administration-and-finance.json",
+  "source_time":"20180410202042",
+  "source_year":"19",
+  "mission":[
+    "The Administration and Finance Cabinet ensures that city services are delivered with high quality, with high ethical standards, are financially prudent, are responsive to the needs of the citizens of Boston, and consistent with the laws and ordinances governing municipal government."
+  ],
+  "overview":[
+    "The Administration & Finance (A&F) Cabinet contains the majority of the central departments responsible for the City&rsquo;s administrative functions. Boston has been recognized for its strong financial policies and practices and sound management of both its human and financial capital. The cabinet will see a 2.2% increase in FY19, primarily due to the growth in the health insurance appropriation.",
+    "The A&F cabinet has budgeted resources in FY19 to continue independent operational audits and to pursue revenue maximization.",
+    "In FY19, the A&F cabinet will continue a citywide review of collections to better optimize the City&rsquo;s non-tax revenues. The City will also continue to work to maximize federal health insurance reimbursements and revenue recovery efforts."
+  ],
+  "operating_department":{
+    "table_type":"operating_department",
+    "table_title":"Operating Budget",
+    "Program Name":"Department",
+    "line_type":"title",
+    "fy-2":"FY16 Actual",
+    "fy-1":"FY17 Actual",
+    "fy-0":"FY18 Budget",
+    "fy+1":"FY19 Budget",
+    "data":[
+      {
+        "department":"Administration and Finance",
+        "line_type":"data",
+        "fy-2":888235,
+        "fy-1":848813,
+        "fy-0":1085310,
+        "fy+1":1096262
+      },
+      {
+        "department":"Assessing Department",
+        "line_type":"data",
+        "fy-2":7103484,
+        "fy-1":6992339,
+        "fy-0":7386140,
+        "fy+1":7613945
+      },
+      {
+        "department":"Auditing Department",
+        "line_type":"data",
+        "fy-2":2570261,
+        "fy-1":2541078,
+        "fy-0":2789081,
+        "fy+1":2894328
+      },
+      {
+        "department":"Budget Management",
+        "line_type":"data",
+        "fy-2":2722787,
+        "fy-1":3081164,
+        "fy-0":3443162,
+        "fy+1":3502358
+      },
+      {
+        "department":"Execution of Courts",
+        "line_type":"data",
+        "fy-2":10454319,
+        "fy-1":3188450,
+        "fy-0":5000000,
+        "fy+1":5000000
+      },
+      {
+        "department":"Health Insurance",
+        "line_type":"data",
+        "fy-2":191265768,
+        "fy-1":205281017,
+        "fy-0":216180122,
+        "fy+1":220979251
+      },
+      {
+        "department":"Human Resources",
+        "line_type":"data",
+        "fy-2":3497023,
+        "fy-1":3553732,
+        "fy-0":4506869,
+        "fy+1":5019525
+      },
+      {
+        "department":"Labor Relations",
+        "line_type":"data",
+        "fy-2":1310607,
+        "fy-1":1355745,
+        "fy-0":1439006,
+        "fy+1":1446748
+      },
+      {
+        "department":"Medicare Payments",
+        "line_type":"data",
+        "fy-2":7989395,
+        "fy-1":8607598,
+        "fy-0":11000000,
+        "fy+1":11000000
+      },
+      {
+        "department":"Pensions and Annuities - City",
+        "line_type":"data",
+        "fy-2":4063355,
+        "fy-1":3607181,
+        "fy-0":4100000,
+        "fy+1":4100000
+      },
+      {
+        "department":"Pensions and Annuities - County",
+        "line_type":"data",
+        "fy-2":36894,
+        "fy-1":37674,
+        "fy-0":100000,
+        "fy+1":100000
+      },
+      {
+        "department":"Purchasing Division",
+        "line_type":"data",
+        "fy-2":1771568,
+        "fy-1":1726055,
+        "fy-0":1825966,
+        "fy+1":1851763
+      },
+      {
+        "department":"Registry Division",
+        "line_type":"data",
+        "fy-2":968056,
+        "fy-1":965870,
+        "fy-0":1049396,
+        "fy+1":1076112
+      },
+      {
+        "department":"Treasury Department",
+        "line_type":"data",
+        "fy-2":2831311,
+        "fy-1":2557383,
+        "fy-0":2469885,
+        "fy+1":2547466
+      },
+      {
+        "department":"Unemployment Compensation",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":350000,
+        "fy+1":350000
+      },
+      {
+        "department":"Workers' Compensation Fund",
+        "line_type":"data",
+        "fy-2":1328171,
+        "fy-1":1478695,
+        "fy-0":2200000,
+        "fy+1":2200000
+      },
+      {
+        "total":"Total",
+        "line_type":"total",
+        "fy-2":238801234,
+        "fy-1":245822794,
+        "fy-0":264924937,
+        "fy+1":270777758
+      }
+    ]
+  },
+  "external_funds_tables":{
+    "table_type":"external_funds",
+    "table_title":"external_funds",
+    "table_header":{
+      "title":"Department",
+      "line_type":"header",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    "data":[
+      {
+        "title":"Auditing Department",
+        "line_type":"data",
+        "fy-2":279353,
+        "fy-1":158146,
+        "fy-0":175679,
+        "fy+1":181817
+      },
+      {
+        "total":"Total Cabinet",
+        "line_type":"total",
+        "fy-2":279353,
+        "fy-1":158146,
+        "fy-0":175679,
+        "fy+1":181817
+      }
+    ]
+  }
+}
+---

@@ -1,0 +1,317 @@
+---
+{
+  "file_version":"",
+  "name":"Arts & Culture",
+  "section_type":"Capital Budget",
+  "section_type_short":"L",
+  "source_version":"Recommended",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_categories~arts-and-culture.json",
+  "source_time":"20180410202848",
+  "source_year":"19",
+  "description":[
+    "Initiatives to support a thriving, diverse arts and culture ecosystem throughout the city."
+  ],
+  "projects":[
+    {
+      "table_type":"capital_projects_by_department",
+      "table_title":"Capital Projects by Department",
+      "header":{
+        "debug":"JCCPBYD",
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "category":"Department",
+        "name":"Project",
+        "location":"Location",
+        "status":"Status",
+        "fy-0":"FY19 Projected",
+        "project_title":"Total"
+      },
+      "projects_data":[
+        {
+          "Boston Public Library":[
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":18300000,
+              "fy-0":4500000,
+              "category":"Arts & Culture",
+              "name":"Adams Street Branch Library",
+              "location":"Dorchester",
+              "status":"Study Underway",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":4830000,
+              "fy-0":350000,
+              "category":"Arts & Culture",
+              "name":"Central Library: Johnson Roof Replacement",
+              "location":"Back Bay",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":400000,
+              "fy-0":100000,
+              "category":"Arts & Culture",
+              "name":"Central Library: McKim Study",
+              "location":"Back Bay",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1950000,
+              "fy-0":0,
+              "category":"Arts & Culture",
+              "name":"Central Library: Piping Infrastructure",
+              "location":"Back Bay",
+              "status":"To Be Scheduled",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":15725000,
+              "fy-0":5000000,
+              "category":"Arts & Culture",
+              "name":"Central Library: Rare Books and Manuscripts Department",
+              "location":"Back Bay",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":100000,
+              "fy-0":0,
+              "category":"Arts & Culture",
+              "name":"Chinatown Site Study",
+              "location":"Chinatown",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":17200000,
+              "fy-0":10867374,
+              "category":"Arts & Culture",
+              "name":"Dudley Branch Library Renovation",
+              "location":"Roxbury",
+              "status":"In Construction",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":12100000,
+              "fy-0":100000,
+              "category":"Arts & Culture",
+              "name":"Egleston Square Branch Library",
+              "location":"Roxbury",
+              "status":"To Be Scheduled",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":12625000,
+              "fy-0":530000,
+              "category":"Arts & Culture",
+              "name":"Faneuil Branch Library",
+              "location":"Allston/Brighton",
+              "status":"To Be Scheduled",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":12100000,
+              "fy-0":75000,
+              "category":"Arts & Culture",
+              "name":"Fields Corner Branch Library",
+              "location":"Dorchester",
+              "status":"To Be Scheduled",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":94000,
+              "fy-0":47000,
+              "category":"Arts & Culture",
+              "name":"Lower Mills Branch Library Improvements",
+              "location":"Dorchester",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1475000,
+              "fy-0":0,
+              "category":"Arts & Culture",
+              "name":"North End Branch Library",
+              "location":"North End",
+              "status":"To Be Scheduled",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":2400000,
+              "fy-0":681700,
+              "category":"Arts & Culture",
+              "name":"Parker Hill Library",
+              "location":"Mission Hill",
+              "status":"In Construction",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":525000,
+              "fy-0":0,
+              "category":"Arts & Culture",
+              "name":"Permanent Collections Storage Study",
+              "location":"West Roxbury",
+              "status":"Study Underway",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":10200000,
+              "fy-0":3000000,
+              "category":"Arts & Culture",
+              "name":"Roslindale Branch Library Renovation",
+              "location":"Roslindale",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":99000,
+              "fy-0":49500,
+              "category":"Arts & Culture",
+              "name":"South Boston Branch Library Improvements",
+              "location":"South Boston",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":132000,
+              "fy-0":66000,
+              "category":"Arts & Culture",
+              "name":"South End Branch Library Improvements",
+              "location":"South End",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":100000,
+              "fy-0":0,
+              "category":"Arts & Culture",
+              "name":"South End Branch Library Study",
+              "location":"South End",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":17980000,
+              "fy-0":1000000,
+              "category":"Arts & Culture",
+              "name":"Upham's Corner Library",
+              "location":"Dorchester",
+              "status":"To Be Scheduled",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":100000,
+              "fy-0":50000,
+              "category":"Arts & Culture",
+              "name":"West Roxbury Branch Library Improvements",
+              "location":"West Roxbury",
+              "status":"In Design",
+              "operating_impact":"No"
+            }
+          ]
+        },
+        {
+          "Neighborhood Development":[
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":3390000,
+              "fy-0":800000,
+              "category":"Arts & Culture",
+              "name":"Strand Theatre Upgrades",
+              "location":"Dorchester",
+              "status":"In Construction",
+              "operating_impact":"No"
+            }
+          ]
+        },
+        {
+          "Office of Arts & Culture":[
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":200000,
+              "fy-0":100000,
+              "category":"Arts & Culture",
+              "name":"Jamaica Plain Branch Library Art",
+              "location":"Jamaica Plain",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":11400000,
+              "fy-0":1700000,
+              "category":"Arts & Culture",
+              "name":"Percent for the Arts",
+              "location":"Citywide",
+              "status":"Implementation Underway",
+              "operating_impact":"No"
+            }
+          ]
+        },
+        {
+          "Property Management Department":[
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1575000,
+              "fy-0":400000,
+              "category":"Arts & Culture",
+              "name":"Archives Preservation Needs",
+              "location":"West Roxbury",
+              "status":"Study Underway",
+              "operating_impact":"No"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "fy-0":29416574,
+  "total":145000000
+}
+---

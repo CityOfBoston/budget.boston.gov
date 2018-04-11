@@ -1,4 +1,7 @@
 <div class="view-places">
+  {% if include.arg[0].grid_title %}
+    <section id="grid-{{ include.arg[0].grid_title | slugify }}" class="anchor-offset"></section>
+  {% endif %}
   <div class="view-content">
     {% if include.arg[0].grid_title %}
     <br />
@@ -70,6 +73,11 @@
             {% endif %}
           {% endif %}
         {% endfor %}
+      {% endif %}
+      {% if item.link %}
+      <p>
+      <a href="{{ site.url }}{{ item.link.path }}" {% if item.link.button %}class="button"{% endif %}>{{ item.link.title }}</a>
+      </p>
       {% endif %}
     {% endfor %}
     </div>

@@ -1,0 +1,84 @@
+---
+{
+  "file_version":"",
+  "name":"Housing",
+  "section_type":"Capital Budget",
+  "section_type_short":"L",
+  "source_version":"Recommended",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_categories~housing.json",
+  "source_time":"20180410202852",
+  "source_year":"19",
+  "description":[
+    "Initiatives to encourage housing production, increase affordable housing options, and reduce displacement."
+  ],
+  "vol1_category_copy":[
+    "In 2014, Mayor Walsh released Housing a Changing City: Boston 2030, the Administration&rsquo;s comprehensive plan to accommodate Boston's rapid growth and stabilize the housing market over the next 15 years. Through the strategies outlined in the plan, more than 26,000 new housing units have already been completed or are currently in construction, and another 26,000 are under review. This represents 98% of the City&rsquo;s 53,000-unit target for 2030. The City combines General Fund dollars with Federal grants, State grants, and developer fees to leverage a wide variety of sources to invest in the creation and preservation of affordable housing citywide.",
+    "Municipal finance law does not allow the City to use city capital dollars to support private housing, but public infrastructure projects can enable housing development. Investments in this Capital Plan serve as critical component to several public and private residential projects. Mayor Walsh&rsquo;s Capital Plan invests $1 million in the reconstruction of roads and sidewalks in the Whittier Street housing development in conjunction with a $30 million Housing and Urban Development grant to revitalize the development and surrounding neighborhood. Known as Whittier Choice, the project will ultimately create a total of 387 mixed-income rental units.",
+    "The City will begin the reconstruction of various streets in the Madison Park Village of Roxbury, bound by Melnea Cass Boulevard and Tremont Street, to enhance the area ahead of new housing development along Melnea Cass in Lower Roxbury. The Madison Park infill project will be comprised of a four-story building with 16 units and a five-story building with 60 units located near the Ruggles MBTA Orange Line station.",
+    "The second floor renovation of the Woods Mullen Shelter will be completed this year. The project will increase the programming space, including housing search services and front door triage that enables shelter staff to meet with every new guest entering the shelters to conduct an in-depth assessment. This assessment leads to the development of a client-centered plan to exit the shelter system into safe, supported, and stable housing as quickly as possible. A new project proposed for the Woods Mullen Shelter in the capital plan will create a new entryway and improve elevator access to the upper floors."
+  ],
+  "projects":[
+    {
+      "table_type":"capital_projects_by_department",
+      "table_title":"Capital Projects by Department",
+      "header":{
+        "debug":"JCCPBYD",
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "category":"Department",
+        "name":"Project",
+        "location":"Location",
+        "status":"Status",
+        "fy-0":"FY19 Projected",
+        "project_title":"Total"
+      },
+      "projects_data":[
+        {
+          "Public Health Commission":[
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1500000,
+              "fy-0":253002,
+              "category":"Housing",
+              "name":"Woods Mullen Shelter",
+              "location":"South End",
+              "status":"In Construction",
+              "operating_impact":"No"
+            }
+          ]
+        },
+        {
+          "Public Works Department":[
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":3050000,
+              "fy-0":1550000,
+              "category":"Housing",
+              "name":"Madison Park Village",
+              "location":"Roxbury",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1000000,
+              "fy-0":800000,
+              "category":"Housing",
+              "name":"Whittier Street Housing Development Roadways",
+              "location":"Roxbury",
+              "status":"In Design",
+              "operating_impact":"No"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "fy-0":2603002,
+  "total":5550000
+}
+---

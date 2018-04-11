@@ -1,0 +1,494 @@
+---
+{
+  "debug":"JBD",
+  "publish_subordinates":true,
+  "file_version":"",
+  "section_id":28,
+  "section_md5_id":"33E75FF09DD601BBE69F351039152189",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Recommended",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Public Safety~fire-department.json",
+  "source_time":"20180410202338",
+  "source_year":"19",
+  "name":"Fire Department",
+  "parent":"Public Safety",
+  "cabinet":"Public Safety",
+  "department":"Fire Department",
+  "head_name":"Joseph Finn",
+  "head_title":"Commissioner",
+  "appropriation_code":"Appropriation 221",
+  "mission":[
+    "We, the Boston Fire Department, are an organization of dedicated professionals who are committed to serving the community by protecting life, property, and the environment through prevention, education, emergency medical, civil defense and fire service. We will provide fire protection and emergency service throughout the City of Boston by adequately staffing, training, and equipping firefighters at specific locations within the city."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"BFD Training",
+      "debug":"JCO",
+      "strategies":[
+        "To ensure the safety, health and wellness of the City of Boston fire fighters by providing training in all aspects of Fire Services (including education in prevention) to ensure public safety"
+      ]
+    },
+    {
+      "program":"Maintenance",
+      "debug":"JCO",
+      "strategies":[
+        "To ensure City of Boston citizens are safe and protected from all emergencies with adequate fire fighting capacity in the field"
+      ]
+    },
+    {
+      "program":"BFD Fire Prevention",
+      "debug":"JCO",
+      "strategies":[
+        "To ensure City of Boston citizens are safe and protected from all emergencies with adequate fire fighting capacity in the field"
+      ]
+    },
+    {
+      "program":"Firefighter Safety, Health and Wellness",
+      "debug":"JCO",
+      "strategies":[
+        "To protect City of Boston constituents and to ensure the safety, health and wellness of the fire fighters by preventing exposure to carcinogenic toxins and avoiding injuries"
+      ]
+    }
+  ],
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    "data":[
+      {
+        "name":"BFD Administration",
+        "line_type":"data",
+        "fy-2":16075074,
+        "fy-1":17663132,
+        "fy-0":17081542,
+        "fy+1":17720189,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Boston Fire Suppression",
+        "line_type":"data",
+        "fy-2":165813092,
+        "fy-1":167368301,
+        "fy-0":177742023,
+        "fy+1":179995361,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Fire Alarm",
+        "line_type":"data",
+        "fy-2":9060069,
+        "fy-1":9258941,
+        "fy-0":10081869,
+        "fy+1":11089909,
+        "publish_subordinates":true
+      },
+      {
+        "name":"BFD Training",
+        "line_type":"data",
+        "fy-2":4693957,
+        "fy-1":4347136,
+        "fy-0":5275909,
+        "fy+1":4572975,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Maintenance",
+        "line_type":"data",
+        "fy-2":9138032,
+        "fy-1":7695688,
+        "fy-0":9414457,
+        "fy+1":9952195,
+        "publish_subordinates":true
+      },
+      {
+        "name":"BFD Fire Prevention",
+        "line_type":"data",
+        "fy-2":11393025,
+        "fy-1":11893174,
+        "fy-0":12014672,
+        "fy+1":12210413,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Firefighter Safety, Health and Wellness",
+        "line_type":"data",
+        "fy-2":744608,
+        "fy-1":856428,
+        "fy-0":829704,
+        "fy+1":690605,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":216917857,
+        "fy-1":219082800,
+        "fy-0":232440176,
+        "fy+1":236231647
+      }
+    ]
+  },
+  "external_funds_budget":{
+    "table_type":"External Funds",
+    "table_title":"External Funds Budget",
+    "table_header":{
+      "name":"Fund Name",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    "data":[
+      {
+        "name":"Assistance to Fire Fighters",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":692000,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Engine 50 Flag Pole",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":8000,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Fire Prevention and Education Fund",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":5006,
+        "fy-0":20000,
+        "fy+1":20000,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Hazardous Materials Response",
+        "line_type":"data",
+        "fy-2":111843,
+        "fy-1":246514,
+        "fy-0":237500,
+        "fy+1":237500,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Hazmat Recovery Fund",
+        "line_type":"data",
+        "fy-2":4158,
+        "fy-1":4251,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Hazmat Team Response",
+        "line_type":"data",
+        "fy-2":1470,
+        "fy-1":18806,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Mass Decontam Unit (MDU)",
+        "line_type":"data",
+        "fy-2":2340,
+        "fy-1":33796,
+        "fy-0":40000,
+        "fy+1":40000,
+        "publish_subordinates":true
+      },
+      {
+        "name":"MTA Tunnel Operations",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":196515,
+        "fy-0":0,
+        "fy+1":285000,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Port Security Program Grant",
+        "line_type":"data",
+        "fy-2":465957,
+        "fy-1":783,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"PSAP - Emergency",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":405664,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Safer Grant",
+        "line_type":"data",
+        "fy-2":4034422,
+        "fy-1":7014550,
+        "fy-0":1628205,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Safety, Health and Wellness",
+        "line_type":"data",
+        "fy-2":4387,
+        "fy-1":2354,
+        "fy-0":20000,
+        "fy+1":62000,
+        "publish_subordinates":true
+      },
+      {
+        "name":"State 911 Training Grant",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":33890,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"State Training Grant",
+        "line_type":"data",
+        "fy-2":2007176,
+        "fy-1":2252253,
+        "fy-0":2250000,
+        "fy+1":2250000,
+        "publish_subordinates":true
+      },
+      {
+        "name":"The Last Call Foundation",
+        "line_type":"data",
+        "fy-2":165130,
+        "fy-1":70125,
+        "fy-0":150000,
+        "fy+1":755000,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Training Academy Revolving Fund",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":15750,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":6796883,
+        "fy-1":10300257,
+        "fy-0":4345705,
+        "fy+1":4349500
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":197663921,
+      "fy-1":198542375,
+      "fy-0":209608471,
+      "fy+1":211329724
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":19253936,
+      "fy-1":20540425,
+      "fy-0":22831705,
+      "fy+1":24901923
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":216917857,
+      "fy-1":219082800,
+      "fy-0":232440176,
+      "fy+1":236231647
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Generally, See Boston Fire Prevention Code; CBC St. 11 &sect;&sect; 75-87; CBC St.2 &sect; 753; M.G.L.A. c. 148.",
+    "Commissioner: Appointments, Powers and Duties, CBC St. 11 &sect;&sect; 75-78; CBC Ord. &sect;&sect; 11-4.1-11-4.4; 1960 Mass. Acts ch. 755 &sect; 1; 1962 Mass. Acts ch. 338 &sect; 1.",
+    "Mutual Aid Assistance, CBC Ord. &sect; 11-4.3.",
+    "Licenses and Permits, See Boston Fire Prevention Code; CBC St. 14 &sect;&sect; 50, 158-159; M.G.L.A. c. 148, &sect; 28.",
+    "Fire Prevention Code, 1962 Mass. Acts ch. 314."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":197663921,
+        "fy-1":198542375,
+        "fy-0":209608471,
+        "fy+1":211329724,
+        "diff":1721253
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":6593189,
+        "fy-1":7134884,
+        "fy-0":8323190,
+        "fy+1":9023158,
+        "diff":699968
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":4878452,
+        "fy-1":4852289,
+        "fy-0":4763403,
+        "fy+1":5104048,
+        "diff":340645
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":4268813,
+        "fy-1":4292066,
+        "fy-0":4249974,
+        "fy+1":4277668,
+        "diff":27694
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":3501357,
+        "fy-1":4238436,
+        "fy-0":5475138,
+        "fy+1":6477049,
+        "diff":1001911
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":12125,
+        "fy-1":22750,
+        "fy-0":20000,
+        "fy+1":20000,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":216917857,
+        "fy-1":219082800,
+        "fy-0":232440176,
+        "fy+1":236231647,
+        "diff":3791471
+      }
+    ]
+  },
+  "external_funds":[
+    {
+      "project":"Assistance to Firefighters Grant Program",
+      "project_mission":[
+        "Funding provided from the US Department of Homeland Security, Preparedness Directorate&rsquo;s Office of Grants and Training, in cooperation with the United States Fire Administration under a competitive federal grant program. Prior years&rsquo; funding included the SAFER Grant (Staffing for Adequate Fire and Emergency Response) which provided funding directly to the fire department in order to help increase the number of trained, &ldquo;front-line&rdquo; firefighters available in the City. FY19 funding will include the construction of a building at Moon Island to simulate wind driven fires as well as driver training education."
+      ]
+    },
+    {
+      "project":"Fire Prevention and Education Fund",
+      "project_mission":[
+        "This fund is supported by donations from private businesses, organizations, foundations, and individuals. It will be used to promote fire prevention and fire safety education."
+      ]
+    },
+    {
+      "project":"Hazmat Materials Response",
+      "project_mission":[
+        "A grant awarded through the Commonwealth of Massachusetts Executive Office of Public Safety for the Hazardous Materials Response Teams and for the Training Academy. This grant provides for additional training of BFD HazMat personnel and equipment."
+      ]
+    },
+    {
+      "project":"Hazmat Recovery Fund",
+      "project_mission":[
+        "Authorized by Ch.21E of Mass. General Laws, the Hazmat Recovery Fund provides the department with the authority to invoice private vehicles and companies for responses the department makes to hazmat spills and incidents. Funds are received on a per incident basis. The funds received can only be used to re-supply the hazmat team for supplies, materials, and instruments and other equipment. This revolving fund is authorized by (Chapter 44, Section 53E &frac12;)."
+      ]
+    },
+    {
+      "project":"Hazmat Team Response",
+      "project_mission":[
+        "A revolving fund authorized by (Chapter 44, Section 53E &frac12;) for personnel costs associated with the Massachusetts Oil and Hazardous Materials Release Prevention and Response Act. The Fire Department shall be authorized to expend from such fund for the purpose of paying employee salary and related costs."
+      ]
+    },
+    {
+      "project":"Port Security Program Grant",
+      "project_mission":[
+        "Funded through the U.S. Department of Homeland Security, the Port Security Program Grant will fund underwater hazardous device response training."
+      ]
+    },
+    {
+      "project":"Safety, Health and Wellness",
+      "project_mission":[
+        "This fund is supported by donations from private businesses, organizations, foundations, and individuals. It will be used to promote policies and procedures that will provide equipment, information, education, and training on firefighter health, wellness and safety."
+      ]
+    },
+    {
+      "project":"State Training Grant",
+      "project_mission":[
+        "Funded through the Commonwealth of Massachusetts Executive Office of Public Safety, for the purpose of providing equipment, training and administrative support for the BFD Training Academy on Moon Island."
+      ]
+    },
+    {
+      "project":"The Last Call Foundation",
+      "project_mission":[
+        "Funding provided by the foundation to the Boston Fire Department to develop technology to create lightweight fire-resistant hoses and to install commercial washing machines that remove toxins from a fire fighter's clothing in all fire houses."
+      ]
+    },
+    {
+      "project":"Training Academy Revolving Fund",
+      "project_mission":[
+        "A revolving fund authorized by (Chapter 44, Section 53E &frac12;) for the purposes of purchasing training equipment, certifying instructors, updating facilities and providing funds for other training needs not otherwise budgeted for. This fund shall be funded by receipts for tuition and other fees paid by outside departments for use of BFD facilities and resources."
+      ]
+    }
+  ],
+  "fy_major_initiatives":[
+    "The department will purchase three new Ladder trucks and three new Engine trucks as part of a multi-year fire apparatus replacement plan.",
+    "Construction for a new fire station replacing Engine 42 in Egleston Square will begin.",
+    "Design for a new fire station replacing Engine 17 in Dorchester will continue.",
+    "As part of a new technology collaboration with DoIT, the Fire Department will install fuel monitoring technology at 26 sites, providing enhanced fuel management capacity and greater insight into vehicle utilization.",
+    "HVAC and lighting upgrades will continue at various fire stations, to improve energy efficiency and take advantage of utility rebates."
+  ]
+}
+---

@@ -1,0 +1,135 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Health & Human Services",
+  "department":"Public Health Commission",
+  "file_version":"",
+  "head_name":"Monica Valdes Lupi",
+  "head_title":"Executive Director",
+  "name":"Public Health Property",
+  "parent":"Public Health Commission",
+  "section_id":6,
+  "section_md5_id":"1679091C5A880FAF6FB5E6087EB1B2DC",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~phc-administration.json",
+  "source_time":"20180410202750",
+  "source_year":"19",
+  "appropriation_code":"Organization 620300",
+  "description":[
+    "The Boston Public Health Commission promotes the health of the people of Boston by protecting and fostering the three core functions of public health: assessment, assurance and policy development. It carries out these functions through a wide variety of activities including health promotion and disease prevention initiatives (such as neighborhood outreach and community education); provision of critical health services for vulnerable, under-served and at-risk populations (such as health and wellness clinical and education services for school aged children, emergency shelter and transitional housing and support services for the homeless, and substance abuse treatment for those suffering from addiction); emergency preparedness and response (such as pre-hospital emergency medical care and transport , infectious disease surveillance and outbreak control, and environmental hazards prevention and response); monitoring and reporting on the health status of the city&rsquo;s residents (such as city wide and disease specific health status reports); and development of public policy approaches that support positive health outcomes (such as tobacco control, banning the use of transfats in food establishments, regulating biological laboratories, and environmental health regulations)."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":3754487,
+      "fy-1":3632516,
+      "fy-0":4068210,
+      "fy+1":3810307
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":3754487,
+      "fy-1":3632516,
+      "fy-0":4068210,
+      "fy+1":3810307
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":3754487,
+        "fy-1":3632516,
+        "fy-0":4068210,
+        "fy+1":3810307,
+        "diff":-257903
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":3754487,
+        "fy-1":3632516,
+        "fy-0":4068210,
+        "fy+1":3810307,
+        "diff":-257903
+      }
+    ]
+  }
+}
+---

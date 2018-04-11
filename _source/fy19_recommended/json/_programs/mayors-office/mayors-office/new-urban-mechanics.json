@@ -1,0 +1,135 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Mayor's Office",
+  "department":"Mayor's Office",
+  "file_version":"",
+  "head_name":"Kristopher Carter",
+  "head_title":"Manager",
+  "name":"New Urban Mechanics",
+  "parent":"Mayor's Office",
+  "section_id":142,
+  "section_md5_id":"A8BAA56554F96369AB93E4F3BB068C22",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~mayors-policy-and-planning.json",
+  "source_time":"20180410202006",
+  "source_year":"19",
+  "appropriation_code":"Organization 111400",
+  "description":[
+    "New Urban Mechanics is an approach to civic innovation focused on delivering transformative City services to Boston&rsquo;s residents.  The principles of New Urban Mechanics involves collaborating with constituents, focusing on the basics of government, and pushing for bolder ideas.  The office focuses on a broad range of areas from increasing civic participation, to improving City streets, to boosting educational outcomes."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":255203,
+      "fy-1":273833,
+      "fy-0":378736,
+      "fy+1":431609
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":25500,
+      "fy-1":24029,
+      "fy-0":45800,
+      "fy+1":42800
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":280703,
+      "fy-1":297862,
+      "fy-0":424536,
+      "fy+1":474409
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":255203,
+        "fy-1":273833,
+        "fy-0":378736,
+        "fy+1":431609,
+        "diff":52873
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":9332,
+        "fy-1":9472,
+        "fy-0":34800,
+        "fy+1":31800,
+        "diff":-3000
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":475,
+        "fy-1":482,
+        "fy-0":5000,
+        "fy+1":5000,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":5893,
+        "fy-1":3583,
+        "fy-0":6000,
+        "fy+1":6000,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":9800,
+        "fy-1":10492,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":280703,
+        "fy-1":297862,
+        "fy-0":424536,
+        "fy+1":474409,
+        "diff":49873
+      }
+    ]
+  }
+}
+---

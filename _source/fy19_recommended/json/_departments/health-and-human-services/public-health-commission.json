@@ -1,0 +1,1973 @@
+---
+{
+  "debug":"JBD",
+  "publish_subordinates":true,
+  "file_version":"",
+  "section_id":15,
+  "section_md5_id":"9BF31C7FF062936A96D3C8BD1F8F2FF3",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Recommended",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Health and Human Services~public-health-commission.json",
+  "source_time":"20180410202741",
+  "source_year":"19",
+  "name":"Public Health Commission",
+  "parent":"Health & Human Services",
+  "cabinet":"Health & Human Services",
+  "department":"Public Health Commission",
+  "head_name":"Monica Valdes Lupi",
+  "head_title":"Executive Director",
+  "appropriation_code":"Appropriation 620",
+  "mission":[
+    "The mission of the Boston Public Health Commission is to protect, preserve and promote the health and well being of Boston residents, particularly those who are most vulnerable."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Public Health Services",
+      "debug":"JCO",
+      "strategies":[
+        "Advance Healthy Equity",
+        "Improve median response times",
+        "Respond to critical public health issues",
+        "Strengthen partnerships with healthcare"
+      ]
+    }
+  ],
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    "data":[
+      {
+        "name":"Public Health Services",
+        "line_type":"data",
+        "fy-2":61576757,
+        "fy-1":62289011,
+        "fy-0":64061311,
+        "fy+1":68667692,
+        "publish_subordinates":true
+      },
+      {
+        "name":"PHC Administration",
+        "line_type":"data",
+        "fy-2":10824191,
+        "fy-1":11345673,
+        "fy-0":11383862,
+        "fy+1":12403543,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Public Health Property",
+        "line_type":"data",
+        "fy-2":3754487,
+        "fy-1":3632516,
+        "fy-0":4068210,
+        "fy+1":3810307,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":76155435,
+        "fy-1":77267200,
+        "fy-0":79513383,
+        "fy+1":84881542
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":76155435,
+      "fy-1":77267200,
+      "fy-0":79513383,
+      "fy+1":84881542
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":76155435,
+      "fy-1":77267200,
+      "fy-0":79513383,
+      "fy+1":84881542
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Enabling Act, 1995 Mass. Acts ch. 147."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":76155435,
+        "fy-1":77267200,
+        "fy-0":79513383,
+        "fy+1":84881542,
+        "diff":5368159
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":76155435,
+        "fy-1":77267200,
+        "fy-0":79513383,
+        "fy+1":84881542,
+        "diff":5368159
+      }
+    ]
+  },
+  "external_fund_project_grants":[
+    {
+      "program":"AIDS Program",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"HIV Emergency Relief Subcontracts",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"RWCA Administration",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"RWCA Quality Management",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"RWCA Support Services",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Asthma Prevention and Healthy Homes",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Asthma Initiatives",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"BHAPPY",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Electronic Asthma Referral Systems",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Partners in Health and Housing",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Biological Safety",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Bio-Safety",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Boston Healthy Start Initiatives",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"BHSI - Administration",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"CAHD Health Services",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Family Planning Services",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Model State Supported AHEC",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"School Based Health",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"School Health Programs-Income",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"CDC - Public Health Preparedness",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Public Health Preparedness (EPI)",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Communicable Diseases Control",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"CDC Suffolk County Jail",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"I-3 Immunization",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Communications",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"PHEP Public Information",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Community Initiatives Bureau",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Community Initiatives Income",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Prevention and Wellness Trust",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Community Prevention Services",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"MOAPC",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Consortium for Professional Development",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"CHEC Income",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Death Registry/Burial Permits",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Death Registry/ Burial Permits",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Early Childhood Mental Health",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Mental Health Systems of Care",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Project Launch Expansion",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Emergency Medical Services",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"911 PSAP Support and Initiatives",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Boston EMS Details",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Bragdon Street Lease",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"CMED Grant",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"EMS Community Program",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"State 911 Training Grant",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Environmental Hazards",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Asbestos Removal Permits",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"BPHC Permits",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"DPH (Statutory) Permits",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Medical Marijuana",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Safe Shops Nail Salons",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Health Promotion",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Mass in Motion",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"PICH",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Healthy Baby/Healthy Child",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Boston Healthy Start",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Collaborative Home Visits",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Healthy Baby/Child-Income",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Rate Based Welcome Family",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Welcome Family",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"HIV Dental",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Dental Ombudsman",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Dental Ombudsperson",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"RWTMA Training",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Homeless Services Bureau",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"BSAS (SAMHSA)",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"CPS-CSPECH",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"DHCD 112 Southampton",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"DHCD Permanent Housing",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"DHCD Serving Ourselves",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"DHCD Woods Mullen Shelter",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Emergency Solutions Grant",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"ESG 112 Southampton Shelter",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"External Food Contracts",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Friends Fund",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"General Funds-Homeless Service",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Home Program Client Fees",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"HOPWA",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Housing and Stabilization",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Long Term Stayers Home",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Long Term Stayers Housing",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Mental Health for Homeless",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"New Rapid Re-housing Program",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Pay for Success - Income",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Pay for Success - MBHP",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Pay For Success_3rd Party",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Priority 1 Supportive Services for Vetarans Family Program",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Project SOAR",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Rapid Rehousing",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Re-Entry Revenue",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"RWCA - Case Management",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"RWPS-Psychologial Support",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Serving Ourselves",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Shelter Plus Care - MBHP",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Wyman Reentry Center (BSAS)",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Injury Prevention",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Childhood Injury Prevention",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Lead Poisoning Prevention",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":null,
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Lead Poisoning Prevention",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Childhood Lead Poisoning Prevention",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Lead Training Income",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Mayor's Health Line",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Connecting Consumers with Care",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"MHL- Health Resource Directory",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Oral Health",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Residency Training Agreement",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Public Health Preparedness",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"HMCC - ASPR",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"HMCC - MRC Reserve",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"OPHP Income",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Public Health Preparedness",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Statewide Training",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"UASI - CBRNE",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"UASI - ESF 8",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"UASI - MedSurge Training",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"UASI All Hazards Pyschological Trauma",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"UASI Comm Resilience",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"UASI Mutual Aid",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"UASI Patient TrackingUASI SS ResilienceUASI SS Resilence",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"UASI SS ResilienceUASI SS ResilienceUASI SS Resilence",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Racial Equity and Health Improvement",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"GHC Fellows Internship",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Residential Services",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Entre Familia Residential",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Minority Women HIV/A Treatment",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Re-Entry Revenue Wyman",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"The PAATHS Project",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Transitions",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Women and Families Division",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Resources and Referral Center",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Behavioral Health Services",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"DON PAATHS Navigator",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Risk Reduction and Overdose Prevention",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Enhanced Needle Exchange",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Specialized Outpatient Counseling Services",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Drug Free Counseling-Income",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Men's Substance Abuse Income",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"MOM's Project- Income",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"South Boston Collaborative Inc",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Substance Abuse Prevention Collaboration",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Tobacco Control",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Boston Tobacco Control - DPH",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Boston Tobacco Control - Fines",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Boston Tobacco Control - Ordinance Permits",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"Tuberculosis Clinic",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"TB Clinic Fee Portion",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"TB Clinic-3rd Party Reimbursement",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "program":"VIP/Trauma Prevention",
+      "grants":[
+        {
+          "table_header":{
+            "project_grant_name":"Project Grant Name",
+            "line_type":"header",
+            "fy-0":"FY19"
+          },
+          "data":[
+            {
+              "project_grant_name":"Byrne CJI Program",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Choice Neighborhood Initiative",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Dating Violence Intervention",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Defending Childhood Initiatives",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Determination of Need",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"EC Trauma Informed Learning",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Safe and Successful Youth Initiatives",
+              "line_type":"data"
+            },
+            {
+              "project_grant_name":"Teen Dating Violence",
+              "line_type":"data"
+            },
+            {
+              "line_type":"total",
+              "FY19":0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "line_type":"total",
+      "FY19":0
+    }
+  ],
+  "external_funds":[
+    "Ryan White Services Division",
+    {
+      "project":"HIV Emergency Relief Subcontracts",
+      "project_mission":[
+        "Funding from the Health Resources and Services Administration (HRSA) Ryan White HIV/AIDS Treatment Extension Act (RWTEA) Part A to provide a range of HIV Core and Support services for people living with HIV through subcontracts with Community Health Centers and Community Based Organizations. The service area also known as the Boston Eligible Metropolitan Area (Boston EMA) is made up of seven counties in Massachusetts and three counties in Southern New Hampshire."
+      ]
+    },
+    {
+      "project":"RWCA Administration",
+      "project_mission":[
+        "Funding from the HRSA RWTEA &ldquo;Part A&rdquo; to administer and manage Part A grant and sub recipients."
+      ]
+    },
+    {
+      "project":"RW Part A Quality Management",
+      "project_mission":[
+        "Funding from the HRSA RWTEA &ldquo;Part A&rdquo; to ensure that services funded under Ryan White meet federal guidelines and improve access and quality care for individuals receiving HIV services in the EMA."
+      ]
+    },
+    {
+      "project":"RW Part A Support Services",
+      "project_mission":[
+        "Funding from the HRSA RWTEA &ldquo;Part A&rdquo; to provide support and professional planning services to the Boston EMA HIV Services Planning Council."
+      ]
+    },
+    "Asthma Prevention and Healthy Homes",
+    {
+      "project":"Partners in Health and Housing",
+      "project_mission":[
+        "Funding from the Centers of Disease Control and Prevention (CDC) Boston REACH (Racial and Ethnic Approaches to Community Health). This is a 4-year initiative focusing on improving health outcomes of Boston residents, especially Black and Hispanic residents in BHA (Boston Housing Authority) developments and BHA-administered Rental Assisted/Section 8 Housing. The Partnership in Health and Housing (PHH) is comprised of a longstanding relationship between the Boston Public Health Commission, the Boston Housing Authority, Boston University's School of Public Health and the PHH Community Committee (public housing residents and community advocates) working to: a)improve access to and consumption of healthy food and beverages; b) increase linkages to community health and social services and resources; and c) enhance the quality of and access to smoke-free housing."
+      ]
+    },
+    "Biological Safety",
+    {
+      "project":"Bio-safety",
+      "project_mission":[
+        "Funding obtained from annual issuance of permits to entities seeking to conduct biological research with high risk agents (BSL-3 and BSL-4)."
+      ]
+    },
+    "Boston Healthy Start Initiative",
+    {
+      "project":"BHSI Administration",
+      "project_mission":[
+        "Funding from the Health Resources and Services Administration (HRSA) to support community programs and community-based efforts to eliminate racial birth outcome disparities in Boston. Services are provided at 12 sites, including 7 clinical sites and 5 community-based organizations."
+      ]
+    },
+    "Burial Permits",
+    {
+      "project":"Burial Permits",
+      "project_mission":[
+        "MGL Title XVI Chapter 114 Section 45. Except as provided in sections forty-four and forty-six, no undertaker or other person shall bury or otherwise dispose of a human body in a town, or remove there from a human body which has not been buried, until he has received a permit from the board of health or its agent appointed to issue such permits. Information entered into the Commonwealth of Massachusetts State VIP system allows staff to complete the death record, issue the burial or cremation permit, and the record will then be registered by Boston City Hall Registry Division as the permanent Death Certificate. Income is generated from issuing burial permits from the Funeral Directors processing the remains."
+      ]
+    },
+    "CAHD Health Services",
+    {
+      "project":"Family Planning Services",
+      "project_mission":[
+        "Funding from the Action for Boston Community Development (ABCD) to employ a full-time health educator to provide services at eight school based health centers."
+      ]
+    },
+    {
+      "project":"Model State Supported AHEC",
+      "project_mission":[
+        "Funding from the statewide Area Health Education Center (AHEC) through UMass/Medical Center to primarily cover staff salary and offset the costs of summer instructors. The funding includes a pass-through to the Boston University AHEC for medical student&rsquo;s preceptor training."
+      ]
+    },
+    {
+      "project":"School Based Health",
+      "project_mission":[
+        "Funding from the Massachusetts Department of Public Health (MDPH) to support medical services to students served by school based health centers."
+      ]
+    },
+    {
+      "project":"School Health Programs-Income",
+      "project_mission":[
+        "Revenue from third-party payers for services provided by school based health centers."
+      ]
+    },
+    "CDC - Public Health Preparedness",
+    {
+      "project":"Public Health Preparedness (EPI)",
+      "project_mission":[
+        "Funding from the US Centers for Disease Control and Prevention (CDC), passed through the Massachusetts Department of Public Health (MDPH), to develop epidemiological and surveillance plans related to mass dispensing of oral medication; to enhance and maintain a surveillance system used to detect significant patterns in emergency room visits; and to perform surveillance including follow-up investigations for bioterrorism and other communicable disease events."
+      ]
+    },
+    "Communicable Diseases Control",
+    {
+      "project":"CDC Suffolk County Jail",
+      "project_mission":[
+        "Funding from Suffolk County Sheriff&rsquo;s Department to provide HIV program services (nursing case management) at the Suffolk County Jail and House of Correction."
+      ]
+    },
+    {
+      "project":"I-3 Immunization",
+      "project_mission":[
+        "Funding from the Massachusetts Department of Public Health (MDPH) to assist in distribution of vaccine to healthcare providers and facilities in Boston and to follow-up on selected vaccine-preventable diseases."
+      ]
+    },
+    "Communications",
+    {
+      "project":"PHEP - Public Information",
+      "project_mission":[
+        "Funding from US Centers for Disease Control and Prevention (CDC), passed through the Massachusetts Department of Public Health (MDPH), to develop culturally competent risk communication plans and materials to inform and educate residents about emergency preparedness, before, during and after a public health emergency. Public information also includes communicating the need to dispense medication to the entire population within 48 hours."
+      ]
+    },
+    "Community Initiatives Bureau",
+    {
+      "project":"Prevention and Wellness Trust",
+      "project_mission":[
+        "Funding from the Massachusetts Department of Public Health (MDPH) to develop a program that improves health outcomes in three areas: elder falls, hypertension and asthma. The program uses a combination of community-based and clinical interventions to achieve a measureable reduction in morbidity/mortality as well as cost savings to the healthcare system."
+      ]
+    },
+    "Community Prevention Services",
+    {
+      "project":"MOAPC",
+      "project_mission":[
+        "Funding from the Massachusetts Department of Public Health (MDPH) for the Massachusetts Opioid Abuse Prevention Collaborative (MOAPC). MOAPC Boston is a part of state-wide initiative administered to implement local policy, practice, systems and environmental change to prevent the abuse of opioids and to reduce fatal and non-fatal opioid overdoses."
+      ]
+    },
+    "Consortium for Professional Development",
+    {
+      "project":"CHEC Income",
+      "project_mission":[
+        "Income generated from fees for training programs offered through the Community Health Education Center."
+      ]
+    },
+    "Early Childhood Mental Health",
+    {
+      "project":"Linking Actions for Unmet Needs in Children&rsquo;s Health (Project Launch)",
+      "project_mission":[
+        "Funding from the Massachusetts Department of Public Health (MDPH) federal pass though from the Substance Abuse and Mental Health Services Administration) to provide training and technical assistance to Project LAUNCH expansion sites in Worcester, Springfield, and Chelsea. Sites are implementing a replication of the project LAUNCH model, based on the Early Childhood Mental Health Integration Toolkit, to strengthen comprehensive early childhood systems through the development of pediatric medical homes. A Learning Collaborative will determine best practices for pediatric medical homes with a focus on children at risk for or experiencing early childhood mental health issues."
+      ]
+    },
+    {
+      "project":"Mental Health Systems of Care",
+      "project_mission":[
+        "Funding from the Substance Abuse and Mental Health Services Administration (SAMHSA) to expand a focus on early childhood mental health systems of care and replicate the previously-developed model for integrating early childhood mental health in primary care, building a comprehensive system of support for young children and their families diagnosed or at imminent risk for a Serious Emotional Disturbance. Expansion sites are Community Service Agencies providing Children&rsquo;s Behavioral Health Initiative services in Boston, Worcester, and Springfield. Funding supports a large focus on Family Engagement, including parent councils and an annual Family Engagement Summit."
+      ]
+    },
+    "Emergency Medical Services",
+    {
+      "project":"911 PSAP Support and Initiatives",
+      "project_mission":[
+        "Funding from the Commonwealth of Massachusetts, overseen by the Executive Office of Public Safety. The purpose of the State 911 Department PSAP and Regional Emergency Communication Center Support and Incentive Grants is to assist public-safety answering points (PSAPs) and regional emergency centers in providing enhanced 911 service. The funding is used to cover both personnel and dispatch-related expenses. Funding is managed locally through the Boston Police Department, for all public safety agencies in the City (Police, Fire & EMS)."
+      ]
+    },
+    {
+      "project":"Boston EMS Details",
+      "project_mission":[
+        "Income generated from billing for coverage of special events/details i.e. sports events, performances, exhibitions, concerts, festivals, marches, parades, processions, road races, contests, and film events."
+      ]
+    },
+    {
+      "project":"Bragdon Street Lease",
+      "project_mission":[
+        "Funding from the Mayor&rsquo;s Office of Emergency Management to provide leased facilities for Boston EMS Special Operations, including storing specialized vehicles and equipment, and back-up ambulances. It also houses the City&rsquo;s Emergency Operations Center."
+      ]
+    },
+    {
+      "project":"CMED Grant",
+      "project_mission":[
+        "Funding from the Region IV EMS council to cover expenses associated with providing Central Medical Emergency Direction (CMED) for the 62 cities and towns in the Metro Boston region. The system allows personnel in ambulances to contact CMED via radio and request entry notification to the destination hospital."
+      ]
+    },
+    {
+      "project":"EMS Community Program",
+      "project_mission":[
+        "Income generated from billing for programs that offer car seat installation assistance and its proper use, and providing CPR training and certifications to the community. Revenue is also generated for conducting EMT courses."
+      ]
+    },
+    {
+      "project":"LifePak 15 Defibrillators",
+      "project_mission":[
+        "Funding from the Mayor&rsquo;s Office of Emergency Management to support the purchase of EKG monitor defibrillators. This will enable Boston EMS to care for patients and improve pre-hospital treatment."
+      ]
+    },
+    {
+      "project":"Regional MCI Standardization Project",
+      "project_mission":[
+        "Funding the Mayor&rsquo;s Office of Emergency Management to support the purchase of specialized EMS equipment to fulfill the Urban Area Security Initiative project. The equipment will serve as a regional asset, supporting mutual aid in the Metro Boston Homeland Security Region."
+      ]
+    },
+    {
+      "project":"State 911 Training Grant",
+      "project_mission":[
+        "Funding from the Commonwealth of Massachusetts grant, overseen by the Executive Office of Public Safety. This grant covers fees and personnel expenses associated with approved 911 training courses for certified telecommunicators. Funding is managed locally through the Boston Police Department, for all public safety agencies in the City (Police, Fire & EMS)."
+      ]
+    },
+    {
+      "project":"Technical Rescue Trailer",
+      "project_mission":[
+        "Funding from the Mayor&rsquo;s Office of Emergency Management to support the purchase of a technical rescue trailer and associated equipment. The trailer will be a mobile cache for specialized EMS equipment that can be brought into mass casualty scenarios."
+      ]
+    },
+    {
+      "project":"Traffic Safety Information System",
+      "project_mission":[
+        "Funding from the Executive Office of Public Safety and Security - Highway Safety Division. The funding is used to support the collection and analysis of traffic related incidences, in the hopes of reducing said accidents."
+      ]
+    },
+    "Environmental Hazards",
+    {
+      "project":"Asbestos Removal Permits",
+      "project_mission":[
+        "Income generated from permit fees paid for the regulation of asbestos abatement work in the city of Boston."
+      ]
+    },
+    {
+      "project":"BPHC Permits",
+      "project_mission":[
+        "Income generated from issuing permits for operation of body art facilities; licenses for body art practitioners; and permits for operation of junkyards, recycling businesses, and waste container storage lots."
+      ]
+    },
+    {
+      "project":"DPH (Statutory) Permits",
+      "project_mission":[
+        "Income generated from issuing permits for operation of tanning salons and indoor ice rinks."
+      ]
+    },
+    {
+      "project":"PICH",
+      "project_mission":[
+        "Funding from the Centers of Disease Control and Prevention (CDC) to reduce the burden of chronic disease in Boston. The project is co-led by the Boston Public Health Commission and the Boston Alliance for Community Health. Over the next two and half years, we will implement citywide voluntary policy, systems and environmental changes in the city of Boston with a focus on tobacco free housing; increasing access to healthy food and beverages; and increasing opportunities for safe and active transportation."
+      ]
+    },
+    {
+      "project":"Safe Shop Nail Salon",
+      "project_mission":[
+        "Income generated from issuing permits for operation of nail salons."
+      ]
+    },
+    "HIV Dental",
+    {
+      "project":"Ryan White Dental Program",
+      "project_mission":[
+        "Funding from the Massachusetts Department of Public Health (see description above) covering western counties of Massachusetts as well as the Cape and the Islands."
+      ]
+    },
+    {
+      "project":"Ryan White Dental Program",
+      "project_mission":[
+        "Funding from the Ryan White Act Part A to assist clients with access to dental care and reimburse dental expenses for HIV positive clients who do not have another source of reimbursement and meet the Ryan White Dental Program eligibility criteria. This funding also provides support for HIV/AIDS education to clients and providers. The service area is seven counties in Massachusetts and three counties in Southern New Hampshire."
+      ]
+    },
+    "Homeless Services Bureau",
+    {
+      "project":"CPS &ndash; CSPECH - SIF",
+      "project_mission":[
+        "Insurance providers provide reimbursement for array of services delivered by a community-based, mobile, multidisciplinary teams of paraprofessionals to members who are eligible for Community Support Program (CSP), Community Support Program for people experiencing Chronic Homelessness (CSPECH) through Massachusetts Behavioral Health Partnership (MBHP) and clients involved in the Commonwealth&rsquo;s homeless social innovation financing initiative (also known as SIF or &ldquo;Pay for Success&rdquo;)."
+      ]
+    },
+    {
+      "project":"DHCD &ndash; Southampton Shelter",
+      "project_mission":[
+        "Funding from the State Department of Housing and Community Development (DHCD) through line item 7004-0102 in the state budget that funds emergency assistance for homeless individuals to provide 467 emergency shelter and transitional housing beds for homeless men & women."
+      ]
+    },
+    {
+      "project":"DHCD - Permanent Supportive Housing (SIF)",
+      "project_mission":[
+        "Funding from the State Department of Housing Community Development (DHCD) through line item 7004-0102 in the state budget that funds emergency assistance for homeless individuals to provide 20 units of permanent housing with supportive services for homeless men and women."
+      ]
+    },
+    {
+      "project":"DHCD - Woods Mullen Shelter",
+      "project_mission":[
+        "Funding from the State Department of Housing Community Development (DHCD) through line item 7004-0102 in the state budget that funds emergency assistance for homeless individuals to provide 200 emergency shelter beds for homeless men and women at Woods Mullen Shelter."
+      ]
+    },
+    {
+      "project":"Emergency Solutions Grant",
+      "project_mission":[
+        "Funding from the US Department of Housing and Urban Development/ Emergency Solutions Grant (ESG) administered through DHCD to provide 20 overflow beds in our emergency shelters."
+      ]
+    },
+    {
+      "project":"Friends Fund",
+      "project_mission":[
+        "Donations and grants received by The Friends of Boston&rsquo;s Homeless to support homeless services programs."
+      ]
+    },
+    {
+      "project":"General Funds &ndash; Homeless",
+      "project_mission":[
+        "Donations and fees received to support homeless services."
+      ]
+    },
+    {
+      "project":"Housing Opportunities for People with-AIDS (HOPWA)",
+      "project_mission":[
+        "Funding from the US Department of Housing and Urban Development /McKinney Housing Opportunities for People with AIDS. This funding supports the Safe Harbor Program, which serves homeless clients with HIV and substance abuse problems. Funds are used to provide case management and housing placement/stabilization services."
+      ]
+    },
+    {
+      "project":"Long Term Stayers Housing",
+      "project_mission":[
+        "Funding from the US Department of Housing and Urban Development (HUD) to provide permanent supportive housing to homeless clients who have been in BPHC shelters for more than one year. Pine Street Inn subcontracts to BPHC to house and provide stabilization services to 25 chronic homeless adults."
+      ]
+    },
+    {
+      "project":"Massachusetts Housing and Shelter Alliance (MHSA) &ndash;Housing and Stabilization",
+      "project_mission":[
+        "Funding from the Massachusetts Legislature line item 4406-3010 to the Massachusetts Housing and Shelter Alliance (MHSA). MHSA sub contracts with BPHC to fund the HUES to Home Program. The goal of the program is to house the highest utilizers of the city&rsquo;s emergency departments."
+      ]
+    },
+    {
+      "project":"Mental Health for Homeless",
+      "project_mission":[
+        "Funding from the Massachusetts Department of Mental Health (MDMH) for social work services at Southampton and Woods Mullen emergency shelters."
+      ]
+    },
+    {
+      "project":"Pay for Success - Income",
+      "project_mission":[
+        "Funding from Massachusetts Housing and Shelter Alliance (MHSA) to provide BPHC a bonus of up to $2,000 per client for each year that client remains in housing (for a maximum of four years) and are involved in the Commonwealth&rsquo;s homeless social innovation financing initiative (also known as SIF or &ldquo;Pay for Success&rdquo;)."
+      ]
+    },
+    {
+      "project":"Pay for Success - MBHP",
+      "project_mission":[
+        "Rental funds for clients who participate in the Commonwealth&rsquo;s homeless social innovation financing initiative (also known as SIF or &ldquo;Pay for Success&rdquo;)."
+      ]
+    },
+    {
+      "project":"Priority 1 Supportive Services for Veterans Family Program (SSVF)",
+      "project_mission":[
+        "Funding from New England Shelter for Homeless Veterans (NESHV) to support Services for at least 675 veterans&rsquo; families during the 3 year grant period. Out of the 675 served, 270 households will receive prevention services through Category 1, and 405 households will receive rapid re-housing services."
+      ]
+    },
+    {
+      "project":"Rapid Rehousing",
+      "project_mission":[
+        "Funding from the US Department of Housing and Urban Development/ Emergency Solutions Grant (ESG) to rapidly re-house individuals residing in or entering the shelter system to permanent housing. Pine Street Inn subcontracts with the BPHC to house and provide short term stabilization services."
+      ]
+    },
+    {
+      "project":"Reentry Revenue",
+      "project_mission":[
+        "Funding from the Supplemental Nutrition Assistance Program (SNAP) for meals that we provide to our reentry clients."
+      ]
+    },
+    {
+      "project":"RWCA Medical Case Management",
+      "project_mission":[
+        "Funding from the Ryan White Care Act to provide case management and housing services to homeless clients who have HIV and substance abuse issues with a focus on assisting them into permanent housing."
+      ]
+    },
+    {
+      "project":"RWPS &ndash; Psychosocial Support NEW",
+      "project_mission":[
+        "Funding from the Ryan White Care Act to provide Peer Support Services to homeless clients who have HIV and substance abuse issues with a focus on assisting them into permanent housing."
+      ]
+    },
+    {
+      "project":"Shelter Plus Care MBHP NEW",
+      "project_mission":[
+        "Shelter Plus Care rental assistance subsidies through MBHP under the Community Services Block grant."
+      ]
+    },
+    {
+      "project":"Project SOAR",
+      "project_mission":[
+        "Funding from the US Department of Housing and Urban Development (HUD) to operate a 20-bed transitional housing program at Southampton Street. The program provides case management, substance abuse, counseling, legal advocacy and referrals to agencies that provide job training and education. The goal of the program is to assist individuals in preparing to move into permanent housing."
+      ]
+    },
+    "Lead Poisoning Prevention",
+    {
+      "project":"Childhood Lead Poisoning Prevention",
+      "project_mission":[
+        "Funding from the Massachusetts Department of Public Health (MDPH) and the federal Centers for Disease Control and Prevention to respond to elevated blood lead levels in children under six years of age. Staff members provide education, environmental and medical follow-up to ensure proper treatment, improved health status and the abatement of lead paint hazards."
+      ]
+    },
+    "Injury Prevention",
+    {
+      "project":"Childhood Injury Prevention",
+      "project_mission":[
+        "Funding from Safe Kids Worldwide to support the local Safe Kids Coalition."
+      ]
+    },
+    "Mayor's Health Line",
+    {
+      "project":"Connecting Consumers with Care",
+      "project_mission":[
+        "Funding from Blue Cross Blue Shield Foundation to help consumers enroll in and maintain access to coverage, collaborate with advocacy organizations to address system-level barriers, and educate and equip consumers to utilize the health care system more effectively and appropriately."
+      ]
+    },
+    {
+      "project":"MHL- Health Resource Directory",
+      "project_mission":[
+        "Funding from the Boston Children&rsquo;s Hospital the period from 2011 through 2017 to support an online health resources directory."
+      ]
+    },
+    "Oral Health",
+    {
+      "project":"Residency Training Agreement",
+      "project_mission":[
+        "Funding from Boston University School of Medicine to support the supervision of dental residents."
+      ]
+    },
+    "Public Health Preparedness",
+    {
+      "project":"HMCC - ASPR",
+      "project_mission":[
+        "Funding from the Assistant Secretary for Preparedness and Response passed through the Massachusetts Department of Public Health (MDPH) to support Healthcare System Preparedness, including the management and administration of the City of Boston&rsquo;s Health and Medical Coordinating Coalition and the Boston Hospital Preparedness Program."
+      ]
+    },
+    {
+      "project":"HMCC - MRC Reserve",
+      "project_mission":[
+        "Funding from the Massachusetts Department of Public Health (MDPH) to support the administration and management of the Boston Medical Reserve Corps volunteer program."
+      ]
+    },
+    {
+      "project":"OPHP Income",
+      "project_mission":[
+        "Income generated from fees for training programs offered through the DelValle Institute for Emergency Preparedness."
+      ]
+    },
+    "Lead Poisoning Prevention",
+    {
+      "project":"Lead Training Income",
+      "project_mission":[
+        "Income generated from fees collected from the Moderate Risk De-leading and/or Renovate, Repair and Paint (RRP) trainings."
+      ]
+    },
+    "Public Health Preparedness",
+    {
+      "project":"Public Health Preparedness",
+      "project_mission":[
+        "Funding from the Centers for Disease Control and Prevention (CDC) passed through the Massachusetts Department of Public Health (MDPH) to support public health activities that fall under the 15 Public Health Preparedness (PHP) capabilities outlined in the CDC document &ldquo;Public Health Preparedness Capabilities: National Standards for State and Local Planning.&rdquo;."
+      ]
+    },
+    {
+      "project":"Statewide Training",
+      "project_mission":[
+        "Funding from the Massachusetts Department of Public Health (MDPH) to serve as the Massachusetts Emergency Preparedness Education and Training Center. The Education and Training Center assesses, develops, delivers, coordinates, and evaluates competency-based emergency preparedness education and training utilizing an all-hazards approach while focusing on the CDC/ASPR Public Health and Healthcare Preparedness Capabilities."
+      ]
+    },
+    {
+      "project":"UASI &ndash; CBRNE Detection, Response, and Decontamination Training",
+      "project_mission":[
+        "Funding from the Urban Area Security Initiative (UASI) through the Mayor's Office of Homeland Security that provides resources for planning, organization, equipment, training, and exercise needs of high-threat, and high-density urban areas against acts of terrorism including chemical, biological, radiological and nuclear events (CBRNE)."
+      ]
+    },
+    {
+      "project":"UASI &ndash; Med Surge &ndash; Training",
+      "project_mission":[
+        "Funding from the Urban Area Security Initiative (UASI) through the Mayor's Office of Emergency Management provides resources to advance critical ESF 8 (Public Health and Medical Services) capabilities in the MBHSR by providing high-quality, all-hazards training and education to reduce the public health and safety consequences of disasters. This includes training on core capabilities specific to public health, healthcare, and EMS, and emergency planning and preparedness for the whole community, particularly those most vulnerable. This audience includes a population whose members may have medical, access, and other functional needs before, during, and after an incident."
+      ]
+    },
+    {
+      "project":"UASI &ndash; Patient Tracking",
+      "project_mission":[
+        "Funding from the Urban Area Security Initiative (UASI) through the Mayor's Office of Emergency Management that provides resources for planning, organization, and equipment, training, and exercise needs of the Metro Boston Emergency Tracking System, also known as the Patient Tracking System. This is a secure web-based, HIPAA compliant application, which facilitates incident management, family reunification and overall patient accountability during several types of emergency incidents, including mass casualty incidents, hospital evacuations, mass prophylaxis dispensing clinics and emergency shelter operations."
+      ]
+    },
+    {
+      "project":"UASI &ndash; Social Services Resilience",
+      "project_mission":[
+        "Funding from the Urban Area Security Initiative (UASI) through the Mayor's Office of Emergency Management that provides resources for continuity of operations planning, emergency planning education, technical assistance, and resources to key neighborhood organizations region wide, in order to better assess and address community resilience emergency planning needs for MBHSR communities within the context of emerging social resilience. The focus of this project will be to assist community based organizations (CBO&rsquo;s) that serve populations with demonstrated social vulnerability (youth, older adults, residents with disabilities, linguistic/cultural isolation, low to no income, homeless), including community health centers."
+      ]
+    },
+    {
+      "project":"UASI- Community Resilience: RSH Train the Trainer",
+      "project_mission":[
+        "Funding from the Urban Area Security Initiative (UASI) through the Mayor's Office of Emergency Management that provides support to increase community resilience among residents at an elevated risk for adverse health outcomes from emergencies by regionally expanding the development and provision of linguistically and culturally appropriate emergency preparedness education curricula for MBHSR residents with limited ability to read, speak, write or understand English. Utilizing the Get Ready, Be Safe, Stay Healthy (RSH) Train-the-Trainer (TtT) program developed through previous UASI support, this program regionally increases access to emergency preparedness education."
+      ]
+    },
+    {
+      "project":"UASI Mutual Aid",
+      "project_mission":[
+        "Funding from the Urban Area Security Initiative (UASI) through the Mayor's Office of Emergency Management to continue to support The Massachusetts Mutual Aid Plan (MassMAP). MassMAP supports coordination across various healthcare system disciplines by providing a web-based data collection tool that allows for rapid reporting of facility status, resource needs and transportation requirements. MBHSR disciplines that have been trained and currently utilize the system in their preparedness, response and recovery efforts include long term care facilities, acute care hospitals, community health centers, and public health."
+      ]
+    },
+    "Racial Equity and Health Improvement",
+    {
+      "project":"GHC Fellows Internship",
+      "project_mission":[
+        "Since 2014 BPHC has partnered with Global Health Corps. The mission of Global Health Corps is to mobilize a global community of emerging leaders to build the movement for health equity. Global Health Corps trains and supports young health leaders and helps place them in year long full time positions in organizations that positively impact health outcomes. The fellows work in pairs, one with a local background and the other an international background. The BPHC Global Health Corps fellows have focused on the areas of health equity communications, community health, and assisting with the BPHC accreditation process."
+      ]
+    },
+    "Residential Services",
+    {
+      "project":"Entre Familia - Residential Treatment Program",
+      "project_mission":[
+        "Funding from the Massachusetts Department of Public Health (MDPH) and Transitional Aid to Needy Families (TANF) to provide residential substance abuse treatment for women and children. This funding also provides for day care and treatment for children whose parents are enrolled in Entre Familia."
+      ]
+    },
+    {
+      "project":"Minority Women HIV/AIDS Treatment",
+      "project_mission":[
+        "Funding from SAMHSA with the purpose of expanding and enhancing the Boston Consortium Model, a trauma-informed, culturally-appropriate substance abuse treatment model for women of color, in order to address HIV through the development of an integrated wellness model."
+      ]
+    },
+    {
+      "project":"Transitions",
+      "project_mission":[
+        "Funding from the Massachusetts Department of Public Health (MDPH) Bureau of Substance Abuse Services for a 40-bed Transitional Support Services Program to provide intensive substance abuse counseling and short term residence for clients being discharged from detoxification programs and awaiting placement in residential recovery."
+      ]
+    },
+    {
+      "project":"Women & Families Division",
+      "project_mission":[
+        "Funding from donations for the women&rsquo;s programs and fees from training services conducted by APTRSS Bureau staff."
+      ]
+    },
+    "Resources and Referral Center",
+    {
+      "project":"DON PAATHS Navigator",
+      "project_mission":[
+        "Funding from the Steward Health Care to fund a PAATHS Public Health Advocate to provide substance abuse treatment navigation services in the Carney Hospital Emergency Department and the St. Elizabeth&rsquo;s Emergency Department."
+      ]
+    },
+    {
+      "project":"Faster PAATHS to Treatment",
+      "project_mission":[
+        "Subcontractor funding through BMC that helps serve high risk individuals seeking substance use disorder treatment by providing case management and ongoing support to patients receiving services at BMC OUCC."
+      ]
+    },
+    {
+      "project":"The PAATHS Project",
+      "project_mission":[
+        "Funding from SAMHSA with the purpose of enhancing substance use treatment and recovery outcomes for Latino and African American Men and Women 18 and older with a history of co-occurring substance abuse and mental health disorders by providing peer to peer recovery support services."
+      ]
+    },
+    "Risk Reduction and Overdose Prevention",
+    {
+      "project":"Behavioral Health Services",
+      "project_mission":[
+        "Revenue from third party billing for a comprehensive mental health clinic serving men and women residents of Boston."
+      ]
+    },
+    {
+      "project":"Enhanced Needle Exchange",
+      "project_mission":[
+        "Funding from the Massachusetts Department of Public Health (MDPH) for integrated HIV/HCV/STI testing, harm reduction activities, overdose prevention, connection to treatment, and needle exchange for injecting drug users. The goal of this initiative is to reduce the incidence of HIV and hepatitis infections among injecting drug users."
+      ]
+    },
+    "Specialized Outpatient Counseling Services",
+    {
+      "project":"Blue Cross Blue Shield",
+      "project_mission":[
+        "Funds to conduct a comprehensive needs assessment to develop a first ever city-wide strategy that can be used to structure MGH determination of need investment and increase access to underserved high risk communities and catalyze future investments in preventions."
+      ]
+    },
+    {
+      "project":"Drug Free Counseling - Income",
+      "project_mission":[
+        "Revenue from third party billing for outpatient substance abuse services provided to men and women residents of Boston."
+      ]
+    },
+    {
+      "project":"Hope and Grace",
+      "project_mission":[
+        "New Venture Fund grant to update and disseminate an evidence-based trauma informed platform of services for women with co-occurring disorders."
+      ]
+    },
+    {
+      "project":"Men&rsquo;s Substance Abuse Income",
+      "project_mission":[
+        "Revenue from third party billing for a comprehensive outpatient substance abuse treatment and case management program for male residents of Boston."
+      ]
+    },
+    {
+      "project":"MOM&rsquo;s Project - Income",
+      "project_mission":[
+        "Reimbursements from health insurance providers to provide group counseling and individual therapy for women enrolled in the Mom&rsquo;s Project and Entre Familia."
+      ]
+    },
+    {
+      "project":"South Boston Collaborative Inc",
+      "project_mission":[
+        "Revenue from third party billing for outpatient substance abuse services provided to young adults and adolescents residents of Boston."
+      ]
+    },
+    {
+      "project":"Strategic Partnership for Success",
+      "project_mission":[
+        "MDPH funding intended to prevent the onset and reduce the progression of substance misuse and its related problems among youth while strengthening prevention capacity and infrastructure at the state and community levels."
+      ]
+    },
+    {
+      "project":"Substance Abuse Prevention Collaboration",
+      "project_mission":[
+        "Funding from the Massachusetts Department of Public Health (MDPH) focusing on substance abuse prevention efforts targeting youth."
+      ]
+    },
+    {
+      "project":"Substance Abuse Prevention Collaborative (SAPC)",
+      "project_mission":[
+        "MDPH funding aimed to prevent underage drinking and other drug use across the Commonwealth."
+      ]
+    },
+    "Tobacco Control",
+    {
+      "project":"Boston Tobacco Control - DPH",
+      "project_mission":[
+        "Funding from the Massachusetts Department of Public Health (MDPH) to educate and enforce compliance of the local laws, ordinances and regulations."
+      ]
+    },
+    {
+      "project":"Boston Tobacco Control - Fines",
+      "project_mission":[
+        "Revenue generated from City tobacco ordinance fines, including the sale of tobacco to minors."
+      ]
+    },
+    {
+      "project":"Boston Tobacco Control - Ordinance Permits",
+      "project_mission":[
+        "Revenue generated from permits for tobacco retailers."
+      ]
+    },
+    "Tuberculosis Clinic",
+    {
+      "project":"TB Clinic Fee Portion",
+      "project_mission":[
+        "Funding from the Massachusetts Department of Public Health (MDPH) to cover the tuberculosis (TB) clinic operation; reimbursements for physicians; nursing care and visits; as well as x-rays and medication for the uninsured."
+      ]
+    },
+    {
+      "project":"TB Clinic-3rd Party Reimbursement",
+      "project_mission":[
+        "Revenue from third party payers (excluding MDPH) for TB clinic services."
+      ]
+    },
+    "VIP/Trauma Prevention",
+    {
+      "project":"Byrne Criminal Justice Innovation(BCJI)",
+      "project_mission":[
+        "Federal funding from the Department of Justice. This grant will target hot spots of crime where a significant proportion of crime occurs as compared to the overall jurisdiction."
+      ]
+    },
+    {
+      "project":"CHOICE Neighborhood Initiative",
+      "project_mission":[
+        "Funding from the federally funded (HUD) City of Boston&rsquo;s CHOICE Neighborhood Initiative to support Project Right&rsquo;s work around trauma and violence prevention with the Grove Hall VIP and Quincy Heights I & II."
+      ]
+    },
+    {
+      "project":"Defending Childhood Initiatives",
+      "project_mission":[
+        "Funding from the US Department of Justice (DOJ) to prevent and reduce the impact of children&rsquo;s exposure to violence in homes, communities and schools. The Commission leads a collaboration of diverse organizations and agencies that will develop a multiyear strategic plan to prevent and reduce the impact of children&rsquo;s exposures to violence in homes, schools and the community."
+      ]
+    },
+    {
+      "project":"Determination of Need",
+      "project_mission":[
+        "Funding from Boston Children&rsquo;s Hospital Determination of Need (DON) provides funds to two community health centers to employ a mental health clinician and a family partner. Together the mental health clinician and family partner support children or adolescents who have been exposed to violence and their families with case management, home visiting, advocacy and clinical care. In addition, the team collaborates with community partners to offer training and consultation to staff and parents and to offer preventative and therapeutic groups."
+      ]
+    },
+    {
+      "project":"EC Trauma Informed Learning",
+      "project_mission":[
+        "Funding from the Federal Office of Health and Human Services to develop trauma informed collaborations for young children in Boston. Development of 3 teams of a primary care site, mental health provider and 1-2 early education and care sites in 3 different neighborhoods. Each team will create a trauma informed collaborative as well as each site will develop a plan for creating a trauma informed culture program wide. We will provide training, facilitation and coaching."
+      ]
+    },
+    {
+      "project":"Safe and Successful Youth Initiative",
+      "project_mission":[
+        "Funding from state Health & Human Services budget that supports the city&rsquo;s PACT initiative. PACT actively engages with individuals who are at high risk of being victims or perpetrators of violence. Individuals are identified by BPD as in need of services and BPHC contracts with 15 community-based organizations to provide a wide variety of support to these individuals, including education/training, job placement and housing."
+      ]
+    },
+    {
+      "project":"Teen Dating Violence",
+      "project_mission":[
+        "Funding from the Department of Justice, Office of Violence Prevention through Casa Myrna. Boston consolidated grant programs to address children and youth experiencing dating violence and sexual assault. The project targets black and Latino youth ages 11-18 in Boston who are affected by teen dating violence and sexual violence."
+      ]
+    }
+  ],
+  "fy_major_initiatives":[
+    "Design will begin on a new EMS Training Academy based on a recently completed programming study.",
+    "Interior renovations to the second floor of the Woods-Mullen Homeless Shelter will complete.",
+    "Design will begin for the installation of a new elevator and improved entryway at the Woods-Mullen Homeless Shelter.",
+    "Planning is underway for bringing recovery services to Long Island. The project will include an assessment of programming needs and existing facility conditions along with estimated costs for repairs."
+  ]
+}
+---

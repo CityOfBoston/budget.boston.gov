@@ -39,6 +39,8 @@
             <td data-label="{{ column[0] }}">${{ column[1].value | thousands_separated }}</td>
           {% elsif column[1].filter == 'delimiter' and column[1].align == 'right' %}
             <td data-label="{{ column[0] }}" class="table-right">{{ column[1].value | thousands_separated }}</td>
+          {% elsif column[1].filter == 'percent' and column[1].align == 'right' %}
+            <td data-label="{{ column[0] }}" class="table-right">{{ column[1].value | append: "%" }}</td>
           {% elsif column[1].filter == 'delimiter' %}
             <td data-label="{{ column[0] }}">{{ column[1].value | thousands_separated }}</td>
           {% elsif column[1].filter == 'percent' %}

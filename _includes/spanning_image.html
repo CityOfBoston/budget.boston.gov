@@ -30,14 +30,24 @@
         <h2 class="sh-title">{{ include.arg[0].title }}</h2>
       </div>
       <div class="t--info m-b200">
-        <p class="supporting-text">
-          {{ include.arg[0].desc }}
-        </p>
+        <!-- <p class="supporting-text"> -->
+          {% for item in include.arg[0].desc %}
+            {% if item.blurb %}
+              <span>{{ item.blurb }}</span>
+            {% elsif item.link %}
+              <a href="{{ site.url }}{{ item.link.url }}">{{ item.link.title }}</a>
+            {% else %}
+              {{ item }}
+            {% endif %}
+          {% endfor %}
+        <!-- </p> -->
+        {% if include.arg[0].link %}
         <p>
           <a class="button" href="{{ site.url }}{{ include.arg[0].link[0].url }}" rel="nofollow">
             {{ include.arg[0].link[0].text }}
           </a>
         </p>
+        {% endif %}
       </div>
     </div>
   </div>

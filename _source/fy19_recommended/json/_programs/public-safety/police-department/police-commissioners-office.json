@@ -1,0 +1,237 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Public Safety",
+  "department":"Police Department",
+  "file_version":"",
+  "head_name":"William B. Evans",
+  "head_title":"Manager",
+  "name":"Police Commissioner's Office",
+  "parent":"Police Department",
+  "section_id":170,
+  "section_md5_id":"149E9677A5989FD342AE44213DF68868",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~.json",
+  "source_time":"20180410202401",
+  "source_year":"19",
+  "appropriation_code":"Organization 211100",
+  "description":[
+    "The Office of the Police Commissioner sets the priorities and direction of the Police Department.  Units located under the Commissioner are responsible for monitoring the performance of the department and its personnel, planning for its future, and providing information to the public and other law enforcement agencies.  Included in this program are the Office of Administrative Hearings, Office of the Legal Advisor, Office of Labor Relations, and the Office of Strategic Planning and Research."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":8070988,
+      "fy-1":8558828,
+      "fy-0":7039964,
+      "fy+1":7035161
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":550081,
+      "fy-1":687764,
+      "fy-0":766156,
+      "fy+1":751341
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":8621069,
+      "fy-1":9246592,
+      "fy-0":7806120,
+      "fy+1":7786502
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":8070988,
+        "fy-1":8558828,
+        "fy-0":7039964,
+        "fy+1":7035161,
+        "diff":-4803
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":448752,
+        "fy-1":552075,
+        "fy-0":661111,
+        "fy+1":649734,
+        "diff":-11377
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":58744,
+        "fy-1":74801,
+        "fy-0":53400,
+        "fy+1":53150,
+        "diff":-250
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":15960,
+        "fy-1":12826,
+        "fy-0":25760,
+        "fy+1":22572,
+        "diff":-3188
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":26625,
+        "fy-1":48062,
+        "fy-0":25885,
+        "fy+1":25885,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":8621069,
+        "fy-1":9246592,
+        "fy-0":7806120,
+        "fy+1":7786502,
+        "diff":-19618
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Connections to services"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"YouthConnect referrals",
+              "fy-2":"0",
+              "fy-1":"810",
+              "fy-0":"840",
+              "fy+1":"800"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Engage with the community"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Number of individuals following BPD Twitter feed",
+              "fy-2":"350,995",
+              "fy-1":"481,223",
+              "fy-0":"550,000",
+              "fy+1":"650,000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Prevent and reduce crime and violence"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Part 1 Crimes - Total",
+              "fy-2":"18,373",
+              "fy-1":"17,670",
+              "fy-0":"18,000",
+              "fy+1":""
+            },
+            {
+              "line_type":"data",
+              "line_data":"Shootings",
+              "fy-2":"235",
+              "fy-1":"245",
+              "fy-0":"260",
+              "fy+1":""
+            },
+            {
+              "line_type":"data",
+              "line_data":"Total arrests",
+              "fy-2":"12,642",
+              "fy-1":"11,383",
+              "fy-0":"12,000",
+              "fy+1":"11,500"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

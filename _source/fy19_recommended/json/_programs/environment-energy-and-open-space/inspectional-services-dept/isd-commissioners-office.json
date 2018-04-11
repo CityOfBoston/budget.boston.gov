@@ -1,0 +1,135 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Environment, Energy & Open Space",
+  "department":"Inspectional Services Dept",
+  "file_version":"",
+  "head_name":"William Christopher",
+  "head_title":"Commissioner",
+  "name":"ISD Commissioner's Office",
+  "parent":"Inspectional Services Dept",
+  "section_id":122,
+  "section_md5_id":"A0A080F42E6F13B3A2DF133F073095DD",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~.json",
+  "source_time":"20180410202614",
+  "source_year":"19",
+  "appropriation_code":"Organization 260100",
+  "description":[
+    "The Commissioner's Office is responsible for overseeing daily departmental operations, including the development and implementation of an Automated Permitting and Inspection System (APIS).   This system will provide for full online permitting and centralize the intake and scheduling of service requests and response to complaints.  The permitting software solution will also be the framework for a permit management system involving all city agencies participating in the building permitting.  This system will also enable ISD to share information among divisions by means of a centralized data management system.\n\nThe Commissioner's Office coordinates all policy and planning functions, as well as focusing the Department's efforts to disseminate information in an understandable and timely manner.  \n\nThe Inspectional Services Department (ISD) is comprised of six regulatory divisions, namely, Building and Structures, Housing, Health, Environmental Services, Weights & Measures and Animal Care and Control, with the aim to protect and improve the quality of life for all City of Boston residents by effectively administering and enforcing regulations mandated by City and State governments."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":579313,
+      "fy-1":474480,
+      "fy-0":820888,
+      "fy+1":822829
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":530604,
+      "fy-1":557297,
+      "fy-0":416550,
+      "fy+1":370449
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1109917,
+      "fy-1":1031777,
+      "fy-0":1237438,
+      "fy+1":1193278
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":579313,
+        "fy-1":474480,
+        "fy-0":820888,
+        "fy+1":822829,
+        "diff":1941
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":462820,
+        "fy-1":506592,
+        "fy-0":321957,
+        "fy+1":336509,
+        "diff":14552
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":6946,
+        "fy-1":3470,
+        "fy-0":3993,
+        "fy+1":2140,
+        "diff":-1853
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":49392,
+        "fy-1":45121,
+        "fy-0":90600,
+        "fy+1":31800,
+        "diff":-58800
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":11446,
+        "fy-1":2114,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":1109917,
+        "fy-1":1031777,
+        "fy-0":1237438,
+        "fy+1":1193278,
+        "diff":-44160
+      }
+    ]
+  }
+}
+---

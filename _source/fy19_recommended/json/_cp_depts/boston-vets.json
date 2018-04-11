@@ -1,0 +1,61 @@
+---
+{
+  "cabinet":"Health & Human Services",
+  "debug":"JBDCP",
+  "department":"Boston VETS",
+  "file_version":"",
+  "head_name":"Giselle Sterling",
+  "head_title":"Commissioner",
+  "name":"Boston VETS",
+  "parent":"Health & Human Services",
+  "section_id":42,
+  "section_md5_id":"A1D0C6E83F027327D8461063F4AC58A6",
+  "section_type":"capital_budget",
+  "section_type_short":"L",
+  "source_version":"Recommended",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_cp_depts~boston-vets.json",
+  "source_time":"20180410202647",
+  "source_year":"19",
+  "mission":[
+    "The mission of the Boston Office of Veterans Engagement, Transition, and Services (Boston VETS) is to provide benefits to veterans and their dependents residing in Boston and eligible under M.G.L. c. 115 and 108 CMR; pay the funeral and burial expenses for indigent veterans under prescribed regulations; assist all veterans with obtaining federal, state, or local benefits to which they may be entitled; oversee the decoration of veterans graves and hero squares on Memorial Day; and carry out commemorative activities related to Boston veterans."
+  ],
+  "description_of_services":[
+    "The Boston Office of Veterans Engagement, Transition, and Services (Boston VETS) assists Boston veterans in need of financial, medical, or other support services. The Department also coordinates with federal, state, and local agencies to help refer veterans suffering from Agent Orange exposure, Post-Traumatic Stress Disorder, or other issues to appropriate service providers. The Department provides financial assistance and pays medical expenses for eligible veterans and their dependents. In addition, the Department assists veterans with obtaining burial plots in cemeteries owned by the City of Boston and assists indigent veterans with funeral and burial expenses. The Department also oversees the decoration of veterans&rsquo; graves and hero squares on Memorial Day."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Veterans' Services",
+      "strategies":[
+        "Advocate-To support events, pannels, legislation and summits aimed at meeting the needs of local veterans.",
+        "Engage-To reach out to all 22,000 veterans that call Boston their home through meaningful community engagement.",
+        "Recognize- to recognize the services of veterans who have died in service to their country and to assist with burial costs as needed.",
+        "Serve-To serve our (600+) homeless and low income veterans through a financial assistance program aimed to increase the housing stability of veterans and their families based on household need."
+      ]
+    }
+  ],
+  "capital_budget_expenditures":[
+    {
+      "table_type":"capital_budget_expenditures",
+      "table_title":"Capital Budget Expenditures",
+      "table_header":{
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "fy-2":"FY16 Actual",
+        "fy-1":"FY17 Actual",
+        "fy-0":"FY18 Estimated",
+        "fy+1":"FY19 Projected"
+      },
+      "data":{
+        "line_type":"total",
+        "line_title":"Total Department",
+        "line_data_type":"total",
+        "fy-2":15844506,
+        "fy-1":9933195,
+        "fy-0":11499363,
+        "fy+1":7659294
+      }
+    }
+  ]
+}
+---

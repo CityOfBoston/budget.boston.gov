@@ -1,0 +1,135 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Economic Development",
+  "department":"Office of Tourism",
+  "file_version":"",
+  "head_name":"Catherine Davis",
+  "head_title":"Manager",
+  "name":"MOATSE Administration",
+  "parent":"Office of Tourism",
+  "section_id":159,
+  "section_md5_id":"140F6969D5213FD0ECE03148E62E461E",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~.json",
+  "source_time":"20180410202450",
+  "source_year":"19",
+  "appropriation_code":"Organization 416100",
+  "description":[
+    "The Administration Program provides administrative, financial, and personnel support for the department.  The Program builds partnerships to support and strengthen the City&rsquo;s cultural life."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":336847,
+      "fy-1":454373,
+      "fy-0":415967,
+      "fy+1":432715
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":66456,
+      "fy-1":60275,
+      "fy-0":48625,
+      "fy+1":45775
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":403303,
+      "fy-1":514648,
+      "fy-0":464592,
+      "fy+1":478490
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":336847,
+        "fy-1":454373,
+        "fy-0":415967,
+        "fy+1":432715,
+        "diff":16748
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":42124,
+        "fy-1":30082,
+        "fy-0":33553,
+        "fy+1":30553,
+        "diff":-3000
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":15018,
+        "fy-1":14799,
+        "fy-0":14872,
+        "fy+1":14872,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":2996,
+        "fy-1":14437,
+        "fy-0":200,
+        "fy+1":350,
+        "diff":150
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":6318,
+        "fy-1":957,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":403303,
+        "fy-1":514648,
+        "fy-0":464592,
+        "fy+1":478490,
+        "diff":13898
+      }
+    ]
+  }
+}
+---

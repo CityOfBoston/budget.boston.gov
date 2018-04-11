@@ -1,0 +1,211 @@
+---
+{
+  "debug":"JBD",
+  "publish_subordinates":true,
+  "file_version":"",
+  "section_id":23,
+  "section_md5_id":"37693CFC748049E45D87B8C7D8B9AACD",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Recommended",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Administration and Finance~assessing-department.json",
+  "source_time":"20180410202051",
+  "source_year":"19",
+  "name":"Assessing Department",
+  "parent":"Administration & Finance",
+  "cabinet":"Administration & Finance",
+  "department":"Assessing Department",
+  "head_name":"Gayle Willett",
+  "head_title":"Commissioner",
+  "appropriation_code":"Appropriation 136",
+  "mission":[
+    "The mission of the Assessing Department is to accurately assess property and provide prompt and courteous responses to requests for service from the public."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Assessing Operations",
+      "debug":"JCO",
+      "strategies":[
+        "To review abatement applications in a timely manner"
+      ]
+    },
+    {
+      "program":"Executive",
+      "debug":"JCO",
+      "strategies":[
+        "To resolve taxpayer inquiries responsively and quickly"
+      ]
+    }
+  ],
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    "data":[
+      {
+        "name":"Assessing Operations",
+        "line_type":"data",
+        "fy-2":2083229,
+        "fy-1":2095836,
+        "fy-0":2092269,
+        "fy+1":2371313,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Valuation",
+        "line_type":"data",
+        "fy-2":3628264,
+        "fy-1":3629184,
+        "fy-0":3984872,
+        "fy+1":3866698,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Executive",
+        "line_type":"data",
+        "fy-2":1391991,
+        "fy-1":1267319,
+        "fy-0":1308999,
+        "fy+1":1375934,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":7103484,
+        "fy-1":6992339,
+        "fy-0":7386140,
+        "fy+1":7613945
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":6220572,
+      "fy-1":6299433,
+      "fy-0":6760160,
+      "fy+1":7000965
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":882912,
+      "fy-1":692906,
+      "fy-0":625980,
+      "fy+1":612980
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":7103484,
+      "fy-1":6992339,
+      "fy-0":7386140,
+      "fy+1":7613945
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Organizations, CBC St. 6 &sect;&sect; 100-107; CBC Ord. &sect;&sect; 6-2.1-6-2.5.",
+    "Taxation, M.G.L.A. cc. 59, 60A-B, 61A-B, 121A.",
+    "Abatement of Back Taxes, M.G.L.A. c. 58, &sect; 8.",
+    "Classification, M.G.L.A. c.59, &sect; 2A; M.G.L.A. c. 40, &sect; 56.",
+    "Annual Assessment, M.G.L.A. c. 59 &sect; 21C.",
+    "Proposition 2 1/2, M.G.L.A. c. 59 &sect; 21C.",
+    "Cherry Sheets - State Aid, M.G.L.A. c. 58, &sect;&sect; 18B, 18C, 18F, 20A, 25, 25A; M.G.L.A. c. 29, &sect;&sect; 2O, 71."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":6220572,
+        "fy-1":6299433,
+        "fy-0":6760160,
+        "fy+1":7000965,
+        "diff":240805
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":638700,
+        "fy-1":527810,
+        "fy-0":446360,
+        "fy+1":443860,
+        "diff":-2500
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":124967,
+        "fy-1":55370,
+        "fy-0":59220,
+        "fy+1":60220,
+        "diff":1000
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":119245,
+        "fy-1":85667,
+        "fy-0":120400,
+        "fy+1":108900,
+        "diff":-11500
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":24059,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":7103484,
+        "fy-1":6992339,
+        "fy-0":7386140,
+        "fy+1":7613945,
+        "diff":227805
+      }
+    ]
+  }
+}
+---

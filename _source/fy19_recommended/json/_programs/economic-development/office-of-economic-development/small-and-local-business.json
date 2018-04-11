@@ -1,0 +1,273 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Economic Development",
+  "department":"Office of Economic Development",
+  "file_version":"",
+  "head_name":"Karilyn Crockett",
+  "head_title":"Manager",
+  "name":"Small & Local Business",
+  "parent":"Office of Economic Development",
+  "section_id":156,
+  "section_md5_id":"1C9AC0159C94D8D0CBEDC973445AF2DA",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~boston-residents-jobs-policy.json",
+  "source_time":"20180410202441",
+  "source_year":"19",
+  "appropriation_code":"Organization 182300",
+  "description":[
+    "The Small and Local Business Program  encourages, assists, and provides opportunities for minority and women-owned businesses and small and Boston-based businesses to participate in the City&rsquo;s contracting arena as well as in the broader Boston area economy.  The program assists City departments to increase both the number of City contracts and the dollars awarded to those businesses on goods and services contracts and construction contracts."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":466136,
+      "fy-1":611579,
+      "fy-0":592108,
+      "fy+1":686864
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":6928,
+      "fy-1":465061,
+      "fy-0":445108,
+      "fy+1":499198
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":473064,
+      "fy-1":1076640,
+      "fy-0":1037216,
+      "fy+1":1186062
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":466136,
+        "fy-1":611579,
+        "fy-0":592108,
+        "fy+1":686864,
+        "diff":94756
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":2133,
+        "fy-1":426908,
+        "fy-0":431423,
+        "fy+1":482923,
+        "diff":51500
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":494,
+        "fy-1":7028,
+        "fy-0":10185,
+        "fy+1":12435,
+        "diff":2250
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":3925,
+        "fy-1":31125,
+        "fy-0":3500,
+        "fy+1":3840,
+        "diff":340
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":376,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":473064,
+        "fy-1":1076640,
+        "fy-0":1037216,
+        "fy+1":1186062,
+        "diff":148846
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Create an ecosystem that is Open for Business by Attracting, Retaining and helping Companies to Grow"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of businesses assisted",
+              "fy-2":"2,887",
+              "fy-1":"4,124",
+              "fy-0":"4,900",
+              "fy+1":"4,455"
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of new businesses open as a result of Small Business Assistance",
+              "fy-2":"173",
+              "fy-1":"122",
+              "fy-0":"175",
+              "fy+1":"140"
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of projects completed",
+              "fy-2":"142",
+              "fy-1":"157",
+              "fy-0":"84",
+              "fy+1":"85"
+            },
+            {
+              "line_type":"data",
+              "line_data":"% Main Streets storefronts occupied",
+              "fy-2":"96%",
+              "fy-1":"94%",
+              "fy-0":"95%",
+              "fy+1":"95%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Funds leveraged - private dollars invested",
+              "fy-2":"718,410.4",
+              "fy-1":"4,411,834.8",
+              "fy-0":"670,000",
+              "fy+1":"700,000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Develop Pathways to Overcome Income and Wealth Disparity"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of jobs created through Small Business Programs",
+              "fy-2":"1,678",
+              "fy-1":"798",
+              "fy-0":"750",
+              "fy+1":"700"
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of MBE firms certified",
+              "fy-2":"5",
+              "fy-1":"10",
+              "fy-0":"8",
+              "fy+1":"10"
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of MWBE companies with City of Boston Contracts",
+              "fy-2":"52",
+              "fy-1":"52",
+              "fy-0":"52",
+              "fy+1":"60"
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of MWBE firms certified",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":"7"
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of VBE firms recognized",
+              "fy-2":"4",
+              "fy-1":"2",
+              "fy-0":"1",
+              "fy+1":"2"
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of WBE firms certified",
+              "fy-2":"8",
+              "fy-1":"15",
+              "fy-0":"7",
+              "fy+1":"8"
+            },
+            {
+              "line_type":"data",
+              "line_data":"City of Boston money spent with MWBE contracts",
+              "fy-2":"7,530,936",
+              "fy-1":"7,500,000",
+              "fy-0":"7,500,000",
+              "fy+1":"7,500,000"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

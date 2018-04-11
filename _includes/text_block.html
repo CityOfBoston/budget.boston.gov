@@ -17,7 +17,7 @@
     {% if item.link %}
       <a href="{{ site.url }}{{ item.link.path }}" {% if item.link.button %}class="button"{% endif %}>{{ item.link.title }}</a>
     {% elsif item.blurb %}
-      <p>{{ item.blurb }}</p>
+      {{ item.blurb }}
     {% elsif item.img %}
       <img src="{{ site.url }}{{ item.img }}" />
     {% elsif item.bullets %}
@@ -42,7 +42,8 @@
 </div>
 {% if include.arg[0].right_image %}
 <div class="desktop-33">
-  <img src="{{ site.url }}{{ include.arg[0].right_image }}" />
+  <p></p>
+  <p><img src="{{ site.url }}{{ include.arg[0].right_image }}" /></p>
 </div>
 {% endif %}
 </div>

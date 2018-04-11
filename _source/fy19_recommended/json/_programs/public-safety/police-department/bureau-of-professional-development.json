@@ -1,0 +1,135 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Public Safety",
+  "department":"Police Department",
+  "file_version":"",
+  "head_name":"Lisa R. Holmes",
+  "head_title":"Manager",
+  "name":"Bureau of Professional Development",
+  "parent":"Police Department",
+  "section_id":173,
+  "section_md5_id":"F7E6C85504CE6E82442C770F7C8606F0",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~bat-admin-and-technology.json",
+  "source_time":"20180410202402",
+  "source_year":"19",
+  "appropriation_code":"Organization 211400",
+  "description":[
+    "The Bureau of Professional Development is responsible for providing professional development courses for departmental employees. The Bureau of Professional Development is comprised of 2 units, the Academy and Range. The program delivers training courses for all levels of the department ranging from entry-level training to Executive Development training. The training offered at each level will support the overall priorities of the Boston Police Department."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":7632766,
+      "fy-1":8090993,
+      "fy-0":7123711,
+      "fy+1":9914814
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":423325,
+      "fy-1":559349,
+      "fy-0":410320,
+      "fy+1":521670
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":8056091,
+      "fy-1":8650342,
+      "fy-0":7534031,
+      "fy+1":10436484
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":7632766,
+        "fy-1":8090993,
+        "fy-0":7123711,
+        "fy+1":9914814,
+        "diff":2791103
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":63949,
+        "fy-1":98706,
+        "fy-0":134355,
+        "fy+1":198956,
+        "diff":64601
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":297743,
+        "fy-1":377115,
+        "fy-0":236915,
+        "fy+1":283664,
+        "diff":46749
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":43530,
+        "fy-1":77354,
+        "fy-0":9950,
+        "fy+1":9950,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":18103,
+        "fy-1":6174,
+        "fy-0":29100,
+        "fy+1":29100,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":8056091,
+        "fy-1":8650342,
+        "fy-0":7534031,
+        "fy+1":10436484,
+        "diff":2902453
+      }
+    ]
+  }
+}
+---

@@ -1,0 +1,135 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Administration & Finance",
+  "department":"Assessing Department",
+  "file_version":"",
+  "head_name":"Vacant",
+  "head_title":"Manager",
+  "name":"Valuation",
+  "parent":"Assessing Department",
+  "section_id":46,
+  "section_md5_id":"D9D4F495E875A2E075A1A4A6E1B9770F",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~assessing-operations.json",
+  "source_time":"20180410202059",
+  "source_year":"19",
+  "appropriation_code":"Organization 136200",
+  "description":[
+    "The Valuation program establishes and records the full and fair cash value of all real and personal property in the City of Boston as of January 1st of each year.  Program staff also conducts research to develop sales models and valuation standards to produce market-based assessments."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":3369935,
+      "fy-1":3320848,
+      "fy-0":3716812,
+      "fy+1":3610888
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":258329,
+      "fy-1":308336,
+      "fy-0":268060,
+      "fy+1":255810
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":3628264,
+      "fy-1":3629184,
+      "fy-0":3984872,
+      "fy+1":3866698
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":3369935,
+        "fy-1":3320848,
+        "fy-0":3716812,
+        "fy+1":3610888,
+        "diff":-105924
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":147791,
+        "fy-1":211545,
+        "fy-0":148860,
+        "fy+1":147860,
+        "diff":-1000
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":4750,
+        "fy-0":8500,
+        "fy+1":8750,
+        "diff":250
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":110538,
+        "fy-1":67982,
+        "fy-0":110700,
+        "fy+1":99200,
+        "diff":-11500
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":24059,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":3628264,
+        "fy-1":3629184,
+        "fy-0":3984872,
+        "fy+1":3866698,
+        "diff":-118174
+      }
+    ]
+  }
+}
+---

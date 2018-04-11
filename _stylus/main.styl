@@ -77,3 +77,25 @@ a.tab-li-a {
   .text-left { text-align: left; }
   .text-center {text-align: center; }
 }
+
+/*********************/
+/*** Anchor Offset ***/
+/*********************/
+.anchor-offset:target:before {
+  content:"";
+  display:block;
+  height:60px; /* fixed header height*/
+  margin:-60px 0 0; /* negative fixed header height */
+}
+
+/********************/
+/*** Bullet Style ***/
+/********************/
+#bos_content ul li {
+  list-style: none;
+  padding-left: 1.25em;
+  background: url(https://patterns.boston.gov/images/global/icons/ul-bullet.svg) no-repeat left 14px transparent;
+  background-size: 10px;
+  margin: 0 0 29.25px;
+  margin: 0 0 1.625rem;
+}
