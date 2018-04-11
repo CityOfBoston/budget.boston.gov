@@ -15,7 +15,7 @@ components:
       <p>Preparing the City's budget takes more than six months from start to finish. Learn more about the process in two minutes.</p>
       <p><a class="button" style="font-style: normal;" href="https://www.boston.gov/public-notices?title=FY19+Budget&field_contact_target_id%5B%5D=441">Attend a budget hearing</a></p>
     description: >
-      <iframe width="560" height="315" src="https://youtu.be/bMH0of5xe7s" frameborder="0" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/bMH0of5xe7s?ecver=1" frameborder="0" allowfullscreen></iframe>
     sidebar_menu: true
 - text_block:
   - body: >
