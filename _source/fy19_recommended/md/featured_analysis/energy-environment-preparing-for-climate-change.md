@@ -5,7 +5,7 @@ title: Preparing for Climate Change
 card:
   - title: Preparing for Climate Change
     body: >
-      Boston is reducing energy consumption and preparing for climate change
+      Boston is reducing energy consumption and preparing for climate change.
     img: /img/fa-energy-environment-preparing-for-climate-change.jpg
     link: /featured-analysis/energy-environment-preparing-for-climate-change
 components:
