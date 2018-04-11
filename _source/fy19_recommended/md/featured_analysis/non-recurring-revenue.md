@@ -26,6 +26,7 @@ components:
       is usually restricted to one-time expenditures.
     sidebar_menu: true    
 - text_block:
+  - body: >
       <h5>Budgetary Fund Balance</h5>
       <p>Budgetary Fund Balance can be appropriated for use during the fiscal 
       year after certification by the DOR. Budgetary Fund Balance is more commonly 
