@@ -3,7 +3,7 @@ layout: bos_content
 permalink: /featured-analysis/health-benefits/
 title: Health Benefits
 card:
-  - title: Health benefits
+  - title: Health Benefits
     body: >
       Health care costs are contained through savings initiatives but continue to grow. Learn more.
     img: /img/fa-health-benefits.jpg
