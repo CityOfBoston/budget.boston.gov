@@ -81,10 +81,7 @@ components:
       <li>A user-focused open data portal that makes it easier than ever for the public or internal staff to explore City data and conduct analyses.</li>
       </ul>
       <h5>Looking toward next year</h5>
-      <p>Our work next year will continue to build upon the successes we’ve recognized this year 
-      in the areas of customer service, transportation and mobility, recruitment, finance analytics, and public safety. You can learn more 
-      about our work and check out our progress on the</p>
-      <p><a href="https://www.boston.gov/departments/analytics-team">Analytics Team webpage</a></p>
+      <p>Our work next year will continue to build upon the successes we’ve recognized this year in the areas of customer service, transportation and mobility, recruitment, finance analytics, and public safety. You can learn more about our work and check out our progress on the <a href="https://www.boston.gov/departments/analytics-team">Analytics Team webpage</a>.</p>
 - text_block:
   - title: Cityscore
     body: >
