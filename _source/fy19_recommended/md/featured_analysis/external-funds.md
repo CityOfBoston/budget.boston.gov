@@ -3,7 +3,7 @@ layout: bos_content
 permalink: /featured-analysis/external-funds/
 title: External Funds
 card: 
-  - title: External funds
+  - title: External Funds
     body: >
       Federal, State, and private funding supplement the City's operating budget.
     img: /img/fa-external-funds.jpg
