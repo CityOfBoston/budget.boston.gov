@@ -42,7 +42,7 @@ components:
       <li>$400,000 for the Green Links program, a new dedicated source of funding for filling missing bike and pedestrian connections to parks and paths.</li>
       <li>An additional $300,000 for the strategic bike network program, raising the annual investment to $1.2 million for building out high quality bike infrastructure in Boston.</li>
       <li>Two new planners and two new engineers to focus on designing and implementing key Vision Zero programs.</li>
-      <li>Four new maintenance & operations personnel to ensure that infrastructure added to improve street safety are kept in a state of good repair.</li>
+      <li>Four new maintenance and operations personnel to ensure that infrastructure added to improve street safety are kept in a state of good repair.</li>
       </ul>
       <h5>Strengthening Bus Transit</h5>
       <p>Through the recommended budget, the City will launch its first "Transit Team", designated to work with the MBTA to improve public transit, with a particular focus on bus service, which services 350,000 trips each day. The transit team is expected to include:</p>
