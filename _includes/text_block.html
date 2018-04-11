@@ -19,16 +19,31 @@
     {% elsif item.blurb %}
       {{ item.blurb }}
     {% elsif item.img %}
-    <img src="{{ site.url }}{{ item.img }}" />
+      <img src="{{ site.url }}{{ item.img }}" />
+    {% elsif item.bullets %}
+      <ul>
+        {% for bullet in item.bullets %}
+          <li>{{ bullet }}</li>
+        {% endfor %}
+      </ul>
+    {% elsif item.numbers %}
+      <ol>
+        {% for number in item.numbers %}
+          <li>{{ number }}</li>
+        {% endfor %}
+      </ol>
     {% else %}
-      {{ item }}
+      {% for paragraph in item %}
+        <p>{{ paragraph }}</p>
+      {% endfor %}
     {% endif %}
   {% endfor %}
 </p>
 </div>
 {% if include.arg[0].right_image %}
 <div class="desktop-33">
-  <img src="{{ site.url }}{{ include.arg[0].right_image }}" />
+  <p></p>
+  <p><img src="{{ site.url }}{{ include.arg[0].right_image }}" /></p>
 </div>
 {% endif %}
 </div>

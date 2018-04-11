@@ -1,0 +1,158 @@
+---
+{
+  "debug":"JCB",
+  "cabinet":"Economic Development",
+  "department":null,
+  "file_version":"",
+  "head_name":"John Barros",
+  "head_title":"Chief of Economic Development",
+  "name":"Economic Development",
+  "parent":"root",
+  "section_id":8,
+  "section_md5_id":"C9F0F895FB98AB9159F51FD0297E236D",
+  "section_type":"cabinet",
+  "section_type_short":"C",
+  "source_version":"Recommended",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~economic-development.json",
+  "source_time":"20180410202418",
+  "source_year":"19",
+  "mission":[
+    "The mission of the Economic Development Cabinet is to lead a broad effort to streamline and support areas of focus that contribute to Boston&rsquo;s economy including tourism, jobs and employment, business development, and real estate development. The cabinet will concern itself with increasing transparency and promoting accessibility for all Bostonians, especially women- and minority-owned businesses and local businesses, to share in and benefit from the economic boom in Boston."
+  ],
+  "overview":[
+    "The Economic Development Cabinet includes the Office of Economic Development, Consumer Affairs & Licensing, and the Office of Tourism. Overall, the Cabinet will see a 9% increase in FY19 compared to its FY18 appropriation, largely based on critical investments to support a growing, diverse and inclusive workforce made in the Office of Economic Development",
+    "The Office of Economic Development&rsquo;s (OED) FY19 budget will increase 14.7% over its FY18 appropriation. The growth in FY19 is primarily driven by investments in OED including additional funds to advance the disparity study that began in FY18, revisit the City&rsquo;s Economic Inclusion and Equity Agenda, and review the Main Streets Program. OED will also continue its ongoing efforts to maintain a diverse and inclusive workforce in the City and cultivate the many businesses that contribute to Boston&rsquo;s robust economic climate and culture.",
+    "Consumer Affairs and Licensing will increase by 4%, due to growth in personnel costs, along with an investment in interns that will help increase consumer engagement, to help mitigate the effects of potential scams on high-risk populations, such as the elderly and students."
+  ],
+  "operating_department":{
+    "table_type":"operating_department",
+    "table_title":"Operating Budget",
+    "Program Name":"Department",
+    "line_type":"title",
+    "fy-2":"FY16 Actual",
+    "fy-1":"FY17 Actual",
+    "fy-0":"FY18 Budget",
+    "fy+1":"FY19 Budget",
+    "data":[
+      {
+        "department":"Consumer Affairs and Licensing",
+        "line_type":"data",
+        "fy-2":379272,
+        "fy-1":1059353,
+        "fy-0":1127991,
+        "fy+1":1173505
+      },
+      {
+        "department":"Licensing Board",
+        "line_type":"data",
+        "fy-2":637735,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0
+      },
+      {
+        "department":"Office of Economic Development",
+        "line_type":"data",
+        "fy-2":1559781,
+        "fy-1":2518724,
+        "fy-0":2558395,
+        "fy+1":2935625
+      },
+      {
+        "department":"Office of Tourism",
+        "line_type":"data",
+        "fy-2":1092949,
+        "fy-1":1390008,
+        "fy-0":1386162,
+        "fy+1":1421848
+      },
+      {
+        "total":"Total",
+        "line_type":"total",
+        "fy-2":3669737,
+        "fy-1":4968085,
+        "fy-0":5072548,
+        "fy+1":5530978
+      }
+    ],
+    "capital_budget_expenditures":[
+      {
+        "table_type":"capital_budget_expenditures",
+        "table_title":"Capital Budget Expenditures",
+        "table_header":{
+          "title":"Capital Budget Expenditures",
+          "line_type":"header",
+          "fy-2":"FY16 Actual",
+          "fy-1":"FY17 Actual",
+          "fy-0":"FY18 Estimated",
+          "fy+1":"FY19 Projected"
+        },
+        "data":[
+          {
+            "title":"Boston Planning and Development Agency",
+            "line_type":"data",
+            "fy-2":1569354,
+            "fy-1":4727854,
+            "fy-0":1500000,
+            "fy+1":1100000
+          },
+          {
+            "title":"Total",
+            "line_type":"total",
+            "fy-2":1569354,
+            "fy-1":4727854,
+            "fy-0":1500000,
+            "fy+1":1100000
+          }
+        ]
+      }
+    ]
+  },
+  "external_funds_tables":{
+    "table_type":"external_funds",
+    "table_title":"external_funds",
+    "table_header":{
+      "title":"Department",
+      "line_type":"header",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    "data":[
+      {
+        "title":"Consumer Affairs & Licensing",
+        "line_type":"data",
+        "fy-2":51916,
+        "fy-1":59725,
+        "fy-0":52000,
+        "fy+1":54409
+      },
+      {
+        "title":"Office of Economic Development",
+        "line_type":"data",
+        "fy-2":3031,
+        "fy-1":2624290,
+        "fy-0":4434473,
+        "fy+1":4669208
+      },
+      {
+        "title":"Office of Tourism",
+        "line_type":"data",
+        "fy-2":109440,
+        "fy-1":121699,
+        "fy-0":150000,
+        "fy+1":150000
+      },
+      {
+        "total":"Total Cabinet",
+        "line_type":"total",
+        "fy-2":164387,
+        "fy-1":2805714,
+        "fy-0":4636473,
+        "fy+1":4873617
+      }
+    ]
+  }
+}
+---

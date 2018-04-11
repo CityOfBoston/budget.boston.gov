@@ -1,0 +1,108 @@
+---
+{
+  "file_version":"",
+  "name":"Economy",
+  "section_type":"Capital Budget",
+  "section_type_short":"L",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_categories~economy.json",
+  "source_time":"20180321121305",
+  "source_year":"18",
+  "description":[
+    "Initiatives to improve economic mobility and strengthen Boston&rsquo;s core and emerging industries and small businesses."
+  ],
+  "vol1_category_copy":[
+    "As a $2 billion investment in the City&rsquo;s assets, the Capital Plan supports economic growth in Boston by creating construction jobs and investing in infrastructure that unlocks economic activity. The Capital Plan also supports targeted investments to strengthen Boston&rsquo;s core and small businesses, as called for in Imagine Boston 2030. For example, roadway improvements in the Dudley Square Main Street district, with geometric changes, new traffic signal equipment and timing, bike lanes, and streetscape improvements, will improve access and safety. This project also begins implementation of the Go Boston 2030 goal to make public realm improvements in every Main Streets district in Boston by 2030. ",
+    "The City will also collaborate with developers to improve roads and sidewalks along Harrison Avenue between East Berkeley Street and Herald Street. These infrastructure improvements are critical to economic development activity along the corridor with the recent development of InkBlock, which includes 471 housing units."
+  ],
+  "projects":[
+    {
+      "table_type":"capital_projects_by_department",
+      "table_title":"Capital Projects by Department",
+      "header":{
+        "debug":"JCCPBYD",
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "category":"Department",
+        "name":"Project",
+        "location":"Location",
+        "status":"Status",
+        "fy-0":"FY18 Projected",
+        "project_title":"Total"
+      },
+      "projects_data":[
+        {
+          "Boston Planning and Development Agency":[
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":250000,
+              "fy-0":250000,
+              "category":"Economy",
+              "name":"RFMP Dry-dock 4",
+              "location":"South Boston",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":400000,
+              "fy-0":400000,
+              "category":"Economy",
+              "name":"RFMP Pier 6",
+              "location":"South Boston",
+              "status":"New Project",
+              "operating_impact":"No"
+            }
+          ]
+        },
+        {
+          "Public Works Department":[
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":3820000,
+              "fy-0":2320000,
+              "category":"Economy",
+              "name":"Harrison Avenue Improvements",
+              "location":"South End",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1750000,
+              "fy-0":200000,
+              "category":"Economy",
+              "name":"Washington Street / Traveler Street",
+              "location":"South End",
+              "status":"In Design",
+              "operating_impact":"No"
+            }
+          ]
+        },
+        {
+          "Transportation Department":[
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":9000000,
+              "fy-0":800000,
+              "category":"Economy",
+              "name":"Dudley Street",
+              "location":"Roxbury",
+              "status":"In Design",
+              "operating_impact":"No"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "fy-0":3970000,
+  "total":15220000
+}
+---

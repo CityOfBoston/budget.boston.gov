@@ -1,0 +1,135 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Administration & Finance",
+  "department":"Treasury Department",
+  "file_version":"",
+  "head_name":"Celia M. Barton",
+  "head_title":"Manager",
+  "name":"General Management",
+  "parent":"Treasury Department",
+  "section_id":34,
+  "section_md5_id":"E369853DF766FA44E1ED0FF613F563BD",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~treasury-accounting.json",
+  "source_time":"20180410202208",
+  "source_year":"19",
+  "appropriation_code":"Organization 137100",
+  "description":[
+    "The General Management Program is responsible for hiring, training, and supervising Collection Division staff and systems"
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":467343,
+      "fy-1":450344,
+      "fy-0":489264,
+      "fy+1":499387
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":240345,
+      "fy-1":97168,
+      "fy-0":81969,
+      "fy+1":75500
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":707688,
+      "fy-1":547512,
+      "fy-0":571233,
+      "fy+1":574887
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":467343,
+        "fy-1":450344,
+        "fy-0":489264,
+        "fy+1":499387,
+        "diff":10123
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":49834,
+        "fy-1":51092,
+        "fy-0":56000,
+        "fy+1":46750,
+        "diff":-9250
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":76377,
+        "fy-1":37672,
+        "fy-0":25969,
+        "fy+1":16500,
+        "diff":-9469
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":8935,
+        "fy-1":8404,
+        "fy-0":0,
+        "fy+1":12250,
+        "diff":12250
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":14554,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":90645,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":707688,
+        "fy-1":547512,
+        "fy-0":571233,
+        "fy+1":574887,
+        "diff":3654
+      }
+    ]
+  }
+}
+---

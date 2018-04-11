@@ -1,0 +1,119 @@
+---
+{
+  "category":"Open Space",
+  "category_desc":"Initiatives to strengthen our existing park system and invest in new open spaces.",
+  "department":"Transportation Department",
+  "file_version":"",
+  "location":"Various Neighborhoods",
+  "managing_department":"Transportation Department",
+  "mission":"Design funds to create a connected network of pedestrian and bicycle paths that will allow more access to green open spaces.",
+  "name":"Green Links",
+  "operating_impact":"No",
+  "section_id":"CTD24791",
+  "section_type":"projects",
+  "section_type_short":"R",
+  "source_version":"Recommended",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_projects~transportation-department~green-links.json",
+  "source_time":"20180410202541",
+  "source_year":"19",
+  "status":"New Project",
+  "expenditures_detail":{
+    "table_title":"Expenditures (Actual and Planned)",
+    "table_header":{
+      "line_type":"header",
+      "line_title":null,
+      "line_data_type":"string",
+      "source":"Source",
+      "past_spending":"Through 6/30/17",
+      "fy-1":"FY18 Budget",
+      "fy-0":"FY19 Budget",
+      "fy+1-4":"FY20-23 Budget",
+      "total":"Total"
+    },
+    "data":[
+      {
+        "line_type":"data",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"City Capital",
+        "past_spending":0,
+        "fy-1":0,
+        "fy-0":100000,
+        "fy+1-4":300000,
+        "total":400000
+      },
+      {
+        "line_type":"data",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"Grants/Other",
+        "past_spending":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1-4":0,
+        "total":0
+      },
+      {
+        "line_type":"total",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"Totals",
+        "past_spending":0,
+        "fy-1":0,
+        "fy-0":100000,
+        "fy+1-4":300000,
+        "total":400000
+      }
+    ],
+    "authorizations_table":{
+      "table_title":"Authorizations",
+      "table_header":{
+        "line_type":"header",
+        "line_title":null,
+        "line_data_type":"string",
+        "source":"Source",
+        "existing":"Existing",
+        "fy-0":"FY19",
+        "fy-0++":"Future",
+        "other":"Non Capital Fund",
+        "total":"Total"
+      },
+      "data":[
+        {
+          "line_type":"data",
+          "line_title":null,
+          "line_data_type":"number",
+          "source":"City Capital",
+          "existing":0,
+          "fy-0":400000,
+          "fy-0++":0,
+          "other":0,
+          "total":400000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "line_data_type":"number",
+          "source":"Grants/Other",
+          "existing":0,
+          "fy-0":0,
+          "fy-0++":0,
+          "other":0,
+          "total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Totals",
+          "line_data_type":"number",
+          "source":"Totals",
+          "existing":0,
+          "fy-0":400000,
+          "fy-0++":0,
+          "other":0,
+          "total":400000
+        }
+      ]
+    }
+  }
+}
+---

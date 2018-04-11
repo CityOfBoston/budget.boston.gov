@@ -1,0 +1,168 @@
+---
+{
+  "debug":"JBD",
+  "publish_subordinates":true,
+  "file_version":"",
+  "section_id":56,
+  "section_md5_id":"9F61408E3AFB633E50CDF1B20DE6F466",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_departments~Administration and Finance~administration-and-finance.json",
+  "source_time":"20180321121104",
+  "source_year":"18",
+  "name":"Administration & Finance",
+  "parent":"Administration & Finance",
+  "cabinet":"Administration & Finance",
+  "department":"Administration & Finance",
+  "head_name":"Emme Handy",
+  "head_title":"Chief Financial Officer & Collector Treasurer",
+  "appropriation_code":"Appropriation 144",
+  "mission":[
+    "The Administration and Finance program supports the long-term growth and stability of the City through sound fiscal stewardship and results driven management of the City&rsquo;s human and financial resources."
+  ],
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "name":"A & F",
+        "line_type":"data",
+        "fy-2":934781,
+        "fy-1":888235,
+        "fy-0":1071275,
+        "fy+1":1065310,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":934781,
+        "fy-1":888235,
+        "fy-0":1071275,
+        "fy+1":1065310
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":678910,
+      "fy-1":754643,
+      "fy-0":865675,
+      "fy+1":729710
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":255871,
+      "fy-1":133592,
+      "fy-0":205600,
+      "fy+1":335600
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":934781,
+      "fy-1":888235,
+      "fy-0":1071275,
+      "fy+1":1065310
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":678910,
+        "fy-1":754643,
+        "fy-0":865675,
+        "fy+1":729710,
+        "diff":-135965
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":248450,
+        "fy-1":130944,
+        "fy-0":200200,
+        "fy+1":330200,
+        "diff":130000
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":3130,
+        "fy-1":1040,
+        "fy-0":3500,
+        "fy+1":3500,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":2275,
+        "fy-1":1608,
+        "fy-0":1900,
+        "fy+1":1900,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":2016,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":934781,
+        "fy-1":888235,
+        "fy-0":1071275,
+        "fy+1":1065310,
+        "diff":-5965
+      }
+    ]
+  }
+}
+---

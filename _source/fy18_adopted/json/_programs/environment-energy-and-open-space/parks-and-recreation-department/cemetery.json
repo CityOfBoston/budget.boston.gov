@@ -1,0 +1,135 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Environment, Energy & Open Space",
+  "department":"Parks & Recreation Department",
+  "file_version":"",
+  "head_name":"Thomas A. Sullivan",
+  "head_title":"Manager",
+  "name":"Cemetery",
+  "parent":"Parks & Recreation Department",
+  "section_id":166,
+  "section_md5_id":"7E7757B1E12ABCB736AB9A754FFB617A",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~parks-design-and-construction.json",
+  "source_time":"20180321121155",
+  "source_year":"18",
+  "appropriation_code":"Organization 400100",
+  "description":[
+    "The Cemetery Program provides grounds maintenance for the City's three active cemeteries and sixteen historic cemeteries ensuring that they are physically attractive and well-manicured.  Special efforts are undertaken in preparation for Memorial Day, Veterans' Day, and other holidays.  This program is also responsible for completing all burials requested during the year.  Preparation involves identifying and preparing grave sites, escorting the funeral service, and securing the burial plot upon completion of service."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":1708566,
+      "fy-1":1805441,
+      "fy-0":1902065,
+      "fy+1":1904492
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":474367,
+      "fy-1":471906,
+      "fy-0":542649,
+      "fy+1":593750
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":2182933,
+      "fy-1":2277347,
+      "fy-0":2444714,
+      "fy+1":2498242
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":1708566,
+        "fy-1":1805441,
+        "fy-0":1902065,
+        "fy+1":1904492,
+        "diff":2427
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":180002,
+        "fy-1":211200,
+        "fy-0":209332,
+        "fy+1":266685,
+        "diff":57353
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":100602,
+        "fy-1":78008,
+        "fy-0":99869,
+        "fy+1":96866,
+        "diff":-3003
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":36372,
+        "fy-1":14879,
+        "fy-0":13329,
+        "fy+1":13329,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":119276,
+        "fy-1":133053,
+        "fy-0":170119,
+        "fy+1":166870,
+        "diff":-3249
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":38115,
+        "fy-1":34766,
+        "fy-0":50000,
+        "fy+1":50000,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":2182933,
+        "fy-1":2277347,
+        "fy-0":2444714,
+        "fy+1":2498242,
+        "diff":53528
+      }
+    ]
+  }
+}
+---

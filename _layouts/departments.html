@@ -21,7 +21,7 @@ layout: bos_wrapper
           <span class="brc-s"> › </span>
         </li>
         <li class="brc-l-i">
-          <a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | replace: "'","" | slugify }}">{{ page.cabinet }}</a>
+          <a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | replace: "'","" | replace: "&","and" | slugify }}">{{ page.cabinet }}</a>
           <span class="brc-s"> › </span>
         </li>
         <li class="brc-l-i">
@@ -32,7 +32,7 @@ layout: bos_wrapper
 </div>
 <div class="brc-lu">
   Last updated:
-  <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2017-04-13T00:00:00-04:00">4/13/17</span>
+  <span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2018-04-11T00:00:00-04:00">4/11/18</span>
 </div>
 
 <div class="intro clearfix">
@@ -72,17 +72,17 @@ layout: bos_wrapper
     <h2 data-short-title="Major buildings" class="sh-title createNavItem-processed">
       Appropriations by Program
     </h2>
-    <div class="sh-contact"><a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | replace: "'","" | slugify }}">Back to {{ page.cabinet }} Cabinet</a></div>
+    <div class="sh-contact"><a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | replace: "'","" | replace: "&","and" | slugify }}">Back to {{ page.cabinet }} Cabinet</a></div>
   </div>
   <br />
   <table class="js-table responsive-table responsive-table--horizontal">
     <thead>
       <tr>
         <th>{{ page.operating_budget.table_header.name }}</th>
-        <th>{{ page.operating_budget.table_header.fy-2 }}</th>
-        <th>{{ page.operating_budget.table_header.fy-1 }}</th>
-        <th>{{ page.operating_budget.table_header.fy-0 }}</th>
-        <th>{{ page.operating_budget.table_header["fy+1"] }}</th>
+        <th class="table-right">{{ page.operating_budget.table_header.fy-2 }}</th>
+        <th class="table-right">{{ page.operating_budget.table_header.fy-1 }}</th>
+        <th class="table-right">{{ page.operating_budget.table_header.fy-0 }}</th>
+        <th class="table-right">{{ page.operating_budget.table_header["fy+1"] }}</th>
       </tr>
     </thead>
     <tbody>
@@ -93,7 +93,7 @@ layout: bos_wrapper
         {% elsif row.publish_subordinates %}
           <tr>
             <td data-label="{{ page.operating_budget.table_header.name }}">
-              <a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | replace: "'","" | slugify }}/{{ page.name | replace: "'","" | slugify }}/{{ row.name | replace: "'","" | slugify }}">
+              <a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | replace: "'","" | replace: "&","and" | slugify }}/{{ page.name | replace: "'","" | replace: "&","and" | slugify }}/{{ row.name | replace: "'","" | replace: "&","and" | slugify }}">
                 {{ row.name }}
               </a>
             </td>
@@ -103,10 +103,10 @@ layout: bos_wrapper
               {{ row.name }}
             </td>
         {% endif %}
-          <td data-label="{{ page.operating_budget.table_header.fy-2 }}">{{ row.fy-2 | thousands_separated }}</td>
-          <td data-label="{{ page.operating_budget.table_header.fy-1 }}">{{ row.fy-1 | thousands_separated }}</td>
-          <td data-label="{{ page.operating_budget.table_header.fy-0 }}">{{ row.fy-0 | thousands_separated }}</td>
-          <td data-label="{{ page.operating_budget.table_header["fy+1"] }}">{{ row["fy+1"] | thousands_separated }}</td>
+          <td class="table-right" data-label="{{ page.operating_budget.table_header.fy-2 }}">{{ row.fy-2 | thousands_separated }}</td>
+          <td class="table-right" data-label="{{ page.operating_budget.table_header.fy-1 }}">{{ row.fy-1 | thousands_separated }}</td>
+          <td class="table-right" data-label="{{ page.operating_budget.table_header.fy-0 }}">{{ row.fy-0 | thousands_separated }}</td>
+          <td class="table-right" data-label="{{ page.operating_budget.table_header["fy+1"] }}">{{ row["fy+1"] | thousands_separated }}</td>
         </tr>
       {% endfor %}
     </tbody>
@@ -229,7 +229,7 @@ layout: bos_wrapper
       Department budget by account
     </h2>
     <div class="sh-contact">
-      <a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | replace: "'","" | slugify }}">
+      <a href="{{ site.url }}/operating-budget/cabinets/{{ page.cabinet | replace: "'","" | replace: "&","and" | slugify }}">
         Back to {{ page.cabinet }} Cabinet
       </a>
     </div>
@@ -239,11 +239,11 @@ layout: bos_wrapper
     <thead>
       <tr>
         <th>{{ page.department_history_by_account.table_header.line_type }}</th>
-        <th>{{ page.department_history_by_account.table_header.fy-2 }}</th>
-        <th>{{ page.department_history_by_account.table_header.fy-1 }}</th>
-        <th>{{ page.department_history_by_account.table_header.fy-0 }}</th>
-        <th>{{ page.department_history_by_account.table_header["fy+1"] }}</th>
-        <th>{{ page.department_history_by_account.table_header.diff }}</th>
+        <th class="table-right">{{ page.department_history_by_account.table_header.fy-2 }}</th>
+        <th class="table-right">{{ page.department_history_by_account.table_header.fy-1 }}</th>
+        <th class="table-right">{{ page.department_history_by_account.table_header.fy-0 }}</th>
+        <th class="table-right">{{ page.department_history_by_account.table_header["fy+1"] }}</th>
+        <th class="table-right">{{ page.department_history_by_account.table_header.diff }}</th>
       </tr>
     </thead>
     <tbody>
@@ -259,11 +259,11 @@ layout: bos_wrapper
           <tr>
             <td data-label="{{ page.department_history_by_account.table_header.line_type }}">{{ row.line_title }}</td>
           {% endif %}
-          <td data-label="{{ page.department_history_by_account.table_header.fy-2 }}">{{ row.fy-2 | thousands_separated }}</td>
-          <td data-label="{{ page.department_history_by_account.table_header.fy-1 }}">{{ row.fy-1 | thousands_separated }}</td>
-          <td data-label="{{ page.department_history_by_account.table_header.fy-0 }}">{{ row.fy-0 | thousands_separated }}</td>
-          <td data-label="{{ page.department_history_by_account.table_header["fy+1"] }}">{{ row["fy+1"] | thousands_separated }}</td>
-          <td data-label="{{ page.department_history_by_account.table_header.diff }}">{{ row.diff | thousands_separated }}</td>
+          <td class="table-right" data-label="{{ page.department_history_by_account.table_header.fy-2 }}">{{ row.fy-2 | thousands_separated }}</td>
+          <td class="table-right" data-label="{{ page.department_history_by_account.table_header.fy-1 }}">{{ row.fy-1 | thousands_separated }}</td>
+          <td class="table-right" data-label="{{ page.department_history_by_account.table_header.fy-0 }}">{{ row.fy-0 | thousands_separated }}</td>
+          <td class="table-right" data-label="{{ page.department_history_by_account.table_header["fy+1"] }}">{{ row["fy+1"] | thousands_separated }}</td>
+          <td class="table-right" data-label="{{ page.department_history_by_account.table_header.diff }}">{{ row.diff | thousands_separated }}</td>
         </tr>
       {% endfor %}
     </tbody>

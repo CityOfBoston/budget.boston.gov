@@ -1,0 +1,97 @@
+---
+{
+  "debug":"JCB",
+  "cabinet":"Non-Mayoral Departments",
+  "department":null,
+  "file_version":"",
+  "head_name":Null,
+  "head_title":Null,
+  "name":"Non-Mayoral Departments",
+  "parent":"root",
+  "section_id":11,
+  "section_md5_id":"6512BD43D9CAA6E02C990B0A82652DCA",
+  "section_type":"cabinet",
+  "section_type_short":"C",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~non-mayoral-departments.json",
+  "source_time":"20180321121233",
+  "source_year":"18",
+  "mission":[
+    "These departments are governed independently by appointed or elected officials, but are financed by the City: City Clerk (elected by the City Council); City Council (elected position); Finance Commission (appointed by Governor)."
+  ],
+  "operating_department":{
+    "table_type":"operating_department",
+    "table_title":"Operating Budget",
+    "Program Name":"Department",
+    "line_type":"title",
+    "fy-2":"FY15 Actual",
+    "fy-1":"FY16 Actual",
+    "fy-0":"FY17 Budget",
+    "fy+1":"FY18 Budget",
+    "data":[
+      {
+        "department":"City Clerk",
+        "line_type":"data",
+        "fy-2":1073705,
+        "fy-1":1147042,
+        "fy-0":1220396,
+        "fy+1":1214825
+      },
+      {
+        "department":"City Council",
+        "line_type":"data",
+        "fy-2":5061276,
+        "fy-1":5206450,
+        "fy-0":5340777,
+        "fy+1":5340777
+      },
+      {
+        "department":"Finance Commission",
+        "line_type":"data",
+        "fy-2":233474,
+        "fy-1":256944,
+        "fy-0":268474,
+        "fy+1":271275
+      },
+      {
+        "total":"Total",
+        "line_type":"total",
+        "fy-2":6368455,
+        "fy-1":6610436,
+        "fy-0":6829647,
+        "fy+1":6826877
+      }
+    ]
+  },
+  "external_funds_tables":{
+    "table_type":"external_funds",
+    "table_title":"external_funds",
+    "table_header":{
+      "title":"Department",
+      "line_type":"header",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "title":"City Clerk",
+        "line_type":"data",
+        "fy-2":45957,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0
+      },
+      {
+        "total":"Total Cabinet",
+        "line_type":"total",
+        "fy-2":45957,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0
+      }
+    ]
+  }
+}
+---

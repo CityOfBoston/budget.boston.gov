@@ -1,0 +1,250 @@
+---
+{
+  "debug":"JBD",
+  "publish_subordinates":true,
+  "file_version":"",
+  "section_id":88,
+  "section_md5_id":"2A38A4A9316C49E5A833517C45D31070",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Recommended",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Public Safety~emergency-management.json",
+  "source_time":"20180410202225",
+  "source_year":"19",
+  "name":"Emergency Management",
+  "parent":"Public Safety",
+  "cabinet":"Public Safety",
+  "department":"Emergency Management",
+  "head_name":"Rene Fielding",
+  "head_title":"Director",
+  "appropriation_code":"Appropriation 231",
+  "mission":[
+    "The Mayor&rsquo;s Office of Emergency Management advances the City&rsquo;s capability to effectively prevent, respond to and recover from incidents of terrorism, natural disasters and other emergency conditions by coordinating and directing Boston&rsquo;s inter-departmental and multi-jurisdictional activities, advising the Mayor on homeland security issues, and obtaining and managing outside funding."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Homeland Security",
+      "debug":"JCO",
+      "strategies":[
+        "To have the ability to shelter 5,000 Residents",
+        "To provide professional development training for first responders"
+      ]
+    }
+  ],
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    "data":[
+      {
+        "name":"Homeland Security",
+        "line_type":"data",
+        "fy-2":650928,
+        "fy-1":643194,
+        "fy-0":642209,
+        "fy+1":699720,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":650928,
+        "fy-1":643194,
+        "fy-0":642209,
+        "fy+1":699720
+      }
+    ]
+  },
+  "external_funds_budget":{
+    "table_type":"External Funds",
+    "table_title":"External Funds Budget",
+    "table_header":{
+      "name":"Fund Name",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    "data":[
+      {
+        "name":"Emergency Management Performance Grant",
+        "line_type":"data",
+        "fy-2":70814,
+        "fy-1":179129,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Regional Catastrophic Grant Program",
+        "line_type":"data",
+        "fy-2":87935,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Urban Areas Security (UASI)",
+        "line_type":"data",
+        "fy-2":7086503,
+        "fy-1":13890345,
+        "fy-0":11164466,
+        "fy+1":12347728,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":7245252,
+        "fy-1":14069474,
+        "fy-0":11164466,
+        "fy+1":12347728
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":119153,
+      "fy-1":121887,
+      "fy-0":134766,
+      "fy+1":130037
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":531775,
+      "fy-1":521307,
+      "fy-0":507443,
+      "fy+1":569683
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":650928,
+      "fy-1":643194,
+      "fy-0":642209,
+      "fy+1":699720
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":119153,
+        "fy-1":121887,
+        "fy-0":134766,
+        "fy+1":130037,
+        "diff":-4729
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":246789,
+        "fy-1":183544,
+        "fy-0":170943,
+        "fy+1":220943,
+        "diff":50000
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":6441,
+        "fy-1":17123,
+        "fy-0":5000,
+        "fy+1":6000,
+        "diff":1000
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":265385,
+        "fy-1":320640,
+        "fy-0":331500,
+        "fy+1":342740,
+        "diff":11240
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":13160,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":650928,
+        "fy-1":643194,
+        "fy-0":642209,
+        "fy+1":699720,
+        "diff":57511
+      }
+    ]
+  },
+  "external_funds":[
+    {
+      "project":"Emergency Management Performance Grant",
+      "project_mission":[
+        "The federal EMPG Program serves to assist local governments in preparing for all hazards, as authorized by the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.). Title VI of the Stafford Act authorizes FEMA to make grants for the purpose of providing a system of emergency preparedness for the protection of life and property in the United States from hazards and to vest responsibility for emergency preparedness jointly in the federal government and the states and their political subdivisions. The federal government, through the EMPG Program, provides necessary direction, coordination, and guidance, and provides necessary assistance, as authorized in this title so that a comprehensive emergency preparedness system exists for all hazards. Funding is received from the Federal Emergency Management Agency and the Commonwealth of Massachusetts&rsquo;s Emergency Management Agency."
+      ]
+    },
+    {
+      "project":"Regional Catastrophic Preparedness Grant Program",
+      "project_mission":[
+        "The federal RCPGP grant serves to enhance regional catastrophic planning efforts, with the goal of strengthening the nation against risks associated with catastrophic events. The region includes communities from Massachusetts, New Hampshire, and Rhode Island. The project started March 2009 and funding is received from the Federal Emergency Management Agency and the Commonwealth of Massachusetts&rsquo;s Executive Office of Public Safety and Security. The RCPGP awards in federal FY10 and federal FY11 were $3,393,900 and $1,148,877 respectively."
+      ]
+    },
+    {
+      "project":"Urban Area Security Initiative",
+      "project_mission":[
+        "The federal UASI grant serves to address the unique equipment, planning, exercise, training and operational needs of first responder agencies in the Boston Urban Area (Boston, Brookline, Cambridge, Everett, Revere, Quincy, Winthrop, Chelsea, Somerville) and to assist them in building an enhanced and sustainable capacity to prevent, protect against, respond to, and recover from threats or acts of terrorism, including chemical, biological, radiological, nuclear and explosive (CBRNE) incidents. UASI is an annual grant program and funding is received from the US Department of Homeland Security and the Commonwealth of Massachusetts Executive Office of Public Safety."
+      ]
+    }
+  ],
+  "fy_major_initiatives":[
+    "With a program developed, the project will identify and assess potential sites for a new Emergency Operations Center."
+  ]
+}
+---

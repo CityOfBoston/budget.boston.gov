@@ -1,0 +1,119 @@
+---
+{
+  "category":"Education",
+  "category_desc":"Initiatives to strengthen education, job training, and career connections.",
+  "department":"Boston Public Schools",
+  "file_version":"",
+  "location":"North End",
+  "managing_department":"Public Facilities Department",
+  "mission":"Renovate 585 Commercial Street office building, including building envelope, structural work, interior and site work, which will provide additional classrooms to support the Eliot School's expansion as a K to 8 school.",
+  "name":"Eliot School at 585 Commercial Street",
+  "operating_impact":"No",
+  "section_id":"CPS23699",
+  "section_type":"projects",
+  "section_type_short":"R",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_projects~boston-public-schools~eliot-school-at-585-commercial-street.json",
+  "source_time":"20180321121143",
+  "source_year":"18",
+  "status":"In Construction",
+  "expenditures_detail":{
+    "table_title":"Expenditures (Actual and Planned)",
+    "table_header":{
+      "line_type":"header",
+      "line_title":null,
+      "line_data_type":"string",
+      "source":"Source",
+      "past_spending":"Through 6/30/16",
+      "fy-1":"FY17 Budget",
+      "fy-0":"FY18 Budget",
+      "fy+1-4":"FY19-22 Budget",
+      "total":"Total"
+    },
+    "data":[
+      {
+        "line_type":"data",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"City Capital",
+        "past_spending":1695178,
+        "fy-1":745070,
+        "fy-0":9917270,
+        "fy+1-4":12292482,
+        "total":24650000
+      },
+      {
+        "line_type":"data",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"Grants/Other",
+        "past_spending":15796587,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1-4":3413,
+        "total":15800000
+      },
+      {
+        "line_type":"total",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"Totals",
+        "past_spending":17491765,
+        "fy-1":745070,
+        "fy-0":9917270,
+        "fy+1-4":12295895,
+        "total":40450000
+      }
+    ],
+    "authorizations_table":{
+      "table_title":"Authorizations",
+      "table_header":{
+        "line_type":"header",
+        "line_title":null,
+        "line_data_type":"string",
+        "source":"Source",
+        "existing":"Existing",
+        "fy-0":"FY18",
+        "fy-0++":"Future",
+        "other":"Non Capital Fund",
+        "total":"Total"
+      },
+      "data":[
+        {
+          "line_type":"data",
+          "line_title":null,
+          "line_data_type":"number",
+          "source":"City Capital",
+          "existing":24650000,
+          "fy-0":0,
+          "fy-0++":0,
+          "other":0,
+          "total":24650000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "line_data_type":"number",
+          "source":"Grants/Other",
+          "existing":15800000,
+          "fy-0":0,
+          "fy-0++":0,
+          "other":0,
+          "total":15800000
+        },
+        {
+          "line_type":"total",
+          "line_title":"Totals",
+          "line_data_type":"number",
+          "source":"Totals",
+          "existing":40450000,
+          "fy-0":0,
+          "fy-0++":0,
+          "other":0,
+          "total":40450000
+        }
+      ]
+    }
+  }
+}
+---

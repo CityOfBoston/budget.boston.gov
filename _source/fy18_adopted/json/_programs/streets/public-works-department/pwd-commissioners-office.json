@@ -1,0 +1,135 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Streets",
+  "department":"Public Works Department",
+  "file_version":"",
+  "head_name":"Chris Osgood",
+  "head_title":"Interim Commissioner",
+  "name":"PWD Commissioner's Office",
+  "parent":"Public Works Department",
+  "section_id":9,
+  "section_md5_id":"45C48CCE2E2D7FBDEA1AFC51C7C6AD26",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~.json",
+  "source_time":"20180321121259",
+  "source_year":"18",
+  "appropriation_code":"Organization 311100",
+  "description":[
+    "The Commissioner's Office defines long-term policy and direction, and works to enhance service delivery throughout the Department.  The office is also responsible for issuing permits for street openings and street occupancy."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":2327533,
+      "fy-1":1697981,
+      "fy-0":1654415,
+      "fy+1":1588097
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":1243533,
+      "fy-1":1143773,
+      "fy-0":1091649,
+      "fy+1":1159049
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":3571066,
+      "fy-1":2841754,
+      "fy-0":2746064,
+      "fy+1":2747146
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":2327533,
+        "fy-1":1697981,
+        "fy-0":1654415,
+        "fy+1":1588097,
+        "diff":-66318
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":562146,
+        "fy-1":497107,
+        "fy-0":517700,
+        "fy+1":521000,
+        "diff":3300
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":59437,
+        "fy-1":41296,
+        "fy-0":118381,
+        "fy+1":117679,
+        "diff":-702
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":595219,
+        "fy-1":576386,
+        "fy-0":440200,
+        "fy+1":511500,
+        "diff":71300
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":26731,
+        "fy-1":28984,
+        "fy-0":15368,
+        "fy+1":8870,
+        "diff":-6498
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":3571066,
+        "fy-1":2841754,
+        "fy-0":2746064,
+        "fy+1":2747146,
+        "diff":1082
+      }
+    ]
+  }
+}
+---

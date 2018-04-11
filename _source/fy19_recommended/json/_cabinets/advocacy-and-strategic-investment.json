@@ -1,0 +1,33 @@
+---
+{
+  "debug":"JCB",
+  "cabinet":"Advocacy and Strategic Investment",
+  "department":null,
+  "file_version":"",
+  "head_name":"Marie St. Fleur",
+  "head_title":"Chief of Advocacy and Strategic Investment",
+  "name":"Advocacy and Strategic Investment",
+  "parent":"root",
+  "section_id":18,
+  "section_md5_id":"6F4922F45568161A8CDF4AD2299F6D23",
+  "section_type":"cabinet",
+  "section_type_short":"C",
+  "source_version":"Recommended",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~advocacy-and-strategic-investment.json",
+  "source_time":"20180410202032",
+  "source_year":"19",
+  "mission":[
+    "The Advocacy and Strategic Investment cabinet ensures that the city&rsquo;s efforts to strengthen education, foster job creation, enact legislative reform, and serve Boston&rsquo;s diverse communities are supported by local, state, and federal partners. The cabinet helps to create opportunity for residents by coordinating the delivery of investments, programs, resources, and services from these partners.To further its mission, the ASI cabinet oversees the Mayor's Circle of Promise initiative. The Circle of Promise is a place based and school based strategy that focuses on high student achievement as a means toward creating sustainable wealth and opportunity within the community. By utilizing the Boston Public Schools (BPS) Academic Achievement Framework (AAF) as means to assess students&rsquo; needs, the Circle of Promise initiative leverages public and private resources and partnerships to conduct targeted intervention and non-academic service delivery."
+  ],
+  "operating_department":{
+    "table_type":"operating_department",
+    "table_title":"Operating Budget",
+    "Program Name":"Department",
+    "line_type":"title",
+    "fy-2":"FY16 Actual",
+    "fy-1":"FY17 Actual",
+    "fy-0":"FY18 Budget",
+    "fy+1":"FY19 Budget"
+  }
+}
+---

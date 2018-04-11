@@ -1,0 +1,65 @@
+---
+{
+  "title":"BPS Operating Budget",
+  "layout":"bos_content",
+  "permalink":"/featured-analysis/bps-operating-budget/",
+  "section_type":"section",
+  "section_type_short":"S",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~bps-operating-budget.json",
+  "source_time":"20180321120843",
+  "source_year":"18",
+  "card":[
+    {
+      "category":"Education",
+      "order":4,
+      "title":"BPS Operating Budget",
+      "body":"Learn about the targeted research-backed investments BPS will make in FY18.",
+      "img":"/img/cards/bps-operating-budget.jpg",
+      "link":"link"
+    }
+  ],
+  "components":[
+    {
+      "text_block":[
+        {
+          "title":"BPS OPERATING BUDGET",
+          "body":[
+            "At a $1.061 billion appropriation plus a $20 million collective bargaining reserve, this marks the largest Boston Public Schools budget in history. The FY18 allocation makes targeted investments in programs that increase academic rigor and enrichment, pre-kindergarten, extended learning time, vocational programming, and resources for students experiencing homelessness. ",
+            "Funding directed to schools will increase by almost 4%, even before the largest driver of BPS costs, employee collective bargaining increases, are negotiated. When taking into account total spending at schools, funding directed to schools is projected to increase at 96 schools, even with flat overall district enrollment. This includes additional funding for lengthening the school day at 39 schools, new homeless resources, weighted student funding (WSF) allocations, a projected allotment from the collective bargaining reserve, supports added to schools after WSF, and other new investments.",
+            "In addition to school budgets, schools receive significant support from services that are budgeted centrally. This includes items such as transportation, certain special education services, and facility maintenance. This portion of the budget will increase 2.5% to $308 million. With these support funds added to funds budgeted at the school level, a full billion dollars is expected to be spent on school services. This increase is driven primarily by transportation costs, which are expected to rise to $116 million. While transportation costs have risen, BPS expects the $10 million in transportation efficiencies identified for FY17 to be realized over two years.  ",
+            "As BPS looked to achieve efficiencies to fund strategic investments and approve a balanced budget, they were able to focus the majority of their savings initiatives on central office departments. Overall, the Central Administration budget will decrease by 5.5% to $62 million. The FY18 budget assumes reductions to central office budgets in areas such as stipends, travel, and food, making way for strategic investments such as extended learning time.",
+            "To close opportunity and achievement gaps and support students most in need, the FY18 BPS budget includes the following new investments:",
+            "$14.2 million to support an extended day for 15,000 more, from kindergarten through 8th-grade, 120 additional hours of learning time &mdash; or the equivalent of 20 more school days a year;",
+            "$1.25 million to support Level 3, 4 and 5 schools, particularly those with declining enrollment;",
+            "$1.2 million to support more than 3,000 students BPS has identified as experiencing homelessness;",
+            "$700 thousand to expand the Excellence for All initiative that increases academic rigor and enrichment to 5th graders in 13 schools, reaching a total of 1,569 students with this program;",
+            "$1.3 million for new vocational programming at The English High School and Edward M. Kennedy Academy for Health Careers;",
+            "$500 thousand for an additional 100 K1 students to be served;",
+            "$340 thousand to support the District&rsquo;s water policy;",
+            "$275 thousand for additional substitute custodians;",
+            "$81 thousand to open new dual language classrooms;",
+            "Like most City departments, Boston Public Schools has not yet negotiated their collective bargaining agreements effective in FY18. Consequently, this budget does not include general wage increase for FY18. The City will reserve $20 million for BPS&rsquo;s FY18 collective bargaining costs to be used when agreements are negotiated."
+          ]
+        }
+      ]
+    },
+    {
+      "grid":[
+        {
+          "grid_title":"More Education"
+        },
+        {
+          "card":"/featured-analysis/bps-enrollment/"
+        },
+        {
+          "card":"/featured-analysis/bps-spending-pressures/"
+        },
+        {
+          "card":"/featured-analysis/bps-performance/"
+        }
+      ]
+    }
+  ]
+}
+---

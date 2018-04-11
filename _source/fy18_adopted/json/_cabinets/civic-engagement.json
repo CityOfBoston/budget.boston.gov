@@ -1,0 +1,100 @@
+---
+{
+  "debug":"JCB",
+  "cabinet":"Civic Engagement",
+  "department":null,
+  "file_version":"",
+  "head_name":"Jerome Smith",
+  "head_title":"Chief of Civic Engagement",
+  "name":"Civic Engagement",
+  "parent":"root",
+  "section_id":21,
+  "section_md5_id":"3C59DC048E8850243BE8079A5C74D079",
+  "section_type":"cabinet",
+  "section_type_short":"C",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~civic-engagement.json",
+  "source_time":"20180321121126",
+  "source_year":"18",
+  "mission":[
+    "The Civic Engagement Cabinet seeks to improve the delivery of City Services as well as create opportunities for all Boston Residents to participate in local government."
+  ],
+  "overview":[
+    "The FY18 budget for the Civic Engagement Cabinet will increase by 0.9% to fund four additional full time call takers in the Boston311 call center. The FY18 investment will allow Boston311 to increase their level of service and maintain a high quality customer service experience for Boston residents. In addition, in FY18 Boston311 will continue implementing engagement efforts with non-English speaking residents of Boston and centralizing the translation and interpretation services within Boston311."
+  ],
+  "operating_department":{
+    "table_type":"operating_department",
+    "table_title":"Operating Budget",
+    "Program Name":"Department",
+    "line_type":"title",
+    "fy-2":"FY15 Actual",
+    "fy-1":"FY16 Actual",
+    "fy-0":"FY17 Budget",
+    "fy+1":"FY18 Budget",
+    "data":[
+      {
+        "department":"Elderly Commission",
+        "line_type":"data",
+        "fy-2":3095092,
+        "fy-1":3071890,
+        "fy-0":3255248,
+        "fy+1":3220233
+      },
+      {
+        "department":"Neighborhood Services",
+        "line_type":"data",
+        "fy-2":1421970,
+        "fy-1":2524900,
+        "fy-0":3194730,
+        "fy+1":3287613
+      },
+      {
+        "total":"Total",
+        "line_type":"total",
+        "fy-2":4517062,
+        "fy-1":5596790,
+        "fy-0":6449978,
+        "fy+1":6507846
+      }
+    ]
+  },
+  "external_funds_tables":{
+    "table_type":"external_funds",
+    "table_title":"external_funds",
+    "table_header":{
+      "title":"Department",
+      "line_type":"header",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "title":"Elderly Commission",
+        "line_type":"data",
+        "fy-2":26587724,
+        "fy-1":27661024,
+        "fy-0":29215584,
+        "fy+1":28190144
+      },
+      {
+        "title":"Neighborhood Services",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":100000,
+        "fy-0":42000,
+        "fy+1":300000
+      },
+      {
+        "total":"Total Cabinet",
+        "line_type":"total",
+        "fy-2":26587724,
+        "fy-1":27761024,
+        "fy-0":29257584,
+        "fy+1":28490144
+      }
+    ]
+  }
+}
+---

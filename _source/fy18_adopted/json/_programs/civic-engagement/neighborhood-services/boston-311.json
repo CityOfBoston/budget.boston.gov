@@ -1,0 +1,173 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Civic Engagement",
+  "department":"Neighborhood Services",
+  "file_version":"",
+  "head_name":"Rocco Corigliano",
+  "head_title":"Manager",
+  "name":"Boston 311",
+  "parent":"Neighborhood Services",
+  "section_id":152,
+  "section_md5_id":"37A749D808E46495A8DA1E5352D03CAE",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~city-hall-to-go.json",
+  "source_time":"20180321121131",
+  "source_year":"18",
+  "appropriation_code":"Organization 412400",
+  "description":[
+    "The Boston311 Program provides a wide-ranging information and referral function as well as coordinates emergency response after business hours.  The program also responds to citizens&rsquo; requests for service through direct interaction with City departments."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":821889,
+      "fy-0":1036827,
+      "fy+1":1157661
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":57578,
+      "fy-0":187400,
+      "fy+1":187400
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":0,
+      "fy-1":879467,
+      "fy-0":1224227,
+      "fy+1":1345061
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":821889,
+        "fy-0":1036827,
+        "fy+1":1157661,
+        "diff":120834
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":57578,
+        "fy-0":185500,
+        "fy+1":185500,
+        "diff":0
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":300,
+        "fy+1":300,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":1600,
+        "fy+1":1600,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":0,
+        "fy-1":879467,
+        "fy-0":1224227,
+        "fy+1":1345061,
+        "diff":120834
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Maintain a high level of constituent service"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of calls answered within 30 seconds",
+              "fy-2":"97%",
+              "fy-1":"100%",
+              "fy-0":"90%",
+              "fy+1":"95%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Average call handle time (minutes)",
+              "fy-2":"2",
+              "fy-1":"2",
+              "fy-0":"2",
+              "fy+1":"2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

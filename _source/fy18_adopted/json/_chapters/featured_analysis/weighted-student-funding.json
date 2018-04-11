@@ -1,0 +1,54 @@
+---
+{
+  "title":"Weighted Student Funding",
+  "layout":"bos_content",
+  "permalink":"/featured-analysis/weighted-student-funding/",
+  "section_type":"section",
+  "section_type_short":"S",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~weighted-student-funding.json",
+  "source_time":"20180321120846",
+  "source_year":"18",
+  "card":[
+    {
+      "category":"Education",
+      "order":6,
+      "title":"Weighted Student Funding",
+      "body":"At BPS, dollars follow the student.  Learn how schoool budgets are calculated.",
+      "img":"/img/cards/weighted-student-funding.jpg",
+      "link":"link"
+    }
+  ],
+  "components":[
+    {
+      "text_block":[
+        {
+          "body":[
+            "Weighted Student Funding",
+            "Weighted Student Funding (WSF) ensures resource equity for all students no matter the school they attend. The weighted student funding model creates a baseline per-student funding amount and then adjusts the amount depending on individual student need. For example, students whose family income is at or below the poverty level will receive additional funding in the formula. Other need-based weights include students with disabilities, English Language Learners (ELL), and vocational education students. A school&rsquo;s budget is calculated by adding the individual funding amounts for every student projected to attend that school in the fall.  Additionally, each school also receives a foundation budget to support essential staff. In FY18, the district increased the total direct appropriations to schools by approximately $2.8 million to $483.3 million through WSF. WSF is only one component of schools&rsquo; funding; total school funding is expected to rise by almost 4% or $25 million in FY18.",
+            "For FY18, the seventh year using the WSF formula, BPS continues to refine this need-based method of funding. Student-based allocation models are the standard for transparent and equitable school budgeting. Such models allow dollars to follow students, and those dollars are weighted based on student needs. BPS&rsquo;s highest-need students receive more resources through the weighted student funding structure. ",
+            "When enrollment declines at a school, central office works closely with that school to appropriately adjust staffing. Particular care was made through this process to make classrooms full so that they are affordable to schools. There are safeguards in place to assist schools with declines in enrollment, including sustainability allocations and soft landings, as well as other reserves that are used throughout the budgeting process. ",
+            "BPS&rsquo;s FY18 budget includes a series of substantial supports on top of WSF &ndash;including existing and proposed new investments totaling over $16 million &ndash; that differentially serve the district&rsquo;s highest need students. These include the new proposed investment to support students experiencing homelessness, state grants for turnaround schools, Academic Response Teams, and a new $1.25 million reserve specifically targeted at Level 3, 4, and 5 schools.  These funds will support lower performing schools, particularly those with declining in enrollment. BPS anticipates significant funds from this reserve will support Excel High School and Brighton High School, which are in the turnaround planning process and will see budget increases at the conclusion of that process."
+          ]
+        }
+      ]
+    },
+    {
+      "grid":[
+        {
+          "grid_title":"More Education"
+        },
+        {
+          "card":"/featured-analysis/bilingual-education/"
+        },
+        {
+          "card":"/featured-analysis/bps-enrollment/"
+        },
+        {
+          "card":"/featured-analysis/special-education/"
+        }
+      ]
+    }
+  ]
+}
+---

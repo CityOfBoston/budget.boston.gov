@@ -1,0 +1,214 @@
+---
+{
+  "cabinet":"Operations",
+  "debug":"JBDCP",
+  "department":"Property Management Department",
+  "file_version":"",
+  "head_name":"Gregory Rooney",
+  "head_title":"Commissioner",
+  "name":"Property Management Department",
+  "parent":"Operations",
+  "section_id":6,
+  "section_md5_id":"1679091C5A880FAF6FB5E6087EB1B2DC",
+  "section_type":"capital_budget",
+  "section_type_short":"L",
+  "source_version":"Recommended",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_cp_depts~property-management-department.json",
+  "source_time":"20180410201938",
+  "source_year":"19",
+  "mission":[
+    "The mission of the Property Management Department is to manage, maintain, repair and provide security for the City's municipal buildings including City Hall and Faneuil Hall; to preserve the useful life of City facilities and reduce operating costs through effective preventive maintenance measures."
+  ],
+  "description_of_services":[
+    "The Property Management Department is responsible for the management, maintenance, security, and repair of the City's municipal buildings including City Hall, Faneuil Hall, and the Old State House. Property Management is responsible for facility layout and space planning analysis for City departments, building security, and events management."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Building Maintenance",
+      "strategies":[
+        "Remove graffiti from public property in a timely manner.",
+        "To improve and maintain the operational condition of managed city-owned facilities."
+      ]
+    },
+    {
+      "program":"Alterations & Repair",
+      "strategies":[
+        "To improve and maintain the operational condition of managed city-owned facilities."
+      ]
+    },
+    {
+      "program":"Building Systems",
+      "strategies":[
+        "Maintain heating ventilation and air condition (HVAC) system in proper working order."
+      ]
+    }
+  ],
+  "overview":[
+    "On-going investments in municipal structures, historic buildings and other city-owned properties ensure the City&rsquo;s facilities are well-maintained and managed. Asset preservation is of the utmost importance as Fiscal Year 2019 capital investments support a number of new and ongoing initiatives across the city."
+  ],
+  "fy_major_initiatives":[
+    "Early action items identified from the City Hall Master Plan will begin implementation. Projects include: a pilot program that will activate more service counters on the second floor and improve signage and wayfinding, masonry repairs on the Congress Street wall, and initial site investigation and engineering on the plaza that will support planned renovations to the North Plaza.",
+    "An upgrade to the elevator, boiler and chiller at Faneuil Hall will be completed.",
+    "Repairs at Faneuil Hall that include preservation of brownstone, and repairs to historic doors and window will continue.",
+    "Energy efficiency projects, including an upgrade of the HVAC system will proceed at City Hall."
+  ],
+  "capital_budget_expenditures":[
+    {
+      "table_type":"capital_budget_expenditures",
+      "table_title":"Capital Budget Expenditures",
+      "table_header":{
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "fy-2":"FY16 Actual",
+        "fy-1":"FY17 Actual",
+        "fy-0":"FY18 Estimated",
+        "fy+1":"FY19 Projected"
+      },
+      "data":{
+        "line_type":"total",
+        "line_title":"Total Department",
+        "line_data_type":"total",
+        "fy-2":2221439,
+        "fy-1":3538265,
+        "fy-0":9387575,
+        "fy+1":16659500
+      }
+    }
+  ],
+  "projects":[
+    {
+      "table_type":"capital_projects_by_category",
+      "table_title":"Capital Projects by Category",
+      "header":{
+        "debug":"JBDCPDP",
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "category":"Category",
+        "name":"Project",
+        "location":"Location",
+        "status":"Status",
+        "fy-0":"FY19 Projected",
+        "project_title":"Total"
+      },
+      "projects_data":[
+        {
+          "Arts & Culture":[
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Arts & Culture",
+              "name":"Archives Preservation Needs",
+              "location":"West Roxbury",
+              "section_id":"CPM24377",
+              "status":"Study Underway",
+              "operating_impact":"No",
+              "fy-0":400000,
+              "project_total":1575000
+            }
+          ]
+        },
+        {
+          "Energy & Environment":[
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Energy & Environment",
+              "name":"Faneuil Hall",
+              "location":"Government Center/Faneuil Hall",
+              "section_id":"CPM24373",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":1649500,
+              "project_total":1950000
+            }
+          ]
+        },
+        {
+          "Government Effectiveness":[
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Government Effectiveness",
+              "name":"201 Rivermoor Generator",
+              "location":"West Roxbury",
+              "section_id":"CPM24777",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":0,
+              "project_total":600000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Government Effectiveness",
+              "name":"26 Court Street",
+              "location":"Financial District/Downtown",
+              "section_id":"CPM23470",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":5265000,
+              "project_total":28245558
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Government Effectiveness",
+              "name":"City Hall and City Hall Plaza",
+              "location":"Government Center/Faneuil Hall",
+              "section_id":"CPM24712",
+              "status":"Ongoing Program",
+              "operating_impact":"No",
+              "fy-0":9000000,
+              "project_total":60300000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Government Effectiveness",
+              "name":"Family Justice Center Elevator",
+              "location":"Allston/Brighton",
+              "section_id":"CPM23947",
+              "status":"To Be Scheduled",
+              "operating_impact":"No",
+              "fy-0":60000,
+              "project_total":350500
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Government Effectiveness",
+              "name":"Faneuil Hall HVAC",
+              "location":"Government Center/Faneuil Hall",
+              "section_id":"CPM24124",
+              "status":"In Construction",
+              "operating_impact":"No",
+              "fy-0":285000,
+              "project_total":4655000
+            }
+          ]
+        },
+        {
+          "Open Space":[
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Open Space",
+              "name":"East Eagle Street Shoreline",
+              "location":"East Boston",
+              "section_id":"CPM23189",
+              "status":"To Be Scheduled",
+              "operating_impact":"No",
+              "fy-0":0,
+              "project_total":270000
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "fy-0":16659500,
+  "total":97946058
+}
+---

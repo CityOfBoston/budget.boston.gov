@@ -1,0 +1,276 @@
+---
+{
+  "debug":"JBD",
+  "publish_subordinates":true,
+  "file_version":"",
+  "section_id":17,
+  "section_md5_id":"70EFDF2EC9B086079795C442636B55FB",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_departments~Information and Technology~department-of-innovation-and-technology.json",
+  "source_time":"20180321121222",
+  "source_year":"18",
+  "name":"Department of Innovation & Technology",
+  "parent":"Information & Technology",
+  "cabinet":"Information & Technology",
+  "department":"Department of Innovation & Technology",
+  "head_name":"Vacant",
+  "head_title":"Chief Information Officer",
+  "appropriation_code":"Appropriation 149",
+  "mission":[
+    "The Department of Innovation and Technology is the City&rsquo;s enterprise wide technology services organization providing solutions that enable our business partners across all City departments. DoIT&rsquo;s primary day-to-day responsibility is to ensure that the networks, desktop computers, e-mail systems, and applications that support the business of City government are continuously available and operating effectively. DoIT embraces its responsibility to help manage costs through difficult financial times by continuously improving the cost structure of the City&rsquo;s technology without compromising service. Our commitment to being environmentally responsible is often synergistic with these economic and service responsibilities."
+  ],
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "name":"Policy, Planning & Innovation",
+        "line_type":"data",
+        "fy-2":2956351,
+        "fy-1":2986504,
+        "fy-0":3211267,
+        "fy+1":3401998,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Enterprise Applications",
+        "line_type":"data",
+        "fy-2":13651435,
+        "fy-1":13068158,
+        "fy-0":10365190,
+        "fy+1":9347365,
+        "publish_subordinates":true
+      },
+      {
+        "name":"eGovernment",
+        "line_type":"data",
+        "fy-2":1039467,
+        "fy-1":906435,
+        "fy-0":1532129,
+        "fy+1":1331951,
+        "publish_subordinates":true
+      },
+      {
+        "name":"IT Operations & Service Delivery",
+        "line_type":"data",
+        "fy-2":11181620,
+        "fy-1":13283214,
+        "fy-0":12218922,
+        "fy+1":13134559,
+        "publish_subordinates":true
+      },
+      {
+        "name":"IT Technical Services",
+        "line_type":"data",
+        "fy-2":1785519,
+        "fy-1":1802455,
+        "fy-0":798928,
+        "fy+1":1234627,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Broadband & Digital Equity",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":397138,
+        "fy+1":441467,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":30614392,
+        "fy-1":32046766,
+        "fy-0":28523574,
+        "fy+1":28891967
+      }
+    ]
+  },
+  "external_funds_budget":{
+    "table_type":"External Funds",
+    "table_title":"External Funds Budget",
+    "table_header":{
+      "name":"Fund Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "name":"Human Capital Management (HCM) Upgrade",
+        "line_type":"data",
+        "fy-2":581509,
+        "fy-1":1800518,
+        "fy-0":1666390,
+        "fy+1":860000,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Knight News Challenge Grant",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":172561,
+        "fy-0":233011,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"New Urban Mechanics",
+        "line_type":"data",
+        "fy-2":11164,
+        "fy-1":12319,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":592673,
+        "fy-1":1985398,
+        "fy-0":1899401,
+        "fy+1":860000
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":11670759,
+      "fy-1":12231162,
+      "fy-0":13119331,
+      "fy+1":13131209
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":18943633,
+      "fy-1":19815604,
+      "fy-0":15404243,
+      "fy+1":15760758
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":30614392,
+      "fy-1":32046766,
+      "fy-0":28523574,
+      "fy+1":28891967
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":11670759,
+        "fy-1":12231162,
+        "fy-0":13119331,
+        "fy+1":13131209,
+        "diff":11878
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":6882804,
+        "fy-1":8905171,
+        "fy-0":5402270,
+        "fy+1":5187560,
+        "diff":-214710
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":112712,
+        "fy-1":142663,
+        "fy-0":51100,
+        "fy+1":69000,
+        "diff":17900
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":9096905,
+        "fy-1":8936106,
+        "fy-0":8470000,
+        "fy+1":9179000,
+        "diff":709000
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":2851212,
+        "fy-1":1831664,
+        "fy-0":1480873,
+        "fy+1":1325198,
+        "diff":-155675
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":30614392,
+        "fy-1":32046766,
+        "fy-0":28523574,
+        "fy+1":28891967,
+        "diff":368393
+      }
+    ]
+  },
+  "external_funds":[
+    {
+      "project":"Human Capital Management (HCM) Upgrade",
+      "project_mission":[
+        "The BAIS HCM Upgrade Project will upgrade the City's core human resource management system to the current PeopleSoft application version, in addition to adding new functionality and capabilities, resulting in the adoption of leading industry business practices for human resources management, while improving customer support and maintaining appropriate controls. This upgrade project is funded through a combination of capital, E-rate reimbursement and Indirect resources and will be initiated in FY15."
+      ]
+    }
+  ],
+  "fy_major_initiatives":[
+    "In FY18, the Computer Aided Mass Appraisal (CAMA), an 18-year-old system, will begin to be replaced as part of a multi-year project.",
+    "Expansion of the City&rsquo;s fiber optic network (BoNet), including connection to over 100 Boston Public School Buildings will continue in FY18.",
+    "Begin a feasibility study to determine a cost effective and efficient way to expand and sustain the infrastructure that supports multiple City radio systems.",
+    "In Enterprise Applications, DoIT will continue to assist the Fire Department in the development and implementation of a new time management system."
+  ]
+}
+---

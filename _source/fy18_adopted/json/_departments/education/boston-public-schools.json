@@ -1,0 +1,998 @@
+---
+{
+  "debug":"JBD",
+  "publish_subordinates":true,
+  "file_version":"",
+  "section_id":30,
+  "section_md5_id":"34173CB38F07F89DDBEBC2AC9128303F",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_departments~Education~boston-public-schools.json",
+  "source_time":"20180321121142",
+  "source_year":"18",
+  "name":"Boston Public Schools",
+  "parent":"Education",
+  "cabinet":"Education",
+  "department":"Boston Public Schools",
+  "head_name":"Dr. Tommy Chang",
+  "head_title":"Superintendent",
+  "appropriation_code":"Appropriation 101",
+  "mission":[
+    "We welcome the children of this city into the Boston Public Schools, where effective teaching and learning prepare all of our students to achieve at high levels, and where the entire community works together to focus on children."
+  ],
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "name":Null,
+        "line_type":"data",
+        "fy-2":974925118,
+        "fy-1":1016278853,
+        "fy-0":1031684006,
+        "fy+1":1060932785,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":974925118,
+        "fy-1":1016278853,
+        "fy-0":1031684006,
+        "fy+1":1060932785
+      }
+    ]
+  },
+  "external_funds_budget":{
+    "table_type":"External Funds",
+    "table_title":"External Funds Budget",
+    "table_header":{
+      "name":"Fund Name",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "name":"21st Century Community Learn",
+        "line_type":"data",
+        "fy-2":1075392,
+        "fy-1":1062531,
+        "fy-0":989663,
+        "fy+1":949490,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Academic Support",
+        "line_type":"data",
+        "fy-2":613404,
+        "fy-1":210194,
+        "fy-0":347801,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Adult Career Pathways",
+        "line_type":"data",
+        "fy-2":109940,
+        "fy-1":107730,
+        "fy-0":104925,
+        "fy+1":104295,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Adult Education Fund",
+        "line_type":"data",
+        "fy-2":182779,
+        "fy-1":160766,
+        "fy-0":180100,
+        "fy+1":185749,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Adult Education Learning Center",
+        "line_type":"data",
+        "fy-2":16963,
+        "fy-1":1548,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Advanced Placement Incentives",
+        "line_type":"data",
+        "fy-2":12992,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"ARABIC Summer Academy",
+        "line_type":"data",
+        "fy-2":95317,
+        "fy-1":59312,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"ARRA - School Improvement",
+        "line_type":"data",
+        "fy-2":1916714,
+        "fy-1":2632184,
+        "fy-0":801933,
+        "fy+1":7602,
+        "publish_subordinates":true
+      },
+      {
+        "name":"ARRA - Title I School Improvement",
+        "line_type":"data",
+        "fy-2":709,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Athletics Revolving Fund",
+        "line_type":"data",
+        "fy-2":1460,
+        "fy-1":7616,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Boston Adult High School",
+        "line_type":"data",
+        "fy-2":3274,
+        "fy-1":1232,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Boston Energy in Science Teaching",
+        "line_type":"data",
+        "fy-2":5131,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Boston Marathon Bombing Behavioral Response",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":213442,
+        "fy-0":1036995,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Boston Public School Energy",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":400000,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Children's Pilot Funds",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":206341,
+        "fy-0":172270,
+        "fy+1":200000,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Choice Neighborhood Grant",
+        "line_type":"data",
+        "fy-2":71997,
+        "fy-1":79947,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Class2003 - Support",
+        "line_type":"data",
+        "fy-2":10000,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Community Partnership Program",
+        "line_type":"data",
+        "fy-2":1179081,
+        "fy-1":1216240,
+        "fy-0":334837,
+        "fy+1":334837,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Comprehensive Behavorial Health Model Initiative",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":100000,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Construct Trades Voc Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":35541,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Coordinated Family & Community Engagement",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":799476,
+        "fy+1":837699,
+        "publish_subordinates":true
+      },
+      {
+        "name":"DOJ Youth Forum Cities",
+        "line_type":"data",
+        "fy-2":91432,
+        "fy-1":8867,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Early Literacy Intervention",
+        "line_type":"data",
+        "fy-2":162032,
+        "fy-1":79138,
+        "fy-0":47000,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Empowering Teens thru Health",
+        "line_type":"data",
+        "fy-2":447287,
+        "fy-1":437332,
+        "fy-0":369999,
+        "fy+1":275000,
+        "publish_subordinates":true
+      },
+      {
+        "name":"English for New Bostonians",
+        "line_type":"data",
+        "fy-2":24956,
+        "fy-1":20545,
+        "fy-0":18231,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Expanded Learning Time",
+        "line_type":"data",
+        "fy-2":1998114,
+        "fy-1":1766349,
+        "fy-0":773467,
+        "fy+1":1369053,
+        "publish_subordinates":true
+      },
+      {
+        "name":"External Diploma",
+        "line_type":"data",
+        "fy-2":117065,
+        "fy-1":105108,
+        "fy-0":108700,
+        "fy+1":103001,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Facilities Fund",
+        "line_type":"data",
+        "fy-2":2372618,
+        "fy-1":1484708,
+        "fy-0":1800000,
+        "fy+1":2600000,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Farm to School Initiative",
+        "line_type":"data",
+        "fy-2":2500,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Fresh Fruit & Vegetable Program",
+        "line_type":"data",
+        "fy-2":733206,
+        "fy-1":722080,
+        "fy-0":0,
+        "fy+1":1079450,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Full Service Community School",
+        "line_type":"data",
+        "fy-2":448477,
+        "fy-1":197102,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"GED Test Score",
+        "line_type":"data",
+        "fy-2":6146,
+        "fy-1":4739,
+        "fy-0":4000,
+        "fy+1":5000,
+        "publish_subordinates":true
+      },
+      {
+        "name":"High Needs Support Grant",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"IDEA",
+        "line_type":"data",
+        "fy-2":17528787,
+        "fy-1":16412751,
+        "fy-0":17219684,
+        "fy+1":17863102,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Improving Teacher Quality",
+        "line_type":"data",
+        "fy-2":40078,
+        "fy-1":8095,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Indirect",
+        "line_type":"data",
+        "fy-2":2477109,
+        "fy-1":3154182,
+        "fy-0":2141386,
+        "fy+1":2141386,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Innovation School Planning",
+        "line_type":"data",
+        "fy-2":61847,
+        "fy-1":10441,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Institute for Education Science",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":59662,
+        "fy-0":176634,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Instrument Rental Account",
+        "line_type":"data",
+        "fy-2":949,
+        "fy-1":39171,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Juvenile Accountability",
+        "line_type":"data",
+        "fy-2":96820,
+        "fy-1":22875,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"LEP - Summer Support",
+        "line_type":"data",
+        "fy-2":78018,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Magnet Schools Assistance",
+        "line_type":"data",
+        "fy-2":-4601,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"MassGrad Implemenation",
+        "line_type":"data",
+        "fy-2":185472,
+        "fy-1":132191,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"McKinney Homeless",
+        "line_type":"data",
+        "fy-2":38884,
+        "fy-1":42937,
+        "fy-0":49999,
+        "fy+1":60000,
+        "publish_subordinates":true
+      },
+      {
+        "name":"National Endowment for the Arts",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":50000,
+        "fy+1":70000,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Nutrition Summer Start Up",
+        "line_type":"data",
+        "fy-2":67617,
+        "fy-1":50303,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Ocean Communities in Education",
+        "line_type":"data",
+        "fy-2":8702,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Partnership to Improve Community Health - Safe Routes to School",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":102961,
+        "fy-0":180000,
+        "fy+1":191464,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Pathway to Support At-Risk Students",
+        "line_type":"data",
+        "fy-2":21320,
+        "fy-1":17308,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Perkins Vocational Education",
+        "line_type":"data",
+        "fy-2":1203452,
+        "fy-1":1275399,
+        "fy-0":1234767,
+        "fy+1":1541899,
+        "publish_subordinates":true
+      },
+      {
+        "name":"PICH Safe Routes to School",
+        "line_type":"data",
+        "fy-2":1200,
+        "fy-1":164291,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Preschool Expansion Grant",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":3372728,
+        "fy-0":3879986,
+        "fy+1":3877986,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Quality Full-Day Kindergarten",
+        "line_type":"data",
+        "fy-2":1879759,
+        "fy-1":1628676,
+        "fy-0":1790607,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Race To The Top",
+        "line_type":"data",
+        "fy-2":757769,
+        "fy-1":1707,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Reading First",
+        "line_type":"data",
+        "fy-2":65630,
+        "fy-1":472,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Reimbursable",
+        "line_type":"data",
+        "fy-2":172079,
+        "fy-1":4630092,
+        "fy-0":8054442,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"ROTC",
+        "line_type":"data",
+        "fy-2":847033,
+        "fy-1":849347,
+        "fy-0":870000,
+        "fy+1":845000,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Safe Schools",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Scale Proj Int Math & Sci",
+        "line_type":"data",
+        "fy-2":42560,
+        "fy-1":58695,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"School Achievement",
+        "line_type":"data",
+        "fy-2":-1112,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"School Improvement",
+        "line_type":"data",
+        "fy-2":151447,
+        "fy-1":1049744,
+        "fy-0":766627,
+        "fy+1":2089641,
+        "publish_subordinates":true
+      },
+      {
+        "name":"School Lunch - Food Services",
+        "line_type":"data",
+        "fy-2":35067799,
+        "fy-1":33230610,
+        "fy-0":34284766,
+        "fy+1":35393782,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Small Learning Communities",
+        "line_type":"data",
+        "fy-2":-5213,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Special Education / Professional Dev",
+        "line_type":"data",
+        "fy-2":115319,
+        "fy-1":124748,
+        "fy-0":173784,
+        "fy+1":173784,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Special Education 188 Early Childhood",
+        "line_type":"data",
+        "fy-2":419513,
+        "fy-1":362707,
+        "fy-0":484467,
+        "fy+1":480204,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Special Education Circuit Breaker",
+        "line_type":"data",
+        "fy-2":11329574,
+        "fy-1":8041636,
+        "fy-0":15173004,
+        "fy+1":15628194,
+        "publish_subordinates":true
+      },
+      {
+        "name":"STEM - Early College HS",
+        "line_type":"data",
+        "fy-2":26000,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Strategic Support for U/P School",
+        "line_type":"data",
+        "fy-2":57024,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Summer Enhancement Program",
+        "line_type":"data",
+        "fy-2":20000,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Summer Food Program",
+        "line_type":"data",
+        "fy-2":1120197,
+        "fy-1":1054544,
+        "fy-0":1317441,
+        "fy+1":1317441,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Supporting Chemistry Teachers",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":256567,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Supporting Family Literacy",
+        "line_type":"data",
+        "fy-2":9319,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Sustainable Materials Recovery",
+        "line_type":"data",
+        "fy-2":18940,
+        "fy-1":254,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Tech Enhancement Options",
+        "line_type":"data",
+        "fy-2":12500,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Technology Fund",
+        "line_type":"data",
+        "fy-2":90561,
+        "fy-1":26696,
+        "fy-0":1500000,
+        "fy+1":1500000,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Teen Pregnancy Prevention",
+        "line_type":"data",
+        "fy-2":88076,
+        "fy-1":111956,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"TILT - Turnaround with Inc Learn Time",
+        "line_type":"data",
+        "fy-2":1027389,
+        "fy-1":135699,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Title I",
+        "line_type":"data",
+        "fy-2":35612110,
+        "fy-1":31145744,
+        "fy-0":29463856,
+        "fy+1":37442667,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Title I - School Support",
+        "line_type":"data",
+        "fy-2":464686,
+        "fy-1":133695,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Title I - Supplemental Support",
+        "line_type":"data",
+        "fy-2":5010,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Title II - Teacher Quality",
+        "line_type":"data",
+        "fy-2":4535259,
+        "fy-1":5834059,
+        "fy-0":5512475,
+        "fy+1":5668189,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Title III - Bilingual Lang Acq",
+        "line_type":"data",
+        "fy-2":2811964,
+        "fy-1":1560979,
+        "fy-0":2501686,
+        "fy+1":2335228,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Title III - Summer Grant",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":82263,
+        "fy-0":101286,
+        "fy+1":69877,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Transportation Fund",
+        "line_type":"data",
+        "fy-2":123617,
+        "fy-1":19495,
+        "fy-0":125000,
+        "fy+1":125000,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Turnaround Sustainability Grant",
+        "line_type":"data",
+        "fy-2":-69,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":130369380,
+        "fy-1":125769705,
+        "fy-0":135341294,
+        "fy+1":137222587
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":769986506,
+      "fy-1":798232565,
+      "fy-0":813824013,
+      "fy+1":837046174
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":204938612,
+      "fy-1":218046288,
+      "fy-0":217859993,
+      "fy+1":223886611
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":974925118,
+      "fy-1":1016278853,
+      "fy-0":1031684006,
+      "fy+1":1060932785
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Rev. St. 1647, ch. 23, &sect; 10 Rev. St.",
+    "General Laws and Liberties of the Massachusetts Colony (1672).",
+    "Massachusetts Constitution, Mass. Const. part II ch. 5, &sect; 2.",
+    "Boston City Charter, 1821 Mass. Acts ch. 110, &sect;19.",
+    "1987 Mass. Acts ch. 613.",
+    "1991 Mass. Acts ch. 108.",
+    "Education Reform Act, 1993 Mass. Acts ch. 71, as amended."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":769986506,
+        "fy-1":798232565,
+        "fy-0":813824013,
+        "fy+1":837046174,
+        "diff":23222161
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":178417983,
+        "fy-1":191537746,
+        "fy-0":173487019,
+        "fy+1":177798249,
+        "diff":4311230
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":9408445,
+        "fy-1":7411493,
+        "fy-0":7946935,
+        "fy+1":6912732,
+        "diff":-1034203
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":5418316,
+        "fy-1":5585542,
+        "fy-0":23353350,
+        "fy+1":27642383,
+        "diff":4289033
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":10459064,
+        "fy-1":12785846,
+        "fy-0":12187123,
+        "fy+1":10647171,
+        "diff":-1539952
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":1234804,
+        "fy-1":725661,
+        "fy-0":885566,
+        "fy+1":886076,
+        "diff":510
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":974925118,
+        "fy-1":1016278853,
+        "fy-0":1031684006,
+        "fy+1":1060932785,
+        "diff":29248779
+      }
+    ]
+  },
+  "external_funds":[
+    {
+      "project":"Formula Grants",
+      "project_mission":[
+        "Formula grants are funds received through federal or state programs that provide assistance for educational services for low income, minority, and special needs students. Levels of funding are established through a predetermined formula that considers the amount of legislative appropriation and the number of students eligible for the program. Federal formula grants include the Title I, Title II, and IDEA grants. MCAS support/Academic support is a state formula grant."
+      ]
+    },
+    {
+      "project":"Competitive Grants",
+      "project_mission":[
+        "Competitive grants are funds received through open competition with other school districts and non-profit organizations. The grant providers establish the levels of funding. The use of these funds is determined through local planning, which typically aims to advance local priorities while meeting the funding requirements."
+      ]
+    },
+    {
+      "project":"Reimbursements",
+      "project_mission":[
+        "Reimbursement funds are resources received by the local school districts as compensation for costs incurred by certain programs. Reimbursement programs include the Department of Agriculture&rsquo;s School Lunch Program and Summer Food Program."
+      ]
+    },
+    {
+      "project":"Revolving Funds and Other Grants",
+      "project_mission":[
+        "Additional resources are received through revolving funds and other grants. These include funds raised through the Boston Education Development Foundation, and the Homeless Student Initiative."
+      ]
+    }
+  ],
+  "fy_major_initiatives":[
+    "Through the BuildBPS 21st Century Fund, every school will choose from among new technology and comfortable, moveable furniture options that promote learner-centric programs, and provide greater flexibility in current and future learning spaces.",
+    "Construction will be completed on the new $73 million Dearborn STEM 6-12 Academy by mid-year. The school will open to students in September 2018. The City and District have partnered with the MSBA in the development and funding of this new school.",
+    "This summer, 3,000 windows will be replaced at seven schools. This $29 million project is funded in partnership with the MSBA.",
+    "The City will submit a preferred option to the MSBA this year for the Boston Arts Academy project and, if accepted, will begin final design on the selected option.",
+    "The Mattapan Early Elementary School will open in September. The building will be refurbished this summer in advance of the opening.",
+    "BPS will continue the 5 year plan to upgrade technology infrastructure across the District in support of 21st century learning."
+  ]
+}
+---

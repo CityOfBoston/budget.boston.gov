@@ -1,0 +1,201 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Administration & Finance",
+  "department":"Budget Management",
+  "file_version":"",
+  "head_name":"John Hanlon",
+  "head_title":"Manager",
+  "name":"Capital Budgeting",
+  "parent":"Budget Management",
+  "section_id":71,
+  "section_md5_id":"E2C420D928D4BF8CE0FF2EC19B371514",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~budget-and-management.json",
+  "source_time":"20180410202116",
+  "source_year":"19",
+  "appropriation_code":"Organization 141500",
+  "description":[
+    "The Capital Budgeting Program manages the capital plan of the City.  It prepares a multi-year capital plan, oversees capital construction projects, equipment acquisitions, and contracts, and manages all capital fund appropriations and related revenue including bonds and grants."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":425786,
+      "fy-1":457818,
+      "fy-0":507980,
+      "fy+1":506685
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":47447,
+      "fy-1":43900,
+      "fy-0":3790,
+      "fy+1":1350
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":473233,
+      "fy-1":501718,
+      "fy-0":511770,
+      "fy+1":508035
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":425786,
+        "fy-1":457818,
+        "fy-0":507980,
+        "fy+1":506685,
+        "diff":-1295
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":600,
+        "fy-1":962,
+        "fy-0":2600,
+        "fy+1":600,
+        "diff":-2000
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":750,
+        "fy+1":750,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":46847,
+        "fy-1":42938,
+        "fy-0":440,
+        "fy+1":0,
+        "diff":-440
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":473233,
+        "fy-1":501718,
+        "fy-0":511770,
+        "fy+1":508035,
+        "diff":-3735
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Ensure long-term financial stability"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Debt service costs as a % of operating expenditures",
+              "fy-2":"5.7",
+              "fy-1":"5.7",
+              "fy-0":"5.9",
+              "fy+1":"5.8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Improve use of limited city resources"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of capital expenditures associated with City planning efforts",
+              "fy-2":"0%",
+              "fy-1":"0%",
+              "fy-0":"76%",
+              "fy+1":"74%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"% of capital plan associated with City planning efforts (Imagine Boston, Build BPS, Go Boston 2030, City Hall)",
+              "fy-2":"0%",
+              "fy-1":"0%",
+              "fy-0":"77.6%",
+              "fy+1":"84.7%"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

@@ -1,0 +1,206 @@
+---
+{
+  "debug":"JCB",
+  "cabinet":"Administration & Finance",
+  "department":null,
+  "file_version":"",
+  "head_name":"David Sweeney",
+  "head_title":"Chief Financial Officer & Collector-Treasurer",
+  "name":"Administration & Finance",
+  "parent":"root",
+  "section_id":4,
+  "section_md5_id":"A87FF679A2F3E71D9181A67B7542122C",
+  "section_type":"cabinet",
+  "section_type_short":"C",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~administration-and-finance.json",
+  "source_time":"20180321121102",
+  "source_year":"18",
+  "mission":[
+    "The Administration and Finance Cabinet ensures that city services are delivered with high quality, with high ethical standards, are financially prudent, are responsive to the needs of the citizens of Boston, and consistent with the laws and ordinances governing municipal government."
+  ],
+  "overview":[
+    "The Administration & Finance (A&F) Cabinet contains the central departments responsible for the City&rsquo;s administration and stability. Boston has been recognized for its strong financial policies and practices and sound management of both its human and financial capital. The cabinet will see a 4% increase in FY18, with the five city departments within the cabinet decreasing their budgets. Budget increases for two central appropriations in the cabinet, including Health Insurance and Medicare, account for most of the increase in the cabinet&rsquo;s budget. ",
+    "The A&F cabinet has also budgeted resources in FY18 to continue the successful program of independent operational audits, and to pursue revenue maximization. ",
+    "In FY18, the Office of Budget Management will initiate a citywide review of collections. The City will also work to maximize federal health insurance reimbursements and revenue recovery efforts."
+  ],
+  "operating_department":{
+    "table_type":"operating_department",
+    "table_title":"Operating Budget",
+    "Program Name":"Department",
+    "line_type":"title",
+    "fy-2":"FY15 Actual",
+    "fy-1":"FY16 Actual",
+    "fy-0":"FY17 Budget",
+    "fy+1":"FY18 Budget",
+    "data":[
+      {
+        "department":"Administration and Finance",
+        "line_type":"data",
+        "fy-2":934781,
+        "fy-1":888235,
+        "fy-0":1071275,
+        "fy+1":1065310
+      },
+      {
+        "department":"Assessing Department",
+        "line_type":"data",
+        "fy-2":6346438,
+        "fy-1":7103484,
+        "fy-0":7232783,
+        "fy+1":7261326
+      },
+      {
+        "department":"Auditing Department",
+        "line_type":"data",
+        "fy-2":2493514,
+        "fy-1":2570261,
+        "fy-0":2705369,
+        "fy+1":2686563
+      },
+      {
+        "department":"Budget Management",
+        "line_type":"data",
+        "fy-2":2585057,
+        "fy-1":2722787,
+        "fy-0":3199976,
+        "fy+1":3404758
+      },
+      {
+        "department":"Execution of Courts",
+        "line_type":"data",
+        "fy-2":9698310,
+        "fy-1":10454319,
+        "fy-0":5000000,
+        "fy+1":5000000
+      },
+      {
+        "department":"Health Insurance",
+        "line_type":"data",
+        "fy-2":180006658,
+        "fy-1":191265768,
+        "fy-0":206208108,
+        "fy+1":216180122
+      },
+      {
+        "department":"Human Resources",
+        "line_type":"data",
+        "fy-2":3485222,
+        "fy-1":3497023,
+        "fy-0":4132833,
+        "fy+1":4404855
+      },
+      {
+        "department":"Labor Relations",
+        "line_type":"data",
+        "fy-2":1364177,
+        "fy-1":1310607,
+        "fy-0":1424077,
+        "fy+1":1439006
+      },
+      {
+        "department":"Medicare Payments",
+        "line_type":"data",
+        "fy-2":8577221,
+        "fy-1":7989395,
+        "fy-0":10000000,
+        "fy+1":11000000
+      },
+      {
+        "department":"Pensions and Annuities - City",
+        "line_type":"data",
+        "fy-2":3336691,
+        "fy-1":4063355,
+        "fy-0":5289000,
+        "fy+1":4100000
+      },
+      {
+        "department":"Pensions and Annuities - County",
+        "line_type":"data",
+        "fy-2":36114,
+        "fy-1":36894,
+        "fy-0":100000,
+        "fy+1":100000
+      },
+      {
+        "department":"Purchasing Division",
+        "line_type":"data",
+        "fy-2":1545202,
+        "fy-1":1771568,
+        "fy-0":1832369,
+        "fy+1":1775367
+      },
+      {
+        "department":"Registry Division",
+        "line_type":"data",
+        "fy-2":995448,
+        "fy-1":968056,
+        "fy-0":1031501,
+        "fy+1":1018464
+      },
+      {
+        "department":"Treasury Department",
+        "line_type":"data",
+        "fy-2":2615690,
+        "fy-1":2831311,
+        "fy-0":2434612,
+        "fy+1":2408663
+      },
+      {
+        "department":"Unemployment Compensation",
+        "line_type":"data",
+        "fy-2":34251,
+        "fy-1":0,
+        "fy-0":350000,
+        "fy+1":350000
+      },
+      {
+        "department":"Workers' Compensation Fund",
+        "line_type":"data",
+        "fy-2":1865720,
+        "fy-1":1328170,
+        "fy-0":2200000,
+        "fy+1":2200000
+      },
+      {
+        "total":"Total",
+        "line_type":"total",
+        "fy-2":225920494,
+        "fy-1":238801233,
+        "fy-0":254211903,
+        "fy+1":264394434
+      }
+    ]
+  },
+  "external_funds_tables":{
+    "table_type":"external_funds",
+    "table_title":"external_funds",
+    "table_header":{
+      "title":"Department",
+      "line_type":"header",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    "data":[
+      {
+        "title":"Auditing Department",
+        "line_type":"data",
+        "fy-2":554830,
+        "fy-1":1396765,
+        "fy-0":775185,
+        "fy+1":878395
+      },
+      {
+        "total":"Total Cabinet",
+        "line_type":"total",
+        "fy-2":554830,
+        "fy-1":1396765,
+        "fy-0":775185,
+        "fy+1":878395
+      }
+    ]
+  }
+}
+---

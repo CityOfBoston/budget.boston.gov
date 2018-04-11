@@ -1,0 +1,48 @@
+---
+{
+  "title":"Preserving Special Collections",
+  "layout":"bos_content",
+  "permalink":"/featured-analysis/preserving-special-collections/",
+  "section_type":"section",
+  "section_type_short":"S",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~preserving-special-collections.json",
+  "source_time":"20180321120824",
+  "source_year":"18",
+  "card":[
+    {
+      "category":"Budget Priorities",
+      "order":15,
+      "title":"Preserving Special Collections",
+      "body":"Boston Public Library will launch a project to preserve Special Collections. ",
+      "img":"/img/cards/preserving-special-collections.jpg",
+      "link":"link"
+    }
+  ],
+  "components":[
+    {
+      "text_block":[
+        {
+          "title":"Preserving Boston Public Library&rsquo;s Special Collections",
+          "body":[
+            "The City will launch a major capital project in FY18 to help preserve the Library&rsquo;s valuable and historic special collections in rare books and manuscripts. This $15.7 million project will begin with the inventory of the Central Library in Copley Square&rsquo;s Rare Books & Manuscripts Department&rsquo;s nearly 250,000 rare books and one million manuscripts. Over the course of the next two years, the Rare Books Department will receive major environmental and mechanical improvements to better regulate temperature and humidity control of the department&rsquo;s collection storage areas, staff spaces, conservation lab, and public reading room. Ultimately, the project will increase accessibility to the Library&rsquo;s rare books and manuscripts and ensure the collections will be preserved for the future. The project continues the City and the Library&rsquo;s renewed commitment to improve intellectual control, custodianship, and security of its special collections."
+          ]
+        }
+      ]
+    },
+    {
+      "grid":[
+        {
+          "grid_title":"More Budget Priorities"
+        },
+        {
+          "card":"/featured-analysis/investing-in-the-arts/"
+        },
+        {
+          "card":"/featured-analysis/community-libraries/"
+        }
+      ]
+    }
+  ]
+}
+---

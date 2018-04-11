@@ -1,0 +1,181 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Environment, Energy & Open Space",
+  "department":"Inspectional Services Dept",
+  "file_version":"",
+  "head_name":"Gary P. Moccia",
+  "head_title":"Manager",
+  "name":"Buildings & Structures",
+  "parent":"Inspectional Services Dept",
+  "section_id":124,
+  "section_md5_id":"C8FFE9A587B126F152ED3D89A146B445",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~isd-administration-and-finance.json",
+  "source_time":"20180321121150",
+  "source_year":"18",
+  "appropriation_code":"Organization 260300",
+  "description":[
+    "The Inspector of Buildings oversees all building permit application processing, plans and zoning reviews, field inspections, and the investigative and regulatory enforcement activities administered by the Department.  The Buildings and Structures management staff is responsible for issuing building permits for repair and installation, certificates of occupancy, building licenses, and inspecting buildings for safety and compliance with the allowable uses and applicable laws and codes. \n \nThe Plans and Zoning staff responds to all permit applications and reviews building plans for zoning compliance.  Zoning Materials and Zoning Clinics are available at 1010 Massachusetts Avenue and neighborhood libraries to assist individuals and businesses.  \n\nBuilding, Electrical and Mechanical inspectors inspect all construction or renovation work to ensure that proper safety standards are followed.  Inspectors respond to all community complaints about non-permitted work and zoning violations, including the use of land and structures beyond the allowable use and occupancy."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":5733170,
+      "fy-1":5903178,
+      "fy-0":5936206,
+      "fy+1":6163329
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":305273,
+      "fy-1":457512,
+      "fy-0":491457,
+      "fy+1":447409
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":6038443,
+      "fy-1":6360690,
+      "fy-0":6427663,
+      "fy+1":6610738
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":5733170,
+        "fy-1":5903178,
+        "fy-0":5936206,
+        "fy+1":6163329,
+        "diff":227123
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":267844,
+        "fy-1":415295,
+        "fy-0":449840,
+        "fy+1":399040,
+        "diff":-50800
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":14875,
+        "fy-1":28277,
+        "fy-0":35542,
+        "fy+1":36433,
+        "diff":891
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":985,
+        "fy-1":5524,
+        "fy-0":1014,
+        "fy+1":1014,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":21569,
+        "fy-1":8416,
+        "fy-0":5061,
+        "fy+1":10922,
+        "diff":5861
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":6038443,
+        "fy-1":6360690,
+        "fy-0":6427663,
+        "fy+1":6610738,
+        "diff":183075
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To ensure the safety of buildings by tracking their compliance with codes by means of scheduled inspections"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# long form permits issued",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":"5,000"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Average days Permit review time",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":"30"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Violations issued",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"1,105",
+              "fy+1":"1,300"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

@@ -1,0 +1,135 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Mayor's Office",
+  "department":"Law Department",
+  "file_version":"",
+  "head_name":"Vacant",
+  "head_title":"Manager",
+  "name":"Office of Gaming & Accountability",
+  "parent":"Law Department",
+  "section_id":132,
+  "section_md5_id":"65DED5353C5EE48D0B7D48C591B8F430",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~legal-services.json",
+  "source_time":"20180321121231",
+  "source_year":"18",
+  "appropriation_code":"Organization 151500",
+  "description":[
+    "The Office of Gaming and Accountability is responsible for representing the City of Boston pursuant to the terms of the Massachusetts Expanded Gaming Act, 2011, Massachusetts Acts Chapter 194.  Staff in this program is charged with protecting the interests of the public and ensuring the integrity of legalized gaming and managing the impacts to the residents of Boston."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":9173,
+      "fy-1":58987,
+      "fy-0":87240,
+      "fy+1":0
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":664000,
+      "fy-0":0,
+      "fy+1":0
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":9173,
+      "fy-1":722987,
+      "fy-0":87240,
+      "fy+1":0
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":9173,
+        "fy-1":58987,
+        "fy-0":87240,
+        "fy+1":0,
+        "diff":-87240
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":664000,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":9173,
+        "fy-1":722987,
+        "fy-0":87240,
+        "fy+1":0,
+        "diff":-87240
+      }
+    ]
+  }
+}
+---

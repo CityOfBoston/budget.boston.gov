@@ -1,0 +1,221 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Mayor's Office",
+  "department":"Law Department",
+  "file_version":"",
+  "head_name":"Susan Weise",
+  "head_title":"Manager",
+  "name":"Litigation",
+  "parent":"Law Department",
+  "section_id":130,
+  "section_md5_id":"9B8619251A19057CFF70779273E95AA6",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~law-operations.json",
+  "source_time":"20180410202023",
+  "source_year":"19",
+  "appropriation_code":"Organization 151200",
+  "description":[
+    "The Litigation Program is responsible for the pretrial, trial, disposition and appeals of lawsuits in federal and state courts. It supervises and manages litigation matters including personal injury cases, road defect cases, employment claims, civil rights claims, and contract disputes. Litigation support includes legal advice and representation of City employees in cases arising from the performance of their official duties. The Program also oversees the litigation of affirmative and non-litigation claims by the City against other parties. In addition, the Litigation Program manages contracts with special outside counsel and provides day to day liaison with the police department legal advisor and school department legal advisor for all litigation matters."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":943456,
+      "fy-1":863384,
+      "fy-0":1005366,
+      "fy+1":1077625
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":978287,
+      "fy-1":1422018,
+      "fy-0":1704675,
+      "fy+1":1617000
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1921743,
+      "fy-1":2285402,
+      "fy-0":2710041,
+      "fy+1":2694625
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":943456,
+        "fy-1":863384,
+        "fy-0":1005366,
+        "fy+1":1077625,
+        "diff":72259
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":978287,
+        "fy-1":1422018,
+        "fy-0":1679300,
+        "fy+1":1584975,
+        "diff":-94325
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":1000,
+        "diff":1000
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":25375,
+        "fy+1":31025,
+        "diff":5650
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":1921743,
+        "fy-1":2285402,
+        "fy-0":2710041,
+        "fy+1":2694625,
+        "diff":-15416
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To defend the City against legal claims"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"New cases handled-Actual",
+              "fy-2":"1,234",
+              "fy-1":"1,220",
+              "fy-0":"1,360",
+              "fy+1":"1,200"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To maximize the recovery of funds to the City, including deliquent taxes"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Affirmative recovery judgments and settlements-Actual",
+              "fy-2":"722,217",
+              "fy-1":"384,725",
+              "fy-0":"275,300",
+              "fy+1":"250,500"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To defend the City against legal claims"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Claims Disposed",
+              "fy-2":"827",
+              "fy-1":"900",
+              "fy-0":"845",
+              "fy+1":"725"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

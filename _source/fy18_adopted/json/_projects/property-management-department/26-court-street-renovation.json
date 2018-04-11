@@ -1,0 +1,119 @@
+---
+{
+  "category":"Government Effectiveness",
+  "category_desc":"Initiatives to maintain or enhance the efficiency of government operations.",
+  "department":"Property Management Department",
+  "file_version":"",
+  "location":"Financial District/Downtown",
+  "managing_department":"Public Facilities Department",
+  "mission":"Renovate building to improve envelope (roof, new windows, masonry repair) and upgrade interior.",
+  "name":"26 Court Street Renovation",
+  "operating_impact":"No",
+  "section_id":"CPM23470",
+  "section_type":"projects",
+  "section_type_short":"R",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_projects~property-management-department~26-court-street-renovation.json",
+  "source_time":"20180321121240",
+  "source_year":"18",
+  "status":"In Design",
+  "expenditures_detail":{
+    "table_title":"Expenditures (Actual and Planned)",
+    "table_header":{
+      "line_type":"header",
+      "line_title":null,
+      "line_data_type":"string",
+      "source":"Source",
+      "past_spending":"Through 6/30/16",
+      "fy-1":"FY17 Budget",
+      "fy-0":"FY18 Budget",
+      "fy+1-4":"FY19-22 Budget",
+      "total":"Total"
+    },
+    "data":[
+      {
+        "line_type":"data",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"City Capital",
+        "past_spending":1163397,
+        "fy-1":1100229,
+        "fy-0":1700000,
+        "fy+1-4":24281932,
+        "total":28245558
+      },
+      {
+        "line_type":"data",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"Grants/Other",
+        "past_spending":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1-4":0,
+        "total":0
+      },
+      {
+        "line_type":"total",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"Totals",
+        "past_spending":1163397,
+        "fy-1":1100229,
+        "fy-0":1700000,
+        "fy+1-4":24281932,
+        "total":28245558
+      }
+    ],
+    "authorizations_table":{
+      "table_title":"Authorizations",
+      "table_header":{
+        "line_type":"header",
+        "line_title":null,
+        "line_data_type":"string",
+        "source":"Source",
+        "existing":"Existing",
+        "fy-0":"FY18",
+        "fy-0++":"Future",
+        "other":"Non Capital Fund",
+        "total":"Total"
+      },
+      "data":[
+        {
+          "line_type":"data",
+          "line_title":null,
+          "line_data_type":"number",
+          "source":"City Capital",
+          "existing":14000000,
+          "fy-0":14245558,
+          "fy-0++":0,
+          "other":0,
+          "total":28245558
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "line_data_type":"number",
+          "source":"Grants/Other",
+          "existing":0,
+          "fy-0":0,
+          "fy-0++":0,
+          "other":0,
+          "total":0
+        },
+        {
+          "line_type":"total",
+          "line_title":"Totals",
+          "line_data_type":"number",
+          "source":"Totals",
+          "existing":14000000,
+          "fy-0":14245558,
+          "fy-0++":0,
+          "other":0,
+          "total":28245558
+        }
+      ]
+    }
+  }
+}
+---

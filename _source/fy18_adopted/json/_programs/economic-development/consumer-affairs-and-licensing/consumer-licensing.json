@@ -1,0 +1,221 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Economic Development",
+  "department":"Consumer Affairs & Licensing",
+  "file_version":"",
+  "head_name":"Christine Pulgini",
+  "head_title":"Director",
+  "name":"Consumer Licensing",
+  "parent":"Consumer Affairs & Licensing",
+  "section_id":84,
+  "section_md5_id":"68D30A9594728BC39AA24BE94B319D21",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~.json",
+  "source_time":"20180321121135",
+  "source_year":"18",
+  "appropriation_code":"Organization 114100",
+  "description":[
+    "The Licensing Program maintains safety and order throughout the City neighborhoods by  licensing  entertainment activities and maintaining compliance with relevant laws.  The Licensing Division processes new applications and renewals, inspects premises and holds hearings on licensing requests and violations.  The Licensing Division works closely with the Boston Police Department and neighborhood organizations."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":359701,
+      "fy-1":279891,
+      "fy-0":347901,
+      "fy+1":346700
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":15709,
+      "fy-1":12775,
+      "fy-0":14561,
+      "fy+1":15793
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":375410,
+      "fy-1":292666,
+      "fy-0":362462,
+      "fy+1":362493
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":359701,
+        "fy-1":279891,
+        "fy-0":347901,
+        "fy+1":346700,
+        "diff":-1201
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":8043,
+        "fy-1":3895,
+        "fy-0":6200,
+        "fy+1":7230,
+        "diff":1030
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":6831,
+        "fy-1":8371,
+        "fy-0":7825,
+        "fy+1":8050,
+        "diff":225
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":835,
+        "fy-1":509,
+        "fy-0":536,
+        "fy+1":513,
+        "diff":-23
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":375410,
+        "fy-1":292666,
+        "fy-0":362462,
+        "fy+1":362493,
+        "diff":31
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Close cases in a short amount of time for better service to consumers"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Average days until case results are communicated",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":"30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "More resolved cases from consumer complaints filed with our department"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Money refunded to consumers through CAL mediation",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"217,746",
+              "fy+1":"240,000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To track cases closed per month"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Number of consumer cases closed",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"451",
+              "fy+1":"720"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

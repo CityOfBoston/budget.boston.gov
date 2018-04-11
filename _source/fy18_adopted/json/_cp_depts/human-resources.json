@@ -1,0 +1,26 @@
+---
+{
+  "cabinet":"Administration & Finance",
+  "debug":"JBDCP",
+  "department":"Human Resources",
+  "file_version":"",
+  "head_name":"Vivian Leonard",
+  "head_title":"Director",
+  "name":"Human Resources",
+  "parent":"Administration & Finance",
+  "section_id":16,
+  "section_md5_id":"C74D97B01EAE257E44AA9D5BADE97BAF",
+  "section_type":"capital_budget",
+  "section_type_short":"L",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_cp_depts~human-resources.json",
+  "source_time":"20180321121110",
+  "source_year":"18",
+  "mission":[
+    "The mission of the Office of Human Resources is to help departments attract, motivate, retain, manage, and develop qualified and productive employees. The Office also provides unemployment benefits where necessary, as well as health and life insurance and workers' compensation benefits."
+  ],
+  "description_of_services":[
+    "Human Resources supplies departments with systems with which to manage hiring, compensation, and promotion. It pursues good labor relations, monitors unemployment benefits, and conducts affirmative action and recruitment programs as well as a full range of training programs. Additionally, the Department operates elements of the City's risk management program including employee assistance and managing attendance. As a direct service to both active and retired employees, the Department provides comprehensive and economical health insurance and life insurance, as well as access to all records."
+  ]
+}
+---

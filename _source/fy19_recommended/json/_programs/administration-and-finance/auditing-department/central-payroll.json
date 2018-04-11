@@ -1,0 +1,165 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Administration & Finance",
+  "department":"Auditing Department",
+  "file_version":"",
+  "head_name":"MacDonnell,Mark J.",
+  "head_title":"Manager",
+  "name":"Central Payroll",
+  "parent":"Auditing Department",
+  "section_id":50,
+  "section_md5_id":"C0C7C76D30BD3DCAEFC96F40275BDC0A",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~accounting.json",
+  "source_time":"20180410202107",
+  "source_year":"19",
+  "appropriation_code":"Organization 131300",
+  "description":[
+    "The primary responsibility of the Central Payroll Program is the timely and accurate processing of wages for all employees for both pay frequencies in compliance with all local, state, and federal laws, and in conformity with the City&rsquo;s collective bargaining agreements."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":402984,
+      "fy-1":484909,
+      "fy-0":572995,
+      "fy+1":594925
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":4017,
+      "fy-1":5401,
+      "fy-0":6214,
+      "fy+1":6886
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":407001,
+      "fy-1":490310,
+      "fy-0":579209,
+      "fy+1":601811
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":402984,
+        "fy-1":484909,
+        "fy-0":572995,
+        "fy+1":594925,
+        "diff":21930
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":2170,
+        "fy-1":4589,
+        "fy-0":3401,
+        "fy+1":4813,
+        "diff":1412
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":758,
+        "fy-1":812,
+        "fy-0":2138,
+        "fy+1":1400,
+        "diff":-738
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":9,
+        "fy-1":0,
+        "fy-0":675,
+        "fy+1":673,
+        "diff":-2
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":1080,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":407001,
+        "fy-1":490310,
+        "fy-0":579209,
+        "fy+1":601811,
+        "diff":22602
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Improvement through the use of technology & resources to manage the City's Payroll"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of Employee/Manager Use of Self Service",
+              "fy-2":"23%",
+              "fy-1":"30%",
+              "fy-0":"50%",
+              "fy+1":"50%"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

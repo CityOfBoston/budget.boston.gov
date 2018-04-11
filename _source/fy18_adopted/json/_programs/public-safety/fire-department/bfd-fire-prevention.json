@@ -1,0 +1,197 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Public Safety",
+  "department":"Fire Department",
+  "file_version":"",
+  "head_name":"John Dempsey",
+  "head_title":"Manager",
+  "name":"BFD Fire Prevention",
+  "parent":"Fire Department",
+  "section_id":114,
+  "section_md5_id":"5FD0B37CD7DBBB00F97BA6CE92BF5ADD",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~maintenance.json",
+  "source_time":"20180321121249",
+  "source_year":"18",
+  "appropriation_code":"Organization 221600",
+  "description":[
+    "The Fire Prevention Program is responsible for decreasing fire incidents through engineering, education, and enforcement.  Fire Prevention conducts awareness programs especially designed for the target audience and through media campaigns."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":10075651,
+      "fy-1":11068072,
+      "fy-0":11510666,
+      "fy+1":11582369
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":314734,
+      "fy-1":324953,
+      "fy-0":381305,
+      "fy+1":394691
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":10390385,
+      "fy-1":11393025,
+      "fy-0":11891971,
+      "fy+1":11977060
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":10075651,
+        "fy-1":11068072,
+        "fy-0":11510666,
+        "fy+1":11582369,
+        "diff":71703
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":67925,
+        "fy-1":81442,
+        "fy-0":124657,
+        "fy+1":125266,
+        "diff":609
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":80079,
+        "fy-1":93150,
+        "fy-0":117600,
+        "fy+1":130850,
+        "diff":13250
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":164175,
+        "fy-1":143086,
+        "fy-0":137898,
+        "fy+1":136175,
+        "diff":-1723
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":2555,
+        "fy-1":7275,
+        "fy-0":1150,
+        "fy+1":2400,
+        "diff":1250
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":10390385,
+        "fy-1":11393025,
+        "fy-0":11891971,
+        "fy+1":11977060,
+        "diff":85089
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To ensure City of Boston citizens are safe and protected from all emergencies with adequate fire fighting capacity in the field"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Elderly outreach and education visits",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"1,055",
+              "fy+1":"1,040"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Knock and Drop community programs held",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"200",
+              "fy+1":"200"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Number of incidents responded to",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"85,598",
+              "fy+1":""
+            },
+            {
+              "line_type":"data",
+              "line_data":"Response Time",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"4",
+              "fy+1":"4"
+            },
+            {
+              "line_type":"data",
+              "line_data":"School programs held to provide fire safety education",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"177",
+              "fy+1":"120"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

@@ -4,6 +4,8 @@ layout: bos_wrapper
 
 {% include hero.html %}
 
+<div id="bos_content">
+
 {% for component in page.components %}
 
   {% if component.breadcrumbs %}
@@ -42,4 +44,10 @@ layout: bos_wrapper
     {% include text_col_2.html arg=component.text_col_2 %}
   {% endif %}
 
+  {% if component.image %}
+    {% include image.html arg=component.image %}
+  {% endif %}
+
 {% endfor %}
+
+</div>

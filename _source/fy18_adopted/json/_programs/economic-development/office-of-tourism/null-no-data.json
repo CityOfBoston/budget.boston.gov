@@ -1,0 +1,135 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Economic Development",
+  "department":"Office of Tourism",
+  "file_version":"",
+  "head_name":"Amy B. Yandle",
+  "head_title":"Manager",
+  "name":"Tourism",
+  "parent":"Office of Tourism",
+  "section_id":162,
+  "section_md5_id":"82AA4B0AF34C2313A562076992E50AA3",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~null-no-data.json",
+  "source_time":"20180321121139",
+  "source_year":"18",
+  "appropriation_code":"Organization 416400",
+  "description":[
+    "The Tourism program oversees the departments's promotional efforts, its sponsorships and its international relations."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":62001,
+      "fy-1":93396,
+      "fy-0":98714,
+      "fy+1":45205
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":30089,
+      "fy-1":39023,
+      "fy-0":235915,
+      "fy+1":31500
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":92090,
+      "fy-1":132419,
+      "fy-0":334629,
+      "fy+1":76705
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":62001,
+        "fy-1":93396,
+        "fy-0":98714,
+        "fy+1":45205,
+        "diff":-53509
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":78,
+        "fy-1":1110,
+        "fy-0":205000,
+        "fy+1":5000,
+        "diff":-200000
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":7440,
+        "fy-1":3614,
+        "fy-0":10000,
+        "fy+1":7500,
+        "diff":-2500
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":2050,
+        "fy-1":2050,
+        "fy-0":2165,
+        "fy+1":250,
+        "diff":-1915
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":901,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":20521,
+        "fy-1":31348,
+        "fy-0":18750,
+        "fy+1":18750,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":92090,
+        "fy-1":132419,
+        "fy-0":334629,
+        "fy+1":76705,
+        "diff":-257924
+      }
+    ]
+  }
+}
+---

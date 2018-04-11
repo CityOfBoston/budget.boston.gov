@@ -18,5 +18,7 @@ gulp.task('create_content', function (done) {
     .pipe(gulp.dest('_pages'));
   gulp.src(['_source/' + argv.source + '/img/**'])
     .pipe(gulp.dest('img'));
+  gulp.src(['_source/' + argv.source + '/json/_chapters/**'])
+    .pipe(gulp.dest('_chapters'));
   done();
 });

@@ -1,0 +1,26 @@
+---
+{
+  "cabinet":"Administration & Finance",
+  "debug":"JBDCP",
+  "department":"Assessing Department",
+  "file_version":"",
+  "head_name":"Vacant",
+  "head_title":"Commissioner",
+  "name":"Assessing Department",
+  "parent":"Administration & Finance",
+  "section_id":23,
+  "section_md5_id":"37693CFC748049E45D87B8C7D8B9AACD",
+  "section_type":"capital_budget",
+  "section_type_short":"L",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_cp_depts~assessing-department.json",
+  "source_time":"20180321121104",
+  "source_year":"18",
+  "mission":[
+    "The mission of the Assessing Department is to accurately assess property and provide prompt and courteous responses to requests for service from the public."
+  ],
+  "description_of_services":[
+    "The Assessing Department is responsible for the valuation and assessment of all real and personal property in the City of Boston for the purpose of taxation. Assessment records are reviewed annually to reflect new construction, fire damage, and changes in ownership. The department conducts a revaluation program every three years. The department conducts research on assessment practices and provides the necessary accounting control and other related clerical support to properly assess real and personal property. The department maintains official maps, records of assessment and ownership, abatements and related property description data."
+  ]
+}
+---

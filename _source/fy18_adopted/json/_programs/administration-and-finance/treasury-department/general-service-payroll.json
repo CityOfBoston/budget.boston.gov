@@ -1,0 +1,135 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Administration & Finance",
+  "department":"Treasury Department",
+  "file_version":"",
+  "head_name":"Chinele Velazquez",
+  "head_title":"Manager",
+  "name":"General Service/Payroll",
+  "parent":"Treasury Department",
+  "section_id":32,
+  "section_md5_id":"6364D3F0F495B6AB9DCF8D3B5C6E0B01",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~general-management.json",
+  "source_time":"20180321121118",
+  "source_year":"18",
+  "appropriation_code":"Organization 138200",
+  "description":[
+    "The program is responsible for the processing and distribution of all payroll, payroll deductions, garnishment payments, accounts payable, issuance of refund payments for real estate tax overpayments and tax title payments. In addition, the program is responsible for the distribution of retirement benefit payments. The program maintains schedules for principal and interest on City borrowings."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":430904,
+      "fy-1":446309,
+      "fy-0":447023,
+      "fy+1":393237
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":264757,
+      "fy-1":246892,
+      "fy-0":269000,
+      "fy+1":269000
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":695661,
+      "fy-1":693201,
+      "fy-0":716023,
+      "fy+1":662237
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":430904,
+        "fy-1":446309,
+        "fy-0":447023,
+        "fy+1":393237,
+        "diff":-53786
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":15307,
+        "fy-1":15709,
+        "fy-0":31500,
+        "fy+1":31500,
+        "diff":0
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":249450,
+        "fy-1":231183,
+        "fy-0":237500,
+        "fy+1":237500,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":695661,
+        "fy-1":693201,
+        "fy-0":716023,
+        "fy+1":662237,
+        "diff":-53786
+      }
+    ]
+  }
+}
+---

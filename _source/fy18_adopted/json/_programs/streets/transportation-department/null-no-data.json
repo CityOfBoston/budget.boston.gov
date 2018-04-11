@@ -1,0 +1,173 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Streets",
+  "department":"Transportation Department",
+  "file_version":"",
+  "head_name":"Vineet Gupta",
+  "head_title":"Manager",
+  "name":"Policy & Planning",
+  "parent":"Transportation Department",
+  "section_id":27,
+  "section_md5_id":"02E74F10E0327AD868D138F2B4FDD6F0",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy18_adopted~json~_chapters~featured_analysis~traffic-management-and-engineering.json",
+  "source_time":"20180321121304",
+  "source_year":"18",
+  "appropriation_code":"Organization 251300",
+  "description":[
+    "The Policy and Planning Division provides planning services leading to more effective engineering, construction and management of the city&rsquo;s transportation networks and initiates new projects to support the department&rsquo;s mission.  Through extensive community process and coordination with city and state agencies, the division encourages the use of alternative modes, enhances pedestrian safety, addresses neighborhood traffic and parking concerns, reviews new development projects and proposes long-term strategies.  The division also includes bicycle programs."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY15 Actual",
+      "fy-1":"FY16 Actual",
+      "fy-0":"FY17 Budget",
+      "fy+1":"FY18 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":580680,
+      "fy-1":575278,
+      "fy-0":824931,
+      "fy+1":859804
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":875,
+      "fy-1":267617,
+      "fy-0":249500,
+      "fy+1":249500
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":581555,
+      "fy-1":842895,
+      "fy-0":1074431,
+      "fy+1":1109304
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY15 Expenditure",
+      "fy-1":"FY16 Expenditure",
+      "fy-0":"FY17 Appropriation",
+      "fy+1":"FY18 Adopted",
+      "diff":"Inc/Dec 17 vs 18"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":580680,
+        "fy-1":575278,
+        "fy-0":824931,
+        "fy+1":859804,
+        "diff":34873
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":875,
+        "fy-1":266831,
+        "fy-0":244500,
+        "fy+1":244500,
+        "diff":0
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":786,
+        "fy-0":5000,
+        "fy+1":5000,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":581555,
+        "fy-1":842895,
+        "fy-0":1074431,
+        "fy+1":1109304,
+        "diff":34873
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Design, construct, and maintain streetscapes that prioritize moving people safely"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY15 Actual",
+            "fy-1":"FY16 Actual",
+            "fy-0":"FY17 Target",
+            "fy+1":"FY18 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Average monthly collisons that cause fatality or injury",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"382",
+              "fy+1":""
+            },
+            {
+              "line_type":"data",
+              "line_data":"Total reported pedestrians injured in crashes",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"71",
+              "fy+1":""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

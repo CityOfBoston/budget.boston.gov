@@ -1,0 +1,120 @@
+---
+{
+  "debug":"JCB",
+  "cabinet":"Education",
+  "department":null,
+  "file_version":"",
+  "head_name":"Turahn Dorsey",
+  "head_title":"Chief of Education",
+  "name":"Education",
+  "parent":"root",
+  "section_id":7,
+  "section_md5_id":"8F14E45FCEEA167A5A36DEDD4BEA2543",
+  "section_type":"cabinet",
+  "section_type_short":"C",
+  "source_version":"Recommended",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~education.json",
+  "source_time":"20180410202403",
+  "source_year":"19",
+  "mission":[
+    "The Education Cabinet will be responsible for Boston&rsquo;s education landscape and tasked with crafting and executing an education agenda for the City. From early childhood education, to kindergarten, to junior high, to higher learning institutions, to educations for seniors. The cabinet will implement the vision for academic excellence across the City."
+  ],
+  "overview":[
+    "The FY19 BPS budget will increase by $48 million, or 4.5%, from the FY18 appropriation. This will bring the total investment in BPS since the Mayor took office in FY14 to $170 million. Funding directed to schools will increase by almost 6%, even before the largest driver of BPS costs, employee collective bargaining increases, are negotiated.",
+    "The FY19 BPS budget includes a $2.4 million investment to add 8 nurses, 7 psychologists, 4 social workers, and a Director of Social Work Services. This comprehensive investment in Social Emotional Learning and Wellness will make transformative impacts on the social emotional wellbeing of students at BPS. ",
+    "The BPS budget proposes $4 million in investments to close opportunity and achievement gaps and support students most in need. These include a $1.2 million increase in funding for translations for students with IEPs and their families, $700,000 to grow Excellence for All by rolling classes up to the 6th grade, $500,000 to expand Becoming a Man, a school-based group counseling program for young men in grades 7-12, and $500,000 in curriculum investments for English language learners, social and emotional learning, and expanding successful curriculum pilots.",
+    "BPS is also proposing $10 million in investments that enable schools to direct funds to their highest-need students. $3 million will be allocated to school budgets through the Opportunity Index, an innovative tool that quantifies differences in experiences, opportunities, and needs between students, allowing BPS to allocate resources more equitably. In addition, BPS is investing $3 million in additional funds for English Language Learners, $2.8 million for schools with declining enrollments, $1 million for lower performing schools, and $500,000 in additional funding for students experiencing homelessness.",
+    "BPS will continue its three research-backed major investments: extended learning time for students, high quality teachers, and early childhood education. With Extended Learning Time, the district has made an almost $20 million annual investment in adding the equivalent of 20 days of instruction to the school day for almost 60 elementary schools. In the area of teacher quality, BPS will spend $38 million in FY19 on increased salaries and benefits for educators, making them among the highest paid in the country. And in the field of early education, BPS has made steady progress in adding K1 seats, increasing the number of students by 725 since Mayor Walsh took office."
+  ],
+  "operating_department":{
+    "table_type":"operating_department",
+    "table_title":"Operating Budget",
+    "Program Name":"Department",
+    "line_type":"title",
+    "fy-2":"FY16 Actual",
+    "fy-1":"FY17 Actual",
+    "fy-0":"FY18 Budget",
+    "fy+1":"FY19 Budget",
+    "data":[
+      {
+        "department":"School Department",
+        "line_type":"data",
+        "fy-2":1016278852,
+        "fy-1":1031628517,
+        "fy-0":1092190485,
+        "fy+1":1108740381
+      },
+      {
+        "total":"Total",
+        "line_type":"total",
+        "fy-2":1016278852,
+        "fy-1":1031628517,
+        "fy-0":1092190485,
+        "fy+1":1108740381
+      }
+    ],
+    "capital_budget_expenditures":[
+      {
+        "table_type":"capital_budget_expenditures",
+        "table_title":"Capital Budget Expenditures",
+        "table_header":{
+          "title":"Capital Budget Expenditures",
+          "line_type":"header",
+          "fy-2":"FY16 Actual",
+          "fy-1":"FY17 Actual",
+          "fy-0":"FY18 Estimated",
+          "fy+1":"FY19 Projected"
+        },
+        "data":[
+          {
+            "title":"School Department",
+            "line_type":"data",
+            "fy-2":38290691,
+            "fy-1":60450528,
+            "fy-0":110704285,
+            "fy+1":90153386
+          },
+          {
+            "title":"Total",
+            "line_type":"total",
+            "fy-2":38290691,
+            "fy-1":60450528,
+            "fy-0":110704285,
+            "fy+1":90153386
+          }
+        ]
+      }
+    ]
+  },
+  "external_funds_tables":{
+    "table_type":"external_funds",
+    "table_title":"external_funds",
+    "table_header":{
+      "title":"Department",
+      "line_type":"header",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    "data":[
+      {
+        "title":"Boston Public Schools",
+        "line_type":"data",
+        "fy-2":125750999,
+        "fy-1":138414213,
+        "fy-0":137222587,
+        "fy+1":137062144
+      },
+      {
+        "total":"Total Cabinet",
+        "line_type":"total",
+        "fy-2":125750999,
+        "fy-1":138414213,
+        "fy-0":137222587,
+        "fy+1":137062144
+      }
+    ]
+  }
+}
+---

@@ -6,17 +6,17 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Fiscal Year 2018 Budget
+title: Fiscal Year 2019 Budget
 email: digital@boston.gov
-description: > # this means to ignore newlines until "baseurl:"
-  Beginning July 1, 2017 and ending June 30, 2018
+description: >
+  Beginning July 1, 2018 and ending June 30, 2019
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://budget.boston.gov"
 twitter_username: CityOfBoston
 github_username:  CityOfBoston
 
 # Set source for Travis build
-source: fy18_recommended
+fy_source: fy19_recommended
 
 # Collection settings
 collections:
@@ -38,6 +38,9 @@ collections:
   projects:
     output: true
     permalink: "/capital-projects/:path/"
+  chapters:
+    output: true
+    permalink: "/:path/"
 
 # Build settings
 markdown: kramdown
@@ -81,6 +84,19 @@ defaults:
       type: "projects"
     values:
       layout: "projects"
+  - scope:
+      path: "" # empty string for all files
+      type: "chapters"
+    values:
+      layout: "bos_content"
+
+mini_magick:
+  thumbnail:
+    source: img
+    destination: img/cards
+    resize: "385x160^"
+    gravity: "center"
+    extent: "385x160"
 
 test:
   post:

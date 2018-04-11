@@ -1,0 +1,217 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Mayor's Office",
+  "department":"Law Department",
+  "file_version":"",
+  "head_name":"Henry C. Luthin",
+  "head_title":"Manager",
+  "name":"Government Services",
+  "parent":"Law Department",
+  "section_id":131,
+  "section_md5_id":"1AFA34A7F984EEABDBB0A7D494132EE5",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Recommended",
+  "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~litigation.json",
+  "source_time":"20180410202023",
+  "source_year":"19",
+  "appropriation_code":"Organization 151300",
+  "description":[
+    "The Government Services Program provides general legal consultation to all City departments, with staff dedicated to Boston Public Schools, Boston Police Department, Inspectional Services, Public Facilities and Neighborhood Development. The Program also provides legal assistance regarding the development and implementation of new public policies and programs. Attorneys in the Government Services Division serve the dual roles of city in-house counsel and litigators.  Government Services attorneys advise the mayor, city council, and city departments on issues that touch every aspect of municipal law.  The Division provides legal advice on municipal initiatives and policies and advises city departments on their day-to-day operations.  Government Services attorneys draft and review contracts, local legislation, regulations, license and intergovernmental agreements, respond to public records requests, counsel employees on conflict of interest issues, advise on open meeting law, municipal finance, telecommunications and elections issues, and counsel city departments on real property transactions and public procurement issues.  Division attorneys also litigate cases on behalf of the city in numerous areas including zoning and land use, contract, construction, tax and procurement disputes, and challenges to city administrative determinations and legislation. The Government Services Program is also responsible for the Tax Title program which oversees the litigation of foreclosure proceedings and the collection of delinquent real estate taxes on property located in Boston."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":975290,
+      "fy-1":1328539,
+      "fy-0":2553738,
+      "fy+1":3412222
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":326702,
+      "fy-1":115044,
+      "fy-0":229275,
+      "fy+1":319662
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1301992,
+      "fy-1":1443583,
+      "fy-0":2783013,
+      "fy+1":3731884
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Recommended",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":975290,
+        "fy-1":1328539,
+        "fy-0":2553738,
+        "fy+1":3412222,
+        "diff":858484
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":326702,
+        "fy-1":115044,
+        "fy-0":202300,
+        "fy+1":236897,
+        "diff":34597
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":2600,
+        "diff":2600
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":26975,
+        "fy+1":80165,
+        "diff":53190
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":1301992,
+        "fy-1":1443583,
+        "fy-0":2783013,
+        "fy+1":3731884,
+        "diff":948871
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To maximize the recovery of funds to the City, including deliquent taxes"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Tax lien actions initiated in Land Court-Actual",
+              "fy-2":"259",
+              "fy-1":"369",
+              "fy-0":"337",
+              "fy+1":"300"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Tax lien collections-Actual",
+              "fy-2":"13,247,184",
+              "fy-1":"11,672,089",
+              "fy-0":"11,000,000",
+              "fy+1":"9,000,000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To provide consultation services that include rendering legal opinions, drafting and approving legal instruments such as contracts, agreements, licensing and indemnity agreements, zoning issues, public record requests and subpoena responses"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% contract reviews completed within 14 days-Actual",
+              "fy-2":"97%",
+              "fy-1":"91.6%",
+              "fy-0":"90%",
+              "fy+1":"90%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"City contracts processed within 14 days-Actual",
+              "fy-2":"878",
+              "fy-1":"596",
+              "fy-0":"595",
+              "fy+1":"595"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Contracts processed-Actual",
+              "fy-2":"909",
+              "fy-1":"650",
+              "fy-0":"660",
+              "fy+1":"660"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

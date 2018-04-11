@@ -16,7 +16,7 @@ gulp.task('download_wrapper', function (done) {
         ],
         injectStrings: [
           //'<base href="{{ site.url }}">', 
-          '<title>{{ page.title }} | {{ site.title }}</title><link rel="stylesheet" href="{{ site.url }}/assets/css/main.css">'
+          '<title>{{ page.title }} | {{ site.title }}</title><link rel="stylesheet" href="{{ site.url }}/assets/css/main.css"><meta version="{{ page.source_version }}" year="{{ page.source_year }}" source_time="{{ page.source_time }}" source_path="{{ page.source_path }}">'
         ]
       }))
   )

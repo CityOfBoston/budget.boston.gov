@@ -29,20 +29,20 @@ parse_yaml() {
 if [[ "${TRAVIS_BRANCH}" = "develop" ]];
   then
   # for https://budget.digital-staging.boston.gov
-    echo "On ${TRAVIS_BRANCH} branch so looking for source in _config_stg.yml"
+    echo "On ${TRAVIS_BRANCH} branch so looking for FY source in _config_stg.yml"
     eval $(parse_yaml _config_stg.yml "config_")
 elif [[ "${TRAVIS_BRANCH}" = "master" ]];
   then
   # for https://budget.boston.gov
-    echo "On ${TRAVIS_BRANCH} branch so looking for source in _config.yml"
+    echo "On ${TRAVIS_BRANCH} branch so looking for FY source in _config.yml"
     eval $(parse_yaml _config.yml "config_")
 else
-  echo "Not on develop or master branches, config_source being set to 'missing'."
-  config_source="missing"
+  echo "Not on develop or master branches, config_fy_source being set to 'missing'."
+  config_fy_source="missing"
 fi
 
 # Get the source specified in appropriate config file
-echo "The source specified in config is: $config_source."
+echo "The source specified in config is: $config_fy_source."
 
 # Get the directory that this script is in.
 DIR=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
@@ -61,10 +61,11 @@ done
 # Set initial state for source.
 source_is_found=false
 # Loop through names in sources array.
-for element in $available_sources; do
+for element in ${available_sources[@]}; do
+  echo "Does element: $element equal config_fy_source: $config_fy_source"
   # Check if any of the names match the current git tag.
-	if [[ $element == $config_source && $element != "" ]]; then
-	  echo "Config source $config_source was found in _source."
+	if [[ $element == $config_fy_source && $element != "" ]]; then
+	  echo "Config source $config_fy_source was found in _source."
     source_is_found=true
 		break
 	fi
@@ -79,17 +80,17 @@ if ( $source_is_found ); then
   if [[ "${TRAVIS_BRANCH}" = "develop" ]];
     then
       echo "Building with --staging flag."
-      gulp build --staging --source $config_source
+      gulp download_wrapper; gulp create_content --source=$config_fy_source; gulp jekyll --staging; gulp stylus
   # for https://budget.boston.gov
   elif [[ "${TRAVIS_BRANCH}" = "master" ]];
     then
       echo "Building without environment flags."
-      gulp build --source $config_source
+      gulp download_wrapper; gulp create_content --source=$config_fy_source; gulp jekyll; gulp stylus
   else
     echo "Not develop or master branches, skipping site build."
   fi
 
 else
   # Let it be known that the source couldn't be found so the build couldn't happen.
-  echo "The source could not be determined from the config file. Skipping deploy entirely."
+  echo "The FY source could not be determined from the config file. Skipping deploy entirely."
 fi

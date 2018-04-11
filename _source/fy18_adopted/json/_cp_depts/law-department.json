@@ -1,0 +1,50 @@
+---
+{
+  "cabinet":"Mayor's Office",
+  "debug":"JBDCP",
+  "department":"Law Department",
+  "file_version":"",
+  "head_name":"Eugene L. O'Flaherty",
+  "head_title":"Corporation Counsel",
+  "name":"Law Department",
+  "parent":"Mayor's Office",
+  "section_id":12,
+  "section_md5_id":"C20AD4D76FE97759AA27A0C99BFF6710",
+  "section_type":"capital_budget",
+  "section_type_short":"L",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy18_adopted~json~_cp_depts~law-department.json",
+  "source_time":"20180321121230",
+  "source_year":"18",
+  "mission":[
+    "The mission of the Law Department is to provide a high level of professional legal services to its clients, the Mayor, City Council and City departments, supporting all official capacities within City government, in a timely and cost effective manner. Law Department personnel are committed to upholding the highest ethical standards and to assuming a professional and caring attitude toward their clients, and among themselves."
+  ],
+  "description_of_services":[
+    "The Law Department supervises approximately 60 attorneys citywide. The Department also directly supervises approximately 25 support staff employees who work with the legal staff. The Department is responsible for handling court litigation, administrative hearings, appellate reviews, advisory opinions/memoranda, drafting and approving legal instruments, drafting and analyzing legislation, and providing general legal counsel."
+  ],
+  "capital_budget_expenditures":[
+    {
+      "table_type":"capital_budget_expenditures",
+      "table_title":"Capital Budget Expenditures",
+      "table_header":{
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "fy-2":"FY15 Actual",
+        "fy-1":"FY16 Actual",
+        "fy-0":"FY17 Estimated",
+        "fy+1":"FY18 Projected"
+      },
+      "data":{
+        "line_type":"total",
+        "line_title":"Total Department",
+        "line_data_type":"total",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":100000,
+        "fy+1":100000
+      }
+    }
+  ]
+}
+---
