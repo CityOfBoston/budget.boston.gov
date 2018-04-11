@@ -5,7 +5,7 @@ title: Supporting our Youth
 card:
   - title: Supporting our Youth
     body: >
-      Investment in the City’s youth is an investment in the City’s future
+      Investment in the City’s youth is an investment in the City’s future.
     img: /img/fa-mayor_with_students.jpg
     link: /featured-analysis/supporting-our-youth/
 components:
