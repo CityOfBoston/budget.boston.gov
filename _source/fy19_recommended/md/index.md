@@ -36,7 +36,7 @@ components:
       <li>Controlling fixed costs and health insurance</li>
       <li>Data-based new investments</li>
       <li>Proactive fiscal management</li>
-      <li>maximizing revenue from local revenue</li>
+      <li>Maximizing revenue from local revenue</li>
       <li>Growing in-line with the City's projected revenue growth</li>
       </ul>
       <p> These discplined financial practices have been affirmed by Boston’s AAA credit rating and have better positioned Boston to manage through changes in local, state, and federal policy and funding levels.</p>
