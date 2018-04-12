@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Health and Human Services~office-for-immigrant-advancement.json",
-  "source_time":"20180410202732",
+  "source_time":"20180411190844",
   "source_year":"19",
   "name":"Office for Immigrant Advancement",
   "parent":"Health & Human Services",
@@ -45,7 +45,7 @@
     },
     "data":[
       {
-        "name":"Immigrant Advancement",
+        "name":"Office for Immigrant Advancement",
         "line_type":"data",
         "fy-2":381363,
         "fy-1":399809,
@@ -60,64 +60,6 @@
         "fy-1":399809,
         "fy-0":439937,
         "fy+1":435916
-      }
-    ]
-  },
-  "external_funds_budget":{
-    "table_type":"External Funds",
-    "table_title":"External Funds Budget",
-    "table_header":{
-      "name":"Fund Name",
-      "line_type":"title",
-      "fy-2":"FY16 Actual",
-      "fy-1":"FY17 Actual",
-      "fy-0":"FY18 Budget",
-      "fy+1":"FY19 Budget"
-    },
-    "data":[
-      {
-        "name":"DACA-DAPA Outreach Initiative",
-        "line_type":"data",
-        "fy-2":22475,
-        "fy-1":182404,
-        "fy-0":0,
-        "fy+1":0,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Immigrant Integration & Empowerment",
-        "line_type":"data",
-        "fy-2":115893,
-        "fy-1":45537,
-        "fy-0":78163,
-        "fy+1":25219,
-        "publish_subordinates":true
-      },
-      {
-        "name":"New Americans Library Corners",
-        "line_type":"data",
-        "fy-2":13193,
-        "fy-1":59359,
-        "fy-0":28000,
-        "fy+1":25219,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Office of Immigrant Advancement Fund",
-        "line_type":"data",
-        "fy-2":22475,
-        "fy-1":270578,
-        "fy-0":240500,
-        "fy+1":283000,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Total",
-        "line_type":"total",
-        "fy-2":174036,
-        "fy-1":557878,
-        "fy-0":346663,
-        "fy+1":333438
       }
     ]
   },

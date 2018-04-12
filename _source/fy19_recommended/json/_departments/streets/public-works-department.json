@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Streets~public-works-department.json",
-  "source_time":"20180410202515",
+  "source_time":"20180411190544",
   "source_year":"19",
   "name":"Public Works Department",
   "parent":"Streets",
@@ -67,75 +67,12 @@
     },
     "data":[
       {
-        "name":"PWD Commissioner's Office",
+        "name":"Public Works Department",
         "line_type":"data",
-        "fy-2":2841754,
-        "fy-1":2898530,
-        "fy-0":2758636,
-        "fy+1":2424504,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Building/Facility Maintenance",
-        "line_type":"data",
-        "fy-2":2286572,
-        "fy-1":2479443,
-        "fy-0":2782457,
-        "fy+1":2442791,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Engineering",
-        "line_type":"data",
-        "fy-2":1670878,
-        "fy-1":1684405,
-        "fy-0":1551798,
-        "fy+1":1831349,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Construction Management",
-        "line_type":"data",
-        "fy-2":4690789,
-        "fy-1":3264965,
-        "fy-0":2981527,
-        "fy+1":3107109,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Highway Field Operations",
-        "line_type":"data",
-        "fy-2":21060512,
-        "fy-1":20163092,
-        "fy-0":20089636,
-        "fy+1":20411213,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Bridge Operations/Maintenance",
-        "line_type":"data",
-        "fy-2":2713515,
-        "fy-1":1756432,
-        "fy-0":1857976,
-        "fy+1":1799426,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Street Lights",
-        "line_type":"data",
-        "fy-2":10712131,
-        "fy-1":9225675,
-        "fy-0":11606349,
-        "fy+1":11834822,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Waste Reduction",
-        "line_type":"data",
-        "fy-2":39078603,
-        "fy-1":39175931,
-        "fy-0":40919855,
-        "fy+1":42057630,
+        "fy-2":85054754,
+        "fy-1":80648473,
+        "fy-0":84548234,
+        "fy+1":85908844,
         "publish_subordinates":true
       },
       {
@@ -161,12 +98,93 @@
     },
     "data":[
       {
+        "name":"Asian Longhorn Beetles",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Business Waste Red & Sus Asst",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"DOE Clean Cities Grant",
+        "line_type":"data",
+        "fy-2":58758,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Electronic Waste Recycling and Advertising",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Home Composting",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Keep America Beautiful",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"MBTA/Streetlight Division Facility Move",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
         "name":"Municipal Recycling",
         "line_type":"data",
         "fy-2":0,
         "fy-1":0,
         "fy-0":10000,
         "fy+1":10000,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Recycling, Public Education",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Solar Trash Compactor Demonstration",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
@@ -179,9 +197,18 @@
         "publish_subordinates":true
       },
       {
+        "name":"Sustainable Materials Recovery Program Municipal Grant",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
         "name":"Total",
         "line_type":"total",
-        "fy-2":210000,
+        "fy-2":268758,
         "fy-1":0,
         "fy-0":10000,
         "fy+1":10000

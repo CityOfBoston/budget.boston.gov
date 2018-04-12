@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Arts and Culture~office-of-arts-and-culture.json",
-  "source_time":"20180410201903",
+  "source_time":"20180411185509",
   "source_year":"19",
   "name":"Office of Arts & Culture",
   "parent":"Arts & Culture",
@@ -47,7 +47,7 @@
     },
     "data":[
       {
-        "name":"Arts & Culture",
+        "name":"Office of Arts & Culture",
         "line_type":"data",
         "fy-2":1274583,
         "fy-1":1246828,
@@ -105,6 +105,15 @@
         "publish_subordinates":true
       },
       {
+        "name":"Boston Cultural Council",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
         "name":"Communications Staff Grant",
         "line_type":"data",
         "fy-2":0,
@@ -138,6 +147,15 @@
         "fy-1":44820,
         "fy-0":400000,
         "fy+1":235011,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Local Artists Resource",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {

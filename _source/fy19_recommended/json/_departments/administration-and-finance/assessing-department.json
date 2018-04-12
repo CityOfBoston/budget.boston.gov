@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Administration and Finance~assessing-department.json",
-  "source_time":"20180410202051",
+  "source_time":"20180411190112",
   "source_year":"19",
   "name":"Assessing Department",
   "parent":"Administration & Finance",
@@ -50,30 +50,12 @@
     },
     "data":[
       {
-        "name":"Assessing Operations",
+        "name":"Assessing Department",
         "line_type":"data",
-        "fy-2":2083229,
-        "fy-1":2095836,
-        "fy-0":2092269,
-        "fy+1":2371313,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Valuation",
-        "line_type":"data",
-        "fy-2":3628264,
-        "fy-1":3629184,
-        "fy-0":3984872,
-        "fy+1":3866698,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Executive",
-        "line_type":"data",
-        "fy-2":1391991,
-        "fy-1":1267319,
-        "fy-0":1308999,
-        "fy+1":1375934,
+        "fy-2":7103484,
+        "fy-1":6992339,
+        "fy-0":7386140,
+        "fy+1":7613945,
         "publish_subordinates":true
       },
       {

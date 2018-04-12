@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Arts and Culture~library-department.json",
-  "source_time":"20180410201912",
+  "source_time":"20180411185521",
   "source_year":"19",
   "name":"Library Department",
   "parent":"Arts & Culture",
@@ -52,30 +52,12 @@
     },
     "data":[
       {
-        "name":"Library Administration",
+        "name":"Library Department",
         "line_type":"data",
-        "fy-2":18709845,
-        "fy-1":18261015,
-        "fy-0":18584106,
-        "fy+1":19339463,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Community Library Services",
-        "line_type":"data",
-        "fy-2":14425177,
-        "fy-1":14523684,
-        "fy-0":15743358,
-        "fy+1":15637758,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Research Services",
-        "line_type":"data",
-        "fy-2":1727496,
-        "fy-1":1990111,
-        "fy-0":1703023,
-        "fy+1":1869148,
+        "fy-2":34862518,
+        "fy-1":34774810,
+        "fy-0":36030487,
+        "fy+1":36846369,
         "publish_subordinates":true
       },
       {
@@ -85,82 +67,6 @@
         "fy-1":34774810,
         "fy-0":36030487,
         "fy+1":36846369
-      }
-    ]
-  },
-  "external_funds_budget":{
-    "table_type":"External Funds",
-    "table_title":"External Funds Budget",
-    "table_header":{
-      "name":"Fund Name",
-      "line_type":"title",
-      "fy-2":"FY16 Actual",
-      "fy-1":"FY17 Actual",
-      "fy-0":"FY18 Budget",
-      "fy+1":"FY19 Budget"
-    },
-    "data":[
-      {
-        "name":"Boston Public Library Affiliates",
-        "line_type":"data",
-        "fy-2":618834,
-        "fy-1":1483918,
-        "fy-0":1021486,
-        "fy+1":800183,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Inter-Library Loan Grant",
-        "line_type":"data",
-        "fy-2":100000,
-        "fy-1":100000,
-        "fy-0":100000,
-        "fy+1":100000,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Library for the Commonwealth",
-        "line_type":"data",
-        "fy-2":2501882,
-        "fy-1":2501885,
-        "fy-0":2501883,
-        "fy+1":2501883,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Other Sources",
-        "line_type":"data",
-        "fy-2":3354004,
-        "fy-1":2768952,
-        "fy-0":2580365,
-        "fy+1":2696444,
-        "publish_subordinates":true
-      },
-      {
-        "name":"State Aid to Libraries",
-        "line_type":"data",
-        "fy-2":782792,
-        "fy-1":517509,
-        "fy-0":678874,
-        "fy+1":676167,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Trust Fund Income",
-        "line_type":"data",
-        "fy-2":2260134,
-        "fy-1":1959918,
-        "fy-0":1960732,
-        "fy+1":1964079,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Total",
-        "line_type":"total",
-        "fy-2":9617646,
-        "fy-1":9332182,
-        "fy-0":8843340,
-        "fy+1":8738756
       }
     ]
   },

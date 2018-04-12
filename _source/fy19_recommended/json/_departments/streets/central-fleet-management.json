@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Streets~central-fleet-management.json",
-  "source_time":"20180410202456",
+  "source_time":"20180411190520",
   "source_year":"19",
   "name":"Central Fleet Management",
   "parent":"Streets",
@@ -43,7 +43,7 @@
     },
     "data":[
       {
-        "name":"Fleet Services",
+        "name":"Central Fleet Management",
         "line_type":"data",
         "fy-2":2148719,
         "fy-1":2322032,
@@ -58,37 +58,6 @@
         "fy-1":2322032,
         "fy-0":2829169,
         "fy+1":2976520
-      }
-    ]
-  },
-  "external_funds_budget":{
-    "table_type":"External Funds",
-    "table_title":"External Funds Budget",
-    "table_header":{
-      "name":"Fund Name",
-      "line_type":"title",
-      "fy-2":"FY16 Actual",
-      "fy-1":"FY17 Actual",
-      "fy-0":"FY18 Budget",
-      "fy+1":"FY19 Budget"
-    },
-    "data":[
-      {
-        "name":"DOE Clean Cities Grant",
-        "line_type":"data",
-        "fy-2":58758,
-        "fy-1":0,
-        "fy-0":0,
-        "fy+1":0,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Total",
-        "line_type":"total",
-        "fy-2":58758,
-        "fy-1":0,
-        "fy-0":0,
-        "fy+1":0
       }
     ]
   },

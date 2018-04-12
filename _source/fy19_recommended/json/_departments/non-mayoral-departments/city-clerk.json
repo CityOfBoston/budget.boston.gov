@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Non-Mayoral Departments~city-clerk.json",
-  "source_time":"20180410202822",
+  "source_time":"20180411190952",
   "source_year":"19",
   "name":"City Clerk",
   "parent":"Non-Mayoral Departments",
@@ -67,30 +67,12 @@
     },
     "data":[
       {
-        "name":"Legislative Support",
+        "name":"City Clerk",
         "line_type":"data",
-        "fy-2":372578,
-        "fy-1":347912,
-        "fy-0":285285,
-        "fy+1":297755,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Document Filing",
-        "line_type":"data",
-        "fy-2":416672,
-        "fy-1":429171,
-        "fy-0":517898,
-        "fy+1":523907,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Archives",
-        "line_type":"data",
-        "fy-2":357792,
-        "fy-1":383988,
-        "fy-0":443919,
-        "fy+1":480692,
+        "fy-2":1147042,
+        "fy-1":1161071,
+        "fy-0":1247102,
+        "fy+1":1302354,
         "publish_subordinates":true
       },
       {
@@ -100,6 +82,37 @@
         "fy-1":1161071,
         "fy-0":1247102,
         "fy+1":1302354
+      }
+    ]
+  },
+  "external_funds_budget":{
+    "table_type":"External Funds",
+    "table_title":"External Funds Budget",
+    "table_header":{
+      "name":"Fund Name",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    "data":[
+      {
+        "name":"National Historical Publications & Records Commission (NHPRC)",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0
       }
     ]
   },

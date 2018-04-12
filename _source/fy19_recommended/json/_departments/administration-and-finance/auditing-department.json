@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Administration and Finance~auditing-department.json",
-  "source_time":"20180410202100",
+  "source_time":"20180411190123",
   "source_year":"19",
   "name":"Auditing Department",
   "parent":"Administration & Finance",
@@ -67,48 +67,12 @@
     },
     "data":[
       {
-        "name":"Auditing Administration",
+        "name":"Auditing Department",
         "line_type":"data",
-        "fy-2":412250,
-        "fy-1":386579,
-        "fy-0":517188,
-        "fy+1":566236,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Accounting",
-        "line_type":"data",
-        "fy-2":698402,
-        "fy-1":689484,
-        "fy-0":734866,
-        "fy+1":761854,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Central Payroll",
-        "line_type":"data",
-        "fy-2":407001,
-        "fy-1":490310,
-        "fy-0":579209,
-        "fy+1":601811,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Grants Monitoring",
-        "line_type":"data",
-        "fy-2":274648,
-        "fy-1":285061,
-        "fy-0":167949,
-        "fy+1":146595,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Accounts Payable",
-        "line_type":"data",
-        "fy-2":777960,
-        "fy-1":689644,
-        "fy-0":789869,
-        "fy+1":817832,
+        "fy-2":2570261,
+        "fy-1":2541078,
+        "fy-0":2789081,
+        "fy+1":2894328,
         "publish_subordinates":true
       },
       {
@@ -134,6 +98,15 @@
     },
     "data":[
       {
+        "name":"ARRA - Earned Indirect",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
         "name":"BAIS Financials Upgrade",
         "line_type":"data",
         "fy-2":279353,
@@ -149,6 +122,15 @@
         "fy-1":151930,
         "fy-0":175679,
         "fy+1":181817,
+        "publish_subordinates":true
+      },
+      {
+        "name":"FEMA Disaster Recovery Asst",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {

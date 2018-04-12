@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Economic Development~office-of-economic-development.json",
-  "source_time":"20180410202432",
+  "source_time":"20180411190453",
   "source_year":"19",
   "name":"Office of Economic Development",
   "parent":"Economic Development",
@@ -51,30 +51,12 @@
     },
     "data":[
       {
-        "name":"Economic Development",
+        "name":"Office of Economic Development",
         "line_type":"data",
-        "fy-2":680543,
-        "fy-1":937675,
-        "fy-0":871615,
-        "fy+1":1046559,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Boston Residents Jobs Policy",
-        "line_type":"data",
-        "fy-2":406174,
-        "fy-1":504409,
-        "fy-0":649564,
-        "fy+1":703004,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Small & Local Business",
-        "line_type":"data",
-        "fy-2":473064,
-        "fy-1":1076640,
-        "fy-0":1037216,
-        "fy+1":1186062,
+        "fy-2":1559781,
+        "fy-1":2518724,
+        "fy-0":2558395,
+        "fy+1":2935625,
         "publish_subordinates":true
       },
       {
@@ -84,73 +66,6 @@
         "fy-1":2518724,
         "fy-0":2558395,
         "fy+1":2935625
-      }
-    ]
-  },
-  "external_funds_budget":{
-    "table_type":"External Funds",
-    "table_title":"External Funds Budget",
-    "table_header":{
-      "name":"Fund Name",
-      "line_type":"title",
-      "fy-2":"FY16 Actual",
-      "fy-1":"FY17 Actual",
-      "fy-0":"FY18 Budget",
-      "fy+1":"FY19 Budget"
-    },
-    "data":[
-      {
-        "name":"CDBG",
-        "line_type":"data",
-        "fy-2":0,
-        "fy-1":4685344,
-        "fy-0":7233946,
-        "fy+1":7376186,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Choice Neighborhood Implementation Grant",
-        "line_type":"data",
-        "fy-2":0,
-        "fy-1":0,
-        "fy-0":0,
-        "fy+1":50000,
-        "publish_subordinates":true
-      },
-      {
-        "name":"EDIC",
-        "line_type":"data",
-        "fy-2":3031,
-        "fy-1":0,
-        "fy-0":500000,
-        "fy+1":613615,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Neighborhood Development Fund",
-        "line_type":"data",
-        "fy-2":0,
-        "fy-1":0,
-        "fy-0":0,
-        "fy+1":317500,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Section 108 (Unrestricted)",
-        "line_type":"data",
-        "fy-2":0,
-        "fy-1":281618,
-        "fy-0":317500,
-        "fy+1":0,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Total",
-        "line_type":"total",
-        "fy-2":3031,
-        "fy-1":4966962,
-        "fy-0":8051446,
-        "fy+1":8357301
       }
     ]
   },
