@@ -1,9 +1,9 @@
 ---
 layout: bos_content
 permalink: /featured-analysis/non-recurring-revenue/
-title: Non Recurring Revenue
+title: Non-Recurring Revenue
 card:
-  - title: Non Recurring Revenue
+  - title: Non-Recurring Revenue
     body: >
       The City relies on two sources of non-recurring revenue for non-recurring expenditures. 
     img: /img/fa-non-recurring-revenue.jpg
