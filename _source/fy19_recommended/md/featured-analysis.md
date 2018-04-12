@@ -13,7 +13,7 @@ components:
   - title: Featured Analysis
     short_desc: >
       Boston is a growing and thriving city, whose residents need
-      new and expanded services. Throuhgh data-driven initiatives,
+      new and expanded services. Through data-driven initiatives,
       other planning efforts, the Walsh Administration has 
       identified new areas for investment in key areas highlighted below.
     sidebar_menu: true
