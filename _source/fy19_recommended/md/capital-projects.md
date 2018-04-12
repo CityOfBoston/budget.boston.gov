@@ -11,11 +11,14 @@ components:
   - published: 4/11/18
 - intro:
   - title: Capital Projects
-    short_desc: >
-      <a href="http://boston.maps.arcgis.com/apps/View/index.html?appid=e7f722f508fd40d08a4000eb68fab291" target="_blank"><img src="https://budget.boston.gov/img/capital-map.jpg" alt="Map of Capital Projects in Boston" style="width: 100%" /></a>
-      <p>
-      <a href="http://boston.maps.arcgis.com/apps/View/index.html?appid=e7f722f508fd40d08a4000eb68fab291" target="_blank">View the map of capital projects projects in Boston in a new tab</a>
-      </p>
+    short_desc:
+      - linked_image:
+          link: http://boston.maps.arcgis.com/apps/View/index.html?appid=e7f722f508fd40d08a4000eb68fab291"
+          img:  /img/new_map.png
+      - blurb: >
+          <p>
+          <a href="http://boston.maps.arcgis.com/apps/View/index.html?appid=e7f722f508fd40d08a4000eb68fab291" target="_blank">View the map of capital projects projects in Boston in a new tab</a>
+          </p>
     sidebar_menu: true
 - text_block:
   - title: What Are Capital Projects?

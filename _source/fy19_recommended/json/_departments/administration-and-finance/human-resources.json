@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Administration and Finance~human-resources.json",
-  "source_time":"20180410202119",
+  "source_time":"20180411190158",
   "source_year":"19",
   "name":"Human Resources",
   "parent":"Administration & Finance",
@@ -72,48 +72,12 @@
     },
     "data":[
       {
-        "name":"Personnel",
+        "name":"Human Resources",
         "line_type":"data",
-        "fy-2":1750447,
-        "fy-1":1833024,
-        "fy-0":2769644,
-        "fy+1":3215944,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Affirmative Action",
-        "line_type":"data",
-        "fy-2":53743,
-        "fy-1":27000,
-        "fy-0":30500,
-        "fy+1":30500,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Health Benefits & Insurance",
-        "line_type":"data",
-        "fy-2":593523,
-        "fy-1":676286,
-        "fy-0":833892,
-        "fy+1":889432,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Employee Assistance",
-        "line_type":"data",
-        "fy-2":174328,
-        "fy-1":186875,
-        "fy-0":18927,
-        "fy+1":119854,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Workers Comp",
-        "line_type":"data",
-        "fy-2":924982,
-        "fy-1":830547,
-        "fy-0":853906,
-        "fy+1":763795,
+        "fy-2":3497023,
+        "fy-1":3553732,
+        "fy-0":4506869,
+        "fy+1":5019525,
         "publish_subordinates":true
       },
       {
@@ -123,6 +87,37 @@
         "fy-1":3553732,
         "fy-0":4506869,
         "fy+1":5019525
+      }
+    ]
+  },
+  "external_funds_budget":{
+    "table_type":"External Funds",
+    "table_title":"External Funds Budget",
+    "table_header":{
+      "name":"Fund Name",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    "data":[
+      {
+        "name":"Occupational Safety & Health Education & Training",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0
       }
     ]
   },

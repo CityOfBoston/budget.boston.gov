@@ -8,8 +8,8 @@
   "section_type":"department",
   "section_type_short":"D",
   "source_version":"Recommended",
-  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Environment, Energy and Open Space~inspectional-services-dept.json",
-  "source_time":"20180410202605",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Environment, Energy and Open Space~inspectional-services-department.json",
+  "source_time":"20180411190651",
   "source_year":"19",
   "name":"Inspectional Services Dept",
   "parent":"Environment, Energy & Open Space",
@@ -64,39 +64,12 @@
     },
     "data":[
       {
-        "name":"ISD Commissioner's Office",
+        "name":"Inspectional Services Dept",
         "line_type":"data",
-        "fy-2":1109917,
-        "fy-1":1031777,
-        "fy-0":1237438,
-        "fy+1":1193278,
-        "publish_subordinates":true
-      },
-      {
-        "name":"ISD Administration & Finance",
-        "line_type":"data",
-        "fy-2":3399462,
-        "fy-1":3350344,
-        "fy-0":3551250,
-        "fy+1":3222569,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Buildings & Structures",
-        "line_type":"data",
-        "fy-2":6360690,
-        "fy-1":6083262,
-        "fy-0":6674770,
-        "fy+1":7053767,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Field Services",
-        "line_type":"data",
-        "fy-2":7362854,
-        "fy-1":8089868,
-        "fy-0":7919023,
-        "fy+1":7949839,
+        "fy-2":18232923,
+        "fy-1":18555251,
+        "fy-0":19382481,
+        "fy+1":19419453,
         "publish_subordinates":true
       },
       {

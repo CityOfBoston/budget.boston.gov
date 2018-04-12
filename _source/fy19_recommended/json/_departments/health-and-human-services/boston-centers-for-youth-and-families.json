@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Health and Human Services~boston-centers-for-youth-and-families.json",
-  "source_time":"20180410202636",
+  "source_time":"20180411190731",
   "source_year":"19",
   "name":"Boston Centers for Youth & Families",
   "parent":"Health & Human Services",
@@ -50,39 +50,12 @@
     },
     "data":[
       {
-        "name":"Administrative & Policy",
+        "name":"Boston Centers for Youth & Families",
         "line_type":"data",
-        "fy-2":14690449,
-        "fy-1":16078313,
-        "fy-0":15224090,
-        "fy+1":15936833,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Sports & Fitness",
-        "line_type":"data",
-        "fy-2":4245241,
-        "fy-1":4192337,
-        "fy-0":6748198,
-        "fy+1":4690374,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Youth & Family Services",
-        "line_type":"data",
-        "fy-2":3576048,
-        "fy-1":3663638,
-        "fy-0":3822862,
-        "fy+1":4207360,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Child Care & Out-of-School",
-        "line_type":"data",
-        "fy-2":2406009,
-        "fy-1":2082568,
-        "fy-0":2437835,
-        "fy+1":2460745,
+        "fy-2":24917747,
+        "fy-1":26016856,
+        "fy-0":28232985,
+        "fy+1":27295312,
         "publish_subordinates":true
       },
       {
@@ -92,136 +65,6 @@
         "fy-1":26016856,
         "fy-0":28232985,
         "fy+1":27295312
-      }
-    ]
-  },
-  "external_funds_budget":{
-    "table_type":"External Funds",
-    "table_title":"External Funds Budget",
-    "table_header":{
-      "name":"Fund Name",
-      "line_type":"title",
-      "fy-2":"FY16 Actual",
-      "fy-1":"FY17 Actual",
-      "fy-0":"FY18 Budget",
-      "fy+1":"FY19 Budget"
-    },
-    "data":[
-      {
-        "name":"Boston Food Policy Council",
-        "line_type":"data",
-        "fy-2":652,
-        "fy-1":0,
-        "fy-0":0,
-        "fy+1":0,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Can Share",
-        "line_type":"data",
-        "fy-2":68076,
-        "fy-1":67766,
-        "fy-0":40000,
-        "fy+1":40000,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Center Based Daycare Program",
-        "line_type":"data",
-        "fy-2":5070,
-        "fy-1":9976,
-        "fy-0":9119,
-        "fy+1":0,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Charles E Shannon Grant",
-        "line_type":"data",
-        "fy-2":106661,
-        "fy-1":69132,
-        "fy-0":100000,
-        "fy+1":114714,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Child & Adult Care Food",
-        "line_type":"data",
-        "fy-2":122,
-        "fy-1":701,
-        "fy-0":360,
-        "fy+1":5000,
-        "publish_subordinates":true
-      },
-      {
-        "name":"City Hall Child Care",
-        "line_type":"data",
-        "fy-2":521147,
-        "fy-1":513412,
-        "fy-0":1330944,
-        "fy+1":750000,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Community-Based Violence Prev2",
-        "line_type":"data",
-        "fy-2":49017,
-        "fy-1":10673,
-        "fy-0":127212,
-        "fy+1":0,
-        "publish_subordinates":true
-      },
-      {
-        "name":"James Curley Recreation Center",
-        "line_type":"data",
-        "fy-2":50000,
-        "fy-1":0,
-        "fy-0":0,
-        "fy+1":0,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Mayor's Food Security Action Plan",
-        "line_type":"data",
-        "fy-2":6047,
-        "fy-1":70655,
-        "fy-0":65001,
-        "fy+1":52163,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Shannon Community Safety",
-        "line_type":"data",
-        "fy-2":0,
-        "fy-1":83061,
-        "fy-0":0,
-        "fy+1":0,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Street Safe Boston",
-        "line_type":"data",
-        "fy-2":1007143,
-        "fy-1":849468,
-        "fy-0":680609,
-        "fy+1":432195,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Tiny Tots Program",
-        "line_type":"data",
-        "fy-2":70847,
-        "fy-1":81177,
-        "fy-0":77567,
-        "fy+1":41163,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Total",
-        "line_type":"total",
-        "fy-2":1884782,
-        "fy-1":1756021,
-        "fy-0":2430812,
-        "fy+1":1435235
       }
     ]
   },

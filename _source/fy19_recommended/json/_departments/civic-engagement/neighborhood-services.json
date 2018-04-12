@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Civic Engagement~neighborhood-services.json",
-  "source_time":"20180410201922",
+  "source_time":"20180411185537",
   "source_year":"19",
   "name":"Neighborhood Services",
   "parent":"Civic Engagement",
@@ -57,39 +57,12 @@
     },
     "data":[
       {
-        "name":"ONS Administration",
+        "name":"Neighborhood Services",
         "line_type":"data",
-        "fy-2":506835,
-        "fy-1":557037,
-        "fy-0":585698,
-        "fy+1":609809,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Neighborhood Serv",
-        "line_type":"data",
-        "fy-2":1009736,
-        "fy-1":1113069,
-        "fy-0":1180925,
-        "fy+1":1333359,
-        "publish_subordinates":true
-      },
-      {
-        "name":"City Hall to Go",
-        "line_type":"data",
-        "fy-2":128862,
-        "fy-1":127205,
-        "fy-0":175929,
-        "fy+1":152665,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Boston 311",
-        "line_type":"data",
-        "fy-2":879467,
-        "fy-1":882486,
-        "fy-0":1345061,
-        "fy+1":1312382,
+        "fy-2":2524900,
+        "fy-1":2679797,
+        "fy-0":3287613,
+        "fy+1":3408215,
         "publish_subordinates":true
       },
       {

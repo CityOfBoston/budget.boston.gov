@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Mayor's Office~election-department.json",
-  "source_time":"20180410202007",
+  "source_time":"20180411190001",
   "source_year":"19",
   "name":"Election Department",
   "parent":"Mayor's Office",
@@ -57,48 +57,21 @@
     },
     "data":[
       {
-        "name":"Annual Listing",
+        "name":"Election Department",
         "line_type":"data",
-        "fy-2":506691,
-        "fy-1":536687,
-        "fy-0":534712,
-        "fy+1":513725,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Election Administration",
-        "line_type":"data",
-        "fy-2":698418,
-        "fy-1":785999,
-        "fy-0":793971,
-        "fy+1":1090594,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Voter Registration",
-        "line_type":"data",
-        "fy-2":329741,
-        "fy-1":363573,
-        "fy-0":365253,
-        "fy+1":381942,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Election Activities",
-        "line_type":"data",
-        "fy-2":2239947,
-        "fy-1":2337960,
-        "fy-0":2606992,
-        "fy+1":2745708,
+        "fy-2":3268106,
+        "fy-1":3487532,
+        "fy-0":3766216,
+        "fy+1":4218244,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":3774797,
-        "fy-1":4024219,
-        "fy-0":4300928,
-        "fy+1":4731969
+        "fy-2":3268106,
+        "fy-1":3487532,
+        "fy-0":3766216,
+        "fy+1":4218244
       }
     ]
   },

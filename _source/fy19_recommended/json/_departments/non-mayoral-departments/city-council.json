@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Non-Mayoral Departments~city-council.json",
-  "source_time":"20180410202830",
+  "source_time":"20180411191003",
   "source_year":"19",
   "name":"City Council",
   "parent":"Non-Mayoral Departments",
@@ -45,30 +45,12 @@
     },
     "data":[
       {
-        "name":"City Council Administration",
+        "name":"City Council",
         "line_type":"data",
-        "fy-2":338734,
-        "fy-1":328994,
-        "fy-0":358664,
-        "fy+1":409177,
-        "publish_subordinates":true
-      },
-      {
-        "name":"City Councilors",
-        "line_type":"data",
-        "fy-2":4323562,
-        "fy-1":4257060,
-        "fy-0":4418092,
-        "fy+1":4414540,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Legislative/Financial Support",
-        "line_type":"data",
-        "fy-2":544154,
-        "fy-1":498016,
-        "fy-0":564021,
-        "fy+1":570469,
+        "fy-2":5206450,
+        "fy-1":5084070,
+        "fy-0":5340777,
+        "fy+1":5394186,
         "publish_subordinates":true
       },
       {

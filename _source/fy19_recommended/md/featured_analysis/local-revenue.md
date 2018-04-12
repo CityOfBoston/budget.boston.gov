@@ -31,6 +31,7 @@ components:
       <p>Many of the City’s local receipts are sensitive to existing economic conditions and the City takes a cautious approach when estimating local receipts.</p>  
       <p>With limited revenue tools, the City is continuing an initiative in the FY19 budget to better maximize the local revenue tools. This City will also work to maximize federal health insurance reimbursements and address past due bills to recover revenue.</p> 
       <p>The following is a brief description of selected local receipts and their expectations for FY19:</p>
+- text_block:
   - title: Excises
     body: >
       <ul>
@@ -47,6 +48,7 @@ components:
       <li>Payments in Lieu of Taxes (PILOTs) are payments made by property tax-exempt institutions located in the City, including hospitals, universities, and cultural institutions. These are voluntary contributions for municipal services such as police and fire protection, street cleaning, and snow removal. Growth in PILOT revenue comes from new agreements, escalations that adjust the payments for inflation, and re-negotiation or expansion of current agreements. The Massachusetts Port Authority (MassPort) currently provides 35% of the PILOT revenue the City receives annually. Voluntary PILOTS are expected to increase slightly to an estimated $46 million in FY19.</li>
       <li>Chapter 121A agreements are payments in lieu of tax for property under tax agreements.  Those that qualify pay different taxes on income and property as determined under Chapter 121A of Massachusetts General Law. 121A payments are budgeted at $27.5 million in FY19.</li></ul>
       </ul>
+- text_block:
   - title: Other Sources of Local Revenue
     body: >
       <ul>       
@@ -56,6 +58,7 @@ components:
       <li>Building on his commitment to create a safer, more equitable transportation future for Boston, Mayor Walsh will invest $5 million aimed at upgrading transportation infrastructure to benefit all modes of travel. These investments are funded through a strategic set of increases to the City’s current fine structure for parking violations. The updated parking fine structure, last revised in 2008, is expected to produce positive outcomes by influencing driver behavior and reducing congestion and emissions, increasing cleanliness, and improving the parking experience.</li> 
       <li>The remaining sources of recurring revenue to the City are set rates of fees, fines, penalties and interest. These usually endure economic changes with small changes in activity or revenue.</li>
       </ul>
+- text_block:
   - title: Available Funds
     body: >
       <ul>         

@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Health and Human Services~emergency-shelter-commission.json",
-  "source_time":"20180410202716",
+  "source_time":"20180411190821",
   "source_year":"19",
   "name":"Emergency Shelter Commission",
   "parent":"Health & Human Services",
@@ -21,6 +21,46 @@
   "mission":[
     "The mission of the Emergency Shelter Commission is to coordinate a safety net of services for Boston's homeless and for persons in need of food assistance. * In FY11, Emergency Shelter Commission was consolidated into the Public Health Commission."
   ],
+  "external_funds_budget":{
+    "table_type":"External Funds",
+    "table_title":"External Funds Budget",
+    "table_header":{
+      "name":"Fund Name",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    "data":[
+      {
+        "name":"Elderly Street Homeless",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Homeless Prevention Clearinghouse",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0
+      }
+    ]
+  },
   "selected_service_indicators":[
     {
       "line_title":"Operating Budget",

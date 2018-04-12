@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Environment, Energy and Open Space~parks-and-recreation-department.json",
-  "source_time":"20180410202618",
+  "source_time":"20180411190705",
   "source_year":"19",
   "name":"Parks & Recreation Department",
   "parent":"Environment, Energy & Open Space",
@@ -61,57 +61,21 @@
     },
     "data":[
       {
-        "name":"Parks & Recreation Administration",
+        "name":"Parks & Recreation Department",
         "line_type":"data",
-        "fy-2":3342090,
-        "fy-1":3206679,
-        "fy-0":3211214,
-        "fy+1":3338387,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Parks Operations",
-        "line_type":"data",
-        "fy-2":11916104,
-        "fy-1":13230951,
-        "fy-0":13573374,
-        "fy+1":14294574,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Citywide Recreation",
-        "line_type":"data",
-        "fy-2":990261,
-        "fy-1":1347333,
-        "fy-0":1054308,
-        "fy+1":1076527,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Parks Design & Construction",
-        "line_type":"data",
-        "fy-2":5122325,
-        "fy-1":2171220,
-        "fy-0":2204946,
-        "fy+1":2249186,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Cemetery",
-        "line_type":"data",
-        "fy-2":2277347,
-        "fy-1":2328260,
-        "fy-0":2512345,
-        "fy+1":2556360,
+        "fy-2":21370780,
+        "fy-1":19956183,
+        "fy-0":20043842,
+        "fy+1":20958674,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":23648127,
-        "fy-1":22284443,
-        "fy-0":22556187,
-        "fy+1":23515034
+        "fy-2":21370780,
+        "fy-1":19956183,
+        "fy-0":20043842,
+        "fy+1":20958674
       }
     ]
   },
@@ -128,6 +92,15 @@
     },
     "data":[
       {
+        "name":"Fairview Cemetery Trust Fund",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
         "name":"Fund for Parks and Recreation",
         "line_type":"data",
         "fy-2":6320497,
@@ -143,6 +116,15 @@
         "fy-1":1153154,
         "fy-0":1200001,
         "fy+1":1267893,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Mount Hope Cemetery Trust Fund",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {

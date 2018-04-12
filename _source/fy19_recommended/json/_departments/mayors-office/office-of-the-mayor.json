@@ -8,8 +8,8 @@
   "section_type":"department",
   "section_type_short":"D",
   "source_version":"Recommended",
-  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Mayor's Office~mayors-office.json",
-  "source_time":"20180410201956",
+  "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Mayor's Office~office-of-the-mayor.json",
+  "source_time":"20180411185947",
   "source_year":"19",
   "name":"Mayor's Office",
   "parent":"Mayor's Office",
@@ -34,48 +34,12 @@
     },
     "data":[
       {
-        "name":"Mayor's Administration",
+        "name":"Mayor's Office",
         "line_type":"data",
-        "fy-2":1056163,
-        "fy-1":1252191,
-        "fy-0":1251580,
-        "fy+1":1469428,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Mayor's Executive",
-        "line_type":"data",
-        "fy-2":333987,
-        "fy-1":335482,
-        "fy-0":357465,
-        "fy+1":360329,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Mayor's Policy & Planning",
-        "line_type":"data",
-        "fy-2":959204,
-        "fy-1":1227631,
-        "fy-0":1559055,
-        "fy+1":1524523,
-        "publish_subordinates":true
-      },
-      {
-        "name":"New Urban Mechanics",
-        "line_type":"data",
-        "fy-2":280703,
-        "fy-1":297862,
-        "fy-0":424536,
-        "fy+1":474409,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Mayor's Communications",
-        "line_type":"data",
-        "fy-2":603653,
-        "fy-1":657042,
-        "fy-0":867304,
-        "fy+1":770317,
+        "fy-2":3233710,
+        "fy-1":3770208,
+        "fy-0":4459940,
+        "fy+1":4599006,
         "publish_subordinates":true
       },
       {
@@ -143,6 +107,33 @@
         "fy-1":449973,
         "fy-0":709621,
         "fy+1":169582,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Innovations in American Government",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Integrated Energy Mgmt Plan",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Living Cities Grant",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
