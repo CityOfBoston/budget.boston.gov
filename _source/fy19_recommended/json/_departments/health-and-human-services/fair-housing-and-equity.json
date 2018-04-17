@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Health and Human Services~fair-housing-and-equity.json",
-  "source_time":"20180416160936",
+  "source_time":"20180417115944",
   "source_year":"19",
   "name":"Fair Housing & Equity",
   "parent":"Health & Human Services",
@@ -45,12 +45,21 @@
     },
     "data":[
       {
-        "name":"Fair Housing & Equity",
+        "name":"Fair Housing Commission",
         "line_type":"data",
-        "fy-2":160430,
-        "fy-1":257639,
-        "fy-0":283727,
-        "fy+1":302905,
+        "fy-2":151260,
+        "fy-1":178889,
+        "fy-0":190723,
+        "fy+1":174909,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Human Rights Commission",
+        "line_type":"data",
+        "fy-2":9170,
+        "fy-1":78750,
+        "fy-0":93004,
+        "fy+1":127996,
         "publish_subordinates":true
       },
       {

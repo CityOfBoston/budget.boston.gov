@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Economic Development~office-of-economic-development.json",
-  "source_time":"20180416155827",
+  "source_time":"20180417115832",
   "source_year":"19",
   "name":"Office of Economic Development",
   "parent":"Economic Development",
@@ -51,12 +51,30 @@
     },
     "data":[
       {
-        "name":"Office of Economic Development",
+        "name":"Economic Development",
         "line_type":"data",
-        "fy-2":1559781,
-        "fy-1":2518724,
-        "fy-0":2558395,
-        "fy+1":2935625,
+        "fy-2":680543,
+        "fy-1":937675,
+        "fy-0":871615,
+        "fy+1":1046559,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Boston Residents Jobs Policy",
+        "line_type":"data",
+        "fy-2":406174,
+        "fy-1":504409,
+        "fy-0":649564,
+        "fy+1":703004,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Small & Local Business",
+        "line_type":"data",
+        "fy-2":473064,
+        "fy-1":1076640,
+        "fy-0":1037216,
+        "fy+1":1186062,
         "publish_subordinates":true
       },
       {

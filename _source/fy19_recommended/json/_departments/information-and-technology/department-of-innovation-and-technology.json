@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Information and Technology~department-of-innovation-and-technology.json",
-  "source_time":"20180416155323",
+  "source_time":"20180417115749",
   "source_year":"19",
   "name":"Department of Innovation & Technology",
   "parent":"Information & Technology",
@@ -66,12 +66,57 @@
     },
     "data":[
       {
-        "name":"Department of Innovation & Technology",
+        "name":"DoIT Operations",
         "line_type":"data",
-        "fy-2":32046766,
-        "fy-1":32339123,
-        "fy-0":29433345,
-        "fy+1":30444345,
+        "fy-2":2986504,
+        "fy-1":4423192,
+        "fy-0":3465092,
+        "fy+1":2724988,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Enterprise Applications",
+        "line_type":"data",
+        "fy-2":13068158,
+        "fy-1":11601389,
+        "fy-0":9577026,
+        "fy+1":11515249,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Digital Engagement & Services",
+        "line_type":"data",
+        "fy-2":906435,
+        "fy-1":1123889,
+        "fy-0":1356414,
+        "fy+1":1644939,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Core Infrastructure",
+        "line_type":"data",
+        "fy-2":13283214,
+        "fy-1":14320678,
+        "fy-0":13313243,
+        "fy+1":12353323,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Data & Analytics",
+        "line_type":"data",
+        "fy-2":1802455,
+        "fy-1":462670,
+        "fy-0":1269752,
+        "fy+1":1633431,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Broadband & Digital Equity",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":407305,
+        "fy-0":451818,
+        "fy+1":572415,
         "publish_subordinates":true
       },
       {

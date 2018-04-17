@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Public Safety~police-department.json",
-  "source_time":"20180416155549",
+  "source_time":"20180417115805",
   "source_year":"19",
   "name":"Police Department",
   "parent":"Public Safety",
@@ -74,12 +74,75 @@
     },
     "data":[
       {
-        "name":"Police Department",
+        "name":"Police Commissioner's Office",
         "line_type":"data",
-        "fy-2":348887844,
-        "fy-1":364594820,
-        "fy-0":385562872,
-        "fy+1":400175675,
+        "fy-2":8621069,
+        "fy-1":9246592,
+        "fy-0":7806120,
+        "fy+1":7786502,
+        "publish_subordinates":true
+      },
+      {
+        "name":"BAT-Operations",
+        "line_type":"data",
+        "fy-2":19483314,
+        "fy-1":20630072,
+        "fy-0":21082594,
+        "fy+1":21825365,
+        "publish_subordinates":true
+      },
+      {
+        "name":"BAT-Admin & Technology",
+        "line_type":"data",
+        "fy-2":45643618,
+        "fy-1":49337563,
+        "fy-0":53380826,
+        "fy+1":55502592,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Bureau of Professional Development",
+        "line_type":"data",
+        "fy-2":8056091,
+        "fy-1":8650342,
+        "fy-0":7534031,
+        "fy+1":10436484,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Bureau of Field Services",
+        "line_type":"data",
+        "fy-2":185672652,
+        "fy-1":193457518,
+        "fy-0":220148479,
+        "fy+1":227970411,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Bureau of Professional Standards",
+        "line_type":"data",
+        "fy-2":8465414,
+        "fy-1":8824485,
+        "fy-0":8050722,
+        "fy+1":7885622,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Bureau of Investigative Services",
+        "line_type":"data",
+        "fy-2":69615348,
+        "fy-1":71017514,
+        "fy-0":64365861,
+        "fy+1":65508794,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Bureau of Intelligence & Analysis",
+        "line_type":"data",
+        "fy-2":3330338,
+        "fy-1":3430734,
+        "fy-0":3194239,
+        "fy+1":3259905,
         "publish_subordinates":true
       },
       {

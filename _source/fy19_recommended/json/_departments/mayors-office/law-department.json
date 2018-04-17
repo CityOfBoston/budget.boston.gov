@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Mayor's Office~law-department.json",
-  "source_time":"20180416154541",
+  "source_time":"20180417115649",
   "source_year":"19",
   "name":"Law Department",
   "parent":"Mayor's Office",
@@ -52,12 +52,39 @@
     },
     "data":[
       {
-        "name":"Law Department",
+        "name":"Law Operations",
         "line_type":"data",
-        "fy-2":5752779,
-        "fy-1":5252663,
-        "fy-0":6739408,
-        "fy+1":7800803,
+        "fy-2":1806057,
+        "fy-1":1464518,
+        "fy-0":1246354,
+        "fy+1":1374294,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Litigation",
+        "line_type":"data",
+        "fy-2":1921743,
+        "fy-1":2285402,
+        "fy-0":2710041,
+        "fy+1":2694625,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Government Services",
+        "line_type":"data",
+        "fy-2":1301992,
+        "fy-1":1443583,
+        "fy-0":2783013,
+        "fy+1":3731884,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Office of Gaming & Accountability",
+        "line_type":"data",
+        "fy-2":722987,
+        "fy-1":59160,
+        "fy-0":0,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {

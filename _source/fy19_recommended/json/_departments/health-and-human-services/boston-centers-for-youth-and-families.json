@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Health and Human Services~boston-centers-for-youth-and-families.json",
-  "source_time":"20180416160616",
+  "source_time":"20180417115928",
   "source_year":"19",
   "name":"Boston Centers for Youth & Families",
   "parent":"Health & Human Services",
@@ -50,12 +50,39 @@
     },
     "data":[
       {
-        "name":"Boston Centers for Youth & Families",
+        "name":"Administrative & Policy",
         "line_type":"data",
-        "fy-2":24917747,
-        "fy-1":26016856,
-        "fy-0":28232985,
-        "fy+1":27295312,
+        "fy-2":14690449,
+        "fy-1":16078313,
+        "fy-0":15224090,
+        "fy+1":15936833,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Sports & Fitness",
+        "line_type":"data",
+        "fy-2":4245241,
+        "fy-1":4192337,
+        "fy-0":6748198,
+        "fy+1":4690374,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Youth & Family Services",
+        "line_type":"data",
+        "fy-2":3576048,
+        "fy-1":3663638,
+        "fy-0":3822862,
+        "fy+1":4207360,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Child Care & Out-of-School",
+        "line_type":"data",
+        "fy-2":2406009,
+        "fy-1":2082568,
+        "fy-0":2437835,
+        "fy+1":2460745,
         "publish_subordinates":true
       },
       {

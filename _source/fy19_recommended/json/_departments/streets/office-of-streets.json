@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Streets~office-of-streets.json",
-  "source_time":"20180416160027",
+  "source_time":"20180417115844",
   "source_year":"19",
   "name":"Office of Streets",
   "parent":"Streets",
@@ -34,7 +34,7 @@
     },
     "data":[
       {
-        "name":"Office of Streets",
+        "name":"Admin & Finance",
         "line_type":"data",
         "fy-2":1649756,
         "fy-1":1633241,

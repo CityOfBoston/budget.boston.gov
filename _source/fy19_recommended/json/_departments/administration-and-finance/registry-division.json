@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Administration and Finance~registry-division.json",
-  "source_time":"20180416155144",
+  "source_time":"20180417115735",
   "source_year":"19",
   "name":"Registry Division",
   "parent":"Administration & Finance",
@@ -51,12 +51,30 @@
     },
     "data":[
       {
-        "name":"Registry Division",
+        "name":"Administration",
         "line_type":"data",
-        "fy-2":968056,
-        "fy-1":965870,
-        "fy-0":1049396,
-        "fy+1":1076112,
+        "fy-2":256946,
+        "fy-1":247264,
+        "fy-0":240144,
+        "fy+1":303163,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Vital Statistics",
+        "line_type":"data",
+        "fy-2":624833,
+        "fy-1":612291,
+        "fy-0":670340,
+        "fy+1":641008,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Depositions",
+        "line_type":"data",
+        "fy-2":86277,
+        "fy-1":106315,
+        "fy-0":138912,
+        "fy+1":131941,
         "publish_subordinates":true
       },
       {

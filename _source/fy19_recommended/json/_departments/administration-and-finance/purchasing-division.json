@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Administration and Finance~purchasing-division.json",
-  "source_time":"20180416155105",
+  "source_time":"20180417115731",
   "source_year":"19",
   "name":"Purchasing Division",
   "parent":"Administration & Finance",
@@ -46,12 +46,30 @@
     },
     "data":[
       {
-        "name":"Purchasing Division",
+        "name":"Purchasing Administration",
         "line_type":"data",
-        "fy-2":1771568,
-        "fy-1":1726055,
-        "fy-0":1825966,
-        "fy+1":1851763,
+        "fy-2":385461,
+        "fy-1":520700,
+        "fy-0":674495,
+        "fy+1":659967,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Procurement",
+        "line_type":"data",
+        "fy-2":1110016,
+        "fy-1":986075,
+        "fy-0":929805,
+        "fy+1":958993,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Central Services",
+        "line_type":"data",
+        "fy-2":276091,
+        "fy-1":219280,
+        "fy-0":221666,
+        "fy+1":232803,
         "publish_subordinates":true
       },
       {

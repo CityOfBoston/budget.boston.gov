@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Health and Human Services~boston-vets.json",
-  "source_time":"20180416160657",
+  "source_time":"20180417115933",
   "source_year":"19",
   "name":"Boston VETS",
   "parent":"Health & Human Services",
@@ -46,7 +46,7 @@
     },
     "data":[
       {
-        "name":"Boston VETS",
+        "name":"Veterans' Services",
         "line_type":"data",
         "fy-2":3948303,
         "fy-1":3283251,

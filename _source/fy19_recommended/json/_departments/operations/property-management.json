@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Operations~property-management.json",
-  "source_time":"20180416154305",
+  "source_time":"20180417115629",
   "source_year":"19",
   "name":"Property Management",
   "parent":"Operations",
@@ -58,12 +58,75 @@
     },
     "data":[
       {
-        "name":"Property Management",
+        "name":"PM Administration",
         "line_type":"data",
-        "fy-2":23896824,
-        "fy-1":20555049,
-        "fy-0":17319923,
-        "fy+1":17593703,
+        "fy-2":1877245,
+        "fy-1":1939261,
+        "fy-0":1952919,
+        "fy+1":2240053,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Building Maintenance",
+        "line_type":"data",
+        "fy-2":7148430,
+        "fy-1":7167761,
+        "fy-0":8126891,
+        "fy+1":8075132,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Alterations & Repair",
+        "line_type":"data",
+        "fy-2":1637044,
+        "fy-1":5040178,
+        "fy-0":1579289,
+        "fy+1":1624386,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Enforcement",
+        "line_type":"data",
+        "fy-2":4051334,
+        "fy-1":3449205,
+        "fy-0":2393811,
+        "fy+1":2298136,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Security Systems",
+        "line_type":"data",
+        "fy-2":789646,
+        "fy-1":817326,
+        "fy-0":857646,
+        "fy+1":863580,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Animal Control",
+        "line_type":"data",
+        "fy-2":150,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Building Systems",
+        "line_type":"data",
+        "fy-2":1762822,
+        "fy-1":2141318,
+        "fy-0":2409367,
+        "fy+1":2492416,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Capital Construction",
+        "line_type":"data",
+        "fy-2":6630153,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
