@@ -14,7 +14,7 @@
   "section_type_short":"C",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~health-and-human-services.json",
-  "source_time":"20180411190726",
+  "source_time":"20180416160600",
   "source_year":"19",
   "mission":[
     "The Health and Human Services Cabinet is committed to promoting the health and well-being of the City's residents particularly the most vulnerable. The provision of social, recreational, health and support services to city residents, particularly the homeless, persons with disabilities, women, the elderly, youth, immigrants and veterans, will be coordinated and made available in a customer-friendly and culturally sensitive manner. The Cabinet enforces all antidiscrimination laws and protections under the jurisdiction of the City, and advocates for the advancement of policies and legislation to address the needs of individuals and groups, supports disease and injury prevention, delivers emergency health services and health education and promotion services within the City."
@@ -47,7 +47,7 @@
     "fy+1":"FY19 Budget",
     "data":[
       {
-        "department":"Boston Centers for Youth and Families",
+        "department":"Boston Centers for Youth & Families",
         "line_type":"data",
         "fy-2":24917747,
         "fy-1":26016856,
@@ -79,7 +79,7 @@
         "fy+1":3434042
       },
       {
-        "department":"Fair Housing and Equity",
+        "department":"Fair Housing & Equity",
         "line_type":"data",
         "fy-2":160430,
         "fy-1":257639,
@@ -133,7 +133,7 @@
         },
         "data":[
           {
-            "title":"Boston Centers for Youth and Families",
+            "title":"Boston Centers for Youth & Families",
             "line_type":"data",
             "fy-2":2631712,
             "fy-1":8888123,
