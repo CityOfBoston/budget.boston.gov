@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Administration and Finance~treasury-department.json",
-  "source_time":"20180416155223",
+  "source_time":"20180417115739",
   "source_year":"19",
   "name":"Treasury Department",
   "parent":"Administration & Finance",
@@ -34,21 +34,93 @@
     },
     "data":[
       {
-        "name":"Treasury Department",
+        "name":"General Management",
         "line_type":"data",
-        "fy-2":2831311,
-        "fy-1":2557383,
-        "fy-0":2469885,
-        "fy+1":2547466,
+        "fy-2":707688,
+        "fy-1":547512,
+        "fy-0":571233,
+        "fy+1":574887,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Treasury Administration",
+        "line_type":"data",
+        "fy-2":751850,
+        "fy-1":777275,
+        "fy-0":737653,
+        "fy+1":665970,
+        "publish_subordinates":true
+      },
+      {
+        "name":"General Service/Payroll",
+        "line_type":"data",
+        "fy-2":693201,
+        "fy-1":655271,
+        "fy-0":681616,
+        "fy+1":690779,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Special Collections",
+        "line_type":"data",
+        "fy-2":512653,
+        "fy-1":524344,
+        "fy-0":581161,
+        "fy+1":594171,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Payment Services",
+        "line_type":"data",
+        "fy-2":1236455,
+        "fy-1":1135639,
+        "fy-0":938041,
+        "fy+1":988016,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Accounting/Quality Control",
+        "line_type":"data",
+        "fy-2":374515,
+        "fy-1":349888,
+        "fy-0":379450,
+        "fy+1":390392,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Treasury Accounting",
+        "line_type":"data",
+        "fy-2":155541,
+        "fy-1":159383,
+        "fy-0":185448,
+        "fy+1":188383,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Accounts Receivable",
+        "line_type":"data",
+        "fy-2":312704,
+        "fy-1":320467,
+        "fy-0":397929,
+        "fy+1":458479,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Trust",
+        "line_type":"data",
+        "fy-2":184,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":2831311,
-        "fy-1":2557383,
-        "fy-0":2469885,
-        "fy+1":2547466
+        "fy-2":4744791,
+        "fy-1":4469779,
+        "fy-0":4472531,
+        "fy+1":4551077
       }
     ]
   },

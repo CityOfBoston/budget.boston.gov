@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Public Safety~fire-department.json",
-  "source_time":"20180416155510",
+  "source_time":"20180417115800",
   "source_year":"19",
   "name":"Fire Department",
   "parent":"Public Safety",
@@ -64,12 +64,66 @@
     },
     "data":[
       {
-        "name":"Fire Department",
+        "name":"BFD Administration",
         "line_type":"data",
-        "fy-2":216917857,
-        "fy-1":219082800,
-        "fy-0":232440176,
-        "fy+1":236231647,
+        "fy-2":16075074,
+        "fy-1":17663132,
+        "fy-0":17081542,
+        "fy+1":17720189,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Boston Fire Suppression",
+        "line_type":"data",
+        "fy-2":165813092,
+        "fy-1":167368301,
+        "fy-0":177742023,
+        "fy+1":179995361,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Fire Alarm",
+        "line_type":"data",
+        "fy-2":9060069,
+        "fy-1":9258941,
+        "fy-0":10081869,
+        "fy+1":11089909,
+        "publish_subordinates":true
+      },
+      {
+        "name":"BFD Training",
+        "line_type":"data",
+        "fy-2":4693957,
+        "fy-1":4347136,
+        "fy-0":5275909,
+        "fy+1":4572975,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Maintenance",
+        "line_type":"data",
+        "fy-2":9138032,
+        "fy-1":7695688,
+        "fy-0":9414457,
+        "fy+1":9952195,
+        "publish_subordinates":true
+      },
+      {
+        "name":"BFD Fire Prevention",
+        "line_type":"data",
+        "fy-2":11393025,
+        "fy-1":11893174,
+        "fy-0":12014672,
+        "fy+1":12210413,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Firefighter Safety, Health and Wellness",
+        "line_type":"data",
+        "fy-2":744608,
+        "fy-1":856428,
+        "fy-0":829704,
+        "fy+1":690605,
         "publish_subordinates":true
       },
       {

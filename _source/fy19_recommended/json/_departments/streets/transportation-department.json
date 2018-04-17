@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Streets~transportation-department.json",
-  "source_time":"20180416160235",
+  "source_time":"20180417115856",
   "source_year":"19",
   "name":"Transportation Department",
   "parent":"Streets",
@@ -74,21 +74,66 @@
     },
     "data":[
       {
-        "name":"Transportation Department",
+        "name":"Parking Clerk",
         "line_type":"data",
-        "fy-2":24875498,
-        "fy-1":25145827,
-        "fy-0":26638001,
-        "fy+1":29106237,
+        "fy-2":7916535,
+        "fy-1":8323289,
+        "fy-0":8625655,
+        "fy+1":8817493,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Traffic Commissioner's Office",
+        "line_type":"data",
+        "fy-2":1802029,
+        "fy-1":1496624,
+        "fy-0":1104631,
+        "fy+1":1507794,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Traffic Management & Engineering",
+        "line_type":"data",
+        "fy-2":2136190,
+        "fy-1":2442468,
+        "fy-0":2036834,
+        "fy+1":2453207,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Policy & Planning",
+        "line_type":"data",
+        "fy-2":842895,
+        "fy-1":869865,
+        "fy-0":1133233,
+        "fy+1":1760338,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Traffic Enforcement",
+        "line_type":"data",
+        "fy-2":13862642,
+        "fy-1":13970731,
+        "fy-0":15234148,
+        "fy+1":15335833,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Traffic Operations",
+        "line_type":"data",
+        "fy-2":6231742,
+        "fy-1":6366139,
+        "fy-0":7129155,
+        "fy+1":8049065,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":24875498,
-        "fy-1":25145827,
-        "fy-0":26638001,
-        "fy+1":29106237
+        "fy-2":32792033,
+        "fy-1":33469116,
+        "fy-0":35263656,
+        "fy+1":37923730
       }
     ]
   },

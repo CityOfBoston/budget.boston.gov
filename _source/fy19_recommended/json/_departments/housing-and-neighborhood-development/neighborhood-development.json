@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Housing and Neighborhood Development~neighborhood-development.json",
-  "source_time":"20180416161209",
+  "source_time":"20180417120004",
   "source_year":"19",
   "name":"Neighborhood Development",
   "parent":"Housing & Neighborhood Development",
@@ -63,12 +63,39 @@
     },
     "data":[
       {
-        "name":"Neighborhood Development",
+        "name":"Neighborhood Development Administration",
         "line_type":"data",
-        "fy-2":11544055,
-        "fy-1":12926210,
-        "fy-0":13492643,
-        "fy+1":14220701,
+        "fy-2":1234445,
+        "fy-1":1476416,
+        "fy-0":1841512,
+        "fy+1":1797468,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Real Estate Management & Sales",
+        "line_type":"data",
+        "fy-2":1782889,
+        "fy-1":1705069,
+        "fy-0":1735456,
+        "fy+1":1839414,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Housing Development & Services",
+        "line_type":"data",
+        "fy-2":7846242,
+        "fy-1":9744725,
+        "fy-0":9915675,
+        "fy+1":10583819,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Business Services",
+        "line_type":"data",
+        "fy-2":680479,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
