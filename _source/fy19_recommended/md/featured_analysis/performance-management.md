@@ -3,7 +3,7 @@ layout: bos_content
 permalink: /featured-analysis/performance-management/
 title: Performance Management
 card:
-  - title: Performance management
+  - title: Performance Management
     body: >
       The City practies data-driven decision making at all levels. Learn about the results.
     img: /img/cards/fa-performance-management.png
@@ -16,7 +16,7 @@ components:
   - title: Featured Analysis
     url: "/featured-analysis/"
     local: true
-  - current: Performance management
+  - current: Performance Management
   - published: 4/11/18
 - intro:
   - title: Performance management
