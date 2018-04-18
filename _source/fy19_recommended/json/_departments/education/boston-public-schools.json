@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Education~boston-public-schools.json",
-  "source_time":"20180417115817",
+  "source_time":"20180418140132",
   "source_year":"19",
   "name":"Boston Public Schools",
   "parent":"Education",
@@ -46,19 +46,19 @@
       {
         "name":"General School Purposes",
         "line_type":"data",
-        "fy-2":414433631,
-        "fy-1":480448649,
-        "fy-0":451044532,
-        "fy+1":452355272,
+        "fy-2":1016278852,
+        "fy-1":1031628517,
+        "fy-0":1092190485,
+        "fy+1":1108740381,
         "publish_subordinates":true
       },
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":414433631,
-        "fy-1":480448649,
-        "fy-0":451044532,
-        "fy+1":452355272
+        "fy-2":1016278852,
+        "fy-1":1031628517,
+        "fy-0":1092190485,
+        "fy+1":1108740381
       }
     ]
   },
