@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Administration and Finance~treasury-department.json",
-  "source_time":"20180410202159",
+  "source_time":"20180417115739",
   "source_year":"19",
   "name":"Treasury Department",
   "parent":"Administration & Finance",
@@ -121,37 +121,6 @@
         "fy-1":4469779,
         "fy-0":4472531,
         "fy+1":4551077
-      }
-    ]
-  },
-  "external_funds_budget":{
-    "table_type":"External Funds",
-    "table_title":"External Funds Budget",
-    "table_header":{
-      "name":"Fund Name",
-      "line_type":"title",
-      "fy-2":"FY16 Actual",
-      "fy-1":"FY17 Actual",
-      "fy-0":"FY18 Budget",
-      "fy+1":"FY19 Budget"
-    },
-    "data":[
-      {
-        "name":"Community Preservation Act",
-        "line_type":"data",
-        "fy-2":0,
-        "fy-1":0,
-        "fy-0":18180001,
-        "fy+1":23861250,
-        "publish_subordinates":true
-      },
-      {
-        "name":"Total",
-        "line_type":"total",
-        "fy-2":0,
-        "fy-1":0,
-        "fy-0":18180001,
-        "fy+1":23861250
       }
     ]
   },

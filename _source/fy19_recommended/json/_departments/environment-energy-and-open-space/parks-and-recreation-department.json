@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Environment, Energy and Open Space~parks-and-recreation-department.json",
-  "source_time":"20180410202618",
+  "source_time":"20180417115915",
   "source_year":"19",
   "name":"Parks & Recreation Department",
   "parent":"Environment, Energy & Open Space",
@@ -128,6 +128,15 @@
     },
     "data":[
       {
+        "name":"Fairview Cemetery Trust Fund",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
         "name":"Fund for Parks and Recreation",
         "line_type":"data",
         "fy-2":6320497,
@@ -143,6 +152,15 @@
         "fy-1":1153154,
         "fy-0":1200001,
         "fy+1":1267893,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Mount Hope Cemetery Trust Fund",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {

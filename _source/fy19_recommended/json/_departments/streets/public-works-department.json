@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Streets~public-works-department.json",
-  "source_time":"20180410202515",
+  "source_time":"20180417115847",
   "source_year":"19",
   "name":"Public Works Department",
   "parent":"Streets",
@@ -161,12 +161,93 @@
     },
     "data":[
       {
+        "name":"Asian Longhorn Beetles",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Business Waste Red & Sus Asst",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"DOE Clean Cities Grant",
+        "line_type":"data",
+        "fy-2":58758,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Electronic Waste Recycling and Advertising",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Home Composting",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Keep America Beautiful",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"MBTA/Streetlight Division Facility Move",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
         "name":"Municipal Recycling",
         "line_type":"data",
         "fy-2":0,
         "fy-1":0,
         "fy-0":10000,
         "fy+1":10000,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Recycling, Public Education",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Solar Trash Compactor Demonstration",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
@@ -179,9 +260,18 @@
         "publish_subordinates":true
       },
       {
+        "name":"Sustainable Materials Recovery Program Municipal Grant",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
         "name":"Total",
         "line_type":"total",
-        "fy-2":210000,
+        "fy-2":268758,
         "fy-1":0,
         "fy-0":10000,
         "fy+1":10000

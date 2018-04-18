@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Streets~transportation-department.json",
-  "source_time":"20180410202540",
+  "source_time":"20180417115856",
   "source_year":"19",
   "name":"Transportation Department",
   "parent":"Streets",
@@ -150,6 +150,24 @@
     },
     "data":[
       {
+        "name":"ARRA - Obesity Prevention",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Boston Bicycle Pool & Bicycle Map",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
         "name":"Boston Bike Share",
         "line_type":"data",
         "fy-2":862846,
@@ -168,6 +186,42 @@
         "publish_subordinates":true
       },
       {
+        "name":"Central Artery",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Connect Historic Boston",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"East Boston Traffic Study",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"NSTAR 345kV",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
         "name":"Parking Facilities Fund",
         "line_type":"data",
         "fy-2":365290,
@@ -181,6 +235,15 @@
         "line_type":"data",
         "fy-2":103001,
         "fy-1":1452,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Symphony Hall Traffic Study",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
         "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true

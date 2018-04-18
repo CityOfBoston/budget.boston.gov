@@ -14,7 +14,7 @@
   "section_type_short":"C",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~mayors-office.json",
-  "source_time":"20180410201955",
+  "source_time":"20180417115638",
   "source_year":"19",
   "mission":[
     "The agencies reporting to the Mayor's Office represent the Mayor and the City in legal matters, public relations, and elections. The Mayor's vision for the future of the City is reflected in the policies and directions carried forward by the staff of these offices."
@@ -36,7 +36,7 @@
     "fy+1":"FY19 Budget",
     "data":[
       {
-        "department":"Office of the Mayor",
+        "department":"Mayor's Office",
         "line_type":"data",
         "fy-2":3233710,
         "fy-1":3770208,
@@ -90,7 +90,7 @@
         },
         "data":[
           {
-            "title":"Office of the Mayor",
+            "title":"Mayor's Office",
             "line_type":"data",
             "fy-2":0,
             "fy-1":30250,

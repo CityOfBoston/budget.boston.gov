@@ -1,9 +1,9 @@
 ---
 layout: bos_content
 permalink: /featured-analysis/non-recurring-revenue/
-title: Non Recurring Revenue
+title: Non-Recurring Revenue
 card:
-  - title: Non Recurring Revenue
+  - title: Non-Recurring Revenue
     body: >
       The City relies on two sources of non-recurring revenue for non-recurring expenditures. 
     img: /img/fa-non-recurring-revenue.jpg
@@ -26,6 +26,7 @@ components:
       is usually restricted to one-time expenditures.
     sidebar_menu: true    
 - text_block:
+  - body: >
       <h5>Budgetary Fund Balance</h5>
       <p>Budgetary Fund Balance can be appropriated for use during the fiscal 
       year after certification by the DOR. Budgetary Fund Balance is more commonly 

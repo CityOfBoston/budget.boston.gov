@@ -14,7 +14,7 @@
   "section_type_short":"R",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_projects~public-works-department~northern-avenue-bridge.json",
-  "source_time":"20180410202518",
+  "source_time":"20180417115849",
   "source_year":"19",
   "status":"New Project",
   "expenditures_detail":{
@@ -99,7 +99,7 @@
           "fy-0":0,
           "fy-0++":0,
           "other":53945000,
-          "total":15000000
+          "total":68945000
         },
         {
           "line_type":"total",

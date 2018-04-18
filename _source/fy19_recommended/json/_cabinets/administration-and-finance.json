@@ -14,7 +14,7 @@
   "section_type_short":"C",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~administration-and-finance.json",
-  "source_time":"20180410202042",
+  "source_time":"20180417115659",
   "source_year":"19",
   "mission":[
     "The Administration and Finance Cabinet ensures that city services are delivered with high quality, with high ethical standards, are financially prudent, are responsive to the needs of the citizens of Boston, and consistent with the laws and ordinances governing municipal government."
@@ -35,7 +35,7 @@
     "fy+1":"FY19 Budget",
     "data":[
       {
-        "department":"Administration and Finance",
+        "department":"Administration & Finance",
         "line_type":"data",
         "fy-2":888235,
         "fy-1":848813,
@@ -107,7 +107,7 @@
         "fy+1":11000000
       },
       {
-        "department":"Pensions and Annuities - City",
+        "department":"Pensions & Annuities - City",
         "line_type":"data",
         "fy-2":4063355,
         "fy-1":3607181,
@@ -115,7 +115,7 @@
         "fy+1":4100000
       },
       {
-        "department":"Pensions and Annuities - County",
+        "department":"Pensions & Annuities - County",
         "line_type":"data",
         "fy-2":36894,
         "fy-1":37674,

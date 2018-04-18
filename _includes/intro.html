@@ -9,6 +9,12 @@
   {% for item in include.arg[0].short_desc %}
     {% if item.link %}
     <a href="{{ site.url }}{{ item.link.path }}" {% if item.link.button %}class="button"{% endif %}>{{ item.link.title }}</a>
+    {% elsif item.linked_image %}
+      {% if item.linked_image.local %}
+        <a href="{{ site.url }}{{ item.linked_image.link }}"><img src="{{ site.url }}{{ item.linked_image.img }}" /></a>
+      {% else %}
+        <a href="{{ item.linked_image.link }}" target="_blank" rel="noopener noreferrer"><img src="{{ site.url }}{{ item.linked_image.img }}" /></a>
+      {% endif %}
     {% elsif item.blurb %}
       {{ item.blurb }}
     {% else %}

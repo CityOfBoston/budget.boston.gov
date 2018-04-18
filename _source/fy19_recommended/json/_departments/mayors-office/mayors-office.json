@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Mayor's Office~mayors-office.json",
-  "source_time":"20180410201956",
+  "source_time":"20180417115641",
   "source_year":"19",
   "name":"Mayor's Office",
   "parent":"Mayor's Office",
@@ -143,6 +143,33 @@
         "fy-1":449973,
         "fy-0":709621,
         "fy+1":169582,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Innovations in American Government",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Integrated Energy Mgmt Plan",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Living Cities Grant",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {

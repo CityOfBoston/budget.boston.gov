@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Economic Development~office-of-tourism.json",
-  "source_time":"20180410202442",
+  "source_time":"20180417115836",
   "source_year":"19",
   "name":"Office of Tourism",
   "parent":"Economic Development",
@@ -89,6 +89,15 @@
         "fy-1":121699,
         "fy-0":150000,
         "fy+1":150000,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Special Events Fund",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {

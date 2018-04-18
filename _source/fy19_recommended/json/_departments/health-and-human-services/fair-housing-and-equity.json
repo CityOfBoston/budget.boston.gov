@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Health and Human Services~fair-housing-and-equity.json",
-  "source_time":"20180410202724",
+  "source_time":"20180417115944",
   "source_year":"19",
   "name":"Fair Housing & Equity",
   "parent":"Health & Human Services",
@@ -85,21 +85,21 @@
     },
     "data":[
       {
-        "name":"CDBG",
-        "line_type":"data",
-        "fy-2":400350,
-        "fy-1":713025,
-        "fy-0":746220,
-        "fy+1":777442,
-        "publish_subordinates":true
-      },
-      {
         "name":"Fair Housing Asst Prog",
         "line_type":"data",
         "fy-2":267834,
         "fy-1":109035,
         "fy-0":210500,
         "fy+1":366494,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Fair Housing Inititative Prog",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
@@ -123,10 +123,10 @@
       {
         "name":"Total",
         "line_type":"total",
-        "fy-2":940185,
-        "fy-1":931673,
-        "fy-0":1063382,
-        "fy+1":1196081
+        "fy-2":539835,
+        "fy-1":218648,
+        "fy-0":317162,
+        "fy+1":418639
       }
     ]
   },

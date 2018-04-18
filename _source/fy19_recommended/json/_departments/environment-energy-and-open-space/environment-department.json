@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_departments~Environment, Energy and Open Space~environment-department.json",
-  "source_time":"20180410202555",
+  "source_time":"20180417115903",
   "source_year":"19",
   "name":"Environment Department",
   "parent":"Environment, Energy & Open Space",
@@ -78,12 +78,48 @@
     },
     "data":[
       {
+        "name":"Archeological Collection",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
         "name":"Archeology Fund",
         "line_type":"data",
         "fy-2":20709,
         "fy-1":30497,
         "fy-0":40095,
         "fy+1":14000,
+        "publish_subordinates":true
+      },
+      {
+        "name":"ARRA - Energy Efficiency & Con",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"ARRA - Solar Market Transform",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"BARR/BEDF Energy Efficiency Grant",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
@@ -132,6 +168,15 @@
         "publish_subordinates":true
       },
       {
+        "name":"Green Communities Grant",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
         "name":"Greenovate Fellowships",
         "line_type":"data",
         "fy-2":53587,
@@ -141,10 +186,37 @@
         "publish_subordinates":true
       },
       {
+        "name":"Ground Water Well System",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
         "name":"Installation of Resiliency Equipment",
         "line_type":"data",
         "fy-2":0,
         "fy-1":75000,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Mass Tech Coll",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Mayor's Green Bldg Task Force",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
         "fy-0":0,
         "fy+1":0,
         "publish_subordinates":true
@@ -177,12 +249,66 @@
         "publish_subordinates":true
       },
       {
+        "name":"Renew Boston",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Retrofit Program",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Solar America Initiative",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Solar Compactor Energy Efficiency",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
         "name":"Solar Renewable Energy Certificates",
         "line_type":"data",
         "fy-2":21420,
         "fy-1":15153,
         "fy-0":250000,
         "fy+1":250000,
+        "publish_subordinates":true
+      },
+      {
+        "name":"SunShot Initiative",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"The Roof Top Solar Challenge",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
         "publish_subordinates":true
       },
       {
