@@ -73,7 +73,7 @@ components:
           <li>21st century classrooms;</li>
           <li>MSBA Accelerated Repair Program partnerships;</li>
           <li>Completion of projects in the pipeline;</li>
-          <li>School kitchen renovations that support the delivery of fresh, nutrishious food; and</li>
+          <li>School kitchen renovations that support the delivery of fresh, nutritious food; and</li>
           <li>Reserves for future projects identified by BuildBPS community
           engagement.</li>
         </ul>
@@ -101,7 +101,7 @@ components:
       <h5>Percent for Art Program</h5>
       <p>The Percent for Art Program demonstrates the City’s leadership and commitment to
       sustainable funding for the arts by setting aside one percent of the City’s annual capital
-      borrrowing for the commissioning of public art.</p>
+      borrowing for the commissioning of public art.</p>
 - table:
   - title: Spending By Investment Category
     columns:
