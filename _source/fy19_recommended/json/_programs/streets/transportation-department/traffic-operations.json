@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Recommended",
   "source_path":"JSON Output~_source~fy19_recommended~json~_chapters~featured_analysis~traffic-enforcement.json",
-  "source_time":"20180418140207",
+  "source_time":"20180523141823",
   "source_year":"19",
   "appropriation_code":"Organization 251500",
   "description":[
@@ -32,26 +32,26 @@
     {
       "line_title":"Personnel Services",
       "line_type":"data",
-      "fy-2":7569512,
-      "fy-1":7545760,
-      "fy-0":7547686,
-      "fy+1":9120368
+      "fy-2":3784756,
+      "fy-1":3772880,
+      "fy-0":3773843,
+      "fy+1":4560184
     },
     {
       "line_title":"Non Personnel",
       "line_type":"data",
-      "fy-2":4893972,
-      "fy-1":5186518,
-      "fy-0":6710624,
-      "fy+1":6977762
+      "fy-2":2446986,
+      "fy-1":2593259,
+      "fy-0":3355312,
+      "fy+1":3488881
     },
     {
       "line_title":"Total",
       "line_type":"total",
-      "fy-2":12463484,
-      "fy-1":12732278,
-      "fy-0":14258310,
-      "fy+1":16098130
+      "fy-2":6231742,
+      "fy-1":6366139,
+      "fy-0":7129155,
+      "fy+1":8049065
     }
   ],
   "program_history_by_account":{
