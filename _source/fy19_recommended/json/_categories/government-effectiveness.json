@@ -6,7 +6,7 @@
   "section_type_short":"L",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_categories~government-effectiveness.json",
-  "source_time":"20180523141853",
+  "source_time":"20180618110927",
   "source_year":"19",
   "description":[
     "Initiatives to maintain or enhance the efficiency of government operations."
@@ -219,13 +219,24 @@
               "location":"Citywide",
               "status":"In Design",
               "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1000000,
+              "fy-0":200000,
+              "category":"Government Effectiveness",
+              "name":"Long Island Study",
+              "location":"Harbor Islands",
+              "status":"New Project",
+              "operating_impact":"No"
             }
           ]
         }
       ]
     }
   ],
-  "fy-0":15682840,
-  "total":102968558
+  "fy-0":15882840,
+  "total":103968558
 }
 ---
