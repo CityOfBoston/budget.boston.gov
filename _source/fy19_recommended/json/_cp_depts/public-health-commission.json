@@ -14,7 +14,7 @@
   "section_type_short":"L",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_cp_depts~public-health-commission.json",
-  "source_time":"20180618110918",
+  "source_time":"20180620081207",
   "source_year":"19",
   "mission":[
     "The mission of the Boston Public Health Commission is to protect, preserve and promote the health and well being of Boston residents, particularly those who are most vulnerable."
@@ -93,18 +93,6 @@
               "operating_impact":"No",
               "fy-0":122840,
               "project_total":500000
-            },
-            {
-              "line_type":"data",
-              "title":null,
-              "category":"Government Effectiveness",
-              "name":"Long Island Study",
-              "location":"Harbor Islands",
-              "section_id":"CPH24775",
-              "status":"New Project",
-              "operating_impact":"No",
-              "fy-0":200000,
-              "project_total":1000000
             }
           ]
         },
@@ -145,6 +133,18 @@
               "operating_impact":"No",
               "fy-0":50000,
               "project_total":50000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Health",
+              "name":"Long Island Study",
+              "location":"Harbor Islands",
+              "section_id":"CPH24775",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":200000,
+              "project_total":1000000
             },
             {
               "line_type":"data",
