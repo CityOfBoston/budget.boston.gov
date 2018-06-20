@@ -6,7 +6,7 @@
   "section_type_short":"L",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_categories~health.json",
-  "source_time":"20180618110927",
+  "source_time":"20180620081214",
   "source_year":"19",
   "description":[
     "Initiatives to increase access to quality healthcare and improve public health."
@@ -184,6 +184,17 @@
             {
               "line_type":"data",
               "title":null,
+              "project_title":1000000,
+              "fy-0":200000,
+              "category":"Health",
+              "name":"Long Island Study",
+              "location":"Harbor Islands",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
               "project_title":1390000,
               "fy-0":322472,
               "category":"Health",
@@ -219,7 +230,7 @@
       ]
     }
   ],
-  "fy-0":5783452,
-  "total":49468300
+  "fy-0":5983452,
+  "total":50468300
 }
 ---
