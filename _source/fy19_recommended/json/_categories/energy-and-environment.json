@@ -6,7 +6,7 @@
   "section_type_short":"L",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_categories~energy-and-environment.json",
-  "source_time":"20180523141853",
+  "source_time":"20180620081213",
   "source_year":"19",
   "description":[
     "Initiatives to support a healthy environment, reduce energy consumption and greenhouse gas emissions, and prepare for climate change."
@@ -159,21 +159,6 @@
           ]
         },
         {
-          "Public Health Commission":[
-            {
-              "line_type":"data",
-              "title":null,
-              "project_title":1000000,
-              "fy-0":200000,
-              "category":"Energy & Environment",
-              "name":"Long Island Study",
-              "location":"Harbor Islands",
-              "status":"New Project",
-              "operating_impact":"No"
-            }
-          ]
-        },
-        {
           "Public Works Department":[
             {
               "line_type":"data",
@@ -202,7 +187,7 @@
       ]
     }
   ],
-  "fy-0":10500212,
-  "total":95649470
+  "fy-0":10300212,
+  "total":94649470
 }
 ---

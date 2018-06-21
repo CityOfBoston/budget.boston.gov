@@ -1,12 +1,12 @@
 ---
 {
-  "category":"Energy & Environment",
-  "category_desc":"Initiatives to support a healthy environment, reduce energy consumption and greenhouse gas emissions, and prepare for climate change.",
+  "category":"Health",
+  "category_desc":"Initiatives to increase access to quality healthcare and improve public health.",
   "department":"Public Health Commission",
   "file_version":"",
   "location":"Harbor Islands",
   "managing_department":"Public Facilities Department",
-  "mission":"Study to survey site in preparation for program relocation after bridge is reconstructed",
+  "mission":"This study will assess the current condition of facilities on Long Island and evaluate their capacity to support recovery services programs on the island once the Long Island Bridge is reconstructed.",
   "name":"Long Island Study",
   "operating_impact":"No",
   "section_id":"CPH24775",
@@ -14,7 +14,7 @@
   "section_type_short":"R",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_projects~public-health-commission~long-island-study.json",
-  "source_time":"20180523141840",
+  "source_time":"20180620081207",
   "source_year":"19",
   "status":"New Project",
   "expenditures_detail":{
