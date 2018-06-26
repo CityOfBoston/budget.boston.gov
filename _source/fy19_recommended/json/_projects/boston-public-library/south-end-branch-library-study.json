@@ -6,7 +6,7 @@
   "file_version":"",
   "location":"South End",
   "managing_department":"Public Facilities Department",
-  "mission":"This project will conduct a facility assessment, review neighborhood needs, and develop an updated building program that reflects the BPL's Compass Principles and strategic vision supporting the evolving needs of the neighborhood.",
+  "mission":"This project will conduct a facility assessment, review neighborhood goals, develop an updated building program that reflects the BPL's strategic vision supporting the future needs of the neighborhood, and support additional interior improvements.",
   "name":"South End Branch Library Study",
   "operating_impact":"No",
   "section_id":"CLD24764",
@@ -14,7 +14,7 @@
   "section_type_short":"R",
   "source_version":"Recommended",
   "source_path":"P~19Budget~19 Recommended~Publish 19 Recom~JSON Output~_source~fy19_recommended~json~_projects~boston-public-library~south-end-branch-library-study.json",
-  "source_time":"20180620081126",
+  "source_time":"20180625163731",
   "source_year":"19",
   "status":"New Project",
   "expenditures_detail":{
@@ -39,8 +39,8 @@
         "past_spending":0,
         "fy-1":0,
         "fy-0":0,
-        "fy+1-4":100000,
-        "total":100000
+        "fy+1-4":500000,
+        "total":500000
       },
       {
         "line_type":"data",
@@ -61,8 +61,8 @@
         "past_spending":0,
         "fy-1":0,
         "fy-0":0,
-        "fy+1-4":100000,
-        "total":100000
+        "fy+1-4":500000,
+        "total":500000
       }
     ],
     "authorizations_table":{
@@ -86,9 +86,9 @@
           "source":"City Capital",
           "existing":0,
           "fy-0":100000,
-          "fy-0++":0,
+          "fy-0++":400000,
           "other":0,
-          "total":100000
+          "total":500000
         },
         {
           "line_type":"data",
@@ -108,9 +108,9 @@
           "source":"Totals",
           "existing":0,
           "fy-0":100000,
-          "fy-0++":0,
+          "fy-0++":400000,
           "other":0,
-          "total":100000
+          "total":500000
         }
       ]
     }
