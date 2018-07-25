@@ -8,11 +8,11 @@ components:
     url: "/"
     local: true
   - current: Operating Budget
-  - published: 4/11/18
+  - published: 6/30/18
 - intro:
   - title: Operating Budget
     short_desc: >
-      The FY19 Recommended Operating Budget totals $3.29 billion and represents an increase of $137 million or 4.3% over FY18. The FY19 budget continues the City’s record of strong fiscal management. Expanding on savings initiatives launched during Mayor Walsh’s Administration to offset growth in fixed costs. The FY19 budget features data-driven investments in a thriving, healthy, and innovative city.
+      The FY19 Operating Budget totals $3.29 billion and represents an increase of $138.5 million or 4.4% over FY18. The FY19 budget continues the City’s record of strong fiscal management. Expanding on savings initiatives launched during Mayor Walsh’s Administration to offset growth in fixed costs. The FY19 budget features data-driven investments in a thriving, healthy, and innovative city.
     sidebar_menu: true
 - text_col_2: 
   - col: >
@@ -21,7 +21,7 @@ components:
       </p>
   - col: >
       <h5>Expenditures</h5>
-      On the expenditure side, the FY19 budget reflects an increase of $137 million or 4.3% over the FY18 budget.  Of that growth, 27% is dedicated to education, including Boston Public Schools (BPS) and Charter School Tuition Assessment, and 31% will go to all other city services, such as Police, Fire, and Public Works, and the Public Health Commission. 22% of the growth comes from estimated employee wage increases in the collective bargaining reserve that will ultimately be transferred to education or city services and the remaining 20% of the growth will be consumed by pension, debt service and other fixed cost expenditures.
+      On the expenditure side, the FY19 budget reflects an increase of $138.5 million or 4.4% over the FY18 budget.  Of that growth, 27% is dedicated to education, including Boston Public Schools (BPS) and Charter School Tuition Assessment, and 31% will go to all other city services, such as Police, Fire, and Public Works, and the Public Health Commission. 22% of the growth comes from estimated employee wage increases in the collective bargaining reserve that will ultimately be transferred to education or city services and the remaining 20% of the growth will be consumed by pension, debt service and other fixed cost expenditures.
     sidebar_menu: true
 - table:
   - title: Budget summary
@@ -38,7 +38,7 @@ components:
            value: 3,157.62
            align: right
         "FY19 Budget": 
-           value: 3,294.58
+           value: 3,296.08
            align: right
       - "Category": Total expenditures
         "FY16 Actual":
@@ -51,7 +51,7 @@ components:
            value: 3,157.62
            align: right
         "FY19 Budget":
-           value: 3,294.58
+           value: 3,296.08
            align: right
       - "Category": Surplus (Deficit)
         "FY16 Actual":
@@ -246,7 +246,7 @@ components:
            value: 440.58
            align: right
       "FY19 Budget":
-           value: 444.97
+           value: 446.48
            align: right
     - "Source": Total recurring revenue
       "subtotal": true
@@ -260,7 +260,7 @@ components:
            value: 3,117.62
            align: right
       "FY19 Budget":
-           value: 3,254.58
+           value: 3,256.08
            align: right
     - "Source": 
            name: Budgetary fund balance
@@ -289,7 +289,7 @@ components:
            value: 3,157.62
            align: right
       "FY19 Budget":
-           value: 3,294.58
+           value: 3,296.08
            align: right
 - table:
   - title: Expenditures
@@ -305,10 +305,10 @@ components:
         value: 1,200.51
         align: right
       "FY18 Budget":
-        value: 1,261.34
+        value: 1,262.83
         align: right
       "FY19 Budget":
-        value: 1,298.74
+        value: 1,300.35
         align: right
     - "Expenditure":
         name: Public Health Commission
@@ -320,10 +320,10 @@ components:
         value: 77.27
         align: right
       "FY18 Budget":
-        value: 79.51
+        value: 79.56
         align: right
       "FY19 Budget":
-        value: 84.88
+        value: 84.98
         align: right
     - "Expenditure":
         name: Boston Public Schools
@@ -335,10 +335,10 @@ components:
         value: 1,031.63
         align: right
       "FY18 Budget":
-        value: 1,092.19
+        value: 1,093.31
         align: right
       "FY19 Budget":
-        value: 1,108.74
+        value: 1,112.25
         align: right
     - "Expenditure":
         name: Reserve for Collective Bargaining
@@ -350,10 +350,10 @@ components:
         value: 28.00
         align: right
       "FY18 Budget":
-        value: 11.39
+        value: 10.09
         align: right
       "FY19 Budget":
-        value: 41.00
+        value: 38.39
         align: right
     - "Expenditure":
         name: Other Post Employment Benefits
@@ -379,10 +379,10 @@ components:
         value: 2,377.41
         align: right
       "FY18 Budget":
-        value: 2,484.43
+        value: 2,485.79
         align: right
       "FY19 Budget":
-        value: 2,573.36
+        value: 2,575.97
         align: right
     - "Expenditure":
         name: Pensions
@@ -409,10 +409,10 @@ components:
         value: 165.31
         align: right
       "FY18 Budget":
-        value: 183.57
+        value: 182.21
         align: right
       "FY19 Budget":
-        value: 191.28
+        value: 190.18
         align: right
     - "Expenditure":
         name: Charter School Tuition
@@ -483,10 +483,10 @@ components:
         value: 612.72
         align: right
       "FY18 Budget":
-        value: 673.19
+        value: 671.83
         align: right
       "FY19 Budget":
-        value: 721.21
+        value: 720.11
         align: right
     - "Expenditure": Totals
       "total": true
@@ -500,7 +500,7 @@ components:
         value: 3,157.62
         align: right
       "FY19 Budget":
-        value: 3,294.58
+        value: 3,296.08
         align: right
 - text_block:
   - title: Overview
