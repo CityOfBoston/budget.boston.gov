@@ -509,7 +509,7 @@ components:
       <h5>Revenues</h5>
       <p>The City’s projected revenues provide the basis for planning FY19 appropriations to maintain a balanced budget. Selected FY19 budgeted City revenues compare with FY18 budgeted revenues as follows:  the net property tax levy increases $118.1 million or 5.4%; excises increase $9.2 million or 4.9%; fines increase $5.2 million or 8.2%; miscellaneous department revenues increase by $1.3 million or 2.2%; state aid increases by $4.4 million or 1.0%.</p>
       <h5>Expenditures</h5>
-      <p>On the expenditure side of the budget, total appropriations increase by $89 million or 3.6% and fixed costs increase by $48 million or 7.1%. Selected FY19 budgeted appropriations compare with FY18 budgeted appropriations as follows: City appropriations increase $37.4 million or 3%; the Boston Public Health Commission increases by $5.4 million or 6.8%; and the School Department increases $16.5 million or 1.5%. In addition, a collective bargaining reserve has been set aside at $41 million; when the outstanding collective bargaining agreements are negotiated, these reserves will be used to cover those increased costs in City departments and at BPS. Within City Appropriations, actual City Departments are increasing by $32.5 million or 3.2% over FY18.</p>
+      <p>On the expenditure side of the budget, total appropriations increase by $90.2 million or 3.6% and fixed costs increase by $48.3 million or 7.2%. Selected FY19 budgeted appropriations compare with FY18 budgeted appropriations as follows: City appropriations increase $37.5 million or 3%; the Boston Public Health Commission increases by $5.4 million or 6.8%; and the School Department increases $18.9 million or 1.7%. In addition, a collective bargaining reserve has been set aside at $38.4 million; when the outstanding collective bargaining agreements are negotiated, these reserves will be used to cover those increased costs in City departments and at BPS. Within City Appropriations, actual City Departments are increasing by $37.5 million or 3% over FY18.</p>
   - col: >
       <h5>Other increases</h5>
       <p>These departmental increases now include wage increases for union contracts that have settled. City Appropriations also consist of 11 central appropriations, including a large appropriation for Health Insurance totaling $221 million, which has an increase of $4.8 million or 2.2%.</p>
@@ -517,7 +517,7 @@ components:
       fixed costs as follows:</p>
       <ul>
         <li>Pensions increase $17.4 million or 7.9%;</li>
-        <li>Debt Service increases $7.7 million or 4.2%;</li>
+        <li>Debt Service increases $8 million or 4.4%;</li>
         <li>Charter School Tuition state assessment increases $20.5 million or 11.8%;</li>
         <li>MBTA state assessment increases by $2.4 million or 2.8%; and</li>
         <li>other state assessments increases $46 thousand or 1.0%.</li>
