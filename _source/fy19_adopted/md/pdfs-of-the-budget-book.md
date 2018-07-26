@@ -8,11 +8,11 @@ components:
     url: "/"
     local: true
   - current: PDFs of the budget book
-  - published: 4/11/18
+  - published: 6/30/18
 - intro:
   - title: PDFs of the budget volumes
     short_desc: >
-      <p>These PDFs represent the three-volume set of documents used to support the FY19 recommended budget.</p>
+      <p>These PDFs represent the three-volume set of documents used to support the FY19 budget.</p>
       <p>Visit <a href="https://www.boston.gov/departments/budget#past-budgets">Boston.gov</a> to read more about prior years budgets.</p>
     sidebar_menu: true
 - text_block:
