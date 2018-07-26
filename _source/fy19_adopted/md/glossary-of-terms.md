@@ -9,11 +9,11 @@ components:
   - title: Budget
     url: "/budget"
   - current: Glossary of terms
-  - published: 4/11/18
+  - published: 6/30/18
 - intro:
   - title: Glossary of terms
     short_desc: >
-      Welcome to the Glossary of terms used in the FY19 Recommended Budget. If you find a term you 
+      Welcome to the Glossary of terms used in the FY19 Budget. If you find a term you 
       don't understand in this budget website, please <a href="mailto:budget@boston.gov">contact the Office of Budget Management</a>. 
     description: >
     sidebar_menu: true
