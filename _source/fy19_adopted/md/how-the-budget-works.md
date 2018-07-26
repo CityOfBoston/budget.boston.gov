@@ -8,7 +8,7 @@ components:
     url: "/"
     local: true
   - current: How the budget works
-  - published: 4/11/18
+  - published: 6/308
 - intro:
   - title: How the budget works
     short_desc: >
@@ -68,7 +68,7 @@ components:
         "FY19 timeline": 6/13/18
       - "Action required": Mayor's approval of FY18 budget adopted by City Council on or before July 1, 2017.
         "City Charter": No requirement
-        "FY19 timeline": 6/27/18 (Last regularly scheduled Council meeting before FY18)
+        "FY19 timeline": 6/27/18 (Last regularly scheduled Council meeting before FY19)
 - text_block:
   - title: Budget Presentation (Budget Website and PDFs of Budget Books)
     body: >
