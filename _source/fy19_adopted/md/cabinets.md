@@ -11,7 +11,7 @@ components:
     url: "/operating-budget/"
     local: true
   - current: Cabinets
-  - published: 4/11/18
+  - published: 6/30/18
 - intro:
   - title: Cabinets
     short_desc: > 
@@ -24,7 +24,7 @@ components:
 - text_col_2:
   - col: >
       <p>The combined appropriations for City Departments, the Public Health Commission (PHC) and the School Department (BPS), and non-departmental appropriations as shown in the FY19 Budget Summary have increased by 3.6% from the current FY18 appropriations.</p>
-      <p>Boston Public Schools with a $1.109 billion appropriation is increasing by $47.8 million over the FY18 adopted budget or $16.5 million (1.5%) over the current FY18 appropriation, which includes a $31 million supplemental for the Boston Teachers Union contract expiring in early FY19. Funding for the next contract is included in the FY19 collective bargaining reserve. Boston’s total investment in education, including BPS and the City’s Charter School Assessment, is growing by $37.0 million (2.9%) over the current FY18 appropriation.</p>
+      <p>Boston Public Schools with a $1.112 billion appropriation is increasing by $47.8 million over the FY18 adopted budget or $18.9 million (1.7%) over the current FY18 appropriation, which includes a $31 million supplemental for the Boston Teachers Union contract expiring in early FY19. Funding for the next contract is included in the FY19 collective bargaining reserve. Boston’s total investment in education, including BPS and the City’s Charter School Assessment, is growing by $37.0 million (2.9%) over the current FY18 appropriation.</p>
       <p>City Services such as Police, Fire, Public Works, Housing and Public Health are projected to increase by a total of $42.8 million (3.2%). Public safety costs are rising by 3.0% in FY19. The appropriation for the Public Health Commission is growing by 6.8% with a significant increase in EMS services and full funding for a permanent engagement center in response to substance issues. The majority of departments had employees who reached agreement on collective bargaining contracts, so department growth reflects those wage and cost of living increases, while outstanding contracts are reserved centrally. Average department growth is projected to be 3.7% in FY19. Funding for unsettled City and BPS collective bargaining contracts are centralized in a $41 million collective bargaining reserve.</p>
   - col: 
     - img: /img/fy19-appropriations-by-cabinet.png
