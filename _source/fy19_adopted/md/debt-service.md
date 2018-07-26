@@ -17,13 +17,13 @@ components:
     url: "/operating-budget/"
     local: true
   - current: Debt service
-  - published: 4/11/18
+  - published: 6/30/18
 - intro:
   - title: Debt service
     short_desc: >
       The Debt service budget supports borrowing to finance the City’s capital plan. 
     description: >
-      In FY19 Debt service is budgeted at $191.3 million, a 4.2% increase over the previous year.
+      In FY19 Debt service is budgeted at $190.2 million, a 4.4% increase over the previous year.
     sidebar_menu: true
 - text_block:
   - title: Overview
@@ -34,7 +34,7 @@ components:
         ratings are an assessment of the City’s long-term financial stability and lower the cost 
         of borrowing. <blockquote>As the City borrows more over ten years to support investments 
         in its schools, debt service is projected to increase as well. In FY19 Debt Service is 
-        budgeted at $191.3 million, a 4.2% increase over the previous year. </blockquote> For 
+        budgeted at $190.2 million, a 4.4% increase over the previous year. </blockquote> For 
         further detail, view 
     - link:
         title: Capital Planning
@@ -58,9 +58,9 @@ components:
           value: 165305765
           filter: delimiter
         "FY18 Budget": 
-          value: 183566988
+          value: 182207688
           filter: delimiter
         "FY19 Budget": 
-          value: 191275788
+          value: 190175788
           filter: delimiter
 ---
