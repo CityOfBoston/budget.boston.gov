@@ -17,7 +17,7 @@ components:
     url: "/operating-budget/"
     local: true
   - current: State assessments
-  - published: 4/11/18
+  - published: 6/30/18
 - intro:
   - title: State assessments
     short_desc: >
