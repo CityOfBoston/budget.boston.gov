@@ -124,11 +124,11 @@ components:
            filter: delimiter
            align: right
         "FY18 Budget":
-           value: 1092190484
+           value: 1093310750
            filter: delimiter
            align: right
         "FY19 Budget":
-           value: 1108740381
+           value: 1112248805
            filter: delimiter
            align: right
       - "Cabinet":
@@ -143,11 +143,11 @@ components:
            filter: delimiter
            align: right
         "FY18 Budget":
-           value: 44456398
+           value: 44687042
            filter: delimiter
            align: right
         "FY19 Budget":
-           value: 45852485
+           value: 45939384
            filter: delimiter
            align: right
       - "Cabinet":
@@ -162,11 +162,11 @@ components:
            filter: delimiter
            align: right
         "FY18 Budget":
-           value: 123264010
+           value: 123613966
            filter: delimiter
            align: right
         "FY19 Budget":
-           value: 128062540
+           value: 128494525
            filter: delimiter
            align: right
       - "Cabinet":
@@ -200,7 +200,7 @@ components:
            filter: delimiter
            align: right
         "FY18 Budget":
-           value: 29433344
+           value: 29933344
            filter: delimiter
            align: right
         "FY19 Budget":
@@ -219,7 +219,7 @@ components:
            filter: delimiter
            align: right
         "FY18 Budget":
-           value: 15735796
+           value: 15738196
            filter: delimiter
            align: right
         "FY19 Budget":
@@ -242,7 +242,7 @@ components:
            filter: delimiter
            align: right
         "FY19 Budget":
-           value: 6979689
+           value: 7252204
            filter: delimiter
            align: right
       - "Cabinet":
@@ -280,7 +280,7 @@ components:
            filter: delimiter
            align: right
         "FY19 Budget":
-           value: 637107039
+           value: 637357037
            filter: delimiter
            align: right
       - "Cabinet":
