@@ -1,0 +1,189 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Administration & Finance",
+  "department":"Assessing Department",
+  "file_version":"",
+  "head_name":"Gayle Willett",
+  "head_title":"Commissioner",
+  "name":"Executive",
+  "parent":"Assessing Department",
+  "section_id":47,
+  "section_md5_id":"67C6A1E7CE56D3D6FA748AB6D9AF3FD7",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~valuation.json",
+  "source_time":"20180813095027",
+  "source_year":"19",
+  "appropriation_code":"Organization 136300",
+  "description":[
+    "The Executive program provides support services to the Commissioner, including tax policy and information coordination and dissemination.  In addition, both the Board of Review and Litigation units handle rulings on all abatement applications and representation at the state's Appellate Tax Board regarding these applications."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":992746,
+      "fy-1":1057867,
+      "fy-0":1106199,
+      "fy+1":1169184
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":399245,
+      "fy-1":209452,
+      "fy-0":202800,
+      "fy+1":206750
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1391991,
+      "fy-1":1267319,
+      "fy-0":1308999,
+      "fy+1":1375934
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":992746,
+        "fy-1":1057867,
+        "fy-0":1106199,
+        "fy+1":1169184,
+        "diff":62985
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":394180,
+        "fy-1":204077,
+        "fy-0":196800,
+        "fy+1":200500,
+        "diff":3700
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":500,
+        "fy+1":750,
+        "diff":250
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":5065,
+        "fy-1":5375,
+        "fy-0":5500,
+        "fy+1":5500,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":1391991,
+        "fy-1":1267319,
+        "fy-0":1308999,
+        "fy+1":1375934,
+        "diff":66935
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To resolve taxpayer inquiries responsively and quickly"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of calls to the Taxpayer Referral & Assistance Center (TRAC)",
+              "fy-2":"",
+              "fy-1":"33,372",
+              "fy-0":"36,934",
+              "fy+1":"30,000"
+            },
+            {
+              "line_type":"data",
+              "line_data":"% of calls to TRAC answered within 3 minutes",
+              "fy-2":"",
+              "fy-1":"100%",
+              "fy-0":"100%",
+              "fy+1":"100%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"% of public requests to Commissioner's office addressed within 2 days",
+              "fy-2":"100%",
+              "fy-1":"100%",
+              "fy-0":"100%",
+              "fy+1":"100%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Public request received",
+              "fy-2":"",
+              "fy-1":"902",
+              "fy-0":"980",
+              "fy+1":"1,000"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

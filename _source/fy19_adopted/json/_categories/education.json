@@ -1,0 +1,365 @@
+---
+{
+  "file_version":"",
+  "name":"Education",
+  "section_type":"Capital Budget",
+  "section_type_short":"L",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Adopted~Publish 19 Adopted~JSON Output~_source~fy19_adopted~json~_categories~education.json",
+  "source_time":"20180813095251",
+  "source_year":"19",
+  "description":[
+    "Initiatives to strengthen education, job training, and career connections."
+  ],
+  "vol1_category_copy":[
+    "Mayor Walsh announced a $1 billion investment to modernize Boston's public school infrastructure, and the BuildBPS plan will guide that process. Through a dedication of City capital funds and a strong working relationship with the Massachusetts School Building Authority (MSBA), the plan will more than double the capital spending on BPS facilities over the next decade. The FY19-23 capital plan will invest $415 million in City Capital funds in BPS projects, as part of an overall commitment to provide $730 million over the ten year life of BuildBPS. Mayor Walsh&rsquo;s FY19-23 Capital Plan implements early action BuildBPS initiatives and reserves funding for projects identified by the BuildBPS engagement process.",
+    "The $13 million BuildBPS 21st Century Schools Fund will provide schools with 21st century tools, including new technology and comfortable, movable furniture. This initiative promotes learner-centric programs, benefits professional development, and provides greater flexibility in both current and future learning spaces. BPS created a menu of 21st century packages that schools selected from, based on their specific needs. BPS will work with school leaders to complete these upgrades by the time school opens in September.",
+    "Boston has also successfully ramped up its efforts to leverage MSBA Accelerated Repair Program (ARP) dollars to provide much needed improvements to its schools. This summer, construction will be underway at five schools to replace four boilers and install one new roof. An additional school will have new windows installed during summer 2019. Altogether, these projects represent an investment totaling $13.8 million with $9.0 million supported by a grant from the MSBA. The Mayor&rsquo;s Capital Plan sets aside an additional $26.7 million over five years to position Boston to further leverage MSBA ARP dollars in the future.",
+    "This Capital Plan allows Boston to invest in BPS projects already in the pipeline:",
+    {
+      "bullets":[
+        "The $73 million Dearborn STEM Academy will open for students in September 2018. The project, which leverages a projected $37 million match from the MSBA, is designed based upon a project-based learning curriculum, with an emphasis on STEM education.",
+        "Over the next year, the $18.5 million renovation of the Eliot School at 585 Commercial Street will be completed.",
+        "BPS is partnering with the Shah Family Foundation to provide 25 new schools with full-service kitchens. This is the first phase in a multi-year kitchen renovation program. The investment will close food security gaps that prevent many children from learning to their full potential.",
+        "Construction will begin this fall on the new $124.8 million Boston Arts Academy project. The MSBA has committed a maximum project grant totaling $48.9 million. ",
+        "The capital plan provides for Boston&rsquo;s matching investment in the Josiah Quincy Upper School (JQUS) and the Carter School. Programming and planning on both projects continues in FY19. ",
+        "BPS will increase its investment in school security to a total of $5 million. The project includes upgrades to external and internal doors, locks and key cards, and cameras."
+      ]
+    }
+  ],
+  "projects":[
+    {
+      "table_type":"capital_projects_by_department",
+      "table_title":"Capital Projects by Department",
+      "header":{
+        "debug":"JCCPBYD",
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "category":"Department",
+        "name":"Project",
+        "location":"Location",
+        "status":"Status",
+        "fy-0":"FY19 Projected",
+        "project_title":"Total"
+      },
+      "projects_data":[
+        {
+          "Boston Public Schools":[
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":4075000,
+              "fy-0":1970172,
+              "category":"Education",
+              "name":"Access Improvements at Henderson Inclusion Upper School Phase II",
+              "location":"Dorchester",
+              "status":"In Construction",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":2800000,
+              "fy-0":450000,
+              "category":"Education",
+              "name":"Accreditation Improvements at Various Schools",
+              "location":"Various neighborhoods",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":124755412,
+              "fy-0":23741333,
+              "category":"Education",
+              "name":"Boston Arts Academy",
+              "location":"Fenway/Kenmore",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":2800000,
+              "fy-0":280000,
+              "category":"Education",
+              "name":"Brighton High School Locker Rooms",
+              "location":"Allston/Brighton",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":16546742,
+              "fy-0":1050000,
+              "category":"Education",
+              "name":"BuildBPS: Capital Maintenance",
+              "location":"Citywide",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":64229699,
+              "fy-0":362766,
+              "category":"Education",
+              "name":"BuildBPS: MSBA ARP Reserve",
+              "location":"Citywide",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":135303970,
+              "fy-0":15600000,
+              "category":"Education",
+              "name":"BuildBPS: Reserve for Future Projects",
+              "location":"Citywide",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":13000000,
+              "fy-0":13000000,
+              "category":"Education",
+              "name":"BuilldBPS: 21st Century Schools Fund",
+              "location":"Citywide",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1600000,
+              "fy-0":800000,
+              "category":"Education",
+              "name":"Carter School",
+              "location":"South End",
+              "status":"To Be Scheduled",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":840000,
+              "fy-0":84000,
+              "category":"Education",
+              "name":"Curley K-8 School",
+              "location":"Jamaica Plain",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":73498295,
+              "fy-0":1000000,
+              "category":"Education",
+              "name":"Dearborn 6-12 STEM / Early College Academy",
+              "location":"Roxbury",
+              "status":"In Construction",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":661500,
+              "fy-0":66150,
+              "category":"Education",
+              "name":"Edwards Roof",
+              "location":"Charlestown",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1289400,
+              "fy-0":121240,
+              "category":"Education",
+              "name":"Electrical Improvements at 4 Schools",
+              "location":"Various neighborhoods",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":35600000,
+              "fy-0":10406000,
+              "category":"Education",
+              "name":"Eliot School at 585 Commercial Street",
+              "location":"North End",
+              "status":"In Construction",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1200000,
+              "fy-0":125000,
+              "category":"Education",
+              "name":"Fire Alarm Improvements at 4 Schools",
+              "location":"Various neighborhoods",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1350000,
+              "fy-0":135000,
+              "category":"Education",
+              "name":"Henderson Inclusion Lower School Windows",
+              "location":"Dorchester",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":7356140,
+              "fy-0":735614,
+              "category":"Education",
+              "name":"Horace Mann / Jackson Mann School Windows",
+              "location":"Allston/Brighton",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1200000,
+              "fy-0":250000,
+              "category":"Education",
+              "name":"Josiah Quincy Upper School",
+              "location":"Chinatown",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":6300450,
+              "fy-0":480000,
+              "category":"Education",
+              "name":"Madison Park Complex Building #4 Locker Rooms",
+              "location":"Roxbury",
+              "status":"To Be Scheduled",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":2614500,
+              "fy-0":261450,
+              "category":"Education",
+              "name":"Madison Park VTHS Building 4 Roof",
+              "location":"Roxbury",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":3000000,
+              "fy-0":3000000,
+              "category":"Education",
+              "name":"My Way Cafe Kitchen Program",
+              "location":"Various neighborhoods",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":9802181,
+              "fy-0":0,
+              "category":"Education",
+              "name":"Roof or Boiler Replacements at 5 Schools",
+              "location":"Various neighborhoods",
+              "status":"In Construction",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":14915465,
+              "fy-0":8886161,
+              "category":"Education",
+              "name":"Roof or Boiler Replacements at 6 Schools",
+              "location":"Various neighborhoods",
+              "status":"In Construction",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":6517000,
+              "fy-0":150000,
+              "category":"Education",
+              "name":"School Yard Improvements",
+              "location":"Citywide",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1077000,
+              "fy-0":782000,
+              "category":"Education",
+              "name":"School Yard Improvements at Sumner School",
+              "location":"Roslindale",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":5000000,
+              "fy-0":2916500,
+              "category":"Education",
+              "name":"Security Related Improvements at Various Schools",
+              "location":"Citywide",
+              "status":"In Construction",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":24000000,
+              "fy-0":4000000,
+              "category":"Education",
+              "name":"Technology Infrastructure II",
+              "location":"Citywide",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":29943163,
+              "fy-0":0,
+              "category":"Education",
+              "name":"Window Replacements at 7 Schools",
+              "location":"Various neighborhoods",
+              "status":"In Construction",
+              "operating_impact":"No"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "fy-0":90653386,
+  "total":591275917
+}
+---

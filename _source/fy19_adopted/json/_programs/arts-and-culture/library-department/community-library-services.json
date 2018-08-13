@@ -1,0 +1,245 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Arts & Culture",
+  "department":"Library Department",
+  "file_version":"",
+  "head_name":"David Leonard",
+  "head_title":"President",
+  "name":"Community Library Services",
+  "parent":"Library Department",
+  "section_id":136,
+  "section_md5_id":"42A0E188F5033BC65BF8D78622277C4E",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~library-administration.json",
+  "source_time":"20180813094956",
+  "source_year":"19",
+  "appropriation_code":"Organization 110200",
+  "description":[
+    "The Community Library Services Program supports the strategic goal of the library being a center for, and facilitator of, lifelong learning.  Its objective is to assist people of various ages, backgrounds, and stages of learning through the development of a variety of materials and programs, including those designed to teach information literacy."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":14076911,
+      "fy-1":14077434,
+      "fy-0":15626782,
+      "fy+1":15493332
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":348266,
+      "fy-1":446250,
+      "fy-0":116576,
+      "fy+1":144426
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":14425177,
+      "fy-1":14523684,
+      "fy-0":15743358,
+      "fy+1":15637758
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":14076911,
+        "fy-1":14077434,
+        "fy-0":15626782,
+        "fy+1":15493332,
+        "diff":-133450
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":348266,
+        "fy-1":446250,
+        "fy-0":97736,
+        "fy+1":107786,
+        "diff":10050
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":18840,
+        "fy+1":18840,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":17800,
+        "diff":17800
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":14425177,
+        "fy-1":14523684,
+        "fy-0":15743358,
+        "fy+1":15637758,
+        "diff":-105600
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To provide customer satisfaction through daily operations, program events, and special collection events"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of Satified customer surveys",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"83%",
+              "fy+1":"75%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"% of Satified program exit surveys",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"87%",
+              "fy+1":"80%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Average number of EBook holds",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"42,545",
+              "fy+1":"40,000"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Library Card Daily Usage",
+              "fy-2":"3,142,901",
+              "fy-1":"3,300,000",
+              "fy-0":"3,029,762",
+              "fy+1":"3,000,000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To provide improved access to programs, services and collections"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Library Reach",
+              "fy-2":"",
+              "fy-1":"10,000,000",
+              "fy-0":"9,614,405",
+              "fy+1":"10,000,000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To support improved youth literacy"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Participants in Early Literacy Program",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"32,065",
+              "fy+1":"55,000"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

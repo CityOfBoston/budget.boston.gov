@@ -1,0 +1,431 @@
+---
+{
+  "debug":"JBD",
+  "publish_subordinates":true,
+  "file_version":"",
+  "section_id":5,
+  "section_md5_id":"E4DA3B7FBBCE2345D7772B0674A318D5",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Adopted~Publish 19 Adopted~JSON Output~_source~fy19_adopted~json~_departments~Streets~public-works-department.json",
+  "source_time":"20180813095141",
+  "source_year":"19",
+  "name":"Public Works Department",
+  "parent":"Streets",
+  "cabinet":"Streets",
+  "department":"Public Works Department",
+  "head_name":"Chris Osgood",
+  "head_title":"Interim Commissioner",
+  "appropriation_code":"Appropriation 311",
+  "mission":[
+    "The mission of the Public Works Department is to provide a quality environment for the City of Boston and ensure that the City's roadways, streets and bridge infrastructures are safe, clean and attractive. The Public Works Department also maintains street lights, traffic signals, provides snow removal and garbage collection and disposal as well as curbside recycling."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Construction Management",
+      "debug":"JCO",
+      "strategies":[
+        "Ensure that Boston&rsquo;s streets, sidewalks, and bridges are safe, clean and attractive"
+      ]
+    },
+    {
+      "program":"Highway Field Operations",
+      "debug":"JCO",
+      "strategies":[
+        "Ensure that Boston&rsquo;s streets, sidewalks, and bridges are safe, clean and attractive",
+        "Improve neighborhood quality of life"
+      ]
+    },
+    {
+      "program":"Street Lights",
+      "debug":"JCO",
+      "strategies":[
+        "Efficiently deliver services",
+        "Improve neighborhood quality of life"
+      ]
+    },
+    {
+      "program":"Waste Reduction",
+      "debug":"JCO",
+      "strategies":[
+        "Effectively control and manage Boston's public space",
+        "Efficiently deliver services"
+      ]
+    }
+  ],
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    "data":[
+      {
+        "name":"PWD Commissioner's Office",
+        "line_type":"data",
+        "fy-2":2841754,
+        "fy-1":2898530,
+        "fy-0":2758636,
+        "fy+1":2424504,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Building/Facility Maintenance",
+        "line_type":"data",
+        "fy-2":2286572,
+        "fy-1":2479443,
+        "fy-0":2782457,
+        "fy+1":2442791,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Engineering",
+        "line_type":"data",
+        "fy-2":1670878,
+        "fy-1":1684405,
+        "fy-0":1551798,
+        "fy+1":1831349,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Construction Management",
+        "line_type":"data",
+        "fy-2":4690789,
+        "fy-1":3264965,
+        "fy-0":2981527,
+        "fy+1":3107109,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Highway Field Operations",
+        "line_type":"data",
+        "fy-2":21060512,
+        "fy-1":20163092,
+        "fy-0":20089636,
+        "fy+1":20411213,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Bridge Operations/Maintenance",
+        "line_type":"data",
+        "fy-2":2713515,
+        "fy-1":1756432,
+        "fy-0":1857976,
+        "fy+1":1799426,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Street Lights",
+        "line_type":"data",
+        "fy-2":10712131,
+        "fy-1":9225675,
+        "fy-0":11606349,
+        "fy+1":11834822,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Waste Reduction",
+        "line_type":"data",
+        "fy-2":39078603,
+        "fy-1":39175931,
+        "fy-0":40919855,
+        "fy+1":42057630,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":85054754,
+        "fy-1":80648473,
+        "fy-0":84548234,
+        "fy+1":85908844
+      }
+    ]
+  },
+  "external_funds_budget":{
+    "table_type":"External Funds",
+    "table_title":"External Funds Budget",
+    "table_header":{
+      "name":"Fund Name",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    "data":[
+      {
+        "name":"Asian Longhorn Beetles",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Business Waste Red & Sus Asst",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"DOE Clean Cities Grant",
+        "line_type":"data",
+        "fy-2":58758,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Electronic Waste Recycling and Advertising",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Home Composting",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Keep America Beautiful",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"MBTA/Streetlight Division Facility Move",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Municipal Recycling",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":10000,
+        "fy+1":10000,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Recycling, Public Education",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Solar Trash Compactor Demonstration",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Spectacle Island",
+        "line_type":"data",
+        "fy-2":210000,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Sustainable Materials Recovery Program Municipal Grant",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":268758,
+        "fy-1":0,
+        "fy-0":10000,
+        "fy+1":10000
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":21905405,
+      "fy-1":21675116,
+      "fy-0":23232123,
+      "fy+1":23548802
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":63149349,
+      "fy-1":58973357,
+      "fy-0":61316111,
+      "fy+1":62360042
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":85054754,
+      "fy-1":80648473,
+      "fy-0":84548234,
+      "fy+1":85908844
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Enabling Legislation: Powers & Duties, CBC Ord. &sect;&sect; 11-6.1-11-6.44.",
+    "Bills Posting, CBC Ord. &sect;&sect; 16-23.1-16-23.3.",
+    "Licenses for Street Occupancy, CBC Ord. &sect;&sect; 11-6.9-11-6.10.",
+    "Public Improvement Commission, CBC Ord. &sect; 8-7.1; CBC St. 8 &sect; 500.",
+    "Refuse, CBC Ord. &sect;&sect; 23-1, 23-5, 23-7, 23-8, 23-9, 23-10; CBC Ord. &sect; 16-12.9.",
+    "Establishing a Comprehensive Recycling Program for City of Boston, CBC Ord. &sect;&sect; 7-13.1-7-13.11."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":21905405,
+        "fy-1":21675116,
+        "fy-0":23232123,
+        "fy+1":23548802,
+        "diff":316679
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":56282500,
+        "fy-1":52682395,
+        "fy-0":55765920,
+        "fy+1":57109753,
+        "diff":1343833
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":2034025,
+        "fy-1":1456947,
+        "fy-0":1768774,
+        "fy+1":1760595,
+        "diff":-8179
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":667658,
+        "fy-1":627766,
+        "fy-0":559545,
+        "fy+1":589140,
+        "diff":29595
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":2922313,
+        "fy-1":3725506,
+        "fy-0":2821872,
+        "fy+1":2500554,
+        "diff":-321318
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":1242853,
+        "fy-1":480743,
+        "fy-0":400000,
+        "fy+1":400000,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":85054754,
+        "fy-1":80648473,
+        "fy-0":84548234,
+        "fy+1":85908844,
+        "diff":1360610
+      }
+    ]
+  },
+  "external_funds":[
+    {
+      "project":"Home Composting",
+      "project_mission":[
+        "This revolving account was started with a grant from the State Department of Environmental Protection and uses yard waste materials from community gardens to create compost. The compost is sold and the proceeds were used to buy compost bins, which are also sold to residential gardeners, along with compost."
+      ]
+    },
+    {
+      "project":"MRIP (Municipal Recycling Incentive Program)",
+      "project_mission":[
+        "MRIP is a program of the DEP. The goal of the program is to increase municipal recycling, safely dispose of universal wastes (such as CRT's, mercury, paint and auto supplies) and develop a way to recover and reuse materials such as paper, cardboard and leaf and yard waste."
+      ]
+    }
+  ],
+  "fy_major_initiatives":[
+    "Walkable Streets will focus on longer, contiguous sections of sidewalks to improve overall mobility.",
+    "Construction will begin on Beach Street, from Atlantic Avenue to JFK Surface Road with new sidewalks, new lighting, trees, and street furniture.",
+    "Construction will begin at New England Avenue, from Talbot Avenue to Norfolk Avenue with new sidewalks and lighting.",
+    "Construction will continue on the streets and sidewalks in and around North Square.",
+    "The reconstruction and installation of pedestrian ramps on sidewalks will continue throughout the City, to improve accessibility. Funding for pedestrian ramp installations will increase $500K in FY19.",
+    "State Street will be re-designed adhering to Complete Streets guidelines.",
+    "Cummins Highway from Mattapan Square to Harvard Street will be re-designed with Complete Streets guidelines in mind.",
+    "Ruggles Street from Tremont Street to Shawmut Street will also be re-designed adhering to Complete Streets standard.",
+    "Construction will begin on a new North Washington Street Bridge.",
+    "Construction is expected to begin on a new Long Island Bridge.",
+    "Design is expected to begin on the Northern Avenue Bridge.",
+    "Upgrades to a series of bridges in an effort to bring all bridges to a State of Good Repair by 2030.",
+    "Funding for roadway reconstruction, resurfacing, and sidewalk improvements will be increased by $3.75 million this year. Repairs are planned throughout the City."
+  ]
+}
+---

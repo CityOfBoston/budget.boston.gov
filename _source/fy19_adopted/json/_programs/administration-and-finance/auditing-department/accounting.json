@@ -1,0 +1,181 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Administration & Finance",
+  "department":"Auditing Department",
+  "file_version":"",
+  "head_name":"Kelli Lazar",
+  "head_title":"Manager",
+  "name":"Accounting",
+  "parent":"Auditing Department",
+  "section_id":49,
+  "section_md5_id":"F457C545A9DED88F18ECEE47145A72C0",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~auditing-administration.json",
+  "source_time":"20180813095029",
+  "source_year":"19",
+  "appropriation_code":"Organization 131200",
+  "description":[
+    "The primary responsibility of the Accounting Program is to provide accurate and complete financial data and technical assistance to all City departments.  The Program also oversees the coordination of the City's Annual Financial Audit and the publication of the Comprehensive Annual Financial Report (CAFR)."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":684495,
+      "fy-1":655764,
+      "fy-0":706410,
+      "fy+1":723457
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":13907,
+      "fy-1":33720,
+      "fy-0":28456,
+      "fy+1":38397
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":698402,
+      "fy-1":689484,
+      "fy-0":734866,
+      "fy+1":761854
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":684495,
+        "fy-1":655764,
+        "fy-0":706410,
+        "fy+1":723457,
+        "diff":17047
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":10839,
+        "fy-1":24537,
+        "fy-0":3868,
+        "fy+1":5497,
+        "diff":1629
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":1069,
+        "fy-1":1354,
+        "fy-0":2088,
+        "fy+1":1325,
+        "diff":-763
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":1999,
+        "fy-1":7829,
+        "fy-0":22500,
+        "fy+1":31575,
+        "diff":9075
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":698402,
+        "fy-1":689484,
+        "fy-0":734866,
+        "fy+1":761854,
+        "diff":26988
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Ensure Stability of Financial Reporting"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of Financial Audit Work Completed",
+              "fy-2":"100%",
+              "fy-1":"100%",
+              "fy-0":"100%",
+              "fy+1":"100%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"% of New GASB Standards Implemented",
+              "fy-2":"100%",
+              "fy-1":"100%",
+              "fy-0":"100%",
+              "fy+1":"100%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Financial Audit Completion",
+              "fy-2":"100",
+              "fy-1":"100",
+              "fy-0":"100",
+              "fy+1":"100"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

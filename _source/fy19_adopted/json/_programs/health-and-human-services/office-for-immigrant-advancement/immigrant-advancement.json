@@ -1,0 +1,309 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Health & Human Services",
+  "department":"Office for Immigrant Advancement",
+  "file_version":"",
+  "head_name":"Alejandra St. Guillen",
+  "head_title":"Manager",
+  "name":"Immigrant Advancement",
+  "parent":"Office for Immigrant Advancement",
+  "section_id":153,
+  "section_md5_id":"B3E3E393C77E35A4A3F3CBD1E429B5DC",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~.json",
+  "source_time":"20180813095226",
+  "source_year":"19",
+  "appropriation_code":"Organization 113100",
+  "description":[
+    "The Office for Immigrant Advancement aims at building partnerships with immigrant communities, assisting immigrants to participate in city government, providing cultural competence support for city departments so that they can better serve diverse linguistic and cultural constituents, increasing access to city services for immigrants, and developing leadership among Boston immigrant communities."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":366514,
+      "fy-1":348469,
+      "fy-0":406737,
+      "fy+1":433666
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":14849,
+      "fy-1":51340,
+      "fy-0":33200,
+      "fy+1":38250
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":381363,
+      "fy-1":399809,
+      "fy-0":439937,
+      "fy+1":471916
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":366514,
+        "fy-1":348469,
+        "fy-0":406737,
+        "fy+1":433666,
+        "diff":26929
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":9053,
+        "fy-1":42088,
+        "fy-0":27600,
+        "fy+1":31300,
+        "diff":3700
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":5281,
+        "fy-1":6184,
+        "fy-0":4700,
+        "fy+1":6000,
+        "diff":1300
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":515,
+        "fy-1":2543,
+        "fy-0":900,
+        "fy+1":950,
+        "diff":50
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":525,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":381363,
+        "fy-1":399809,
+        "fy-0":439937,
+        "fy+1":471916,
+        "diff":31979
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Empowerment-develop resources to build and strengthen immigrant organizations capacity"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of constituents reached via MOIA newsletter and website",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"26,994",
+              "fy+1":"20,000"
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of constituents served with MOIA- facilitated grants (ENB, MOIA mini-grants, external funds)",
+              "fy-2":"",
+              "fy-1":"5,085",
+              "fy-0":"1,380",
+              "fy+1":"1,500"
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of programs developed in communities",
+              "fy-2":"",
+              "fy-1":"24",
+              "fy-0":"6",
+              "fy+1":"10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Engagement-Provide access to immigration information and community resources; Promote diversity and inclusiveness"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of community members engaged and reached at events/meetings/education workshops",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"2,125",
+              "fy+1":"2,000"
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of community partners (community-based organizations, faith-based, higher ed, grantees, businesses, labor etc.) engaged and reached @ MOIA initiatives",
+              "fy-2":"",
+              "fy-1":"63",
+              "fy-0":"290",
+              "fy+1":"200"
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of constituents contacts (emails, calls, walk-ins)",
+              "fy-2":"",
+              "fy-1":"992",
+              "fy-0":"793",
+              "fy+1":"1,000"
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of events/meetings/education workshops/presentations hosted by MOIA",
+              "fy-2":"",
+              "fy-1":"87",
+              "fy-0":"164",
+              "fy+1":"100"
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of immigrants served @ twice-monthly immigration clinics, annual citizenship day, and citywide screening clinics",
+              "fy-2":"694",
+              "fy-1":"735",
+              "fy-0":"906",
+              "fy+1":"1,000"
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of materials distributed @ city departments, community events, immigrant information corners, immigration clinincs, presentations etc",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"3,410",
+              "fy+1":"12,000"
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of social media hits (twitter and facebook)",
+              "fy-2":"",
+              "fy-1":"396,756",
+              "fy-0":"1,079,038",
+              "fy+1":"1,500,000"
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of traditional media stories (mainstream, ethnic, local TV/radio, print)",
+              "fy-2":"",
+              "fy-1":"96",
+              "fy-0":"71",
+              "fy+1":"100"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Change in average # of community members engaged and reached at events/meetings/education workshops",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"10",
+              "fy+1":"10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Immigrant integration - Collaboration with city departments to improve access to city services"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of collaborations with city departments",
+              "fy-2":"",
+              "fy-1":"124",
+              "fy-0":"312",
+              "fy+1":"350"
+            },
+            {
+              "line_type":"data",
+              "line_data":"growth in # of collaborations with city departments",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"10",
+              "fy+1":"10"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

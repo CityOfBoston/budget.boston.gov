@@ -1,0 +1,135 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Mayor's Office",
+  "department":"Law Department",
+  "file_version":"",
+  "head_name":"Eugene O&rsquo;Flaherty",
+  "head_title":"Corporation Counsel",
+  "name":"Law Operations",
+  "parent":"Law Department",
+  "section_id":129,
+  "section_md5_id":"D1F491A404D6854880943E5C3CD9CA25",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~.json",
+  "source_time":"20180813095018",
+  "source_year":"19",
+  "appropriation_code":"Organization 151100",
+  "description":[
+    "The Operations Program provides the Department with the administrative structure and services necessary for the Department to carry out its day-to-day activities under court mandated litigation deadlines. The Operational duties include general managerial functions of recruiting, training, supervising administrative and support staff members and procuring supplies and services necessary to protect the City&rsquo;s legal interests. The Operations Program also provides the database administration and technical support to ensure attorney staff members have the legal research resources in carrying out their duties. Furthermore, the administrative staff within the Operations Program provides centralized administrative support for the attorneys, including but not limited to legal documents preparation, courier services coordination, depositions assistance, and duplication of hundreds of documents daily, and servicing and filing of legal papers."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":1420987,
+      "fy-1":1081366,
+      "fy-0":982472,
+      "fy+1":1063836
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":385070,
+      "fy-1":383152,
+      "fy-0":263882,
+      "fy+1":310458
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1806057,
+      "fy-1":1464518,
+      "fy-0":1246354,
+      "fy+1":1374294
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":1420987,
+        "fy-1":1081366,
+        "fy-0":982472,
+        "fy+1":1063836,
+        "diff":81364
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":270576,
+        "fy-1":291687,
+        "fy-0":204959,
+        "fy+1":252843,
+        "diff":47884
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":11000,
+        "fy-1":17331,
+        "fy-0":18408,
+        "fy+1":19725,
+        "diff":1317
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":98317,
+        "fy-1":59807,
+        "fy-0":40515,
+        "fy+1":37890,
+        "diff":-2625
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":5177,
+        "fy-1":14327,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":1806057,
+        "fy-1":1464518,
+        "fy-0":1246354,
+        "fy+1":1374294,
+        "diff":127940
+      }
+    ]
+  }
+}
+---

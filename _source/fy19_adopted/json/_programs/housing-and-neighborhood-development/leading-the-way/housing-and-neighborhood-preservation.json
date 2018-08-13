@@ -1,0 +1,173 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Housing & Neighborhood Development",
+  "department":"Leading the Way",
+  "file_version":"",
+  "head_name":null,
+  "head_title":null,
+  "name":"Housing & Neighborhood Preservation",
+  "parent":"Leading the Way",
+  "section_id":134,
+  "section_md5_id":"02522A2B2726FB0A03BB19F2D8D9524D",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~housing-production-and-access.json",
+  "source_time":"20180813095235",
+  "source_year":"19",
+  "appropriation_code":"Organization 189300",
+  "description":[
+    "The mission of this program was 1) to preserve affordable housing that is at risk due to either expiring affordability protections or physical and financial distress, and 2) to preserve neighborhoods put at risk due to foreclosures, neglected bank-owned real estate and declining values. Funding for activities in the Mayor's Boston 2030 plan are now included under the Neighborhood Development Operating Budget in &ldquo;Program 3: Housing Development and Services.\""
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To reduce home foreclosures through counseling of at-risk homeowners"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Homeowners assisted with foreclosure prevention counseling",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":""
+            },
+            {
+              "line_type":"data",
+              "line_data":"Homeowners assisted with foreclosure prevention counseling who avoided foreclosure",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"",
+              "fy+1":""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

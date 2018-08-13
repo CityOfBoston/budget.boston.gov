@@ -1,0 +1,90 @@
+---
+{
+  "debug":"JBD",
+  "publish_subordinates":false,
+  "file_version":"",
+  "section_id":63,
+  "section_md5_id":"03AFDBD66E7929B125F8597834FA83A4",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Adopted~Publish 19 Adopted~JSON Output~_source~fy19_adopted~json~_departments~Administration and Finance~pensions-and-annuities-county.json",
+  "source_time":"20180813095045",
+  "source_year":"19",
+  "name":"Pensions & Annuities - County",
+  "parent":"Administration & Finance",
+  "cabinet":"Administration & Finance",
+  "department":"Pensions & Annuities - County",
+  "head_name":null,
+  "head_title":null,
+  "appropriation_code":"Appropriation 749",
+  "mission":[
+    "The Pensions and Annuities appropriation funds the County's payments to retired County officials and employees who were not members of the contributory retirement systems. Individuals paid under this system are veterans of World War II, have 30 years of service, and were employed prior to 1939."
+  ],
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    "data":[
+      {
+        "name":"Pensions & Annuities - County",
+        "line_type":"data",
+        "fy-2":36894,
+        "fy-1":37674,
+        "fy-0":100000,
+        "fy+1":100000,
+        "publish_subordinates":false
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":36894,
+        "fy-1":37674,
+        "fy-0":100000,
+        "fy+1":100000
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":36894,
+      "fy-1":37674,
+      "fy-0":100000,
+      "fy+1":100000
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":36894,
+      "fy-1":37674,
+      "fy-0":100000,
+      "fy+1":100000
+    }
+  ]
+}
+---

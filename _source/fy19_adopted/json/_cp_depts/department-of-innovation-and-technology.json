@@ -1,0 +1,246 @@
+---
+{
+  "cabinet":"Information & Technology",
+  "debug":"JBDCP",
+  "department":"Department of Innovation and Technology",
+  "file_version":"",
+  "head_name":"Patricia Boyle-McKenna",
+  "head_title":"Interim Chief Information Officer",
+  "name":"Department of Innovation and Technology",
+  "parent":"Information & Technology",
+  "section_id":17,
+  "section_md5_id":"70EFDF2EC9B086079795C442636B55FB",
+  "section_type":"capital_budget",
+  "section_type_short":"L",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Adopted~Publish 19 Adopted~JSON Output~_source~fy19_adopted~json~_cp_depts~department-of-innovation-and-technology.json",
+  "source_time":"20180813095059",
+  "source_year":"19",
+  "mission":[
+    "The Department of Innovation and Technology is the City&rsquo;s enterprise wide technology services organization providing solutions that enable our business partners across all City departments. DoIT&rsquo;s primary day-to-day responsibility is to ensure that the networks, desktop computers, e-mail systems, and applications that support the business of City government are continuously available and operating effectively. DoIT embraces its responsibility to help manage costs through difficult financial times by continuously improving the cost structure of the City&rsquo;s technology without compromising service. Our commitment to being environmentally responsible is often synergistic with these economic and service responsibilities."
+  ],
+  "description_of_services":[
+    "The Department of Innovation and Technology (DoIT) improves the delivery of government services to the public through the effective management of the City&rsquo;s existing and emerging technologies. DoIT introduces innovative technologies and processes designed to drive efficiency into government operations. DoIT also provides professional project management and business analysis services, in addition to maintaining the hardware and software platforms necessary to support the daily technical and communication operations of the City. Personnel skilled in programming, analysis, hardware and software support, training, communications, and general technology consulting work with user departments on enhancing and maintaining their information systems."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Enterprise Applications",
+      "strategies":[
+        "Improving constituent satisfaction with government services.",
+        "Modernization of paper based processes to digital formats."
+      ]
+    },
+    {
+      "program":"Digital Engagement & Services",
+      "strategies":[
+        "Improving how the City interacts with constituents."
+      ]
+    },
+    {
+      "program":"Core Infrastructure",
+      "strategies":[
+        "To provide City Hall employees with the IT tools to effectively execute their job."
+      ]
+    },
+    {
+      "program":"Broadband & Digital Equity",
+      "strategies":[
+        "Closing the digital equity gap.",
+        "Improving broadband services."
+      ]
+    }
+  ],
+  "overview":[
+    "Capital investment in technology enables the City to work more efficiently at a lower cost; to be more responsive to citizens; and to provide convenience for Boston&rsquo;s residents, businesses and visitors. Ongoing and new initiatives will build upon this progress, ensuring the City remains competitive and coordinated in computer information and communication technology."
+  ],
+  "fy_major_initiatives":[
+    "Expansion of the City&rsquo;s fiber optic network (BoNet) will continue in FY19. The fiber network will connect additional Boston Public School buildings.",
+    "DoIT will continue a feasibility study to determine a cost effective and efficient way to expand and sustain the infrastructure that supports multiple City radio systems.",
+    "In Enterprise Applications, DoIT will continue developing Constituent Relations Management tools such as 311 and expand to more departments.",
+    "In Digital Service Delivery and Engagement, DoIT will continue modernization of multiple digital tools and public applications to improve user experience engaging with the city online.",
+    "Begin procurement of IT solutions identified in an innovative proposal and evaluation process that will support various City departments, including Boston Centers for Youth and Families, Boston Fire Department, Neighborhood Development, and Public Works."
+  ],
+  "capital_budget_expenditures":[
+    {
+      "table_type":"capital_budget_expenditures",
+      "table_title":"Capital Budget Expenditures",
+      "table_header":{
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "fy-2":"FY16 Actual",
+        "fy-1":"FY17 Actual",
+        "fy-0":"FY18 Estimated",
+        "fy+1":"FY19 Projected"
+      },
+      "data":{
+        "line_type":"total",
+        "line_title":"Total Department",
+        "line_data_type":"total",
+        "fy-2":13209480,
+        "fy-1":8732893,
+        "fy-0":19056812,
+        "fy+1":20087741
+      }
+    }
+  ],
+  "projects":[
+    {
+      "table_type":"capital_projects_by_category",
+      "table_title":"Capital Projects by Category",
+      "header":{
+        "debug":"JBDCPDP",
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "category":"Category",
+        "name":"Project",
+        "location":"Location",
+        "status":"Status",
+        "fy-0":"FY19 Projected",
+        "project_title":"Total"
+      },
+      "projects_data":[
+        {
+          "Technology":[
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Technology",
+              "name":"City-wide Radio System Study",
+              "location":"Citywide",
+              "section_id":"CMS24705",
+              "status":"To Be Scheduled",
+              "operating_impact":"Yes",
+              "fy-0":300000,
+              "project_total":425000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Technology",
+              "name":"Computer Aided Dispatch",
+              "location":"Citywide",
+              "section_id":"CMS23369",
+              "status":"Implementation Underway",
+              "operating_impact":"No",
+              "fy-0":0,
+              "project_total":16282834
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Technology",
+              "name":"Core Technology Infrastructure",
+              "location":"Citywide",
+              "section_id":"CMS24556",
+              "status":"Annual Program",
+              "operating_impact":"No",
+              "fy-0":1135000,
+              "project_total":8669773
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Technology",
+              "name":"Cyber Security and Resiliency",
+              "location":"Various neighborhoods",
+              "section_id":"CMS24177",
+              "status":"Annual Program",
+              "operating_impact":"No",
+              "fy-0":700000,
+              "project_total":6658049
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Technology",
+              "name":"Data Analytics",
+              "location":"N/A",
+              "section_id":"CMS24178",
+              "status":"Annual Program",
+              "operating_impact":"No",
+              "fy-0":1200000,
+              "project_total":6631165
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Technology",
+              "name":"Digital Service Delivery and Engagement",
+              "location":"Various neighborhoods",
+              "section_id":"CMS24159",
+              "status":"Annual Program",
+              "operating_impact":"No",
+              "fy-0":1100000,
+              "project_total":9411905
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Technology",
+              "name":"Enterprise Applications",
+              "location":"N/A",
+              "section_id":"CMS23490",
+              "status":"Annual Program",
+              "operating_impact":"Yes",
+              "fy-0":5788000,
+              "project_total":32372542
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Technology",
+              "name":"Fiber Network Expansion",
+              "location":"Various neighborhoods",
+              "section_id":"CMS24001",
+              "status":"Implementation Underway",
+              "operating_impact":"Yes",
+              "fy-0":6200000,
+              "project_total":13020523
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Technology",
+              "name":"IT Investment Proposals",
+              "location":"N/A",
+              "section_id":"CMS24765",
+              "status":"New Project",
+              "operating_impact":"Yes",
+              "fy-0":3664741,
+              "project_total":3664741
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Technology",
+              "name":"Reserve for Future DoIT Projects",
+              "location":"N/A",
+              "section_id":"CMS24766",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":0,
+              "project_total":9676390
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Technology",
+              "name":"Tax Billing and Collecting System",
+              "location":"N/A",
+              "section_id":"CMS23830",
+              "status":"Implementation Underway",
+              "operating_impact":"Yes",
+              "fy-0":0,
+              "project_total":2901165
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "fy-0":20087741,
+  "total":109714087
+}
+---

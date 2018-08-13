@@ -1,0 +1,189 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Mayor's Office",
+  "department":"Election Department",
+  "file_version":"",
+  "head_name":"Dion Irish",
+  "head_title":"Commissioner",
+  "name":"Election Administration",
+  "parent":"Election Department",
+  "section_id":96,
+  "section_md5_id":"26657D5FF9020D2ABEFE558796B99584",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~.json",
+  "source_time":"20180813095016",
+  "source_year":"19",
+  "appropriation_code":"Organization 121100",
+  "description":[
+    "The Administration Program provides overall administrative and management support to the Election Department, including managing staff and Election Day employee attendance, hiring and compensation, handling complaints, and monitoring the performance of each of the Department's programs."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":537198,
+      "fy-1":589532,
+      "fy-0":694486,
+      "fy+1":681021
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":161220,
+      "fy-1":196467,
+      "fy-0":99485,
+      "fy+1":409573
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":698418,
+      "fy-1":785999,
+      "fy-0":793971,
+      "fy+1":1090594
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":537198,
+        "fy-1":589532,
+        "fy-0":694486,
+        "fy+1":681021,
+        "diff":-13465
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":79598,
+        "fy-1":112826,
+        "fy-0":38850,
+        "fy+1":34950,
+        "diff":-3900
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":29429,
+        "fy-1":57649,
+        "fy-0":45012,
+        "fy+1":42856,
+        "diff":-2156
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":219,
+        "fy-1":5,
+        "fy-0":3150,
+        "fy+1":3150,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":51974,
+        "fy-1":25987,
+        "fy-0":12473,
+        "fy+1":328617,
+        "diff":316144
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":698418,
+        "fy-1":785999,
+        "fy-0":793971,
+        "fy+1":1090594,
+        "diff":296623
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Administer Elections in a manner that allows all eligible voters to exercise their right to vote without unreasonable impediments, and in accordance with the applicable laws and regulations"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of Election Officers (Wardens & Clerks) that pass the training test",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"100%",
+              "fy+1":"100%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"% of mailed ballot requests (absentee & early voting) processed in 48 hours",
+              "fy-2":"",
+              "fy-1":"100%",
+              "fy-0":"100%",
+              "fy+1":"100%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"% of Provisional Ballots improperly issued",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"5%",
+              "fy+1":"5%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Average number minutes a voter waits in line",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"30",
+              "fy+1":"30"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

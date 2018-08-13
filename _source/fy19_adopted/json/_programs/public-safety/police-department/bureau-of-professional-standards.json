@@ -1,0 +1,135 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Public Safety",
+  "department":"Police Department",
+  "file_version":"",
+  "head_name":"Frank A. Mancini",
+  "head_title":"Manager",
+  "name":"Bureau of Professional Standards",
+  "parent":"Police Department",
+  "section_id":175,
+  "section_md5_id":"82161242827B703E6ACF9C726942A1E4",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~bureau-of-field-services.json",
+  "source_time":"20180813095115",
+  "source_year":"19",
+  "appropriation_code":"Organization 211600",
+  "description":[
+    "The Bureau of Professional Standards is responsible for the administrative investigation of all police misconduct, including violations of law, additionally completing background investigations on all new employees to the department, and internally auditing the various units and departments within the Boston Police.  The Bureau is also responsible for handling corruption prevention programs within the City of Boston as well as proactive and reactive investigations.  The Bureau of Professional Standards is comprised of the Internal Affairs Division and the Anti-Corruption Division.  The Internal Affairs Division houses the Internal Investigations Unit, the Audit and Review Unit and the Recruit Investigations Unit."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":8308440,
+      "fy-1":8650316,
+      "fy-0":7933132,
+      "fy+1":7768032
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":156974,
+      "fy-1":174169,
+      "fy-0":117590,
+      "fy+1":117590
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":8465414,
+      "fy-1":8824485,
+      "fy-0":8050722,
+      "fy+1":7885622
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":8308440,
+        "fy-1":8650316,
+        "fy-0":7933132,
+        "fy+1":7768032,
+        "diff":-165100
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":64694,
+        "fy-1":80354,
+        "fy-0":69610,
+        "fy+1":69610,
+        "diff":0
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":43200,
+        "fy-1":43600,
+        "fy-0":2250,
+        "fy+1":2250,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":49080,
+        "fy-1":50118,
+        "fy-0":40730,
+        "fy+1":40730,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":97,
+        "fy-0":5000,
+        "fy+1":5000,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":8465414,
+        "fy-1":8824485,
+        "fy-0":8050722,
+        "fy+1":7885622,
+        "diff":-165100
+      }
+    ]
+  }
+}
+---

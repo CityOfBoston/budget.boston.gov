@@ -1,0 +1,135 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Administration & Finance",
+  "department":"Treasury Department",
+  "file_version":"",
+  "head_name":"Marirose Graham",
+  "head_title":"Manager",
+  "name":"Treasury Accounting",
+  "parent":"Treasury Department",
+  "section_id":33,
+  "section_md5_id":"182BE0C5CDCD5072BB1864CDEE4D3D6E",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~general-service-payroll.json",
+  "source_time":"20180813095053",
+  "source_year":"19",
+  "appropriation_code":"Organization 138400",
+  "description":[
+    "The Accounting Program records and reconciles on a daily basis the cash and investment balances of the City.  It reports daily on all financial transactions.  Additionally, the program prepares and files federal and state forms and ensures payment of withholding taxes to state and federal agencies.  The program is also responsible for ensuring the timely reconciliation of bank statements and city records."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":150791,
+      "fy-1":159036,
+      "fy-0":180098,
+      "fy+1":183033
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":4750,
+      "fy-1":347,
+      "fy-0":5350,
+      "fy+1":5350
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":155541,
+      "fy-1":159383,
+      "fy-0":185448,
+      "fy+1":188383
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":150791,
+        "fy-1":159036,
+        "fy-0":180098,
+        "fy+1":183033,
+        "diff":2935
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":750,
+        "fy-1":347,
+        "fy-0":600,
+        "fy+1":600,
+        "diff":0
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":4000,
+        "fy-1":0,
+        "fy-0":4750,
+        "fy+1":4750,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":155541,
+        "fy-1":159383,
+        "fy-0":185448,
+        "fy+1":188383,
+        "diff":2935
+      }
+    ]
+  }
+}
+---

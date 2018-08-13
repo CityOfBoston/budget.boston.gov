@@ -1,0 +1,119 @@
+---
+{
+  "category":"Transportation",
+  "category_desc":"Initiatives to support an accessible multimodal transportation system that gets Bostonians where they need to go reliably and safely.",
+  "department":"Public Works Department",
+  "file_version":"",
+  "location":"Back Bay",
+  "managing_department":"Public Works Department",
+  "mission":"Replace existing bridge structure. State and federal construction funding awarded.",
+  "name":"Massachusetts Avenue Bridge at Commonwealth Avenue",
+  "operating_impact":"No",
+  "section_id":"CPW20554",
+  "section_type":"projects",
+  "section_type_short":"R",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Adopted~Publish 19 Adopted~JSON Output~_source~fy19_adopted~json~_projects~public-works-department~massachusetts-avenue-bridge-at-commonwealth-avenue.json",
+  "source_time":"20180813095141",
+  "source_year":"19",
+  "status":"In Construction",
+  "expenditures_detail":{
+    "table_title":"Expenditures (Actual and Planned)",
+    "table_header":{
+      "line_type":"header",
+      "line_title":null,
+      "line_data_type":"string",
+      "source":"Source",
+      "past_spending":"Through 6/30/17",
+      "fy-1":"FY18 Budget",
+      "fy-0":"FY19 Budget",
+      "fy+1-4":"FY20-23 Budget",
+      "total":"Total"
+    },
+    "data":[
+      {
+        "line_type":"data",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"City Capital",
+        "past_spending":1623946,
+        "fy-1":146000,
+        "fy-0":300000,
+        "fy+1-4":66028,
+        "total":2135974
+      },
+      {
+        "line_type":"data",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"Grants/Other",
+        "past_spending":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1-4":0,
+        "total":0
+      },
+      {
+        "line_type":"total",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"Totals",
+        "past_spending":1623946,
+        "fy-1":146000,
+        "fy-0":300000,
+        "fy+1-4":66028,
+        "total":2135974
+      }
+    ],
+    "authorizations_table":{
+      "table_title":"Authorizations",
+      "table_header":{
+        "line_type":"header",
+        "line_title":null,
+        "line_data_type":"string",
+        "source":"Source",
+        "existing":"Existing",
+        "fy-0":"FY19",
+        "fy-0++":"Future",
+        "other":"Non Capital Fund",
+        "total":"Total"
+      },
+      "data":[
+        {
+          "line_type":"data",
+          "line_title":null,
+          "line_data_type":"number",
+          "source":"City Capital",
+          "existing":2135974,
+          "fy-0":0,
+          "fy-0++":0,
+          "other":0,
+          "total":2135974
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "line_data_type":"number",
+          "source":"Grants/Other",
+          "existing":0,
+          "fy-0":0,
+          "fy-0++":0,
+          "other":16183795,
+          "total":16183795
+        },
+        {
+          "line_type":"total",
+          "line_title":"Totals",
+          "line_data_type":"number",
+          "source":"Totals",
+          "existing":2135974,
+          "fy-0":0,
+          "fy-0++":0,
+          "other":16183795,
+          "total":18319769
+        }
+      ]
+    }
+  }
+}
+---

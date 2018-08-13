@@ -1,0 +1,237 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Non-Mayoral Departments",
+  "department":"City Clerk",
+  "file_version":"",
+  "head_name":"Maureen Feeney",
+  "head_title":"Manager",
+  "name":"Document Filing",
+  "parent":"City Clerk",
+  "section_id":77,
+  "section_md5_id":"28DD2C7955CE926456240B2FF0100BDE",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~legislative-support.json",
+  "source_time":"20180813095243",
+  "source_year":"19",
+  "appropriation_code":"Organization 161200",
+  "description":[
+    "The City Clerk is the supervisor of records and the filing agency for the City.  The Office of the City Clerk is required to record, file, and maintain indices of public documents."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":410773,
+      "fy-1":411600,
+      "fy-0":502638,
+      "fy+1":510847
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":5899,
+      "fy-1":17571,
+      "fy-0":15260,
+      "fy+1":13060
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":416672,
+      "fy-1":429171,
+      "fy-0":517898,
+      "fy+1":523907
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":410773,
+        "fy-1":411600,
+        "fy-0":502638,
+        "fy+1":510847,
+        "diff":8209
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":1507,
+        "fy-1":3269,
+        "fy-0":6525,
+        "fy+1":6525,
+        "diff":0
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":3915,
+        "fy-1":2973,
+        "fy-0":6500,
+        "fy+1":4300,
+        "diff":-2200
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":435,
+        "fy-1":1384,
+        "fy-0":2235,
+        "fy+1":2235,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":42,
+        "fy-1":9945,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":416672,
+        "fy-1":429171,
+        "fy-0":517898,
+        "fy+1":523907,
+        "diff":6009
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Scanning and indexing documents"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Records Digitized",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"5,737",
+              "fy+1":"5,500"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Time used for processing documents"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Processing Hours",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"2,923",
+              "fy+1":"3,500"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To receive and record statuory filings as required by law"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Business Certificate received & processed ,Physican Certificate received & processed, Claims,",
+              "fy-2":"6,151",
+              "fy-1":"8,064",
+              "fy-0":"7,370",
+              "fy+1":"7,624"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Other Statutory Document filing, Public Hearing Notice,",
+              "fy-2":"2,703",
+              "fy-1":"2,870",
+              "fy-0":"3,082",
+              "fy+1":"2,800"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Statment of Financial interest, University Accountability Report",
+              "fy-2":"74",
+              "fy-1":"91",
+              "fy-0":"102",
+              "fy+1":"75"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

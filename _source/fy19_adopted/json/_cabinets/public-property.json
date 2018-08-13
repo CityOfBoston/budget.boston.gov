@@ -1,0 +1,33 @@
+---
+{
+  "debug":"JCB",
+  "cabinet":"Public Property",
+  "department":null,
+  "file_version":"",
+  "head_name":null,
+  "head_title":"Chief of Public Property",
+  "name":"Public Property",
+  "parent":"root",
+  "section_id":16,
+  "section_md5_id":"C74D97B01EAE257E44AA9D5BADE97BAF",
+  "section_type":"cabinet",
+  "section_type_short":"C",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~public-property.json",
+  "source_time":"20180813095135",
+  "source_year":"19",
+  "mission":[
+    "Access to information, administrative functions, and maintenance of physical assets fall under the auspices of the Public Property Cabinet. The Cabinet includes such diverse entities as Parks and Recreation, Property & Construction Management, the Department of Voter Mobilization, Consumer Affairs & Licensing and Arts, Tourism & Special Events."
+  ],
+  "operating_department":{
+    "table_type":"operating_department",
+    "table_title":"Operating Budget",
+    "Program Name":"Department",
+    "line_type":"title",
+    "fy-2":"FY16 Actual",
+    "fy-1":"FY17 Actual",
+    "fy-0":"FY18 Budget",
+    "fy+1":"FY19 Budget"
+  }
+}
+---

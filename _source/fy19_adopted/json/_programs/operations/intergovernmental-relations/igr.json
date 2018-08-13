@@ -1,0 +1,135 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Operations",
+  "department":"Intergovernmental Relations",
+  "file_version":"",
+  "head_name":"Kathleen King",
+  "head_title":"Manager",
+  "name":"IGR",
+  "parent":"Intergovernmental Relations",
+  "section_id":126,
+  "section_md5_id":"069059B7EF840F0C74A814EC9237B6EC",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~.json",
+  "source_time":"20180813095003",
+  "source_year":"19",
+  "appropriation_code":"Organization 150100",
+  "description":[
+    "The department tracks legislation and policy initiatives that concern the City directly, or urban and regional affairs more generally.  It arranges for testimony by the Mayor, or on behalf of the Mayor, at legislative hearings of special concern.  It maintains liaison with and coordinates the City&rsquo;s participation in national, state and municipal organizations and further coordinates with all the departments of the city on policy and budget issues."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":781511,
+      "fy-1":675027,
+      "fy-0":730105,
+      "fy+1":820650
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":395209,
+      "fy-1":362419,
+      "fy-0":361336,
+      "fy+1":382801
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1176720,
+      "fy-1":1037446,
+      "fy-0":1091441,
+      "fy+1":1203451
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":781511,
+        "fy-1":675027,
+        "fy-0":730105,
+        "fy+1":820650,
+        "diff":90545
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":205843,
+        "fy-1":167332,
+        "fy-0":168523,
+        "fy+1":189251,
+        "diff":20728
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":2962,
+        "fy-1":9794,
+        "fy-0":6200,
+        "fy+1":6200,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":185115,
+        "fy-1":185293,
+        "fy-0":186613,
+        "fy+1":187350,
+        "diff":737
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":1289,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":1176720,
+        "fy-1":1037446,
+        "fy-0":1091441,
+        "fy+1":1203451,
+        "diff":112010
+      }
+    ]
+  }
+}
+---

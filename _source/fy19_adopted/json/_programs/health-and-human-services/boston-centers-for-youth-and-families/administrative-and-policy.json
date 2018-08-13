@@ -1,0 +1,135 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Health & Human Services",
+  "department":"Boston Centers for Youth & Families",
+  "file_version":"",
+  "head_name":"William Morales",
+  "head_title":"Manager",
+  "name":"Administrative & Policy",
+  "parent":"Boston Centers for Youth & Families",
+  "section_id":56,
+  "section_md5_id":"9F61408E3AFB633E50CDF1B20DE6F466",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~sports-and-fitness.json",
+  "source_time":"20180813095214",
+  "source_year":"19",
+  "appropriation_code":"Organization 385100",
+  "description":[
+    "The Administrative Services Division is responsible for the overall operation of BCYF and includes budget and finance, human resources, facilities management, public relations, planning and development and information technology. The division is responsible for ensuring the fiscal integrity and effectiveness of BCYF, training BCYF staff and leveraging additional resources. The division also includes Chief of Health and Human Services and food policy program.   The division works with community centers to build their capacity to serve as neighborhood hubs for services, resources and programming and supports community outreach and partnership development, including the development of local community center site councils."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":11759703,
+      "fy-1":11926042,
+      "fy-0":11883902,
+      "fy+1":12403432
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":2930746,
+      "fy-1":4152271,
+      "fy-0":3340188,
+      "fy+1":3533401
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":14690449,
+      "fy-1":16078313,
+      "fy-0":15224090,
+      "fy+1":15936833
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":11759703,
+        "fy-1":11926042,
+        "fy-0":11883902,
+        "fy+1":12403432,
+        "diff":519530
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":2434250,
+        "fy-1":3645935,
+        "fy-0":2860992,
+        "fy+1":3100645,
+        "diff":239653
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":224017,
+        "fy-1":294716,
+        "fy-0":223496,
+        "fy+1":224000,
+        "diff":504
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":112911,
+        "fy-1":121008,
+        "fy-0":153000,
+        "fy+1":109200,
+        "diff":-43800
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":159568,
+        "fy-1":90612,
+        "fy-0":102700,
+        "fy+1":99556,
+        "diff":-3144
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":14690449,
+        "fy-1":16078313,
+        "fy-0":15224090,
+        "fy+1":15936833,
+        "diff":712743
+      }
+    ]
+  }
+}
+---

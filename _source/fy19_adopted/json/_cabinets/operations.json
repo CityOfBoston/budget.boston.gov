@@ -1,0 +1,100 @@
+---
+{
+  "debug":"JCB",
+  "cabinet":"Operations",
+  "department":null,
+  "file_version":"",
+  "head_name":"Patrick Brophy",
+  "head_title":"Chief of Operations",
+  "name":"Operations",
+  "parent":"root",
+  "section_id":19,
+  "section_md5_id":"1F0E3DAD99908345F7439F8FFABDFFC4",
+  "section_type":"cabinet",
+  "section_type_short":"C",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~operations.json",
+  "source_time":"20180813095001",
+  "source_year":"19",
+  "mission":[
+    "The Operations Cabinet oversees all operational activities that intersect with the management of central facilities. The cabinet includes departments that set policies for intergovernmental relations and central municipal properties."
+  ],
+  "overview":[],
+  "operating_department":{
+    "table_type":"operating_department",
+    "table_title":"Operating Budget",
+    "Program Name":"Department",
+    "line_type":"title",
+    "fy-2":"FY16 Actual",
+    "fy-1":"FY17 Actual",
+    "fy-0":"FY18 Budget",
+    "fy+1":"FY19 Budget",
+    "data":[
+      {
+        "department":"Intergovernmental Relations",
+        "line_type":"data",
+        "fy-2":1275064,
+        "fy-1":1136247,
+        "fy-0":1196160,
+        "fy+1":1310401
+      },
+      {
+        "department":"Property Management",
+        "line_type":"data",
+        "fy-2":23896824,
+        "fy-1":20555049,
+        "fy-0":17319923,
+        "fy+1":17593703
+      },
+      {
+        "department":"Public Facilities Department",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":5294852,
+        "fy-0":5718530,
+        "fy+1":6772671
+      },
+      {
+        "total":"Total",
+        "line_type":"total",
+        "fy-2":25171888,
+        "fy-1":26986148,
+        "fy-0":24234613,
+        "fy+1":25676775
+      }
+    ],
+    "capital_budget_expenditures":[
+      {
+        "table_type":"capital_budget_expenditures",
+        "table_title":"Capital Budget Expenditures",
+        "table_header":{
+          "title":"Capital Budget Expenditures",
+          "line_type":"header",
+          "fy-2":"FY16 Actual",
+          "fy-1":"FY17 Actual",
+          "fy-0":"FY18 Estimated",
+          "fy+1":"FY19 Projected"
+        },
+        "data":[
+          {
+            "title":"Property Management",
+            "line_type":"data",
+            "fy-2":2221439,
+            "fy-1":3538265,
+            "fy-0":9387575,
+            "fy+1":16659500
+          },
+          {
+            "title":"Total",
+            "line_type":"total",
+            "fy-2":2221439,
+            "fy-1":3538265,
+            "fy-0":9387575,
+            "fy+1":16659500
+          }
+        ]
+      }
+    ]
+  }
+}
+---
