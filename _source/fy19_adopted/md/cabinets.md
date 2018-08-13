@@ -48,11 +48,11 @@ components:
            filter: delimiter
            align: right
         "FY18 Budget":
-           value: 266927582
+           value: 267277582
            filter: delimiter
            align: right
         "FY19 Budget":
-           value: 272781373
+           value: 273281373
            filter: delimiter
            align: right
       - "Cabinet":
@@ -67,7 +67,7 @@ components:
            filter: delimiter
            align: right
         "FY18 Budget":
-           value: 37389419
+           value: 37396319
            filter: delimiter
            align: right
         "FY19 Budget":
