@@ -1,0 +1,135 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Economic Development",
+  "department":"Office of Tourism",
+  "file_version":"",
+  "head_name":"Patricia A. Papa",
+  "head_title":"Manager",
+  "name":"Film & Special Events",
+  "parent":"Office of Tourism",
+  "section_id":161,
+  "section_md5_id":"BD4C9AB730F5513206B999EC0D90D1FB",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~arts-promotion.json",
+  "source_time":"20180813095134",
+  "source_year":"19",
+  "appropriation_code":"Organization 416300",
+  "description":[
+    "The Film and Special Events  program oversees the annual production of special events and public celebrations that celebrate and promote the City&rsquo;s cultural and ethnic diversity along with Boston&rsquo;s rich history and promotes Boston as a location for film and video productions by supporting the film and television industry&rsquo;s work in the City."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":313827,
+      "fy-1":336660,
+      "fy-0":370566,
+      "fy+1":386181
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":243400,
+      "fy-1":265861,
+      "fy-0":474299,
+      "fy+1":463735
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":557227,
+      "fy-1":602521,
+      "fy-0":844865,
+      "fy+1":849916
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":313827,
+        "fy-1":336660,
+        "fy-0":370566,
+        "fy+1":386181,
+        "diff":15615
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":21,
+        "fy-1":2000,
+        "fy-0":202250,
+        "fy+1":202200,
+        "diff":-50
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":768,
+        "fy-1":812,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":35399,
+        "fy-1":40455,
+        "fy-0":62000,
+        "fy+1":60000,
+        "diff":-2000
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":21029,
+        "fy-1":27411,
+        "fy-0":10514,
+        "fy+1":2000,
+        "diff":-8514
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":186183,
+        "fy-1":195183,
+        "fy-0":199535,
+        "fy+1":199535,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":557227,
+        "fy-1":602521,
+        "fy-0":844865,
+        "fy+1":849916,
+        "diff":5051
+      }
+    ]
+  }
+}
+---

@@ -1,0 +1,173 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Administration & Finance",
+  "department":"Human Resources",
+  "file_version":"",
+  "head_name":"Marianna Gil",
+  "head_title":"Manager",
+  "name":"Health Benefits & Insurance",
+  "parent":"Human Resources",
+  "section_id":120,
+  "section_md5_id":"DA4FB5C6E93E74D3DF8527599FA62642",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~affirmative-action.json",
+  "source_time":"20180813095038",
+  "source_year":"19",
+  "appropriation_code":"Organization 142300",
+  "description":[
+    "The Health Benefits and Insurance Program is responsible for providing life insurance, dental and vision care, and a variety of health insurance plans to active and retired employees of the City of Boston as efficiently and economically as possible within the guidelines of MGL Chapter 32B."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":543981,
+      "fy-1":633946,
+      "fy-0":751592,
+      "fy+1":811832
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":49542,
+      "fy-1":42340,
+      "fy-0":82300,
+      "fy+1":77600
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":593523,
+      "fy-1":676286,
+      "fy-0":833892,
+      "fy+1":889432
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":543981,
+        "fy-1":633946,
+        "fy-0":751592,
+        "fy+1":811832,
+        "diff":60240
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":9305,
+        "fy-1":11737,
+        "fy-0":23400,
+        "fy+1":23400,
+        "diff":0
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":40052,
+        "fy-1":30418,
+        "fy-0":58750,
+        "fy+1":54000,
+        "diff":-4750
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":185,
+        "fy-1":185,
+        "fy-0":150,
+        "fy+1":200,
+        "diff":50
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":593523,
+        "fy-1":676286,
+        "fy-0":833892,
+        "fy+1":889432,
+        "diff":55540
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Enhanced Employee Experience"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of Benefits Information and Education Sessions Held",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"27",
+              "fy+1":"30"
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of Visits on Health Benefits Webpages (monthly average)",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"4,458",
+              "fy+1":"5,000"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

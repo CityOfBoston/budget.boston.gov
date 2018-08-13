@@ -1,0 +1,252 @@
+---
+{
+  "cabinet":"Health & Human Services",
+  "debug":"JBDCP",
+  "department":"Public Health Commission",
+  "file_version":"",
+  "head_name":"Monica Valdes Lupi",
+  "head_title":"Executive Director",
+  "name":"Public Health Commission",
+  "parent":"Health & Human Services",
+  "section_id":15,
+  "section_md5_id":"9BF31C7FF062936A96D3C8BD1F8F2FF3",
+  "section_type":"capital_budget",
+  "section_type_short":"L",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Adopted~Publish 19 Adopted~JSON Output~_source~fy19_adopted~json~_cp_depts~public-health-commission.json",
+  "source_time":"20180813095226",
+  "source_year":"19",
+  "mission":[
+    "The mission of the Boston Public Health Commission is to protect, preserve and promote the health and well being of Boston residents, particularly those who are most vulnerable."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Public Health Services",
+      "strategies":[
+        "Advance Healthy Equity.",
+        "Improve median response times.",
+        "Respond to critical public health issues."
+      ]
+    }
+  ],
+  "overview":[
+    "Capital investment in the facilities used by the Public Health Commission improves service delivery and enhances the administration of public health services provided by the City."
+  ],
+  "fy_major_initiatives":[
+    "Design will begin on a new EMS Training Academy based on a recently completed programming study.",
+    "Interior renovations to the second floor of the Woods-Mullen Homeless Shelter will complete.",
+    "Design will begin for the installation of a new elevator and improved entryway at the Woods-Mullen Homeless Shelter.",
+    "Planning is underway for bringing recovery services to Long Island. The project will include an assessment of programming needs and existing facility conditions along with estimated costs for repairs."
+  ],
+  "capital_budget_expenditures":[
+    {
+      "table_type":"capital_budget_expenditures",
+      "table_title":"Capital Budget Expenditures",
+      "table_header":{
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "fy-2":"FY16 Actual",
+        "fy-1":"FY17 Actual",
+        "fy-0":"FY18 Estimated",
+        "fy+1":"FY19 Projected"
+      },
+      "data":{
+        "line_type":"total",
+        "line_title":"Total Department",
+        "line_data_type":"total",
+        "fy-2":15844506,
+        "fy-1":9933195,
+        "fy-0":11499363,
+        "fy+1":7659294
+      }
+    }
+  ],
+  "projects":[
+    {
+      "table_type":"capital_projects_by_category",
+      "table_title":"Capital Projects by Category",
+      "header":{
+        "debug":"JBDCPDP",
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "category":"Category",
+        "name":"Project",
+        "location":"Location",
+        "status":"Status",
+        "fy-0":"FY19 Projected",
+        "project_title":"Total"
+      },
+      "projects_data":[
+        {
+          "Government Effectiveness":[
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Government Effectiveness",
+              "name":"BPHC Budget Software",
+              "location":"Citywide",
+              "section_id":"CPH24654",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":122840,
+              "project_total":500000
+            }
+          ]
+        },
+        {
+          "Health":[
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Health",
+              "name":"201 River Street Roof",
+              "location":"Mattapan",
+              "section_id":"CPH24774",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":50000,
+              "project_total":1300000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Health",
+              "name":"EMS Station Study",
+              "location":"South Boston",
+              "section_id":"CPH23963",
+              "status":"Study Underway",
+              "operating_impact":"No",
+              "fy-0":8702,
+              "project_total":100000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Health",
+              "name":"Engagement Center Study",
+              "location":"Dorchester",
+              "section_id":"CPH24772",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":50000,
+              "project_total":50000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Health",
+              "name":"Long Island Study",
+              "location":"Harbor Islands",
+              "section_id":"CPH24775",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":200000,
+              "project_total":1000000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Health",
+              "name":"South End Fitness Center Pool",
+              "location":"South End",
+              "section_id":"CPH23989",
+              "status":"In Construction",
+              "operating_impact":"No",
+              "fy-0":322472,
+              "project_total":1390000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Health",
+              "name":"Southampton Street Shelter Generator",
+              "location":"Dorchester",
+              "section_id":"CPH24771",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":125000,
+              "project_total":1646000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Health",
+              "name":"Woods Mullen Shelter Elevator",
+              "location":"South End",
+              "section_id":"CPH24773",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":75000,
+              "project_total":852300
+            }
+          ]
+        },
+        {
+          "Housing":[
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Housing",
+              "name":"Woods Mullen Shelter",
+              "location":"South End",
+              "section_id":"CPH24598",
+              "status":"In Construction",
+              "operating_impact":"No",
+              "fy-0":253002,
+              "project_total":1500000
+            }
+          ]
+        },
+        {
+          "Public Safety":[
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Public Safety",
+              "name":"EMS Training Academy",
+              "location":"N/A",
+              "section_id":"CPH24750",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":200000,
+              "project_total":800000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Public Safety",
+              "name":"EMS Training Academy Study",
+              "location":"N/A",
+              "section_id":"CPH24155",
+              "status":"Study Underway",
+              "operating_impact":"No",
+              "fy-0":0,
+              "project_total":50000
+            }
+          ]
+        },
+        {
+          "Technology":[
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Technology",
+              "name":"BPHC IT Infrastructure",
+              "location":"N/A",
+              "section_id":"CPH24776",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":500000,
+              "project_total":1500000
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "fy-0":1907016,
+  "total":10688300
+}
+---

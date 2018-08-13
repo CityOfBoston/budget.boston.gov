@@ -1,0 +1,165 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Environment, Energy & Open Space",
+  "department":"Parks & Recreation Department",
+  "file_version":"",
+  "head_name":"Robert  Rottenbucher, P.E.",
+  "head_title":"Manager",
+  "name":"Parks Design & Construction",
+  "parent":"Parks & Recreation Department",
+  "section_id":165,
+  "section_md5_id":"9766527F2B5D3E95D4A733FCFB77BD7E",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~parks-operations.json",
+  "source_time":"20180813095208",
+  "source_year":"19",
+  "appropriation_code":"Organization 300400",
+  "description":[
+    "The Design & Construction Program works to develop and revitalize the full potential of Boston's physical park system by designing, contracting, and monitoring capital improvement projects.  The planning process analyzes active and passive park opportunities, restores park lands, and promotes open space that is safe and accessible as well as functional and aesthetically pleasing.  Improvements must be sensitive to community needs, budget limitations, appropriate environmental and horticultural values, and maintenance requirements."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":1106956,
+      "fy-1":1214690,
+      "fy-0":1360156,
+      "fy+1":1475419
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":4015369,
+      "fy-1":956530,
+      "fy-0":844790,
+      "fy+1":773767
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":5122325,
+      "fy-1":2171220,
+      "fy-0":2204946,
+      "fy+1":2249186
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":1106956,
+        "fy-1":1214690,
+        "fy-0":1360156,
+        "fy+1":1475419,
+        "diff":115263
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":4015369,
+        "fy-1":956030,
+        "fy-0":843615,
+        "fy+1":772117,
+        "diff":-71498
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":500,
+        "fy-0":750,
+        "fy+1":750,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":425,
+        "fy+1":900,
+        "diff":475
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":5122325,
+        "fy-1":2171220,
+        "fy-0":2204946,
+        "fy+1":2249186,
+        "diff":44240
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Efficiently managing public resources. Consistent with Mayor Walsh's Parks First agenda: Access, Equity and Excellence"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of capital allotment expended",
+              "fy-2":"",
+              "fy-1":"90%",
+              "fy-0":"68.7%",
+              "fy+1":"90%"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

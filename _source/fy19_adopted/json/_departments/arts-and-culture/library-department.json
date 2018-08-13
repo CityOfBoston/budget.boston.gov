@@ -1,0 +1,258 @@
+---
+{
+  "debug":"JBD",
+  "publish_subordinates":true,
+  "file_version":"",
+  "section_id":3,
+  "section_md5_id":"ECCBC87E4B5CE2FE28308FD9F2A7BAF3",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Adopted~Publish 19 Adopted~JSON Output~_source~fy19_adopted~json~_departments~Arts and Culture~library-department.json",
+  "source_time":"20180813094953",
+  "source_year":"19",
+  "name":"Library Department",
+  "parent":"Arts & Culture",
+  "cabinet":"Arts & Culture",
+  "department":"Library Department",
+  "head_name":"David Leonard",
+  "head_title":"President",
+  "appropriation_code":"Appropriation 110",
+  "mission":[
+    "Boston Public Library provides educational and cultural enrichment free to all for the residents of Boston, Massachusetts and beyond, through its collections, services, programs, and spaces."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Community Library Services",
+      "debug":"JCO",
+      "strategies":[
+        "To provide customer satisfaction through daily operations, program events, and special collection events",
+        "To provide improved access to programs, services and collections",
+        "To support improved youth literacy"
+      ]
+    },
+    {
+      "program":"Research Services",
+      "debug":"JCO",
+      "strategies":[
+        "To provide improved access to programs, services and collections"
+      ]
+    }
+  ],
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    "data":[
+      {
+        "name":"Library Administration",
+        "line_type":"data",
+        "fy-2":18709845,
+        "fy-1":18261015,
+        "fy-0":18584106,
+        "fy+1":19339462,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Community Library Services",
+        "line_type":"data",
+        "fy-2":14425177,
+        "fy-1":14523684,
+        "fy-0":15743358,
+        "fy+1":15637758,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Research Services",
+        "line_type":"data",
+        "fy-2":1727496,
+        "fy-1":1990111,
+        "fy-0":1703023,
+        "fy+1":1869148,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":34862518,
+        "fy-1":34774810,
+        "fy-0":36030487,
+        "fy+1":36846368
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":23164561,
+      "fy-1":23749719,
+      "fy-0":24656573,
+      "fy+1":25041226
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":11697957,
+      "fy-1":11025091,
+      "fy-0":11373914,
+      "fy+1":11805142
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":34862518,
+      "fy-1":34774810,
+      "fy-0":36030487,
+      "fy+1":36846368
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Power of City to Establish and Maintain a Library, 1848 Mass. Acts ch. 52, &sect;1.",
+    "Library Department: Trustees of the Public Library, Appointment, Compensation, etc., 1878 Mass. Acts ch. 114, &sect;3; 1994 Mass. Acts ch. 157, &sect;3.",
+    "Organization of Board; Powers and Duties, 1878 Mass. Acts ch. 114, &sect;4-5.",
+    "Librarian and Other Officers, 1878 Mass. Acts ch. 114, &sect;1-2, 6; 1943 Mass. Acts ch. 218; 1953 Mass. Acts ch. 167.",
+    "Reports to Mayor and City Council, 1887 Mass. Acts ch. 60.",
+    "Incorporation of the Trustees, Duties, 1878 Mass. Acts ch. 114 &sect;1.",
+    "Authority of Corporation to Take and Hold Property; Limitation, 1878 Mass. Acts ch. 114 &sect;2."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":23164561,
+        "fy-1":23749719,
+        "fy-0":24656573,
+        "fy+1":25041226,
+        "diff":384653
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":8386833,
+        "fy-1":7886604,
+        "fy-0":7945778,
+        "fy+1":8128390,
+        "diff":182612
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":2835582,
+        "fy-1":2741761,
+        "fy-0":2810008,
+        "fy+1":2925008,
+        "diff":115000
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":179555,
+        "fy-1":175113,
+        "fy-0":323643,
+        "fy+1":338810,
+        "diff":15167
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":264461,
+        "fy-1":196613,
+        "fy-0":259485,
+        "fy+1":377934,
+        "diff":118449
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":31526,
+        "fy-1":25000,
+        "fy-0":35000,
+        "fy+1":35000,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":34862518,
+        "fy-1":34774810,
+        "fy-0":36030487,
+        "fy+1":36846368,
+        "diff":815881
+      }
+    ]
+  },
+  "external_funds":[
+    {
+      "project":"Boston Public Library Affiliates",
+      "project_mission":[
+        "Represents funding received through the Library&rsquo;s fundraising partners, including the Boston Public Library Foundation, the Associates of the Boston Public Library, the Boston Public Library&rsquo;s City-wide Friends group, and Boston Public Library branch Friends&rsquo; groups."
+      ]
+    },
+    {
+      "project":"InterLibrary Loan Grant",
+      "project_mission":[
+        "Interlibrary loan (ILL) is a service through which a user of one library can borrow materials or receive electronic copies of documents (usually journal or magazine articles) that are owned by another library. Massachusetts Library System contracts with the Boston Public Library to supply copies of documents electronically to all Massachusetts Library System members. These documents come either from the Boston Public Library&rsquo;s own collection or BPL&rsquo;s ILL staff will locate and request documents fromlibraries around the world. BPL is uniquely suited to provide documents to the state because of BPL&rsquo;s large and diverse collection that is second in size only to the Library of Congress."
+      ]
+    },
+    {
+      "project":"Library for the Commonwealth",
+      "project_mission":[
+        "The Library for the Commonwealth (LFC) provides reference and research services for all residents of theCommonwealth of Massachusetts at the Boston Public Library through developing, maintaining, and preserving comprehensive collections to supplement library resources available throughout Massachusetts. The Massachusetts Board of Library Commissioners provides this appropriation for the BPL to support personnel, purchase materials, digitize content, and develop a digitial repository. The appropriation is calculated on a statewide per capita basis and distributed annually."
+      ]
+    },
+    {
+      "project":"Other sources",
+      "project_mission":[
+        "Represents revenue from private events, royalties, commissions, pay for print, etc."
+      ]
+    },
+    {
+      "project":"State Aid To Libraries",
+      "project_mission":[
+        "The Library Incentive Grant/Municipal Equalization Grant is annual granted by the Commonwealth of Massachusetts Board of Library Commissioners to the Trustees of the Boston Public Library.The Library is required to meet certain minimum standards of free public service established by the Board to receive the grant. Four important measures are used to determine eligibility: the Municipal Appropriation Requirement (MAR), the percent of the total budget spent on library materials, the hours of operation, and the ability to lend books to other libraries in the Commonwealth."
+      ]
+    },
+    {
+      "project":"Trust funds and other donations",
+      "project_mission":[
+        "Represents gifts received from individuals, corporations, and other private donors. Donations made via trusts are held in accordance with the intention of the donor, and the principle is invested in securities that generate an annual income. This income is used to purchase library materials, support specific library positions, and enhance library programming."
+      ]
+    }
+  ],
+  "fy_major_initiatives":[
+    "Construction of a new Adams Branch Library will begin.",
+    "A major renovation project at the Roslindale Branch Library will also begin. The project includes a new entrance and a major redesign of the interior space.",
+    "Construction for a comprehensive building renovation will continue at the Dudley Branch Library.",
+    "A programming study for a new Fields Corner Branch Library will be completed.",
+    "A renovation project at the Central Library in Copley Square, to enhance preservation of historic special collections of rare books and manuscripts, will begin construction."
+  ]
+}
+---

@@ -1,0 +1,50 @@
+---
+{
+  "cabinet":"Economic Development",
+  "debug":"JBDCP",
+  "department":"Office of Tourism",
+  "file_version":"",
+  "head_name":"Kenneth Brissette",
+  "head_title":"Director",
+  "name":"Office of Tourism",
+  "parent":"Economic Development",
+  "section_id":89,
+  "section_md5_id":"7647966B7343C29048673252E490F736",
+  "section_type":"capital_budget",
+  "section_type_short":"L",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Adopted~Publish 19 Adopted~JSON Output~_source~fy19_adopted~json~_cp_depts~office-of-tourism.json",
+  "source_time":"20180813095132",
+  "source_year":"19",
+  "mission":[
+    "The mission of the Office of Tourism is to advance tourism in Boston and promote participation in public celebrations."
+  ],
+  "description_of_services":[
+    "The Office of Tourism serves Boston&rsquo;s residents, visitors, and the tourism industry in the following ways: producing year-round events including festivals, concerts, exhibitions, and public celebrations both downtown and in Boston&rsquo;s neighborhoods; supporting film and television production through Boston Film Bureau with permitting, location assistance, and coordination with local and state agencies; providing technical assistance to neighborhood based groups with event production; promoting Boston as a desirable destination for visitors, conventions, and family-oriented sporting events such as amateur collegiate, and Olympic tournaments."
+  ],
+  "capital_budget_expenditures":[
+    {
+      "table_type":"capital_budget_expenditures",
+      "table_title":"Capital Budget Expenditures",
+      "table_header":{
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "fy-2":"FY16 Actual",
+        "fy-1":"FY17 Actual",
+        "fy-0":"FY18 Estimated",
+        "fy+1":"FY19 Projected"
+      },
+      "data":{
+        "line_type":"total",
+        "line_title":"Total Department",
+        "line_data_type":"total",
+        "fy-2":1569354,
+        "fy-1":4727854,
+        "fy-0":1500000,
+        "fy+1":1100000
+      }
+    }
+  ]
+}
+---

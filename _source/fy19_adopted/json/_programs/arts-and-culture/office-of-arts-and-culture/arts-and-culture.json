@@ -1,0 +1,325 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Arts & Culture",
+  "department":"Office of Arts & Culture",
+  "file_version":"",
+  "head_name":"Kara Elliott-Ortega",
+  "head_title":"Manager",
+  "name":"Arts & Culture",
+  "parent":"Office of Arts & Culture",
+  "section_id":154,
+  "section_md5_id":"1D7F7ABC18FCB43975065399B0D1E48E",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~.json",
+  "source_time":"20180813094951",
+  "source_year":"19",
+  "appropriation_code":"Organization 414100",
+  "description":[
+    "The Arts & Culture program oversees the City&rsquo;s efforts to support artists, the arts and outreach to new audiences in Boston and beyond."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":734345,
+      "fy-1":744568,
+      "fy-0":837070,
+      "fy+1":897148
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":540238,
+      "fy-1":502260,
+      "fy-0":528760,
+      "fy+1":591992
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1274583,
+      "fy-1":1246828,
+      "fy-0":1365830,
+      "fy+1":1489140
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":734345,
+        "fy-1":744568,
+        "fy-0":837070,
+        "fy+1":897148,
+        "diff":60078
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":512011,
+        "fy-1":476743,
+        "fy-0":499635,
+        "fy+1":569867,
+        "diff":70232
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":21462,
+        "fy-1":23748,
+        "fy-0":25022,
+        "fy+1":18022,
+        "diff":-7000
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":1161,
+        "fy-1":343,
+        "fy-0":1015,
+        "fy+1":1015,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":5604,
+        "fy-1":1426,
+        "fy-0":3088,
+        "fy+1":3088,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":1274583,
+        "fy-1":1246828,
+        "fy-0":1365830,
+        "fy+1":1489140,
+        "diff":123310
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Create fertile ground for the Arts & Culture ecosystem"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Number of organizations awarded a BCC grant",
+              "fy-2":"179",
+              "fy-1":"173",
+              "fy-0":"181",
+              "fy+1":"200"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Equitable Resources and Access for All"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of first time BCC organizational grant awardees",
+              "fy-2":"40%",
+              "fy-1":"28%",
+              "fy-0":"26%",
+              "fy+1":"15%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"% of zip codes recieving organizational grant funding",
+              "fy-2":"78%",
+              "fy-1":"35%",
+              "fy-0":"74%",
+              "fy+1":"80%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"% of zip codes with approved public art applications",
+              "fy-2":"",
+              "fy-1":"41.8%",
+              "fy-0":"77%",
+              "fy+1":"80%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Integrate Arts and Culture into all aspects of Civic Life"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Number of Percent for Art Projects initiated",
+              "fy-2":"0",
+              "fy-1":"1",
+              "fy-0":"12",
+              "fy+1":"6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Keep Artists in Boston"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Number of artists participating in Open Studios",
+              "fy-2":"738",
+              "fy-1":"942",
+              "fy-0":"1,363",
+              "fy+1":"1,500"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Number of Artists supported by the Artist Resource Manager",
+              "fy-2":"",
+              "fy-1":"333",
+              "fy-0":"990",
+              "fy+1":"1,000"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Number of artists who have applied for an opportunity through MOAC",
+              "fy-2":"0",
+              "fy-1":"367",
+              "fy-0":"1,496",
+              "fy+1":"1,500"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Number of artists who have recieved an Opportunity Fund Grant",
+              "fy-2":"0",
+              "fy-1":"93",
+              "fy-0":"67",
+              "fy+1":"200"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Number of Boston Certified Artists",
+              "fy-2":"0",
+              "fy-1":"252",
+              "fy-0":"1,038",
+              "fy+1":"500"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Mobilize partners to generate excitement and resources"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Amount granted to the Office of Arts and Culture from external sources",
+              "fy-2":"",
+              "fy-1":"1,682,895",
+              "fy-0":"2,373,305",
+              "fy+1":"500,000"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

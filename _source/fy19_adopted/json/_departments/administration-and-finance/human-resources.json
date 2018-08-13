@@ -1,0 +1,287 @@
+---
+{
+  "debug":"JBD",
+  "publish_subordinates":true,
+  "file_version":"",
+  "section_id":16,
+  "section_md5_id":"C74D97B01EAE257E44AA9D5BADE97BAF",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Adopted~Publish 19 Adopted~JSON Output~_source~fy19_adopted~json~_departments~Administration and Finance~human-resources.json",
+  "source_time":"20180813095036",
+  "source_year":"19",
+  "name":"Human Resources",
+  "parent":"Administration & Finance",
+  "cabinet":"Administration & Finance",
+  "department":"Human Resources",
+  "head_name":"Vivian Leonard",
+  "head_title":"Director",
+  "appropriation_code":"Appropriation 142",
+  "mission":[
+    "The mission of the Office of Human Resources is to help departments attract, motivate, retain, manage, and develop qualified and productive employees. The Office also provides unemployment benefits where necessary, as well as health and life insurance and workers' compensation benefits."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Personnel",
+      "debug":"JCO",
+      "strategies":[
+        "Enhanced Employee Experience",
+        "Improved Recruitment Process to Better Meet Needs of COB Departments"
+      ]
+    },
+    {
+      "program":"Affirmative Action",
+      "debug":"JCO",
+      "strategies":[
+        "Increase Diversity in COB Workforce"
+      ]
+    },
+    {
+      "program":"Health Benefits & Insurance",
+      "debug":"JCO",
+      "strategies":[
+        "Enhanced Employee Experience"
+      ]
+    },
+    {
+      "program":"Employee Assistance",
+      "debug":"JCO",
+      "strategies":[
+        "Continued Expansion of Scope of EAP Services"
+      ]
+    },
+    {
+      "program":"Workers Comp",
+      "debug":"JCO",
+      "strategies":[
+        "Adoption of Case Management Approach in Workers Comp Unit"
+      ]
+    }
+  ],
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    "data":[
+      {
+        "name":"Personnel",
+        "line_type":"data",
+        "fy-2":1750447,
+        "fy-1":1833024,
+        "fy-0":2769644,
+        "fy+1":3215944,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Affirmative Action",
+        "line_type":"data",
+        "fy-2":53743,
+        "fy-1":27000,
+        "fy-0":30500,
+        "fy+1":530500,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Health Benefits & Insurance",
+        "line_type":"data",
+        "fy-2":593523,
+        "fy-1":676286,
+        "fy-0":833892,
+        "fy+1":889432,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Employee Assistance",
+        "line_type":"data",
+        "fy-2":174328,
+        "fy-1":186875,
+        "fy-0":18927,
+        "fy+1":119854,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Workers Comp",
+        "line_type":"data",
+        "fy-2":924982,
+        "fy-1":830547,
+        "fy-0":853906,
+        "fy+1":763795,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":3497023,
+        "fy-1":3553732,
+        "fy-0":4506869,
+        "fy+1":5519525
+      }
+    ]
+  },
+  "external_funds_budget":{
+    "table_type":"External Funds",
+    "table_title":"External Funds Budget",
+    "table_header":{
+      "name":"Fund Name",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    "data":[
+      {
+        "name":"Occupational Safety & Health Education & Training",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":3179511,
+      "fy-1":3206951,
+      "fy-0":3598099,
+      "fy+1":3736400
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":317512,
+      "fy-1":346781,
+      "fy-0":908770,
+      "fy+1":1783125
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":3497023,
+      "fy-1":3553732,
+      "fy-0":4506869,
+      "fy+1":5519525
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Civil Service, M.G.L.A. c. 31.",
+    "Collective Bargaining, M.G.L.A. C. 150E.",
+    "Compensation of Employees; CBC Ord. &sect; 5-5.18; M.G.L.A. c. 41, &sect; 41.",
+    "Employees Subject to Civil Service Laws, CBC St. 5 &sect; 110.",
+    "Duties of Supervisor of Personnel, CBC Ord. &sect; 5-1.6.",
+    "Generally, M.G.L.A. c. 152.",
+    "County Employees Salary Classification, M.G.L.A. c. 35, &sect; 56.",
+    "Third Parties; Subrogation, M.G.L.A. c. 152, &sect; 15.",
+    "Group Insurance Plan to Municipalities, M.G.L.A. c. 32B, &sect;&sect; 1-19.",
+    "Operation As Self-Insurer, M.G.L.A. c. 152, &sect; 25.",
+    "Second Injury Reimbursement, M.G.L.A. c. 152, &sect; 37.",
+    "Special Fund; Trust Fund; Assessment Base and Rates; Payments; Reports; Audits, M.G.L.A. c. 152, &sect; 65."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":3179511,
+        "fy-1":3206951,
+        "fy-0":3598099,
+        "fy+1":3736400,
+        "diff":138301
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":93457,
+        "fy-1":134694,
+        "fy-0":203300,
+        "fy+1":725475,
+        "diff":522175
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":56050,
+        "fy-1":42458,
+        "fy-0":75816,
+        "fy+1":71430,
+        "diff":-4386
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":166812,
+        "fy-1":164979,
+        "fy-0":629654,
+        "fy+1":986220,
+        "diff":356566
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":1193,
+        "fy-1":4650,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":3497023,
+        "fy-1":3553732,
+        "fy-0":4506869,
+        "fy+1":5519525,
+        "diff":1012656
+      }
+    ]
+  }
+}
+---

@@ -1,0 +1,165 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Housing & Neighborhood Development",
+  "department":"Neighborhood Development",
+  "file_version":"",
+  "head_name":"Donald Wright",
+  "head_title":"Deputy Director",
+  "name":"Real Estate Management & Sales",
+  "parent":"Neighborhood Development",
+  "section_id":147,
+  "section_md5_id":"8D5E957F297893487BD98FA830FA6413",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~housing-development-and-services.json",
+  "source_time":"20180813095239",
+  "source_year":"19",
+  "appropriation_code":"Organization 188200",
+  "description":[
+    "The Real Estate Management & Sales Program works to manage disposal of foreclosed land parcels and foreclosed buildings as quickly as possible, and  in a manner that generates revenue for the City and provides benefits to the community."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":1173232,
+      "fy-1":1095724,
+      "fy-0":991398,
+      "fy+1":956264
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":609657,
+      "fy-1":609345,
+      "fy-0":744058,
+      "fy+1":883150
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1782889,
+      "fy-1":1705069,
+      "fy-0":1735456,
+      "fy+1":1839414
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":1173232,
+        "fy-1":1095724,
+        "fy-0":991398,
+        "fy+1":956264,
+        "diff":-35134
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":575360,
+        "fy-1":587960,
+        "fy-0":695595,
+        "fy+1":842750,
+        "diff":147155
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":6807,
+        "fy-1":0,
+        "fy-0":16813,
+        "fy+1":8750,
+        "diff":-8063
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":27490,
+        "fy-1":21385,
+        "fy-0":31650,
+        "fy+1":31650,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":1782889,
+        "fy-1":1705069,
+        "fy-0":1735456,
+        "fy+1":1839414,
+        "diff":103958
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Dispose of tax-foreclosed and surplus property"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of land parcels and buildings sold or transferred for development and open space",
+              "fy-2":"49",
+              "fy-1":"186",
+              "fy-0":"79",
+              "fy+1":"100"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

@@ -1,0 +1,165 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Public Safety",
+  "department":"Police Department",
+  "file_version":"",
+  "head_name":"John J. Daley",
+  "head_title":"Manager",
+  "name":"BAT-Operations",
+  "parent":"Police Department",
+  "section_id":171,
+  "section_md5_id":"A4A042CF4FD6BFB47701CBC8A1653ADA",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~police-commissioners-office.json",
+  "source_time":"20180813095114",
+  "source_year":"19",
+  "appropriation_code":"Organization 211200",
+  "description":[
+    "The  Bureau of Administration and Technology Operations Program provides logistic support and  maintenance in the areas of fleet management, communications and  building maintenance."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":7215118,
+      "fy-1":7407927,
+      "fy-0":7340360,
+      "fy+1":7453440
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":12268196,
+      "fy-1":13222145,
+      "fy-0":13742234,
+      "fy+1":14371925
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":19483314,
+      "fy-1":20630072,
+      "fy-0":21082594,
+      "fy+1":21825365
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":7215118,
+        "fy-1":7407927,
+        "fy-0":7340360,
+        "fy+1":7453440,
+        "diff":113080
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":3634545,
+        "fy-1":3731412,
+        "fy-0":3118723,
+        "fy+1":3279961,
+        "diff":161238
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":3762914,
+        "fy-1":3510850,
+        "fy-0":3920679,
+        "fy+1":3804884,
+        "diff":-115795
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":311747,
+        "fy-1":308918,
+        "fy-0":418763,
+        "fy+1":418878,
+        "diff":115
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":4558990,
+        "fy-1":5670965,
+        "fy-0":6284069,
+        "fy+1":6868202,
+        "diff":584133
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":19483314,
+        "fy-1":20630072,
+        "fy-0":21082594,
+        "fy+1":21825365,
+        "diff":742771
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Timely and efficient response to crime and calls for service"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Median Response Time Priority One Calls: Receipt to arrival (mins)",
+              "fy-2":"9",
+              "fy-1":"8.8",
+              "fy-0":"8.8",
+              "fy+1":"8"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

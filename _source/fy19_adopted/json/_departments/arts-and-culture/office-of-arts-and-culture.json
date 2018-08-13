@@ -1,0 +1,372 @@
+---
+{
+  "debug":"JBD",
+  "publish_subordinates":true,
+  "file_version":"",
+  "section_id":98,
+  "section_md5_id":"ED3D2C21991E3BEF5E069713AF9FA6CA",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Adopted~Publish 19 Adopted~JSON Output~_source~fy19_adopted~json~_departments~Arts and Culture~office-of-arts-and-culture.json",
+  "source_time":"20180813094950",
+  "source_year":"19",
+  "name":"Office of Arts & Culture",
+  "parent":"Arts & Culture",
+  "cabinet":"Arts & Culture",
+  "department":"Office of Arts & Culture",
+  "head_name":"Kara Elliott-Ortega",
+  "head_title":"Interim Director",
+  "appropriation_code":"Appropriation 414",
+  "mission":[
+    "The mission of the Office of Arts & Culture is to foster the growth of the cultural community and promote participation in the arts."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Arts & Culture",
+      "debug":"JCO",
+      "strategies":[
+        "Create fertile ground for the Arts & Culture ecosystem",
+        "Equitable Resources and Access for All",
+        "Integrate Arts and Culture into all aspects of Civic Life",
+        "Keep Artists in Boston",
+        "Mobilize partners to generate excitement and resources"
+      ]
+    }
+  ],
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    "data":[
+      {
+        "name":"Arts & Culture",
+        "line_type":"data",
+        "fy-2":1274583,
+        "fy-1":1246828,
+        "fy-0":1365830,
+        "fy+1":1489140,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":1274583,
+        "fy-1":1246828,
+        "fy-0":1365830,
+        "fy+1":1489140
+      }
+    ]
+  },
+  "external_funds_budget":{
+    "table_type":"External Funds",
+    "table_title":"External Funds Budget",
+    "table_header":{
+      "name":"Fund Name",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    "data":[
+      {
+        "name":"Americans For The Arts",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":2190,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Artist Resource Desk",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":25618,
+        "fy-0":75513,
+        "fy+1":82973,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Boston Artists in Residence Program",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":332692,
+        "fy-0":500000,
+        "fy+1":332330,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Boston Cultural Council",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Communications Staff Grant",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":71256,
+        "fy+1":84355,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Cultural District Initiative",
+        "line_type":"data",
+        "fy-2":10000,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Emerging Artists Program",
+        "line_type":"data",
+        "fy-2":5000,
+        "fy-1":5000,
+        "fy-0":5000,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Grants to Individual Artists",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":44820,
+        "fy-0":400000,
+        "fy+1":235011,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Local Artists Resource",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"N.E. Artists in Residence",
+        "line_type":"data",
+        "fy-2":64375,
+        "fy-1":35625,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Public Art Fund",
+        "line_type":"data",
+        "fy-2":40208,
+        "fy-1":20315,
+        "fy-0":150000,
+        "fy+1":150000,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Strand Theatre",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":150000,
+        "fy+1":150000,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":119583,
+        "fy-1":466260,
+        "fy-0":1351769,
+        "fy+1":1034669
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":734345,
+      "fy-1":744568,
+      "fy-0":837070,
+      "fy+1":897148
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":540238,
+      "fy-1":502260,
+      "fy-0":528760,
+      "fy+1":591992
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1274583,
+      "fy-1":1246828,
+      "fy-0":1365830,
+      "fy+1":1489140
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "\tEnabling Legislation, CBC Ord. &sect;&sect; 15-3.1-15-3.2.",
+    "\tBoston Arts Lottery Council, CBC Ord. &sect;&sect; 5-9.1-5-9.10.",
+    "\tArt Commission Enabling Legislation, 1890 Mass. Acts ch. 122, &sect;&sect; 1-4.",
+    "\tEstablishing Arts & Humanities Division, CBC Ord. &sect;&sect; 15-9.1-15-9.5."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":734345,
+        "fy-1":744568,
+        "fy-0":837070,
+        "fy+1":897148,
+        "diff":60078
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":512011,
+        "fy-1":476743,
+        "fy-0":499635,
+        "fy+1":569867,
+        "diff":70232
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":21462,
+        "fy-1":23748,
+        "fy-0":25022,
+        "fy+1":18022,
+        "diff":-7000
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":1161,
+        "fy-1":343,
+        "fy-0":1015,
+        "fy+1":1015,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":5604,
+        "fy-1":1426,
+        "fy-0":3088,
+        "fy+1":3088,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":1274583,
+        "fy-1":1246828,
+        "fy-0":1365830,
+        "fy+1":1489140,
+        "diff":123310
+      }
+    ]
+  },
+  "external_funds":[
+    {
+      "project":"Artist Resource Desk",
+      "project_mission":[
+        "The Artist Resource Desk as part of the Boston Creates planning process by artists who felt disconnected from City Hall and sought clarity on how to access City resources. This Desk supports artists through the process of: permitting, zoning, and other regulatory requirements for arts and culture uses. The award was funded as part of a public benefit obligation of the Russia Wharf Redevelopment Project."
+      ]
+    },
+    {
+      "project":"Boston Artists in Residence",
+      "project_mission":[
+        "The Boston Artists in Residence program seeks to integrate artists into City departments and agencies. Boston AIR in collaboration with BCYF was able to place artists in ten neighborhood-based centers around the city. The award was funded as part of a public benefit obligation of the Russia Wharf Redevelopment Project."
+      ]
+    },
+    {
+      "project":"Boston Cultural Council",
+      "project_mission":[
+        "The Boston Cultural Council allocates funds from the Massachusetts Cultural Council annually to Boston to be regranted to non-profit arts organizations in the City. This year, the Office of Arts & Culture will receive funds to distribute to the non-profit cultural industry."
+      ]
+    },
+    {
+      "project":"Boston Public Art Fund",
+      "project_mission":[
+        "The purpose of this fund is to purchase goods and services to support public art throughout the City of Boston. Funding is received by receipts from easements granted by the Public Improvement Commission per G.L.c44, &sect;53E &frac12;."
+      ]
+    },
+    {
+      "project":"Communications Staff Grant",
+      "project_mission":[
+        "Providing equitable access to support services and resources that the City of Boston offers to the cultural community and artists is an important part of implementing the Boston Creates Cultural Plan. Funded by The Boston Foundation, full time in-house communication staff will enhance the Mayor's Office of Arts and Culture capacity to reach every community and all of Boston's artists."
+      ]
+    },
+    {
+      "project":"Grants to Individual Artists",
+      "project_mission":[
+        "Grants to Individual Artists gives support to artists for activities that helps to share their work, teach others, and continue their professional development. Funding is used for materials, stipends for teaching artists, or anything that helps an artist develop their artistic practice. The award was funded as part of a public benefit obligation of the Russia Wharf Redevelopment Project."
+      ]
+    },
+    {
+      "project":"N.E. Artists in Residence",
+      "project_mission":[
+        "Funded by Our Town award from the National Endowment for the Arts, the Artists in Residency program will work to directly connect local artists with city departments and the municipal planning process, informing policy around civic practice and the role of artists in government and community work."
+      ]
+    },
+    {
+      "project":"Strand Theatre Revolving Fund",
+      "project_mission":[
+        "The purpose of the fund authorized by (Chapter 44, Section 53E &frac12;) is to pay for expenses related to the operations of the Strand Theatre. This revolving fund is funded from rental fees that are paid when the theater is rented."
+      ]
+    }
+  ],
+  "fy_major_initiatives":[
+    "The project for new art at the Jamaica Plain Library will move forward.",
+    "A new round of project locations will be identified.",
+    "New pieces of public art will be installed in conjunction with Public Works Department projects in the North End and Hyde Square in Jamaica Plain."
+  ]
+}
+---

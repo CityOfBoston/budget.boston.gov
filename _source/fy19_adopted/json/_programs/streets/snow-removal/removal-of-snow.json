@@ -1,0 +1,135 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Streets",
+  "department":"Snow Removal",
+  "file_version":"",
+  "head_name":null,
+  "head_title":null,
+  "name":"Removal of Snow",
+  "parent":"Snow Removal",
+  "section_id":23,
+  "section_md5_id":"37693CFC748049E45D87B8C7D8B9AACD",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~.json",
+  "source_time":"20180813095148",
+  "source_year":"19",
+  "appropriation_code":"Organization 331100",
+  "description":[
+    null
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":0,
+      "fy-0":0,
+      "fy+1":0
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":14785551,
+      "fy-1":24874567,
+      "fy-0":22563964,
+      "fy+1":24067875
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":14785551,
+      "fy-1":24874567,
+      "fy-0":22563964,
+      "fy+1":24067875
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":14688846,
+        "fy-1":24475689,
+        "fy-0":22178292,
+        "fy+1":23554855,
+        "diff":1376563
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":52000,
+        "fy+1":57000,
+        "diff":5000
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":96705,
+        "fy-1":398878,
+        "fy-0":333672,
+        "fy+1":456020,
+        "diff":122348
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":14785551,
+        "fy-1":24874567,
+        "fy-0":22563964,
+        "fy+1":24067875,
+        "diff":1503911
+      }
+    ]
+  }
+}
+---

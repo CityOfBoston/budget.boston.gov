@@ -1,0 +1,135 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Information & Technology",
+  "department":"Department of Innovation & Technology",
+  "file_version":"",
+  "head_name":"Andrew Therriault",
+  "head_title":"Manager",
+  "name":"Data & Analytics",
+  "parent":"Department of Innovation & Technology",
+  "section_id":90,
+  "section_md5_id":"8613985EC49EB8F757AE6439E879BB2A",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~core-infrastructure.json",
+  "source_time":"20180813095101",
+  "source_year":"19",
+  "appropriation_code":"Organization 149500",
+  "description":[
+    "Use data and analytics to improve quality of life and the effectiveness of government operations. By providing technology and business support, we aim to create a modern, data-driven, responsive City government. We have worked on a variety initiatives to improve performance and accountability (CityScore, BFD shift swap dashboard) and deliver services more effectively (signal timing optimization, moving day trash collection)."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":1729746,
+      "fy-1":132504,
+      "fy-0":1194752,
+      "fy+1":1158406
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":72709,
+      "fy-1":330166,
+      "fy-0":75000,
+      "fy+1":475025
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1802455,
+      "fy-1":462670,
+      "fy-0":1269752,
+      "fy+1":1633431
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":1729746,
+        "fy-1":132504,
+        "fy-0":1194752,
+        "fy+1":1158406,
+        "diff":-36346
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":9012,
+        "fy-1":76036,
+        "fy-0":0,
+        "fy+1":200025,
+        "diff":200025
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":497,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":63200,
+        "fy-1":254130,
+        "fy-0":75000,
+        "fy+1":275000,
+        "diff":200000
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":1802455,
+        "fy-1":462670,
+        "fy-0":1269752,
+        "fy+1":1633431,
+        "diff":363679
+      }
+    ]
+  }
+}
+---

@@ -1,0 +1,135 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Public Safety",
+  "department":"Fire Department",
+  "file_version":"",
+  "head_name":"Gerard Fontana",
+  "head_title":"Manager",
+  "name":"Boston Fire Suppression",
+  "parent":"Fire Department",
+  "section_id":110,
+  "section_md5_id":"5F93F983524DEF3DCA464469D2CF9F3E",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~bfd-administration.json",
+  "source_time":"20180813095109",
+  "source_year":"19",
+  "appropriation_code":"Organization 221200",
+  "description":[
+    "The Fire Suppression Program is responsible for extinguishing all fires and protecting life and property in emergencies for the citizens of Boston, and for surrounding communities on a mutual aid basis.  The Fire Suppression Program force responds to hazardous material incidents as well as man-made and natural disasters."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":161440689,
+      "fy-1":160533280,
+      "fy-0":170029562,
+      "fy+1":172221459
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":4372403,
+      "fy-1":6835021,
+      "fy-0":7712461,
+      "fy+1":7773902
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":165813092,
+      "fy-1":167368301,
+      "fy-0":177742023,
+      "fy+1":179995361
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":161440689,
+        "fy-1":160533280,
+        "fy-0":170029562,
+        "fy+1":172221459,
+        "diff":2191897
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":539905,
+        "fy-1":1044930,
+        "fy-0":910452,
+        "fy+1":932848,
+        "diff":22396
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":1782308,
+        "fy-1":2827036,
+        "fy-0":2646951,
+        "fy+1":2773360,
+        "diff":126409
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":43454,
+        "fy-1":12043,
+        "fy-0":43782,
+        "fy+1":45056,
+        "diff":1274
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":2006736,
+        "fy-1":2951012,
+        "fy-0":4111276,
+        "fy+1":4022638,
+        "diff":-88638
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":165813092,
+        "fy-1":167368301,
+        "fy-0":177742023,
+        "fy+1":179995361,
+        "diff":2253338
+      }
+    ]
+  }
+}
+---

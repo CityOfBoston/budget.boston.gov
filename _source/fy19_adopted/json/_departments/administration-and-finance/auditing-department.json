@@ -1,0 +1,311 @@
+---
+{
+  "debug":"JBD",
+  "publish_subordinates":true,
+  "file_version":"",
+  "section_id":87,
+  "section_md5_id":"C7E1249FFC03EB9DED908C236BD1996D",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Adopted~Publish 19 Adopted~JSON Output~_source~fy19_adopted~json~_departments~Administration and Finance~auditing-department.json",
+  "source_time":"20180813095028",
+  "source_year":"19",
+  "name":"Auditing Department",
+  "parent":"Administration & Finance",
+  "cabinet":"Administration & Finance",
+  "department":"Auditing Department",
+  "head_name":"Sally D. Glora",
+  "head_title":"City Auditor",
+  "appropriation_code":"Appropriation 131",
+  "mission":[
+    "The mission of the Auditing Department is to present a complete and accurate statement of the City's financial condition."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Accounting",
+      "debug":"JCO",
+      "strategies":[
+        "Ensure Stability of Financial Reporting"
+      ]
+    },
+    {
+      "program":"Grants Monitoring",
+      "debug":"JCO",
+      "strategies":[
+        "Ensure Stability of Financial Reporting"
+      ]
+    },
+    {
+      "program":"Accounts Payable",
+      "debug":"JCO",
+      "strategies":[
+        "% contracts routed within 3 days of receipt",
+        "% procurement documents approved within 3 days",
+        "% vendor invoices processed within 5 days",
+        "Improvement through the use of technology & resources to manage the City's Accounts Payable"
+      ]
+    }
+  ],
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    "data":[
+      {
+        "name":"Auditing Administration",
+        "line_type":"data",
+        "fy-2":412250,
+        "fy-1":386579,
+        "fy-0":517188,
+        "fy+1":566236,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Accounting",
+        "line_type":"data",
+        "fy-2":698402,
+        "fy-1":689484,
+        "fy-0":734866,
+        "fy+1":761854,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Central Payroll",
+        "line_type":"data",
+        "fy-2":407001,
+        "fy-1":490310,
+        "fy-0":579209,
+        "fy+1":601811,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Grants Monitoring",
+        "line_type":"data",
+        "fy-2":274648,
+        "fy-1":285061,
+        "fy-0":167949,
+        "fy+1":146595,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Accounts Payable",
+        "line_type":"data",
+        "fy-2":777960,
+        "fy-1":689644,
+        "fy-0":789869,
+        "fy+1":817832,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":2570261,
+        "fy-1":2541078,
+        "fy-0":2789081,
+        "fy+1":2894328
+      }
+    ]
+  },
+  "external_funds_budget":{
+    "table_type":"External Funds",
+    "table_title":"External Funds Budget",
+    "table_header":{
+      "name":"Fund Name",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    "data":[
+      {
+        "name":"ARRA - Earned Indirect",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"BAIS Financials Upgrade",
+        "line_type":"data",
+        "fy-2":279353,
+        "fy-1":6216,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Earned Indirect",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":151930,
+        "fy-0":175679,
+        "fy+1":181817,
+        "publish_subordinates":true
+      },
+      {
+        "name":"FEMA Disaster Recovery Asst",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":279353,
+        "fy-1":158146,
+        "fy-0":175679,
+        "fy+1":181817
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":2489044,
+      "fy-1":2445406,
+      "fy-0":2725501,
+      "fy+1":2814191
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":81217,
+      "fy-1":95672,
+      "fy-0":63580,
+      "fy+1":80137
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":2570261,
+      "fy-1":2541078,
+      "fy-0":2789081,
+      "fy+1":2894328
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Annual Audit, 31 U.S.C. &sect; 7502; M.G.L.A. c. 41, &sect;&sect; 50, 53; M.G.L.A. c. 44, &sect;&sect; 40, 53D; M.G.L.A. c. 60 &sect; 97; Tregor, 1982 Mass. Acts ch. 190, &sect; 14; CBC Ord. &sect; 6-1.5.",
+    "Annual Appropriation, M.G.L.A. c. 41, &sect;&sect; 57-58; 1982 Mass. Acts 190, &sect; 18; 1986 Mass. Acts ch. 701, &sect; 3, 7-10; CBC St. 6 &sect; 252; CBC Ord. &sect; 6-1.10.",
+    "Execution of Contracts, M.G.L.A. c 41, &sect; 17; CBC St. 4 &sect;&sect; 7-8; CBC Ord. &sect; 5-5.28.",
+    "Payment of Bills, M.G.L.A. c.41, &sect;&sect; 51, 56; CBC Ord. &sect; 5-5.27; CBC Ord. &sect;&sect; 6-1.4-6-1.6; CBC Ord. &sect; 11-6.37.",
+    "Payment of Payrolls, M.G.L.A. c. 41, &sect; 56; Tregor, 1982 Mass. Acts ch. 190 &sect; 18; 1986 Mass. Acts ch. 701 &sect; 9; CBC Ord. &sect; 5-5.29; CBC Ord. &sect; 6-1.3.",
+    "Debt Service, Tregor, 1982 Mass. Acts ch. 190 &sect;&sect; 4,8; M.G.L.A. c.41, &sect; 57, CBC St. 6 &sect;&sect; 254-255; CBC Ord. &sect; 6-1.2.",
+    "Financial Accounting and Reporting, 31 U.S.C. &sect; 7502; M.G.L.A. c.41, &sect;&sect; 54, 57-58, 61; M.G.L.A. c.44, &sect; 43; CBC St.6 &sect;&sect; 2-3; CBC Ord. &sect; 5-5.34 ;CBC Ord. &sect;&sect; 6-1.7-6.-1.8."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":2489044,
+        "fy-1":2445406,
+        "fy-0":2725501,
+        "fy+1":2814191,
+        "diff":88690
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":67076,
+        "fy-1":77990,
+        "fy-0":25575,
+        "fy+1":34018,
+        "diff":8443
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":6635,
+        "fy-1":6990,
+        "fy-0":11440,
+        "fy+1":12147,
+        "diff":707
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":3800,
+        "fy-1":10042,
+        "fy-0":26565,
+        "fy+1":33972,
+        "diff":7407
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":3706,
+        "fy-1":650,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":2570261,
+        "fy-1":2541078,
+        "fy-0":2789081,
+        "fy+1":2894328,
+        "diff":105247
+      }
+    ]
+  },
+  "external_funds":[
+    {
+      "project":"BAIS Financials Upgrade",
+      "project_mission":[
+        "To implement the PeoplesSoft Financials application upgrade based on adoption of leading practices for financial management, while improving customer support and maintaining appropriate controls and financial management. This upgrade was being funded with a combination of capital, Erate reimbursement and Indirect resources and went into production in FY13."
+      ]
+    },
+    {
+      "project":"Earned Indirect",
+      "project_mission":[
+        "Earned Indirect is funding provided through various grants to cover the City&rsquo;s cost of supporting the operations of these grants. This funding is used to support two administrative positions in the Grant Monitoring Program of the Auditing Department."
+      ]
+    }
+  ]
+}
+---
