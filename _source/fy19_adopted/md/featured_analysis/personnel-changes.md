@@ -74,7 +74,7 @@ components:
 - text_block:
   - title: FY19 Projected FTE Changes
     body: >
-      The City projects a net increase in FTE levels of 219.7 from January 1, 2018 to January 1, 2019. The majority of the growth is targeted in the priority areas of education, public safety, and transportation.
+      The City projects a net increase in FTE levels of 221.7 from January 1, 2018 to January 1, 2019. The majority of the growth is targeted in the priority areas of education, public safety, and transportation.
       <blockquote>The City will continue to review the need for hiring into all vacant positions in 
       FY19. Departments eliminated 10 long-term vacant positions in the current budget process.</blockquote>
 - text_col_3:
@@ -91,7 +91,7 @@ components:
       <h5>Operations Cabinet</h5>
       <p>The Operations Cabinet is anticipated to increase by 3 FTEs. Intergovernmental Relations will hire a census outreach coordinator in advance of the 2020 U.S. Census. Public Facilities will add a project manager and a design review position to support the growing citywide construction program.</p>
       <h5>Environment, Energy and Open Space Cabinet</h5>
-      <p>The Environment, Energy and Open Space Cabinet is expected to grow by 10 FTEs by filling vacant positions and adding targeted new positions. Inspectional Services will add 2 plans examiners to reduce the architectural review wait time for residents and developers. Parks and Recreation is adding a park ranger position and the mural crew manager, who is being transferred from Arts and Culture. </p>
+      <p>The Environment, Energy and Open Space Cabinet is expected to grow by 10 FTEs by filling vacant positions and adding targeted new positions. Inspectional Services will add 2 plans examiners to reduce the architectural review wait time for residents and developers. Parks and Recreation is adding two park ranger positions and the mural crew manager, who is being transferred from Arts and Culture. </p>
       <h5>Administration and Finance Cabinet</h5>
       <p>The Administration & Finance Cabinet projects a net increase of 2 FTEs with talent acquisition and compliance position in Human Resources and a new account receivable specialist in the Treasury Department.</p>
       <h5>Health and Human Services Cabinet</h5>
