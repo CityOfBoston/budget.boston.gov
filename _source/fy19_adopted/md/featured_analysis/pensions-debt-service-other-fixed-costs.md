@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Pensions, Debt Service, and Other Fixed Costs
-  - published: 4/11/18
+  - published: 6/30/18
 - intro:
   - title: Pensions, debt service, and other fixed costs
     short_desc: >
@@ -38,7 +38,7 @@ components:
       position as an attractive investment. This high bond rating will be integral to 
       unlocking a $1 billion investment in Boston schools over the next 10 years.</p>
       <p>Even with the recent favorable borrowings, debt service costs are projected
-      to increase by $7.7 million (4.2%) in FY19.</p> 
+      to increase by $8 million (4.4%) in FY19.</p> 
   - col:
     - img: /img/pension-schedule.png
 - grid: 
