@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Energy Management
-  - published: 4/11/18
+  - published: 6/30/18
 - intro:
   - title: Energy management
     short_desc: >
