@@ -21,9 +21,9 @@ components:
 - intro:
   - title: Schools as the Great Equalizer
     short_desc: >
-      A cornerstone of Mayor Walsh’s FY19 budget is the investment in public education. Since taking office, Mayor Walsh has increased spending by $170 million, and results are showing. Graduation rates are at a historic high and Boston Public Schools has more high performing schools than ever before.
+      A cornerstone of Mayor Walsh’s FY19 budget is the investment in public education. Since taking office, Mayor Walsh has increased spending by $261 million, and results are showing. Graduation rates are at a historic high and Boston Public Schools has more high performing schools than ever before.
     description: >
-      Overall, the BPS budget is increasing by $48 million next year. $40 million of that funding will go directly to schools where principals, teachers, and staff can respond to the needs of their students. This is almost a 6% increase in funding directed to schools. Despite flat enrollment district-wide, the vast majority of schools will see increases in their budgets.
+      Overall, the BPS budget is increasing by $51 million next year. $40 million of that funding will go directly to schools where principals, teachers, and staff can respond to the needs of their students. This is almost a 6% increase in funding directed to schools. Despite flat enrollment district-wide, the vast majority of schools will see increases in their budgets.
     sidebar_menu: true    
 - text_block:
   - title: School funding
@@ -45,11 +45,11 @@ components:
       <p>The budget also includes $6 million in targeted high-impact investments to support physical and mental health and close opportunity and achievement gaps. These include adding 20 new social emotional wellness professionals, expanding Excellence for All to the 6th grade, and expanding Becoming a Man, a program that serves young men of color by providing school-based group counseling and mentoring services.</p>
   - col: >
       <h5>Continuing long-term investments</h5>
-      <p>In FY19, BPS will also continue its three research-backed major investments: extended learning time for students, high-quality teachers, and early childhood education.</p>
+      <p>In FY19, BPS will also continue its three research-backed major investments: extended learning time for students, high-quality teachers, and <a href="budget.boston.gov/featured-analysis/early-childhood-education/">early childhood education</a>.</p>
       <ul>
       <li>The district is making a $20 million annual investment in adding the equivalent of 20 days of instruction to the school day for almost 60 elementary schools.</li>
       <li>BPS will spend $38 million in FY19 on increased salaries and benefits for educators, making them among the highest paid in the country.</li>
-      <li>BPS has made steady progress in adding K1 seats. In FY19, the number of K1 seats 976 higher since Mayor Walsh took office.</li>
+      <li>BPS has made steady progress in adding K1 seats. In FY19, the number of K1 seats will be 1,056 higher since Mayor Walsh took office.</li>
       </ul>
 - grid:
   - grid_title: More budget analysis
