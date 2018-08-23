@@ -4,8 +4,8 @@
   "debug":"JBDCP",
   "department":"Boston Public Schools",
   "file_version":"",
-  "head_name":"Dr. Tommy Chang",
-  "head_title":"Superintendent",
+  "head_name":"Laura Perille",
+  "head_title":"Interim Superintendent",
   "name":"Boston Public Schools",
   "parent":"Education",
   "section_id":30,
@@ -14,7 +14,7 @@
   "section_type_short":"L",
   "source_version":"Adopted",
   "source_path":"P~19Budget~19 Adopted~Publish 19 Adopted~JSON Output~_source~fy19_adopted~json~_cp_depts~boston-public-schools.json",
-  "source_time":"20180813095117",
+  "source_time":"20180823094126",
   "source_year":"19",
   "mission":[
     "We welcome the children of this city into the Boston Public Schools, where effective teaching and learning prepare all of our students to achieve at high levels, and where the entire community works together to focus on children."
