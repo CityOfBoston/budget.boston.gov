@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: External Funds
-  - published: 4/11/18
+  - published: 6/30/18
 - intro:
   - title: External funds
     short_desc: >
@@ -67,7 +67,7 @@ components:
           filter: delimiter
           align: right
         "FY19 Estimated":
-          value: 137062144
+          value: 141,889,983
           filter: delimiter
           align: right
       - "Department": Neighborhood Development
@@ -80,7 +80,7 @@ components:
           filter: delimiter
           align: right
         "FY19 Estimated":
-          value: 78142034
+          value: 83,892,292
           filter: delimiter
           align: right
       - "Department": Public Health Commission
@@ -185,7 +185,7 @@ components:
           filter: delimiter
           align: right
         "FY19 Estimated":
-          value: 350038830
+          value: 360,616,927
           filter: delimiter
           align: right
 ---
