@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~administration.json",
-  "source_time":"20180813095051",
+  "source_time":"20180823094113",
   "source_year":"19",
   "appropriation_code":"Organization 163200",
   "description":[
@@ -153,7 +153,7 @@
               "line_data":"Death Certificate requests by mail",
               "fy-2":"15,816",
               "fy-1":"16,792",
-              "fy-0":"16,572",
+              "fy-0":"17,469",
               "fy+1":"16,500"
             },
             {

@@ -9,7 +9,7 @@
   "section_type_short":"D",
   "source_version":"Adopted",
   "source_path":"P~19Budget~19 Adopted~Publish 19 Adopted~JSON Output~_source~fy19_adopted~json~_departments~Housing and Neighborhood Development~neighborhood-development.json",
-  "source_time":"20180813095237",
+  "source_time":"20180823094203",
   "source_year":"19",
   "name":"Neighborhood Development",
   "parent":"Housing & Neighborhood Development",
@@ -508,7 +508,7 @@
         "publish_subordinates":true
       },
       {
-        "name":"Youth Homelessness Grant",
+        "name":"Youth Homelessness Demonstration Program",
         "line_type":"data",
         "fy-2":0,
         "fy-1":0,
@@ -770,6 +770,12 @@
       "project":"Triple Decker Initiative",
       "project_mission":[
         "The Triple-Decker Initiative was supported by funds from the Boston Redevelopment Authority. The program funds Neighborhood Development's 3D HELP program which supports the renovation and energy retrofitting of owner-occupied triple-deckers. The Triple Decker awards from the BRA totaled $900,000 between FY13 and FY15."
+      ]
+    },
+    {
+      "project":"Youth Homelessness Demonstration Program Grant:",
+      "project_mission":[
+        "To help end youth homelessness in Boston, the U.S. Department of Housing and Urban Development (HUD) has awarded $4.92 million through its Youth Homelessness Demonstration Program (YHDP). The new grant award was announced on 7/16/18. This project will support a wide range of housing programs including rapid rehousing, permanent supportive housing, transitional housing, and host homes. The grant period is two years."
       ]
     }
   ],

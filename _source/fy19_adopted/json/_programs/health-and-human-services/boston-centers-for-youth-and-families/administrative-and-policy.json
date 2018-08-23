@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~sports-and-fitness.json",
-  "source_time":"20180813095214",
+  "source_time":"20180823094153",
   "source_year":"19",
   "appropriation_code":"Organization 385100",
   "description":[
@@ -130,6 +130,84 @@
         "diff":712743
       }
     ]
-  }
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To support health and wellness through community center sports, fitness, and recreation programming"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of Communuity Center Visits",
+              "fy-2":"",
+              "fy-1":"979,999",
+              "fy-0":"850,000",
+              "fy+1":"900,000"
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of Program participants",
+              "fy-2":"",
+              "fy-1":"91,393",
+              "fy-0":"93,000",
+              "fy+1":"92,000"
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of Programs offered",
+              "fy-2":"",
+              "fy-1":"5,259",
+              "fy-0":"4,600",
+              "fy+1":"4,750"
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of Teen visits",
+              "fy-2":"",
+              "fy-1":"95,516",
+              "fy-0":"140,000",
+              "fy+1":"140,000"
+            },
+            {
+              "line_type":"data",
+              "line_data":"# of unique community center visitors",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"0",
+              "fy+1":"0"
+            },
+            {
+              "line_type":"data",
+              "line_data":"% increase in evening visits",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"-10%",
+              "fy+1":"1%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"% increase in weekend visits",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"-8%",
+              "fy+1":"2%"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
 ---

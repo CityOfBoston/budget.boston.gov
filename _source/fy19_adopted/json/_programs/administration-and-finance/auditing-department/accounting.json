@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~auditing-administration.json",
-  "source_time":"20180813095029",
+  "source_time":"20180823094104",
   "source_year":"19",
   "appropriation_code":"Organization 131200",
   "description":[
@@ -167,10 +167,10 @@
             {
               "line_type":"data",
               "line_data":"Financial Audit Completion",
-              "fy-2":"100",
-              "fy-1":"100",
-              "fy-0":"100",
-              "fy+1":"100"
+              "fy-2":"1",
+              "fy-1":"1",
+              "fy-0":"1",
+              "fy+1":"1"
             }
           ]
         }
