@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Early Childhood Education
-  - published: 4/11/18
+  - published: 6/30/18
 - intro:
   - title: Early childhood education
     short_desc: >
