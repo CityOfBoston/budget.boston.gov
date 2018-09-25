@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Schools as the Great Equalizer
-  - published: 4/11/18
+  - published: 6/30/18
 - intro:
   - title: Schools as the Great Equalizer
     short_desc: >
