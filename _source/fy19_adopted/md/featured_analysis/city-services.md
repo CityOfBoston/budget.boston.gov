@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: City Services
-  - published: 6/30/18
+  - published: 7/1/18
 - intro:
   - title: City Services
     short_desc: >
