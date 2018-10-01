@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Scaling Successful District-Wide Programs
-  - published: 4/11/18
+  - published: 7/1/18
 - intro:
   - title: Scaling Successful District-Wide Programs
     short_desc: >
