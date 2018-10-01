@@ -9,7 +9,7 @@ components:
   - title: Budget
     url: "/budget"
   - current: Glossary of terms
-  - published: 6/30/18
+  - published: 7/1/18
 - intro:
   - title: Glossary of terms
     short_desc: >
