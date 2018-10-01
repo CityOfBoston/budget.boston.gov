@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Financing the FY19-FY23 Capital Plan
-  - published: 4/11/18
+  - published: 7/1/18
 - intro:
   - title: Financing the FY19-FY23 capital plan
     short_desc: >
