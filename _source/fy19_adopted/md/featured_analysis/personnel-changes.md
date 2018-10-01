@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Personnel Changes
-  - published: 4/11/18
+  - published: 7/1/18
 - intro:
   - title: Personnel changes
     short_desc: 
