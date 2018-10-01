@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: External Funds
-  - published: 6/30/18
+  - published: 7/1/18
 - intro:
   - title: External funds
     short_desc: >
