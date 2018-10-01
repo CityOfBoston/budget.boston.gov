@@ -8,7 +8,7 @@ components:
     url: "/"
     local: true
   - current: PDFs of the budget book
-  - published: 6/30/18
+  - published: 7/1/18
 - intro:
   - title: PDFs of the budget volumes
     short_desc: >
