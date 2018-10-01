@@ -17,7 +17,7 @@ components:
     url: "/operating-budget/"
     local: true
   - current: Debt service
-  - published: 6/30/18
+  - published: 7/1/18
 - intro:
   - title: Debt service
     short_desc: >
