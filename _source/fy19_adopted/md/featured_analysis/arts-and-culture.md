@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Arts and Culture
-  - published: 4/11/18
+  - published: 7/1/18
 - intro:
   - title: Arts and Culture
     short_desc: >
