@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Keeping Boston's Streets Clean and Safe
-  - published: 4/11/18
+  - published: 7/1/18
 - intro:
   - title: Keeping Boston's streets clean and safe
     short_desc: >
