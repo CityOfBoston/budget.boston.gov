@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Performance Management
-  - published: 6/30/18
+  - published: 7/1/18
 - intro:
   - title: Performance management
     short_desc: >
