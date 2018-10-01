@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Pensions, Debt Service, and Other Fixed Costs
-  - published: 6/30/18
+  - published: 7/1/18
 - intro:
   - title: Pensions, debt service, and other fixed costs
     short_desc: >
