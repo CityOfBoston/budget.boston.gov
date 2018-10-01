@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Revenue overview
-  - published: 4/11/18
+  - published: 7/1/18
 - intro:
   - title: Revenue overview
     short_desc: >      
