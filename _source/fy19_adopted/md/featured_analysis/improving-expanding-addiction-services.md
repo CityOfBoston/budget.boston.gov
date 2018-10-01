@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Improving and Expanding Addiction Services
-  - published: 4/11/18
+  - published: 7/1/18
 - intro:
   - title: Improving and expanding addiction services
     short_desc: >
