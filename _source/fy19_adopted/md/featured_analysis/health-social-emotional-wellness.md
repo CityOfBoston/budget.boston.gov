@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Health and Social Emotional Wellness
-  - published: 4/11/18
+  - published: 7/1/18
 - intro:
   - title: Health and Social Emotional Wellness
     short_desc: >
