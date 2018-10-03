@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Supporting our Youth
-  - published: 4/11/18
+  - published: 7/1/18
 - intro:
   - title: Supporting our Youth
     short_desc: >

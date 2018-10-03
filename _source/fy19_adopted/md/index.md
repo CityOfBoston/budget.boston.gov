@@ -8,7 +8,7 @@ components:
     url: "/"
     local: true
   - current: Executive Summary
-  - published: 6/30/18
+  - published: 7/1/18
 - intro:
   - title: Executive Summary
     short_desc: >
@@ -102,11 +102,11 @@ components:
 - text_block:
   - title: Imagine Boston Capital Plan
     body: >
-      Mayor Walsh’s $2.43 billion FY19-FY23 Capital Plan moves Boston residents’ priorities from idea to action, and invests in creating the city Bostonians imagine for the future. Under the Imagine Boston 2030 umbrella, the City is investing deeply in the core goals of BuildBPS, Go Boston 2030, Boston Creates, and Climate Ready Boston.Over 14,000 Boston voices shaped the Mayor’s vision for Boston in 2030. They envisioned a city that will expand opportunity for all, support a dynamic economy, enhance quality of life, and prepare for climate change.
+      Mayor Walsh’s $2.43 billion FY19-FY23 Capital Plan moves Boston residents’ priorities from idea to action, and invests in creating the city Bostonians imagine for the future. Under the Imagine Boston 2030 umbrella, the City is investing deeply in the core goals of BuildBPS, Go Boston 2030, Boston Creates, and Climate Ready Boston. Over 14,000 Boston voices shaped the Mayor’s vision for Boston in 2030. They envisioned a city that will expand opportunity for all, support a dynamic economy, enhance quality of life, and prepare for climate change.
       <h5>From idea to action</h5>
       <p>Over 14,000 Boston voices shaped the Mayor’s vision for Boston in 2030. They envisioned a city that will expand opportunity for all, support a dynamic economy, enhance quality of life, and prepare for climate change. Imagine Boston 2030 identifies key areas where Boston can take action to, enhance neighborhoods’ vitality, encourage mixed-use job centers, provide spaces for new housing and jobs as we grow, create a waterfront for future generations; and connect historically underserved neighborhoods to more opportunities.
       <h5>Investing in core goals</h5>
-      <p>Mayor Walsh’s $2.43 billion FY9-FY23 Capital Plan moves Boston residents’ priorities from idea to action, and invests in creating the city Bostonians imagine for the future. An estimated 84% of projects in the FY19-23 Capital Plan are aligned with the City’s planning efforts:</p>
+      <p>Mayor Walsh’s $2.43 billion FY9-FY23 Capital Plan moves Boston residents’ priorities from idea to action, and invests in creating the city Bostonians imagine for the future. An estimated 85% of projects in the FY19-23 Capital Plan are aligned with the City’s planning efforts:</p>
       <ul>
       <li><strong>$1 billion over ten years to bring Boston's school buildings into the 21st Century</strong>. After spending close to $100 million in the first year, this Plan sets the stage for continued investment in 21st century classrooms, new and expanded schools, new kitchens to serve fresh food, school safety upgrades and funding for future projects coming out of the BuildBPS community engagement process.</li>
       <li>In collaboration with State and Federal sources, will invest <strong>$967 million over the next five years in implementing the core initiatives outlined in Go Boston 2030</strong>: streets that are safer for all users of our roads and sidewalks, travel that is more reliable and predictable, and quality transportation choices that improve access to interconnect our neighborhoods for all modes of travel. </li>

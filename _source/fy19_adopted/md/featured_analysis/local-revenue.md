@@ -17,13 +17,11 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Local Revenue
-  - published: 4/11/18
+  - published: 7/1/18
 - intro:
   - title: Local Revenue 
     short_desc: >
-      The City annually collects a significant amount of recurring revenues 
-      other than Property Tax or State Aid. The FY17 Budget included $474.3 million in local receipt revenue, and the FY18 
-      budget budgets an increase to $500.6 million.
+      The City annually collects a significant amount of recurring revenues other than property tax or State aid. The City collected $518.5 million in FY17 from these sources. The City expects to exceed the mid-year budget estimate of $491.1 million in FY18 and collect $505.6 million in FY19
     sidebar_menu: true
 - text_block:
   - title: Breaking down local receipts
@@ -52,7 +50,7 @@ components:
   - title: Other Sources of Local Revenue
     body: >
       <ul>       
-      <li>The revenue from Interest on Investments is estimated to increase to $5 million in FY19. The increase is a result of the movement of significant assets out of non-interest bearing accounts associated with compensating balance agreements between the City and its primary bank and into interest-bearing accounts. Additionally, in March 2018, the Federal Reserve increased its key interest rate to 1.75%, the highest level since 2008.</li>
+      <li>The revenue from Interest on Investments is estimated to increase to $5 million in FY19. The increase is a result of the movement of significant assets out of non-interest bearing accounts associated with compensating balance agreements between the City and its primary bank and into interest-bearing accounts. Additionally, in June 2018, the Federal Reserve increased its key interest rate to 2%, the highest level since 2008.</li>
       <li>License and permit revenues have been strong with the robust activity in the City’s development pipeline.  Building permit revenue is conservatively budgeted in FY19 at $45 million.</li>
       <li>The FY19 budget includes an additional $1.3 million identified in departmental revenues.</li>
       <li>Building on his commitment to create a safer, more equitable transportation future for Boston, Mayor Walsh will invest $5 million aimed at upgrading transportation infrastructure to benefit all modes of travel. These investments are funded through a strategic set of increases to the City’s current fine structure for parking violations. The updated parking fine structure, last revised in 2008, is expected to produce positive outcomes by influencing driver behavior and reducing congestion and emissions, increasing cleanliness, and improving the parking experience.</li> 

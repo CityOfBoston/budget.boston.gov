@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Preparing for Climate Change
-  - published: 4/11/18
+  - published: 7/1/18
 - intro:
   - title: Preparing for climate change
     short_desc: >

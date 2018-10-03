@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Advancing Racial Equity, Diversity, and Economic Mobility
-  - published: 4/11/18
+  - published: 7/1/18
 - intro:
   - title: Advancing racial equity, diversity, and economic mobility
     short_desc: >

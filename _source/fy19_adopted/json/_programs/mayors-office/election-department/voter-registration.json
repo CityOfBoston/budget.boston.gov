@@ -14,7 +14,7 @@
   "section_type_short":"P",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~election-administration.json",
-  "source_time":"20180813095016",
+  "source_time":"20180823094058",
   "source_year":"19",
   "appropriation_code":"Organization 121300",
   "description":[
@@ -153,7 +153,7 @@
               "line_data":"# of 1st time voter registrations",
               "fy-2":"",
               "fy-1":"55,855",
-              "fy-0":"12,000",
+              "fy-0":"31,439",
               "fy+1":"11,000"
             },
             {
@@ -161,7 +161,7 @@
               "line_data":"Electronic voter registrations",
               "fy-2":"",
               "fy-1":"111,559",
-              "fy-0":"48,000",
+              "fy-0":"91,897",
               "fy+1":"50,000"
             },
             {
@@ -169,7 +169,7 @@
               "line_data":"Youth Pre-registration",
               "fy-2":"",
               "fy-1":"446",
-              "fy-0":"960",
+              "fy-0":"933",
               "fy+1":"1,000"
             },
             {
@@ -177,7 +177,7 @@
               "line_data":"Youth registrations (H.S. & BCYF)",
               "fy-2":"",
               "fy-1":"205",
-              "fy-0":"960",
+              "fy-0":"510",
               "fy+1":"1,000"
             }
           ]

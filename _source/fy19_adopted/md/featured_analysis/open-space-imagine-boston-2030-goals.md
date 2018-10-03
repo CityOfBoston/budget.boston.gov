@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Implementing Imagine Boston 2030's Open Space Goals
-  - published: 4/11/18
+  - published: 7/1/18
 - intro:
   - title: Implementing Imagine Boston 2030's open space goals
     short_desc: >

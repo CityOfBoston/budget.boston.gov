@@ -8,7 +8,7 @@ components:
     url: "/"
     local: true
   - current: Capital Projects
-  - published: 4/11/18
+  - published: 7/1/18
 - intro:
   - title: Capital Projects
     short_desc:

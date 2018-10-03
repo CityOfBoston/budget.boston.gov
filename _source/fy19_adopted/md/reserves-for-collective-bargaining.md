@@ -17,7 +17,7 @@ components:
     url: "/operating-budget/"
     local: true
   - current: Reserve for collective bargaining
-  - published: 6/30/18
+  - published: 7/1/18
 - intro:
   - title: Reserve for collective bargaining
     short_desc: >

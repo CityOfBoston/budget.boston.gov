@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Personnel Changes
-  - published: 4/11/18
+  - published: 7/1/18
 - intro:
   - title: Personnel changes
     short_desc: 
@@ -36,7 +36,7 @@ components:
 - text_block:
   - title: FY17 - FY18 FTE Changes
     body: >
-      The total net increase in FTEs from January 1, 2017 to January 1, 2018 was 211.9.  The majority of the growth was in priority area of Education. The City’s Position Review Committee continued to review all proposed 
+      The total net increase in FTEs from January 1, 2017 to January 1, 2018 was 212.9.  The majority of the growth was in priority area of Education. The City’s Position Review Committee continued to review all proposed 
       job postings for vacant positions. <blockquote>All hiring was scrutinized and only 
       critical positions were approved. About 23 long-term vacant positions were eliminated 
       in the FY18 budget.</blockquote>
@@ -56,7 +56,7 @@ components:
       <h5>Civic Engagement and Economic Development Cabinets</h5>
       <p>The Civic Engagement Cabinet increased by 4 FTEs as the Office of Neighborhood Services increased 311 staff to improve constituent response.  The Arts & Culture Cabinet increased by 0.1 FTEs with regular attrition in the Library Department offset by 2 new positions in the Office of Arts and Culture.  These positions provided additional support for the Strand Theater.  The Economic Development Cabinet increased by 3.5 FTEs for additional operations support.</p>
       <h5>Environment, Energy and Open Space Cabinet</h5>
-      <p>The Environment, Energy and Open Space Cabinet decreased by 8 FTEs from January 2017 to January 2018. The Parks Department decreased by 4 due to normal attrition and Inspectional Services had a decrease of 7 FTEs including several building inspector vacancies. The Environment Department increased by 3 FTEs with the hiring of a new Preservation Assistant along with filling some vacancies.</p>
+      <p>The Environment, Energy and Open Space Cabinet decreased by 7 FTEs from January 2017 to January 2018. The Parks Department decreased by 4 due to normal attrition and Inspectional Services had a decrease of 6 FTEs including several building inspector vacancies. The Environment Department increased by 3 FTEs with the hiring of a new Preservation Assistant along with filling some vacancies.</p>
   - col: >
       <h5>Health and Human Services Cabinet</h5>
       <p>The Health and Human Services Cabinet shows a net increase of 9.2 FTEs due primarily 
@@ -74,7 +74,7 @@ components:
 - text_block:
   - title: FY19 Projected FTE Changes
     body: >
-      The City projects a net increase in FTE levels of 221.7 from January 1, 2018 to January 1, 2019. The majority of the growth is targeted in the priority areas of education, public safety, and transportation.
+      The City projects a net increase in FTE levels of 220.7 from January 1, 2018 to January 1, 2019. The majority of the growth is targeted in the priority areas of education, public safety, and transportation.
       <blockquote>The City will continue to review the need for hiring into all vacant positions in 
       FY19. Departments eliminated 10 long-term vacant positions in the current budget process.</blockquote>
 - text_col_3:

@@ -5,7 +5,7 @@
   "department":"Boston Centers for Youth and Families",
   "file_version":"",
   "head_name":"William Morales",
-  "head_title":"Interim Director",
+  "head_title":"Director",
   "name":"Boston Centers for Youth and Families",
   "parent":"Health & Human Services",
   "section_id":84,
@@ -14,7 +14,7 @@
   "section_type_short":"L",
   "source_version":"Adopted",
   "source_path":"P~19Budget~19 Adopted~Publish 19 Adopted~JSON Output~_source~fy19_adopted~json~_cp_depts~boston-centers-for-youth-and-families.json",
-  "source_time":"20180813095211",
+  "source_time":"20180823094152",
   "source_year":"19",
   "mission":[
     "The mission of Boston Centers for Youth & Families (BCYF) is to enhance the quality of life for Boston residents by partnering with community center councils, agencies and businesses to support children, youth, individuals and families. BCYF accomplishes its mission through a wide range of comprehensive programs and services according to neighborhood needs."
@@ -23,6 +23,12 @@
     "Boston Centers for Youth & Families (BCYF) provides accessible programs, services and resources for Boston residents of all ages through its facilities, pools and one beach. BCYF community centers offer programming for all ages that includes childcare, after-school, computer instruction, preschool, youth leadership and skill development programs, adult education, senior programs, Camp Joy, sports, fitness and recreation and the Streetworker program. BCYF collaborates with other City departments and community partners, including community center local site councils, to enhance the provision of service and leverage additional resources to better serve Boston&rsquo;s children, youth and families."
   ],
   "selected_performance_strategies":[
+    {
+      "program":"Administrative & Policy",
+      "strategies":[
+        "To support health and wellness through community center sports, fitness, and recreation programming."
+      ]
+    },
     {
       "program":"Sports & Fitness",
       "strategies":[

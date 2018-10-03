@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Transformational Investments in Streets and Transportation
-  - published: 4/11/18
+  - published: 7/1/18
 - intro:
   - title: Transformational Investments in Streets and Transportation
     short_desc: >

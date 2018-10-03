@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Revenue overview
-  - published: 4/11/18
+  - published: 7/1/18
 - intro:
   - title: Revenue overview
     short_desc: >      
@@ -26,12 +26,12 @@ components:
 - text_block:
   - title: Revenue Growth
     body: >
-      <p>FY19 relies on $3.29 billion in revenue, a $137 million, or 4.3%, increase over FY18. Local sources continue to drive revenue growth in FY19, as property tax and local receipts make up 97% of revenue growth over FY18. The $137 million increase is broken down as follows:</p>
+      <p>FY19 relies on $3.29 billion in revenue, a $138.5 million, or 4.4%, increase over FY18. Local sources continue to drive revenue growth in FY19, as property tax and local receipts make up 96% of revenue growth over FY18. The $138.5 million increase is broken down as follows:</p>
       <ul>
       <li>$118 million is projected to come from property tax growth</li>
       <li>Other local receipts account for $14 million</li>
-      <li>While State revenue is projected to grow by $4 million, </li></ul>
-      <p>Property tax growth remains the main driver in revenue growth and far exceeds previous growth realized in the City. Local receipts, such as fines, fees and excise tax also continue to grow modestly as a result of an expanding economy.  After a decade-long trend of modest growth in State revenue and large increases in State assessments, the City continues to weather reductions to net State aid (state revenue net of assessments).</p>
+      <li>While State revenue is projected to grow by $5.9 million, </li></ul>
+      <p>Property tax growth remains the main driver in revenue growth and far exceeds previous growth realized in the City. Local receipts, such as fines, fees and excise tax also continue to grow modestly as a result of an expanding economy. After a decade-long trend of modest growth in State revenue and large increases in State assessments, the City continues to weather reductions to net State aid (state revenue net of assessments).</p>
       <blockquote>Net State Aid is budgeted to decline as continued increases in state assessments for charter school tuition outpace stagnant budgeted state revenue.</blockquote>
     right_image: /img/net-state-aid.png
 - text_block:
@@ -50,7 +50,7 @@ components:
 - text_block:
   - title: State Revenue Overview
     body: >
-      <p>State revenue, the City’s second largest revenue source, has been reduced substantially over the course of the last two recessions.  State revenue has declined as a share of total recurring revenues from 30% in FY02 to 14% in FY19. The primary sources of aid from the State to municipalities are education aid, including Chapter 70 and charter school tuition reimbursement, and unrestricted general government aid. The FY19 recommended budget includes a modest increase in State aid of 1.0%, or $4.4 million.</p>
+      <p>State revenue, the City’s second largest revenue source, has been reduced substantially over the course of the last two recessions.  State revenue has declined as a share of total recurring revenues from 30% in FY02 to 14% in FY19. The primary sources of aid from the State to municipalities are education aid, including Chapter 70 and charter school tuition reimbursement, and unrestricted general government aid. The FY19 recommended budget includes a modest increase in State aid of 1.3%, or $5.9 million.</p>
       <p> While Boston’s overall spending on education has increased substantially in recent years, Boston’s State education funding has not kept pace. The Chapter 70 education aid formula does not work for Boston and is expected to grow by $1 million, or less than 1% in FY19. While Boston’s charter school assessment has risen by 184% since the enactment of the 2010 Achievement Gap Legislation, the State’s statutory obligation to fund charter school reimbursement has not kept pace. As a result, the City of Boston will lose $27 million under the Governor’s FY19 budget, and a total of $100 million over the past five years (FY14-FY19).</p>
       <p>If recent trends hold - rising charter school assessment and declining charter school reimbursement and stagnant Chapter 70- it’s likely that in three years Boston will receive no education State aid. This will mean Boston’s 57,000 students will be entirely funded by the City’s General Fund.</p>
     right_image: /img/net-education-aid.png
@@ -61,7 +61,7 @@ components:
 - text_block:
   - title: Local Revenue Overview
     body: >
-      <p>Local receipts, including excises, fees, fines, and permits, are projected to grow by $14 million or 3%. A strong local economy drives strong room occupancy and meals excise tax revenue as well as continued permit revenue growth from commercial and residential real estate development. </p>
+      <p>Local receipts, including excises, fees, fines, and permits, are projected to grow by $14.5 million or 3%. A strong local economy drives strong room occupancy and meals excise tax revenue as well as continued permit revenue growth from commercial and residential real estate development. </p>
       <ul>
       <li>Most recently, the City of Boston adopted a 3% local option tax for the sale of recreational marijuana. The new sales tax will be effective July 1, 2018. The FY19 budget includes $2.25 million in revenue for the first time from the recreational marijuana local option excise tax. Given uncertainty around the size and scope of the industry in Massachusetts, the City is budgeting conservatively for these revenues.</li>
       <li>The budget again includes $2 million in new revenue as a result of the State legislation that passed in 2016 to create a per-ride assessment collected from transportation network companies (TNCs), such as Uber and Lyft.</li>

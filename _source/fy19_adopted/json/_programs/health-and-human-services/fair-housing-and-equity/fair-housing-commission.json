@@ -14,11 +14,11 @@
   "section_type_short":"P",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~.json",
-  "source_time":"20180813095224",
+  "source_time":"20180823094157",
   "source_year":"19",
   "appropriation_code":"Organization 403100",
   "description":[
-    "The Fair Housing Commission works to eliminate discrimination and increase access to housing in Boston through investigation and enforcement, affirmative marketing, and interagency coordination. The Fair Housing Commission also manages a computerized listing service of available housing opportunities in an effort to provide low-income households increased access to housing in 106 cities and towns in metropolitan Boston."
+    "The Fair Housing Commission works to eliminate discrimination and increase access to housing in Boston through investigation and enforcement, affirmative marketing, and interagency coordination."
   ],
   "selected_service_indicators":[
     {
@@ -162,7 +162,7 @@
               "fy-2":"676",
               "fy-1":"1,628",
               "fy-0":"1,270",
-              "fy+1":"1,270"
+              "fy+1":"1,300"
             },
             {
               "line_type":"data",

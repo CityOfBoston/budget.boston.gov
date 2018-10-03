@@ -14,11 +14,11 @@
   "section_type_short":"P",
   "source_version":"Adopted",
   "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~engineering.json",
-  "source_time":"20180813095145",
+  "source_time":"20180823094140",
   "source_year":"19",
   "appropriation_code":"Organization 311400",
   "description":[
-    "The Construction Management Program is responsible for the construction and maintenance of the highway infrastructure of the City.  Responsibilities include installing pedestrian ramps, and managing major capital improvements in business districts.  Engineering and inspection is provided for reconstruction and resurfacing projects and for the permanent restoration of damaged public ways.  By inspecting public ways, analyzing and programming field data and estimating recovery cost, this program seeks to minimize the damages to roadways and sidewalks by utility companies and contractors."
+    "The Construction Management Program is responsible for the construction and maintenance of the highway infrastructure of the City.  Responsibilities include installing pedestrian ramps and managing major capital improvements in business districts.  Engineering and inspection is provided for reconstruction and resurfacing projects and for the permanent restoration of damaged public ways.  By inspecting public ways, analyzing and programming field data and estimating recovery cost, this program seeks to minimize the damages to roadways and sidewalks by utility companies and contractors."
   ],
   "selected_service_indicators":[
     {
@@ -153,7 +153,7 @@
               "line_data":"Annual basis of the PCI for Boston's Streets",
               "fy-2":"",
               "fy-1":"66",
-              "fy-0":"7",
+              "fy-0":"67",
               "fy+1":"66.9"
             },
             {
