@@ -1,0 +1,135 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Operations",
+  "department":"Property Management",
+  "file_version":"",
+  "head_name":"Stephen Stephanou",
+  "head_title":"Manager",
+  "name":"PM Administration",
+  "parent":"Property Management",
+  "section_id":178,
+  "section_md5_id":"8F85517967795EEEF66C225F7883BDCB",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~code-enforcement.json",
+  "source_time":"20180823094052",
+  "source_year":"19",
+  "appropriation_code":"Organization 180100",
+  "description":[
+    "The Administration Program provides centralized administrative, fiscal, and human resource support services for the Public Property Cabinet.  The program processes contracts, manages finances, implements human resource management policies and personnel paperwork, and monitors all budgetary actions through internal auditing of expenditures and revenue collections.  In addition, it assists in efforts to enhance the effectiveness and efficiency of the Department's programs and activities."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":1735433,
+      "fy-1":1717667,
+      "fy-0":1793662,
+      "fy+1":1994000
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":141812,
+      "fy-1":221594,
+      "fy-0":159257,
+      "fy+1":246053
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1877245,
+      "fy-1":1939261,
+      "fy-0":1952919,
+      "fy+1":2240053
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":1735433,
+        "fy-1":1717667,
+        "fy-0":1793662,
+        "fy+1":1994000,
+        "diff":200338
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":97453,
+        "fy-1":135961,
+        "fy-0":84552,
+        "fy+1":107598,
+        "diff":23046
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":30145,
+        "fy-1":23738,
+        "fy-0":17599,
+        "fy+1":15999,
+        "diff":-1600
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":7628,
+        "fy-1":58508,
+        "fy-0":57106,
+        "fy+1":122456,
+        "diff":65350
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":6586,
+        "fy-1":3387,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":1877245,
+        "fy-1":1939261,
+        "fy-0":1952919,
+        "fy+1":2240053,
+        "diff":287134
+      }
+    ]
+  }
+}
+---

@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Housing a Changing City - Boston 2030
-  - published: 4/11/18
+  - published: 7/1/18
 - intro:
   - title: Housing a changing City - Boston 2030
     short_desc: >

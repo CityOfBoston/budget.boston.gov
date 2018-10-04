@@ -8,7 +8,7 @@ components:
     url: "/"
     local: true
   - current: Featured Analysis
-  - published: 6/30/18
+  - published: 7/1/18
 - intro:
   - title: Featured Analysis
     short_desc: >

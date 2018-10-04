@@ -1,0 +1,119 @@
+---
+{
+  "category":"Transportation",
+  "category_desc":"Initiatives to support an accessible multimodal transportation system that gets Bostonians where they need to go reliably and safely.",
+  "department":"Public Works Department",
+  "file_version":"",
+  "location":"Citywide",
+  "managing_department":"Public Works Department",
+  "mission":"Various sidewalk and pedestrian ramp repairs and reconstruction.",
+  "name":"Sidewalk Reconstruction",
+  "operating_impact":"No",
+  "section_id":"CPW24534",
+  "section_type":"projects",
+  "section_type_short":"R",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Adopted~Publish 19 Adopted~JSON Output~_source~fy19_adopted~json~_projects~public-works-department~sidewalk-reconstruction.json",
+  "source_time":"20180823094139",
+  "source_year":"19",
+  "status":"Annual Program",
+  "expenditures_detail":{
+    "table_title":"Expenditures (Actual and Planned)",
+    "table_header":{
+      "line_type":"header",
+      "line_title":null,
+      "line_data_type":"string",
+      "source":"Source",
+      "past_spending":"Through 6/30/17",
+      "fy-1":"FY18 Budget",
+      "fy-0":"FY19 Budget",
+      "fy+1-4":"FY20-23 Budget",
+      "total":"Total"
+    },
+    "data":[
+      {
+        "line_type":"data",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"City Capital",
+        "past_spending":1618035,
+        "fy-1":931965,
+        "fy-0":2500000,
+        "fy+1-4":3000000,
+        "total":8050000
+      },
+      {
+        "line_type":"data",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"Grants/Other",
+        "past_spending":4319499,
+        "fy-1":5000000,
+        "fy-0":4500000,
+        "fy+1-4":19180501,
+        "total":33000000
+      },
+      {
+        "line_type":"total",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"Totals",
+        "past_spending":5937534,
+        "fy-1":5931965,
+        "fy-0":7000000,
+        "fy+1-4":22180501,
+        "total":41050000
+      }
+    ],
+    "authorizations_table":{
+      "table_title":"Authorizations",
+      "table_header":{
+        "line_type":"header",
+        "line_title":null,
+        "line_data_type":"string",
+        "source":"Source",
+        "existing":"Existing",
+        "fy-0":"FY19",
+        "fy-0++":"Future",
+        "other":"Non Capital Fund",
+        "total":"Total"
+      },
+      "data":[
+        {
+          "line_type":"data",
+          "line_title":null,
+          "line_data_type":"number",
+          "source":"City Capital",
+          "existing":2550000,
+          "fy-0":4000000,
+          "fy-0++":1500000,
+          "other":0,
+          "total":8050000
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "line_data_type":"number",
+          "source":"Grants/Other",
+          "existing":15500000,
+          "fy-0":4500000,
+          "fy-0++":13000000,
+          "other":0,
+          "total":33000000
+        },
+        {
+          "line_type":"total",
+          "line_title":"Totals",
+          "line_data_type":"number",
+          "source":"Totals",
+          "existing":18050000,
+          "fy-0":8500000,
+          "fy-0++":14500000,
+          "other":0,
+          "total":41050000
+        }
+      ]
+    }
+  }
+}
+---

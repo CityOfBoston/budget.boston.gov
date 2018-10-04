@@ -1,0 +1,227 @@
+---
+{
+  "debug":"JCB",
+  "cabinet":"Health & Human Services",
+  "department":null,
+  "file_version":"",
+  "head_name":"Marty Martinez",
+  "head_title":"Chief of Human Services",
+  "name":"Health & Human Services",
+  "parent":"root",
+  "section_id":9,
+  "section_md5_id":"45C48CCE2E2D7FBDEA1AFC51C7C6AD26",
+  "section_type":"cabinet",
+  "section_type_short":"C",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~health-and-human-services.json",
+  "source_time":"20180823094151",
+  "source_year":"19",
+  "mission":[
+    "The Health and Human Services Cabinet is committed to promoting the health and well-being of the City's residents particularly the most vulnerable. The provision of social, recreational, health and support services to city residents, particularly the homeless, persons with disabilities, women, the elderly, youth, immigrants and veterans, will be coordinated and made available in a customer-friendly and culturally sensitive manner. The Cabinet enforces all antidiscrimination laws and protections under the jurisdiction of the City, and advocates for the advancement of policies and legislation to address the needs of individuals and groups, supports disease and injury prevention, delivers emergency health services and health education and promotion services within the City."
+  ],
+  "overview":[
+    "Overall, the FY19 appropriation for the Health & Human Services Cabinet will increase by 3.9%. The cabinet&rsquo;s work to promote the health and well-being of the City's residents, particularly its most vulnerable, is essential to creating a thriving, healthy, and innovative Boston.",
+    "Boston Centers for Youth and Families&rsquo; (BCYF) FY19 budget will decrease 3.3% from FY18, before accounting for a one-time $2 million grant for the Jackson Square Youth Center in FY18. After subtracting this one-time investment, the Department budget will increase by 4% to fully support the activities of 36 community centers. The FY19 budget includes a $103,000 investment to support the reopening of the Marshall Community Center with two new lifeguards and a building manager. The FY19 budget also funds a $100,000 investment in the violence interrupter program to better prevent youth violence across the City. Other new investments in the FY19 budget include two new additional positions to accommodate opening the Condon Community Center on Saturdays, and $15,000 to support the Department's Office of Food Initiatives&rsquo; efforts to better inform the public of the availability of fresh healthy food at the many farmers markets across the city. ",
+    "The Department&rsquo;s budget also continues to provide grants to local nonprofits supporting after-school youth activities, sports, and academic study programs. Additionally BCYF runs both winter and summer Camp Joy programs with structured enriching activities for children and young adults with special needs. This program includes group games, swimming, adaptive sports, arts and crafts, and field trips. It connects participants and their families to new opportunities and valuable community resources as well as provides door to door transportation. ",
+    "The Elderly Commission&rsquo;s budget is growing by 3.8% in FY19. As part of its age-friendly communication strategy, the commission will re-brand the department&rsquo;s name to reach the emergency populations that can benefit from their services. New operating funding has been added to support elder nutrition to meet the demand in preventing malnutrition for seniors and to backfill for declining state and federal resources.",
+    "The Boston Public Health Commission (BPHC) serves as the City&rsquo;s health department and provides:",
+    "emergency medical services (EMS);",
+    "substance abuse prevention and treatment programs;",
+    "community health programming;",
+    "infectious disease surveillance;",
+    "shelter, food, and advocacy for homeless individuals; and",
+    "home and school based health services for children and families. ",
+    "In FY19, BPHC&rsquo;s appropriation will increase by 6.8%, with investments targeting important areas of the City&rsquo;s public health system: emergency medical services (EMS), trauma response and substance abuse services. Unlike most City departments, BPHC&rsquo;s appropriation includes health insurance, pension and other post-employment benefits (OPEB).",
+    "The FY19 budget includes resources for BPHC&rsquo;s EMS to add more EMTs to their existing workforce. The increase will allow them to better meet the demands of a growing population and improve their capacity to provide a quick response to urgent calls city-wide. EMS will continue the Community Assistance Team program started in FY18, which uses response vehicles to triage ambulance call types that ultimately do not require ambulance transports in parts of the City with concentrations of people who are homeless or who have substance abuse issues.",
+    "Outside the investment in EMS, BPHC will also increase supports for substance abuse prevention and treatment through the full funding of the Engagement Center in FY19. BPHC will also increase support to their existing 5 Neighborhood Trauma Teams and add an additional team in a high-need area. The department will have more resources to provide substance abuse prevention support to youth and continue programming that encourages youth to build healthy behaviors and relationships. ",
+    "The FY19 budget for the Boston Office of Veterans Engagement, Transition, and Services (Boston VETS) includes a small decrease of less than 1% from the FY18 budget. In FY19, Boston VETS plans to engage and serve hundreds of veterans through their outreach programs which include decorating Hero Squares, providing financial assistance to veterans, and organizing volunteers to thank Boston veterans. ",
+    "The budget for Youth Engagement and Employment will increase by 3.4% in FY19 based on a full year of funding for the summer and school year jobs programs. Funding will continue to support a successful partnership with community-based organizations and, when combined with anticipated state funds, will provide an estimated 3,300 summer jobs. The Department will also work year round to support youth through the Mayor&rsquo;s Youth Council and provide for 500 school-year jobs."
+  ],
+  "operating_department":{
+    "table_type":"operating_department",
+    "table_title":"Operating Budget",
+    "Program Name":"Department",
+    "line_type":"title",
+    "fy-2":"FY16 Actual",
+    "fy-1":"FY17 Actual",
+    "fy-0":"FY18 Budget",
+    "fy+1":"FY19 Budget",
+    "data":[
+      {
+        "department":"Boston Centers for Youth & Families",
+        "line_type":"data",
+        "fy-2":24917747,
+        "fy-1":26016856,
+        "fy-0":28232985,
+        "fy+1":27295312
+      },
+      {
+        "department":"Boston VETS",
+        "line_type":"data",
+        "fy-2":3948303,
+        "fy-1":3283251,
+        "fy-0":4730047,
+        "fy+1":4692133
+      },
+      {
+        "department":"Commission for Persons With Disabilities",
+        "line_type":"data",
+        "fy-2":287325,
+        "fy-1":369747,
+        "fy-0":436618,
+        "fy+1":473338
+      },
+      {
+        "department":"Elderly Commission",
+        "line_type":"data",
+        "fy-2":3071890,
+        "fy-1":3221047,
+        "fy-0":3596083,
+        "fy+1":3734042
+      },
+      {
+        "department":"Fair Housing & Equity",
+        "line_type":"data",
+        "fy-2":160430,
+        "fy-1":257639,
+        "fy-0":283727,
+        "fy+1":302905
+      },
+      {
+        "department":"Office for Immigrant Advancement",
+        "line_type":"data",
+        "fy-2":381363,
+        "fy-1":399809,
+        "fy-0":439937,
+        "fy+1":471916
+      },
+      {
+        "department":"Public Health Commission",
+        "line_type":"data",
+        "fy-2":76155435,
+        "fy-1":77267200,
+        "fy-0":79563339,
+        "fy+1":84977529
+      },
+      {
+        "department":"Youth Engagement & Employment",
+        "line_type":"data",
+        "fy-2":5759934,
+        "fy-1":5221595,
+        "fy-0":6331229,
+        "fy+1":6547352
+      },
+      {
+        "total":"Total",
+        "line_type":"total",
+        "fy-2":114682427,
+        "fy-1":116037144,
+        "fy-0":123613965,
+        "fy+1":128494527
+      }
+    ],
+    "capital_budget_expenditures":[
+      {
+        "table_type":"capital_budget_expenditures",
+        "table_title":"Capital Budget Expenditures",
+        "table_header":{
+          "title":"Capital Budget Expenditures",
+          "line_type":"header",
+          "fy-2":"FY16 Actual",
+          "fy-1":"FY17 Actual",
+          "fy-0":"FY18 Estimated",
+          "fy+1":"FY19 Projected"
+        },
+        "data":[
+          {
+            "title":"Boston Centers for Youth & Families",
+            "line_type":"data",
+            "fy-2":2631712,
+            "fy-1":8888123,
+            "fy-0":10483248,
+            "fy+1":5752278
+          },
+          {
+            "title":"Public Health Commission",
+            "line_type":"data",
+            "fy-2":13212794,
+            "fy-1":1045072,
+            "fy-0":1016115,
+            "fy+1":1907016
+          },
+          {
+            "title":"Total",
+            "line_type":"total",
+            "fy-2":15844506,
+            "fy-1":9933195,
+            "fy-0":11499363,
+            "fy+1":7659294
+          }
+        ]
+      }
+    ]
+  },
+  "external_funds_tables":{
+    "table_type":"external_funds",
+    "table_title":"external_funds",
+    "table_header":{
+      "title":"Department",
+      "line_type":"header",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    "data":[
+      {
+        "title":"Boston Centers for Youth & Families",
+        "line_type":"data",
+        "fy-2":1978788,
+        "fy-1":1849657,
+        "fy-0":2430812,
+        "fy+1":1435235
+      },
+      {
+        "title":"Elderly Commission",
+        "line_type":"data",
+        "fy-2":6915256,
+        "fy-1":6580518,
+        "fy-0":7047536,
+        "fy+1":6643280
+      },
+      {
+        "title":"Fair Housing & Equity",
+        "line_type":"data",
+        "fy-2":940185,
+        "fy-1":586606,
+        "fy-0":690272,
+        "fy+1":807360
+      },
+      {
+        "title":"Office for Immigrant Advancement",
+        "line_type":"data",
+        "fy-2":273412,
+        "fy-1":426506,
+        "fy-0":346663,
+        "fy+1":340554
+      },
+      {
+        "title":"Youth Engagement & Employment",
+        "line_type":"data",
+        "fy-2":995382,
+        "fy-1":1065351,
+        "fy-0":1171155,
+        "fy+1":1171155
+      },
+      {
+        "total":"Total Cabinet",
+        "line_type":"total",
+        "fy-2":11103023,
+        "fy-1":10508638,
+        "fy-0":11686438,
+        "fy+1":10397584
+      }
+    ]
+  }
+}
+---

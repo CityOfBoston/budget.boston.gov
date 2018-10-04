@@ -1,0 +1,205 @@
+---
+{
+  "debug":"JBD",
+  "publish_subordinates":true,
+  "file_version":"",
+  "section_id":59,
+  "section_md5_id":"093F65E080A295F8076B1C5722A46AA2",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Adopted~Publish 19 Adopted~JSON Output~_source~fy19_adopted~json~_departments~Health and Human Services~office-for-immigrant-advancement.json",
+  "source_time":"20180823094158",
+  "source_year":"19",
+  "name":"Office for Immigrant Advancement",
+  "parent":"Health & Human Services",
+  "cabinet":"Health & Human Services",
+  "department":"Office for Immigrant Advancement",
+  "head_name":"Alejandra St. Guillen",
+  "head_title":"Director",
+  "appropriation_code":"Appropriation 113",
+  "mission":[
+    "The mission of the Office for Immigrant Advancement is to strengthen the ability of immigrants, and the diverse cultural and linguistic communities of which they are a part, to fully participate in the economic, civic, social, and cultural life of the City of Boston, and to promote the commemoration and public understanding of the contributions of immigrants."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Immigrant Advancement",
+      "debug":"JCO",
+      "strategies":[
+        "Empowerment-develop resources to build and strengthen immigrant organizations capacity",
+        "Engagement-Provide access to immigration information and community resources; Promote diversity and inclusiveness",
+        "Immigrant integration - Collaboration with city departments to improve access to city services"
+      ]
+    }
+  ],
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    "data":[
+      {
+        "name":"Immigrant Advancement",
+        "line_type":"data",
+        "fy-2":381363,
+        "fy-1":399809,
+        "fy-0":439937,
+        "fy+1":471916,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":381363,
+        "fy-1":399809,
+        "fy-0":439937,
+        "fy+1":471916
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":366514,
+      "fy-1":348469,
+      "fy-0":406737,
+      "fy+1":433666
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":14849,
+      "fy-1":51340,
+      "fy-0":33200,
+      "fy+1":38250
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":381363,
+      "fy-1":399809,
+      "fy-0":439937,
+      "fy+1":471916
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":366514,
+        "fy-1":348469,
+        "fy-0":406737,
+        "fy+1":433666,
+        "diff":26929
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":9053,
+        "fy-1":42088,
+        "fy-0":27600,
+        "fy+1":31300,
+        "diff":3700
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":5281,
+        "fy-1":6184,
+        "fy-0":4700,
+        "fy+1":6000,
+        "diff":1300
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":515,
+        "fy-1":2543,
+        "fy-0":900,
+        "fy+1":950,
+        "diff":50
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":525,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":381363,
+        "fy-1":399809,
+        "fy-0":439937,
+        "fy+1":471916,
+        "diff":31979
+      }
+    ]
+  },
+  "external_funds":[
+    {
+      "project":"DACA-DAPA Outreach Initiative",
+      "project_mission":[
+        "Purpose of funding the Deferred Action for Childhood Arrivals (DACA) & Deferred Action for Parental Accountability (DAPA) Outreach Initiative to provide programs that enable New Bostonians to play an active role in the economic, civic, social and cultural life of the city of Boston."
+      ]
+    },
+    {
+      "project":"Immigrant Integration & Empowerment",
+      "project_mission":[
+        "The Immigrant Integration and Empower Initiative seeks to develop a detailed action plan for all City Departments and launch a citywide media and public relations campaign in mainstream, ethnic, and local media outlets to change the rhetoric about immigrants and maximize engagement and participation, and partner with nonprofits to facilitate four annual &ldquo;Community Leadership Institutes&rdquo; for immigrant communities that offer leadership training on taking a more active role on decision-making bodies and navigating city government services and resources. Funding is provided by the BARR Foundation that totals $262,500 over a time frame of 30 months."
+      ]
+    },
+    {
+      "project":"New Americans Library Corners",
+      "project_mission":[
+        "New Americans Library Corners Initiative, to provide citizenship information, financial empowerment, and legal assistance information, and other crucial programs that enable New Bostonians to play an active role in the economic, civic, social and cultural life of the city of Boston."
+      ]
+    },
+    {
+      "project":"Office of Immigrant Advancement Fund",
+      "project_mission":[
+        "Purpose of funding the Immigrant Integration and Empowerment Initiative, Immigrant Information Corners, Immigration Advice Clinics, Citizenship Day, Mini-grants to Immigrant-led non-profit organizations, the English for New Bostonians Initiative, a city-private-community partnership providing access to English classes, and other crucial programs that enable New Bostonians to play an active role in the economic, civic, social and cultural life of the city of Boston and, to promote the commemoration and public understanding of the contributions of immigrants to become full participants in Boston."
+      ]
+    }
+  ]
+}
+---

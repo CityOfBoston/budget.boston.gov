@@ -1,0 +1,173 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Information & Technology",
+  "department":"Department of Innovation & Technology",
+  "file_version":"",
+  "head_name":"Jeanethe H. Falvey",
+  "head_title":"Manager",
+  "name":"Digital Engagement & Services",
+  "parent":"Department of Innovation & Technology",
+  "section_id":88,
+  "section_md5_id":"2A38A4A9316C49E5A833517C45D31070",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~enterprise-applications.json",
+  "source_time":"20180823094119",
+  "source_year":"19",
+  "appropriation_code":"Organization 149300",
+  "description":[
+    "This program provides constituents access to government from home \"online instead of in line\" through innovative web based eGovernment technologies. It also oversees the City&rsquo;s cable franchise(s) by enforcing contractual and regulatory obligations for the operators, produces government and education access television, and advocates for customers in disputes with cable operators."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":777029,
+      "fy-1":781191,
+      "fy-0":656414,
+      "fy+1":819039
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":129406,
+      "fy-1":342698,
+      "fy-0":700000,
+      "fy+1":825900
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":906435,
+      "fy-1":1123889,
+      "fy-0":1356414,
+      "fy+1":1644939
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":777029,
+        "fy-1":781191,
+        "fy-0":656414,
+        "fy+1":819039,
+        "diff":162625
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":1295,
+        "fy-1":30130,
+        "fy-0":500000,
+        "fy+1":500900,
+        "diff":900
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":128111,
+        "fy-1":312568,
+        "fy-0":200000,
+        "fy+1":325000,
+        "diff":125000
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":906435,
+        "fy-1":1123889,
+        "fy-0":1356414,
+        "fy+1":1644939,
+        "diff":288525
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Improving how the City interacts with constituents"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Customer Satisfaction of boston.gov",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"74",
+              "fy+1":"100"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Response time on constituent feedback",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"99",
+              "fy+1":"80"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

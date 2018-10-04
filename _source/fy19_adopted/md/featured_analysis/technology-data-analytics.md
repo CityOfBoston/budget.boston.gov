@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Putting Data Analytics to Work
-  - published: 4/11/18
+  - published: 7/1/18
 - intro:
   - title: Putting data analytics to work
     short_desc: >

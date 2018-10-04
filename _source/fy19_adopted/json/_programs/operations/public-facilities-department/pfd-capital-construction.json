@@ -1,0 +1,221 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Operations",
+  "department":"Public Facilities Department",
+  "file_version":"",
+  "head_name":"Patricia M. Lyons",
+  "head_title":"Manager",
+  "name":"PFD Capital Construction",
+  "parent":"Public Facilities Department",
+  "section_id":3,
+  "section_md5_id":"ECCBC87E4B5CE2FE28308FD9F2A7BAF3",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~.json",
+  "source_time":"20180823094053",
+  "source_year":"19",
+  "appropriation_code":"Organization 181100",
+  "description":[
+    "The Capital Construction program is responsible for the renovation, repair and new construction of City-owned facilities. The program provides professional planning, design and construction management services for capital funded projects at 370 City facilities."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":5141970,
+      "fy-0":5400282,
+      "fy+1":6474592
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":0,
+      "fy-1":152882,
+      "fy-0":318248,
+      "fy+1":298079
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":0,
+      "fy-1":5294852,
+      "fy-0":5718530,
+      "fy+1":6772671
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":5141970,
+        "fy-0":5400282,
+        "fy+1":6474592,
+        "diff":1074310
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":85481,
+        "fy-0":251785,
+        "fy+1":246935,
+        "diff":-4850
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":20415,
+        "fy-0":42225,
+        "fy+1":40508,
+        "diff":-1717
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":9470,
+        "fy-0":17000,
+        "fy+1":4836,
+        "diff":-12164
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":37516,
+        "fy-0":7238,
+        "fy+1":5800,
+        "diff":-1438
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":0,
+        "fy-1":5294852,
+        "fy-0":5718530,
+        "fy+1":6772671,
+        "diff":1054141
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Accelerate front end administration of projects, thereby helping projects stay on schedule"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Average time for designer selection",
+              "fy-2":"",
+              "fy-1":"6",
+              "fy-0":"8",
+              "fy+1":"8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Accurately estimate construction costs and yearly escalation"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of bids awarded within 15% of estimate",
+              "fy-2":"",
+              "fy-1":"66.6%",
+              "fy-0":"65%",
+              "fy+1":"65%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Keep change order costs under control, keeping projects on budget"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of closed-out projects where change orders total less than 10% of the original contract price, including elective change orders",
+              "fy-2":"",
+              "fy-1":"83.4%",
+              "fy-0":"65%",
+              "fy+1":"65%"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

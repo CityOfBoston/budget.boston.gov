@@ -1,0 +1,173 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Administration & Finance",
+  "department":"Human Resources",
+  "file_version":"",
+  "head_name":"Kerry Gillian Nero",
+  "head_title":"Manager",
+  "name":"Workers Comp",
+  "parent":"Human Resources",
+  "section_id":117,
+  "section_md5_id":"EB160DE1DE89D9058FCB0B968DBBBD68",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~.json",
+  "source_time":"20180823094108",
+  "source_year":"19",
+  "appropriation_code":"Organization 142500",
+  "description":[
+    "The Workers' Compensation Program implements all procedures for the processing of workers' compensation claims and approved medical and related bills.  It also distributes workers' compensation information and statistics to City departments and works with the Law Department to develop legal strategies to resolve workers' compensation cases in an appropriate manner."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":881158,
+      "fy-1":767769,
+      "fy-0":796893,
+      "fy+1":682045
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":43824,
+      "fy-1":62778,
+      "fy-0":57013,
+      "fy+1":81750
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":924982,
+      "fy-1":830547,
+      "fy-0":853906,
+      "fy+1":763795
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":881158,
+        "fy-1":767769,
+        "fy-0":796893,
+        "fy+1":682045,
+        "diff":-114848
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":11672,
+        "fy-1":26711,
+        "fy-0":16800,
+        "fy+1":42800,
+        "diff":26000
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":8261,
+        "fy-1":7093,
+        "fy-0":9500,
+        "fy+1":9000,
+        "diff":-500
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":23166,
+        "fy-1":28974,
+        "fy-0":30713,
+        "fy+1":29950,
+        "diff":-763
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":725,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":924982,
+        "fy-1":830547,
+        "fy-0":853906,
+        "fy+1":763795,
+        "diff":-90111
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Adoption of Case Management Approach in Workers Comp Unit"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of Cases Covered by the New Comprehensive Case Management Process",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"96%",
+              "fy+1":"100%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"% of Medical Provider Invoices Reviewed",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"100%",
+              "fy+1":"100%"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

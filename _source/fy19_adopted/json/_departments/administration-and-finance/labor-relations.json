@@ -1,0 +1,180 @@
+---
+{
+  "debug":"JBD",
+  "publish_subordinates":true,
+  "file_version":"",
+  "section_id":27,
+  "section_md5_id":"02E74F10E0327AD868D138F2B4FDD6F0",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Adopted~Publish 19 Adopted~JSON Output~_source~fy19_adopted~json~_departments~Administration and Finance~labor-relations.json",
+  "source_time":"20180823094109",
+  "source_year":"19",
+  "name":"Labor Relations",
+  "parent":"Administration & Finance",
+  "cabinet":"Administration & Finance",
+  "department":"Labor Relations",
+  "head_name":"Ann Marie Noonan",
+  "head_title":"Director",
+  "appropriation_code":"Appropriation 147",
+  "mission":[
+    "The mission of the Office of Labor Relations is to create and promote a productive work environment that fosters an efficient and effective relationship between labor and management."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Labor Relations",
+      "debug":"JCO",
+      "strategies":[
+        "To negotiate labor contracts and meet other bargaining obligations with the City's labor unions"
+      ]
+    }
+  ],
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    "data":[
+      {
+        "name":"Labor Relations",
+        "line_type":"data",
+        "fy-2":1310607,
+        "fy-1":1355745,
+        "fy-0":1439006,
+        "fy+1":1446748,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":1310607,
+        "fy-1":1355745,
+        "fy-0":1439006,
+        "fy+1":1446748
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":724732,
+      "fy-1":769195,
+      "fy-0":839954,
+      "fy+1":856056
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":585875,
+      "fy-1":586550,
+      "fy-0":599052,
+      "fy+1":590692
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1310607,
+      "fy-1":1355745,
+      "fy-0":1439006,
+      "fy+1":1446748
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Duties of Supervisor of Labor Relations, CBC Ord. 5, s. 4."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":724732,
+        "fy-1":769195,
+        "fy-0":839954,
+        "fy+1":856056,
+        "diff":16102
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":549426,
+        "fy-1":544626,
+        "fy-0":561759,
+        "fy+1":551838,
+        "diff":-9921
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":3986,
+        "fy-1":2724,
+        "fy-0":4350,
+        "fy+1":3700,
+        "diff":-650
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":27175,
+        "fy-1":39200,
+        "fy-0":32943,
+        "fy+1":35154,
+        "diff":2211
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":5288,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":1310607,
+        "fy-1":1355745,
+        "fy-0":1439006,
+        "fy+1":1446748,
+        "diff":7742
+      }
+    ]
+  }
+}
+---

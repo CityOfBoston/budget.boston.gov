@@ -1,0 +1,135 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Public Safety",
+  "department":"Fire Department",
+  "file_version":"",
+  "head_name":"Stephen Keeley",
+  "head_title":"Manager",
+  "name":"Fire Alarm",
+  "parent":"Fire Department",
+  "section_id":111,
+  "section_md5_id":"698D51A19D8A121CE581499D7B701668",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~boston-fire-suppression.json",
+  "source_time":"20180823094122",
+  "source_year":"19",
+  "appropriation_code":"Organization 221300",
+  "description":[
+    "The Fire Alarm Program is responsible for receiving alarms, dispatching apparatus, and control and movement of appropriate personnel and equipment.  The program also monitors the status of all firefighting companies and is responsible for all communications, radios, electrical equipment, and appliances in the department."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":7122497,
+      "fy-1":7452484,
+      "fy-0":7943612,
+      "fy+1":8115048
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":1937572,
+      "fy-1":1806457,
+      "fy-0":2138257,
+      "fy+1":2974861
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":9060069,
+      "fy-1":9258941,
+      "fy-0":10081869,
+      "fy+1":11089909
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":7122497,
+        "fy-1":7452484,
+        "fy-0":7943612,
+        "fy+1":8115048,
+        "diff":171436
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":1038193,
+        "fy-1":1013008,
+        "fy-0":1214325,
+        "fy+1":1630424,
+        "diff":416099
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":131063,
+        "fy-1":150324,
+        "fy-0":216800,
+        "fy+1":208226,
+        "diff":-8574
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":432138,
+        "fy-1":252535,
+        "fy-0":291587,
+        "fy+1":256492,
+        "diff":-35095
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":336178,
+        "fy-1":390590,
+        "fy-0":415545,
+        "fy+1":879719,
+        "diff":464174
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":9060069,
+        "fy-1":9258941,
+        "fy-0":10081869,
+        "fy+1":11089909,
+        "diff":1008040
+      }
+    ]
+  }
+}
+---

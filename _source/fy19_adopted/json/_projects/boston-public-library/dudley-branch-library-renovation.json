@@ -1,0 +1,119 @@
+---
+{
+  "category":"Arts & Culture",
+  "category_desc":"Initiatives to support a thriving, diverse arts and culture ecosystem throughout the city.",
+  "department":"Boston Public Library",
+  "file_version":"",
+  "location":"Roxbury",
+  "managing_department":"Public Facilities Department",
+  "mission":"A comprehensive building renovation will enrich library services and visitor experience through improved spatial definition, a fully accessible facility, improved signage and greater energy efficiency.",
+  "name":"Dudley Branch Library Renovation",
+  "operating_impact":"No",
+  "section_id":"CLD23928",
+  "section_type":"projects",
+  "section_type_short":"R",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Adopted~Publish 19 Adopted~JSON Output~_source~fy19_adopted~json~_projects~boston-public-library~dudley-branch-library-renovation.json",
+  "source_time":"20180823094045",
+  "source_year":"19",
+  "status":"In Construction",
+  "expenditures_detail":{
+    "table_title":"Expenditures (Actual and Planned)",
+    "table_header":{
+      "line_type":"header",
+      "line_title":null,
+      "line_data_type":"string",
+      "source":"Source",
+      "past_spending":"Through 6/30/17",
+      "fy-1":"FY18 Budget",
+      "fy-0":"FY19 Budget",
+      "fy+1-4":"FY20-23 Budget",
+      "total":"Total"
+    },
+    "data":[
+      {
+        "line_type":"data",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"City Capital",
+        "past_spending":327211,
+        "fy-1":4000000,
+        "fy-0":6770000,
+        "fy+1-4":505415,
+        "total":11602626
+      },
+      {
+        "line_type":"data",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"Grants/Other",
+        "past_spending":0,
+        "fy-1":1500000,
+        "fy-0":4097374,
+        "fy+1-4":0,
+        "total":5597374
+      },
+      {
+        "line_type":"total",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"Totals",
+        "past_spending":327211,
+        "fy-1":5500000,
+        "fy-0":10867374,
+        "fy+1-4":505415,
+        "total":17200000
+      }
+    ],
+    "authorizations_table":{
+      "table_title":"Authorizations",
+      "table_header":{
+        "line_type":"header",
+        "line_title":null,
+        "line_data_type":"string",
+        "source":"Source",
+        "existing":"Existing",
+        "fy-0":"FY19",
+        "fy-0++":"Future",
+        "other":"Non Capital Fund",
+        "total":"Total"
+      },
+      "data":[
+        {
+          "line_type":"data",
+          "line_title":null,
+          "line_data_type":"number",
+          "source":"City Capital",
+          "existing":11602626,
+          "fy-0":0,
+          "fy-0++":0,
+          "other":0,
+          "total":11602626
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "line_data_type":"number",
+          "source":"Grants/Other",
+          "existing":5597374,
+          "fy-0":0,
+          "fy-0++":0,
+          "other":0,
+          "total":5597374
+        },
+        {
+          "line_type":"total",
+          "line_title":"Totals",
+          "line_data_type":"number",
+          "source":"Totals",
+          "existing":17200000,
+          "fy-0":0,
+          "fy-0++":0,
+          "other":0,
+          "total":17200000
+        }
+      ]
+    }
+  }
+}
+---

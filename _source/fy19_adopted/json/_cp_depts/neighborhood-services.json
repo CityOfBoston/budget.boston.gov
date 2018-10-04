@@ -1,0 +1,46 @@
+---
+{
+  "cabinet":"Civic Engagement",
+  "debug":"JBDCP",
+  "department":"Neighborhood Services",
+  "file_version":"",
+  "head_name":"Jerome Smith",
+  "head_title":"Chief of Civic Engagement",
+  "name":"Neighborhood Services",
+  "parent":"Civic Engagement",
+  "section_id":43,
+  "section_md5_id":"17E62166FC8586DFA4D1BC0E1742C08B",
+  "section_type":"capital_budget",
+  "section_type_short":"L",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Adopted~Publish 19 Adopted~JSON Output~_source~fy19_adopted~json~_cp_depts~neighborhood-services.json",
+  "source_time":"20180823094048",
+  "source_year":"19",
+  "mission":[
+    "The Mayor's Office of Neighborhood Services (ONS) encourages, facilitates and maximizes citizen input and participation in all aspects of government through service requests, neighborhood meetings, mailings, and emergency responses. Also included in ONS is the Mobile City Hall to Go truck that visits Boston&rsquo;s neighborhoods offering a select menu of services directly to constituents. The Boston 311 Program provides a wide-ranging information and referral function as well as coordinates emergency response after business hours. The program also responds to citizens&rsquo; requests for service through direct interaction with City departments."
+  ],
+  "description_of_services":[
+    "The Office of Neighborhood Services invites community involvement in municipal government across the wide spectrum of its programs. Neighborhood Services provides a forum for both groups and individuals to express concerns, request services, and extend opinions, while serving to disseminate information and facilitate delivery of City services. The City Hall to Go truck offers a select menu of city services to all Boston&rsquo;s neighborhoods. The Boston 311 Program provides a wide-ranging information and referral function as well as coordinates emergency response after business hours. The program also responds to citizens&rsquo; requests for service through direct interaction with City departments."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Neighborhood Serv",
+      "strategies":[
+        "Increase public access to city services."
+      ]
+    },
+    {
+      "program":"City Hall to Go",
+      "strategies":[
+        "Increase public access to city services."
+      ]
+    },
+    {
+      "program":"Boston 311",
+      "strategies":[
+        "Maintain a high level of constituent service."
+      ]
+    }
+  ]
+}
+---

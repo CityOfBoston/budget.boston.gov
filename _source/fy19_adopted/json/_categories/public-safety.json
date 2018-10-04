@@ -1,0 +1,315 @@
+---
+{
+  "file_version":"",
+  "name":"Public Safety",
+  "section_type":"Capital Budget",
+  "section_type_short":"L",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Adopted~Publish 19 Adopted~JSON Output~_source~fy19_adopted~json~_categories~public-safety.json",
+  "source_time":"20180823094210",
+  "source_year":"19",
+  "description":[
+    "Initiatives to support infrastructure and equipment utilized by Boston's first responders."
+  ],
+  "vol1_category_copy":[
+    "As part of the Imagine Boston 2030 initiative to reduce cancer risks for firefighters, the Capital Plan includes health and safety improvements to firehouse projects. The Fire Department, in conjunction with the Public Facilities Department, studied best practices for firehouse design and will now utilize an enhanced set of building programs for new and renovated firehouses. Key changes include separating areas of the firehouse to prevent contamination of living areas, and improves personal and gear cleaning facilities. The new stations for Engine 42 and Engine 17 will be among the first firehouses in the nation to reflect these enhancements. The City is also renovating neighborhood existing fire and police stations. In East Boston, construction is expected to begin on a new police station, a $29.9 million project that will replace the existing A-7 station.",
+    "In 2016, the City launched an accelerated fire apparatus replacement plan, which will replace nearly 50 percent of the fleet by the end of 2019. In FY17, the department purchased 16 new fire trucks to replace a series of apparatus with known mechanical issues and improve public safety by increasing the number of apparatus in the reserve fleet. In FY18, the Fire Department purchased nine pumper trucks, three ladders, and one tower ladder. The plan will continue with the purchase of three pumpers, three ladder trucks, and one tower ladder in FY19.",
+    "The Police Department is upgrading and replacing its radio system to support our police officers. The project will include $56 million in operating and capital investments over four years. To research future radio needs for other public safety and civilian departments, DoIT will continue a feasibility study to determine the most cost effective and efficient way to expand and sustain the infrastructure that supports the radio systems of multiple City departments."
+  ],
+  "projects":[
+    {
+      "table_type":"capital_projects_by_department",
+      "table_title":"Capital Projects by Department",
+      "header":{
+        "debug":"JCCPBYD",
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "category":"Department",
+        "name":"Project",
+        "location":"Location",
+        "status":"Status",
+        "fy-0":"FY19 Projected",
+        "project_title":"Total"
+      },
+      "projects_data":[
+        {
+          "Emergency Management":[
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1500000,
+              "fy-0":50000,
+              "category":"Public Safety",
+              "name":"Emergency Operations Center",
+              "location":"N/A",
+              "status":"To Be Scheduled",
+              "operating_impact":"No"
+            }
+          ]
+        },
+        {
+          "Fire Department":[
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":24700000,
+              "fy-0":1250000,
+              "category":"Public Safety",
+              "name":"Engine 17",
+              "location":"Dorchester",
+              "status":"To Be Scheduled",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":800000,
+              "fy-0":0,
+              "category":"Public Safety",
+              "name":"Engine 33",
+              "location":"Back Bay",
+              "status":"To Be Scheduled",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":23560000,
+              "fy-0":4454624,
+              "category":"Public Safety",
+              "name":"Engine 42",
+              "location":"Roxbury",
+              "status":"In Design",
+              "operating_impact":"Yes"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":2175000,
+              "fy-0":852524,
+              "category":"Public Safety",
+              "name":"Engine 5",
+              "location":"East Boston",
+              "status":"In Construction",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":3810000,
+              "fy-0":2000000,
+              "category":"Public Safety",
+              "name":"Engine 50",
+              "location":"Charlestown",
+              "status":"In Construction",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":4950000,
+              "fy-0":4950000,
+              "category":"Public Safety",
+              "name":"Fire Equipment FY19",
+              "location":"Citywide",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":11731000,
+              "fy-0":0,
+              "category":"Public Safety",
+              "name":"Fire Equipment FY20-FY23",
+              "location":"Citywide",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1600000,
+              "fy-0":710000,
+              "category":"Public Safety",
+              "name":"Roof and Masonry Repairs at Engine 4, 14 and 55",
+              "location":"Various neighborhoods",
+              "status":"In Construction",
+              "operating_impact":"No"
+            }
+          ]
+        },
+        {
+          "Neighborhood Development":[
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1500000,
+              "fy-0":750000,
+              "category":"Public Safety",
+              "name":"Security Cameras at BHA",
+              "location":"Various neighborhoods",
+              "status":"New Project",
+              "operating_impact":"No"
+            }
+          ]
+        },
+        {
+          "Police Department":[
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":2500000,
+              "fy-0":2300000,
+              "category":"Public Safety",
+              "name":"Area A-1 and Area D-4 Stations",
+              "location":"Various neighborhoods",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":560000,
+              "fy-0":485000,
+              "category":"Public Safety",
+              "name":"Area B-3 Roof Replacement",
+              "location":"Mattapan",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":360000,
+              "fy-0":310000,
+              "category":"Public Safety",
+              "name":"Area D-14 Station",
+              "location":"Allston/Brighton",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":500000,
+              "fy-0":450000,
+              "category":"Public Safety",
+              "name":"Area E-5 Roof Replacement",
+              "location":"West Roxbury",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":714000,
+              "fy-0":560000,
+              "category":"Public Safety",
+              "name":"Area E-5 Station",
+              "location":"West Roxbury",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":48000000,
+              "fy-0":13600000,
+              "category":"Public Safety",
+              "name":"Communications Infrastructure Upgrades",
+              "location":"Citywide",
+              "status":"Implementation Underway",
+              "operating_impact":"Yes"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":29900000,
+              "fy-0":5500000,
+              "category":"Public Safety",
+              "name":"East Boston Police Station",
+              "location":"East Boston",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":50000,
+              "fy-0":50000,
+              "category":"Public Safety",
+              "name":"Emergency 9-1-1 Backup Study",
+              "location":"Various neighborhoods",
+              "status":"To Be Scheduled",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":75000,
+              "fy-0":75000,
+              "category":"Public Safety",
+              "name":"Evidence/Archives/Central Supply Study",
+              "location":"N/A",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1970000,
+              "fy-0":860000,
+              "category":"Public Safety",
+              "name":"Police Headquarters Security",
+              "location":"Roxbury",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":2850000,
+              "fy-0":500000,
+              "category":"Public Safety",
+              "name":"Records Management Replacement",
+              "location":"Citywide",
+              "status":"New Project",
+              "operating_impact":"Yes"
+            }
+          ]
+        },
+        {
+          "Public Health Commission":[
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":800000,
+              "fy-0":200000,
+              "category":"Public Safety",
+              "name":"EMS Training Academy",
+              "location":"N/A",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":50000,
+              "fy-0":0,
+              "category":"Public Safety",
+              "name":"EMS Training Academy Study",
+              "location":"N/A",
+              "status":"Study Underway",
+              "operating_impact":"No"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "fy-0":39907148,
+  "total":164655000
+}
+---

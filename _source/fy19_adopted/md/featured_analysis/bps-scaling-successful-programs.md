@@ -6,7 +6,7 @@ card:
   - title: Scaling Successful District-Wide Programs
     body: >
       BPS is investing in initiatives to close opportunity and achievement gaps.
-    img: /img/fa-bps-enrollment.jpg
+    img: /img/fa-bps-performance.jpg
     link: /featured-analysis/bps-scaling-successful-programs
 components:
 - breadcrumbs:
@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Scaling Successful District-Wide Programs
-  - published: 4/11/18
+  - published: 7/1/18
 - intro:
   - title: Scaling Successful District-Wide Programs
     short_desc: >

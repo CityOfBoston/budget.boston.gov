@@ -17,11 +17,11 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: City Services
-  - published: 4/11/18
+  - published: 7/1/18
 - intro:
   - title: City Services
     short_desc: >
-     City Services such as Police, Fire, Public Works, Housing, Public Health, and other central funds are projected to increase by a total of $42.8 million (3.1%). 
+     City Services such as Police, Fire, Public Works, Housing, Public Health, and other central funds are projected to increase by a total of $42.9 million (3.1%). 
     description: >
       Public safety costs are rising by 3.0% in FY19. The appropriation for the Public Health Commission is growing by 6.8% with a significant increase in EMS services and full funding for a permanent engagement center in response to substance issues. 
     sidebar_menu: true
@@ -29,8 +29,8 @@ components:
   - title: Other City departments
     body: >
       <p>The majority of departments had employees who reached agreement on collective bargaining contracts, so department growth reflects those wage and cost of living increases, while outstanding contracts are reserved centrally. 
-      <blockquote>Average department growth is projected to be 3.5% in FY19. </blockquote>
-      Funding for unsettled City and BPS collective bargaining contracts are centralized in a $41 million collective bargaining reserve.</p>
+      <blockquote>Average department growth is projected to be 3.2% in FY19. </blockquote>
+      Funding for unsettled City and BPS collective bargaining contracts are centralized in a $38.4 million collective bargaining reserve.</p>
       <p>To make targeted investments, the City is pursuing 
       smart savings initiatives in the FY19 Budget:</p>
   - col: 

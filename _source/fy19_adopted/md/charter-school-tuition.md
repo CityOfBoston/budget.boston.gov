@@ -17,7 +17,7 @@ components:
     url: "/operating-budget/"
     local: true
   - current: Charter School Tuition
-  - published: 6/30/18
+  - published: 7/1/18
 - intro:
   - title: Charter School Tuition Assessment
     short_desc: >

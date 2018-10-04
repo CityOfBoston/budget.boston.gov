@@ -1,0 +1,165 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Arts & Culture",
+  "department":"Library Department",
+  "file_version":"",
+  "head_name":"David Leonard",
+  "head_title":"President",
+  "name":"Research Services",
+  "parent":"Library Department",
+  "section_id":137,
+  "section_md5_id":"3988C7F88EBCB58C6CE932B957B6F332",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~community-library-services.json",
+  "source_time":"20180823094046",
+  "source_year":"19",
+  "appropriation_code":"Organization 110300",
+  "description":[
+    "The Research Services Program provides and preserves access to information and collections in all fields of knowledge for users at the local, state, and national levels through the assistance of professionally skilled staff.  The program also provides Internet use and wireless access to the Internet."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":1722906,
+      "fy-1":1983446,
+      "fy-0":1703023,
+      "fy+1":1869148
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":4590,
+      "fy-1":6665,
+      "fy-0":0,
+      "fy+1":0
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1727496,
+      "fy-1":1990111,
+      "fy-0":1703023,
+      "fy+1":1869148
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":1722906,
+        "fy-1":1983446,
+        "fy-0":1703023,
+        "fy+1":1869148,
+        "diff":166125
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":4590,
+        "fy-1":6665,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":1727496,
+        "fy-1":1990111,
+        "fy-0":1703023,
+        "fy+1":1869148,
+        "diff":166125
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To provide improved access to programs, services and collections"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Special Collections items in inventory",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"425,000",
+              "fy+1":"500,000"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

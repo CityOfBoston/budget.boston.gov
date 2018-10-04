@@ -1,0 +1,201 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Administration & Finance",
+  "department":"Human Resources",
+  "file_version":"",
+  "head_name":"Vivian Leonard",
+  "head_title":"Manager",
+  "name":"Personnel",
+  "parent":"Human Resources",
+  "section_id":118,
+  "section_md5_id":"5EF059938BA799AAA845E1C2E8A762BD",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~workers-comp.json",
+  "source_time":"20180823094108",
+  "source_year":"19",
+  "appropriation_code":"Organization 142100",
+  "description":[
+    "The Personnel Program provides personnel services to all City departments.  Through Personnel, departments are provided with management systems with which to hire, classify, compensate and promote employees, pursue good labor relations and management practices, provide unemployment benefits and, in each process, have access to relevant records.  The program also carries out a variety of training and assistance programs to encourage and enhance human resource management in the City of Boston."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":1551801,
+      "fy-1":1618361,
+      "fy-0":2030687,
+      "fy+1":2123819
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":198646,
+      "fy-1":214663,
+      "fy-0":738957,
+      "fy+1":1092125
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1750447,
+      "fy-1":1833024,
+      "fy-0":2769644,
+      "fy+1":3215944
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":1551801,
+        "fy-1":1618361,
+        "fy-0":2030687,
+        "fy+1":2123819,
+        "diff":93132
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":47480,
+        "fy-1":71246,
+        "fy-0":135100,
+        "fy+1":131275,
+        "diff":-3825
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":7737,
+        "fy-1":4947,
+        "fy-0":7566,
+        "fy+1":7430,
+        "diff":-136
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":142961,
+        "fy-1":133820,
+        "fy-0":596291,
+        "fy+1":953420,
+        "diff":357129
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":468,
+        "fy-1":4650,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":1750447,
+        "fy-1":1833024,
+        "fy-0":2769644,
+        "fy+1":3215944,
+        "diff":446300
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Enhanced Employee Experience"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of Leave Requests Submitted for Prior Approval",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"59%",
+              "fy+1":"70%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Improved Recruitment Process to Better Meet Needs of COB Departments"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Days from Job Requisition Posting to Candidate Hire",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"70",
+              "fy+1":"50"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Days from PRC Approval to Posted Job Requisition",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"32",
+              "fy+1":"28"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

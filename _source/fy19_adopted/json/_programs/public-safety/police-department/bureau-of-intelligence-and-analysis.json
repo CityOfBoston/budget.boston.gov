@@ -1,0 +1,135 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Public Safety",
+  "department":"Police Department",
+  "file_version":"",
+  "head_name":"Colm P. Lydon",
+  "head_title":"Manager",
+  "name":"Bureau of Intelligence & Analysis",
+  "parent":"Police Department",
+  "section_id":177,
+  "section_md5_id":"96DA2F590CD7246BBDE0051047B0D6F7",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~bureau-of-investigative-services.json",
+  "source_time":"20180823094125",
+  "source_year":"19",
+  "appropriation_code":"Organization 211900",
+  "description":[
+    "It is the mission of the Bureau of Intelligence and Analysis, through the Boston Regional Intelligence Center, to gather information from all sources in a manner consistent with the law and to analyze that information to provide tactical and/or strategic intelligence on the existence, identities, and capabilities of criminal suspects and enterprises generally and, in particular, to further crime prevention and enforcement objectives/priorities identified by the Boston Police Department as well as the communities comprising the Urban Area Security Initiative (UASI): Brookline, Somerville, Quincy, Revere, Chelsea, Winthrop, Cambridge, and Everett. The Bureau of Intelligence and Analysis is comprised of two Divisions, the Homeland Security Division and the Criminal Intelligence and Analysis Division; with an overarching coordination responsibility of being the Boston Regional Intelligence Center and the Department of Homeland Security designated urban fusion center for the Boston UASI region."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":3315013,
+      "fy-1":3415979,
+      "fy-0":3193239,
+      "fy+1":3258905
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":15325,
+      "fy-1":14755,
+      "fy-0":1000,
+      "fy+1":1000
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":3330338,
+      "fy-1":3430734,
+      "fy-0":3194239,
+      "fy+1":3259905
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":3315013,
+        "fy-1":3415979,
+        "fy-0":3193239,
+        "fy+1":3258905,
+        "diff":65666
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":125,
+        "fy-1":288,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":15200,
+        "fy-1":14467,
+        "fy-0":1000,
+        "fy+1":1000,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":3330338,
+        "fy-1":3430734,
+        "fy-0":3194239,
+        "fy+1":3259905,
+        "diff":65666
+      }
+    ]
+  }
+}
+---

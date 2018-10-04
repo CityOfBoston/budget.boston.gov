@@ -1,0 +1,142 @@
+---
+{
+  "debug":"JCB",
+  "cabinet":"Arts & Culture",
+  "department":null,
+  "file_version":"",
+  "head_name":"Kara Elliott-Ortega",
+  "head_title":"Interim Chief of Arts and Culture",
+  "name":"Arts & Culture",
+  "parent":"root",
+  "section_id":20,
+  "section_md5_id":"98F13708210194C475687BE6106A3B84",
+  "section_type":"cabinet",
+  "section_type_short":"C",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~arts-and-culture.json",
+  "source_time":"20180823094040",
+  "source_year":"19",
+  "mission":[
+    "The mission of the Arts & Culture Cabinet is to foster the growth and well-being of the cultural community and promote participation in the arts. Recognizing the importance of creativity across all policy areas, the cabinet seeks to promote access to arts and culture to all the City&rsquo;s residents, and to make Boston a municipal arts leader. The Cabinet includes the Boston Public Library as a city department, and provides oversight and support of the Library&rsquo;s vision and operation."
+  ],
+  "overview":[
+    "In FY19, funding for the Arts and Culture Cabinet will increase by 2.5%. The FY19 budget continues groundbreaking arts investments made in FY17 that are key to implementing Boston Creates, the City&rsquo;s cultural plan, through the planned use of $1.7 million in Boston Planning and Development Agency funding over three years. Boston has also increased operating support for the Percent for Art program, an innovative model to fund public art projects through the City&rsquo;s capital plan, by adding a new project manager to ensure its continued progress.",
+    "The Boston Public Library (BPL) will see a 2.3% increase in FY19. BPL has budgeted additional funding to help support the increased demand for reading materials and library services generally. Also, in an effort to continue to provide high quality library services supported with technology, BPL will continue to refresh computer equipment and IT infrastructure to improve the overall experience for patrons. ",
+    "In addition to the FY19 general fund budget, the BPL has support from a variety of external funds. These sources include the Commonwealth of Massachusetts, Associates of the Boston Public Library, Norman B. Leventhal Map Center, the City-Wide Friends of the Boston Public Library, and each branch friends group. These sources are crucial to the operations of the Library, as they support a variety of different initiatives. "
+  ],
+  "operating_department":{
+    "table_type":"operating_department",
+    "table_title":"Operating Budget",
+    "Program Name":"Department",
+    "line_type":"title",
+    "fy-2":"FY16 Actual",
+    "fy-1":"FY17 Actual",
+    "fy-0":"FY18 Budget",
+    "fy+1":"FY19 Budget",
+    "data":[
+      {
+        "department":"Office of Arts & Culture",
+        "line_type":"data",
+        "fy-2":1274583,
+        "fy-1":1246828,
+        "fy-0":1365830,
+        "fy+1":1489140
+      },
+      {
+        "department":"Library Department",
+        "line_type":"data",
+        "fy-2":34862518,
+        "fy-1":34774810,
+        "fy-0":36030487,
+        "fy+1":36846368
+      },
+      {
+        "total":"Total",
+        "line_type":"total",
+        "fy-2":36137101,
+        "fy-1":36021638,
+        "fy-0":37396317,
+        "fy+1":38335508
+      }
+    ],
+    "capital_budget_expenditures":[
+      {
+        "table_type":"capital_budget_expenditures",
+        "table_title":"Capital Budget Expenditures",
+        "table_header":{
+          "title":"Capital Budget Expenditures",
+          "line_type":"header",
+          "fy-2":"FY16 Actual",
+          "fy-1":"FY17 Actual",
+          "fy-0":"FY18 Estimated",
+          "fy+1":"FY19 Projected"
+        },
+        "data":[
+          {
+            "title":"Office of Arts & Culture",
+            "line_type":"data",
+            "fy-2":0,
+            "fy-1":0,
+            "fy-0":1700000,
+            "fy+1":1800000
+          },
+          {
+            "title":"Library Department",
+            "line_type":"data",
+            "fy-2":37347302,
+            "fy-1":14891807,
+            "fy-0":13768352,
+            "fy+1":26416574
+          },
+          {
+            "title":"Total",
+            "line_type":"total",
+            "fy-2":37347302,
+            "fy-1":14891807,
+            "fy-0":15468352,
+            "fy+1":28216574
+          }
+        ]
+      }
+    ]
+  },
+  "external_funds_tables":{
+    "table_type":"external_funds",
+    "table_title":"external_funds",
+    "table_header":{
+      "title":"Department",
+      "line_type":"header",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    "data":[
+      {
+        "title":"Library Department",
+        "line_type":"data",
+        "fy-2":9617646,
+        "fy-1":9332182,
+        "fy-0":8843340,
+        "fy+1":8738756
+      },
+      {
+        "title":"Office of Arts & Culture",
+        "line_type":"data",
+        "fy-2":119583,
+        "fy-1":466260,
+        "fy-0":1351769,
+        "fy+1":1034669
+      },
+      {
+        "total":"Total Cabinet",
+        "line_type":"total",
+        "fy-2":9737229,
+        "fy-1":9798442,
+        "fy-0":10195109,
+        "fy+1":9773425
+      }
+    ]
+  }
+}
+---

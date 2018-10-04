@@ -1,0 +1,189 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Mayor's Office",
+  "department":"Election Department",
+  "file_version":"",
+  "head_name":"Dion Irish",
+  "head_title":"Manager",
+  "name":"Voter Registration",
+  "parent":"Election Department",
+  "section_id":97,
+  "section_md5_id":"E2EF524FBF3D9FE611D5A8E90FEFDC9C",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~election-administration.json",
+  "source_time":"20180823094058",
+  "source_year":"19",
+  "appropriation_code":"Organization 121300",
+  "description":[
+    "The Voter Registration Program works to promote voting among eligible City of Boston residents in accordance with state laws.  The Voter Registration Program registers voters, maintains accurate and up-to-date lists of registered voters, keeps a master voting list of eligible Boston voters, and provides information to voters about registration and the voting process."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":311176,
+      "fy-1":333652,
+      "fy-0":340253,
+      "fy+1":353042
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":18565,
+      "fy-1":29921,
+      "fy-0":25000,
+      "fy+1":28900
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":329741,
+      "fy-1":363573,
+      "fy-0":365253,
+      "fy+1":381942
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":311176,
+        "fy-1":333652,
+        "fy-0":340253,
+        "fy+1":353042,
+        "diff":12789
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":600,
+        "fy-1":562,
+        "fy-0":7500,
+        "fy+1":8400,
+        "diff":900
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":17965,
+        "fy-1":29359,
+        "fy-0":17500,
+        "fy+1":20500,
+        "diff":3000
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":329741,
+        "fy-1":363573,
+        "fy-0":365253,
+        "fy+1":381942,
+        "diff":16689
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Encourage and facilitate the registration of eligible voters, with an emphasis on increasing electronic voter registrations"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of 1st time voter registrations",
+              "fy-2":"",
+              "fy-1":"55,855",
+              "fy-0":"31,439",
+              "fy+1":"11,000"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Electronic voter registrations",
+              "fy-2":"",
+              "fy-1":"111,559",
+              "fy-0":"91,897",
+              "fy+1":"50,000"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Youth Pre-registration",
+              "fy-2":"",
+              "fy-1":"446",
+              "fy-0":"933",
+              "fy+1":"1,000"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Youth registrations (H.S. & BCYF)",
+              "fy-2":"",
+              "fy-1":"205",
+              "fy-0":"510",
+              "fy+1":"1,000"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

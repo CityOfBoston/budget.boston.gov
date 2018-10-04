@@ -1,0 +1,165 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Operations",
+  "department":"Property Management",
+  "file_version":"",
+  "head_name":"Carlene Laurent",
+  "head_title":"Manager",
+  "name":"Alterations & Repair",
+  "parent":"Property Management",
+  "section_id":180,
+  "section_md5_id":"045117B0E0A11A242B9765E79CBF113F",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~building-maintenance.json",
+  "source_time":"20180823094052",
+  "source_year":"19",
+  "appropriation_code":"Organization 180300",
+  "description":[
+    "The Alterations and Repair Program performs and oversees non-capital alterations and repairs to City-owned facilities to meet the needs of building occupants, responds to emergency repair and hazardous waste removal needs, and ensures that all systems are functioning and that the facilities are environmentally safe.  The program also preserves the useful life of City facilities and reduces operating costs by developing and implementing preventive maintenance programs."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":588199,
+      "fy-1":580147,
+      "fy-0":630124,
+      "fy+1":713171
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":1048845,
+      "fy-1":4460031,
+      "fy-0":949165,
+      "fy+1":911215
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1637044,
+      "fy-1":5040178,
+      "fy-0":1579289,
+      "fy+1":1624386
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":588199,
+        "fy-1":580147,
+        "fy-0":630124,
+        "fy+1":713171,
+        "diff":83047
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":944798,
+        "fy-1":4305850,
+        "fy-0":870700,
+        "fy+1":840250,
+        "diff":-30450
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":67541,
+        "fy-1":62531,
+        "fy-0":78465,
+        "fy+1":70965,
+        "diff":-7500
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":32317,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":4189,
+        "fy-1":91650,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":1637044,
+        "fy-1":5040178,
+        "fy-0":1579289,
+        "fy+1":1624386,
+        "diff":45097
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To improve and maintain the operational condition of managed city-owned facilities"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of maintenance repairs and requests for City Hall handled internally vs. by vendor",
+              "fy-2":"",
+              "fy-1":"92%",
+              "fy-0":"81%",
+              "fy+1":"98%"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

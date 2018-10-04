@@ -1,0 +1,245 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Streets",
+  "department":"Public Works Department",
+  "file_version":"",
+  "head_name":"Michael Brohel",
+  "head_title":"Manager",
+  "name":"Highway Field Operations",
+  "parent":"Public Works Department",
+  "section_id":13,
+  "section_md5_id":"C51CE410C124A10E0DB5E4B97FC2AF39",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~construction-management.json",
+  "source_time":"20180823094140",
+  "source_year":"19",
+  "appropriation_code":"Organization 311500",
+  "description":[
+    "The Highway Field Operations Program is responsible for cleaning all city streets from curb to curb, with special emphasis on high litter areas and neighborhoods with posted street cleaning times.  The program maintains and empties litter receptacles in busier areas of the city, clears snow from the streets during winter, makes temporary repairs to streets and sidewalks and provides assistance to the Recycling Program.  The program also provides graffiti services and cleans and maintains the Boston Freedom Trail."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":9570201,
+      "fy-1":9688200,
+      "fy-0":10107723,
+      "fy+1":10232300
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":11490311,
+      "fy-1":10474892,
+      "fy-0":9981913,
+      "fy+1":10178913
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":21060512,
+      "fy-1":20163092,
+      "fy-0":20089636,
+      "fy+1":20411213
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":9570201,
+        "fy-1":9688200,
+        "fy-0":10107723,
+        "fy+1":10232300,
+        "diff":124577
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":7752784,
+        "fy-1":6689299,
+        "fy-0":6924833,
+        "fy+1":7205341,
+        "diff":280508
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":1590170,
+        "fy-1":993315,
+        "fy-0":1144630,
+        "fy+1":1163834,
+        "diff":19204
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":42914,
+        "fy-1":61851,
+        "fy-0":7000,
+        "fy+1":17500,
+        "diff":10500
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":2104443,
+        "fy-1":2730427,
+        "fy-0":1905450,
+        "fy+1":1792238,
+        "diff":-113212
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":21060512,
+        "fy-1":20163092,
+        "fy-0":20089636,
+        "fy+1":20411213,
+        "diff":321577
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Ensure that Boston&rsquo;s streets, sidewalks, and bridges are safe, clean and attractive"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Average personnel hours on a hokey route (hand cleaning streets/sidewalks)",
+              "fy-2":"2,504",
+              "fy-1":"2,562",
+              "fy-0":"2,446",
+              "fy+1":"3,000"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Average personnel hours on a litter basket route",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"1,559",
+              "fy+1":"6,200"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Improve neighborhood quality of life"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Recycling Diversion Rate (%)",
+              "fy-2":"21",
+              "fy-1":"21",
+              "fy-0":"21",
+              "fy+1":"21"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Ensure that Boston&rsquo;s streets, sidewalks, and bridges are safe, clean and attractive"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of pothole repair requests received",
+              "fy-2":"5,020",
+              "fy-1":"8,759",
+              "fy-0":"11,790",
+              "fy+1":"7,500"
+            },
+            {
+              "line_type":"data",
+              "line_data":"% of pothole repair requests completed on time",
+              "fy-2":"83%",
+              "fy-1":"86%",
+              "fy-0":"82%",
+              "fy+1":"90%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Average days to complete a pothole repair request",
+              "fy-2":"1",
+              "fy-1":"1",
+              "fy-0":"1",
+              "fy+1":"1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

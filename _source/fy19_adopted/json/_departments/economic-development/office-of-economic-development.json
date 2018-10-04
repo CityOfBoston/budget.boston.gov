@@ -1,0 +1,235 @@
+---
+{
+  "debug":"JBD",
+  "publish_subordinates":true,
+  "file_version":"",
+  "section_id":33,
+  "section_md5_id":"182BE0C5CDCD5072BB1864CDEE4D3D6E",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Adopted~Publish 19 Adopted~JSON Output~_source~fy19_adopted~json~_departments~Economic Development~office-of-economic-development.json",
+  "source_time":"20180823094132",
+  "source_year":"19",
+  "name":"Office of Economic Development",
+  "parent":"Economic Development",
+  "cabinet":"Economic Development",
+  "department":"Office of Economic Development",
+  "head_name":"John F. Barros",
+  "head_title":"Director",
+  "appropriation_code":"Appropriation 182",
+  "mission":[
+    "The mission of the Office of Economic Development is to increase accessibility for all Bostonians to share in and benefit from the economic boom in Boston. This includes increasing construction employment opportunities for Boston&rsquo;s residents, minorities and women as well as advocating on behalf of minority and women-owned business enterprises (MWBEs) and small and Boston-based business enterprises (SLBEs) to help them compete for City contracts."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Boston Residents Jobs Policy",
+      "debug":"JCO",
+      "strategies":[
+        "Develop Pathways to Overcome Income and Wealth Disparity"
+      ]
+    },
+    {
+      "program":"Small & Local Business",
+      "debug":"JCO",
+      "strategies":[
+        "Create an ecosystem that is Open for Business by Attracting, Retaining and helping Companies to Grow",
+        "Develop Pathways to Overcome Income and Wealth Disparity"
+      ]
+    }
+  ],
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    "data":[
+      {
+        "name":"Economic Development",
+        "line_type":"data",
+        "fy-2":680543,
+        "fy-1":937675,
+        "fy-0":871615,
+        "fy+1":1146559,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Boston Residents Jobs Policy",
+        "line_type":"data",
+        "fy-2":406174,
+        "fy-1":504409,
+        "fy-0":649564,
+        "fy+1":703004,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Small & Local Business",
+        "line_type":"data",
+        "fy-2":473064,
+        "fy-1":1076640,
+        "fy-0":1037216,
+        "fy+1":1186062,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":1559781,
+        "fy-1":2518724,
+        "fy-0":2558395,
+        "fy+1":3035625
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":1469690,
+      "fy-1":1905573,
+      "fy-0":1986137,
+      "fy+1":2293700
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":90091,
+      "fy-1":613151,
+      "fy-0":572258,
+      "fy+1":741925
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1559781,
+      "fy-1":2518724,
+      "fy-0":2558395,
+      "fy+1":3035625
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":1469690,
+        "fy-1":1905573,
+        "fy-0":1986137,
+        "fy+1":2293700,
+        "diff":307563
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":53769,
+        "fy-1":524734,
+        "fy-0":524743,
+        "fy+1":686320,
+        "diff":161577
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":11158,
+        "fy-1":25200,
+        "fy-0":23115,
+        "fy+1":30865,
+        "diff":7750
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":19328,
+        "fy-1":49892,
+        "fy-0":20400,
+        "fy+1":20740,
+        "diff":340
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":5836,
+        "fy-1":13325,
+        "fy-0":4000,
+        "fy+1":4000,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":1559781,
+        "fy-1":2518724,
+        "fy-0":2558395,
+        "fy+1":3035625,
+        "diff":477230
+      }
+    ]
+  },
+  "external_funds":[
+    {
+      "project":"CDBG",
+      "project_mission":[
+        "The Community Development Block Grant (CDBG) is an annual entitlement grant from the U.S. Department of Housing and Urban Development to the City of Boston designed to fund a variety of neighborhood development activities. At least 70 percent of CDBG funds must be used to benefit low- and moderate-income households. CDBG funds are used to produce and preserve affordable housing, revitalize neighborhood commercial districts, assist the renovation of non-profit facilities, improve vacant lots, promote and monitor fair housing activities, and assist non-profit organizations in the operation of emergency shelters, health care, child care, youth and adult literacy programs. CDBG funds cannot be used for general government services or to replace funding cuts from existing public service activities. The CDBG awards for FY13, FY14, and FY15 were $15,929,397, $16,834,371, and $16,390,443 respectively. The FY16 award is $16,101,121."
+      ]
+    },
+    {
+      "project":"Choice Neighborhoods Implementation Grant",
+      "project_mission":[
+        "The Choice Neighborhood Implementation Grant is a competitive grant from the US Department of Housing and Urban Development. The grant is being used to redevelop the Woodledge/Morrant Bay Apartments and revitalize Dorchester&rsquo;s Quincy Street Corridor. The grant also aims to link affordable housing with quality schools, public transportation, good jobs, and safe streets thus totally transforming the neighborhood. The grant totaling $20,500,000 started on 1/12/2012 and ends on 9/30/2017."
+      ]
+    },
+    {
+      "project":"EDIC",
+      "project_mission":[
+        "Funded by the Economic Development and Industrial Corporation (EDIC), this program will support the operational needs of the Office of Economic Development. This multi-year project will award the department $500,000 each year over the next three years."
+      ]
+    },
+    {
+      "project":"Neighborhood Development Fund",
+      "project_mission":[
+        "The Neighborhood Development Fund receives revenue from the repayment of Urban Development Action Grant (UDAG) loans to the City. Funds can be used for eligible HUD Title I activities which are somewhat less restrictive than CDBG regulations."
+      ]
+    },
+    {
+      "project":"Section 108 (Unrestricted)",
+      "project_mission":[
+        "Section 108 funds are available to eligible cities from the U.S. Department of Housing and Urban Development (HUD) on an application basis. Section 108 funds are secured by the City through a pledge of its current and future CDBG grant awards. These funds are used for economic development projects. The Boston Invests in Growth Loan Fund is a $40 million HUD Section 108 funded loan pool designed to jumpstart well-financed construction projects, create jobs, and strengthen Boston&rsquo;s economy. This program is designed for large commercial projects in Boston that have both permanent financing and equity in place. Boston Invests will finance the gap that remains between the financing and equity and the total project cost, known as mezzanine financing. In addition, up to 10% of the loan pool will be set aside for smaller neighborhood based projects of at least 5,000 square feet, the underwriting criteria for which will be the same as for the larger loans but the interest rate charged as well as the additional interest paid at the end will be lower. Additionally, $2.5 million HUD Section 108 funded loan pool will be used for energy efficiency and to promote job creation. The Section 108 Spread Unrestricted Fund is income earned as a result of the interest spread between Section 108 loan repayments owed to DND by its borrowers and Section 108 repayments DND owes to HUD. In FY16, DND will use this source to fund Main Streets districts and Restore projects that do not meet CDBG eligibility requirements."
+      ]
+    }
+  ]
+}
+---

@@ -1,0 +1,119 @@
+---
+{
+  "category":"Education",
+  "category_desc":"Initiatives to strengthen education, job training, and career connections.",
+  "department":"Boston Public Schools",
+  "file_version":"",
+  "location":"Various neighborhoods",
+  "managing_department":"Public Facilities Department",
+  "mission":"Replace roof at Russell; replace boilers at East Boston High, O'Donnell, Sumner, and Tobin; and windows at UP Academy in conjunction with the Massachusetts School Building Authority's Accelerated Repair Program.",
+  "name":"Roof or Boiler Replacements at 6 Schools",
+  "operating_impact":"No",
+  "section_id":"CPS24725",
+  "section_type":"projects",
+  "section_type_short":"R",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Adopted~Publish 19 Adopted~JSON Output~_source~fy19_adopted~json~_projects~boston-public-schools~roof-or-boiler-replacements-at-6-schools.json",
+  "source_time":"20180823094127",
+  "source_year":"19",
+  "status":"In Construction",
+  "expenditures_detail":{
+    "table_title":"Expenditures (Actual and Planned)",
+    "table_header":{
+      "line_type":"header",
+      "line_title":null,
+      "line_data_type":"string",
+      "source":"Source",
+      "past_spending":"Through 6/30/17",
+      "fy-1":"FY18 Budget",
+      "fy-0":"FY19 Budget",
+      "fy+1-4":"FY20-23 Budget",
+      "total":"Total"
+    },
+    "data":[
+      {
+        "line_type":"data",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"City Capital",
+        "past_spending":0,
+        "fy-1":207180,
+        "fy-0":3068391,
+        "fy+1-4":2357478,
+        "total":5633049
+      },
+      {
+        "line_type":"data",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"Grants/Other",
+        "past_spending":0,
+        "fy-1":392820,
+        "fy-0":5817770,
+        "fy+1-4":3071826,
+        "total":9282416
+      },
+      {
+        "line_type":"total",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"Totals",
+        "past_spending":0,
+        "fy-1":600000,
+        "fy-0":8886161,
+        "fy+1-4":5429304,
+        "total":14915465
+      }
+    ],
+    "authorizations_table":{
+      "table_title":"Authorizations",
+      "table_header":{
+        "line_type":"header",
+        "line_title":null,
+        "line_data_type":"string",
+        "source":"Source",
+        "existing":"Existing",
+        "fy-0":"FY19",
+        "fy-0++":"Future",
+        "other":"Non Capital Fund",
+        "total":"Total"
+      },
+      "data":[
+        {
+          "line_type":"data",
+          "line_title":null,
+          "line_data_type":"number",
+          "source":"City Capital",
+          "existing":3719663,
+          "fy-0":0,
+          "fy-0++":1913386,
+          "other":0,
+          "total":5633049
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "line_data_type":"number",
+          "source":"Grants/Other",
+          "existing":6366848,
+          "fy-0":0,
+          "fy-0++":2915568,
+          "other":0,
+          "total":9282416
+        },
+        {
+          "line_type":"total",
+          "line_title":"Totals",
+          "line_data_type":"number",
+          "source":"Totals",
+          "existing":10086511,
+          "fy-0":0,
+          "fy-0++":4828954,
+          "other":0,
+          "total":14915465
+        }
+      ]
+    }
+  }
+}
+---

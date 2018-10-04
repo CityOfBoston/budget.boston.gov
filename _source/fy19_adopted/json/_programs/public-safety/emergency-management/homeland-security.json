@@ -1,0 +1,193 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Public Safety",
+  "department":"Emergency Management",
+  "file_version":"",
+  "head_name":"Rene Fielding",
+  "head_title":"Director",
+  "name":"Homeland Security",
+  "parent":"Emergency Management",
+  "section_id":103,
+  "section_md5_id":"6974CE5AC660610B44D9B9FED0FF9548",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~homeland-security.json",
+  "source_time":"20180823094121",
+  "source_year":"19",
+  "appropriation_code":"Organization 231800",
+  "description":[
+    "The Homeland Security Program advances the City&rsquo;s capability to effectively prevent, respond to and recover from incidents of terrorism and other emergency incidents, by coordinating and directing Boston&rsquo;s inter-departmental and multi-jurisdictional homeland security activities, advising the Mayor on issues, and obtaining and managing outside funding."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":119153,
+      "fy-1":121887,
+      "fy-0":134766,
+      "fy+1":130037
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":531775,
+      "fy-1":521307,
+      "fy-0":507443,
+      "fy+1":569683
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":650928,
+      "fy-1":643194,
+      "fy-0":642209,
+      "fy+1":699720
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":119153,
+        "fy-1":121887,
+        "fy-0":134766,
+        "fy+1":130037,
+        "diff":-4729
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":246789,
+        "fy-1":183544,
+        "fy-0":170943,
+        "fy+1":220943,
+        "diff":50000
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":6441,
+        "fy-1":17123,
+        "fy-0":5000,
+        "fy+1":6000,
+        "diff":1000
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":265385,
+        "fy-1":320640,
+        "fy-0":331500,
+        "fy+1":342740,
+        "diff":11240
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":13160,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":650928,
+        "fy-1":643194,
+        "fy-0":642209,
+        "fy+1":699720,
+        "diff":57511
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To have the ability to shelter 5,000 Residents"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of cots available for Mass Care Sheltering",
+              "fy-2":"",
+              "fy-1":"4,000",
+              "fy-0":"4,746",
+              "fy+1":"5,000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To provide professional development training for first responders"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of Threat and Hazard Based Trainings",
+              "fy-2":"",
+              "fy-1":"83",
+              "fy-0":"63",
+              "fy+1":"20"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

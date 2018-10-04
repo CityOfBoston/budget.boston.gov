@@ -1,0 +1,932 @@
+---
+{
+  "file_version":"",
+  "name":"Open Space",
+  "section_type":"Capital Budget",
+  "section_type_short":"L",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Adopted~Publish 19 Adopted~JSON Output~_source~fy19_adopted~json~_categories~open-space.json",
+  "source_time":"20180823094209",
+  "source_year":"19",
+  "description":[
+    "Initiatives to strengthen our existing park system and invest in new open spaces."
+  ],
+  "vol1_category_copy":[
+    "Imagine Boston 2030 calls for the City to strengthen Boston&rsquo;s existing park system and invest in new open spaces. Through the use of Winthrop Square proceeds, City capital dollars, and leveraging external funds, Mayor Walsh plans to carry out early actions to implement Imagine Boston 2030&rsquo;s Open Space goals, including investing in Franklin Park as a keystone park for the city, completing the Emerald Necklace, and restoring Boston Common to its full vibrancy.",
+    "Franklin Park renovations are already underway with investments in its pathways and a commitment to caring for its tree canopy. Mayor Walsh has also committed to a $28 million investment funded by the sale of the Winthrop Square garage to renovate Boston&rsquo;s largest park, which borders multiple neighborhoods. These improvements, combined with the master planning of Moakley Park, serve as anchor projects to launch the City&rsquo;s efforts to complete the Emerald Necklace. Originally envisioned by the Olmsted Corporation in the 1890s, the completion will be a community-led and modern interpretation of a green street, which increases connections in underserved areas of our city. Mayor Walsh has also committed $28 million from the Winthrop garage sale to augment the current historic levels of investment in Boston Common to fully renovate America&rsquo;s First Park. This investment will ensure future generations will enjoy the park in its full vibrancy.",
+    "In addition to the major initiatives outlined in Imagine Boston 2030, Mayor Walsh&rsquo;s FY19-23 Capital Plan continues investments to ensure Boston&rsquo;s open spaces are among the Nation&rsquo;s most accessible and equitable. In an extension of the City&rsquo;s commitment to the usage and safety of the Emerald Necklace, the Parks and Recreation Department is designing a $4.8 million project for pathway improvements around Jamaica Pond. From the annual lantern parade, to the thousands of children who learn boating, to the walkers and joggers enjoying the 1.5 mile loop for recreation, Jamaica Pond is a singular urban park experience. Across town, a renovation of Paul Revere Mall in the North End will soon be underway and will ensure this historic park is a welcoming and inviting place for residents and visitors. The Paul Revere monument, along the Freedom Trail, is one of the most photographed sculptures in Boston. This renovation project, funded in part by the City&rsquo;s George Robert White Fund, will include restoration of the fountain and monument, accessible pathways, landscaping, and utility work.",
+    "Ninety-seven percent of Bostonians live within a ten-minute walk of a park, but those spaces are only truly equitable if they serve the diverse needs of all our residents. Mayor Walsh recognizes the need for inclusive design and has created robust budgets for park renovation projects at Martin&rsquo;s Park in the Seaport, Smith Playground in Allston, McConnell Playground, Garvey Playground, and Harambee Park in Dorchester. In addition, the FY19-23 plan proposes new investments in athletic field lighting and playground improvements in more than a half dozen locations. The Capital Plan also supports an increased investment totaling $950,000 in the renovation and renewal of playing courts (basketball, tennis, and street hockey)."
+  ],
+  "projects":[
+    {
+      "table_type":"capital_projects_by_department",
+      "table_title":"Capital Projects by Department",
+      "header":{
+        "debug":"JCCPBYD",
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "category":"Department",
+        "name":"Project",
+        "location":"Location",
+        "status":"Status",
+        "fy-0":"FY19 Projected",
+        "project_title":"Total"
+      },
+      "projects_data":[
+        {
+          "Boston Planning and Development Agency":[
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":150000,
+              "fy-0":0,
+              "category":"Open Space",
+              "name":"Long Wharf Harborwalk Signage",
+              "location":"Financial District/Downtown",
+              "status":"New Project",
+              "operating_impact":"No"
+            }
+          ]
+        },
+        {
+          "Parks and Recreation Department":[
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":500000,
+              "fy-0":60000,
+              "category":"Open Space",
+              "name":"Amatucci Playground",
+              "location":"Hyde Park",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1069985,
+              "fy-0":700000,
+              "category":"Open Space",
+              "name":"Back Bay Fens Westland Avenue Entrance",
+              "location":"Fenway/Kenmore",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":450000,
+              "fy-0":50000,
+              "category":"Open Space",
+              "name":"Beauford Playground",
+              "location":"Roxbury",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":500000,
+              "fy-0":100000,
+              "category":"Open Space",
+              "name":"Boston Common Master Plan",
+              "location":"Beacon Hill",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":150000,
+              "fy-0":0,
+              "category":"Open Space",
+              "name":"Boston Common Tadpole Play Lot",
+              "location":"Beacon Hill",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":100000,
+              "fy-0":7100,
+              "category":"Open Space",
+              "name":"Boston Common Utility Study",
+              "location":"Beacon Hill",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":600000,
+              "fy-0":500000,
+              "category":"Open Space",
+              "name":"Bussey Brook Wall",
+              "location":"Jamaica Plain",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":4415000,
+              "fy-0":1000000,
+              "category":"Open Space",
+              "name":"Cassidy Field",
+              "location":"Allston/Brighton",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":2752000,
+              "fy-0":1500000,
+              "category":"Open Space",
+              "name":"Cassidy Field House",
+              "location":"Allston/Brighton",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":260000,
+              "fy-0":200000,
+              "category":"Open Space",
+              "name":"Christopher Columbus Park",
+              "location":"North End",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":8767444,
+              "fy-0":750000,
+              "category":"Open Space",
+              "name":"Court Renovations",
+              "location":"Citywide",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1780000,
+              "fy-0":150000,
+              "category":"Open Space",
+              "name":"Dewitt Playground",
+              "location":"Roxbury",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1120000,
+              "fy-0":100000,
+              "category":"Open Space",
+              "name":"Doherty-Gibson Playground",
+              "location":"Dorchester",
+              "status":"To Be Scheduled",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":500000,
+              "fy-0":60000,
+              "category":"Open Space",
+              "name":"Dorchester Park",
+              "location":"Dorchester",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1150000,
+              "fy-0":600000,
+              "category":"Open Space",
+              "name":"Downer Avenue Park",
+              "location":"Dorchester",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":972000,
+              "fy-0":0,
+              "category":"Open Space",
+              "name":"Dudley Town Common",
+              "location":"Roxbury",
+              "status":"To Be Scheduled",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1400000,
+              "fy-0":500000,
+              "category":"Open Space",
+              "name":"Edwards Playground",
+              "location":"Charlestown",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":2700000,
+              "fy-0":350000,
+              "category":"Open Space",
+              "name":"Field Lights at Various Parks",
+              "location":"Various neighborhoods",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":715000,
+              "fy-0":250000,
+              "category":"Open Space",
+              "name":"Flaherty Park",
+              "location":"South Boston",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":800000,
+              "fy-0":100000,
+              "category":"Open Space",
+              "name":"Franklin Park Master Plan",
+              "location":"Various neighborhoods",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":75000,
+              "fy-0":15000,
+              "category":"Open Space",
+              "name":"Franklin Park Master Plan Update",
+              "location":"Roxbury",
+              "status":"Study Underway",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":5000000,
+              "fy-0":2000000,
+              "category":"Open Space",
+              "name":"Franklin Park Pathway Improvements",
+              "location":"Various neighborhoods",
+              "status":"In Construction",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":150000,
+              "fy-0":100800,
+              "category":"Open Space",
+              "name":"Frog Pond",
+              "location":"Beacon Hill",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":150000,
+              "fy-0":75000,
+              "category":"Open Space",
+              "name":"Frog Pond Master Plan Study",
+              "location":"Beacon Hill",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":5000000,
+              "fy-0":861544,
+              "category":"Open Space",
+              "name":"Garvey Playground",
+              "location":"Dorchester",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":5941515,
+              "fy-0":750000,
+              "category":"Open Space",
+              "name":"General Parks Improvements",
+              "location":"Citywide",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1400000,
+              "fy-0":1250000,
+              "category":"Open Space",
+              "name":"George Wright Clubhouse Phase 2",
+              "location":"Hyde Park",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":120000,
+              "fy-0":70000,
+              "category":"Open Space",
+              "name":"George Wright Clubhouse Study",
+              "location":"Hyde Park",
+              "status":"Study Underway",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":2931698,
+              "fy-0":200000,
+              "category":"Open Space",
+              "name":"George Wright Golf Course",
+              "location":"Hyde Park",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":100000,
+              "fy-0":33567,
+              "category":"Open Space",
+              "name":"Green Infrastructure Plan",
+              "location":"Citywide",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":2700000,
+              "fy-0":1750000,
+              "category":"Open Space",
+              "name":"Harambee Park Master Plan Implementation",
+              "location":"Dorchester",
+              "status":"In Construction",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":3500000,
+              "fy-0":300000,
+              "category":"Open Space",
+              "name":"Harambee Park Phase 2",
+              "location":"Dorchester",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":2384117,
+              "fy-0":140000,
+              "category":"Open Space",
+              "name":"Historic Cemeteries",
+              "location":"Citywide",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":150000,
+              "fy-0":15000,
+              "category":"Open Space",
+              "name":"Hobart Playground",
+              "location":"Allston/Brighton",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":400000,
+              "fy-0":50000,
+              "category":"Open Space",
+              "name":"Holborn Street Playground",
+              "location":"Roxbury",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":210000,
+              "fy-0":0,
+              "category":"Open Space",
+              "name":"Jamaica Pond Dock Rehabilitation",
+              "location":"Jamaica Plain",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":4770000,
+              "fy-0":3650000,
+              "category":"Open Space",
+              "name":"Jamaica Pond Pathways and Perimeter Improvements",
+              "location":"Jamaica Plain",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":930000,
+              "fy-0":200000,
+              "category":"Open Space",
+              "name":"Justice Gourdin Veterans' Memorial Park",
+              "location":"Roxbury",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":250000,
+              "fy-0":20000,
+              "category":"Open Space",
+              "name":"Kelleher Rose Garden",
+              "location":"Fenway/Kenmore",
+              "status":"In Construction",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":500000,
+              "fy-0":60000,
+              "category":"Open Space",
+              "name":"Lambert Avenue Playground",
+              "location":"Roxbury",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":6160000,
+              "fy-0":750000,
+              "category":"Open Space",
+              "name":"Langone Park and Puopolo Playground",
+              "location":"North End",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1187086,
+              "fy-0":42259,
+              "category":"Open Space",
+              "name":"Liberty Tree Plaza",
+              "location":"Chinatown",
+              "status":"In Construction",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":7000000,
+              "fy-0":0,
+              "category":"Open Space",
+              "name":"Martin's Park",
+              "location":"South Boston",
+              "status":"In Construction",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":896000,
+              "fy-0":653000,
+              "category":"Open Space",
+              "name":"Mary Hannon Playground Phase II",
+              "location":"Roxbury",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":3790000,
+              "fy-0":1261700,
+              "category":"Open Space",
+              "name":"McConnell Playground",
+              "location":"Dorchester",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":180000,
+              "fy-0":90000,
+              "category":"Open Space",
+              "name":"Moakley Park Master Plan",
+              "location":"South Boston",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":60000,
+              "fy-0":10000,
+              "category":"Open Space",
+              "name":"Mt. Hope Street Parcel",
+              "location":"Roslindale",
+              "status":"In Construction",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":89305642,
+              "fy-0":610000,
+              "category":"Open Space",
+              "name":"Muddy River",
+              "location":"Fenway/Kenmore",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":4770000,
+              "fy-0":2110000,
+              "category":"Open Space",
+              "name":"Noyes Park",
+              "location":"East Boston",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":550000,
+              "fy-0":0,
+              "category":"Open Space",
+              "name":"Odom Serenity Garden",
+              "location":"Dorchester",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":679000,
+              "fy-0":16660,
+              "category":"Open Space",
+              "name":"Olmsted Park Landscape Restoration",
+              "location":"Jamaica Plain",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":510000,
+              "fy-0":50000,
+              "category":"Open Space",
+              "name":"Orton Field",
+              "location":"South Boston",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":90000,
+              "fy-0":45000,
+              "category":"Open Space",
+              "name":"Parcel Priority Plan",
+              "location":"Citywide",
+              "status":"To Be Scheduled",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":332383,
+              "fy-0":50000,
+              "category":"Open Space",
+              "name":"Park Planning Studies",
+              "location":"Citywide",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1740000,
+              "fy-0":750000,
+              "category":"Open Space",
+              "name":"Parkman Playground",
+              "location":"Roslindale",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":2931476,
+              "fy-0":500000,
+              "category":"Open Space",
+              "name":"Paul Revere Mall",
+              "location":"North End",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":370000,
+              "fy-0":0,
+              "category":"Open Space",
+              "name":"Peter's Park",
+              "location":"South End",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1085428,
+              "fy-0":100000,
+              "category":"Open Space",
+              "name":"Public Garden Lagoon",
+              "location":"Beacon Hill",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":2395500,
+              "fy-0":1500000,
+              "category":"Open Space",
+              "name":"Ramsay Park",
+              "location":"South End",
+              "status":"In Construction",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":4630000,
+              "fy-0":1200000,
+              "category":"Open Space",
+              "name":"Reservation Road Park",
+              "location":"Hyde Park",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":75000,
+              "fy-0":0,
+              "category":"Open Space",
+              "name":"Ringer Park Master Plan",
+              "location":"Allston/Brighton",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":3000000,
+              "fy-0":500000,
+              "category":"Open Space",
+              "name":"Robert G. Shaw/Fifty-Fourth Regiment Memorial",
+              "location":"Beacon Hill",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1220000,
+              "fy-0":24600,
+              "category":"Open Space",
+              "name":"Ross Playground",
+              "location":"Hyde Park",
+              "status":"In Construction",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":600000,
+              "fy-0":500000,
+              "category":"Open Space",
+              "name":"Sherrin Woods Urban Wild",
+              "location":"Hyde Park",
+              "status":"In Construction",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":6285000,
+              "fy-0":2200000,
+              "category":"Open Space",
+              "name":"Smith Playground",
+              "location":"Allston/Brighton",
+              "status":"In Construction",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":2480000,
+              "fy-0":100000,
+              "category":"Open Space",
+              "name":"Smith Playground Phase 2",
+              "location":"Allston/Brighton",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":225000,
+              "fy-0":0,
+              "category":"Open Space",
+              "name":"South End Library Park",
+              "location":"South End",
+              "status":"In Design",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":500000,
+              "fy-0":60000,
+              "category":"Open Space",
+              "name":"Stonehill Playground",
+              "location":"Hyde Park",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":8397943,
+              "fy-0":700000,
+              "category":"Open Space",
+              "name":"Street Tree Planting",
+              "location":"Citywide",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":500000,
+              "fy-0":60000,
+              "category":"Open Space",
+              "name":"Thetford Evans Playground",
+              "location":"Dorchester",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1980000,
+              "fy-0":0,
+              "category":"Open Space",
+              "name":"Titus Sparrow Park",
+              "location":"South End",
+              "status":"To Be Scheduled",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":3562589,
+              "fy-0":352000,
+              "category":"Open Space",
+              "name":"Urban Wilds Renovations",
+              "location":"Citywide",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":600000,
+              "fy-0":60000,
+              "category":"Open Space",
+              "name":"Walker Playground",
+              "location":"Mattapan",
+              "status":"New Project",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1679362,
+              "fy-0":1529362,
+              "category":"Open Space",
+              "name":"William Devine Clubhouse Roof Replacement",
+              "location":"Roxbury",
+              "status":"To Be Scheduled",
+              "operating_impact":"No"
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":2960065,
+              "fy-0":200000,
+              "category":"Open Space",
+              "name":"William Devine Golf Course",
+              "location":"Roxbury",
+              "status":"Annual Program",
+              "operating_impact":"No"
+            }
+          ]
+        },
+        {
+          "Property Management Department":[
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":270000,
+              "fy-0":0,
+              "category":"Open Space",
+              "name":"East Eagle Street Shoreline",
+              "location":"East Boston",
+              "status":"To Be Scheduled",
+              "operating_impact":"No"
+            }
+          ]
+        },
+        {
+          "Public Works Department":[
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":1460000,
+              "fy-0":250000,
+              "category":"Open Space",
+              "name":"Neighborhood Commons",
+              "location":"Various neighborhoods",
+              "status":"In Construction",
+              "operating_impact":"No"
+            }
+          ]
+        },
+        {
+          "Transportation Department":[
+            {
+              "line_type":"data",
+              "title":null,
+              "project_title":400000,
+              "fy-0":100000,
+              "category":"Open Space",
+              "name":"Green Links",
+              "location":"Various Neighborhoods",
+              "status":"New Project",
+              "operating_impact":"No"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "fy-0":34892592,
+  "total":232371233
+}
+---

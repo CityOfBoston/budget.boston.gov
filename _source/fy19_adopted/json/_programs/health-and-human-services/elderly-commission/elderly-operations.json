@@ -1,0 +1,197 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Health & Human Services",
+  "department":"Elderly Commission",
+  "file_version":"",
+  "head_name":"Karine Querido",
+  "head_title":"Manager",
+  "name":"Elderly Operations",
+  "parent":"Elderly Commission",
+  "section_id":93,
+  "section_md5_id":"98DCE83DA57B0395E163467C9DAE521B",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~elderly-administration.json",
+  "source_time":"20180823094156",
+  "source_year":"19",
+  "appropriation_code":"Organization 387200",
+  "description":[
+    "The Operations Program provides seniors, caregivers, and the general public with essential information that helps to improve the quality and safety of seniors&rsquo; lives.  The monthly newspaper and web site offer articles and information of special interest to seniors. The Commission produces television shows for Boston Neighborhood Network and the Boston cable channel.  The Operations program creates and manages internal and external relationships aimed at developing and maintaining staff, city, neighborhood, public, media and business relationships.  This program promotes employment and volunteer opportunities for seniors and helps to develop, coordinate and support intergenerational and multicultural activities. It also coordinates special fundraising, recreation, health and fitness events to reduce isolation and encourage community involvement of seniors."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":209735,
+      "fy-1":206615,
+      "fy-0":521365,
+      "fy+1":497160
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":233841,
+      "fy-1":214471,
+      "fy-0":517513,
+      "fy+1":519625
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":443576,
+      "fy-1":421086,
+      "fy-0":1038878,
+      "fy+1":1016785
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":209735,
+        "fy-1":206615,
+        "fy-0":521365,
+        "fy+1":497160,
+        "diff":-24205
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":49767,
+        "fy-1":71709,
+        "fy-0":362090,
+        "fy+1":358900,
+        "diff":-3190
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":83883,
+        "fy-1":119559,
+        "fy-0":105423,
+        "fy+1":110725,
+        "diff":5302
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":44191,
+        "fy-1":23203,
+        "fy-0":50000,
+        "fy+1":50000,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":56000,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":443576,
+        "fy-1":421086,
+        "fy-0":1038878,
+        "fy+1":1016785,
+        "diff":-22093
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Keep older adults engaged, informed and connected to resources, services, and programs"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"Number of Applications Completed (Housing and Benefits)",
+              "fy-2":"645",
+              "fy-1":"300",
+              "fy-0":"1,351",
+              "fy+1":"1,400"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Number of Events and Programs",
+              "fy-2":"131",
+              "fy-1":"120",
+              "fy-0":"150",
+              "fy+1":"160"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Number of Information and Service Referrals Provided",
+              "fy-2":"10,269",
+              "fy-1":"11,000",
+              "fy-0":"10,000",
+              "fy+1":"13,000"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Number of Older Adults Attending Presentations",
+              "fy-2":"321",
+              "fy-1":"343",
+              "fy-0":"1,500",
+              "fy+1":"1,500"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Older Adults Participating in Events and Programs",
+              "fy-2":"19,065",
+              "fy-1":"13,000",
+              "fy-0":"14,000",
+              "fy+1":"15,000"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

@@ -1,0 +1,34 @@
+---
+{
+  "cabinet":"Administration & Finance",
+  "debug":"JBDCP",
+  "department":"Labor Relations",
+  "file_version":"",
+  "head_name":"Ann Marie Noonan",
+  "head_title":"Director",
+  "name":"Labor Relations",
+  "parent":"Administration & Finance",
+  "section_id":27,
+  "section_md5_id":"02E74F10E0327AD868D138F2B4FDD6F0",
+  "section_type":"capital_budget",
+  "section_type_short":"L",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Adopted~Publish 19 Adopted~JSON Output~_source~fy19_adopted~json~_cp_depts~labor-relations.json",
+  "source_time":"20180823094109",
+  "source_year":"19",
+  "mission":[
+    "The mission of the Office of Labor Relations is to create and promote a productive work environment that fosters an efficient and effective relationship between labor and management."
+  ],
+  "description_of_services":[
+    "The Office of Labor Relations represents the Mayor and City departments in all labor relations matters before state and federal courts, state agencies, and in various other forums. The Office is responsible for negotiating and administering collective bargaining agreements with approximately 19 unions covering 7,200 employees. Additionally, the Office advises City managers and supervisors on labor matters regarding policy issues."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Labor Relations",
+      "strategies":[
+        "To negotiate labor contracts and meet other bargaining obligations with the City's labor unions."
+      ]
+    }
+  ]
+}
+---

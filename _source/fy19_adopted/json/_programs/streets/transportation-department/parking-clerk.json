@@ -1,0 +1,173 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Streets",
+  "department":"Transportation Department",
+  "file_version":"",
+  "head_name":"Stephen McGuire",
+  "head_title":"Manager",
+  "name":"Parking Clerk",
+  "parent":"Transportation Department",
+  "section_id":30,
+  "section_md5_id":"34173CB38F07F89DDBEBC2AC9128303F",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~traffic-operations.json",
+  "source_time":"20180823094144",
+  "source_year":"19",
+  "appropriation_code":"Organization 253100",
+  "description":[
+    "The Office of the Parking Clerk is responsible for the oversight and management of the City's comprehensive Parking Violation and Parking Management Information Services System, the administration of the issuance program for Resident Parking Permits, and adjudication related to the issuance of parking citations and the abandoned vehicle program."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":2737077,
+      "fy-1":2786841,
+      "fy-0":2933011,
+      "fy+1":2960493
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":5179458,
+      "fy-1":5536448,
+      "fy-0":5692644,
+      "fy+1":5857000
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":7916535,
+      "fy-1":8323289,
+      "fy-0":8625655,
+      "fy+1":8817493
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":2737077,
+        "fy-1":2786841,
+        "fy-0":2933011,
+        "fy+1":2960493,
+        "diff":27482
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":4838999,
+        "fy-1":5330765,
+        "fy-0":5413144,
+        "fy+1":5578500,
+        "diff":165356
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":328990,
+        "fy-1":201682,
+        "fy-0":270000,
+        "fy+1":270000,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":6645,
+        "fy-1":1903,
+        "fy-0":3500,
+        "fy+1":2500,
+        "diff":-1000
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":4824,
+        "fy-1":2098,
+        "fy-0":6000,
+        "fy+1":6000,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":7916535,
+        "fy-1":8323289,
+        "fy-0":8625655,
+        "fy+1":8817493,
+        "diff":191838
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Provide people-focused service"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of Performance-Based-Pricing Meters",
+              "fy-2":"",
+              "fy-1":"27%",
+              "fy-0":"27%",
+              "fy+1":"75%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Parking Enforcement Effectiveness- Parking Fine Revenue",
+              "fy-2":"57,763,821",
+              "fy-1":"60,472,454",
+              "fy-0":"60,772,314",
+              "fy+1":"61,509,427"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

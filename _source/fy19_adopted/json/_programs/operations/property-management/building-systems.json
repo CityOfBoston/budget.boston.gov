@@ -1,0 +1,173 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Operations",
+  "department":"Property Management",
+  "file_version":"",
+  "head_name":"John Sinagra",
+  "head_title":"Manager",
+  "name":"Building Systems",
+  "parent":"Property Management",
+  "section_id":184,
+  "section_md5_id":"6CDD60EA0045EB7A6EC44C54D29ED402",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~animal-control.json",
+  "source_time":"20180823094053",
+  "source_year":"19",
+  "appropriation_code":"Organization 180700",
+  "description":[
+    "The Building Systems program is responsible for all mechanical systems in Boston City Hall and at 52 other City-owned buildings.  Responsibilities include preventive maintenance and incidental repairs to heating, ventilation, and air conditioning (HVAC)."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":681753,
+      "fy-1":714237,
+      "fy-0":794039,
+      "fy+1":834239
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":1081069,
+      "fy-1":1427081,
+      "fy-0":1615328,
+      "fy+1":1658177
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1762822,
+      "fy-1":2141318,
+      "fy-0":2409367,
+      "fy+1":2492416
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":681753,
+        "fy-1":714237,
+        "fy-0":794039,
+        "fy+1":834239,
+        "diff":40200
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":1051595,
+        "fy-1":1358463,
+        "fy-0":1555328,
+        "fy+1":1598177,
+        "diff":42849
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":28374,
+        "fy-1":64408,
+        "fy-0":54500,
+        "fy+1":54500,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":1100,
+        "fy-1":550,
+        "fy-0":2500,
+        "fy+1":2500,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":3660,
+        "fy-0":3000,
+        "fy+1":3000,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":1762822,
+        "fy-1":2141318,
+        "fy-0":2409367,
+        "fy+1":2492416,
+        "diff":83049
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Maintain heating ventilation and air condition (HVAC) system in proper working order"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"# of preventive maintenance/corrective maintenance",
+              "fy-2":"",
+              "fy-1":"80",
+              "fy-0":"42",
+              "fy+1":"80"
+            },
+            {
+              "line_type":"data",
+              "line_data":"% of HVAC breakdowns corrected within 8 hours",
+              "fy-2":"",
+              "fy-1":"82%",
+              "fy-0":"79%",
+              "fy+1":"80%"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

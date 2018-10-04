@@ -1,0 +1,165 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Administration & Finance",
+  "department":"Budget Management",
+  "file_version":"",
+  "head_name":"Lynda Fraley",
+  "head_title":"Manager",
+  "name":"Risk Management",
+  "parent":"Budget Management",
+  "section_id":74,
+  "section_md5_id":"AD61AB143223EFBC24C7D2583BE69251",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~revenue-monitoring.json",
+  "source_time":"20180823094107",
+  "source_year":"19",
+  "appropriation_code":"Organization 141600",
+  "description":[
+    "The Risk Management Program develops and implements the City&rsquo;s integrated risk financing program, which includes self-insurance and commercial policies. The program also assists other City departments in their efforts to minimize costs related to property losses and legal injury and medical claims."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":116451,
+      "fy-1":117975,
+      "fy-0":117802,
+      "fy+1":122576
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":60300,
+      "fy-1":58538,
+      "fy-0":73555,
+      "fy+1":72555
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":176751,
+      "fy-1":176513,
+      "fy-0":191357,
+      "fy+1":195131
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":116451,
+        "fy-1":117975,
+        "fy-0":117802,
+        "fy+1":122576,
+        "diff":4774
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":300,
+        "fy-1":288,
+        "fy-0":2070,
+        "fy+1":1070,
+        "diff":-1000
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":60000,
+        "fy-1":58250,
+        "fy-0":71485,
+        "fy+1":71485,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":176751,
+        "fy-1":176513,
+        "fy-0":191357,
+        "fy+1":195131,
+        "diff":3774
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Ensure long-term financial stability"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of risk financing strategy implemented",
+              "fy-2":"89%",
+              "fy-1":"89%",
+              "fy-0":"89%",
+              "fy+1":"89%"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

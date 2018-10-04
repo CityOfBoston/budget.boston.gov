@@ -8,7 +8,7 @@ components:
     url: "/"
     local: true
   - current: Operating Budget
-  - published: 6/30/18
+  - published: 7/1/18
 - intro:
   - title: Operating Budget
     short_desc: >

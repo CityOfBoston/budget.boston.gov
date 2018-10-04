@@ -1,0 +1,23 @@
+---
+{
+  "cabinet":"Administration & Finance",
+  "debug":"JBDCP",
+  "department":"Workers' Compensation Fund",
+  "file_version":"",
+  "head_name":null,
+  "head_title":null,
+  "name":"Workers' Compensation Fund",
+  "parent":"Administration & Finance",
+  "section_id":64,
+  "section_md5_id":"EA5D2F1C4608232E07D3AA3D998E5135",
+  "section_type":"capital_budget",
+  "section_type_short":"L",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Adopted~Publish 19 Adopted~JSON Output~_source~fy19_adopted~json~_cp_depts~workers-compensation-fund.json",
+  "source_time":"20180823094117",
+  "source_year":"19",
+  "mission":[
+    "The Workers' Compensation Fund provides for proper payments of compensation benefits, medical treatment and, if necessary, rehabilitation for employees permanently injured in work related accidents prior to July, 1995, or for employees from former City departments, e.g. Department of Health and Hospitals."
+  ]
+}
+---

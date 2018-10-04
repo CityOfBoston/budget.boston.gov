@@ -1,0 +1,119 @@
+---
+{
+  "category":"Education",
+  "category_desc":"Initiatives to strengthen education, job training, and career connections.",
+  "department":"Boston Public Schools",
+  "file_version":"",
+  "location":"Various neighborhoods",
+  "managing_department":"Public Facilities Department",
+  "mission":"Replace roofs at McCormack School and Dever School; replace boilers at Channing School, Condon School, and Boston Latin School in conjunction with the Massachusetts School Building Authority's Accelerated Repair Program.",
+  "name":"Roof or Boiler Replacements at 5 Schools",
+  "operating_impact":"No",
+  "section_id":"CPS24502",
+  "section_type":"projects",
+  "section_type_short":"R",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Adopted~Publish 19 Adopted~JSON Output~_source~fy19_adopted~json~_projects~boston-public-schools~roof-or-boiler-replacements-at-5-schools.json",
+  "source_time":"20180823094127",
+  "source_year":"19",
+  "status":"In Construction",
+  "expenditures_detail":{
+    "table_title":"Expenditures (Actual and Planned)",
+    "table_header":{
+      "line_type":"header",
+      "line_title":null,
+      "line_data_type":"string",
+      "source":"Source",
+      "past_spending":"Through 6/30/17",
+      "fy-1":"FY18 Budget",
+      "fy-0":"FY19 Budget",
+      "fy+1-4":"FY20-23 Budget",
+      "total":"Total"
+    },
+    "data":[
+      {
+        "line_type":"data",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"City Capital",
+        "past_spending":49768,
+        "fy-1":3337544,
+        "fy-0":0,
+        "fy+1-4":0,
+        "total":3387312
+      },
+      {
+        "line_type":"data",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"Grants/Other",
+        "past_spending":94362,
+        "fy-1":6320507,
+        "fy-0":0,
+        "fy+1-4":0,
+        "total":6414869
+      },
+      {
+        "line_type":"total",
+        "line_title":null,
+        "line_date_type":"number",
+        "source":"Totals",
+        "past_spending":144130,
+        "fy-1":9658051,
+        "fy-0":0,
+        "fy+1-4":0,
+        "total":9802181
+      }
+    ],
+    "authorizations_table":{
+      "table_title":"Authorizations",
+      "table_header":{
+        "line_type":"header",
+        "line_title":null,
+        "line_data_type":"string",
+        "source":"Source",
+        "existing":"Existing",
+        "fy-0":"FY19",
+        "fy-0++":"Future",
+        "other":"Non Capital Fund",
+        "total":"Total"
+      },
+      "data":[
+        {
+          "line_type":"data",
+          "line_title":null,
+          "line_data_type":"number",
+          "source":"City Capital",
+          "existing":3387312,
+          "fy-0":0,
+          "fy-0++":0,
+          "other":0,
+          "total":3387312
+        },
+        {
+          "line_type":"data",
+          "line_title":"Grants/Other",
+          "line_data_type":"number",
+          "source":"Grants/Other",
+          "existing":6414869,
+          "fy-0":0,
+          "fy-0++":0,
+          "other":0,
+          "total":6414869
+        },
+        {
+          "line_type":"total",
+          "line_title":"Totals",
+          "line_data_type":"number",
+          "source":"Totals",
+          "existing":9802181,
+          "fy-0":0,
+          "fy-0++":0,
+          "other":0,
+          "total":9802181
+        }
+      ]
+    }
+  }
+}
+---

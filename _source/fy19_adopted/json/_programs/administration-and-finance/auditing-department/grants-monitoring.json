@@ -1,0 +1,173 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Administration & Finance",
+  "department":"Auditing Department",
+  "file_version":"",
+  "head_name":"Scott Finn",
+  "head_title":"Manager",
+  "name":"Grants Monitoring",
+  "parent":"Auditing Department",
+  "section_id":51,
+  "section_md5_id":"2838023A778DFAECDC212708F721B788",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~central-payroll.json",
+  "source_time":"20180823094105",
+  "source_year":"19",
+  "appropriation_code":"Organization 131400",
+  "description":[
+    "The primary responsibility of the Grants Monitoring Program is to establish and monitor Special Revenue for all City departments and to provide technical assistance in the process. The program also oversees and coordinates the City's Annual Single Audit for Federal Financial Assistance Programs and also produces the City's Cost Allocation Plan."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":270298,
+      "fy-1":279586,
+      "fy-0":163830,
+      "fy+1":138377
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":4350,
+      "fy-1":5475,
+      "fy-0":4119,
+      "fy+1":8218
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":274648,
+      "fy-1":285061,
+      "fy-0":167949,
+      "fy+1":146595
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":270298,
+        "fy-1":279586,
+        "fy-0":163830,
+        "fy+1":138377,
+        "diff":-25453
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":2483,
+        "fy-1":4363,
+        "fy-0":2706,
+        "fy+1":6093,
+        "diff":3387
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":934,
+        "fy-1":592,
+        "fy-0":1113,
+        "fy+1":1210,
+        "diff":97
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":933,
+        "fy-1":520,
+        "fy-0":300,
+        "fy+1":915,
+        "diff":615
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":274648,
+        "fy-1":285061,
+        "fy-0":167949,
+        "fy+1":146595,
+        "diff":-21354
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Ensure Stability of Financial Reporting"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of Single Audit Completion",
+              "fy-2":"100%",
+              "fy-1":"100%",
+              "fy-0":"100%",
+              "fy+1":"100%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"% of Single Audit Work Completed",
+              "fy-2":"100%",
+              "fy-1":"100%",
+              "fy-0":"100%",
+              "fy+1":"100%"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

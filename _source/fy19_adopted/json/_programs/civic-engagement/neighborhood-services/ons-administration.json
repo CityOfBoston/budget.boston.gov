@@ -1,0 +1,135 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Civic Engagement",
+  "department":"Neighborhood Services",
+  "file_version":"",
+  "head_name":"Jerome Smith",
+  "head_title":"Manager",
+  "name":"ONS Administration",
+  "parent":"Neighborhood Services",
+  "section_id":149,
+  "section_md5_id":"F2217062E9A397A1DCA429E7D70BC6CA",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~.json",
+  "source_time":"20180823094048",
+  "source_year":"19",
+  "appropriation_code":"Organization 412100",
+  "description":[
+    "The Administration Program notifies local groups, community leaders, media and elected officials of pending regulatory decisions, available City services, programs and meetings on a timely basis.  Program staff also facilitate the training, development and coordination of departmental activities."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":425189,
+      "fy-1":404989,
+      "fy-0":539971,
+      "fy+1":564382
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":81646,
+      "fy-1":152048,
+      "fy-0":45727,
+      "fy+1":45427
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":506835,
+      "fy-1":557037,
+      "fy-0":585698,
+      "fy+1":609809
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":425189,
+        "fy-1":404989,
+        "fy-0":539971,
+        "fy+1":564382,
+        "diff":24411
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":43678,
+        "fy-1":140395,
+        "fy-0":38448,
+        "fy+1":38148,
+        "diff":-300
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":8936,
+        "fy-1":3365,
+        "fy-0":2500,
+        "fy+1":2500,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":8653,
+        "fy-1":7448,
+        "fy-0":4779,
+        "fy+1":4779,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":20379,
+        "fy-1":840,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":506835,
+        "fy-1":557037,
+        "fy-0":585698,
+        "fy+1":609809,
+        "diff":24111
+      }
+    ]
+  }
+}
+---

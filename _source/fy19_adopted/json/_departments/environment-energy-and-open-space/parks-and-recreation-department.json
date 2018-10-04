@@ -1,0 +1,350 @@
+---
+{
+  "debug":"JBD",
+  "publish_subordinates":true,
+  "file_version":"",
+  "section_id":4,
+  "section_md5_id":"A87FF679A2F3E71D9181A67B7542122C",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Adopted~Publish 19 Adopted~JSON Output~_source~fy19_adopted~json~_departments~Environment, Energy and Open Space~parks-and-recreation-department.json",
+  "source_time":"20180823094147",
+  "source_year":"19",
+  "name":"Parks & Recreation Department",
+  "parent":"Environment, Energy & Open Space",
+  "cabinet":"Environment, Energy & Open Space",
+  "department":"Parks & Recreation Department",
+  "head_name":"Christopher Cook",
+  "head_title":"Commissioner",
+  "appropriation_code":"Appropriation 300",
+  "mission":[
+    "The mission of the Parks and Recreation Department is to maintain clean, green, safe, accessible and well-programmed park land for the City's residents."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Parks & Recreation Administration",
+      "debug":"JCO",
+      "strategies":[
+        "Committment to contributing to the livability of our city and providing access to our open spaces. Consistent with Mayor Walsh's Parks First agenda: Access, Equity and Excellence"
+      ]
+    },
+    {
+      "program":"Parks Operations",
+      "debug":"JCO",
+      "strategies":[
+        "Department being a successful steward to the environment. Consistent with Mayor Walsh's Parks First agenda: Access, Equity and Excellence",
+        "Developing a consistent measure for the Department's goal of providing a conistent high level of quality across all open spaces . Consistent with Mayor Walsh's Parks First agenda: Access, Equity and Excellence",
+        "Parks goal of welcoming people of all abilities into our city's open spaces. Consistent with Mayor Walsh's Parks First agenda: Access, Equity and Excellence",
+        "To maintain clean, green, safe, attractive parks and playgrounds",
+        "To manage a street tree maintenance program"
+      ]
+    },
+    {
+      "program":"Parks Design & Construction",
+      "debug":"JCO",
+      "strategies":[
+        "Efficiently managing public resources. Consistent with Mayor Walsh's Parks First agenda: Access, Equity and Excellence"
+      ]
+    }
+  ],
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    "data":[
+      {
+        "name":"Parks & Recreation Administration",
+        "line_type":"data",
+        "fy-2":3342090,
+        "fy-1":3206679,
+        "fy-0":3211214,
+        "fy+1":3338387,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Parks Operations",
+        "line_type":"data",
+        "fy-2":11916104,
+        "fy-1":13230951,
+        "fy-0":13773374,
+        "fy+1":14327742,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Citywide Recreation",
+        "line_type":"data",
+        "fy-2":990261,
+        "fy-1":1347333,
+        "fy-0":1054308,
+        "fy+1":1076527,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Parks Design & Construction",
+        "line_type":"data",
+        "fy-2":5122325,
+        "fy-1":2171220,
+        "fy-0":2204946,
+        "fy+1":2249186,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Cemetery",
+        "line_type":"data",
+        "fy-2":2277347,
+        "fy-1":2328260,
+        "fy-0":2512345,
+        "fy+1":2556360,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":23648127,
+        "fy-1":22284443,
+        "fy-0":22756187,
+        "fy+1":23548202
+      }
+    ]
+  },
+  "external_funds_budget":{
+    "table_type":"External Funds",
+    "table_title":"External Funds Budget",
+    "table_header":{
+      "name":"Fund Name",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    "data":[
+      {
+        "name":"Fairview Cemetery Trust Fund",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Fund for Parks and Recreation",
+        "line_type":"data",
+        "fy-2":6320497,
+        "fy-1":6544186,
+        "fy-0":4371187,
+        "fy+1":4258068,
+        "publish_subordinates":true
+      },
+      {
+        "name":"George W. Parkman Trust Fund",
+        "line_type":"data",
+        "fy-2":978173,
+        "fy-1":1153154,
+        "fy-0":1200001,
+        "fy+1":1267893,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Mount Hope Cemetery Trust Fund",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Park Floodlighting Fees",
+        "line_type":"data",
+        "fy-2":279203,
+        "fy-1":193500,
+        "fy-0":200000,
+        "fy+1":220000,
+        "publish_subordinates":true
+      },
+      {
+        "name":"The Ryder Cup Trust Fund",
+        "line_type":"data",
+        "fy-2":14194,
+        "fy-1":17295,
+        "fy-0":27600,
+        "fy+1":29500,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":7592067,
+        "fy-1":7908135,
+        "fy-0":5798788,
+        "fy+1":5775461
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":11412105,
+      "fy-1":11899772,
+      "fy-0":12269253,
+      "fy+1":13043945
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":9958675,
+      "fy-1":8056411,
+      "fy-0":7974589,
+      "fy+1":7947897
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":21370780,
+      "fy-1":19956183,
+      "fy-0":20243842,
+      "fy+1":20991842
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Care of Public Parks and Playgrounds, CBC St. 7 &sect;&sect; 100-106.",
+    "Parks and Recreation Board: Powers and Duties, CBC Ord. &sect;&sect; 7-4.1-7-4.13.",
+    "Administration, Ch. 624m, s. 1-10, Acts of 1982.",
+    "Generally, 1953 Mass. Acts ch. 473 &sect; 1; CBC Ord. &sect;&sect; 11-10.1-11-10.2(q)."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":11412105,
+        "fy-1":11899772,
+        "fy-0":12269253,
+        "fy+1":13043945,
+        "diff":774692
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":6989920,
+        "fy-1":4747009,
+        "fy-0":4472295,
+        "fy+1":4429783,
+        "diff":-42512
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":742994,
+        "fy-1":857661,
+        "fy-0":837024,
+        "fy+1":903607,
+        "diff":66583
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":598913,
+        "fy-1":552179,
+        "fy-0":557949,
+        "fy+1":520572,
+        "diff":-37377
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":542092,
+        "fy-1":447730,
+        "fy-0":434316,
+        "fy+1":578998,
+        "diff":144682
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":1084756,
+        "fy-1":1451832,
+        "fy-0":1673005,
+        "fy+1":1514937,
+        "diff":-158068
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":21370780,
+        "fy-1":19956183,
+        "fy-0":20243842,
+        "fy+1":20991842,
+        "diff":748000
+      }
+    ]
+  },
+  "external_funds":[
+    {
+      "project":"Fund for Parks and Recreation",
+      "project_mission":[
+        "The Fund for Parks and Recreation in Boston was established in 1983 for the purpose of furthering the maintenance and preservation of parks now or in the future belonging to the City of Boston and to provide recreational programs to the residents of Boston."
+      ]
+    },
+    {
+      "project":"George W. Parkman Trust Fund",
+      "project_mission":[
+        "The Parkman Fund annually provides additional funding to maintain and improve parks, such as the Boston Common, Public Garden, Franklin Park, the Fens, etc. This includes tree work, repairs to roads, turf, and funding for maintenance employees working in designated parks."
+      ]
+    },
+    {
+      "project":"Park Floodlighting Fees",
+      "project_mission":[
+        "Floodlighting fees are charged to non-resident groups and resident non-youth group organizations (typically sports leagues) conducting permitted night-time activities which require the use of the floodlights located at City parks."
+      ]
+    },
+    {
+      "project":"Ryder Cup/Youth Endowment Fund",
+      "project_mission":[
+        "The Ryder Cup/Youth Endowment Fund was formed from the proceeds of tickets to the 1999 Ryder Cup matches. The tickets were donated by the Country Club of Brookline to the City of Boston. The income from the Fund is used to support youth golf programming and other youth recreation activities."
+      ]
+    }
+  ],
+  "fy_major_initiatives":[
+    "Construction will begin at Noyes Playground in East Boston, Reservation Road Park in Hyde Park, Garvey Playground in Dorchester, and McConnell Playground in Dorchester.",
+    "Construction will also begin at the Paul Revere Mall. This project will improve accessibility, repair the fountain, restore the plaques, planters, brick walls and paving, and will improve drainage.",
+    "The Franklin Park Pathways Improvement project which will improve park access and expand recreation for park users will be completed this year.",
+    "Funding for Phase 2 improvements at Harambee Park and Smith Playground are added in this year&rsquo;s capital plan.",
+    "Begin construction of the 45 acre Harambee Park with field renovations, pedestrian pathways and envirnonmental improvements.",
+    "The pathways around Jamaica Pond will be repaved this year.",
+    "Construction will be completed this fall at the new Martin Richard Park in South Boston.",
+    "Begin construction of major park renovation projects at Smith Playground in Allston.",
+    "Begin design for projects at Ryan Playground in Charlestown, Mary Hannon Playground in Roxbury, and Reservation Road Park in Hyde Park."
+  ]
+}
+---

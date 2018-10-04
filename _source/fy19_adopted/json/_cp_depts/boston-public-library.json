@@ -1,0 +1,358 @@
+---
+{
+  "cabinet":"Arts & Culture",
+  "debug":"JBDCP",
+  "department":"Boston Public Library",
+  "file_version":"",
+  "head_name":"David Leonard",
+  "head_title":"President",
+  "name":"Boston Public Library",
+  "parent":"Arts & Culture",
+  "section_id":3,
+  "section_md5_id":"ECCBC87E4B5CE2FE28308FD9F2A7BAF3",
+  "section_type":"capital_budget",
+  "section_type_short":"L",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Adopted~Publish 19 Adopted~JSON Output~_source~fy19_adopted~json~_cp_depts~boston-public-library.json",
+  "source_time":"20180823094044",
+  "source_year":"19",
+  "mission":[
+    "Boston Public Library provides educational and cultural enrichment free to all for the residents of Boston, Massachusetts and beyond, through its collections, services, programs, and spaces."
+  ],
+  "description_of_services":[
+    "The Boston Public Library system consists of the Central Library at Copley Square, including the Kirstein Business Library, branch libraries located throughout Boston&rsquo;s neighborhoods and one remote storage facility. Library staff assists users in locating and using resources, and provides public programming, exhibits, and outreach. Internet, wireless, and online technology resources connect people to informational resources aimed at enriching individuals, organizations, and the entire community."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Community Library Services",
+      "strategies":[
+        "To provide customer satisfaction through daily operations, program events, and special collection events.",
+        "To provide improved access to programs, services and collections.",
+        "To support improved youth literacy."
+      ]
+    },
+    {
+      "program":"Research Services",
+      "strategies":[
+        "To provide improved access to programs, services and collections."
+      ]
+    }
+  ],
+  "overview":[
+    "The City is committed to investing in reinvigorating its branch libraries, an important cultural attraction in neighborhoods across the city. Fiscal year 2019 capital investments will further enhance the Boston Public Library by continuing to preserve existing buildings and build new library spaces to provide better services for all."
+  ],
+  "fy_major_initiatives":[
+    "Construction of a new Adams Branch Library will begin.",
+    "A major renovation project at the Roslindale Branch Library will also begin. The project includes a new entrance and a major redesign of the interior space.",
+    "Construction for a comprehensive building renovation will continue at the Dudley Branch Library.",
+    "A programming study for a new Fields Corner Branch Library will be completed.",
+    "A renovation project at the Central Library in Copley Square, to enhance preservation of historic special collections of rare books and manuscripts, will begin construction."
+  ],
+  "capital_budget_expenditures":[
+    {
+      "table_type":"capital_budget_expenditures",
+      "table_title":"Capital Budget Expenditures",
+      "table_header":{
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "fy-2":"FY16 Actual",
+        "fy-1":"FY17 Actual",
+        "fy-0":"FY18 Estimated",
+        "fy+1":"FY19 Projected"
+      },
+      "data":{
+        "line_type":"total",
+        "line_title":"Total Department",
+        "line_data_type":"total",
+        "fy-2":37347302,
+        "fy-1":14891807,
+        "fy-0":15468352,
+        "fy+1":28216574
+      }
+    }
+  ],
+  "projects":[
+    {
+      "table_type":"capital_projects_by_category",
+      "table_title":"Capital Projects by Category",
+      "header":{
+        "debug":"JBDCPDP",
+        "line_type":"header",
+        "title":null,
+        "line_data_type":"string",
+        "category":"Category",
+        "name":"Project",
+        "location":"Location",
+        "status":"Status",
+        "fy-0":"FY19 Projected",
+        "project_title":"Total"
+      },
+      "projects_data":[
+        {
+          "Arts & Culture":[
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Arts & Culture",
+              "name":"Adams Street Branch Library",
+              "location":"Dorchester",
+              "section_id":"CLD24532",
+              "status":"Study Underway",
+              "operating_impact":"No",
+              "fy-0":4500000,
+              "project_total":18300000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Arts & Culture",
+              "name":"Central Library: Johnson Roof Replacement",
+              "location":"Back Bay",
+              "section_id":"CLD24144",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":350000,
+              "project_total":4830000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Arts & Culture",
+              "name":"Central Library: McKim Study",
+              "location":"Back Bay",
+              "section_id":"CLD24762",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":100000,
+              "project_total":400000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Arts & Culture",
+              "name":"Central Library: Piping Infrastructure",
+              "location":"Back Bay",
+              "section_id":"CLD23492",
+              "status":"To Be Scheduled",
+              "operating_impact":"No",
+              "fy-0":0,
+              "project_total":1950000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Arts & Culture",
+              "name":"Central Library: Rare Books and Manuscripts Department",
+              "location":"Back Bay",
+              "section_id":"CLD24681",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":5000000,
+              "project_total":15725000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Arts & Culture",
+              "name":"Chinatown Site Study",
+              "location":"Chinatown",
+              "section_id":"CLD24763",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":0,
+              "project_total":100000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Arts & Culture",
+              "name":"Dudley Branch Library Renovation",
+              "location":"Roxbury",
+              "section_id":"CLD23928",
+              "status":"In Construction",
+              "operating_impact":"No",
+              "fy-0":10867374,
+              "project_total":17200000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Arts & Culture",
+              "name":"Egleston Square Branch Library",
+              "location":"Roxbury",
+              "section_id":"CLD21628",
+              "status":"To Be Scheduled",
+              "operating_impact":"No",
+              "fy-0":100000,
+              "project_total":12100000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Arts & Culture",
+              "name":"Faneuil Branch Library",
+              "location":"Allston/Brighton",
+              "section_id":"CLD22668",
+              "status":"To Be Scheduled",
+              "operating_impact":"No",
+              "fy-0":530000,
+              "project_total":12625000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Arts & Culture",
+              "name":"Fields Corner Branch Library",
+              "location":"Dorchester",
+              "section_id":"CLD24520",
+              "status":"To Be Scheduled",
+              "operating_impact":"No",
+              "fy-0":75000,
+              "project_total":12100000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Arts & Culture",
+              "name":"Lower Mills Branch Library Improvements",
+              "location":"Dorchester",
+              "section_id":"CLD24594",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":47000,
+              "project_total":94000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Arts & Culture",
+              "name":"North End Branch Library",
+              "location":"North End",
+              "section_id":"CLD21306",
+              "status":"To Be Scheduled",
+              "operating_impact":"No",
+              "fy-0":0,
+              "project_total":1475000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Arts & Culture",
+              "name":"Parker Hill Library",
+              "location":"Mission Hill",
+              "section_id":"CLD23016",
+              "status":"In Construction",
+              "operating_impact":"No",
+              "fy-0":681700,
+              "project_total":2400000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Arts & Culture",
+              "name":"Permanent Collections Storage Study",
+              "location":"West Roxbury",
+              "section_id":"CLD24188",
+              "status":"Study Underway",
+              "operating_impact":"No",
+              "fy-0":0,
+              "project_total":525000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Arts & Culture",
+              "name":"Roslindale Branch Library Renovation",
+              "location":"Roslindale",
+              "section_id":"CLD24197",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":3000000,
+              "project_total":10200000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Arts & Culture",
+              "name":"South Boston Branch Library Improvements",
+              "location":"South Boston",
+              "section_id":"CLD24595",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":49500,
+              "project_total":99000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Arts & Culture",
+              "name":"South End Branch Library Improvements",
+              "location":"South End",
+              "section_id":"CLD24593",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":66000,
+              "project_total":132000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Arts & Culture",
+              "name":"South End Branch Library Study",
+              "location":"South End",
+              "section_id":"CLD24764",
+              "status":"New Project",
+              "operating_impact":"No",
+              "fy-0":0,
+              "project_total":500000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Arts & Culture",
+              "name":"Upham's Corner Library",
+              "location":"Dorchester",
+              "section_id":"CLD22594",
+              "status":"To Be Scheduled",
+              "operating_impact":"No",
+              "fy-0":1000000,
+              "project_total":17980000
+            },
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Arts & Culture",
+              "name":"West Roxbury Branch Library Improvements",
+              "location":"West Roxbury",
+              "section_id":"CLD24721",
+              "status":"In Design",
+              "operating_impact":"No",
+              "fy-0":50000,
+              "project_total":100000
+            }
+          ]
+        },
+        {
+          "Technology":[
+            {
+              "line_type":"data",
+              "title":null,
+              "category":"Technology",
+              "name":"Web Site & Online Services Redevelopment",
+              "location":"Citywide",
+              "section_id":"CLD24207",
+              "status":"Implementation Underway",
+              "operating_impact":"No",
+              "fy-0":0,
+              "project_total":100000
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "fy-0":26416574,
+  "total":128935000
+}
+---

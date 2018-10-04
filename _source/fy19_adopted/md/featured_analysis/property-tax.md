@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: Property Tax
-  - published: 4/11/18
+  - published: 7/1/18
 - intro:
   - title: Property tax
     short_desc: >
@@ -29,7 +29,7 @@ components:
       In FY18 the net property tax levy (levy less a reserve for abatements) 
       totals $2.186 billion, providing 70.1% of recurring revenue. In FY19, 
       the net property tax levy is estimated to total $2.304 billion and 
-      accounts for 70.8% of budgeted recurring revenues.
+      accounts for 70% of budgeted recurring revenues.
     sidebar_menu: true    
 - text_block:
   - title: Effects of Proposition 2 &frac12;

@@ -1,0 +1,168 @@
+---
+{
+  "debug":"JBD",
+  "publish_subordinates":true,
+  "file_version":"",
+  "section_id":90,
+  "section_md5_id":"8613985EC49EB8F757AE6439E879BB2A",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Adopted~Publish 19 Adopted~JSON Output~_source~fy19_adopted~json~_departments~Streets~office-of-streets.json",
+  "source_time":"20180823094137",
+  "source_year":"19",
+  "name":"Office of Streets",
+  "parent":"Streets",
+  "cabinet":"Streets",
+  "department":"Office of Streets",
+  "head_name":"Chris Osgood",
+  "head_title":"Chief of Streets",
+  "appropriation_code":"Appropriation 310",
+  "mission":[
+    "The Office of Streets oversees all programs and operations that ensure well-lit, attractive and efficient infrastructure that moves vehicular and pedestrian traffic safely. The Office of the Chief also provides administrative and financial support for the entire cabinet."
+  ],
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    "data":[
+      {
+        "name":"Admin & Finance",
+        "line_type":"data",
+        "fy-2":1649756,
+        "fy-1":1633241,
+        "fy-0":2009931,
+        "fy+1":2047974,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":1649756,
+        "fy-1":1633241,
+        "fy-0":2009931,
+        "fy+1":2047974
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":1593588,
+      "fy-1":1604615,
+      "fy-0":1976435,
+      "fy+1":2021712
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":56168,
+      "fy-1":28626,
+      "fy-0":33496,
+      "fy+1":26262
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1649756,
+      "fy-1":1633241,
+      "fy-0":2009931,
+      "fy+1":2047974
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":1593588,
+        "fy-1":1604615,
+        "fy-0":1976435,
+        "fy+1":2021712,
+        "diff":45277
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":20795,
+        "fy-1":3306,
+        "fy-0":10538,
+        "fy+1":13238,
+        "diff":2700
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":7697,
+        "fy-1":3816,
+        "fy-0":9172,
+        "fy+1":8762,
+        "diff":-410
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":580,
+        "fy-1":0,
+        "fy-0":1610,
+        "fy+1":1610,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":27096,
+        "fy-1":21504,
+        "fy-0":12176,
+        "fy+1":2652,
+        "diff":-9524
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":1649756,
+        "fy-1":1633241,
+        "fy-0":2009931,
+        "fy+1":2047974,
+        "diff":38043
+      }
+    ]
+  }
+}
+---

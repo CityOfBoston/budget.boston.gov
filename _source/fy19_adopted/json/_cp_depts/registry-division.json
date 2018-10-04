@@ -1,0 +1,41 @@
+---
+{
+  "cabinet":"Administration & Finance",
+  "debug":"JBDCP",
+  "department":"Registry Division",
+  "file_version":"",
+  "head_name":"Patricia A. McMahon",
+  "head_title":"Registrar",
+  "name":"Registry Division",
+  "parent":"Administration & Finance",
+  "section_id":9,
+  "section_md5_id":"45C48CCE2E2D7FBDEA1AFC51C7C6AD26",
+  "section_type":"capital_budget",
+  "section_type_short":"L",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Adopted~Publish 19 Adopted~JSON Output~_source~fy19_adopted~json~_cp_depts~registry-division.json",
+  "source_time":"20180823094113",
+  "source_year":"19",
+  "mission":[
+    "The mission of the Registry Division is to promptly and accurately register, amend, maintain, and issue certified copies of birth, marriage and death records while following Massachusetts General Laws regulating these documents."
+  ],
+  "description_of_services":[
+    "The Registry Division maintains custody of all birth, marriage, and death records dating back to 1630. Each year the Division adds approximately 33,000 new entries and issues more than 100,000 copies of certified records."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Administration",
+      "strategies":[
+        "Expand crosstraining."
+      ]
+    },
+    {
+      "program":"Vital Statistics",
+      "strategies":[
+        "Online Death requests.",
+        "Register new records and issue certified copies."
+      ]
+    }
+  ]
+}
+---

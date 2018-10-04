@@ -1,0 +1,173 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Health & Human Services",
+  "department":"Elderly Commission",
+  "file_version":"",
+  "head_name":"Michael Killoran",
+  "head_title":"Manager",
+  "name":"Elderly Transportation",
+  "parent":"Elderly Commission",
+  "section_id":94,
+  "section_md5_id":"F4B9EC30AD9F68F89B29639786CB62EF",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~elderly-operations.json",
+  "source_time":"20180823094156",
+  "source_year":"19",
+  "appropriation_code":"Organization 387300",
+  "description":[
+    "Through the Senior Shuttle, the Transportation Program provides curb-to-curb transportation to Boston&rsquo;s elderly.  The shuttle operates scheduled trips within Boston with medical appointments receiving highest priority, followed by grocery shopping.  Social and recreational activities are provided based on availability.  The Transportation Program also oversees the Taxi Discount Coupon Program and develops and maintains collaborations with other senior transportation providers, elder service organizations and city agencies to provide access to other transportation services and to help educate our seniors on pedestrian safety and safe driver issues."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":1213600,
+      "fy-1":1221893,
+      "fy-0":1294515,
+      "fy+1":1324208
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":174059,
+      "fy-1":198273,
+      "fy-0":231255,
+      "fy+1":177186
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1387659,
+      "fy-1":1420166,
+      "fy-0":1525770,
+      "fy+1":1501394
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":1213600,
+        "fy-1":1221893,
+        "fy-0":1294515,
+        "fy+1":1324208,
+        "diff":29693
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":75690,
+        "fy-1":65352,
+        "fy-0":93655,
+        "fy+1":79655,
+        "diff":-14000
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":58771,
+        "fy-1":65180,
+        "fy-0":75895,
+        "fy+1":64178,
+        "diff":-11717
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":11245,
+        "fy-1":11036,
+        "fy-0":5000,
+        "fy+1":5000,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":28353,
+        "fy-1":56705,
+        "fy-0":56705,
+        "fy+1":28353,
+        "diff":-28352
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":1387659,
+        "fy-1":1420166,
+        "fy-0":1525770,
+        "fy+1":1501394,
+        "diff":-24376
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Provide accessible, reliable, discounted and free transportation options to Boston's older adults"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% Taxi Coupon Booklets Sold",
+              "fy-2":"106%",
+              "fy-1":"100%",
+              "fy-0":"100%",
+              "fy+1":"100%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Rides Provided to Older Adults",
+              "fy-2":"36,481",
+              "fy-1":"37,160",
+              "fy-0":"34,858",
+              "fy+1":"38,000"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

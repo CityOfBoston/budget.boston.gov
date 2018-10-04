@@ -17,7 +17,7 @@ components:
     url: "/featured-analysis/"
     local: true
   - current: The Economy
-  - published: 4/11/18
+  - published: 7/1/18
 - intro:
   - title: The Economy
     short_desc: >      
@@ -40,7 +40,7 @@ components:
   - title: Inflation Estimates
     body: >
       <p>Inflation has been below the Federal Reserve’s target of 2%. Despite the improvements in the labor market and the expectation that inflation would rise to its target of 2%, the Federal Reserve forecasts that economic conditions will evolve in a manner that will warrant only gradual increases to the federal funds rate.</p>
-      <p>In December 2015, for the first time since 2008, the Federal Reserve increased the Federal Funds target rate by 0.25%, to a target range of 0.25% to 0.50%. Most recently, the Federal Reserve increased the Federal Funds target rate in March 2018 by 0.25%, to a target range of 1.50% to 1.75%. The Fed’s benchmark rate, after these modest increases, is still quite low by historical standards.</p>
+      <p>In December 2015, for the first time since 2008, the Federal Reserve increased the Federal Funds target rate by 0.25%, to a target range of 0.25% to 0.50%. Most recently, the Federal Reserve increased the Federal Funds target rate in June 2018 by 0.25%, to a target range of 1.75% to 2%. The Fed’s benchmark rate, after these modest increases, is still quite low by historical standards.</p>
     right_image: /img/federal-funds-rate-changes.png
 - text_block:
   - title: Wage Growth 

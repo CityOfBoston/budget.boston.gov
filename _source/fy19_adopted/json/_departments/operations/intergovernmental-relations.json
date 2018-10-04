@@ -1,0 +1,177 @@
+---
+{
+  "debug":"JBD",
+  "publish_subordinates":true,
+  "file_version":"",
+  "section_id":13,
+  "section_md5_id":"C51CE410C124A10E0DB5E4B97FC2AF39",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Adopted~Publish 19 Adopted~JSON Output~_source~fy19_adopted~json~_departments~Operations~intergovernmental-relations.json",
+  "source_time":"20180823094050",
+  "source_year":"19",
+  "name":"Intergovernmental Relations",
+  "parent":"Operations",
+  "cabinet":"Operations",
+  "department":"Intergovernmental Relations",
+  "head_name":"Timothy P. Sullivan",
+  "head_title":"Director",
+  "appropriation_code":"Appropriation 150",
+  "mission":[
+    "The mission of the Intergovernmental Relations Department is to coordinate the City's relations with the federal, state and other local governments, seeking to foster constructive links between the City and these entities and improved communication among city departments. The department keeps the Mayor informed on intergovernmental issues and assists him in representing the City's interests in these matters."
+  ],
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    "data":[
+      {
+        "name":"IGR",
+        "line_type":"data",
+        "fy-2":1176720,
+        "fy-1":1037446,
+        "fy-0":1091441,
+        "fy+1":1203451,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Grants Administration",
+        "line_type":"data",
+        "fy-2":98344,
+        "fy-1":98801,
+        "fy-0":104719,
+        "fy+1":106950,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":1275064,
+        "fy-1":1136247,
+        "fy-0":1196160,
+        "fy+1":1310401
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":879555,
+      "fy-1":773540,
+      "fy-0":834494,
+      "fy+1":927270
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":395509,
+      "fy-1":362707,
+      "fy-0":361666,
+      "fy+1":383131
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1275064,
+      "fy-1":1136247,
+      "fy-0":1196160,
+      "fy+1":1310401
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":879555,
+        "fy-1":773540,
+        "fy-0":834494,
+        "fy+1":927270,
+        "diff":92776
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":206143,
+        "fy-1":167620,
+        "fy-0":168523,
+        "fy+1":189251,
+        "diff":20728
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":2962,
+        "fy-1":9794,
+        "fy-0":6200,
+        "fy+1":6200,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":185115,
+        "fy-1":185293,
+        "fy-0":186943,
+        "fy+1":187680,
+        "diff":737
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":1289,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":1275064,
+        "fy-1":1136247,
+        "fy-0":1196160,
+        "fy+1":1310401,
+        "diff":114241
+      }
+    ]
+  }
+}
+---

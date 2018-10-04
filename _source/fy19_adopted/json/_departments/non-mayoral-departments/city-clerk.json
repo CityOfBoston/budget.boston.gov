@@ -1,0 +1,255 @@
+---
+{
+  "debug":"JBD",
+  "publish_subordinates":true,
+  "file_version":"",
+  "section_id":50,
+  "section_md5_id":"C0C7C76D30BD3DCAEFC96F40275BDC0A",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Adopted~Publish 19 Adopted~JSON Output~_source~fy19_adopted~json~_departments~Non-Mayoral Departments~city-clerk.json",
+  "source_time":"20180823094205",
+  "source_year":"19",
+  "name":"City Clerk",
+  "parent":"Non-Mayoral Departments",
+  "cabinet":"Non-Mayoral Departments",
+  "department":"City Clerk",
+  "head_name":"Maureen Feeney",
+  "head_title":"City Clerk",
+  "appropriation_code":"Appropriation 161",
+  "mission":[
+    "The mission of the City Clerk's office is to accept, file, record, and maintain all municipal records. The City Clerk publishes the agenda for all City Council meetings, records all Council and related Mayoral actions, and edits and compiles the minutes of Council meetings. The Department also maintains the City Council document system database and publishes all ordinances and amended codes on a yearly basis. The City Clerk is also responsible for overseeing the work of the Archives Commission."
+  ],
+  "selected_performance_strategies":[
+    {
+      "program":"Legislative Support",
+      "debug":"JCO",
+      "strategies":[
+        "City Council meeting are created,updated, and published on the City of Boston website",
+        "To distribute copies of the Municipal Code and Annual Supplements",
+        "To Update the Ordinance section of the Municipal Code and distribute supplements"
+      ]
+    },
+    {
+      "program":"Document Filing",
+      "debug":"JCO",
+      "strategies":[
+        "Scanning and indexing documents",
+        "Time used for processing documents"
+      ]
+    },
+    {
+      "program":"Document Filing",
+      "debug":"JCO",
+      "strategies":[
+        "To receive and record statuory filings as required by law"
+      ]
+    },
+    {
+      "program":"Archives",
+      "debug":"JCO",
+      "strategies":[
+        "To provide archives record center to City departments and the public; provide records disposition services to departments"
+      ]
+    }
+  ],
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    "data":[
+      {
+        "name":"Legislative Support",
+        "line_type":"data",
+        "fy-2":372578,
+        "fy-1":347912,
+        "fy-0":285285,
+        "fy+1":297755,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Document Filing",
+        "line_type":"data",
+        "fy-2":416672,
+        "fy-1":429171,
+        "fy-0":517898,
+        "fy+1":523907,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Archives",
+        "line_type":"data",
+        "fy-2":357792,
+        "fy-1":383988,
+        "fy-0":443919,
+        "fy+1":480692,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":1147042,
+        "fy-1":1161071,
+        "fy-0":1247102,
+        "fy+1":1302354
+      }
+    ]
+  },
+  "external_funds_budget":{
+    "table_type":"External Funds",
+    "table_title":"External Funds Budget",
+    "table_header":{
+      "name":"Fund Name",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    "data":[
+      {
+        "name":"National Historical Publications & Records Commission (NHPRC)",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":1077234,
+      "fy-1":1063989,
+      "fy-0":1142599,
+      "fy+1":1189596
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":69808,
+      "fy-1":97082,
+      "fy-0":104503,
+      "fy+1":112758
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":1147042,
+      "fy-1":1161071,
+      "fy-0":1247102,
+      "fy+1":1302354
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Election of the City Clerk, CBC St. 2 &sect;&sect; 11, 13, 550, 551; CBC St. 6 &sect; 101; CBC Ord. &sect;&sect; 2-10.1-2-10.4; M.G.L.A. c. 41, &sect;&sect; 12-19.",
+    "Duties of the City Clerk, M.G.L.A. c. 41, &sect;&sect; 12-19; 1988 Mass. Acts ch. 68; M.G.L.A. c.55, &sect; 26; CBC Ord. &sect;&sect; 2-10.1-2-10.4; CBC Ord. &sect; 2-12.5; CBC Ord. &sect; 5-5.6; CBC Ord. &sect; 5-5.10; CBC Ord. &sect;&sect; 12-9A.1-12-9A.9; CBC Ord. &sect;18-1.",
+    "City Archives and Records Commission, 1988 Mass. Acts ch. 68."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":1077234,
+        "fy-1":1063989,
+        "fy-0":1142599,
+        "fy+1":1189596,
+        "diff":46997
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":45931,
+        "fy-1":60813,
+        "fy-0":70623,
+        "fy+1":87178,
+        "diff":16555
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":13371,
+        "fy-1":14985,
+        "fy-0":16200,
+        "fy+1":17450,
+        "diff":1250
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":4841,
+        "fy-1":5682,
+        "fy-0":17680,
+        "fy+1":8130,
+        "diff":-9550
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":5665,
+        "fy-1":15602,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":1147042,
+        "fy-1":1161071,
+        "fy-0":1247102,
+        "fy+1":1302354,
+        "diff":55252
+      }
+    ]
+  }
+}
+---

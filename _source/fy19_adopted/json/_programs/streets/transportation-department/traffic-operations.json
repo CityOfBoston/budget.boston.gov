@@ -1,0 +1,241 @@
+---
+{
+  "publish_subordinates":true,
+  "cabinet":"Streets",
+  "department":"Transportation Department",
+  "file_version":"",
+  "head_name":"Bradley Gerratt",
+  "head_title":"Manager",
+  "name":"Traffic Operations",
+  "parent":"Transportation Department",
+  "section_id":29,
+  "section_md5_id":"6EA9AB1BAA0EFB9E19094440C317E21B",
+  "section_type":"program",
+  "section_type_short":"P",
+  "source_version":"Adopted",
+  "source_path":"JSON Output~_source~fy19_adopted~json~_chapters~featured_analysis~traffic-enforcement.json",
+  "source_time":"20180823094144",
+  "source_year":"19",
+  "appropriation_code":"Organization 251500",
+  "description":[
+    "The Operations Program promotes public safety through the maintenance of and regulatory signage and traffic signals on City roadways, and coordination of special events effecting traffic and parking in the City.  Operations also supports economic development in the City by encouraging efficient use of short-term on-street parking through the maintenance of parking meters."
+  ],
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":3784756,
+      "fy-1":3772880,
+      "fy-0":3773843,
+      "fy+1":4560184
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":2446986,
+      "fy-1":2593259,
+      "fy-0":3355312,
+      "fy+1":3488881
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":6231742,
+      "fy-1":6366139,
+      "fy-0":7129155,
+      "fy+1":8049065
+    }
+  ],
+  "program_history_by_account":{
+    "table_title":"Program History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":3784756,
+        "fy-1":3772880,
+        "fy-0":3773843,
+        "fy+1":4560184,
+        "diff":786341
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":1416880,
+        "fy-1":1562218,
+        "fy-0":2160379,
+        "fy+1":2099630,
+        "diff":-60749
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":826958,
+        "fy-1":857928,
+        "fy-0":905494,
+        "fy+1":1056280,
+        "diff":150786
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":1283,
+        "fy-1":1718,
+        "fy-0":21755,
+        "fy+1":23705,
+        "diff":1950
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":201865,
+        "fy-1":171395,
+        "fy-0":267684,
+        "fy+1":309266,
+        "diff":41582
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":6231742,
+        "fy-1":6366139,
+        "fy-0":7129155,
+        "fy+1":8049065,
+        "diff":919910
+      }
+    ]
+  },
+  "performance_strategies":[
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "Enhance Boston's walkability and neighborhood interconnectedness"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of crosswalks in good repair",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"48%",
+              "fy+1":"65%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"% of lane lines in good repair",
+              "fy-2":"",
+              "fy-1":"",
+              "fy-0":"48%",
+              "fy+1":"65%"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name":"Performance",
+      "strategy":[
+        "To efficiently maintain traffic signs and parking meters throughout the city"
+      ],
+      "performance_measures":[
+        {
+          "table_header":{
+            "Performance Goals":"Performance Measures",
+            "line_type":"header",
+            "fy-2":"FY16 Actual",
+            "fy-1":"FY17 Actual",
+            "fy-0":"FY18 Target",
+            "fy+1":"FY19 Target"
+          },
+          "data":[
+            {
+              "line_type":"data",
+              "line_data":"% of missing sign requests completed on time",
+              "fy-2":"81%",
+              "fy-1":"79%",
+              "fy-0":"79%",
+              "fy+1":"85%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"% of parking meter repair requests completed on time",
+              "fy-2":"36%",
+              "fy-1":"68%",
+              "fy-0":"48%",
+              "fy+1":"85%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"% of sign repair requests completed on time",
+              "fy-2":"98%",
+              "fy-1":"97%",
+              "fy-0":"81%",
+              "fy+1":"95%"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Average time to complete a missing sign request (days)",
+              "fy-2":"9",
+              "fy-1":"11",
+              "fy-0":"10",
+              "fy+1":"10"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Average time to complete a parking meter repair request (days)",
+              "fy-2":"28",
+              "fy-1":"8",
+              "fy-0":"7",
+              "fy+1":"5"
+            },
+            {
+              "line_type":"data",
+              "line_data":"Average time to complete a sign repair request (days)",
+              "fy-2":"10",
+              "fy-1":"11",
+              "fy-0":"8",
+              "fy+1":"5"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+---

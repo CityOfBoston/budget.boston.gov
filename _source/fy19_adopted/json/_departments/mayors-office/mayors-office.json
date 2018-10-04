@@ -1,0 +1,385 @@
+---
+{
+  "debug":"JBD",
+  "publish_subordinates":true,
+  "file_version":"",
+  "section_id":11,
+  "section_md5_id":"6512BD43D9CAA6E02C990B0A82652DCA",
+  "section_type":"department",
+  "section_type_short":"D",
+  "source_version":"Adopted",
+  "source_path":"P~19Budget~19 Adopted~Publish 19 Adopted~JSON Output~_source~fy19_adopted~json~_departments~Mayor's Office~mayors-office.json",
+  "source_time":"20180823094055",
+  "source_year":"19",
+  "name":"Mayor's Office",
+  "parent":"Mayor's Office",
+  "cabinet":"Mayor's Office",
+  "department":"Mayor's Office",
+  "head_name":"David Sweeney",
+  "head_title":"Chief of Staff",
+  "appropriation_code":"Appropriation 111",
+  "mission":[
+    "The mission of the Office of the Mayor is to provide executive leadership, as well as setting priorities and goals for the City and its neighborhoods."
+  ],
+  "operating_budget":{
+    "table_type":"Operating Budget",
+    "table_title":"Operating Budget",
+    "table_header":{
+      "name":"Program Name",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    "data":[
+      {
+        "name":"Mayor's Administration",
+        "line_type":"data",
+        "fy-2":1056163,
+        "fy-1":1252191,
+        "fy-0":1251580,
+        "fy+1":1469428,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Mayor's Executive",
+        "line_type":"data",
+        "fy-2":333987,
+        "fy-1":335482,
+        "fy-0":357465,
+        "fy+1":360329,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Mayor's Policy & Planning",
+        "line_type":"data",
+        "fy-2":959204,
+        "fy-1":1227631,
+        "fy-0":1559055,
+        "fy+1":1524523,
+        "publish_subordinates":true
+      },
+      {
+        "name":"New Urban Mechanics",
+        "line_type":"data",
+        "fy-2":280703,
+        "fy-1":297862,
+        "fy-0":424536,
+        "fy+1":474409,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Mayor's Communications",
+        "line_type":"data",
+        "fy-2":603653,
+        "fy-1":657042,
+        "fy-0":867304,
+        "fy+1":770317,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":3233710,
+        "fy-1":3770208,
+        "fy-0":4459940,
+        "fy+1":4599006
+      }
+    ]
+  },
+  "external_funds_budget":{
+    "table_type":"External Funds",
+    "table_title":"External Funds Budget",
+    "table_header":{
+      "name":"Fund Name",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    "data":[
+      {
+        "name":"BETA Blocks Pilot",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":200000,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Chief Resilience Officer Grant",
+        "line_type":"data",
+        "fy-2":105685,
+        "fy-1":125335,
+        "fy-0":26740,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Economic Mobility Lab",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":70192,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Harvard Business School Service",
+        "line_type":"data",
+        "fy-2":83077,
+        "fy-1":76154,
+        "fy-0":90247,
+        "fy+1":93893,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Innovation Delivery Team",
+        "line_type":"data",
+        "fy-2":411310,
+        "fy-1":449973,
+        "fy-0":709621,
+        "fy+1":169582,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Innovations in American Government",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Integrated Energy Mgmt Plan",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Living Cities Grant",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Policy Research Grant",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":31346,
+        "fy-0":25137,
+        "fy+1":25137,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Public Service Fellowship",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":25000,
+        "fy-0":25137,
+        "fy+1":26081,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Strategic Partnerships",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":223516,
+        "fy+1":220022,
+        "publish_subordinates":true
+      },
+      {
+        "name":"Total",
+        "line_type":"total",
+        "fy-2":600072,
+        "fy-1":707808,
+        "fy-0":1100398,
+        "fy+1":804907
+      }
+    ]
+  },
+  "selected_service_indicators":[
+    {
+      "line_title":"Operating Budget",
+      "line_type":"title",
+      "fy-2":"FY16 Actual",
+      "fy-1":"FY17 Actual",
+      "fy-0":"FY18 Budget",
+      "fy+1":"FY19 Budget"
+    },
+    {
+      "line_title":"Personnel Services",
+      "line_type":"data",
+      "fy-2":3039883,
+      "fy-1":3548831,
+      "fy-0":3997661,
+      "fy+1":4185727
+    },
+    {
+      "line_title":"Non Personnel",
+      "line_type":"data",
+      "fy-2":193827,
+      "fy-1":221377,
+      "fy-0":462279,
+      "fy+1":413279
+    },
+    {
+      "line_title":"Total",
+      "line_type":"total",
+      "fy-2":3233710,
+      "fy-1":3770208,
+      "fy-0":4459940,
+      "fy+1":4599006
+    }
+  ],
+  "organizational_chart_graphic_url":"INSERT ORG CHART HERE",
+  "authorizing_statutes":[
+    "Chief Executive Officer, CBC St. 2 &sect; 1; CBC St. 5 &sect; 100.",
+    "Election and Duration of Term, CBC St. 2 &sect; 3.",
+    "Administrative Powers and Duties, CBC St. 2 &sect; 7; CBC St. 5 &sect;&sect; 101-102; CBC Ord. 2 generally.",
+    "Legislative Powers and Duties, CBC St. 2 &sect;&sect; 12, 15-16, 750.",
+    "Fiscal Powers and Duties, CBC St. 6 &sect;&sect; 251, 253; Tregor, 1982 Mass. Acts ch. 190, &sect;15; 1986 Mass. Acts ch. 701, &sect;2."
+  ],
+  "department_history_by_account":{
+    "table_title":"Department History by Account",
+    "table_header":{
+      "line_type":"title",
+      "category":"Category",
+      "fy-2":"FY16 Expenditure",
+      "fy-1":"FY17 Expenditure",
+      "fy-0":"FY18 Appropriation",
+      "fy+1":"FY19 Adopted",
+      "diff":"Inc/Dec 18 vs 19"
+    },
+    "data":[
+      {
+        "line_title":"Personnel Services",
+        "line_type":"data",
+        "fy-2":3039883,
+        "fy-1":3548831,
+        "fy-0":3997661,
+        "fy+1":4185727,
+        "diff":188066
+      },
+      {
+        "line_title":"Contractual Services",
+        "line_type":"data",
+        "fy-2":101322,
+        "fy-1":142057,
+        "fy-0":340978,
+        "fy+1":291978,
+        "diff":-49000
+      },
+      {
+        "line_title":"Supplies & Materials",
+        "line_type":"data",
+        "fy-2":36064,
+        "fy-1":40497,
+        "fy-0":53233,
+        "fy+1":53233,
+        "diff":0
+      },
+      {
+        "line_title":"Current Chgs & Oblig",
+        "line_type":"data",
+        "fy-2":18640,
+        "fy-1":21847,
+        "fy-0":43068,
+        "fy+1":43068,
+        "diff":0
+      },
+      {
+        "line_title":"Equipment",
+        "line_type":"data",
+        "fy-2":37801,
+        "fy-1":16976,
+        "fy-0":25000,
+        "fy+1":25000,
+        "diff":0
+      },
+      {
+        "line_title":"Other",
+        "line_type":"data",
+        "fy-2":0,
+        "fy-1":0,
+        "fy-0":0,
+        "fy+1":0,
+        "diff":0
+      },
+      {
+        "line_title":"Total",
+        "line_type":"total",
+        "fy-2":3233710,
+        "fy-1":3770208,
+        "fy-0":4459940,
+        "fy+1":4599006,
+        "diff":139066
+      }
+    ]
+  },
+  "external_funds":[
+    {
+      "project":"Beta Blocks Grant",
+      "project_mission":[
+        "The \"Beta Blocks\" grant from the John S. and James L. Knight Foundation seeks to explore ways of making it easier for individuals and organizations to conduct experiments in city streets that provide clear civic value to Boston residents. These can range from sensor technologies to street furniture to temporary events or installations. With this grant, the Mayor's Office of New Urban Mechanics will hold a public process to discuss privacy and security concerns and how the City can support more meaningful relationships between communities throughout Boston and the many technologists, startups, and research labs that also call Boston home. The grant to the City of Boston totals $200,000 over two years."
+      ]
+    },
+    {
+      "project":"Chief Resilience Officer Grant",
+      "project_mission":[
+        "A two year grant administered by the Rockefeller Philanthropy Advisors, Inc, on behalf of the 100 Resilient Cities Initiative. The purpose of this grant is to fund a Chief Resilience Officer for the City of Boston and assist the City in building its capacity to maintain and recover critical functions despite shocks and stresses so that the cities people, communities and systems can bounce back more quickly and emerge stronger from these shocks and stresses."
+      ]
+    },
+    {
+      "project":"Economic Mobility Lab",
+      "project_mission":[
+        "The City of Boston, in partnership with 100 Resilient Cities and the Rockefeller Foundation, has launched an Economic Mobility Lab, starting with a year of planning and research to lay a foundation. The Lab will work across City departments and agencies to advance economic mobility for Bostonians by analyzing existing programs and policies, highlighting and expanding what works, and creating innovative, scalable solutions to promote economic security for everyone. The structure of the Economic Mobility Lab is modeled on successful innovation labs in the Mayor&rsquo;s Office of New Urban Mechanics (MONUM), the City&rsquo;s civic innovation team."
+      ]
+    },
+    {
+      "project":"HBS Service Leadership Fellows Program",
+      "project_mission":[
+        "The mission of the Harvard Business School Service Leadership Fellows Program is to both enrich the learning experience of the fellow and to provide valuable intellectual resources that will assist the City with strategic public policy analysis. The Harvard Business School has provided annual financial and personnel resources to support this program."
+      ]
+    },
+    {
+      "project":"Innovation Delivery Team",
+      "project_mission":[
+        "The Innovation Delivery Team grant provided by the Bloomberg Philanthropies seeks to provide cities with a method to address any barriers, implement solutions and deliver change more effectively to citizens. Innovation teams or i-teams seek to reduce the risks associated with innovation, and provide mayors and city leaders with assurance in their ability to develop and implement effective solutions to their highest-priority problems. The grant to the City of Boston totals $1,350,000 over three years."
+      ]
+    },
+    {
+      "project":"Policy Research Grant",
+      "project_mission":[
+        "The Policy Research Grant is provided by UMASS Boston to support 50% of fellowship in the Mayor's Office focused on public policy research."
+      ]
+    },
+    {
+      "project":"Public Service Fellowship",
+      "project_mission":[
+        "The Public Service Fellowship Grant is provided by Harvard University to support 50% of a fellowship in the Mayor's Office to create paths for meaningful public service in Boston."
+      ]
+    },
+    {
+      "project":"Strategic Partnerships",
+      "project_mission":[
+        "The Strategic Partnerships is supported by earned indirect grant resources to support a unit whose mission is to catalyze and facilitate partnerships between the City and philanthropy, nonprofits, and other partners. This office provides leadership and strategy in cultivating and coordinating the pursuit of philanthropic funding, and other innovative partnership strategies that align with the Mayor&rsquo;s priorities."
+      ]
+    }
+  ],
+  "fy_major_initiatives":[
+    "The Innovation Fund will work to address transportation and environmental challenges; make government more accessible and streets more dynamic; and support projects that improve the online experience."
+  ]
+}
+---
